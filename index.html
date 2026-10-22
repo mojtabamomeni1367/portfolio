@@ -648,7 +648,7 @@ const t0=performance.now();(function f(t){const p=Math.min((t-t0)/1200,1);el.tex
 document.querySelectorAll('[data-count]').forEach(e=>cu.observe(e));
 document.querySelectorAll('[data-note]').forEach(a=>a.onclick=e=>{e.preventDefault();toast(a.dataset.note)});
 $('#yr').textContent=new Date().getFullYear();
-const FORM_ENDPOINT='';/* Formspree address, e.g. https://formspree.io/f/abcdwxyz */
+const FORM_ENDPOINT='https://formspree.io/f/xnpparyy';/* Formspree address, e.g. https://formspree.io/f/abcdwxyz */
 $('#form').onsubmit=async e=>{e.preventDefault();const f=e.target,m=$('#fmsg'),btn=f.querySelector('[type=submit]');
 if(!f.elements.name.value.trim()||!/^\S+@\S+\.\S+$/.test(f.elements.email.value)||!f.elements.message.value.trim()){m.textContent=T('Add your name, a valid email and a message.');return}
 if(f._gotcha&&f._gotcha.value)return;
