@@ -1,0 +1,39 @@
+name: Publish analyses
+
+on:
+  push:
+    paths:
+      - "content/analyses/**"
+      - "scripts/build_analyses.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-data
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install markdown
+      - name: Build analysis pages
+        run: python scripts/build_analyses.py
+      - name: Save changes
+        run: |
+          git config user.name "analysis-bot"
+          git config user.email "analysis-bot@users.noreply.github.com"
+          git add -A analysis data/analyses.json
+          if git diff --cached --quiet; then
+            echo "Nothing to publish."
+          else
+            git commit -m "Publish analyses"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi

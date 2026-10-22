@@ -1,0 +1,17 @@
+{
+  "_note": "News feeds read by scripts/fetch_news.py. Add or remove feeds here. lang = language of the feed's headlines (en, fa, ar).",
+  "feeds": [
+    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "lang": "en"},
+    {"name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml", "lang": "en"},
+    {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "en"},
+    {"name": "The Guardian", "url": "https://www.theguardian.com/world/middleeast/rss", "lang": "en"},
+    {"name": "France 24", "url": "https://www.france24.com/en/middle-east/rss", "lang": "en"},
+    {"name": "Middle East Eye", "url": "https://www.middleeasteye.net/rss", "lang": "en"},
+    {"name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml", "lang": "en"},
+    {"name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml", "lang": "en"},
+    {"name": "Dawn", "url": "https://www.dawn.com/feeds/home", "lang": "en"},
+    {"name": "The Hindu", "url": "https://www.thehindu.com/news/international/feeder/default.rss", "lang": "en"},
+    {"name": "BBC Persian", "url": "https://feeds.bbci.co.uk/persian/rss.xml", "lang": "fa"},
+    {"name": "BBC Arabic", "url": "https://feeds.bbci.co.uk/arabic/rss.xml", "lang": "ar"}
+  ]
+}
