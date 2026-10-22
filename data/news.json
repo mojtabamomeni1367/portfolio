@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T20:28:09Z",
- "count": 157,
+ "updated": "2026-10-22T21:42:58Z",
+ "count": 160,
  "items": [
   {
    "id": "555ec2b1718a",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T20:28:09Z",
+   "date": "2026-10-22T21:42:58Z",
    "countries": [
     "IRN",
     "ISR"
@@ -21,10 +21,61 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cke8r05d5y2jt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T20:28:09Z",
+   "date": "2026-10-22T21:42:58Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "7eeb05798eb6",
+   "title": "چرا خشونت در مدارس ترکیه رو به افزایش است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cxp8gmp3lnldo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-22T21:23:16Z",
+   "countries": [
+    "TUR"
+   ],
+   "top": true
+  },
+  {
+   "id": "a04027369e36",
+   "title": "Can Pakistan save the last two of its four captive African elephants?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss",
+   "date": "2026-10-22T21:19:47Z",
+   "countries": [
+    "PAK"
+   ],
+   "top": true
+  },
+  {
+   "id": "47953af04646",
+   "title": "Egypt calls for Yemen talks as parliament weighs military support to Saudi Arabia",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-calls-yemen-talks-parliament-weighs-military-support-saudi-arabia",
+   "date": "2026-10-22T21:14:12Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "top": true
+  },
+  {
+   "id": "6d949e9e7252",
+   "title": "Israeli forces kill man with disability in southern Syria, authorities say",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-man-disability-southern-syria-authorities-say",
+   "date": "2026-10-22T20:29:31Z",
+   "countries": [
+    "ISR",
+    "SYR"
    ],
    "top": true
   },
@@ -86,8 +137,7 @@
    "date": "2026-10-22T19:36:24Z",
    "countries": [
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "292d07f56101",
@@ -98,8 +148,7 @@
    "date": "2026-10-22T19:35:18Z",
    "countries": [
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "7ed48a360873",
@@ -109,7 +158,8 @@
    "url": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-22T19:30:33Z",
    "countries": [
-    "SAU"
+    "SAU",
+    "YEM"
    ],
    "top": true
   },
@@ -161,8 +211,7 @@
    "date": "2026-10-22T18:47:58Z",
    "countries": [
     "IRN"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "229488b55019",
@@ -173,8 +222,7 @@
    "date": "2026-10-22T18:18:42Z",
    "countries": [
     "LKA"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "c6528b89d871",
@@ -1787,17 +1835,6 @@
    "source": "UN News",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
    "date": "2026-10-13T12:00:00Z",
-   "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "f0ba6cd7635a",
-   "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-13T04:27:22Z",
    "countries": [
     "YEM"
    ]
