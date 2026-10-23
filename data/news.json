@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T11:25:30Z",
- "count": 197,
+ "updated": "2026-10-23T11:46:10Z",
+ "count": 199,
  "items": [
   {
    "id": "e9b62e1e7db9",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:25:29Z",
+   "date": "2026-10-23T11:46:09Z",
    "countries": [
     "ARE"
    ],
@@ -20,10 +20,58 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:25:29Z",
+   "date": "2026-10-23T11:46:09Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "d139ede9e737",
+   "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "date": "2026-10-23T11:35:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "top": true
+  },
+  {
+   "id": "7deaa9040642",
+   "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+   "date": "2026-10-23T11:34:59Z",
+   "countries": [
+    "SAU"
+   ],
+   "top": true
+  },
+  {
+   "id": "ca515d56bd3c",
+   "title": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/dpm-dar-meets-turkish-fm-ahead-of-r-4-bloc-european-diplomats-meetings",
+   "date": "2026-10-23T11:30:50Z",
+   "countries": [
+    "TUR"
+   ],
+   "top": true
+  },
+  {
+   "id": "5b4ffbd10ebb",
+   "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+   "date": "2026-10-23T11:27:35Z",
+   "countries": [
+    "PSE"
    ],
    "top": true
   },
@@ -48,6 +96,19 @@
    "date": "2026-10-23T11:22:57Z",
    "countries": [
     "PAK"
+   ],
+   "top": true
+  },
+  {
+   "id": "53a21c76371b",
+   "title": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
+   "date": "2026-10-23T10:57:35Z",
+   "countries": [
+    "IND",
+    "YEM"
    ],
    "top": true
   },
@@ -103,19 +164,6 @@
    "top": true
   },
   {
-   "id": "53a21c76371b",
-   "title": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
-   "date": "2026-10-23T10:10:01Z",
-   "countries": [
-    "IND",
-    "YEM"
-   ],
-   "top": true
-  },
-  {
    "id": "e8b82648c5eb",
    "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
    "lang": "en",
@@ -136,8 +184,7 @@
    "date": "2026-10-23T09:52:14Z",
    "countries": [
     "NPL"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "fb228bc65512",
@@ -148,8 +195,7 @@
    "date": "2026-10-23T09:32:33Z",
    "countries": [
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "99c43e18d706",
@@ -160,8 +206,7 @@
    "date": "2026-10-23T09:23:32Z",
    "countries": [
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "17adfec61734",
@@ -172,8 +217,7 @@
    "date": "2026-10-23T09:12:46Z",
    "countries": [
     "PSE"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "e635f4785570",
@@ -2135,17 +2179,6 @@
    ]
   },
   {
-   "id": "342aca54a829",
-   "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-   "date": "2026-10-16T12:00:00Z",
-   "countries": [
-    "PSE"
-   ]
-  },
-  {
    "id": "672b1f2a4302",
    "title": "Saudi Arabia postpones major sporting events amid Houthi attacks",
    "lang": "en",
@@ -2244,18 +2277,6 @@
    "source": "France 24",
    "url": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks",
    "date": "2026-10-14T03:39:11Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ]
-  },
-  {
-   "id": "7f6d59c9d0f9",
-   "title": "Oil facility near Yemen capital Sanaa hit by Saudi Arabia, Houthis say",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
-   "date": "2026-10-13T14:53:39Z",
    "countries": [
     "SAU",
     "YEM"
