@@ -52,6 +52,9 @@ PAGE = """<!DOCTYPE html>
 <meta property="og:title" content="{title_esc}">
 <meta property="og:description" content="{summary_esc}">
 <meta property="og:type" content="article">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Instrument+Sans:wght@400;500&family=Vazirmatn:wght@400;500;700&display=swap">
 <style>
 :root{{--navy:#08141F;--or:#E2683A;--or2:#F08A5D;--cream:#F5F0E7;--ink:#12212E;--mut:#5A6570;--line:#D9D0C0;--rust:#B5482A}}
