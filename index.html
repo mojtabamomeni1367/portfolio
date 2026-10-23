@@ -159,7 +159,7 @@ select option{color:#12212E}
     <p class="mt-3 opacity-80 max-w-xl">Hover a country on the map and click to read news and analysis about it.</p>
     <div class="mt-10 grid lg:grid-cols-12 gap-10 items-start">
       <aside class="lg:col-span-4 order-2 lg:order-1">
-        <div class="flex items-center gap-3 pb-3 border-b" style="border-color:rgba(255,255,255,.22)"><span class="w-2 h-2 rounded-full" style="background:var(--or)"></span><h3 class="disp text-2xl">Top Stories</h3></div>
+        <div class="flex items-center gap-3 pb-3 border-b" style="border-color:rgba(255,255,255,.22)"><span class="w-2 h-2 rounded-full" style="background:var(--or)"></span><h3 class="disp text-2xl">Top Stories</h3><a href="#/news" class="ms-auto inline-flex items-center gap-2 text-sm" style="color:var(--or2)">Read more<i data-i="arrow" class="fw"></i></a></div>
         <ul id="ts" class="sb pe-2" style="max-height:34rem"></ul>
       </aside>
       <div class="lg:col-span-8 order-1 lg:order-2 relative">
@@ -267,7 +267,7 @@ select option{color:#12212E}
       </ul>
     </div>
     <form id="form" class="md:col-span-7 grid sm:grid-cols-2 gap-4" novalidate>
-      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px">
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);clip-path:inset(50%);border:0;white-space:nowrap">
       <label class="text-sm">Name<input name="name" required class="mt-1"></label>
       <label class="text-sm">Outlet or organisation<input name="organisation" class="mt-1"></label>
       <label class="text-sm sm:col-span-2">Email<input type="email" name="email" required class="mt-1"></label>
@@ -428,7 +428,7 @@ const D={
 'Home':['خانه','الرئيسية'],
 'News':['اخبار','أخبار'],'News and analysis':['اخبار و تحلیل','الأخبار والتحليل'],
 'Select a country to see the latest news and analysis about it.':['برای دیدن تازه‌ترین اخبار و تحلیل‌ها، یک کشور را انتخاب کنید.','اختر دولة لعرض آخر الأخبار والتحليلات عنها.'],
-'Top Stories':['مهم‌ترین اخبار','أهم الأخبار'],'Translated':['ترجمه','مترجم'],'Headline translated by Gemini':['عنوان با Gemini ترجمه شده است','العنوان مترجم بواسطة Gemini'],'Sending…':['در حال ارسال…','جارٍ الإرسال…'],'The message could not be sent. Please email me directly.':['پیام ارسال نشد. لطفاً مستقیم ایمیل بزنید.','تعذّر إرسال الرسالة. يرجى مراسلتي مباشرة عبر البريد الإلكتروني.'],'No recent items for this country yet.':['هنوز مطلب تازه‌ای برای این کشور نیست.','لا توجد مواد حديثة عن هذه الدولة بعد.'],'News will appear here shortly.':['اخبار به‌زودی اینجا نمایش داده می‌شود.','ستظهر الأخبار هنا قريباً.'],'Loading the latest news…':['در حال بارگذاری تازه‌ترین اخبار…','جارٍ تحميل آخر الأخبار…'],'Read more':['ادامه مطلب','اقرأ المزيد'],'Palestine/Israel':['فلسطین/اسرائیل','فلسطين/إسرائيل'],
+'Top Stories':['مهم‌ترین اخبار','أهم الأخبار'],'All news':['همهٔ اخبار','كل الأخبار'],'Back to site':['بازگشت به سایت','العودة إلى الموقع'],'According to':['به نقل از','نقلاً عن'],'Source':['منبع','المصدر'],'Written from the source report.':['بر اساس گزارش منبع نوشته شده است.','كُتب استناداً إلى تقرير المصدر.'],'Translated by Gemini.':['ترجمه با Gemini.','الترجمة بواسطة Gemini.'],'This story is no longer available.':['این خبر دیگر در دسترس نیست.','هذا الخبر لم يعد متاحاً.'],'The most important stories of each day from the Middle East and South Asia.':['مهم‌ترین خبرهای هر روز از خاورمیانه و جنوب آسیا.','أهم أخبار كل يوم من الشرق الأوسط وجنوب آسيا.'],'Translated':['ترجمه','مترجم'],'Headline translated by Gemini':['عنوان با Gemini ترجمه شده است','العنوان مترجم بواسطة Gemini'],'Sending…':['در حال ارسال…','جارٍ الإرسال…'],'The message could not be sent. Please email me directly.':['پیام ارسال نشد. لطفاً مستقیم ایمیل بزنید.','تعذّر إرسال الرسالة. يرجى مراسلتي مباشرة عبر البريد الإلكتروني.'],'No recent items for this country yet.':['هنوز مطلب تازه‌ای برای این کشور نیست.','لا توجد مواد حديثة عن هذه الدولة بعد.'],'News will appear here shortly.':['اخبار به‌زودی اینجا نمایش داده می‌شود.','ستظهر الأخبار هنا قريباً.'],'Loading the latest news…':['در حال بارگذاری تازه‌ترین اخبار…','جارٍ تحميل آخر الأخبار…'],'Read more':['ادامه مطلب','اقرأ المزيد'],'Palestine/Israel':['فلسطین/اسرائیل','فلسطين/إسرائيل'],
 'Sep 2026':['سپتامبر ۲۰۲۶','سبتمبر 2026'],'Aug 2026':['اوت ۲۰۲۶','أغسطس 2026'],'Jul 2026':['ژوئیهٔ ۲۰۲۶','يوليو 2026'],'Jun 2026':['ژوئن ۲۰۲۶','يونيو 2026'],
 'Regional talks resume as mediators seek a lasting ceasefire':['مذاکرات منطقه‌ای از سر گرفته شد؛ میانجی‌ها به دنبال آتش‌بسی پایدارند','استئناف المحادثات الإقليمية بينما يسعى الوسطاء إلى وقف دائم لإطلاق النار'],
 'Refugee arrivals rise along the eastern border, agencies warn of funding gaps':['ورود پناهندگان در مرز شرقی افزایش یافت؛ نهادها از کمبود بودجه هشدار می‌دهند','ارتفاع أعداد اللاجئين عند الحدود الشرقية والوكالات تحذّر من فجوات التمويل'],
@@ -491,7 +491,7 @@ function setLang(l,save){LG=l;const h=document.documentElement;h.lang=l;h.dir=l=
  document.title=T('Mojtaba Momeni | Middle East Researcher and Media Commentator');
  document.querySelectorAll('#lang button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.l===l)));
  document.querySelectorAll('[data-count]').forEach(e=>{if(e.dataset.done)e.textContent=nf(+e.dataset.count)+(e.dataset.plus?'+':'')});
- if(curC)renderC(curC);if(typeof renderNews==='function')renderNews();tr();if(save)try{localStorage.setItem('lang',l)}catch(e){}}
+ if(curC)renderC(curC);if(typeof renderNews==='function')renderNews();if(typeof curN!=='undefined'&&curN)renderN();tr();if(save)try{localStorage.setItem('lang',l)}catch(e){}}
 
 /*ART*/
 const rng=s=>()=>((s=(s*16807)%2147483647)/2147483647);
@@ -612,7 +612,7 @@ function renderC(k){const t=CT.find(x=>x[0]===k);if(!t)return;const ps=PUB.filte
  const sec=(h,l)=>l.length?'<h3 class="disp text-3xl mt-14">'+h+'</h3><div class="mt-3 border-t" style="border-color:rgba(255,255,255,.12)">'+l.join('')+'</div>':'';
  $('#cvb').innerHTML='<div class="max-w-5xl mx-auto px-6 py-10"><button id="cvx" class="lab flex items-center gap-2 dm hover:text-white"><i data-i="arrow" class="bk"></i>Back to map</button><div class="mt-12"><h2 class="disp text-5xl md:text-7xl">'+t[1]+'</h2><span class="tag inline-block mt-4">'+t[5]+'</span></div><dl class="mt-10 grid grid-cols-3 border-y" style="border-color:rgba(255,255,255,.14)">'+[['Publications',nf(t[2])],['Media appearances',nf(t[3])],['Fieldwork',t[4]?'Yes':'—']].map(x=>'<div class="py-5"><dd class="disp text-4xl">'+x[1]+'</dd><dt class="text-sm dm">'+x[0]+'</dt></div>').join('')+'</dl>'+sec('Research on this country',ps.map(x=>card(x,1)))+sec('In the media',ms.map(x=>card(x,0)))+'<h3 class="disp text-3xl mt-14">'+T('News and analysis')+'</h3><div class="mt-3 border-t" style="border-color:rgba(255,255,255,.12)">'+newsFor(k)+'</div>'+(ps.length||ms.length?'':'<p class="mt-14 dm">Details for this country are being prepared.</p>')+'</div>';
  icons($('#cvb'));tr($('#cvb'));$('#cvx').onclick=closeC}
-function showC(k){curC=k;renderC(k);$('#cv').classList.remove('hidden');$('#cv').scrollTop=0;document.body.style.overflow='hidden';$('#cvx').focus()}
+function showC(k){if(typeof curN!=='undefined')curN=null;curC=k;renderC(k);$('#cv').classList.remove('hidden');$('#cv').scrollTop=0;document.body.style.overflow='hidden';$('#cvx').focus()}
 function hideC(){curC=null;$('#cv').classList.add('hidden');document.body.style.overflow=''}
 function openC(k){showC(k);try{location.hash='#/c/'+k}catch(e){}}
 function closeC(){hideC();try{location.hash='#research'}catch(e){}}
@@ -627,8 +627,8 @@ function hideTP(){curTP=null;$('#tp').classList.add('hidden');document.body.styl
 function openTP(slug){showTP(slug);try{location.hash='#/topic/'+slug}catch(e){}}
 function closeTP(){hideTP();try{location.hash='#top'}catch(e){}}
 document.querySelectorAll('.topicBtn').forEach(b=>{b.onclick=()=>openTP(b.getAttribute('data-tp'))});
-addEventListener('hashchange',()=>{const m=location.hash.match(/^#\/c\/(\w+)/);if(m){showC(m[1]);return}const mt=location.hash.match(/^#\/topic\/([\w-]+)/);if(mt){showTP(mt[1]);return}hideC();hideTP()});
-addEventListener('keydown',e=>{if(e.key==='Escape'){if(curC)closeC();else if(curTP)closeTP();else closeM()}});
+addEventListener('hashchange',()=>{if(routeN())return;const m=location.hash.match(/^#\/c\/(\w+)/);if(m){showC(m[1]);return}const mt=location.hash.match(/^#\/topic\/([\w-]+)/);if(mt){showTP(mt[1]);return}hideC();hideTP();hideN()});
+addEventListener('keydown',e=>{if(e.key==='Escape'){if(curN){location.hash=curN==='list'?'#news':'#/news'}else if(curC)closeC();else if(curTP)closeTP();else closeM()}});
 
 /* Tabs, publications, media */
 function tabs(el,items,cb){el.innerHTML=items.map((a,i)=>'<button role="tab" class="chip" aria-selected="'+(i===0)+'" data-k="'+a[0]+'">'+a[1]+'</button>').join('');
@@ -677,21 +677,55 @@ const anaFor=x=>(x.versions&&x.versions[LG])||x;
 const inLG=x=>x.type==='analysis'?!!(x.versions&&x.versions[LG]):(x.lang===LG||!!x['title_'+LG]);
 const vNews=()=>NEWS.filter(inLG),vAna=()=>ANA.filter(inLG);
 function nItem(x,big){
- const isA=x.type==='analysis',v=isA?anaFor(x):x,href=isA?v.url:x.url,ext=isA?'':' target="_blank" rel="noopener"';
+ const isA=x.type==='analysis',v=isA?anaFor(x):x,href=isA?v.url:'#/n/'+x.id,ext='';
  return '<div class="flex items-center gap-2 text-xs"><span class="tag">'+T(isA?'Analysis':'News')+'</span><span class="opacity-60"><span dir="auto">'+esc(isA?'Mojtaba Momeni':x.source)+'</span>, <span>'+fmtD(x.date)+'</span></span>'+(!isA&&LG!==x.lang&&x['title_'+LG]?'<span class="opacity-50" title="'+T('Headline translated by Gemini')+'">· '+T('Translated')+'</span>':'')+'</div>'
  +'<a href="'+esc(href)+'"'+ext+' dir="auto" class="disp '+(big?'text-2xl':'text-lg')+' leading-snug block mt-2 hover:underline">'+esc(ttl(v))+'</a>'}
 function renderNews(){
- const per={},top=vNews().filter(x=>(per[x.source]=(per[x.source]||0)+1)<=3).slice(0,12);
- const ts=[...vAna().slice(0,3),...top].sort((a,b)=>b.date.localeCompare(a.date)).slice(0,14);
+ const vn=vNews(),newest=vn.length?Date.parse(vn[0].date):0;
+ const ts=vn.filter(x=>newest-Date.parse(x.date)<36*3600e3).sort((a,b)=>(b.score||0)-(a.score||0)||b.date.localeCompare(a.date)).slice(0,7);
  $('#ts').innerHTML=ts.length?ts.map(x=>'<li class="py-4 border-b" style="border-color:rgba(255,255,255,.14)">'+nItem(x,0)+'</li>').join('')
   :'<li class="py-4 opacity-70">'+T(NREADY?'News will appear here shortly.':'Loading the latest news…')+'</li>'}
 function newsFor(code){
  const a=vAna().filter(x=>x.countries.includes(code)).slice(0,4),n=vNews().filter(x=>x.countries.includes(code)).slice(0,10),all=[...a,...n];
  if(!all.length)return '<p class="py-5 dm">'+T('No recent items for this country yet.')+'</p>';
- return all.map(x=>{const isA=x.type==='analysis',href=isA?anaFor(x).url:x.url;
-  return '<article class="py-5 border-t" style="border-color:rgba(255,255,255,.14)">'+nItem(x,1)+'<a href="'+esc(href)+'"'+(isA?'':' target="_blank" rel="noopener"')+' class="inline-flex items-center gap-2 mt-2 text-sm" style="color:var(--or2)">'+T('Read more')+'<i data-i="arrow" class="fw"></i></a></article>'}).join('')}
+ return all.map(x=>{const isA=x.type==='analysis',href=isA?anaFor(x).url:'#/n/'+x.id;
+  return '<article class="py-5 border-t" style="border-color:rgba(255,255,255,.14)">'+nItem(x,1)+'<a href="'+esc(href)+'" class="inline-flex items-center gap-2 mt-2 text-sm" style="color:var(--or2)">'+T('Read more')+'<i data-i="arrow" class="fw"></i></a></article>'}).join('')}
+
+/* All news page (#/news) and story page (#/n/<id>) */
+let curN=null;
+const dayKey=d=>new Date(d).toLocaleDateString('en-CA',{timeZone:'Europe/Bucharest'});
+const fmtDay=d=>{try{return new Date(d).toLocaleDateString(LG==='fa'?'fa-IR':LG==='ar'?'ar-u-nu-latn':'en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Bucharest'})}catch(e){return d}};
+const back=(href,label)=>'<a href="'+href+'" id="cvx" class="lab flex items-center gap-2 dm hover:text-white w-max"><i data-i="arrow" class="bk"></i>'+T(label)+'</a>';
+function renderN(){
+ let h;
+ if(curN==='list'){
+  const items=vNews(),groups=[];
+  items.forEach(x=>{const k=dayKey(x.date);let g=groups[groups.length-1];if(!g||g.k!==k){g={k,d:x.date,l:[]};groups.push(g)}g.l.push(x)});
+  h='<div class="max-w-4xl mx-auto px-6 py-10">'+back('#news','Back to site')+'<h2 class="disp text-5xl md:text-6xl mt-10">'+T('All news')+'</h2><p class="mt-3 dm">'+T('The most important stories of each day from the Middle East and South Asia.')+'</p>'
+   +(groups.length?groups.map(g=>'<h3 class="lab mt-14 pb-3 border-b" style="color:var(--or2);border-color:rgba(255,255,255,.2)">'+fmtDay(g.d)+'</h3>'+g.l.map(x=>'<article class="py-5 border-b" style="border-color:rgba(255,255,255,.1)">'+nItem(x,1)+'<p class="mt-2 opacity-75" dir="auto">'+esc(x['summary_'+LG]||'')+'</p></article>').join('')).join('')
+   :'<p class="mt-12 dm">'+T(NREADY?'News will appear here shortly.':'Loading the latest news…')+'</p>')+'</div>';
+ }else{
+  const x=NEWS.find(n=>n.id===curN);
+  if(!x||!inLG(x)){h='<div class="max-w-3xl mx-auto px-6 py-10">'+back('#/news','All news')+'<p class="mt-14 dm">'+T(NREADY?'This story is no longer available.':'Loading the latest news…')+'</p></div>'}
+  else{
+   const tr=LG!==x.lang,body=x['body_'+LG]||[],cs=(x.countries||[]).map(c=>{const t=CT.find(y=>y[0]===c);return t?'<button type="button" data-c="'+c+'" class="mini">'+T(t[1])+'</button>':''}).join('');
+   h='<article class="max-w-3xl mx-auto px-6 py-10">'+back('#/news','All news')
+    +'<div class="mt-12 flex flex-wrap items-center gap-2 text-sm"><span class="tag">'+T('News')+'</span><span class="opacity-75">'+T('According to')+' <strong dir="auto">'+esc(x.source)+'</strong></span><span class="opacity-50">·</span><span class="opacity-75">'+fmtD(x.date)+'</span></div>'
+    +'<h1 class="disp text-4xl md:text-5xl leading-tight mt-5" dir="auto">'+esc(x['title_'+LG]||x.title)+'</h1>'
+    +'<p class="text-xl md:text-2xl mt-7 leading-relaxed opacity-95" dir="auto">'+esc(x['summary_'+LG]||'')+'</p>'
+    +(body.length?'<div class="mt-8 space-y-5 text-lg leading-relaxed opacity-85">'+body.map(p=>'<p dir="auto">'+esc(p)+'</p>').join('')+'</div>':'')
+    +(cs?'<div class="mt-10 flex flex-wrap gap-2">'+cs+'</div>':'')
+    +'<p class="mt-10 pt-5 border-t text-sm dm" style="border-color:rgba(255,255,255,.14)">'+T('Source')+': '+esc(x.source)+'. '+T('Written from the source report.')+(tr?' '+T('Translated by Gemini.'):'')+'</p></article>';
+  }
+ }
+ $('#cvb').innerHTML=h;icons($('#cvb'));tr($('#cvb'));
+ $('#cvb').querySelectorAll('button[data-c]').forEach(b=>b.onclick=()=>openC(b.dataset.c));
+}
+function showN(v){curC=null;curN=v;renderN();$('#cv').classList.remove('hidden');$('#cv').scrollTop=0;document.body.style.overflow='hidden';const b=$('#cvx');if(b)b.focus()}
+function hideN(){if(curN===null)return;curN=null;if(!curC){$('#cv').classList.add('hidden');document.body.style.overflow=''}}
+function routeN(){const m=location.hash.match(/^#\/n\/(\w+)/);if(m){showN(m[1]);return true}if(location.hash==='#/news'){showN('list');return true}return false}
 Promise.all(['data/news.json','data/analyses.json'].map(u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}))))
- .then(([n,a])=>{NEWS=(n.items||[]).map(x=>({...x,type:'news'}));ANA=(a.items||[]).map(x=>({...x,type:'analysis'}));NREADY=true;renderNews();if(curC)renderC(curC)});
+ .then(([n,a])=>{NEWS=(n.items||[]).map(x=>({...x,type:'news'}));ANA=(a.items||[]).map(x=>({...x,type:'analysis'}));NREADY=true;renderNews();if(curC)renderC(curC);if(curN)renderN()});
 renderNews();
 
 /* Header */
@@ -707,7 +741,7 @@ $('#lang').onclick=e=>{const b=e.target.closest('button');if(b)setLang(b.dataset
 let sl=null;try{sl=localStorage.getItem('lang')}catch(e){}
 const nl=(navigator.language||'en').slice(0,2);
 setLang(sl||(nl==='fa'||nl==='ar'?nl:'en'));
-{const m=location.hash.match(/^#\/c\/(\w+)/);if(m)showC(m[1])}
+if(!routeN()){const m=location.hash.match(/^#\/c\/(\w+)/);if(m)showC(m[1])}
 </script>
 </body>
 </html>
