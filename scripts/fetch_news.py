@@ -16,6 +16,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -34,7 +35,7 @@ TOP_PER_SOURCE = 3      # keep Top Stories varied across outlets
 UA = "Mozilla/5.0 (compatible; momenimojtaba.com news bot)"
 
 # Headline translation with Google Gemini (key in the GEMINI_API_KEY secret)
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-flash-latest"
 TRANSLATE_BATCH = 40        # headlines per Gemini request
 TRANSLATE_MAX_PER_RUN = 240 # safety cap per run
 LANGS = ("en", "fa", "ar")
@@ -146,42 +147,57 @@ def err_text(e):
     return msg.replace("\n", " ")
 
 
-_MODEL = {"name": None}
+_MODEL = {"name": None, "candidates": None}
 
 
-def pick_model(key):
-    """Use GEMINI_MODEL if it exists, otherwise the newest 'flash' text model the key can use."""
+def model_candidates(key):
+    """Text models this key can call, best first: newest stable 'flash' models, then others."""
     req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
                                  headers={"x-goog-api-key": key})
     with urllib.request.urlopen(req, timeout=30) as r:
         models = json.loads(r.read()).get("models", [])
     names = [m["name"].split("/", 1)[-1] for m in models
              if "generateContent" in m.get("supportedGenerationMethods", [])]
-    if GEMINI_MODEL in names:
-        return GEMINI_MODEL
-    bad = ("image", "tts", "audio", "live", "embedding", "vision", "thinking", "exp", "preview", "lite", "banana")
-    flash = [n for n in names if "flash" in n and not any(b in n for b in bad)]
-    if not flash:
-        flash = [n for n in names if "flash" in n] or names
-    if not flash:
-        raise RuntimeError("no Gemini model available for this key")
+    bad = ("image", "tts", "audio", "live", "embedding", "vision", "banana", "robotics", "computer", "gemma", "learnlm")
+
     def ver(n):
         return [int(x) for x in re.findall(r"\d+", n)[:3]] or [0]
-    return sorted(flash, key=ver)[-1]
+
+    def rank(n):
+        return ("flash" in n, "preview" not in n and "exp" not in n, "lite" not in n, ver(n))
+
+    good = [n for n in names if not any(x in n for x in bad)]
+    return sorted(good, key=rank, reverse=True)
 
 
 def gemini_call(body, key):
-    if not _MODEL["name"]:
+    if _MODEL["candidates"] is None:
+        cands = []
+        if os.environ.get("GEMINI_MODEL"):
+            cands.append(os.environ["GEMINI_MODEL"])
         try:
-            _MODEL["name"] = pick_model(key)
+            cands += [c for c in model_candidates(key) if c not in cands]
         except Exception as e:
-            print(f"::warning::could not list Gemini models ({err_text(e)}); trying {GEMINI_MODEL}")
-            _MODEL["name"] = GEMINI_MODEL
-        print(f"::notice::Gemini model: {_MODEL['name']}")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{_MODEL['name']}:generateContent"
-    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        return json.loads(r.read())
+            print(f"::warning::could not list Gemini models ({err_text(e)})")
+        _MODEL["candidates"] = cands or [GEMINI_MODEL]
+    while True:
+        name = _MODEL["name"] or _MODEL["candidates"][0]
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{name}:generateContent"
+        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                data = json.loads(r.read())
+            if _MODEL["name"] != name:
+                _MODEL["name"] = name
+                print(f"::notice::Gemini model: {name}")
+            return data
+        except urllib.error.HTTPError as e:
+            # model retired or not available to this key: move on to the next one
+            if e.code in (403, 404) and len(_MODEL["candidates"]) > 1 and not _MODEL["name"]:
+                print(f"::warning::model {name} unavailable ({e.code}); trying next")
+                _MODEL["candidates"].pop(0)
+                continue
+            raise
 
 
 def gemini_translate(batch, key):
