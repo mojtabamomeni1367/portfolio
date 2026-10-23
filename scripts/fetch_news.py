@@ -16,6 +16,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -36,7 +37,7 @@ UA = "Mozilla/5.0 (compatible; momenimojtaba.com news bot)"
 
 # Headline translation with Google Gemini (key in the GEMINI_API_KEY secret)
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-flash-latest"
-TRANSLATE_BATCH = 40        # headlines per Gemini request
+TRANSLATE_BATCH = 20        # headlines per Gemini request
 TRANSLATE_MAX_PER_RUN = 240 # safety cap per run
 LANGS = ("en", "fa", "ar")
 LANG_NAME = {"en": "English", "fa": "Persian (Farsi)", "ar": "Arabic"}
@@ -180,22 +181,54 @@ def gemini_call(body, key):
         except Exception as e:
             print(f"::warning::could not list Gemini models ({err_text(e)})")
         _MODEL["candidates"] = cands or [GEMINI_MODEL]
+        print("::notice::Gemini models available: " + ", ".join(_MODEL["candidates"][:8]))
+    payload = json.loads(body)
+    tries = 0
     while True:
         name = _MODEL["name"] or _MODEL["candidates"][0]
+        cfg = payload["generationConfig"]
+        # translation needs no long reasoning: ask for minimal "thinking" to keep calls fast
+        if _MODEL.get("thinking", True):
+            cfg["thinkingConfig"] = {"thinkingLevel": "low"} if re.search(r"gemini-[3-9]|omni", name) else {"thinkingBudget": 0}
+        else:
+            cfg.pop("thinkingConfig", None)
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{name}:generateContent"
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+        req = urllib.request.Request(url, data=json.dumps(payload).encode(),
+                                     headers={"Content-Type": "application/json", "x-goog-api-key": key})
         try:
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with urllib.request.urlopen(req, timeout=180) as r:
                 data = json.loads(r.read())
             if _MODEL["name"] != name:
                 _MODEL["name"] = name
                 print(f"::notice::Gemini model: {name}")
             return data
         except urllib.error.HTTPError as e:
-            # model retired or not available to this key: move on to the next one
-            if e.code in (403, 404) and len(_MODEL["candidates"]) > 1 and not _MODEL["name"]:
+            detail = err_text(e)
+            if e.code == 400 and "thinking" in detail.lower() and _MODEL.get("thinking", True):
+                _MODEL["thinking"] = False
+                continue
+            if e.code in (403, 404) and not _MODEL["name"] and len(_MODEL["candidates"]) > 1:
                 print(f"::warning::model {name} unavailable ({e.code}); trying next")
                 _MODEL["candidates"].pop(0)
+                continue
+            if e.code in (429, 500, 503) and tries < 2:
+                tries += 1
+                time.sleep(15 * tries)
+                continue
+            if e.code in (429, 500, 503) and not _MODEL["name"] and len(_MODEL["candidates"]) > 1:
+                print(f"::warning::model {name} busy ({e.code}); trying next")
+                _MODEL["candidates"].pop(0)
+                tries = 0
+                continue
+            raise
+        except (TimeoutError, OSError) as e:
+            if tries < 1:
+                tries += 1
+                continue
+            if not _MODEL["name"] and len(_MODEL["candidates"]) > 1:
+                print(f"::warning::model {name} too slow ({e}); trying next")
+                _MODEL["candidates"].pop(0)
+                tries = 0
                 continue
             raise
 
