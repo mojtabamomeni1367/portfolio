@@ -678,7 +678,7 @@ const inLG=x=>x.type==='analysis'?!!(x.versions&&x.versions[LG]):(x.lang===LG||!
 const vNews=()=>NEWS.filter(inLG),vAna=()=>ANA.filter(inLG);
 function nItem(x,big){
  const isA=x.type==='analysis',v=isA?anaFor(x):x,href=isA?v.url:'#/n/'+x.id,ext='';
- return '<div class="flex items-center gap-2 text-xs"><span class="tag">'+T(isA?'Analysis':'News')+'</span><span class="opacity-60"><span dir="auto">'+esc(isA?'Mojtaba Momeni':x.source)+'</span>, <span>'+fmtD(x.date)+'</span></span>'+(!isA&&LG!==x.lang&&x['title_'+LG]?'<span class="opacity-50" title="'+T('Headline translated by Gemini')+'">· '+T('Translated')+'</span>':'')+'</div>'
+ return '<div class="flex items-center gap-2 text-xs"><span class="tag">'+T(isA?'Analysis':'News')+'</span><span class="opacity-60">'+(isA?'<span>Mojtaba Momeni</span>, ':'')+'<span>'+fmtD(x.date)+'</span></span></div>'
  +'<a href="'+esc(href)+'"'+ext+' dir="auto" class="disp '+(big?'text-2xl':'text-lg')+' leading-snug block mt-2 hover:underline">'+esc(ttl(v))+'</a>'}
 function renderNews(){
  const vn=vNews(),newest=vn.length?Date.parse(vn[0].date):0;
@@ -715,7 +715,7 @@ function renderN(){
     +(x['summary_'+LG]?'<p class="text-xl md:text-2xl mt-7 leading-relaxed opacity-95" dir="auto">'+esc(x['summary_'+LG])+'</p>':'')
     +(body.length?'<div class="mt-8 space-y-5 text-lg leading-relaxed opacity-85">'+body.map(p=>'<p dir="auto">'+esc(p)+'</p>').join('')+'</div>':'')
     +(cs?'<div class="mt-10 flex flex-wrap gap-2">'+cs+'</div>':'')
-    +'<p class="mt-10 pt-5 border-t text-sm dm" style="border-color:rgba(255,255,255,.14)">'+T('Source')+': '+esc(x.source)+'. '+(x['summary_'+LG]?T('Written from the source report.'):'')+(tr?' '+T('Translated by Gemini.'):'')+'</p></article>';
+    +'<p class="mt-10 pt-5 border-t text-sm dm" style="border-color:rgba(255,255,255,.14)">'+T('Source')+': '+esc(x.source)+'. '+(x['summary_'+LG]?T('Written from the source report.'):'')+'</p></article>';
   }
  }
  $('#cvb').innerHTML=h;icons($('#cvb'));tr($('#cvb'));
