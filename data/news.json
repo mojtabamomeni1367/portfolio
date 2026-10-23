@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T12:07:04Z",
- "count": 197,
+ "updated": "2026-10-23T12:25:42Z",
+ "count": 198,
  "items": [
   {
    "id": "e9b62e1e7db9",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:56:57Z",
+   "date": "2026-10-23T12:08:01Z",
    "countries": [
     "ARE"
    ],
@@ -20,10 +20,23 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:56:57Z",
+   "date": "2026-10-23T12:08:01Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "92d5a6de99a1",
+   "title": "درگیری مسلحانه در الخلیل؛ نتانیاهو دستور محدودیت تردد در کرانه باختری را صادر کرد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqdr8ngxzz12o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T12:04:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
    ],
    "top": true
   },
@@ -37,7 +50,25 @@
    "countries": [
     "PAK"
    ],
-   "top": true
+   "top": true,
+   "title_en": "At least 12 killed, 22 injured in road accident near Zero Point in Balochistan’s Uthal",
+   "title_fa": "دست‌کم ۱۲ کشته و ۲۲ زخمی در سانحه جاده‌ای در نزدیکی «زیرو پوینت» در اوتهل بلوچستان",
+   "title_ar": "مقتل 12 شخصاً على الأقل وإصابة 22 في حادث مروري قرب «نقطة الصفر» في أوثال ببلوشستان"
+  },
+  {
+   "id": "daee4efc2ca5",
+   "title": "US-Iran war, then and now: How the landscape has changed since February",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+   "date": "2026-10-23T11:43:53Z",
+   "countries": [
+    "IRN"
+   ],
+   "top": true,
+   "title_en": "US-Iran war, then and now: How the landscape has changed since February",
+   "title_fa": "جنگ آمریکا و ایران، آن زمان و اکنون: چشم‌انداز از ماه فوریه تاکنون چگونه تغییر کرده است",
+   "title_ar": "الحرب بين الولايات المتحدة وإيران، بين الأمس واليوم: كيف تغير المشهد منذ فبراير"
   },
   {
    "id": "d139ede9e737",
@@ -49,7 +80,10 @@
    "countries": [
     "IRN"
    ],
-   "top": true
+   "top": true,
+   "title_en": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "title_fa": "نفت در بحبوحه نگرانی‌ها از ازسرگیری حملات آمریکا به ایران به بالاترین سطح پنج‌ماهه رسید",
+   "title_ar": "النفط يسجل أعلى مستوى في خمسة أشهر وسط مخاوف من تجديد الضربات الأمريكية على إيران"
   },
   {
    "id": "7deaa9040642",
@@ -61,7 +95,10 @@
    "countries": [
     "SAU"
    ],
-   "top": true
+   "top": true,
+   "title_en": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+   "title_fa": "رئیس فدراسیون فوتبال ژاپن: وضعیت امنیتی عربستان سعودی، جام ملت‌های آسیا را در هاله‌ای از ابهام قرار می‌دهد",
+   "title_ar": "رئيس الاتحاد الياباني لكرة القدم: الوضع الأمني في السعودية يثير الشكوك حول كأس آسيا"
   },
   {
    "id": "ca515d56bd3c",
@@ -73,7 +110,10 @@
    "countries": [
     "TUR"
    ],
-   "top": true
+   "top": true,
+   "title_en": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
+   "title_fa": "دیدار اسحاق دار، معاون نخست‌وزیر با وزیر خارجه ترکیه پیش از نشست‌های بلوک «آر-۴» و دیپلمات‌های اروپایی",
+   "title_ar": "نائب رئيس الوزراء دار يلتقي وزير الخارجية التركي قبيل اجتماعات كتلة «R-4» والدبلوماسيين الأوروبيين"
   },
   {
    "id": "5b4ffbd10ebb",
@@ -85,7 +125,10 @@
    "countries": [
     "PSE"
    ],
-   "top": true
+   "top": true,
+   "title_en": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+   "title_fa": "«شکوفه‌های صورتی در میان آوار»: مبارزه با سرطان پستان در غزه",
+   "title_ar": "«الوردي يزهر من بين الركام»: مكافحة سرطان الثدي في غزة"
   },
   {
    "id": "5535f48e2944",
@@ -99,7 +142,10 @@
     "SAU",
     "YEM"
    ],
-   "top": true
+   "top": true,
+   "title_en": "Yemen, Bab al-Mandab and Saudi Arabia: Tehran’s strategic calculus in the balance",
+   "title_fa": "یمن، باب‌المندب و عربستان سعودی: محاسبات راهبردی تهران در بوته آزمایش",
+   "title_ar": "اليمن، باب المندب والسعودية: الحسابات الاستراتيجية لطهران في الميزان"
   },
   {
    "id": "ee70a7b22aae",
@@ -111,7 +157,10 @@
    "countries": [
     "IND"
    ],
-   "top": true
+   "top": true,
+   "title_en": "10 India-sponsored terrorists killed as bid to undermine state's writ in Gwadar foiled: ISPR",
+   "title_fa": "دفتر رسانه‌ای ارتش پاکستان: ۱۰ تروریست مورد حمایت هند در پی ناکام ماندن تلاش برای تضعیف حاکمیت دولت در گوادر کشته شدند",
+   "title_ar": "الجيش الباكستاني: مقتل 10 إرهابيين مدعومين من الهند إثر إحباط محاولة لتقويض سلطة الدولة في جوادر"
   },
   {
    "id": "53a21c76371b",
@@ -124,7 +173,10 @@
     "IND",
     "YEM"
    ],
-   "top": true
+   "top": true,
+   "title_en": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
+   "title_fa": "سفارت هند: هر ۱۴ تبعه هندی در حادثه قایق تفریحی در سواحل یمن سالم هستند",
+   "title_ar": "السفارة: سلامة جميع الهنود الـ14 المشاركين في حادث اليخت قبالة سواحل اليمن"
   },
   {
    "id": "38aef09981a9",
@@ -137,7 +189,10 @@
     "ISR",
     "PSE"
    ],
-   "top": true
+   "top": true,
+   "title_en": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+   "title_fa": "نتانیاهو در پی زخمی شدن چند اسرائیلی در یک حمله پیش از انتخابات، دستور بستن کرانه باختری را صادر کرد",
+   "title_ar": "نتنياهو يأمر بإغلاق الضفة الغربية بعد هجوم أسفر عن إصابة إسرائيليين قبيل الانتخابات"
   },
   {
    "id": "5810ad5f7253",
@@ -149,7 +204,10 @@
    "countries": [
     "ARE"
    ],
-   "top": true
+   "top": true,
+   "title_en": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+   "title_fa": "برنامه‌ریزی برای ازسرگیری مذاکرات میان روسیه، اوکراین و آمریکا در ماه نوامبر در ابوظبی",
+   "title_ar": "محادثات بين روسيا وأوكرانيا والولايات المتحدة «من المقرر» أن تُستأنف في نوفمبر بأبوظبي"
   },
   {
    "id": "e2f79c6f11f1",
@@ -161,7 +219,9 @@
    "countries": [
     "PSE"
    ],
-   "top": true
+   "title_en": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "title_fa": "اسموتریچ دستور تخریب ساختمان‌های فلسطینی در نزدیکی محل تیراندازی در الخلیل را صادر کرد",
+   "title_ar": "سموتريتش يأمر بهدم مبانٍ فلسطينية قرب موقع إطلاق النار في الخليل"
   },
   {
    "id": "7718246191f0",
@@ -174,7 +234,9 @@
     "ISR",
     "PSE"
    ],
-   "top": true
+   "title_en": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+   "title_fa": "زخمی شدن پنج اسرائیلی و کشته شدن دو مهاجم مظنون فلسطینی در تیراندازی کرانه باختری",
+   "title_ar": "إصابة خمسة إسرائيليين ومقتل مهاجمَين فلسطينيين مشتبه بهما في إطلاق نار بالضفة الغربية"
   },
   {
    "id": "f214bed755da",
@@ -198,7 +260,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israel prepares full West Bank lockdown after Hebron shooting",
+   "title_fa": "اسرائیل پس از تیراندازی الخلیل برای قرنطینه و انسداد کامل کرانه باختری آماده می‌شود",
+   "title_ar": "إسرائيل تستعد لإغلاق كامل للضفة الغربية بعد حادث إطلاق النار في الخليل"
   },
   {
    "id": "e8b82648c5eb",
@@ -209,7 +274,10 @@
    "date": "2026-10-23T09:56:28Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "title_fa": "ورود لوازم الکترونیکی جدید به ایران؛ افزایش چشمگیر قیمت‌ها هم‌زمان با عوارض دولتی و تحریم‌های آمریکا",
+   "title_ar": "أجهزة إلكترونية جديدة تصل إلى إيران، لكن الأسعار ترتفع بشكل حاد مع الرسوم الحكومية والعقوبات الأمريكية"
   },
   {
    "id": "a7ec8ecd1211",
@@ -220,7 +288,10 @@
    "date": "2026-10-23T09:52:14Z",
    "countries": [
     "NPL"
-   ]
+   ],
+   "title_en": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+   "title_fa": "اهمیت پرداخت صندوق زیان و خسارت سازمان ملل به نپال چیست؟ | توضیح و تحلیل",
+   "title_ar": "ما هي أهمية مدفوعات صندوق الخسائر والأضرار التابع للأمم المتحدة لنيبال؟ | توضيح"
   },
   {
    "id": "aad852d09442",
@@ -231,7 +302,10 @@
    "date": "2026-10-23T09:41:51Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "How Trump, Israel and big tech are driving Latin America to the right",
+   "title_fa": "چگونه ترامپ، اسرائیل و شرکت‌های بزرگ فناوری، آمریکای لاتین را به سمت راست سوق می‌دهند",
+   "title_ar": "كيف يدفع ترامب وإسرائيل وشركات التكنولوجيا الكبرى أمريكا اللاتينية نحو اليمين"
   },
   {
    "id": "56896c74e71c",
@@ -243,7 +317,10 @@
    "countries": [
     "ISR",
     "TUR"
-   ]
+   ],
+   "title_en": "‘Turkey is a common enemy’: Pro-Israel network forms parliamentary groups in Greece and Cyprus",
+   "title_fa": "«ترکیه یک دشمن مشترک است»: شبکه حامی اسرائیل گروه‌های پارلمانی در یونان و قبرس تشکیل می‌دهد",
+   "title_ar": "«تركيا عدو مشترك»: شبكة مؤيدة لإسرائيل تشكل مجموعات برلمانية في اليونان وقبرص"
   },
   {
    "id": "fb228bc65512",
@@ -254,7 +331,10 @@
    "date": "2026-10-23T09:32:33Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "What role does the military play in Israeli schools?",
+   "title_fa": "ارتش چه نقشی در مدارس اسرائیل ایفا می‌کند؟",
+   "title_ar": "ما الدور الذي يلعبه الجيش في المدارس الإسرائيلية؟"
   },
   {
    "id": "99c43e18d706",
@@ -265,7 +345,10 @@
    "date": "2026-10-23T09:23:32Z",
    "countries": [
     "TUR"
-   ]
+   ],
+   "title_en": "DPM Dar arrives in Istanbul ahead of R-4 bloc, European diplomats’ meetings",
+   "title_fa": "اسحاق دار، معاون نخست‌وزیر پیش از نشست‌های بلوک «آر-۴» و دیپلمات‌های اروپایی وارد استانبول شد",
+   "title_ar": "نائب رئيس الوزراء دار يصل إلى إسطنبول قبيل اجتماعات كتلة «R-4» والدبلوماسيين الأوروبيين"
   },
   {
    "id": "c36d9ed0789a",
@@ -277,7 +360,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Gaza bakeries forced to shut as Israel blocks flour shipments",
+   "title_fa": "نانوایی‌های غزه در پی مسدود شدن محموله‌های آرد توسط اسرائیل مجبور به تعطیلی شدند",
+   "title_ar": "مخابز غزة تضطر للإغلاق مع حظر إسرائيل لشحنات الدقيق"
   },
   {
    "id": "17adfec61734",
@@ -288,7 +374,10 @@
    "date": "2026-10-23T09:12:46Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+   "title_fa": "همیلتون همزمان با جلب توجه مسابقات فرمول یک به رواندا، خواستار آزادی فلسطین و جمهوری دموکراتیک کنگو شد",
+   "title_ar": "هاميلتون يدعو إلى حرية فلسطين وجمهورية الكونغو الديمقراطية بينما تخطف رواندا أضواء الفورمولا 1"
   },
   {
    "id": "e635f4785570",
@@ -300,7 +389,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli military kills two in gun battle in occupied West Bank",
+   "title_fa": "ارتش اسرائیل دو نفر را در درگیری مسلحانه در کرانه باختری اشغالی کشت",
+   "title_ar": "الجيش الإسرائيلي يقتل شخصين في اشتباك مسلح بالضفة الغربية المحتلة"
   },
   {
    "id": "36af2ef32e43",
@@ -312,7 +404,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
+   "title_fa": "نتانیاهو دستور بستن الخلیل را صادر کرد و به دنبال قرنطینه کامل کرانه باختری است",
+   "title_ar": "نتنياهو يأمر بإغلاق الخليل ويسعى لفرض إغلاق شامل على الضفة الغربية"
   },
   {
    "id": "0b01b800f0fd",
@@ -323,7 +418,10 @@
    "date": "2026-10-23T09:03:39Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "title_fa": "بحث بر سر خدمت سربازی حریدی‌ها کارزار انتخاباتی اسرائیل را شعله‌ور کرد",
+   "title_ar": "الجدل حول تجنيد الحريديم يشعل ساحة المعركة الانتخابية في إسرائيل"
   },
   {
    "id": "1d336c319bd5",
@@ -345,7 +443,10 @@
    "date": "2026-10-23T08:48:28Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "UK says schoolchildren shouldn’t wave Palestine flags. Ukraine flags are fine though",
+   "title_fa": "بریتانیا می‌گوید دانش‌آموزان نباید پرچم فلسطین را تکان دهند، اما پرچم اوکراین مانعی ندارد",
+   "title_ar": "بريطانيا تقول إن أطفال المدارس يجب ألا يلوحوا بأعلام فلسطين، لكن أعلام أوكرانيا مقبولة"
   },
   {
    "id": "1c0f3972c84a",
@@ -356,7 +457,10 @@
    "date": "2026-10-23T08:42:49Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "‘Hit them hard’: CDF Munir vows to continue campaign against Indian-sponsored terrorist outfits",
+   "title_fa": "«به آنها ضربه سخت بزنید»: ژنرال منیر متعهد به ادامه کارزار علیه گروه‌های تروریستی تحت حمایت هند شد",
+   "title_ar": "«اضربوهم بقوة»: قائد الجيش منير يتعهد بمواصلة الحملة ضد الجماعات الإرهابية المدعومة من الهند"
   },
   {
    "id": "438f22af2c8f",
@@ -367,7 +471,10 @@
    "date": "2026-10-23T08:40:09Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "NYT reports plans for fresh strikes on Iran after the US midterm elections",
+   "title_fa": "نیویورک تایمز از طرح‌هایی برای حملات تازه به ایران پس از انتخابات میان‌دوره‌ای آمریکا خبر داد",
+   "title_ar": "نيويورك تايمز تكشف عن خطط لشن ضربات جديدة على إيران بعد انتخابات التجديد النصفي الأمريكية"
   },
   {
    "id": "9c9b369cb67e",
@@ -379,7 +486,10 @@
    "countries": [
     "ISR",
     "SYR"
-   ]
+   ],
+   "title_en": "Israeli forces accused of killing disabled man in Syria raid",
+   "title_fa": "نیروهای اسرائیلی متهم به کشتن یک فرد معلول در حمله به سوریه شدند",
+   "title_ar": "اتهام القوات الإسرائيلية بقتل رجل من ذوي الاحتياجات الخاصة في غارة على سوريا"
   },
   {
    "id": "2f3cbc457f4e",
@@ -391,7 +501,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Netanyahu orders army to prepare for full West Bank closure after attack",
+   "title_fa": "نتانیاهو پس از حمله، به ارتش دستور داد برای بستن کامل کرانه باختری آماده شود",
+   "title_ar": "نتنياهو يأمر الجيش بالاستعداد لإغلاق كامل للضفة الغربية بعد الهجوم"
   },
   {
    "id": "f75bb84bb68f",
@@ -403,7 +516,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+   "title_fa": "حمله در کرانه باختری ۵ اسرائیلی را زخمی کرد؛ نتانیاهو برنامه‌های خود را لغو کرد",
+   "title_ar": "هجوم في الضفة الغربية يسفر عن إصابة 5 إسرائيليين ونتنياهو يلغي فعالياته"
   },
   {
    "id": "4c8029810e2c",
@@ -425,7 +541,10 @@
    "date": "2026-10-23T07:37:12Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+   "title_fa": "آیا ذخایر جهانی نفت برای مقاومت در برابر جنگ مجدد آمریکا و ایران کافی است؟",
+   "title_ar": "هل تكفي احتياطيات النفط العالمية للصمود أمام حرب جديدة بين الولايات المتحدة وإيران؟"
   },
   {
    "id": "37bd660e30db",
@@ -436,7 +555,10 @@
    "date": "2026-10-23T07:36:29Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Lahore tops global pollution ranking as air quality turns ‘hazardous’",
+   "title_fa": "لاهور همزمان با «خطرناک» شدن کیفیت هوا در صدر رتبه‌بندی آلودگی جهانی قرار گرفت",
+   "title_ar": "لاهور تتصدر التصنيف العالمي للتلوث مع تحول جودة الهواء إلى «خطيرة»"
   },
   {
    "id": "8446494759c8",
@@ -447,7 +569,10 @@
    "date": "2026-10-23T06:55:32Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "What is Romanch’s Law? New York City’s historic horse carriage ban after Indian tourist’s death",
+   "title_fa": "قانون رومانچ چیست؟ ممنوعیت تاریخی درشکه‌رانی با اسب در شهر نیویورک پس از مرگ گردشگر هندی",
+   "title_ar": "ما هو قانون رومانش؟ حظر تاريخي لعربات الخيول في مدينة نيويورك بعد وفاة سائح هندي"
   },
   {
    "id": "0795b3a7c4e6",
@@ -459,7 +584,10 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
+   ],
+   "title_en": "Iran's Araghchi says US and Israel are in a 'parasitic' relationship",
+   "title_fa": "عراقچی می‌گوید آمریکا و اسرائیل در یک رابطه «انگلی» هستند",
+   "title_ar": "عراقجي يقول إن الولايات المتحدة وإسرائيل في علاقة «طفيلية»"
   },
   {
    "id": "290b1107217e",
@@ -470,7 +598,10 @@
    "date": "2026-10-23T06:13:13Z",
    "countries": [
     "NPL"
-   ]
+   ],
+   "title_en": "Nepal to receive first-ever loss and damage fund payout after devastating floods",
+   "title_fa": "نپال پس از سیل‌های ویرانگر، نخستین پرداخت صندوق زیان و خسارت را دریافت می‌کند",
+   "title_ar": "نيبال تتلقى أول دفعة على الإطلاق من صندوق الخسائر والأضرار بعد الفيضانات المدمرة"
   },
   {
    "id": "9fc6f3eccebe",
@@ -481,7 +612,10 @@
    "date": "2026-10-23T06:08:17Z",
    "countries": [
     "TUR"
-   ]
+   ],
+   "title_en": "DPM Dar departs for Istanbul ahead of R-4 bloc, European E3 diplomats’ meetings",
+   "title_fa": "معاون نخست‌وزیر دار پیش از نشست‌های بلوک R-4 و دیپلمات‌های سه کشور اروپایی (E3) عازم استانبول شد",
+   "title_ar": "نائب رئيس الوزراء دار يتوجه إلى إسطنبول قبيل اجتماعات كتلة R-4 والدبلوماسيين الأوروبيين الثلاثة (E3)"
   },
   {
    "id": "faaef3da233d",
@@ -493,7 +627,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "‘The biggest motivation is fear’: High turnout among Israel’s Palestinians could unseat Netanyahu",
+   "title_fa": "«بزرگترین انگیزه ترس است»: مشارکت بالای فلسطینی‌های اسرائیل می‌تواند نتانیاهو را برکنار کند",
+   "title_ar": "«أكبر دافع هو الخوف»: نسبة إقبال عالية بين فلسطينيي إسرائيل قد تطيح بنتنياهو"
   },
   {
    "id": "850f9605c214",
@@ -515,7 +652,10 @@
    "date": "2026-10-23T05:15:21Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "Israeli military says forces kill suspected shooters near Hebron",
+   "title_fa": "ارتش اسرائیل می‌گوید نیروهایش افراد مظنون به تیراندازی را در نزدیکی الخلیل کشتند",
+   "title_ar": "الجيش الإسرائيلي يعلن مقتل مسلحين مشتبه بهم على يد قواته قرب الخليل"
   },
   {
    "id": "51e51d424f9b",
@@ -526,7 +666,10 @@
    "date": "2026-10-23T04:51:52Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "Saudi Arabia postpones two notable forums to 2027",
+   "title_fa": "عربستان سعودی دو مجمع مهم را به سال ۲۰۲۷ موکول کرد",
+   "title_ar": "المملكة العربية السعودية تؤجل منتديين بارزين إلى عام 2027"
   },
   {
    "id": "ae1637aae470",
@@ -815,7 +958,10 @@
     "EGY",
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Egypt calls for Yemen talks as parliament weighs military support to Saudi Arabia",
+   "title_fa": "مصر هم‌زمان با بررسی حمایت نظامی از عربستان سعودی در پارلمان، خواستار مذاکرات یمن شد",
+   "title_ar": "مصر تدعو إلى محادثات بشأن اليمن بالتزامن مع دراسة البرلمان تقديم دعم عسكري للسعودية"
   },
   {
    "id": "6d949e9e7252",
@@ -827,7 +973,10 @@
    "countries": [
     "ISR",
     "SYR"
-   ]
+   ],
+   "title_en": "Israeli forces kill man with disability in southern Syria, authorities say",
+   "title_fa": "مقامات می‌گویند نیروهای اسرائیلی یک فرد دارای معلولیت را در جنوب سوریه کشتند",
+   "title_ar": "السلطات تقول إن القوات الإسرائيلية قتلت رجلاً من ذوي الإعاقة في جنوب سوريا"
   },
   {
    "id": "6a5e9f8dc056",
@@ -838,7 +987,10 @@
    "date": "2026-10-22T20:13:21Z",
    "countries": [
     "TUR"
-   ]
+   ],
+   "title_en": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+   "title_fa": "چرا توافق دریایی لیبی و ترکیه جنجال‌برانگیز شده است؟",
+   "title_ar": "لماذا أثار الاتفاق البحري بين ليبيا وتركيا جدلاً؟"
   },
   {
    "id": "2e5326c7066d",
@@ -849,7 +1001,10 @@
    "date": "2026-10-22T20:05:22Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+   "title_fa": "اپستین، ایران و «تخلیه باتلاق»: آیا جمهوری‌خواهان پیش از رای‌گیری تغییر موضع داده‌اند؟",
+   "title_ar": "إبستين وإيران و«تجفيف المستنقع»: هل غير الجمهوريون مواقفهم قبل التصويت؟"
   },
   {
    "id": "893451fb9bd0",
@@ -860,7 +1015,10 @@
    "date": "2026-10-22T19:56:20Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "US military says Iran naval blockade has reached 100 days",
+   "title_fa": "ارتش آمریکا می‌گوید محاصره دریایی ایران به ۱۰۰ روز رسیده است",
+   "title_ar": "الجيش الأمريكي يقول إن الحصار البحري الإيراني بلغ 100 يوم"
   },
   {
    "id": "12dabb57b22f",
@@ -872,7 +1030,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israel’s Ben-Gvir shares AI videos mocking Gazans as ‘donkeys’ and sending them to Paris",
+   "title_fa": "بن گویر، وزیر اسرائیلی، ویدیوهای هوش مصنوعی را به اشتراک گذاشت که اهالی غزه را «الاغ» خوانده و به پاریس می‌فرستد",
+   "title_ar": "بن غفير ينشر مقاطع فيديو بالذكاء الاصطناعي تسخر من سكان غزة وتصفهم بـ«الحمير» وترسلهم إلى باريس"
   },
   {
    "id": "134a5cd4c054",
@@ -883,7 +1044,10 @@
    "date": "2026-10-22T19:36:24Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "Pro-Israel lobbying group Aipac ends endorsements, direct funding to US candidates",
+   "title_fa": "گروه لابی طرفدار اسرائیل، آیپک، به تایید صلاحیت‌ها و تامین مالی مستقیم نامزدهای آمریکایی پایان می‌دهد",
+   "title_ar": "لجنة الشؤون العامة الأمريكية الإسرائيلية (أيباك) تنهي تأييداتها والتمويل المباشر للمرشحين الأمريكيين"
   },
   {
    "id": "292d07f56101",
@@ -894,7 +1058,10 @@
    "date": "2026-10-22T19:35:18Z",
    "countries": [
     "TUR"
-   ]
+   ],
+   "title_en": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+   "title_fa": "چگونه توافق ترکیه و لیبی در حال تغییر شکل مدیترانه است",
+   "title_ar": "كيف يعيد الاتفاق التركي الليبي تشكيل البحر الأبيض المتوسط"
   },
   {
    "id": "aa1ca8ae657f",
@@ -919,7 +1086,10 @@
     "PAK",
     "SAU",
     "TUR"
-   ]
+   ],
+   "title_en": "Pakistan, Egypt, Saudi Arabia, Turkiye to meet European trio in Istanbul",
+   "title_fa": "پاکستان، مصر، عربستان سعودی و ترکیه با سه کشور اروپایی در استانبول دیدار می‌کنند",
+   "title_ar": "باكستان ومصر والسعودية وتركيا تلتقي بالثلاثي الأوروبي في إسطنبول"
   },
   {
    "id": "50e3760e77fb",
@@ -930,7 +1100,10 @@
    "date": "2026-10-22T18:53:56Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Direct flights between Pakistan and Maldives on the horizon as PM stresses connectivity",
+   "title_fa": "با تاکید نخست‌وزیر بر ارتباطات، پروازهای مستقیم بین پاکستان و مالدیو در افق نزدیک است",
+   "title_ar": "رحلات جوية مباشرة بين باكستان والمالديف تلوح في الأفق مع تأكيد رئيس الوزراء على الربط الجوي"
   },
   {
    "id": "5f9add615542",
@@ -941,7 +1114,10 @@
    "date": "2026-10-22T18:47:58Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Iran sets dollar purchase limits under new guideline",
+   "title_fa": "ایران بر اساس دستورالعمل جدید محدودیت‌هایی برای خرید دلار تعیین کرد",
+   "title_ar": "إيران تضع حدوداً لشراء الدولار بموجب توجيه جديد"
   },
   {
    "id": "229488b55019",
@@ -952,7 +1128,10 @@
    "date": "2026-10-22T18:18:42Z",
    "countries": [
     "LKA"
-   ]
+   ],
+   "title_en": "England's Brook hits record ODI double ton but Sri Lanka pull off epic chase in Rawalpindi clash",
+   "title_fa": "بروک از انگلیس رکورد دبل صد را در بازی‌های یک‌روزه ثبت کرد اما سری‌لانکا در نبرد راولپندی بازگشتی حماسی رقم زد",
+   "title_ar": "بروك الإنجليزي يسجل ثنائية مئوية قياسية في مباريات اليوم الواحد لكن سريلانكا تحقق مطاردة ملحمية في مواجهة راولبندي"
   },
   {
    "id": "c6528b89d871",
@@ -964,7 +1143,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+   "title_fa": "هم‌زمان با تشدید حملات دسته‌جمعی شهرک‌نشینان در کرانه باختری، اسرائیل مظنونان دو حمله را آزاد کرد",
+   "title_ar": "إسرائيل تفرج عن المشتبه بهم في هجومين للمستوطنين مع تصاعد الاعتداءات الجماعية في الضفة الغربية"
   },
   {
    "id": "b1e85441ddf8",
@@ -975,7 +1157,10 @@
    "date": "2026-10-22T17:58:04Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+   "title_fa": "ایران از اصابت به هفت کشتی در تنگه هرمز خبر داد و به آمریکا درباره پاسخی گسترده‌تر هشدار داد",
+   "title_ar": "إيران تعلن إصابة سبع سفن في مضيق هرمز وتحذر الولايات المتحدة من رد أوسع"
   },
   {
    "id": "d583965621bf",
@@ -986,7 +1171,10 @@
    "date": "2026-10-22T17:41:31Z",
    "countries": [
     "QAT"
-   ]
+   ],
+   "title_en": "Rubio expresses appreciation for Qatar's mediation efforts in call with prime minister",
+   "title_fa": "روبیو در تماس تلفنی با نخست‌وزیر از تلاش‌های میانجی‌گرانه قطر قدردانی کرد",
+   "title_ar": "روبيو يعرب عن تقديره لجهود الوساطة القطرية في اتصال مع رئيس الوزراء"
   },
   {
    "id": "1c181e5baae4",
@@ -997,7 +1185,10 @@
    "date": "2026-10-22T17:40:28Z",
    "countries": [
     "NPL"
-   ]
+   ],
+   "title_en": "UN climate damages fund earmarks $20 million to Nepal for August disaster",
+   "title_fa": "صندوق خسارات اقلیمی سازمان ملل ۲۰ میلیون دلار برای فاجعه ماه اوت به نپال اختصاص داد",
+   "title_ar": "صندوق الأمم المتحدة لأضرار المناخ يخصص 20 مليون دولار لنيبال من أجل كارثة أغسطس"
   },
   {
    "id": "b7e5a8a27bef",
@@ -1008,7 +1199,10 @@
    "date": "2026-10-22T17:40:24Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+   "title_fa": "«هرچه بیشتر صبر کنیم، بدتر می‌شود»: رنج بیماران مبتلا به سرطان سینه در غزه",
+   "title_ar": "«كلما انتظرنا أكثر، زاد الأمر سوءاً»: معاناة مريضات سرطان الثدي في غزة"
   },
   {
    "id": "9da419e0caf9",
@@ -1019,7 +1213,10 @@
    "date": "2026-10-22T17:28:55Z",
    "countries": [
     "LKA"
-   ]
+   ],
+   "title_en": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+   "title_fa": "سری‌لانکا با غلبه بر سریع‌ترین ۲۰۰ امتیاز هری بروک در مسابقات یک‌روزه، انگلیس را شکست داد",
+   "title_ar": "سريلانكا تهزم إنجلترا وتتجاوز تسجيل هاري بروك لأسرع 200 نقطة في مباريات اليوم الواحد"
   },
   {
    "id": "d76941bb4a20",
@@ -1030,7 +1227,10 @@
    "date": "2026-10-22T17:25:29Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+   "title_fa": "اورشلیم دیلی: ویدیوی آزار گربه توسط سرباز اسرائیلی پربازدید شد",
+   "title_ar": "جيروزاليم ديلي: انتشار واسع لفيديو لجندي إسرائيلي يسيء معاملة قطة"
   },
   {
    "id": "4cf54b5c0c00",
@@ -1042,7 +1242,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Impact of Houthi attacks on Saudi economy 'limited' for now: IMF",
+   "title_fa": "صندوق بین‌المللی پول: تاثیر حملات حوثی‌ها بر اقتصاد عربستان در حال حاضر «محدود» است",
+   "title_ar": "صندوق النقد الدولي: تأثير هجمات الحوثيين على الاقتصاد السعودي «محدود» في الوقت الحالي"
   },
   {
    "id": "deb5b545fd79",
@@ -1053,7 +1256,10 @@
    "date": "2026-10-22T16:39:49Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+   "title_fa": "افشاگری: میلیاردر حامی مالی حزب «اصلاح» با یک بنیاد مرتبط با رژیم ایران همکاری تجاری داشته است",
+   "title_ar": "الكشف عن تعاملات تجارية بين ملياردير مانح لحزب \"إصلاح\" ومؤسسة مرتبطة بالنظام الإيراني"
   },
   {
    "id": "9a1244be6578",
@@ -1065,7 +1271,10 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
+   ],
+   "title_en": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+   "title_fa": "پیش از انتخابات آمریکا و اسرائیل، حمله مشترک ۳ روزه به ایران «درگیری را به طور اساسی تغییر نخواهد داد»",
+   "title_ar": "قبيل الانتخابات الأمريكية والإسرائيلية، هجوم مشترك لمدة 3 أيام على إيران \"لن يغير مسار الصراع بشكل جذري\""
   },
   {
    "id": "1906a9d974cf",
@@ -1076,7 +1285,10 @@
    "date": "2026-10-22T16:24:43Z",
    "countries": [
     "SYR"
-   ]
+   ],
+   "title_en": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+   "title_fa": "کشته شدن دو نیروی امنیتی سوریه در حمله به هسته داعش در نزدیکی دمشق",
+   "title_ar": "مقتل عنصرين من الأمن السوري في مداهمة لخلية تابعة لداعش قرب دمشق"
   },
   {
    "id": "0849512c26f3",
@@ -1088,7 +1300,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli drone strikes kill one Palestinian and wound 13 in Gaza",
+   "title_fa": "حملات پهپادی اسرائیل در غزه یک فلسطینی را کشت و ۱۳ تن را زخمی کرد",
+   "title_ar": "ضربات بطائرات مسيرة إسرائيلية تقتل فلسطينياً وتصيب 13 في غزة"
   },
   {
    "id": "587ced71144b",
@@ -1100,7 +1315,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli attacks kill four as famine risk looms in Gaza",
+   "title_fa": "حملات اسرائیل همزمان با خطر قحطی در غزه جان چهار نفر را گرفت",
+   "title_ar": "الهجمات الإسرائيلية تقتل أربعة أشخاص مع تزايد خطر المجاعة في غزة"
   },
   {
    "id": "8487bcceecf1",
@@ -1111,7 +1329,10 @@
    "date": "2026-10-22T15:56:36Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+   "title_fa": "تلاش دوقلوهای تازه متولد شده برای بقا در حالی که درگیری‌ها به بحران گرسنگی در یمن دامن می‌زند",
+   "title_ar": "توأمان حديثا الولادة يكافحان من أجل البقاء في ظل تفاقم أزمة الجوع في اليمن بفعل الصراع"
   },
   {
    "id": "4051b2f08da9",
@@ -1123,7 +1344,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue",
+   "title_fa": "آرامکوی سعودی همزمان با تداوم درگیری‌ها با حوثی‌های یمن، از کارکنان خود خواست ظهران را تخلیه کنند",
+   "title_ar": "أرامكو السعودية تطلب من موظفيها إخلاء الظهران مع استمرار الاشتباكات مع الحوثيين في اليمن"
   },
   {
    "id": "ec0bcafbd83f",
@@ -1135,7 +1359,10 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
+   ],
+   "title_en": "Reports show US and Israel are planning new strikes on Iran",
+   "title_fa": "گزارش‌ها نشان می‌دهند که آمریکا و اسرائیل در حال برنامه‌ریزی برای حملات جدید به ایران هستند",
+   "title_ar": "تقارير تكشف أن الولايات المتحدة وإسرائيل تخططان لشن ضربات جديدة على إيران"
   },
   {
    "id": "538188f0eaf3",
@@ -1147,7 +1374,10 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
+   ],
+   "title_en": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+   "title_fa": "ایران تهدید کرد در صورت تجدید حملات آمریکا و اسرائیل، به تأسیسات نفتی و هوش مصنوعی در سراسر خلیج فارس حمله خواهد کرد",
+   "title_ar": "إيران تهدد باستهداف منشآت النفط والذكاء الاصطناعي عبر الخليج إذا جددت الولايات المتحدة وإسرائيل هجماتهما"
   },
   {
    "id": "7338d3f76935",
@@ -1170,7 +1400,10 @@
    "date": "2026-10-22T14:08:10Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "YouTuber arrested after popular Indian finance influencer's suicide",
+   "title_fa": "بازداشت یک یوتیوبر پس از خودکشی اینفلوئنسر مشهور امور مالی در هند",
+   "title_ar": "اعتقال \"يوتيوبر\" بعد انتحار مؤثر مالي هندي شهير"
   },
   {
    "id": "fa1d80c96914",
@@ -1182,7 +1415,10 @@
    "countries": [
     "BGD",
     "SAU"
-   ]
+   ],
+   "title_en": "The execution of two Bangladeshis in Saudi Arabia explained",
+   "title_fa": "توضیحاتی درباره اعدام دو تبعه بنگلادش در عربستان سعودی",
+   "title_ar": "توضيحات بشأن إعدام بنغلاديشيين اثنين في السعودية"
   },
   {
    "id": "e74ce2d51380",
@@ -1194,7 +1430,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+   "title_fa": "به گفته مقامات، دو نفر در حمله حوثی‌ها به فرودگاهی در شرق عربستان سعودی کشته شدند",
+   "title_ar": "السلطات تعلن مقتل شخصين في هجوم للحوثيين على مطار بشرق السعودية"
   },
   {
    "id": "e4f07d7e62c5",
@@ -1205,7 +1444,10 @@
    "date": "2026-10-22T13:14:50Z",
    "countries": [
     "ISR"
-   ]
+   ],
+   "title_en": "Israeli settlers suspected of attacking journalist and diplomats released: Press review",
+   "title_fa": "مرور مطبوعات: آزادی شهرک‌نشینان اسرائیلی مظنون به حمله به خبرنگار و دیپلمات‌ها",
+   "title_ar": "جولة الصحافة: الإفراج عن مستوطنين إسرائيليين مشتبه باعتدائهم على صحفي ودبلوماسيين"
   },
   {
    "id": "36a7050df2d6",
@@ -1216,7 +1458,10 @@
    "date": "2026-10-22T13:07:31Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "IMF says Middle East, North Africa and Pakistan GDP to contract 1.3pc in 2026",
+   "title_fa": "صندوق بین‌المللی پول می‌گوید تولید ناخالص داخلی خاورمیانه، شمال آفریقا و پاکستان در سال ۲۰۲۶ ۱.۳ درصد کاهش می‌یابد",
+   "title_ar": "صندوق النقد الدولي: انكماش الناتج المحلي الإجمالي للشرق الأوسط وشمال إفريقيا وباكستان بنسبة 1.3% في 2026"
   },
   {
    "id": "682ee8f730c0",
@@ -1228,7 +1473,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "NAZA: It’s not just about Israel and Gaza. It’s about the evil lurking in us all",
+   "title_fa": "نازا: ماجرا فقط به اسرائیل و غزه مربوط نمی‌شود؛ به شری مربوط است که درون همه ما نهفته است",
+   "title_ar": "نازا: الأمر لا يقتصر على إسرائيل وغزة فحسب، بل بالشر الكامن فينا جميعاً"
   },
   {
    "id": "286892780cea",
@@ -1240,7 +1488,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+   "title_fa": "در پی حملات حوثی‌ها، به برخی از دیپلمات‌های آمریکایی گفته شد عربستان سعودی را ترک کنند",
+   "title_ar": "توجيهات لبعض الدبلوماسيين الأمريكيين بمغادرة السعودية وسط هجمات الحوثيين"
   },
   {
    "id": "dad134964638",
@@ -1251,7 +1502,10 @@
    "date": "2026-10-22T12:53:10Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "NCCIA arrests Faisalabad man for alleged Saudi visa fraud via TikTok",
+   "title_fa": "آژانس ملی تحقیقات جرایم سایبری مردی از فیصل‌آباد را به اتهام کلاهبرداری ویزای عربستان سعودی از طریق تیک‌تاک بازداشت کرد",
+   "title_ar": "الوكالة الوطنية لمكافحة الجرائم الإلكترونية تعتقل رجلاً من فيصل آباد بتهمة الاحتيال في تأشيرات السعودية عبر تيك توك"
   },
   {
    "id": "7bcf7a0d4cc7",
@@ -1263,7 +1517,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Houthis claim attacks on Saudi defence ministry, Aramco facilities and airports",
+   "title_fa": "حوثی‌ها مسئولیت حمله به وزارت دفاع عربستان، تأسیسات آرامکو و فرودگاه‌ها را بر عهده گرفتند",
+   "title_ar": "الحوثيون يعلنون مسؤوليتهم عن هجمات استهدفت وزارة الدفاع السعودية ومنشآت لأرامكو ومطارات"
   },
   {
    "id": "589d1a855bec",
@@ -1275,7 +1532,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Yemen’s Houthis say they attacked Saudi Defence Ministry, Aramco in Yanbu and Dammam airport",
+   "title_fa": "حوثی‌های یمن می‌گویند به وزارت دفاع عربستان، تأسیسات آرامکو در ینبع و فرودگاه دمام حمله کرده‌اند",
+   "title_ar": "حوثيو اليمن يعلنون استهداف وزارة الدفاع السعودية وأرامكو في ينبع ومطار الدمام"
   },
   {
    "id": "0d422b01e9fa",
@@ -1286,7 +1546,10 @@
    "date": "2026-10-22T12:28:34Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "We toured Karachi's Red Line to bring you this update",
+   "title_fa": "برای ارائه این گزارش جدید، از خط قرمز کراچی بازدید کردیم",
+   "title_ar": "قمنا بجولة في \"الخط الأحمر\" بكراتشي لنوافيكم بهذا التقرير الجديد"
   },
   {
    "id": "5521a74a4f70",
@@ -1298,7 +1561,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israel kills four Palestinians in last 24 hours, including teenage girl",
+   "title_fa": "اسرائیل در ۲۴ ساعت گذشته چهار فلسطینی از جمله یک دختر نوجوان را کشت",
+   "title_ar": "إسرائيل تقتل أربعة فلسطينيين خلال الـ 24 ساعة الماضية، بينهم فتاة مراهقة"
   },
   {
    "id": "9a8d1c06963b",
@@ -1310,7 +1576,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli attack on vehicle in Gaza City kills two",
+   "title_fa": "حمله اسرائیل به یک خودرو در شهر غزه دو کشته برجا گذاشت",
+   "title_ar": "هجوم إسرائيلي على مركبة في مدينة غزة يسفر عن مقتل شخصين"
   },
   {
    "id": "9b95d1280b63",
@@ -1321,7 +1590,10 @@
    "date": "2026-10-22T11:43:26Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "Gaza families brace for 'another famine' as UN cuts food aid",
+   "title_fa": "خانواده‌های غزه در پی کاهش کمک‌های غذایی سازمان ملل، خود را برای «قحطی دیگری» آماده می‌کنند",
+   "title_ar": "عائلات غزة تستعد لـ «مجاعة أخرى» مع تقليص الأمم المتحدة للمساعدات الغذائية"
   },
   {
    "id": "8b55f68ff0e3",
@@ -1332,7 +1604,10 @@
    "date": "2026-10-22T11:42:50Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Pakistan, EU agree to strengthen counterterrorism cooperation at multilateral forums",
+   "title_fa": "پاکستان و اتحادیه اروپا برای تقویت همکاری در زمینه مبارزه با تروریسم در مجامع چندجانبه به توافق رسیدند",
+   "title_ar": "باكستان والاتحاد الأوروبي يتفقان على تعزيز التعاون في مكافحة الإرهاب في المحافل المتعددة الأطراف"
   },
   {
    "id": "d3c98ce592dc",
@@ -1355,7 +1630,10 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
+   ],
+   "title_en": "Are fresh US-Israeli strikes on Iran in the pipeline?",
+   "title_fa": "آیا حملات تازه آمریکا و اسرائیل به ایران در راه است؟",
+   "title_ar": "هل تلوح في الأفق ضربات أمريكية إسرائيلية جديدة على إيران؟"
   },
   {
    "id": "c0957514b3eb",
@@ -1366,7 +1644,10 @@
    "date": "2026-10-22T11:19:18Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Faster reforms could triple Pakistan’s incomes by 2050, says World Bank",
+   "title_fa": "بانک جهانی: اصلاحات سریع‌تر می‌تواند درآمد پاکستان را تا سال ۲۰۵۰ سه برابر کند",
+   "title_ar": "البنك الدولي: إصلاحات أسرع قد تضاعف دخل باكستان ثلاث مرات بحلول عام 2050"
   },
   {
    "id": "4e9a33640201",
@@ -1377,7 +1658,10 @@
    "date": "2026-10-22T10:17:58Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "New Delhi steps up air pollution controls ahead of winter",
+   "title_fa": "دهلی نو در آستانه زمستان تدابیر کنترل آلودگی هوا را تشدید می‌کند",
+   "title_ar": "نيودلهي تكثف إجراءات مكافحة تلوث الهواء قبيل فصل الشتاء"
   },
   {
    "id": "f064561f25b5",
@@ -1388,7 +1672,10 @@
    "date": "2026-10-22T09:20:05Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Karachi judicial magistrate rejects bail plea of anchorperson Iqrarul Hassan",
+   "title_fa": "قاضی دادگاه کراچی درخواست وثیقه اقرار الحسن، مجری تلویزیون، را رد کرد",
+   "title_ar": "قاضي التحقيق في كراتشي يرفض طلب الإفراج بكفالة عن المذيع إقرار الحسن"
   },
   {
    "id": "4cf9902ebde3",
@@ -1400,7 +1687,10 @@
    "countries": [
     "ARE",
     "PAK"
-   ]
+   ],
+   "title_en": "LHC issues notices to foreign secretary in contempt cases over detention of PTI-linked Pakistanis in UAE",
+   "title_fa": "دادگاه عالی لاهور در پرونده‌های توهین به دادگاه به دلیل بازداشت پاکستانی‌های مرتبط با تحریک انصاف در امارات، برای قائم‌مقام وزارت امور خارجه احضاریه صادر کرد",
+   "title_ar": "محكمة لاهور العليا تصدر إخطارات لوكيل وزارة الخارجية في قضايا ازدراء بشأن احتجاز باكستانيين مرتبطين بحزب إنصاف في الإمارات"
   },
   {
    "id": "b96efe1f17bf",
@@ -1411,7 +1701,10 @@
    "date": "2026-10-22T07:14:51Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "Suspects in West Bank settler attacks put under house arrest",
+   "title_fa": "مظنونان حملات شهرک‌نشینان در کرانه باختری در حبس خانگی قرار گرفتند",
+   "title_ar": "وضع المشتبه بهم في هجمات المستوطنين بالضفة الغربية قيد الإقامة الجبرية"
   },
   {
    "id": "2fe7ae755624",
@@ -1422,7 +1715,10 @@
    "date": "2026-10-22T07:13:48Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Iran says 7 oil tankers catch fire or damaged overnight in Strait of Hormuz",
+   "title_fa": "ایران اعلام کرد هفت نفتکش در طول شب در تنگه هرمز آتش گرفته یا آسیب دیده‌اند",
+   "title_ar": "إيران تقول إن 7 ناقلات نفط اشتعلت فيها النيران أو تضررت خلال الليل في مضيق هرمز"
   },
   {
    "id": "a59b096072b1",
@@ -1444,7 +1740,10 @@
    "date": "2026-10-22T05:30:44Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "India rejects UN rapporteur's 'India-based' label for Dawood Ibrahim's D-Company",
+   "title_fa": "هند برچسب «مستقر در هند» گزارشگر سازمان ملل برای شرکت دی داوود ابراهیم را رد کرد",
+   "title_ar": "الهند ترفض وصف مقرر الأمم المتحدة لـ «دي كومباني» التابعة لداود إبراهيم بأنها «تتخذ من الهند مقراً لها»"
   },
   {
    "id": "0af1622f6986",
@@ -1455,7 +1754,10 @@
    "date": "2026-10-22T05:22:49Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+   "title_fa": "پس از «مجازات» اوکراین توسط ماسک، هند تا چه اندازه در معرض فناوری‌های خارجی قرار دارد؟",
+   "title_ar": "بعد «معاقبة» ماسك لأوكرانيا، ما مدى انكشاف الهند أمام التكنولوجيا الأجنبية؟"
   },
   {
    "id": "abb02476a398",
@@ -1467,7 +1769,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
+   "title_fa": "بسته شده و شکنجه شده: اسرائیل از سلاح‌های شوکر ساخت آمریکا علیه بازداشت‌شدگان فلسطینی استفاده می‌کند",
+   "title_ar": "مقيدون ومعذبون: إسرائيل تستخدم أسلحة صدمات كهربائية أمريكية الصنع ضد معتقلين فلسطينيين"
   },
   {
    "id": "696c686fbf7d",
@@ -1478,7 +1783,10 @@
    "date": "2026-10-22T02:45:31Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "‘Letting roots of Pak-India conflict fester invites more danger’",
+   "title_fa": "«رها کردن ریشه‌های درگیری پاکستان و هند به حال خود خطرات بیشتری را به همراه دارد»",
+   "title_ar": "«ترك جذور الصراع الباكستاني الهندي تتفاقم يجلب المزيد من الخطر»"
   },
   {
    "id": "a044b2ae7d6b",
@@ -1490,7 +1798,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Saudis intercept more drones as conflict with Houthis spirals",
+   "title_fa": "هم‌زمان با تشدید درگیری با حوثی‌ها، سعودی‌ها پهپادهای بیشتری را رهگیری می‌کنند",
+   "title_ar": "السعودية تعترض المزيد من الطائرات المسيرة مع تصاعد الصراع مع الحوثيين"
   },
   {
    "id": "80cb094f9510",
@@ -1501,7 +1812,10 @@
    "date": "2026-10-22T02:09:05Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "Oil rises as U.S. orders diplomats to leave Saudi Arabia amid escalating tensions",
+   "title_fa": "با دستور آمریکا به دیپلمات‌ها برای ترک عربستان سعودی در بحبوحه تنش‌های فزاینده، قیمت نفت افزایش یافت",
+   "title_ar": "ارتفاع أسعار النفط مع إصدار الولايات المتحدة أوامر لدبلوماسييها بمغادرة السعودية وسط تصاعد التوترات"
   },
   {
    "id": "f45303cfc40f",
@@ -1513,7 +1827,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "title_fa": "هم‌زمان با تشدید حملات حوثی‌ها، آمریکا به برخی دیپلمات‌ها دستور داد عربستان سعودی را ترک کنند",
+   "title_ar": "الولايات المتحدة تأمر بعض الدبلوماسيين بمغادرة السعودية مع تصاعد هجمات الحوثيين"
   },
   {
    "id": "cfd562c48107",
@@ -1524,7 +1841,10 @@
    "date": "2026-10-21T23:39:35Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+   "title_fa": "سازمان هواپیمایی کشوری عربستان سعودی اعلام کرد در حمله به فرودگاه ملک فهد یک نفر کشته و هشت نفر زخمی شدند",
+   "title_ar": "الطيران المدني السعودي يعلن مقتل شخص وإصابة ثمانية آخرين في هجوم على مطار الملك فهد"
   },
   {
    "id": "e28037d5cfc2",
@@ -1535,7 +1855,10 @@
    "date": "2026-10-21T23:06:37Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "Trump's green card curbs test Indian tech workers' American dream",
+   "title_fa": "محدودیت‌های گرین‌کارت ترامپ، رؤیای آمریکایی متخصصان فناوری هندی را محک می‌زند",
+   "title_ar": "قيود ترامب على البطاقة الخضراء تختبر الحلم الأمريكي للعاملين الهنود في مجال التكنولوجيا"
   },
   {
    "id": "9e90dfc31cd2",
@@ -1546,7 +1869,10 @@
    "date": "2026-10-21T20:31:24Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "Saudi authorities say two killed by falling debris at oil facility following drone attack in kingdom",
+   "title_fa": "مقامات سعودی می‌گویند در پی حمله پهپادی در این پادشاهی، دو نفر بر اثر سقوط بقایا در یک تأسیسات نفتی کشته شدند",
+   "title_ar": "السلطات السعودية تقول إن شخصين قُتلا إثر سقوط حطام في منشأة نفطية بعد هجوم بطائرة مسيرة في المملكة"
   },
   {
    "id": "ca0637af58b1",
@@ -1557,7 +1883,10 @@
    "date": "2026-10-21T18:22:28Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+   "title_fa": "رهبران «سوسک» هند که خواستار استعفای رئیس انتخابات شده بودند از زندان آزاد شدند",
+   "title_ar": "إطلاق سراح قادة في الهند وُصفوا بـ«الصراصير» طالبوا رئيس لجنة الانتخابات بالاستقالة"
   },
   {
    "id": "9f3ee1d649f1",
@@ -1568,7 +1897,10 @@
    "date": "2026-10-21T17:59:14Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+   "title_fa": "هایدی لوین بازگو می‌کند که چگونه جوانان فلسطینی در حمله شهرک‌نشینان به نجات او کمک کردند",
+   "title_ar": "هايدي ليفين تروي كيف ساعدها شبان فلسطينيون في النجاة أثناء هجوم للمستوطنين"
   },
   {
    "id": "f89020b1ec62",
@@ -1580,7 +1912,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli forces detain and then release U.S. Congressional candidate at West Bank harvest",
+   "title_fa": "نیروهای اسرائیلی یک نامزد کنگره آمریکا را در فصل برداشت محصول در کرانه باختری بازداشت و سپس آزاد کردند",
+   "title_ar": "القوات الإسرائيلية تحتجز مرشحاً للكونغرس الأمريكي ثم تطلق سراحه خلال موسم الحصاد في الضفة الغربية"
   },
   {
    "id": "2c7d22e9918c",
@@ -1592,7 +1927,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Yemen’s Houthis say targeted Saudi position in Aden",
+   "title_fa": "حوثی‌های یمن می‌گویند یک موضع سعودی را در عدن هدف قرار دادند",
+   "title_ar": "الحوثيون في اليمن يقولون إنهم استهدفوا موقعاً سعودياً في عدن"
   },
   {
    "id": "9810f808ee50",
@@ -1605,7 +1943,10 @@
     "PAK",
     "QAT",
     "TUR"
-   ]
+   ],
+   "title_en": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
+   "title_fa": "پاکستان، ترکیه، قطر و اندونزی پیمانی را برای تقویت همکاری‌های دفاعی امضا کردند",
+   "title_ar": "باكستان وتركيا وقطر وإندونيسيا توقع اتفاقاً لتعزيز التعاون الدفاعي"
   },
   {
    "id": "701a9391c199",
@@ -1616,7 +1957,10 @@
    "date": "2026-10-21T15:54:08Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
+   "title_fa": "مکرون، رئیس‌جمهور فرانسه در سفری غافلگیرکننده به نشانه «همبستگی» وارد عربستان سعودی شد",
+   "title_ar": "الرئيس الفرنسي ماكرون يصل إلى السعودية في زيارة «تضامن» مفاجئة"
   },
   {
    "id": "4a284981d0cf",
@@ -1639,7 +1983,10 @@
    "date": "2026-10-21T14:24:02Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+   "title_fa": "امدادگران هشدار می‌دهند: شهر محاصره‌شده یمن در آستانه بحرانی «غیرقابل مهار» است",
+   "title_ar": "عمال الإغاثة يحذرون: مدينة يمنية محاصرة على شفا أزمة «خارجة عن السيطرة»"
   },
   {
    "id": "f24f3fe6d6db",
@@ -1651,7 +1998,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+   "title_fa": "ارتش اسرائیل داوطلبان آمریکایی و بریتانیایی، از جمله برد لندر سیاستمدار دموکرات نیویورک را در کرانه باختری بازداشت کرد",
+   "title_ar": "الجيش الإسرائيلي يحتجز متطوعين أمريكيين وبريطانيين في الضفة الغربية من بينهم السياسي الديمقراطي النيويوركي براد لاندر"
   },
   {
    "id": "1e56bef4209d",
@@ -1662,7 +2012,10 @@
    "date": "2026-10-21T13:19:59Z",
    "countries": [
     "SAU"
-   ]
+   ],
+   "title_en": "Emmanuel Macron lands in Riyadh on surprise ‘solidarity’ visit",
+   "title_fa": "امانوئل مکرون در سفری غافلگیرکننده به نشانه «همبستگی» وارد ریاض شد",
+   "title_ar": "إيمانويل ماكرون يصل إلى الرياض في زيارة «تضامن» مفاجئة"
   },
   {
    "id": "f6bb8db8c6cc",
@@ -1673,7 +2026,10 @@
    "date": "2026-10-21T13:00:19Z",
    "countries": [
     "SYR"
-   ]
+   ],
+   "title_en": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
+   "title_fa": "نیویورک بنای یادبودی برای خلیل جبران و سوریه کوچک ساخت؛ چرا خشم جهانی برانگیخته شد؟",
+   "title_ar": "مدينة نيويورك تشيد نصباً تذكارياً لجبران خليل جبران و«سوريا الصغيرة». لماذا حدثت ضجة عالمية؟"
   },
   {
    "id": "784ccc64fb7f",
@@ -1684,7 +2040,10 @@
    "date": "2026-10-21T12:00:00Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+   "title_fa": "«آغاز شوم» برداشت زیتون در کرانه باختری در بحبوحه حملات شهرک‌نشینان",
+   "title_ar": "«بداية مشؤومة» لموسم قطاف الزيتون في الضفة الغربية وسط هجمات المستوطنين"
   },
   {
    "id": "aa004334f429",
@@ -1697,7 +2056,10 @@
     "EGY",
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Egypt mulls joining Saudi Arabia in war against Houthis",
+   "title_fa": "مصر در حال بررسی پیوستن به عربستان سعودی در جنگ علیه حوثی‌ها است",
+   "title_ar": "مصر تدرس الانضمام إلى السعودية في الحرب ضد الحوثيين"
   },
   {
    "id": "62791c3a09ab",
@@ -1730,7 +2092,10 @@
    "date": "2026-10-21T05:49:47Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "What are the deal contours of India-New Zealand FTA?",
+   "title_fa": "خطوط کلی توافق تجارت آزاد هند و نیوزیلند چیست؟",
+   "title_ar": "ما هي الملامح العامة لاتفاقية التجارة الحرة بين الهند ونيوزيلندا؟"
   },
   {
    "id": "5809f4efee9b",
@@ -1741,7 +2106,10 @@
    "date": "2026-10-21T05:46:33Z",
    "countries": [
     "PAK"
-   ]
+   ],
+   "title_en": "Pakistan arrests man wanted by US over $126m postage fraud case",
+   "title_fa": "پاکستان مردی را که به دلیل پرونده کلاهبرداری پستی ۱۲۶ میلیون دلاری تحت تعقیب آمریکا بود بازداشت کرد",
+   "title_ar": "باكستان تعتقل رجلاً مطلوباً للولايات المتحدة في قضية احتيال بريدي بقيمة 126 مليون دولار"
   },
   {
    "id": "8f63151e4016",
@@ -1752,7 +2120,10 @@
    "date": "2026-10-21T05:36:55Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "India opposes attempts to portray world’s largest democracy negatively using unverified allegations at UN",
+   "title_fa": "هند با تلاش‌ها برای به تصویر کشیدن منفی بزرگ‌ترین دموکراسی جهان با استفاده از ادعاهای تأیید‌نشده در سازمان ملل مخالفت کرد",
+   "title_ar": "الهند تعارض محاولات تصوير أكبر ديمقراطية في العالم بشكل سلبي باستخدام مزاعم غير مؤكدة في الأمم المتحدة"
   },
   {
    "id": "c1451772a38c",
@@ -1763,7 +2134,10 @@
    "date": "2026-10-21T05:16:44Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
+   "title_fa": "شرکت «جیو» متعلق به موکش آمبانی میلیاردر، بزرگ‌ترین فروش سهام هند را آغاز کرد",
+   "title_ar": "شركة «جيو» التابعة للملياردير موكيش أمباني تطلق أكبر عملية بيع أسهم في الهند"
   },
   {
    "id": "821c82526b11",
@@ -1774,7 +2148,10 @@
    "date": "2026-10-21T05:00:02Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+   "title_fa": "آب‌های ناآرام: زندگی در زمان جنگ برای ایرانیان در تنگه هرمز",
+   "title_ar": "مياه مضطربة: الحياة في زمن الحرب بالنسبة للإيرانيين في مضيق هرمز"
   },
   {
    "id": "2f3be3d13d6d",
@@ -1785,7 +2162,10 @@
    "date": "2026-10-21T03:35:01Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "U.S.-India perfectly aligned on core issues: Marco Rubio",
+   "title_fa": "مارکو روبیو: آمریکا و هند در موضوعات بنیادین کاملاً هم‌راستا هستند",
+   "title_ar": "ماركو روبيو: الولايات المتحدة والهند متوافقتان تماماً بشأن القضايا الجوهرية"
   },
   {
    "id": "c222a00c865a",
@@ -1796,7 +2176,10 @@
    "date": "2026-10-21T03:22:10Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "India, U.S. trade deal to be much different: Donald Trump",
+   "title_fa": "دونالد ترامپ: توافق تجاری هند و آمریکا بسیار متفاوت خواهد بود",
+   "title_ar": "دونالد ترامب: الاتفاق التجاري بين الهند والولايات المتحدة سيكون مختلفاً تماماً"
   },
   {
    "id": "150060aba07d",
@@ -1807,7 +2190,10 @@
    "date": "2026-10-21T01:18:25Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
+   "title_fa": "روبیو می‌گوید توافق تجاری هند و آمریکا نزدیک است و از دهلی‌نو می‌خواهد خریدهای انرژی و دفاعی از آمریکا را افزایش دهد",
+   "title_ar": "روبيو يقول إن الاتفاق التجاري بين الهند والولايات المتحدة بات قريباً، ويحث نيودلهي على زيادة مشترياتها من الطاقة والدفاع الأميركيين"
   },
   {
    "id": "44d84f4e319b",
@@ -1818,7 +2204,10 @@
    "date": "2026-10-20T22:27:35Z",
    "countries": [
     "IND"
-   ]
+   ],
+   "title_en": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+   "title_fa": "روبیو خواستار خرید بیشتر نفت آمریکا و ونزوئلا توسط هند شد",
+   "title_ar": "روبيو يضغط على الهند لشراء المزيد من النفط الأميركي والفنزويلي"
   },
   {
    "id": "484979fdb3b4",
@@ -1829,7 +2218,10 @@
    "date": "2026-10-20T22:02:49Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Iran security chief rejects moving enriched uranium out of country",
+   "title_fa": "مسئول ارشد امنیتی ایران انتقال اورانیوم غنی‌شده به خارج از کشور را رد کرد",
+   "title_ar": "مسؤول الأمن الإيراني يرفض نقل اليورانيوم المخصب إلى خارج البلاد"
   },
   {
    "id": "673d9162497a",
@@ -1841,7 +2233,10 @@
    "countries": [
     "EGY",
     "YEM"
-   ]
+   ],
+   "title_en": "Egyptian involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
+   "title_fa": "کارشناس می‌گوید دخالت مصر در یمن «ممکن است در واقع نقش منطقه‌ای قاهره را تضعیف کند»",
+   "title_ar": "خبير يقول إن التورط المصري في اليمن «قد يضعف في الواقع دور القاهرة الإقليمي»"
   },
   {
    "id": "cb2f54d2e25a",
@@ -1852,7 +2247,10 @@
    "date": "2026-10-20T19:48:48Z",
    "countries": [
     "IRN"
-   ]
+   ],
+   "title_en": "Two men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
+   "title_fa": "بازداشت مجدد دو مرد در بریتانیا به ظن کمک به ایران در پی توطئه مشکوک در یک پایگاه هوایی تحت مدیریت آمریکا",
+   "title_ar": "إعادة اعتقال رجلين في بريطانيا للاشتباه في مساعدتهما لإيران بشأن مؤامرة مشتبه بها في قاعدة جوية تديرها الولايات المتحدة"
   },
   {
    "id": "20b965f0a69e",
@@ -1864,7 +2262,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+   "title_fa": "بریتانیا برای محافظت از عربستان سعودی در برابر حملات حوثی‌ها جنگنده مستقر می‌کند",
+   "title_ar": "بريطانيا تنشر مقاتلات لحماية السعودية من هجمات الحوثيين"
   },
   {
    "id": "1ba9975bdbed",
@@ -1875,7 +2276,10 @@
    "date": "2026-10-20T16:48:52Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Death toll from Houthi strike on Yemen government camp rises to 73",
+   "title_fa": "شمار کشته‌شدگان حمله حوثی‌ها به اردوگاه نیروهای دولتی یمن به ۷۳ نفر افزایش یافت",
+   "title_ar": "ارتفاع حصيلة قتلى الهجوم الحوثي على معسكر للحكومة اليمنية إلى 73"
   },
   {
    "id": "18e6a639340a",
@@ -1887,7 +2291,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli fire kills four people in Gaza, medics say",
+   "title_fa": "به گفته امدادگران، آتش نیروهای اسرائیلی چهار نفر را در غزه کشت",
+   "title_ar": "مسعفون يقولون إن نيران الجيش الإسرائيلي قتلت أربعة أشخاص في غزة"
   },
   {
    "id": "df51af3f15b2",
@@ -1909,7 +2316,10 @@
    "date": "2026-10-20T14:09:42Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+   "title_fa": "مقامات محلی می‌گویند حمله موشکی حوثی‌ها به یک اردوگاه در یمن ۷۳ نیروی امنیتی تازه جذب‌شده را به کام مرگ کشاند",
+   "title_ar": "السلطات المحلية تقول إن ضربة صاروخية للحوثيين على معسكر باليمن قتلت 73 مجنداً أمنياً"
   },
   {
    "id": "7e6cefb920a5",
@@ -1921,7 +2331,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+   "title_fa": "بریتانیا برای دفاع از عربستان سعودی در برابر حملات حوثی‌ها جنگنده مستقر می‌کند",
+   "title_ar": "بريطانيا تنشر طائرات مقاتلة للدفاع عن السعودية ضد هجمات الحوثيين"
   },
   {
    "id": "95b123729d25",
@@ -1932,7 +2345,10 @@
    "date": "2026-10-20T12:00:00Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Yemen war continues to force families from homes amid hunger and disease",
+   "title_fa": "جنگ یمن در بحبوحه گرسنگی و بیماری همچنان خانواده‌ها را وادار به ترک خانه‌هایشان می‌کند",
+   "title_ar": "حرب اليمن تواصل إجبار العائلات على النزوح من منازلهم وسط الجوع والمرض"
   },
   {
    "id": "ff0d287d1f15",
@@ -1943,7 +2359,10 @@
    "date": "2026-10-20T12:00:00Z",
    "countries": [
     "AFG"
-   ]
+   ],
+   "title_en": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
+   "title_fa": "«یک قدم تا قحطی»: نگاهی به درون بحران گرسنگی در افغانستان",
+   "title_ar": "«على بعد خطوة واحدة من المجاعة»: نظرة داخل أزمة الجوع في أفغانستان"
   },
   {
    "id": "732038d51193",
@@ -1954,7 +2373,10 @@
    "date": "2026-10-20T10:00:32Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
+   "title_fa": "فرار از خط مقدم: عبور خانواده‌های یمنی از دریای سرخ به جیبوتی همزمان با شدت گرفتن درگیری با حوثی‌ها",
+   "title_ar": "الفرار من خطوط المواجهة: عائلات يمنية تعبر البحر الأحمر إلى جيبوتي مع تصاعد الصراع مع الحوثيين"
   },
   {
    "id": "265f5e98b519",
@@ -1988,7 +2410,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli police detain 10 people in rare raid against West Bank settlers",
+   "title_fa": "پلیس اسرائیل در یورشی کم‌سابقه علیه شهرک‌نشینان کرانه باختری، ۱۰ نفر را بازداشت کرد",
+   "title_ar": "الشرطة الإسرائيلية تعتقل 10 أشخاص في مداهمة نادرة ضد مستوطني الضفة الغربية"
   },
   {
    "id": "ba686d1e7cf4",
@@ -1999,7 +2424,10 @@
    "date": "2026-10-19T17:15:23Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+   "title_fa": "حمله حوثی‌ها با ۵۳ کشته، بزرگ‌ترین تلفات جانی منفرد را از زمان ازسرگیری جنگ داخلی یمن رقم زد",
+   "title_ar": "هجوم للحوثيين يقتل 53 شخصاً في أكبر خسارة فردية في الأرواح منذ تجدد الحرب الأهلية في اليمن"
   },
   {
    "id": "7cdcbee659f9",
@@ -2021,7 +2449,10 @@
    "date": "2026-10-19T12:18:17Z",
    "countries": [
     "LBN"
-   ]
+   ],
+   "title_en": "Inflation squeezes households as Lebanon's economic crisis persists",
+   "title_fa": "با ادامه بحران اقتصادی لبنان، تورم بر خانواده‌ها فشار می‌آورد",
+   "title_ar": "التضخم يخنق الأسر مع استمرار الأزمة الاقتصادية في لبنان"
   },
   {
    "id": "20bf405903b2",
@@ -2033,7 +2464,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+   "title_fa": "«فصل وحشت»: تشدید حملات اسرائیل به کشاورزان زیتون‌کار در کرانه باختری و حملات مرگبار به غزه",
+   "title_ar": "«موسم الخوف»: تصاعد الهجمات الإسرائيلية على مزارعي الزيتون في الضفة الغربية، وضربات قاتلة على غزة"
   },
   {
    "id": "8aa8936343a5",
@@ -2044,7 +2478,10 @@
    "date": "2026-10-19T12:00:00Z",
    "countries": [
     "PSE"
-   ]
+   ],
+   "title_en": "Gaza: Funding cuts leave half a million without food assistance",
+   "title_fa": "غزه: کاهش بودجه، نیم میلیون نفر را بدون کمک‌های غذایی رها کرد",
+   "title_ar": "غزة: خفض التمويل يترك نصف مليون شخص بدون مساعدات غذائية"
   },
   {
    "id": "4193c8c91df0",
@@ -2056,7 +2493,10 @@
    "countries": [
     "ISR",
     "PSE"
-   ]
+   ],
+   "title_en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+   "title_fa": "پلیس اسرائیل ۱۰ نفر را در رابطه با حملات شهرک‌نشینان به خبرنگار و دیپلمات‌ها در کرانه باختری دستگیر کرد",
+   "title_ar": "الشرطة الإسرائيلية تعتقل 10 أشخاص على خلفية اعتداءات المستوطنين على صحفي ودبلوماسيين في الضفة الغربية"
   },
   {
    "id": "a2f4bcccbdec",
@@ -2068,7 +2508,10 @@
    "countries": [
     "BGD",
     "SAU"
-   ]
+   ],
+   "title_en": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+   "title_fa": "بنگلادش می‌گوید از اعدام شهروندانش توسط عربستان سعودی مطلع نشده بود",
+   "title_ar": "بنغلاديش تقول إنها لم تُبلغ بإعدام مواطنيها على يد السعودية"
   },
   {
    "id": "f3e820a6aaf7",
@@ -2079,18 +2522,10 @@
    "date": "2026-10-19T07:33:32Z",
    "countries": [
     "PSE"
-   ]
-  },
-  {
-   "id": "ec0c1d0c4c6c",
-   "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-19T06:00:18Z",
-   "countries": [
-    "PSE"
-   ]
+   ],
+   "title_en": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
+   "title_fa": "برنامه جهانی غذا کمک‌ها به نیم میلیون نفر در غزه را به دلیل کمبود بودجه متوقف می‌کند",
+   "title_ar": "برنامج الأغذية العالمي ينهي مساعداته لنصف مليون شخص في غزة بسبب نقص التمويل"
   },
   {
    "id": "7f1b518ff840",
@@ -2156,7 +2591,10 @@
    "date": "2026-10-17T06:00:32Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
+   "title_fa": "حوثی‌های یمن مسئولیت حمله موشکی جدید به فرودگاه عدن را بر عهده گرفتند",
+   "title_ar": "الحوثيون في اليمن يعلنون مسؤوليتهم عن هجوم صاروخي جديد على مطار عدن"
   },
   {
    "id": "88e08bfc7e40",
@@ -2179,7 +2617,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Saudi Arabia postpones major sporting events amid Houthi attacks",
+   "title_fa": "عربستان سعودی رویدادهای ورزشی مهم را در بحبوحه حملات حوثی‌ها به تعویق انداخت",
+   "title_ar": "السعودية تؤجل فعاليات رياضية كبرى وسط هجمات الحوثيين"
   },
   {
    "id": "3b3920370410",
@@ -2190,7 +2631,10 @@
    "date": "2026-10-15T19:57:48Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Houthi attack on palace used by Yemen government in Aden kills five",
+   "title_fa": "حمله حوثی‌ها به کاخ مورد استفاده دولت یمن در عدن پنج کشته بر جای گذاشت",
+   "title_ar": "هجوم للحوثيين على قصر تستخدمه الحكومة اليمنية في عدن يسفر عن مقتل خمسة أشخاص"
   },
   {
    "id": "f7e908053ba8",
@@ -2202,7 +2646,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "War escalates between Houthis and Riyadh: How did we get here?",
+   "title_fa": "تشدید جنگ میان حوثی‌ها و ریاض: چگونه به اینجا رسیدیم؟",
+   "title_ar": "تصاعد الحرب بين الحوثيين والرياض: كيف وصلنا إلى هنا؟"
   },
   {
    "id": "346db1fdb2a5",
@@ -2213,7 +2660,10 @@
    "date": "2026-10-15T12:00:00Z",
    "countries": [
     "AFG"
-   ]
+   ],
+   "title_en": "Afghanistan faces record hunger levels amid rampant rights violations",
+   "title_fa": "افغانستان در بحبوحه نقض گسترده حقوق، با سطوح بی‌سابقه‌ای از گرسنگی مواجه است",
+   "title_ar": "أفغانستان تواجه مستويات جوع قياسية وسط انتهاكات واسعة النطاق للحقوق"
   },
   {
    "id": "d236b1d17ac3",
@@ -2225,7 +2675,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+   "title_fa": "حوثی‌ها پس از اعلام عربستان مبنی بر رهگیری یک موشک، هدف قرار دادن شهر مقدس مدینه را تکذیب کردند",
+   "title_ar": "الحوثيون ينفون استهداف مدينة المدينة المنورة بعد إعلان السعودية اعتراض صاروخ"
   },
   {
    "id": "0b8d2cac4589",
@@ -2236,7 +2689,10 @@
    "date": "2026-10-14T17:18:04Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
+   "title_fa": "«جاه‌طلبی‌های فزاینده»: دکتر کندال درباره تلاش حوثی‌ها برای به‌رسمیت‌شناخته‌شدن به‌عنوان رهبران «مشروع» یمن",
+   "title_ar": "«طموحات متزايدة»: د. كيندال تتحدث عن مساعي الحوثيين للاعتراف بهم كقادة «شرعيين» لليمن"
   },
   {
    "id": "88a3c3bb6857",
@@ -2248,7 +2704,10 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
+   ],
+   "title_en": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
+   "title_fa": "حوثی‌ها پس از حمله به شرکت بزرگ نفتی آرامکوی عربستان، تهدید به تشدید تنش کردند",
+   "title_ar": "الحوثيون يهددون بالتصعيد بعد الهجوم على عملاق النفط السعودي أرامكو"
   },
   {
    "id": "0da4252df785",
@@ -2259,7 +2718,10 @@
    "date": "2026-10-14T12:00:00Z",
    "countries": [
     "YEM"
-   ]
+   ],
+   "title_en": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+   "title_fa": "یمن: برنامه جهانی غذا درباره احتمال یک «فاجعه انسانی» به دلیل مسدود شدن مسیرهای امدادرسانی بر اثر درگیری‌ها هشدار داد",
+   "title_ar": "اليمن: برنامج الأغذية العالمي يحذر من «كارثة إنسانية» محتملة بعدما أعاقت المعارك إيصال المساعدات"
   }
  ]
 }
