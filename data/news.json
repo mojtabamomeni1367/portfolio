@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-23T09:45:33Z",
- "count": 191,
+ "updated": "2026-10-23T11:24:31Z",
+ "count": 197,
  "items": [
   {
    "id": "e9b62e1e7db9",
-   "title": "رکورد جدید بهای نفت در آستانه انتخابات در اسرائیل و آمریکا؛ برنت بشکه‌ای ۱۱۳ دلار",
+   "title": "افزایش حملات به نفتکش‌ها در خلیج فارس، امارات از نشت نفت در سواحل خود خبر داد",
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T09:45:33Z",
+   "date": "2026-10-23T11:24:31Z",
    "countries": [
-    "ISR"
+    "ARE"
    ],
    "top": true
   },
@@ -20,10 +20,59 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T09:45:33Z",
+   "date": "2026-10-23T11:24:31Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "526e7687e7d8",
+   "title": "At least 12 killed, 22 injured in road accident near Zero Point in Balochistan’s Uthal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+   "date": "2026-10-23T11:22:57Z",
+   "countries": [
+    "PAK"
+   ],
+   "top": true
+  },
+  {
+   "id": "ee70a7b22aae",
+   "title": "10 India-sponsored terrorists killed as bid to undermine state's writ in Gwadar foiled: ISPR",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039254/10-india-sponsored-terrorists-killed-as-bid-to-undermine-states-writ-in-gwadar-foiled-ispr",
+   "date": "2026-10-23T11:07:29Z",
+   "countries": [
+    "IND"
+   ],
+   "top": true
+  },
+  {
+   "id": "38aef09981a9",
+   "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election",
+   "date": "2026-10-23T10:41:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "5810ad5f7253",
+   "title": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
+   "date": "2026-10-23T10:35:21Z",
+   "countries": [
+    "ARE"
    ],
    "top": true
   },
@@ -33,10 +82,72 @@
    "lang": "en",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T09:44:40Z",
+   "date": "2026-10-23T10:26:06Z",
    "countries": [
     "ISR",
     "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "f214bed755da",
+   "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T10:23:15Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "53a21c76371b",
+   "title": "All 14 Indians in yacht incident off Yemen coast reported safe: Embassy",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
+   "date": "2026-10-23T10:10:01Z",
+   "countries": [
+    "IND",
+    "YEM"
+   ],
+   "top": true
+  },
+  {
+   "id": "e8b82648c5eb",
+   "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+   "date": "2026-10-23T09:56:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "top": true
+  },
+  {
+   "id": "a7ec8ecd1211",
+   "title": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+   "date": "2026-10-23T09:52:14Z",
+   "countries": [
+    "NPL"
+   ],
+   "top": true
+  },
+  {
+   "id": "fb228bc65512",
+   "title": "What role does the military play in Israeli schools?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+   "date": "2026-10-23T09:32:33Z",
+   "countries": [
+    "ISR"
    ],
    "top": true
   },
@@ -74,8 +185,7 @@
    "countries": [
     "ISR",
     "PSE"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "0b01b800f0fd",
@@ -86,8 +196,7 @@
    "date": "2026-10-23T09:03:39Z",
    "countries": [
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "1d336c319bd5",
@@ -98,33 +207,7 @@
    "date": "2026-10-23T08:51:08Z",
    "countries": [
     "SAU"
-   ],
-   "top": true
-  },
-  {
-   "id": "f214bed755da",
-   "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T08:49:29Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "top": true
-  },
-  {
-   "id": "a7ec8ecd1211",
-   "title": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
-   "date": "2026-10-23T08:46:11Z",
-   "countries": [
-    "NPL"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "1c0f3972c84a",
@@ -135,8 +218,7 @@
    "date": "2026-10-23T08:42:49Z",
    "countries": [
     "IND"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "438f22af2c8f",
@@ -147,8 +229,7 @@
    "date": "2026-10-23T08:40:09Z",
    "countries": [
     "IRN"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "9c9b369cb67e",
@@ -172,8 +253,7 @@
    "countries": [
     "ISR",
     "PSE"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "f75bb84bb68f",
@@ -185,8 +265,18 @@
    "countries": [
     "ISR",
     "PSE"
-   ],
-   "top": true
+   ]
+  },
+  {
+   "id": "4c8029810e2c",
+   "title": "سلاح هسته‌ای؛ عامل بازدارندگی یا افزایش خطر حمله به ایران",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cvn0620kppexo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T08:12:38Z",
+   "countries": [
+    "IRN"
+   ]
   },
   {
    "id": "0a871a339692",
@@ -287,18 +377,6 @@
    "date": "2026-10-23T05:15:21Z",
    "countries": [
     "ISR"
-   ]
-  },
-  {
-   "id": "53a21c76371b",
-   "title": "Trying to establish ‘facts’ about incident ‘apparently’ involving Indians on yacht off Yemen coast: India",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
-   "date": "2026-10-23T05:01:38Z",
-   "countries": [
-    "IND",
-    "YEM"
    ]
   },
   {
@@ -2088,17 +2166,6 @@
    "date": "2026-10-15T19:57:48Z",
    "countries": [
     "YEM"
-   ]
-  },
-  {
-   "id": "b9df7ab83439",
-   "title": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
-   "date": "2026-10-15T16:17:23Z",
-   "countries": [
-    "PSE"
    ]
   },
   {
