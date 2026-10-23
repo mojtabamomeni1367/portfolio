@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-23T13:20:07Z",
- "count": 35,
+ "updated": "2026-10-23T15:55:41Z",
+ "count": 45,
  "items": [
+  {
+   "id": "5c89fcc53c3c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/r4-bloc-european-powers-discuss-developments-in-the-gulf-in-istanbul-meeting",
+   "date": "2026-10-23T15:24:19Z",
+   "countries": [
+    "EGY",
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting",
+   "title_en": "R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting",
+   "summary_en": "Foreign ministers from the R4 group—Pakistan, Egypt, Saudi Arabia, and Turkiye—met with their counterparts from France, Germany, Italy, and the UK in Istanbul to discuss regional developments in the Gulf amid the US-Israeli war on Iran.",
+   "body_en": [
+    "According to Pakistan's Foreign Office, the meeting provided an opportunity to exchange views on regional developments in the Gulf and their socioeconomic impacts, as well as the need for diplomatic engagement. Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar briefed participants on Pakistan's diplomatic efforts to de-escalate tensions.",
+    "The R4 bloc also held a separate meeting to review Middle East security challenges, expressing solidarity with Saudi Arabia and condemning Houthi attacks targeting the kingdom. Additionally, Dar held bilateral talks on the sidelines with foreign ministers from Turkiye, Egypt, and Germany."
+   ],
+   "title_fa": "گفتگوی بلوک R4 و قدرت‌های اروپایی درباره تحولات خلیج فارس در نشست استانبول",
+   "summary_fa": "وزراى امور خارجه گروه R4 شامل پاکستان، مصر، عربستان سعودی و ترکیه در استانبول با همتایان خود از فرانسه، آلمان، ایتالیا و بریتانیا دیدار کردند تا در میان جنگ آمریکا و اسرائیل علیه ایران، درباره تحولات منطقه‌ای در خلیج فارس گفتگو کنند.",
+   "body_fa": [
+    "به گفته وزارت امور خارجه پاکستان، این نشست فرستادگی برای تبادل نظر درباره تحولات منطقه‌ای در خلیج فارس، پیامدهای اقتصادی-اجتماعی آن و نیاز به تعامل دیپلماتیک فراهم کرد. اسحاق دار، معاون نخست‌وزیر و وزیر امور خارجه پاکستان، حاضران را در جریان تلاش‌های دیپلماتیک کشورش برای کاهش تنش‌ها قرار داد.",
+    "بلوک R4 همچنین نشست جداگانه‌ای برای بررسی چالش‌های امنیتی خاورمیانه برگزار کرد و ضمن ابراز همبستگی با عربستان سعودی، حملات حوثی‌ها به این کشور را محکوم نمود. علاوه بر این، دار در حاشیه این نشست دیدارهای دوجانبه‌ای با وزرای امور خارجه ترکیه، مصر و آلمان داشت."
+   ],
+   "title_ar": "كتلة R4 والدول الأوروبية يناقشون تطورات الخليج في اجتماع بإسطنبول",
+   "summary_ar": "التقى وزراء خارجية مجموعة R4 التي تضم پاکستان ومصر والسعودية وتركيا بنظرائهم من فرنسا وألمانيا وإيطاليا والمملكة المتحدة في إسطنبول لمناقشة التطورات الإقليمية في منطقة الخليج في ظل الحرب الأمريكية الإسرائيلية على إيران.",
+   "body_ar": [
+    "ووفقاً لوزارة الخارجية الباكستانية، وفر الاجتماع فرصة لتبادل وجهات النظر حول التطورات الإقليمية في منطقة الخليج وآثارها الاجتماعية والاقتصادية، والحاجة إلى تعزيز التواجد الدبلوماسي. واستعرض نائب رئيس الوزراء ووزير الخارجية الباكستاني إسحاق دار الجهود الدبلوماسية التي تبذلها بلاده لتهدئة التوترات.",
+    "كما عقدت كتلة R4 اجتماعاً منفصلاً لمراجعة التحديات الأمنية في الشرق الأوسط، حيث أعربت عن تضامنها مع المملكة العربية السعودية ونددت بهجمات الحوثيين التي تستهدفها. بالإضافة إلى ذلك، أجرى دار محادثات ثنائية على هامش اللقاء مع وزراء خارجية تركيا ومصر وألمانيا."
+   ]
+  },
+  {
+   "id": "e0fb181025bf",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
+   "date": "2026-10-23T14:36:43Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "score": 6,
+   "title": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
+   "title_en": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
+   "summary_en": "India's Ministry of External Affairs stated that it continues to facilitate the transport of life-saving medicines to Iran as a humanitarian gesture, despite challenges to regional flight connectivity caused by ongoing conflict in West Asia.",
+   "body_en": [
+    "Ministry spokesperson Randhir Jaiswal addressed questions regarding reports that Indian airspace access was denied to certain Iranian aircraft. He noted that Indian authorities remain in communication with Iranian counterparts to ensure the delivery of humanitarian medical supplies."
+   ],
+   "title_fa": "وزارت امور خارجه هند: هند به تسهیل انتقال داروهای حیاتی به ایران ادامه می‌دهد",
+   "summary_fa": "وزارت امور خارجه هند اعلام کرد که به عنوان یک اقدام بشردوستانه به تسهیل انتقال داروهای حیاتی به ایران ادامه می‌دهد، اگرچه درگیری‌های جاری در غرب آسیا چالش‌هایی را برای ارتباطات پروازی ایجاد کرده است.",
+   "body_fa": [
+    "راندیر جیسوال، سخنگوی وزارت امور خارجه هند، به پرسش‌ها درباره گزارش‌های مربوط به عدم ممانعت یا عدم صدور مجوز به برخی هواپیماهای ایرانی برای استفاده از فضای هوایی هند پاسخ داد. وی خاطرنشان کرد که مقامات هندی برای تضمین ارسال محموله‌های دارویی بشردوستانه با همتایان ایرانی خود در ارتباط هستند."
+   ],
+   "title_ar": "الخارجية الهندية: الهند مستمرة في تسهيل نقل الأدوية المنقذة للحياة إلى إيران",
+   "summary_ar": "أعلنت وزارة الخارجية الهندية أنها تواصل تسهيل نقل الأدوية المنقذة للحياة إلى إيران كبادرة إنسانية، على الرغم من التحديات التي يفرضها الصراع المستمر في غرب آسيا على الرحلات الجوية.",
+   "body_ar": [
+    "ورداً على سؤال حول تقارير تفيد بمنع بعض الطائرات الإيرانية من استخدام المجال الجوي الهندي، أوضح المتحدث باسم الخارجية راندير جايسوال أن السلطات الهندية تواصل التنسيق مع نظيرتها الإيرانية لضمان نقل الإمدادات الطبية الإنسانية."
+   ]
+  },
   {
    "id": "9ecef35ab16b",
    "lang": "en",
@@ -123,6 +186,36 @@
    ]
   },
   {
+   "id": "1fb4a1df79b3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/no-space-critical-thought-how-vague-detentions-and-surveillance-are-strangling-academic",
+   "date": "2026-10-23T12:20:57Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "‘No space for critical thought’: How detentions and surveillance are strangling academic freedom in Kashmir",
+   "title_en": "‘No space for critical thought’: How detentions and surveillance are strangling academic freedom in Kashmir",
+   "summary_en": "The Jammu and Kashmir High Court quashed the preventive detention of research scholar Shafat Maqbool Wani, ruling that possessing books with controversial titles does not constitute a crime or justify detention without trial.",
+   "body_en": [
+    "Wani was initially detained under anti-terrorism legislation and later held under the Public Safety Act (PSA). Authorities cited reasons including invitations to international academic conferences and alleged \"anti-national\" literature seized from his home, which the court found had been wrongly attributed to him.",
+    "The ruling comes amid broader concerns from scholars and rights groups regarding tightening state control in the region. Authorities have removed over 4,200 books from educational institutions and public libraries following orders to screen materials for objectionable content."
+   ],
+   "title_fa": "«هیچ فضایی برای تفکر انتقادی وجود ندارد»: چگونه بازداشت‌ها و نظارت‌ها آزادی آکادمیک را در کشمیر خفه می‌کنند",
+   "summary_fa": "دادگاه عالی جامو و کشمیر حکم بازداشت پیشگیرانه شفقت مقبول وانی، پژوهشگر را لغو کرد و رای داد که داشتن کتاب‌هایی با عناوین جنجالی جرم محسوب نمی‌شود و بازداشت بدون محاکمه را توجیه نمی‌کند.",
+   "body_fa": [
+    "وانی ابتدا بر اساس قوانین ضد تروریسم بازداشت و سپس تحت قانون امنیت عمومی (PSA) نگهداری شد. مقامات دلایلی چون دعوت‌نامه‌های کنفرانس‌های آکادمیک بین‌المللی و ادعای کشف ادبیات «ضد ملی» از خانه وی را مطرح کردند که دادگاه مشخص کرد این کتاب‌ها به اشتباه به او نسبت داده شده بودند.",
+    "این حکم در میان نگرانی‌های گسترده‌تر دانشگاهیان و گروه‌های حقوق بشری درباره تشدید کنترل‌های دولتی در منطقه صادر می‌شود. مقامات منطقه پس از دستور بررسی محتوای کتاب‌ها، بیش از ۴,۲۰۰ جلد کتاب را از کتابخانه‌های عمومی و مراکز آموزشی جمع‌آوری کرده‌اند."
+   ],
+   "title_ar": "«لا مساحة للفكر النقدي»: كيف تخنق الاعتقالات والمراقبة الحرية الأكاديمية في كشمير",
+   "summary_ar": "ألغت المحكمة العليا في جامو وكشمير أمر الاحتجاز الوقائي للباحث شفقت مقبول واني، وقضت بأن حيازة كتب ذات عناوين مثيرة للجدل لا تجعل صاحبها مجرماً ولا تبرر احتجازه دون محاكمة.",
+   "body_ar": [
+    "وكان واني قد احتُجز في البداية بموجب قانون مكافحة الإرهاب ثم أُعيد احتجازه بموجب قانون السلامة العامة. واستندت السلطات إلى دعوات لحضور مؤتمرات أكاديمية دولية وكتب زُعم أنها \"معادية للوطن\" مصادرة من منزله، والتي تبين للمحكمة أن نسبتها إليه كانت خاطئة.",
+    "ويأتي هذا الحكم وسط قلق متزايد بين الأكاديميين وحقوقيين من تشديد المراقبة الحكومية في المنطقة. حيث قامت السلطات بسحب أكثر من 4,200 كتاب من المكتبات العامة والمؤسسات التعليمية في إطار حملة لفحص المحتوى."
+   ]
+  },
+  {
    "id": "06b0daaa6fbe",
    "lang": "en",
    "source": "Middle East Eye",
@@ -172,6 +265,36 @@
    "body_ar": []
   },
   {
+   "id": "d18d06f6bf62",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+   "date": "2026-10-23T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "title_en": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "summary_en": "Aid agencies have warned of a rapidly deteriorating humanitarian emergency in Taiz City, Yemen, which has been encircled by Houthi forces and cut off from supplies for 20 days.",
+   "body_en": [
+    "According to the UN aid coordination office (OCHA), fighting has made access to and from the city impossible, cutting off food, fuel, and other essential supplies. The World Food Programme reported that over 800,000 people in Taiz are cut off from assistance, while water production inside the city has dropped by half and water truck prices have tripled.",
+    "UNICEF expressed concern over widespread hunger, noting that over 52,000 children screened in Taiz this year were found to be acutely malnourished. Meanwhile, the UN migration agency recorded over 258,000 displaced individuals across Taiz and Lahj governorates, while reports indicate that at least 1,574 people have been killed in the conflict since August."
+   ],
+   "title_fa": "یمن: افزایش نگرانی‌ها برای شهر تعز در پی جلوگیری از ورود کمک‌ها",
+   "summary_fa": "آژانس‌های امدادرسانی درباره وضعیت اضطراری انسانی که به سرعت در شهر تعز یمن در حال وخیم‌تر شدن است و ۲۰ روز است توسط نیروهای حوثی محاصره شده و راه‌های ورودی آن مسدود گردیده، هشدار دادند.",
+   "body_fa": [
+    "به گفته دفتر هماهنگی امور انسان‌دوستانه سازمان ملل (OCHA)، درگیری‌ها ورود و خروج از شهر را غیرممکن ساخته و سوخت، غذا و سایر اقلام ضروری را قطع کرده است. برنامه جهانی غذا گزارش داد که بیش از ۸۰۰ هزار نفر در تعز از کمک‌ها محروم شده‌اند، در حالی که تولید آب در داخل شهر به نصف کاهش یافته و قیمت تانکرهای آب سه برابر شده است.",
+    "یونیسف از سوءتغذیه گسترده ابراز نگرانی کرد و اشاره نمود که از میان کودکان غربالگری‌شده در تعز در سال جاری، بیش از ۵۲ هزار کودک دچار سوءتغذیه شدید بوده‌اند. در همین حال، سازمان بین‌المللی مهاجرت بیش از ۲۵۸ هزار آواره را در استان‌های تعز و لحج ثبت کرده است و گزارش‌ها نشان می‌دهد حداقل ۱,۵۷۴ نفر از ماه اوت در این درگیری‌ها کشته شده‌اند."
+   ],
+   "title_ar": "اليمن: مخاوف متزايدة بشأن مدينة تعز مع منع دخول المساعدات",
+   "summary_ar": "حذرت وكالات الإغاثة من حالة طوارئ إنسانية متدهورة بسرعة داخل مدينة تعز اليمنية، التي تطوقها قوات الحوثيين وتم قطع الإمدادات عنها منذ 20 يوماً.",
+   "body_ar": [
+    "ووفقاً لمكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا)، جعلت الاشتباكات الدخول والخروج من المدينة أمراً مستحيلاً، مما أدى إلى قطع الغذاء والوقود والإمدادات الأخرى. وأفاد برنامج الأغذية العالمي بأن أكثر من 800 ألف شخص في تعز معزولون عن المساعدات، بينما انخفض إنتاج المياه داخل المدينة إلى النصف وتضاعفت أسعار صهاريج المياه ثلاث مرات.",
+    "وأعربت اليونيسف عن قلقها إزاء الجوع المنتشر، مشيرة إلى أنه تم تشخيص أكثر من 52 ألف طفل بسوء التغذية الحاد في تعز هذا العام. في غضون ذلك، سجلت المنظمة الدولية للهجرة أكثر من 258 ألف نازح في محافظتي تعز ولحج، فيما تشير التقارير إلى مقتل 1,574 شخصاً على الأقل في الصراع منذ أغسطس."
+   ]
+  },
+  {
    "id": "d139ede9e737",
    "lang": "en",
    "source": "The Guardian",
@@ -196,6 +319,39 @@
    "summary_ar": "ارتفعت أسعار خام برنت إلى 114.72 دولاراً للبرميل لتسجل أعلى مستوى لها منذ أكثر من خمسة أشهر وسط مخاوف من شن الولايات المتحدة ضربات عسكرية جديدة على إيران.",
    "body_ar": [
     "وجاء هذا الارتفاع بعد تحذيرات من طهران باستهداف منشآت نفطية وكابلات بحرية ومراكز بيانات في منطقة الخليج في حال تعرضها لهجوم أمريكي إسرائيلي جديد. كما تصاعدت التوترات عقب إعلان الحرس الثوري استهداف أربع سفن تجارية في مضيق هرمز واستمرار هجمات الحوثيين على السعودية."
+   ]
+  },
+  {
+   "id": "ca515d56bd3c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/dpm-dar-meets-turkish-fm-ahead-of-r-4-bloc-european-diplomats-meetings",
+   "date": "2026-10-23T11:30:50Z",
+   "countries": [
+    "EGY",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 6,
+   "title": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
+   "title_en": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
+   "summary_en": "Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar held bilateral talks with Turkish Foreign Minister Hakan Fidan in Istanbul ahead of multilateral meetings involving the R-4 bloc and European diplomats.",
+   "body_en": [
+    "The meetings in Istanbul brought together foreign ministers from the R-4 group — Pakistan, Egypt, Saudi Arabia and Turkiye — alongside counterparts from France, Germany, Italy and the United Kingdom to discuss regional developments in the Gulf and Middle East.",
+    "According to the Foreign Office, the officials exchanged views on security challenges, de-escalation efforts, and the social and economic impacts of regional tensions."
+   ],
+   "title_fa": "دیدار معاون نخست‌وزیر و وزیر خارجه پاکستان با وزیر خارجه ترکیه پیش از نشست بلوک آر-۴ و دیپلمات‌های اروپایی",
+   "summary_fa": "اسحاق دار، معاون نخست‌وزیر و وزیر خارجه پاکستان، پیش از آغاز نشست‌های چندجانبه میان بلوک آر-۴ و دیپلمات‌های اروپایی در استانبول، با هاکان فیدان، وزیر خارجه ترکیه، دیدار و گفتگو کرد.",
+   "body_fa": [
+    "نشست‌های استانبول وزرای خارجه گروه آر-۴ شامل پاکستان، مصر، عربستان سعودی و ترکیه را در کنار همتایانی از فرانسه، آلمان، ایتالیا و بریتانیا برای بررسی تحولات منطقه‌ای در خلیج فارس و خلیج اوسط گرد هم آورد.",
+    "بر اساس اعلام وزارت خارجه پاکستان، مقامات شرکت‌کننده در این نشست‌ها پیرامون چالش‌های امنیتی، تلاش‌های مربوط به تنش‌زدایی و پیامدهای اجتماعی و اقتصادی تنش‌های منطقه‌ای به تبادل نظر پرداختند."
+   ],
+   "title_ar": "نائب رئيس الوزراء وزير الخارجية الباكستاني يلتقي نظيره التركي قبيل اجتماع مجموعة \"آر-4\" والدبلوماسيين الأوروبيين",
+   "summary_ar": "أجرى نائب رئيس الوزراء وزير الخارجية الباكستاني إسحاق دار محادثات ثنائية مع وزير الخارجية التركي هakan فيدان في إسطنبول قبيل اجتماعات متعددة الأطراف تضم مجموعة \"آر-4\" والدبلوماسيين الأوروبيين.",
+   "body_ar": [
+    "جمع اجتماعات إسطنبول وزراء خارجية مجموعة \"آر-4\" (باكستان ومصر والسعودية وتركيا) إلى جانب نظرائهم من فرنسا ألمانيا وإيطاليا والمملكة المتحدة لمناقشة التطورات الإقليمية في منطقة الخليج والشرق الأوسط.",
+    "وبحسب وزارة الخارجية الباكستانية، تبادل المسؤولون وجهات النظر حول التحديات الأمنية وجهود تهدئة التوترات والآثار الاجتماعية والاقتصادية للتوترات الإقليمية."
    ]
   },
   {
@@ -372,6 +528,36 @@
    "summary_ar": "أصدر وزير المالية الإسرائيلي بتسلئيل سموتريتش أمراً بهدم العديد من المباني الفلسطينية قرب المدخل الشمالي لمدينة الخليل عقب حادثة إطلاق نار.",
    "body_ar": [
     "وجاء أمر الهدم عقب تبادل لإطلاق النار أسفر عن إصابة ستة جنود إسرائيليين ومقتل اثنين من الفلسطينيين بنيران القوات الإسرائيلية."
+   ]
+  },
+  {
+   "id": "e8b82648c5eb",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+   "date": "2026-10-23T09:56:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "title_en": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+   "summary_en": "New consumer electronics continue to reach the Iranian market despite severe international sanctions and regional trade disruptions, but prices have surged due to high government fees and complex smuggling routes.",
+   "body_en": [
+    "Traders in Tehran report that importing items such as mobile phones, laptops, and gaming consoles has become increasingly costly and complicated following trade disruptions with the UAE and strict US sanctions on Iranian airlines.",
+    "In addition to smuggling and transportation challenges, buyers face steep domestic registration fees, internet restrictions, and a sharply declining national currency that severely impact affordability for ordinary citizens."
+   ],
+   "title_fa": "ورود کالاهای الکترونیکی جدید به ایران، اما جهش قیمت‌ها به دلیل عوارض دولتی و تحریم‌های آمریکا",
+   "summary_fa": "کالاهای الکترونیکی جدید با وجود تحریم‌های شدید بین‌المللی و اختلالات تجاری منطقه‌ای همچنان به بازار ایران می‌رسند، اما به دلیل عوارض سنگین دولتی و مسیرهای پیچیده قاچاق، قیمت‌ها به شدت افزایش یافته است.",
+   "body_fa": [
+    "فعالان بازار در تهران گزارش می‌دهند که واردات اقلامی مانند تلفن‌های همراه، لپ‌تاپ و کنسول‌های بازی پس از اختلالات تجاری با امارات و تحریم‌های سخت‌گیرانه ایالات متحده علیه خطوط هوایی ایران، پرهزینه‌تر و پیچیده‌تر شده است.",
+    "خریداران علاوه بر چالش‌های مربوط به قاچاق و حمل‌ونقل، با عوارض سنگین ثبت‌جهاز دولتی، محدودیت‌های اینترنتی و کاهش شدید ارزش پول ملی روبه‌رو هستند که توان خرید شهروندان عادی را به شدت تحت تأثیر قرار داده است."
+   ],
+   "title_ar": "وصول إلكترونيات جديدة إلى إيران لكن الأسعار ترتفع بشكل حاد بسبب الرسوم الحكومية والعقوبات الأمريكية",
+   "summary_ar": "تواصل الأجهزة الإلكترونية الاستهلاكية الجديدة الوصول إلى السوق الإيرانية على الرغم من العقوبات الدولية الشديدة وتعطل التجارة الإقليمية، إلا أن الأسعار ارتفعت بشكل كبير بسبب الرسوم الحكومية المرتفعة ومطاردة طرق التهق المعقدة.",
+   "body_ar": [
+    "يفيد التجار في طهران بأن استيراد أصناف مثل الهواتف المحمولة وأجهزة الكمبيوتر المحمولة وحدات تحكم الألعاب أصبح أكثر تكلفة وتعقيداً في أعقاب اضطرابات التجارة مع الإمارات والعقوبات الأمريكية الصارمة على خطوط الطيران الإيرانية.",
+    "بالإضافة إلى تحديات التهريب والنقل، يواجه المشترون رسوم تسجيل محلية بااهظة وقيوداً على الإنترنت وانخفاضاً حاداً في قيمة العملة الوطنية، مما يؤثر بشدة على القدرة المالية للمواطنين العاديين."
    ]
   },
   {
@@ -604,6 +790,36 @@
    ]
   },
   {
+   "id": "4c8029810e2c",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cvn0620kppexo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T08:12:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "سلاح هسته‌ای؛ عامل بازدارندگی یا افزایش خطر حمله به ایران",
+   "title_en": "Nuclear weapons: Deterrent or factor increasing the risk of attack on Iran?",
+   "summary_en": "Following recent military strikes, Iranian political figures and analysts are engaged in a public debate over whether acquiring nuclear weapons would serve as a strategic deterrent or further provoke attacks against the country.",
+   "body_en": [
+    "While some officials and hardline lawmakers argue that a nuclear arsenal could raise the costs of aggression and protect the regime, critics and reformist figures question the deterrent value of such weapons given that previous missile capabilities and regional alliances failed to prevent recent foreign strikes.",
+    "Experts note that establishing a credible nuclear deterrent involves complex technical capabilities, reliable delivery systems, and command structures that go beyond simply possessing enriched material or withdrawing from international non-proliferation treaties."
+   ],
+   "title_fa": "سلاح هسته‌ای؛ عامل بازدارندگی یا افزایش خطر حمله به ایران",
+   "summary_fa": "پس از حملات نظامی اخیر، شخصیت‌های سیاسی و تحلیلگران ایرانی درگیر بحثی عمومی درباره این موضوع هستند که آیا دستیابی به سلاح هسته‌ای به عنوان یک بازدارنده استراتژیک عمل می‌کند یا حمله به کشور را بیشتر تحریک خواهد کرد.",
+   "body_fa": [
+    "در حالی که برخی از مقام‌ها و نمایندگان تندرو استدلال می‌کنند که داشتن زرادخانه هسته‌ای می‌تواند هزینه‌های تجاوز را افزایش دهد و از حکومت محافظت کند، منتقدان و چهره‌های اصلاح‌طلب کارایی بازدارندگی چنین سلاح‌هایی را با توجه به ناتوانی موشک‌ها و متحدان منطقه‌ای در جلوگیری از حملات اخیر زیر سوال می‌برند.",
+    "کارشناسان خاطرنشان می‌کنند که ایجاد یک بازدارندگی معتبر هسته‌ای مستلزم توانایی‌های فنی پیچیده، سامانه‌های پرتاب قابل اتکا و ساختارهای فرماندهی است که فراتر از صرف داشتن مواد غنی‌شده یا خروج از معاهدات بین‌المللی عدم اشاعه است."
+   ],
+   "title_ar": "الأسلحة النووية: عامل ردع أم سبب لزيادة خطر الهجوم على إيران؟",
+   "summary_ar": "عقب الضربات العسكرية الأخيرة، يخوض شخصيات سياسية ومحللون إيرانيون نقاشاً عاماً حول ما إذا كان امتلاك أسلحة نووية سيشكل رادعاً استراتيجياً أم سيزيد من استفزاز الهجمات ضد البلاد.",
+   "body_ar": [
+    "في حين يجادل بعض المسؤولين والمشرعين المتشددين بأن ترسانة نووية قد ترفع تكاليف العدوان وتحمي النظام، يشكك النقاد والشخصيات الإصلاحية في قيمة الردع لمثل هذه الأسلحة نظراً لفشل القدرات الصاروخية السابقة والتحالفات الإقليمية في منع الضربات الأجنبية الأخيرة.",
+    "ويشير الخبراء إلى أن إرساء رادع نووي موثوق ينطوي على قدرات تقنية معقدة ونظم إطلاق موثوقة وهياكل قيادة تتجاوز مجرد امتلاك مواد مخصبة أو الانسحاب من معاهدات حظر الانتشار الدولي."
+   ]
+  },
+  {
    "id": "6c6f7690e6c8",
    "lang": "en",
    "source": "Middle East Eye",
@@ -693,6 +909,36 @@
    "body_ar": [
     "وجاءت اتهامات ترامب في منشور على منصة \"تروث سوشال\"، حيث زعم أن تدفقات النفط عبر هرمز تزيد عما كانت عليه قبل الصراع. في المقابل، حذّر الحرس الثوري من أن الصراع سيمتد إلى القواعد الأمريكية إذا استمرت المرافقة البحرية. وأعلنت القيادة المركزية الأمريكية أن حصارها البحري المستمر منذ 100 يوم منع طهران من تصدير نفط بقيمة 25 مليار دولار على الأقل.",
     "وفي الولايات المتحدة، أكد مسؤول في لجنة تداول السلع الآجلة وجود تحقيق مفتوح حول أنشطة تداول مشبوهة للنفط مرتبطة بالنزاع. دبلوماسياً، بحث رئيس الوزراء القطري الشيخ محمد بن عبد الرحمن آل ثاني مع وزير الخارجية الأمريكي ماركو روبيو جهود خفض التصعيد وحرية الملاحة، حيث شدد روبيو على التزام واشنطن بأمن قطر."
+   ]
+  },
+  {
+   "id": "deb5b545fd79",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+   "date": "2026-10-22T16:39:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+   "title_en": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+   "summary_en": "A French arbitration decision has revealed that a billionaire donor to Britain's Reform UK party was previously in business with a powerful Iranian religious foundation linked to the country's leadership.",
+   "body_en": [
+    "Sasan Ghandehari, a businessman who has pledged financial backing to Reform UK and party leader Nigel Farage, was the primary investor behind a joint venture to build a fibre-optic cable across Iran.",
+    "Records show his investment vehicle partnered with Astan Quds Razavi, a major Iranian religious foundation under the authority of the supreme leader, before the business ties ended around 2016 amid shifting political dynamics and subsequent US sanctions."
+   ],
+   "title_fa": "افشای همکاری تجاری میلیاردر حامی حزب اصلاح بریتانیا با بنیادی مرتبط با حکومت ایران",
+   "summary_fa": "یک رای داوری فرانسه فاش کرد که یک اهداکننده میلیاردر به حزب «اصلاح بریتانیا» پیش‌تر با یک بنیاد مذهبی قدرتمند ایرانی مرتبط با رهبر این کشور شراکت تجاری داشته است.",
+   "body_fa": [
+    "ساسان قندهاری، تاجر ایرانی‌تبار که متعهد به حمایت مالی از حزب اصلاح بریتانیا و نایجل فاراژ شده است، سرمایه‌گذار اصلی یک شرکت مشترک برای احداث کابل فیبر نوری در سراسر ایران بوده است.",
+    "اسناد نشان می‌دهد که شرکت سرمایه‌گذاری او با آستان قدس رضوی، یک بنیاد مذهبی بزرگ ایرانی تحت نظر رهبر این کشور، شراکت کرده بود تا اینکه این روابط تجاری در حدود سال ۲۰۱۶ در پی تغییرات سیاسی و تحریم‌های بعدی آمریکا پایان یافت."
+   ],
+   "title_ar": "الكشف عن شراكة تجارية لملياردير متبرع لحزب الإصلاح مع مؤسسة مرتبطة بالنظام الإيراني",
+   "summary_ar": "كشف قرار تحكيم فرنسي أن متبرعاً ملياردير لحزب \"إصلاح المملكة المتحدة\" كان على علاقة تجارية سابقه بمؤسسة دينية إيرانية نافذة مرتبطة بقيادة البلاد.",
+   "body_ar": [
+    "كان ساسان قندهاري، رجل الأعمال الذي تعهد بتقديم دعم مالى لحزب \"إصلاح المملكة المتحدة\" وزعيمه نايجل فراج، المستثمر الرئيسي وراء مشروع مشترك لبناء كابل ألياف ضوئية عبر إيران.",
+    "وتظهر السجلات أن صندوقه الاستثماري شارك مع مؤسسة آستان قدس رضوي، وهي مؤسسة دينية إيرانية كبرى تخضع لسلطة المرشد الأعلى، قبل أن تنتهي العلاقات التجارية حوالي عام 2016 وسط تغير الديناميكيات السياسية والعقوبات الأمريكية اللاحقة."
    ]
   },
   {
@@ -904,6 +1150,33 @@
    ]
   },
   {
+   "id": "d86153e376fd",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-rejects-un-rapporteurs-india-based-label-for-dawood-ibrahims-d-company/article71610134.ece",
+   "date": "2026-10-22T05:30:44Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "India rejects UN rapporteur's 'India-based' label for Dawood Ibrahim's D-Company",
+   "title_en": "India rejects UN rapporteur's 'India-based' label for Dawood Ibrahim's D-Company",
+   "summary_en": "India has strongly criticized a UN special rapporteur's report for describing the gangster Dawood Ibrahim-led D-Company as an \"India-based\" criminal group, citing glaring inaccuracies.",
+   "body_en": [
+    "Speaking in the Third Committee of the UN General Assembly, Indian First Secretary Raghoo Puri stated that the report contained factual inaccuracies and warned that such incompetence harms the world body. He clarified that the criminal organisation's leader fled India long before his 2003 UN listing for Al-Qaeda associations and remains wanted in India since 1993."
+   ],
+   "title_fa": "هند برچسب «مستقر در هند» گزارشگر سازمان ملل برای دی‌کومپانی داود ابراهیم را رد کرد",
+   "summary_fa": "هند به شدت از گزارش یک گزارشگر ویژه سازمان ملل به دلیل توصیف دی‌کومپانی به رهبری داود ابراهیم به عنوان یک گروه جنایتکار «مستقر در هند» انتقاد کرد.",
+   "body_fa": [
+    "راغو پوری، دبیر اول نمایندگی هند در سازمان ملل، در کمیته سوم مجمع عمومی اعلام کرد که این گزارش حاوی نادرستی‌های فکری است و هشدار داد که چنین بی‌کفایتی‌هایی به سازمان جهانی آسیب می‌رساند. وی تصریح کرد که رهبر این سازمان جنایتکار بسیار پیش از قرار گرفتن در فهرست تحریم‌های سال ۲۰۰۳ سازمان ملل به دلیل ارتباط با القاعده، از هند گریخته است."
+   ],
+   "title_ar": "الهند ترفض وصف مقرر الأمم المتحدة لشركة \"دي كومپاني\" التابعة لداود إبراهيم بأنها \"مقرها الهند\"",
+   "summary_ar": "انتقلت الهند بشدة تقرير مقرر خاص للأمم المتحدة لوصفه عصابة \"دي كومپاني\" التي يقودها داود إبراهيم بأنها مجموعة إجرامية \"مقرها الهند\".",
+   "body_ar": [
+    "صرح راغو بوري، السكرتير الأول في البعثة الهندية لدى الأمم المتحدة، أمام اللجنة الثالثة للجمعية العامة بأن التقرير يتضمن عدم دقة في الوقائع، محذراً من أن مثل هذا القصور يلحق أضراراً جسيمة المنظمة الدولية. وأوضح أن زعيم المنظمة الإجرامية فر من الهند قبل فترة طويلة من إدراجه عام 2003 على قائمة عقوبات الأمم المتحدة لارتباطه بالقاعدة."
+   ]
+  },
+  {
    "id": "c71dec0cc1c1",
    "lang": "en",
    "source": "BBC News",
@@ -1023,6 +1296,36 @@
    "body_ar": [
     "استهدفت الضربات الأخيرة مطار الدمام وحقل شيبة النفطي، مما أدى إلى سقوط قتلى وجرحى. وحذرت الخارجية الأمريكية من أن العدائيات قد تتصاعد بسرعة.",
     "تأتي هذه الهجمات بعد انهيار وقف إطلاق النار غير الرسمي الذي دام أربع سنوات، عقب إعلان الحوثيين حظراً بحرياً ضد السعودية. وقد أدى الاضطراب في مضيق باب المندب إلى زيادة الضغوط على أسعار النفط العالمية."
+   ]
+  },
+  {
+   "id": "e28037d5cfc2",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-21T23:06:37Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "Trump's green card curbs test Indian tech workers' American dream",
+   "title_en": "Trump's green card curbs test Indian tech workers' American dream",
+   "summary_en": "The US decision to suspend several major technology firms from hiring skilled international workers through the PERM visa pathway has dealt a blow to Indian professionals seeking permanent residency.",
+   "body_en": [
+    "The freeze on Permanent Labor Certification Program applications impacts holders of H-1B temporary visas who rely on the pathway to secure green cards. While industry experts note that many large tech companies have increasingly hired locally and reduced their reliance on these visas, the policy has intensified uncertainty and human-level challenges for Indian nationals.",
+    "As of December 2025, nearly one million Indian citizens were waiting for employment-based green cards, facing exceptionally long projected wait times. The restrictions, alongside recent rhetoric from U.S. officials, have added to a more restrictive climate for immigrants hoping to settle in the country."
+   ],
+   "title_fa": "محدودیت‌های کارت سبز ترامپ رویای آمریکایی کارکنان فناوری هندی را به چالش کشید",
+   "summary_fa": "تصمیم ایالات متحده برای تعلیق استخدام کارگران ماهر بین‌المللی از طریق مسیر ویزای PERM توسط چندین شرکت بزرگ فناوری، ضربه‌ای به متخصصان هندی متقاضی اقامت دائم وارد کرده است.",
+   "body_fa": [
+    "فریز شدن درخواست‌های برنامه گواهینامه کار دائم، دارندگان ویزای موقت H-1B را که برای دریافت اقامت دائم به این مسیر متکی هستند، تحت تأثیر قرار می‌دهد. در حالی که کارشناسان اشاره می‌کنند شرکت‌های بزرگ فناوری وابستگی خود را به این ویزاها کاهش داده‌اند، این سیاست نگرانی‌ها و چالش‌های انسانی را برای اتباع هندی تشدید کرده است.",
+    "تا دسامبر ۲۰۲۵، نزدیک به یک میلیون شهروند هندی در صف انتظار برای کارت‌های سبز مبتنی بر اشتغال بودند و با زمان‌های انتظار طولانی روبرو هستند."
+   ],
+   "title_ar": "قيود ترامپ على البطاقة الخضراء تختبر الحلم الأمريكي لقطاع التكنولوجيا الهندي",
+   "summary_ar": "وجه القرار الأمريكي بتعليق عدد من شركات التكنولوجيا الكبرى عن توظيف العمال الدوليين المههرة عبر مسار تأشيرة \"بيرم\" ضربة للمهندسين الهنود الساعين للحصول على الإقامة الدائمة.",
+   "body_ar": [
+    "يؤثر تجميد طلبات برنامج شهادة العمل الدائمة على حاملي تأشيرات \"إي-1 بي\" المؤقتة الذين يعتمدون على هذا المسار لتأمين الإقامة الدائمة. وفي حين يشير الخبراء إلى أن الشركات خفضت اعتمادها على هذه التأشيرات، إلا أن السياسة زادت من حالة عدم اليقين والتحديات الإنسانية للرعايا الهنود.",
+    "اعتباراً من ديسمبر 2025، كان نحو مليون مواطن هندي ينتظرون الحصول على البطاقات الخضراء القائمة على العمل، وسط توقعات بفترات انتظار طويلة للغاية."
    ]
   }
  ]

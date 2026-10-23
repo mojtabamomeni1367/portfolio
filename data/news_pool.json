@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:20:07Z",
+ "updated": "2026-10-23T15:55:41Z",
  "items": [
   {
    "id": "7718246191f0",
@@ -1468,6 +1468,203 @@
    ],
    "desc": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
    "score": 9
+  },
+  {
+   "id": "5c1f276a311b",
+   "title": "At least seven killed after gunmen open fire at church in Jordan",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+   "date": "2026-10-23T13:32:40Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Survivors say two masked men began shooting as dozens attended a funeral procession.",
+   "score": 7,
+   "dup_of": "70f852fa83bf"
+  },
+  {
+   "id": "c426ba3e01a1",
+   "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+   "date": "2026-10-23T13:25:58Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group's 'terrorist' proscription.",
+   "score": 3
+  },
+  {
+   "id": "a77c5e49ae6b",
+   "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+   "date": "2026-10-23T14:19:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted ‘terror attack’ Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli soldiers and two Palestinians were killed in an exchange of fire near a checkpoint in Hebron. The Israeli prime minister said the military would go house to house and demolish homes, in an operation on a scale unseen in the occupied West Bank for decades, after the Israeli military said it had thwarted a “terror attack” by two armed Pale",
+   "score": 8,
+   "dup_of": "38aef09981a9"
+  },
+  {
+   "id": "0ed54ce6a900",
+   "title": "‘I killed lots of terrorists, but it didn’t make me feel better’: The trauma haunting Israel's elections",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261023-i-killed-lots-of-terrorists-but-it-didn-t-make-me-feel-better-the-trauma-haunting-israel-s-elections",
+   "date": "2026-10-23T14:32:07Z",
+   "countries": [
+    "ISR",
+    "LBN",
+    "PSE"
+   ],
+   "desc": "After more than three years of war, the number of Israeli soldiers suffering from post-traumatic stress disorder following bloody campaigns in Gaza and Lebanon has risen drastically. In the lead-up to Israel’s crucial legislative elections, FRANCE 24 speaks with soldiers left shell-shocked by the country’s wars.",
+   "score": 4
+  },
+  {
+   "id": "21ad1bb958f4",
+   "title": "Several killed, dozens wounded in Jordan church shooting",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261023-several-killed-dozens-wounded-in-jordan-church-shooting",
+   "date": "2026-10-23T14:16:29Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "At least six people have been killed and 28 others wounded in a church shooting in Jordan, authorities said Friday. The unidentified assailants allegedly attacked the Greek Orthodox church during a funeral in the Karak directorate in the central part of the country.",
+   "score": 7,
+   "dup_of": "5c1f276a311b"
+  },
+  {
+   "id": "d18d06f6bf62",
+   "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+   "date": "2026-10-23T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+   "score": 7
+  },
+  {
+   "id": "5c89fcc53c3c",
+   "title": "R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/r4-bloc-european-powers-discuss-developments-in-the-gulf-in-istanbul-meeting",
+   "date": "2026-10-23T15:24:19Z",
+   "countries": [
+    "EGY",
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Developments in the Gulf region amid the US-Israeli war on Iran came under discussion as the R4 foreign ministers — Pakistan, Egypt, Saudi Arabia and Turkiye — met with their counterparts from France, Germany, Italy and the United Kingdom. The R4 group, comprising Pakistan, Egypt, Saudi Arabia and Turkiye, emerged in March and has been focusing on regional security and mediation efforts between the United States and Iran. According to the Foreign Office (FO), Deputy Prime Minister and Foreign Minister Ishaq Dar participated in the first meeting between the R4 and France, Germany, Italy and the",
+   "score": 7
+  },
+  {
+   "id": "0e60f7d122d4",
+   "title": "'Will petrol be available in December?': Senate echoes with shortage concerns even as minister says no supply issues",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039273/will-petrol-be-available-in-december-senate-echoes-with-shortage-concerns-even-as-minister-says-no-supply-issues",
+   "date": "2026-10-23T15:18:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Senate echoed with fuel supply concerns on Friday as PPP’s Sherry Rehman questioned petrol availability for December and Opposition Leader Raja Nasir Abbas warned of a bleak situation amid heightening Middle East tensions. The concerns were raised even after Minister of State for Finance and Revenue Bilal Azhar Kayani said that there were no supply issues. He told the Senate during the question hour on that more than 10 million people were benefiting from the government’s targeted fuel subsidy scheme, while Rs1,676 billion had been budgeted under the petroleum levy for the curre",
+   "score": 4
+  },
+  {
+   "id": "28b5da3ab653",
+   "title": "Lahore DC gives formal go-ahead for 3-day Basant festivities in March 2027, outlines conditions and restrictions",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039268/lahore-dc-gives-formal-go-ahead-for-3-day-basant-festivities-in-march-2027-outlines-conditions-and-restrictions",
+   "date": "2026-10-23T15:00:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Lahore deputy commissioner (DC) on Friday gave the formal go-ahead for three-day Basant festivities in the district from March 12-14 next year, outlining guidelines, conditions and restrictions for the celebrations. Basant returned to Lahore earlier this year after an 18-year hiatus, with the passing of the Punjab Regulation of Kite Flying Bill, 2025 by the provincial assembly on December 24, 2025. The legislation authorised deputy commissioners to grant conditional permission for kite-flying — which otherwise remains banned in Punjab — on specified days and at designated locations",
+   "score": 1
+  },
+  {
+   "id": "cfc9a81d91ca",
+   "title": "Rising flour prices fuel weekly inflation",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+   "date": "2026-10-23T14:50:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Short-term inflation rose to 11.85 per cent year-on-year in the week ending October 22, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, which comprises 51 items whose prices are collected from 50 markets in 17 cities, is calculated weekly to track changes in the prices of essential commodities and services. Short-term inflation has remained in double digits for several consecutive weeks, largely on the back of persistent increases in petroleum prices. The data showed that of the 51 essential i",
+   "score": 3
+  },
+  {
+   "id": "e0fb181025bf",
+   "title": "India continues to facilitate transport of life-saving medicines to Iran: MEA",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
+   "date": "2026-10-23T14:36:43Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "desc": "Randhir Jaiswal was asked about reports that India denied permission to certain Iranian aircraft to use Indian airspace.",
+   "score": 6
+  },
+  {
+   "id": "47792fd17a2a",
+   "title": "Seven killed, 28 injured after gunmen open fire inside a church in Jordan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/gunmen-open-fire-inside-a-church-in-jordan-causing-deaths-and-injuries/article71616413.ece",
+   "date": "2026-10-23T13:58:17Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "An eyewitness told the kingdom’s state broadcaster Al-Mamlaka that a vehicle arrived carrying the gunmen, who fired continuously for five minutes before fleeing the scene.",
+   "score": 7,
+   "dup_of": "5c1f276a311b"
+  },
+  {
+   "id": "ff3af304eccc",
+   "title": "Netanyahu orders West Bank closure, warns of major military operation after attack kills Israeli soldiers",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election/article71615850.ece",
+   "date": "2026-10-23T13:39:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A first step would see residents displaced, homes searched and “terrorist infrastructure” destroyed, the Israeli PM said; Hamas group, without claiming responsibility, praised the attack as a “heroic operation” and called for more",
+   "score": 8,
+   "dup_of": "a77c5e49ae6b"
+  },
+  {
+   "id": "650b1fdd2bef",
+   "title": "ما الذي تسعى إليه تركيا من خلال تحالفي مكة وبدر؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cw80zx7880yeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T15:24:41Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "اتخذت تركيا خطوات مؤسسية لتعزيز التعاون الأمني في الشرق الأوسط، في إطار نهجها في السياسة الخارجية الذي تسمّيه \"تولّي دول المنطقة زمام المبادرة\". وأدّت أنقرة دوراً فاعلاً في تأسيس تحالف مكة مع السعودية وباكستان أولاً، ثم تحالف بدر مع قطر وباكستان وإندونيسيا.",
+   "score": 4
   }
  ]
 }
