@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T15:55:41Z",
+ "updated": "2026-10-23T19:00:01Z",
  "items": [
   {
    "id": "7718246191f0",
@@ -1665,6 +1665,247 @@
    ],
    "desc": "اتخذت تركيا خطوات مؤسسية لتعزيز التعاون الأمني في الشرق الأوسط، في إطار نهجها في السياسة الخارجية الذي تسمّيه \"تولّي دول المنطقة زمام المبادرة\". وأدّت أنقرة دوراً فاعلاً في تأسيس تحالف مكة مع السعودية وباكستان أولاً، ثم تحالف بدر مع قطر وباكستان وإندونيسيا.",
    "score": 4
+  },
+  {
+   "id": "b7a5b65204a1",
+   "title": "Israel locks down occupied West Bank after Hebron shooting",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+   "date": "2026-10-23T18:38:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+   "score": 7,
+   "dup_of": "38aef09981a9"
+  },
+  {
+   "id": "56f7f0de4ff5",
+   "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+   "date": "2026-10-23T17:30:51Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+   "score": 7,
+   "dup_of": "b7a5b65204a1"
+  },
+  {
+   "id": "f2a9120d11eb",
+   "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+   "date": "2026-10-23T16:37:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
+   "score": 6
+  },
+  {
+   "id": "4cda5f4ce749",
+   "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+   "date": "2026-10-23T16:29:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "An escalation would 'create nothing but losers', French foreign minister says as US official warns of possible strike.",
+   "score": 8,
+   "dup_of": "5c89fcc53c3c"
+  },
+  {
+   "id": "a4b03efae83c",
+   "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+   "date": "2026-10-23T15:51:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
+   "score": 6,
+   "dup_of": "aa1ca8ae657f"
+  },
+  {
+   "id": "29b110fe8dec",
+   "title": "US and Israel are warned against launching fresh strikes on Iran",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+   "date": "2026-10-23T17:18:34Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "TUR"
+   ],
+   "desc": "Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisis Foreign ministers at a summit of eight European and Middle Eastern countries have urged the US and Israel not to renews their attacks on Iran, warning a fresh outbreak of fighting would spread conflict and push oil prices even higher. The development of a new multinational “anti-war bloc” represents a challenge to the increasingly open plans by the US and Israel to relaunch strikes on Iran while talks on Tehran’s nuclear programme remain deadlocked. Continue reading...",
+   "score": 8,
+   "dup_of": "438f22af2c8f"
+  },
+  {
+   "id": "bb03f4343932",
+   "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+   "date": "2026-10-23T18:26:35Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment of Benjamin Netanyahu's political prospects, the limits of military escalation and the shifting relationship between national security and electoral legitimacy. Since October 7, 2023 \"Netanyahu is not popular anymore,\" Yemini argues, identifying the Hamas-led attacks as a decisive turning point in the Israeli prime minister's public standing.",
+   "score": 7,
+   "dup_of": "555ec2b1718a"
+  },
+  {
+   "id": "878ff2d04850",
+   "title": "How Israeli settlers wearing keffiyehs are attacking West Bank olive groves",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves",
+   "date": "2026-10-23T17:21:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The olive harvest officially began in the West Bank on October 15, 2026, and it has coincided with an uptick in violence towards Palestinians carried out by both Israeli settlers and soldiers. Meanwhile, the settlers and soldiers have been using social media to promote an aesthetic, Instagram-friendly and nationalistic view of these harvests.",
+   "score": 5
+  },
+  {
+   "id": "4419c18aff28",
+   "title": "Israel: Could Arab parties play kingmaker in the next Knesset ?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-could-arab-parties-play-kingmaker-in-the-next-knesset",
+   "date": "2026-10-23T17:11:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "As Israelis head to the polls for the first legislative election since Hamas's October 7 attacks, neither Prime Minister Benjamin #Netanyahu's Likud party nor former army chief of staff Gadi #Eisenkot's Yashar party are likely to win a majority of seats in the #Knesset. Turns out, #Israel's Arab parties could have a say in the election's outcome.",
+   "score": 6,
+   "dup_of": "c71dec0cc1c1"
+  },
+  {
+   "id": "3bd91a0cf1aa",
+   "title": "Gaza : digging up the bodies from under the rubble",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/the-observers/20261023-gaza-digging-up-the-bodies-from-under-the-rubble",
+   "date": "2026-10-23T17:10:15Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "One year after the ceasefire in Gaza, efforts to recover the bodies buried beneath the rubble are continuing. Civil Defense officials say 1,000 bodies have been recovered so far, but the task remains immense: between 8,000 and 10,000 more are still believed to be buried under the debris, including 3,000 in areas controlled by the Israeli army.",
+   "score": 6
+  },
+  {
+   "id": "aa53df98fb20",
+   "title": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
+   "date": "2026-10-23T15:56:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular video was generated by artificial intelligence.",
+   "score": 4
+  },
+  {
+   "id": "2d7e1bb5b5b6",
+   "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+   "date": "2026-10-23T12:00:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+   "score": 7,
+   "dup_of": "b7a5b65204a1"
+  },
+  {
+   "id": "2383aedb23df",
+   "title": "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039288/pakistan-saudi-arabia-have-completed-ratification-of-makkah-defence-pact-fo",
+   "date": "2026-10-23T16:43:55Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Pakistan and Saudi Arabia have completed the ratification processes for the Makkah defence pact while Turkiye was in the process of doing so, Foreign Office (FO) spokesperson Sajjad Haider Khan said on Friday. Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement in August, under which an armed attack on one member is considered an attack on all. The pact has gained significance amid Houthi attacks on Saudi Arabia, and Inter-Services Public Relations Director General Lt Gen Ahmed Sharif Chaudhry said earlier this week that Pakistan was providing “whatever support is need",
+   "score": 8
+  },
+  {
+   "id": "09b67029c79f",
+   "title": "Govt raises high-speed diesel rate by Rs1.91 per litre; petrol price unchanged at Rs377.71",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039294/govt-raises-high-speed-diesel-rate-by-rs191-per-litre-petrol-price-unchanged-at-rs37771",
+   "date": "2026-10-23T18:49:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "1571ce97fa23",
+   "title": "German president meets Zardari, praises Pakistan's 'rising diplomatic profile' in dispute resolution",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039301/german-president-meets-zardari-praises-pakistans-rising-diplomatic-profile-in-dispute-resolution",
+   "date": "2026-10-23T18:48:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "German President Frank-Walter Steinmeier praised Pakistan’s “rising diplomatic profile in the resolution of regional and global disputes”, in a meeting with President Asif Ali Zardari in Berlin on Friday. President Zardari is currently on a three-day visit to Germany, having departed yesterday, as the two countries are set to mark the 75th anniversary of their diplomatic relations. According to a statement posted by President Zardari’s office, the two leaders also discussed challenges related to Afghanistan. President Zardari said that while Pakistan “has no conflict with the Afghan people”, i",
+   "score": 6
+  },
+  {
+   "id": "02e8a01d3ad6",
+   "title": "NCCIA prevents Karachi girl exposed to dark web group from causing self-harm: official",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039285/nccia-prevents-karachi-girl-exposed-to-dark-web-group-from-causing-self-harm-official",
+   "date": "2026-10-23T18:12:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) has prevented a teenage girl in Karachi from causing self-harm after being influenced by a group operating on the dark web, an official told Dawn on Friday. NCCIA Karachi Additional Director Tariq Nawaz said action by the agency was taken after they received a lead from a foreign crime investigation agency, which he did not name. The agency also shared an email, he said, adding that the NCCIA then tracked the relevant user internet protocol (IP) address. The official separately explained while speaking on Geo News programme ‘Aaj Sh",
+   "score": 2
+  },
+  {
+   "id": "5c67f944d3de",
+   "title": "السعودية تؤجّل مواسمَها وفعالياتها الدولية، فما أثر ذلك على رؤية 2030؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c8wy9kw2xee3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T17:49:54Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "تواجه السعودية اختباراً جديداً لجاذبيتها الاستثمارية في ظلّ التصعيد العسكري الإقليمي، بعد تأجيل سلسلة من أبرز الفعاليات الاقتصادية والثقافية والرياضية، وفي مقدّمتها مبادرة مستقبل الاستثمار. فهل تؤثّر المخاوف الأمنية واضطرابات السفر على ثقة المستثمرين الدوليين، وتهدّد طموحات رؤية 2030؟ أم تنجح المملكة في احتواء التداعيات واستعادة الزخم الدولي؟",
+   "score": 5
   }
  ]
 }
