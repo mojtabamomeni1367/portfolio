@@ -31,6 +31,8 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "content" / "analyses"
 OUT_DIR = ROOT / "analysis"
 OUT_JSON = ROOT / "data" / "analyses.json"
+SITEMAP = ROOT / "sitemap.xml"
+SITE = "https://momenimojtaba.com"
 LANGS = ("en", "fa", "ar")
 
 UI = {
@@ -179,6 +181,15 @@ def main():
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps({"count": len(items), "items": items}, ensure_ascii=False, indent=1) + "\n",
                         encoding="utf-8")
+    # sitemap for search engines: home page + every analysis page
+    urls = [(SITE + "/", items[0]["date"] if items else None)]
+    for it in items:
+        for v in it["versions"].values():
+            urls.append((f"{SITE}/{v['url']}", it["date"]))
+    rows = "".join(f"  <url><loc>{u}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "") + "</url>\n" for u, d in urls)
+    SITEMAP.write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                       + rows + "</urlset>\n", encoding="utf-8")
+
     print(f"analyses: {len(items)} ({sum(len(v) for v in groups.values())} language versions)")
     for e in errors:
         print("  skipped:", e)
