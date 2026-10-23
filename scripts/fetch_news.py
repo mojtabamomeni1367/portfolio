@@ -135,6 +135,44 @@ def fetch(url):
         return r.read()
 
 
+_MODEL = {"name": None}
+
+
+def pick_model(key):
+    """Use GEMINI_MODEL if it exists, otherwise the newest 'flash' text model the key can use."""
+    req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                                 headers={"x-goog-api-key": key})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        models = json.loads(r.read()).get("models", [])
+    names = [m["name"].split("/", 1)[-1] for m in models
+             if "generateContent" in m.get("supportedGenerationMethods", [])]
+    if GEMINI_MODEL in names:
+        return GEMINI_MODEL
+    bad = ("image", "tts", "audio", "live", "embedding", "vision", "thinking", "exp", "preview", "lite", "banana")
+    flash = [n for n in names if "flash" in n and not any(b in n for b in bad)]
+    if not flash:
+        flash = [n for n in names if "flash" in n] or names
+    if not flash:
+        raise RuntimeError("no Gemini model available for this key")
+    def ver(n):
+        return [int(x) for x in re.findall(r"\d+", n)[:3]] or [0]
+    return sorted(flash, key=ver)[-1]
+
+
+def gemini_call(body, key):
+    if not _MODEL["name"]:
+        try:
+            _MODEL["name"] = pick_model(key)
+        except Exception as e:
+            print(f"  could not list Gemini models ({e}); trying {GEMINI_MODEL}")
+            _MODEL["name"] = GEMINI_MODEL
+        print(f"Gemini model: {_MODEL['name']}")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{_MODEL['name']}:generateContent"
+    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        return json.loads(r.read())
+
+
 def gemini_translate(batch, key):
     """batch: list of items sharing one source language. Returns {id: {lang: title}}."""
     src = batch[0]["lang"]
@@ -155,10 +193,7 @@ def gemini_translate(batch, key):
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }).encode()
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = json.loads(r.read())
+    data = gemini_call(body, key)
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     out = {}
     for row in json.loads(text):
