@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-23T13:12:20Z",
- "count": 83,
+ "updated": "2026-10-23T13:20:07Z",
+ "count": 35,
  "items": [
+  {
+   "id": "9ecef35ab16b",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+   "date": "2026-10-23T12:57:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "War in the Middle East: Israel launches West Bank operations",
+   "title_en": "War in the Middle East: Israel launches West Bank operations",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu ordered a West Bank lockdown after Palestinian militants injured five Israelis in an attack before being killed in a shootout.",
+   "body_en": [
+    "The attack occurred on Friday, just days before the Israeli elections. Israeli soldiers killed the Palestinian militants in the subsequent shootout."
+   ],
+   "title_fa": "جنگ در خاورمیانه: اسرائیل عملیاتی را در کرانه باختری آغاز کرد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پس از آنکه شبه‌نظامیان فلسطینی در حمله‌ای پنج اسرائیلی را زخمی کرده و سپس در تیراندازی متقابل کشته شدند، دستور قرنطینه و مسدودسازی کرانه باختری را صادر کرد.",
+   "body_fa": [
+    "این حمله روز جمعه و تنها چند روز پیش از برگزاری انتخابات اسرائیل رخ داد. سربازان اسرائیلی شبه‌نظامیان فلسطینی را در تیراندازی بعدی به قتل رساندند."
+   ],
+   "title_ar": "الحرب في الشرق الأوسط: إسرائيل تبدأ عمليات في الضفة الغربية",
+   "summary_ar": "أمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بإغلاق الضفة الغربية بعد أن أدى هجوم شنّه مسلحون فلسطينيون إلى إصابة خمسة إسرائيليين قبل مقتلهم في تبادل لإطلاق النار.",
+   "body_ar": [
+    "وقع الهجوم يوم الجمعة، قبل أيام قليلة من الانتخابات الإسرائيلية. وقتل الجنود الإسرائيليون المسلحين الفلسطينيين في تبادل إطلاق النار الذي أعقب ذلك."
+   ]
+  },
   {
    "id": "555ec2b1718a",
    "lang": "fa",
@@ -65,6 +93,36 @@
    ]
   },
   {
+   "id": "70f852fa83bf",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T12:43:29Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 7,
+   "title": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+   "title_en": "Urgent: Shooting at a church in Karak Governorate, southern Jordan, leaves casualties",
+   "summary_en": "At least seven people were killed and nearly 10 others critically injured after unidentified gunmen opened fire inside Hammoud Church during a funeral in Karak Governorate, southern Jordan.",
+   "body_en": [
+    "Witnesses stated that two gunmen stepped out of a vehicle and targeted people gathered in the church courtyard, while residents closed the doors to prevent them from storming inside. Jordanian security forces are investigating the incident on the ground.",
+    "Public Security warned against sharing unverified details about the shooting under penalty of legal liability, urging the public to rely on official updates. A press conference by government and security officials is scheduled in Karak Governorate."
+   ],
+   "title_fa": "فوری: تیراندازی در کلیسایی در استان کرک در جنوب اردن تلفاتی برجای گذاشت",
+   "summary_fa": "در پی تیراندازی افراد مسلح ناشناس در داخل کلیسای حمود در جریان یک مراسم تشییع جنازه در استان کرک در جنوب اردن، دست‌کم هفت نفر کشته و حدود ۱۰ نفر دیگر به شدت زخمی شدند.",
+   "body_fa": [
+    "شاهدان عینی اظهار داشتند که دو فرد مسلح از خودرویی پیاده شده و حاضران در حیاط کلیسا را هدف قرار دادند، در حالی که اهالی با بستن درها مانع از ورود آنها به داخل شدند. نیروهای امنیتی اردن در حال پیگیری میدانی این حادثه هستند.",
+    "نیروی امنیت عمومی اردن نسبت به انتشار هرگونه اطلاعات غیررسمی درباره این تیراندازی تحت پیگرد قانونی تحذیر داد و از مردم خواست به بیانیه‌های رسمی استناد کنند. قرار است کنفرانس خبری مسئولان حکومتی و امنیتی در استان کرک برگزار شود."
+   ],
+   "title_ar": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+   "summary_ar": "قتل سبعة أشخاص على الأقل وأصيب نحو 10 آخرين بجروح حرجة إثر إطلاق مسلحين مجهولين النار داخل كنيسة حمود أثناء تشييع جنازة في محافظة الكرك جنوبي الأردن.",
+   "body_ar": [
+    "وقال شهود عيان إن مسلحين ترجلا من مركبة واستهدفا الموجودين في ساحة الكنيسة، بينما أغلق الأهالي الأبواب لمنعهما من الاقتحام. وتتابع الأجهزة الأمنية الأردنية الحادثة ميدانياً.",
+    "وحذر الأمن العام من تداول أي معلومات حول الحادثة داعياً للالتزام بالبيانات الرسمية تحت طائلة المساءلة القانونية. ومن المقرر عقد مؤتمر صحفي لوزراء ومسؤولين أمنيين في محافظة الكرك."
+   ]
+  },
+  {
    "id": "06b0daaa6fbe",
    "lang": "en",
    "source": "Middle East Eye",
@@ -114,6 +172,33 @@
    "body_ar": []
   },
   {
+   "id": "d139ede9e737",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "date": "2026-10-23T11:35:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "title_en": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "summary_en": "Brent crude prices rose to $114.72 a barrel, reaching their highest level in over five months due to fears that the US may launch new military strikes against Iran.",
+   "body_en": [
+    "The surge followed warnings from Tehran that it would strike oil infrastructure, undersea cables, datacenters, and AI facilities in the Gulf region if targeted by a new US-Israeli attack. Tensions have mounted further after the IRGC claimed to have hit four commercial vessels in the Strait of Hormuz and amid continued Houthi rebel attacks in Saudi Arabia."
+   ],
+   "title_fa": "نفت در پی نگرانی‌ها از حملات دوباره آمریکا به ایران به بالاترین حد پنج ماه اخیر رسید",
+   "summary_fa": "قیمت نفت خام برنت به ۱۱۴٫۷۲ دلار در هر بشکه رسید که بالاترین سطح در بیش از پنج ماه گذشته است و علت آن نگرانی از احتمال حملات نظامی جدید آمریکا علیه ایران عنوان شده است.",
+   "body_fa": [
+    "این افزایش قیمت پس از آن رخ داد که تهران تهدید کرد در صورت حمله جدید آمریکا و اسرائیل، تاسیسات نفتی، کابل‌های زیردریا، مرکز داده‌ها و تاسیسات هوش مصنوعی را در منطقه خلیج فارس هدف قرار خواهد داد. تنش‌ها همچنین پس از ادعای سپاه پاسداران مبنی بر هدف قرار دادن چهار شناور تجاری در تنگه هرمز و ادامه حملات حوثی‌ها به عربستان سعودی افزایش یافته است."
+   ],
+   "title_ar": "النفط يسجل أعلى مستوى في 5 أشهر وسط مخاوف من تجدد الضربات الأمريكية على إيران",
+   "summary_ar": "ارتفعت أسعار خام برنت إلى 114.72 دولاراً للبرميل لتسجل أعلى مستوى لها منذ أكثر من خمسة أشهر وسط مخاوف من شن الولايات المتحدة ضربات عسكرية جديدة على إيران.",
+   "body_ar": [
+    "وجاء هذا الارتفاع بعد تحذيرات من طهران باستهداف منشآت نفطية وكابلات بحرية ومراكز بيانات في منطقة الخليج في حال تعرضها لهجوم أمريكي إسرائيلي جديد. كما تصاعدت التوترات عقب إعلان الحرس الثوري استهداف أربع سفن تجارية في مضيق هرمز واستمرار هجمات الحوثيين على السعودية."
+   ]
+  },
+  {
    "id": "ee70a7b22aae",
    "lang": "en",
    "source": "Dawn",
@@ -145,6 +230,38 @@
    ]
   },
   {
+   "id": "f6b75460b9ee",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039253/the-gulfs-emerging-web-of-security-partnerships",
+   "date": "2026-10-23T10:51:29Z",
+   "countries": [
+    "PAK",
+    "QAT",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "The Gulf’s emerging web of security partnerships",
+   "title_en": "The Gulf’s emerging web of security partnerships",
+   "summary_en": "Middle Eastern countries and their allies are expanding regional defense agreements, such as the Badr MoU and the Makkah Joint Defense Agreement, to diversify security options amid doubts over US protection.",
+   "body_en": [
+    "The Badr agreement, signed by Pakistan, Türkiye, Qatar, and Indonesia, focuses on defense manufacturing, technology transfer, and training without imposing mutual defense obligations. In contrast, the Makkah agreement between Saudi Arabia, Pakistan, and Türkiye contains collective defense guarantees treating an attack on one as an attack on all.",
+    "These arrangements highlight how regional states are seeking greater strategic flexibility and military cooperation rather than forming a single, integrated military bloc."
+   ],
+   "title_fa": "شبکه نوظهور مشارکت‌های امنیتی در خلیج فارس",
+   "summary_fa": "کشورهای خاورمیانه و متحدانشان در حال گسترش توافق‌نامه‌های دفاعی منطقه‌ای مانند یادداشت تفاهم بدر و پیمان دفاع مشترک مکه هستند تا در میان تردیدها نسبت به چتر امنیتی آمریکا، روابط دفاعی خود را تنوع ببخشند.",
+   "body_fa": [
+    "توافق‌نامه بدر که به امضای پاکستان، ترکیه، قطر و اندونزی رسیده است، بر تولیدات دفاعی، انتقال فناوری و آموزش تمرکز دارد و تعهد دفاع متقابل ایجاد نمی‌کند. در مقابل، توافق‌نامه مکه میان عربستان سعودی، پاکستان و ترکیه شامل تضمین‌های دفاع متقابل است.",
+    "این ترتیبات نشان‌دهنده تلاش کشورهای منطقه برای دستیابی به انعطاف‌پذیری استراتژیک و افزایش همکاری‌های دفاعی به جای تشکیل یک بلوک نظامی واحد و یکپارچه است."
+   ],
+   "title_ar": "شبكة الشراكات الأمنية الناشئة في الخليج",
+   "summary_ar": "توسع دول في الشرق الأوسط وحلفاؤها الاتفاقيات الدفاعية الإقليمية، مثل مذكرة تفاهم \"بدر\" واتفاقية \"مكة\" للدفاع المشترك، لتنويع الخيارات الأمنية وسط شكوك بشأن الحماية الأمريكية.",
+   "body_ar": [
+    "تركز اتفاقية بدر التي وقعتها پاکستان وتركيا وقطر وإندونيسيا على التصنيع الدفاعي ونقل التكنولوجيا والتدريب دون التزامات دفاعية متبادلة. في المقابل، تتضمن اتفاقية مكة بين السعودية وباكستان وتركيا ضمانات دفاع مشترك تنص على أن أي هجوم على طرف يعد هجوماً على الجميع.",
+    "وتعكس هذه الترتيبات يسعي دول المنطقة لتحقيق مرونة إستراتيجية وتعزيز التعاون العسكري بدلاً من تشكيل تكتل عسكري موحد."
+   ]
+  },
+  {
    "id": "38aef09981a9",
    "lang": "en",
    "source": "France 24",
@@ -170,6 +287,33 @@
    "summary_ar": "أمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بإغلاق الضفة الغربية في أعقاب هجوم أدى إلى إصابة إسرائيليين قبل الانتخابات.",
    "body_ar": [
     "قدمت التفاصيل مراسلة فرانس 24 في القدس، نوغا تارنوبولسكي."
+   ]
+  },
+  {
+   "id": "4878c6d5168e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/we-have-lost-hope-world-looks-away-palestines-history-crushed",
+   "date": "2026-10-23T10:40:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Another East Jerusalem neighbourhood is demolished as the world fails to act",
+   "title_en": "Another East Jerusalem neighbourhood is demolished as the world fails to act",
+   "summary_en": "A delegation of foreign diplomats visited the al-Bustan neighborhood in occupied East Jerusalem, where Palestinian residents face impending home demolitions by Israeli municipal authorities.",
+   "body_en": [
+    "The municipality plans to clear al-Bustan to construct a park and recreational area for settlers, affecting roughly 1,500 Palestinian residents. Local representatives pleaded with visiting international representatives to act against the Israeli policy of displacement and home demolitions."
+   ],
+   "title_fa": "تخریب محله‌ای دیگر در اورشلیم شرقی در سایه بی‌عملی جامعه جهانی",
+   "summary_fa": "هیئتی از دیپلمات‌های خارجی از محله البستان در اورشلیم شرقی اشغالی بازدید کردند؛ محله‌ای که ساکنان فلسطینی آن با تخریب قریب‌الوقوع منازل خود توسط شهرداری اورشلیم روبرو هستند.",
+   "body_fa": [
+    "شهرداری قصد دارد محله البستان را برای احداث پارک و مراكز تفریحی تخریب کند، اقدامی که حدود ۱۵۰۰ ساکن فلسطینی را تحت تاثیر قرار می‌دهد. نمایندگان محلی از دیپلمات‌های بین‌المللی خواستند برای توقف سیاست‌های تخریب و آوارگی اقدام کنند."
+   ],
+   "title_ar": "هدم حي آخر في القدس الشرقية وسط تقاعس دولي",
+   "summary_ar": "زار وفد من الدبلوماسيين الأجانب حي البستان في القدس الشرقية المحتلة، حيث يواجه السكان الفلسطينيون عمليات هدم وشيكة لمنازلهم من قبل بلدية القدس.",
+   "body_ar": [
+    "وتخطط البلدية لإزالة حي البستان لبناء متنزه ومرافق ترفيهية للمستوطنين، مما يؤثر على نحو 1500 مواطن فلسطيني. وناشد ممثلو الحي الدبلوماسيين الدوليين للتحرك ضد سياسة التهجير وهدم المنازل."
    ]
   },
   {
@@ -200,6 +344,34 @@
    "body_ar": [
     "يأتي هذا الإعلان عقب اجتماع عُقد في سان بطرسبرغ بين الرئيس الروسي فلاديمير بوتين والمبعوث الأمريكي الخاص ستيف ويتكوف. وكان ويتكوف قد التقى في وقت سابق بالرئيس الأوكراني فولوديمير زيلينسكي وقادة أوروبيين في أوسلو ضمن جهود دبلوماسية لإدارة الرئيس الأمريكي دونالد ترامب.",
     "وصرح المتحدث باسم الكرملين بيسكوف بأن المحادثات مقررة في النصف الأول من شهر نوفمبر بصيغة ثلاثية. وذكر الرئيس بوتين في مقابلة تلفزيونية أن المباحثات ستركز على الترتيبات الأمنية لاتفاق سلام نهائي وليس على هدنة قصيرة."
+   ]
+  },
+  {
+   "id": "e2f79c6f11f1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting",
+   "date": "2026-10-23T10:32:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "title_en": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "summary_en": "Israeli Finance Minister Bezalel Smotrich has ordered the demolition of several Palestinian buildings near Hebron's northern entrance following a shooting in the area.",
+   "body_en": [
+    "The demolition instruction followed a gunfight that wounded six Israeli soldiers and left two Palestinians dead after being shot by Israeli forces."
+   ],
+   "title_fa": "دستور اسموتریچ برای تخریب ساختمان‌های فلسطینی نزدیک محل تیراندازی در الخلیل",
+   "summary_fa": "بتسلئیل اسموتریچ، وزیر دارایی اسرائیل، پس از وقوع تیراندازی در نزدیکی ورودی شمالی الخلیل، دستور تخریب چندین ساختمان فلسطینی را صادر کرد.",
+   "body_fa": [
+    "این دستور تخریب پس از درگیری مسلحانه‌ای صادر شد که طی آن شش سرباز اسرائیلی زخمی شدند و دو فلسطینی به دست نیروهای اسرائیلی کشته شدند."
+   ],
+   "title_ar": "سموتريتش يأمر بهدم مبان فلسطينية قرب موقع إطلاق النار في الخليل",
+   "summary_ar": "أصدر وزير المالية الإسرائيلي بتسلئيل سموتريتش أمراً بهدم العديد من المباني الفلسطينية قرب المدخل الشمالي لمدينة الخليل عقب حادثة إطلاق نار.",
+   "body_ar": [
+    "وجاء أمر الهدم عقب تبادل لإطلاق النار أسفر عن إصابة ستة جنود إسرائيليين ومقتل اثنين من الفلسطينيين بنيران القوات الإسرائيلية."
    ]
   },
   {
@@ -256,6 +428,36 @@
    "body_ar": []
   },
   {
+   "id": "0b01b800f0fd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "date": "2026-10-23T09:03:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "title_en": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "summary_en": "The question of whether Israel’s ultra-Orthodox minority should serve in the military has become a central and divisive issue ahead of the country's upcoming election.",
+   "body_en": [
+    "With an estimated 80,000 ultra-Orthodox men avoiding military service, critics and political opponents argue that the exemption places an unfair burden on the rest of the population amid ongoing conflicts. Prime Minister Benjamin Netanyahu's coalition relies on Haredi parties that strongly oppose conscription, creating a political dilemma as public polls show overwhelming support for equal military service.",
+    "Despite popular anger and threats to the government, Haredi political factions have ruled out joining any coalition that does not pass exemption laws. Opposition figures are leveraging the issue to challenge Netanyahu, framing the election as a choice between draft evaders and those who fulfill their state duties."
+   ],
+   "title_fa": "بحث سربازی حریدیم، میدان نبرد انتخاباتی اسرائیل را شعله‌ور کرد",
+   "summary_fa": "موضوع خدمت نظامی اقلیت حریدیم در اسرائیل به یکی از مسائل اصلی و اختلاف‌برانگیز پیش از انتخابات پیش رو تبدیل شده است.",
+   "body_fa": [
+    "با تخمین خودداری ۸۰ هزار مرد حریدیم از خدمت نظامی، منتقدان و مخالفان سیاسی استدلال می‌کنند که این معافیت بار ناعرمانه‌ای را در جریان درگیری‌های جاری بر دوش بقیه جمعیت می‌گذارد. ائتلاف بنیامین نتانیاهو به احزاب حریدیم که به شدت با سربازی مخالفت می‌کنند متکی است و این در حالی است که نظرسنجی‌های عمومی حمایت قاطع از خدمت نظامی برابر را نشان می‌دهند.",
+    "با وجود خشم عمومی و تهدیدها علیه دولت، جناح‌های سیاسی حریدیم پیوستن به هر ائتلافی را که قوانین معافیت را تصویب نکند، رد کرده‌اند. چهره‌های اپوزیسیون از این موضوع برای به چالش کشیدن نتانیاهو استفاده می‌کنند و انتخابات را به عنوان انتخابی میان فراریان از سربازی و کسانی که وظایف دولتی خود را انجام می‌دهند، توصیف می‌کنند."
+   ],
+   "title_ar": "نقاش التجنيد الإلزامي لليهود الحريديم يشعل المعحمة الانتخابية في إسرائيل",
+   "summary_ar": "أصبحت قضية ما إذا كان ينبغي لأقلية الحريديم المتشددة في إسرائيل الخدمة في الجيش مسألة رئيسية ومثيرة للانقسام قبيل الانتخابات المقبلة.",
+   "body_ar": [
+    "مع تهرب نحو 80 ألف رجل من الحريديم من الخدمة العسكرية، يجادل النقاد والمعارضون السياسيون بأن هذا الإعفاء يضع عبئاً غير عادل على بقية السكان وسط الصراعات المستمرة. يعتمد ائتلاف رئيس الوزراء بنيامين نتنياهو على أحزاب الحريديم التي تعارض التجنيد بشدة، مما يخلق معضلة سياسية بينما تُظهر استطلاعات الرأي العامة تأييداً ساحقاً للخدمة العسكرية المتساوية.",
+    "على الرغم من الغضب الشعبي والتهديدات الموجهة للحكومة، استبعدت الفصائل السياسية للحريديم الانضمام إلى أي ائتلاف لا يقر قوانين الإعفاء. تستغل شخصيات المعارضة القضية لتحدي نتنياهو، مصورة الانتخابات على أنها اختيار بين المتخلفين عن التجنيد وأولئك الذين يؤدون واجباتهم تجاه الدولة."
+   ]
+  },
+  {
    "id": "1d336c319bd5",
    "lang": "ar",
    "source": "BBC Arabic",
@@ -286,6 +488,36 @@
    ]
   },
   {
+   "id": "1c0f3972c84a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039235/hit-them-hard-cdf-munir-vows-to-continue-campaign-against-indian-sponsored-terrorist-outfits",
+   "date": "2026-10-23T08:42:49Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "‘Hit them hard’: CDF Munir vows to continue campaign against Indian-sponsored terrorist outfits",
+   "title_en": "‘Hit them hard’: CDF Munir vows to continue campaign against Indian-sponsored terrorist outfits",
+   "summary_en": "Field Marshal Asim Munir has stated that Pakistan's armed forces will vigorously continue their counterterrorism campaign against Indian-sponsored groups.",
+   "body_en": [
+    "During a visit to the Corps Headquarters in Peshawar, Chief of Defence Forces and Army Chief Field Marshal Asim Munir vowed to hit terrorist outfits hard wherever they are. He lauded the morale of the security forces and stressed the importance of maintaining high standards of operational readiness.",
+    "The remarks come amid a recent surge in violence-linked fatalities, particularly in Balochistan and Khyber Pakhtunkhwa. Security forces have stepped up intelligence-based operations and counter-terrorism measures following recent clashes and casualties in the region."
+   ],
+   "title_fa": "«به آن‌ها ضربه سختی بزنید»: عزم ارتش پاکستان بر ادامه مبارزه با گروه‌های تروریستی حامی هند",
+   "summary_fa": "فیلدمارشال عاصم منیر اعلام کرد که نیروهای مسلح پاکستان به شدت کارزار ضدتروریسم خود را علیه گروه‌های تحت حمایت هند ادامه خواهند داد.",
+   "body_fa": [
+    "فیلدمارشال عاصم منیر، فرمانده کل نیروهای دفاعی و ارتش، در جریان بازدید از مقر سپاه در پیشاور، متعهد شد که به گروه‌های تروریستی در هر کجا که باشند ضربه سختی بزند. او از روحیه نیروهای امنیتی تمجید کرد و بر اهمیت حفظ استانداردهای بالای آمادگی عملیاتی تأکید نمود.",
+    "این اظهارات در پی افزایش اخیر تلفات ناشی از خشونت، به‌ویژه در بلوچستان و خیبرپختونخوا مطرح شد. نیروهای امنیتی به دنبال درگیری‌ها و تلفات اخیر در منطقه، عملیات‌های مبتنی بر اطلاعات و اقدامات ضدتروریستی را تشدید کرده‌اند."
+   ],
+   "title_ar": "«اضربوهم بقوة»: قائد الجيش الباكستاني يتعهد بمواصلة الحملة ضد الجماعات الإرهابية المدعومة من الهند",
+   "summary_ar": "صرح المارشال عاصم منیر أن القوات المسلحة الباكستانية ستواصل بقوة حملتها لمكافحة الإرهاب ضد الجماعات المدعومة من الهند.",
+   "body_ar": [
+    "خلال زيارة له إلى مقر الفيالق في بيشاور، تعهد رئيس قوات الدفاع وقائد الجيش المارشال عاصم منیر بضرب الجماعات الإرهابية بقوة أينما كانت. وأشاد بمعنويات قوات الأمن وشدد على أهمية الحفاظ على أعلى معايير الجاهزية التشغيلية.",
+    "تأتي هذه التصريحات وسط تصاعد مؤخر في الوفيات المرتبطة بالعنف، لا سيما في بلوشستان وخيبر بختونخوا. وقد كثفت قوات الأمن العمليات القائمة على الاستخبارات ومدابیر مكافحة الإرهاب في أعقاب الاشتباكات والضحايا الأخيرة في المنطقة."
+   ]
+  },
+  {
    "id": "438f22af2c8f",
    "lang": "en",
    "source": "France 24",
@@ -310,6 +542,34 @@
    "summary_ar": "يقدم مراسلنا في تهران، رضا صياح، تفاصيل حول التقارير المتعلقة بضربات محتملة قادمة على إيران.",
    "body_ar": [
     "يقدم مراسل فرانس 24 في تهران، رضا صياح، معلومات إضافية حول هذا الوضع."
+   ]
+  },
+  {
+   "id": "9c9b369cb67e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+   "date": "2026-10-23T08:35:44Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "title_en": "Israeli forces accused of killing disabled man in Syria raid",
+   "summary_en": "Israeli forces reportedly shot and killed a Syrian man with intellectual and hearing disabilities during a night raid in southern Syria.",
+   "body_en": [
+    "According to reports, the incident occurred during a night raid in the southern Syrian village of Jamla. Locals stated that the victim's body was later discovered several kilometers away near a UN peacekeeper base with his hands bound."
+   ],
+   "title_fa": "متهم شدن نیروهای اسرائیلی به قتل یک مرد معلول در حمله به سوریه",
+   "summary_fa": "گزارش‌ها حاکی از آن است که نیروهای اسرائیلی یک مرد سوری دارای معلولیت ذهنی و شنوایی را طی یک یورش شبانه در جنوب سوریه به گلوله بسته و کشته‌اند.",
+   "body_fa": [
+    "بر اساس گزارش‌ها، این حادثه در جریان یک یورش شبانه در روستای جمله در جنوب سوریه رخ داد. محلی‌ها اعلام کردند که جسد قربانی بعدها در فاصله چند کیلومتری در نزدیکی یک پایگاه صلح‌بانان سازمان ملل در حالی که دستانش بسته بود، پیدا شد."
+   ],
+   "title_ar": "اتهام القوات الإسرائيلية بقتل رجل من ذوي الإعاقة في غارة بسوريا",
+   "summary_ar": "أفادت التقارير أن القوات الإسرائيلية أطلقت النار وقطعت دابر رجل سوري يعاني من إعاقة ذهنية وسمعية خلال غارة ليلية في جنوب سوريا.",
+   "body_ar": [
+    "وفقاً للتقارير، وقع الحادث خلال غارة ليلية في قرية جملة بجنوب سوريا. وقال محليون إن جثة الضحية عُثر عليها لاحقاً على بعد عدة كيلومترات بالقرب من قاعدة لقوات حفظ السلام التابعة للأمم المتحدة وكانت يدانه مقيدتين."
    ]
   },
   {
@@ -466,6 +726,37 @@
    ]
   },
   {
+   "id": "538188f0eaf3",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+   "date": "2026-10-22T15:03:00Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+   "title_en": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
+   "summary_en": "Iranian security officials have warned that Iran will target oil facilities, data centres, and AI infrastructure across the Gulf with \"zero red lines\" if the US and Israel launch a new attack. Iranian officials stated that any renewed conflict would be viewed as an existential threat and would extend beyond military targets.",
+   "body_en": [
+    "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, and adviser Mehdi Mohammadi declared that Iran has a broader plan should hostilities resume. Mohammadi emphasized that Iran would expand the war geographically and temporally, warning that economic infrastructure supporting attacks against Iran would no longer remain immune.",
+    "The warnings come amid reports that US military advisers have drawn up target lists for potential joint strikes following the US midterm elections. Meanwhile, foreign ministers from several regional and European countries are set to meet in Istanbul to address escalating regional tensions."
+   ],
+   "title_fa": "تهدید ایران به حمله به تأسیسات نفتی و هوش مصنوعی در سراسر خلیج فارس در صورت تجدید حملات آمریکا و اسرائیل",
+   "summary_fa": "مقامات امنیتی ایران هشدار داده‌اند که در صورت حمله مجدد آمریکا و اسرائیل، ایران تأسیسات نفتی، مراکز داده و زیرساخت‌های هوش مصنوعی را در سراسر خلیج فارس بدون هیچ «خط قرمزی» هدف قرار خواهد داد. به گفته مقامات ایرانی، هرگونه درگیری جدید یک تهدید وجودی تلقی خواهد شد و به اهدافی فراتر از بخش نظامی گسترش خواهد یافت.",
+   "body_fa": [
+    "محسن رضایی، دبیر شورای عالی امنیت ملی ایران، و مهدی محمدی، مشاور ارشد، اعلام کردند که در صورت ازسرگیری درگیری‌ها، ایران طرح گسترده‌تری خواهد داشت. محمدی تأکید کرد که ایران جنگ را از نظر جغرافیایی و زمانی گسترش خواهد داد و هشدار داد زیرساخت‌های اقتصادی پشتیبانِ حملات علیه ایران، دیگر مصون نخواهند بود.",
+    "این هشدارها در حالی مطرح می‌شود که گزارش‌ها نشان می‌دهند مشاوران نظامی آمریکا فهرست اهدافی را برای حملات مشترک احتمالی پس از انتخابات میان‌دوره‌ای آمریکا آماده کرده‌اند. در همین حال، وزرای خارجه چند کشور منطقه‌ای و اروپایی قرار است برای بررسی تنش‌های رو به افزایش منطقه در استانبول دیدار کنند."
+   ],
+   "title_ar": "إيران تهدد بضرب منشآت نفطية ومراكز ذكاء اصطناعي في الخليج إذا جددت أمريكا وإسرائيل هجماتهما",
+   "summary_ar": "حذر مسؤولون أمنيؤن إيرانيون من أن إيران ستستهدف المنشآت النفطية ومراكز البيانات وبنية الذكاء الاصطناعي التحتية في الخليج دون أي \"خطوط حمراء\" إذا شنت الولايات المتحدة وإسرائيل هجوماً جديداً. وأكد مسؤولون إيرانيون أن أي صراع جديد سيُعتبر تهديداً وجودياً وسيتم توسيعه ليشمل أهدافاً غير عسكرية.",
+   "body_ar": [
+    "صرح محسن رضائي، أمين المجلس الأعلى للأمن القومي الإيراني، والمستشار مهدي محمدي، بأن إيران لديها خطة أوسع في حال استئناف الأعمال العدائية. وأكد محمدي أن إيران ستوسع نطاق الحرب جغرافياً وزمنياً، محذراً من أن البنية التحتية الاقتصادية التي تمكن من شن هجمات ضد إيران لن تظل آمنة.",
+    "وتأتي هذه التحذيرات وسط تقارير تفيد بأن مستشارين عسكريين أمريكيين أعدوا قائمة أهداف لهجمات مشتركة محتملة بعد انتخابات التجديد النصفي الأمريكية. في غضون ذلك، من المقرر أن يجتمع وزراء خارجية عدة دول إقليمية وأوروبية في إسطنبول لبحث التوترات الإقليمية المتصاعدة."
+   ]
+  },
+  {
    "id": "7338d3f76935",
    "lang": "fa",
    "source": "BBC Persian",
@@ -497,6 +788,92 @@
    ]
   },
   {
+   "id": "e74ce2d51380",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-22T13:46:33Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 9,
+   "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+   "title_en": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+   "summary_en": "Saudi authorities reported that two people were killed and eight others injured in a Houthi attack on King Fahd International Airport in Dammam. The Yemen-based group claimed the strike as part of a series of drone and missile operations targeting Saudi facilities over a 48-hour period.",
+   "body_en": [
+    "According to Saudi aviation officials, the victims at the airport included a Saudi citizen and an Indian resident. Separately, Saudi energy officials stated that two other foreign nationals were killed in Eastern Province by debris from an intercepted drone aimed at an Aramco processing facility in the Shaybah oil field.",
+    "Houthi military spokesman Yahya Sarea claimed attacks on multiple targets across Saudi Arabia, including the defence ministry in Riyadh and an Aramco facility in Yanbu. The coalition reported intercepting eight drones over Saudi territory as fighting and casualties continue to rise in Yemen."
+   ],
+   "title_fa": "به گفته مقامات، دو کشته در حمله حوثی‌ها به فرودگاهی در شرق عربستان",
+   "summary_fa": "مقامات سعودی گزارش دادند که در حمله حوثی‌ها به فرودگاه بین‌المللی ملک فهد در دمام، دو نفر کشته و هشت نفر دیگر زخمی شدند. این گروه مستقر در یمن مسئولیت این حمله را به عنوان بخشی از حملات پهپادی و موشکی ۴۸ ساعت گذشته به تأسیسات سعودی بر عهده گرفت.",
+   "body_fa": [
+    "به گفته مقامات هوانوردی سعودی، قربانیان فرودگاه شامل یک شهروند سعودی و یک مقیم هندی بودند. به‌طور جداگانه، مقامات انرژی سعودی اعلام کردند دو تبعه خارجی دیگر در استان شرقی بر اثر سقوط آوار یک پهپاد رهگیری‌شده که تأسیسات آرامکو در میدان نفتی شیبه را هدف گرفته بود، کشته شدند.",
+    "یحیی سریع، سخنگوی نظامی حوثی‌ها، ادعا کرد به اهداف متعددی در سراسر عربستان از جمله وزارت دفاع در ریاض و تأسیسات آرامکو در ینبع حمله کرده‌اند. ائتلاف نیز از رهگیری هشت پهپاد بر فراز خاک عربستان خبر داد، در حالی که درگیری‌ها و تلفات در یمن همچنان رو به افزایش است."
+   ],
+   "title_ar": "السلطات تعلن مقتل شخصين في هجوم للحوثيين على مطار بشرق السعودية",
+   "summary_ar": "أفادت السلطات السعودية بمقتل شخصين وإصابة ثمانية آخرين في هجوم شنته جماعة الحوثي على مطار الملك فهد الدولي في الدمام. وأعلنت الجماعة اليمنية مسؤوليتها عن الهجوم كجزء من سلسلة عمليات بالطائرات المسيرة والصواريخ استهدفت منشآت سعودية خلال 48 ساعة.",
+   "body_ar": [
+    "ووفقاً لمسؤولي الطيران السعودي، كان من بين ضحايا المطار مواطن سعودي ومقيم هندي. وعلى صعيد منفصل، ذكر مسؤولون في وزارة الطاقة السعودية أن مقيمين أجنبيين آخرين لقيا حتفهما في المنطقة الشرقية جراء حطام طائرة مسيرة تم اعتراضها كانت تستهدف منشأة معالجة تابعة لأرامكو في حقل شيبة النفطي.",
+    "وأعلن المتحدث العسكري باسم الحوثيين يحيى سريع استهداف عدة مواقع في السعودية، بما في ذلك مقر وزارة الدفاع في الرياض ومنشأة لأرامكو في ينبع. وأفاد التحالف باعتراض ثماني طائرات مسيرة فوق الأراضي السعودية مع استمرار تصاعد القتال والضحايا في اليمن."
+   ]
+  },
+  {
+   "id": "589d1a855bec",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-attacked-saudi-defence-ministry-aramco-in-yanbu-and-dammam-airport/article71611574.ece",
+   "date": "2026-10-22T12:46:32Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 9,
+   "title": "Yemen’s Houthis say they attacked Saudi Defence Ministry, Aramco in Yanbu and Dammam airport",
+   "title_en": "Yemen’s Houthis say they attacked Saudi Defence Ministry, Aramco in Yanbu and Dammam airport",
+   "summary_en": "Yemen's Houthi movement announced it targeted Saudi Arabia's Defence Ministry, Aramco facilities in Yanbu, and King Fahd International Airport in Dammam, where Saudi officials confirmed two fatalities. Saudi Arabia has not immediately confirmed the alleged strikes in Riyadh and Yanbu.",
+   "body_en": [
+    "The Saudi Energy Ministry previously stated that debris from an intercepted drone killed two foreign nationals and injured two others at an Aramco-operated oil field in the country's southeast. The victims included Filipino, Nepali, Pakistani, and Indian citizens."
+   ],
+   "title_fa": "حوثی‌های یمن می‌گویند به وزارت دفاع عربستان، آرامکو در ینبع و فرودگاه دمام حمله کرده‌اند",
+   "summary_fa": "جنبش حوثی‌های یمن اعلام کرد که وزارت دفاع عربستان، تأسیسات آرامکو در ینبع و فرودگاه بین‌المللی ملک فهد در دمام را هدف قرار داده است؛ جایی که مقامات سعودی کشته شدن دو نفر را تأیید کردند. عربستان هنوز حملات ادعایی در ریاض و ینبع را تأیید نکرده است.",
+   "body_fa": [
+    "پیشتر وزارت انرژی عربستان اعلام کرده بود که برخورد قطعات یک پهپاد رهگیری‌شده در یک میدان نفتی تحت مدیریت آرامکو در جنوب شرقی این کشور، موجب کشته شدن دو تبعه خارجی و زخمی شدن دو تن دیگر شد. قربانیان شامل شهروندانی از فیلیپین، نپال، پاکستان و هند بودند."
+   ],
+   "title_ar": "الحوثيون في اليمن يقولون إنهم هاجموا وزارة الدفاع السعودية وأرامكو في ينبع ومطار الدمام",
+   "summary_ar": "أعلنت جماعة الحوثي اليمنية أنها استهدفت مقر وزارة الدفاع السعودية ومنشآت أرامكو في ينبع ومطار الملك فهد الدولي في الدمام، حيث أكدت السلطات السعودية مقتل شخصين. ولم تؤكد السعودية على الفور الهجمات المزعومة في الرياض وينبع.",
+   "body_ar": [
+    "وكانت وزارة الطاقة السعودية قد ذكرت في وقت سابق أن حطام طائرة مسيرة تم اعتراضها أسفر عن مقتل أجنبيين وإصابة اثنين آخرين في حقل نفطي تديره أرامكو جنوب شرق البلاد. وشملت الضحايا مواطنين من الفلبين ونيبال وباكستان والهند."
+   ]
+  },
+  {
+   "id": "2fe7ae755624",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-says-7-oil-tankers-catch-fire-or-damaged-overnight-in-strait-of-hormuz/article71610464.ece",
+   "date": "2026-10-22T07:13:48Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran says 7 oil tankers catch fire or damaged overnight in Strait of Hormuz",
+   "title_en": "Iran says 7 oil tankers catch fire or damaged overnight in Strait of Hormuz",
+   "summary_en": "Iranian state television reported that seven oil tankers caught fire or were damaged overnight in the Strait of Hormuz after being targeted or striking naval mines. The Revolutionary Guard's navy warned that US efforts to navigate tankers through the strait could lead to strikes on regional US bases.",
+   "body_en": [
+    "Citing the Revolutionary Guard's navy, the Iranian report stated that four tankers caught fire while transferring oil, while three others were immobilized by naval mines. No details were provided regarding casualties or the flag states of the damaged vessels."
+   ],
+   "title_fa": "ایران می‌گوید ۷ نفتکش طی شب گذشته در تنگه هرمز آتش گرفته یا آسیب دیده‌اند",
+   "summary_fa": "تلویزیون دولتی ایران گزارش داد که طی شب گذشته هفت نفتکش در تنگه هرمز پس از هدف قرار گرفتن یا برخورد با مین‌های دریایی دچار آتش‌سوزی یا آسیب شدند. نیروی دریایی سپاه پاسداران هشدار داد که تلاش‌های آمریکا برای عبور نفتکش‌ها از مسیرهای غیرقانونی در تنگه ممکن است منجر به حمله به پایگاه‌های آمریکا در منطقه شود.",
+   "body_fa": [
+    "به نقل از نیروی دریایی سپاه پاسداران، گزارش ایران اشاره کرد که چهار نفتکش هنگام انتقال نفت دچار آتش‌سوزی شدند و سه نفتکش دیگر بر اثر برخورد با مین‌های دریایی از کار افتادند. هیچ جزئیاتی درباره تلفات احتمالی یا پرچم شناورهای آسیب‌دیده ارائه نشد."
+   ],
+   "title_ar": "إيران تقول إن 7 ناقلات نفط تعرضت للحريق أو الأضرار خلال الليل في مضيق هرمز",
+   "summary_ar": "أفاد التلفزيون الرسمي الإيراني بأن سبع ناقلات نفط اشتعلت فيها النيران أو تضررت خلال الليل في مضيق هرمز إثر استهدافها أو اصطدامها بألغام بحرية. وحذرت بحرية الحرس الثوري من أن أي محاولات أمريكية لتسيير الناقلات عبر المضيق قد تؤدي إلى استهداف القواعد الأمريكية في المنطقة.",
+   "body_ar": [
+    "ونقلاً عن بيان لبحرية الحرس الثوري، ذكر التقرير الإيراني أن أربع ناقلات اشتعلت فيها النيران أثناء نقل النفط، بينما تضررت ثلاث ناقلات أخرى وتعطلت بسبب الألغام البحرية. ولم يقدم التقرير تفاصيل عن الضحايا المحتملين أو جنسيات الناقلات المتضررة."
+   ]
+  },
+  {
    "id": "b3311a284735",
    "lang": "en",
    "source": "The Hindu",
@@ -524,6 +901,67 @@
    "body_ar": [
     "ورفض آيزنكوت، وهو جنرال سابق من أصول شرقية (سفارديم) وصاحب \"عقيدة الضاحية\" عام 2006، قيام دولة فلسطينية، متعهداً بإنهاء حكم حماس في غزة خلال 18 شهراً. كما وعد بضبط البؤر الاستيطانية غير الترخيصية في الضفة الغربية، وطرح قانوناً للخدمة المدنية والعسكرية الشاملة لإلغاء إعفاءات الطلاب الحريديم.",
     "وعقب تعرضه لتصريحات مسيئة من معلق مقرب من نتنياهو بشأن أصوله الشرقية، استغل آيزنكوت الحادثة في حملته الانتخابية بمناهضة التمييز. ويسعى آيزنكوت لاستجذاب الناخبين الوسطيين واللیبراليين من خلال التعهد بحماية استقلال القضاء وحقوق الأقليات وحرية الصحافة."
+   ]
+  },
+  {
+   "id": "c71dec0cc1c1",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-22T05:30:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "How Arab parties could hold critical balance of power in Israeli election",
+   "title_en": "How Arab parties could hold critical balance of power in Israeli election",
+   "summary_en": "Arab-majority political parties in Israel could hold a critical balance of power as opinion polls indicate no clear parliamentary majority for major blocs in the upcoming election.",
+   "body_en": [
+    "Polls suggest both Benjamin Netanyahu's religious-nationalist bloc and the anti-Netanyahu Change Bloc led by Gadi Eisenkot could win around 50 seats each in the 120-seat parliament. Arab-majority slates, including the Joint Arab List and the United Arab List led by Mansour Abbas, are projected to take 13 or 14 seats, making them potential kingmakers if opposition blocs seek alliances to form a government.",
+    "However, forming a coalition remains difficult as Eisenkot has ruled out partnering with Arab parties. Tensions surrounding Israel's Arab minority, who make up about a fifth of the population, have heightened following the October 7 assault and the ongoing war in Gaza, with Arab advocates accusing the government of systematic discrimination and reduced local budgets."
+   ],
+   "title_fa": "چگونه احزاب عربی می‌توانند توازن قدرت کلیدی را در انتخابات اسرائیل در دست بگیرند",
+   "summary_fa": "احزاب دارای اکثریت عرب در اسرائیل می‌توانند توازن قدرت کلیدی را در دست بگیرند، زیرا نظرسنجی‌ها نشان می‌دهند هیچ‌یک از ائتلاف‌های اصلی در انتخابات پیش رو اکثریت واضحی در پارلمان نخواهند داشت.",
+   "body_fa": [
+    "نظرسنجی‌ها نشان می‌دهند که ائتلاف مذهبی-ملی‌گرای بنیامین نتانیاهو و بلوک تغییرِ ضد نتانیاهو به رهبری گادی آیزنکوت هر کدام می‌توانند حدود ۵۰ کرسی از ۱۲۰ کرسی پارلمان را کسب کنند. پیش‌بینی می‌شود فهرست‌های دارای اکثریت عرب، شامل فهرست مشترک عربی و لیست موحد عربی به رهبری منصور عباس، ۱۳ یا ۱۴ کرسی به دست آورند که آنها را در صورت تمایل بلوک‌های اپوزیسیون به ائتلاف برای تشکیل دولت، به تعیین‌کنندگان احتمالی قدرت تبدیل می‌کند.",
+    "با این حال، تشکیل ائتلاف همچنان دشوار است زیرا آیزنکوت همکاری با احزاب عربی را رد کرده است. تنش‌ها در مورد اقلیت عرب اسرائیل، که حدود یک پنجم جمعیت را تشکیل می‌دهند، پس از حمله ۷ اکتبر و جنگ مداوم در غزه افزایش یافته است و مدافعان حقوق عرب‌ها، حکومت را به تبعیض سیستماتیک و کاهش بودجه‌های محلی متهم می‌کنند."
+   ],
+   "title_ar": "كيف يمكن للأحزاب العربية أن تمتلك ميزان القوة الحاسم في الانتخابات الإسرائيلية",
+   "summary_ar": "قد تمتلك الأحزاب ذات الأغلبية العربية في إسرائيل ميزان القوة الحاسم، حيث تشير استطلاعات الرأي إلى عدم وجود أغلبية برلمانية واضحة للكتل الرئيسية في الانتخابات المقبلة.",
+   "body_ar": [
+    "تشير الاستطلاعات إلى أن كلاً من التكتل الديني القومي لبنيامين نتنياهو وكتلة التغيير المناهضة لنتنياهو برئاسة غادي آيزنكوت قد يحصلان على نحو 50 مقعداً لكل منهما في البرلمان المكون من 120 مقعداً. ومن المتوقع أن تحصل القوائم ذات الأغلبية العربية، بما في ذلك القائمة العربية المشتركة والقائمة العربية الموحدة برئاسة منصور عباس، على 13 أو 14 مقعداً، مما يجعلها مرجحة لكفة الحكم إذا سعت كتل المعارضة للتحالف لتشكيل حكومة.",
+    "ومع ذلك، يظل تشكيل الائتلاف أمراً صعباً حيث استبعد آيزنكوت الشراكة مع الأحزاب العربية. وقد تصاعدت التوترات حول الأقلية العربية في إسرائيل، التي تشكل نحو خُمس السكان، أعقاب هجوم 7 أكتوبر والحرب المستمرة في غزة، حيث يتهم المدافعون عن حقوق العرب الحكومة بالتمييز الممنهج وتقليص الميزانيات المحلية."
+   ]
+  },
+  {
+   "id": "abb02476a398",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
+   "date": "2026-10-22T04:00:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
+   "title_en": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
+   "summary_en": "An investigation alleges that American firm Axon Enterprise continues to supply Israel with Taser electroshock weapons, which have been used to torture Palestinian detainees in Israeli prisons and detention centers.",
+   "body_en": [
+    "Testimonies from former detainees and an investigation by the Guardian and ARIJ detail incidents where Palestinian prisoners were subjected to electric shocks, beatings, and abuse while bound. Human rights organizations, including Amnesty International and the UN Committee Against Torture, have reported a sharp escalation in the mistreatment and torture of Palestinian detainees since October 2023.",
+    "Despite evidence of abuse and ongoing inquiries—including an Israeli military advocate general investigation that found a Taser was used during torture at the Sde Teiman camp—Axon has continued engaging with Israeli security entities. The Israeli military stated that abuse of detainees is strictly prohibited under IDF orders and international law."
+   ],
+   "title_fa": "بسته شده و شکنجه شده: اسرائیل از سلاح‌های شوک الکتریکی ساخت آمریکا علیه بازداشت‌شدگان فلسطینی استفاده می‌کند",
+   "summary_fa": "یک تحقیق ادعا می‌کند که شرکت آمریکایی آکسون انترپرایز همچنان به تأمین سلاح‌های شوک الکتریکی تایزر برای اسرائیل ادامه می‌دهد؛ سلاح‌هایی که برای شکنجه بازداشت‌شدگان فلسطینی در زندان‌ها و بازداشتگاه‌های اسرائیل استفاده شده‌اند.",
+   "body_fa": [
+    "شهادت‌های بازداشت‌شدگان سابق و تحقیق گاردین و آریج، جزئیات مواردی را تشریح می‌کند که در آن زندانیان فلسطینی در حالت بسته، تحت شوک الکتریکی، ضرب و شتم و سوءرفتار قرار گرفته‌اند. سازمان‌های حقوق بشری از جمله عفو بین‌الملل و کمیته ضد شکنجه سازمان ملل، از افزایش شدید سوءرفتار و شکنجه بازداشت‌شدگان فلسطینی از اکتبر ۲۰۲۳ خبر داده‌اند.",
+    "با وجود شواهد سوءرفتار و تحقیقات جاری—از جمله تحقیق دادستان نظامی اسرائیل که نشان داد از تایزر هنگام شکنجه در اردوگاه سده تیمان استفاده شده است—شرکت آکسون به تعامل با نهادهای امنیتی اسرائیل ادامه داده است. ارتش اسرائیل اعلام کرد که سوءرفتار با بازداشت‌شدگان طبق دستورات ارتش و قوانین بین‌المللی اکیداً ممنوع است."
+   ],
+   "title_ar": "مقيدون ومُعذبون: إسرائيل تستخدم أسلحة صعق كهربائي أمريكية الصنع ضد المعتقلين الفلسطينيين",
+   "summary_ar": "يكشف تحقيق أن شركة أكسون إنتلبريز الأمريكية تواصل تزويد إسرائيل بأسلحة الصعق الكهربائي (تاسر)، والتي تُستخدم لتعذيب المعتقلين الفلسطينيين في السجون ومراكز الاحتجاز الإسرائيلية.",
+   "body_ar": [
+    "تفصّل شهادات معتقلين سابقين وتحقيق أجرته صحيفة الغارديان وأريج أريج حوادث تعرض فيها أسرى فلسطينيون للصدمات الكهربائية والضرب والانتهاكات وهم مقيدون. وقد أفادت منظمات حقوق الإنسان، بما في ذلك منظمة العفو الدولية ولجنة مناهضة التعذيب التابعة للأمم المتحدة، بتصاعد حاد في سوء معاملة المعتقلين الفلسطينيين وتعذيبهم منذ أكتوبر 2023.",
+    "على الرغم من أدلة الانتهاكات والتحقيقات الجارية—بما في ذلك تحقيق أجراه المدعي العام العسكري الإسرائيلي وجد أن سلاح تاسر أُستخدم أثناء التعذيب في معسكر سديه تيمان—واصلت شركة أكسون التعامل مع الجهات الأمنية الإسرائيلية. وذكر الجيش الإسرائيلي أن إساءة معاملة المحتجزين حظراً صارماً بموجب أوامر الجيش والقانون الدولي."
    ]
   },
   {
@@ -586,869 +1024,6 @@
     "استهدفت الضربات الأخيرة مطار الدمام وحقل شيبة النفطي، مما أدى إلى سقوط قتلى وجرحى. وحذرت الخارجية الأمريكية من أن العدائيات قد تتصاعد بسرعة.",
     "تأتي هذه الهجمات بعد انهيار وقف إطلاق النار غير الرسمي الذي دام أربع سنوات، عقب إعلان الحوثيين حظراً بحرياً ضد السعودية. وقد أدى الاضطراب في مضيق باب المندب إلى زيادة الضغوط على أسعار النفط العالمية."
    ]
-  },
-  {
-   "id": "9e90dfc31cd2",
-   "title": "Saudi authorities say two killed by falling debris at oil facility following drone attack in kingdom",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/saudi-authorities-say-two-killed-by-falling-debris-at-oil-facility-following-drone-attack-in-kingdom/article71608982.ece",
-   "date": "2026-10-21T20:31:24Z",
-   "countries": [
-    "SAU"
-   ],
-   "title_en": "Saudi authorities say two killed by falling debris at oil facility following drone attack in kingdom",
-   "title_fa": "مقامات سعودی می‌گویند در پی حمله پهپادی در این پادشاهی، دو نفر بر اثر سقوط بقایا در یک تأسیسات نفتی کشته شدند",
-   "title_ar": "السلطات السعودية تقول إن شخصين قُتلا إثر سقوط حطام في منشأة نفطية بعد هجوم بطائرة مسيرة في المملكة"
-  },
-  {
-   "id": "ca0637af58b1",
-   "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T18:22:28Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-   "title_fa": "رهبران «سوسک» هند که خواستار استعفای رئیس انتخابات شده بودند از زندان آزاد شدند",
-   "title_ar": "إطلاق سراح قادة في الهند وُصفوا بـ«الصراصير» طالبوا رئيس لجنة الانتخابات بالاستقالة"
-  },
-  {
-   "id": "9f3ee1d649f1",
-   "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-   "date": "2026-10-21T17:59:14Z",
-   "countries": [
-    "PSE"
-   ],
-   "title_en": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-   "title_fa": "هایدی لوین بازگو می‌کند که چگونه جوانان فلسطینی در حمله شهرک‌نشینان به نجات او کمک کردند",
-   "title_ar": "هايدي ليفين تروي كيف ساعدها شبان فلسطينيون في النجاة أثناء هجوم للمستوطنين"
-  },
-  {
-   "id": "f89020b1ec62",
-   "title": "Israeli forces detain and then release U.S. Congressional candidate at West Bank harvest",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/israeli-forces-detain-and-then-release-us-congressional-candidate-at-west-bank-harvest/article71608713.ece",
-   "date": "2026-10-21T17:31:33Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "Israeli forces detain and then release U.S. Congressional candidate at West Bank harvest",
-   "title_fa": "نیروهای اسرائیلی یک نامزد کنگره آمریکا را در فصل برداشت محصول در کرانه باختری بازداشت و سپس آزاد کردند",
-   "title_ar": "القوات الإسرائيلية تحتجز مرشحاً للكونغرس الأمريكي ثم تطلق سراحه خلال موسم الحصاد في الضفة الغربية"
-  },
-  {
-   "id": "2c7d22e9918c",
-   "title": "Yemen’s Houthis say targeted Saudi position in Aden",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/yemens-houthis-say-targeted-saudi-position-in-aden/article71608725.ece",
-   "date": "2026-10-21T17:24:59Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "Yemen’s Houthis say targeted Saudi position in Aden",
-   "title_fa": "حوثی‌های یمن می‌گویند یک موضع سعودی را در عدن هدف قرار دادند",
-   "title_ar": "الحوثيون في اليمن يقولون إنهم استهدفوا موقعاً سعودياً في عدن"
-  },
-  {
-   "id": "9810f808ee50",
-   "title": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/pakistan-turkiye-qatar-and-indonesia-sign-pact-to-bolster-defence-cooperation/article71608728.ece",
-   "date": "2026-10-21T17:15:09Z",
-   "countries": [
-    "PAK",
-    "QAT",
-    "TUR"
-   ],
-   "title_en": "Pakistan, Turkiye, Qatar and Indonesia sign pact to bolster defence cooperation",
-   "title_fa": "پاکستان، ترکیه، قطر و اندونزی پیمانی را برای تقویت همکاری‌های دفاعی امضا کردند",
-   "title_ar": "باكستان وتركيا وقطر وإندونيسيا توقع اتفاقاً لتعزيز التعاون الدفاعي"
-  },
-  {
-   "id": "701a9391c199",
-   "title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/french-president-macron-lands-in-saudi-arabia-on-surprise-solidarity-visit",
-   "date": "2026-10-21T15:54:08Z",
-   "countries": [
-    "SAU"
-   ],
-   "title_en": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
-   "title_fa": "مکرون، رئیس‌جمهور فرانسه در سفری غافلگیرکننده به نشانه «همبستگی» وارد عربستان سعودی شد",
-   "title_ar": "الرئيس الفرنسي ماكرون يصل إلى السعودية في زيارة «تضامن» مفاجئة"
-  },
-  {
-   "id": "4a284981d0cf",
-   "title": "سفر اعلام‌نشده مکرون به ریاض و گزارش‌ها از حمله حوثی‌ها به عدن",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cq1j38rd00zjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T15:25:46Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ]
-  },
-  {
-   "id": "fb1b0ba1107e",
-   "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-   "date": "2026-10-21T14:24:02Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
-   "title_fa": "امدادگران هشدار می‌دهند: شهر محاصره‌شده یمن در آستانه بحرانی «غیرقابل مهار» است",
-   "title_ar": "عمال الإغاثة يحذرون: مدينة يمنية محاصرة على شفا أزمة «خارجة عن السيطرة»"
-  },
-  {
-   "id": "f24f3fe6d6db",
-   "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-   "date": "2026-10-21T14:08:28Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
-   "title_fa": "ارتش اسرائیل داوطلبان آمریکایی و بریتانیایی، از جمله برد لندر سیاستمدار دموکرات نیویورک را در کرانه باختری بازداشت کرد",
-   "title_ar": "الجيش الإسرائيلي يحتجز متطوعين أمريكيين وبريطانيين في الضفة الغربية من بينهم السياسي الديمقراطي النيويوركي براد لاندر"
-  },
-  {
-   "id": "1e56bef4209d",
-   "title": "Emmanuel Macron lands in Riyadh on surprise ‘solidarity’ visit",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/emmanuel-macron-lands-in-riyadh-on-surprise-solidarity-visit/article71607713.ece",
-   "date": "2026-10-21T13:19:59Z",
-   "countries": [
-    "SAU"
-   ],
-   "title_en": "Emmanuel Macron lands in Riyadh on surprise ‘solidarity’ visit",
-   "title_fa": "امانوئل مکرون در سفری غافلگیرکننده به نشانه «همبستگی» وارد ریاض شد",
-   "title_ar": "إيمانويل ماكرون يصل إلى الرياض في زيارة «تضامن» مفاجئة"
-  },
-  {
-   "id": "f6bb8db8c6cc",
-   "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
-   "date": "2026-10-21T13:00:19Z",
-   "countries": [
-    "SYR"
-   ],
-   "title_en": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
-   "title_fa": "نیویورک بنای یادبودی برای خلیل جبران و سوریه کوچک ساخت؛ چرا خشم جهانی برانگیخته شد؟",
-   "title_ar": "مدينة نيويورك تشيد نصباً تذكارياً لجبران خليل جبران و«سوريا الصغيرة». لماذا حدثت ضجة عالمية؟"
-  },
-  {
-   "id": "784ccc64fb7f",
-   "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
-   "date": "2026-10-21T12:00:00Z",
-   "countries": [
-    "PSE"
-   ],
-   "title_en": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-   "title_fa": "«آغاز شوم» برداشت زیتون در کرانه باختری در بحبوحه حملات شهرک‌نشینان",
-   "title_ar": "«بداية مشؤومة» لموسم قطاف الزيتون في الضفة الغربية وسط هجمات المستوطنين"
-  },
-  {
-   "id": "aa004334f429",
-   "title": "Egypt mulls joining Saudi Arabia in war against Houthis",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
-   "date": "2026-10-21T11:02:21Z",
-   "countries": [
-    "EGY",
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "Egypt mulls joining Saudi Arabia in war against Houthis",
-   "title_fa": "مصر در حال بررسی پیوستن به عربستان سعودی در جنگ علیه حوثی‌ها است",
-   "title_ar": "مصر تدرس الانضمام إلى السعودية في الحرب ضد الحوثيين"
-  },
-  {
-   "id": "62791c3a09ab",
-   "title": "جنگ ایران؛ از مخالفت پسر ترامپ تا تردید درباره قدرت آمریکا",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cvze4w41e13ro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T07:36:40Z",
-   "countries": [
-    "IRN"
-   ]
-  },
-  {
-   "id": "f6ca1cc9bfa7",
-   "title": "پادشاه بریتانیا در حضور سلطان هیثم از تلاش‌های عمان برای باز نگه داشتن تنگه هرمز قدردانی کرد",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c64g12gxkzv5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T06:56:34Z",
-   "countries": [
-    "OMN"
-   ]
-  },
-  {
-   "id": "b416388524c9",
-   "title": "What are the deal contours of India-New Zealand FTA?",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece",
-   "date": "2026-10-21T05:49:47Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "What are the deal contours of India-New Zealand FTA?",
-   "title_fa": "خطوط کلی توافق تجارت آزاد هند و نیوزیلند چیست؟",
-   "title_ar": "ما هي الملامح العامة لاتفاقية التجارة الحرة بين الهند ونيوزيلندا؟"
-  },
-  {
-   "id": "5809f4efee9b",
-   "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T05:46:33Z",
-   "countries": [
-    "PAK"
-   ],
-   "title_en": "Pakistan arrests man wanted by US over $126m postage fraud case",
-   "title_fa": "پاکستان مردی را که به دلیل پرونده کلاهبرداری پستی ۱۲۶ میلیون دلاری تحت تعقیب آمریکا بود بازداشت کرد",
-   "title_ar": "باكستان تعتقل رجلاً مطلوباً للولايات المتحدة في قضية احتيال بريدي بقيمة 126 مليون دولار"
-  },
-  {
-   "id": "8f63151e4016",
-   "title": "India opposes attempts to portray world’s largest democracy negatively using unverified allegations at UN",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/india-opposes-attempts-to-portray-worlds-largest-democracy-negatively-using-unverified-allegations-at-un/article71606235.ece",
-   "date": "2026-10-21T05:36:55Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "India opposes attempts to portray world’s largest democracy negatively using unverified allegations at UN",
-   "title_fa": "هند با تلاش‌ها برای به تصویر کشیدن منفی بزرگ‌ترین دموکراسی جهان با استفاده از ادعاهای تأیید‌نشده در سازمان ملل مخالفت کرد",
-   "title_ar": "الهند تعارض محاولات تصوير أكبر ديمقراطية في العالم بشكل سلبي باستخدام مزاعم غير مؤكدة في الأمم المتحدة"
-  },
-  {
-   "id": "c1451772a38c",
-   "title": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck7vp17z7jv3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-21T05:16:44Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "Billionaire Mukesh Ambani's Jio launches India's biggest share sale",
-   "title_fa": "شرکت «جیو» متعلق به موکش آمبانی میلیاردر، بزرگ‌ترین فروش سهام هند را آغاز کرد",
-   "title_ar": "شركة «جيو» التابعة للملياردير موكيش أمباني تطلق أكبر عملية بيع أسهم في الهند"
-  },
-  {
-   "id": "821c82526b11",
-   "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-   "date": "2026-10-21T05:00:02Z",
-   "countries": [
-    "IRN"
-   ],
-   "title_en": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-   "title_fa": "آب‌های ناآرام: زندگی در زمان جنگ برای ایرانیان در تنگه هرمز",
-   "title_ar": "مياه مضطربة: الحياة في زمن الحرب بالنسبة للإيرانيين في مضيق هرمز"
-  },
-  {
-   "id": "2f3be3d13d6d",
-   "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
-   "date": "2026-10-21T03:35:01Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "U.S.-India perfectly aligned on core issues: Marco Rubio",
-   "title_fa": "مارکو روبیو: آمریکا و هند در موضوعات بنیادین کاملاً هم‌راستا هستند",
-   "title_ar": "ماركو روبيو: الولايات المتحدة والهند متوافقتان تماماً بشأن القضايا الجوهرية"
-  },
-  {
-   "id": "c222a00c865a",
-   "title": "India, U.S. trade deal to be much different: Donald Trump",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
-   "date": "2026-10-21T03:22:10Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "India, U.S. trade deal to be much different: Donald Trump",
-   "title_fa": "دونالد ترامپ: توافق تجاری هند و آمریکا بسیار متفاوت خواهد بود",
-   "title_ar": "دونالد ترامب: الاتفاق التجاري بين الهند والولايات المتحدة سيكون مختلفاً تماماً"
-  },
-  {
-   "id": "150060aba07d",
-   "title": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece",
-   "date": "2026-10-21T01:18:25Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys",
-   "title_fa": "روبیو می‌گوید توافق تجاری هند و آمریکا نزدیک است و از دهلی‌نو می‌خواهد خریدهای انرژی و دفاعی از آمریکا را افزایش دهد",
-   "title_ar": "روبيو يقول إن الاتفاق التجاري بين الهند والولايات المتحدة بات قريباً، ويحث نيودلهي على زيادة مشترياتها من الطاقة والدفاع الأميركيين"
-  },
-  {
-   "id": "44d84f4e319b",
-   "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
-   "date": "2026-10-20T22:27:35Z",
-   "countries": [
-    "IND"
-   ],
-   "title_en": "Rubio pushes for India to buy more U.S., Venezuelan oil",
-   "title_fa": "روبیو خواستار خرید بیشتر نفت آمریکا و ونزوئلا توسط هند شد",
-   "title_ar": "روبيو يضغط على الهند لشراء المزيد من النفط الأميركي والفنزويلي"
-  },
-  {
-   "id": "484979fdb3b4",
-   "title": "Iran security chief rejects moving enriched uranium out of country",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
-   "date": "2026-10-20T22:02:49Z",
-   "countries": [
-    "IRN"
-   ],
-   "title_en": "Iran security chief rejects moving enriched uranium out of country",
-   "title_fa": "مسئول ارشد امنیتی ایران انتقال اورانیوم غنی‌شده به خارج از کشور را رد کرد",
-   "title_ar": "مسؤول الأمن الإيراني يرفض نقل اليورانيوم المخصب إلى خارج البلاد"
-  },
-  {
-   "id": "673d9162497a",
-   "title": "Egyptian involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/tv-shows/a-propos/20261020-egypt-involvement-in-yemen-may-actually-weaken-egypt-s-regional-role-expert-says",
-   "date": "2026-10-20T21:18:48Z",
-   "countries": [
-    "EGY",
-    "YEM"
-   ],
-   "title_en": "Egyptian involvement in Yemen 'may actually weaken Cairo's regional role', expert says",
-   "title_fa": "کارشناس می‌گوید دخالت مصر در یمن «ممکن است در واقع نقش منطقه‌ای قاهره را تضعیف کند»",
-   "title_ar": "خبير يقول إن التورط المصري في اليمن «قد يضعف في الواقع دور القاهرة الإقليمي»"
-  },
-  {
-   "id": "cb2f54d2e25a",
-   "title": "Two men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/two-men-rearrested-in-uk-on-suspicion-of-assisting-iran-over-suspected-plot-at-a-us-run-air-base/article71605486.ece",
-   "date": "2026-10-20T19:48:48Z",
-   "countries": [
-    "IRN"
-   ],
-   "title_en": "Two men rearrested in U.K. on suspicion of assisting Iran over suspected plot at a U.S.-run air base",
-   "title_fa": "بازداشت مجدد دو مرد در بریتانیا به ظن کمک به ایران در پی توطئه مشکوک در یک پایگاه هوایی تحت مدیریت آمریکا",
-   "title_ar": "إعادة اعتقال رجلين في بريطانيا للاشتباه في مساعدتهما لإيران بشأن مؤامرة مشتبه بها في قاعدة جوية تديرها الولايات المتحدة"
-  },
-  {
-   "id": "20b965f0a69e",
-   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-   "date": "2026-10-20T18:30:16Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "title_fa": "بریتانیا برای محافظت از عربستان سعودی در برابر حملات حوثی‌ها جنگنده مستقر می‌کند",
-   "title_ar": "بريطانيا تنشر مقاتلات لحماية السعودية من هجمات الحوثيين"
-  },
-  {
-   "id": "1ba9975bdbed",
-   "title": "Death toll from Houthi strike on Yemen government camp rises to 73",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/death-toll-from-houthi-strike-on-yemen-government-camp-rises-to-73/article71605335.ece",
-   "date": "2026-10-20T16:48:52Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Death toll from Houthi strike on Yemen government camp rises to 73",
-   "title_fa": "شمار کشته‌شدگان حمله حوثی‌ها به اردوگاه نیروهای دولتی یمن به ۷۳ نفر افزایش یافت",
-   "title_ar": "ارتفاع حصيلة قتلى الهجوم الحوثي على معسكر للحكومة اليمنية إلى 73"
-  },
-  {
-   "id": "18e6a639340a",
-   "title": "Israeli fire kills four people in Gaza, medics say",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/israeli-fire-kills-four-people-in-gaza-medics-say/article71605315.ece",
-   "date": "2026-10-20T16:41:57Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "Israeli fire kills four people in Gaza, medics say",
-   "title_fa": "به گفته امدادگران، آتش نیروهای اسرائیلی چهار نفر را در غزه کشت",
-   "title_ar": "مسعفون يقولون إن نيران الجيش الإسرائيلي قتلت أربعة أشخاص في غزة"
-  },
-  {
-   "id": "df51af3f15b2",
-   "title": "مهدی خان‌بابا تهرانی، از چهره‌های سرشناس جنبش چپ ایران، درگذشت",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cmn4ew0xlpeno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T14:47:02Z",
-   "countries": [
-    "IRN"
-   ]
-  },
-  {
-   "id": "713f2e047f06",
-   "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T14:09:42Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-   "title_fa": "مقامات محلی می‌گویند حمله موشکی حوثی‌ها به یک اردوگاه در یمن ۷۳ نیروی امنیتی تازه جذب‌شده را به کام مرگ کشاند",
-   "title_ar": "السلطات المحلية تقول إن ضربة صاروخية للحوثيين على معسكر باليمن قتلت 73 مجنداً أمنياً"
-  },
-  {
-   "id": "7e6cefb920a5",
-   "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T13:54:35Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-   "title_fa": "بریتانیا برای دفاع از عربستان سعودی در برابر حملات حوثی‌ها جنگنده مستقر می‌کند",
-   "title_ar": "بريطانيا تنشر طائرات مقاتلة للدفاع عن السعودية ضد هجمات الحوثيين"
-  },
-  {
-   "id": "95b123729d25",
-   "title": "Yemen war continues to force families from homes amid hunger and disease",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
-   "date": "2026-10-20T12:00:00Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Yemen war continues to force families from homes amid hunger and disease",
-   "title_fa": "جنگ یمن در بحبوحه گرسنگی و بیماری همچنان خانواده‌ها را وادار به ترک خانه‌هایشان می‌کند",
-   "title_ar": "حرب اليمن تواصل إجبار العائلات على النزوح من منازلهم وسط الجوع والمرض"
-  },
-  {
-   "id": "ff0d287d1f15",
-   "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168631",
-   "date": "2026-10-20T12:00:00Z",
-   "countries": [
-    "AFG"
-   ],
-   "title_en": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
-   "title_fa": "«یک قدم تا قحطی»: نگاهی به درون بحران گرسنگی در افغانستان",
-   "title_ar": "«على بعد خطوة واحدة من المجاعة»: نظرة داخل أزمة الجوع في أفغانستان"
-  },
-  {
-   "id": "732038d51193",
-   "title": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/20/families-cross-red-sea-to-djibouti-houthi-conflict-yemen",
-   "date": "2026-10-20T10:00:32Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Fleeing the frontline: Yemeni families cross Red Sea to Djibouti as Houthi conflict rages",
-   "title_fa": "فرار از خط مقدم: عبور خانواده‌های یمنی از دریای سرخ به جیبوتی همزمان با شدت گرفتن درگیری با حوثی‌ها",
-   "title_ar": "الفرار من خطوط المواجهة: عائلات يمنية تعبر البحر الأحمر إلى جيبوتي مع تصاعد الصراع مع الحوثيين"
-  },
-  {
-   "id": "265f5e98b519",
-   "title": "آیا ایران می‌خواهد جنگ به پاشنه آشیل انتخاباتی ترامپ تبدیل شود؟",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cx62yqvj7drjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T07:50:39Z",
-   "countries": [
-    "IRN"
-   ]
-  },
-  {
-   "id": "5bcace79788a",
-   "title": "چرا وصیت‌نامه علی خامنه‌ای منتشر نشده است؟",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cxj0lrdyvzjdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-20T05:28:13Z",
-   "countries": [
-    "IRN"
-   ]
-  },
-  {
-   "id": "e4af84821116",
-   "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-   "date": "2026-10-19T18:05:14Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "Israeli police detain 10 people in rare raid against West Bank settlers",
-   "title_fa": "پلیس اسرائیل در یورشی کم‌سابقه علیه شهرک‌نشینان کرانه باختری، ۱۰ نفر را بازداشت کرد",
-   "title_ar": "الشرطة الإسرائيلية تعتقل 10 أشخاص في مداهمة نادرة ضد مستوطني الضفة الغربية"
-  },
-  {
-   "id": "ba686d1e7cf4",
-   "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-   "date": "2026-10-19T17:15:23Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-   "title_fa": "حمله حوثی‌ها با ۵۳ کشته، بزرگ‌ترین تلفات جانی منفرد را از زمان ازسرگیری جنگ داخلی یمن رقم زد",
-   "title_ar": "هجوم للحوثيين يقتل 53 شخصاً في أكبر خسارة فردية في الأرواح منذ تجدد الحرب الأهلية في اليمن"
-  },
-  {
-   "id": "7cdcbee659f9",
-   "title": "من هم أبرز أطراف الصراع في اليمن، وما الدول التي تدعمهم؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cjx23p2rn0l1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-19T14:02:17Z",
-   "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "415498a1326d",
-   "title": "Inflation squeezes households as Lebanon's economic crisis persists",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists",
-   "date": "2026-10-19T12:18:17Z",
-   "countries": [
-    "LBN"
-   ],
-   "title_en": "Inflation squeezes households as Lebanon's economic crisis persists",
-   "title_fa": "با ادامه بحران اقتصادی لبنان، تورم بر خانواده‌ها فشار می‌آورد",
-   "title_ar": "التضخم يخنق الأسر مع استمرار الأزمة الاقتصادية في لبنان"
-  },
-  {
-   "id": "20bf405903b2",
-   "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-   "date": "2026-10-19T12:00:00Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-   "title_fa": "«فصل وحشت»: تشدید حملات اسرائیل به کشاورزان زیتون‌کار در کرانه باختری و حملات مرگبار به غزه",
-   "title_ar": "«موسم الخوف»: تصاعد الهجمات الإسرائيلية على مزارعي الزيتون في الضفة الغربية، وضربات قاتلة على غزة"
-  },
-  {
-   "id": "8aa8936343a5",
-   "title": "Gaza: Funding cuts leave half a million without food assistance",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-   "date": "2026-10-19T12:00:00Z",
-   "countries": [
-    "PSE"
-   ],
-   "title_en": "Gaza: Funding cuts leave half a million without food assistance",
-   "title_fa": "غزه: کاهش بودجه، نیم میلیون نفر را بدون کمک‌های غذایی رها کرد",
-   "title_ar": "غزة: خفض التمويل يترك نصف مليون شخص بدون مساعدات غذائية"
-  },
-  {
-   "id": "4193c8c91df0",
-   "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-19T10:34:18Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "title_en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-   "title_fa": "پلیس اسرائیل ۱۰ نفر را در رابطه با حملات شهرک‌نشینان به خبرنگار و دیپلمات‌ها در کرانه باختری دستگیر کرد",
-   "title_ar": "الشرطة الإسرائيلية تعتقل 10 أشخاص على خلفية اعتداءات المستوطنين على صحفي ودبلوماسيين في الضفة الغربية"
-  },
-  {
-   "id": "a2f4bcccbdec",
-   "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-19T08:17:19Z",
-   "countries": [
-    "BGD",
-    "SAU"
-   ],
-   "title_en": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-   "title_fa": "بنگلادش می‌گوید از اعدام شهروندانش توسط عربستان سعودی مطلع نشده بود",
-   "title_ar": "بنغلاديش تقول إنها لم تُبلغ بإعدام مواطنيها على يد السعودية"
-  },
-  {
-   "id": "f3e820a6aaf7",
-   "title": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall",
-   "date": "2026-10-19T07:33:32Z",
-   "countries": [
-    "PSE"
-   ],
-   "title_en": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
-   "title_fa": "برنامه جهانی غذا کمک‌ها به نیم میلیون نفر در غزه را به دلیل کمبود بودجه متوقف می‌کند",
-   "title_ar": "برنامج الأغذية العالمي ينهي مساعداته لنصف مليون شخص في غزة بسبب نقص التمويل"
-  },
-  {
-   "id": "7f1b518ff840",
-   "title": "«بقای ایران» و «عهدنامه ترکمنچای»؛ موافقان و مخالفان «عقب‌نشینی تاکتیکی» چه می‌گویند؟",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c63dj42xv22xo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-19T04:37:08Z",
-   "countries": [
-    "IRN"
-   ]
-  },
-  {
-   "id": "f6e997bc4b2b",
-   "title": "بعد دعوة السيسي لتفويض برلماني، ما حدود الدور العسكري المصري المحتمل دعماً للسعودية؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cq74pdnx33nxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-18T14:18:53Z",
-   "countries": [
-    "EGY"
-   ]
-  },
-  {
-   "id": "27e46d68e56d",
-   "title": "ما هي القوة العسكرية التي تمتلكها السعودية؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/c6vgj9dy1kmdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-18T09:01:44Z",
-   "countries": [
-    "SAU"
-   ]
-  },
-  {
-   "id": "f360088ee23d",
-   "title": "تحليل: هل من دور لروسيا في اليمن؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/c85ynpv4zxwyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-17T19:37:53Z",
-   "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "f3b431064e9f",
-   "title": "ما هي الأسلحة المستخدمة في المواجهات بين السعودية وأنصار الله؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-17T06:18:50Z",
-   "countries": [
-    "SAU"
-   ]
-  },
-  {
-   "id": "8296b5c8c7c8",
-   "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-   "date": "2026-10-17T06:00:32Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-   "title_fa": "حوثی‌های یمن مسئولیت حمله موشکی جدید به فرودگاه عدن را بر عهده گرفتند",
-   "title_ar": "الحوثيون في اليمن يعلنون مسؤوليتهم عن هجوم صاروخي جديد على مطار عدن"
-  },
-  {
-   "id": "88e08bfc7e40",
-   "title": "أسلحة الحوثيين والسعودية: أبرز الصواريخ والمسيرات والمقاتلات",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/crd6dg59n4x6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-16T14:14:03Z",
-   "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "672b1f2a4302",
-   "title": "Saudi Arabia postpones major sporting events amid Houthi attacks",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/saudi-arabia-postpones-major-sporting-events-amid-houthi-attacks",
-   "date": "2026-10-15T20:31:42Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "Saudi Arabia postpones major sporting events amid Houthi attacks",
-   "title_fa": "عربستان سعودی رویدادهای ورزشی مهم را در بحبوحه حملات حوثی‌ها به تعویق انداخت",
-   "title_ar": "السعودية تؤجل فعاليات رياضية كبرى وسط هجمات الحوثيين"
-  },
-  {
-   "id": "3b3920370410",
-   "title": "Houthi attack on palace used by Yemen government in Aden kills five",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five",
-   "date": "2026-10-15T19:57:48Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Houthi attack on palace used by Yemen government in Aden kills five",
-   "title_fa": "حمله حوثی‌ها به کاخ مورد استفاده دولت یمن در عدن پنج کشته بر جای گذاشت",
-   "title_ar": "هجوم للحوثيين على قصر تستخدمه الحكومة اليمنية في عدن يسفر عن مقتل خمسة أشخاص"
-  },
-  {
-   "id": "f7e908053ba8",
-   "title": "War escalates between Houthis and Riyadh: How did we get here?",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/tv-shows/perspective/20261015-war-escalates-between-houthis-and-riyadh-how-did-we-get-here",
-   "date": "2026-10-15T14:16:57Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "War escalates between Houthis and Riyadh: How did we get here?",
-   "title_fa": "تشدید جنگ میان حوثی‌ها و ریاض: چگونه به اینجا رسیدیم؟",
-   "title_ar": "تصاعد الحرب بين الحوثيين والرياض: كيف وصلنا إلى هنا؟"
-  },
-  {
-   "id": "346db1fdb2a5",
-   "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
-   "date": "2026-10-15T12:00:00Z",
-   "countries": [
-    "AFG"
-   ],
-   "title_en": "Afghanistan faces record hunger levels amid rampant rights violations",
-   "title_fa": "افغانستان در بحبوحه نقض گسترده حقوق، با سطوح بی‌سابقه‌ای از گرسنگی مواجه است",
-   "title_ar": "أفغانستان تواجه مستويات جوع قياسية وسط انتهاكات واسعة النطاق للحقوق"
-  },
-  {
-   "id": "d236b1d17ac3",
-   "title": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile",
-   "date": "2026-10-15T10:24:35Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
-   "title_fa": "حوثی‌ها پس از اعلام عربستان مبنی بر رهگیری یک موشک، هدف قرار دادن شهر مقدس مدینه را تکذیب کردند",
-   "title_ar": "الحوثيون ينفون استهداف مدينة المدينة المنورة بعد إعلان السعودية اعتراض صاروخ"
-  },
-  {
-   "id": "0b8d2cac4589",
-   "title": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/growing-ambitions-dr-kendall-on-houthis-quest-to-be-recognised-as-yemen-s-legitimate-leaders",
-   "date": "2026-10-14T17:18:04Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "‘Growing ambitions’: Dr. Kendall on Houthis’ quest to be recognised as Yemen’s ‘legitimate' leaders",
-   "title_fa": "«جاه‌طلبی‌های فزاینده»: دکتر کندال درباره تلاش حوثی‌ها برای به‌رسمیت‌شناخته‌شدن به‌عنوان رهبران «مشروع» یمن",
-   "title_ar": "«طموحات متزايدة»: د. كيندال تتحدث عن مساعي الحوثيين للاعتراف بهم كقادة «شرعيين» لليمن"
-  },
-  {
-   "id": "88a3c3bb6857",
-   "title": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
-   "date": "2026-10-14T16:21:53Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "title_en": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-   "title_fa": "حوثی‌ها پس از حمله به شرکت بزرگ نفتی آرامکوی عربستان، تهدید به تشدید تنش کردند",
-   "title_ar": "الحوثيون يهددون بالتصعيد بعد الهجوم على عملاق النفط السعودي أرامكو"
-  },
-  {
-   "id": "0da4252df785",
-   "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
-   "date": "2026-10-14T12:00:00Z",
-   "countries": [
-    "YEM"
-   ],
-   "title_en": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
-   "title_fa": "یمن: برنامه جهانی غذا درباره احتمال یک «فاجعه انسانی» به دلیل مسدود شدن مسیرهای امدادرسانی بر اثر درگیری‌ها هشدار داد",
-   "title_ar": "اليمن: برنامج الأغذية العالمي يحذر من «كارثة إنسانية» محتملة بعدما أعاقت المعارك إيصال المساعدات"
   }
  ]
 }

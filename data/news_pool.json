@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:12:20Z",
+ "updated": "2026-10-23T13:20:07Z",
  "items": [
   {
    "id": "7718246191f0",
@@ -1102,7 +1102,8 @@
     "LBN"
    ],
    "desc": "The wars in Ukraine, Lebanon and West Asia have shown how drones have become central to modern warfare; as cheap, mass-produced unmanned systems proliferate, military power is increasingly shaped by industrial scale, technological adaptation and the ability to build, deploy and counter drones",
-   "score": 6
+   "score": 6,
+   "skip": true
   },
   {
    "id": "589d1a855bec",
@@ -1411,6 +1412,62 @@
    ],
    "desc": "UK antisemitism report questioned as 'three in five' student claim and other findings fall apart Submitted by Imran Mulla on Fri, 10/23/2026 - 10:32 The Bell report finds that anti-Jewish attitudes are 'less prevalent', while 'anti-Israel sentiments are more prevalent' Britain's Education Secretary Lucy Powell arrives ahead of the annual Labour Party conference in Liverpool, north-west England, on September 26, 2026. (AFP) Off New questions have emerged about the British government's plans to promote a contentious definition of antisemitism, which has been accused of stifling criticism of Isra",
    "score": 3
+  },
+  {
+   "id": "45f546718dbb",
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T13:12:15Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+   "score": 8,
+   "dup_of": "06b0daaa6fbe"
+  },
+  {
+   "id": "5e66dc97ea58",
+   "title": "Qatar Moto GP to go ahead despite regional tensions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+   "date": "2026-10-23T13:00:18Z",
+   "countries": [
+    "QAT",
+    "SAU"
+   ],
+   "desc": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
+   "score": 2
+  },
+  {
+   "id": "2b28ceeac1c8",
+   "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
+   "date": "2026-10-23T12:54:44Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
+   "score": 7,
+   "dup_of": "5810ad5f7253"
+  },
+  {
+   "id": "9ecef35ab16b",
+   "title": "War in the Middle East: Israel launches West Bank operations",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+   "date": "2026-10-23T12:57:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
+   "score": 9
   }
  ]
 }
