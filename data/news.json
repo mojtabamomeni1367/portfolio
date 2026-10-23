@@ -1,17 +1,53 @@
 {
- "updated": "2026-10-22T21:42:58Z",
- "count": 160,
+ "updated": "2026-10-23T00:59:00Z",
+ "count": 163,
  "items": [
   {
+   "id": "e9b62e1e7db9",
+   "title": "رکورد جدید بهای نفت در آستانه انتخابات در اسرائیل و آمریکا؛ برنت بشکه‌ای ۱۱۳ دلار",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T00:59:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "top": true
+  },
+  {
    "id": "555ec2b1718a",
-   "title": "رسانه‌های اسرائیل: رییس ستاد ارتش گفته ضرورتی برای حمله به ایران پیش از انتخابات نمی‌بیند",
+   "title": "آنچه گذشت؛ رسانه‌های اسرائیل: رئیس ستاد ارتش گفته ضرورتی برای حمله به ایران پیش از انتخابات نمی‌بیند",
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T21:42:58Z",
+   "date": "2026-10-23T00:59:00Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "465972919286",
+   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+   "date": "2026-10-23T00:00:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "top": true
+  },
+  {
+   "id": "7ed48a360873",
+   "title": "جماعة أنصار الله تقول إنها استهدفت وزارة الدفاع السعودية، والتحالف يعلن اعتراض مسيّرات وصاروخ باليستي",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-22T22:37:10Z",
+   "countries": [
+    "SAU"
    ],
    "top": true
   },
@@ -37,8 +73,7 @@
    "date": "2026-10-22T21:23:16Z",
    "countries": [
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "a04027369e36",
@@ -100,8 +135,7 @@
    "date": "2026-10-22T20:05:22Z",
    "countries": [
     "IRN"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "893451fb9bd0",
@@ -149,19 +183,6 @@
    "countries": [
     "TUR"
    ]
-  },
-  {
-   "id": "7ed48a360873",
-   "title": "جماعة أنصار الله الحوثية تقول إنها استهدفت وزارة الدفاع السعودية في الرياض",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T19:30:33Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "top": true
   },
   {
    "id": "aa1ca8ae657f",
@@ -1835,6 +1856,17 @@
    "source": "UN News",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
    "date": "2026-10-13T12:00:00Z",
+   "countries": [
+    "YEM"
+   ]
+  },
+  {
+   "id": "f0ba6cd7635a",
+   "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-13T04:27:22Z",
    "countries": [
     "YEM"
    ]
