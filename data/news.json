@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T06:55:19Z",
- "count": 185,
+ "updated": "2026-10-23T09:45:33Z",
+ "count": 191,
  "items": [
   {
    "id": "e9b62e1e7db9",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T06:55:19Z",
+   "date": "2026-10-23T09:45:33Z",
    "countries": [
     "ISR"
    ],
@@ -20,10 +20,109 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T06:55:19Z",
+   "date": "2026-10-23T09:45:33Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "7718246191f0",
+   "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T09:44:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "99c43e18d706",
+   "title": "DPM Dar arrives in Istanbul ahead of R-4 bloc, European diplomats’ meetings",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/dpm-dar-arrives-in-istanbul-ahead-of-r-4-bloc-european-diplomats-meetings",
+   "date": "2026-10-23T09:23:32Z",
+   "countries": [
+    "TUR"
+   ],
+   "top": true
+  },
+  {
+   "id": "17adfec61734",
+   "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+   "date": "2026-10-23T09:12:46Z",
+   "countries": [
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "e635f4785570",
+   "title": "Israeli military kills two in gun battle in occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-10-23T09:12:38Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "0b01b800f0fd",
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "date": "2026-10-23T09:03:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "1d336c319bd5",
+   "title": "التحالف يعلن اعتراض صاروخ باليستي باتجاه الرياض ومسيرتين جنوبي المملكة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cjr4yd6w01pwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T08:51:08Z",
+   "countries": [
+    "SAU"
+   ],
+   "top": true
+  },
+  {
+   "id": "f214bed755da",
+   "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T08:49:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "a7ec8ecd1211",
+   "title": "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/what-is-the-importance-of-the-un-loss-and-damage-funds-payout-to-nepal-explained/article71615253.ece",
+   "date": "2026-10-23T08:46:11Z",
+   "countries": [
+    "NPL"
    ],
    "top": true
   },
@@ -33,11 +132,83 @@
    "lang": "en",
    "source": "Dawn",
    "url": "https://www.dawn.com/news/2039235/hit-them-hard-cdf-munir-vows-to-continue-campaign-against-indian-sponsored-terrorist-outfits",
-   "date": "2026-10-23T06:45:45Z",
+   "date": "2026-10-23T08:42:49Z",
    "countries": [
     "IND"
    ],
    "top": true
+  },
+  {
+   "id": "438f22af2c8f",
+   "title": "NYT reports plans for fresh strikes on Iran after the US midterm elections",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/nyt-reports-plans-for-fresh-strikes-on-iran-after-the-us-midterm-elections",
+   "date": "2026-10-23T08:40:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "top": true
+  },
+  {
+   "id": "9c9b369cb67e",
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+   "date": "2026-10-23T08:35:44Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ]
+  },
+  {
+   "id": "2f3cbc457f4e",
+   "title": "Netanyahu orders army to prepare for full West Bank closure after attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack",
+   "date": "2026-10-23T08:35:17Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "f75bb84bb68f",
+   "title": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events",
+   "date": "2026-10-23T08:14:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "top": true
+  },
+  {
+   "id": "0a871a339692",
+   "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
+   "date": "2026-10-23T07:37:12Z",
+   "countries": [
+    "IRN"
+   ]
+  },
+  {
+   "id": "37bd660e30db",
+   "title": "Lahore tops global pollution ranking as air quality turns ‘hazardous’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+   "date": "2026-10-23T07:36:29Z",
+   "countries": [
+    "PAK"
+   ]
   },
   {
    "id": "8446494759c8",
@@ -45,23 +216,10 @@
    "lang": "en",
    "source": "The Hindu",
    "url": "https://www.thehindu.com/news/international/what-is-romanchs-law-new-york-city-historic-horse-carriage-ban-explained/article71614635.ece",
-   "date": "2026-10-23T06:44:59Z",
+   "date": "2026-10-23T06:55:32Z",
    "countries": [
     "IND"
-   ],
-   "top": true
-  },
-  {
-   "id": "f214bed755da",
-   "title": "6 إصابات في عملية إطلاق نار على حاجز عسكري إسرائيلي في الضفة الغربية ومقتل المنفذَين",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T06:44:16Z",
-   "countries": [
-    "PSE"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "0795b3a7c4e6",
@@ -73,8 +231,7 @@
    "countries": [
     "IRN",
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "290b1107217e",
@@ -85,8 +242,7 @@
    "date": "2026-10-23T06:13:13Z",
    "countries": [
     "NPL"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "9fc6f3eccebe",
@@ -97,8 +253,7 @@
    "date": "2026-10-23T06:08:17Z",
    "countries": [
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "faaef3da233d",
@@ -110,8 +265,7 @@
    "countries": [
     "ISR",
     "PSE"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "850f9605c214",
@@ -122,8 +276,7 @@
    "date": "2026-10-23T05:46:10Z",
    "countries": [
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "6c6f7690e6c8",
@@ -134,8 +287,7 @@
    "date": "2026-10-23T05:15:21Z",
    "countries": [
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "53a21c76371b",
@@ -147,8 +299,7 @@
    "countries": [
     "IND",
     "YEM"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "51e51d424f9b",
@@ -159,8 +310,7 @@
    "date": "2026-10-23T04:51:52Z",
    "countries": [
     "SAU"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "ae1637aae470",
@@ -171,12 +321,11 @@
    "date": "2026-10-23T04:27:55Z",
    "countries": [
     "PAK"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "dd6cd0671797",
-   "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+   "title": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
    "lang": "en",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
@@ -1299,17 +1448,6 @@
    ]
   },
   {
-   "id": "bddfbde9e699",
-   "title": "Israel’s fault lines: inside the 23 October Guardian Weekly",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
-   "date": "2026-10-21T17:00:52Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "701a9391c199",
    "title": "French President Macron lands in Saudi Arabia on surprise 'solidarity' visit",
    "lang": "en",
@@ -1402,17 +1540,6 @@
    ]
   },
   {
-   "id": "70ac0fbb6ab0",
-   "title": "After three disastrous years, Israel needs to rethink itself. A new government would be a start | Dahlia Scheindlin",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
-   "date": "2026-10-21T09:00:00Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "62791c3a09ab",
    "title": "جنگ ایران؛ از مخالفت پسر ترامپ تا تردید درباره قدرت آمریکا",
    "lang": "fa",
@@ -1490,28 +1617,6 @@
    ]
   },
   {
-   "id": "f83a6807b756",
-   "title": "The Netanyahu doctrine: how Israel’s longest-serving leader reshaped the country in his image – podcast",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/oct/21/the-netanyahu-doctrine-how-israels-longest-serving-leader-reshaped-the-country-in-his-image-podcast",
-   "date": "2026-10-21T04:00:07Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
-   "id": "182da2084255",
-   "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-   "date": "2026-10-21T04:00:05Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "2f3be3d13d6d",
    "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
    "lang": "en",
@@ -1576,17 +1681,6 @@
    "countries": [
     "EGY",
     "YEM"
-   ]
-  },
-  {
-   "id": "3fd4cc7855ef",
-   "title": "'Netanyahu is fighting for his political career', expert says a week ahead of crucial vote",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/netanyahu-is-fighting-for-his-political-career-expert-says-a-week-ahead-of-crucial-vote",
-   "date": "2026-10-20T20:03:50Z",
-   "countries": [
-    "ISR"
    ]
   },
   {
@@ -1874,14 +1968,13 @@
   },
   {
    "id": "27e46d68e56d",
-   "title": "ما هي القوة العسكرية التي تمتلكها السعودية للرد على هجمات الحوثيين؟",
+   "title": "ما هي القوة العسكرية التي تمتلكها السعودية؟",
    "lang": "ar",
    "source": "BBC Arabic",
    "url": "https://www.bbc.com/arabic/articles/c6vgj9dy1kmdo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-18T09:01:44Z",
    "countries": [
-    "SAU",
-    "YEM"
+    "SAU"
    ]
   },
   {
@@ -1954,7 +2047,7 @@
   },
   {
    "id": "88e08bfc7e40",
-   "title": "أسلحة الحوثيين والسعودية: تعرف على أبرز الصواريخ والمسيرات والمقاتلات",
+   "title": "أسلحة الحوثيين والسعودية: أبرز الصواريخ والمسيرات والمقاتلات",
    "lang": "ar",
    "source": "BBC Arabic",
    "url": "https://www.bbc.com/arabic/articles/crd6dg59n4x6o?at_medium=RSS&at_campaign=rss",
@@ -2018,17 +2111,6 @@
    "countries": [
     "SAU",
     "YEM"
-   ]
-  },
-  {
-   "id": "37fb78360aac",
-   "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
-   "date": "2026-10-15T12:00:00Z",
-   "countries": [
-    "PSE"
    ]
   },
   {
@@ -2107,18 +2189,6 @@
    "source": "France 24",
    "url": "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
    "date": "2026-10-13T14:53:39Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ]
-  },
-  {
-   "id": "0ba196a68132",
-   "title": "French embassy in Riyadh tells citizens to avoid Saudi airports targeted by Houthis",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis",
-   "date": "2026-10-13T13:51:23Z",
    "countries": [
     "SAU",
     "YEM"
