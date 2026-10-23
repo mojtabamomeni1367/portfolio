@@ -712,10 +712,10 @@ function renderN(){
    h='<article class="max-w-3xl mx-auto px-6 py-10">'+back('#/news','All news')
     +'<div class="mt-12 flex flex-wrap items-center gap-2 text-sm"><span class="tag">'+T('News')+'</span><span class="opacity-75">'+T('According to')+' <strong dir="auto">'+esc(x.source)+'</strong></span><span class="opacity-50">·</span><span class="opacity-75">'+fmtD(x.date)+'</span></div>'
     +'<h1 class="disp text-4xl md:text-5xl leading-tight mt-5" dir="auto">'+esc(x['title_'+LG]||x.title)+'</h1>'
-    +'<p class="text-xl md:text-2xl mt-7 leading-relaxed opacity-95" dir="auto">'+esc(x['summary_'+LG]||'')+'</p>'
+    +(x['summary_'+LG]?'<p class="text-xl md:text-2xl mt-7 leading-relaxed opacity-95" dir="auto">'+esc(x['summary_'+LG])+'</p>':'')
     +(body.length?'<div class="mt-8 space-y-5 text-lg leading-relaxed opacity-85">'+body.map(p=>'<p dir="auto">'+esc(p)+'</p>').join('')+'</div>':'')
     +(cs?'<div class="mt-10 flex flex-wrap gap-2">'+cs+'</div>':'')
-    +'<p class="mt-10 pt-5 border-t text-sm dm" style="border-color:rgba(255,255,255,.14)">'+T('Source')+': '+esc(x.source)+'. '+T('Written from the source report.')+(tr?' '+T('Translated by Gemini.'):'')+'</p></article>';
+    +'<p class="mt-10 pt-5 border-t text-sm dm" style="border-color:rgba(255,255,255,.14)">'+T('Source')+': '+esc(x.source)+'. '+(x['summary_'+LG]?T('Written from the source report.'):'')+(tr?' '+T('Translated by Gemini.'):'')+'</p></article>';
   }
  }
  $('#cvb').innerHTML=h;icons($('#cvb'));tr($('#cvb'));

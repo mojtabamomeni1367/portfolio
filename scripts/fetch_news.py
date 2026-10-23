@@ -47,9 +47,9 @@ MIN_SCORE = 5            # never publish below this importance, even if slots re
 POOL_DAYS = 2            # candidates are considered for today and yesterday
 KEEP_DAYS = 14           # published stories stay on the site this long
 SCORE_BATCH = 60         # headlines per importance request
-ARTICLE_BATCH = 2        # stories per writing request
+ARTICLE_BATCH = 4        # stories per writing request
 ARTICLE_MAX_PER_RUN = 24 # stories written per run (the rest wait for the next run)
-CALL_GAP = 6             # seconds between Gemini requests (free-tier rate limit)
+CALL_GAP = 13            # seconds between Gemini requests (free-tier rate limit)
 UA = "Mozilla/5.0 (compatible; momenimojtaba.com news desk)"
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or "gemini-flash-latest"
@@ -183,7 +183,11 @@ def err_text(e):
     return msg.replace("\n", " ")
 
 
-_MODEL = {"name": None, "candidates": None, "thinking": True, "last": 0.0}
+_MODEL = {"name": None, "candidates": None, "thinking": True, "last": 0.0, "dead": False}
+
+
+class QuotaExhausted(RuntimeError):
+    pass
 
 
 def model_candidates(key):
@@ -213,6 +217,8 @@ def gemini_json(prompt, key):
         except Exception as e:
             print(f"::warning::could not list Gemini models ({err_text(e)})")
         _MODEL["candidates"] = cands or [GEMINI_MODEL]
+    if _MODEL["dead"]:
+        raise QuotaExhausted("Gemini quota used up for this run")
     tries = 0
     while True:
         wait = CALL_GAP - (time.time() - _MODEL["last"])
@@ -243,6 +249,19 @@ def gemini_json(prompt, key):
             if e.code in (403, 404) and not _MODEL["name"] and len(_MODEL["candidates"]) > 1:
                 _MODEL["candidates"].pop(0)
                 continue
+            if e.code == 429 and "quota" in detail.lower() and "per minute" not in detail.lower():
+                # daily quota of this model is used up: try another model, otherwise stop for this run
+                if len(_MODEL["candidates"]) > 1:
+                    print(f"::warning::daily quota used up for {name}; trying another model")
+                    if _MODEL["name"] in _MODEL["candidates"]:
+                        _MODEL["candidates"].remove(_MODEL["name"])
+                    elif _MODEL["candidates"][0] == name:
+                        _MODEL["candidates"].pop(0)
+                    _MODEL["name"] = None
+                    tries = 0
+                    continue
+                _MODEL["dead"] = True
+                raise QuotaExhausted(detail)
             if e.code in (429, 500, 503) and tries < 3:
                 tries += 1
                 time.sleep(20 * tries)
@@ -304,7 +323,7 @@ def score_candidates(pool, published, key):
     todo = [c for c in pool if "score" not in c]
     if not todo:
         return 0
-    recent_pub = sorted(published, key=lambda x: x["date"], reverse=True)[:60]
+    recent_pub = sorted([p for p in published if p.get("summary_en")], key=lambda x: x["date"], reverse=True)[:60]
     pub_ids = {f"P{i + 1}": p["id"] for i, p in enumerate(recent_pub)}
     pub_lines = "\n".join(f"P{i + 1}\t{p.get('title_en') or p['title']}" for i, p in enumerate(recent_pub)) or "(none)"
     done = 0
@@ -314,7 +333,9 @@ def score_candidates(pool, published, key):
         try:
             rows = gemini_json(SCORE_PROMPT.format(published=pub_lines, lines=lines), key)
         except Exception as e:
-            print(f"::warning::importance rating failed for {len(batch)} headlines: {e}")
+            print(f"::warning::importance rating failed for {len(batch)} headlines: {str(e)[:200]}")
+            if isinstance(e, QuotaExhausted):
+                break
             continue
         for row in rows if isinstance(rows, list) else []:
             try:
@@ -346,7 +367,9 @@ def write_articles(stories, key):
         try:
             rows = gemini_json(ARTICLE_PROMPT.format(stories="\n\n".join(parts)), key)
         except Exception as e:
-            print(f"::warning::writing failed for {len(batch)} stories: {e}")
+            print(f"::warning::writing failed for {len(batch)} stories: {str(e)[:200]}")
+            if isinstance(e, QuotaExhausted):
+                break
             continue
         by_id = {c["id"]: c for c in batch}
         for row in rows if isinstance(rows, list) else []:
@@ -378,7 +401,7 @@ def main():
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))["feeds"]
     matchers = build_matchers(json.loads(COUNTRIES.read_text(encoding="utf-8")))
-    published = [p for p in load(OUT, {}).get("items", []) if p.get("summary_en")]
+    published = load(OUT, {}).get("items", [])
     pool = load(POOL, {}).get("items", [])
     snapshot = json.dumps([published, pool], sort_keys=True, ensure_ascii=False)
 
@@ -437,7 +460,7 @@ def main():
                 c.pop("dup_of", None)
 
         # 3. daily selection (the most important first, then the next tier down)
-        pub_by_id = {p["id"]: p for p in published}
+        pub_by_id = {p["id"]: p for p in published if p.get("summary_en")}
         selected = []
         for day in sorted(pool_days):
             day_items = [c for c in pool if local_day(c["date"]) == day and c.get("score", 0) >= MIN_SCORE
@@ -453,6 +476,7 @@ def main():
         # 5. published list: older days unchanged, current days = selection
         cutoff = (today - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
         new_pub = [p for p in published if local_day(p["date"]) not in pool_days and local_day(p["date"]) >= cutoff]
+        fresh_days = set()
         for c in selected:
             if c["id"] in pub_by_id:
                 p = pub_by_id[c["id"]]
@@ -467,6 +491,12 @@ def main():
                     item["summary_" + l] = w["summary"][l]
                     item["body_" + l] = w["body"][l]
                 new_pub.append(item)
+        for p in new_pub:
+            if p.get("summary_en") and local_day(p["date"]) in pool_days:
+                fresh_days.add(local_day(p["date"]))
+        # a day with no written story yet keeps what it showed before (nothing goes blank)
+        new_pub += [p for p in published if local_day(p["date"]) in pool_days
+                    and local_day(p["date"]) not in fresh_days and p not in new_pub]
         new_pub.sort(key=lambda x: x["date"], reverse=True)
         published = new_pub
         days = {}
