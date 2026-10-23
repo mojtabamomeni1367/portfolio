@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T11:46:10Z",
- "count": 199,
+ "updated": "2026-10-23T11:56:11Z",
+ "count": 197,
  "items": [
   {
    "id": "e9b62e1e7db9",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:46:09Z",
+   "date": "2026-10-23T11:56:10Z",
    "countries": [
     "ARE"
    ],
@@ -20,10 +20,22 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T11:46:09Z",
+   "date": "2026-10-23T11:56:10Z",
    "countries": [
     "IRN",
     "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "526e7687e7d8",
+   "title": "At least 12 killed, 22 injured in road accident near Zero Point in Balochistan’s Uthal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+   "date": "2026-10-23T11:54:49Z",
+   "countries": [
+    "PAK"
    ],
    "top": true
   },
@@ -76,6 +88,20 @@
    "top": true
   },
   {
+   "id": "5535f48e2944",
+   "title": "Yemen, Bab al-Mandab and Saudi Arabia: Tehran’s strategic calculus in the balance",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus",
+   "date": "2026-10-23T11:25:23Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "top": true
+  },
+  {
    "id": "ee70a7b22aae",
    "title": "10 India-sponsored terrorists killed as bid to undermine state's writ in Gwadar foiled: ISPR",
    "lang": "en",
@@ -84,18 +110,6 @@
    "date": "2026-10-23T11:23:34Z",
    "countries": [
     "IND"
-   ],
-   "top": true
-  },
-  {
-   "id": "526e7687e7d8",
-   "title": "At least 12 killed, 22 injured in road accident near Zero Point in Balochistan’s Uthal",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
-   "date": "2026-10-23T11:22:57Z",
-   "countries": [
-    "PAK"
    ],
    "top": true
   },
@@ -138,6 +152,18 @@
    "top": true
   },
   {
+   "id": "e2f79c6f11f1",
+   "title": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting",
+   "date": "2026-10-23T10:32:49Z",
+   "countries": [
+    "PSE"
+   ],
+   "top": true
+  },
+  {
    "id": "7718246191f0",
    "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
    "lang": "en",
@@ -160,8 +186,19 @@
    "countries": [
     "ISR",
     "PSE"
-   ],
-   "top": true
+   ]
+  },
+  {
+   "id": "7144a96b0cd2",
+   "title": "Israel prepares full West Bank lockdown after Hebron shooting",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israel-prepares-full-west-bank-lockdown-after-hebron-shooting",
+   "date": "2026-10-23T10:05:10Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ]
   },
   {
    "id": "e8b82648c5eb",
@@ -172,8 +209,7 @@
    "date": "2026-10-23T09:56:28Z",
    "countries": [
     "IRN"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "a7ec8ecd1211",
@@ -184,6 +220,29 @@
    "date": "2026-10-23T09:52:14Z",
    "countries": [
     "NPL"
+   ]
+  },
+  {
+   "id": "aad852d09442",
+   "title": "How Trump, Israel and big tech are driving Latin America to the right",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/how-trump-israel-big-tech-driving-latin-america-right",
+   "date": "2026-10-23T09:41:51Z",
+   "countries": [
+    "ISR"
+   ]
+  },
+  {
+   "id": "56896c74e71c",
+   "title": "‘Turkey is a common enemy’: Pro-Israel network forms parliamentary groups in Greece and Cyprus",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-common-enemy-pro-israel-network-forms-parliamentary-groups-0",
+   "date": "2026-10-23T09:36:02Z",
+   "countries": [
+    "ISR",
+    "TUR"
    ]
   },
   {
@@ -206,6 +265,18 @@
    "date": "2026-10-23T09:23:32Z",
    "countries": [
     "TUR"
+   ]
+  },
+  {
+   "id": "c36d9ed0789a",
+   "title": "Gaza bakeries forced to shut as Israel blocks flour shipments",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/gaza-bakeries-shut-israel-blocks-flour-shipments",
+   "date": "2026-10-23T09:23:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
    ]
   },
   {
@@ -232,6 +303,18 @@
    ]
   },
   {
+   "id": "36af2ef32e43",
+   "title": "Netanyahu orders Hebron closure, seeks full West Bank lockdown",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-hebron-closure-seeks-full-west-bank-lockdown",
+   "date": "2026-10-23T09:11:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ]
+  },
+  {
    "id": "0b01b800f0fd",
    "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
    "lang": "en",
@@ -251,6 +334,17 @@
    "date": "2026-10-23T08:51:08Z",
    "countries": [
     "SAU"
+   ]
+  },
+  {
+   "id": "5d114f257f7c",
+   "title": "UK says schoolchildren shouldn’t wave Palestine flags. Ukraine flags are fine though",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-schoolchildren-shouldnt-wave-palestine-flags-ukraine-flags-are-0",
+   "date": "2026-10-23T08:48:28Z",
+   "countries": [
+    "PSE"
    ]
   },
   {
@@ -873,18 +967,6 @@
    ]
   },
   {
-   "id": "6be875e329ae",
-   "title": "‘Turkey is a common enemy’: Pro-Israel network forms parliamentary groups in Greece and Cyprus",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-common-enemy-pro-israel-network-forms-parliamentary-groups-greece",
-   "date": "2026-10-22T18:01:12Z",
-   "countries": [
-    "ISR",
-    "TUR"
-   ]
-  },
-  {
    "id": "b1e85441ddf8",
    "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
    "lang": "en",
@@ -1053,17 +1135,6 @@
    "countries": [
     "IRN",
     "ISR"
-   ]
-  },
-  {
-   "id": "6a20e7b45cc5",
-   "title": "UK says schoolchildren shouldn’t wave Palestine flags. Ukraine flags are fine though",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-says-schoolchildren-shouldnt-wave-palestine-flags-ukraine-flags-are",
-   "date": "2026-10-22T15:26:00Z",
-   "countries": [
-    "PSE"
    ]
   },
   {
@@ -1309,17 +1380,6 @@
    ]
   },
   {
-   "id": "bc5e2a8c4186",
-   "title": "How do Israel's elections work and who are the main contenders?",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T09:27:10Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "f064561f25b5",
    "title": "Karachi judicial magistrate rejects bail plea of anchorperson Iqrarul Hassan",
    "lang": "en",
@@ -1376,17 +1436,6 @@
    ]
   },
   {
-   "id": "b3311a284735",
-   "title": "In Israel, Eisenkot tries quiet appeal to oust Netanyahu",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/in-israel-eisenkot-tries-quiet-appeal-to-oust-netanyahu/article71610253.ece",
-   "date": "2026-10-22T05:59:23Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "d86153e376fd",
    "title": "India rejects UN rapporteur's 'India-based' label for Dawood Ibrahim's D-Company",
    "lang": "en",
@@ -1395,17 +1444,6 @@
    "date": "2026-10-22T05:30:44Z",
    "countries": [
     "IND"
-   ]
-  },
-  {
-   "id": "c71dec0cc1c1",
-   "title": "How Arab parties could hold critical balance of power in Israeli election",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T05:30:22Z",
-   "countries": [
-    "ISR"
    ]
   },
   {
@@ -2077,18 +2115,6 @@
    ]
   },
   {
-   "id": "46647e002280",
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-18T12:16:14Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ]
-  },
-  {
    "id": "27e46d68e56d",
    "title": "ما هي القوة العسكرية التي تمتلكها السعودية؟",
    "lang": "ar",
@@ -2111,29 +2137,6 @@
    ]
   },
   {
-   "id": "27646b39f22c",
-   "title": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-   "date": "2026-10-17T14:58:07Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ]
-  },
-  {
-   "id": "ed6a186ca338",
-   "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-   "date": "2026-10-17T12:00:00Z",
-   "countries": [
-    "PSE"
-   ]
-  },
-  {
    "id": "f3b431064e9f",
    "title": "ما هي الأسلحة المستخدمة في المواجهات بين السعودية وأنصار الله؟",
    "lang": "ar",
@@ -2153,18 +2156,6 @@
    "date": "2026-10-17T06:00:32Z",
    "countries": [
     "YEM"
-   ]
-  },
-  {
-   "id": "f0c132dd4f52",
-   "title": "US journalist injured during Israeli settler attack on West Bank olive harvest",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest",
-   "date": "2026-10-16T15:01:40Z",
-   "countries": [
-    "ISR",
-    "PSE"
    ]
   },
   {
@@ -2267,18 +2258,6 @@
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
    "date": "2026-10-14T12:00:00Z",
    "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "c4ca76250126",
-   "title": "Blasts rock Riyadh as Houthis vow to continue striking Saudi airports, oil facilities",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261014-live-saudi-arabia-reports-aramco-building-hit-and-four-wounded-in-houthi-missile-attacks",
-   "date": "2026-10-14T03:39:11Z",
-   "countries": [
-    "SAU",
     "YEM"
    ]
   }
