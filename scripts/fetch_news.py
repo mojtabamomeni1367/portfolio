@@ -13,6 +13,7 @@ Standard library only, so it runs anywhere Python 3.9+ is available.
 import email.utils
 import hashlib
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -31,6 +32,13 @@ MAX_TOTAL = 400
 TOP_COUNT = 14          # headlines flagged for the Top Stories column
 TOP_PER_SOURCE = 3      # keep Top Stories varied across outlets
 UA = "Mozilla/5.0 (compatible; momenimojtaba.com news bot)"
+
+# Headline translation with Google Gemini (key in the GEMINI_API_KEY secret)
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+TRANSLATE_BATCH = 40        # headlines per Gemini request
+TRANSLATE_MAX_PER_RUN = 240 # safety cap per run
+LANGS = ("en", "fa", "ar")
+LANG_NAME = {"en": "English", "fa": "Persian (Farsi)", "ar": "Arabic"}
 
 
 def now():
@@ -127,6 +135,70 @@ def fetch(url):
         return r.read()
 
 
+def gemini_translate(batch, key):
+    """batch: list of items sharing one source language. Returns {id: {lang: title}}."""
+    src = batch[0]["lang"]
+    targets = [l for l in LANGS if l != src]
+    lines = "\n".join(f'{i}\t{it["title"]}' for i, it in enumerate(batch))
+    prompt = (
+        f"You translate news headlines about the Middle East and South Asia for a researcher's website.\n"
+        f"Translate each {LANG_NAME[src]} headline below into " + " and ".join(LANG_NAME[t] for t in targets) + ".\n"
+        "Rules: translate faithfully and neutrally, as a news agency would; keep every claim, name and number; "
+        "do not add, soften or comment; use the standard spelling of names in each language; "
+        ""
+        "Persian must be standard Iranian Persian; Arabic must be Modern Standard Arabic.\n"
+        "Return only JSON: a list of objects with keys \"i\" (the number) and "
+        + ", ".join(f'\"{t}\"' for t in targets) + ".\n\n"
+        "Headlines (number, tab, headline):\n" + lines
+    )
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+    }).encode()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+    with urllib.request.urlopen(req, timeout=120) as r:
+        data = json.loads(r.read())
+    text = data["candidates"][0]["content"]["parts"][0]["text"]
+    out = {}
+    for row in json.loads(text):
+        try:
+            it = batch[int(row["i"])]
+        except (KeyError, ValueError, IndexError, TypeError):
+            continue
+        tr = {t: clean(str(row.get(t, ""))) for t in targets}
+        if all(tr.values()):
+            out[it["id"]] = tr
+    return out
+
+
+def translate_missing(items):
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not key:
+        print("GEMINI_API_KEY not set: headlines stay in their original language.")
+        return 0
+    todo = [it for it in items if any(not it.get("title_" + l) for l in LANGS if l != it["lang"])]
+    todo = todo[:TRANSLATE_MAX_PER_RUN]
+    done = 0
+    for lang in LANGS:
+        group = [it for it in todo if it["lang"] == lang]
+        for i in range(0, len(group), TRANSLATE_BATCH):
+            batch = group[i:i + TRANSLATE_BATCH]
+            try:
+                res = gemini_translate(batch, key)
+            except Exception as e:  # a failed batch is retried on the next run
+                print(f"  translation failed ({lang}, {len(batch)} headlines): {e}")
+                continue
+            for it in batch:
+                if it["id"] in res:
+                    it["title_" + it["lang"]] = it["title"]
+                    for t, v in res[it["id"]].items():
+                        it["title_" + t] = v
+                    done += 1
+    print(f"translated with Gemini: {done}/{len(todo)}")
+    return done
+
+
 def main():
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))["feeds"]
     matchers = build_matchers(json.loads(COUNTRIES.read_text(encoding="utf-8")))
@@ -170,6 +242,13 @@ def main():
             })
 
     # merge: fresh copies win, then keep stored ones that are still recent
+    old_by_id = {o["id"]: o for o in old}
+    for it in fresh:
+        prev = old_by_id.get(it["id"])
+        if prev and prev.get("title") == it["title"]:
+            for k, v in prev.items():
+                if k.startswith("title_"):
+                    it[k] = v
     seen_id, seen_title, items = set(), set(), []
     for it in fresh + old:
         key_t = (it.get("lang"), norm_title(it["title"]))
@@ -210,6 +289,8 @@ def main():
         for f in failed:
             print("  failed:", f, file=sys.stderr)
         return 1
+
+    translate_missing(kept)
 
     if json.dumps(kept, sort_keys=True, ensure_ascii=False) == old_snapshot:
         print(f"feeds read: {ok}/{len(sources)}; no change")
