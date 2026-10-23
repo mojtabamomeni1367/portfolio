@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T00:59:00Z",
- "count": 163,
+ "updated": "2026-10-23T03:45:10Z",
+ "count": 165,
  "items": [
   {
    "id": "e9b62e1e7db9",
@@ -8,7 +8,7 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cm3694g9xk3kt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T00:59:00Z",
+   "date": "2026-10-23T03:45:10Z",
    "countries": [
     "ISR"
    ],
@@ -20,9 +20,85 @@
    "lang": "fa",
    "source": "BBC Persian",
    "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-23T00:59:00Z",
+   "date": "2026-10-23T03:45:10Z",
    "countries": [
     "IRN",
+    "ISR"
+   ],
+   "top": true
+  },
+  {
+   "id": "ad537577e07c",
+   "title": "Indian developer turns ‘Cockroach’ protests into video game",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
+   "date": "2026-10-23T02:44:35Z",
+   "countries": [
+    "IND"
+   ],
+   "top": true
+  },
+  {
+   "id": "4ee57d9cbf7a",
+   "title": "Pakistan, EU flag security risks tied to Afghanistan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039170/pakistan-eu-flag-security-risks-tied-to-afghanistan",
+   "date": "2026-10-23T02:34:10Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "top": true
+  },
+  {
+   "id": "a05b684a7740",
+   "title": "Houthi attacks on Saudi sites claim four more lives",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039176/houthi-attacks-on-saudi-sites-claim-four-more-lives",
+   "date": "2026-10-23T02:19:15Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "top": true
+  },
+  {
+   "id": "7ed48a360873",
+   "title": "جماعة أنصار الله تقول إنها استهدفت وزارة الدفاع السعودية، والتحالف يعلن اعتراض مسيّرات وصواريخ باليستية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T01:43:29Z",
+   "countries": [
+    "SAU"
+   ],
+   "top": true
+  },
+  {
+   "id": "54de3a0660c4",
+   "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
+   "date": "2026-10-23T01:24:16Z",
+   "countries": [
+    "IND",
+    "SAU",
+    "YEM"
+   ],
+   "top": true
+  },
+  {
+   "id": "2aa469777151",
+   "title": "احزاب عرب چگونه می‌توانند موازنه قدرت را در انتخابات اسرائیل تعیین کنند؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c9x287ke47l4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T01:08:16Z",
+   "countries": [
     "ISR"
    ],
    "top": true
@@ -40,18 +116,6 @@
    "top": true
   },
   {
-   "id": "7ed48a360873",
-   "title": "جماعة أنصار الله تقول إنها استهدفت وزارة الدفاع السعودية، والتحالف يعلن اعتراض مسيّرات وصاروخ باليستي",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-22T22:37:10Z",
-   "countries": [
-    "SAU"
-   ],
-   "top": true
-  },
-  {
    "id": "a217a78f6264",
    "title": "آنچه گذشت؛ نتانیاهو: سرنگونی حکومت ایران تنها راه پایان دادن به تهدید است",
    "lang": "fa",
@@ -61,8 +125,7 @@
    "countries": [
     "IRN",
     "ISR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "7eeb05798eb6",
@@ -123,8 +186,7 @@
    "date": "2026-10-22T20:13:21Z",
    "countries": [
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "2e5326c7066d",
@@ -193,8 +255,7 @@
    "date": "2026-10-22T19:17:36Z",
    "countries": [
     "IRN"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "d64815de27cc",
@@ -208,8 +269,7 @@
     "PAK",
     "SAU",
     "TUR"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "50e3760e77fb",
@@ -220,8 +280,7 @@
    "date": "2026-10-22T18:53:56Z",
    "countries": [
     "PAK"
-   ],
-   "top": true
+   ]
   },
   {
    "id": "5f9add615542",
@@ -413,19 +472,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-22T15:56:36Z",
    "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "54de3a0660c4",
-   "title": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece",
-   "date": "2026-10-22T15:43:28Z",
-   "countries": [
-    "IND",
-    "SAU",
     "YEM"
    ]
   },
@@ -1564,17 +1610,6 @@
    ]
   },
   {
-   "id": "b581bc994d04",
-   "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
-   "date": "2026-10-18T16:25:00Z",
-   "countries": [
-    "ISR"
-   ]
-  },
-  {
    "id": "f6e997bc4b2b",
    "title": "بعد دعوة السيسي لتفويض برلماني، ما حدود الدور العسكري المصري المحتمل دعماً للسعودية؟",
    "lang": "ar",
@@ -1856,17 +1891,6 @@
    "source": "UN News",
    "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
    "date": "2026-10-13T12:00:00Z",
-   "countries": [
-    "YEM"
-   ]
-  },
-  {
-   "id": "f0ba6cd7635a",
-   "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-13T04:27:22Z",
    "countries": [
     "YEM"
    ]
