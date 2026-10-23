@@ -135,6 +135,17 @@ def fetch(url):
         return r.read()
 
 
+def err_text(e):
+    """Short readable error, including the body of an HTTP error from the API."""
+    msg = str(e)
+    if hasattr(e, "read"):
+        try:
+            msg += " " + e.read().decode("utf-8", "replace")[:300]
+        except Exception:
+            pass
+    return msg.replace("\n", " ")
+
+
 _MODEL = {"name": None}
 
 
@@ -164,9 +175,9 @@ def gemini_call(body, key):
         try:
             _MODEL["name"] = pick_model(key)
         except Exception as e:
-            print(f"  could not list Gemini models ({e}); trying {GEMINI_MODEL}")
+            print(f"::warning::could not list Gemini models ({err_text(e)}); trying {GEMINI_MODEL}")
             _MODEL["name"] = GEMINI_MODEL
-        print(f"Gemini model: {_MODEL['name']}")
+        print(f"::notice::Gemini model: {_MODEL['name']}")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{_MODEL['name']}:generateContent"
     req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
     with urllib.request.urlopen(req, timeout=120) as r:
@@ -210,7 +221,7 @@ def gemini_translate(batch, key):
 def translate_missing(items):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
-        print("GEMINI_API_KEY not set: headlines stay in their original language.")
+        print("::warning::GEMINI_API_KEY not set: headlines stay in their original language.")
         return 0
     todo = [it for it in items if any(not it.get("title_" + l) for l in LANGS if l != it["lang"])]
     todo = todo[:TRANSLATE_MAX_PER_RUN]
@@ -222,7 +233,7 @@ def translate_missing(items):
             try:
                 res = gemini_translate(batch, key)
             except Exception as e:  # a failed batch is retried on the next run
-                print(f"  translation failed ({lang}, {len(batch)} headlines): {e}")
+                print(f"::warning::translation failed ({lang}, {len(batch)} headlines): {err_text(e)}")
                 continue
             for it in batch:
                 if it["id"] in res:
@@ -230,7 +241,7 @@ def translate_missing(items):
                     for t, v in res[it["id"]].items():
                         it["title_" + t] = v
                     done += 1
-    print(f"translated with Gemini: {done}/{len(todo)}")
+    print(f"::notice::translated with Gemini: {done}/{len(todo)}")
     return done
 
 
