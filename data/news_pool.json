@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:57:20Z",
+ "updated": "2026-10-24T15:46:39Z",
  "items": [
   {
    "id": "7718246191f0",
@@ -2928,6 +2928,372 @@
    "desc": "“Seven people were killed and 34 others sustained injuries when gunmen opened fire at a funeral in the church in Hamoud on October 23,” authorities said",
    "score": 5,
    "dup_of": "70f852fa83bf"
+  },
+  {
+   "id": "77f1879b6057",
+   "title": "Why Israeli tourists and investors are unsettling Cypriots",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+   "date": "2026-10-24T14:56:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+   "score": 3
+  },
+  {
+   "id": "2861c27cad41",
+   "title": "Full lockdown of occupied West Bank begins",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+   "date": "2026-10-24T14:24:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli army begins its lockdown and military operations across the West Bank.",
+   "score": 7,
+   "dup_of": "38aef09981a9"
+  },
+  {
+   "id": "9b5397f83bd4",
+   "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+   "date": "2026-10-24T14:23:40Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+   "score": 2
+  },
+  {
+   "id": "22f134b46229",
+   "title": "Who was behind the deadly church shooting in Jordan?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
+   "date": "2026-10-24T13:39:26Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
+   "score": 6,
+   "dup_of": "06b0daaa6fbe"
+  },
+  {
+   "id": "e1399cf88b62",
+   "title": "Netanyahu floats Crypto to bypass sanctions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+   "date": "2026-10-24T13:27:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu floats Crypto to bypass sanctions",
+   "score": 6,
+   "dup_of": "c5574714b9bc"
+  },
+  {
+   "id": "c19a3b2667ef",
+   "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+   "date": "2026-10-24T13:16:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
+   "score": 5
+  },
+  {
+   "id": "3451c6a9097d",
+   "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+   "date": "2026-10-24T13:06:03Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+   "score": 8,
+   "dup_of": "9c28c069e47a"
+  },
+  {
+   "id": "9660a4d97590",
+   "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
+   "date": "2026-10-24T13:02:51Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups.",
+   "score": 7,
+   "dup_of": "06b0daaa6fbe"
+  },
+  {
+   "id": "947c5af9b863",
+   "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+   "date": "2026-10-24T12:51:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
+   "score": 7,
+   "dup_of": "908f023200ab"
+  },
+  {
+   "id": "7e9d3ad79b4a",
+   "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+   "date": "2026-10-24T12:30:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+   "score": 3
+  },
+  {
+   "id": "a0356421da8e",
+   "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
+   "date": "2026-10-24T13:50:12Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 may also be forced to leave.",
+   "score": 8,
+   "dup_of": "b9b0d6e0f12d"
+  },
+  {
+   "id": "1cd6cbad4aa8",
+   "title": "US updates Gulf, Middle East travel advisories over threat of Houthi 'aggression'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-updates-gulf-middle-east-travel-advisories-over-threat-houthi",
+   "date": "2026-10-24T15:36:42Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "desc": "US updates Gulf, Middle East travel advisories over threat of Houthi 'aggression' The United States updated travel advisories for countries across the Gulf and Middle East, citing what it described as the threat of increased Iran-aligned Houthi \"regional aggression,\" according to security alerts issued by US missions. The security alerts cover Saudi Arabia, Qatar, the United Arab Emirates, Iraq, Lebanon and Israel. The Department of State has updated its Travel Advisories for Americans in the Middle East to reflect the threat of increased Iranian-supported Houthi regional aggression. Review th",
+   "score": 5
+  },
+  {
+   "id": "e220a672d311",
+   "title": "Yemen's Houthis claim attack on Aden naval base, military camp",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-claim-attack-aden-naval-base-military-camp",
+   "date": "2026-10-24T15:05:40Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemen's Houthis claim attack on Aden naval base, military camp Yemen's Houthis claimed an attack on Saturday on a naval base and a military camp in Aden, the interim seat of the internationally recognised government, after blasts were heard there. \"Our armed forced targeted Saudi enemy concentrations at the so-called Al-Nasr camp and the naval base in Aden,\" Houthi military spokesman Yahya Saree said, adding that the sites were overseen by Saudi forces. Reporting by AFP",
+   "score": 7,
+   "dup_of": "05b13b3a3fa8"
+  },
+  {
+   "id": "824089b56ce6",
+   "title": "Houthis say Saudi strike kills five members of same family in Hodeida",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-strike-kills-five-members-same-family-hodeida-war",
+   "date": "2026-10-24T14:42:11Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis say Saudi strike kills five members of same family in Hodeida Yemen's Iran-backed Houthis on Saturday said a Saudi strike on Hodeida killed five members of the same family, as both sides carry out attacks. \"Five people, the head of the family, two of his children and his two wives, have been martyred and his daughter wounded as a result of a Saudi enemy air strike on the home of citizen Abdulwahed al-Wasabi in the Al-Tuhayta district\" of Hodeida, the Houthis' Al-Masirah TV channel reported. Reporting by AFP",
+   "score": 7
+  },
+  {
+   "id": "43a342597618",
+   "title": "Explosions heard in Yemen's city of Aden",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-yemens-city-aden",
+   "date": "2026-10-24T14:30:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Explosions heard in Yemen's city of Aden Explosions were heard on Saturday in Aden, a city in the south of the country that serves as the seat of the Saudi-backed Yemeni government, according to a police source and an AFP journalist. A police official in Aden told AFP that three explosions had been heard in the city, while an AFP correspondent also reported blasts.",
+   "score": 6,
+   "dup_of": "e220a672d311"
+  },
+  {
+   "id": "93375a668fcf",
+   "title": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/after-deadly-shooting-israel-forcibly-evicts-hundreds-palestinian-families-homes-hebron",
+   "date": "2026-10-24T14:23:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "After deadly shooting, Israel forcibly evicts hundreds of Palestinian families from Hebron homes Submitted by Fayha Shalash on Sat, 10/24/2026 - 12:38 Residents say soldiers gave families five minutes to leave, as demolitions accompany an Israeli military operation that officials warn could trigger a crisis Higazi Shawer Al Tamimi, 70, who was displaced with his family from the Ein Deir Baha neighbourhood by Israeli forces, inside his animal feed shop in Hebron, occupied West Bank, 24 October 2026 (John Wessels/AFP) Off Israeli forces have forcibly evicted hundreds of Palestinian families from",
+   "score": 8,
+   "dup_of": "a0356421da8e"
+  },
+  {
+   "id": "5c2db33e50ee",
+   "title": "Death toll from Jordan church attack rises to nine",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-jordan-church-attack-rises-nine",
+   "date": "2026-10-24T14:10:58Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Death toll from Jordan church attack rises to nine Two people wounded in an attack on a church in southern Jordan on Friday have succumbed to their injuries, bringing the death toll to nine, Health Minister Ibrahim Al-Bdour told AFP on Saturday. \"The number of fatalities from the attack on the church in the village of Hammoud has risen to nine following the death of a second person who had been in critical condition,\" the minister stated. He said that that the death of an eighth victim had been confirmed earlier in the morning.",
+   "score": 7,
+   "dup_of": "06b0daaa6fbe"
+  },
+  {
+   "id": "6a351cb911c9",
+   "title": "Former skipper Shan Masood axed as Pakistan turn to youth for Sri Lanka Tests",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039501/former-skipper-shan-masood-axed-as-pakistan-turn-to-youth-for-sri-lanka-tests",
+   "date": "2026-10-24T14:23:10Z",
+   "countries": [
+    "LKA",
+    "PAK"
+   ],
+   "desc": "Pakistan have dropped former Test captain Shan Masood as selectors turn to youth and domestic performers for the two-match ICC World Test Championship series against Sri Lanka, with Babar Azam retaining the captaincy of a revamped 14-member squad announced by the country’s cricket board on Saturday. Three batters — Mohammad Taha, Mohammad Suleman and Sameer Minhas — have earned maiden Test call-ups, while Ali Usman and Salman Ali Agha have also been included in the squad for the series to be played in Rawalpindi and Lahore from Nov 9 to 21. Shan’s omission marks a significant change in Pakista",
+   "score": 1
+  },
+  {
+   "id": "40daf47094eb",
+   "title": "Israeli forces displace families, demolish buildings in occupied West Bank's Hebron",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039462/israeli-forces-displace-families-demolish-buildings-in-occupied-west-banks-hebron",
+   "date": "2026-10-24T14:45:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces pushed into the occupied West Bank city of Hebron on Saturday and displaced around 250 families, some in the middle of the night, vowing to exact a heavy price for a deadly attack on soldiers . The Palestinian Authority called for international pressure on Israel to protect residents, who said soldiers announced the evacuations over loudspeakers late at night as they packed what they could and left. Days before tight elections , Prime Minister Benjamin Netanyahu said he was planning an operation on a scale not seen since Israel first occupied the West Bank in 1967, after Palesti",
+   "score": 8,
+   "dup_of": "a0356421da8e"
+  },
+  {
+   "id": "f1d88391fadb",
+   "title": "Man accused of thrashing petrol station worker in Lahore discharged from case as parties reach compromise",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039493/man-accused-of-thrashing-petrol-station-worker-in-lahore-discharged-from-case-as-parties-reach-compromise",
+   "date": "2026-10-24T13:41:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: A judicial magistrate on Saturday discharged a man accused of assaulting a petrol pump employee after the complainant reached a compromise with him. The incident occurred at a Jubilee Town filling station when the suspect went there to get a refill. As the salesman asked him not to smoke on the premises, the suspect came out of his SUV and allegedly thrashed him before fleeing the scene. The police arrested the suspect after CCTV footage of the incident went viral on social media. Subsequently, Chung police produced the suspect before the court on Saturday and sought his 10-day physica",
+   "score": 1
+  },
+  {
+   "id": "1f1b0e01ad03",
+   "title": "Jordan king orders 'iron fist' response to deadly church attack",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039506/jordan-king-orders-iron-fist-response-to-deadly-church-attack",
+   "date": "2026-10-24T15:19:54Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordan’s King Abdullah ordered security forces on Saturday to respond with an “iron fist” as authorities searched for gunmen who opened fire and killed nine people during a church funeral service. The assailants fired for several minutes in broad daylight at the church in Karak governorate on Friday, and also wounded 40 people in the rare attack on Jordan’s Christian minority. Security was stepped up at malls, foreign embassies and other locations across the country, the US embassy in Amman said. A priest described how he and others ordered people to get to the ground at Saint George’s Greek O",
+   "score": 7,
+   "dup_of": "9660a4d97590"
+  },
+  {
+   "id": "1201b4c20108",
+   "title": "ATC orders Imaan, Hadi to record their statements in security breach case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039494/atc-orders-imaan-hadi-to-record-their-statements-in-security-breach-case",
+   "date": "2026-10-24T13:30:42Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: An anti-terrorism court (ATC) on Saturday directed human rights lawyer Imaan Zainab Hazir-Mazari and her spouse, Hadi Ali Chattha, to record their statements under Section 342 (power to examine the accused) of the Code of Criminal Procedure (CrPC) at the next hearing in the security breach case. ATC Judge Tahir Abbas Sipra, who conducted the proceedings at Adiala jail, adjourned the hearing until Oct 26 after both accused declined to record their statements during Saturday’s proceedings. Imaan and her husband, Hadi, are facing a jail trial in a 2024 case pertaining to the alleged di",
+   "score": 3
+  },
+  {
+   "id": "05b13b3a3fa8",
+   "title": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
+   "date": "2026-10-24T15:37:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The Houthis quickly claimed the attack, saying they targeted a naval base and military camp overseen by Saudi forces",
+   "score": 8
+  },
+  {
+   "id": "40680a3131bc",
+   "title": "Five Italian activists held in West Bank have been repatriated, Italy’s ⁠Foreign Ministry says",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/five-italian-activists-held-in-west-bank-have-been-repatriated-italys-foreign-ministry-says/article71620023.ece",
+   "date": "2026-10-24T12:50:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The women were detained on Thursday, October 22, by Israeli police in Kiryat ‌Arba along with other international activists, while seeking to protect ‌Palestinian farmers during the ‌olive ⁠harvest in the Israel-occupied territory.",
+   "score": 4
+  },
+  {
+   "id": "9d4fc6cc136a",
+   "title": "نتانیاهو از یک «غافلگیری بزرگ برای تشکیلات فلسطینی» خبر داد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq1kdpdppzz8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T15:17:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "در پی کشته‌شدن دو سرباز ارتش اسرائيل در شهر الخلیل در کرانه باختری اشغالی، اسرائیل عملیات امنیتی گسترده را در این شهر آغاز کرده و بنیامین نتانیاهو، نخست‌وزیر، از«یک غافلگیری بسیار بزرگ تشکیلات فلسطینی» صحبت کرده است.",
+   "score": 7
+  },
+  {
+   "id": "fc6663573572",
+   "title": "آماده‌باش واشنگتن در برابر ایران؛ از هشدار درباره طرح‌های ترور تا بررسی حملات تازه",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cwx28d1j6d4yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T13:21:55Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "در حالی که دونالد ترامپ بار دیگر از احتمال حمله نظامی به ایران سخن گفته است، گزارش‌های تازه رسانه‌های آمریکایی از افزایش نگرانی واشنگتن درباره پیامدهای دور جدید جنگ حکایت دارند. اکسیوس از یک هشدار اطلاعاتی آمریکا درباره طرح‌های احتمالی ایران برای ترور مقام‌های آمریکایی خبر داده و سی‌ان‌ان گزارش کرده که دولت آمریکا بی‌سروصدا در حال کاهش شمار دیپلمات‌ها و خانواده‌های آنان در چند کشور خاورمیانه است. وال‌استریت ژورنال در دو گزارش جداگانه از تهدید ایران به حمله به زیرساخت‌های اقتصادی منطقه و تلاش آمریکا برای محدود کردن آخرین مسیرهای تجارت زمینی ایران خبر داده است؛ فشاری که با بسته شدن برخی گذرگاه‌ه",
+   "score": 8,
+   "dup_of": "908f023200ab"
   }
  ]
 }

@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-24T12:57:20Z",
+ "updated": "2026-10-24T15:46:39Z",
  "count": 75,
  "items": [
+  {
+   "id": "05b13b3a3fa8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece",
+   "date": "2026-10-24T15:37:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
+   "title_en": "Houthis attack Yemen’s Aden, say Saudi strikes kill 16",
+   "summary_en": "Yemen's Houthis launched an attack on the southern port city of Aden after accusing Saudi Arabia of killing 16 people in airstrikes on Sanaa and Hodeida.",
+   "body_en": [
+    "Houthi military spokesman Yahya Saree said their forces targeted Saudi troop concentrations at the Al-Nasr camp and a naval base in Aden, the interim base of the Saudi-backed Yemeni government. The coalition led by Saudi Arabia earlier stated it intercepted two missiles over the Saudi cities of Taif and Yanbu prior to the blasts in Aden.",
+    "The strikes in Aden followed reports by the Houthis' Al-Masirah network of deadly Saudi airstrikes, including one on a home in Sanaa that killed at least four people, another on a cement factory workers' residence killing seven, and a raid in Hodeida that killed five members of a single family."
+   ],
+   "title_fa": "حوثی‌ها به عدن یمن حمله کردند و می‌گویند حملات عربستان ۱۶ کشته بر جای گذاشته است",
+   "summary_fa": "حوثی‌های یمن پس از متهم کردن عربستان سعودی به کشتن ۱۶ نفر در حملات هوایی به صنعا و حدیده، شهر بندری عدن در جنوب این کشور را هدف حمله قرار دادند.",
+   "body_fa": [
+    "یحیی سریع، سخنگوی نظامی حوثی‌ها، اعلام کرد نیروهای این گروه تجمعات نیروهای سعودی را در پادگان «النصر» و یک پایگاه نیروی دریایی در عدن، مقر موقت دولت مورد حمایت عربستان، هدف قرار دادند. ائتلاف تحت رهبری عربستان پیش‌تر اعلام کرده بود که پیش از وقوع انفجارها در عدن، دو موشک را بر فراز شهرهای طائف و ینبع رهگیری کرده است.",
+    "این حملات به عدن پس از آن صورت گرفت که شبکه المسیره وابسته به حوثی‌ها از حملات هوایی مرگبار عربستان خبر داد؛ از جمله حمله‌ای به یک خانه در صنعا با دست‌کم چهار کشته، حمله‌ای دیگر به محل سکونت کارگران کارخانه سیمان که هفت کشته بر جای گذاشت، و بمبارانی در حدیده که موجب کشته شدن پنج عضو یک خانواده شد."
+   ],
+   "title_ar": "الحوثيون يهاجمون عدن اليمنية ويقولون إن الضربات السعودية قتلت 16 شخصاً",
+   "summary_ar": "شن الحوثيون في اليمن هجوماً على مدينة عدن الجنوبية بعد اتهامهم للسعودية بقتل 16 شخصاً في غارات جوية على صنعاء والحديدة.",
+   "body_ar": [
+    "قال المتحدث العسكري باسم الحوثيين، يحيى سريع، إن قواتهم استهدفت تجمعات للقوات السعودية في معسكر النصر وقاعدة بحرية في عدن، المقر المؤقت للحكومة المدعومة من السعودية. وكان التحالف الذي تقوده السعودية قد ذكر في وقت سابق أنه اعترض صاروخين فوق مدينتي الطائف وينبع السعوديتين قبل سماع دوي الانفجارات في عدن.",
+    "وجاء الهجوم على عدن بعد أن أفادت قناة المسيرة التابعة للحوثيين بشن السعودية غارات جوية مميتة، شملت ضربة على منزل في صنعاء أسفرت عن مقتل أربعة أشخاص على الأقل، وأخرى على سكن لعمال مصنع إسمنت أودت بحياة سبعة، إضافة إلى غارة في الحديدة قتلت خمسة أفراد من عائلة واحدة."
+   ]
+  },
+  {
+   "id": "9d4fc6cc136a",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq1kdpdppzz8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T15:17:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "نتانیاهو از یک «غافلگیری بزرگ برای تشکیلات فلسطینی» خبر داد",
+   "title_en": "Netanyahu announces a 'huge surprise for the Palestinian Authority'",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has pledged a major response and a \"very big surprise\" for the Palestinian Authority following the killing of two Israeli soldiers in Hebron.",
+   "body_en": [
+    "The two soldiers died of injuries sustained during a shooting by two Palestinians, who were subsequently killed by Israeli troops. In response, Israel launched a major security campaign in Hebron, with Netanyahu pledging to demolish the neighborhood the gunmen originated from, where local sources report at least 250 families have already been displaced.",
+    "In an interview with i24 News, Netanyahu stated he would use undisclosed methods to neutralize the Palestinian Authority, even though no evidence has linked it to the incident. Meanwhile, Hamas praised the attack against the soldiers without formally claiming responsibility for it."
+   ],
+   "title_fa": "نتانیاهو از یک «غافلگیری بزرگ برای تشکیلات فلسطینی» خبر داد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در پی کشته شدن دو سرباز ارتش این کشور در الخلیل، از پاسخی گسترده و یک «غافلگیری بسیار بزرگ» برای تشکیلات فلسطینی خبر داد.",
+   "body_fa": [
+    "این دو سرباز بر اثر جراحات ناشی از تیراندازی دو فلسطینی جان باختند؛ دو مهاجمی که خود نیز همان زمان به ضرب گلوله نیروهای اسرائیلی کشته شدند. در واکنش، اسرائیل عملیات امنیتی گسترده‌ای را در الخلیل آغاز کرده و نتانیاهو وعده ویرانی محله عاملان حمله را داده است، جایی که به گفته منابع محلی دست‌کم ۲۵۰ خانواده از آنجا آواره شده‌اند.",
+    "نتانیاهو در مصاحبه‌ای با شبکه آی۲۴ نیوز اظهار داشت که از روش‌هایی فاش‌نشده برای خنثی کردن تشکیلات فلسطینی استفاده خواهد کرد، هرچند شواهدی مبنی بر دخالت این نهاد در حمله وجود ندارد. در همین حال، حماس بدون پذیرش رسمی مسئولیت، از این حمله استقبال کرد."
+   ],
+   "title_ar": "نتنياهو يعلن عن \"مفاجأة كبرى للسلطة الفلسطينية\"",
+   "summary_ar": "توعد رئيس الوزراء الإسرائيلي بنيامين نتنياهو برد واسع وبـ\"مفاجأة كبرى للسلطة الفلسطينية\" في أعقاب مقتل جنديين إسرائيليين في الخليل.",
+   "body_ar": [
+    "وقضى الجنديان متأثرين بجراحهما إثر إطلاق نار نفذه فلسطينيان قُتلا بدورهما برصاص القوات الإسرائيلية. ورداً على ذلك، أطلقت إسرائيل عملية أمنية واسعة النطاق في الخليل، حيث توعد نتنياهو بتدمير الحي الذي خرج منه المسلحان، وسط تقارير محلية تفيد بتهجير ما لا يقل عن 250 عائلة قسراً حتى الآن.",
+    "وفي مقابلة مع قناة \"آي 24 نيوز\"، صرح نتنياهو بأنه سيستخدم أساليب لم يكشف عنها لتحييد السلطة الفلسطينية، رغم عدم وجود أدلة تربطها بالحادث. وفي غضون ذلك، رحبت حركة حماس بالهجوم على الجنديين دون أن تعلن رسمياً مسؤوليتها عنه."
+   ]
+  },
+  {
+   "id": "824089b56ce6",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-strike-kills-five-members-same-family-hodeida-war",
+   "date": "2026-10-24T14:42:11Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis say Saudi strike kills five members of same family in Hodeida",
+   "title_en": "Houthis say Saudi strike kills five members of same family in Hodeida",
+   "summary_en": "Yemen's Houthis reported that a Saudi airstrike in Hodeida's Al-Tuhayta district killed five members of a single family and wounded another.",
+   "body_en": [
+    "According to the Houthis' Al-Masirah TV, the strike hit the residence of Abdulwahed al-Wasabi, killing him, two of his children, and his two wives, while leaving his daughter injured."
+   ],
+   "title_fa": "حوثی‌ها می‌گویند حمله عربستان باعث مرگ پنج عضو یک خانواده در حدیده شد",
+   "summary_fa": "حوثی‌های یمن گزارش دادند که یک حمله هوایی عربستان در بخش التحیتا در استان حدیده، موجب کشته شدن پنج عضو یک خانواده و زخمی شدن یک نفر دیگر شده است.",
+   "body_fa": [
+    "به گزارش شبکه تلویزیونی المسیره وابسته به حوثی‌ها، این حمله خانه عبدالواحد الوصابی را هدف قرار داد که بر اثر آن، وی به همراه دو فرزند و دو همسرش کشته شدند و دخترش نیز زخمی شد."
+   ],
+   "title_ar": "الحوثيون يقولون إن غارة سعودية قتلت خمسة أفراد من عائلة واحدة في الحديدة",
+   "summary_ar": "أفاد الحوثيون في اليمن بأن غارة جوية سعودية في مديرية التحيتا بمحافظة الحديدة أسفرت عن مقتل خمسة أفراد من عائلة واحدة وإصابة آخر.",
+   "body_ar": [
+    "وبحسب قناة المسيرة التابعة للحوثيين، استهدفت الغارة منزل المواطن عبد الواحد الوصابي، ما أدى إلى مقتله مع اثنين من أطفاله وزوجتيه، في حين أصيبت ابنته بجروح."
+   ]
+  },
   {
    "id": "4f73190822ff",
    "lang": "en",
@@ -416,37 +507,6 @@
    ]
   },
   {
-   "id": "3eeae7ee8527",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
-   "date": "2026-10-24T05:04:32Z",
-   "countries": [
-    "ISR",
-    "LBN"
-   ],
-   "score": 5,
-   "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-   "title_en": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
-   "summary_en": "As Israel's upcoming elections approach, people in Lebanon remain largely sceptical that a change in leadership will alter Israeli policies or end the ongoing military occupation of southern Lebanon.",
-   "body_en": [
-    "Despite a US-brokered framework agreement signed in June aimed at securing a phased withdrawal of Israeli forces, Israel continues to occupy large parts of southern Lebanon and has systematically destroyed local infrastructure. Lebanese analysts and residents note that none of the candidates challenging Prime Minister Benjamin Netanyahu are campaigning on a platform of withdrawal or addressing the occupation as a crisis.",
-    "Primary challenger Gadi Eisenkot, a former general and architect of the Dahiyeh Doctrine, has previously criticized Netanyahu from the right for being too soft on security issues. With mainstream Israeli political discourse remaining deeply unyielding, Lebanese observers view the upcoming Israeli vote—and the upcoming US midterm elections—as unlikely to bring meaningful relief from the prolonged state of neither war nor peace."
-   ],
-   "title_fa": "بدبینی لبنانی‌ها نسبت به اینکه انتخابات اسرائیل تغییری ایجاد کند یا به اشغال جنوب پایان دهد",
-   "summary_fa": "با نزدیک شدن به انتخابات پیش روی اسرائیل، مردم در لبنان نسبت به این موضوع که تغییر رهبری بتواند سیاست‌های اسرائیل را تغییر دهد یا به اشغال نظامی جاری در جنوب لبنان پایان دهد، به شدت بدبین هستند.",
-   "body_fa": [
-    "علیرغم توافق چارچوب میانجی‌گری شده توسط ایالات متحده که در ژوئن با هدف تضمین خروج مرحله‌ای نیروهای اسرائیلی امضا شد، اسرائیل همچنان به اشغال بخش‌های بزرگی از جنوب لبنان ادامه می‌دهد و زیرساخت‌های محلی را به طور سیستماتیک تخریب کرده است. تحلیلگران و ساکنان لبنانی خاطرنشان می‌کنند که هیچ یک از نامزدهایی که بنیامین نتانیاهو نخست‌وزیر را به چالش می‌کشند، با شعار خروج یا پرداختن به اشغال به عنوان یک بحران کمپین نمی‌کنند.",
-    "گادی آیزنکوت، رقیب اصلی، ژنرال سابق و طراح دکترین ضاحیه، پیش از این نتانیاهو را از جناح راست به خاطر تسامح بیش از حد در مسائل امنیتی مورد انتقاد قرار داده است. با توجه به اینکه گفتمان سیاسی جریان اصلی اسرائیل همچنان به شدت تسلیم‌ناپذیر است، ناظران لبنانی معتقدند که رأی‌گیری آینده اسرائیل و انتخابات میان‌دوره‌ای ایالات متحده بعید است تسکین معناداری از وضعیت طولانی مدت نه جنگ و نه صلح به ارمغان آورد."
-   ],
-   "title_ar": "اللبنانيون متشككون في أن الانتخابات الإسرائيلية ستجلب تغييراً أو تنهي احتلال الجنوب",
-   "summary_ar": "مع اقتراب الانتخابات الإسرائيلية القادمة، يظل الناس في لبنان متشككين إلى حد كبير في أن يؤدي أي تغيير في القيادة إلى تعديل السياسات الإسرائيلية أو إنهاء الاحتلال العسكري المستمر لجَنُوب لبنان.",
-   "body_ar": [
-    "على الرغم من اتفاق إطاري توسطت فيه الولايات المتحدة وتم توقيعه في يونيو بهدف تأمين انسحاب تدريجي للقوات الإسرائيلية، إلا أن إسرائيل تواصل احتلال أجزاء كبيرة من جنوب لبنان وقامت بتدمير البنية التحتية المحلية بشكل ممنهج. ويشير المحللون والسكان اللبنانيون إلى أن أياً من المرشحين الذين يتحدون رئيس الوزراء بنيامين نتنياهو لا يخوضون الحملات الانتخابية على أساس الانسحاب أو معالجة الاحتلال كأزمة.",
-    "انتقد المنافس الرئيسي غادي أيزنكوت، الجنرال السابق ومهندس عقيدة الضاحية، نتانياهو سابقاً من اليمين بدعوى أنه أكثر تساهلاً في القضايا الأمنية. ومع بقاء الخطاب السياسي الإسرائيلي السائد متعنتاً للغاية، يرى المراقبون اللبنانيون أن التصويت الإسرائيلي القادم والانتخابات النصفية الأمريكية القادمة من غير المرجح أن تجلبا ارتياحاً مجدياً من حالة اللا حرب واللا سلم الممتدة."
-   ]
-  },
-  {
    "id": "1f89f3bc2b70",
    "lang": "en",
    "source": "Middle East Eye",
@@ -529,36 +589,6 @@
    "body_ar": [
     "وفي منشور على منصة إكس، صرح محمد مخبر أن إيران على دراية بنقاط ضعف العدو، مشيراً إلى أن المفاجآت في ساحة المعركة إلى جانب النفوذ في قطاع الطاقة يمكن أن تغير ميزان القوى.",
     "وأضاف مخبر أن الأمم التي عاشت في المنطقة لآلاف السنين هي التي ستدوم، مؤكداً أن النظام الصهيوني لا يمكنه إلا التفكير في عدم وجوده."
-   ]
-  },
-  {
-   "id": "cd7c929cfd95",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/as-israeli-election-nears-campaign-turns-ugly/article71618997.ece",
-   "date": "2026-10-24T03:36:08Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 5,
-   "title": "As Israeli election nears, campaign turns ugly",
-   "title_en": "As Israeli election nears, campaign turns ugly",
-   "summary_en": "Ahead of upcoming Israeli elections, political campaigns have escalated with personal attacks, derogatory slurs, and AI-generated media targeting candidates. Polls indicate Prime Minister Benjamin Netanyahu's Likud-led coalition is in a close race with rival Gadi Eisenkot's opposition bloc.",
-   "body_en": [
-    "Candidates and political activists are deploying AI-generated imagery and videos to portray opponents as untrustworthy or harmful to the country. Prime Minister Benjamin Netanyahu and main opposition leader Gadi Eisenkot have both targeted each other using synthetic media, while Likud campaign materials have focused heavily on stoking fears regarding opposition partnerships with Arab-Israeli political parties.",
-    "The hostile rhetoric has directly targeted political figures who lost family members during the conflict following Hamas's October 7, 2023 attack. Far-right candidate Laly Derai and relatives of former hostages have faced online smear campaigns and public harassment, drawing criticism from political observers across the spectrum."
-   ],
-   "title_fa": "با نزدیک شدن به انتخابات اسرائیل، کارزار انتخاباتی چهره زشتی به خود می‌گیرد",
-   "summary_fa": "در آستانه انتخابات پیش‌روی اسرائیل، کارزارهای سیاسی با حملات شخصی، توهین‌ها و استفاده از محتوای هوش مصنوعی علیه نامزدها شدت گرفته است. نظرسنجی‌ها رقابت تنگاتنگی را میان ائتلاف تحت رهبری بنیامین نتانیاهو و بلوک اپوزیسیون به رهبری گادی آیزنکوت نشان می‌دهند.",
-   "body_fa": [
-    "نامزدها و فعالان سیاسی از تصاویر و ویدیوهای تولیدشده توسط هوش مصنوعی برای غیرقابل اعتماد یا زیان‌بار نشان دادن رقبای خود استفاده می‌کنند. بنیامین نتانیاهو، نخست‌وزیر، و گادی آیزنکوت، رهبر اپوزیسیون، هر دو با محتوای هوش مصنوعی یکدیگر را هدف قرار داده‌اند، در حالی که تبلیغات حزب لیکود بیشتر بر تحریک هراس از ائتلاف اپوزیسیون با احزاب عرب‌تبار اسرائیلی تمرکز یافته است.",
-    "این سخنان خصمانه چهره‌های سیاسی، از جمله افرادی را که نزدیکان خود را در جریان جنگ‌های پس از حمله ۷ اکتبر ۲۰۲۳ حماس از دست داده‌اند، هدف قرار داده است. لالی درعی، نامزد راست افراطی، و خانواده‌های برخی از گروگان‌های سابق با کمپین‌های بدنام‌سازی و آزار و اذیت مواجه شده‌اند که انتقادهایی را در پی داشته است."
-   ],
-   "title_ar": "مع اقتراب الانتخابات الإسرائيلية، الحملة الانتخابية تتجه نحو التصعيد والتشويه",
-   "summary_ar": "مع اقتراب الانتخابات الإسرائيلية، تصاعدت الحملات السياسية باستهداف المرشحين بالهجمات الشخصية والإساءات واستخدام الوسائط المولد بواسطة الذكاء الاصطناعي. وتظهر استطلاعات الرأي منافسة محتدمة بين تكتل رئيس الوزراء بنيامين نتنياهو وتحالف المعارضة بقيادة غادي آيزنكوت.",
-   "body_ar": [
-    "يستخدم المرشحون والناشطون السياسيون الصور ومقاطع الفيديو المولدة بواسطة الذكاء الاصطناعي لإظهار منافسيهم بمظهر عدم الجديرة بالثقة أو الإضرار بالبلاد. وقد تبادل رئيس الوزراء بنيامين نتنياهو وزعيم المعارضة غادي آيزنكوت استهداف بعضهما بمحتوى الذكاء الاصطناعي، بينما ركزت حملات حزب ليكود على إثارة المخاوف من تحالف المعارضة مع الأحزاب العربية الإسرائيلية.",
-    "واستهدفت الخطابات الهجومية شخصيات سياسية فقدت أفراداً من عائلاتها خلال الحرب التي أعقبت هجوم حماس في 7 أكتوبر 2023. وتعرّضت المرشحة من اليمين المتطرف لالي درعي وعائلات رهائن سابقين لحملات تشويه ومضايقات علنية، مما أثار انتقادات واسعة."
    ]
   },
   {
@@ -681,36 +711,6 @@
    "body_ar": [
     "وأوضحت الهيئة أن هذه الاعتداءات شملت إطلاق النار وإصابة عدد من المزارعين بجروح، وسرقة المحاصيل، وقطع أشجار الزيتون وحرقها، وإجبار المزارعين على مغادرة أراضيهم تحت تهديد السلاح. وأكدت أن التصعيد المتزامن مع موسم قطاف الزيتون يرمي إلى استهداف قدرة الفلسطينيين على زراعة أراضيهم والبقاء فيها من خلال نمط ممنهج من الترهيب والتخريب.",
     "وذكرت الهيئة أن التنسيق بين هجمات المستوطنين وتدخل القوات الإسرائيلية لحمايتهم يثبت أن هذه الممارسات ليست حوادث معزولة، بل أدوات ممنهجة للاستيلاء على الأراضي والتهجير القسري. ودعت المجتمع الدولي إلى اتخاذ إجراءات ملموسة لوقف هذه الاعتداءات وتوفير الحماية للمزارعين الفلسطينيين."
-   ]
-  },
-  {
-   "id": "951eefffa074",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039362/wb-urges-pakistan-to-shift-from-stability-to-growth",
-   "date": "2026-10-24T02:08:57Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "WB urges Pakistan to shift from stability to growth",
-   "title_en": "WB urges Pakistan to shift from stability to growth",
-   "summary_en": "The World Bank has advised Pakistan to transition from macroeconomic stabilization toward sustainable, private sector-led growth. During meetings in Islamabad, World Bank officials praised Pakistan's handling of recent external pressures while emphasizing the need for continued structural reforms.",
-   "body_en": [
-    "World Bank Regional Practice Director Sandeep Mahajan met with Finance Minister Muhammad Aurangzeb to discuss Pakistan's economic reform agenda and measures to boost investment. Mahajan commended the government for rebuilding macroeconomic stability and implementing timely policy responses to manage external pressures. Finance Minister Aurangzeb stated that the government intends to build on this stability to foster sustainable, export-driven growth, highlighting Pakistan's recent $3 billion Eurobond issuance.",
-    "The discussions emphasized the necessity of policy continuity, fiscal discipline, and robust regulatory frameworks to attract private investment and support infrastructure development. Both parties agreed to maintain close cooperation on privatization efforts, regulatory clarity, and mobilizing financing to create job opportunities for the youth."
-   ],
-   "title_fa": "بانک جهانی از پاکستان خواست از ثبات اقتصادی به سمت رشد حرکت کند",
-   "summary_fa": "بانک جهانی به پاکستان توصیه کرده است که از ثبات کلان اقتصادی به سمت رشد پایدار با محوریت بخش خصوصی حرکت کند. مقامات بانک جهانی در جریان دیدارها در اسلام‌آباد، از مدیریت فشارهای خارجی توسط پاکستان تمجید کرده و بر لزوم تداوم اصلاحات ساختاری تأکید نمودند.",
-   "body_fa": [
-    "ساندیپ ماهاجان، مدیر منطقه‌ای بانک جهانی، با محمد اورنگ‌زیب، وزیر دارایی پاکستان، دیدار کرد تا درباره برنامه اصلاحات اقتصادی و راهکارهای افزایش سرمایه‌گذاری گفتگو کند. ماهاجان از حکومت پاکستان برای بازگرداندن ثبات کلان اقتصادی و اجرای واکنش‌های به‌موقع قدردانی کرد. وزیر دارایی نیز اعلام کرد حکومت قصد دارد از این ثبات برای ایجاد رشد پایدار و صادرات‌محور استفاده کند و به انتشار اخیر ۳ میلیارد دلار اوراق یورو اشاره کرد.",
-    "در این گفتگوها بر لزوم تداوم سیاست‌ها، انضباط مالی و چارچوب‌های مقرراتی قوی برای جذب سرمایه‌گذاری بخش خصوصی و حمایت از توسعه زیرساخت‌ها تأکید شد. هر دو طرف بر ادامه همکاری‌های نزدیک در زمینه خصوصی‌سازی، شفافیت مقرراتی و تأمین مالی برای ایجاد فرصت‌های شغلی جهت جوانان توافق کردند."
-   ],
-   "title_ar": "البنك الدولي يحث پاکستان على الانتقال من الاستقرار إلى النمو",
-   "summary_ar": "حث البنك الدولي إسلام آباد على الانتقال من مرحلة الاستقرار الاقتصادي الكلي إلى النمو المستدام المعتمد على القطاع الخاص. وأشاد مسؤولون من البنك الدولي خلال اجتماعات في إسلام آباد بإدارة پاکستان للضغوط الخارجية الأخيرة، مؤكدين ضرورة استمرار الإصلاحات الهيكلية.",
-   "body_ar": [
-    "التقى المدير الإقليمي للبنك الدولي سانديب ماهاجان بوزير المالية محمد أورنغزيب لمناقشة برنامج الإصلاح الاقتصادي وسُبل تعزيز الاستثمار. وأشاد ماهاجان بالحكومة لاستعادتها الاستقرار الاقتصادي الكلي وتطبيق سياسات في الوقت المناسب لإدارة الضغوط الخارجية. وأكد وزير المالية سعي الحكومة لاستغلال هذا الاستقرار لتحقيق نمو مستدام قائم على التصدير، مشيراً إلى إصدار سندات يورو بقيمة 3 مليارات دولار مؤخراً.",
-    "وشددت المحادثات على أهمية استمرارية السياسات والانضباط المالي والأطر التنظيمية القوية لجذب استثمارات القطاع الخاص ودعم مشاريع البنية التحتية. واتفق الجانبان على مواصلة التعاون في مجالات الخصخصة والوضوح التنظيمي وحشد التمويل لتوفير فرص العمل للشباب."
    ]
   },
   {
