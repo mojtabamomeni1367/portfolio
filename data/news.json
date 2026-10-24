@@ -1,7 +1,64 @@
 {
- "updated": "2026-10-24T18:48:50Z",
- "count": 75,
+ "updated": "2026-10-24T21:42:30Z",
+ "count": 76,
  "items": [
+  {
+   "id": "15ae93625646",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi",
+   "date": "2026-10-24T21:14:13Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "title_en": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "summary_en": "Riyadh's international airport announced that it will reopen for flights on Sunday following a two-week closure triggered by deadly attacks from Yemen's Houthis. The resumption comes as Houthi strikes against Saudi Arabia have continued.",
+   "body_en": [
+    "In a statement on X, King Khalid International Airport stated that Terminal 1 will handle domestic flights, while Terminal 2 will be dedicated to international flights run by national carriers, starting Sunday, October 25, 2026."
+   ],
+   "title_fa": "فرودگاه ریاض پس از تعطیلی ناشی از حملات حوثی‌ها پروازها را در روز یکشنبه از سر می‌گیرد",
+   "summary_fa": "فرودگاه بین‌المللی ریاض اعلام کرد که پروازهای خود را در روز یکشنبه پس از دو هفته تعطیلی ناشی از حملات مرگبار حوثی‌های یمن، از سر می‌گیرد. این بازگشایی در شرایطی صورت می‌گیرد که حملات حوثی‌ها علیه عربستان ادامه داشته است.",
+   "body_fa": [
+    "فرودگاه بین‌المللی ملک خالد در بیانیه‌ای در شبکه اجتماعی اکس اعلام کرد که از روز یکشنبه، ۲۵ اکتبر ۲۰۲۶، ترمینال ۱ برای پروازهای داخلی و ترمینال ۲ برای پروازهای بین‌المللی شرکت‌های هواپیمایی ملی اختصاص داده می‌شود."
+   ],
+   "title_ar": "مطار الرياض يستأنف الرحلات الجوية الأحد عقب إغلاقه إثر هجمات الحوثيين",
+   "summary_ar": "أعلن مطار الرياض الدولي عن استئناف الرحلات الجوية يوم الأحد بعد إغلاق استمر أسبوعين عقب هجمات دامية شنها الحوثيون في اليمن. وتأتي هذه العودة في ظل استمرار الضربات الحوثية على المملكة.",
+   "body_ar": [
+    "وأفاد مطار الملك خالد الدولي في منشور عبر منصة إكس بأن الصالة رقم (1) ستُخصص للرحلات الداخلية، بينما ستُخصص الصالة رقم (2) للرحلات الدولية التي تسيرها الناقلات الوطنية، وذلك اعتباراً من يوم الأحد 25 أكتوبر 2026."
+   ]
+  },
+  {
+   "id": "96caef3f8ec6",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-report-they-attacked-mecca-and-medina",
+   "date": "2026-10-24T18:44:03Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis deny report that they attacked Mecca and Medina",
+   "title_en": "Houthis deny report that they attacked Mecca and Medina",
+   "summary_en": "Yemen's Houthis have refuted claims by Saudi Arabia that they launched attacks against the holy cities of Mecca and Medina. The denial followed Riyadh's statement that it had intercepted missiles fired toward both locations.",
+   "body_en": [
+    "The group stated that its military actions strictly focus on Saudi oil infrastructure and military bases. It also noted that it publicly announces these strikes whenever they are carried out."
+   ],
+   "title_fa": "تکذیب گزارش حمله به مکه و مدینه توسط حوثی‌ها",
+   "summary_fa": "حوثی‌های یمن ادعای عربستان سعودی مبنی بر حمله به شهرهای مقدس مکه و مدینه را تکذیب کردند. این رد ادعا پس از آن صورت گرفت که ریاض اعلام کرد موشک‌های شلیک‌شده به سمت این دو شهر را رهگیری کرده است.",
+   "body_fa": [
+    "این گروه اعلام کرد که اقدامات نظامی‌اش صرفاً بر زیرساخت‌های نفتی و پایگاه‌های نظامی عربستان سعودی متمرکز است. این جنبش همچنین خاطرنشان کرد که هر زمان چنین حملاتی صورت گیرد، آن را به طور علنی اعلام می‌کند."
+   ],
+   "title_ar": "الحوثيون ينفون تقريراً يفيد بمهاجمتهم مكة والمدينة",
+   "summary_ar": "نفى الحوثيون في اليمن مزاعم السعودية بأنهم شنوا هجمات على مدينتي مكة والمدينة المقدستين. وجاء هذا النفي بعد إعلان الرياض أنها اعترضت صواريخ كانت متجهة نحو المدينتين.",
+   "body_ar": [
+    "وأوضحت الجماعة أن عملياتها العسكرية تقتصر على استهداف المنشآت النفطية والقواعد العسكرية السعودية. وأشارت أيضاً إلى أنها تعلن عن مثل هذه الضربات عند وقوعها."
+   ]
+  },
   {
    "id": "7be463e77f5c",
    "lang": "en",
@@ -61,6 +118,34 @@
    "body_ar": [
     "أكدت الوزارة في معرض ردها على تصريحات المتحدث باسم طالبان ذبيح الله مجاهد، أن مخاوف باكستان الأمنية موثقة ولا تستند إلى تكهنات. واستشهدت إسلام آباد بتقارير صادرة عن مجلس الأمن الدولي والكونغرس الأمريكي توثق وجود آلاف المقاتلين من حركة طالبان باكستان ينشطون انطلاقاً من الأراضي الأفغانية وبتسهيلات محلية.",
     "وطالبت باكستان حكومة كابول بوقف أي تساهل أو دعم لجماعات مثل طالبان باكستان وجيش تحرير بلوشستان. وشددت على أن الإجراءات الأمنية المتخذة هي دفاعية بحتة وموجهة ضد الإرهاب وليس ضد الشعب الأفغاني، معتبرة أن السلام الإقليمي يتطلب خطوات ملموسة وقابلة للتحقق لوقف التسلل عبر الحدود."
+   ]
+  },
+  {
+   "id": "4dec03459815",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-attacked-saudi-oil-facilities-airports",
+   "date": "2026-10-24T16:38:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+   "title_en": "Yemen's Houthis say they attacked Saudi oil facilities, airports",
+   "summary_en": "Yemen's Houthi movement stated that it conducted attacks against Saudi airports and oil installations on Saturday. The targeted locations included Aramco facilities and several international airports.",
+   "body_en": [
+    "According to the group's military spokesperson, Yahya Saree, the strikes hit a Saudi Aramco site in Yanbu, the Rabigh oil refinery, and King Khalid International Airport in Riyadh. He added that the operation also targeted King Fahd International Airport in Dammam, Najran airport, and an air base located in Khamis Mushait."
+   ],
+   "title_fa": "حوثی‌های یمن می‌گویند به تأسیسات نفتی و فرودگاه‌های عربستان سعودی حمله کرده‌اند",
+   "summary_fa": "جنبش حوثی‌های یمن اعلام کرد که روز شنبه حملاتی را علیه فرودگاه‌ها و تأسیسات نفتی عربستان سعودی انجام داده است. اماکن هدف قرار گرفته شامل تأسیسات آرامکو و چندین فرودگاه بین‌المللی بودند.",
+   "body_fa": [
+    "به گفته یحیی سریع، سخنگوی نظامی این گروه، این حملات یک مرکز متعلق به شرکت سعودی آرامکو در ینبع، پالایشگاه نفت رابغ و فرودگاه بین‌المللی ملک خالد در ریاض را هدف قرار دادند. وی افزود که در این عملیات فرودگاه بین‌المللی ملک فهد در دمام، فرودگاه نجران و یک پایگاه هوایی در خمیس مشیط نیز هدف گرفته شدند."
+   ],
+   "title_ar": "الحوثيون في اليمن يقولون إنهم هاجموا منشآت نفطية ومطارات سعودية",
+   "summary_ar": "أعلنت جماعة الحوثي اليمنية أنها شنت هجمات استهدفت مطارات ومنشآت نفطية سعودية يوم السبت. وشملت المواقع المستهدفة منشآت تابعة لشركة أرامكو وعدة مطارات دولية.",
+   "body_ar": [
+    "وبحسب المتحدث العسكري للجماعة، يحيى سريع، فقد استهدفت الضربات منشأة تابعة لشركة أرامكو السعودية في ينبع ومصفاة رابغ للنفط ومطار الملك خالد الدولي في الرياض. وأضاف أن العملية استهدفت أيضاً مطار الملك فهد الدولي في الدمام ومطار نجران وقاعدة جوية في خميس مشيط."
    ]
   },
   {
@@ -680,67 +765,6 @@
    "body_ar": [
     "وفقاً للتقرير، شكل غير المسجلين وحاملو بطاقة المواطن الأفغاني 97 في المئة من المحتجزين خلال ذلك الأسبوع، حيث جرت 56 في المئة من التوقيفات في بلوشستان، تلتها البنجاب بنسبة 34 في المئة، ثم خيبر بختونخوا بنسبة 10 في المئة. وإجمالاً، أُعيد نحو 2,744,068 أفغانياً من باكستان في الفترة الممتدة من 15 سبتمبر 2023 إلى 17 أكتوبر 2026.",
     "وخلال الأسبوع الممتد بين 11 و17 أكتوبر، تشير التقديرات إلى عودة 3,883 أفغانياً عبر معابر طورخم وتشامان وبهرامتشه الحدودية، مسجلين انخفاضاً بنسبة 10 في المئة في إجمالي العائدين وتراجعاً في الترحيل بنسبة 48 في المئة مقارنة بالأسبوع السابق. وأوضح التقرير أن الخوف من الاعتقال ظل الدافع الرئيسي لقرار العودة لدى الأفراد غير المسجلين وحاملي البطاقات."
-   ]
-  },
-  {
-   "id": "8fcc05a6e91b",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039344/kp-governor-rules-out-talks-with-anti-state-elements",
-   "date": "2026-10-24T02:20:10Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "KP governor rules out talks with ‘anti-state elements’",
-   "title_en": "KP governor rules out talks with ‘anti-state elements’",
-   "summary_en": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi ruled out any talks or concessions for groups refusing to recognize the Constitution, stating that decisive anti-terrorism action and a strengthened police force are necessary to secure peace.",
-   "body_en": [
-    "Speaking after the funerals of two police officials killed during an operation in Karak district, Kundi urged the public to withhold shelter from terrorists. He noted that federal officials, including Prime Minister Shehbaz Sharif and Interior Minister Mohsin Naqvi, have affirmed zero tolerance for terrorism and committed to supplying the provincial police with funding and modern weapons.",
-    "Kundi also asserted that weapons abandoned following the foreign troop withdrawal from Afghanistan had reached militants. At a later press conference, he announced that the prime minister approved a 160 billion rupee package for the province, addressed gas and wheat concerns, and agreed to issue tenders for packages of the Chashma Lift Canal next month."
-   ],
-   "title_fa": "والی خیبر پختونخوا مذاکره با «عناصر ضد حاکمیت» را رد کرد",
-   "summary_fa": "فیصل کریم کندی، والی خیبر پختونخوا، هرگونه مذاکره یا امتیازدهی به گروه‌هایی را که قانون اساسی را به رسمیت نمی‌شناسند رد کرد و گفت که مبارزه قاطع با تروریسم و تقویت نیروی پلیس تنها راه برقراری صلح است.",
-   "body_fa": [
-    "کندی پس از شرکت در مراسم تشییع دو تن از مأموران پلیس که در عملیاتی در منطقه کرک کشته شدند، از مردم خواست تا از پناه دادن به تروریست‌ها خودداری کنند. وی اشاره کرد که مقامات فدرال، از جمله شهباز شریف، نخست‌وزیر، و محسن نقوی، وزیر داخله، بر موضع عدم مدارا با تروریسم تأکید کرده و متعهد شده‌اند که منابع مالی و تسلیحات پیشرفته در اختیار پلیس این ولایت قرار دهند.",
-    "والی خیبر پختونخوا همچنین اظهار داشت که سلاح‌های برجامانده از خروج نیروهای بین‌المللی از افغانستان به دست شبه‌نظامیان افتاده است. او در یک کنفرانس خبری جداگانه اعلام کرد که نخست‌وزیر با یک بسته ۱۶۰ میلیارد روپیه‌ای برای این ولایت موافقت کرده و ضمن پیگیری مشکلات مربوط به گاز و گندم، مناقصه‌های پروژه‌های کانال چشمه لیفت نیز ماه آینده آغاز خواهد شد."
-   ],
-   "title_ar": "حاكم خيبر بختونخوا يستبعد المحادثات مع «العناصر المعادية للدولة»",
-   "summary_ar": "استبعد حاكم إقليم خيبر بختونخوا فيصل كريم كندي إجراء أي محادثات أو تقديم تنازلات للجماعات التي ترفض الاعتراف بالدستور، مؤكداً أن الحسم في مكافحة الإرهاب وتعزيز جهاز الشرطة هما السبيل الوحيد لإرساء السلام.",
-   "body_ar": [
-    "وفي تصريحات أدلى بها إثر مراسم تشييع اثنين من رجال الشرطة قُتلا خلال عملية أمنية في مقاطعة كرك، دعا كندي المواطنين إلى الامتناع عن إيواء الإرهابيين. وأشار إلى أن المسؤولين الفيدراليين، بما في ذلك رئيس الوزراء شهباز شريف ووزير الداخلية محسن نقوي، أكدوا تبني سياسة عدم التسامح مطلقاً مع الإرهاب والتزموا بدعم شرطة الإقليم بالموارد المالية والأسلحة المتطورة.",
-    "كما صرح كندي بأن الأسلحة التي خُلّفت عقب انسحاب القوات الدولية من أفغانستان قد وقعت في أيدي المسلحين. وأعلن في مؤتمر صحفي لاحق أن رئيس الوزراء وافق على حزمة تنموية للإقليم بقيمة 160 مليار روبية، ووجّه بمعالجة قضايا الغاز والقمح، بالإضافة إلى طرح مناقصات مشروع قناة «تشاشما ليفت» الشهر المقبل."
-   ]
-  },
-  {
-   "id": "a215902a0131",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-farmers-face-21-attacks-israeli-forces-settlers-single-day",
-   "date": "2026-10-24T02:18:55Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Palestinian farmers face 21 attacks by Israeli forces, settlers in single day, commission says",
-   "title_en": "Palestinian farmers face 21 attacks by Israeli forces, settlers in single day, commission says",
-   "summary_en": "The Colonisation and Wall Resistance Commission documented 21 attacks by Israeli forces and settlers against Palestinian farmers across six governorates during a 12-hour period on Friday.",
-   "body_en": [
-    "According to the commission, the incidents included shootings, physical injuries, thefts of crops, the cutting and burning of olive trees, and farmers being forced from their lands at gunpoint. The escalation during the olive harvest season is intended to target the ability of Palestinians to cultivate their land through systematic intimidation and destruction.",
-    "The CWRC stated that the visible coordination between settler violence and military intervention indicates these were not isolated events, but part of a wider policy of forced expulsion and land confiscation. It urged the international community to take concrete steps to protect Palestinian farmers and halt further attacks."
-   ],
-   "title_fa": "به گفته هیئت فلسطینی، کشاورزان در یک روز هدف ۲۱ حمله از سوی نیروهای اسرائیلی و شهرک‌نشینان قرار گرفتند",
-   "summary_fa": "هیئت مقاومت در برابر دیوار و شهرک‌سازی اعلام کرد که نیروهای اسرائیلی و شهرک‌نشینان طی ۱۲ ساعت در روز جمعه، ۲۱ بار به کشاورزان فلسطینی در شش استان حمله کرده‌اند.",
-   "body_fa": [
-    "به گزارش این هیئت، این حوادث شامل تیراندازی، مجروح کردن کشاورزان، سرقت محصولات، قطع و آتش زدن درختان زیتون و همچنین راندن کشاورزان از زمین‌هایشان با تهدید اسلحه بوده است. به گفته این نهاد، افزایش حملات همزمان با فصل برداشت زیتون با هدف از میان بردن توانایی فلسطینی‌ها برای کار بر روی زمین‌هایشان از طریق ارعاب و تخریب سیستماتیک صورت می‌گیرد.",
-    "هیئت مذکور تأکید کرد که هماهنگی میان خشونت شهرک‌نشینان و مداخله نظامیان نشان می‌دهد که این اقدامات وقایعی جدا از هم نبوده، بلکه بخشی از سیاست مصادره زمین و اخراج اجباری است. این نهاد از جامعه بین‌المللی خواست اقدامات مشخصی را برای حفاظت از کشاورزان فلسطینی و متوقف کردن این حملات اتخاذ کند."
-   ],
-   "title_ar": "مزارعون فلسطينيون يتعرضون لـ 21 اعتداءً من قوات الاحتلال والمستوطنين في يوم واحد، وفقاً للهيئة",
-   "summary_ar": "وثقت هيئة مقاومة الجدار والاستيطان 21 اعتداءً شنته قوات الاحتلال والمستوطنون ضد مزارعين فلسطينيين في ست محافظات خلال 12 ساعة يوم الجمعة.",
-   "body_ar": [
-    "وأوضحت الهيئة أن هذه الاعتداءات شملت إطلاق النار وإصابة عدد من المزارعين بجروح، وسرقة المحاصيل، وقطع أشجار الزيتون وحرقها، وإجبار المزارعين على مغادرة أراضيهم تحت تهديد السلاح. وأكدت أن التصعيد المتزامن مع موسم قطاف الزيتون يرمي إلى استهداف قدرة الفلسطينيين على زراعة أراضيهم والبقاء فيها من خلال نمط ممنهج من الترهيب والتخريب.",
-    "وذكرت الهيئة أن التنسيق بين هجمات المستوطنين وتدخل القوات الإسرائيلية لحمايتهم يثبت أن هذه الممارسات ليست حوادث معزولة، بل أدوات ممنهجة للاستيلاء على الأراضي والتهجير القسري. ودعت المجتمع الدولي إلى اتخاذ إجراءات ملموسة لوقف هذه الاعتداءات وتوفير الحماية للمزارعين الفلسطينيين."
    ]
   },
   {
