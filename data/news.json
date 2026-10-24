@@ -1,7 +1,123 @@
 {
- "updated": "2026-10-24T09:48:46Z",
- "count": 69,
+ "updated": "2026-10-24T12:57:20Z",
+ "count": 75,
  "items": [
+  {
+   "id": "4f73190822ff",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039485/pakistan-rejects-ex-us-envoy-khalilzads-baseless-allegations-of-arming-afghans-to-fight-taliban",
+   "date": "2026-10-24T12:42:36Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Pakistan rejects ex-US envoy Khalilzad’s 'baseless' allegations of arming Afghans to fight Taliban",
+   "title_en": "Pakistan rejects ex-US envoy Khalilzad’s 'baseless' allegations of arming Afghans to fight Taliban",
+   "summary_en": "Pakistan's Ministry of Information has dismissed claims by former US envoy Zalmay Khalilzad alleging that Islamabad is arming and recruiting Afghans to combat the Taliban.",
+   "body_en": [
+    "The ministry described Khalilzad's remarks on social media platform X as misleading narratives meant to promote an agenda favoring the Taliban administration. It asserted that Pakistan is conducting lawful counterterrorism operations against militant networks based in Taliban-controlled areas that target Pakistani citizens.",
+    "Pakistani authorities also cited United Nations reports that document the continued presence of groups such as Tehreek-i-Taliban Pakistan and Al-Qaeda in Afghanistan, maintaining that the former envoy's accusations deflect from Kabul's failure to stop its territory from being used for cross-border attacks."
+   ],
+   "title_fa": "پاکستان ادعاهای «بی‌اساس» خلیل‌زاد، فرستاده پیشین آمریکا، مبنی بر تسلیح افغان‌ها برای جنگ با طالبان را رد کرد",
+   "summary_fa": "وزارت اطلاعات پاکستان ادعاهای زلمی خلیل‌زاد، فرستاده پیشین ایالات متحده، مبنی بر اینکه اسلام‌آباد افغان‌ها را برای مبارزه با طالبان مسلح و جذب می‌کند، رد کرد.",
+   "body_fa": [
+    "این وزارتخانه اظهارات خلیل‌زاد در شبکه اجتماعی ایکس را ادعاهایی گمراه‌کننده برای پیشبرد رویکردی در حمایت از حکومت طالبان توصیف کرد. وزارت اطلاعات تأکید نمود که پاکستان در حال انجام عملیات‌های مشروع ضدتروریسم علیه گروه‌های مستقر در خاک افغانستان است که شهروندان پاکستانی را هدف قرار می‌دهند.",
+    "مقامات پاکستانی همچنین به گزارش‌های سازمان ملل متحد درباره حضور مستمر سازمان‌های تروریستی همچون تحریک طالبان پاکستان و القاعده در افغانستان اشاره کرده و افزودند که اظهارات این دیپلمات پیشین، توجه را از مسئولیت حکومت کابل در جلوگیری از به‌کارگیری خاک افغانستان برای اقدامات تروریستی منحرف می‌سازد."
+   ],
+   "title_ar": "باكستان ترفض مزاعم المبعوث الأمريكي الأسبق خليل زاد \"التي لا أساس لها\" حول تسليح أفغان لقتال طالبان",
+   "summary_ar": "رفضت وزارة الإعلام الباكستانية ادعاءات المبعوث الأمريكي السابق زلماي خليل زاد التي زعم فيها أن إسلام أباد تسلح وتجند مواطنين أفغاناً لقتال حركة طالبان.",
+   "body_ar": [
+    "ووصفت الوزارة ما نشره خليل زاد على منصة إكس بأنه ترويج لروايات تهدف إلى دعم نظام طالبان، مؤكدة أن العمليات الأمنية الباكستانية موجهة بشكل مشروع لمكافحة الجماعات الإرهابية المتمركزة في المناطق التي تسيطر عليها الحركة وتهدد أمن المواطنين الباكستانيين.",
+    "وأشارت السلطات الباكستانية إلى تقارير صادرة عن الأمم المتحدة توثق الوجود المستمر لجماعات مثل حركة طالبان باكستان وتنظيم القاعدة داخل أفغانستان، مضيفة أن مزاعم المبعوث السابق تسعى لصرف النظر عن مسؤولية سلطات كابول في منع استخدام أراضيها لشن هجمات عبر الحدود."
+   ]
+  },
+  {
+   "id": "43cd3eb7b091",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-authority-calls-international-pressure-over-israeli-attack",
+   "date": "2026-10-24T12:29:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+   "title_en": "Palestinian Authority calls for international pressure over Israeli attack on Hebron",
+   "summary_en": "The Palestinian Authority has urged the international community to pressure Israel to safeguard Palestinians following the displacement of over 1,500 residents from their homes in Hebron.",
+   "body_en": [
+    "According to a statement from the PA's foreign ministry, immediate global intervention is necessary to counter the escalating risks of forced displacement and destruction. The ministry stated that responses must move past verbal condemnation and involve tangible, deterrent measures."
+   ],
+   "title_fa": "تشکیلات خودگردان فلسطین خواستار فشار بین‌المللی در پی حمله اسرائیل به الخلیل شد",
+   "summary_fa": "تشکیلات خودگردان فلسطین در پی آوارگی بیش از ۱۵۰۰ نفر از خانه‌هایشان در شهر الخلیل، از جامعه بین‌المللی خواست برای حفاظت از فلسطینیان به اسرائیل فشار بیاورد.",
+   "body_fa": [
+    "بر اساس بیانیه وزارت امور خارجه تشکیلات خودگردان فلسطین، برای مقابله با خطرات فزاینده گسترش آوارگی اجباری و تخریب‌ها، اقدام فوری بین‌المللی ضروری است. این وزارتخانه تصریح کرد که واکنش‌ها باید فراتر از محکومیت رفته و شامل تدابیر ملموس و بازدارنده باشد."
+   ],
+   "title_ar": "السلطة الفلسطينية تدعو إلى ضغط دولي إثر هجوم إسرائيلي على الخليل",
+   "summary_ar": "دعت السلطة الفلسطينية المجتمع الدولي لممارسة ضغوط على إسرائيل لحماية الفلسطينيين عقب تهجير أكثر من 1500 شخص من منازلهم في مدينة الخليل.",
+   "body_ar": [
+    "وفقاً لبيان صادر عن وزارة خارجية السلطة الفلسطينية، فإن التحرك الدولي العاجل بات ضرورياً لمواجهة التهديدات المتزايدة بتوسيع نطاق التهجير القسري والدمار. وأكدت الوزارة أن الاستجابة يجب أن تتجاوز مجرد الإدانة وتصل إلى اتخاذ إجراءات ملموسة ورادعة."
+   ]
+  },
+  {
+   "id": "8151124bc965",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-killed-saudi-air-strike-sanaa-says-houthi-linked-media",
+   "date": "2026-10-24T11:47:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Three killed in Saudi air strike on Sanaa, says Houthi-linked media",
+   "title_en": "Three killed in Saudi air strike on Sanaa, says Houthi-linked media",
+   "summary_en": "A Saudi airstrike on Yemen's capital Sanaa left three people dead and several others injured on Saturday, according to Houthi-backed media.",
+   "body_en": [
+    "The Al-Masirah television network reported that the strike targeted a home in the Asr area, situated in the western part of Sanaa. The outlet noted that the reported casualty numbers were preliminary."
+   ],
+   "title_fa": "رسانه‌های وابسته به حوثی‌ها: سه نفر در حمله هوایی عربستان به صنعا کشته شدند",
+   "summary_fa": "به گزارش رسانه‌های وابسته به حوثی‌ها، در پی یک حمله هوایی عربستان سعودی به صنعا، پایتخت یمن، در روز شنبه سه نفر کشته و چندین تن دیگر زخمی شدند.",
+   "body_fa": [
+    "شبکه المسیره گزارش داد که این حمله خانه‌ای را در منطقه عصر واقع در غرب پایتخت هدف قرار داده است. این شبکه افزود که آمار تلفات اعلام‌شده مقدماتی است."
+   ],
+   "title_ar": "وسائل إعلام تابعة للحوثيين: مقتل ثلاثة أشخاص في غارة جوية سعودية على صنعاء",
+   "summary_ar": "أفادت وسائل إعلام تابعة للحوثيين بأن غارة جوية سعودية على العاصمة اليمنية صنعاء يوم السبت أسفرت عن مقتل ثلاثة أشخاص وإصابة آخرين.",
+   "body_ar": [
+    "وذكرت قناة المسيرة أن الغارة استهدفت منزلاً في منطقة عصر غرب العاصمة. وأضافت القناة أن حصيلة القتلى المعلنة لا تزال أولية."
+   ]
+  },
+  {
+   "id": "246147e20a28",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired",
+   "date": "2026-10-24T09:14:58Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+   "title_en": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+   "summary_en": "The Saudi-led military coalition announced that it intercepted and destroyed two ballistic missiles fired toward Taif and Yanbu by Houthi forces on Saturday.",
+   "body_en": [
+    "The launch came amid ongoing clashes between the coalition and the Yemeni group. In response to the threat, civil defence authorities in Saudi Arabia issued brief warnings for Taif, Yanbu, Mecca, and Jeddah, lifting the alerts roughly ten minutes later after stating the danger had ended."
+   ],
+   "title_fa": "ائتلاف به رهبری عربستان می‌گوید موشک‌های بالستیک شلیک‌شده حوثی‌ها به سمت ینبع و طائف را منهدم کرده است",
+   "summary_fa": "ائتلاف نظامی به رهبری عربستان اعلام کرد که روز شنبه دو موشک بالستیک شلیک‌شده توسط نیروهای حوثی به سوی طائف و ینبع را رهگیری و منهدم کرده است.",
+   "body_fa": [
+    "این شلیک‌ها در میانه درگیری‌های جاری میان دو طرف صورت گرفت. در واکنش به این تهدید، پدافند غیرنظامی عربستان هشدارهای اولیه‌ای را برای شهرهای طائف، ینبع، مکه و جده صادر کرد و حدود ۱۰ دقیقه بعد با اعلام رفع خطر، این هشدارها را لغو نمود."
+   ],
+   "title_ar": "التحالف بقيادة السعودية يعلن تدمير صواريخ باليستية أطلقها الحوثيون باتجاه ينبع والطائف",
+   "summary_ar": "أعلن التحالف العسكري بقيادة السعودية أنه دمر يوم السبت صاروخين باليستيين أطلقهما الحوثيون باتجاه الطائف وينبع.",
+   "body_ar": [
+    "وجاء إطلاق الصاروخين في ظل استمرار القتال بين الجانبين. وأصدر الدفاع المدني السعودي تحذيرات وجيزة شملت الطائف وينبع ومكة وجدة، قبل أن يعلن زوال الخطر بعد نحو عشر دقائق."
+   ]
+  },
   {
    "id": "5e159c4ca9bd",
    "lang": "en",
@@ -64,6 +180,37 @@
    ]
   },
   {
+   "id": "e2a38405adfb",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/gaza-genocide-leaves-record-number-orphans-and-widows",
+   "date": "2026-10-24T08:51:10Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Gaza genocide leaves record number of orphans and widows",
+   "title_en": "Gaza genocide leaves record number of orphans and widows",
+   "summary_en": "Israeli military operations in the Gaza Strip have resulted in unprecedented levels of orphanhood and widowhood, with official records identifying tens of thousands of bereaved children and women.",
+   "body_en": [
+    "Data from the Ministry of Social Development in Gaza shows that at least 54,468 children have lost one or both parents since October 2023, while total casualties from this and previous conflicts bring the overall number to 71,000 orphans and 64,000 widows across the territory. The ministry noted that around 3,000 children are completely without any recorded guardian or caregiver.",
+    "Ministry spokesperson Aziza al-Kahlout explained that widows are struggling to act as sole providers and caretakers amid severe destruction, poverty, and displacement. She warned that the lack of resources and adequate shelter increasingly exposes orphaned children to early marriage, child labour, and dropping out of school."
+   ],
+   "title_fa": "نسل‌کشی غزه شمار بی‌سابقه‌ای از یتیمان و زنان بیوه بر جای گذاشته است",
+   "summary_fa": "عملیات نظامی اسرائیل در نوار غزه شمار بی‌سابقه‌ای از کودکان یتیم و زنان بیوه را بر جای گذاشته و آمارهای رسمی ده‌ها هزار کودک و زن داغدار را ثبت کرده‌اند.",
+   "body_fa": [
+    "داده‌های وزارت توسعه اجتماعی در غزه نشان می‌دهد که از اکتبر ۲۰۲۳ دست‌کم ۵۴,۴۶۸ کودک یک یا هر دو والدین خود را از دست داده‌اند، در حالی که مجموع قربانیان جنگ اخیر و حملات پیشین این رقم را به ۷۱ هزار کودک یتیم و ۶۴ هزار زن بیوه در سراسر نوار غزه رسانده است. به گفته این وزارتخانه، نزدیک به ۳,۰۰۰ کودک هیچ سرپرست یا مراقب ثبت‌شده‌ای ندارند.",
+    "عزیزه الکحلوت، سخنگوی این وزارتخانه، توضیح داد که زنان بیوه در میان ویرانی، فقر و آوارگی شدید برای تأمین معیشت و نگهداری از فرزندان به عنوان تنها نان‌آور خانواده با سختی‌های مضاعف روبه‌رو هستند. او هشدار داد که کمبود امکانات و سرپناه مناسب، کودکان یتیم را با خطر روزافزون ترک تحصیل، کار کودک و ازدواج زودهنگام مواجه کرده است."
+   ],
+   "title_ar": "الإبادة الجماعية في غزة تخلف عدداً قياسياً من الأيتام والأرامل",
+   "summary_ar": "أسفرت العمليات العسكرية الإسرائيلية في قطاع غزة عن تسجيل أعداد غير مسبوقة من الأيتام والأرامل، حيث توثق السجلات الرسمية عشرات الآلاف من الأطفال والنساء الثكالى.",
+   "body_ar": [
+    "تُظهر بيانات وزارة التنمية الاجتماعية في غزة أن ما لا يقل عن 54,468 طفلاً فقدوا أحد والديهم أو كليهما منذ أكتوبر 2023، بينما ترفع الخسائر التراكمية من هذا الهجوم والعمليات العسكرية السابقة الحصيلة إلى 71,000 يتيم و64,000 أرملة في عموم القطاع. وتشير الوزارة إلى وجود نحو 3,000 طفل دون أي معيل أو وصي مسجل.",
+    "وأوضحت المتحدثة باسم الوزارة، عزيزة الكحلوت، أن الأرامل يواجهن أعباءً مضاعفة كمعيلات وحيدات لأسرهن وسط الدمار والفقر والنزوح. وحذرت من أن نقص المأوى الملائم والضغوط المعيشية يفاقمان مخاطر تسرب الأطفال الأيتام من التعليم وانخراطهم في عمالة الأطفال والزواج المبكر."
+   ]
+  },
+  {
    "id": "55b0f464ca01",
    "lang": "en",
    "source": "Al Jazeera",
@@ -92,6 +239,36 @@
    "body_ar": [
     "أفادت عائلات نازحة تعيش في ملاجئ ومبانٍ غير مكتملة في مناطق مثل طولكرم بأنها قضت شهوراً دون تلقي أي مساعدات غذائية أو مالية. وقد أدت العمليات العسكرية الإسرائيلية المتزايدة وعمليات الهدم وعنف المستوطنين إلى تدمير سبل العيش، مما جعل نحو 900 ألف شخص في الضفة يواجهون انعدام الأمن الغذائي.",
     "وأوضح برنامج الأغذية العالمي، الذي يقدم حالياً الدعم لنحو 200 ألف فلسطيني في الضفة، أنه لا يملك الموارد الكافية لتلبية احتياجات الجميع. وأظهرت تقييمات البرنامج أن 76 بالمئة من الأسر الفلسطينية شهدت انخفاضاً حاداً في الدخل، مما جعل الكثيرين عاجزين عن تأمين وجباتهم الأساسية أو تغطية نفقات العلاج."
+   ]
+  },
+  {
+   "id": "fb74c8ec7b73",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/accountability-cant-be-swept-under-rubble-amnesty-gaza-killings-aid",
+   "date": "2026-10-24T06:53:25Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "'Accountability can't be swept under rubble': Amnesty on Gaza killings, aid",
+   "title_en": "'Accountability can't be swept under rubble': Amnesty on Gaza killings, aid",
+   "summary_en": "Amnesty International has stated that accountability cannot be dismissed and that any future for Gaza must be rooted in international law, justice, and victims' rights.",
+   "body_en": [
+    "The rights organization reported that over 1,400 Palestinians have been killed by Israeli forces since the ceasefire agreement, while approximately two million people remain in need of shelter. It added that no hospital is currently operating at full capacity and 1.4 million individuals are enduring crisis levels of hunger.",
+    "Amnesty also stated that the ongoing failure to hold Israel accountable and enforce its compliance with binding orders from the International Court of Justice continues to drive large-scale atrocity crimes against Palestinians."
+   ],
+   "title_fa": "عفو بین‌الملل درباره کشتارها و کمک‌ها در غزه: «پاسخگویی را نمی‌توان به زیر آوار راند»",
+   "summary_fa": "سازمان عفو بین‌الملل اعلام کرده است که مسئله پاسخگویی نادیده گرفته‌شدنی نیست و هرگونه آینده و بازیابی غزه باید بر مبنای قوانین بین‌المللی، عدالت و حقوق قربانیان باشد.",
+   "body_fa": [
+    "این سازمان حقوق بشری گزارش داد که از زمان توافق آتش‌بس، بیش از ۱۴۰۰ فلسطینی توسط نیروهای اسرائیلی کشته شده‌اند و نزدیک به دو میلیون نفر همچنان به سرپناه نیاز دارند. این سازمان افزود که هیچ بیمارستانی به طور کامل فعال نیست و ۱.۴ میلیون نفر نیز با بحران شدید گرسنگی مواجه هستند.",
+    "عفو بین‌الملل همچنین اظهار داشت که ناکامی مداوم در پاسخگو کردن اسرائیل و وادار ساختن آن به پایبندی به دستورات الزام‌آور دیوان بین‌المللی دادگستری، همچنان به ارتکاب جنایات فجیع در مقیاس گسترده علیه فلسطینیان دامن می‌زند."
+   ],
+   "title_ar": "منظمة العفو عن القتل والمساعدات في غزة: «لا يمكن إخفاء المساءلة تحت الركام»",
+   "summary_ar": "أكدت منظمة العفو الدولية أن المساءلة لا يمكن تجاهلها، مشددة على أن تعافي غزة ومستقبلها لا يمكن فصلهما عن القانون الدولي والعدالة وحقوق الضحايا.",
+   "body_ar": [
+    "وأفادت المنظمة الحقوقية بأن القوات الإسرائيلية قتلت أكثر من 1400 فلسطيني منذ اتفاق وقف إطلاق النار، في حين لا يزال قرابة مليوني شخص بحاجة إلى مأوى. وأضافت أنه لا يوجد مستشفى واحد يعمل بكامل طاقته، ويعاني 1.4 مليون شخص من مستويات أزمة في الجوع.",
+    "كما ذكرت المنظمة أن الفشل المستمر في محاسبة إسرائيل والضغط عليها للامتثال للأوامر الملزمة الصادرة عن محكمة العدل الدولية يواصل تأجيج الجرائم الفظيعة على نطاق واسع ضد الفلسطينيين."
    ]
   },
   {
