@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:46:39Z",
+ "updated": "2026-10-24T18:48:50Z",
  "items": [
   {
    "id": "7718246191f0",
@@ -2138,7 +2138,8 @@
     "ISR"
    ],
    "desc": "Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion",
-   "score": 5
+   "score": 5,
+   "dup_of": "37a7894265f0"
   },
   {
    "id": "5a40d41ca1be",
@@ -2234,8 +2235,7 @@
     "ISR"
    ],
    "desc": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the crowd that has gathered to hear Gadi Eisenkot, the former general who is the lead opposition challenger in Tuesday’s Israeli election, is a man who is not there. It is the man Eisenkot seeks to replace as prime minister, the man who first served in that role three decades ago and who has held it, on and off, for 19 of t",
-   "score": 6,
-   "dup_of": "cd7c929cfd95"
+   "score": 6
   },
   {
    "id": "9c28c069e47a",
@@ -3294,6 +3294,188 @@
    "desc": "در حالی که دونالد ترامپ بار دیگر از احتمال حمله نظامی به ایران سخن گفته است، گزارش‌های تازه رسانه‌های آمریکایی از افزایش نگرانی واشنگتن درباره پیامدهای دور جدید جنگ حکایت دارند. اکسیوس از یک هشدار اطلاعاتی آمریکا درباره طرح‌های احتمالی ایران برای ترور مقام‌های آمریکایی خبر داده و سی‌ان‌ان گزارش کرده که دولت آمریکا بی‌سروصدا در حال کاهش شمار دیپلمات‌ها و خانواده‌های آنان در چند کشور خاورمیانه است. وال‌استریت ژورنال در دو گزارش جداگانه از تهدید ایران به حمله به زیرساخت‌های اقتصادی منطقه و تلاش آمریکا برای محدود کردن آخرین مسیرهای تجارت زمینی ایران خبر داده است؛ فشاری که با بسته شدن برخی گذرگاه‌ه",
    "score": 8,
    "dup_of": "908f023200ab"
+  },
+  {
+   "id": "32151483ad18",
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T17:21:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+   "score": 7,
+   "dup_of": "e2f79c6f11f1"
+  },
+  {
+   "id": "25ece8c98271",
+   "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+   "date": "2026-10-24T15:50:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
+   "score": 7,
+   "dup_of": "b9b0d6e0f12d"
+  },
+  {
+   "id": "b93548b6584f",
+   "title": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+   "date": "2026-10-24T18:21:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Thousands marched against Prime Minister Benjamin Netanyahu's government in Tel Aviv on Saturday – just three days before Israel's general election – demanding accountability for the failure to prevent a Hamas-led attack on October 7, 2023, that led to the war in Gaza.",
+   "score": 6
+  },
+  {
+   "id": "f6e6e35452ad",
+   "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+   "date": "2026-10-24T17:50:25Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemen’s Iran-allied Houthi rebels said they launched attacks at Saudi oil facilities and airports on Saturday while Yemen’s Saudi-backed government ​said the ‌group also fired three ballistic missiles at coast guard sites in ⁠the port city of Aden.",
+   "score": 8,
+   "dup_of": "a05b684a7740"
+  },
+  {
+   "id": "64f7defd22cd",
+   "title": "Israel begins demolitions in West Bank",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
+   "date": "2026-10-24T17:13:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 may also be forced to leave.",
+   "score": 7,
+   "dup_of": "e2f79c6f11f1"
+  },
+  {
+   "id": "d078fa3affe7",
+   "title": "Islamabad rebuts Kabul's stance on ‘lacking capacity’ to fuel insecurity in Pakistan, slams 'diversionary allegations'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039485/islamabad-rebuts-kabuls-stance-on-lacking-capacity-to-fuel-insecurity-in-pakistan-slams-diversionary-allegations",
+   "date": "2026-10-24T17:41:53Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "The information ministry on Saturday rebutted the Afghan Taliban’s stance that it lacked the “capabilities” to fuel insecurity in other countries and criticised it for resorting to “diversionary allegations” instead of preventing the use of Afghanistan’s soil for terrorist attacks against Pakistan. The ministry’s rebuttal comes after spokesperson for the interim Taliban administration in Afghanistan, Zabiullah Mujahid, said in a statement on X last night that it was not in his country’s “interest to create insecurity in Pakistan or to support any acts of instability there”. He further contende",
+   "score": 7
+  },
+  {
+   "id": "de3a2fde7696",
+   "title": "In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039505/in-berlin-meeting-siemens-affirms-support-for-strengthening-pakistans-healthcare-infrastructure",
+   "date": "2026-10-24T17:53:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The executive vice president of technology giant Siemens on Saturday met with President Asif Ali Zardari in Berlin and expressed his readiness to enhance support for strengthening existing healthcare infrastructure in Pakistan, the Presidency said. The meeting took place on the third and final day of President Zardari’s official visit to Germany, which came as the two countries are set to mark the 75th anniversary of their diplomatic relations. According to a statement by President Zardari’s office, he was called on by executives from the health company, including Siemens Executive Vice Presid",
+   "score": 2
+  },
+  {
+   "id": "1aeebda77c48",
+   "title": "'Missing' Junaid Akbar remains PTI's KP president; Senator Noorul Haq Qadri to assume duties in his absence",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039512/missing-junaid-akbar-remains-ptis-kp-president-senator-noorul-haq-qadri-to-assume-duties-in-his-absence",
+   "date": "2026-10-24T16:58:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The PTI on Saturday clarified that MNA Junaid Akbar remains the president of the party’s Khyber Pakhtunkhwa chapter, but Senator Noorul Haq Qadri will preside over the meetings in the former’s absence. The whereabouts of Akbar remain unknown after he, along with Sohail Afridi and others, was taken into preventative custody following the Centre’s imposition of governor’s rule and emergency in KP on Oct 11. Amid the absence, there were reports that more than 50 lawmakers from the KP Assembly had met on Oct 14 to endorse former chief minister Ali Amin Gandapur’s nomination as acting provincial pr",
+   "score": 5
+  },
+  {
+   "id": "d697ff33dabd",
+   "title": "Trump foreign policy hits voters in the pocketbook, imperilling Republicans in midterms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039518/trump-foreign-policy-hits-voters-in-the-pocketbook-imperilling-republicans-in-midterms",
+   "date": "2026-10-24T18:38:52Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Foreign policy is rarely the deciding factor in US midterm elections, when economic considerations usually drive voters choices. But this time, with Donald Trump’s war on Iran and his sweeping tariff campaign pushing up costs for Americans, a presidents approach to world affairs has itself become a pocketbook issue. As the November 3 elections approach, there are growing signs that voters are drawing that connection directly, creating a major liability for Trump and his fellow Republicans and imperiling their control of Congress. A flag supporting US President Donald Trump outside the venue of",
+   "score": 4
+  },
+  {
+   "id": "7be463e77f5c",
+   "title": "Iran warns of ‘apocalyptic war’ if attacked again",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece",
+   "date": "2026-10-24T18:20:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed attacks; U.S. military vessels not allowed in the Gulf, says Iran amid U.S. talk of air strikes",
+   "score": 8
+  },
+  {
+   "id": "762accb4c050",
+   "title": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-launches-major-west-bank-operation-after-soldiers-killed/article71619178.ece",
+   "date": "2026-10-24T16:09:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The operation \"is expected to continue for several days,\" a statement, released late on Friday (October 23, 2026), said",
+   "score": 7,
+   "dup_of": "25ece8c98271"
+  },
+  {
+   "id": "ffa001e92796",
+   "title": "Iran president says many struggling for food as war bites",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-president-says-many-struggling-for-food-as-war-bites/article71620956.ece",
+   "date": "2026-10-24T15:59:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Masoud Pezeshkian called for an end to what he described as a \"state of neither war nor peace\"",
+   "score": 8
+  },
+  {
+   "id": "d6209d1843ae",
+   "title": "فيلم \"أرض الخرسانة\" الوثائقي الأردني يفوز بجائزة مهرجان لندن السينمائي",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6lyedke3lzyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T16:10:22Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "جاءت نتائج جوائز الدورة 70 لمهرجان لندن السينمائي مفاجئة، عندما ذهبت اثنتان من الجوائز الرئيسية الأربعة لفيلمين وثائقين؛ واحدة منهما هي جائزة المسابقة الرسمية للمهرجان التي توج بها فيلم المخرج الأوكراني سيرغي لوزينتسا \"إمبريوم\" المعتمد كليا على استعادة مادة أرشيفية عن الاتحاد السوفياتي السابق من دون تدخل في إعادة بنائها، وكانت الثانية للفيلم وثائقي أردني يمثل التجربة الإخراجية الأولى لمخرجته، وهو فيلم \"أرض الخرسانة\" لأسمهان بكيرات.",
+   "score": 2
   }
  ]
 }
