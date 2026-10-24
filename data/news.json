@@ -1,7 +1,282 @@
 {
- "updated": "2026-10-23T21:45:01Z",
- "count": 45,
+ "updated": "2026-10-24T01:05:11Z",
+ "count": 51,
  "items": [
+  {
+   "id": "d60418f35f61",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-unknown-projectile-oman-ukmto-says",
+   "date": "2026-10-24T00:34:59Z",
+   "countries": [
+    "OMN"
+   ],
+   "score": 8,
+   "title": "Tanker hit by unknown projectile off Oman, UKMTO says",
+   "title_en": "Tanker hit by unknown projectile off Oman, UKMTO says",
+   "summary_en": "A tanker was struck by an unidentified projectile seven nautical miles off the coast of Oman, according to the United Kingdom Maritime Trade Operations (UKMTO).",
+   "body_en": [
+    "The agency stated on X that the vessel was transiting outbound in the Strait of Hormuz when the incident occurred. Despite being hit, the tanker was able to proceed with its journey to its next port of call."
+   ],
+   "title_fa": "سازمان عملیات تجارت دریایی بریتانیا: یک نفتکش در نزدیکی عمان هدف پرتابه نامشخص قرار گرفت",
+   "summary_fa": "سازمان عملیات تجارت دریایی بریتانیا (UKMTO) گزارش داد که یک نفتکش در هفت مایل دریایی سواحل عمان هدف اصابت یک پرتابه ناشناس قرار گرفته است.",
+   "body_fa": [
+    "این سازمان در شبکه اجتماعی ایکس اعلام کرد که این شناور در حال عبور به سمت خروجی تنگه هرمز بود که این حادثه رخ داد. با وجود اصابت پرتابه، این نفتکش توانست به مسیر خود به سمت بندر بعدی ادامه دهد."
+   ],
+   "title_ar": "هيئة عمليات التجارة البحرية البريطانية: اصطدام مقذوف مجهول بناقة نفط قبالة عمان",
+   "summary_ar": "أفادت هيئة عمليات التجارة البحرية البريطانية (UKMTO) بأن ناقة نفط تعرضت لضربة بمقذوف مجهول على بعد سبعة أميال بحرية قبالة السواحل العمانية.",
+   "body_ar": [
+    "وذكرت الهيئة عبر منصة إكس أن السفينة كانت تعبر مضيق هرمز في طريقها للخروج عندما وقع الحادث. ورغم تعرضها للضربة، تمكنت الناقلة من مواصلة رحلتها إلى ميناء التوقف التالي."
+   ]
+  },
+  {
+   "id": "00e95e2af3e1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-bethlehem-salfit-areas-west-bank-wafa-reports",
+   "date": "2026-10-24T00:19:41Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+   "title_en": "Israeli forces raid Bethlehem, Salfit areas in West Bank, Wafa reports",
+   "summary_en": "Israeli military forces have raided multiple locations in the West Bank's Bethlehem and Salfit governorates, according to the Palestinian news agency Wafa.",
+   "body_en": [
+    "The operations occurred alongside a large military effort in Hebron, which followed the deaths of two Israeli soldiers during a gunfight. In Bethlehem, Israeli troops entered the towns of Beit Fajjar and Tuqu, while also raiding Kafr ad-Dik in Salfit.",
+    "According to local sources cited by Wafa, Israeli troops forced a family to leave their residence during the raid in Kafr ad-Dik and converted the house into a military barracks."
+   ],
+   "title_fa": "به گزارش وفا، نیروهای اسرائیلی به مناطقی در بیت‌لحم و سلفیت در کرانه باختری حمله کردند",
+   "summary_fa": "به گزارش خبرگزاری فلسطینی وفا، نیروهای نظامی اسرائیل به چندین منطقه در استان‌های بیت‌لحم و سلفیت در کرانه باختری حمله کرده‌اند.",
+   "body_fa": [
+    "این عملیات‌ها هم‌زمان با یک اقدام نظامی گسترده در الخلیل انجام شد که پس از کشته شدن دو سرباز اسرائیلی در یک درگیری مسلحانه صورت گرفت. در استان بیت‌لحم، نیروهای اسرائیلی وارد شهرک‌های بیت فجار و تقوع شدند و همچنین به کفر الدیک در سلفیت حمله کردند.",
+    "به نقل از منابع محلی توسط خبرگزاری وفا، نیروهای اسرائیلی طی حمله به کفر الدیک، یک خانواده را مجبور به ترک خانه خود کرده و از این ملک به عنوان پادگان نظامی استفاده کردند."
+   ],
+   "title_ar": "القوات الإسرائيلية تقتحم منطقتي بيت لحم وسلفيت في الضفة الغربية، وفقاً لوكالة وفا",
+   "summary_ar": "افتحمت القوات العسكرية الإسرائيلية مواقع متعددة في محافظتي بيت لحم وسلفيت بالضفة الغربية، وفقاً لما أفادت به وكالة الأنباء الفلسطينية (وفا).",
+   "body_ar": [
+    "ونُفذت هذه الاقتحامات بالتزامن مع عملية عسكرية واسعة النطاق في الخليل عقب مقتل جنديين إسرائيليين في اشتباك مسلح. وفي محافظة بيت لحم، اقتحم الجنود بلدتي بيت فجار وتقوع، بالإضافة إلى بلدة كفر الديك في سلفيت.",
+    "وذكرت وكالة وفا نقلاً عن مصادر محلية أن القوات الإسرائيلية أجبرت عائلة على إخلاء منزلها خلال الاقتحام في كفر الديك وحولت العقار إلى ثكنة عسكرية."
+   ]
+  },
+  {
+   "id": "b9b0d6e0f12d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-forcing-hebron-residents-evacuate-foot-qnn-reports",
+   "date": "2026-10-24T00:04:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+   "title_en": "Israeli military forcing Hebron residents to evacuate on foot, QNN reports",
+   "summary_en": "Israeli forces have launched a counterterrorism operation in Hebron, forcing local residents to evacuate their homes on foot.",
+   "body_en": [
+    "According to Quds News Network and Al Jazeera, about 20 Israeli military vehicles entered Hebron in the occupied West Bank as troops compelled Palestinian residents to leave their homes on foot.",
+    "The Israeli military stated that the limited operation was initiated following the deaths of two Israeli soldiers in a gunfight near the city. Officials said the campaign aims to dismantle militant infrastructure and weapons and is expected to last several days."
+   ],
+   "title_fa": "گزارش شبکه خبری قدس: ارتش اسرائیل ساکنان الخلیل را مجبور به تخلیه پیاده می‌کند",
+   "summary_fa": "نیروهای اسرائیلی عملیاتی را در الخلیل آغاز کرده و ساکنان محلی را مجبور کرده‌اند خانه‌های خود را پیاده تخلیه کنند.",
+   "body_fa": [
+    "به گزارش شبکه خبری قدس و الجزیره، حدود ۲۰ خودروی نظامی اسرائیلی وارد شهر الخلیل در کرانه باختری اشغالی شدند و نیروهای اسرائیلی ساکنان فلسطینی را مجبور به ترک پیاده منازلشان کردند.",
+    "ارتش اسرائیل اعلام کرد که این عملیات محدود پس از کشته شدن دو سرباز اسرائیلی در تیراندازی در نزدیکی این شهر آغاز شده است. مقامات گفتند هدف این عملیات انهدام زیرساخت‌ها و تسلیحات نظامی است و احتمالاً چند روز طول خواهد کشید."
+   ],
+   "title_ar": "شبكة قدس الإخبارية: الجيش الإسرائيلي يجبر سكان الخليل على الإخلاء سيراً على الأقدام",
+   "summary_ar": "بدأت القوات الإسرائيلية عملية في الخليل، مع إجبار السكان المحليين على إخلاء منازلهم سيراً على الأقدام.",
+   "body_ar": [
+    "وفقاً لشبكة قدس الإخبارية وقناة الجزيرة، اقتحمت نحو 20 آلية عسكرية إسرائيلية مدينة الخليل في الضفة الغربية المحتلة، حيث أجبرت القوات الإسرائيلية السكان الفلسطينيين على مغادرة منازلهم سيراً على الأقدام.",
+    "وذكر الجيش الإسرائيلي أن هذه العملية المحدودة بدأت عقب مقتل جنديين إسرائيليين في اشتباك مسلح قرب المدينة. وقال مسؤولون إن العملية تهدف إلى تفكيك البنية التحتية والأسلحة، ومن المتوقع أن تستمر عدة أيام."
+   ]
+  },
+  {
+   "id": "1e739a99fbd8",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-shells-southern-lebanon-towns-and-villages",
+   "date": "2026-10-23T23:19:40Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "Israeli military shells southern Lebanon towns and villages",
+   "title_en": "Israeli military shells southern Lebanon towns and villages",
+   "summary_en": "Israeli artillery targeted multiple towns, villages, and municipalities across southern Lebanon on Friday.",
+   "body_en": [
+    "Lebanon's official National News Agency reported that Israeli shelling struck the municipality of Khiam as well as the towns of Zawtar al-Sharqiyah and Mayfadoun. Shells also hit the villages of Barashit, Majdal Zoun, and Qantara.",
+    "The report added that Israeli artillery bombardment targeted the outskirts of the southern Lebanese town of Beit Yahoun on Friday."
+   ],
+   "title_fa": "توپخانه ارتش اسرائیل شهرک‌ها و روستاهای جنوب لبنان را گلوله‌باران کرد",
+   "summary_fa": "توپخانه اسرائیل روز جمعه چند شهرک، روستا و شهرداری را در جنوب لبنان هدف قرار داد.",
+   "body_fa": [
+    "به گزارش خبرگزاری رسمی لبنان (NNA)، گلوله‌باران اسرائیل شهرداری خیام و همچنین شهرک‌های زوطر الشرقیه و میفدون را هدف قرار داد. این گلوله‌ها به روستاهای براشیت، مجدل زون و القنطره نیز اصابت کردند.",
+    "این گزارش می‌افزاید که بمباران توپخانه‌ای اسرائیل روز جمعه اطراف شهرک بیت یحون در جنوب لبنان را نیز هدف قرار داده است."
+   ],
+   "title_ar": "الجيش الإسرائيلي يقصف towns وقرى في جنوب لبنان",
+   "summary_ar": "استهدف المدفعية الإسرائيلية يوم الجمعة عدداً من البلدات والقرى والبلديات في جنوب لبنان.",
+   "body_ar": [
+    "ذكرت الوكالة الوطنية للإعلام الرسمية في لبنان أن القصف الإسرائيلي طال بلدية الخيام وبلدتي زوطر الشرقية وميفدون، بالإضافة إلى قرى برعشيت ومجدل زون والقنطرة.",
+    "وأضافت الوكالة أن القصف المدفعي الإسرائيلي استهدف يوم الجمعة أطراف بلدة بيت ياحون في جنوب لبنان."
+   ]
+  },
+  {
+   "id": "b63361619010",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-you-will-hear-very-good-news-libya-east-west-reunification",
+   "date": "2026-10-23T23:04:10Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 7,
+   "title": "Turkey says 'you will hear very good news' on Libya east-west reunification",
+   "title_en": "Turkey says 'you will hear very good news' on Libya east-west reunification",
+   "summary_en": "Turkish Foreign Minister Hakan Fidan announced that conditions are ripe to permanently unify Libya's eastern and western administrations under a single national army.",
+   "body_en": [
+    "Speaking in Istanbul after hosting regional and European counterparts, Fidan stated that both sides in Libya possess separate military structures that need to be brought together. He hinted at an upcoming announcement regarding the reunification process.",
+    "The statement follows the approval of a bilateral maritime demarcation deal by Libya's eastern-based parliament, despite criticism from the European Union, Greece, Italy, and Egypt. Turkish Defence Minister Yaser Guler later indicated readiness to sign a maritime jurisdiction agreement with Egypt to address regional concerns."
+   ],
+   "title_fa": "ترکیه: درباره بازبازگشت وحدت میان شرق و غرب لیبی «اخبار بسیار خوبی خواهید شنید»",
+   "summary_fa": "هاکان فیدان، وزیر امور خارجه ترکیه اعلام کرد که شرایط برای یکپارچه‌سازی دائمی ادارات شرق و غرب لیبی زیر نظر یک ارتش ملی مهیا شده است.",
+   "body_fa": [
+    "فیدان پس از میزبانی از همتایان منطقه‌ای و اروپایی خود در استانبول گفت که هر دو طرف در لیبی دارای ساختارهای نظامی جداگانه‌ای هستند که باید یکپارچه شوند. وی به اعلامیه‌ای قریب‌الوقوع در مورد روند بازبازگشت وحدت اشاره کرد.",
+    "این اظهارات پس از آن مطرح می‌شود که پارلمان واقع در شرق لیبی توافق‌نامه مرزبندی دریایی با ترکیه را تایید کرد، اگرچه این اقدام با انتقاد اتحادیه اروپا، یونان، ایتالیا و مصر مواجه شد. یاشار گولر، وزیر دفاع ترکیه نیز بعداً از آمادگی برای امضای توافق‌نامه حوزه صلاحیت دریایی با مصر خبر داد."
+   ],
+   "title_ar": "تركيا تعلن أنها ستسمع \"أخباراً سارة جداً\" بشأن إعادة توحيد شرق ليبيا وغربها",
+   "summary_ar": "أعلن وزير الخارجية التركي هاكان فيدان أن الظروف باتت مهيأة لتوحيد الإدارتين الشرقية والغربية في ليبيا بشكل دائم تحت مظلة جيش وطني واحد.",
+   "body_ar": [
+    "وفي حديثه في إسطنبول بعد استضافة نظرائه الإقليميين والأوروبيين، قال فيدان إن كلا الجانبين في ليبيا يمتلكان تشكيلات عسكرية منفصلة يجب دمجها، مشيراً إلى إعلان مرتقب بشأن عملية إعادة التوحيد.",
+    "تأتي هذه التصريحات بعد مصادقة البرلمان الليبي في الشرق على اتفاقية ترسيم الحدود البحرية مع تركيا، رغم انتقادات الاتحاد الأوروبي واليونان وإيطاليا ومصر. وفي وقت لاحق، أعلن وزير الدفاع التركي يشار غولر استعداد بلاده لتوقيع اتفاقية حدود بحرية مع مصر."
+   ]
+  },
+  {
+   "id": "5c9c845539ad",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-raids-demolitions-and-settler-attacks-hit-palestinians-across",
+   "date": "2026-10-23T21:55:01Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli raids, demolitions and settler attacks hit Palestinians across West Bank",
+   "title_en": "Israeli raids, demolitions and settler attacks hit Palestinians across West Bank",
+   "summary_en": "Israeli forces and settlers engaged in widespread demolitions, land leveling, and physical attacks against Palestinians across the West Bank on Friday.",
+   "body_en": [
+    "In Hebron, Israeli military bulldozers destroyed a tile factory, shops, and farmland following an attack that killed two Israeli soldiers. Operations in the area included closing city access roads, demolishing a apartment building, and conducting tear-gas raids in Beit Ummar.",
+    "Settler violence was reported in multiple locations, including al-Mughayyir where a man was severely beaten before being detained by Israeli forces. Other incidents involved attempted arson against a home in Burin, the eviction of olive farmers near Bethlehem, and eviction notices issued to families in Khirbet Srouj."
+   ],
+   "title_fa": "یورش‌ها، تخریب‌ها و حملات شهرک‌نشینان اسرائیلی فلسطینیان را در سراسر کرانه باختری هدف قرار داد",
+   "summary_fa": "نیروها و شهرک‌نشینان اسرائیلی روز جمعه دست به تخریب‌های گسترده، تسطیح زمین‌ها و حملات فیزیکی علیه فلسطینیان در سراسر کرانه باختری زدند.",
+   "body_fa": [
+    "در الخلیل، بولدوزرهای ارتش اسرائیل در پی کشته شدن دو سرباز اسرائیلی، یک کارخانه کاشی‌سازی، مغازه‌ها و زمین‌های کشاورزی را تخریب کردند. اقدام‌های نظامی شامل مسدود کردن راه‌های ورودی شهر، تخریب یک آپارتمان و یورش با گاز اشک‌آور در بیت‌امر بود.",
+    "خشونت شهرک‌نشینان نیز در چند نقطه گزارش شد، از جمله در المغیر که مردی پیش از بازداشت توسط نیروهای اسرائیلی به شدت مورد ضرب و شتم قرار گرفت. حوادث دیگر شامل تلاش برای آتش زدن خانه‌ای در بورین، بیرون راندن کشاورزان زیتون در نزدیکی بیت‌لحم و صدور اخطاریه تخلیه برای خانواده‌ها در خربه سروج بود."
+   ],
+   "title_ar": "مداهمات وعمليات هدم وهجمات للمستوطنين الإسرائيليين تطال الفلسطينيين في الضفة الغربية",
+   "summary_ar": "نفذت القوات الإسرائيلية والمستوطنون عمليات هدم وتجريف وهجمات ضد الفلسطينيين في مناطق متفرقة بالضفة الغربية يوم الجمعة.",
+   "body_ar": [
+    "في الخليل، جرفت الجرافات العسكرية الإسرائيلية مصنعاً للبلاط ومتاجر وأراضٍ زراعية عقب مقتل جنديين إسرائيليين. وشملت الإجراءات إغلاق منافذ المدينة، وهدم مبنى سكني، ومداهمات بإطلاق قنابل الغاز في بيت أمر.",
+    "كما وُثقت اعتداءات للمستوطنين في عدة مناطق، منها المغيّر حيث تعرض رجل لضرب مبرح قبل أن تعتقله القوات الإسرائيلية. وشملت الحوادث الأخرى محاولة إحراق منزل في بورين، وإبعاد زارعي الزيتون قرب بيت لحم، وإخطار عائلات بالإخلاء في خربة سروج."
+   ]
+  },
+  {
+   "id": "0e630e42ad19",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
+   "date": "2026-10-23T20:27:03Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
+   "title_en": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
+   "summary_en": "Turkish Defence Minister Yasar Guler announced that Turkey does not envision its military engaging in combat against Yemen's Houthis under a mutual defence pact with Saudi Arabia and Pakistan.",
+   "body_en": [
+    "In a television interview, Guler clarified that any Turkish military support for Saudi Arabia would primarily focus on strengthening deterrence, comparing the arrangement to Turkey's presence in Qatar. He noted that any specific requests for military assistance from Riyadh would be evaluated and would require legal procedures and parliamentary consent.",
+    "The Mecca Joint Defence Agreement, signed in August and currently submitted to the Turkish parliament for ratification, binds Turkey, Saudi Arabia, and Pakistan to treat an armed assault on one signatory as an attack on all three."
+   ],
+   "title_fa": "وزیر دفاع ترکیه: ترکیه‌ای قصدی برای جنگ با حوثی‌ها تحت پیمان با عربستان ندارد",
+   "summary_fa": "یاشار گولر، وزیر دفاع ترکیه، اعلام کرد این کشور در قالب پیمان دفاعی مشترک با عربستان سعودی و پاکستان، هیچ برنامه‌ای برای درگیری نظامی نیروهای خود با حوثی‌های یمن ندارد.",
+   "body_fa": [
+    "گولر در یک مصاحبه تلویزیونی تصریح کرد که هرگونه پشتیبانی نظامی ترکیه از عربستان سعودی عمدتاً با هدف تقویت بازدارندگی خواهد بود و این اقدام را با حضور ترکیه در قطر مقایسه کرد. وی خاطرنشان کرد که درخواست‌های مشخص برای حمایت نظامی از سوی ریاض ارزیابی شده و نیازمند طی مراحل قانونی و تصویب پارلمان خواهد بود.",
+    "توافق‌نامه دفاع مشترک مکه که در ماه اوت امضا شد و این هفته برای تصویب به پارلمان ترکیه ارائه گردید، سه کشور را متعهد می‌سازد که حمله مسلحانه به هر یک از اعضا را به عنوان حمله به تمامی آن‌ها تلقی کنند."
+   ],
+   "title_ar": "وزير الدفاع التركي: تركيا لا تخطط لقتال الحوثيين بموجب الاتفاق مع السعودية",
+   "summary_ar": "أعلن وزير الدفاع التركي يشار غولر أن بلاده لا تتوقع ورود قواتها في مواجهات قتالية ضد الحوثيين في اليمن بموجب اتفاقية الدفاع المشترك مع السعودية وباكستان.",
+   "body_ar": [
+    "وأوضح غولر في مقابلة تلفزيونية أن أي دعم عسكري تركي للسعودية سيركز بالأساس على تعزيز الردع، مشابهاً ذلك بالدور التركي في قطر. وأشار إلى أن أي طلبات محددة للحصول على مساعدة عسكرية من الرياض ستخضع للتقييم والموافقات القانونية والبرلمانية.",
+    "وتلزم اتفاقية مكة للدفاع المشترك، التي وُقعت في أغسطس وأُحيلت إلى البرلمان التركي للتصديق عليها هذا الأسبوع، الدول الثلاث بأن تعتبر أي هجوم مسلح على إحداها هجوماً على الجميع."
+   ]
+  },
+  {
+   "id": "3290c34fc8b9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/everybody-terrorised-el-fasher-population-drops-just-7-percent-last-years-high-amnesty-says",
+   "date": "2026-10-23T20:12:31Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 7,
+   "title": "'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says",
+   "title_en": "'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says",
+   "summary_en": "Amnesty International reported that the population of El Fasher in Sudan's North Darfur region has dropped by over 90 percent compared to last year, leaving only 70,000 residents following its capture by the Rapid Support Forces (RSF).",
+   "body_en": [
+    "Based on interviews with 25 civilians and aid workers, Amnesty documented widespread torture, illegal killings, arbitrary detentions, and surveillance by the RSF. Former detainees described being held in converted schools, subjected to severe beatings, forced labor, and executions, with many suffering from acute malnutrition.",
+    "Humanitarian operations in the city remain severely restricted and heavily monitored by the RSF, preventing free interaction with residents. Amnesty renewed its calls for an immediate ceasefire, an international civilian protection force, and a global arms embargo on Sudan, specifically urging countries to halt weapon transfers to the UAE due to its support for the RSF."
+   ],
+   "title_fa": "عفو بین‌الملل: با وحشت همگانی، جمعیت الفاشر به هفت درصد میزان سال گذشته کاهش یافته است",
+   "summary_fa": "عفو بین‌الملل گزارش داد که جمعیت شهر الفاشر در دارفور شمالی سودان پس از تصرف آن توسط نیروهای پشتیبانی سریع (RSF)، بیش از ۹۰ درصد نسبت به سال گذشته کاهش یافته و تنها ۷۰ هزار نفر در آن باقی مانده‌اند.",
+   "body_fa": [
+    "عفو بین‌الملل بر اساس مصاحبه با ۲۵ غیرنظامی و امدادگر، موارد گسترده‌ای از شکنجه، قتل‌های غیرقانونی، بازداشت‌های خودسرانه و نظارت توسط نیروهای پشتیبانی سریع را ثبت کرده است. بازداشت‌شدگان سابق از نگهداری در مدرسه‌های تغییرکاربری‌داده‌شده، ضرب و شتم شدید، کار اجباری و اعدام یاد کرده‌اند و از سوءتغذیه شدید رنج می‌برند.",
+    "فعالیت‌های بشردوستانه در شهر همچنان به‌شدت محدود بوده و تحت نظارت دقیق نیروهای پشتیبانی سریع قرار دارد. عفو بین‌الملل ضمن تکرار درخواست خود برای آتش‌بس فوری و اعزام نیروی بین‌المللی محافظت از غیرنظامیان، خواستار تحریم تسلیحاتی سودان و توقف توزیع سلاح به امارات متحده عربی شد."
+   ],
+   "title_ar": "منظمة العفو الدولية: السكان مرعوبون ونسبة المقيمين في الفاشر تنخفض إلى 7% مقارنة بالعام الماضي",
+   "summary_ar": "أفادت منظمة العفو الدولية بأن عدد سكان مدينة الفاشر في ولاية شمال دارفور بالسودان انخفض بنسبة تتجاوز 90% مقارنة بالعام الماضي، حيث لم يبق سوى 70 ألف شخص عقب سيطرة قوات الدعم السريع عليها.",
+   "body_ar": [
+    "وبناءً على مقابلات مع 25 مدنياً وعاملاً في المجال الإنساني، وثقت منظمة العفو الدولية عمليات تعذيب واسعة النطاق وقتلاً غير قانوني واحتجازاً تعسفياً ورقابة من قبل قوات الدعم السريع. وذكر معتقلون سابقون أنه تم احتجازهم في مدارس تحولت إلى مراكز احتجاز، وتعرضوا للضرب المبرح والعمل القسري والإعدامات.",
+    "وتخضع العمليات الإنسانية في المدينة لقيود صارمة ومراقبة وثيقة من قوات الدعم السريع، مما يمنع التواصل الحر مع السكان. وجددت المنظمة مطالباتها بوقف فوری لإطلاق النار ونشر قوة دولية لحماية المدنيين وحظر توريد الأسلحة للسودان والإمارات."
+   ]
+  },
+  {
+   "id": "1761a261dbc6",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-could-launch-another-military-operation-against-iran",
+   "date": "2026-10-23T19:50:46Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "score": 9,
+   "title": "Trump: US could launch another military operation against Iran",
+   "title_en": "Trump: US could launch another military operation against Iran",
+   "summary_en": "US President Donald Trump stated at a rally in Florida that Washington might conduct another military operation against Iran.",
+   "body_en": [
+    "Speaking to supporters, Trump suggested the US could carry out \"another little Operation Epic Fury\" or Iran might choose to negotiate. He added that if Iranian leaders were smart they would agree to talk, though he expressed doubt that they would do so.",
+    "Earlier the same day, Trump was asked about remarks by Tom Barrack, the US Ambassador to Turkey, who said the US could strike Iran as early as the weekend. Trump responded that he was unaware of those comments."
+   ],
+   "title_fa": "ترامپ: ایالات متحده ممکن است عملیات نظامی دیگری را علیه ایران آغاز کند",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، در تجمع انتخاباتی در فلوریدا گفت که واشنگتن ممکن است عملیات نظامی دیگری را علیه ایران انجام دهد.",
+   "body_fa": [
+    "ترامپ در سخنرانی برای طرفدارانش عنوان کرد که ایالات متحده می‌تواند «عملیات حماسه خشم کوچک دیگری» انجام دهد یا اینکه ایران ممکن است مذاکره را انتخاب کند. وی افزود که اگر رهبران ایران باهوش باشند، موافقت خواهند کرد که وارد گفتگو شوند، هرچند ابراز تردید کرد که دست به چنین کاری بزنند.",
+    "پیش از آن در همان روز، از ترامپ درباره اظهارات تام باراک، سفیر آمریکا در ترکیه، پرسیده شد که گفته بود ایالات متحده می‌تواند همین آخر هفته به ایران حمله کند. ترامپ در پاسخ گفت که از این اظهارات بی‌خبر است."
+   ],
+   "title_ar": "ترامب: الولايات المتحدة قد تشن عملية عسكرية أخرى ضد إيران",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب خلال تجمع حاشد في فلوريدا أن واشنطن قد تنفذ عملية عسكرية أخرى ضد إيران.",
+   "body_ar": [
+    "وفي كلمته أمام مؤيديه، لمح ترامب إلى أن الولايات المتحدة قد تنفذ \"عملية صغيرة أخرى باسم ملحمة الغضب\" أو أن إيران قد تختار التفاوض. وأضاف أنه إذا كان القادة الإيرانيون أذكياء فسيوافقون على المحادثات، لكنه أعرب عن شكه في قيامهم بذلك.",
+    "وفي وقت سابق من اليوم نفسه، سُئل ترامب عن تصريحات السفير الأمريكي لدى تركيا، توم باراك، الذي قال إن الولايات المتحدة قد تضرب إيران في نهاية هذا الأسبوع. ورد ترامب بأنه لا يعلم أي شيء عن تلك التصريحات."
+   ]
+  },
   {
    "id": "2383aedb23df",
    "lang": "en",
@@ -218,36 +493,6 @@
    ]
   },
   {
-   "id": "1fb4a1df79b3",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/no-space-critical-thought-how-vague-detentions-and-surveillance-are-strangling-academic",
-   "date": "2026-10-23T12:20:57Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "‘No space for critical thought’: How detentions and surveillance are strangling academic freedom in Kashmir",
-   "title_en": "‘No space for critical thought’: How detentions and surveillance are strangling academic freedom in Kashmir",
-   "summary_en": "The Jammu and Kashmir High Court quashed the preventive detention of research scholar Shafat Maqbool Wani, ruling that possessing books with controversial titles does not constitute a crime or justify detention without trial.",
-   "body_en": [
-    "Wani was initially detained under anti-terrorism legislation and later held under the Public Safety Act (PSA). Authorities cited reasons including invitations to international academic conferences and alleged \"anti-national\" literature seized from his home, which the court found had been wrongly attributed to him.",
-    "The ruling comes amid broader concerns from scholars and rights groups regarding tightening state control in the region. Authorities have removed over 4,200 books from educational institutions and public libraries following orders to screen materials for objectionable content."
-   ],
-   "title_fa": "«هیچ فضایی برای تفکر انتقادی وجود ندارد»: چگونه بازداشت‌ها و نظارت‌ها آزادی آکادمیک را در کشمیر خفه می‌کنند",
-   "summary_fa": "دادگاه عالی جامو و کشمیر حکم بازداشت پیشگیرانه شفقت مقبول وانی، پژوهشگر را لغو کرد و رای داد که داشتن کتاب‌هایی با عناوین جنجالی جرم محسوب نمی‌شود و بازداشت بدون محاکمه را توجیه نمی‌کند.",
-   "body_fa": [
-    "وانی ابتدا بر اساس قوانین ضد تروریسم بازداشت و سپس تحت قانون امنیت عمومی (PSA) نگهداری شد. مقامات دلایلی چون دعوت‌نامه‌های کنفرانس‌های آکادمیک بین‌المللی و ادعای کشف ادبیات «ضد ملی» از خانه وی را مطرح کردند که دادگاه مشخص کرد این کتاب‌ها به اشتباه به او نسبت داده شده بودند.",
-    "این حکم در میان نگرانی‌های گسترده‌تر دانشگاهیان و گروه‌های حقوق بشری درباره تشدید کنترل‌های دولتی در منطقه صادر می‌شود. مقامات منطقه پس از دستور بررسی محتوای کتاب‌ها، بیش از ۴,۲۰۰ جلد کتاب را از کتابخانه‌های عمومی و مراکز آموزشی جمع‌آوری کرده‌اند."
-   ],
-   "title_ar": "«لا مساحة للفكر النقدي»: كيف تخنق الاعتقالات والمراقبة الحرية الأكاديمية في كشمير",
-   "summary_ar": "ألغت المحكمة العليا في جامو وكشمير أمر الاحتجاز الوقائي للباحث شفقت مقبول واني، وقضت بأن حيازة كتب ذات عناوين مثيرة للجدل لا تجعل صاحبها مجرماً ولا تبرر احتجازه دون محاكمة.",
-   "body_ar": [
-    "وكان واني قد احتُجز في البداية بموجب قانون مكافحة الإرهاب ثم أُعيد احتجازه بموجب قانون السلامة العامة. واستندت السلطات إلى دعوات لحضور مؤتمرات أكاديمية دولية وكتب زُعم أنها \"معادية للوطن\" مصادرة من منزله، والتي تبين للمحكمة أن نسبتها إليه كانت خاطئة.",
-    "ويأتي هذا الحكم وسط قلق متزايد بين الأكاديميين وحقوقيين من تشديد المراقبة الحكومية في المنطقة. حيث قامت السلطات بسحب أكثر من 4,200 كتاب من المكتبات العامة والمؤسسات التعليمية في إطار حملة لفحص المحتوى."
-   ]
-  },
-  {
    "id": "06b0daaa6fbe",
    "lang": "en",
    "source": "Middle East Eye",
@@ -351,39 +596,6 @@
    "summary_ar": "ارتفعت أسعار خام برنت إلى 114.72 دولاراً للبرميل لتسجل أعلى مستوى لها منذ أكثر من خمسة أشهر وسط مخاوف من شن الولايات المتحدة ضربات عسكرية جديدة على إيران.",
    "body_ar": [
     "وجاء هذا الارتفاع بعد تحذيرات من طهران باستهداف منشآت نفطية وكابلات بحرية ومراكز بيانات في منطقة الخليج في حال تعرضها لهجوم أمريكي إسرائيلي جديد. كما تصاعدت التوترات عقب إعلان الحرس الثوري استهداف أربع سفن تجارية في مضيق هرمز واستمرار هجمات الحوثيين على السعودية."
-   ]
-  },
-  {
-   "id": "ca515d56bd3c",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039222/dpm-dar-meets-turkish-fm-ahead-of-r-4-bloc-european-diplomats-meetings",
-   "date": "2026-10-23T11:30:50Z",
-   "countries": [
-    "EGY",
-    "PAK",
-    "SAU",
-    "TUR"
-   ],
-   "score": 6,
-   "title": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
-   "title_en": "DPM Dar meets Turkish FM ahead of R-4 bloc, European diplomats’ meetings",
-   "summary_en": "Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar held bilateral talks with Turkish Foreign Minister Hakan Fidan in Istanbul ahead of multilateral meetings involving the R-4 bloc and European diplomats.",
-   "body_en": [
-    "The meetings in Istanbul brought together foreign ministers from the R-4 group — Pakistan, Egypt, Saudi Arabia and Turkiye — alongside counterparts from France, Germany, Italy and the United Kingdom to discuss regional developments in the Gulf and Middle East.",
-    "According to the Foreign Office, the officials exchanged views on security challenges, de-escalation efforts, and the social and economic impacts of regional tensions."
-   ],
-   "title_fa": "دیدار معاون نخست‌وزیر و وزیر خارجه پاکستان با وزیر خارجه ترکیه پیش از نشست بلوک آر-۴ و دیپلمات‌های اروپایی",
-   "summary_fa": "اسحاق دار، معاون نخست‌وزیر و وزیر خارجه پاکستان، پیش از آغاز نشست‌های چندجانبه میان بلوک آر-۴ و دیپلمات‌های اروپایی در استانبول، با هاکان فیدان، وزیر خارجه ترکیه، دیدار و گفتگو کرد.",
-   "body_fa": [
-    "نشست‌های استانبول وزرای خارجه گروه آر-۴ شامل پاکستان، مصر، عربستان سعودی و ترکیه را در کنار همتایانی از فرانسه، آلمان، ایتالیا و بریتانیا برای بررسی تحولات منطقه‌ای در خلیج فارس و خلیج اوسط گرد هم آورد.",
-    "بر اساس اعلام وزارت خارجه پاکستان، مقامات شرکت‌کننده در این نشست‌ها پیرامون چالش‌های امنیتی، تلاش‌های مربوط به تنش‌زدایی و پیامدهای اجتماعی و اقتصادی تنش‌های منطقه‌ای به تبادل نظر پرداختند."
-   ],
-   "title_ar": "نائب رئيس الوزراء وزير الخارجية الباكستاني يلتقي نظيره التركي قبيل اجتماع مجموعة \"آر-4\" والدبلوماسيين الأوروبيين",
-   "summary_ar": "أجرى نائب رئيس الوزراء وزير الخارجية الباكستاني إسحاق دار محادثات ثنائية مع وزير الخارجية التركي هakan فيدان في إسطنبول قبيل اجتماعات متعددة الأطراف تضم مجموعة \"آر-4\" والدبلوماسيين الأوروبيين.",
-   "body_ar": [
-    "جمع اجتماعات إسطنبول وزراء خارجية مجموعة \"آر-4\" (باكستان ومصر والسعودية وتركيا) إلى جانب نظرائهم من فرنسا ألمانيا وإيطاليا والمملكة المتحدة لمناقشة التطورات الإقليمية في منطقة الخليج والشرق الأوسط.",
-    "وبحسب وزارة الخارجية الباكستانية، تبادل المسؤولون وجهات النظر حول التحديات الأمنية وجهود تهدئة التوترات والآثار الاجتماعية والاقتصادية للتوترات الإقليمية."
    ]
   },
   {
@@ -560,36 +772,6 @@
    "summary_ar": "أصدر وزير المالية الإسرائيلي بتسلئيل سموتريتش أمراً بهدم العديد من المباني الفلسطينية قرب المدخل الشمالي لمدينة الخليل عقب حادثة إطلاق نار.",
    "body_ar": [
     "وجاء أمر الهدم عقب تبادل لإطلاق النار أسفر عن إصابة ستة جنود إسرائيليين ومقتل اثنين من الفلسطينيين بنيران القوات الإسرائيلية."
-   ]
-  },
-  {
-   "id": "e8b82648c5eb",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-   "date": "2026-10-23T09:56:28Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-   "title_en": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-   "summary_en": "New consumer electronics continue to reach the Iranian market despite severe international sanctions and regional trade disruptions, but prices have surged due to high government fees and complex smuggling routes.",
-   "body_en": [
-    "Traders in Tehran report that importing items such as mobile phones, laptops, and gaming consoles has become increasingly costly and complicated following trade disruptions with the UAE and strict US sanctions on Iranian airlines.",
-    "In addition to smuggling and transportation challenges, buyers face steep domestic registration fees, internet restrictions, and a sharply declining national currency that severely impact affordability for ordinary citizens."
-   ],
-   "title_fa": "ورود کالاهای الکترونیکی جدید به ایران، اما جهش قیمت‌ها به دلیل عوارض دولتی و تحریم‌های آمریکا",
-   "summary_fa": "کالاهای الکترونیکی جدید با وجود تحریم‌های شدید بین‌المللی و اختلالات تجاری منطقه‌ای همچنان به بازار ایران می‌رسند، اما به دلیل عوارض سنگین دولتی و مسیرهای پیچیده قاچاق، قیمت‌ها به شدت افزایش یافته است.",
-   "body_fa": [
-    "فعالان بازار در تهران گزارش می‌دهند که واردات اقلامی مانند تلفن‌های همراه، لپ‌تاپ و کنسول‌های بازی پس از اختلالات تجاری با امارات و تحریم‌های سخت‌گیرانه ایالات متحده علیه خطوط هوایی ایران، پرهزینه‌تر و پیچیده‌تر شده است.",
-    "خریداران علاوه بر چالش‌های مربوط به قاچاق و حمل‌ونقل، با عوارض سنگین ثبت‌جهاز دولتی، محدودیت‌های اینترنتی و کاهش شدید ارزش پول ملی روبه‌رو هستند که توان خرید شهروندان عادی را به شدت تحت تأثیر قرار داده است."
-   ],
-   "title_ar": "وصول إلكترونيات جديدة إلى إيران لكن الأسعار ترتفع بشكل حاد بسبب الرسوم الحكومية والعقوبات الأمريكية",
-   "summary_ar": "تواصل الأجهزة الإلكترونية الاستهلاكية الجديدة الوصول إلى السوق الإيرانية على الرغم من العقوبات الدولية الشديدة وتعطل التجارة الإقليمية، إلا أن الأسعار ارتفعت بشكل كبير بسبب الرسوم الحكومية المرتفعة ومطاردة طرق التهق المعقدة.",
-   "body_ar": [
-    "يفيد التجار في طهران بأن استيراد أصناف مثل الهواتف المحمولة وأجهزة الكمبيوتر المحمولة وحدات تحكم الألعاب أصبح أكثر تكلفة وتعقيداً في أعقاب اضطرابات التجارة مع الإمارات والعقوبات الأمريكية الصارمة على خطوط الطيران الإيرانية.",
-    "بالإضافة إلى تحديات التهريب والنقل، يواجه المشترون رسوم تسجيل محلية بااهظة وقيوداً على الإنترنت وانخفاضاً حاداً في قيمة العملة الوطنية، مما يؤثر بشدة على القدرة المالية للمواطنين العاديين."
    ]
   },
   {
