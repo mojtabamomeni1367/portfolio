@@ -1,7 +1,267 @@
 {
- "updated": "2026-10-24T03:47:54Z",
- "count": 57,
+ "updated": "2026-10-24T06:59:26Z",
+ "count": 66,
  "items": [
+  {
+   "id": "813662d5d413",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-embassy-reports-heightened-security-across-jordan-after-deadly-karak-church-attack/article71619254.ece",
+   "date": "2026-10-24T06:31:34Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 6,
+   "title": "U.S. embassy says security ramped up in Jordan after deadly church attack",
+   "title_en": "U.S. embassy says security ramped up in Jordan after deadly church attack",
+   "summary_en": "The U.S. embassy in Amman announced increased security measures across Jordan following a deadly church attack in the Karak Governorate.",
+   "body_en": [
+    "The attack during a funeral at the church resulted in seven deaths and dozens of injuries, according to the head of the country's Public Security Directorate.",
+    "Authorities are currently searching for the attackers, whom they described as extremists, while noting it is premature to determine if they had outside links."
+   ],
+   "title_fa": "سفارت آمریکا در پی حمله مرگبار به کلیسا در اردن از افزایش سطح امنیتی خبر داد",
+   "summary_fa": "سفارت آمریکا در امان در پی حمله مرگبار به یک کلیسا در استان کرک، از افزایش تدابیر امنیتی در سراسر اردن خبر داد.",
+   "body_fa": [
+    "به گفته رئیس اداره امنیت عمومی اردن، این حمله در جریان مراسم تشییع جنازه در یک کلیسا منجر به کشته شدن هفت نفر و زخمی شدن ده‌ها تن دیگر شد.",
+    "مقام‌ها در حال حاضر به دنبال مهاجمانی هستند که آن‌ها را افراطی توصیف کرده‌اند، در حالی که اشاره کردند هنوز برای تعیین داشتن ارتباطات خارجی زود است."
+   ],
+   "title_ar": "السفارة الأمريكية تعلن تشديد الإجراءات الأمنية في الأردن بعد هجوم مميت على كنيسة",
+   "summary_ar": "أعلنت السفارة الأمريكية في عمان عن تشديد الإجراءات الأمنية في مختلف أنحاء الأردن في أعقاب هجوم مميت استهدف كنيسة في محافظة الكرك.",
+   "body_ar": [
+    "أسفر الهجوم الذي وقع أثناء جنازة في الكنيسة عن مقتل سبعة أشخاص وإصابة العشرات، وفقاً لرئيس مديرية الأمن العام في البلاد.",
+    "وتواصل السلطات البحث عن المهاجمين الذين وصفتهم بالممتطرفين، مشيرة إلى أنه من السابق لأوانه تحديد ما إذا كانت لهم ارتباطات خارجية."
+   ]
+  },
+  {
+   "id": "9c28c069e47a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wont-allow-rusty-us-warships-re-enter-persian-gulf-irans-military-chief",
+   "date": "2026-10-24T06:09:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Won't allow 'rusty' US warships to re-enter Persian Gulf, Iran's military chief says",
+   "title_en": "Won't allow 'rusty' US warships to re-enter Persian Gulf, Iran's military chief says",
+   "summary_en": "Iran's armed forces chief of staff, Major General Abdollahi, declared that Tehran will not permit American warships to return to the Persian Gulf under any circumstances.",
+   "body_en": [
+    "In statements reported by Press TV, Abdollahi asserted that Iranian forces have neutralized the effectiveness of the US Navy, preventing it from nearing Iran's territorial waters or the Persian Gulf. He added that the US leadership's wish to see its troops return to the area will remain unfulfilled."
+   ],
+   "title_fa": "فرمانده نظامی ایران: اجازه نخواهیم داد ناوهای جنگی «زنگ‌زده» آمریکا دوباره وارد خلیج فارس شوند",
+   "summary_fa": "سرلشکر عبداللهی، رئیس ستاد کل نیروهای مسلح ایران، اعلام کرد که تهران تحت هیچ شرایطی اجازه نخواهد داد ناوهای جنگی آمریکا به خلیج فارس بازگردند.",
+   "body_fa": [
+    "بر اساس اظهارات گزارش‌شده توسط پرس تی‌وی، عبداللهی تأکید کرد که نیروهای مسلح ایران کارایی نیروی دریایی آمریکا را خنثی کرده و مانع از نزدیک شدن آن به آب‌های سرزمینی ایران یا خلیج فارس شده‌اند. وی افزود که آرزوی رهبران ایالات متحده برای بازگشت نظامیانشان به این منطقه هرگز محقق نخواهد شد."
+   ],
+   "title_ar": "قائد عسكري إيراني: لن نسمح للسفن الحربية الأمريكية «الصدئة» بالعودة إلى الخليج",
+   "summary_ar": "أعلن رئيس أركان القوات المسلحة الإيرانية، اللواء عبد اللهي، أن طهران لن تسمح للسفن الحربية الأمريكية بالعودة إلى الخليج تحت أي ظرف من الظروف.",
+   "body_ar": [
+    "وفقاً لتصريحات نقلتها قناة «برس تي في»، أكد عبد اللهي أن القوات المسلحة الإيرانية شلّت فاعلية البحرية الأمريكية، مما منعها من الاقتراب من المياه الإقليمية لإيران أو الخليج. وأضاف أن رغبة القيادة الأمريكية في عودة قواتها إلى هذه المنطقة لن تتحقق أبداً."
+   ]
+  },
+  {
+   "id": "908f023200ab",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-intelligence-chief-says-iran-increases-efforts-target-americans",
+   "date": "2026-10-24T05:43:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US intelligence chief says Iran 'increases efforts' to target Americans",
+   "title_en": "US intelligence chief says Iran 'increases efforts' to target Americans",
+   "summary_en": "US national intelligence chief Jay Clayton reported that Iran has substantially escalated its operations targeting Americans across the Middle East and elsewhere.",
+   "body_en": [
+    "According to a memo sent to Secretary of State Marco Rubio, intelligence indicates that Iranian plotting against US personnel has reached advanced stages in several nations as well as the Middle East, a US official and Axios reported."
+   ],
+   "title_fa": "رئیس اطلاعات آمریکا: ایران تلاش‌های خود را برای هدف قرار دادن آمریکایی‌ها «افزایش داده است»",
+   "summary_fa": "جی کلیتون، رئیس اطلاعات ملی آمریکا، گزارش داد که ایران تلاش‌های خود را برای هدف قرار دادن آمریکایی‌ها در خاورمیانه و فراتر از آن به میزان قابل توجهی افزایش داده است.",
+   "body_fa": [
+    "بر اساس یادداشتی که برای مارکو روبیو، وزیر امور خارجه، ارسال شده و ابتدا توسط وب‌سایت آکسیوس و به نقل از یک مقام آمریکایی گزارش شد، اطلاعات دریافتی نشان می‌دهد که توطئه‌های مرگبار ایران علیه شهروندان آمریکایی در خاورمیانه و برخی کشورهای دیگر به مراحل پیشرفته‌ای رسیده است."
+   ],
+   "title_ar": "مدير الاستخبارات الأمريكية يقول إن إيران «تكثف جهودها» لاستهداف الأمريكيين",
+   "summary_ar": "أفاد مدير الاستخبارات الوطنية الأمريكية جاي كلايتون بأن إيران صعدت بشكل كبير من جهودها لاستهداف الأمريكيين في الشرق الأوسط ومناطق أخرى.",
+   "body_ar": [
+    "وفقاً لمذكرة أُرسلت إلى وزير الخارجية ماركو روبيو وأفاد بها مسؤول أمريكي ونقلها موقع «أكسيوس» أولاً، تشير المعلومات الاستخباراتية إلى أن المخططات الإيرانية ضد المواطنين الأمريكيين وصلت إلى مراحل متقدمة في الشرق الأوسط ودول أخرى."
+   ]
+  },
+  {
+   "id": "68ed1f11ce80",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+   "date": "2026-10-24T05:29:07Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+   "title_en": "How Benjamin Netanyahu reshaped Israel’s institutions",
+   "summary_en": "As Israel's longest-serving prime minister, Benjamin Netanyahu has profoundly reshaped the country's institutions, politics, and legal framework over decades in power, leaving a lasting right-wing and militaristic legacy.",
+   "body_en": [
+    "Throughout his tenure, Netanyahu advanced policies that expanded the power of religious courts, integrated extreme-right and religious parties into his alliances, and championed the 2018 Nation-State Basic Law, which defines Israel as the exclusive state of the Jewish people. He also appointed political loyalists to key security and state positions while clashing with institutional chiefs who opposed him.",
+    "Major changes under his leadership included altering the composition of the Judicial Selection Committee and curbing judicial independence, moves that he termed judicial reform but opponents called a coup. Amid ongoing corruption trials and an International Criminal Court warrant for war crimes, Netanyahu continues to face criticism from opponents who blame him for deepening social divisions and international isolation."
+   ],
+   "title_fa": "چگونه بنیامین نتانیاهو نهادهای اسرائیل را بازسازی کرد",
+   "summary_fa": "بنیامین نتانیاهو به عنوان طولانی‌ترین نخست‌وزیر اسرائیل، در طول دهه‌ها قدرت، نهادها، سیاست‌ها و چارچوب حقوقی این کشور را به طور عمیقی تغییر داده و میراثی راست‌گرا و نظامی‌گرا بر جای گذاشته است.",
+   "body_fa": [
+    "در دوران تصدی خود، نتانیاهو سیاست‌هایی را پیش برد که قدرت دادگاه‌های مذهبی را افزایش داد، احزاب راست افراطی و مذهبی را در ائتلاف‌های خود جای داد و از قانون اساسی کشور-ملت در سال ۲۰۱۸ که اسرائیل را دولت انحصاری مردم یهود می‌داند، حمایت کرد. او همچنین افراد وفادار سیاسی را به سمت‌های کلیدی امنیتی و دولتی منصوب کرد و با رؤسای نهادهایی که با او مخالفت می‌کردند، درگیر شد.",
+    "تغییرات عمده تحت رهبری او شامل تغییر ترکیب کمیته انتخاب قضایی و محدود کردن استقلال قوه قضاییه بود؛ اقداماتی که او آن را اصلاحات قضایی نامید اما مخالفان آن را کودتا خواندند. در میان محاکمه‌های جاری فساد و حکم دیوان کیفری بین‌المللی به اتهام جنایات جنگی، نتانیاهو همچنان با انتقاد مخالفانی مواجه است که او را مقصر عمیق‌تر شدن شکاف‌های اجتماعی و انزوای بین‌المللی می‌دانند."
+   ],
+   "title_ar": "كيف أعاد بنيامين نتنياهو تشكيل مؤسسات إسرائيل",
+   "summary_ar": "باعتباره رئيس الوزراء الأطول عهداً في إسرائيل، أعاد بنيامين نتنياهو بعمق تشكيل مؤسسات البلاد وسياساتها وإطارها القانوني خلال عقود في السلطة، تاركاً إرثاً يمينياً وم عسكرساً.",
+   "body_ar": [
+    "طوال فترة ولايته، دفع نتنياهو بسياسات وسعت سلطة المحاكم الدينية، ودمج الأحزاب اليمينية المتطرفة والدينية في تحالفاته، ودافع عن قانون الدولة القومية الأساسي لعام 2018 الذي يحدد إسرائيل كدولة حصصية للشعب اليهودي. كما عيّن موالين سياسيين في مناصب أمنية وحكومية رئيسية بينما اشتبك مع رؤساء المؤسسات الذين عارضوه.",
+    "شملت التغييرات الكبرى تحت قيادته تغيير تكوين لجنة اختيار القضايي وتقييد استقلال القضاء، وهي خطوات وصفها بإصلاح القضاء بينما اعتبرها المعارضون انقلاباً. وفي خضم محاكمات الفساد المستمرة ومذكرة المحكمة الجنائية الدولية بتهم ارتكاب جرائم حرب، لا يزال نتنياهو يواجه انتقادات من المعارضين الذين يحملونه المسؤولية عن تعميق الانقسامات الاجتماعية والعزلة الدولية."
+   ]
+  },
+  {
+   "id": "c5574714b9bc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-tells-israelis-brace-sanctions-suggests-crypto-workaround",
+   "date": "2026-10-24T05:13:37Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Netanyahu tells Israelis to brace for sanctions, suggests crypto workaround",
+   "title_en": "Netanyahu tells Israelis to brace for sanctions, suggests crypto workaround",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has warned citizens to prepare for international banking sanctions ahead of the Knesset election.",
+   "body_en": [
+    "Speaking to Channel 10, Netanyahu suggested that cryptocurrency and blockchain technology could help the country circumvent such measures, noting that he has asked advisers to draft a plan. The remarks follow recent Western sanctions on goods from Israeli settlements in the West Bank.",
+    "Netanyahu also stated that the economic outlook is outside Israel's control and warned that multibillion-dollar US weapons packages would not continue indefinitely."
+   ],
+   "title_fa": "نتانیاهو به اسرائیلی‌ها گفت برای تحریم‌ها آماده شوند و پیشنهاد استفاده از رمزارز را داد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در آستانه انتخابات کنست به شهروندان هشدار داد که برای تحریم‌های بانکی بین‌المللی آماده شوند.",
+   "body_fa": [
+    "نتانیاهو در گفتگو با کانال ۱۰ پیشنهاد کرد که رمزارز و فناوری بلاک‌چین می‌تواند به کشور در دور زدن این اقدامات کمک کند و خاطرنشان کرد که از مشاوران خود خواسته است طرحی را آماده کنند. این اظهارات به دنبال تحریم‌های اخیر غربی علیه کالاهای شهرک‌های اسرائیلی در کرانه باختری مطرح شد.",
+    "نتانیاهو همچنین اظهار داشت که چشم‌انداز اقتصادی خارج از کنترل اسرائیل است و هشدار داد که بسته‌های تسلیحاتی چند میلیارد دلاری ایالات متحده به طور نامحدود ادامه نخواهد یافت."
+   ],
+   "title_ar": "نتانیاهو يبلغ الإسرائيليين الاستعداد لعقوبات ويقترح العملات المشفرة كحل بديل",
+   "summary_ar": "حذر رئيس الوزراء الإسرائيلي بنيامين نتانياهو المواطنين للاستعداد لعقوبات مصرفية دولية قبل أيام من انتخابات الكنيست.",
+   "body_ar": [
+    "وفي حديثه للقناة 10، اقترح نتانياهو أن العملات المشفرة وتكنولوجيا سلسلة الكتل (بلوكتشين) يمكن أن تساعد البلاد في التحايل على مثل هذه الإجراءات، مشيراً إلى أنه طلب من مستشاريه إعداد خطة. وتأتي هذه التصريحات في أعقاب العقوبات الغربية الأخيرة على السلع القادمة من المستوطنات الإسرائيلية في الضفة الغربية.",
+    "وذكر نتانياهو أيضاً أن التوقعات الاقتصادية خارجة عن سيطرة إسرائيل، محذراً من أن حزم الأسلحة الأمريكية التي تباع بمليارات الدولارات لن تستمر إلى الأبد."
+   ]
+  },
+  {
+   "id": "3eeae7ee8527",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+   "date": "2026-10-24T05:04:32Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 5,
+   "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+   "title_en": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+   "summary_en": "As Israel's upcoming elections approach, people in Lebanon remain largely sceptical that a change in leadership will alter Israeli policies or end the ongoing military occupation of southern Lebanon.",
+   "body_en": [
+    "Despite a US-brokered framework agreement signed in June aimed at securing a phased withdrawal of Israeli forces, Israel continues to occupy large parts of southern Lebanon and has systematically destroyed local infrastructure. Lebanese analysts and residents note that none of the candidates challenging Prime Minister Benjamin Netanyahu are campaigning on a platform of withdrawal or addressing the occupation as a crisis.",
+    "Primary challenger Gadi Eisenkot, a former general and architect of the Dahiyeh Doctrine, has previously criticized Netanyahu from the right for being too soft on security issues. With mainstream Israeli political discourse remaining deeply unyielding, Lebanese observers view the upcoming Israeli vote—and the upcoming US midterm elections—as unlikely to bring meaningful relief from the prolonged state of neither war nor peace."
+   ],
+   "title_fa": "بدبینی لبنانی‌ها نسبت به اینکه انتخابات اسرائیل تغییری ایجاد کند یا به اشغال جنوب پایان دهد",
+   "summary_fa": "با نزدیک شدن به انتخابات پیش روی اسرائیل، مردم در لبنان نسبت به این موضوع که تغییر رهبری بتواند سیاست‌های اسرائیل را تغییر دهد یا به اشغال نظامی جاری در جنوب لبنان پایان دهد، به شدت بدبین هستند.",
+   "body_fa": [
+    "علیرغم توافق چارچوب میانجی‌گری شده توسط ایالات متحده که در ژوئن با هدف تضمین خروج مرحله‌ای نیروهای اسرائیلی امضا شد، اسرائیل همچنان به اشغال بخش‌های بزرگی از جنوب لبنان ادامه می‌دهد و زیرساخت‌های محلی را به طور سیستماتیک تخریب کرده است. تحلیلگران و ساکنان لبنانی خاطرنشان می‌کنند که هیچ یک از نامزدهایی که بنیامین نتانیاهو نخست‌وزیر را به چالش می‌کشند، با شعار خروج یا پرداختن به اشغال به عنوان یک بحران کمپین نمی‌کنند.",
+    "گادی آیزنکوت، رقیب اصلی، ژنرال سابق و طراح دکترین ضاحیه، پیش از این نتانیاهو را از جناح راست به خاطر تسامح بیش از حد در مسائل امنیتی مورد انتقاد قرار داده است. با توجه به اینکه گفتمان سیاسی جریان اصلی اسرائیل همچنان به شدت تسلیم‌ناپذیر است، ناظران لبنانی معتقدند که رأی‌گیری آینده اسرائیل و انتخابات میان‌دوره‌ای ایالات متحده بعید است تسکین معناداری از وضعیت طولانی مدت نه جنگ و نه صلح به ارمغان آورد."
+   ],
+   "title_ar": "اللبنانيون متشككون في أن الانتخابات الإسرائيلية ستجلب تغييراً أو تنهي احتلال الجنوب",
+   "summary_ar": "مع اقتراب الانتخابات الإسرائيلية القادمة، يظل الناس في لبنان متشككين إلى حد كبير في أن يؤدي أي تغيير في القيادة إلى تعديل السياسات الإسرائيلية أو إنهاء الاحتلال العسكري المستمر لجَنُوب لبنان.",
+   "body_ar": [
+    "على الرغم من اتفاق إطاري توسطت فيه الولايات المتحدة وتم توقيعه في يونيو بهدف تأمين انسحاب تدريجي للقوات الإسرائيلية، إلا أن إسرائيل تواصل احتلال أجزاء كبيرة من جنوب لبنان وقامت بتدمير البنية التحتية المحلية بشكل ممنهج. ويشير المحللون والسكان اللبنانيون إلى أن أياً من المرشحين الذين يتحدون رئيس الوزراء بنيامين نتنياهو لا يخوضون الحملات الانتخابية على أساس الانسحاب أو معالجة الاحتلال كأزمة.",
+    "انتقد المنافس الرئيسي غادي أيزنكوت، الجنرال السابق ومهندس عقيدة الضاحية، نتانياهو سابقاً من اليمين بدعوى أنه أكثر تساهلاً في القضايا الأمنية. ومع بقاء الخطاب السياسي الإسرائيلي السائد متعنتاً للغاية، يرى المراقبون اللبنانيون أن التصويت الإسرائيلي القادم والانتخابات النصفية الأمريكية القادمة من غير المرجح أن تجلبا ارتياحاً مجدياً من حالة اللا حرب واللا سلم الممتدة."
+   ]
+  },
+  {
+   "id": "1f89f3bc2b70",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/miliband-says-uk-redoubling-diplomatic-efforts-end-iran-war",
+   "date": "2026-10-24T04:53:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Miliband says UK 'redoubling' diplomatic efforts to end Iran war",
+   "title_en": "Miliband says UK 'redoubling' diplomatic efforts to end Iran war",
+   "summary_en": "UK Foreign Secretary Ed Miliband announced that Britain is expanding diplomatic initiatives to halt the war with Iran, citing the conflict's financial strain on British families.",
+   "body_en": [
+    "In a video published on X, Miliband described the cost of living crisis as the chief challenge facing British citizens. He stated his role involves doing everything possible to resolve a war that has persisted too long and caused excessive harm to people in the UK."
+   ],
+   "title_fa": "میلیبند می‌گوید بریتانیا تلاش‌های دیپلماتیک برای پایان دادن به جنگ ایران را «دوچندان» می‌کند",
+   "summary_fa": "اد میلیبند، وزیر امور خارجه بریتانیا، اعلام کرد که این کشور در حال دوچندان کردن تلاش‌های دیپلماتیک برای توقف جنگ با ایران است، زیرا این درگیری هزینه‌های زندگی خانواده‌های بریتانیایی را افزایش داده است.",
+   "body_fa": [
+    "میلیبند در ویدیویی که در شبکه اجتماعی اکس منتشر کرد، بحران هزینه زندگی را مهم‌ترین چالش پیش روی مردم بریتانیا توصیف نمود. او بیان کرد که وظیفه‌اش ایجاب می‌کند از تمام توان خود برای پایان دادن به جنگی که بیش از حد به طول انجامیده و آسیب‌های فراوانی به مردم بریتانیا وارد کرده، استفاده کند."
+   ],
+   "title_ar": "ميليباند يقول إن بريطانيا «تضاعف» جهودها الدبلوماسية لإنهاء حرب إيران",
+   "summary_ar": "أعلن وزير الخارجية البريطاني إد ميليباند أن بلاده تضاعف مبادراتها الدبلوماسية لإنهاء الحرب مع إيران، مشيراً إلى أن النزاع يرفع فواتير العائلات البريطانية.",
+   "body_ar": [
+    "وفي مقطع فيديو نُشر على منصة إكس، وصف ميليباند أزمة تكلفة المعيشة بأنها القضية الأولى التي تواجه الشعب البريطاني. وأكد أن مهام منصبه تقتضي بذل قصارى جهده لإنهاء هذا الصراع الذي طال أمده وتسبب في أضرار بالغة للمواطنين في بريطانيا."
+   ]
+  },
+  {
+   "id": "10df567fda57",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-attend-moscow-gas-summit-likely-meet-putin",
+   "date": "2026-10-24T04:22:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Pezeshkian to attend Moscow gas summit, likely to meet Putin",
+   "title_en": "Pezeshkian to attend Moscow gas summit, likely to meet Putin",
+   "summary_en": "Iranian President Masoud Pezeshkian will travel to Moscow next week to participate in the Gas Exporting Countries Forum summit and is anticipated to meet with Vladimir Putin.",
+   "body_en": [
+    "According to Iranian envoy to Russia Kazem Jalali, cited by domestic media, the summit will take place on 27 October. The upcoming trip follows bilateral talks held in Tehran between Iranian Foreign Minister Abbas Araghchi and Russian Foreign Minister Sergey Lavrov."
+   ],
+   "title_fa": "پزشکیان در اجلاس گاز مسکو شرکت می‌کند و احتمالاً با پوتین دیدار خواهد کرد",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، هفته آینده برای شرکت در اجلاس مجمع کشورهای صادرکننده گاز به مسکو سفر خواهد کرد و انتظار می‌رود با ولادیمیر پوتین دیدار کند.",
+   "body_fa": [
+    "به گزارش رسانه‌های داخلی ایران به نقل از کاظم جلالی، سفیر ایران در روسیه، این اجلاس در تاریخ ۲۷ اکتبر برگزار خواهد شد. این سفر در پی مذاکرات اخیر عباس عراقچی و سرگئی لاوروف، وزیران امور خارجه ایران و روسیه، در تهران انجام می‌شود."
+   ],
+   "title_ar": "بزشكيان يشارك في قمة الغاز بموسكو ومن المرجح أن يلتقي بوتين",
+   "summary_ar": "سيتوجه الرئيس الإيراني مسعود بزشكيان إلى موسكو الأسبوع المقبل للمشاركة في قمة منتدى الدول المصدرة للغاز، حيث يُتوقع أن يلتقي بالرئيس فلاديمير بوتين.",
+   "body_ar": [
+    "ووفقاً لما نقلته وسائل إعلام إيرانية عن سفير إيران لدى روسيا كاظم جلالي، ستُعقد القمة في 27 أكتوبر. وتأتي الزيارة بعد محادثات ثنائية جرت في طهران بين وزير الخارجية الإيراني عباس عراقجي ونظيره الروسي سيرغي لافروف."
+   ]
+  },
+  {
+   "id": "bb9c08584fcc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-netanyahu-threats-betray-desperation-aide-irans-supreme-leader",
+   "date": "2026-10-24T04:00:32Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Trump, Netanyahu threats betray 'desperation', aide to Iran's supreme leader says",
+   "title_en": "Trump, Netanyahu threats betray 'desperation', aide to Iran's supreme leader says",
+   "summary_en": "A top adviser to Iran's supreme leader has dismissed threats of war and psychological warfare by US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu as signs of desperation.",
+   "body_en": [
+    "In a post on X, Mohammed Mokhber stated that Iran is aware of enemy vulnerabilities and suggested that battlefield surprises alongside leverage in the energy sector can shift the balance of power.",
+    "Mokhber added that nations residing in the region for thousands of years will endure, asserting that Israel can merely think about its own non-existence."
+   ],
+   "title_fa": "مشاور رهبر ایران: تهدیدهای ترامپ و نتانیاهو نشان‌دهنده «استیصال» است",
+   "summary_fa": "یک مشاور ارشد رهبر ایران تهدیدهای جنگی و جنگ روانی دونالد ترامپ و بنیامین نتانیاهو را نشانه استیصال دانست.",
+   "body_fa": [
+    "محمد مخبر در پستی در ایکس اعلام کرد که ایران از آسیب‌پذیری‌های دشمن آگاه است و پیشنهاد کرد که غافلگیری‌های میدانی در کنار اهرم‌های فشار در بخش انرژی می‌تواند موازنه قوا را تغییر دهد.",
+    "مخبر افزود مللی که هزاران سال در منطقه زیسته‌اند باقی خواهند ماند و ادعا کرد که رژیم صهیونیستی تنها می‌تواند به عدم وجود خود فکر کند."
+   ],
+   "title_ar": "مستشار المرشد الإيراني: تهديدات ترامب ونتانياهو تعكس \"اليأس\"",
+   "summary_ar": "اعتبر مستشار بارز للمرشد الإيراني أن تهديدات الحرب والحرب النفسية التي أطلقها دونالد ترامب وبنيامين نتانياهو تعكس اليأس.",
+   "body_ar": [
+    "وفي منشور على منصة إكس، صرح محمد مخبر أن إيران على دراية بنقاط ضعف العدو، مشيراً إلى أن المفاجآت في ساحة المعركة إلى جانب النفوذ في قطاع الطاقة يمكن أن تغير ميزان القوى.",
+    "وأضاف مخبر أن الأمم التي عاشت في المنطقة لآلاف السنين هي التي ستدوم، مؤكداً أن النظام الصهيوني لا يمكنه إلا التفكير في عدم وجوده."
+   ]
+  },
   {
    "id": "cd7c929cfd95",
    "lang": "en",
