@@ -1,7 +1,37 @@
 {
- "updated": "2026-10-25T18:51:25Z",
- "count": 102,
+ "updated": "2026-10-25T21:44:46Z",
+ "count": 105,
  "items": [
+  {
+   "id": "de16177c1ec3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039748/6-terrorists-killed-2-soldiers-martyred-during-dera-ismail-khan-ibo-ispr",
+   "date": "2026-10-25T17:18:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
+   "title_en": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
+   "summary_en": "Pakistani security forces killed six militants and lost two soldiers during an intelligence-based operation in Khyber Pakhtunkhwa's Dera Ismail Khan district, according to the military's media wing.",
+   "body_en": [
+    "Inter-Services Public Relations stated that the raid occurred on Saturday in the Zarkani area targeting members of the banned Tehreek-i-Taliban Pakistan, whom the military described as foreign-sponsored. The military confirmed the deaths of Naik Ghulam Murtaza and Sepoy Taseer Ahmed during the fighting, adding that weapons and ammunition were seized from the slain militants.",
+    "The military said a clearance operation was launched to track down any remaining militants in the area, emphasizing that its counterterrorism campaign will continue to eradicate terrorism. The operation follows a reported 50 percent surge in militant attacks across Khyber Pakhtunkhwa between July and August."
+   ],
+   "title_fa": "روابط عمومی ارتش پاکستان: ۶ تروریست کشته و ۲ سرباز در عملیات اطلاعات‌محور در دره اسماعیل‌خان جان باختند",
+   "summary_fa": "به گفته شاخه رسانه‌ای ارتش پاکستان، نیروهای امنیتی این کشور در یک عملیات اطلاعات‌محور در منطقه دره اسماعیل‌خان در خیبر پختونخوا، شش شبه‌نظامی را کشتند و دو سرباز نیز جان خود را از دست دادند.",
+   "body_fa": [
+    "روابط عمومی ارتش پاکستان اعلام کرد که این یورش روز شنبه در منطقه زرکانی علیه اعضای گروه ممنوعه تحریک طالبان پاکستان انجام شد که ارتش آنها را وابسته به حامیان خارجی توصیف کرد. ارتش تایید کرد که نایک غلام مرتضی و سپوی تاثیر احمد در جریان درگیری‌ها کشته شده‌اند و افزود مقادیری سلاح و مهمات از شبه‌نظامیان کشته‌شده به دست آمده است.",
+    "ارتش اعلام کرد برای پاکسازی منطقه از سایر شبه‌نظامیان احتمالی، عملیاتی در حال انجام است و تاکید کرد کارزار مبارزه با تروریسم برای نابودی این تهدیدات ادامه خواهد داشت. این عملیات در پی گزارش‌هایی مبنی بر افزایش ۵۰ درصدی حملات شبه‌نظامیان در خیبر پختونخوا میان ماه‌های ژوئیه و اوت صورت گرفته است."
+   ],
+   "title_ar": "مقتل 6 إرهابيين واستشهاد جنديين خلال عملية استخباراتية في ديرا إسماعيل خان: العلاقات العامة للجيش الباكستاني",
+   "summary_ar": "أفادت شعبة العلاقات العامة بالجيش الباكستاني بمقتل ستة مسلحين واستشهاد جنديين اثنين خلال عملية استخباراتية نفذتها القوات الأمنية في مقاطعة ديرا إسماعيل خان بإقليم خيبر بختونخوا.",
+   "body_ar": [
+    "وأوضحت العلاقات العامة للجيش الباكستاني أن العملية نُفذت يوم السبت في منطقة زركاني واستهدفت عناصر من حركة طالبان باكستان المحظورة، والذين وصفهم الجيش بأنهم مدعومون من الخارج. وأكد الجيش مقتل العريف غلام مرتضى والجندي تيسير أحمد خلال الاشتباكات، مشيراً إلى ضبط أسلحة وذخائر كانت بحوزة المسلحين القتلى.",
+    "وذكر الجيش أن عمليات تمشيط تجري للقضاء على أي عناصر مسلحة متبقية في المنطقة، مؤكداً استمرار حملته لمكافحة الإرهاب واستئصاله. وتأتي هذه العملية في أعقاب ارتفاع الهجمات المسلحة في إقليم خيبر بختونخوا بنسبة 50 في المئة بين شهري يوليو وأغسطس."
+   ]
+  },
   {
    "id": "d6a5a4caab6d",
    "lang": "en",
@@ -31,6 +61,65 @@
    "body_ar": [
     "وفقاً لمستشفى الشفاء في مدينة غزة ومصادر جامعية، أصابت الغارة الجامعة الإسلامية أثناء تواجد الطلاب داخل القاعات الدراسية. وأدانت وزارة التربية والتعليم في غزة الهجوم، مشيرة إلى أن 95 في المائة من مباني التعليم العالي في القطاع تضررت خلال الحرب. ورداً على طلب للتعليق، قال الجيش الإسرائيلي إنه يتحقق من التقارير.",
     "وفي مناطق أخرى من قطاع غزة، أفاد مسؤولون في الدفاع المدني بمقتل أربعة آخرين يوم الأحد، من بينهم شخصان في خان يونس، وشخص في دير البلح، وآخر في شمال غزة. ورغم سريان هدنة منذ أكثر من عام، يفيد المسؤولون بأن الغارات الإسرائيلية استمرت، مما أسفر عن مقتل أكثر من 1500 فلسطيني منذ بدء التهدئة."
+   ]
+  },
+  {
+   "id": "3a41108eb6c7",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+   "date": "2026-10-25T14:47:55Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "title_en": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "summary_en": "Rising global oil prices and living costs driven by the US-Israeli conflict with Iran have prompted several Western European nations to express opposition to potential renewed military escalation.",
+   "body_en": [
+    "Surging energy prices ahead of winter have exacerbated domestic protests across European capitals, leading leaders in nations like Britain, France, Germany, and Italy to advocate for diplomatic restraint over further military campaigns. European officials have expressed concern that an expanding conflict would worsen economic conditions and create serious fallout for energy markets.",
+    "The war has also exposed rifts regarding military access, as European countries adopted divergent policies toward US operations. While Germany and Britain offered base access under certain conditions, France restricted its involvement, and Spain closed its airspace and barred the use of joint bases for attacks, sparking threats of trade retaliation from US President Donald Trump."
+   ],
+   "title_fa": "جنگ آمریکا و اسرائیل علیه ایران چگونه در اروپا بحران ایجاد می‌کند؟",
+   "summary_fa": "افزایش بهای جهانی نفت و هزینه‌های زندگی ناشی از درگیری آمریکا و اسرائیل با ایران، سبب شده است تا چندین کشور اروپای غربی مخالفت خود را با تشدید دوباره تنش‌های نظامی ابراز کنند.",
+   "body_fa": [
+    "افزایش هزینه‌های انرژی در آستانه فصل زمستان به اعتراضات معیشتی در پایتخت‌های اروپایی دامن زده و رهبران کشورهایی چون بریتانیا، فرانسه، آلمان و ایتالیا را بر آن داشته است تا به جای پیگیری اقدامات نظامی بیشتر، خواستار خویشتنداری و مسیر دیپلماتیک شوند. مقامات اروپایی نگرانند که گسترش دامنه جنگ وضعیت اقتصادی و بهای سوخت را وخیم‌تر کند.",
+    "این جنگ همچنین شکاف‌هایی را بر سر دسترسی به پایگاه‌های نظامی نمایان کرده است؛ زیرا کشورهای اروپایی رویکردهای متفاوتی در برابر عملیات‌های آمریکا در پیش گرفته‌اند. در حالی که آلمان و بریتانیا دسترسی به پایگاه‌ها را تحت شرایطی مجاز دانستند، فرانسه مشارکت خود را محدود کرد و اسپانیا با ممنوعیت استفاده از پایگاه‌ها و بستن حریم هوایی خود، واکنش تند دونالد ترامپ و تهدید به قطع روابط تجاری را برانگیخت."
+   ],
+   "title_ar": "كيف تتسبب الحرب الأمريكية الإسرائيلية على إيران في إحداث فوضى في أوروبا؟",
+   "summary_ar": "أدى ارتفاع أسعار النفط العالمية وتكاليف المعيشة الناجم عن الصراع الأمريكي الإسرائيلي مع إيران إلى إعلان عدة دول في أوروبا الغربية معارضتها لأي تصعيد عسكري محتمل.",
+   "body_ar": [
+    "أدى ارتفاع أسعار الطاقة قبيل فصل الشتاء إلى تأجيج الاحتجاجات المعيشية في العواصم الأوروبية، مما دفع قادة دول مثل بريطانيا وفرنسا وألمانيا وإيطاليا إلى الدعوة لضبط النفس واللجوء للدبلوماسية بدلاً من شن حملات عسكرية جديدة. وأعرب مسؤولون أوروبيون عن قلقهم من أن يؤدي أي تصعيد إضافي إلى تدهور الأوضاع الاقتصادية وإلحاق أضرار بالغة بأسواق المحروقات.",
+    "كما كشفت الحرب عن انقسامات بشأن استخدام القواعد العسكرية، حيث تبنت الدول الأوروبية سياسات متباينة تجاه العمليات الأمريكية؛ فبينما سمحت ألمانيا وبريطانيا باستخدام قواعدهما ضمن شروط معينة، قيدت فرنسا مشاركتها، ومضت إسبانيا أبعد بإغلاق مجالها الجوي ومنع استخدام قواعدها المشتركة في الهجمات، مما أثار غضب الرئيس الأمريكي دونالد ترامب وتهديده بقطع التجارة مع مدريد."
+   ]
+  },
+  {
+   "id": "7166215c8918",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza",
+   "date": "2026-10-25T12:46:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli attacks killed at least five Palestinians in Gaza",
+   "title_en": "Israeli attacks killed at least five Palestinians in Gaza",
+   "summary_en": "Israeli air and drone strikes across the Gaza Strip have killed at least five Palestinians and injured several others, according to local reports.",
+   "body_en": [
+    "In Khan Younis, an air strike on a group of people in the al-Sinaa area killed at least two Palestinians and wounded four, while a drone attack wounded several others in nearby al-Mawasi. Additionally, ambulance service sources reported that an Israeli air strike on the Islamic University Campus in northern Gaza City killed three people."
+   ],
+   "title_fa": "حملات اسرائیل دست‌کم پنج فلسطینی را در غزه کشت",
+   "summary_fa": "بر اساس گزارش‌های محلی، حملات هوایی و پهپادی اسرائیل در بخش‌های مختلف نوار غزه دست‌کم پنج فلسطینی را به شهادت رساند و چند نفر دیگر را مجروح کرد.",
+   "body_fa": [
+    "در خان یونس، حمله هوایی به تجمع مردم در منطقه الصناعه دست‌کم دو کشته و چهار مجروح برجای گذاشت و حمله پهپادی در نزدیکی المواصی نیز به زخمی شدن چند نفر دیگر انجامید. همچنین منابع امدادی گزارش دادند که حمله هوایی اسرائیل به محوطه دانشگاه اسلامی در شمال شهر غزه موجب کشته شدن سه نفر شد."
+   ],
+   "title_ar": "هجمات إسرائيلية تسفر عن مقتل خمسة فلسطينيين على الأقل في غزة",
+   "summary_ar": "أسفرت غارات جوية وهجمات بمسيرات إسرائيلية على مناطق متفرقة في قطاع غزة عن مقتل ما لا يقل عن خمسة فلسطينيين وإصابة آخرين، وفقاً لتقارير محلية.",
+   "body_ar": [
+    "في خان يونس، أدت غارة جوية استهدفت تجمعاً للمواطنين في منطقة الصناعة إلى مقتل فلسطينيين اثنين وإصابة أربعة آخرين، في حين أسفر هجوم بمسيرة عن جرح عدة أشخاص في منطقة المواصي المجاورة. كما أفادت مصادر الإسعاف بمقتل ثلاثة أشخاص إثر قصف جوي إسرائيلي استهدف الحرم الجامعي للجامعة الإسلامية شمال مدينة غزة."
    ]
   },
   {
