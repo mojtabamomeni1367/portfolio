@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:52:18Z",
+ "updated": "2026-10-25T18:51:25Z",
  "items": [
   {
    "id": "1bbc15ef5df1",
@@ -3607,6 +3607,327 @@
    "desc": "العملية العسكرية الإسرائيلية واسعة النطاق تتواصل في الضفة الغربية . فلسطينيون يقولون إنها عقاب جماعي والمسؤولون الإسرائيليون يقولون إنها تأمين للمواطنين الإسرائيليين وعقاب للإرهابيين.",
    "score": 7,
    "dup_of": "9ecef35ab16b"
+  },
+  {
+   "id": "bc5e2a8c4186",
+   "title": "How do Israel's elections work and who are the main contenders?",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T17:13:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history.",
+   "score": 4
+  },
+  {
+   "id": "b501af5770e9",
+   "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+   "date": "2026-10-25T18:05:14Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
+   "score": 2
+  },
+  {
+   "id": "2749cf3d2fa8",
+   "title": "US and Israel elections: New leaders, same policies?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+   "date": "2026-10-25T17:53:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
+   "score": 4
+  },
+  {
+   "id": "98798f828d90",
+   "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+   "date": "2026-10-25T17:12:59Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Jerusalem Daily: Israel expels thousands from Hebron",
+   "score": 7,
+   "dup_of": "b9b0d6e0f12d"
+  },
+  {
+   "id": "2af05852f8e0",
+   "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+   "date": "2026-10-25T16:30:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
+   "score": 4
+  },
+  {
+   "id": "141205b2c507",
+   "title": "Jordanians mourn victims of deadly church attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+   "date": "2026-10-25T16:16:48Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordanians mourn victims of deadly church attack",
+   "score": 3,
+   "dup_of": "813662d5d413"
+  },
+  {
+   "id": "3d821338de23",
+   "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+   "date": "2026-10-25T16:11:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+   "score": 5
+  },
+  {
+   "id": "c96546db1a20",
+   "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+   "date": "2026-10-25T15:40:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+   "score": 8,
+   "dup_of": "d6a5a4caab6d"
+  },
+  {
+   "id": "c46a899bfc32",
+   "title": "Israel’s Ben Gvir says he confiscated improvised cake made by Palestinian prisoners",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ben-gvir-says-he-confiscated-improvised-cake-made-palestinian",
+   "date": "2026-10-25T18:43:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel’s Ben Gvir says he confiscated improvised cake made by Palestinian prisoners Israel’s National Security Minister Itamar Ben-Gvir boasted of making Palestinian prisoners’ lives “hell” and said prison authorities confiscated a makeshift cake they had prepared and sent them to solitary confinement. The prisoners at Lavi prison “hoarded the little food they had”, saving bread and jam over several days to celebrate on Tuesday if he failed to win re-election, he said on X. “A spoonful of jam and another spoonful of jam, a slice of bread and another slice of bread, like this for several days, ",
+   "score": 2
+  },
+  {
+   "id": "0a3778f2537f",
+   "title": "Sri Lanka rescues 40 Iranian sailors, spokesman says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sri-lanka-rescues-40-iranian-sailors-spokesman-says",
+   "date": "2026-10-25T17:32:51Z",
+   "countries": [
+    "IRN",
+    "LKA"
+   ],
+   "desc": "Sri Lanka rescues 40 Iranian sailors, spokesman says Sri Lanka coordinated the rescue of 40 Iranian sailors from multiple commercial ships in international waters off the coast of the country and supported their return to Iran, a spokesman for the island nation's foreign ministry said on Sunday. The ministry received a request from the Iranian embassy via diplomatic channels to rescue the sailors, Thushara Rodrigo, a spokesman for the ministry, said, adding they had been suffering unspecified medical emergencies. The ministry didn't give any further details of why they had to be rescued but lo",
+   "score": 6
+  },
+  {
+   "id": "5330eccf5f47",
+   "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, Iranian media says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-iranian-media-says",
+   "date": "2026-10-25T16:58:27Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Tehran strikes Iranian Kurdish base in Iraq with drones, Iranian media says Iran's armed forces attacked bases belonging to an Iranian Kurdish opposition group in Iraq's Kurdistan region using drones, a media outlet in Tehran reported on Sunday. \"As part of a drone operation carried out by the Revolutionary Guards' ground forces, the headquarters of the terrorist and separatist group Komala, located in the Balisan region, was targeted last night,\" the Mehr news agency said. Revolutionary Guard Corps have not immediately claimed responsibility for the strikes on these fighters, whom Iran accuse",
+   "score": 8,
+   "dup_of": "2bc10b54246c"
+  },
+  {
+   "id": "b5a21c3c9126",
+   "title": "Erdogan sacks adviser amid efforts to repair ties with Azerbaijan over headscarf row",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/erdogan-sacks-adviser-mend-ties-azerbaijan-amid-headscarf-spat",
+   "date": "2026-10-25T16:30:47Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Erdogan sacks adviser amid efforts to repair ties with Azerbaijan over headscarf row Submitted by Ragip Soylu on Sun, 10/25/2026 - 15:59 Adviser’s removal meets demand from Baku as Turkey seeks to secure President Ilham Aliyev’s attendance at a Turkic states summit Turkish President Recep Tayyip Erdogan attends a joint press conference with Canadian Prime Minister Mark Carney in Ankara, 22 October 2026 (Adem Altan/AFP) Off Turkish President Recep Tayyip Erdogan sacked a chief adviser on Sunday in an effort to mend ties with Azerbaijan amid a dispute over a headscarf ban, Middle East Eye unders",
+   "score": 5
+  },
+  {
+   "id": "f41cb6e1301e",
+   "title": "Death toll from Israeli bombardments across Gaza rises to seven",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-seven",
+   "date": "2026-10-25T16:21:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Death toll from Israeli bombardments across Gaza rises to seven The death toll from Israeli bombardments across Gaza today has risen to seven after a drone strike killed two Palestinians in the al-Mazraa area east of Deir el-Balah, Wafa news agency reported. The strike also left several people “critically wounded”, Wafa said. Earlier Israeli strikes killed five Palestinians, including two in Khan Younis and three around the Islamic University campus in northern Gaza City. Israeli forces also reportedly shot a Palestinian in the foot in the al-Faluja area of northern Gaza.",
+   "score": 8,
+   "dup_of": "d6a5a4caab6d"
+  },
+  {
+   "id": "30f51702f3e3",
+   "title": "Pope calls for end to conflict in Yemen",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pope-calls-end-conflict-yemen",
+   "date": "2026-10-25T15:44:17Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Pope calls for end to conflict in Yemen Pope Leo XIV has called for an end to the violence in Yemen, particularly citing the siege of Taiz as a humanitarian catastrophe. Addressing followers at St Peter's Square in Vatican City, the head of the Catholic church described the besieged city as a place “where the population suffers due to ⁠the lack of food, water and medical assistance”. “I’m making a heartfelt appeal for the hostilities to stop so that the people in Yemen and across the entire region can live in peace,” he said.",
+   "score": 4
+  },
+  {
+   "id": "5b0130fb479b",
+   "title": "Shadab Khan's maiden ODI century steers Pakistan into tri-series final after thrilling chase against England",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039708/shadab-khans-maiden-odi-century-steers-pakistan-into-tri-series-final-after-thrilling-chase-against-england",
+   "date": "2026-10-25T18:02:13Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Fortune favours the brave, and on Sunday it favoured Shadab Khan just when he seemed to have been abandoned by it. He had dragged Pakistan from the brink of defeat to within touching distance of victory in the One-day International tri-series match against England. And it had taken extraordinary bravery to do so. With the last wicket standing and Haris Rauf holding firm at the other end, Pakistan needed 27 runs when Shadab swept Gus Atkinson for six over fine leg. Before the sparse crowd at the Gaddafi Stadium could finish celebrating, Atkinson fired a full delivery into Shadab’s pads. England",
+   "score": 1
+  },
+  {
+   "id": "de16177c1ec3",
+   "title": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039748/6-terrorists-killed-2-soldiers-martyred-during-dera-ismail-khan-ibo-ispr",
+   "date": "2026-10-25T17:18:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Security forces killed six terrorists in an intelligence-based operation in Khyber Pakhtunkhwa’s Dera Ismail Khan district, Inter-Services Public Relations (ISPR) said on Sunday. The IBO was conducted on Saturday in DI Khan’s general area of Zarkani on the “reported presence of khawarij belonging to Indian proxy Fitna Al Khawarij ”, the military’s media affairs wing said in a statement . Fitna al Khawarij is a term the state uses for terrorists belonging to the banned Tehreek-i-Taliban Pakistan (TTP). “Owing to [the] meticulous conduct of operation by security forces, six India-sponsored khawa",
+   "score": 7
+  },
+  {
+   "id": "548ae1178f7c",
+   "title": "Israeli strike on Gaza university kills 3; another 4 Palestinians killed in other attacks",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039736/israeli-strike-on-gaza-university-kills-3-another-4-palestinians-killed-in-other-attacks",
+   "date": "2026-10-25T16:13:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "An Israeli strike on a university in Gaza City killed three people on Sunday, staff and a local hospital said, while the civil defence agency reported four others killed elsewhere in the territory. Reached for comment, the Israeli military said it was looking into the reports. Al Shifa Hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students. Gaza’s education ministry said in a statement that the students had been present ",
+   "score": 8,
+   "dup_of": "d6a5a4caab6d"
+  },
+  {
+   "id": "0ebcef8c3498",
+   "title": "New leave policy for Islamabad Police ensures weekly off for all personnel",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039735/new-leave-policy-for-islamabad-police-ensures-weekly-off-for-all-personnel",
+   "date": "2026-10-25T16:04:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The capital’s police have introduced a new leave policy to ease difficulties faced by officers and officials in obtaining leave and ensure, for the first time, that all personnel get at least one day of weekly rest, it emerged on Sunday. According to an order issued by the Islamabad inspector general (IG), dated Oct 23 and available with Dawn , the policy delegates leave-sanctioning powers to officers at different levels and supersedes all previous instructions, including the leave policy issued in 2022. The policy stipulates that at least one day of weekly rest must be provided to ",
+   "score": 1
+  },
+  {
+   "id": "0d1473606a8a",
+   "title": "Israeli air strikes kill several across Gaza Strip: local authorities",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece",
+   "date": "2026-10-25T16:57:12Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students",
+   "score": 8,
+   "dup_of": "d6a5a4caab6d"
+  },
+  {
+   "id": "2a6d4322cbab",
+   "title": "Beyond national interest: role of ethics and emotions in world politics",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
+   "date": "2026-10-25T16:55:15Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict",
+   "score": 2
+  },
+  {
+   "id": "b5bee75dc8d7",
+   "title": "Israel presses ahead with West Bank operation as election approaches",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
+   "date": "2026-10-25T16:49:51Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Hebron municipality said the operation displaced more than 2,600 people; the Army declined to say how long the operation might last.",
+   "score": 7,
+   "dup_of": "39d85814d543"
+  },
+  {
+   "id": "b4f1308c1c9c",
+   "title": "Netanyahu warns Iran may try to disrupt Israel election, says 'don't test us'",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahu-warns-iran-may-try-to-disrupt-israel-election-says-dont-test-us/article71624345.ece",
+   "date": "2026-10-25T16:40:31Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Benjamin Netanyahu, Israel's longest-serving prime minister, has focused heavily on hawkish national security statements in the final days of the campaign",
+   "score": 6
+  },
+  {
+   "id": "33a12fa35781",
+   "title": "إسرائيل تعلن إغلاق معابر الضفة الغربية خلال الانتخابات",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cw3djmn2exylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T16:57:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "إجراء الانتخابات الإسرائيلية وسط حالة من الحذر وإجراءات أمنية مشددة.",
+   "score": 7,
+   "dup_of": "39d85814d543"
   }
  ]
 }
