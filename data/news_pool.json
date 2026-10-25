@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:57:56Z",
+ "updated": "2026-10-25T09:46:34Z",
  "items": [
   {
    "id": "1bbc15ef5df1",
@@ -2517,6 +2517,282 @@
    "desc": "يقاوم مجتمع اليهود المتشددين دينياً التجنيد في الجيش الإسرائيلي. لكن هل يتسبّب الآن في إسقاط حكومة نتنياهو؟",
    "score": 6,
    "dup_of": "7b01f4c96719"
+  },
+  {
+   "id": "48011804eb0b",
+   "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+   "date": "2026-10-25T09:27:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
+   "score": 6,
+   "dup_of": "b9b0d6e0f12d"
+  },
+  {
+   "id": "df21383bf864",
+   "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+   "date": "2026-10-25T08:44:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
+   "score": 4
+  },
+  {
+   "id": "b6bf7ac4343b",
+   "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
+   "date": "2026-10-25T08:26:19Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Alexander Volkanovski secures a technical knockout in the closing seconds of round two at UFC 333 in Abu Dhabi, UAE.",
+   "score": 1
+  },
+  {
+   "id": "05b4c17e4daf",
+   "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+   "date": "2026-10-25T07:59:38Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
+   "score": 5
+  },
+  {
+   "id": "39d85814d543",
+   "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+   "date": "2026-10-25T07:20:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel says it will close all land crossings with the West Bank when it holds a general election on Tuesday.",
+   "score": 7
+  },
+  {
+   "id": "1954a2e5c702",
+   "title": "Israeli elections: What are the possible outcomes?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+   "date": "2026-10-25T07:10:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis face a pivotal election on October 27, as Netanyahu's leadership hangs in the balance amid coalition debates.",
+   "score": 6
+  },
+  {
+   "id": "5141ffd54b05",
+   "title": "Elections cannot produce change in Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
+   "date": "2026-10-25T06:54:37Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Political change cannot come from within Israeli society. It can only come from the outside.",
+   "score": 4
+  },
+  {
+   "id": "c6bb4878524e",
+   "title": "Who Israel elects matters, and not just for Israelis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss",
+   "date": "2026-10-25T06:41:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A new government would not end the occupation, but it could rein in the far right and ease tensions across the region.",
+   "score": 4
+  },
+  {
+   "id": "30af9f8796c9",
+   "title": "Ten days that could shake the world: democratic norms at stake in four pivotal elections",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+   "date": "2026-10-25T07:00:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Brazil, Israel, Serbia and the US are holding elections within the space of 10 days. Will the authoritarian right cement its global gains, or can pro-democracy forces make a comeback? Four elections on four continents within 10 days could profoundly reshape global politics, propelling the world further along its current authoritarian trajectory or marking a limited comeback for democratic norms. In all four contests, basic democratic norms are at stake at a time when autocracy is advancing worldwide at an alarming rate. According to the Sweden-based V-Dem Institute , which uses multivariable a",
+   "score": 3
+  },
+  {
+   "id": "a1b1d4f238b9",
+   "title": "Israel to close all West Bank land crossings on election day",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day",
+   "date": "2026-10-24T13:52:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel announced it would be closing all land crossings with the West Bank on the day of next week's parliamentary elections. The measure comes as Israel conducts a large-scale operation in the occupied Palestinian territory and 2,000 residents of Hebron have been displaced from their homes after Palestinian gunmen killed two soldiers in the area.",
+   "score": 6,
+   "dup_of": "39d85814d543"
+  },
+  {
+   "id": "06b46e09ee3a",
+   "title": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039710/terrorist-commander-killed-during-ibo-in-balochistans-qila-saifullah-state-media",
+   "date": "2026-10-25T09:03:13Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Security forces killed a terrorist commander during an intelligence-based operation (IBO) in Balochistan’s Qila Saifullah, state-run Radio Pakistan reported on Sunday, citing security sources. The slain terrorist was identified as Adil Shah alias Darvesh in the state broadcaster’s report, which said he belonged to Fitna-al-Khawarij — a term the state uses for terrorists belonging to the banned Tehreek-i-Taliban Pakistan. “Security forces are actively carrying out operations against terrorists in Balochistan under ‘Operation Radd-ul-Fitna-3’. According to security sources, the terrorist command",
+   "score": 6
+  },
+  {
+   "id": "f3c7fb655762",
+   "title": "Hina Javed murder case: In open letter to Punjab CM, victim's family again expresses mistrust in police probe",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039712/hina-javed-murder-case-in-open-letter-to-punjab-cm-victims-family-again-expresses-mistrust-in-police-probe",
+   "date": "2026-10-25T09:06:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "RAWALPINDI/ LAHORE: The victim’s family in the Hina Javed murder case has written an open letter to Punjab Chief Minister Maryam Nawaz, again expressing their mistrust in the police investigation and calling for the formation of a judicial commission to probe the matter, it emerged on Sunday. Hina, a 45-year-old digital media executive, was found dead at her residence in Rawalpindi in August, with police noting signs of torture. Her husband and their domestic worker were arrested as Hina’s family accused them of murdering her while her father-in-law was questioned as part of the investigation.",
+   "score": 2
+  },
+  {
+   "id": "07b6ca1f603d",
+   "title": "Iran says resumption of war would not change its stances",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039716/iran-says-resumption-of-war-would-not-change-its-stances",
+   "date": "2026-10-25T09:40:19Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran’s Foreign Minister Abbas Araghchi said on Sunday that a potential resumption of war with Israel and the United States would not change his country’s positions. The remarks come amid mounting US and Israeli threats of renewed attacks on Iran, as President Donald Trump said on Friday that Washington “may do another little Epic Fury,” referring to the US-Israeli campaign on Iran that began on February 28. “Recently, there has been talk of a new war, but I am already thinking about the post-war period. Whether there is war or not, our policies remain the same,” said Araghchi during a televise",
+   "score": 8,
+   "dup_of": "7be463e77f5c"
+  },
+  {
+   "id": "2deb47c2dc7d",
+   "title": "Shadab returns, Razaullah makes debut as Pakistan elect to field in tri-series match against England",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039708/shadab-returns-razaullah-makes-debut-as-pakistan-elect-to-field-in-tri-series-match-against-england",
+   "date": "2026-10-25T08:02:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan won the toss and elected to field against England in the One-day International tri-series match at the Gaddafi Stadium on Sunday, with all-rounder Shadab Khan returning to the side and Razaullah making his debut. Captain Shaheen Shah Afridi confirmed two changes to the Pakistan side, with Shadab coming in after missing the first two matches of the tri-series. Razaullah also earned his maiden ODI appearance, while Naseem Shah, who dislocated his finger during the warm-up, and all-rounder Faheem Ashraf made way. As a part of the Pakistan Cricket Board’s breast cancer awareness initiativ",
+   "score": 1
+  },
+  {
+   "id": "714edb33283d",
+   "title": "Indian protesters clash with police over dam project bordering China",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039703/indian-protesters-clash-with-police-over-dam-project-bordering-china",
+   "date": "2026-10-25T08:13:42Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Indian protesters angry over a proposed Himalayan mega-dam, intended to counter an upstream Chinese hydropower project, have clashed with police and torched buildings, officials said. The violence in Arunachal Pradesh state erupted late on Friday during protests against the proposed 11,200-megawatt Siang Upper Multipurpose Project of state-run hydropower company NHPC, Chief Minister Pema Khandu told reporters on Saturday. “The mob destroyed a lot of properties, police station, the NHPC office was vandalised, several elected representatives’ homes were ransacked,” Khandu told reporters. Around ",
+   "score": 4
+  },
+  {
+   "id": "4790f35f69aa",
+   "title": "Explosions heard in Saudi capital as airport prepares to reopen",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece",
+   "date": "2026-10-25T09:29:46Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia, which leads a military coalition fighting the Iran-backed Houthis, has faced a barrage of strikes from the group in recent weeks",
+   "score": 8
+  },
+  {
+   "id": "c530f7d64ee8",
+   "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece",
+   "date": "2026-10-25T09:16:47Z",
+   "countries": [
+    "IND",
+    "SAU"
+   ],
+   "desc": "The Indian mission also shared an update about the suspension of flights from Air India and Air India Express to and from Riyadh and Dammam",
+   "score": 5
+  },
+  {
+   "id": "03b30c0fde2d",
+   "title": "Pakistan reopens Iran border crossing after week-long suspension of trade",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-reopens-iran-border-crossing-after-week-long-suspension-of-trade/article71622812.ece",
+   "date": "2026-10-25T09:16:33Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Resumption of operations in the Gabd-Rimdan crossing is expected to ease LPG shortage and reduce food and energy prices",
+   "score": 6,
+   "dup_of": "2617a6d3e912"
+  },
+  {
+   "id": "55874239ae89",
+   "title": "Riyadh airport resumes flights following Houthi attacks",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/riyadh-airport-resumes-flights-following-houthi-attacks/article71622578.ece",
+   "date": "2026-10-25T08:27:43Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The Yemeni Armed Forces warn all airlines, staff and travellers against using King Khalid airport in Riyadh; calls the airport a military target for their forces",
+   "score": 7,
+   "dup_of": "15ae93625646"
+  },
+  {
+   "id": "a95a10bc1d3a",
+   "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T09:30:05Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "وأفادت وكالة فرانس برس بسماع دوي ثلاثة انفجارات في الساعات الأولى من صباح الأحد في العاصمة السعودية الرياض. وقد سبق ذلك إرسال رسائل تحذيرية إلى السكان عبر الهواتف المحمولة تنبّههم إلى \"تهديد جوي\" وتدعوهم إلى الاحتماء.",
+   "score": 8
   }
  ]
 }

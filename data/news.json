@@ -1,7 +1,223 @@
 {
- "updated": "2026-10-25T06:57:56Z",
- "count": 90,
+ "updated": "2026-10-25T09:46:34Z",
+ "count": 97,
  "items": [
+  {
+   "id": "a95a10bc1d3a",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T09:30:05Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 8,
+   "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
+   "title_en": "Saudi Arabia announces interception and destruction of 10 Ansar Allah missiles as flights resume at Riyadh airport",
+   "summary_en": "Saudi authorities reported intercepting and destroying ballistic and cruise missiles launched by the Houthi Ansar Allah movement toward the kingdom, as Riyadh's King Khalid International Airport resumed operations following a two-week suspension.",
+   "body_en": [
+    "According to the Saudi Press Agency, coalition forces intercepted 10 ballistic missiles and a cruise missile directed toward the southern region, as well as another ballistic missile aimed at Riyadh. Three explosions were heard in the capital, where residents received alert messages advising them to seek shelter.",
+    "The military escalation coincided with King Khalid International Airport resuming flights after a closure caused by an earlier Houthi attack, even as the group renewed warnings against using the facility, declaring it a military target."
+   ],
+   "title_fa": "عربستان سعودی از رهگیری و انهدام ۱۰ موشک انصارالله هم‌زمان با ازسرگیری پروازها در فرودگاه ریاض خبر داد",
+   "summary_fa": "مقامات عربستان سعودی از رهگیری و انهدام چندین موشک بالستیک و کروز شلیک‌شده توسط حوثی‌های انصارالله به سوی این کشور، هم‌زمان با بازگشایی فرودگاه بین‌المللی ملک خالد ریاض پس از دو هفته تعلیق، خبر دادند.",
+   "body_fa": [
+    "به گزارش خبرگزاری رسمی عربستان، نیروهای ائتلاف ۱۰ موشک بالستیک و یک موشک کروز شلیک‌شده به سوی مناطق جنوبی و همچنین یک موشک بالستیک را به مقصد ریاض رهگیری و منهدم کردند. در پی این حملات، صدای سه انفجار در پایتخت شنیده شد و هشدارهایی برای پناه گرفتن شهروندان ارسال گردید.",
+    "این تنش هم‌زمان با ازسرگیری پروازها در فرودگاه ملک خالد پس از تعطیلی ناشی از حمله پیشین حوثی‌ها صورت گرفت، در حالی که این گروه بار دیگر با «هدف نظامی» خواندن این فرودگاه، درباره استفاده از آن هشدار داد."
+   ],
+   "title_ar": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
+   "summary_ar": "أعلنت السلطات السعودية اعتراض وتدمير عدد من الصواريخ الباليستية والمجنحة أطلقتها جماعة أنصار الله الحوثية باتجاه المملكة، وذلك تزامناً مع إعادة تشغيل مطار الملك خالد الدولي بالرياض بعد توقف دام أسبوعين.",
+   "body_ar": [
+    "أفادت وكالة الأنباء السعودية باعتراض قوات التحالف لعشرة صواريخ باليستية وآخر مجنح أُطلقت نحو جنوب المملكة، إضافة إلى إسقاط صاروخ باليستي استهدف الرياض. وتزامن ذلك مع سماع ثلاثة انفجارات في العاصمة وتوجيه رسائل تحذيرية للسكان للاحتماء.",
+    "وجاء هذا التصعيد مع استئناف مطار الملك خالد لرحلاته بعد إغلاقه إثر هجوم سابق تبناه الحوثيون، في حين جددت الجماعة تحذيرها من استخدام المطار معتبرة إياه هدفاً عسكرياً."
+   ]
+  },
+  {
+   "id": "4790f35f69aa",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece",
+   "date": "2026-10-25T09:29:46Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Explosions heard in Saudi capital as airport prepares to reopen",
+   "title_en": "Explosions heard in Saudi capital as airport prepares to reopen",
+   "summary_en": "Explosions were heard in Riyadh as Saudi Arabia prepared to reopen its international airport after a two-week closure triggered by Houthi strikes. The Saudi-led coalition said it intercepted a ballistic missile and drones targeted at the capital, as well as a cruise missile aimed at Khamis Mushait.",
+   "body_en": [
+    "Residents in the Saudi capital received mobile alerts about an aerial threat following the morning blasts, as the coalition confirmed downing projectiles launched by the Houthis. Meanwhile, the Houthi military spokesman warned airlines and passengers against using Riyadh's King Khalid Airport, reiterating that it remains a military target.",
+    "The latest strikes follow earlier barrages against airports, an air base, and energy infrastructure, along with attacks claimed in southern Yemen. The escalations disrupted business and travel across the kingdom, while the Houthis denied Saudi assertions that missiles had targeted the holy cities of Mecca and Medina."
+   ],
+   "title_fa": "شنیده شدن صدای انفجار در پایتخت عربستان هم‌زمان با آماده‌سازی فرودگاه برای بازگشایی",
+   "summary_fa": "هم‌زمان با آماده‌سازی عربستان سعودی برای بازگشایی فرودگاه بین‌المللی ریاض پس از دو هفته تعطیلی ناشی از حملات حوثی‌ها، صدای انفجارهایی در پایتخت شنیده شد. ائتلاف تحت رهبری عربستان اعلام کرد که یک موشک بالستیک و پهپادهایی را به مقصد پایتخت و همچنین یک موشک کروز شلیک‌شده به سوی خمیس مشیط را رهگیری کرده است.",
+   "body_fa": [
+    "به دنبال انفجارهای صبحگاهی، ساکنان پایتخت عربستان پیام‌های هشداری مبنی بر تهدید هوایی دریافت کردند، در حالی که ائتلاف سرنگونی پرتابه‌های شلیک‌شده توسط حوثی‌ها را تأیید کرد. هم‌زمان، سخنگوی نظامی حوثی‌ها مجدداً به شرکت‌های هواپیمایی و مسافران هشدار داد که از فرودگاه ملک خالد ریاض استفاده نکنند زیرا همچنان یک هدف نظامی است.",
+    "این حملات پس از آن رخ داد که تأسیسات انرژی، پایگاه‌های هوایی و فرودگاه‌ها هدف قرار گرفتند. این تنش‌ها فعالیت‌های تجاری و پروازها را در سراسر عربستان با اختلال مواجه کرده است، در حالی که حوثی‌ها ادعای مقامات سعودی مبنی بر هدف‌گیری شهرهای مکه و مدینه را تکذیب کردند."
+   ],
+   "title_ar": "سماع دوي انفجارات في العاصمة السعودية بالتزامن مع استعداد المطار لإعادة الفتح",
+   "summary_ar": "سُمع دوي انفجارات في الرياض بينما تستعد السعودية لإعادة فتح مطارها الدولي بعد إغلاق دام أسبوعين جراء ضربات الحوثيين. وأعلن التحالف الذي تقوده الرياض اعتراض صاروخ باليستي وطائرات مسيرة وُجهت للعاصمة، بالإضافة إلى صاروخ مجنح استهدف خميس مشيط.",
+   "body_ar": [
+    "تلقى سكان العاصمة السعودية رسائل تحذيرية عبر هواتفهم من تهديد جوي عقب الانفجارات الصباحية، في وقت أكد فيه التحالف إسقاط مقذوفات أطلقها الحوثيون. في المقابل، جدد المتحدث العسكري للحوثيين تحذير شركات الطيران والمسافرين من استخدام مطار الملك خالد، واصفاً إياه بأنه هدف عسكري.",
+    "وتأتي هذه الهجمات بعد استهدافات طالت مطارات ومنشآت طاقة وقاعدة جوية، في حين نفت الجماعة مزاعم سعودية باستهداف مدينتي مكة والمدينة، مؤكدة أنها لم تستهدفهما."
+   ]
+  },
+  {
+   "id": "c530f7d64ee8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece",
+   "date": "2026-10-25T09:16:47Z",
+   "countries": [
+    "IND",
+    "SAU"
+   ],
+   "score": 5,
+   "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
+   "title_en": "India advises its nationals in Saudi Arabia against filming missile interceptions",
+   "summary_en": "India has advised its citizens residing in Saudi Arabia to comply with local regulations and refrain from recording or sharing footage of missile and drone interceptions.",
+   "body_en": [
+    "The advisory follows a notice from the Saudi Civil Defence warning that filming or publishing information regarding counter-drone and missile operations, as well as strike sites, carries legal liability. The guidance comes amid heightened regional tensions and repeated attacks on civilian infrastructure by Yemen's Houthis.",
+    "The Indian mission also highlighted flight suspensions by Air India and Air India Express to Riyadh, Dammam, and Jeddah, noting that consular control rooms are assisting affected citizens while engaging Saudi authorities regarding visa validities and delayed departures."
+   ],
+   "title_fa": "هند به اتباع خود در عربستان سعودی درباره فیلم‌برداری از رهگیری موشک‌ها هشدار داد",
+   "summary_fa": "هند به شهروندان خود در عربستان سعودی توصیه کرده است از قوانین محلی پیروی کرده و از ضبط یا انتشار تصاویر مربوط به رهگیری موشک‌ها و پهپادها خودداری کنند.",
+   "body_fa": [
+    "این هشدار پس از اطلاعیه دفاع مدنی عربستان صادر شد که تصریح کرده بود فیلم‌برداری یا انتشار اطلاعات درباره عملیات‌های رهگیری موشک‌ها و پهپادها و محل اصابت آن‌ها، مسئولیت قانونی در پی دارد. این توصیه در بحبوحه تشدید تنش‌های منطقه‌ای و حملات مکرر حوثی‌های یمن به زیرساخت‌های غیرنظامی اعلام شده است.",
+    "نمایندگی هند همچنین به تعلیق پروازهای ایر ایندیا و ایر ایندیا اکسپرس به ریاض، دمام و جده اشاره کرد و افزود که اتاق‌های بحران کنسولی ضمن ارائه کمک به شهروندان متأثر، با مقامات سعودی درباره اعتبار ویزاها و پروازهای به تعویق افتاده در ارتباط هستند."
+   ],
+   "title_ar": "الهند تنصح رعاياها في السعودية بعدم تصوير اعتراض الصواريخ",
+   "summary_ar": "نصحت الهند مواطنيها المقيمين في المملكة العربية السعودية بالالتزام بالأنظمة المحلية والامتناع عن تصوير أو نشر لقطات اعتراض الصواريخ والطائرات المسيرة.",
+   "body_ar": [
+    "تأتي هذه النصيحة في أعقاب إشعار صادر عن الدفاع المدني السعودي يحذر من أن تصوير أو نشر معلومات تتعلق بعمليات اعتراض الصواريخ والطائرات المسيرة ومواقع سقوطها يترتب عليه مسؤولية قانونية. وجاء التوجيه وسط تصاعد التوترات الإقليمية والهجمات المتكررة على البنية التحتية المدنية من قبل الحوثيين في اليمن.",
+    "كما أشارت البعثة الهندية إلى تعليق رحلات طيران الهند وطيران الهند إكسبريس إلى الرياض والدمام وجدة، مبينة أن غرف الطوارئ القنصلية تقدم المساعدة للمواطنين المتضررين وتتواصل مع السلطات السعودية بشأن صلاحية التأشيرات وتأخر المغادرة."
+   ]
+  },
+  {
+   "id": "06b46e09ee3a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039710/terrorist-commander-killed-during-ibo-in-balochistans-qila-saifullah-state-media",
+   "date": "2026-10-25T09:03:13Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+   "title_en": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+   "summary_en": "Pakistani security forces killed a commander belonging to the banned Tehreek-i-Taliban Pakistan during an intelligence-based operation in Balochistan's Qila Saifullah district, state media reported. The slain operative, identified as Adil Shah, managed the group's finances and carried a bounty on his head.",
+   "body_en": [
+    "According to security sources cited by Radio Pakistan, Shah had been linked to the group since December 2020 and took charge of its financial network in 2024. He was accused of organizing lodging for foreign fighters, orchestrating attacks on security personnel, and involvement in ransom kidnappings, leading to 19 cases filed against him and a Rs2.5 million bounty.",
+    "Balochistan Chief Minister Sarfraz Bugti praised the forces' expertise following the raid. The operation comes as the province faces a surge in militant violence, representing the majority of nationwide attacks reported during a recent rise in fatalities."
+   ],
+   "title_fa": "رسانه‌های دولتی: کشته شدن یکی از فرماندهان تروریست در عملیات اطلاعات‌محور در قلعه سیف‌الله بلوچستان",
+   "summary_fa": "به گزارش رسانه‌های دولتی، نیروهای امنیتی پاکستان در جریان یک عملیات مبتنی بر داده‌های اطلاعاتی در منطقه قلعه سیف‌الله بلوچستان، یکی از فرماندهان گروه ممنوعه تحریک طالبان پاکستان را کشتند. این فرد که عادل شاه نام دارد، مسئولیت امور مالی این گروه را بر عهده داشت و برای دستگیری‌اش جایزه تعیین شده بود.",
+   "body_fa": [
+    "بر اساس گزارش رادیو پاکستان به نقل از منابع امنیتی، عادل شاه از دسامبر ۲۰۲۰ با این گروه همکاری داشته و از سال ۲۰۲۴ امور مالی آن را اداره می‌کرده است. وی متهم به اسکان جنگجویان خارجی، انجام حملات علیه نیروهای امنیتی و آدم‌ربایی برای باج‌گیری بود؛ اتهاماتی که به ثبت ۱۹ پرونده و تعیین جایزه ۲.۵ میلیون روپیه‌ای برای او انجامیده بود.",
+    "سرفراز بوگتی، سروزیر بلوچستان، از مهارت نیروهای امنیتی پس از این عملیات قدردانی کرد. این درگیری در شرایطی رخ می‌دهد که این استان شاهد افزایش حملات شبه‌نظامیان بوده و بیشترین سهم از حملات و تلفات اخیر در سراسر کشور را به خود اختصاص داده است."
+   ],
+   "title_ar": "وسائل إعلام رسمية: مقتل قيادي إرهابي خلال عملية أمنية استخباراتية في قلعة سيف الله ببلوشستان",
+   "summary_ar": "ذكرت وسائل إعلام رسمية أن قوات الأمن الباكستانية قتلت قيادياً ينتمي إلى حركة طالبان باكستان المحظورة خلال عملية استخباراتية في منطقة قلعة سيف الله بإقليم بلوشستان. وتولى القتيل، الذي يدعى عادل شاه، إدارة الشؤون المالية للجماعة وكانت هناك مكافأة مقابل رأسه.",
+   "body_ar": [
+    "ونقلت إذاعة باكستان عن مصادر أمنية أن عادل شاه كان مرتبطاً بالحركة منذ ديسمبر 2020 وتولى إدارة شؤونها المالية منذ عام 2024. واتُهم بتوفير الملاذات لعناصر أجنبية وشن هجمات على القوات الأمنية والخطف مقابل فدية، وكانت مقيدة ضده 19 قضية ومكافأة قدرها 2.5 مليون روبية.",
+    "وأشاد رئيس وزراء إقليم بلوشستان، سرفراز بوغتي، بكفاءة القوات الأمنية عقب العملية. وتأتي هذه الخطوة في وقت يشهد فيه الإقليم تصاعداً ملحوظاً في هجمات المسلحين، حيث سجل النسبة الأكبر من الهجمات والضحايا على مستوى البلاد مؤخراً."
+   ]
+  },
+  {
+   "id": "05b4c17e4daf",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+   "date": "2026-10-25T07:59:38Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "score": 5,
+   "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+   "title_en": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+   "summary_en": "Egypt is considering providing defensive military support to Saudi Arabia following Houthi attacks, but remains extremely cautious about direct intervention in Yemen's conflict.",
+   "body_en": [
+    "President Abdel Fattah el-Sisi has stressed that any potential Egyptian deployment would focus strictly on defending Saudi territory rather than launching attacks against Houthi forces. This defensive mandate, subject to an upcoming parliamentary vote, reflects Cairo's efforts to avoid entanglement in broader regional conflicts and potential retaliation targeting its territory or shipping interests.",
+    "Economic and historical concerns also heavily influence Cairo's hesitation. Direct friction with the Houthis could threaten vital Suez Canal maritime transit and revenues, while memories persist of Egypt's costly military campaign in Yemen during the 1960s."
+   ],
+   "title_fa": "چرا مصر از مداخله در درگیری یمن به شدت محتاط است؟",
+   "summary_fa": "مصر در پی حملات حوثی‌ها در حال بررسی ارائه پشتیبانی نظامی دفاعی به عربستان سعودی است، اما نسبت به هرگونه مداخله مستقیم در درگیری‌های یمن بسیار محتاطانه عمل می‌کند.",
+   "body_fa": [
+    "عبدالفتاح السیسی، رئیس‌جمهور مصر، تأکید کرده است که هرگونه اعزام احتمالی نیرو صرفاً بر دفاع از خاک عربستان متمرکز خواهد بود و شامل حمله علیه نیروهای حوثی نخواهد شد. این مأموریت دفاعی که نیازمند تصویب در پارلمان مصر است، بیانگر تلاش قاهره برای جلوگیری از گرفتار شدن در منازعات گسترده‌تر منطقه‌ای و پاسخ‌های تلافی‌جویانه علیه منافع و کشتیرانی خود است.",
+    "نگرانی‌های اقتصادی و تاریخی نیز نقش عمده‌ای در این موضع دارند؛ چرا که رویارویی مستقیم با حوثی‌ها می‌تواند ترانزیت دریایی و درآمدهای حیاتی کانال سوئز را به خطر بیندازد و از سوی دیگر، خاطرات نبرد سنگین و پرهزینه نیروهای مصری در یمن در دهه ۱۹۶۰ همچنان زنده است."
+   ],
+   "title_ar": "لماذا تبدو مصر حذرة للغاية من التورط في نزاع اليمن؟",
+   "summary_ar": "تدرس مصر تقديم دعم عسكري دفاعي للمملكة العربية السعودية في أعقاب هجمات الحوثيين، لكنها لا تزال حذرة للغاية بشأن التدخل المباشر في الصراع اليمني.",
+   "body_ar": [
+    "أكد الرئيس عبد الفتاح السيسي أن أي نشر محتمل للقوات المصرية سيركز حصراً على الدفاع عن الأراضي السعودية دون شن هجمات ضد قوات الحوثيين. ويعكس هذا التفويض الدفاعي، الذي ينتظر تصويتاً برلمانياً، مساعي القاهرة لتجنب التورط في نزاعات إقليمية أوسع والانجرار إلى ردود انتقامية قد تستهدف أراضيها أو مصالح الملاحة البحرية.",
+    "كما تؤثر المخاوف الاقتصادية والتاريخية بشدة على موقف القاهرة؛ إذ يهدد الاحتكاك المباشر مع الحوثيين حركة الشحن وإيرادات قناة السويس الحيوية، إلى جانب استحضار الذاكرة للتدخل العسكري المكلف الذي خاضته مصر في اليمن خلال ستينيات القرن الماضي."
+   ]
+  },
+  {
+   "id": "39d85814d543",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+   "date": "2026-10-25T07:20:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "title_en": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "summary_en": "Israel has announced the closure of all crossings with the occupied West Bank on its general election day, alongside banning Palestinian workers from entering most areas ahead of the vote. The measure follows a lockdown and extensive military raids in Hebron that have displaced roughly 2,000 residents.",
+   "body_en": [
+    "The military restrictions in Hebron were imposed after a Friday shooting at an army reserve base that left two Israeli soldiers and two Palestinian gunmen dead. Israeli Prime Minister Benjamin Netanyahu ordered a full lockdown of the territory and suggested a broader military operation is being planned.",
+    "Officials confirmed that around 2,000 to 2,200 people have been forcibly displaced during the raids, with residents evacuated at night under loudspeaker orders. The Palestinian Authority condemned the blockade and displacement as collective punishment, while Netanyahu faces a tightly contested election."
+   ],
+   "title_fa": "اسرائیل گذرگاه‌های کرانه باختری اشغالی را هم‌زمان با قرنطینه الخلیل می‌بندد",
+   "summary_fa": "اسرائیل اعلام کرد که در روز انتخابات سراسری تمامی گذرگاه‌های کرانه باختری اشغالی را خواهد بست و ورود کارگران فلسطینی به بیشتر مناطق را پیش از رأی‌گیری ممنوع می‌کند. این اقدام در پی قرنطینه نظامی الخلیل و حملات گسترده‌ای صورت می‌گیرد که به آوارگی حدود ۲ هزار تن از ساکنان انجامیده است.",
+   "body_fa": [
+    "محدودیت‌های نظامی در الخلیل پس از تیراندازی روز جمعه به یک پایگاه نیروهای ذخیره ارتش، که به کشته شدن دو سرباز اسرائیلی و دو فرد مسلح فلسطینی انجامید، اعمال شد. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دستور قرنطینه کامل منطقه را صادر کرد و از برنامه‌ریزی برای عملیاتی گسترده‌تر سخن گفت.",
+    "مقامات تأیید کردند که حدود ۲ هزار تا ۲ هزار و ۲۰۰ نفر در جریان این حملات و با دستورات شبانه از طریق بلندگوها مجبور به ترک خانه‌های خود شده‌اند. تشکیلات خودگردان فلسطین این محاصره و آوارگی اجباری را مجازات دسته‌جمعی خواند، در حالی که نتانیاهو با رقابتی فشرده در انتخابات مواجه است."
+   ],
+   "title_ar": "إسرائيل تقرر إغلاق معابر الضفة الغربية المحتلة بالتزامن مع فرض إغلاق تام على الخليل",
+   "summary_ar": "أعلنت إسرائيل أنها ستغلق كافة المعابر مع الضفة الغربية المحتلة في يوم انتخاباتها العامة، إلى جانب منع العمال الفلسطينيين من دخول معظم المناطق قبل التصويت. ويأتي هذا الإجراء عقب فرض حصار عسكري واقتحامات مكثفة في مدينة الخليل أدت إلى نزوح نحو ألفي ساكن.",
+   "body_ar": [
+    "فُرضت القيود العسكرية في الخليل عقب هجوم بإطلاق نار وقع يوم الجمعة على قاعدة لقوات الاحتياط، أسفر عن مقتل جنديين إسرائيليين ومسلحَين فلسطينيَين. وأمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بفرض إغلاق كامل، ملمحاً إلى التخطيط لعملية عسكرية أوسع نطاقاً.",
+    "وأكدت مصادر رسمية تهجير ما بين ألفين و2200 شخص قسراً خلال الاقتحامات بعد أوامر إخلاء ليلية بمكبرات الصوت. ووصفت السلطة الفلسطينية الحصار والإخلاء بأنهما عقاب جماعي، في وقت يخوض فيه نتنياهو سباقاً انتخابياً محتدماً."
+   ]
+  },
+  {
+   "id": "1954a2e5c702",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+   "date": "2026-10-25T07:10:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israeli elections: What are the possible outcomes?",
+   "title_en": "Israeli elections: What are the possible outcomes?",
+   "summary_en": "Israel is scheduled to hold parliamentary elections on October 27, with polls projecting a tight contest between Benjamin Netanyahu's religious-nationalist bloc and an opposition alliance.",
+   "body_en": [
+    "Recent opinion polls show the opposition alliance leading slightly with 52 projected Knesset seats against 50 for Netanyahu's bloc, leaving both well short of a 61-seat majority. Potential outcomes to form a government include assembling new coalitions, securing outside backing from Arab-led parties, negotiating a national unity government with a rotating premiership, or appointing an alternative lawmaker if talks stall.",
+    "If no leader can build a viable coalition, Israel could face renewed political deadlock and be forced into another general election, during which Netanyahu would remain as caretaker prime minister."
+   ],
+   "title_fa": "انتخابات اسرائیل: نتایج احتمالی کدامند؟",
+   "summary_fa": "اسرائیل قرار است در ۲۷ اکتبر انتخابات پارلمانی برگزار کند، در حالی که نظرسنجی‌ها از رقابتی نزدیک میان بلوک مذهبی-ملی‌گرای بنیامین نتانیاهو و ائتلاف مخالفان خبر می‌دهند.",
+   "body_fa": [
+    "نظرسنجی‌های اخیر نشان می‌دهند که ائتلاف مخالفان با کسب احتمالی ۵۲ کرسی کنست در برابر ۵۰ کرسی بلوک نتانیاهو پیشتاز است، که این امر هر دو جریان را از کسب اکثریت ۶۱ کرسی بازمی‌دارد. سناریوهای احتمالی برای تشکیل دولت شامل ایجاد ائتلاف‌های جدید، کسب حمایت خارجی از سوی احزاب عربی، توافق بر سر دولت وحدت ملی با نخست‌وزیری چرخشی، یا انتخاب نماینده‌ای دیگر در صورت به بن‌بست رسیدن مذاکرات است.",
+    "اگر هیچ رهبری نتواند ائتلافی پایدار ایجاد کند، اسرائیل ممکن است بار دیگر با بن‌بست سیاسی مواجه شده و به سوی انتخاباتی جدید حرکت کند که در این صورت نتانیاهو تا زمان تشکیل دولت جدید در مقام نخست‌وزیر موقت باقی خواهد ماند."
+   ],
+   "title_ar": "الانتخابات الإسرائيلية: ما هي النتائج المحتملة؟",
+   "summary_ar": "من المقرر أن تجري إسرائيل انتخابات برلمانية في 27 أكتوبر، حيث تشير استطلاعات الرأي إلى منافسة متقاربة بين تكتل بنيامين نتنياهو الديني القومي وتحالف المعارضة.",
+   "body_ar": [
+    "تُظهر استطلاعات الرأي الأخيرة تقدم تحالف المعارضة بفارق ضئيل بحصوله على 52 مقعداً متوقعاً في الكنيست مقابل 50 مقعداً لتكتل نتنياهو، مما يترك الطرفين دون تحقيق أغلبية الـ 61 مقعداً. وتشمل السيناريوهات المحتملة لتشكيل الحكومة بناء تحالفات جديدة، أو تأمين دعم خارجي من الأحزاب العربية، أو التفاوض على حكومة وحدة وطنية مع تناوب رئاسة الوزراء، أو اختيار عضو برلماني بديل إذا تعثرت المحادثات.",
+    "وإذا عجز أي زعيم عن تشكيل ائتلاف، فقد تواجه إسرائيل جولة أخرى من عدم الاستقرار السياسي وتتجه نحو انتخابات جديدة، يظل نتنياهو خلالها رئيساً لحكومة تصريف الأعمال."
+   ]
+  },
   {
    "id": "e43374dd3a0f",
    "lang": "fa",
