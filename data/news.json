@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-25T13:10:10Z",
- "count": 98,
+ "updated": "2026-10-25T15:52:18Z",
+ "count": 102,
  "items": [
+  {
+   "id": "d6a5a4caab6d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
+   "date": "2026-10-25T14:48:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+   "title_en": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+   "summary_en": "An Israeli drone strike on the Islamic University in Gaza City killed three administrative staff members and injured eight students, while four other Palestinians were killed in separate strikes across the territory.",
+   "body_en": [
+    "According to Gaza City's Al Shifa Hospital and university sources, the strike hit the Islamic University while students were attending classes. Gaza's education ministry condemned the attack, stating that 95 percent of higher education buildings in the territory have been damaged during the war. Reached for comment, the Israeli military stated it was looking into the reports.",
+    "Elsewhere in the Gaza Strip, civil defence officials reported four additional fatalities on Sunday, including two people killed in Khan Younis, one in Deir al Balah, and one in northern Gaza. Despite a ceasefire being in effect for over a year, officials report that Israeli strikes have continued, resulting in over 1,500 Palestinian deaths since the truce began."
+   ],
+   "title_fa": "حمله اسرائیل به دانشگاهی در شهر غزه ۳ کشته بر جای گذاشت؛ ۴ فلسطینی دیگر در حملات هوایی جداگانه کشته شدند",
+   "summary_fa": "حمله پهپادی اسرائیل به دانشگاه اسلامی در شهر غزه به کشته شدن سه تن از کارکنان اداری و زخمی شدن هشت دانشجو انجامید، در حالی که چهار فلسطینی دیگر در حملات جداگانه در سراسر این باریکه کشته شدند.",
+   "body_fa": [
+    "به گفته بیمارستان الشفاء و منابع دانشگاهی در شهر غزه، این حمله در حالی به دانشگاه اسلامی اصابت کرد که دانشجویان در کلاس‌های درس حضور داشتند. وزارت آموزش غزه با محکوم کردن این حمله اعلام کرد که ۹۵ درصد از ساختمان‌های آموزش عالی در این منطقه در طول جنگ آسیب دیده‌اند. ارتش اسرائیل در پاسخ به درخواست برای اظهار نظر اعلام کرد که در حال بررسی این گزارش‌ها است.",
+    "در سایر نقاط نوار غزه، مقامات دفاع مدنی روز یکشنبه از کشته شدن چهار نفر دیگر خبر دادند، از جمله دو نفر در خان یونس، یک نفر در دیرالبلح و یک نفر در شمال غزه. با وجود برقراری آتش‌بس برای بیش از یک سال، مقامات گزارش می‌دهند که حملات اسرائیل همچنان ادامه داشته و از زمان آغاز آتش‌بس به کشته شدن بیش از ۱۵۰۰ فلسطینی منجر شده است."
+   ],
+   "title_ar": "غارة إسرائيلية على جامعة في مدينة غزة تسفر عن مقتل 3؛ ومقتل 4 فلسطينيين آخرين في غارات جوية منفصلة",
+   "summary_ar": "أسفرت غارة بطائرة مسيرة إسرائيلية على الجامعة الإسلامية في مدينة غزة عن مقتل ثلاثة من الموظفين الإداريين وإصابة ثمانية طلاب، بينما قُتل أربعة فلسطينيين آخرين في غارات منفصلة في جميع أنحاء القطاع.",
+   "body_ar": [
+    "وفقاً لمستشفى الشفاء في مدينة غزة ومصادر جامعية، أصابت الغارة الجامعة الإسلامية أثناء تواجد الطلاب داخل القاعات الدراسية. وأدانت وزارة التربية والتعليم في غزة الهجوم، مشيرة إلى أن 95 في المائة من مباني التعليم العالي في القطاع تضررت خلال الحرب. ورداً على طلب للتعليق، قال الجيش الإسرائيلي إنه يتحقق من التقارير.",
+    "وفي مناطق أخرى من قطاع غزة، أفاد مسؤولون في الدفاع المدني بمقتل أربعة آخرين يوم الأحد، من بينهم شخصان في خان يونس، وشخص في دير البلح، وآخر في شمال غزة. ورغم سريان هدنة منذ أكثر من عام، يفيد المسؤولون بأن الغارات الإسرائيلية استمرت، مما أسفر عن مقتل أكثر من 1500 فلسطيني منذ بدء التهدئة."
+   ]
+  },
+  {
+   "id": "b4ee5aaf963a",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T12:36:08Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 8,
+   "title": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+   "title_en": "Two Israeli strikes target Islamic University in Gaza, causing casualties",
+   "summary_en": "Seven Palestinians were killed on Sunday in Israeli attacks across the Gaza Strip, including three university staff members killed when two separate Israeli strikes hit the Islamic University in Gaza City.",
+   "body_en": [
+    "The strikes on the Islamic University hit during class hours, killing three staff members and injuring several students, according to medical and university sources. The university suspended academic and administrative operations, while Hamas condemned the attack as a war crime. The Israeli military stated it targeted \"terrorist operatives\" and was looking into the details.",
+    "Elsewhere in the territory, strikes and gunfire killed two brothers in Khan Younis and two other Palestinians in Deir al Balah and northern Gaza. Despite a October 2025 ceasefire agreement mediated by the US, Egypt, and Qatar, localized strikes and military actions have continued across Gaza."
+   ],
+   "title_fa": "دو حمله هوایی اسرائیل دانشگاه اسلامی غزه را هدف قرار داد و کشته و زخمی بر جای گذاشت",
+   "summary_fa": "روز یکشنبه هفت فلسطینی در حملات اسرائیل در نقاط مختلف نوار غزه کشته شدند، از جمله سه تن از کارکنان دانشگاه که در پی دو حمله هوایی جداگانه اسرائیل به دانشگاه اسلامی در شهر غزه جان باختند.",
+   "body_fa": [
+    "به گفته منابع پزشکی و دانشگاهی، حملات به دانشگاه اسلامی در ساعات کلاس‌های درس رخ داد و باعث کشته شدن سه تن از کارکنان و زخمی شدن چند دانشجو شد. مدیریت دانشگاه فعالیت‌های آموزشی و اداری را به حالت تعلیق درآورد و حماس این حمله را به عنوان جنایت جنگی محکوم کرد. ارتش اسرائیل اعلام کرد که «عناصر تروریستی» را هدف قرار داده و در حال بررسی جزئیات است.",
+    "در دیگر نقاط این باریکه، حملات هوایی و تیراندازی به کشته شدن دو برادر در خان یونس و دو فلسطینی دیگر در دیرالبلح و شمال غزه انجامید. با وجود اتفاق وقف آتش‌بس در اکتبر ۲۰۲۵ با میانجی‌گری آمریکا، مصر و قطر، حملات هوایی و اقدامات نظامی محدود در سراسر غزه همچنان ادامه داشته است."
+   ],
+   "title_ar": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+   "summary_ar": "قتل سبعة فلسطينيين يوم الأحد في هجمات إسرائيلية متفرقة بقطاع غزة، من بينهم ثلاثة من موظفي الجامعة الإسلامية في مدينة غزة إثر غارتين إسرائيليتين منفصلتين استهدفتا الجامعة.",
+   "body_ar": [
+    "وقع القصف على الجامعة الإسلامية أثناء تواجد الطلاب في المحاضرات، مما أسفر عن مقتل ثلاثة من العاملين وإصابة عدد من الطلاب، وفقاً لمصادر طبية وجامعية. وأعلنت إدارة الجامعة تعليق الدوام، في حين أدانت حركة حماس الهجوم واعتبرته جريمة حرب. وأفاد الجيش الإسرائيلي بأنه استهدف \"عناصر إرهابية\" وأنه يتحقق من التفاصيل.",
+    "وفي مناطق أخرى من القطاع، أسفرت الغارات وإطلاق النار عن مقتل شقيقين في خان يونس وفلسطينيَيْن آخرَيْن في دير البلح وشمال غزة. ورغم استمرار اتفاق وقف إطلاق النار المبرم في أكتوبر/تشرين الأول 2025 بوساطة أمريكية ومصرية وقطرية، لم تتوقف الغارات وإطلاق النار بشكل كامل."
+   ]
+  },
+  {
+   "id": "83d9e574cdce",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+   "date": "2026-10-25T11:39:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "title_en": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "summary_en": "US Central Command has drawn up military options for potential renewed strikes against Iran, leaving the final decision on authorization to President Donald Trump.",
+   "body_en": [
+    "Reports from The Hill and Axios indicate that CENTCOM and military planners have prepared potential options targeting Iranian energy facilities, infrastructure, and nuclear sites, particularly following the November 3 US midterm elections. While President Trump hinted a strike could happen rapidly or lead to a new agreement, he has not issued an order to attack, and the US is deploying additional naval and troop forces to the region.",
+    "In response, Iranian President Masoud Pezeshkian accused Washington of derailing negotiations while calling for continued diplomatic efforts. Simultaneously, Iranian military officials warned of a shift to an offensive doctrine, targeting US-aligned nations and maritime interests if attacked, alongside claims of shooting down a US-developed drone near Bandar Abbas."
+   ],
+   "title_fa": "طبق گزارش‌ها، سنتکام طرح‌هایی برای حمله به ایران دارد: آیا ترامپ آن‌ها را تأیید خواهد کرد؟",
+   "summary_fa": "فرماندهی مرکزی ایالات متحده (سنتکام) گزینه‌های نظامی را برای حملات جدید احتمالی علیه ایران آماده کرده است و تصمیم‌گیری نهایی را به دونالد ترامپ، رئیس‌جمهور آمریکا واگذار کرده است.",
+   "body_fa": [
+    "گزارش‌های نشریات هیل و آکسیوس نشان می‌دهد که سنتکام و طراحان نظامی گزینه‌هایی را برای هدف قرار دادن تأسیسات انرژی، زیرساخت‌ها و سایت‌های هسته‌ای ایران، به‌ویژه پس از انتخابات میان‌دوره‌ای ۳ نوامبر آمریکا آماده کرده‌اند. در حالی که پرزیدنت ترامپ اشاره کرده که حمله می‌تواند به سرعت رخ دهد یا به یک توافق جدید منجر شود، او هنوز دستور حمله‌ای صادر نکرده است، هرچند ایالات متحده در حال اعزام نیروها و ناوهای جنگی بیشتری به منطقه است.",
+    "در پاسخ، مسعود پزشکیان، رئیس‌جمهور ایران، واشنگتن را به برهم زدن مذاکرات متهم کرد و در عین حال خواهان ادامه تلاش‌های دیپلماتیک شد. هم‌زمان، مقامات نظامی ایران در مورد تغییر دکترین نظامی به حالت تهاجمی و هدف قرار دادن کشورهای هم‌پیمان آمریکا و منافع دریایی در صورت وقوع حمله هشدار دادند و هم‌زمان از سرنگونی یک پهپاد ساخت آمریکا در نزدیکی بندرعباس خبر دادند."
+   ],
+   "title_ar": "تقارير تفيد بأن سنتكوم لديها خطط لضربات ضد إيران: هل سيوافق عليها ترامب؟",
+   "summary_ar": "أعدت القيادة المركزية الأمريكية خيارات عسكرية لضربات جديدة محتملة ضد إيران، مع ترك القرار النهائي للتفويض للرئيس دونالد ترامپ.",
+   "body_ar": [
+    "تعد تقارير موقعي \"ذا هيل\" و\"أكسيوس\" إشارة إلى أن سنتكوم والمخططين العسكريين أعدوا خيارات تستهدف المنشآت النفطية والبنية التحتية والمواقع النووية الإيرانية، لاسيما بعد انتخابات منتصف الولاية الأمريكية في 3 نوفمبر. ورغم إشارة الرئيس ترامب إلى أن الضربة قد تحدث سريباً أو تؤدي إلى اتفاق جديد، فإنه لم يصدر أمراً بالهجوم، بينما تنشر الولايات المتحدة قوات ومجموعات حاملات طائرات إضافية في المنطقة.",
+    "ورداً على ذلك، اتهم الرئيس الإيراني مسعود پزشکیان واشنطن بتعطيل المفاوضات مع التأكيد على ضرورة استمرار الجهود الدبلوماسية. في الوقت نفسه، حذر مسؤولون عسكريون إيرانيون من تحول إلى عقيدة هجومية تستهدف الدول المحالفة للولايات المتحدة والمصالح البحرية في حال تعرضها للهجوم، إلى جانب الإعلان عن إسقاط طائرة مسيرة أمريكية الصنع قرب بندر عباس."
+   ]
+  },
   {
    "id": "cf3a2b462f4b",
    "lang": "en",
@@ -292,6 +383,34 @@
    "body_ar": [
     "تُظهر استطلاعات الرأي الأخيرة تقدم تحالف المعارضة بفارق ضئيل بحصوله على 52 مقعداً متوقعاً في الكنيست مقابل 50 مقعداً لتكتل نتنياهو، مما يترك الطرفين دون تحقيق أغلبية الـ 61 مقعداً. وتشمل السيناريوهات المحتملة لتشكيل الحكومة بناء تحالفات جديدة، أو تأمين دعم خارجي من الأحزاب العربية، أو التفاوض على حكومة وحدة وطنية مع تناوب رئاسة الوزراء، أو اختيار عضو برلماني بديل إذا تعثرت المحادثات.",
     "وإذا عجز أي زعيم عن تشكيل ائتلاف، فقد تواجه إسرائيل جولة أخرى من عدم الاستقرار السياسي وتتجه نحو انتخابات جديدة، يظل نتنياهو خلالها رئيساً لحكومة تصريف الأعمال."
+   ]
+  },
+  {
+   "id": "2bc10b54246c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
+   "date": "2026-10-25T06:45:18Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 8,
+   "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "title_en": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "summary_en": "Iran's Revolutionary Guards launched a drone attack targeting the headquarters of the Iranian Kurdish opposition group Komala in the Iraqi Kurdistan region.",
+   "body_en": [
+    "According to Iran's Mehr news agency, ground forces from the Revolutionary Guards targeted the headquarters of Komala in the Balisan region overnight. Earlier reports from Reuters also noted an explosive drone strike on an Iranian Kurdish opposition camp located northeast of Erbil."
+   ],
+   "title_fa": "طبق گزارش‌ها، تهران با پهپاد به پایگاه کرد‌های ایرانی در عراق حمله کرد",
+   "summary_fa": "نیروی زمینی سپاه پاسداران انقلاب اسلامی در یک عملیات پهپادی، مقر گروه اپوزیسیون کرد ایرانی کومله را در اقلیم کردستان عراق هدف قرار داد.",
+   "body_fa": [
+    "به گزارش خبرگزاری مهر ایران، نیروهای زمینی سپاه پاسداران مقر گروه کومله در منطقه بالیسان را دیشب هدف قرار دادند. پیش از این، خبرگزاری رویترز نیز از حمله یک پهپاد حامل مواد منفجره به اردوگاه اپوزیسیون کرد ایرانی در شمال شرقی اربیل خبر داده بود."
+   ],
+   "title_ar": "طهران تضرب قاعدة للكرد الإيرانيين في العراق بطائرات مسيرة، وفقاً لتقرير",
+   "summary_ar": "شن الحرس الثوري الإيراني هجوماً بطائرات مسيرة استهدف مقر مجموعة كوماته المعارضة لكرد إيران في إقليم كردستان العراق.",
+   "body_ar": [
+    "وفقاً لوكالة مهر الإيرانية للأنباء، استهدفت القوات البرية التابعة للحرس الثوري مقر حركة كوملة في منطقة باليسان الليلة الماضية. وكانت وكالة رويترز قد أفادت في وقت سابق بأن طائرة مسيرة محملة بمتفجرات استهدفت مخيماً للمعارضة الكردية الإيرانية شمال شرق أربيل."
    ]
   },
   {
