@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-25T00:54:52Z",
- "count": 80,
+ "updated": "2026-10-25T03:48:18Z",
+ "count": 83,
  "items": [
+  {
+   "id": "2617a6d3e912",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened",
+   "date": "2026-10-25T02:25:29Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Gabd border crossing with Iran reopened",
+   "title_en": "Gabd border crossing with Iran reopened",
+   "summary_en": "Pakistan resumed trade operations at the Gabd-Rimdan crossing with Iran on Saturday, ending a weeklong suspension. The move allows stranded trucks carrying LPG and food supplies to cross the border.",
+   "body_en": [
+    "Border officials allowed commercial consignments documented on or before October 16 to pass through Gate 250 in Gwadar. Mir Naveed Jan Kalmati, president of the Gwadar Chamber of Commerce and Industry, confirmed the reopening, noting that the resumed traffic will help ease a nationwide LPG shortage and bring relief to stranded transporters and traders.",
+    "The border had been shut since October 17, when the Ministry of Commerce halted trade without providing a reason. The decision to reopen followed a security review and the deployment of extra forces, prompted by a Thursday attack in which unidentified gunmen burned dozens of parked freight vehicles near the crossing."
+   ],
+   "title_fa": "گذرگاه مرزی گبد با ایران بازگشایی شد",
+   "summary_fa": "پاکستان روز شنبه فعالیت‌های تجاری در گذرگاه مرزی گبد-ریمدان با ایران را پس از توقفی یک‌هفته‌ای از سر گرفت. این اقدام به کامیون‌های حامل گاز مایع و مواد غذایی که معطل مانده بودند اجازه عبور داد.",
+   "body_fa": [
+    "مأموران مرزی به محموله‌های تجاری دارای بارنامه ۱۶ اکتبر یا پیش از آن اجازه دادند از دروازه ۲۵۰ در گوادر عبور کنند. میر نوید جان کلمتی، رئیس اتاق بازرگانی و صنایع گوادر، این بازگشایی را تأیید کرد و اشاره داشت که این اقدام به کاهش کمبود گاز مایع در سراسر کشور و امدادرسانی به رانندگان و تجار گرفتار در مرز کمک می‌کند.",
+    "این گذرگاه از ۱۷ اکتبر، پس از لغو بدون توضیح دستور تجارت از سوی وزارت بازرگانی پاکستان، بسته شده بود. بازگشایی پس از ارزیابی امنیتی و استقرار نیروهای اضافی صورت گرفت؛ اقدامی که پس از حمله افراد مسلح ناشناس در روز پنج‌شنبه و به آتش کشیدن ده‌ها کامیون باری متوقف‌شده در نزدیکی مرز انجام شد."
+   ],
+   "title_ar": "إعادة فتح معبر غبد الحدودي مع إيران",
+   "summary_ar": "استأنفت باكستان العمليات التجارية في معبر غبد-ريمدان الحدودي مع إيران يوم السبت، منهيةً تعليقاً استمر أسبوعاً. وتتيح هذه الخطوة للشاحنات العالقة المحملة بغاز البترول المسال والمواد الغذائية عبور الحدود.",
+   "body_ar": [
+    "سمح مسؤولو الحدود للشحنات التجارية المسجلة في 16 أكتوبر أو قبل ذلك بالعبور عبر البوابة 250 في جوادر. وأكد مير نويد جان كالماتي، رئيس غرفة تجارة وصناعة جوادر، استئناف العمليات، مشيراً إلى أن هذه الخطوة ستخفف من نقص غاز البترول المسال في البلاد وتوفر الإغاثة للتجار والسائقين العالقين.",
+    "وكان المعبر مغلقاً منذ 17 أكتوبر إثر تعليق وزارة التجارة للعمليات دون تقديم أسباب. وجاء قرار إعادة الفتح بعد مراجعة أمنية ونشر قوات إضافية لحماية القوافل، عقب هجوم شنه مسلحون مجهولون يوم الخميس أدى إلى إحراق عشرات الشاحنات المتوقفة بالقرب من المعبر."
+   ]
+  },
+  {
+   "id": "c2f1350c5dd5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+   "date": "2026-10-25T02:07:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "title_en": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "summary_en": "Thousands of Israelis staged a demonstration opposing Prime Minister Benjamin Netanyahu, calling for a new administration and an investigation into the October 7 attacks.",
+   "body_en": [
+    "The demonstrators pushed for an independent inquiry into the security lapses associated with the Hamas-led attacks. The protest took place ahead of the election scheduled for Tuesday, October 27."
+   ],
+   "title_fa": "تظاهرات گسترده علیه نتانیاهو در آستانه انتخابات سرنوشت‌ساز اسرائیل",
+   "summary_fa": "هزاران اسرائیلی با برپایی تظاهراتی علیه بنیامین نتانیاهو نخست‌وزیر، خواستار تغییر حکومت و تحقیق درباره حملات ۷ اکتبر شدند.",
+   "body_fa": [
+    "تظاهرکنندگان خواستار انجام تحقیقاتی مستقل درباره قصورهای امنیتی مرتبط با حملات به رهبری حماس شدند. این اعتراضات پیش از انتخاباتی برگزار شد که قرار است در روز سه‌شنبه، ۲۷ اکتبر برگزار شود."
+   ],
+   "title_ar": "مظاهرة حاشدة ضد نتنياهو قبل الانتخابات الإسرائيلية الحاسمة",
+   "summary_ar": "تظاهر آلاف الإسرائيليين ضد رئيس الوزراء بنيامين نتنياهو، مطالبين بتغيير الحكومة وإجراء تحقيق في هجمات 7 أكتوبر.",
+   "body_ar": [
+    "وطالب المتظاهرون بإجراء تحقيق مستقل في الإخفاقات الأمنية المحيطة بالهجمات التي قادتها حماس. وجاء هذا الاحتجاج قبل الانتخابات المقرر إجراؤها يوم الثلاثاء، 27 أكتوبر."
+   ]
+  },
+  {
+   "id": "b76f79ac3edb",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039584/no-go-areas-do-not-exist-in-balochistan-claims-bugti",
+   "date": "2026-10-25T01:19:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "‘No-go areas’ do not exist in Balochistan, claims Bugti",
+   "title_en": "‘No-go areas’ do not exist in Balochistan, claims Bugti",
+   "summary_en": "Balochistan Chief Minister Sarfraz Bugti stated that there are no \"no-go areas\" in the province, asserting that the administration has ensured lawmakers can regularly visit their constituencies.",
+   "body_en": [
+    "Speaking at an open court in North Dera Bugti, Bugti said that addressing public grievances and delivering basic facilities are top priorities, explaining that the forums are designed to hold government departments accountable. He instructed officials to resolve complaints from citizens promptly and without delay.",
+    "Bugti also discussed infrastructure plans, noting that efforts have been made to secure federal funds for a highway connecting Taunsa in Punjab with Balochistan. Additionally, he stated that a survey has been ordered for a road linking the Chhapar National Highway with Kharar Buzdar, which will provide an alternative transit route to Punjab."
+   ],
+   "title_fa": "بوگتی مدعی شد «مناطق ورود ممنوع» در بلوچستان وجود ندارد",
+   "summary_fa": "سرفراز بوگتی، سروزیر بلوچستان، مدعی شد که هیچ «منطقه ورود ممنوعی» در این ایالت وجود ندارد و تأکید کرد دولت تمهیداتی اندیشیده تا قانون‌گذاران بتوانند مرتباً به حوزه‌های انتخابی خود بروند.",
+   "body_fa": [
+    "بوگتی در جریان یک نشست عمومی در شمال دره بوگتی اعلام کرد که رسیدگی به شکایات مردم و ارائه خدمات اولیه از اولویت‌های اصلی دولت است و این جلسات برای پاسخگو کردن ادارات دولتی برگزار می‌شود. وی به مسئولان دستور داد تا مشکلات شهروندان را به سرعت و بدون تأخیر برطرف کنند.",
+    "وی همچنین با اشاره به اهمیت توسعه منطقه‌ای گفت که برای تأمین بودجه فدرال جهت ساخت بزرگراهی که تونسه در پنجاب را به بلوچستان متصل می‌کند، تلاش‌هایی انجام شده است. او افزود که دستور انجام نقشه‌برداری برای احداث جاده‌ای بین بزرگراه ملی چپر و خرار بوزدار نیز صادر شده تا مسیری جایگزین به سمت پنجاب فراهم شود."
+   ],
+   "title_ar": "بوغتي يزعم عدم وجود «مناطق محظورة» في بلوشستان",
+   "summary_ar": "صرح رئيس وزراء إقليم بلوشستان، سرفراز بوغتي، بعدم وجود \"مناطق محظورة\" في الإقليم، مؤكداً أن الحكومة اتخذت تدابير لضمان زيارة المشرعين لدوائرهم بانتظام.",
+   "body_ar": [
+    "وخلال حديثه في لقاء مفتوح في شمال ديرا بوغتي، قال بوغتي إن معالجة المظالم وتوفير الخدمات الأساسية هما على رأس أولويات حكومته، موضحاً أن هذه اللقاءات تهدف لمساءلة الدوائر المختصة. كما وجه المسؤولين للتعامل الفوري مع شكاوى المواطنين وحلها دون تأخير.",
+    "وتطرق بوغتي أيضاً إلى مشاريع البنية التحتية، مشيراً إلى بذل جهود لتأمين أموال اتحادية لطريق سريع يربط تاونسا في البنجاب ببلوشستان. وأضاف أنه تم إصدار توجيهات لإجراء مسح لبناء طريق يربط طريق تشابار السريع الوطني بمنطقة خارار بوزدار، لتوفير طريق بديل إلى البنجاب."
+   ]
+  },
   {
    "id": "f74f6a68c133",
    "lang": "fa",
