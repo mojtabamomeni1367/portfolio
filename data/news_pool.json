@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:46:34Z",
+ "updated": "2026-10-25T13:10:10Z",
  "items": [
   {
    "id": "1bbc15ef5df1",
@@ -2792,6 +2792,544 @@
     "SAU"
    ],
    "desc": "وأفادت وكالة فرانس برس بسماع دوي ثلاثة انفجارات في الساعات الأولى من صباح الأحد في العاصمة السعودية الرياض. وقد سبق ذلك إرسال رسائل تحذيرية إلى السكان عبر الهواتف المحمولة تنبّههم إلى \"تهديد جوي\" وتدعوهم إلى الاحتماء.",
+   "score": 8
+  },
+  {
+   "id": "6bab599adc09",
+   "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+   "date": "2026-10-25T12:17:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.",
+   "score": 6
+  },
+  {
+   "id": "2480c37fc573",
+   "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
+   "date": "2026-10-25T12:05:16Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "An oil slick has been filmed washing up on the UAE shoreline, prompting authorities to close beaches in Umm Al Quwain.",
+   "score": 7,
+   "dup_of": "1b53825f47c1"
+  },
+  {
+   "id": "83d9e574cdce",
+   "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+   "date": "2026-10-25T11:39:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Reports say Pentagon has drawn up plans for strikes after midterm polls, but analysts question what it could achieve.",
+   "score": 8
+  },
+  {
+   "id": "9b10c6634fe1",
+   "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+   "date": "2026-10-25T10:50:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.",
+   "score": 7
+  },
+  {
+   "id": "8def851d2ffe",
+   "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+   "date": "2026-10-25T10:42:51Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.",
+   "score": 8,
+   "dup_of": "a95a10bc1d3a"
+  },
+  {
+   "id": "ff8b79431011",
+   "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
+   "date": "2026-10-25T10:27:36Z",
+   "countries": [
+    "LKA",
+    "PAK"
+   ],
+   "desc": "Ali Usman has also been recalled to the Test team after being sent home from the England tour.",
+   "score": 1
+  },
+  {
+   "id": "5e29cdb0aa63",
+   "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+   "date": "2026-10-25T10:14:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.",
+   "score": 7
+  },
+  {
+   "id": "b3a1c01a4e29",
+   "title": "Qatar official calls for peace and security to boost trade, investment",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+   "date": "2026-10-25T09:57:40Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.",
+   "score": 4
+  },
+  {
+   "id": "73284dfda5de",
+   "title": "‘A hidden tradition’: Benjamin Moser wants you to know Jewish anti-Zionism is not new",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/25/benjamin-moser-jewish-anti-zionism-book",
+   "date": "2026-10-25T12:00:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The writer rarely questioned the tenets of liberal Zionism growing up. Now he embraces anti-Zionism with the fervor of a new convert In 1987, the Israeli human rights attorney Felicia Langer was paying a visit to the Neve Tirza women’s prison when a client named Siham shared some disturbing news: the prisoners held there had recently been sprayed with a chemical agent that left them writhing on the floor. Langer grabbed a tissue that had been exposed to the substance – a piece of evidence, perhaps, in a future legal case. Then, on impulse, she lifted it to her face and inhaled deeply. Her hope",
+   "score": 3
+  },
+  {
+   "id": "d030056bbfb7",
+   "title": "Israel: Demonstrators rally against government ahead of election",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
+   "date": "2026-10-25T11:38:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "In Israel, the anti-Netanyahu movement is mobilising. Thousands gathered in Tel Aviv on Friday to protest against the Israeli government, just three days ahead of a general election widely seen as a referendum on Prime Minister Benjamin Netanyahu.",
+   "score": 7,
+   "dup_of": "c2f1350c5dd5"
+  },
+  {
+   "id": "bfcdf7b3fcd4",
+   "title": "West Bank: Families forcibly displaced in Hebron",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
+   "date": "2026-10-25T11:35:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "More Palestinian families have been displaced in the occupied West Bank as Israeli forces continue operations in Hebron, following a deadly shooting that killed two Israeli soldiers on Friday. With elections scheduled for Tuesday, Prime Minister Benjamin Netanyahu has vowed a heavy response to the attack. Morgaene Ayre has the latest.",
+   "score": 7,
+   "dup_of": "b9b0d6e0f12d"
+  },
+  {
+   "id": "2d43d8104114",
+   "title": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomatic-and-financial-isolation-netanyahus-crypto-plan-bypass",
+   "date": "2026-10-25T12:48:13Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "'Diplomatic and financial isolation': Netanyahu’s crypto plan to bypass sanctions draws rebuke Israeli Prime Minister Benjamin Netanyahu has proposed exploring the use of cryptocurrency to circumvent potential international banking sanctions, as nations around the world continue to debate sanctions against Tel Aviv. Netanyahu proposed the move in an interview with Channel 10’s economic broadcaster, aired on Friday, days before Israel’s 27 October parliamentary election. “We need to prepare ways to evade banking sanctions through an alternative economic system,” Netanyahu said. “You know what t",
+   "score": 6,
+   "dup_of": "c5574714b9bc"
+  },
+  {
+   "id": "7166215c8918",
+   "title": "Israeli attacks killed at least five Palestinians in Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza",
+   "date": "2026-10-25T12:46:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli attacks killed at least five Palestinians in Gaza At least two Palestinians have been killed and four injured in Israeli air strikes on Khan Younis in Gaza. Al-Jazeera said the attack struck a gathering of people in the al-Sinaa area, while several other Palestinians were also wounded by an Israeli drone strike in nearby al-Mawasi. Ambulance service sources told the outlet that hree people were killed in an Israeli air strike on the Islamic University Campus in northern Gaza City.",
+   "score": 7
+  },
+  {
+   "id": "cf3a2b462f4b",
+   "title": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood",
+   "date": "2026-10-25T11:03:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood Submitted by MEE staff on Sun, 10/25/2026 - 09:55 Amana settler movement proposes 122 new housing units on former site of the Shepherd Hotel in East Jerusalem An Israeli flag flies above demolished structures inside the HQ of the UN Relief and Works Agency in the Sheikh Jarrah neighbourhood of Israeli-annexed East Jerusalem on 20 January 2026 (Ilia Yefimovich/AFP) Off An Israeli settler movement has submitted an application for a new Jewish neighbourhood in the Sheikh Jarrah area of East Jerusalem.",
+   "score": 7
+  },
+  {
+   "id": "51dc08895767",
+   "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
+   "date": "2026-10-25T10:33:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu warns of second Holocaust if he loses Israeli elections Israeli Prime Minister Benjamin Netanyahu has warned of a second Holocaust if he loses the upcoming elections, accompanying it on social media with an AI-generated image of a nuclear explosion. In the post on X, he shared text written by Yuval Bloomberg warning of catastrophic circumstances if Netanyahu lost power. \"The hatred for Netanyahu, as all-consuming as it is for an entire camp, won't help against the Iranian nuclear threat,\" it read. \"Anyone who cares about their own physical existence, that of their family, and their l",
+   "score": 7
+  },
+  {
+   "id": "27e341aae671",
+   "title": "Israeli forces detain 20 Palestinians during searches in besieged Hebron",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-20-palestinians-during-searches-besieged-hebron",
+   "date": "2026-10-25T06:51:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces detain 20 Palestinians during searches in besieged Hebron At least 20 Palestinians have been detained by Israeli forces during the ongoing military siege of Hebron in the occupied West Bank, which has also led to the displacement of more than 2,200 people. The Palestinian news agency Wafa reported that Israeli forces stormed most neighborhoods of Hebron city, raided and searched homes, and subjected citizens to abuse before detaining several Palestinians. The forces also raided the towns of Dura, Yatta and as-Samu, south of Hebron, detaining 11 Palestinians after storming their ",
+   "score": 7,
+   "dup_of": "39d85814d543"
+  },
+  {
+   "id": "2bc10b54246c",
+   "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
+   "date": "2026-10-25T06:45:18Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says Iran's armed forces attacked bases belonging to an Iranian Kurdish opposition group in Iraq's Kurdistan region using drones, Mehr news agency reported. \"As part of a drone operation carried out by the Revolutionary Guards' ground forces, the headquarters of the terrorist and separatist group Komala, located in the Balisan region, was targeted last night,\" Mehr reported. Earlier, Reuters reported that an explosive-laden drone attacked an Iranian Kurdish opposition camp northeast of Iraq's Erbil on Saturday night. The semi-auto",
+   "score": 8
+  },
+  {
+   "id": "80f2dfb4e674",
+   "title": "Morning update",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-651",
+   "date": "2026-10-25T06:33:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Morning update Good morning, Middle East Eye readers, If you are just joining us, here are the key developments from across the region and beyond: * Israeli forces have sealed off all entrances to Hebron in the occupied West Bank and forcibly displaced around 2,200 Palestinians from their homes. * US President Donald Trump has said Washington could strike Iran \"as soon as tomorrow\", or reach a “big, beautiful” agreement with Tehran. * The Saudi-led coalition says it has intercepted and destroyed a ballistic missile and two drones launched by the Houthis towards Riyadh. * The Israeli army has s",
+   "score": 1
+  },
+  {
+   "id": "60fb5bb5bec8",
+   "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
+   "date": "2026-10-25T05:50:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant Russia’s embassy in Tehran has denied reports that Russian embassy staff and specialists working at the Bushehr nuclear power plant are preparing to leave Iran. “Neither embassy staff nor Russian specialists at the Bushehr nuclear power plant have any plans to evacuate. Work continues as normal,” the embassy said in a statement, dismissing reports to the contrary as “FAKES”. Bushehr, Iran’s only operating nuclear power plant, has come under repeated attack during the ongoing US-Israeli war on Iran. Satellite imagery ",
+   "score": 7
+  },
+  {
+   "id": "bdeb6576b7ab",
+   "title": "Explosive-laden drone attacks Kurdish opposition camp",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosive-laden-drone-attacks-kurdish-opposition-camp",
+   "date": "2026-10-25T05:20:56Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Explosive-laden drone attacks Kurdish opposition camp An explosive-laden drone attacked an Iranian Kurdish opposition camp northeast of Iraq's Erbil on Saturday night, Reuters reported, citing security sources.",
+   "score": 8,
+   "dup_of": "2bc10b54246c"
+  },
+  {
+   "id": "6178bb38df7a",
+   "title": "Iran’s supreme leader directs judiciary to pursue US-Israeli war reparations",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-supreme-leader-directs-judiciary-pursue-us-israeli-war-reparations",
+   "date": "2026-10-25T04:50:24Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran’s supreme leader directs judiciary to pursue US-Israeli war reparations Iran’s Supreme Leader Mojtaba Khamenei has directed the judiciary to pursue compensation for \"material and moral\" damages caused by the US-Israeli war, state news agency IRNA reported. Khamenei issued the directive during a meeting with judiciary chief Gholam Hossein Mohseni Ejei, calling for the authorities to pursue the Iranian nation’s rights. He also urged the judiciary to step up its fight against corruption, address its underlying causes and accelerate the handling of cases, with timely enforcement of rulings to",
+   "score": 6
+  },
+  {
+   "id": "cbb27e15628a",
+   "title": "Houthis renew warning against using King Khalid airport",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport",
+   "date": "2026-10-25T04:10:58Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis renew warning against using King Khalid airport The Houthis have renewed their warning to airlines, airport staff and travellers against using Riyadh’s King Khalid International Airport. The group’s spokesman, Yahya Saree, described the airport as “unsafe” and said it remained a “military target”. Late on Saturday, the airport announced that Terminal 1 would handle domestic flights, while Terminal 2 would serve international flights operated by national carriers from Sunday. Airport operations were suspended on 10 October following a Houthi attack that killed 13 people and injured more",
+   "score": 7
+  },
+  {
+   "id": "3140572b65ad",
+   "title": "Saudi-led coalition says ballistic missile intercepted over Riyadh",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-ballistic-missile-intercepted-over-riyadh",
+   "date": "2026-10-25T03:41:06Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says ballistic missile intercepted over Riyadh The Saudi-led coalition says it has intercepted and destroyed a ballistic missile launched by the Houthis towards Riyadh. The announcement by coalition spokesman Colonel Turki Al-Maliki came after Saudi civil defence authorities said danger has passed in Riyadh, minutes after issuing an alert urging residents to remain calm and proceed to the nearest safe location. Earlier, the coalition said two drones had been intercepted and destroyed over the Riyadh region.",
+   "score": 8,
+   "dup_of": "a95a10bc1d3a"
+  },
+  {
+   "id": "b2dcd89c5e7f",
+   "title": "Saudi civil defence says danger has passed in Riyadh minutes after issuing alert",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/minutes-after-danger-alert-saudi-civil-defence-says-danger-has-passed",
+   "date": "2026-10-25T03:31:08Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi civil defence says danger has passed in Riyadh minutes after issuing alert Saudi Arabia's General Directorate of Civil Defence said that the \"danger\" has passed in Riyadh, minutes after issuing an alert urging citizens and residents to remain calm, proceed to the nearest safe location, and follow news through official channels for the protection of public safety. The directorate urged residents to continue following its instructions and avoid gatherings and filming. Earlier, the Saudi-led coalition fighting Houthis in Yemen said two drones were intercepted and destroyed over Riyadh regio",
+   "score": 6
+  },
+  {
+   "id": "8c53c958028a",
+   "title": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-speaker-skip-delhi-brics-meet-due-unforeseen-circumstances",
+   "date": "2026-10-25T03:15:37Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "desc": "Iran speaker to skip Delhi Brics meet due to 'unforeseen circumstances' Iranian Speaker Mohammad-Baqer Qalibaf will not attend the Brics parliamentary forum in New Delhi due to \"certain unforeseen circumstances\", the Iranian embassy in India said on X. Qalibaf was scheduled to attend the Meeting of Speakers of the parliaments of Brics member countries. The embassy said an Iranian parliamentary delegation would participate in the meeting, adding that Iran, as a Brics member, “reaffirms its commitment to active and effective participation at the highest levels in the summits and meetings of this",
+   "score": 6
+  },
+  {
+   "id": "0f88fd2544d7",
+   "title": "Coalition forces intercept another drone over Riyadh, spokesman says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-forces-intercept-another-drone-over-riyadh-spokesman-says",
+   "date": "2026-10-25T02:29:35Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Coalition forces intercept another drone over Riyadh, spokesman says Saudi-led coalition forces have intercepted and destroyed a second drone in the Riyadh region, spokesman Major-General Turki al-Maliki said in a post on X. Hours earlier, he said a drone was intercepted and destroyed over the region's airspace. Al Jazeera, meanwhile, reported that intense fighting resumed in Al-Dabab, the area around Jabal Han, and several other locations of southwestern Yemen. التحالف: اعتراض وتدمير طائرة مسيّرة بمنطقة الرياض. https://t.co/MeURTRdjRI — المتحدث الرسمي باسم قوات التحالف (@CJFCSpox) October 25,",
+   "score": 7,
+   "dup_of": "a95a10bc1d3a"
+  },
+  {
+   "id": "0befa2d8626b",
+   "title": "IRGC spokesman says war could have consequences beyond Iran's borders",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-spokesman-says-war-could-have-consequences-beyond-irans-borders",
+   "date": "2026-10-25T02:22:48Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "IRGC spokesman says war could have consequences beyond Iran's borders Iranian Revolutionary Guard Corps (IRGC) Spokesman Hossein Mohebbi has warned that the US-Israeli war against Iran could have consequences beyond the country’s borders, Press TV reported on Saturday. Mohebbi described the confrontation as an “apocalyptic war” and said Iran would achieve “absolute victory” and emerge as a global superpower. He urged Iranians to maintain national unity and rely on domestic capabilities, arguing that the conflict extended beyond the battlefield to encompass the country’s cultural, religious and",
+   "score": 7,
+   "dup_of": "7be463e77f5c"
+  },
+  {
+   "id": "c0e908a3f8f3",
+   "title": "Iran urges France, Germany, UK to examine root cause of military conflict",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-urges-france-germany-uk-examine-root-cause-military-conflict",
+   "date": "2026-10-25T01:39:11Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "desc": "Iran urges France, Germany, UK to examine root cause of military conflict Iran’s Foreign Ministry spokesperson, Esmaeil Baqaei, has said that France, Germany and the UK, known as the E3, and Middle Eastern foreign ministers must examine the root causes of military conflict in the region. In Istanbul, the European foreign ministers underlined the urgent need for diplomacy concerning the US-Israel war on Iran. But Baqaei said diplomacy should not be reduced to a public relations tool and such forums must examine examine the root causes of the conflict. He condemned the alleged double standards o",
+   "score": 6
+  },
+  {
+   "id": "d14b7bf63cc7",
+   "title": "Israel restricts entry of Palestinian labourers to West Bank areas",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas",
+   "date": "2026-10-25T00:40:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel restricts entry of Palestinian labourers to West Bank areas Israeli army has said Palestinians with work permits will be barred from settlements in the occupied West Bank, except industrial zones and other approved areas, on Sunday and Monday. In a post on X, it added that there will be a complete ban on the “entry and exit of Palestinian workers to all of [the occupied West Bank], and the Jordan Valley, including industrial zones, and the closure of all land crossings, throughout the entire election day, 27 October 2026.” Palestinian labourers pass between fences and gates at the Israe",
+   "score": 7
+  },
+  {
+   "id": "dc00433847f2",
+   "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039718/students-across-country-to-get-500000-chromebooks-over-2-years-announces-pm-shehbaz",
+   "date": "2026-10-25T11:23:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif announced on Sunday that the government would distribute 500,000 Chromebook laptops to students nationwide over two years. He said this at the launch ceremony of the Prime Minister’s Youth Chromebook Scheme in Islamabad. At the outset of his address, the premier stressed that it was his duty and the state’s “collective responsibility” to provide the youth with modern technology, so they could become “the great builders of Pakistan”. “Our boys and girls [..] are the true assets of Pakistan,” the prime minister remarked. He added that the Chromebooks were being dist",
+   "score": 2
+  },
+  {
+   "id": "2160a653af68",
+   "title": "Shaheen takes four as Pakistan restrict England to 241 despite Duckett century in tri-series match",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039708/shaheen-takes-four-as-pakistan-restrict-england-to-241-despite-duckett-century-in-tri-series-match",
+   "date": "2026-10-25T12:14:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Ben Duckett stood tall with a fighting century as England crumbled at the other end to be bowled out for 241 in 46.4 overs against Pakistan in the One-day International tri-series match at the Gaddafi Stadium in Lahore on Sunday. The visitors’ regular fall of wickets owed much to a brilliant opening spell by Pakistan captain Shaheen Shah Afridi, who finished with figures of 4-46 to leave England reeling at 19-3 inside five overs. Tom Banton fell for four in the first over, edging Shaheen to Arafat Minhas at slip, before the left-arm pacer removed Joe Root for five, caught by Saim Ayub, in the ",
+   "score": 1
+  },
+  {
+   "id": "35b947fb6244",
+   "title": "Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039726/houthis-target-saudi-arabias-south-as-riyadh-airport-due-to-reopen",
+   "date": "2026-10-25T12:19:03Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemen’s Houthi rebels launched wide-ranging strikes across swathes of southern Saudi Arabia on Sunday, as the kingdom announced the partial reopening of Riyadh’s international airport despite repeated attacks by the group. Alerts warning of possible attacks were activated across the kingdom’s south throughout the day, with the Saudi-led military coalition fighting the Houthis saying at least 10 ballistic missiles were intercepted. Saudi Arabia, which leads a military coalition fighting the Houthis, has faced a barrage of strikes from the group in recent weeks. The fighting erupted after a year",
+   "score": 8,
+   "dup_of": "15ae93625646"
+  },
+  {
+   "id": "f31ec961e32a",
+   "title": "'Not a single tree' will be cut down to upgrade Islamabad's F-9 park, interior minister assures residents",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039727/not-a-single-tree-will-be-cut-down-to-upgrade-islamabads-f-9-park-interior-minister-assures-residents",
+   "date": "2026-10-25T12:49:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Interior Minister Mohsin Naqvi on Sunday assured the residents of Islamabad that “not a single tree” will be cut down during the planned upgradation of the city’s F-9 Park. In a post on X, the minister shared an Instagram video of an Islamabad resident requesting that if the park were to be developed, more greenery be planted instead of concrete buildings. In his response, Naqvi recognised that F-9 Park — also known as Fatima Jinnah Park — “holds a special place in the hearts” of Islamabad residents and clarified that no trees would be removed in the process of developing the park. “Let me mak",
+   "score": 2
+  },
+  {
+   "id": "9f5cc81b405a",
+   "title": "NCCIA busts child pornography network, finds father involved in selling explicit videos of his minor children",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039725/nccia-busts-child-pornography-network-finds-father-involved-in-selling-explicit-videos-of-his-minor-children",
+   "date": "2026-10-25T12:48:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The National Cyber Crime Investigation Agency (NCCIA) has busted an international child pornography network in which a father was found involved in making and selling explicit videos of his own children, the agency said on Sunday. Islamabad NCCIA Additional Director Mohammad Shoaib Khan, speaking at a press conference in the capital, claimed this was the first case in Pakistan’s history where a father was found involved in such a heinous crime against his own minor children. “The accused was involved in making indecent videos of his children, aged between four and five, and selling ",
+   "score": 2
+  },
+  {
+   "id": "5ba887372715",
+   "title": "Resumption of war with with Israel, US will not change Iran's positions: Araghchi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039716/resumption-of-war-with-with-israel-us-will-not-change-irans-positions-araghchi",
+   "date": "2026-10-25T09:44:40Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran’s Foreign Minister Abbas Araghchi said on Sunday that a potential resumption of war with Israel and the United States would not change his country’s positions. The remarks come amid mounting US and Israeli threats of renewed attacks on Iran, as President Donald Trump said on Friday that Washington “may do another little Epic Fury,” referring to the US-Israeli war on Iran that began on February 28. “Recently, there has been talk of a new war, but I am already thinking about the post-war period. Whether there is war or not, our policies remain the same,” said Araghchi during a televised eve",
+   "score": 7
+  },
+  {
+   "id": "ca845e39c2b2",
+   "title": "Why are Pakistan wearing a pink jersey today?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039717/why-are-pakistan-wearing-a-pink-jersey-today",
+   "date": "2026-10-25T09:59:05Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan’s second match against England in the ongoing tri-nation series is underway, and while fans will take heart from the spirited fielding effort shown by Pakistan so far, it is not the only thing of note about the fixture. That is because today, the Green Shirts are wearing pink. Pakistan has sported pink jerseys today in lieu of the usual green national kit, due to the Pakistan Cricket Board observing Breast Cancer Awareness day. “The initiative, being organised as part of Pinktober, the global Breast Cancer Awareness Month, aims to highlight the importance of early detection, regular s",
+   "score": 1
+  },
+  {
+   "id": "fc6f00ca3a4b",
+   "title": "Stranded Iranian sailors receive urgent medical assistance in Sri Lanka",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/stranded-iranian-sailors-receive-urgent-medical-assistance-in-sri-lanka/article71623159.ece",
+   "date": "2026-10-25T12:24:51Z",
+   "countries": [
+    "IRN",
+    "LKA"
+   ],
+   "desc": "Sri Lankan authorities facilitate transfer of 40 sailors from sanctioned oil tankers for treatment; Iranian Embassy bears expenses",
+   "score": 3
+  },
+  {
+   "id": "ecb6643b4002",
+   "title": "Bangladesh seeks details from Saudi Arabia on execution of two citizens: report",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece",
+   "date": "2026-10-25T11:42:56Z",
+   "countries": [
+    "BGD",
+    "SAU"
+   ],
+   "desc": "The two Bangladesh nationals, a man and a woman, were executed on October 14, after being convicted of committing an “indecent act” inside a mosque in Makkah",
+   "score": 5
+  },
+  {
+   "id": "b4ee5aaf963a",
+   "title": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T12:36:08Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة، وحصيلة القتلى في القطاع منذ أمس ترتفع إلى 11 شخصاً، بحسب السلطات الصحية.",
    "score": 8
   }
  ]

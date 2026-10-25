@@ -1,7 +1,146 @@
 {
- "updated": "2026-10-25T09:46:34Z",
- "count": 97,
+ "updated": "2026-10-25T13:10:10Z",
+ "count": 98,
  "items": [
+  {
+   "id": "cf3a2b462f4b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood",
+   "date": "2026-10-25T11:03:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+   "title_en": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+   "summary_en": "An Israeli settler movement has filed an application to construct a new 122-unit Jewish neighbourhood in East Jerusalem's Sheikh Jarrah area. The project is planned at the former site of the Shepherd Hotel.",
+   "body_en": [
+    "The proposal, submitted by the Amara movement to the planning association, is set for an initial review by Jerusalem's Local Planning and Building Committee on 11 November. If approved, the project will mark the first settlement development by the group in Sheikh Jarrah, despite its longstanding role in settlement expansion across the occupied Palestinian territories since the 1970s.",
+    "The construction is slated for the location of the historic Shepherd Hotel, also known as the \"Mufti's House,\" which was built in the 1930s for Haj Amin al-Husseini and demolished in 2009."
+   ],
+   "title_fa": "ارائه پیشنهاد یک گروه شهرک‌نشین اسرائیلی برای ساخت شهرک یهودی جدید در محله شیخ جراح",
+   "summary_fa": "یک جنبش شهرک‌نشین اسرائیلی درخواستی را برای ساخت یک محله یهودی جدید شامل ۱۲۲ واحد مسکونی در منطقه شیخ جراح در قدس شرقی ارائه داده است. این پروژه برای محل سابق هتل شپرد برنامه‌ریزی شده است.",
+   "body_fa": [
+    "این پیشنهاد که توسط جنبش عماره به انجمن برنامه‌ریزی ارائه شده، قرار است در ۱۱ نوامبر در کمیته محلی برنامه‌ریزی و ساخت‌وساز اورشلیم مورد بررسی اولیه قرار گیرد. در صورت تصویب، با وجود پیشینه طولانی این گروه از دهه ۱۹۷۰ در توسعه شهرک‌سازی در اراضی اشغالی فلسطین، این پروژه نخستین شهرک‌سازی آن در محله شیخ جراح خواهد بود.",
+    "محل در نظر گرفته‌شده برای این ساخت‌وساز، موقعیت هتل تاریخی شپرد است که به «خانه مفتی» نیز شهرت دارد؛ ساختمانی که در دهه ۱۹۳۰ برای حاج امین الحسینی ساخته و در سال ۲۰۰۹ تخریب شد."
+   ],
+   "title_ar": "جماعة استيطانية إسرائيلية تقدم مقترحات لإنشاء مستوطنة يهودية جديدة في حي الشيخ جراح",
+   "summary_ar": "قدمت حركة استيطانية إسرائيلية طلباً لبناء حي يهودي جديد يضم 122 وحدة سكنية في منطقة الشيخ جراح بالقدس الشرقية. ومن المقرر إقامة المشروع في الموقع السابق لفندق شيبرد.",
+   "body_ar": [
+    "من المقرر أن تعقد اللجنة المحلية للتخطيط والبناء في القدس جلسة استماع أولية بشأن المقترح، الذي قدمته حركة \"عمارة\" لجمعية التخطيط، في 11 نوفمبر. وفي حال الموافقة عليه، سيمثل هذا المشروع أول مستوطنة تنشئها هذه الجماعة في حي الشيخ جراح، على الرغم من دورها البارز في توسيع المستوطنات في الأراضي الفلسطينية المحتلة منذ سبعينيات القرن الماضي.",
+    "ومن المزمع تنفيذ أعمال البناء في موقع فندق شيبرد التاريخي، المعروف أيضاً باسم \"منزل المفتي\"، والذي شُيد في ثلاثينيات القرن العشرين للوزير الأسبق للقدس الحاج أمين الحسيني، قبل أن يُهدم في عام 2009."
+   ]
+  },
+  {
+   "id": "9b10c6634fe1",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+   "date": "2026-10-25T10:50:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+   "title_en": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+   "summary_en": "Iranian authorities are expanding a nationwide public mobilisation campaign called \"Janfada\" to train and arm civilians amid fears of renewed military conflict with the United States and Israel. The effort involves public street booths and military exercises organised by state bodies and the Basij militia across numerous provinces.",
+   "body_en": [
+    "Launched in late March during the height of the conflict, the campaign offers training on weapons handling to volunteers of all ages, with a particular focus on youth and children in schools. The Revolutionary Guard aims to set up training stations in multiple public squares in Tehran and every provincial capital, holding armed drills, motorcades, and events in major urban centers.",
+    "While the government claims 33 million citizens have registered on the campaign's website, overseas activists who inspected the platform's source code reported fewer than four million sign-ups. Officials state the enlistees could assist in rescue missions, civil services, and economic resilience, though rights groups have described the armed displays as intimidation following the state's crackdown on nationwide protests."
+   ],
+   "title_fa": "گسترش سراسری کارزار بسیج «جان‌فدا» توسط مقامات ایران",
+   "summary_fa": "مقامات ایرانی هم‌زمان با تشدید نگرانی‌ها از احتمال ازسرگیری درگیری نظامی با ایالات متحده و اسرائیل، در حال گسترش کارزار سراسری بسیج مردمی موسوم به «جان‌فدا» برای آموزش و تسلیح غیرنظامیان هستند. این طرح شامل برپایی غرفه‌های خیابانی و تمرین‌های نظامی توسط نهادهای دولتی و نیروی مقاومت بسیج در استان‌های مختلف است.",
+   "body_fa": [
+    "این کارزار که در اواخر ماه مارس و در اوج جنگ آغاز شد، آموزش به‌کارگیری سلاح را به داوطلبان در تمامی گروه‌های سنی با تمرکز ویژه بر جوانان و دانش‌آموزان در مدارس ارائه می‌دهد. سپاه پاسداران قصد دارد در چندین میدان اصلی تهران و مراکز همه استان‌ها ایستگاه‌های آموزشی برپا کند، و هم‌اکنون نیز رزمایش‌های مسلحانه و برنامه‌هایی را در شهرهای بزرگ و کوچک اجرا کرده است.",
+    "در حالی که دولت مدعی ثبت‌نام ۳۳ میلیون نفر در سامانه این کارزار شده، فعالان خارج از کشور پس از بررسی کدهای منبع این سامانه اعلام کردند شمار ثبت‌نام‌شدگان کمتر از چهار میلیون نفر است. مقامات می‌گویند ثبت‌نام‌کنندگان می‌توانند در امدادرسانی، خدمات اجتماعی و تاب‌آوری اقتصادی کمک کنند، اما گروه‌های حقوق بشری این مانورهای مسلحانه را تلاشی برای ارعاب پس از سرکوب اعتراضات سراسری دانسته‌اند."
+   ],
+   "title_ar": "السلطات الإيرانية توسع حملة التعبئة \"جانفدا\" لتشمل أنحاء البلاد",
+   "summary_ar": "تعمل السلطات الإيرانية على توسيع حملة تعبئة عامة في جميع أنحاء البلاد تُعرف باسم \"جانفدا\" لتدريب المدنيين وتسليحهم، وسط مخاوف من تجدد النزاع العسكري مع الولايات المتحدة وإسرائيل. وتشمل هذه المبادرة منصات في الشوارع ومناورات عسكرية تنظمها أجهزة الدولة وقوات الباسيج في عدة محافظات.",
+   "body_ar": [
+    "تقدم الحملة، التي انطلقت أواخر مارس في ذروة الحرب، تدريبات على استخدام الأسلحة للمتطوعين من جميع الفئات العمرية، مع التركيز على فئتي الشباب وطلاب المدارس. ويسعى الحرس الثوري الإيراني لإقامة نقاط تدريب في ساحات رئيسية بطهران ومراكز المحافظات، تزامناً مع إجراء مناورات مسلحة ومسيرات في مدن كبرى.",
+    "وفي حين أعلنت الحكومة عن تسجيل 33 مليون إيراني عبر الموقع الإلكتروني للحملة، ذكر نشطاء في الخارج بعد الاطلاع على الشيفرة المصدرية للموقع أن عدد المسجلين لم يتجاوز أربعة ملايين. ويؤكد المسؤولون إمكانية الاستعانة بهؤلاء المتطوعين في عمليات الإغاثة والخدمات الاجتماعية والدعم الاقتصادي، بينما اعتبرت منظمات حقوقية هذه العروض المسلحة مساعي للترهيب عقب قمع الاحتجاجات التي عمت البلاد."
+   ]
+  },
+  {
+   "id": "51dc08895767",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
+   "date": "2026-10-25T10:33:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+   "title_en": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu warned of a \"second Holocaust\" if he loses the upcoming elections, posting the remark on social media alongside an AI-generated image of a nuclear blast. He shared text arguing that political opposition against him would leave Israel vulnerable to the Iranian nuclear threat.",
+   "body_en": [
+    "In a post on X, Netanyahu shared a text by Yuval Bloomberg urging voters not to let political opposition to the prime minister determine their vote. The text asserted that failing to keep Netanyahu in power to complete the mission against Iran's nuclear threat would condemn Israeli families to existential catastrophe."
+   ],
+   "title_fa": "نتانیاهو درباره وقوع «هولوکاست دوم» در صورت شکست در انتخابات اسرائیل هشدار داد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با انتشار تصویری تولیدشده توسط هوش مصنوعی از یک انفجار هسته‌ای در شبکه‌های اجتماعی، هشدار داد که شکست او در انتخابات آتی به یک «هولوکاست دوم» منجر خواهد شد. او متنی را به اشتراک گذاشت که بر اساس آن، مخالفت‌های سیاسی با وی می‌تواند اسرائیل را در برابر تهدید هسته‌ای ایران آسیب‌پذیر کند.",
+   "body_fa": [
+    "نتانیاهو در پستی در شبکه اجتماعی ایکس، متنی به قلم یووال بلومبرگ را منتشر کرد که از رای‌دهندگان می‌خواست اجازه ندهند مخالفت‌های سیاسی با او مسیر رأی آنها را مشخص کند. در این متن ادعا شده بود که کنار رفتن نتانیاهو از قدرت پیش از اتمام ماموریت در برابر تهدید هسته‌ای ایران، خانواده‌های اسرائیلی را با خطر نابودی مواجه خواهد کرد."
+   ],
+   "title_ar": "نتنياهو يحذر من \"محرقة ثانية\" إذا خسر الانتخابات الإسرائيلية",
+   "summary_ar": "حذر رئيس الوزراء الإسرائيلي بنيامين نتنياهو من وقوع \"محرقة ثانية\" إذا خسر الانتخابات المقبلة، ناشراً ذلك على منصات التواصل الاجتماعي مع صورة تم إنشاؤها بالذكاء الاصطناعي لانفجار نووي. وشارك نتنياهو نصاً اعتبر فيه أن معارضته سياسياً ستجعل إسرائيل عاجزة أمام التهديد النووي الإيراني.",
+   "body_ar": [
+    "وفي منشور عبر منصة إكس، شارك نتنياهو نصاً للكاتب يوفال بلومبرغ يدعو فيه الناخبين إلى عدم جعل الخصومة السياسية لنتنياهو هي الموجه لأصواتهم. وأكد النص أن عدم بقاء نتنياهو في السلطة لإنجاز المهمة ضد الخطر النووي الإيراني سيعرض عائلات الإسرائيليين لخطر كارثة وجودية."
+   ]
+  },
+  {
+   "id": "5e29cdb0aa63",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+   "date": "2026-10-25T10:14:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+   "title_en": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+   "summary_en": "US President Donald Trump used sarcasm to deflect a reporter's question regarding possible renewed strikes on Iran, remarking that economic inflation could drive Tehran into an agreement. Meanwhile, Iranian President Masoud Pezeshkian blamed the United States for undermining negotiations aimed at resolving the conflict.",
+   "body_en": [],
+   "title_fa": "تمسخر خبرنگار توسط ترامپ در پاسخ به پرسشی درباره حمله به ایران هم‌زمان با انتقاد تهران از واشینگتن در برهم‌زدن مذاکرات",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در پاسخ به پرسش یک خبرنگار درباره احتمال حملات تازه علیه ایران پاسخی کنایه‌آمیز داد و بیان کرد که تورم اقتصادی ممکن است تهران را ناچار به توافق کند. در همین حال، مسعود پزشکیان، رئیس‌جمهور ایران، آمریکا را به اخلال در مذاکرات برای پایان دادن به جنگ متهم کرد.",
+   "body_fa": [],
+   "title_ar": "ترامب يسخر من صحفي سأل عن توجيه ضربات لإيران، وطهران تتهم واشنطن بتعطيل المحادثات",
+   "summary_ar": "رد الرئيس الأمريكي دونالد ترامب بسخرية على سؤال وجهه صحفي حول إمكانية تجدد الهجمات على إيران، مشيراً إلى أن التضخم قد يدفع طهران إلى إبرام اتفاق. وفي غضون ذلك، اتهم الرئيس الإيراني مسعود بزشكيان الولايات المتحدة بتعطيل المحادثات الرامية لإنهاء الحرب.",
+   "body_ar": []
+  },
+  {
+   "id": "5ba887372715",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039716/resumption-of-war-with-with-israel-us-will-not-change-irans-positions-araghchi",
+   "date": "2026-10-25T09:44:40Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Resumption of war with with Israel, US will not change Iran's positions: Araghchi",
+   "title_en": "Resumption of war with with Israel, US will not change Iran's positions: Araghchi",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that a potential restart of the war with the United States and Israel would not alter Iran's positions. He remarked that any renewed conflict would yield the same outcomes as past confrontations.",
+   "body_en": [
+    "Speaking during a televised event in Tehran, Araghchi addressed rising threats from Washington and Israel, asserting that Iranian policies remain unchanged regardless of whether war breaks out. He also noted that regional peace requires the total departure of foreign forces, adding that shipping conditions and governance of the Strait of Hormuz will no longer operate as they did in the past.",
+    "An April ceasefire had paused the most severe hostilities, though periodic fire has persisted around the Strait of Hormuz, where Iran claims control and has struck unauthorised vessels amid a counter-blockade by the US Navy. While both parties agreed to a resolution framework in Islamabad in June, the arrangement subsequently broke down over mutual accusations of violations."
+   ],
+   "title_fa": "عراقچی: ازسرگیری جنگ با اسرائیل و آمریکا مواضع ایران را تغییر نخواهد داد",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که ازسرگیری احتمالی جنگ با ایالات متحده و اسرائیل مواضع تهران را تغییر نخواهد داد. وی تاکید کرد که هرگونه درگیری مجدد همان نتایج گذشته را در پی خواهد داشت.",
+   "body_fa": [
+    "عراقچی طی مراسمی تلویزیونی در تهران با اشاره به افزایش تهدیدهای واشنگتن و اسرائیل اظهار داشت که سیاست‌های ایران با وقوع یا عدم وقوع جنگ تغییر نخواهد کرد. وی همچنین تأکید کرد که دستیابی به صلح نیازمند خروج کامل نیروهای خارجی است و شرایط کشتیرانی و مدیریت تنگه هرمز دیگر همانند گذشته نخواهد بود.",
+    "آتش‌بس فروردین‌ماه به شدیدترین درگیری‌ها پایان داد، هرچند تبادل پراکنده آتش در اطراف تنگه هرمز همچنان ادامه داشته است؛ جایی که ایران مدعی کنترل بر آن بوده و شناورهای فاقد مجوز را هدف قرار داده، در حالی که نیروی دریایی آمریکا نیز بنادر ایران را تحت محاصره متقابل قرار داده است. دو طرف در خردادماه به تفاهم‌نامه‌ای در اسلام‌آباد دست یافتند، اما این توافق در پی اتهامات متقابل مبنی بر نقض آن بی‌نتیجه ماند."
+   ],
+   "title_ar": "عراقجي: استئناف الحرب مع إسرائيل والولايات المتحدة لن يغير مواقف إيران",
+   "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن أي استئناف محتمل للحرب مع الولايات المتحدة وإسرائيل لن يغير مواقف بلاده. وأكد أن أي مواجهة جديدة لن تسفر عن نتائج مختلفة عما سبق.",
+   "body_ar": [
+    "وخلال فعالية متلفزة في طهران، تطرق عراقجي إلى التهديدات المتزايدة من واشنطن وإسرائيل، مؤكداً أن سياسات بلاده لن تتغير سواء اندلعت الحرب أم لم تندلع. وأوضح أن تحقيق السلام يستدعي الغياب التام للقوات الأجنبية، مشيراً إلى أن الملاحة وإدارة مضيق هرمز لن تعودا إلى ما كانتا عليه في السابق.",
+    "وكان وقف إطلاق النار المبرم في أبريل قد أنهى أعنف المواجهات، رغم استمرار تبادل إطلاق النار المتقطع حول مضيق هرمز، حيث تفرض إيران سيطرتها وتستهدف السفن غير المصرح بها في ظل حصار بحري أمريكي مضاد لموانئها. ورغم توصل الطرفين إلى تفاهم في إسلام آباد في يونيو، فإن الاتفاق تعثر لاحقاً إثر تبادل الاتهامات بخرقه."
+   ]
+  },
   {
    "id": "a95a10bc1d3a",
    "lang": "ar",
@@ -65,37 +204,6 @@
    ]
   },
   {
-   "id": "c530f7d64ee8",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/india-advises-its-nationals-in-saudi-arabia-against-filming-missile-interceptions/article71622868.ece",
-   "date": "2026-10-25T09:16:47Z",
-   "countries": [
-    "IND",
-    "SAU"
-   ],
-   "score": 5,
-   "title": "India advises its nationals in Saudi Arabia against filming missile interceptions",
-   "title_en": "India advises its nationals in Saudi Arabia against filming missile interceptions",
-   "summary_en": "India has advised its citizens residing in Saudi Arabia to comply with local regulations and refrain from recording or sharing footage of missile and drone interceptions.",
-   "body_en": [
-    "The advisory follows a notice from the Saudi Civil Defence warning that filming or publishing information regarding counter-drone and missile operations, as well as strike sites, carries legal liability. The guidance comes amid heightened regional tensions and repeated attacks on civilian infrastructure by Yemen's Houthis.",
-    "The Indian mission also highlighted flight suspensions by Air India and Air India Express to Riyadh, Dammam, and Jeddah, noting that consular control rooms are assisting affected citizens while engaging Saudi authorities regarding visa validities and delayed departures."
-   ],
-   "title_fa": "هند به اتباع خود در عربستان سعودی درباره فیلم‌برداری از رهگیری موشک‌ها هشدار داد",
-   "summary_fa": "هند به شهروندان خود در عربستان سعودی توصیه کرده است از قوانین محلی پیروی کرده و از ضبط یا انتشار تصاویر مربوط به رهگیری موشک‌ها و پهپادها خودداری کنند.",
-   "body_fa": [
-    "این هشدار پس از اطلاعیه دفاع مدنی عربستان صادر شد که تصریح کرده بود فیلم‌برداری یا انتشار اطلاعات درباره عملیات‌های رهگیری موشک‌ها و پهپادها و محل اصابت آن‌ها، مسئولیت قانونی در پی دارد. این توصیه در بحبوحه تشدید تنش‌های منطقه‌ای و حملات مکرر حوثی‌های یمن به زیرساخت‌های غیرنظامی اعلام شده است.",
-    "نمایندگی هند همچنین به تعلیق پروازهای ایر ایندیا و ایر ایندیا اکسپرس به ریاض، دمام و جده اشاره کرد و افزود که اتاق‌های بحران کنسولی ضمن ارائه کمک به شهروندان متأثر، با مقامات سعودی درباره اعتبار ویزاها و پروازهای به تعویق افتاده در ارتباط هستند."
-   ],
-   "title_ar": "الهند تنصح رعاياها في السعودية بعدم تصوير اعتراض الصواريخ",
-   "summary_ar": "نصحت الهند مواطنيها المقيمين في المملكة العربية السعودية بالالتزام بالأنظمة المحلية والامتناع عن تصوير أو نشر لقطات اعتراض الصواريخ والطائرات المسيرة.",
-   "body_ar": [
-    "تأتي هذه النصيحة في أعقاب إشعار صادر عن الدفاع المدني السعودي يحذر من أن تصوير أو نشر معلومات تتعلق بعمليات اعتراض الصواريخ والطائرات المسيرة ومواقع سقوطها يترتب عليه مسؤولية قانونية. وجاء التوجيه وسط تصاعد التوترات الإقليمية والهجمات المتكررة على البنية التحتية المدنية من قبل الحوثيين في اليمن.",
-    "كما أشارت البعثة الهندية إلى تعليق رحلات طيران الهند وطيران الهند إكسبريس إلى الرياض والدمام وجدة، مبينة أن غرف الطوارئ القنصلية تقدم المساعدة للمواطنين المتضررين وتتواصل مع السلطات السعودية بشأن صلاحية التأشيرات وتأخر المغادرة."
-   ]
-  },
-  {
    "id": "06b46e09ee3a",
    "lang": "en",
    "source": "Dawn",
@@ -123,38 +231,6 @@
    "body_ar": [
     "ونقلت إذاعة باكستان عن مصادر أمنية أن عادل شاه كان مرتبطاً بالحركة منذ ديسمبر 2020 وتولى إدارة شؤونها المالية منذ عام 2024. واتُهم بتوفير الملاذات لعناصر أجنبية وشن هجمات على القوات الأمنية والخطف مقابل فدية، وكانت مقيدة ضده 19 قضية ومكافأة قدرها 2.5 مليون روبية.",
     "وأشاد رئيس وزراء إقليم بلوشستان، سرفراز بوغتي، بكفاءة القوات الأمنية عقب العملية. وتأتي هذه الخطوة في وقت يشهد فيه الإقليم تصاعداً ملحوظاً في هجمات المسلحين، حيث سجل النسبة الأكبر من الهجمات والضحايا على مستوى البلاد مؤخراً."
-   ]
-  },
-  {
-   "id": "05b4c17e4daf",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
-   "date": "2026-10-25T07:59:38Z",
-   "countries": [
-    "EGY",
-    "SAU",
-    "YEM"
-   ],
-   "score": 5,
-   "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-   "title_en": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-   "summary_en": "Egypt is considering providing defensive military support to Saudi Arabia following Houthi attacks, but remains extremely cautious about direct intervention in Yemen's conflict.",
-   "body_en": [
-    "President Abdel Fattah el-Sisi has stressed that any potential Egyptian deployment would focus strictly on defending Saudi territory rather than launching attacks against Houthi forces. This defensive mandate, subject to an upcoming parliamentary vote, reflects Cairo's efforts to avoid entanglement in broader regional conflicts and potential retaliation targeting its territory or shipping interests.",
-    "Economic and historical concerns also heavily influence Cairo's hesitation. Direct friction with the Houthis could threaten vital Suez Canal maritime transit and revenues, while memories persist of Egypt's costly military campaign in Yemen during the 1960s."
-   ],
-   "title_fa": "چرا مصر از مداخله در درگیری یمن به شدت محتاط است؟",
-   "summary_fa": "مصر در پی حملات حوثی‌ها در حال بررسی ارائه پشتیبانی نظامی دفاعی به عربستان سعودی است، اما نسبت به هرگونه مداخله مستقیم در درگیری‌های یمن بسیار محتاطانه عمل می‌کند.",
-   "body_fa": [
-    "عبدالفتاح السیسی، رئیس‌جمهور مصر، تأکید کرده است که هرگونه اعزام احتمالی نیرو صرفاً بر دفاع از خاک عربستان متمرکز خواهد بود و شامل حمله علیه نیروهای حوثی نخواهد شد. این مأموریت دفاعی که نیازمند تصویب در پارلمان مصر است، بیانگر تلاش قاهره برای جلوگیری از گرفتار شدن در منازعات گسترده‌تر منطقه‌ای و پاسخ‌های تلافی‌جویانه علیه منافع و کشتیرانی خود است.",
-    "نگرانی‌های اقتصادی و تاریخی نیز نقش عمده‌ای در این موضع دارند؛ چرا که رویارویی مستقیم با حوثی‌ها می‌تواند ترانزیت دریایی و درآمدهای حیاتی کانال سوئز را به خطر بیندازد و از سوی دیگر، خاطرات نبرد سنگین و پرهزینه نیروهای مصری در یمن در دهه ۱۹۶۰ همچنان زنده است."
-   ],
-   "title_ar": "لماذا تبدو مصر حذرة للغاية من التورط في نزاع اليمن؟",
-   "summary_ar": "تدرس مصر تقديم دعم عسكري دفاعي للمملكة العربية السعودية في أعقاب هجمات الحوثيين، لكنها لا تزال حذرة للغاية بشأن التدخل المباشر في الصراع اليمني.",
-   "body_ar": [
-    "أكد الرئيس عبد الفتاح السيسي أن أي نشر محتمل للقوات المصرية سيركز حصراً على الدفاع عن الأراضي السعودية دون شن هجمات ضد قوات الحوثيين. ويعكس هذا التفويض الدفاعي، الذي ينتظر تصويتاً برلمانياً، مساعي القاهرة لتجنب التورط في نزاعات إقليمية أوسع والانجرار إلى ردود انتقامية قد تستهدف أراضيها أو مصالح الملاحة البحرية.",
-    "كما تؤثر المخاوف الاقتصادية والتاريخية بشدة على موقف القاهرة؛ إذ يهدد الاحتكاك المباشر مع الحوثيين حركة الشحن وإيرادات قناة السويس الحيوية، إلى جانب استحضار الذاكرة للتدخل العسكري المكلف الذي خاضته مصر في اليمن خلال ستينيات القرن الماضي."
    ]
   },
   {
@@ -219,36 +295,6 @@
    ]
   },
   {
-   "id": "e43374dd3a0f",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c6pvgjzw20p1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-25T06:15:59Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "گروگان‌هایی که آزاد نشدند؛ چرا «غافلگیری اکتبر» با نام ایران گره خورده است؟",
-   "title_en": "The hostages who were not freed; why the 'October Surprise' is tied to Iran",
-   "summary_en": "The term 'October Surprise' in American political culture originates from the 1980 US Embassy hostage crisis in Tehran and the campaign concerns of Ronald Reagan.",
-   "body_en": [
-    "The phrase 'October Surprise' describes last-minute developments in US election campaigns, but its political popularity dates back to 1980. At the time, Ronald Reagan's campaign feared that Jimmy Carter might secure the release of 52 American hostages in Tehran just before Election Day to secure a victory.",
-    "Although the hostages were eventually freed on Reagan's inauguration day after 444 days in captivity, allegations emerged that Reagan's team had negotiated to delay their release. However, a 1993 congressional investigation found no credible evidence to support these claims."
-   ],
-   "title_fa": "گروگان‌هایی که آزاد نشدند؛ چرا «غافلگیری اکتبر» با نام ایران گره خورده است؟",
-   "summary_fa": "اصطلاح «غافلگیری اکتبر» در فرهنگ سیاسی آمریکا ریشه در بحران گروگان‌گیری سفارت آمریکا در تهران در سال ۱۹۸۰ و نگرانی‌های کارزار انتخاباتی رونالد ریگان دارد.",
-   "body_fa": [
-    "عبارت «غافلگیری اکتبر» برای توصیف تحولات لحظات آخر در رقابت‌های انتخاباتی آمریکا به کار می‌رود، اما رواج سیاسی آن به سال ۱۹۸۰ بازمی‌گردد. در آن زمان، ستاد انتخاباتی رونالد ریگان نگران بود که جیمی کارتر با توافق برای آزادی ۵۲ گروگان آمریکایی در تهران درست پیش از روز رای‌گیری، شکست خود را به پیروزی تبدیل کند.",
-    "اگرچه گروگان‌ها سرانجام در روز تحلیف ریگان و پس از ۴۴۴ روز آزاد شدند، ادعاهایی مطرح شد مبنی بر اینکه تیم ریگان برای به تاخیر انداختن آزادی آن‌ها مذاکره کرده بود؛ ادعایی که تحقیقات رسمی کنگره در سال ۱۹۹۳ شواهد معتبری برای اثبات آن نیافت."
-   ],
-   "title_ar": "الرهائن الذين لم يُطلق سراحهم؛ لماذا ارتبطت \"مفاجأة أكتوبر\" باسم إيران؟",
-   "summary_ar": "يعود مصطلح \"مفاجأة أكتوبر\" في الثقافة السياسية الأمريكية إلى أزمة برهائن السفارة الأمريكية في تهران عام 1980 ومخاوف حملة رونالد ريغان الانتخابية.",
-   "body_ar": [
-    "يُستخدم مصطلح \"مفاجأة أكتوبر\" لوصف التطورات الأخيرة في الحملات الانتخابية الأمريكية، لكن انتشاره السياسي يعود إلى عام 1980. في ذلك الوقت، خشت حملة رونالد ريغان أن يتمكن جيمي كارتر من تأمين إطلاق سراح 52 رهينة أمريكياً في تهران قبل يوم الاقتراع مباشرة للفوز بالانتخابات.",
-    "وعلى الرغم من إطلاق سراح الرهائن في يوم تنصيب ريغان بعد 444 يوماً من الاحتجاز، ظهرت مزاعم تفيد بأن فريق ريغان تفاوض لتأجيل إطلاق سراحهم، إلا أن تحقيقاً برلمانياً أمريكياً عام 1993 لم يجد أدلة موثوقة تؤكد ذلك."
-   ]
-  },
-  {
    "id": "952299fc343f",
    "lang": "en",
    "source": "The Guardian",
@@ -280,94 +326,58 @@
    ]
   },
   {
-   "id": "f1c6920c44bb",
+   "id": "60fb5bb5bec8",
    "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
-   "date": "2026-10-25T05:33:10Z",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
+   "date": "2026-10-25T05:50:49Z",
    "countries": [
-    "ISR"
+    "IRN"
    ],
-   "score": 5,
-   "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
-   "title_en": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
-   "summary_en": "Israeli tourism, political influence, and real estate investments in Cyprus have expanded rapidly, raising concerns among local residents and activists.",
+   "score": 7,
+   "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+   "title_en": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+   "summary_en": "Russia's embassy in Tehran has dismissed reports that its diplomats and specialists at the Bushehr nuclear power plant are preparing to evacuate. The diplomatic mission stated that work is proceeding normally and labeled the claims as false.",
    "body_en": [
-    "Israeli citizens made nearly 600,000 trips to Cyprus last year, while property purchases in the Larnaca district reached 850 in the 12 months leading to September 2025. Total investment from Israel grew to 5.1 billion euros between 2017 and 2024, accompanied by the appearance of foreign election campaign billboards and the formation of a pro-Israel parliamentary caucus.",
-    "Local residents and experts express unease over the speed and nature of these developments, citing concerns over the creation of isolated gated communities, rising property prices, and political tension tied to Israel's ongoing wars in Gaza and Lebanon."
+    "The Bushehr facility, which is Iran's sole operating nuclear plant, has faced multiple strikes during the ongoing conflict involving the US and Israel. Satellite images released in July revealed visible damage on the site."
    ],
-   "title_fa": "پوسترهای انتخاباتی، توریسم انبوه و املاک: جای پای اسرائیل در قبرس",
-   "summary_fa": "گردشگری، نفوذ سیاسی و سرمایه‌گذاری‌های ملکی اسرائیل در قبرس به سرعت گسترش یافته و نگرانی‌هایی را در میان ساکنان و فعالان محلی ایجاد کرده است.",
+   "title_fa": "روسیه برنامه‌ریزی برای تخلیه کارکنان نیروگاه اتمی بوشهر در ایران را تکذیب کرد",
+   "summary_fa": "سفارت روسیه در تهران گزارش‌های مربوط به آماده شدن دیپلمات‌ها و متخصصان روس در نیروگاه اتمی بوشهر برای خروج از کشور را تکذیب کرد. این نمایندگی دیپلماتیک اعلام کرد که فعالیت‌ها طبق روال عادی ادامه دارد و این گزارش‌ها را جعلی خواند.",
    "body_fa": [
-    "شهروندان اسرائیلی در سال گذشته نزدیک به ۶۰۰ هزار سفر به قبرس داشتند و خریدهای ملک در منطقه لارناکا در ۱۲ ماه منتهی به سپتامبر ۲۰۲۵ به ۸۵۰ مورد رسید. کل سرمایه‌گذاری اسرائیل بین سال‌های ۲۰۱۷ تا ۲۰۲۴ به ۵.۱ میلیارد یورو افزایش یافته است که با ظهور بیلبوردهای کمپین‌های انتخاباتی خارجی و تشکیل فراکسیون پارلمانی طرفدار اسرائیل همراه بوده است.",
-    "ساکنان و کارشناسان محلی از سرعت و طبیعت این تحولات ابراز نگرانی می‌کنند و به ایجاد مجتمع‌های محصور و ایزوله، افزایش قیمت املاک و تنش‌های سیاسی مرتبط با جنگ‌های جاری اسرائیل در غزه و لبنان اشاره دارند."
+    "نیروگاه بوشهر، که تنها تأسیسات هسته‌ای فعال ایران به شمار می‌رود، در جریان جنگ جاری میان آمریکا، اسرائیل و ایران بارها هدف حمله قرار گرفته است. تصاویر ماهواره‌ای منتشرشده در تیرماه آسیب‌هایی را در داخل این مجموعه نشان می‌داد."
    ],
-   "title_ar": "ملصقات انتخابية وسياحة جماعية وعقارات: أثر إسرائيل في قبرص",
-   "summary_ar": "توسعت السياحة والاستثمارات العقارية والنفوذ السياسي لإسرائيل في قبرص بشكل سريع، مما أثار قلقاً بين السكان والنشطاء المحليين.",
+   "title_ar": "روسيا تنفي وجود خطط لإجلاء موظفيها في محطة بوشهر النووية في إيران",
+   "summary_ar": "نفت السفارة الروسية في طهران صحة تقارير أفادت باستعداد دبلوماسييها والخبراء الروس في محطة بوشهر النووية للإجلاء. وأكدت البعثة الدبلوماسية أن الأعمال تسير بشكل طبيعي ووصفت تلك الأنباء بأنها كاذبة.",
    "body_ar": [
-    "قام المواطنون الإسرائيليون بنحو 600 ألف رحلة إلى قبرص العام الماضي، في حين بلغت مشتريات العقارات في منطقة لارنكا 850 عملية شراء في 12 شهراً حتى سبتمبر 2025. وارتفع إجمالي الاستثمارات الإسرائيلية إلى 5.1 مليار يورو بين عامي 2017 و2024، ورافق ذلك ظهور لوحات إعلانية للحملات الانتخابية الأجنبية وتشكيل كتلة برلمانية مؤيدة لإسرائيل.",
-    "يعبر السكان والخبراء المحليون عن قلقهم إزاء سرعة وطبيعة هذه التطورات، مشيرين إلى المخاوف من إنشاء مجمعات سكنية مغلقة ومغزولة، وارتفاع أسعار العقارات، والتوترات السياسية المرتبطة بالحرب الإسرائيلية المستمرة في غزة ولبنان."
+    "وتعرضت محطة بوشهر، وهي المحطة النووية الوحيدة العاملة في إيران، لضربات متكررة خلال الحرب الحالية بمشاركة الولايات المتحدة وإسرائيل. وأظهرت صور أقمار اصطناعية نُشرت في يوليو وقوع أضرار داخل المجمع."
    ]
   },
   {
-   "id": "564b78d924ca",
+   "id": "cbb27e15628a",
    "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
-   "date": "2026-10-25T05:27:54Z",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport",
+   "date": "2026-10-25T04:10:58Z",
    "countries": [
-    "ISR"
+    "SAU",
+    "YEM"
    ],
-   "score": 5,
-   "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-   "title_en": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-   "summary_en": "Israeli political parties are heavily utilizing online bots, AI-generated videos, deepfakes, and specialized tracking applications to influence voters ahead of the general election.",
+   "score": 7,
+   "title": "Houthis renew warning against using King Khalid airport",
+   "title_en": "Houthis renew warning against using King Khalid airport",
+   "summary_en": "The Houthis have repeated their warning advising airlines, airport staff, and passengers to avoid King Khalid International Airport in Riyadh. A spokesman for the group reiterated that the facility is unsafe and continues to be considered a military target.",
    "body_en": [
-    "Campaigns for Prime Minister Benjamin Netanyahu and opposition leaders are using digital tools to mobilize supporters and attack rivals. Reports indicate that online bots originally created to target Iran have been repurposed to promote Likud, while politicians across the spectrum share manipulated media to fuel political polarization.",
-    "Concerns over surveillance and privacy have intensified, particularly among Arab citizens of Israel, as parties implement new turnout-tracking mobile applications and leverage technological resources during the campaign."
+    "The statement followed an announcement by the airport that Terminal 1 would handle domestic operations and Terminal 2 would manage international routes by national carriers starting Sunday. Operations had been halted on 10 October after a Houthi strike resulted in 13 deaths and over 300 injuries."
    ],
-   "title_fa": "ربات‌ها، دیپ‌فیک‌ها و نظارت: انتخابات اسرائیل در فضای آنلاین به جنگ می‌رود",
-   "summary_fa": "احزاب سیاسی اسرائیل در آستانه انتخابات عمومی به‌طور گسترده از ربات‌های آنلاین، ویدیوهای تولیدشده با هوش مصنوعی، دیپ‌فیک‌ها و اپلیکیشن‌های پیگیری برای تأثیرگذاری بر رأی‌دهندگان استفاده می‌کنند.",
+   "title_fa": "حوثی‌ها هشدار خود را درباره استفاده از فرودگاه ملک خالد تکرار کردند",
+   "summary_fa": "حوثی‌ها بار دیگر به خطوط هوایی، کارکنان فرودگاه و مسافران هشدار دادند که از تردد در فرودگاه بین‌المللی ملک خالد در ریاض خودداری کنند. سخنگوی این گروه اعلام کرد که این فرودگاه ناامن بوده و همچنان یک هدف نظامی به شمار می‌رود.",
    "body_fa": [
-    "کمپین‌های بنیامین نتانیاهو، نخست‌وزیر، و رهبران اپوزیسیون از ابزارهای دیجیتال برای بسیج حامیان و حمله به رقبا استفاده می‌کنند. گزارش‌ها نشان می‌دهد ربات‌های آنلاینی که در اصل برای هدف قرار دادن ایران ساخته شده بودند، برای تبلیغ حزب لیکود تغییر کاربرد یافته‌اند، در حالی که سیاستمداران از طیف‌های مختلف رسانه‌های دستکاری‌شده را برای تشدید قطب‌بندی سیاسی به اشتراک می‌گذارند.",
-    "نگرانی‌ها در مورد نظارت و حریم خصوصی، به‌ویژه در میان شهروندان عرب اسرائیل، با به‌کارگیری اپلیکیشن‌های جدید پیگیری مشارکت و بهره‌برداری از منابع فناوری در طول کمپین‌ها افزایش یافته است."
+    "این موضع‌گیری پس از آن صورت گرفت که فرودگاه اعلام کرد از روز یکشنبه ترمینال ۱ به پروازهای داخلی و ترمینال ۲ به پروازهای بین‌المللی خطوط هوایی ملی اختصاص می‌یابد. فعالیت‌های فرودگاه از ۱۹ مهرماه و در پی حمله حوثی‌ها که ۱۳ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت، متوقف شده بود."
    ],
-   "title_ar": "حسابات وهمية، وتزييف عميق، ومراقبة: انتخابات إسرائيل تخوض حرباً عبر الإنترنت",
-   "summary_ar": "تستخدم الأحزاب السياسية الإسرائيلية بكثافة الحسابات الوهمية عبر الإنترنت، ومقاطع الفيديو المصنوعة بالذكاء الاصطناعي، والتزييف العميق، وتطبيقات التتبع لتأثير على الناخبين قبل الانتخابات العامة.",
+   "title_ar": "الحوثيون يجددون تحذيرهم من استخدام مطار الملك خالد",
+   "summary_ar": "جدد الحوثيون تحذيرهم لشركات الطيران وموظفي المطارات والمسافرين من استخدام مطار الملك خالد الدولي في الرياض. ووصف المتحدث باسم الجماعة المطار بأنه «غير آمن» وأكد أنه لا يزال «هدفاً عسكرياً».",
    "body_ar": [
-    "تستخدم حملات رئيس الوزراء بنيامين نتنياهو وقادة المعارضة الأدوات الرقمية لحشد المؤيدين ومهاجمة المنافسين. وتشير التقارير إلى أن الحسابات الوهمية التي أُنشئت في الأصل لاستهداف إيران تم إعادة استخدامها للترويج لحزب اللكود، بينما يشارك السياسيون من مختلف الأطياف وسائط معدلة لتعزيز الاستقطاب السياسي.",
-    "تصاعدت المخاوف بشأن المراقبة والخصوصية، خاصة بين المواطنين العرب في إسرائيل، مع تطبيق الأحزاب لتطبيقات تتبع نسبة الإقبال واستغلال الموارد التكنولوجية خلال الحملة الانتخابية."
-   ]
-  },
-  {
-   "id": "1c0ed1661bf1",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039577/pakistans-trade-gap-with-gulf-partners-narrows",
-   "date": "2026-10-25T04:02:03Z",
-   "countries": [
-    "KWT",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Pakistan's trade gap with Gulf partners narrows",
-   "title_en": "Pakistan's trade gap with Gulf partners narrows",
-   "summary_en": "Pakistan’s trade deficit with Gulf nations dropped 26.35 percent to $2.85 billion in the first quarter of FY2026-27 due to lower import payments and a moderate increase in exports.",
-   "body_en": [
-    "According to State Bank of Pakistan data, imports from the region fell 20.02 percent to $3.717 billion, driven by sharp declines in imports from Kuwait and Qatar. Meanwhile, exports rose 10.96 percent to $864.878 million, with the UAE representing over 66 percent of total exports to the seven Gulf states.",
-    "Despite the narrowing deficit, trade flows remain sensitive to Middle East geopolitical developments that have caused ongoing disruptions since March, maintaining Pakistan's high reliance on Gulf energy imports."
-   ],
-   "title_fa": "کاهش شکاف تجاری پاکستان با شرکای خلیج فارس",
-   "summary_fa": "کسری تجاری پاکستان با کشورهای خلیج فارس در سه ماهه اول سال مالی ۲۰۲۶-۲۷ به دلیل کاهش پرداخت‌های وارداتی و افزایش نسبی صادرات، با ۲۶.۳۵ درصد کاهش به ۲.۸۵ میلیارد دلار رسید.",
-   "body_fa": [
-    "طبق داده‌های بانک مرکزی پاکستان، واردات از این منطقه با ۲۰.۰۲ درصد کاهش به ۳.۷۱۷ میلیارد دلار رسید که ناشی از کاهش شدید واردات از کویت و قطر بود. در همین حال، صادرات با ۱۰.۹۶ درصد افزایش به ۸۶۴.۸۷۸ میلیون دلار رسید و امارات متحده عربی بیش از ۶۶ درصد از کل صادرات به هفت کشور خلیج فارس را به خود اختصاص داد.",
-    "با وجود کاهش کسری تجاری، جریان‌های تجاری همچنان نسبت به تحولات ژئوپلیتیکی خاورمیانه که از ماه مارس باعث اختلال شده‌اند حساس است و وابستگی بالای پاکستان به واردات انرژی از خلیج فارس ادامه دارد."
-   ],
-   "title_ar": "تقليص العجز التجاري لباكستان مع شركائها في الخليج",
-   "summary_ar": "انخفض العجز التجاري لباكستان مع دول الخليج بنسبة 26.35 في المائة ليصل إلى 2.85 مليار دولار في الربع الأول من العام المالي 2026-2027، وذلك بفضل تراجع الواردات وزيادة معتدلة في الصادرات.",
-   "body_ar": [
-    "وفقاً لبيانات مصرف پاکستان المركزي، انخفضت الواردات من المنطقة بنسبة 20.02 في المائة لتصل إلى 3.717 مليار دولار، بفضل التراجع الحاد في الواردات من الكويت وقطر. في المقابل، ارتفعت الصادرات بنسبة 10.96 في المائة لتصل إلى 864.878 مليون دولار، حيث استحوذت الإمارات على أكثر من 66 في المائة من إجمالي الصادرات إلى دول الخليج السبع.",
-    "على الرغم من تقلص العجز، تظل التدفقات التجارية حساسة للتطورات الجيوسياسية في الشرق الأوسط التي تسببت في اضطرابات مستمرة منذ مارس، مما يبقي على اعتماد باكستان الكثيف على واردات الطاقة من الخليج."
+    "وجاء هذا الموقف عقب إعلان إدارة المطار تخصيص الصالة رقم 1 للرحلات الداخلية والصالة رقم 2 للرحلات الدولية للناقلات الوطنية بدءاً من الأحد. وكانت حركة الملاحة قد عُلقت في 10 أكتوبر إثر هجوم للحوثيين أسفر عن مقتل 13 شخصاً وإصابة أكثر من 300 آخرين."
    ]
   },
   {
@@ -456,33 +466,31 @@
    ]
   },
   {
-   "id": "b76f79ac3edb",
+   "id": "d14b7bf63cc7",
    "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039584/no-go-areas-do-not-exist-in-balochistan-claims-bugti",
-   "date": "2026-10-25T01:19:51Z",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas",
+   "date": "2026-10-25T00:40:49Z",
    "countries": [
-    "PAK"
+    "ISR",
+    "PSE"
    ],
-   "score": 5,
-   "title": "‘No-go areas’ do not exist in Balochistan, claims Bugti",
-   "title_en": "‘No-go areas’ do not exist in Balochistan, claims Bugti",
-   "summary_en": "Balochistan Chief Minister Sarfraz Bugti stated that there are no \"no-go areas\" in the province, asserting that the administration has ensured lawmakers can regularly visit their constituencies.",
+   "score": 7,
+   "title": "Israel restricts entry of Palestinian labourers to West Bank areas",
+   "title_en": "Israel restricts entry of Palestinian labourers to West Bank areas",
+   "summary_en": "The Israeli military announced that Palestinian permit holders will be prohibited from entering settlements in the occupied West Bank on Sunday and Monday, excluding industrial zones and specific authorised sectors.",
    "body_en": [
-    "Speaking at an open court in North Dera Bugti, Bugti said that addressing public grievances and delivering basic facilities are top priorities, explaining that the forums are designed to hold government departments accountable. He instructed officials to resolve complaints from citizens promptly and without delay.",
-    "Bugti also discussed infrastructure plans, noting that efforts have been made to secure federal funds for a highway connecting Taunsa in Punjab with Balochistan. Additionally, he stated that a survey has been ordered for a road linking the Chhapar National Highway with Kharar Buzdar, which will provide an alternative transit route to Punjab."
+    "In a statement on X, the army detailed that a comprehensive ban on the movement of Palestinian workers across the entire West Bank and Jordan Valley, including industrial parks, will be enforced alongside the closure of all land crossings during election day on 27 October 2026."
    ],
-   "title_fa": "بوگتی مدعی شد «مناطق ورود ممنوع» در بلوچستان وجود ندارد",
-   "summary_fa": "سرفراز بوگتی، سروزیر بلوچستان، مدعی شد که هیچ «منطقه ورود ممنوعی» در این ایالت وجود ندارد و تأکید کرد دولت تمهیداتی اندیشیده تا قانون‌گذاران بتوانند مرتباً به حوزه‌های انتخابی خود بروند.",
+   "title_fa": "اسرائیل ورود کارگران فلسطینی به مناطقی از کرانه باختری را محدود کرد",
+   "summary_fa": "ارتش اسرائیل اعلام کرد که ورود فلسطینیان دارای مجوز کار به شهرک‌های کرانه باختری اشغالی در روزهای یکشنبه و دوشنبه ممنوع خواهد بود، هرچند مناطق صنعتی و برخی بخش‌های مجاز مستثنی شده‌اند.",
    "body_fa": [
-    "بوگتی در جریان یک نشست عمومی در شمال دره بوگتی اعلام کرد که رسیدگی به شکایات مردم و ارائه خدمات اولیه از اولویت‌های اصلی دولت است و این جلسات برای پاسخگو کردن ادارات دولتی برگزار می‌شود. وی به مسئولان دستور داد تا مشکلات شهروندان را به سرعت و بدون تأخیر برطرف کنند.",
-    "وی همچنین با اشاره به اهمیت توسعه منطقه‌ای گفت که برای تأمین بودجه فدرال جهت ساخت بزرگراهی که تونسه در پنجاب را به بلوچستان متصل می‌کند، تلاش‌هایی انجام شده است. او افزود که دستور انجام نقشه‌برداری برای احداث جاده‌ای بین بزرگراه ملی چپر و خرار بوزدار نیز صادر شده تا مسیری جایگزین به سمت پنجاب فراهم شود."
+    "ارتش در پیامی در شبکه اجتماعی اکس تصریح کرد که در طول روز انتخابات در ۲۷ اکتبر ۲۰۲۶، ممنوعیت کاملی برای ورود و خروج کارگران فلسطینی در سراسر کرانه باختری و دره اردن، از جمله مناطق صنعتی، اعمال شده و تمامی گذرگاه‌های زمینی مسدود خواهند شد."
    ],
-   "title_ar": "بوغتي يزعم عدم وجود «مناطق محظورة» في بلوشستان",
-   "summary_ar": "صرح رئيس وزراء إقليم بلوشستان، سرفراز بوغتي، بعدم وجود \"مناطق محظورة\" في الإقليم، مؤكداً أن الحكومة اتخذت تدابير لضمان زيارة المشرعين لدوائرهم بانتظام.",
+   "title_ar": "إسرائيل تقيد دخول العمال الفلسطينيين إلى مناطق بالضفة الغربية",
+   "summary_ar": "أعلن الجيش الإسرائيلي منع الفلسطينيين الحاملين لتصاريح عمل من دخول المستوطنات في الضفة الغربية المحتلة يومي الأحد والاثنين، باستثناء المناطق الصناعية ومناطق محددة أخرى.",
    "body_ar": [
-    "وخلال حديثه في لقاء مفتوح في شمال ديرا بوغتي، قال بوغتي إن معالجة المظالم وتوفير الخدمات الأساسية هما على رأس أولويات حكومته، موضحاً أن هذه اللقاءات تهدف لمساءلة الدوائر المختصة. كما وجه المسؤولين للتعامل الفوري مع شكاوى المواطنين وحلها دون تأخير.",
-    "وتطرق بوغتي أيضاً إلى مشاريع البنية التحتية، مشيراً إلى بذل جهود لتأمين أموال اتحادية لطريق سريع يربط تاونسا في البنجاب ببلوشستان. وأضاف أنه تم إصدار توجيهات لإجراء مسح لبناء طريق يربط طريق تشابار السريع الوطني بمنطقة خارار بوزدار، لتوفير طريق بديل إلى البنجاب."
+    "وأوضح الجيش في منشور على منصة «إكس» أنه سيتم فرض حظر كامل على «دخول وخروج العمال الفلسطينيين إلى كامل [الضفة الغربية المحتلة] وغور الأردن، بما في ذلك المناطق الصناعية»، إلى جانب إغلاق كافة المعابر البرية طوال يوم الانتخابات في 27 أكتوبر 2026."
    ]
   },
   {
