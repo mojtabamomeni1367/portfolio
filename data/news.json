@@ -1,7 +1,186 @@
 {
- "updated": "2026-10-25T03:48:18Z",
- "count": 83,
+ "updated": "2026-10-25T06:57:56Z",
+ "count": 90,
  "items": [
+  {
+   "id": "e43374dd3a0f",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6pvgjzw20p1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T06:15:59Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "گروگان‌هایی که آزاد نشدند؛ چرا «غافلگیری اکتبر» با نام ایران گره خورده است؟",
+   "title_en": "The hostages who were not freed; why the 'October Surprise' is tied to Iran",
+   "summary_en": "The term 'October Surprise' in American political culture originates from the 1980 US Embassy hostage crisis in Tehran and the campaign concerns of Ronald Reagan.",
+   "body_en": [
+    "The phrase 'October Surprise' describes last-minute developments in US election campaigns, but its political popularity dates back to 1980. At the time, Ronald Reagan's campaign feared that Jimmy Carter might secure the release of 52 American hostages in Tehran just before Election Day to secure a victory.",
+    "Although the hostages were eventually freed on Reagan's inauguration day after 444 days in captivity, allegations emerged that Reagan's team had negotiated to delay their release. However, a 1993 congressional investigation found no credible evidence to support these claims."
+   ],
+   "title_fa": "گروگان‌هایی که آزاد نشدند؛ چرا «غافلگیری اکتبر» با نام ایران گره خورده است؟",
+   "summary_fa": "اصطلاح «غافلگیری اکتبر» در فرهنگ سیاسی آمریکا ریشه در بحران گروگان‌گیری سفارت آمریکا در تهران در سال ۱۹۸۰ و نگرانی‌های کارزار انتخاباتی رونالد ریگان دارد.",
+   "body_fa": [
+    "عبارت «غافلگیری اکتبر» برای توصیف تحولات لحظات آخر در رقابت‌های انتخاباتی آمریکا به کار می‌رود، اما رواج سیاسی آن به سال ۱۹۸۰ بازمی‌گردد. در آن زمان، ستاد انتخاباتی رونالد ریگان نگران بود که جیمی کارتر با توافق برای آزادی ۵۲ گروگان آمریکایی در تهران درست پیش از روز رای‌گیری، شکست خود را به پیروزی تبدیل کند.",
+    "اگرچه گروگان‌ها سرانجام در روز تحلیف ریگان و پس از ۴۴۴ روز آزاد شدند، ادعاهایی مطرح شد مبنی بر اینکه تیم ریگان برای به تاخیر انداختن آزادی آن‌ها مذاکره کرده بود؛ ادعایی که تحقیقات رسمی کنگره در سال ۱۹۹۳ شواهد معتبری برای اثبات آن نیافت."
+   ],
+   "title_ar": "الرهائن الذين لم يُطلق سراحهم؛ لماذا ارتبطت \"مفاجأة أكتوبر\" باسم إيران؟",
+   "summary_ar": "يعود مصطلح \"مفاجأة أكتوبر\" في الثقافة السياسية الأمريكية إلى أزمة برهائن السفارة الأمريكية في تهران عام 1980 ومخاوف حملة رونالد ريغان الانتخابية.",
+   "body_ar": [
+    "يُستخدم مصطلح \"مفاجأة أكتوبر\" لوصف التطورات الأخيرة في الحملات الانتخابية الأمريكية، لكن انتشاره السياسي يعود إلى عام 1980. في ذلك الوقت، خشت حملة رونالد ريغان أن يتمكن جيمي كارتر من تأمين إطلاق سراح 52 رهينة أمريكياً في تهران قبل يوم الاقتراع مباشرة للفوز بالانتخابات.",
+    "وعلى الرغم من إطلاق سراح الرهائن في يوم تنصيب ريغان بعد 444 يوماً من الاحتجاز، ظهرت مزاعم تفيد بأن فريق ريغان تفاوض لتأجيل إطلاق سراحهم، إلا أن تحقيقاً برلمانياً أمريكياً عام 1993 لم يجد أدلة موثوقة تؤكد ذلك."
+   ]
+  },
+  {
+   "id": "952299fc343f",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+   "date": "2026-10-25T06:00:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "title_en": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "summary_en": "As Israel prepares for elections, displaced Palestinians in Gaza express deep pessimism, fearing that candidate competition will worsen their plight regardless of who wins.",
+   "body_en": [
+    "Palestinians in Gaza report that the ongoing humanitarian crisis has been largely ignored in the Israeli election campaign. Both Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot have focused their platforms on destroying Hamas and support Donald Trump's peace plan, while pledging to end Hamas rule without presenting clear plans for Gaza's post-war future.",
+    "Residents surviving in dire conditions in areas like al-Mawasi fear that candidates are competing over who can take the toughest stance against Gaza. With aid deliveries severely restricted and basic supplies running out, many displaced Palestinians feel that any incoming government will offer no meaningful change to their daily struggle for survival."
+   ],
+   "title_fa": "«رنج غزه به خوراک تبلیغات انتخاباتی تبدیل شده است»: هراس فلسطینی‌ها از بدترین سناریو در انتخابات اسرائیل",
+   "summary_fa": "در حالی که اسرائیل برای برگزاری انتخابات آماده می‌شود، فلسطینیان آواره در غزه ابراز ناامیدی کرده و بیم آن دارند که رقابت‌های انتخاباتی بدون توجه به برنده آن، وضعیت آن‌ها را وخیم‌تر کند.",
+   "body_fa": [
+    "فلسطینیان در غزه می‌گویند بحران انسانی جاری تا حد زیادی در مبارزات انتخاباتی اسرائیل نادیده گرفته شده است. هم بنیامین نتانیاهو، نخست‌وزیر، و هم گادی آیزنکوت، رهبر اپوزیسیون، تمرکز برنامه‌های خود را بر نابودی حماس و حمایت از طرح صلح دونالد ترامپ قرار داده‌اند و وعده داده‌اند به حکومت حماس پایان دهند، بدون آنکه طرح روشنی برای آینده غزه ارائه کنند.",
+    "ساکنانی که در شرایطی سخت در مناطقی مانند المواصی زندگی می‌کنند، بیم دارند که نامزدها در گرفتن سخت‌گیرانه‌ترین مواضع علیه غزه با یکدیگر رقابت کنند. با محدودیت‌های شدید در ورود کمک‌های بشردوستانه و نایاب شدن کالاهای اساسی، بسیاری از آوارگان فلسطینی بر این باورند که هر دولتی روی کار بیاید، تغییری واقعی در تلاش روزمره آن‌ها برای زنده ماندن ایجاد نخواهد کرد."
+   ],
+   "title_ar": "«معاناة غزة أصبحت مادة للمزايدات الانتخابية»: الفلسطينيون يخشون الأยوأ من الانتخابات الإسرائيلية",
+   "summary_ar": "مع استعداد إسرائيل للانتخابات، يعرب الفلسطينيون النازحون في غزة عن خيبة أمل عميقة، متخوفين من أن المزايدات الانتخابية ستزيد من معاناتهم بغض النظر عن الفائز.",
+   "body_ar": [
+    "أفاد الفلسطينيون في غزة بأن الكارثة الإنسانية المستمرة تم تجاهلها بشكل كبير في الحملات الانتخابية الإسرائيلية. وركز كل من رئيس الوزراء بنيامين نتنياهو وزعيم المعارضة غادي آيزنكوت برنامجهما على تدمير حماس ودعم خطة دونالد ترامب للسلام، مع التعهد بإنهائه حكم حماس دون تقديم خطط واضحة لمستقبل غزة.",
+    "ويخشى السكان الذين يعيشون في ظروف قاسية في مناطق مثل المواصي من أن المرشحين يتنافسون على اتخاذ المواقف الأكثر صرامة ضد غزة. ومع فرض قيود شديدة على دخول المساعدات ونفاد المواد الأساسية، يشعر العديد من النازحين أن أي حكومة قادمة لن تحدث أي تغيير حقيقي في معاناتهم اليومية من أجل البقاء."
+   ]
+  },
+  {
+   "id": "f1c6920c44bb",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+   "date": "2026-10-25T05:33:10Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+   "title_en": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+   "summary_en": "Israeli tourism, political influence, and real estate investments in Cyprus have expanded rapidly, raising concerns among local residents and activists.",
+   "body_en": [
+    "Israeli citizens made nearly 600,000 trips to Cyprus last year, while property purchases in the Larnaca district reached 850 in the 12 months leading to September 2025. Total investment from Israel grew to 5.1 billion euros between 2017 and 2024, accompanied by the appearance of foreign election campaign billboards and the formation of a pro-Israel parliamentary caucus.",
+    "Local residents and experts express unease over the speed and nature of these developments, citing concerns over the creation of isolated gated communities, rising property prices, and political tension tied to Israel's ongoing wars in Gaza and Lebanon."
+   ],
+   "title_fa": "پوسترهای انتخاباتی، توریسم انبوه و املاک: جای پای اسرائیل در قبرس",
+   "summary_fa": "گردشگری، نفوذ سیاسی و سرمایه‌گذاری‌های ملکی اسرائیل در قبرس به سرعت گسترش یافته و نگرانی‌هایی را در میان ساکنان و فعالان محلی ایجاد کرده است.",
+   "body_fa": [
+    "شهروندان اسرائیلی در سال گذشته نزدیک به ۶۰۰ هزار سفر به قبرس داشتند و خریدهای ملک در منطقه لارناکا در ۱۲ ماه منتهی به سپتامبر ۲۰۲۵ به ۸۵۰ مورد رسید. کل سرمایه‌گذاری اسرائیل بین سال‌های ۲۰۱۷ تا ۲۰۲۴ به ۵.۱ میلیارد یورو افزایش یافته است که با ظهور بیلبوردهای کمپین‌های انتخاباتی خارجی و تشکیل فراکسیون پارلمانی طرفدار اسرائیل همراه بوده است.",
+    "ساکنان و کارشناسان محلی از سرعت و طبیعت این تحولات ابراز نگرانی می‌کنند و به ایجاد مجتمع‌های محصور و ایزوله، افزایش قیمت املاک و تنش‌های سیاسی مرتبط با جنگ‌های جاری اسرائیل در غزه و لبنان اشاره دارند."
+   ],
+   "title_ar": "ملصقات انتخابية وسياحة جماعية وعقارات: أثر إسرائيل في قبرص",
+   "summary_ar": "توسعت السياحة والاستثمارات العقارية والنفوذ السياسي لإسرائيل في قبرص بشكل سريع، مما أثار قلقاً بين السكان والنشطاء المحليين.",
+   "body_ar": [
+    "قام المواطنون الإسرائيليون بنحو 600 ألف رحلة إلى قبرص العام الماضي، في حين بلغت مشتريات العقارات في منطقة لارنكا 850 عملية شراء في 12 شهراً حتى سبتمبر 2025. وارتفع إجمالي الاستثمارات الإسرائيلية إلى 5.1 مليار يورو بين عامي 2017 و2024، ورافق ذلك ظهور لوحات إعلانية للحملات الانتخابية الأجنبية وتشكيل كتلة برلمانية مؤيدة لإسرائيل.",
+    "يعبر السكان والخبراء المحليون عن قلقهم إزاء سرعة وطبيعة هذه التطورات، مشيرين إلى المخاوف من إنشاء مجمعات سكنية مغلقة ومغزولة، وارتفاع أسعار العقارات، والتوترات السياسية المرتبطة بالحرب الإسرائيلية المستمرة في غزة ولبنان."
+   ]
+  },
+  {
+   "id": "564b78d924ca",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+   "date": "2026-10-25T05:27:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+   "title_en": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+   "summary_en": "Israeli political parties are heavily utilizing online bots, AI-generated videos, deepfakes, and specialized tracking applications to influence voters ahead of the general election.",
+   "body_en": [
+    "Campaigns for Prime Minister Benjamin Netanyahu and opposition leaders are using digital tools to mobilize supporters and attack rivals. Reports indicate that online bots originally created to target Iran have been repurposed to promote Likud, while politicians across the spectrum share manipulated media to fuel political polarization.",
+    "Concerns over surveillance and privacy have intensified, particularly among Arab citizens of Israel, as parties implement new turnout-tracking mobile applications and leverage technological resources during the campaign."
+   ],
+   "title_fa": "ربات‌ها، دیپ‌فیک‌ها و نظارت: انتخابات اسرائیل در فضای آنلاین به جنگ می‌رود",
+   "summary_fa": "احزاب سیاسی اسرائیل در آستانه انتخابات عمومی به‌طور گسترده از ربات‌های آنلاین، ویدیوهای تولیدشده با هوش مصنوعی، دیپ‌فیک‌ها و اپلیکیشن‌های پیگیری برای تأثیرگذاری بر رأی‌دهندگان استفاده می‌کنند.",
+   "body_fa": [
+    "کمپین‌های بنیامین نتانیاهو، نخست‌وزیر، و رهبران اپوزیسیون از ابزارهای دیجیتال برای بسیج حامیان و حمله به رقبا استفاده می‌کنند. گزارش‌ها نشان می‌دهد ربات‌های آنلاینی که در اصل برای هدف قرار دادن ایران ساخته شده بودند، برای تبلیغ حزب لیکود تغییر کاربرد یافته‌اند، در حالی که سیاستمداران از طیف‌های مختلف رسانه‌های دستکاری‌شده را برای تشدید قطب‌بندی سیاسی به اشتراک می‌گذارند.",
+    "نگرانی‌ها در مورد نظارت و حریم خصوصی، به‌ویژه در میان شهروندان عرب اسرائیل، با به‌کارگیری اپلیکیشن‌های جدید پیگیری مشارکت و بهره‌برداری از منابع فناوری در طول کمپین‌ها افزایش یافته است."
+   ],
+   "title_ar": "حسابات وهمية، وتزييف عميق، ومراقبة: انتخابات إسرائيل تخوض حرباً عبر الإنترنت",
+   "summary_ar": "تستخدم الأحزاب السياسية الإسرائيلية بكثافة الحسابات الوهمية عبر الإنترنت، ومقاطع الفيديو المصنوعة بالذكاء الاصطناعي، والتزييف العميق، وتطبيقات التتبع لتأثير على الناخبين قبل الانتخابات العامة.",
+   "body_ar": [
+    "تستخدم حملات رئيس الوزراء بنيامين نتنياهو وقادة المعارضة الأدوات الرقمية لحشد المؤيدين ومهاجمة المنافسين. وتشير التقارير إلى أن الحسابات الوهمية التي أُنشئت في الأصل لاستهداف إيران تم إعادة استخدامها للترويج لحزب اللكود، بينما يشارك السياسيون من مختلف الأطياف وسائط معدلة لتعزيز الاستقطاب السياسي.",
+    "تصاعدت المخاوف بشأن المراقبة والخصوصية، خاصة بين المواطنين العرب في إسرائيل، مع تطبيق الأحزاب لتطبيقات تتبع نسبة الإقبال واستغلال الموارد التكنولوجية خلال الحملة الانتخابية."
+   ]
+  },
+  {
+   "id": "1c0ed1661bf1",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039577/pakistans-trade-gap-with-gulf-partners-narrows",
+   "date": "2026-10-25T04:02:03Z",
+   "countries": [
+    "KWT",
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Pakistan's trade gap with Gulf partners narrows",
+   "title_en": "Pakistan's trade gap with Gulf partners narrows",
+   "summary_en": "Pakistan’s trade deficit with Gulf nations dropped 26.35 percent to $2.85 billion in the first quarter of FY2026-27 due to lower import payments and a moderate increase in exports.",
+   "body_en": [
+    "According to State Bank of Pakistan data, imports from the region fell 20.02 percent to $3.717 billion, driven by sharp declines in imports from Kuwait and Qatar. Meanwhile, exports rose 10.96 percent to $864.878 million, with the UAE representing over 66 percent of total exports to the seven Gulf states.",
+    "Despite the narrowing deficit, trade flows remain sensitive to Middle East geopolitical developments that have caused ongoing disruptions since March, maintaining Pakistan's high reliance on Gulf energy imports."
+   ],
+   "title_fa": "کاهش شکاف تجاری پاکستان با شرکای خلیج فارس",
+   "summary_fa": "کسری تجاری پاکستان با کشورهای خلیج فارس در سه ماهه اول سال مالی ۲۰۲۶-۲۷ به دلیل کاهش پرداخت‌های وارداتی و افزایش نسبی صادرات، با ۲۶.۳۵ درصد کاهش به ۲.۸۵ میلیارد دلار رسید.",
+   "body_fa": [
+    "طبق داده‌های بانک مرکزی پاکستان، واردات از این منطقه با ۲۰.۰۲ درصد کاهش به ۳.۷۱۷ میلیارد دلار رسید که ناشی از کاهش شدید واردات از کویت و قطر بود. در همین حال، صادرات با ۱۰.۹۶ درصد افزایش به ۸۶۴.۸۷۸ میلیون دلار رسید و امارات متحده عربی بیش از ۶۶ درصد از کل صادرات به هفت کشور خلیج فارس را به خود اختصاص داد.",
+    "با وجود کاهش کسری تجاری، جریان‌های تجاری همچنان نسبت به تحولات ژئوپلیتیکی خاورمیانه که از ماه مارس باعث اختلال شده‌اند حساس است و وابستگی بالای پاکستان به واردات انرژی از خلیج فارس ادامه دارد."
+   ],
+   "title_ar": "تقليص العجز التجاري لباكستان مع شركائها في الخليج",
+   "summary_ar": "انخفض العجز التجاري لباكستان مع دول الخليج بنسبة 26.35 في المائة ليصل إلى 2.85 مليار دولار في الربع الأول من العام المالي 2026-2027، وذلك بفضل تراجع الواردات وزيادة معتدلة في الصادرات.",
+   "body_ar": [
+    "وفقاً لبيانات مصرف پاکستان المركزي، انخفضت الواردات من المنطقة بنسبة 20.02 في المائة لتصل إلى 3.717 مليار دولار، بفضل التراجع الحاد في الواردات من الكويت وقطر. في المقابل، ارتفعت الصادرات بنسبة 10.96 في المائة لتصل إلى 864.878 مليون دولار، حيث استحوذت الإمارات على أكثر من 66 في المائة من إجمالي الصادرات إلى دول الخليج السبع.",
+    "على الرغم من تقلص العجز، تظل التدفقات التجارية حساسة للتطورات الجيوسياسية في الشرق الأوسط التي تسببت في اضطرابات مستمرة منذ مارس، مما يبقي على اعتماد باكستان الكثيف على واردات الطاقة من الخليج."
+   ]
+  },
+  {
+   "id": "c1428068d52f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+   "date": "2026-10-25T03:47:56Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "title_en": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "summary_en": "Thousands of people have protested across Turkey against the imprisonment of journalists and government restrictions placed on independent media outlets.",
+   "body_en": [
+    "Protesters demonstrated against actions by Turkish authorities, who have jailed reporters, taken control of the opposition broadcaster Halk TV, and blocked access to various news websites. The Turkish government has denied allegations that it is targeting journalists because of their work."
+   ],
+   "title_fa": "تظاهرات هزاران نفر در ترکیه در اعتراض به بازداشت خبرنگاران و تعطیلی رسانه‌ها",
+   "summary_fa": "هزاران نفر در سراسر ترکیه در اعتراض به زندانی کردن خبرنگاران و محدودیت‌های دولتی اعمال‌شده بر رسانه‌های مستقل دست به تظاهرات زدند.",
+   "body_fa": [
+    "معترضان نسبت به اقدامات مقامات ترکیه که اقدام به بازداشت خبرنگاران، تصرف کنترل شبکه اپوزیسیون «هالک تی‌وی» و مسدود کردن وب‌سایت‌های خبری کرده‌اند، اعتراض کردند. دولت ترکیه اتهامات مربوط به هدف قرار دادن روزنامه‌نگاران به دلیل فعالیت حرفه‌ای‌شان را رد کرده است."
+   ],
+   "title_ar": "آلاف يتظاهرون في تركيا احتجاجاً على اعتقال الصحفيين وإغلاق وسائل الإعلام",
+   "summary_ar": "تظاهر آلاف الأشخاص في جميع أنحاء تركيا احتجاجاً على سجن الصحفيين والقيود الحكومية المفروضة على وسائل الإعلام المستقلة.",
+   "body_ar": [
+    "وتظاهر المحتجون ضد إجراءات السلطات التركية التي سجنت صحفيين وسيطرت على قناة \"هالك تي في\" المعارضة وحجبت مواقع إخبارية. ومن جانبها، نفت الحكومة التركية استهداف الصحفيين بسبب عملهم."
+   ]
+  },
   {
    "id": "2617a6d3e912",
    "lang": "en",
@@ -169,6 +348,36 @@
    "body_ar": [
     "تأثر آيزنكوت، الذي دخل العمل السياسي عام 2022 واستقال من مجلس الحرب في يونيو 2024 احتجاجاً على إدارة ملف الرهائن، بمقتل ابنه الأصغر واثنين من أبناء إخوته في معارك غزة. وتعهد بإنهاء حكم حماس خلال 18 شهراً، معلناً رفضه لإقامة دولة فلسطينية ومطالباً بإعادة صياغة العلاقات مع السلطة الفلسطينية وطرد المتطرفين اليهود من الضفة الغربية.",
     "يتضمن برنامجه المؤلف من عشر نقاط فتح تحقيق رسمي في إخفاقات هجمات 7 أكتوبر، وإنهاء الإعفاء من الخدمة العسكرية لليهود المتشددين والمواطنين العرب، والحد من هجرة الكفاءات. وتشير استطلاعات الرأي إلى أن ترشحه يضع صعوبات حقيقية أمام حصول ائتلاف نتنياهو على الأغلبية البرلمانية."
+   ]
+  },
+  {
+   "id": "7b01f4c96719",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T23:03:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "The bitter row over military service that could shape Israel's future",
+   "title_en": "The bitter row over military service that could shape Israel's future",
+   "summary_en": "Clashes between ultra-Orthodox Israelis and military police have highlighted a growing political and social rift over military draft exemptions for religious students during ongoing wars.",
+   "body_en": [
+    "Protests erupted in Modi'in as military police attempted to arrest a young ultra-Orthodox man for failing to report for military service. Following a Supreme Court ruling that invalidated full conscription exemptions for Haredi men, tensions have intensified between religious leaders, who argue that full-time Torah study spiritually protects the nation, and the broader Israeli public demanding equal military contribution amidst military manpower shortages.",
+    "The political impact of the draft issue is critical for Prime Minister Benjamin Netanyahu, who relies on Haredi political parties to maintain his governing coalition ahead of upcoming elections."
+   ],
+   "title_fa": "مناقشه تلخ بر سر خدمت سربازی که می‌تواند آینده اسرائیل را شکل دهد",
+   "summary_fa": "درگیری‌ها میان اسرائیلی‌های حریدی و پلیس نظامی، شکاف رو به رشد سیاسی و اجتماعی بر سر معافیت دانشجویان دینی از خدمت سربازی در میان جنگ‌های جاری را برجسته کرده است.",
+   "body_fa": [
+    "درگیری‌ها در موديعين پس از آن آغاز شد که پلیس نظامی تلاش کرد یک جوان حریدی را به دلیل عدم معرفی خود برای خدمت سربازی بازداشت کند. پس از حکم دادگاه عالی که معافیت کامل مردان حریدی را باطل کرد، تنش‌ها میان رهبران دینی—که معتقدند مطالعه تورات امنیت معنوی کشور را تامین می‌کند—و عموم جامعه اسرائیل که خواهان مشارکت برابر در خدمت نظامی در میان کمبود نیروی ارتش هستند، شدت یافته است.",
+    "پیامدهای سیاسی موضوع سربازی برای بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تعیین‌کننده است؛ چرا که او برای حفظ ائتلاف حاكم خود در آستانه انتخابات آینده به احزاب سیاسی حریدی وابسته است."
+   ],
+   "title_ar": "الخلاف الحاد حول الخدمة العسكرية الذي قد يشكل مستقبل إسرائيل",
+   "summary_ar": "سلطت الاشتباكات بين الإسرائيليين الحريديم والشرطة العسكرية الضوء على الانقسام السياسي والاجتماعي المتزايد حول إعفاء الطلاب الدينيين من الخدمة العسكرية خلال الحروب المستمرة.",
+   "body_ar": [
+    "اندلعت الاحتجاجات في موديعين عندما حاولت الشرطة العسكرية اعتقال شاب من الحريديم لعدم التحاقه بالخدمة العسكرية. وبعد قرار المحكمة العليا بتبطيل الإعفاء الشامل للرجال الحريديم، تصاعدت التوترات بين القادة الدينيين الذين يرون أن دراسة التوراة تحمي البلاد روحياً، والجمهور الإسرائيلي الذي يطالب بمسؤولية عسكرية متساوية في ظل نقص القوى العاملة في الجيش.",
+    "وتعد التداعيات السياسية لقضية التجنيد حاسمة بالنسبة لرئيس الوزراء بنيامين نتنياهو، الذي يعتمد على الأحزاب السياسية الحريدية للحفاظ على ائتلافه الحكومي قبل الانتخابات القادمة."
    ]
   },
   {
