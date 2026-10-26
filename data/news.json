@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T01:14:47Z",
- "count": 110,
+ "updated": "2026-10-26T03:49:56Z",
+ "count": 111,
  "items": [
   {
    "id": "ccc5d2c1fc4f",
@@ -31,6 +31,37 @@
    "body_ar": [
     "وفي مقابلة تلفزيونية قبل يومين من الانتخابات البرلمانية الإسرائيلية، زعم نتنياهو أن منافسيه السياسيين لن يتمكنوا من إتمام المهمة. وجعل نتنياهو التصدي لبرنامج إيران النووي محوراً لحملته في أيامها الأخيرة، كما أعاد نشر صورة أُنتجت بالذكاء الاصطناعي لانفجار نووي في تل أبيب ترافقها تدوينة تصف إيران بأنها خطر وجودي.",
     "من جانبه، اتهم منافسه الرئيسي ورئيس أركان الجيش السابق غادي آيزنكوت نتنياهو باستغلال الخطر الإيراني لكسب أصوات الناخبين. وذكر آيزنكوت أن رئيس الوزراء فشل في تحقيق الأهداف التي كان قد حددها بنفسه في الحرب ضد إيران."
+   ]
+  },
+  {
+   "id": "a927595b74c3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
+   "date": "2026-10-26T01:06:13Z",
+   "countries": [
+    "PAK",
+    "QAT"
+   ],
+   "score": 5,
+   "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
+   "title_en": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
+   "summary_en": "Pakistan and Qatar have reaffirmed their commitment to enhancing bilateral economic ties during the second meeting of their Joint Task Force on Trade and Investment in Doha.",
+   "body_en": [
+    "Co-chaired by Pakistan's Federal Minister for Commerce Jam Kamal Khan and Qatar’s Minister of State for Foreign Trade Affairs Dr Ahmad bin Mohammed Al-Sayed, the meeting reviewed progress in economic cooperation and explored practical measures to boost trade and industrial partnerships across sectors such as agriculture, IT, maritime transport, and infrastructure.",
+    "During the talks, Pakistan sought Qatar's support for the early signing of the Pakistan-GCC Free Trade Agreement and called for resolving restrictions on its bone-in meat exports. Islamabad also presented investment opportunities in modern agriculture, electric vehicles, digital infrastructure, the Karachi-Hyderabad Motorway, and civil aviation."
+   ],
+   "title_fa": "پاکستان و قطر راه‌های جدید همکاری‌های تجاری و سرمایه‌گذاری را بررسی می‌کنند",
+   "summary_fa": "پاکستان و قطر در جریان دومین نشست کارگروه مشترک تجارت و سرمایه‌گذاری در دوحه، بر تعهد خود برای تقویت روابط اقتصادی دوجانبه تأکید کردند.",
+   "body_fa": [
+    "این نشست به ریاست مشترک جام کمال خان، وزیر بازرگانی فدرال پاکستان و دکتر احمد بن محمد السید، وزیر مشاور در امور تجارت خارجی قطر برگزار شد و در آن پیشرفت همکاری‌های اقتصادی بررسی و اقدامات عملی برای ارتقای تجارت و مشارکت‌های صنعتی در بخش‌هایی مانند کشاورزی، فناوری اطلاعات، حمل‌ونقل دریایی و زیرساخت‌ها مورد تبادل نظر قرار گرفت.",
+    "در این گفتگوها، پاکستان خواستار حمایت قطر برای امضای سریع‌تر موافقت‌نامه تجارت آزاد میان پاکستان و شورای همکاری خلیج فارس شد و رفع محدودیت‌ها بر صادرات گوشت با استخوان خود به قطر را مطرح کرد. اسلام‌آباد همچنین فرصت‌های سرمایه‌گذاری در کشاورزی مدرن، خودروهای برقی، زیرساخت‌های دیجیتال، بزرگراه کراچی-حیدرآباد و هوانوردی غیرنظامی را ارائه داد."
+   ],
+   "title_ar": "باكستان وقطر تستكشفان آفاقاً جديدة للتعاون التجاري والاستثماري",
+   "summary_ar": "أكدت باكستان وقطر التزامهما وتعزيز العلاقات الاقتصادية الثنائية خلال الاجتماع الثاني لفريق العمل المشترك للتجارة والاستثمار في الدوحة.",
+   "body_ar": [
+    "استعرض الاجتماع، الذي ترأسه مناصفة وزير التجارة الفيدرالي الباكستاني جام كمال خان ووزير الدولة القطري لشؤون التجارة الخارجية الدكتور أحمد بن محمد السيد، التقدم أحرز في التعاون الاقتصادي وبحث إجراءات عملية لتعزيز التجارة والشراكات الصناعية في قطاعات مثل الزراعة وتكنولوجيا المعلومات والنقل البحري والبنية التحتية.",
+    "خلال المحادثات، طلبت باكستان دعم قطر للتوقيع المبكر على اتفاقية التجارة الحرة بين باكستان ودول مجلس التعاون الخليجي، ودعت إلى حل القيود المفروضة على صادراتها من اللحوم بالعظام. كما عرضت إسلام آباد فرصاً استثمارية في الزراعة الحديثة، والسيارات الكهربائية، والبنية التحتية الرقمية، وطريق كراتشي-حيدر آباد السريع، والطيران المدني."
    ]
   },
   {
@@ -926,33 +957,34 @@
    ]
   },
   {
-   "id": "7b01f4c96719",
+   "id": "32151483ad18",
    "lang": "en",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-24T23:03:21Z",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T23:02:06Z",
    "countries": [
-    "ISR"
+    "ISR",
+    "PSE"
    ],
-   "score": 6,
-   "title": "The bitter row over military service that could shape Israel's future",
-   "title_en": "The bitter row over military service that could shape Israel's future",
-   "summary_en": "Clashes between ultra-Orthodox Israelis and military police have highlighted a growing political and social rift over military draft exemptions for religious students during ongoing wars.",
+   "score": 7,
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "summary_en": "Israeli forces have launched a widespread crackdown in Hebron, demolishing homes and businesses and displacing hundreds of Palestinian residents following a deadly attack on a checkpoint.",
    "body_en": [
-    "Protests erupted in Modi'in as military police attempted to arrest a young ultra-Orthodox man for failing to report for military service. Following a Supreme Court ruling that invalidated full conscription exemptions for Haredi men, tensions have intensified between religious leaders, who argue that full-time Torah study spiritually protects the nation, and the broader Israeli public demanding equal military contribution amidst military manpower shortages.",
-    "The political impact of the draft issue is critical for Prime Minister Benjamin Netanyahu, who relies on Haredi political parties to maintain his governing coalition ahead of upcoming elections."
+    "The military operation was ordered by Prime Minister Benjamin Netanyahu after two Palestinian gunmen killed two Israeli soldiers at a checkpoint before being killed themselves. Israeli Defence Minister Israel Katz stated that around 2,000 residents were displaced in the targeted neighbourhoods, while local officials reported that at least 200 families were forced from their homes as bulldozers flattened streets and infrastructure.",
+    "The operation comes just days ahead of Israel's general election. Local leaders, including Hebron Mayor Youssef al-Jaabari, accused Netanyahu of using the campaign to secure votes from far-right groups, while the Palestinian Authority has called for urgent international action to prevent further forced displacement."
    ],
-   "title_fa": "مناقشه تلخ بر سر خدمت سربازی که می‌تواند آینده اسرائیل را شکل دهد",
-   "summary_fa": "درگیری‌ها میان اسرائیلی‌های حریدی و پلیس نظامی، شکاف رو به رشد سیاسی و اجتماعی بر سر معافیت دانشجویان دینی از خدمت سربازی در میان جنگ‌های جاری را برجسته کرده است.",
+   "title_fa": "آوارگی خانواده‌های فلسطینی در پی تخریب منازل هبرون توسط نیروهای اسرائیلی",
+   "summary_fa": "نیروهای اسرائیلی در پی یک حمله مرگبار به یک پاسگاه بازرسی، سرکوب گسترده‌ای را در هبرون آغاز کرده و با تخریب منازل و واحدهای تجاری، صدها ساکن فلسطینی را آواره کرده‌اند.",
    "body_fa": [
-    "درگیری‌ها در موديعين پس از آن آغاز شد که پلیس نظامی تلاش کرد یک جوان حریدی را به دلیل عدم معرفی خود برای خدمت سربازی بازداشت کند. پس از حکم دادگاه عالی که معافیت کامل مردان حریدی را باطل کرد، تنش‌ها میان رهبران دینی—که معتقدند مطالعه تورات امنیت معنوی کشور را تامین می‌کند—و عموم جامعه اسرائیل که خواهان مشارکت برابر در خدمت نظامی در میان کمبود نیروی ارتش هستند، شدت یافته است.",
-    "پیامدهای سیاسی موضوع سربازی برای بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تعیین‌کننده است؛ چرا که او برای حفظ ائتلاف حاكم خود در آستانه انتخابات آینده به احزاب سیاسی حریدی وابسته است."
+    "این عملیات نظامی پس از کشته شدن دو سرباز اسرائیلی توسط دو افراد مسلح فلسطینی در یک پاسگاه بازرسی — که خود نیز کشته شدند — به دستور بنیامین نتانیاهو نخست‌وزیر اسرائیل آغاز شد. اسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد که حدود ۲۰۰۰ تن از ساکنان محله‌های هدف آواره شده‌اند، در حالی که مقامات محلی گزارش دادند حداقل ۲۰۰ خانواده پس از تسطیح خیابان‌ها و زیرساخت‌ها توسط بولدوزرها از منازل خود بیرون رانده شده‌اند.",
+    "این عملیات تنها چند روز پیش از انتخابات سراسری اسرائیل صورت می‌گیرد. رهبران محلی، از جمله یوسف الجعبری شهردار هبرون، نتانیاهو را متهم کردند که از این کارزار برای جلب آرای گروه‌های راست افراطی استفاده می‌کند، در حالی که تشکیلات خودگردان فلسطین خواستار اقدام فوری بین‌المللی برای جلوگیری از آوارگی اجباری بیشتر شده است."
    ],
-   "title_ar": "الخلاف الحاد حول الخدمة العسكرية الذي قد يشكل مستقبل إسرائيل",
-   "summary_ar": "سلطت الاشتباكات بين الإسرائيليين الحريديم والشرطة العسكرية الضوء على الانقسام السياسي والاجتماعي المتزايد حول إعفاء الطلاب الدينيين من الخدمة العسكرية خلال الحروب المستمرة.",
+   "title_ar": "نزوح عائلات فلسطينية مع هدم القوات الإسرائيلية لمنازل في الخليل",
+   "summary_ar": "شنت القوات الإسرائيلية حملة قمع واسعة النطاق في الخليل، حيث هدمت منازل ومحال تجارية وشردت مئات السكان الفلسطينيين في أعقاب هجوم مميت على حاجز تفتيش.",
    "body_ar": [
-    "اندلعت الاحتجاجات في موديعين عندما حاولت الشرطة العسكرية اعتقال شاب من الحريديم لعدم التحاقه بالخدمة العسكرية. وبعد قرار المحكمة العليا بتبطيل الإعفاء الشامل للرجال الحريديم، تصاعدت التوترات بين القادة الدينيين الذين يرون أن دراسة التوراة تحمي البلاد روحياً، والجمهور الإسرائيلي الذي يطالب بمسؤولية عسكرية متساوية في ظل نقص القوى العاملة في الجيش.",
-    "وتعد التداعيات السياسية لقضية التجنيد حاسمة بالنسبة لرئيس الوزراء بنيامين نتنياهو، الذي يعتمد على الأحزاب السياسية الحريدية للحفاظ على ائتلافه الحكومي قبل الانتخابات القادمة."
+    "أمر رئيس الوزراء بنيامين نتنياهو بالعملية العسكرية بعد أن قتل مسلحان فلسطينيان جنديين إسرائيليين عند حاجز تفتيش قبل أن يُقتلا. وذكر وزير الدفاع الإسرائيلي يسرائيل كاتس أن نحو 2000 من السكان نزحوا في الأحياء المستهدفة، بينما أفاد مسؤولون محليون بأن 200 عائلة على الأقل أُجبرت على ترك منازلها بينما قامت الجرافات بتسوية شوارع وبنية تحتية بالأرض.",
+    "تأتي هذه العملية قبل أيام قليلة من الانتخابات العامة في إسرائيل. وأتهم قادة محليون، من بينهم رئيس بلدية الخليل يوسف الجعبري، نتنياهو باستغلال الحملة لتأمين أصوات أقصى اليمين، بينما دعت السلطة الفلسطينية إلى تحرك دولي عاجل لمنع المزيد من التهجير القسري."
    ]
   },
   {
