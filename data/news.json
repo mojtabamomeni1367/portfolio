@@ -1,7 +1,96 @@
 {
- "updated": "2026-10-26T03:49:56Z",
- "count": 111,
+ "updated": "2026-10-26T07:12:11Z",
+ "count": 114,
  "items": [
+  {
+   "id": "cb5f0b7f977f",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cv62yn9k8875o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T05:45:45Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "آیا محدودیت‌های مرزی پاکستان بخشی از سناریوی محاصره زمینی ایران است؟",
+   "title_en": "Are Pakistan's Border Restrictions Part of a Land Blockade Scenario Against Iran?",
+   "summary_en": "A week-long suspension of commercial traffic at key border crossings between Iran and Pakistan disrupted trade and left thousands of trucks stranded on both sides. Although the Gabd-Rimdan crossing has partially reopened, trade restrictions and new Pakistani import regulations continue to hamper the full flow of goods.",
+   "body_en": [
+    "Pakistan suspended commercial truck movement at the Gabd-Rimdan and Taftan-Mirjaveh crossings starting October 17, following the cancellation of a temporary exemption on electronic import forms for Iranian goods. Pakistani officials in Balochistan cited heightened security controls and anti-smuggling efforts for the temporary halt, while Iran's Foreign Ministry attributed the disruption to technical issues.",
+    "The Gabd-Rimdan border was recently reopened on a limited basis, permitting entry only to shipments with bills of lading dated on or before October 16, as well as certain perishable goods. However, the prolonged delay has triggered a surge in liquefied petroleum gas (LPG) prices in Balochistan and left between two and three thousand trucks awaiting clearance along the border."
+   ],
+   "title_fa": "آیا محدودیت‌های مرزی پاکستان بخشی از سناریوی محاصره زمینی ایران است؟",
+   "summary_fa": "توقف یک‌هفته‌ای تردد تجاری در گذرگاه‌های مرزی اصلی میان ایران و پاکستان باعث اختلال در مبادلات تجاری و متوقف شدن هزاران کامیون در دو سوی مرز شد. اگرچه گذرگاه گبد-ریمدان به‌صورت محدود بازگشایی شده، اما محدودیت‌های تجاری و مقررات جدید وارداتی پاکستان همچنان مانع جریان کامل کالاها است.",
+   "body_fa": [
+    "پاکستان از ۱۷ اکتبر حرکت کامیون‌های تجاری را در گذرگاه‌های گبد-ریمدان و تفتان-میرجاوه متوقف کرد. این اقدام پس از لغو معافیت موقت واردات از ایران از ارائه فرم الکترونیکی صورت گرفت. مقام‌های ایالت بلوچستان پاکستان هدف از این تصمیم را تقویت تدابیر امنیتی و مبارزه با قاچاق عنوان کرده‌اند، در حالی که وزارت امور خارجه ایران این توقف را ناشی از مشکلات فنی دانسته است.",
+    "گذرگاه گبد-ریمدان اخیراً تنها برای ورود محموله‌هایی که بارنامه آن‌ها مربوط به قبل از تصمیم جدید بوده و همچنین صادرات برخی کالاهای فسادپذیر بازگشایی شد. با این حال، معطل ماندن محموله‌ها سبب کمبود شدید و افزایش قیمت گاز مایع در ایالت بلوچستان پاکستان شده و حدود دو تا سه هزار کامیون در دو طرف مرز منتظر تعیین تکلیف هستند."
+   ],
+   "title_ar": "هل تشكل القيود الحدودية الباكستانية جزءاً من سيناريو الحصار البري على إيران؟",
+   "summary_ar": "تسبب توقف الحركة التجارية لمدة أسبوع في المعابر الحدودية الرئيسية بين إيران وباكستان في اضطراب التبادل التجاري وتكدس آلاف الشاحنات على جانبي الحدود. ورغم إعادة فتح معبر غبد-ريمدان بشكل محدود، لا تزال القيود التجارية واللوائح الجمركية الباكستانية الجديدة تعرقل تدفق البضائع بالكامل.",
+   "body_ar": [
+    "أوقفت باكستان حركة شاحنات التجارة عبر معبري غبد-ريمدان وتفتان-ميرجافه اعتباراً من 17 تشرين الأول/أكتوبر، وذلك عقب إلغاء إعفاء مؤقت للإستيراد من إيران من تقديم النموذج الإلكتروني. وأرجع مسؤولون في إقليم بلوچستان الباكستاني القرار إلى تعزيز الإجراءات الأمنية ومكافحة التهريب، بينما عزت وزارة الخارجية الإيرانية التوقف إلى مشكلات فنية.",
+    "أعيد فتح معبر غبد-ريمدان مؤخراً بشكل محدود للسماح بمرور الشحنات التي تحمل بوالص شحن مؤرخة في 16 تشرين الأول/أكتوبر أو ما قبله، بالإضافة إلى بعض البضائع القابلة للتلف. ومع ذلك، تسبب التأخير في ارتفاع أسعار الغاز المسال في إقليم بلوچستان وتكدس ما بين ألفين وثلاثة آلاف شاحنة في انتظار التخليص الجمركي على طرفي الحدود."
+   ]
+  },
+  {
+   "id": "0018d88a0a82",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
+   "date": "2026-10-26T03:57:15Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
+   "title_en": "Israel markets see upside in Netanyahu defeat after three-year rally",
+   "summary_en": "Some investors view a potential defeat for Prime Minister Benjamin Netanyahu in Tuesday's election as a catalyst for further gains in Israeli markets by reducing regional tensions and political risks. The outlook comes despite Israeli stocks and the shekel recording substantial rallies over three years of war and turmoil.",
+   "body_en": [
+    "Opinion polls indicate a tight election race between Netanyahu's Likud bloc and an opposition alliance centred on Gadi Eisenkot, with neither side projected to secure the 61 Knesset seats needed to form a government. Analysts at JPMorgan noted that an opposition victory could strengthen the shekel and improve ties with Western allies, whereas another Netanyahu-led government could weigh on the currency.",
+    "Nevertheless, many investors believe Israeli assets will remain resilient even if Netanyahu stays in power, given the economy's track record through years of conflict. Analysts note that the primary risk for the markets remains political deadlock and prolonged coalition negotiations, which could induce short-term market volatility."
+   ],
+   "title_fa": "بازارهای اسرائیل پس از رالی سه ساله، احتمال رشد بیشتر در صورت شکست نتانیاهو را بررسی می‌کنند",
+   "summary_fa": "برخی از سرمایه‌گذاران بر این باورند که شکست احتمالی بنیامین نتانیاهو در انتخابات آتی Knesset می‌تواند با کاهش تنش‌های منطقه‌ای و ریسک‌های سیاسی، موجب تقویت بیشتر بازارهای مالی اسرائیل شود. این در حالی است که شاخص‌های سهام و شقل اسرائیل در طول سه سال گذشته و با وجود جنگ، رشد چشمگیری داشته‌اند.",
+   "body_fa": [
+    "نظرسنجی‌ها رقابت تناتنگی را میان ائتلاف لیکود به رهبری نتانیاهو و ائتلاف اپوزیسیون به محوریت گادی آیزنکوت نشان می‌دهند، به طوری که هیچ‌یک از دو طرف انتظار نمی‌رود ۶۱ کرسی لازم برای تشکیل دولت را کسب کنند. تحلیلگران بانک جی‌پی مورگان اشاره کرده‌اند که پیروزی اپوزیسیون می‌تواند باعث تقویت شقل و بهبود روابط با متحدان غربی شود، در حالی که ماندن نتانیاهو ممکن است فشار بر ارز ملی را افزایش دهد.",
+    "با وجود این، بسیاری از سرمایه‌گذاران معتقدند که دارایی‌های اسرائیل حتی در صورت پیروزی نتانیاهو آسیب جدی نخواهند دید، چرا که اقتصاد و شرکت‌های اسرائیلی در طول سال‌ها نبرد و نوسان‌های سیاسی پایداری خود را نشان داده‌اند. اصلی‌ترین ریسک برای بازارهای مالی، بن‌بست سیاسی و طولانی شدن مذاکرات ائتلافی دانسته می‌شود که می‌تواند نوسانات کوتاه‌مدت را افزایش دهد."
+   ],
+   "title_ar": "أسواق إسرائيل ترى فرصة للصعود في حال هزيمة نتنياهو بعد صعود استمر ثلاث سنوات",
+   "summary_ar": "يرى بعض المستثمرين أن الهزيمة المحتملة لرئيس الوزراء بنيامين نتنياهو في الانتخابات المقبلة قد تشكل دافعاً لتحقيق مزيد من المكاسب في الأسواق الإسرائيلية من خلال تخفيف التوترات الإقليمية والمخاطر السياسية. يأتي هذا رغم تسجيل الأسهم والشيكل الإسرائيلي مكاسب كبيرة على مدى ثلاث سنوات من الحرب والاضطرابات.",
+   "body_ar": [
+    "تظهر استطلاعات الرأي تقارباً كبيراً بين تكتل الليكود بقيادة نتنياهو وتحالف المعارضة برئاسة غادي آيزنكوت، حيث لا يُتوقع أن يحصل أي من الطرفين على 61 مقعداً المطلوبة لتشكيل الحكومة. وأشار محللون في \"جي بي مورغان\" إلى أن فوز المعارضة قد يعزز قيمة الشيكل ويحسن العلاقات مع الحلفاء الغربيين، بينما قد يؤدي استمرار نتنياهو إلى الضغط على العملة.",
+    "ومع ذلك، يعتقد العديد من المستثمرين أن الأصول الإسرائيلية ستظل متماسكة حتى لو بقي نتنياهو في السلطة، مرجعين ذلك إلى مرونة الاقتصاد خلال سنوات الصراع. ويبقى الخطر الأكبر على الأسواق هو المأزق السياسي والمفاوضات الطويلة لتشكيل الحكومة، مما قد يؤدي إلى تقلبات قصيرة الأجل."
+   ]
+  },
+  {
+   "id": "7cae60156fcf",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T03:47:28Z",
+   "countries": [
+    "IRN",
+    "LKA"
+   ],
+   "score": 5,
+   "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+   "title_en": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+   "summary_en": "Sri Lankan authorities coordinated the medical treatment and repatriation of 40 Iranian sailors suffering from unspecified health emergencies in international waters off the island's southeastern coast. Planned in coordination with the Iranian Embassy in Colombo, the operation involved bringing the crew members ashore for care before flying them back to Iran.",
+   "body_en": [
+    "A Sri Lankan foreign ministry spokesperson said the distress call regarding urgent medical needs was received on Saturday from Iranian vessels stranded in international waters due to a US naval blockade. Authorities emphasized that assisting the crew was carried out on humanitarian grounds and under international legal obligations, maintaining Sri Lanka's neutral stance in the conflict."
+   ],
+   "title_fa": "نجات ۴۰ ملوان ایرانی در آب‌های ساحلی سری‌لانکا به دلیل وضعیت اضطراری پزشکی",
+   "summary_fa": "مقامات سری‌لانکا اعلام کردند که ۴۰ ملوان ایرانی را که در آب‌های بین‌المللی جنوب شرقی این کشور دچار وضعیت اضطراری پزشکی شده بودند، درمان کرده و به کشورشان بازگردانده‌اند. این عملیات با هماهنگی سفارت ایران در کلمبو انجام شد و ملوانان پس از مداوا با هواپیما به ایران منتقل شدند.",
+   "body_fa": [
+    "به گفته سخنگوی وزارت امور خارجه سری‌لانکا، پیام درخواست کمک روز شنبه از سوی کشتی‌های ایرانی دریافت شد. ملوانان نجات‌یافته متعلق به چند شناور مختلف بودند که به دلیل محاصره دریایی آمریکا در آب‌های بین‌المللی متوقف شده بودند. سری‌لانکا تأکید کرده که ارائه این خدمات بر اساس تعهدات بین‌المللی و دلایل انسان‌دوستانه صورت گرفته و به معنای جانبداری در مناقشه نیست."
+   ],
+   "title_ar": "إنقاذ 40 بحاراً إيرانياً قبالة سواحل سريلانكا بعد حالات طوارئ طبية",
+   "summary_ar": "أعلنت السلطات السريلانكية تنسيق علاج وإعادة 40 بحاراً إيرانياً تعرضوا لحالات طوارئ طبية في المياه الدولية قبالة الساحل الجنوبي الشرقي للبلاد. وتمت العملية بالتنسيق مع السفارة الإيرانية في كولومبو، حيث تم نقل البحارة إلى البر لتلقي العلاج قبل إعادتهم جوأً إلى إيران.",
+   "body_ar": [
+    "وقال متحدث باسم وزارة الخارجية السريلانكية إن نداء الاستغاثة بشأن الحالات الطبية العاجلة ورد يوم السبت من سفن إيرانية عالقة في المياه الدولية بسبب الحصار البحري الأمريكي. وأكدت السلطات أن تقديم المساعدة جاء لأسباب إنسانية وبموجب الالتزامات الدولية، مع الحفاظ على موقف سريلانكا المحايد في النزاع."
+   ]
+  },
   {
    "id": "ccc5d2c1fc4f",
    "lang": "fa",
