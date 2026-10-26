@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:23:05Z",
+ "updated": "2026-10-26T16:20:23Z",
  "items": [
   {
    "id": "250c5583ffcd",
@@ -3582,7 +3582,8 @@
     "PSE"
    ],
    "desc": "The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives",
-   "score": 7
+   "score": 7,
+   "skip": true
   },
   {
    "id": "8022880721b1",
@@ -3680,6 +3681,161 @@
    "desc": "بعد ثلاث سنوات من حرب إقليمية، هذه معركة علمت إسرائيل طويلاً أنها آتية، تكتب لوسي ويليامسون.",
    "score": 7,
    "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "2d6382e08911",
+   "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+   "date": "2026-10-26T15:44:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
+   "score": 8
+  },
+  {
+   "id": "53fb2e117f15",
+   "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+   "date": "2026-10-26T15:41:29Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
+   "score": 8,
+   "dup_of": "f2251df679c1"
+  },
+  {
+   "id": "52dbc2639453",
+   "title": "What does the Israeli election mean for religious groups?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
+   "date": "2026-10-26T15:40:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "What does the Israeli election mean for religious groups?",
+   "score": 4
+  },
+  {
+   "id": "a2298f1d2441",
+   "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss",
+   "date": "2026-10-26T14:38:50Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Countering Houthi advances in Yemen will be a major focus for Saudi Arabia and its allies in Tehran.",
+   "score": 8,
+   "dup_of": "e38b03a59d61"
+  },
+  {
+   "id": "be9a91a0caad",
+   "title": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
+   "date": "2026-10-26T14:31:42Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Rohingya refugees say they are being forced to dismantle their homes in Indian-administered Kashmir.",
+   "score": 6
+  },
+  {
+   "id": "3efd5f8667ed",
+   "title": "Jordan arrests three following deadly terror attack on church",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+   "date": "2026-10-26T15:12:52Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordanian authorities on Monday arrested three terrorists following a deadly attack on a church during a funeral procession that killed nine people in the western village of Hammoud. The three assailants – who are Islamic extremists, according the Jordanian director of public security – were injured in a dawn shootout with authorities and are due to be brought before the courts in the nation that supports capital punishment.",
+   "score": 7
+  },
+  {
+   "id": "0ea4a75629eb",
+   "title": "Pezeshkian urges 'regional unity' in meeting with Makkah pact countries in Tehran",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039939/pezeshkian-urges-regional-unity-in-meeting-with-makkah-pact-countries-in-tehran",
+   "date": "2026-10-26T15:28:41Z",
+   "countries": [
+    "IRN",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Iranian President Masoud Pezeshkian on Monday called for “regional unity” at a meeting in Tehran with representatives of Pakistan, Saudi Arabia and Turkiye, which recently signed the Makkah defence pact. “I hope that the presence of representatives of important and influential Islamic countries at this meeting will help further consolidate regional unity and cohesion,” Pezeshkian said, according to a statement shared on the presidential website, urging Islamic countries to “stand together and adopt a coordinated position”. At the start of the meeting, Iran’s state broadcaster reported the meet",
+   "score": 8,
+   "dup_of": "e38b03a59d61"
+  },
+  {
+   "id": "0a0260bd4645",
+   "title": "Pakistan seeks investment from US in oil refinery upgradation projects",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039988/pakistan-seeks-investment-from-us-in-oil-refinery-upgradation-projects",
+   "date": "2026-10-26T15:12:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Pakistan on Monday sought investment from US financial institutions in its oil refinery upgradation projects as the two countries discussed increasing cooperation in the energy sector. The development came during a meeting between Petroleum Minister Ali Pervaiz Malik and US Chargé d’Affaires Natalie Baker. During the meeting, Malik briefed the US envoy on measures Pakistan was taking to ensure energy security amid the evolving geopolitical situation, an official statement said. Malik highlighted that the ongoing conflict in the Middle East had created challenges for fuel availabilit",
+   "score": 5
+  },
+  {
+   "id": "5c78f5d62c32",
+   "title": "Govt to maintain wheat reserves of up to 6m tonnes to ensure uninterrupted supply: minister",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039991/govt-to-maintain-wheat-reserves-of-up-to-6m-tonnes-to-ensure-uninterrupted-supply-minister",
+   "date": "2026-10-26T15:55:47Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Food Security Minister Rana Tanveer Hussain on Monday announced that the government would maintain strategic wheat reserves of up to six million tonnes, asserting there would be no shortage of wheat in Pakistan this year as adequate arrangements were in place to meet the national requirements. “This will help ensure uninterrupted supplies and protect the country against potential market disruptions,” the minister said while addressing a press conference in Islamabad. His remarks came days after Prime Minister Shehbaz Sharif announced the indicative price of Rs4,500 per maund of whea",
+   "score": 3
+  },
+  {
+   "id": "b51c6feb20d6",
+   "title": "Central Development Working Party refers 3 KP infrastructure projects worth Rs100bn to Ecnec",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039986/central-development-working-party-refers-3-kp-infrastructure-projects-worth-rs100bn-to-ecnec",
+   "date": "2026-10-26T15:47:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The federal government on Monday cleared three major infrastructure projects worth Rs100 billion in Khyber Pakhtunkhwa, recommending them to the Executive Committee of the National Economic Council (Ecnec) for formal approval. The decision was taken at a meeting of the Central Development Working Party (CDWP) presided over by Minister for Planning, Development and Special Initiatives Ahsan Iqbal. “Federal government reaffirms commitment to KP’s development,” said Iqbal, referring to CDWP’s recommendation for a Rs69.89bn irrigation project to boost agriculture and rural livelihoods i",
+   "score": 2
+  },
+  {
+   "id": "decb6c8773af",
+   "title": "مرد افغان که ۵۸ فرزند دارد می‌گوید اسم بسیاری از آنها را «فراموش می‌کنم»",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ckg5jn7qdrjmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T15:10:20Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "خانواده‌های پرجمعیت و زوج‌هایی با فرزندان زیاد در افغانستان معمول است، اما شاید پرجمعیت‌ترین خانواده در این کشور خانواده محمد صادق، باشنده ارزگان باشد. محمد صادق از چهار همسرش ۵۸ فرزند دارد. او می‌گوید بیشتر اوقات فرزندانش را با نام‌های «پسرم» و «بچیم» صدا می‌زند.",
+   "score": 1
   }
  ]
 }

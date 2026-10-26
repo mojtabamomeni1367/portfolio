@@ -1,7 +1,180 @@
 {
- "updated": "2026-10-26T15:23:05Z",
- "count": 122,
+ "updated": "2026-10-26T16:20:23Z",
+ "count": 134,
  "items": [
+  {
+   "id": "2d6382e08911",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+   "date": "2026-10-26T15:44:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "title_en": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "summary_en": "A UN-mandated investigative commission has reported that Israel has committed crimes against humanity, including extermination and torture, in the occupied West Bank.",
+   "body_en": [
+    "The UN Independent International Commission of Inquiry on the Occupied Palestinian Territory stated on Monday that Israeli forces and the government are responsible for war crimes and crimes against humanity, such as rape and other forms of sexual violence in the territory. The findings come as Israeli forces carried out a crackdown in Hebron following a recent gun attack.",
+    "The commission noted that military operations and sustained settler violence constitute a widespread and systematic attack against civilians, intended to collectively punish the population. Israel's mission in Geneva strongly condemned the report, calling it part of a misinformation campaign and demanding the commission's immediate dissolution."
+   ],
+   "title_fa": "اسرائیل در کرانه باختری اشغالی مرتکب جنایات علیه بشریت می شود: سازمان ملل",
+   "summary_fa": "یک کمیسیون تحقیقاتی وابسته به سازمان ملل گزارش داد که اسرائیل مرتکب جنایات علیه بشریت، از جمله نابودی و شکنجه، در کرانه باختری اشغالی شده است.",
+   "body_fa": [
+    "کمیسیون مستقل بین‌المللی تحقیق سازمان ملل در مورد سرزمین‌های اشغالی فلسطین روز دوشنبه اعلام کرد که نیروها و دولت اسرائیل مسئول جنایات جنگی و جنایات علیه بشریت، مانند تجاوز و سایر اشکال خشونت جنسی در این سرزمین هستند. این یافته‌ها در حالی منتشر می‌شود که نیروهای اسرائیلی پس از یک حمله مسلحانه اخیر، اقدام به سرکوب در الخلیل کرده‌اند.",
+    "این کمیسیون خاطرنشان کرد که عملیات نظامی و خشونت پایدار شهرک‌نشینان تشکیل‌دهنده یک حمله گسترده و سیستماتیک علیه غیرنظامیان با هدف مجازات دسته‌جمعی جمعیت است. نمایندگی اسرائیل در ژنو این گزارش را به شدت محکوم کرد و آن را بخشی از یک کمپین اطلاعات نادرست خواند و خواستار انحلال فوری کمیسیون شد."
+   ],
+   "title_ar": "إسرائيل ترتكب جرائم ضد الإنسانية في الضفة الغربية المحتلة: الأمم المتحدة",
+   "summary_ar": "أفادت لجنة تحقيق مفوضة من الأمم المتحدة بأن إسرائيل ارتكبت جرائم ضد الإنسانية، بما في ذلك الإبادة والتعريد، في الضفة الغربية المحتلة.",
+   "body_ar": [
+    "ذكرت لجنة التحقيق الدولية المستقلة التابعة للأمم المتحدة بشأن الأراضي الفلسطينية المحتلة يوم الإثنين أن القوات والحكومة الإسرائيلية مسؤولتان عن جرائم حرب وجرائم ضد الإنسانية، مثل الاغتصاب وغيره من أشكال العنف الجنسي في الأراضي المحتلة. وتأتي هذه النتائج في الوقت الذي نفذت فيه القوات الإسرائيلية حملة قمع في الخليل عقب هجوم مسلح مؤخراً.",
+    "وأشارت اللجنة إلى أن العمليات العسكرية وعنف المستوطنين المستمر تشكل هجوماً واسع النطاق وممنهجاً ضد المدنيين بهدف معاقبة السكان جماعياً. وأدانت البعثة الإسرائيلية في جنيف التقرير بشدة، ووصفته بأنه جزء of حملة تضليل وطالبت بالحل الفوري للجنة."
+   ]
+  },
+  {
+   "id": "3efd5f8667ed",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+   "date": "2026-10-26T15:12:52Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 7,
+   "title": "Jordan arrests three following deadly terror attack on church",
+   "title_en": "Jordan arrests three following deadly terror attack on church",
+   "summary_en": "Jordanian authorities have arrested three Islamic extremists following a fatal attack on a church during a funeral procession in the village of Hammoud.",
+   "body_en": [
+    "The three suspects were injured during a dawn shootout with security forces and will face court proceedings. The attack, which occurred in western Hammoud, left nine people dead."
+   ],
+   "title_fa": "اردن سه نفر را به دنبال حمله تروریستی مرگبار به یک کلیسا دستگیر کرد",
+   "summary_fa": "مقام‌های اردنی پس از یک حمله مرگبار به یک کلیسا در جریان مراسم تشییع جنازه در روستای حمود، سه افراط‌گرای اسلامی را دستگیر کردند.",
+   "body_fa": [
+    "سه مظنون در جریان تیراندازی بامداد با نیروهای امنیتی زخمی شدند و با محاکمات قضایی روبرو خواهند شد. این حمله که در غرب حمود رخ داد، ۹ کشته برجای گذاشت."
+   ],
+   "title_ar": "الأردن يعتقل ثلاثة أشخاص على خلفية هجوم إرهابي دامي على كنيسة",
+   "summary_ar": "اعتقلت السلطات الأردنية ثلاثة متطرفين إسلاميين إثر هجوم قاتل على كنيسة أثناء جنازة في قرية حمود.",
+   "body_ar": [
+    "أُصيب المشتبه بهم الثلاثة خلال تبادل إطلاق نار عند الفجر مع قوات الأمن وسيواجهون المحاكمة. وأسفر الهجوم، الذي وقع في غرب حمود، عن مقتل تسعة أشخاص."
+   ]
+  },
+  {
+   "id": "0a0260bd4645",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039988/pakistan-seeks-investment-from-us-in-oil-refinery-upgradation-projects",
+   "date": "2026-10-26T15:12:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Pakistan seeks investment from US in oil refinery upgradation projects",
+   "title_en": "Pakistan seeks investment from US in oil refinery upgradation projects",
+   "summary_en": "Pakistan has invited US financial institutions to invest in its oil refinery upgradation projects during discussions aimed at boosting bilateral energy cooperation. Petroleum Minister Ali Pervaiz Malik and US Chargé d’Affaires Natalie Baker met in Islamabad to discuss energy security and supply challenges amid Middle East conflicts.",
+   "body_en": [
+    "During the meeting, Malik highlighted that ongoing Middle East conflicts create fuel availability challenges, necessitating proactive measures. Baker congratulated Pakistan on efficiently managing fuel supplies without shortages despite regional difficulties.",
+    "Malik also invited US companies to participate in the upcoming Pakistan Minerals Investment Forum. Local refineries recently entered agreements with the government to upgrade technologies with an estimated $5 billion investment over five years."
+   ],
+   "title_fa": "پاکستان به دنبال سرمایه‌گذاری ایالات متحده در پروژه‌های ارتقای پالایشگاه‌های نفت است",
+   "summary_fa": "پاکستان در جریان گفتگوهایی با هدف تقویت همکاری‌های دوجانبه انرژی، از موسسات مالی ایالات متحده برای سرمایه‌گذاری در پروژه‌های ارتقای پالایشگاه‌های نفت خود دعوت کرد. علی پرویز ملک، وزیر نفت، و ناتالی بیکار، کاردار ایالات متحده، در اسلام‌آباد برای گفتگو درباره امنیت انرژی و چالش‌های عرضه در سایه درگیری‌های خاورمیانه دیدار کردند.",
+   "body_fa": [
+    "در جریان این دیدار، ملک تأکید کرد که درگیری‌های جاری در خاورمیانه چالش‌هایی را برای دسترسی به سوخت ایجاد کرده و نیازمند اقدامات پیشگیرانه است. بیکر به خاطر مدیریت کارآمد منابع سوخت بدون کمبود علی‌رغم مشکلات منطقه‌ای به پاکستان تبریک گفت.",
+    "ملک همچنین از شرکت‌های آمریکایی برای شرکت در مجمع سرمایه‌گذاری معدنی آینده پاکستان دعوت کرد. پالایشگاه‌های محلی اخیراً توافقاتی با دولت برای ارتقای فناوری‌ها با سرمایه‌گذاری تخمینی ۵ میلیارد دلار طی پنج سال امضا کرده‌اند."
+   ],
+   "title_ar": "باكستان تسعى للحصول على استثمارات أمريكية في مشاريع تحديث تكرير النفط",
+   "summary_ar": "دعت باكستان المؤسسات المالية الأمريكية للاستثمار في مشاريع تحديث مصافي النفط لديها خلال مباحثات تهدف إلى تعزيز التعاون الثنائي في مجال الطاقة. التقى وزير البترول علي برويز مالك والقائمة بالأعمال الأمريكية ناتالي بيكر في إسلام آباد لمناقشة أمن الطاقة وتحديات الإمداد وسط صراعات الشرق الأوسط.",
+   "body_ar": [
+    "خلال الاجتماع، سلط مالك الضوء على أن الصراعات المستمرة في الشرق الأوسط تخلق تحديات في توفر الوقود، مما يتطلب تدابير استباقية. وهنأت بيكر باكستان على إدارتها الفعالة لإمدادات الوقود دون حدوث نقص رغم الصعوبات الإقليمية.",
+    "كما دعا مالك الشركات الأمريكية للمشاركة في منتدى الاستثمار التعديني الباكستاني القادم. وكانت المصافي المحلية قد دخلت مؤخراً في اتفاقيات مع الحكومة لتحديث تقنيات التكرير باستثمار مقدر بنحو 5 مليارات دولار خلال خمس سنوات."
+   ]
+  },
+  {
+   "id": "be9a91a0caad",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
+   "date": "2026-10-26T14:31:42Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "score": 6,
+   "title": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
+   "title_en": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
+   "summary_en": "Rohingya refugees in Indian-administered Jammu and Kashmir are dismantling their homes following a court order. Many fear being returned to Myanmar, where they face ongoing persecution, after living in the region for over a decade.",
+   "body_en": [
+    "The refugees face imminent eviction and have raised concerns about their uncertain future and where they will go next."
+   ],
+   "title_fa": "روهینگیایی‌ها در پی تهدید به تخلیه در منطقه مناقشه‌برانگیز کشمیر خانه‌های خود را برمی‌چینند",
+   "summary_fa": "پناه‌جویان روهینگیایی در جام و کشمیر تحت کنترل هند به دنبال دستور دادگاه در حال برچیدن خانه‌های خود هستند. بسیاری از آن‌ها پس از بیش از یک دهه زندگی در این منطقه، از بازگردانده شدن به میانمار که در آنجا با آزار و اذیت روبرو هستند، می‌ترسند.",
+   "body_fa": [
+    "این پناه‌جویان با تهدید قریب‌الوقوع تخلیه روبرو هستند و نگرانی‌های خود را درباره آینده نامشخص خود و اینکه به کجا خواهند رفت، ابراز کرده‌اند."
+   ],
+   "title_ar": "الروهينغا يفككون منازلهم وسط تهديدات بالخرد في منطقة كشمير المتنازع عليها",
+   "summary_ar": "يقوم لاجئون من الروهينغا في جامو وكشمير الخاضعة للإدارة الهندية تفكيك منازلهم إثر صدور أمر قضائي. يخشى الكثيرون إعادتهم إلى ميانمار، حيث يواجهون الاضطهاد، بعد العيش في المنطقة لأكثر من عقد.",
+   "body_ar": [
+    "يواجه اللاجئون خطر الإخلاء الوشيك، وأثاروا مخاوف بشأن مستقبلهم الغامض والمكان الذي سيذهبون إليه بعد ذلك."
+   ]
+  },
+  {
+   "id": "96410e383ccf",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian?traffic_source=rss",
+   "date": "2026-10-26T14:27:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
+   "title_en": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
+   "summary_en": "As tensions with the US persist, Iran's hardline Paydari Front has called for a withdrawal from the Nuclear Non-Proliferation Treaty and increased pressure on President Masoud Pezeshkian's government.",
+   "body_en": [
+    "The Paydari Front has urged the Iranian parliament and the Supreme National Security Council to withdraw from the Nuclear Non-Proliferation Treaty as quickly as possible. The faction's members have also initiated a motion in parliament to impeach Foreign Minister Abbas Araghchi following his visit to New York.",
+    "While hardliners continue to organize nightly protests against diplomatic efforts and advocate for ongoing conflict, supporters of President Pezeshkian maintain that a diplomatic solution remains necessary to address Iran's economic challenges."
+   ],
+   "title_fa": "تندروهای ضدمذاکره در ایران علیه رئیس‌جمهور پزشکیان موضع گرفتند",
+   "summary_fa": "با تداوم تنش‌ها با ایالات متحده، جبهه پایداری به‌عنوان یک جناح تندرو خواستار خروج از ان‌پی‌تی و افزایش فشار بر دولت مسعود پزشکیان شده است.",
+   "body_fa": [
+    "جبهه پایداری از مجلس و شورای عالی امنیت ملی خواسته است تا هرچه سریع‌تر از معاهده عدم اشاعه هسته‌ای خارج شوند. اعضای این جناح همچنین پس از سفر وزیر امور خارجه، عباس عراقچی، به نیویورک، طرح استیضاح او را در مجلس کلید زده‌اند.",
+    "در حالی که تندروها به برگزاری تجمع‌های شبانه علیه تلاش‌های دیپلماتیک و حمایت از ادامه درگیری ادامه می‌دهند، حامیان رئیس‌جمهور پزشکیان بر این باورند که راهکار دیپلماتیک برای حل چالش‌های اقتصادی ایران همچنان ضروری است."
+   ],
+   "title_ar": "المتشددون الرافضون للمفاوضات في إيران ينقلبون على الرئيس بزشکیان",
+   "summary_ar": "مع استمرار التوتر مع الولايات المتحدة، طالب جبهة الاستقرار (التماسك) المتشددة بالانسحاب من معاهدة حظر الانتشار النووي وزيادة الضغط على حكومة الرئيس مسعود بزشکیان.",
+   "body_ar": [
+    "دعت جبهة الاستقرار البرلمان الإيراني والمجلس الأعلى للأمن القومي إلى الانسحاب من معاهدة حظر الانتشار النووي في أسرع وقت ممكن. كما بادر أعضاء الفصيل إلى تقديم مذكرة في البرلمان لحجب الثقة عن وزير الخارجية عباس عراقجي عقب زيارته لنيويورك.",
+    "وفي الوقت الذي يواصل فيه المتشددون تنظيم تجمعات ليلية مناهضة للجهود الدبلوماسية والمطالبة باستمرار المواجهة، يرى مؤيدو الرئيس بزشکیان أن الحل الدبلوماسي يظل ضرورياً لمواجهة الأزمات الاقتصادية في البلاد."
+   ]
+  },
+  {
+   "id": "1192c53c5699",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
+   "date": "2026-10-26T14:20:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
+   "title_en": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
+   "summary_en": "As Israel prepares for elections on Tuesday, October 27, tens of thousands of citizens living abroad are traveling back to the country because voting from other nations is not permitted.",
+   "body_en": [
+    "With no provision for expatriates to cast ballots from outside the country, many citizens are making the journey home to participate in the upcoming polls. According to FRANCE 24's Noga Tarnopolsky, numerous voters have already been arriving at the airport from various locations around the globe."
+   ],
+   "title_fa": "انتظار می رود ده‌ها هزار تن از اسرائیلی‌های مقیم خارج برای رأی‌گیری سرنوشت‌ساز با پرواز به کشور بازگردند",
+   "summary_fa": "در حالی که اسرائیل خود را برای انتخابات روز سه‌شنبه (۲۷ اکتبر) آماده می‌کند، ده‌ها هزار تن از شهروندان مقیم خارج به دلیل عدم امکان رأی‌دادن از خارج از کشور، در حال بازگشت به وطن هستند.",
+   "body_fa": [
+    "با توجه به عدم امکان رأی‌دهی برای شهروندان خارج از کشور، بسیاری از افراد برای شرکت در انتخابات پیش رو سفر به وطن را آغاز کرده‌اند. به گزارش نوگا تارنوپولسکی، خبرنگار فرانس ۲۴، شمار زیادی از رأی‌دهندگان هم‌اکنون از نقاط مختلف جهان وارد فرودگاه شده‌اند."
+   ],
+   "title_ar": "من المتوقع أن يسافر عشرات الآلاف من الإسرائيليين المقيمين في الخارج عودةً إلى البلاد للمشاركة في تصويت حاسم",
+   "summary_ar": "بينما تستعد إسرائيل للانتخابات يوم الثلاثاء (27 أكتوبر)، يسافر عشرات الآلاف من المواطنين المقيمين في الخارج عودةً إلى البلاد لعدم توفر إمكانية التصويت من الخارج.",
+   "body_ar": [
+    "مع عدم وجود إمكانية لإدلاء المغتربين بأصواتهم من خارج البلاد، يقوم العديد من المواطنين بالرحلة إلى الوطن للمشاركة في الانتخابات القادمة. ووفقاً لنوجا تارنوبولسكي مراسلة فرانس 24، فقد وصل بالفعل عديد من الناخبين إلى المطار قادمين من مختلف أنحاء العالم."
+   ]
+  },
   {
    "id": "f2251df679c1",
    "lang": "en",
@@ -69,6 +242,102 @@
    ]
   },
   {
+   "id": "af1ff296a527",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039939/talks-with-makkah-pact-countries-begin-in-tehran-iranian-state-media",
+   "date": "2026-10-26T13:53:49Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "Talks with Makkah pact countries begin in Tehran: Iranian state media",
+   "title_en": "Talks with Makkah pact countries begin in Tehran: Iranian state media",
+   "summary_en": "Iranian President Masoud Pezeshkian hosted representatives from Pakistan, Saudi Arabia, and Turkiye in Tehran for discussions on regional cooperation and security.",
+   "body_en": [
+    "The meeting brought together high-نlevel officials, including Pakistani Chief of Army Staff Field Marshal Asim Munir, Saudi Defence Minister Prince Khalid bin Salman, and Turkish intelligence chief Ibrahim Kalin. Iranian state media reported that the four countries agreed to continue discussions on strengthening regional peace and security following their first meeting in Tehran.",
+    "The talks follow the recent signing of the Makkah defence pact and come amid heightened regional tensions and ongoing disputes regarding the Strait of Hormuz."
+   ],
+   "title_fa": "آغاز گفتگوها با کشورهای پیمان مکه در تهران به گزارش رسانه‌های دولتی ایران",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، در دیداری در تهران با نمایندگان پاکستان، عربستان سعودی و ترکیه پیرامون همکاری‌ها و امنیت منطقه‌ای گفتگو کرد.",
+   "body_fa": [
+    "این نشست میزبان مقام‌های ارشد از جمله ارتشبد عاصم منیر، فرمانده ارتش پاکستان، شاهزاده خالد بن سلمان، وزیر دفاع عربستان سعودی، و ابراهیم کالین، رئیس سازمان اطلاعات ترکیه بود. رسانه‌های دولتی ایران گزارش دادند که این چهار کشور پس از نخستین نشست خود در تهران توافق کردند گفتگوها را برای تحکیم صلح و امنیت منطقه‌ای ادامه دهند.",
+    "این گفتگوها به دنبال امضای اخیر پیمان دفاعی مکه و در فضایی از تنش‌های فزاینده منطقه‌ای و مناقشات جاری پیرامون تنگه هرمز برگزار شد."
+   ],
+   "title_ar": "بدء المحادثات مع دول ميثاق مكة في طهران وفقاً للإعلام الرسمي الإيراني",
+   "summary_ar": "استضاف الرئيس الإيراني مسعود بزشکیان ممثلين عن باكستان والمملكة العربية السعودية وتركيا في طهران لإجراء مباحثات بشأن التعاون والأمن الإقليمي.",
+   "body_ar": [
+    "جمع الاجتماع مسؤولين رفيعي المستوى، من بينهم قائد الجيش الباكستاني المشير عاصم منير، وزير الدفاع السعودي الأمير خالد بن سلمان، ورئيس الاستخبارات التركية إبراهيم كالن. وأفاد الإعلام الرسمي الإيراني أن الدول الأربع اتفقت على مواصلة المشاورات لتعزيز السلام والأمن الإقليميين في أعقاب اجتماعهم الأول بطهران.",
+    "تأتي هذه المحادثات في أعقاب توقيع ميثاق مكة للدفاع وسط توترات إقليمية متصاعدة ونزاعات مستمرة بشأن مضيق هرمز."
+   ]
+  },
+  {
+   "id": "bc5ee8ae764a",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c64g1j0x0ezno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T13:23:48Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 7,
+   "title": "بسته شدن گذرگاه مرزی ایران و عراق؛ صدور حکم جلب مصطفى دعیر که تهدید به نافرمانی مدنی کرده بود",
+   "title_en": "Closure of Iran-Iraq border crossing; arrest warrant issued for Mustafa Dair after civil disobedience threat",
+   "summary_en": "An Iraqi court has issued an arrest warrant for Maysan provincial council head Mustafa Dair following his threats of civil disobedience over the closure of the Sheeb border crossing with Iran.",
+   "body_en": [
+    "The Prime Minister’s office filed a complaint against Dair after he warned that Maysan province would declare civil disobedience and sever ties with other regions if the Sheeb crossing was not reopened. Iraqi authorities had ordered the closure of the crossing on October 20, citing reasons such as curbing drug smuggling and upgrading technical facilities.",
+    "Local officials and truck drivers dependent on the crossing have criticized the closure, noting its severe impact on local commerce and livelihoods, while the Iranian embassy in Baghdad has denied smuggling allegations."
+   ],
+   "title_fa": "بسته شدن گذرگاه مرزی ایران و عراق؛ صدور حکم جلب مصطفى دعیر که تهدید به نافرمانی مدنی کرده بود",
+   "summary_fa": "دادگاهی در عراق پس از تهدید مصطفی دعیر، رئیس شورای استان میسان، به نافرمانی مدنی در پی بسته شدن گذرگاه مرزی شیب با ایران، حکم جلب او را صادر کرد.",
+   "body_fa": [
+    "دفتر نخست‌وزیری عراق پس از آنکه دعیر هشدار داد در صورت بازگشایی نشدن گذرگاه شیب، استان میسان نافرمانی مدنی اعلام خواهد کرد، از او شکایت کرد. مقام‌های عراقی در ۲۰ اکتبر دستور تعطیلی این گذرگاه را با استدلالی نظیر مقابله با قاچاق مواد مخدر و بهبود امکانات صادر کرده بودند.",
+    "مقام‌های محلی و رانندگان کامیونی که معاش‌شان به این گذرگاه وابسته است از تعطیلی آن انتقاد کرده و از تاثیرات منفی آن بر تجارت سخن گفتند، در حالی که سفارت ایران در بغداد اتهامات قاچاق را رد کرد."
+   ],
+   "title_ar": "إغلاق معبر حدودي بين إيران والعراق؛ صدور مذكرة اعتقال بحق مصطفی دعیر إثر التهديد بالعصيان المدني",
+   "summary_ar": "أصدرت محكمة عراقية مذكرة اعتقال بحق رئيس مجلس محافظة ميسان مصطفی دعیر على خلفية تهديده بالعصيان المدني بسبب إغلاق معبر الشيب الحدودي مع إيران.",
+   "body_ar": [
+    "تقدم مكتب رئيس الوزراء بشكوى ضد دعیر بعد أن حذر من أن محافظة ميسان ستعلن العصيان المدني وتقطع روابطها بالمناطق الأخرى إذا لم يتم إعادة فتح معبر الشيب. وكانت السلطات العراقية قد أمرت بإغلاق المعبر في 20 أكتوبر بحجج تتضمن مكافحة تهريب المخدرات وتحسين المرافق الفنية.",
+    "انتقد المسؤولون المحليون والسائقون المعتمدون على المعبر عملية الإغلاق لتأثيرها على التجارة، فيما نفت السفارة الإيرانية في بغداد اتهامات التهريب."
+   ]
+  },
+  {
+   "id": "e8f1bf2957c3",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+   "date": "2026-10-26T13:11:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel expands expulsions in occupied West Bank to cement control",
+   "title_en": "Israel expands expulsions in occupied West Bank to cement control",
+   "summary_en": "More than 3,000 Palestinians have been displaced in Hebron as the Israeli military intensifies a sweeping operation involving lockdowns, demolitions, and the conversion of homes into military posts.",
+   "body_en": [
+    "The military crackdown in Hebron followed a shooting incident that killed two soldiers, prompting extensive lockdowns and the displacement of hundreds of families across the governorate. Israeli officials have indicated they are applying tactics from previous military campaigns in the West Bank and Gaza to permanently alter the area.",
+    "Human rights groups and local analysts have criticized the actions as collective punishment and forced displacement, noting the widespread destruction of infrastructure and increased activity by armed settlers alongside the army."
+   ],
+   "title_fa": "اسرائیل برای تثبیت کنترل خود اخراج فلسطینیان را در کرانه باختری اشغالی گسترش می‌دهد",
+   "summary_fa": "بیش از ۳۰۰۰ فلسطینی در پی تشدید عملیات نظامی اسرائیل شامل مسدودسازی‌ها، تخریب‌ها و تبدیل منازل به پایگاه‌های نظامی در شهر الخلیل (حبرون) آواره شدند.",
+   "body_fa": [
+    "سرکوب نظامی در الخلیل به دنبال تیراندازی منجر به کشته شدن دو سرباز آغاز شد و به قرنطینه گسترده و آوارگی صدها خانواده در سراسر استان انجامید. مقام‌های اسرائیل اعلام کرده‌اند که در حال پیاده‌سازی تاکتیک‌های کمپین‌های نظامی پیشین در کرانه باختری و غزه برای تغییر دائمی وضعیت منطقه هستند.",
+    "گروه‌های حقوق بشری و تحلیلگران محلی این اقدامات را مجازات دسته‌جمعی و کوچ اجباری خوانده و به تخریب گسترده زیرساخت‌ها و تحرکات شهرک‌نشینان مسلح در کنار ارتش اشاره کرده‌اند."
+   ],
+   "title_ar": "إسرائيل توسع عمليات التهجير في الضفة الغربية المحتلة لتثبيت سيطرتها",
+   "summary_ar": "نزح أكثر من 3000 فلسطيني في الخليل مع تكثيف الجيش الإسرائيلي لعملية واسعة تشمل الإغلاقات وعمليات الهدم وتحويل المنازل إلى ثكنات عسكرية.",
+   "body_ar": [
+    "جاءت الحملة العسكرية في الخليل عقب حادث إطلاق نار أدى إلى مقتل جنديين، مما أدى إلى فرض إغلاقات واسعة وتهجير مئات العائلات في مختلف أنحاء المحافظة. وأشارت السلطات الإسرائيلية إلى تطبيق تكتيكات مستوحاة من العمليات السابقة في الضفة الغربية وغزة لتغيير الواقع بشكل دائم.",
+    "انتقدت منظمات حقوقية ومحللون هذه الإجراءات واعتبروها عقاباً جماعياً وتهجيراً قسرياً، مشيرين إلى الدمار الواسع في البنية التحتية وتزايد اعتداءات المستوطنين المسلحين بالتوازي مع عمليات الجيش."
+   ]
+  },
+  {
    "id": "69fb4ef61f3a",
    "lang": "en",
    "source": "Al Jazeera",
@@ -94,6 +363,63 @@
    "summary_ar": "تسببت شظايا ناتجة عن اعتراض صواريخ للحوثيين في إلحاق أضرار بالمباني والمركبات في مدينة خميس مشيط السعودية. ورداً على ذلك، شن التحالف العسكري الذي تقوده السعودية ضربات على العاصمة اليمنية صنعاء، مستهدفاً ودامراً منصات إطلاق الصواريخ الباليستية.",
    "body_ar": [
     "عرض التلفزيون الرسمي السعودي صوراً تظهر الأضرار التي لحقت بالبنية التحتية المحلية في خميس مشيط عقب عملية الاعتراض. ودفعت الضربات الانتقامية التي شنتها قوات التحالف في صنعاء إلى تحييد قدرات الإطلاق لدى الحوثيين."
+   ]
+  },
+  {
+   "id": "66dbcf0ed3c1",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+   "date": "2026-10-26T12:35:55Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel braces for national elections seen as a referendum on Netanyahu",
+   "title_en": "Israel braces for national elections seen as a referendum on Netanyahu",
+   "summary_en": "Israelis are preparing to vote in national elections on Tuesday, marking the first such vote since the October 7, 2023 attacks. The election is widely viewed as a referendum on Prime Minister Benjamin Netanyahu's leadership.",
+   "body_en": [
+    "With expatriate citizens unable to vote from abroad, many have flown back to Israel from around the world to participate in the upcoming poll."
+   ],
+   "title_fa": "اسرائیل برای انتخابات سراسری که به عنوان همه‌پرسی درباره نتانیاهو تلقی می‌شود آماده می‌شود",
+   "summary_fa": "اسرائیلی‌ها برای شرکت در انتخابات سراسری در روز سه‌شنبه، که نخستین انتخابات از زمان حملات ۷ اکتبر ۲۰۲۳ است، آماده می‌شوند. این انتخابات به طور گسترده به عنوان همه‌پرسی درباره رهبری بنیامین نتانیاهو، نخست‌وزیر، تلقی می‌شود.",
+   "body_fa": [
+    "با توجه به اینکه شهروندان مقیم خارج قادر به رأی دادن از خارج از کشور نیستند، بسیاری از آن‌ها برای شرکت در این انتخابات از سراسر جهان به اسرائیل پرواز کرده‌اند."
+   ],
+   "title_ar": "إسرائيل تستعد لانتخابات وطنية تعتبر استفتاءً على نتانياهو",
+   "summary_ar": "يستعد الإسرائيليون للتصويت في انتخابات وطنية يوم الثلاثاء، وهي الأولى منذ هجمات 7 أكتوبر 2023. وتُرى الانتخابات على نطاق واسع كاستفتاء على قيادة رئيس الوزراء بنيامين نتانياهو.",
+   "body_ar": [
+    "مع عدم قدرة المواطنين المغتربين على التصويت من الخارج، عاد الكثير منهم جواً إلى إسرائيل من جميع أنحاء العالم للمشاركة في الاقتراع."
+   ]
+  },
+  {
+   "id": "f6d2bc612b92",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T11:01:16Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 7,
+   "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+   "title_en": "Jordan arrests three men suspected of deadly church attack after shootout",
+   "summary_en": "Jordanian security forces have arrested three armed suspects following a shootout in Karak governorate. The suspects are linked to a recent church attack that left nine Christians dead and 34 others injured.",
+   "body_en": [
+    "According to officials, the Public Security Directorate located the suspects inside an abandoned house before dawn, where they opened fire after refusing to surrender. Security forces returned fire, wounding all three men without sustaining any casualties themselves.",
+    "King Abdullah II, Interior Minister Mazen al-Faraya, and the Greek Orthodox Patriarch of Jerusalem Theophilos III condemned the attack, while thousands attended the funerals of the victims."
+   ],
+   "title_fa": "اردن سه مرد مظنون به حمله مرگبار به کلیسا را پس از درگیری مسلحانه دستگیر کرد",
+   "summary_fa": "نیروهای امنیتی اردن سه مظنون مسلح را به دنبال یک درگیری مسلحانه در استان الکرک دستگیر کردند. این مظنونان با حمله اخیر به یک کلیسا که منجر به کشته شدن ۹ مسیحی و زخمی شدن ۳۴ نفر دیگر شد، مرتبط هستند.",
+   "body_fa": [
+    "به گفته مقام‌ها، اداره امنیت عمومی این مظنونان را قبل از طلوع آفتاب در یک خانه متروکه ردیابی کرد که پس از امتساع از تسلیم شدن، اقدام به تیراندازی کردند. نیروهای امنیتی پاسخ آتش دادند و هر سه مرد را زخمی کردند بدون اینکه تلفاتی متحمل شوند.",
+    "پادشاه عبدالله دوم، مازن الفرایه وزیر کشور، و تئوفیلوس سوم پاتریارک ارتدوکس یونانی اورشلیم این حمله را محکوم کردند، در حالی که هزاران نفر در مراسم تشییع جنازه قربانیان شرکت کردند."
+   ],
+   "title_ar": "الأردن يعتقل ثلاثة رجال للاشتباه في تورطهم في هجوم مميت على كنيسة بعد تبادل لإطلاق النار",
+   "summary_ar": "اعتقلت قوات الأمن الأاردنية ثلاثة مشتبه بهم مسلحين عقب تبادل لإطلاق النار في محافظة الكرك. ويُعتقد ارتباط المشتبه بهم بهجوم استهدف كنيسة مؤخراً وأسفر عن مقتل تسعة مسيحيين وإصابة 34 آخرين.",
+   "body_ar": [
+    "وفقاً للمسؤولين، حددت مديرية الأمن العام موقع المشتبه بهم داخل منزل مهجور قبل الفجر، حيث أطلقوا النار بعد رفضهم الاستسلام. وردت قوات الأمن بإطلاق النار مما أدى إلى إصابة الرجال الثلاثة دون وقوع إصابات بين عناصر الأمن.",
+    "أدان الملك عبد الله الثاني، وزير الداخلية مازن الفراية، وبطريرك الروم الأرثوذكس في القدس ثيوفيلوس الثالث الهجوم، بينما شارك الآلاف في تشييع جثامين الضحايا."
    ]
   },
   {
@@ -217,6 +543,38 @@
    "body_ar": [
     "شنت القوات الإسرائيلية حصاراً عسكرياً وهجوماً واسع النطاق في الخليل بعد أن هاجم فلسطينيان حاجزاً عسكرياً مما أدى إلى مقتل جنديين. وأدّت العملية إلى تهجير أكثر من 2000 فلسطيني قسراً، مما دفعت السلطات المحلية إلى إعلان حالة الطوارئ.",
     "استجابةً للأزمة، بادر سكان الخليل وأصحاب الأعمال المحليون لاستضافة العائلات النازحة في ممتلكاتهم. وفي الوقت نفسه، تستمر قيود الحركة ونقاط التفتيش في التأثير بشدة على ما يقرب من مليون مقيم في جميع أنحاء المحافظة، مما أدى إلى إغلاق المدارس وإجبار الجامعات على اعتماد التعلم عبر الإنترنت."
+   ]
+  },
+  {
+   "id": "7e069d053b4b",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+   "date": "2026-10-26T07:33:47Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+   "title_en": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+   "summary_en": "Delegations from the Mecca Defence Alliance, including Saudi Arabia, Turkiye, and Pakistan, are set to visit Tehran for high-level talks amid ongoing regional tensions.",
+   "body_en": [
+    "According to officials and state media, the visit will include Saudi Defence Minister Khalid bin Salman Al Saud, Pakistani military chief Asim Munir, and Turkish intelligence chief Ibrahim Kalin. The meeting aims to promote de-escalation and diplomatic solutions in support of ongoing mediation efforts.",
+    "The countries signed the Mecca Joint Defence Agreement in August, under which an attack on one member is considered an attack on all. This planned visit marks the first high-level contact between Iran and all members of the alliance since Houthi attacks escalated last month."
+   ],
+   "title_fa": "مقام‌های کشورهای پیمان مکه در میان تنش‌های منطقه‌ای در ایران گفتگو خواهند کرد",
+   "summary_fa": "هیئت‌هایی از ائتلاف دفاعی مکه، از جمله عربستان سعودی، ترکیه و پاکستان، برای انجام گفتگوهای بلندپایه در میان تنش‌های منطقه‌ای جاری به تهران سفر می‌کنند.",
+   "body_fa": [
+    "بر اساس اعلام مقام‌ها و رسانه‌های دولتی، این سفر شامل خالد بن سلمان آل سعود وزیر دفاع عربستان سعودی، عاصم منیر فرمانده ارتش پاکستان و ابراهیم کالین رئیس سازمان اطلاعات ترکیه خواهد بود. هدف این نشست ارتقای تنش‌زدایی و راه حل‌های دیپلماتیک در حمایت از تلاش‌های میانجی‌گری جاری است.",
+    "این کشورها در ماه اوت توافقنامه دفاع مشترک مکه را امضا کردند که بر اساس آن حمله به یک عضو به منزله حمله به همه آنها تلقی می‌شود. این سفر برنامه‌ریزی شده نخستین تماس سطح بالا بین ایران و تمام اعضای این ائتلاف از زمان تشدید حملات حوثی‌ها در ماه گذشته است."
+   ],
+   "title_ar": "مسؤولون من دول ميثاق مكة يعقدون محادثات في إيران وسط توترات إقليمية",
+   "summary_ar": "من المقرر أن تزار وفود من تحالف دفاع مكة، الذي يضم المملكة العربية السعودية وترکیة وپاكستان، طهران لإجراء محادثات وسط التوترات الإقليمية المستمرة.",
+   "body_ar": [
+    "وفقاً للمسؤولين وسائل الإعلام الرسمية، ستشمل الزيارة وزير الدفاع السعودي الأمير خالد بن سلمان آل سعود، ورئيس الأركان الباكستاني عاصم منير، ورئيس الاستخبارات التركية إبراهيم كالين. ويهدف الاجتماع إلى تعزيز خفض التصعيد والحلول الدبلوماسية لدعم جهود الوساطة الجارية.",
+    "وقعت هذه الدول اتفاقية دفاع مشترك مكة في أغسطس/آب، والتي بموجبها يعتبر الهجوم على أي عضو هجوماً على الجميع. وتعد هذه الزيارة المخطط لها أول اتصال رفيع المستوى بين إيران وجميع أعضاء التحالف منذ تصاعد هجمات الحوثيين الشهر الماضي."
    ]
   },
   {
