@@ -1,7 +1,123 @@
 {
- "updated": "2026-10-26T16:20:23Z",
- "count": 134,
+ "updated": "2026-10-26T19:10:42Z",
+ "count": 135,
  "items": [
+  {
+   "id": "34fc65e85cd0",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+   "date": "2026-10-26T17:59:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+   "title_en": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+   "summary_en": "The United Nations raised concerns over potential ethnic cleansing after Israeli forces forcibly displaced over 3,000 Palestinians in Hebron following a lethal checkpoint attack.",
+   "body_en": [
+    "The forced displacement occurred after two Palestinian gunmen killed two Israeli soldiers at a checkpoint near Hebron. UN rights chief Volker Turk demanded an immediate end to the military operation, warning that applying collective punishment violates international law."
+   ],
+   "title_fa": "سازمان ملل با اشاره به عملیات جابه‌جایی فلسطینیان توسط اسرائیل در الخلیل، در مورد «پاکسازی قومی» ابراز نگرانی کرد",
+   "summary_fa": "سازمان ملل متحد پس از آوارگی اجباری بیش از ۳۰۰۰ فلسطینی در الخلیل توسط نیروهای اسرائیلی در پی یک حمله مرگبار در یک بازرسی، نسبت به احتمال پاکسازی قومی ابراز نگرانی کرد.",
+   "body_fa": [
+    "این جابه‌جایی اجباری پس از آن صورت گرفت که دو افراد مسلح فلسطینی دو سرباز اسرائیلی را در یک ایست بازرسی در نزدیکی الخلیل به قتل رساندند. فولکر تورک، رئیس حقوق بشر سازمان ملل خواستار پایان فوری این عملیات شد و تحمیل مجازات دسته‌جمعی را نقض آشکار حقوق بین‌الملل دانست."
+   ],
+   "title_ar": "الأمم المتحدة تثير مخاوف من \"تطهير عرق\" بشأن عملية تهجير الفلسطينيين التي تقوم بها إسرائيل في الخليل",
+   "summary_ar": "أعربت الأمم المتحدة عن مخاوفها بشأن احتمال حدوث تطهير عرقي بعد أن هجّرت القوات الإسرائيلية قسراً أكثر من 3000 فلسطيني في الخليل عقب هجوم مميت عند نقطة تفتيش.",
+   "body_ar": [
+    "وجاء التهجير القسري بعد أن قتل مسلحان فلسطينيان جنديين إسرائيليين عند نقطة تفتيش بالقرب من الخليل. وطالب فولكر تورك، مفوض الأمم المتحدة السامي لحقوق الإنسان، بإنهاء هذه العملية فوراً، مؤكداً أن العقاب الجماعي يشكل انتهاكاً جسيماً للقانون الدولي."
+   ]
+  },
+  {
+   "id": "cea6dc9ca79a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+   "date": "2026-10-26T16:39:48Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+   "title_en": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+   "summary_en": "UN Secretary-General Antonio Guterres warned of severe consequences from military escalation between Iran and Gulf states, while Egypt engages in diplomacy to avoid conflict.",
+   "body_en": [
+    "Guterres stressed that military confrontation involving Iran and neighboring Gulf nations could lead to devastating outcomes. Egypt's foreign minister stated that Cairo remains in daily contact with Tehran, Washington, and regional partners to prevent another full-scale war."
+   ],
+   "title_fa": "گوترش درباره عواقب «غیرقابل تصور» تشدید تنش میان ایران و کشورهای خلیج فارس هشدار داد",
+   "summary_fa": "آنتونیو گوترش، دبیرکل سازمان ملل متحد، در مورد عواقب وخیم هرگونه تشدید نظامی میان ایران و کشور‌های خلیج فارس هشدار داد، در حالی که مصر برای جلوگیری از درگیری دست به دیپلماسی زده است.",
+   "body_fa": [
+    "گوترش تأکید کرد که رویارویی نظامی شامل ایران و کشور‌های همسایه در خلیج فارس می‌تواند به نتایج ویرانگری منجر شود. وزیر امور خارجه مصر اعلام کرد که قاهره برای جلوگیری از یک جنگ همه‌جانبه دیگر، روزانه با تهران، واشنگتن و شرکای منطقه‌ای در ارتباط است."
+   ],
+   "title_ar": "غوتيريش يحذر من عواقب \"لا يمكن تصورها\" للتصعيد بين إيران والخليج",
+   "summary_ar": "حذر الأمين العام للأمم المتحدة أنطونيو غوتيريش من عواقب كارثية لأي تصعيد عسكري بين إيران ودول الخليج، في حين تجري مصر اتصالات دبلوماسية لتجنب المواجهة.",
+   "body_ar": [
+    "وشدد غوتيريش على أن المواجهة العسكرية التي تشارك فيها إيران ودول الخليج المجاورة قد تؤدي إلى نتائج مدمرة. وصرح وزير الخارجية المصري بأن القاهرة على اتصال يومي مع طهران وواشنطن والشركاء الإقليميين لمنع اندلاع صراع عسكري شامل آخر."
+   ]
+  },
+  {
+   "id": "e7481ce0e100",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
+   "date": "2026-10-26T16:24:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
+   "title_en": "‘Everything destroyed’: Hebron businesses count cost of Israeli assault",
+   "summary_en": "Israeli bulldozers demolished factories and commercial properties in Hebron following a shooting attack, causing massive economic losses and severely disrupting local businesses.",
+   "body_en": [
+    "The demolitions occurred on Friday without prior warning after a shooting near Hebron killed two Israeli soldiers and two Palestinian gunmen. Israeli Finance Minister Bezalel Smotrich justified the actions as establishing deterrence, while human rights groups decry the practice as collective punishment.",
+    "Local business owners reported extensive destruction to factories, warehouses, and shops, with losses estimated in the millions of dollars. The Hebron Chamber of Commerce noted that the military operation and subsequent lockdown have severely impacted the city's vital role in the Palestinian economy."
+   ],
+   "title_fa": "«همه چیز نابود شد»: کسب‌وکارهای الخلیل هزینه حمله اسرائیل را برآورد می‌کنند",
+   "summary_fa": "بولدوزرهای اسرائیلی به دنبال یک تیراندازی، کارخانه‌ها و املاک تجاری را در الخلیل تخریب کردند که منجر به خسارات سنگین اقتصادی و اخلال شدید در کسب‌وکارهای محلی شد.",
+   "body_fa": [
+    "این تخریب‌ها روز جمعه بدون هشدار قبلی و پس از تیراندازی در نزدیکی الخلیل که به کشته شدن دو سرباز اسرائیلی و دو فرد مسلح فلسطینی منجر شد، رخ داد. بتزالل اسموتریچ، وزیر دارایی اسرائیل، این اقدامات را ایجاد بازدارندگی توجیه کرد، در حالی که گروه‌های حقوق بشری این رویه را مجازات دسته‌جمعی محکوم می‌کنند.",
+    "صاحبان کسب‌وکارهای محلی از تخریب گسترده کارخانه‌ها، انبارها و مغازه‌ها خبر دادند و خسارات میلیون‌ها دلار تخمین زده شد. اتاق بازرگانی الخلیل خاطرنشان کرد که عملیات نظامی و قرنطینه متعاقب آن، تأثیر شدیدی بر نقش حیاتی این شهر در اقتصاد فلسطین داشته است."
+   ],
+   "title_ar": "«كل شيء دمر»: الشركات في الخليل تحصي تكلفة الهجوم الإسرائيلي",
+   "summary_ar": "دمرت الجرافات الإسرائيلية مصانع وممتلكات تجارية في الخليل عقب هجوم إطلاق نار، مما أدى إلى خسائر اقتصادية هائلة وتعطيل حاد للأعمال التجارية المحلية.",
+   "body_ar": [
+    "حدثت عمليات الهدم يوم الجمعة دون إنذار مسبق بعد إطلاق نار قرب الخليل أدى إلى مقتل جنديين إسرائيليين ومسلحين فلسطينيين. وبرر وزير المالية الإسرائيلي بتسلئيل سموتريتش هذه الإجراءات بخلق ردع، بينما استنكرت جماعات حقوق الإنسان الممارسة باعتبارها عقاباً جماعياً.",
+    "أبلغ أصحاب الأعمال المحليون عن دمار واسع النطاق للمصانع والمستودعات والمتاجر، وقدرت الخسائر بملايين الدولارات. وأشارت غرفة تجارة وصناعة الخليل إلى أن العملية العسكرية والإغلاق اللاحق أثرا بشكل حاد على دور المدينة الحيوي في الاقتصاد الفلسطيني."
+   ]
+  },
+  {
+   "id": "787557057a41",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/escalation-coming-middle-east-edge-new-israeli-us-attack-iran-looms-0",
+   "date": "2026-10-26T16:11:54Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 9,
+   "title": "'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms",
+   "title_en": "'Escalation is coming': Middle East on edge as new Israeli-US attack on Iran looms",
+   "summary_en": "US and Arab officials report that the United States and Israel are preparing to resume military attacks on Iran, escalating regional tensions.",
+   "body_en": [
+    "American diplomats are preparing for potential embassy evacuations, while Israeli fighter jets perform sorties along the Iranian border. Regional officials consider a renewed military offensive by the US and Israel to be inevitable. In response, Tehran has threatened to strike energy sites, airports, and US-linked data and AI centers in the Gulf.",
+    "Direct combat between the US and Iran largely paused following an April ceasefire, but a subsequent 14-point memorandum signed in June was never executed. Experts noted that the unimplemented agreement contained substantial concessions to Iran that the US administration was unwilling to accept."
+   ],
+   "title_fa": "«تنش در راه است»: خاورمیانه در آستانه حمله جدید اسرائیل و آمریکا به ایران قرار دارد",
+   "summary_fa": "مقامات آمریکایی و عربی گزارش می‌دهند که ایالات متحده و اسرائیل در حال آماده‌شدن برای ازسرگیری حملات نظامی به ایران هستند که این امر موجب افزایش تنش‌های منطقه‌ای شده است.",
+   "body_fa": [
+    "دیپلمات‌های آمریکایی در حال آماده‌سازی برای تخلیه احتمالی سفارتخانه‌ها هستند و جنگنده‌های اسرائیلی در طول مرز ایران پروازهای عملیاتی انجام می‌دهند. مقامات منطقه‌ای تهاجم نظامی مجدد آمریکا و اسرائیل را حتمی می‌دانند. در پاسخ، تهران تهدید کرده است که به تأسیسات انرژی، فرودگاه‌ها و مراکز داده و هوش مصنوعی مرتبط با آمریکا در خلیج فارس حمله خواهد کرد.",
+    "درگیری‌های مستقیم میان آمریکا و ایران پس از آتش‌بس ماه آوریل تا حد زیادی متوقف شد، اما یادداشت تفاهم ۱۴ ماده‌ای که در ماه ژوئن امضا شد، هرگز به اجرا درنیامد. کارشناسان اشاره کردند که این توافقِ اجرا‌نشده حاوی امتیازات گسترده‌ای به ایران بود که دولت آمریکا تمایلی به پذیرش آن‌ها نداشت."
+   ],
+   "title_ar": "\"التصعيد قادم\": الشرق الأوسط على صفيح ساخن مع اقتراب هجوم إسرائيلي أمريكي جديد على إيران",
+   "summary_ar": "أفاد مسؤولون أمريكيون وعرب بأن الولايات المتحدة وإسرائيل تستعدان لاستئناف الهجمات العسكرية على إيران، مما يرفع من حدة التوترات الإقليمية.",
+   "body_ar": [
+    "يستعد الدبلوماسيون الأمريكيون لإخلاءات محتملة للسفارات، بينما تنفذ المقاتلات الإسرائيلية طلعات جوية على الحدود الإيرانية. وويرى مسؤولون إقليميون أن هجومًا عسكريًا جديدًا من قبل الولايات المتحدة وإسرائيل بات أمرًا حتميًا. ورداً على ذلك، هددت طهران بضرب منشآت الطاقة والمطارات ومراكز البيانات والذكاء الاصطناعي المرتبطة بالولايات المتحدة في الخليج.",
+    "توقف القتال المباشر بين الولايات المتحدة وإيران إلى حد كبير بعد وقف إطلاق النار في أبريل، لكن مذكرة التفاهم المكونة من 14 بندًا والتي تم توقيعها في يونيو لم تُنفذ أبدًا. وأشار خبراء إلى أن الاتفاق غير المطبق تضمن تنازلات واسعة لإيران لم تكن الإدارة الأمريكية مستعدة لتقبلها."
+   ]
+  },
   {
    "id": "2d6382e08911",
    "lang": "en",
@@ -34,6 +150,34 @@
    ]
   },
   {
+   "id": "26eae7a62746",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/putin-meet-irans-president-qatars-emir",
+   "date": "2026-10-26T15:18:13Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Putin to meet Iran's president, Qatar's emir",
+   "title_en": "Putin to meet Iran's president, Qatar's emir",
+   "summary_en": "Russian President Vladimir Putin is scheduled to meet Iranian President Masoud Pezeshkian and Qatari Emir Sheikh Tamim bin Hamad Al Thani on Tuesday, according to the Kremlin.",
+   "body_en": [
+    "Earlier on Monday, Iran's semi-official Tasnim news agency reported that Pezeshkian would depart for Moscow on Monday night to participate in the Gas Exporting Countries Forum (GECF) scheduled for Tuesday."
+   ],
+   "title_fa": "پوتین با رئیس‌جمهور ایران و امیر قطر دیدار می‌کند",
+   "summary_fa": "به گفته کرملین، ولادیمیر پوتین، رئیس‌جمهور روسیه، روز سه‌شنبه با مسعود پزشکیان، رئیس‌جمهور ایران و شیخ تمیم بن حمد آل ثانی، امیر قطر دیدار خواهد کرد.",
+   "body_fa": [
+    "پیش‌تر در روز دوشنبه، خبرگزاری نیمه‌رسمی تسنیم ایران گزارش داد که پزشکیان برای شرکت در مجمع کشورهای صادرکننده گاز (GECF) که روز سه‌شنبه برگزار می‌شود، دوشنبه شب عازم مسکو خواهد شد."
+   ],
+   "title_ar": "پوتين يلتقي الرئيس الإيراني وأمير قطرة",
+   "summary_ar": "أعلن الكرملين أن الرئيس الروسي فلاديمير بوتين سيلتقي يوم الثلاثاء بالرئيس الإيراني مسعود پزشکیان وأمير قطر الشيخ تميم بن حمد آل ثاني.",
+   "body_ar": [
+    "وفي وقت سابق يوم الاثنين، ذكرت وكالة تسنیم الإيرانية شبه الرسمية أن پزشکیان سيتوجه إلى موسكو مساء الاثنين للمشاركة في منتدى الدول المصدرة للغاز (GECF) المقرر يوم الثلاثاء."
+   ]
+  },
+  {
    "id": "3efd5f8667ed",
    "lang": "en",
    "source": "France 24",
@@ -58,36 +202,6 @@
    "summary_ar": "اعتقلت السلطات الأردنية ثلاثة متطرفين إسلاميين إثر هجوم قاتل على كنيسة أثناء جنازة في قرية حمود.",
    "body_ar": [
     "أُصيب المشتبه بهم الثلاثة خلال تبادل إطلاق نار عند الفجر مع قوات الأمن وسيواجهون المحاكمة. وأسفر الهجوم، الذي وقع في غرب حمود، عن مقتل تسعة أشخاص."
-   ]
-  },
-  {
-   "id": "0a0260bd4645",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039988/pakistan-seeks-investment-from-us-in-oil-refinery-upgradation-projects",
-   "date": "2026-10-26T15:12:30Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Pakistan seeks investment from US in oil refinery upgradation projects",
-   "title_en": "Pakistan seeks investment from US in oil refinery upgradation projects",
-   "summary_en": "Pakistan has invited US financial institutions to invest in its oil refinery upgradation projects during discussions aimed at boosting bilateral energy cooperation. Petroleum Minister Ali Pervaiz Malik and US Chargé d’Affaires Natalie Baker met in Islamabad to discuss energy security and supply challenges amid Middle East conflicts.",
-   "body_en": [
-    "During the meeting, Malik highlighted that ongoing Middle East conflicts create fuel availability challenges, necessitating proactive measures. Baker congratulated Pakistan on efficiently managing fuel supplies without shortages despite regional difficulties.",
-    "Malik also invited US companies to participate in the upcoming Pakistan Minerals Investment Forum. Local refineries recently entered agreements with the government to upgrade technologies with an estimated $5 billion investment over five years."
-   ],
-   "title_fa": "پاکستان به دنبال سرمایه‌گذاری ایالات متحده در پروژه‌های ارتقای پالایشگاه‌های نفت است",
-   "summary_fa": "پاکستان در جریان گفتگوهایی با هدف تقویت همکاری‌های دوجانبه انرژی، از موسسات مالی ایالات متحده برای سرمایه‌گذاری در پروژه‌های ارتقای پالایشگاه‌های نفت خود دعوت کرد. علی پرویز ملک، وزیر نفت، و ناتالی بیکار، کاردار ایالات متحده، در اسلام‌آباد برای گفتگو درباره امنیت انرژی و چالش‌های عرضه در سایه درگیری‌های خاورمیانه دیدار کردند.",
-   "body_fa": [
-    "در جریان این دیدار، ملک تأکید کرد که درگیری‌های جاری در خاورمیانه چالش‌هایی را برای دسترسی به سوخت ایجاد کرده و نیازمند اقدامات پیشگیرانه است. بیکر به خاطر مدیریت کارآمد منابع سوخت بدون کمبود علی‌رغم مشکلات منطقه‌ای به پاکستان تبریک گفت.",
-    "ملک همچنین از شرکت‌های آمریکایی برای شرکت در مجمع سرمایه‌گذاری معدنی آینده پاکستان دعوت کرد. پالایشگاه‌های محلی اخیراً توافقاتی با دولت برای ارتقای فناوری‌ها با سرمایه‌گذاری تخمینی ۵ میلیارد دلار طی پنج سال امضا کرده‌اند."
-   ],
-   "title_ar": "باكستان تسعى للحصول على استثمارات أمريكية في مشاريع تحديث تكرير النفط",
-   "summary_ar": "دعت باكستان المؤسسات المالية الأمريكية للاستثمار في مشاريع تحديث مصافي النفط لديها خلال مباحثات تهدف إلى تعزيز التعاون الثنائي في مجال الطاقة. التقى وزير البترول علي برويز مالك والقائمة بالأعمال الأمريكية ناتالي بيكر في إسلام آباد لمناقشة أمن الطاقة وتحديات الإمداد وسط صراعات الشرق الأوسط.",
-   "body_ar": [
-    "خلال الاجتماع، سلط مالك الضوء على أن الصراعات المستمرة في الشرق الأوسط تخلق تحديات في توفر الوقود، مما يتطلب تدابير استباقية. وهنأت بيكر باكستان على إدارتها الفعالة لإمدادات الوقود دون حدوث نقص رغم الصعوبات الإقليمية.",
-    "كما دعا مالك الشركات الأمريكية للمشاركة في منتدى الاستثمار التعديني الباكستاني القادم. وكانت المصافي المحلية قد دخلت مؤخراً في اتفاقيات مع الحكومة لتحديث تقنيات التكرير باستثمار مقدر بنحو 5 مليارات دولار خلال خمس سنوات."
    ]
   },
   {
@@ -146,33 +260,6 @@
    "body_ar": [
     "دعت جبهة الاستقرار البرلمان الإيراني والمجلس الأعلى للأمن القومي إلى الانسحاب من معاهدة حظر الانتشار النووي في أسرع وقت ممكن. كما بادر أعضاء الفصيل إلى تقديم مذكرة في البرلمان لحجب الثقة عن وزير الخارجية عباس عراقجي عقب زيارته لنيويورك.",
     "وفي الوقت الذي يواصل فيه المتشددون تنظيم تجمعات ليلية مناهضة للجهود الدبلوماسية والمطالبة باستمرار المواجهة، يرى مؤيدو الرئيس بزشکیان أن الحل الدبلوماسي يظل ضرورياً لمواجهة الأزمات الاقتصادية في البلاد."
-   ]
-  },
-  {
-   "id": "1192c53c5699",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
-   "date": "2026-10-26T14:20:51Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 5,
-   "title": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
-   "title_en": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
-   "summary_en": "As Israel prepares for elections on Tuesday, October 27, tens of thousands of citizens living abroad are traveling back to the country because voting from other nations is not permitted.",
-   "body_en": [
-    "With no provision for expatriates to cast ballots from outside the country, many citizens are making the journey home to participate in the upcoming polls. According to FRANCE 24's Noga Tarnopolsky, numerous voters have already been arriving at the airport from various locations around the globe."
-   ],
-   "title_fa": "انتظار می رود ده‌ها هزار تن از اسرائیلی‌های مقیم خارج برای رأی‌گیری سرنوشت‌ساز با پرواز به کشور بازگردند",
-   "summary_fa": "در حالی که اسرائیل خود را برای انتخابات روز سه‌شنبه (۲۷ اکتبر) آماده می‌کند، ده‌ها هزار تن از شهروندان مقیم خارج به دلیل عدم امکان رأی‌دادن از خارج از کشور، در حال بازگشت به وطن هستند.",
-   "body_fa": [
-    "با توجه به عدم امکان رأی‌دهی برای شهروندان خارج از کشور، بسیاری از افراد برای شرکت در انتخابات پیش رو سفر به وطن را آغاز کرده‌اند. به گزارش نوگا تارنوپولسکی، خبرنگار فرانس ۲۴، شمار زیادی از رأی‌دهندگان هم‌اکنون از نقاط مختلف جهان وارد فرودگاه شده‌اند."
-   ],
-   "title_ar": "من المتوقع أن يسافر عشرات الآلاف من الإسرائيليين المقيمين في الخارج عودةً إلى البلاد للمشاركة في تصويت حاسم",
-   "summary_ar": "بينما تستعد إسرائيل للانتخابات يوم الثلاثاء (27 أكتوبر)، يسافر عشرات الآلاف من المواطنين المقيمين في الخارج عودةً إلى البلاد لعدم توفر إمكانية التصويت من الخارج.",
-   "body_ar": [
-    "مع عدم وجود إمكانية لإدلاء المغتربين بأصواتهم من خارج البلاد، يقوم العديد من المواطنين بالرحلة إلى الوطن للمشاركة في الانتخابات القادمة. ووفقاً لنوجا تارنوبولسكي مراسلة فرانس 24، فقد وصل بالفعل عديد من الناخبين إلى المطار قادمين من مختلف أنحاء العالم."
    ]
   },
   {
@@ -485,6 +572,34 @@
    ]
   },
   {
+   "id": "32f0f4331376",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drones-burn-gaza-refugee-camp-displacing-about-800-palestinian",
+   "date": "2026-10-26T09:58:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Israeli drones burn Gaza refugee camp, displacing about 800 Palestinian men, women and children",
+   "title_en": "Israeli drones burn Gaza refugee camp, displacing about 800 Palestinian men, women and children",
+   "summary_en": "A fire sparked by Israeli quadcopter drones destroyed tents in Gaza City's Shujayea neighborhood, leaving approximately 800 Palestinians displaced.",
+   "body_en": [
+    "According to the Palestinian Public Works Ministry, the drones ignited the fire around 8:00 pm local time on Sunday. The flames spread past midnight, destroying shelters housing mostly children, women, and elderly residents. The ministry has called for international emergency assistance to provide replacement tents."
+   ],
+   "title_fa": "پپهپادهای اسرائیلی اردوگاه آوارگان در غزه را به آتش کشیدند و حدود ۸۰۰ زن، مرد و کودک فلسطینی را آواره کردند",
+   "summary_fa": "آتش‌سوزی ناشی از پهپادهای کوادکوپتر اسرائیلی، چادرهای آوارگان در محله شجاعیه شهر غزه را ویران کرد و حدود ۸۰۰ فلسطینی را آواره ساخت.",
+   "body_fa": [
+    "به گفته وزارت خدمات عمومی فلسطین، این پهپادها حوالی ساعت ۸ شب به وقت محلی در روز یکشنبه باعث آتش‌سوزی شدند. زبانه کشیدن آتش تا بعد از نیمه‌شب ادامه داشت و پناهگاه‌هایی را که عمدتاً زنان، کودکان و افراد مسن در آن اسکان داشتند، نابود کرد. این وزارتخانه خواستار کمک‌های بین‌المللی برای تأمین چادرهای جایگزین شده است."
+   ],
+   "title_ar": "طائرات مسيرة إسرائيلية تحرق مخيماً للنازحين في غزة وتشريد نحو 800 فلسطيني من الرجال والنساء والأطفال",
+   "summary_ar": "تسبب حريق اندلع بواسطة طائرات مسيرة إسرائيلية في تدمير خيام في حي الشجاعية بمدينة غزة، مما أدى إلى تشريد نحو 800 فلسطيني.",
+   "body_ar": [
+    "وفقًا لوزارة الأشغال العامة الفلسطينية، أطلقت الطائرات المسيرة النار في حدود الساعة الثامنة مساءً بالتوقيت المحلي يوم الأحد. واستمرت النيران في الاشتعال لما بعد منتصف الليل، ملتهمة مآوي تضم في معظمها نساءً وأطفالاً وكبار السن. وقد ناشدت الوزارة تقديم مساعدة دولية لتوفير خيام بديلة."
+   ]
+  },
+  {
    "id": "e0302947d8b4",
    "lang": "en",
    "source": "Middle East Eye",
@@ -670,34 +785,6 @@
    ]
   },
   {
-   "id": "7cae60156fcf",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-26T03:47:28Z",
-   "countries": [
-    "IRN",
-    "LKA"
-   ],
-   "score": 5,
-   "title": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
-   "title_en": "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
-   "summary_en": "Sri Lankan authorities coordinated the medical treatment and repatriation of 40 Iranian sailors suffering from unspecified health emergencies in international waters off the island's southeastern coast. Planned in coordination with the Iranian Embassy in Colombo, the operation involved bringing the crew members ashore for care before flying them back to Iran.",
-   "body_en": [
-    "A Sri Lankan foreign ministry spokesperson said the distress call regarding urgent medical needs was received on Saturday from Iranian vessels stranded in international waters due to a US naval blockade. Authorities emphasized that assisting the crew was carried out on humanitarian grounds and under international legal obligations, maintaining Sri Lanka's neutral stance in the conflict."
-   ],
-   "title_fa": "نجات ۴۰ ملوان ایرانی در آب‌های ساحلی سری‌لانکا به دلیل وضعیت اضطراری پزشکی",
-   "summary_fa": "مقامات سری‌لانکا اعلام کردند که ۴۰ ملوان ایرانی را که در آب‌های بین‌المللی جنوب شرقی این کشور دچار وضعیت اضطراری پزشکی شده بودند، درمان کرده و به کشورشان بازگردانده‌اند. این عملیات با هماهنگی سفارت ایران در کلمبو انجام شد و ملوانان پس از مداوا با هواپیما به ایران منتقل شدند.",
-   "body_fa": [
-    "به گفته سخنگوی وزارت امور خارجه سری‌لانکا، پیام درخواست کمک روز شنبه از سوی کشتی‌های ایرانی دریافت شد. ملوانان نجات‌یافته متعلق به چند شناور مختلف بودند که به دلیل محاصره دریایی آمریکا در آب‌های بین‌المللی متوقف شده بودند. سری‌لانکا تأکید کرده که ارائه این خدمات بر اساس تعهدات بین‌المللی و دلایل انسان‌دوستانه صورت گرفته و به معنای جانبداری در مناقشه نیست."
-   ],
-   "title_ar": "إنقاذ 40 بحاراً إيرانياً قبالة سواحل سريلانكا بعد حالات طوارئ طبية",
-   "summary_ar": "أعلنت السلطات السريلانكية تنسيق علاج وإعادة 40 بحاراً إيرانياً تعرضوا لحالات طوارئ طبية في المياه الدولية قبالة الساحل الجنوبي الشرقي للبلاد. وتمت العملية بالتنسيق مع السفارة الإيرانية في كولومبو، حيث تم نقل البحارة إلى البر لتلقي العلاج قبل إعادتهم جوأً إلى إيران.",
-   "body_ar": [
-    "وقال متحدث باسم وزارة الخارجية السريلانكية إن نداء الاستغاثة بشأن الحالات الطبية العاجلة ورد يوم السبت من سفن إيرانية عالقة في المياه الدولية بسبب الحصار البحري الأمريكي. وأكدت السلطات أن تقديم المساعدة جاء لأسباب إنسانية وبموجب الالتزامات الدولية، مع الحفاظ على موقف سريلانكا المحايد في النزاع."
-   ]
-  },
-  {
    "id": "ccc5d2c1fc4f",
    "lang": "fa",
    "source": "BBC Persian",
@@ -726,37 +813,6 @@
    "body_ar": [
     "وفي مقابلة تلفزيونية قبل يومين من الانتخابات البرلمانية الإسرائيلية، زعم نتنياهو أن منافسيه السياسيين لن يتمكنوا من إتمام المهمة. وجعل نتنياهو التصدي لبرنامج إيران النووي محوراً لحملته في أيامها الأخيرة، كما أعاد نشر صورة أُنتجت بالذكاء الاصطناعي لانفجار نووي في تل أبيب ترافقها تدوينة تصف إيران بأنها خطر وجودي.",
     "من جانبه، اتهم منافسه الرئيسي ورئيس أركان الجيش السابق غادي آيزنكوت نتنياهو باستغلال الخطر الإيراني لكسب أصوات الناخبين. وذكر آيزنكوت أن رئيس الوزراء فشل في تحقيق الأهداف التي كان قد حددها بنفسه في الحرب ضد إيران."
-   ]
-  },
-  {
-   "id": "a927595b74c3",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
-   "date": "2026-10-26T01:06:13Z",
-   "countries": [
-    "PAK",
-    "QAT"
-   ],
-   "score": 5,
-   "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
-   "title_en": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
-   "summary_en": "Pakistan and Qatar have reaffirmed their commitment to enhancing bilateral economic ties during the second meeting of their Joint Task Force on Trade and Investment in Doha.",
-   "body_en": [
-    "Co-chaired by Pakistan's Federal Minister for Commerce Jam Kamal Khan and Qatar’s Minister of State for Foreign Trade Affairs Dr Ahmad bin Mohammed Al-Sayed, the meeting reviewed progress in economic cooperation and explored practical measures to boost trade and industrial partnerships across sectors such as agriculture, IT, maritime transport, and infrastructure.",
-    "During the talks, Pakistan sought Qatar's support for the early signing of the Pakistan-GCC Free Trade Agreement and called for resolving restrictions on its bone-in meat exports. Islamabad also presented investment opportunities in modern agriculture, electric vehicles, digital infrastructure, the Karachi-Hyderabad Motorway, and civil aviation."
-   ],
-   "title_fa": "پاکستان و قطر راه‌های جدید همکاری‌های تجاری و سرمایه‌گذاری را بررسی می‌کنند",
-   "summary_fa": "پاکستان و قطر در جریان دومین نشست کارگروه مشترک تجارت و سرمایه‌گذاری در دوحه، بر تعهد خود برای تقویت روابط اقتصادی دوجانبه تأکید کردند.",
-   "body_fa": [
-    "این نشست به ریاست مشترک جام کمال خان، وزیر بازرگانی فدرال پاکستان و دکتر احمد بن محمد السید، وزیر مشاور در امور تجارت خارجی قطر برگزار شد و در آن پیشرفت همکاری‌های اقتصادی بررسی و اقدامات عملی برای ارتقای تجارت و مشارکت‌های صنعتی در بخش‌هایی مانند کشاورزی، فناوری اطلاعات، حمل‌ونقل دریایی و زیرساخت‌ها مورد تبادل نظر قرار گرفت.",
-    "در این گفتگوها، پاکستان خواستار حمایت قطر برای امضای سریع‌تر موافقت‌نامه تجارت آزاد میان پاکستان و شورای همکاری خلیج فارس شد و رفع محدودیت‌ها بر صادرات گوشت با استخوان خود به قطر را مطرح کرد. اسلام‌آباد همچنین فرصت‌های سرمایه‌گذاری در کشاورزی مدرن، خودروهای برقی، زیرساخت‌های دیجیتال، بزرگراه کراچی-حیدرآباد و هوانوردی غیرنظامی را ارائه داد."
-   ],
-   "title_ar": "باكستان وقطر تستكشفان آفاقاً جديدة للتعاون التجاري والاستثماري",
-   "summary_ar": "أكدت باكستان وقطر التزامهما وتعزيز العلاقات الاقتصادية الثنائية خلال الاجتماع الثاني لفريق العمل المشترك للتجارة والاستثمار في الدوحة.",
-   "body_ar": [
-    "استعرض الاجتماع، الذي ترأسه مناصفة وزير التجارة الفيدرالي الباكستاني جام كمال خان ووزير الدولة القطري لشؤون التجارة الخارجية الدكتور أحمد بن محمد السيد، التقدم أحرز في التعاون الاقتصادي وبحث إجراءات عملية لتعزيز التجارة والشراكات الصناعية في قطاعات مثل الزراعة وتكنولوجيا المعلومات والنقل البحري والبنية التحتية.",
-    "خلال المحادثات، طلبت باكستان دعم قطر للتوقيع المبكر على اتفاقية التجارة الحرة بين باكستان ودول مجلس التعاون الخليجي، ودعت إلى حل القيود المفروضة على صادراتها من اللحوم بالعظام. كما عرضت إسلام آباد فرصاً استثمارية في الزراعة الحديثة، والسيارات الكهربائية، والبنية التحتية الرقمية، وطريق كراتشي-حيدر آباد السريع، والطيران المدني."
    ]
   },
   {
@@ -841,34 +897,6 @@
    "summary_ar": "أفادت تقارير إعلامية إسرائيلية بوجود خلاف بين رئيس أركان الجيش إيال زامير ورئيس الوزراء بنيامين نتنياهو بشأن توجيهات تتعلق بإيران قبيل الانتخابات البرلمانية.",
    "body_ar": [
     "وذكرت التقارير أن زامير يخشى من أن تؤدي توجيهات الحكومة إلى تصعيد عسكري فوري، مطالباً بالحصول على إذن كتابي. وفي المقابل، نفى نتنياهو وجود أي خلاف، بينما تتزامن هذه الأنباء مع تحذيراته من احتمال شن إيران هجوماً لتعطيل الانتخابات المقررة يوم الثلاثاء."
-   ]
-  },
-  {
-   "id": "8cb8f2d7e982",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-release-palestinian-doctor-poor-visible-signs-abuse",
-   "date": "2026-10-25T22:02:55Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Israeli forces release Palestinian 'doctor of the poor ' with visible signs of abuse",
-   "title_en": "Israeli forces release Palestinian 'doctor of the poor ' with visible signs of abuse",
-   "summary_en": "Israeli authorities have released 71-year-old Palestinian physician Mazen al-Rantisi from Ofer prison following nearly four months in detention, showing apparent signs of physical mistreatment. Images shared online post-release depicted the doctor looking emaciated and bearing a prominent red wound on his forehead.",
-   "body_en": [
-    "Known as the \"doctor of the poor\" for providing medication and free services to low-income Palestinians through his clinic, al-Rantisi was arrested during an early morning raid on his Ramallah residence in the occupied West Bank on 21 June. Prosecutors subsequently charged him in connection with his role as board chairman of the Union of Health Work Committees, a non-profit organization that delivers healthcare to thousands annually."
-   ],
-   "title_fa": "نیروهای اسرائیلی «پزشک فقرا» فلسطینی را با علائم آشکار آزار و شکنجه آزاد کردند",
-   "summary_fa": "مقامات اسرائیلی مازن الرنتیسی، پزشک ۷۱ ساله فلسطینی را پس از نزدیک به چهار ماه بازداشت از زندان عوفر آزاد کردند، در حالی که آثار آشکار بدرفتاری جسمی بر بدن او دیده می‌شد. تصاویر منتشرشده در شبکه‌های اجتماعی پس از آزادی، او را نحیف و با زخمی قرمز و برجسته بر روی پیشانی‌اش نشان می‌داد.",
-   "body_fa": [
-    "الرنتیسی که به دلیل ارائه دارو و خدمات درمانی رایگان به فلسطینی‌های کم‌درآمد در درمانگاهش به «پزشک فقرا» معروف است، در ۲۱ ژوئن طی یک یورش بامدادی به خانه‌اش در رام‌الله واقع در کرانه باختری اشغالی بازداشت شده بود. دادستان‌ها سپس او را به دلیل ریاست هیئت مدیره «کمیته‌های کار بهداشتی»، که یک سازمان غیرانتفاعی ارائه‌دهنده مراقبت‌های پزشکی به هزاران فلسطینی است، متهم کردند."
-   ],
-   "title_ar": "القوات الإسرائيلية تفرج عن \"طبيب الفقراء\" الفلسطيني وتظهر عليه علامات واضحة للتعذيب",
-   "summary_ar": "أفرجت السلطات الإسرائيلية عن الطبيب الفلسطيني مازن الرنتيسي (71 عاماً) من سجن عوفر بعد احتجاز دام قرابة أربعة أشهر، وظهرت عليه علامات واضحة تشير إلى تعرضه للاعتداء الجسدي. وأظهرت صور متداولة على وسائل التواصل الاجتماعي عقب إطلاق سراحه الطبيب هزيلاً وبجبهته جرح أحمر بارز.",
-   "body_ar": [
-    "وكان الرنتيسي، المعروف بلقب \"طبيب الفقراء\" لتقديمه الأدوية والخدمات المجانية للفلسطينيين ذوي الدخل المحدود من خلال عيادته، قد اعتُقل خلال مداهمة فجرية لمنزله في رام الله بالضفة الغربية المحتلة في 21 يونيو. ووجه الادعاء لاحقاً لائحة اتهام ضده بسبب توليه رئاسة مجلس إدارة لجان العمل الصحي، وهي منظمة غير ربحية تقدم الرعاية الطبية لآلاف الفلسطينيين سنوياً."
    ]
   },
   {
