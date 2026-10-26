@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T19:10:42Z",
+ "updated": "2026-10-26T21:46:28Z",
  "items": [
   {
    "id": "250c5583ffcd",
@@ -4371,6 +4371,89 @@
    "desc": "يتوجه الإسرائيليون إلى صناديق الاقتراع، الثلاثاء، للإدلاء بأصواتهم فيما يعتبره كثيرون أحد أكثر الانتخابات أهمية في تاريخ البلاد.",
    "score": 5,
    "dup_of": "1954a2e5c702"
+  },
+  {
+   "id": "c001d85ddaa3",
+   "title": "Palestinian children crawl under Israeli military gates to get to school",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+   "date": "2026-10-26T20:46:01Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.",
+   "score": 5
+  },
+  {
+   "id": "513f586de3fb",
+   "title": "Huge explosion at a weapons depot in Syria",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+   "date": "2026-10-26T20:41:33Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Huge explosion at a weapons depot in Syria",
+   "score": 7
+  },
+  {
+   "id": "ee000f77c487",
+   "title": "Jordan arrests three suspects over deadly church attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+   "date": "2026-10-26T19:25:53Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.",
+   "score": 6,
+   "dup_of": "3efd5f8667ed"
+  },
+  {
+   "id": "3d60f969fcd5",
+   "title": "British politicians among international delegates barred from entering West Bank",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/26/british-politicians-among-international-delegates-barred-from-entering-west-bank",
+   "date": "2026-10-26T21:39:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Group was on visit to meet Palestinian children, farmers and civil leaders facing escalating violence from Israeli forces An international delegation including British politicians has been barred from entering the West Bank on a trip to meet Palestinian children, farmers and society leaders facing escalating violence from Israeli forces during olive harvest season. The delegation of 23 people, including four elected representatives, was drawn from countries including France, Spain, Luxembourg, Switzerland, Greece, Holland, Ireland and the US. It included Clive Lewis, MP for Norwich South, Lara",
+   "score": 6
+  },
+  {
+   "id": "d13df5515393",
+   "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+   "date": "2026-10-26T19:21:36Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls Benjamin Netanyahu has resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran as his far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run elections. The Israeli prime minister posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. Continue reading...",
+   "score": 8,
+   "dup_of": "8389c88075a4"
+  },
+  {
+   "id": "38e1ed4246e1",
+   "title": "Govt orders review of existing drug pricing formula to ensure medicines are priced fairly",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly",
+   "date": "2026-10-26T18:59:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The government on Monday warned that drug prices must not be increased without valid justification and ordered a review of the existing pricing formula to ensure medicines are priced fairly without creating unnecessary hurdles for patients, importers or the pharmaceutical industry. Economic Affairs Minister Ahad Cheema, who chaired a meeting of the Drug Regulatory Authority of Pakistan (Drap), directed officials to expedite the processing of pending drug-pricing cases after being briefed that their case-by-case evaluation was almost complete. The minister appreciated the progress an",
+   "score": 1
   }
  ]
 }

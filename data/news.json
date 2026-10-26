@@ -1,7 +1,34 @@
 {
- "updated": "2026-10-26T19:10:42Z",
+ "updated": "2026-10-26T21:46:28Z",
  "count": 135,
  "items": [
+  {
+   "id": "513f586de3fb",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+   "date": "2026-10-26T20:41:33Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Huge explosion at a weapons depot in Syria",
+   "title_en": "Huge explosion at a weapons depot in Syria",
+   "summary_en": "A massive explosion has occurred at a weapons depot in Idlib, Syria, according to social media reports.",
+   "body_en": [
+    "Videos shared on Syrian social media platforms depict a substantial blaze alongside heavy smoke billowing from the site."
+   ],
+   "title_fa": "انفجار بزرگ در یک انبار تسلیحات در سوریه",
+   "summary_fa": "بر اساس گزارش‌های منتشرشده در شبکه‌های اجتماعی، انفجار بزرگی در یک انبار تسلیحات در ادلب سوریه رخ داده است.",
+   "body_fa": [
+    "ویدیوهای منتشرشده در حساب‌های شبکه‌های اجتماعی سوریه، آتش‌سوزی گسترده‌ای را به همراه ستون‌های متراکم دود بر فراز این محل نشان می‌دهند."
+   ],
+   "title_ar": "انفجار ضخم في مستودع أسلحة في سوريا",
+   "summary_ar": "وقع انفجار ضخم في مستودع أسلحة في إدلب بسوريا، وفقاً لما تداولته حسابات على مواقع التواصل الاجتماعي.",
+   "body_ar": [
+    "وتُظهر مقاطع فيديو متداولة على حسابات سورية في مواقع التواصل الاجتماعي حريقاً كبيراً وأعمدة دخان كثيفة تتصاعد من موقع المستودع."
+   ]
+  },
   {
    "id": "34fc65e85cd0",
    "lang": "en",
@@ -752,36 +779,6 @@
    "body_ar": [
     "ذكر التحالف بقيادة السعودية أنه نفذ عمليات عسكرية تهدف إلى تحييد مصادر التهديد في اليمن. وحسب التحالف، دمرت الضربات خمسة أنفاق للصواريخ الباليستية ومستودع صواريخ وأربع منصات إطلاق استخدمها الحوثيون.",
     "كما أفاد التحالف ب استهداف تحصينات الحوثيين وتجمعات عناصرهم ومعداتهم العسكرية على طول خطوط الجبهة داخل البلاد."
-   ]
-  },
-  {
-   "id": "0018d88a0a82",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
-   "date": "2026-10-26T03:57:15Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
-   "title_en": "Israel markets see upside in Netanyahu defeat after three-year rally",
-   "summary_en": "Some investors view a potential defeat for Prime Minister Benjamin Netanyahu in Tuesday's election as a catalyst for further gains in Israeli markets by reducing regional tensions and political risks. The outlook comes despite Israeli stocks and the shekel recording substantial rallies over three years of war and turmoil.",
-   "body_en": [
-    "Opinion polls indicate a tight election race between Netanyahu's Likud bloc and an opposition alliance centred on Gadi Eisenkot, with neither side projected to secure the 61 Knesset seats needed to form a government. Analysts at JPMorgan noted that an opposition victory could strengthen the shekel and improve ties with Western allies, whereas another Netanyahu-led government could weigh on the currency.",
-    "Nevertheless, many investors believe Israeli assets will remain resilient even if Netanyahu stays in power, given the economy's track record through years of conflict. Analysts note that the primary risk for the markets remains political deadlock and prolonged coalition negotiations, which could induce short-term market volatility."
-   ],
-   "title_fa": "بازارهای اسرائیل پس از رالی سه ساله، احتمال رشد بیشتر در صورت شکست نتانیاهو را بررسی می‌کنند",
-   "summary_fa": "برخی از سرمایه‌گذاران بر این باورند که شکست احتمالی بنیامین نتانیاهو در انتخابات آتی Knesset می‌تواند با کاهش تنش‌های منطقه‌ای و ریسک‌های سیاسی، موجب تقویت بیشتر بازارهای مالی اسرائیل شود. این در حالی است که شاخص‌های سهام و شقل اسرائیل در طول سه سال گذشته و با وجود جنگ، رشد چشمگیری داشته‌اند.",
-   "body_fa": [
-    "نظرسنجی‌ها رقابت تناتنگی را میان ائتلاف لیکود به رهبری نتانیاهو و ائتلاف اپوزیسیون به محوریت گادی آیزنکوت نشان می‌دهند، به طوری که هیچ‌یک از دو طرف انتظار نمی‌رود ۶۱ کرسی لازم برای تشکیل دولت را کسب کنند. تحلیلگران بانک جی‌پی مورگان اشاره کرده‌اند که پیروزی اپوزیسیون می‌تواند باعث تقویت شقل و بهبود روابط با متحدان غربی شود، در حالی که ماندن نتانیاهو ممکن است فشار بر ارز ملی را افزایش دهد.",
-    "با وجود این، بسیاری از سرمایه‌گذاران معتقدند که دارایی‌های اسرائیل حتی در صورت پیروزی نتانیاهو آسیب جدی نخواهند دید، چرا که اقتصاد و شرکت‌های اسرائیلی در طول سال‌ها نبرد و نوسان‌های سیاسی پایداری خود را نشان داده‌اند. اصلی‌ترین ریسک برای بازارهای مالی، بن‌بست سیاسی و طولانی شدن مذاکرات ائتلافی دانسته می‌شود که می‌تواند نوسانات کوتاه‌مدت را افزایش دهد."
-   ],
-   "title_ar": "أسواق إسرائيل ترى فرصة للصعود في حال هزيمة نتنياهو بعد صعود استمر ثلاث سنوات",
-   "summary_ar": "يرى بعض المستثمرين أن الهزيمة المحتملة لرئيس الوزراء بنيامين نتنياهو في الانتخابات المقبلة قد تشكل دافعاً لتحقيق مزيد من المكاسب في الأسواق الإسرائيلية من خلال تخفيف التوترات الإقليمية والمخاطر السياسية. يأتي هذا رغم تسجيل الأسهم والشيكل الإسرائيلي مكاسب كبيرة على مدى ثلاث سنوات من الحرب والاضطرابات.",
-   "body_ar": [
-    "تظهر استطلاعات الرأي تقارباً كبيراً بين تكتل الليكود بقيادة نتنياهو وتحالف المعارضة برئاسة غادي آيزنكوت، حيث لا يُتوقع أن يحصل أي من الطرفين على 61 مقعداً المطلوبة لتشكيل الحكومة. وأشار محللون في \"جي بي مورغان\" إلى أن فوز المعارضة قد يعزز قيمة الشيكل ويحسن العلاقات مع الحلفاء الغربيين، بينما قد يؤدي استمرار نتنياهو إلى الضغط على العملة.",
-    "ومع ذلك، يعتقد العديد من المستثمرين أن الأصول الإسرائيلية ستظل متماسكة حتى لو بقي نتنياهو في السلطة، مرجعين ذلك إلى مرونة الاقتصاد خلال سنوات الصراع. ويبقى الخطر الأكبر على الأسواق هو المأزق السياسي والمفاوضات الطويلة لتشكيل الحكومة، مما قد يؤدي إلى تقلبات قصيرة الأجل."
    ]
   },
   {
