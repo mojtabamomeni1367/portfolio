@@ -1,7 +1,224 @@
 {
- "updated": "2026-10-26T10:07:47Z",
- "count": 114,
+ "updated": "2026-10-26T15:23:05Z",
+ "count": 122,
  "items": [
+  {
+   "id": "f2251df679c1",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039982/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate",
+   "date": "2026-10-26T14:03:13Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+   "title_en": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+   "summary_en": "The Egyptian parliament has authorized President Abdel Fattah al-Sisi to deploy military support to defend Saudi Arabia amid escalating attacks by Yemen's Houthi rebels. Officials emphasized that Egypt's involvement will be strictly limited to defending Saudi borders and territory.",
+   "body_en": [
+    "The approval follows a request from President Sisi, who sought parliamentary authorization to assist Saudi Arabia if requested by Riyadh. Egyptian Foreign Minister Badr Abdelatty and intelligence chief Hassan Rashad delivered a letter from Sisi to Saudi Crown Prince Mohammed bin Salman, clarifying that Cairo's military assistance would focus solely on defensive operations.",
+    "Egypt had previously joined the Saudi-led coalition in Yemen in 2015, primarily deploying naval assets to secure Red Sea shipping routes along with limited ground forces. Foreign Minister Abdelatty noted that Egypt continues to evaluate potential membership in a mutual defense pact signed earlier this year by Saudi Arabia, Pakistan, and Turkiye."
+   ],
+   "title_fa": "مصر پس از افزایش حملات حوثی‌ها، پشتیبانی نظامی از عربستان سعودی را تصویب کرد",
+   "summary_fa": "پارلمان مصر به رئیس‌جمهور عبدالفتاح السیسی اجازه داد تا در پی افزایش حملات شورشیان حوثی یمن، برای دفاع از عربستان سعودی پشتیبانی نظامی ارائه دهد. مقامات تأکید کردند که مشارکت مصر صرفاً به دفاع از مرزها و خاک عربستان محدود خواهد بود.",
+   "body_fa": [
+    "این مصوبه در پی درخواست رئیس‌جمهور السیسی صورت گرفت که از پارلمان خواسته بود اجازه دفاع از عربستان سعودی را در صورت درخواست ریاض صادر کند. بدر عبدالمعاطی، وزیر امور خارجه مصر، و حسن رشاد، رئیس اطلاعات این کشور، نامه‌ای از السیسی به محمد بن سلمان، ولیعهد عربستان تسلیم کردند که در آن تصریح شده بود کمک‌های نظامی قاهره صرفاً بر عملیات دفاعی متمرکز خواهد بود.",
+    "مصر پیش از این در سال ۲۰۱۵ به ائتلاف تحت رهبری عربستان در یمن پیوسته بود و عمدتاً نیروهای دریایی خود را برای تأمین امنیت مسیرهای کشتیرانی دریای سرخ به همراه نیروهای زمینی محدود مستقر کرده بود. وزیر امور خارجه همچنین اشاره کرد که مصر همچنان عضویت احتمالی در پیمان دفاع متقابل که اوایل امسال میان عربستان، پاکستان و ترکیه امضا شد را بررسی می‌کند."
+   ],
+   "title_ar": "مصر توافق على تقديم دعم عسكري للسعودية بعد تصاعد هجمات الحوثيين",
+   "summary_ar": "وافق البرلمان المصري على تفويض الرئيس عبد الفتاح السيسي بتقديم دعم عسكري للدفاع عن المملكة العربية السعودية وسط تصاعد هجمات المتمردين الحوثيين في اليمن. وأكد مسؤولون أن المشاركة المصرية ستقتصر بشكل صارم على الدفاع عن الأراضي والحدود السعودية.",
+   "body_ar": [
+    "تأتي هذه الموافقة أعقاب طلب قدمه الرئيس السيسي للبرلمان للحصول على تفويض لمساعدة السعودية في حال طلبت الرياض ذلك. وسلم وزير الخارجية المصري بدر عبد العاطي ورئيس المخابرات حسن رشاد رسالة من السيسي إلى ولي العهد السعودي الأمير محمد بن سلمان، أوضحت أن المساعدة العسكرية للقاهرة ستركز فقط على العمليات الدفاعية.",
+    "وكانت مصر قد انضمت سابقاً إلى التحالف الذي تقوده السعودية في اليمن عام 2015، حيث نشرت بشكل أساسي قطعاً بحرية لتأمين طرق الملاحة في البحر الأحمر إلى جانب قوات برية محدودة. وأشار وزير الخارجية إلى أن مصر لا تزال تدرس إمكانية الانضمام إلى معاهدة الدفاع المشترك التي وقّعتها السعودية وباكستان وتركيا في وقت سابق من هذا العام."
+   ]
+  },
+  {
+   "id": "e38b03a59d61",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+   "date": "2026-10-26T14:03:06Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 8,
+   "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+   "title_en": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+   "summary_en": "Senior officials from Saudi Arabia, Pakistan, and Turkey have traveled to Tehran for talks aimed at preventing renewed conflict between Iran, the United States, and Israel. The discussions focused on urging Iran to persuade Houthi rebels to stop missile and drone attacks against Saudi Arabia.",
+   "body_en": [
+    "The delegation included Saudi Defense Minister Khalid bin Salman, Pakistani Army Chief Field Marshal Asim Munir, and Turkish Intelligence Chief Ibrahim Kalın, who met with top Iranian security officials. In addition to addressing the Houthi attacks on Saudi infrastructure and Riyadh airport, the officials explored Iran's potential involvement in a new regional security pact among Islamic nations.",
+    "Iranian Foreign Ministry spokesperson Esmaeil Baghaei stated that the meeting could foster sustainable regional security through trust and cooperation. Former Foreign Minister Javad Zarif also advocated for a comprehensive regional network grounded in non-aggression and mutual trust."
+   ],
+   "title_fa": "هیئت عالی‌رتبه برای جلوگیری از تشدید درگیری با آمریکا و اسرائیل به ایران سفر کرد",
+   "summary_fa": "مقامات ارشد عربستان سعودی، پاکستان و ترکیه برای انجام گفتگوهایی با هدف جلوگیری از تجدید درگیری میان ایران، ایالات متحده و اسرائیل به تهران سفر کرده‌اند. این گفتگوها بر درخواست از ایران برای متقاعد کردن شورشیان حوثی جهت توقف حملات موشکی و پهپادی به عربستان سعودی متمرکز بود.",
+   "body_fa": [
+    "این هیئت شامل خالد بن سلمان وزیر دفاع عربستان، فیلد مارشال عاصم منیر فرمانده ارتش پاکستان و ابراهیم کالین رئیس سازمان اطلاعات ترکیه بود که با مقامات ارشد امنیتی ایران دیدار کردند. این مقامات علاوه بر بررسی حملات حوثی‌ها به زیرساخت‌های عربستان و فرودگاه ریاض، احتمال پیوستن ایران به یک پیمان امنیتی جدید میان کشورهای اسلامی را بررسی کردند.",
+    "اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران، اظهار داشت که این دیدار می‌تواند از طریق اعتمادسازی و همکاری، به ایجاد امنیت پایدار منطقه‌ای کمک کند. جواد ظریف، وزیر امور خارجه سابق ایران نیز خواستار یک شبکه جامع منطقه‌ای بر پایه عدم تجاوز و اعتمادسازی متقابل شد."
+   ],
+   "title_ar": "وفد رفيع المستوى يزور إيران لمحاولة تجنب التصعيد مع الولايات المتحدة وإسرائيل",
+   "summary_ar": "توجه مسؤولون كبار من السعودية وباكستان وتركيا إلى طهران لإجراء محادثات تهدف إلى منع تجدد الصراع بين إيران والولايات المتحدة وإسرائيل. وركزت المناقشات على حث إيران على إقناع المتمردين الحوثيين بوقف الهجمات بالمقذوفات والطائرات المسيرة على السعودية.",
+   "body_ar": [
+    "ضم الوفد وزير الدفاع السعودي خالد بن سلمان، ورئيس أركان الجيش الباكستاني الفيلق عاصم منير، ورئيس المخابرات التركية إبراهيم قالن، حيث التقوا بكبار المسؤولين الأمنيين الإيرانيين. وإلى جانب معالجة هجمات الحوثيين على البنية التحتية السعودية ومطار الرياض، ناقش المسؤولون إمكانية انضمام إيران إلى ميثاق أمني إقليمي جديد بين الدول الإسلامية.",
+    "وقال المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي إن الاجتماع قد يمهد الطريق لتعزيز الأمن الإقليمي المستدام من خلال بناء الثقة والتعاون. كما دعا وزير الخارجية السابق جواد ظريف إلى شبكة إقليمية شاملة تقوم على عدم الاعتداء والبناء المتبادل للثقة."
+   ]
+  },
+  {
+   "id": "69fb4ef61f3a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
+   "date": "2026-10-26T12:54:05Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+   "title_en": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+   "summary_en": "Falling debris from intercepted Houthi missiles has caused structural and vehicle damage in the Saudi Arabian city of Khamis Mushait. In response, the Saudi-led military coalition conducted strikes on Yemen's capital, Sanaa, targeting and destroying ballistic missile launchers.",
+   "body_en": [
+    "Saudi state television broadcast imagery showing damage to local infrastructure in Khamis Mushait following the interception. The retaliatory strikes by coalition forces in Sanaa aimed to neutralize the Houthis' launch capabilities."
+   ],
+   "title_fa": "رهگیری موشک‌های حوثی‌ها باعث خسارت در شهری در عربستان سعودی شد",
+   "summary_fa": "سقوط قطعات موشک‌های رهگیری‌شده حوثی‌ها باعث وارد آمدن خسارت به ساختمان‌ها و خودروها در شهر خمیس مشیط عربستان سعودی شد. در پاسخ، ائتلاف نظامی تحت رهبری عربستان ضرباتی را به صنعا، پایتخت یمن، وارد کرد و پرتابگرهای موشک‌های بالستیک را نابود ساخت.",
+   "body_fa": [
+    "تلویزیون دولتی عربستان تصاویری را پخش کرد که خسارات وارده به زیرساخت‌های محلی در خمیس مشیط را پس از رهگیری موشک‌ها نشان می‌داد. حملات تلافی‌جویانه نیروهای ائتلاف در صنعا با هدف از بین بردن توانایی‌های پرتابی حوثی‌ها انجام شد."
+   ],
+   "title_ar": "اعتراض صواريخ للحوثيين يتسبب في أضرار بمدينة سعودية",
+   "summary_ar": "تسببت شظايا ناتجة عن اعتراض صواريخ للحوثيين في إلحاق أضرار بالمباني والمركبات في مدينة خميس مشيط السعودية. ورداً على ذلك، شن التحالف العسكري الذي تقوده السعودية ضربات على العاصمة اليمنية صنعاء، مستهدفاً ودامراً منصات إطلاق الصواريخ الباليستية.",
+   "body_ar": [
+    "عرض التلفزيون الرسمي السعودي صوراً تظهر الأضرار التي لحقت بالبنية التحتية المحلية في خميس مشيط عقب عملية الاعتراض. ودفعت الضربات الانتقامية التي شنتها قوات التحالف في صنعاء إلى تحييد قدرات الإطلاق لدى الحوثيين."
+   ]
+  },
+  {
+   "id": "2d8dc57323c2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+   "date": "2026-10-26T10:41:23Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi-led coalition says it struck Houthi missile facilities",
+   "title_en": "Saudi-led coalition says it struck Houthi missile facilities",
+   "summary_en": "The Saudi-led coalition in Yemen executed a military operation destroying four ballistic missile launchers, five storage tunnels, and a missile depot belonging to Houthi forces. The coalition stated the strikes were aimed at severing supply lines, while the Houthis claimed additional attacks on Saudi infrastructure and military targets in Yemen.",
+   "body_en": [
+    "Coalition spokesman Turki al-Maliki confirmed that the operation focused on cutting off Houthi supply routes and hitting fortifications, troop gatherings, and military equipment. The strikes followed recent Houthi missile and drone attacks against Saudi airports, oil pumping stations, and military positions in Aden and Lahij governorates.",
+    "In related developments, Greek Prime Minister Kyriakos Mitsotakis agreed to a Saudi request to keep a Greek Patriot air defense battery deployed in the kingdom. Meanwhile, Saudi air defenses reported intercepting 10 ballistic missiles over the weekend, with falling debris injuring two people in southern Saudi Arabia."
+   ],
+   "title_fa": "ائتلاف تحت رهبری عربستان از حمله به تأسیسات موشکی حوثی‌ها خبر داد",
+   "summary_fa": "ائتلاف تحت رهبری عربستان در یمن یک عملیات نظامی انجام داد که طی آن چهار پرتابگر موشک بالستیک، پنج تونل نگهداری و یک انبار موشک متعلق به نیروهای حوثی نابود شد. ائتلاف اعلام کرد این حملات با هدف قطع مسیرهای پشتیبانی انجام شده، در حالی که حوثی‌ها مدعی حملات بیشتری به زیرساخت‌های عربستان و اهداف نظامی در یمن شدند.",
+   "body_fa": [
+    "ترکی المالکی، سخنگوی ائتلاف، تأیید کرد که این عملیات بر قطع مسیرهای پشتیبانی حوثی‌ها و هدف قرار دادن استحکامات، محل تجمع نیروها و تجهیزات نظامی متمرکز بوده است. این حملات پس از حملات موشکی و پهپادی اخیر حوثی‌ها به فرودگاه‌های عربستان، ایستگاه‌های پمپاژ نفت و مواضع نظامی در استان‌های عدن و لحج صورت گرفت.",
+    "در تحولاتی مرتبط، کیریاکوس میتسوتاکیس، نخست‌وزیر یونان، با درخواست عربستان مبنی بر نگهداری سامانه پدافند هوایی پاتریوت یونان در این کشور موافقت کرد. در همین حال، پدافند هوایی عربستان از رهگیری ۱۰ موشک بالستیک در آخر هفته خبر داد که سقوط قطعات آن‌ها منجر به مجروح شدن دو نفر در جنوب عربستان شد."
+   ],
+   "title_ar": "التحالف بقيادة السعودية يعلن استهداف مرافق صواريخ للحوثيين",
+   "summary_ar": "نفّذ التحالف الذي تقوده السعودية في اليمن عملية عسكرية أسفرت عن تدمير أربع منصات لإطلاق الصواريخ الباليستية وخمسة أنفاق تخزين ومستودع صواريخ تابعة للحوثيين. وذكر التحالف أن الضربات استهدفت قطع خطوط الإمداد، بينما أعلن الحوثيون مسؤوليتهم عن هجمات إضافية طالت بنية تحتية سعودية وأهدافاً عسكرية في اليمن.",
+   "body_ar": [
+    "وأكد المتحدث باسم التحالف تركي المالكي أن العملية ركزت على قطع طرق إمداد الحوثيين واستهداف التحصينات وتجمعات الأفراد والمعدات العسكرية. وجاءت هذه الضربات عقب هجمات صاروخية وبطائرات مسيرة شنها الحوثيون مؤخراً على مطارات سعودية ومحطات ضخ النفط ومواقع عسكرية في محافظتي عدن ولحج.",
+    "وفي تطورات متصلة، وافق رئيس الوزراء اليوناني كيرياكوس ميتسوتاكيس على طلب سعودي بالإبقاء على منظومة الدفاع الجوي 'باتريوت' اليونانية المنتشرة في المملكة. في غضون ذلك، أعلنت الدفاعات الجوية السعودية عن اعتراض 10 صواريخ باليستية خلال عطلة نهاية الأسبوع، مما أسفر عن إصابة شخصين في جنوب السعودية جراء تساقط الشظايا."
+   ]
+  },
+  {
+   "id": "2dee2dd0af2b",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+   "date": "2026-10-26T10:36:48Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+   "title_en": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+   "summary_en": "US special envoy Tom Barrack's recent remarks on Syria have highlighted differences between Washington and Israel regarding the Druze-majority province of Suwayda.",
+   "body_en": [
+    "United States special envoy Tom Barrack recently discussed Syria and Suwayda, a hotbed of tensions between the government and Israel, in an interview. Barrack's comments regarding a local Druze figure were perceived as a message that Washington prioritizes an agreement with Damascus while Israel maintains separate security demands.",
+    "Since the fall of Bashar al-Assad's government, the US has slowly rebuilt relations with Damascus, whereas Israel has invaded parts of southern Syria and clashed with the new leadership. Analysts noted that Israel's approach seeks a weak central government in the south, while Washington favors state control over Suwayda to prevent further instability."
+   ],
+   "title_fa": "سویدا در رکود باقی مانده است، در حالی که ایالات متحده اختلاف نظر خود را با اسرائیل درباره سوریه نشان می‌دهد",
+   "summary_fa": "سخنان اخیر تام باراک، فرستاده ویژه ایالات متحده درباره سوریه، اختلاف نظر میان واشنگتن و اسرائیل را در خصوص استان اکثراً دروزی نشین سویدا برجسته کرده است.",
+   "body_fa": [
+    "تام باراک، فرستاده ویژه ایالات متحده، اخیراً در مصاحبه‌ای درباره سوریه و سویدا، کانون تنش‌ها میان دولت و اسرائیل، گفتگو کرد. اظهارات باراک درباره یک چهره محلی دروزی به عنوان پیامی تلقی شد مبنی بر اینکه واشنگتن توافق با دمشق را در اولویت قرار می‌دهد در حالی که اسرائیل مطالبات امنیتی جداگانه‌ای دارد.",
+    "از زمان سقوط دولت بشار اسد، ایالات متحده به آرامی روابط خود را با دمشق بازسازی کرده است، در حالی که اسرائیل بخش‌هایی از جنوب سوریه را اشغال کرده و با رهبری جدید درگیر شده است. تحلیلگران خاطرنشان کردند که رویکرد اسرائیل به دنبال یک دولت مرکزی ضعیف در جنوب است، در حالی که واشنگتن از کنترل دولت بر سویدا برای جلوگیری از بی‌ثباتی بیشتر حمایت می‌کند."
+   ],
+   "title_ar": "السويداء تبقى في حالة جمود بينما تظهر الولايات المتحدة اختلافات مع إسرائيل بشأن سوريا",
+   "summary_ar": "أبرزت تصريحات المبعوث الأمريكي الخاص تام باراك الأخيرة بشأن سوريا الخلافات بين واشنگتن وإسرائيل فيما يتعلق بمحافظة السويداء ذات الأغلبية الدرزية.",
+   "body_ar": [
+    "ناقش المبعوث الأمريكي الخاص تام باراك مؤخراً في مقابلة وضع سوريا والسويداء، وهي بؤرة توتر بين الحكومة وإسرائيل. واعتبرت تعليقات باراك بشأن شخصية درزية محلية رسالة مفادها أن واشنگتن تعطي الأولوية لاتفاق مع دمشق بينما تحتفظ إسرائيل بمطالب أمنية منفصلة.",
+    "منذ سقوط حكومة بشار الأسد، أعادت الولايات المتحدة بناء علاقاتها تدريجياً مع دمشق، بينما غزت إسرائيل أجزاء من جنوب سوريا واشتبكت مع القيادة الجديدة. وأشار محليون إلى أن النهج الإسرائيلي يسعى إلى وجود حكومة مركزية ضعيفة في الجنوب، بينما تفضل واشنگتن سيطرة الدولة على السويداء لمنع المزيد من عدم الاستقرار."
+   ]
+  },
+  {
+   "id": "e0302947d8b4",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/how-sudan-rsf-destroyed-survivors-its-el-fasher-massacre",
+   "date": "2026-10-26T09:48:18Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 7,
+   "title": "How Sudan's RSF destroyed the survivors of its el-Fasher massacre",
+   "title_en": "How Sudan's RSF destroyed the survivors of its el-Fasher massacre",
+   "summary_en": "A year after the Rapid Support Forces took el-Fasher following a lengthy siege, displaced survivors returning to the city face ongoing violence, abuse, and arbitrary detention.",
+   "body_en": [
+    "The Rapid Support Forces captured North Darfur's capital el-Fasher in October 2025 after more than 500 days of siege, leading to what researchers described as a massive massacre and humanitarian crisis. Displaced residents who recently attempted to return to check on their homes reported widespread looting, threats, sexual violence, and arbitrary arrests by RSF fighters.",
+    "Survivors and aid workers stated that the city remains unsafe, with detention facilities holding prisoners in harsh conditions without adequate food or medical care. Meanwhile, the true death toll from the initial offensive remains unknown amid communications blackouts and ongoing discoveries of mass graves in the region."
+   ],
+   "title_fa": "چگونه نیروهای واکنش سریع سودان بازماندگان کشتار الفاشر را نابود کردند",
+   "summary_fa": "یک سال پس از تصرف الفاشر توسط نیروهای واکنش سریع پس از محاصره‌ای طولانی، بازماندگان آواره‌ای که به شهر بازمی‌گردند با خشونت، سوءاستفاده و بازداشت خودسرانه مواجه هستند.",
+   "body_fa": [
+    "ن نیروهای واکنش سریع در اکتبر ۲۰۲۵ پس از بیش از ۵۰۰ روز محاصره، الفاشر، مرکز استان دارفور شمالی را تصرف کردند که به آنچه محققان آن را کشتار عظیم و بحران انسانی توصیف کردند، منجر شد. ساکنان آواره‌ای که اخیراً تلاش کرده بودند برای بررسی وضعیت خانه‌های خود بازگردند، از غارت گسترده، تهدیدات، خشونت جنسی و بازداشت‌های خودسرانه توسط جنگجویان این نیروها خبر دادند.",
+    "بازماندگان و امدادگران اظهار داشتند که شهر همچنان ناامن است و بازداشتگاه‌ها زندانیان را در شرایط سختی بدون غذا یا مراقبت‌های پزشکی کافی نگه می‌دارند. در همین حال، تعداد واقعی کشته‌شدگان حمله اولیه در پی قطعی ارتباطات و کشف مداوم گورهای دسته‌جمعی در منطقه نامشخص باقی مانده است."
+   ],
+   "title_ar": "كيف دمرت قوات الدعم السريع في السودان الناجين من مجزرة الفاشر",
+   "summary_ar": "بعد عام من سيطرة قوات الدعم السريع على الفاشر إثر حصار طويل، يواجه الناجون النازحون العائدون إلى المدينة عنفاً مستمراً وانتهاكات واحتجازاً تعسفياً.",
+   "body_ar": [
+    "سيطرت قوات الدعم السريع على مدينة الفاشر عاصمة شمال دارفور في أكتوبر 2025 بعد حصار استمر لأكثر من 500 يوم، مما أدى إلى ما وصفه الباحثون بمجزرة هائلة وأزمة إنسانية. وأفاد السكان النازحون الذين حاولوا مؤخراً العودة لتفقد منازلهم بوقوع عمليات نهب واسعة النطاق وتهديدات وعنف جنسي واعتقالات تعسفية من قبل مقاتلي الدعم السريع.",
+    "ذكر ناجون وعاملون في مجال الإغاثة أن المدينة لا تزال غير آمنة، مع وجود مرافق احتجاز تضم السجناء في ظروف قاسية دون طعام كافٍ أو رعاية طبية. وفي الوقت نفسه، لا تزال حصيلة القتلى الحقيقية جراء الهجوم الأول مجهولة وسط انقطاع الاتصالات والاكتشافات المستمرة للمقابر الجماعية في المنطقة."
+   ]
+  },
+  {
+   "id": "975d800f22c2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+   "date": "2026-10-26T09:45:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
+   "title_en": "Palestinians are opening their doors to the displaced of besieged Hebron",
+   "summary_en": "Following a sweeping Israeli military assault and displacement in Hebron, local Palestinian residents and philanthropists have opened their homes to shelter thousands of displaced families.",
+   "body_en": [
+    "Israeli forces launched a military lockdown and sweeping assault in Hebron after two Palestinians attacked a military checkpoint, killing two soldiers. The operation has forcibly displaced more than 2,000 Palestinians, prompting local authorities to declare a state of emergency.",
+    "In response to the crisis, Hebron residents and local business owners have stepped forward to host displaced families in their properties. Meanwhile, movement restrictions and checkpoints continue to severely affect nearly one million residents across the district, shutting down schools and forcing universities to adopt online learning."
+   ],
+   "title_fa": "فلسطینی‌ها درهای خود را به روی آوارگان الخلیل محاصره شده می‌گشایند",
+   "summary_fa": "به دنبال حمله گسترده نظامی اسرائیل و آوارگی در الخلیل، ساکنان محلی فلسطینی و نیکوکاران خانه‌های خود را برای پناه دادن به هزاران خانواده آواره گشوده‌اند.",
+   "body_fa": [
+    "نیروهای اسرائیلی پس از حمله دو فلسطینی به یک ایست بازرسی نظامی و کشته شدن دو سرباز، محاصره نظامی و حمله گسترده‌ای را در الخلیل آغاز کردند. این عملیات بیش از ۲,۰۰۰ فلسطینی را به اجبار آواره کرده و مقامات محلی را بر آن داشته است که وضعیت اضطراری اعلام کنند.",
+    "در واکنش به این بحران، ساکنان الخلیل و صاحبان مشاغل محلی برای میزبانی از خانواده‌های آواره در املاک خود پیشقدم شده‌اند. در همین حال، محدودیت‌های تردد و ایست‌های بازرسی همچنان به شدت تقریباً یک میلیون نفر از ساکنان سراسر این منطقه را تحت تأثیر قرار داده، مدارس را تعطیل کرده و دانشگاه‌ها را مجبور به اتخاذ آموزش آنلاین کرده است."
+   ],
+   "title_ar": "الفلسطينيون يفتحون أبوابهم لنازحي الخليل المحاصرة",
+   "summary_ar": "عقب هجوم عسكري إسرائيلي واسع النطاق وعمليات تهجير في الخليل، فتح السكان المحليون الفلسطينيون وفاعلو الخير منازلهم لإيواء آلاف العائلات النازحة.",
+   "body_ar": [
+    "شنت القوات الإسرائيلية حصاراً عسكرياً وهجوماً واسع النطاق في الخليل بعد أن هاجم فلسطينيان حاجزاً عسكرياً مما أدى إلى مقتل جنديين. وأدّت العملية إلى تهجير أكثر من 2000 فلسطيني قسراً، مما دفعت السلطات المحلية إلى إعلان حالة الطوارئ.",
+    "استجابةً للأزمة، بادر سكان الخليل وأصحاب الأعمال المحليون لاستضافة العائلات النازحة في ممتلكاتهم. وفي الوقت نفسه، تستمر قيود الحركة ونقاط التفتيش في التأثير بشدة على ما يقرب من مليون مقيم في جميع أنحاء المحافظة، مما أدى إلى إغلاق المدارس وإجبار الجامعات على اعتماد التعلم عبر الإنترنت."
+   ]
+  },
   {
    "id": "cb5f0b7f977f",
    "lang": "fa",
@@ -31,6 +248,37 @@
    "body_ar": [
     "أوقفت باكستان حركة شاحنات التجارة عبر معبري غبد-ريمدان وتفتان-ميرجافه اعتباراً من 17 تشرين الأول/أكتوبر، وذلك عقب إلغاء إعفاء مؤقت للإستيراد من إيران من تقديم النموذج الإلكتروني. وأرجع مسؤولون في إقليم بلوچستان الباكستاني القرار إلى تعزيز الإجراءات الأمنية ومكافحة التهريب، بينما عزت وزارة الخارجية الإيرانية التوقف إلى مشكلات فنية.",
     "أعيد فتح معبر غبد-ريمدان مؤخراً بشكل محدود للسماح بمرور الشحنات التي تحمل بوالص شحن مؤرخة في 16 تشرين الأول/أكتوبر أو ما قبله، بالإضافة إلى بعض البضائع القابلة للتلف. ومع ذلك، تسبب التأخير في ارتفاع أسعار الغاز المسال في إقليم بلوچستان وتكدس ما بين ألفين وثلاثة آلاف شاحنة في انتظار التخليص الجمركي على طرفي الحدود."
+   ]
+  },
+  {
+   "id": "3a7f3ebffbf9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claim-more-attacks-houthis",
+   "date": "2026-10-26T05:38:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition claim more attacks on Houthis",
+   "title_en": "Saudi-led coalition claim more attacks on Houthis",
+   "summary_en": "The Saudi-led coalition announced a new military operation targeting Houthi tunnels, missile depots, and launch platforms in Yemen.",
+   "body_en": [
+    "The Saudi-led coalition stated it carried out military operations aimed at neutralizing sources of threat in Yemen. According to the coalition, the strikes destroyed five ballistic missile tunnels, a missile depot, and four launching platforms used by the Houthis.",
+    "The coalition also reported targeting Houthi fortifications, troop gatherings, and military equipment along front lines inside the country."
+   ],
+   "title_fa": "ائتلاف به رهبری عربستان مدعی حملات بیشتر به حوثی‌ها شد",
+   "summary_fa": "ائتلاف به رهبری عربستان از یک عملیات نظامی جدید با هدف قرار دادن تونل‌ها، انبارهای موشک و سکوهای پرتاب حوثی‌ها در یمن خبر داد.",
+   "body_fa": [
+    "ائتلاف به رهبری عربستان سعودی اعلام کرد که عملیات نظامی با هدف خنثی کردن منابع تهدید در یمن انجام داده است. به گفته این ائتلاف، حملات هوایی پنج تونل موشک بالستیک، یک انبار موشک و چهار سکوی پرتاب مورد استفاده حوثی‌ها را تخریب کرد.",
+    "این ائتلاف همچنین از هدف قرار دادن استحکامات، تجمع نیروها و تجهیزات نظامی حوثی‌ها در امتداد خطوط مقدم در داخل کشور خبر داد."
+   ],
+   "title_ar": "التحالف بقيادة السعودية يعلن تنفيذ المزيد من الهجمات ضد الحوثيين",
+   "summary_ar": "أعلن التحالف بقيادة السعودية عن عملية عسكرية جديدة تستهدف أنفاق ومستودعات صواريخ ومنصات إطلاق تابعة للحوثيين في اليمن.",
+   "body_ar": [
+    "ذكر التحالف بقيادة السعودية أنه نفذ عمليات عسكرية تهدف إلى تحييد مصادر التهديد في اليمن. وحسب التحالف، دمرت الضربات خمسة أنفاق للصواريخ الباليستية ومستودع صواريخ وأربع منصات إطلاق استخدمها الحوثيون.",
+    "كما أفاد التحالف ب استهداف تحصينات الحوثيين وتجمعات عناصرهم ومعداتهم العسكرية على طول خطوط الجبهة داخل البلاد."
    ]
   },
   {

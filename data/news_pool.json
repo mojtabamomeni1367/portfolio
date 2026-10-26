@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:07:47Z",
+ "updated": "2026-10-26T15:23:05Z",
  "items": [
   {
    "id": "250c5583ffcd",
@@ -3094,6 +3094,592 @@
    "desc": "ستكون المحادثات المزمعة اليوم أول اتصال رفيع المستوى بين إيران ​وجميع أعضاء التكتل المكون من ثلاث دول منذ أن تعرضت السعودية لهجمات متصاعدة من الحوثيين في اليمن المتحالفين مع إيران.",
    "score": 8,
    "dup_of": "7e069d053b4b"
+  },
+  {
+   "id": "f6d2bc612b92",
+   "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T11:01:16Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead.",
+   "score": 7
+  },
+  {
+   "id": "96410e383ccf",
+   "title": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian?traffic_source=rss",
+   "date": "2026-10-26T14:27:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran’s anti-negotiation hardliners turn against President Pezeshkian over negotiations with the US.",
+   "score": 7
+  },
+  {
+   "id": "2cb7d60eb61a",
+   "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
+   "date": "2026-10-26T13:20:23Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
+   "score": 3
+  },
+  {
+   "id": "e8f1bf2957c3",
+   "title": "Israel expands expulsions in occupied West Bank to cement control",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+   "date": "2026-10-26T13:11:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.",
+   "score": 7
+  },
+  {
+   "id": "1328bd0c6f2f",
+   "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
+   "date": "2026-10-26T13:02:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Who are the Israeli candidates trying to unseat Netanyahu?",
+   "score": 4
+  },
+  {
+   "id": "04ec39fc67c2",
+   "title": "Has Pakistan reopened its border with Iran for trade?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
+   "date": "2026-10-26T13:01:16Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
+   "score": 7,
+   "dup_of": "2617a6d3e912"
+  },
+  {
+   "id": "69fb4ef61f3a",
+   "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
+   "date": "2026-10-26T12:54:05Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Debris fell on the Saudi city of Khamis Mushait after Houthi-fired missiles were intercepted.",
+   "score": 8
+  },
+  {
+   "id": "d59fc7e1559c",
+   "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+   "date": "2026-10-26T12:17:02Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.",
+   "score": 8,
+   "dup_of": "7166215c8918"
+  },
+  {
+   "id": "505a881765e4",
+   "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
+   "date": "2026-10-26T12:11:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan came back from 154-9 to beat England by one wicket, thanks to a historic innings by all-rounder Shadab Khan.",
+   "score": 1
+  },
+  {
+   "id": "1c4f8c9da40a",
+   "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+   "date": "2026-10-26T11:08:48Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordanian authorities have not named the individuals or any group involved in the 'terrorist incident'.",
+   "score": 4,
+   "dup_of": "f6d2bc612b92"
+  },
+  {
+   "id": "2d8dc57323c2",
+   "title": "Saudi-led coalition says it struck Houthi missile facilities",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+   "date": "2026-10-26T10:41:23Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Coalition says it destroyed ballistic missile launchers as well as tunnels and a depot used to store missiles.",
+   "score": 8
+  },
+  {
+   "id": "2dee2dd0af2b",
+   "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+   "date": "2026-10-26T10:36:48Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "desc": "Governorate's Druze majority in deadlock with Syrian government.",
+   "score": 7
+  },
+  {
+   "id": "9dce7e87ce70",
+   "title": "If Netanyahu loses, what changes for Palestinians?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+   "date": "2026-10-26T10:16:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "AJLabs tracks how Israeli parties voted against eight Knesset bills that disfavoured Palestinians ahead of the election.",
+   "score": 4
+  },
+  {
+   "id": "6f83f983c37c",
+   "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+   "date": "2026-10-26T09:52:58Z",
+   "countries": [
+    "PSE",
+    "SAU"
+   ],
+   "desc": "Asian Cup 2027 to kick off on January 7 with Saudi Arabia facing Palestine in Riyadh as the AFC announces the schedule.",
+   "score": 2
+  },
+  {
+   "id": "975d800f22c2",
+   "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+   "date": "2026-10-26T09:45:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel's assault on the West Bank city has forced thousands of people to flee their homes.",
+   "score": 6
+  },
+  {
+   "id": "e38b03a59d61",
+   "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+   "date": "2026-10-26T14:03:06Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Senior officials from Saudi Arabia, Pakistan and Turkey travel to Tehran as bellicose rhetoric heightens High-level diplomatic delegations from Saudi Arabia, Turkey and Pakistan have travelled to Tehran in an attempt to prevent renewed fighting between Iran and the US and Israel as rhetoric sharpens on both sides . Security officials and diplomats at Monday’s meeting were expected to discuss how Iran could persuade the Houthis in Yemen to end their crippling missile and drone attacks on infrastructure in Saudi Arabia . With fighting raging across Yemen, the Houthis claimed to have closed Riyad",
+   "score": 8
+  },
+  {
+   "id": "a584582566d4",
+   "title": "What you need to know about the most consequential election in Israel’s history",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
+   "date": "2026-10-26T12:17:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Benjamin Netanyahu is seeking a new mandate in Israel’s first election since the 7 October 2023 Hamas attacks On Tuesday Israel holds its first election since the 7 October 2023 Hamas attacks, the deadliest day in the country’s history, which resulted in the deaths of about 1,200 people, the majority of them civilians. Since then Israel has pursued a war of annihilation in Gaza, launched two inconclusive wars with Iran, and intensified a campaign of state-backed ethnic cleansing in the occupied West Bank. Continue reading...",
+   "score": 4
+  },
+  {
+   "id": "1192c53c5699",
+   "title": "Tens of thousands of Israelis living abroad expected to fly in for pivotal vote",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tens-of-thousands-of-israelis-living-abroad-expected-to-fly-in-for-pivotal-vote",
+   "date": "2026-10-26T14:20:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis are preparing to head to the polls on Tuesday (October 27). Unable to vote from abroad, tens of thousands of expatriate citizens have been flying in from across the world to cast their ballots. FRANCE 24's Noga Tarnopolsky met some of them at the airport.",
+   "score": 5
+  },
+  {
+   "id": "96e8f81e39e5",
+   "title": "Will Netanyahu's security promise win him this election?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
+   "date": "2026-10-26T13:52:32Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Since the beginning of his political career, Benjamin Netanyahu, Israel's longest-serving prime minister, has campaigned on a promise that he is the only one who will keep the Jewish state safe. As Israelis head to the polls for their first election since the October7 Hamas attacks and the start of the war in Gaza, Netanyahu's strategy might be less effective. FRANCE 24's Gabrielle Nadler explains.",
+   "score": 4
+  },
+  {
+   "id": "66dbcf0ed3c1",
+   "title": "Israel braces for national elections seen as a referendum on Netanyahu",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+   "date": "2026-10-26T12:35:55Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis are preparing to head to the polls on Tuesday (October 27) in the first elections since the October 7th attacks in 2023. Unable to vote abroad, expatriate citizens have been flying in from around the world to participate in a vote widely seen as being a referendum on Prime Minister Benjamin Netanyahu's leadership.",
+   "score": 7
+  },
+  {
+   "id": "e96556a2e0d6",
+   "title": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
+   "date": "2026-10-26T12:13:13Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "In Israel’s election the vote of Arab Israeli citizens could be crucial for the outcome and fate of Prime Minister Benjamin Netanyahu who is standing for re-election. Traditionally voting turnout is lower among Arab Israelis than among the rest of the population. But this time some feel it’s their duty more than ever to cast their ballot given the policies and wars undertaken by Netanyahu.",
+   "score": 5
+  },
+  {
+   "id": "d5e202ece9d7",
+   "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261026-a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu",
+   "date": "2026-10-26T11:59:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis will vote Tuesday (October 27) in the first national elections since Hamas' Oct. 7, 2023, attack in what is widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership. He rejected ICC war crimes claims and denied corruption as national elections approach. Details by FRANCE 24's correspondent in Jerusalem, Noga Tarnopolsky.",
+   "score": 4
+  },
+  {
+   "id": "df1393a16b80",
+   "title": "Israeli election seen as a referendum: For or against Netanyahu?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/focus/20261026-israeli-election-seen-as-a-referendum-for-or-against-netanyahu",
+   "date": "2026-10-26T11:40:25Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu has led his country almost continuously for nearly 17 years. But will he manage to retain power following Tuesday's election? Netanyahu's latest term has divided Israeli society more than ever and will be marked by the October 7 attacks, his handling of the conflicts in Gaza, Iran and Lebanon, as well as his controversial judicial reform. FRANCE 24's David Gilberg reports, with Lauren Bain.",
+   "score": 4,
+   "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "af1ff296a527",
+   "title": "Talks with Makkah pact countries begin in Tehran: Iranian state media",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039939/talks-with-makkah-pact-countries-begin-in-tehran-iranian-state-media",
+   "date": "2026-10-26T13:53:49Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Officials from Pakistan, Saudi Arabia and Turkiye are currently meeting in Tehran, according to Iranian state media. The meeting brings together Iran, Pakistan, Saudi Arabia and Turkiye to discuss “regional cooperation, the US-Israeli aggression against Iran and its consequences”, among other topics, Iran’s state broadcaster said. Iran’s IRIB state broadcaster shared a video of the meeting, saying the quadrilateral meeting on “regional security and stability” had begun. The video showed Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir and Interior Minister Mohsin Naqvi ",
+   "score": 7
+  },
+  {
+   "id": "19e2a8d85111",
+   "title": "Central bank raises policy rate by 50 basis points to 12pc",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
+   "date": "2026-10-26T12:20:14Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The State Bank of Pakistan (SBP) on Monday raised the key policy rate by 50 basis points to 12 per cent, its first increase since April as inflation, fuelled by high energy costs due to the Gulf conflict, remained above target. In a statement, the Monetary Policy Committee (MPC) said it had decided to increase the policy rate, with a majority decision of nine out of ten members. It noted that the “intensification in the Middle East conflict and low prospects of its near-term resolution” were keeping global energy prices at persistently elevated levels. “While the impact of this global shock on",
+   "score": 3
+  },
+  {
+   "id": "7c803e6b7301",
+   "title": "Pakistan rejects Afghan Taliban's claims of civilian casualties in counterterrorism operations",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039958/pakistan-rejects-afghan-talibans-claims-of-civilian-casualties-in-counterterrorism-operations",
+   "date": "2026-10-26T10:31:58Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "The Foreign Office (FO) on Monday rejected allegations made by the Afghan Taliban government regarding civilian casualties in Islamabad’s counterterrorism campaign in the neighbouring country, maintaining that Pakistan’s conduct always “reflected restraint” and the response was “proportionate to the level of threat”. The Afghan Taliban have repeatedly claimed civilian casualties in Pakistani strikes in Afghanistan; Pakistani authorities have denied the accusations, holding that they target military and terrorist infrastructure. Recently, a spokesperson for the Afghan Ministry of Foreign Affair",
+   "score": 7,
+   "dup_of": "d078fa3affe7"
+  },
+  {
+   "id": "1b130d7376c6",
+   "title": "Lucky Group, Qatar Energy consortium quits Port Qasim LNG terminal plan over 'policy changes'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039968/lucky-group-qatar-energy-consortium-quits-port-qasim-lng-terminal-plan-over-policy-changes",
+   "date": "2026-10-26T14:53:11Z",
+   "countries": [
+    "PAK",
+    "QAT"
+   ],
+   "desc": "ISLAMABAD: Energas, a consortium of the Lucky Group and Qatar Energy, has given up a multi-million-dollar plan to establish a liquefied natural gas (LNG) terminal at Port Qasim, citing fundamental changes to Pakistan’s energy policy, requirements and longstanding unresolved policy and fiscal matters, it emerged on Monday. On the other hand, the Port Qasim Authority (PQA) has warned Energas of terminating its final letter of intent (LOI) unless an “unconditional acceptance” is received on or before Nov 30, 2026, along with an updated status of the project. This would also result in forfeiture o",
+   "score": 3
+  },
+  {
+   "id": "f2251df679c1",
+   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039982/egypt-approves-military-support-for-saudi-arabia-after-houthi-attacks-escalate",
+   "date": "2026-10-26T14:03:13Z",
+   "countries": [
+    "EGY",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Parliament authorised Egypt’s military on Monday to provide support to help defend Saudi Arabia, parliamentarians said, and local media reported, a move that could push Cairo directly into the regional conflict that has expanded with intensified attacks by Yemen’s Houthi rebels on the Gulf kingdom. President Abdel Fattah al-Sisi had asked parliament last week to approve defending its Gulf Arab ally and the world’s biggest oil exporter if Riyadh requests help against the Houthis, whose advances also threaten the strategic Bab al-Mandeb strait, a gateway to Egypt’s Suez Canal. The House of Repre",
+   "score": 8
+  },
+  {
+   "id": "50fb3c9029c2",
+   "title": "Imaan, Hadi move SC against IHC order refusing to stay trial in security breach case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039962/imaan-hadi-move-sc-against-ihc-order-refusing-to-stay-trial-in-security-breach-case",
+   "date": "2026-10-26T12:56:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Incarcerated human rights lawyer Imaan Mazari and her husband, Hadi Ali Chattha, on Monday approached the Supreme Court to challenge the Islamabad High Court’s (IHC) Oct 19 order refusing to stay the trial before an anti-terrorism court (ATC) in the security breach case. The case pertains to the alleged disruption of the security route of an international cricket team and incitement to public unrest. The couple, accused of removing barriers from the route, was indicted on October 7. On Oct 19, the IHC took up appeals filed by Imaan and Hadi against the Oct 10 ATC order that rejected",
+   "score": 3
+  },
+  {
+   "id": "9dd07f6592a9",
+   "title": "Pakistan condemns Houthi attacks targeting Makkah, Madina as 'grave violation' of Saudi sovereignty",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039960/pakistan-condemns-houthi-attacks-targeting-makkah-madina-as-grave-violation-of-saudi-sovereignty",
+   "date": "2026-10-26T10:06:04Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Pakistan on Monday condemned Houthi missile attacks targeting Saudi Arabia’s Makkah and Madina regions, terming them a “grave violation” of the kingdom’s sovereignty and territorial integrity. According to a statement issued by the Foreign Office (FO), these “reprehensible attacks constitute a grave violation of Saudi Arabia’s sovereignty and territorial integrity and demonstrate a blatant disregard for the sanctity of Islam’s holiest sites and the safety of civilians”. Pakistan reiterated its “unwavering solidarity” with Saudi Arabia and its firm commitment to the Makkah Alliance , the FO sai",
+   "score": 7,
+   "dup_of": "96caef3f8ec6"
+  },
+  {
+   "id": "ea6438de012b",
+   "title": "Jordan arrests 3 in dawn raid over church attack",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039967/jordan-arrests-3-in-dawn-raid-over-church-attack",
+   "date": "2026-10-26T11:55:56Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordanian security forces on Monday arrested three suspects over an attack on a church last week that killed nine people, with the trio wounded in a dawn raid and shootout, authorities said. The kingdom’s Public Security Directorate said the group were apprehended at an abandoned house where they had barricaded themselves inside and opened fire on security forces. One of the suspects was taken to hospital in critical condition, while the other two were stable, Jordan’s state broadcaster Al-Mamlaka reported. There were no casualties among security forces, it added. On Friday, gunmen stormed the",
+   "score": 7,
+   "dup_of": "f6d2bc612b92"
+  },
+  {
+   "id": "f23d82b27bde",
+   "title": "Remembering former army chief Gen Abdul Waheed Kakar",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039973/remembering-former-army-chief-gen-abdul-waheed-kakar",
+   "date": "2026-10-26T14:34:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Former army chief retired Gen Abdul Waheed Kakar, who played a decisive role in resolving Pakistan’s 1993 political crisis, passed away in Rawalpindi on Monday at the age of 89. He leaves behind a legacy that will continue to figure in discussions on the country’s civil-military relationship. His passing was announced by Inter-Services Public Relations, which said in a note that the Chief of Defence Forces and Chief of Army Staff, Field Marshal Asim Munir, and all ranks of the Pakistan Army expressed sorrow over his passing and paid tribute to his “distinguished military career, leadership and",
+   "score": 2
+  },
+  {
+   "id": "7998f77596c2",
+   "title": "Broken record: A 'holocaust' in East Punjab, literacy rates and the Palestine question",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039961/broken-record-a-holocaust-in-east-punjab-literacy-rates-and-the-palestine-question",
+   "date": "2026-10-26T10:06:04Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Two weeks after independence, communal violence, particularly in East Punjab, dominated the headlines, with the Quaid-i-Azam having to make a fervent appeal for peace. In other major developments between Aug 25 and 31, 1947, Madar-i-Millat Ms Fatima Jinnah reiterated the need for women’s literacy, Pakistan opened its first embassy in Washington DC, while different solutions to the Palestine question were discussed in the United Nations. In the Aug 25 issue, the headline of the main story on page one quoted the Quaid urging his countrymen to “Preserve peace for [the] sake of Pakistan’.” “Those ",
+   "score": 3
+  },
+  {
+   "id": "fa7953cd517e",
+   "title": "Encounter culture",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039882/encounter-culture",
+   "date": "2026-10-26T10:34:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Ten suspected criminals killed in Karachi police ‘encounters’ in two days should trouble anyone concerned about public safety and the rule of law. Seven died in separate incidents on Thursday and another three on Friday. In each case, police reported armed resistance, exchanges of fire, and the recovery of weapons.These accounts may be accurate, but cannot be accepted without scrutiny. Officers confronting armed criminals have every right to defend themselves and others. Karachi’s residents, long exposed to street crime and violent robberies, deserve protection. Yet the frequency of these so-c",
+   "score": 3
+  },
+  {
+   "id": "804e7413ab4e",
+   "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/un-commissioned-experts-say-gaza-ceasefire-has-not-stopped-israel-from-committing-genocide/article71627202.ece",
+   "date": "2026-10-26T14:30:22Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives",
+   "score": 7
+  },
+  {
+   "id": "8022880721b1",
+   "title": "Israeli strikes in Gaza kill five including child: Civil Defence",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-five-including-child-civil-defence/article71626788.ece",
+   "date": "2026-10-26T11:55:14Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Civil defence spokesman Mahmoud Bassal said a total of 13 people had been killed and about 60 wounded by Israeli fire and airstrikes in Gaza in the past 24 hours",
+   "score": 8,
+   "dup_of": "d59fc7e1559c"
+  },
+  {
+   "id": "2892018062c4",
+   "title": "Pakistan’s Punjab government extends detention of Imran Khan’s sisters by 30 days",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistans-punjab-government-extends-detention-of-imran-khans-sisters-by-30-days/article71626373.ece",
+   "date": "2026-10-26T11:24:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Aleema Khan, Noreen Niazi and Dr. Uzma Khan remain in Kot Lakhpat Jail under a public safety law, as PTI leader Moonis Elahi calls the detention “politically motivated”",
+   "score": 5
+  },
+  {
+   "id": "99e0c645bf12",
+   "title": "آیا تغییر نخست‌وزیر می‌تواند سیاست اسرائیل در قبال ایران را عوض کند؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cm4g12l7y5xzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T14:43:34Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "اگر کسی فکر کند که شکست بنیامین نتانیاهو، نخست‌وزیر جنجالی اسرائیل، در انتخابات پارلمانی این کشور پیروزی جمهوری اسلامی است، سخت در اشتباه است. کارنامه عملی گادی آیزنکوت، رئیس ستاد پیشین ارتش اسرائیل، چهره‌ای اهل مدارا و نرمش از او نشان نمی‌دهد.",
+   "score": 4
+  },
+  {
+   "id": "bc5ee8ae764a",
+   "title": "بسته شدن گذرگاه مرزی ایران و عراق؛ صدور حکم جلب مصطفى دعیر که تهدید به نافرمانی مدنی کرده بود",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c64g1j0x0ezno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T13:23:48Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "دادگاهی در عراق با شکایت دفتر نخست‌وزیری، حکم بازداشت مصطفى دعیر محمداوی، رئیس شورای استان میسان عراق، را صادر کرد. او هشدار داده بود اگر فعالیت گذرگاه مرزی شیب (چذابه) با ایران تا پنجشنبه از سرگرفته نشود، این استان هم‌مرز با ایران دست به نافرمانی مدنی می‌زند و ارتباط خود را با دیگر مناطق عراق قطع می‌کند.",
+   "score": 7
+  },
+  {
+   "id": "fc3038640571",
+   "title": "۴۰ ملوان ایرانی گرفتار در سواحل سری‌لانکا نجات یافتند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6j47zxdjlgvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T11:19:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "وزارت امور خارجه سری‌لانکا گفت که هماهنگی‌های لازم را برای درمان و بازگرداندن ۴۰ ملوان ایرانی انجام داده است. آنها در آبهای بین‌المللی در نزدیکی سواحل جنوب شرقی این جزیره در وضعیت اضطراری پزشکی بودند.",
+   "score": 5,
+   "dup_of": "7cae60156fcf"
+  },
+  {
+   "id": "02023bae94a6",
+   "title": "من تفجيرات فنادق عمان إلى هجوم كنيسة الكرك، ما أبرز العمليات الإرهابية التي شهدها الأردن؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cr93zj5q8dk2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T14:02:38Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "شهد الأردن سلسلة من الهجمات الإرهابية منذ عام 2002، استهدفت مدنيين وسياحاً ورجال أمن، وأسفرت عن عشرات القتلى والمصابين، كان آخرها الهجوم على كنيسة في محافظة الكرك، فماذا نعرف عنها؟",
+   "score": 4
+  },
+  {
+   "id": "c1712772b5b1",
+   "title": "إسرائيل المنقسمة بشدة تترقب انتخابات مفصلية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crz65yq5974xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-26T10:46:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "بعد ثلاث سنوات من حرب إقليمية، هذه معركة علمت إسرائيل طويلاً أنها آتية، تكتب لوسي ويليامسون.",
+   "score": 7,
+   "dup_of": "66dbcf0ed3c1"
   }
  ]
 }
