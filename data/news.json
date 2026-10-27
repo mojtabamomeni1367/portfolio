@@ -1,7 +1,131 @@
 {
- "updated": "2026-10-27T13:11:35Z",
- "count": 164,
+ "updated": "2026-10-27T16:06:09Z",
+ "count": 158,
  "items": [
+  {
+   "id": "1829847356e9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/egypts-mada-masr-editor-lina-attalah-jailed-court-orders-outlet-shut",
+   "date": "2026-10-27T15:39:47Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 7,
+   "title": "Egypt jails Mada Masr editor and orders outlet closed",
+   "title_en": "Egypt jails Mada Masr editor and orders outlet closed",
+   "summary_en": "An Egyptian court convicted Mada Masr editor-in-chief Lina Attalah of operating an unlicensed website, sentencing her to custody, fining her, and ordering the closure of the independent outlet.",
+   "body_en": [
+    "Judge Mohamed Mubarak of the New Cairo Misdemeanour Court imposed a 3 million Egyptian pound fine, ordered the site's closure, and directed the confiscation of its property. Attalah's legal team denounced procedural violations during the trial, including the judge appointing an unwanted attorney and rejecting defense requests.",
+    "Rights groups, including the Committee to Protect Journalists, condemned the ruling as a devastating blow to press freedom in Egypt, demanding Attalah's immediate release and the reopening of Mada Masr."
+   ],
+   "title_fa": "مصر سردبیر مادا مصر را بازداشت و دستور تعطیلی این رسانه را صادر کرد",
+   "summary_fa": "دادگاهی در مصر لینا عطالله، سردبیر مادا مصر را به اتهام اداره یک وب‌سایت بدون مجوز محکوم کرد؛ او را بازداشت، جریمه و دستور تعطیلی این رسانه مستقل را صادر نمود.",
+   "body_fa": [
+    "قاضی محمد مبارک در دادگاه جنحه القاهرة الجديدة، جریمه‌ای ۳ میلیون پوندی، تعطیلی وب‌سایت و مصادره اموال مادا مصر را حکم داد. تیم حقوقی عطالله به نقض روندهای قانونی در طول دادگاه، از جمله انتصاب وکیل تحمیلی توسط قاضی و رد درخواست‌های دفاع، اعتراض کرد.",
+    "گروه‌های حقوق بشری از جمله کمیته دفاع از روزنامه‌نگاران این حکم را ضربه‌ای مهلک به آزادی مطبوعات در مصر خوانده و خواستار آزادی فوری عطالله و فعالیت مجدد مادا مصر شدند."
+   ],
+   "title_ar": "مصر تحبس محررة مدى مصر وتأمر بفرضه وإغلاق الموقع",
+   "summary_ar": "أدانت محكمة مصرية لينا عطاء الله، رئيسة تحرير موقع \"مدى مصر\"، بتهمة إدارته بدون ترخيص، وقضت بحبسها وتغريمها وأمرت بإغلاق الوسيلة الإعلامية المستقلة.",
+   "body_ar": [
+    "فرض القاضي محمد مبارك في محكمة جنح القاهرة الجديدة غرامة قدرها 3 ملايين جنيه مصري، وأمر بإغلاق الموقع ومصادرة ممتلكاته. واستنكر الدفاع انتهاك الإجراءات القانونية أثناء المحاكمة، بما في ذلك تعيين القاضي لمحامٍ رغماً عن عطاء الله ورفض طلبات الدفاع.",
+    "ونددت منظمات حقوقية، من بينها لجنة حماية الصحفيين، بالحكم واعتبرته ضربة قاسية لحرية الصحافة في مصر، مطالبة بالإفراج الفوري عن لينا عطاء الله والسماح لـ \"مدى مصر\" بمواصلة عملها."
+   ]
+  },
+  {
+   "id": "b3680ec23fd4",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+   "date": "2026-10-27T13:48:20Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU",
+    "YEM"
+   ],
+   "score": 9,
+   "title": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
+   "title_en": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
+   "summary_en": "Yemen's Houthis claimed a missile strike on Saudi Arabia's Ras Tanura oil refinery, while an Iranian official warned of a devastating response to any further US attacks.",
+   "body_en": [
+    "Military spokesperson Yahya Saree stated that a ballistic missile started a fire at the Ras Tanura facility, Saudi Arabia's largest refinery. While Saudi authorities have not confirmed a direct strike, Bloomberg reported that a fire near the oil terminal was contained.",
+    "Meanwhile, Abdollah Haji Sadeghi, a representative of Iran's supreme leader to the IRGC, warned that additional US attacks would face a harsher and more devastating response. Tensions remain high as regional powers discuss security and peace initiatives."
+   ],
+   "title_fa": "حمله حوثی‌ها به پالایشگاه عربستان همزمان با هشدار ایران درباره پاسخ «ویرانگر» به حملات بعدی آمریکا و اسرائیل",
+   "summary_fa": "حوثی‌های یمن از حمله موشکی به پالایشگاه نفتی رأس تنوره در عربستان سعودی خبر دادند، در حالی که یک مقام ایرانی نسبت به پاسخ ویرانگر به هرگونه حمله بعدی آمریکا هشدار داد.",
+   "body_fa": [
+    "یحیی سریع، سخنگوی نظامی حوثی‌ها، اعلام کرد که یک موشک بالستیک باعث آتش‌سوزی در تأسیسات رأس تنوره، بزرگ‌ترین پالایشگاه عربستان سعودی شده است. اگرچه مقامات سعودی وقوع حمله مستقیم را تأیید نکرده‌اند، بلومبرگ گزارش داد که آتش‌سوزی در نزدیکی این پایانه نفتی مهار شده است.",
+    "در همین حال، عبدالله حاجی صادقی، نماینده ولی فقیه در سپاه پاسداران، هشدار داد که حملات بیشتر آمریکا با پاسخی شدیدتر و ویرانگرتر مواجه خواهد شد. تنش‌ها در حالی ادامه دارد که قدرت‌های منطقه‌ای درباره امنیت و طرح‌های صلح گفتگو می‌کنند."
+   ],
+   "title_ar": "الحوثيون يضربون مصفاة سعودية وإيران تحذر من رد \"مدمر\" على أي هجمات أمريكية إسرائيلية جديدة",
+   "summary_ar": "أعلنت جماعة الحوثي في اليمن استهداف مصفاة رأس تنورة النفطية في السعودية بصاروخ، بينما حذر مسؤول إيراني من رد مدمر على أي هجمات أمريكية إضافية.",
+   "body_ar": [
+    "صرح المتحدث العسكري باسم الحوثيين يحيى سريع بأن صاروخًا باليستيًا تسبب في اندلاع حريق في مصفاة رأس تنورة، وهي الأكبر في السعودية. ورغم عدم تأكيد السلطات السعودية للهجوم، أفادت بلومبرغ بتمكن المملكة منسيطرة على حريق بالقرب من المرفأ النفطي.",
+    "من جهته، حذر عبد الله حاجي صادقي، ممثل المرشد الأعلى الإيراني لدى الحرس الثوري، من أن أي هجمات أمريكية جديدة ستواجه براد أكثر قسوة وتدميرًا. وتأتي هذه التطورات وسط محادثات إقليمية لبحث الأمن ومبادرات السلام."
+   ]
+  },
+  {
+   "id": "ececb58684b9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
+   "date": "2026-10-27T13:15:32Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "India-China border face-offs test Modi six years after deadly clash",
+   "title_en": "India-China border face-offs test Modi six years after deadly clash",
+   "summary_en": "Ongoing face-offs between Indian and Chinese troops along the border in Arunachal Pradesh are challenging Prime Minister Narendra Modi's national security record amid broader efforts to improve bilateral relations.",
+   "body_en": [
+    "Shatrujeet Kapur, head of the Indo-Tibetan Border Police, confirmed that commandos remain engaged in persistent standoffs along the frontier. The developments come six years after the fatal 2020 Galwan Valley clash and follow recent talks between Modi and Chinese President Xi Jinping.",
+    "While both countries attempt a cautious diplomatic thaw, unresolved territorial disputes along the Line of Actual Control continue to generate military tensions and political pressure on the Indian government."
+   ],
+   "title_fa": "رویارویی‌های مرزی هند و چین مودی را شش سال پس از درگیری مرگبار به چالش می‌کشد",
+   "summary_fa": "رویارویی‌های مداوم بین نیروهای هندی و چینی در امتداد مرز ایالت آروناچال پرادش، کارنامه امنیت ملی نارندرا مودی، نخست‌وزیر هند را در میان تلاش‌ها برای بهبود روابط دو‌جانبه به چالش کشیده است.",
+   "body_fa": [
+    "شاتروجیت کاپور، رئیس پلیس مرزی هند و تبت، تأیید کرد که تکاوران همچنان درگیر رویارویی‌های مداوم در امتداد مرز هستند. این تحولات شش سال پس از درگیری مرگبار سال ۲۰۲۰ در دره گالوان و پس از گفتگوهای اخیر مودی و شی جین‌پینگ، رئیس‌جمهور چین صورت می‌گیرد.",
+    "در حالی که هر دو کشور برای کاهش محتاطانه تنش‌های دیپلماتیک تلاش می‌کنند، اختلافات ارضی حل‌نشده در امتداد خط کنترل واقعی همچنان باعث تنش‌های نظامی و فشارهای سیاسی بر دولت هند می‌شود."
+   ],
+   "title_ar": "المواجهات الحدودية بين الهند والصين تختبر مودي بعد ست سنوات من اشتباك دامٍ",
+   "summary_ar": "تواصل المواجهات المستمرة بين القوات الهندية والصينية على طول الحدود في ولاية أروناتشال براديش اختبار سجل رئيس الوزراء ناريندرا مودي في الأمن القومي وسط جهود تحسين العلاقات الثنائية.",
+   "body_ar": [
+    "أكد شاتروجيت كابور، قائد شرطة الحدود الهندية التبتية، أن القوات لا تزال منخرطة في مواجهات مستمرة على طول الحدود. وتأتي هذه التطورات بعد ست سنوات من اشتباك وادي غالوان الدامي عام 2020 وعقب محادثات أخير بين مودي والرئيس الصيني شي جين بينغ.",
+    "وفي حين يسعى البلدان إلى تحسين حذر في العلاقات الدبلوماسية، تستمر النزاعات الإقليمية غير المحسومة على طول خط التحكم الفعلي في إثارة التوترات العسكرية والضغوط السياسية على الحكومة الهندية."
+   ]
+  },
+  {
+   "id": "b25194607af3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-forces-kill-14-gaza-un-commission-says-genocide-continues",
+   "date": "2026-10-27T12:55:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
+   "title_en": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
+   "summary_en": "Israeli military actions have killed 14 Palestinians in Gaza over two days, as a UN commission reported that Israel is continuing to commit genocide despite the ongoing ceasefire.",
+   "body_en": [
+    "Recent victims of the strikes and shelling across Gaza include a six-year-old girl and two security officers. According to Gaza's health ministry, total fatalities since October 2023 have risen to 74,561.",
+    "A report by the UN Independent International Commission of Inquiry accused Israel of persistent war crimes, crimes against humanity, and acts of genocide across the occupied territory even after the ceasefire agreement."
+   ],
+   "title_fa": "کشته شدن ۱۴ نفر در غزه توسط نیروهای اسرائیلی همزمان با تأکید کمیسیون سازمان ملل بر ادامه نسل‌کشی",
+   "summary_fa": "اقدامات نظامی اسرائیل طی دو روز گذشته به کشته شدن ۱۴ فلسطینی در غزه انجامید، در حالی که کمیسیون سازمان ملل گزارش داد اسرائیل با وجود آتش‌بس همچنان به ارتکاب نسل‌کشی ادامه می‌دهد.",
+   "body_fa": [
+    "قربانیان اخیر حملات و گلوله‌باران‌ها در سراسر غزه شامل یک دختر شش ساله و دو نیروی امنیتی می‌شوند. به گفته وزارت بهداشت غزه، آمار کل جان‌باختگان از اکتبر ۲۰۲۳ به ۷۴,۵۶۱ نفر رسیده است.",
+    "گزارش کمیسیون مستقل تحقیقات سازمان ملل متحد اسرائیل را متهم کرد که حتی پس از اتفاق آتش‌سوزی، همچنان مرتکب جنایات جنگی، جنایات علیه بشریت و اقدامات نسل‌کشی در سرزمین‌های اشغالی می‌شود."
+   ],
+   "title_ar": "القوات الإسرائيلية تقتل 14 في غزة ولجنة أممية تؤكد استمرار الإبادة الجماعية",
+   "summary_ar": "أسفرت العمليات العسكرية الإسرائيلية عن مقتل 14 فلسطينيًا في قطاع غزة خلال يومين، في وقت أكدت فيه لجنة أممية أن إسرائيل تواصل ارتكاب الإبادة الجماعية رغم اتفاق وقف إطلاق النار.",
+   "body_ar": [
+    "وشملت الضحايا الأخيرون للقصف والعمليات الإسرائيلية طفلة تبلغ من العمر ست سنوات ورجلي أمن. وبحسب وزارة الصحة الفلسطينية، ارتفعت حصيلة الشهداء منذ أكتوبر 2023 إلى 74,561 شخصًا.",
+    "واتهم تقرير صادر عن لجنة التحقيق الدولية المستقلة التابعة للأمم المتحدة إسرائيل بمواصلة ارتكاب جرائم حرب وجرائم ضد الإنسانية وأعمال إبادة جماعية في الأراضي المحتلة حتى بعد اتفاق وقف إطلاق النار."
+   ]
+  },
   {
    "id": "6b6124c5a830",
    "lang": "en",
@@ -270,64 +394,6 @@
    ]
   },
   {
-   "id": "f61343565524",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/palestinians-are-voting-israel-ensure-their-very-survival",
-   "date": "2026-10-27T09:39:34Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Palestinians are voting in Israel to ensure their very survival",
-   "title_en": "Palestinians are voting in Israel to ensure their very survival",
-   "summary_en": "Palestinian citizens of Israel are expected to turn out in higher numbers for the national election to protect their existence and counter growing political hostility and discrimination.",
-   "body_en": [
-    "Community members and political analysts indicate that voter turnout among Palestinians could rise significantly from the 54 percent recorded in 2022, potentially matching historic highs. Rather than voting for policy reforms or budget allocations, voters express that their primary motivation is preventing displacement and guarding against extreme right-wing policies.",
-    "Rising violent crime, political suppression, and electoral campaigns openly advocating for the expulsion or Judaization of Arab-populated regions have heightened fear within the community, prompting even long-time boycotters to consider voting."
-   ],
-   "title_fa": "فلسطینی‌ها برای تضمین بقای خود در انتخابات اسرائیل شرکت می‌کنند",
-   "summary_fa": "انتظار می‌رود شهروندان فلسطینی اسرائیل به منظور حفاظت از وجود خود و مقابله با خصومت سیاسی و تبعیض فزاینده، حضور گسترده‌تری در انتخابات سراسری داشته باشند.",
-   "body_fa": [
-    "اعضای جامعه و تحلیلگران سیاسی اشاره می‌کنند که میزان مشارکت در میان فلسطینی‌ها می‌تواند در مقایسه با ۵۴ درصد ثبت‌شده در سال ۲۰۲۲ افزایش چشمگیری داشته باشد. به گفته رأی‌دهندگان، انگیزه اصلی آن‌ها به جای اصلاح قوانین یا تخصیص بودجه، جلوگیری از جابه‌جایی اجباری و مقابله با سیاست‌های راست افراطی است.",
-    "افزایش جرایم سازمان‌یافته، سرکوب سیاسی و کارزارهای انتخاباتی که به صراحت خواستار اخراج یا یهودی‌سازی مناطق عرب‌نشین هستند، ترس را در این جامعه افزایش داده و حتی تحریم‌کنندگان قدیمی را به فکر شرکت در انتخابات انداخته است."
-   ],
-   "title_ar": "الفلسطينيون يصوتون في إسرائيل لضمان بقائهم على قيد الحياة",
-   "summary_ar": "من المتوقع أن يشارك المواطنون الفلسطينيون في إسرائيل بأعداد أكبر في الانتخابات العامة لحماية وجودهم ومواجهة العداء السياسي والتمييز المتزايدين.",
-   "body_ar": [
-    "يشير أبناء المجتمع والمحللون السياسيون إلى أن نسبة إقبال الناخبين الفلسطينيين قد ترتفع بشكل كبير مقارنة بنسبة 54 بالمئة المسجلة في عام 2022. ويوضح الناخبون أن دافعهم الرئيسي ليس الحصول على ميزانيات أو إصلاحات، بل منع التهجير والتصدي لسياسات اليمين المتطرف.",
-    "وقد أدت زيادة الجريمة المنظمة، والقمع السياسي، والحملات الانتخابية التي تدعو علناً إلى طرد العرب أو تهويد المناطق ذات الأغلبية العربية، إلى زيادة الخوف داخل المجتمع، مما دفع حتى المقاطعين منذ فترة طويلة إلى التفكير في المشاركة."
-   ]
-  },
-  {
-   "id": "b690b2201594",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/early-turnout-israel-vote-highest-1981-elections-committee",
-   "date": "2026-10-27T09:37:24Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 5,
-   "title": "Early turnout in Israel vote highest since 1981: elections committee",
-   "title_en": "Early turnout in Israel vote highest since 1981: elections committee",
-   "summary_en": "Voter turnout reached 16.68 percent in the first three hours of Israel's general election, according to the Central Elections Committee.",
-   "body_en": [
-    "Dean Livne, acting director general of the Central Elections Committee, stated in a televised broadcast that over 1,200,000 Israelis had cast their ballots by 10 am. This participation rate marks the highest turnout recorded at this point in the vote since 1981."
-   ],
-   "title_fa": "کمیسیون انتخابات: میزان مشارکت اولیه در انتخابات اسرائیل از سال ۱۹۸۱ بی‌سابقه‌ بوده است",
-   "summary_fa": "به گفته کمیسیون مرکزی انتخابات اسرائیل، میزان مشارکت رای‌دهندگان در سه ساعت نخست انتخابات عمومی به ۱۶.۶۸ درصد رسید.",
-   "body_fa": [
-    "دین لیونه، سرپرست مدیرکلی کمیسیون انتخابات، در یک بیانیه تلویزیونی اعلام کرد که تا ساعت ۱۰ صبح بیش از ۱,۲۰۰,۰۰۰ اسرائیلی رای خود را به صندوق‌ها انداخته‌اند. این میزان مشارکت، بالاترین نرخ ثبت‌شده در این مرحله از رای‌گیری از سال ۱۹۸۱ تاکنون است."
-   ],
-   "title_ar": "لجنة الانتخابات: نسبة الإقبال المبكر في الانتخابات الإسرائيلية هي الأعلى منذ عام 1981",
-   "summary_ar": "أفادت لجنة الانتخابات المركزية بأن نسبة إقبال الناخبين في الساعات الثلاث الأولى من الانتخابات العامة الإسرائيلية بلغت 16.68 بالمئة.",
-   "body_ar": [
-    "وقال دين ليفني، القائم بأعمال المدير العام للجنة الانتخابات، في بيان متلفز إن أكثر من 1,200,000 إسرائيلي أدلوا بأصواتهم بحلول الساعة العاشرة صباحاً. وتعد نسبة المشاركة هذه أعلى نسبة تُسجل في هذه المرحلة من التصويت منذ عام 1981."
-   ]
-  },
-  {
    "id": "c3071901a667",
    "lang": "en",
    "source": "The Guardian",
@@ -384,96 +450,6 @@
    "summary_ar": "بدأ الإسرائيليون التصويت في انتخابات عامة حاسمة يواجه فيها رئيس الوزراء بنيامين نتنياهو تحدياً سياسياً من رئيس أركان الجيش السابق غادي أيزنكوت.",
    "body_ar": [
     "ويأتي هذا التصويت وسط انقسامات حادة بشأن الحرب في غزة، والنزاع مع إيران، والعزلة الدولية المتزايدة التي تواجهها إسرائيل."
-   ]
-  },
-  {
-   "id": "81e31d12488c",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
-   "date": "2026-10-27T08:19:25Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "New UNSC permanent members without veto would be 'second-class': India",
-   "title_en": "New UNSC permanent members without veto would be 'second-class': India",
-   "summary_en": "India has stated that any reform of the UN Security Council creating permanent members without veto powers would turn them into \"second-class\" members. Ambassador Harish Parvathaneni emphasized that as long as the veto exists, all permanent members must hold it equally.",
-   "body_en": [
-    "Speaking at the UN General Assembly's Inter-Governmental Negotiations plenary, India's Permanent Representative Ambassador Harish Parvathaneni stated that adding permanent seats without veto rights would complicate discussions and preserve existing inequities among nations. He urged the immediate start of text-based negotiations with defined timelines to achieve comprehensive Council reform.",
-    "Parvathaneni also noted that the veto should be exercised with great restraint regarding international peace and security rather than political expediency. He pointed out that consensus is often used as a disguised veto in sanctions committees and negotiation processes, hindering progress for decades."
-   ],
-   "title_fa": "هند: اعضای دائمی جدید شورای امنیت بدون حق وتو «درجه دو» خواهند بود",
-   "summary_fa": "هند اعلام کرد که هرگونه اصلاحات در شورای امنیت سازمان ملل که اعضای دائمی جدیدی بدون حق وتو ایجاد کند، آن‌ها را به اعضای «درجه دو» تنزل می‌دهد. سفیر هاریش پارواتاننی تاکید کرد تا زمانی که حق وتو وجود دارد، همه اعضای دائمی باید از آن برخوردار باشند.",
-   "body_fa": [
-    "نماینده دائمی هند در سازمان ملل، سفیر هاریش پارواتاننی، در مجمع عمومی سازمان ملل گفت ایجاد کرسی‌های دائمی جدید بدون حق وتو، گفتگوها را پیچیده‌تر کرده و نابرابری‌های موجود را تثبیت می‌کند. وی خواستار آغاز فوری مذاکرات بر پایه متن با زمان‌بندی مشخص برای اصلاح جامع شورا شد.",
-    "پارواتاننی همچنین اشاره کرد که حق وتو باید در مسائل مربوط به صلح و امنیت بین‌المللی با خویشتنداری بزرگ اعمال شود نه مصلحت‌جویی سیاسی. وی افزود که قاعده اجماع در کمیته‌های تحریم و روندهای مذاکره اغلب به عنوان وتوی پنهان استفاده می‌شود و مانع پیشرفت شده است."
-   ],
-   "title_ar": "الهند: الأعضاء الدائمون الجدد في مجلس الأمن بدون حق الفيتو سيكونون من \"الدرجة الثانية\"",
-   "summary_ar": "أكدت الهند أن أي إصلاح لمجلس الأمن الدولي ينشئ فئة جديدة من الأعضاء الدائمين دون حق الفيتو سيجعلهم أعضاء من \"الدرجة الثانية\". وشدد السفير هاريش بارفاثانيني على أنه طالما بقي الفيتو قائماً، فيجب أن يتمتع به جميع الأعضاء الدائمين.",
-   "body_ar": [
-    "وقال المندوب الدائم للهند لدى الأمم المتحدة، السفير هاريش بارفاثانيني، في الجمعية العامة للأمم المتحدة إن إضافة مقاعد دائمة دون حق الفيتو ستزيد النقاشات تعقيداً وتكرس انعدام المساواة الحالي. وحث على البدء الفوري في مفاوضات قائمة على نصوص وبجداول زمنية محددة لتحقيق إصلاح شامل للمجلس.",
-    "وأشار بارفاثانيني أيضاً إلى ضرورة ممارسة الفيتو بضبط نفس كبير في مسائل السلم والأمن الدوليين بدلاً من المصلحة السياسية. وأوضح أن قاعدة التوافق تُستخدم غالباً كفيتو مبطن في لجان العقوبات وعمليات التفاوض، مما يعيق التقدم."
-   ]
-  },
-  {
-   "id": "6b5001a5606d",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-security-alert-americans-saudi-arabia",
-   "date": "2026-10-27T07:20:40Z",
-   "countries": [
-    "SAU"
-   ],
-   "score": 5,
-   "title": "US issues security alert for Americans in Saudi Arabia",
-   "title_en": "US issues security alert for Americans in Saudi Arabia",
-   "summary_en": "The U.S. Department of State has ordered non-emergency government staff and their families to leave Saudi Arabia due to safety risks and potential attacks on airports by Iranian-backed Houthis.",
-   "body_en": [
-    "According to a U.S. Mission security alert, the departure order took effect on October 23, 2026. The alert cited hostility and attacks by Iranian-supported Houthis against civilian airports and critical infrastructure in Saudi Arabia, which have caused civilian casualties and severe travel disruptions. U.S. government personnel now require Chief of Mission authorization to use any airport in the kingdom.",
-    "The alert noted that King Khalid International Airport in Riyadh partially reopened on October 23 for domestic and select international flights, while operations at airports in Jeddah and Dammam are experiencing delays and cancellations. U.S. citizens were advised to exercise extreme caution when using Saudi airports and to check flight statuses directly with airlines."
-   ],
-   "title_fa": "هشدار امنیتی آمریکا برای اتباع این کشور در عربستان سعودی",
-   "summary_fa": "وزارت امور خارجه آمریکا به دلیل مخاطرات امنیتی و احتمال حملات حوثی‌های مورد حمایت ایران به فرودگاه‌ها، به کارمندان غیراضطراری دولت و خانواده‌هایشان دستور داد عربستان سعودی را ترک کنند.",
-   "body_fa": [
-    "بر اساس هشدار امنیتی هیئت نمایندگی آمریکا، دستور خروج از ۲۳ اکتبر ۲۰۲۶ لازم‌الاجرا شده است. در این هشدار به خصومت‌ها و حملات حوثی‌های مورد حمایت ایران به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی در عربستان اشاره شده که منجر به تلفات غیرنظامی و اختلالات شدید در سفرها شده است. همچنین استفاده از فرودگاه‌های این کشور برای پرسنل دولتی آمریکا نیازمند مجوز رئیس هیئت نمایندگی است.",
-    "این هشدار اشاره دارد که فرودگاه بین‌المللی ملک خالد در ریاض از ۲۳ اکتبر برای پروازهای داخلی و برخی پروازهای بین‌المللی به طور جزئی بازگشایی شده، در حالی که پروازها در فرودگاه‌های جده و دمام با تاخیر و لغو مواجه هستند. به شهروندان آمریکایی توصیه شده هنگام استفاده از فرودگاه‌های عربستان نهایت احتیاط را به خرج دهند."
-   ],
-   "title_ar": "الولايات المتحدة تصدر تحذيرًا أمنيًا لرعاياها في السعودية",
-   "summary_ar": "أمرت وزارة الخارجية الأمريكية الموظفين الحكوميين غير الأساسيين وأفراد أسرهم بمغادرة المملكة العربية السعودية بسبب المخاطر الأمنية والهجمات المحتملة على المطار من قبل الحوثيين المدعومين من إيرانيين.",
-   "body_ar": [
-    "وفقًا لتحذير أمني صادر عن البعثة الأمريكية، دخل أمر المغادرة دخل دخل دخل التنفيذ في 23 أكتوبر 2026. وأشار التحذير إلى هجمات الحوثيين المدعومين من إيران على المطارات المدنية والبنية التحتية الحيوية في السعودية، مما أسفر عن سقوط ضحايا مدنيين واضطرابات شديدة في السفر. كما يتطلب استخدام أي مطار في المملكة تصريحًا خاصًا لرئيس البعثة للموظفين الحكوميين.",
-    "ولفت التحذير إلى أن مطار الملك خالد الدولي في الرياض أعاد فتحه جزئيًا في 23 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية، بينما تشهد العمليات في مطاري جدة والدمام تأخيرات وإلغاءات. وتم نصح المواطنين الأمريكيين بتوخي الحذر الشديد عند استخدام المطارات السعودية."
-   ]
-  },
-  {
-   "id": "95c6b519428b",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-members-to-security-council-extending-veto-privileges",
-   "date": "2026-10-27T07:08:28Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
-   "title_en": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
-   "summary_en": "At a UN General Assembly debate on the veto, Pakistan cautioned that adding new permanent members to the Security Council or extending veto power would deepen inequalities and worsen Council paralysis.",
-   "body_en": [
-    "Speaking at the debate, Gul Qaiser Sarwani, a counsellor at the Pakistan Mission to the UN, called for comprehensive and democratic reform of the Security Council. He stated that strategic rivalries among permanent members have repeatedly blocked action on international peace and security, and opposed the creation of any new permanent seats.",
-    "Sarwani advocated for the abolition of the veto or strict restrictions on its use, emphasizing that any reform must align with the UN Charter. Pakistan supported enhancing representation for elected members to provide a check on veto power and stressed that veto discussions must be addressed comprehensively alongside other Security Council reform issues."
-   ],
-   "title_fa": "هشدار پاکستان در مجمع عمومی سازمان ملل درباره افزودن اعضای جدید به شورای امنیت و گسترش حق veto",
-   "summary_fa": "در جریان مناظره مجمع عمومی سازمان ملل درباره حق veto، پاکستان هشدار داد که افزودن اعضای دائمی جدید به شورای امنیت یا گسترش حق veto باعث تعمیق نابرابری‌ها و افزایش فلج شدن شورای امنیت می‌شود.",
-   "body_fa": [
-    "گل قیصر سروانی، رایزن هیئت نمایندگی پاکستان در سازمان ملل، طی سخنانی خواستار اصلاحات جامع و دمکراتیک در شورای امنیت شد. وی با بیان اینکه رقابت‌های راهبردی میان اعضای دائمی بارها مانع اقدام در زمینه صلح و امنیت بین‌المللی شده است، با ایجاد هرگونه کرسی دائمی جدید مخالفت کرد.",
-    "سروانی خواستار لغو حق veto یا اعمال محدودیت‌های شدید بر آن شد و تأکید کرد که هرگونه اصلاحات باید با منشور سازمان ملل همخوانی داشته باشد. پاکستان از افزایش نمایندگی اعضای منتخب برای ایجاد رقابت و نظارت بر حق veto حمایت کرد."
-   ],
-   "title_ar": "في مناقشة بالجمعية العامة، پاکستان تحذر من إضافية أعضاء جدد لمجلس الأمن وتوسيع حق الفيتو",
-   "summary_ar": "حذرت پاکستان، خلال مناقشة في الجمعية العامة للأمم المتحدة حول حق الفيتو، من أن إضافة أعضاء دائمين جدد إلى مجلس الأمن أو توسيع صلاحيات الفيتو سيزيد من عدم المساواة ويفاقم شلل المجلس.",
-   "body_ar": [
-    "دعا گل قيصر سرواني، المستشار في بعثة پاکستان لدى الأمم المتحدة، إلى إصلاح شامل وديمقراطي لمجلس الأمن. وأوضح أن التنافس الاستراتيجي بين الأعضاء الدائمين أعاق مرارًا العمل المتعلق بالسلام والأمن الدوليين، معربًا عن معارضته لإنشاء أي مقاعد دائمة جديدة.",
-    "ودعا سرواني إلى إلغاء حق الفيتو أو فرض قيود صارمة على استخدامه، مؤكدًا أن أي إصلاح يجب أن يتوافق مع ميثاق الأمم المتحدة. وأكد دعم پاکستان لتعزيز تمثيل الأعضاء المنتخبين لتحقيق التوازن مع سلطة الفيتو."
    ]
   },
   {
@@ -630,66 +606,6 @@
    ]
   },
   {
-   "id": "dc6b819a0dfa",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss",
-   "date": "2026-10-27T05:47:36Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
-   "title_en": "Could US midterms reshape Pakistan’s relationship with Washington?",
-   "summary_en": "Following a period of strained relations, Pakistan has developed a close partnership with US President Donald Trump during his second term, notably through diplomacy around regional conflicts. As the US midterms approach, Islamabad favors maintaining the current administration's alignment.",
-   "body_en": [
-    "Relations between Washington and Islamabad improved after Pakistan helped arrest a key suspect in the Kabul airport bombing and engaged in mediation following a May conflict with India. Trump subsequently reduced tariffs on Pakistani goods and welcomed top Pakistani officials, including Army Chief Asim Munir, to the White House.",
-    "Pakistan also brokered direct talks and a temporary ceasefire between the US and Iran in April, hosting discussions that led to a draft memorandum of understanding. However, analysts note that while Islamabad's geopolitical profile has risen, long-term stability in its US ties remains linked to regional developments and political outcomes in Washington."
-   ],
-   "title_fa": "آیا انتخابات میان‌دوره‌ای آمریکا می‌تواند روابط پاکستان با واشنگتن را بازسازی کند؟",
-   "summary_fa": "پس از دوره‌ای از روابط تیره‌وتار، پاکستان در طول دوره دوم ریاست‌جمهوری دونالد ترامپ، به ویژه از طریق دیپلماسی در قبال مناقشات منطقه‌ای، مشارکت نزدیکی با او برقرار کرده است. با نزدیک شدن به انتخابات میان‌دوره‌ای آمریکا، اسلام‌آباد خواهان حفظ همسویی فعلی با واشنگتن است.",
-   "body_fa": [
-    "روابط واشنگتن و اسلام‌آباد پس از همکاری پاکستان در بازداشت متهم اصلی بمب‌گذاری فرودگاه کابل و میانجی‌گری پس از درگیری ماه مه با هند بهبود یافت. ترامپ متعاقباً تعرفه کالاهای پاکستانی را کاهش داد و از مقامات ارشد پاکستان از جمله عاصم منیر، فرمانده ارتش، در کاخ سفید استقبال کرد.",
-    "پاکستان همچنین در ماه آوریل میانجی‌گری گفتگوهای مستقیم و آتش‌بس موقت میان آمریکا و ایران را بر عهده داشت و میزبان مذاکراتی بود که به پیش‌نویس یک تفاهم‌نامه انجامید. با این حال، تحلیل‌گران خاطرنشان می‌کنند که اگرچه جایگاه ژئوپلیتیک اسلام‌آباد ارتقا یافته، استقرار بلندمدت در روابط آن با آمریکا همچنان به تحولات منطقه‌ای و نتایج سیاسی در واشنگتن وابسته است."
-   ],
-   "title_ar": "هل يمكن لانتخابات منتصف الولاية الأمريكية أن تعيد تشكيل علاقات پاکستان مع واشنطن؟",
-   "summary_ar": "بعد فترة من العلاقات المتوترة، طوّرت پاکستان شراكة وثيقة مع الرئيس الأمريكي دونالد ترامب خلال ولايته الثانية، لا سيما من خلال الدبلوماسية المتعلقة بالنزاعات الإقليمية. ومع اقتراب انتخابات منتصف الولاية الأمريكية، تفضل إسلام آباد الحفاظ على التوافق الحالي مع واشنطن.",
-   "body_ar": [
-    "تحسنت العلاقات بين واشنطن وإسلام آباد بعد أن ساعدت پاکستان في إلقاء القبض على مشتبه به رئيسي في تفجير مطار كابول وشاركت في الوساطة عقب النزاع الذي اندلع في أيار/مايو مع الهند. وعقب ذلك، خفض ترامب الرسوم الجمركية على البضائع الباكستانية واستقبل كبار المسؤولين الباكستانيين، بمن فيهم قائد الجيش عاصم منير، في البيت الأبيض.",
-    "كما توسطت پاکستان في إجراء محادثات مباشرة ووقف إطلاق نار مؤقت بين الولايات المتحدة وإيران في نيسان/أبريل، واستضافت مناقشات أدت إلى مسودة مذكرة تفاهم. ومع ذلك، يشير المحللون إلى أنه على الرغم من ارتفاع المكانة الجيوسياسية لإسلام آباد، فإن الاستقرار طويل الأمد في علاقاتها مع الولايات المتحدة يظل مرتبطاً بالتطورات الإقليمية والنتائج السياسية في واشنطن."
-   ]
-  },
-  {
-   "id": "d62935156b22",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c317kxrq5kr5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-27T05:22:00Z",
-   "countries": [
-    "TUR"
-   ],
-   "score": 5,
-   "title": "«ما برادر کوچک نیستیم»؛ الهام علی‌اف، متحد اردوغان یا ادامه‌دهنده سنت آتاتورک؟",
-   "title_en": "\"We are not a little brother\": Ilham Aliyev, Erdogan's ally or successor to Atatürk's tradition?",
-   "summary_en": "The implementation of new school dress codes in Azerbaijan has triggered criticism from political figures in Turkey over religious freedoms, sparking a dispute regarding Ankara's influence. Azerbaijani officials and pro-government commentators have firmly rejected the backlash, emphasizing the country's national sovereignty and commitment to secularism.",
-   "body_en": [
-    "Following the introduction of updated uniform guidelines emphasizing secular education in Azerbaijan, reports emerged of restrictions on hijab-wearing students and teachers. This drew sharp reaction from figures close to Turkish President Recep Tayyip Erdogan, prompting Baku to blacklist dozens of Turkish critics and accuse them of meddling in domestic affairs.",
-    "Pro-government commentators in Azerbaijan have strongly rejected any submissive role toward Turkey, portraying President Ilham Aliyev as a leader defending national sovereignty. Some political figures have even compared Aliyev's firm stance on secularism to the principles of Mustafa Kemal Atatürk."
-   ],
-   "title_fa": "«ما برادر کوچک نیستیم»؛ الهام علی‌اف، متحد اردوغان یا ادامه‌دهنده سنت آتاتورک؟",
-   "summary_fa": "اجرای مقررات جدید پوشش در مدارس جمهوری آذربایجان و واکنش‌های تند برخی سیاستمداران و رسانه‌های ترکیه، مناقشه‌ای را بر سر مداخله در امور داخلی باکو و حفظ استقلال و سکولاریسم این کشور ایجاد کرده است. مسئولان و رسانه‌های طرفدار دولت در باکو با تاکید بر حاکمیت ملی، بر موضع سکولار خود در برابر فشارهای خارجی پافشاری می‌کنند.",
-   "body_fa": [
-    "پس از اجرایی شدن قوانین جدید لباس فرم با تاکید بر آموزش سکولار در جمهوری آذربایجان، گزارش‌هایی مبنی بر اعمال محدودیت برای دانش‌آموزان و معلمان محجبه منتشر شد. این موضوع واکنش شدید چهره‌های نزدیک به رجب طیب اردوغان را برانگیخت و باکو نیز ده‌ها تن از این منتقدان را در فهرست سیاه قرار داد و آنان را به مداخله در امور داخلی متهم کرد.",
-    "تحلیل‌گران و رسانه‌های طرفدار دولت در جمهوری آذربایجان با رد هرگونه نقش تابع در برابر ترکیه، الهام علی‌اف را رهبری تصویر می‌کنند که از حاکمیت ملی دفاع می‌کند. برخی چهره‌های سیاسی حتی موضع قاطع او را در قبال سکولاریسم با اصول مصطفی کمال آتاتورک مقایسه کرده‌اند."
-   ],
-   "title_ar": "\"لسنا أخاً أصغر\"؛ إلهام علييف، حليف أردوغان أم امتداد لنهج أتاتورك؟",
-   "summary_ar": "أثار تطبيق قواعد جديدة للزي المدرسي في أذربيجان انتقادات من شخصيات سياسية في تركيا بشأن الحريات الدينية، مما أدى إلى بروز خلاف حول مدى نفوذ أنقرة. وقد رفض المسؤولون والمعلقون الموالون للحكومة في باكو هذه الانتقادات شديدة اللهجة، مؤكدين على سيادة البلاد الوطنية والتزامها بالعلمانية.",
-   "body_ar": [
-    "عقب تطبيق قواعد جديدة للزي المدرسي تؤكد على علمانية التعليم في أذربيجان، ظهرت تقارير عن فرض قيود على الطالبات والمعلمات المحجبات. وأثار ذلك ردود فعل حادة من شخصيات مقربة من الرئيس التركي رجب طيب أردوغان، مما دفع باكو إلى إدراج عشرات الناقدين الأتراك في القائمة السوداء واتهامهم بالتدخل في الشؤون الداخلية.",
-    "ورفض المعلقون الموالون للحكومة في أذربيجان بشدة أي دور تابع لتركيا، صوروا الرئيس إلهام علييف كقائد يدافع عن السيادة الوطنية. وذهب بعض الشخصيات السياسية إلى حد مقارنة موقفه الحاسم بشأن العلمانية بمبادئ مصطفى كمال أتاتورك."
-   ]
-  },
-  {
    "id": "b9b2cad45d3b",
    "lang": "en",
    "source": "Middle East Eye",
@@ -715,36 +631,6 @@
    "summary_ar": "أعلن التحالف بقيادة السعودية أن الدفاعات الجوية اعترضت ودمرت أربع طائرات مسيرة أطلقها الحوثيون باتجاه المنطقة الجنوبية في السعودية.",
    "body_ar": [
     "وأكد التحالف الذي تقوده السعودية أن الدفاعات الجوية تمكنت من اعتراض وتدمير المسيرات الأربع التي أطلقت صوب جنوب المملكة."
-   ]
-  },
-  {
-   "id": "937e2836755a",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040072/balochistan-assembly-shelves-resolution-against-sardari-system",
-   "date": "2026-10-27T01:58:00Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Balochistan Assembly shelves resolution against Sardari system",
-   "title_en": "Balochistan Assembly shelves resolution against Sardari system",
-   "summary_en": "The Balochistan Provincial Assembly disposed of a resolution on Monday that sought the immediate abolition of the Sardari system and a ban on using titles like Sardar and Nawab.",
-   "body_en": [
-    "Speaker Abdul Khaliq Achakzai disposed of the resolution, moved by Jamaat-i-Islami MPA Hidayatur Rehman Baloch, explaining that nationwide legislation abolishing the system was enacted in 1976. He added that the Balochistan High Court had also issued rulings on the matter, which were upheld by the Federal Constitutional Court in March.",
-    "The decision led to a heated exchange between Rehman and Opposition Leader Mir Younis Aziz Zehri. Rehman stated he would correct the resolution and reintroduce it, while opponents argued the historical system should not be entirely condemned over individual wrongdoings. The assembly session was ultimately adjourned until Nov 10 due to a lack of quorum."
-   ],
-   "title_fa": "مجلس بلوچستان قطعنامه علیه سیستم سرداری را از دستور کار خارج کرد",
-   "summary_fa": "مجلس ایالتی بلوچستان روز دوشنبه قطعنامه‌ای را که خواستار لغو فوری سیستم سرداری و ممنوعیت استفاده از عناوین سردار و نواب بود، از دستور کار خارج کرد.",
-   "body_fa": [
-    "عبدالخالق اچکزی، رئیس مجلس، با استناد به اینکه قانون لغو این سیستم در سال ۱۹۷۶ تصویب شده و در سراسر کشور اجرا می‌شود، این قطعنامه پیشنهادی هدایت‌الرحمان بلوچ، نماینده جماعت اسلامی را از دستور کار خارج کرد. وی اشاره کرد که دادگاه عالی بلوچستان نیز در این خصوص احکامی صادر کرده که در ماه مارس به تایید دادگاه قانون اساسی فدرال رسیده است.",
-    "این اقدام باعث درگیری لفظی تندی میان هدایت‌الرحمان و میر یونس عزیز زہری، رهبر اپوزیسیون شد. رحمان اعلام کرد که پس از اصلاح، این قطعنامه را دوباره ارائه خواهد داد، در حالی که نمایندگان مخالف تاکید داشتند نباید کل این سیستم قدیمی را به خاطر تخلفات افراد زیر سوال برد. جلسات مجلس در نهایت به دلیل به حد نصاب نرسیدن نمایندگان تا ۱۰ نوامبر به حالت تعلیق درآمد."
-   ],
-   "title_ar": "برلمان بلوشستان يرفع قرارًا ضد نظام السرداري من جدول الأعمال",
-   "summary_ar": "أنهت الجمعية الوطنية لقرية بلوشستان يوم الاثنين مناقشة قرار يطالب بالإلغاء الفوري لنظام السرداري وحظر استخدام ألقاب مثل سردار ونواب.",
-   "body_ar": [
-    "وأوضح رئيس البرلمان عبد الخالق أتشاكزاي، عند إنهائه القرار المقدم من عضو جماعت إسلامي هدايت الرحمن بلوچ، أن هناك تشريعات صادرة عام 1976 تلغي هذا النظام على مستوى البلاد. وأضاف أن محكمة بلوشستان العليا أصدرت قرارات أيدتها المحكمة الدستورية الاتحادية في مارس الماضي.",
-    "وأدى هذا القرار إلى ملاشاة كلامية حادة بين هدايت الرحمن وزعيم المعارضة میر يونس عزيز زهري. وأكد الرحمن أنه سيعيد تقديم القرار بعد تصحيحه، بينما دافع أعضاء آخرون عن النظام التاريخي مشيرين إلى أنه لا ينبغي إدانته بالكامل بسبب أخطاء فردية. وتم تأجيل الجلسة في النهاية إلى 10 نوفمبر لعدم اكتمال النصاب."
    ]
   },
   {
@@ -776,34 +662,6 @@
    ]
   },
   {
-   "id": "a3da674fda0f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-forces-detain-and-assault-palestinian-occupied-west-bank",
-   "date": "2026-10-27T00:24:54Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Watch: Israeli forces detain and assault Palestinian in occupied West Bank town of Sinjil",
-   "title_en": "Watch: Israeli forces detain and assault Palestinian in occupied West Bank town of Sinjil",
-   "summary_en": "Video footage shows Israeli forces detaining and physically assaulting a young Palestinian man in the occupied West Bank town of Sinjil.",
-   "body_en": [
-    "Footage captured Israeli occupation forces detaining and assaulting a young Palestinian in Sinjil, a town located north of Ramallah in the occupied West Bank."
-   ],
-   "title_fa": "تماشا کنید: بازداشت و ضرب‌وشتم یک فلسطینی توسط نیروهای اسرائیلی در شهرک سنجل در کرانه باختری اشغالی",
-   "summary_fa": "تصاویر ویدئویی نشان می‌دهد که نیروهای اسرائیلی یک جوان فلسطینی را در شهرک سنجل در کرانه باختری اشغالی بازداشت کرده و مورد ضرب‌وشتم قرار می‌دهند.",
-   "body_fa": [
-    "این ویدئو نیروهای اشغالگر اسرائیلی را در حال بازداشت و کتک زدن یک جوان فلسطینی در سنجل، شهرکی در شمال رام‌الله در کرانه باختری اشغالی، نشان می‌دهد."
-   ],
-   "title_ar": "شاهد: القوات الإسرائيلية تعتقل وتعتدي على فلسطيني في بلدة سنجل بالضفة الغربية المحتلة",
-   "summary_ar": "تظهر مقاطع فيديو قوات الاحتلال الإسرائيلي وهي تعتقل شابًا فلسطينيًا وتعتدي عليه بالضرب في بلدة سنجل بالضفة الغربية المحتلة.",
-   "body_ar": [
-    "وثقت المشاهد قوات الاحتلال الإسرائيلي وهي تحتجز وتعتدي على شاب فلسطيني في بلدة سنجل الواقعة شمال مدينة رام الله بالضفة الغربية المحتلة."
-   ]
-  },
-  {
    "id": "25cfbc19dbf6",
    "lang": "en",
    "source": "Al Jazeera",
@@ -832,34 +690,6 @@
    "body_ar": [
     "وذكر الجيش الأردني أن ضرباته استهدفت مخابئ لمجموعات مسلحة في جنوب شرق سوريا بالتنسيق مع السلطات السورية، مما أدى إلى مقتل وإصابة العديد من عناصر تلك المجموعات. ومع ذلك، نفى الحكومة السورية وجود أي تنسيق مسبق، مؤكدة أن العملية العسكرية تمت دون إخطار وأعلنت فتح تحقيق. وأفاد الدفاع المدني السوري بمقتل سبعة أشخاص، بينهم ثلاثة أطفال وامرأة، جراء ضربات متعددة في محافظتي درعا والسويداء.",
     "وجاءت الضربات الجوية عقب اعتقال ثلاثة مشتبه بهم في الأردن لصلتهم بحادث إطلاق النار يوم الجمعة في جنازة بكنيسة للروم الأرثوذكس في الكرك أسفر عن مقتل تسعة أشخاص. ورداً على الضربات، أوقفت السلطات السورية الحركة في معبر نصيب، وهو المنفذ الحدودي الوحيد للركاب والبضائع التجارية بين البلدين، بينما دانت وزارة الخارجية السورية الغارات واعتبرتها انتهاكاً للسيادة."
-   ]
-  },
-  {
-   "id": "dcddaf660c3b",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-burn-palestinians-car-near-nablus-local-sources-say",
-   "date": "2026-10-26T23:09:32Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Israeli settlers burn Palestinian's car near Nablus, local sources say",
-   "title_en": "Israeli settlers burn Palestinian's car near Nablus, local sources say",
-   "summary_en": "Israeli settlers burned a Palestinian man's car near the town of Awarta, south of Nablus, according to local sources.",
-   "body_en": [
-    "The arson incident near Awarta occurred alongside raids by Israeli forces in other parts of the occupied West Bank, including the town of Arraba, located southwest of Jenin."
-   ],
-   "title_fa": "به گفته منابع محلی، شهرک‌نشینان اسرائیلی خودروی یک فلسطینی را در نزدیکی نابلس آتش زدند",
-   "summary_fa": "به گفته منابع محلی، شهرک‌نشینان اسرائیلی خودروی یک مرد فلسطینی را در نزدیکی شهرک عورتا در جنوب نابلس آتش زدند.",
-   "body_fa": [
-    "این آتش‌سوزی در نزدیکی عورتا هم‌زمان با یورش نیروهای اسرائیلی به دیگر مناطق کرانه باختری اشغالی، از جمله شهرک عرابه در جنوب غربی جنین، رخ داد."
-   ],
-   "title_ar": "مستوطنون إسرائيليون يحرقون سيارة فلسطيني قرب نابلس، بحسب مصادر محلية",
-   "summary_ar": "أحرق مستوطنون إسرائيليون سيارة رجل فلسطيني بالقرب من بلدة عورتا جنوب نابلس، وفقًا لما أفادت به مصادر محلية.",
-   "body_ar": [
-    "وقع حادث إحراق السيارة بالقرب من عورتا بالتزامن مع اقتحام القوات الإسرائيلية لبلدات أخرى في الضفة الغربية المحتلة، بما في ذلك بلدة عرابة جنوب غرب جنين."
    ]
   },
   {

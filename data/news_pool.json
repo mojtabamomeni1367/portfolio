@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:11:35Z",
+ "updated": "2026-10-27T16:06:09Z",
  "items": [
   {
    "id": "d33d24266c27",
@@ -3983,6 +3983,652 @@
    "desc": "في جولة الصحف مقالات تتناول توظيف نتنياهو خطاب ترهيب من إيران في خضم المنافسة الانتخابية، والجدل حول استعداد الولايات المتحدة لخوض حروب في الفضاء، فضلاً عن الأثر العميق للحزن، ولماذا لا يكفي مرور الوقت للتعافي من ألم الفقد.",
    "score": 8,
    "dup_of": "672f61b2d7f7"
+  },
+  {
+   "id": "4d4c4c86eddc",
+   "title": "Israel election turnout highest in 50 years as voting continues",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
+   "date": "2026-10-27T15:20:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Almost 45 percent of Israeli voters had cast their ballots by mid-afternoon.",
+   "score": 7,
+   "dup_of": "b690b2201594"
+  },
+  {
+   "id": "fa0cacede110",
+   "title": "Cyclone Arnab batters India’s east coast",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss",
+   "date": "2026-10-27T15:11:12Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Heavy rains and coastal floodings hit India’s east coast on Tuesday as cyclone Arnab is making landfall.",
+   "score": 3
+  },
+  {
+   "id": "c983b9bd4537",
+   "title": "Israeli military detains Egyptian national who crossed border",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+   "date": "2026-10-27T15:10:27Z",
+   "countries": [
+    "EGY",
+    "ISR"
+   ],
+   "desc": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
+   "score": 4
+  },
+  {
+   "id": "2bd2c915281d",
+   "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+   "date": "2026-10-27T15:08:59Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
+   "score": 2
+  },
+  {
+   "id": "ea34a025b9c3",
+   "title": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
+   "date": "2026-10-27T13:54:43Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.",
+   "score": 6
+  },
+  {
+   "id": "8ebbbc3d2985",
+   "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
+   "date": "2026-10-27T13:29:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel's inclusion.",
+   "score": 3
+  },
+  {
+   "id": "700e39524459",
+   "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+   "date": "2026-10-27T13:26:32Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "The pair discussed energy cooperation and ways to enhance bilateral relations, Iranian state media reported.",
+   "score": 8,
+   "dup_of": "26eae7a62746"
+  },
+  {
+   "id": "1aec548def84",
+   "title": "Iranians brace for renewed attacks after Israeli, US elections",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
+   "date": "2026-10-27T13:23:32Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "The US and Israel have teased strikes around their elections, particularly against Iran's civilian infrastructure.",
+   "score": 8,
+   "dup_of": "787557057a41"
+  },
+  {
+   "id": "ececb58684b9",
+   "title": "India-China border face-offs test Modi six years after deadly clash",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
+   "date": "2026-10-27T13:15:32Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Despite thaw in India-China ties, border tensions again challenge Modi's strongman image at home.",
+   "score": 7
+  },
+  {
+   "id": "423e7f344c35",
+   "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+   "date": "2026-10-27T13:06:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.",
+   "score": 3
+  },
+  {
+   "id": "9b94ff3d698f",
+   "title": "In Gaza, no privacy, no peace: this is what our lives look like a year after the ‘ceasefire’ | Akram al-Sourani",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
+   "date": "2026-10-27T14:00:34Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "I look at myself and my neighbours queueing for water, and dream of a lost normality. We are now strangers even to ourselves Every morning, I look at myself and my neighbours standing in the queue for water, and remember how each of us once had a life of our own, our privacy, our own toothbrush, our own home and our own bathroom. How we used to wash our faces and drink clean water without ever imagining that a day would come when these simple routines would become a battle with ourselves and with every drop of water. Even standing beneath a hot shower has become a dream postponed until further",
+   "score": 4
+  },
+  {
+   "id": "03444a092d87",
+   "title": "Israel votes in decisive election: What happens after polls close?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
+   "date": "2026-10-27T14:55:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis are voting in a pivotal election Tuesday (October 27) as their country wrestles with unresolved wars, continues to reel from Hamas' 2023 attack and is deeply divided over the character of the state and the right person to lead it. Details by FRANCE 24's International Affairs Editor, Angela Diffley.",
+   "score": 8,
+   "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "7d1585723c9f",
+   "title": "Turnout high as Israeli voters deliver verdict on Netanyahu",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
+   "date": "2026-10-27T14:45:08Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis flocked to the polls Tuesday (October 27) in turnout unseen in decades, with a deeply divided electorate delivering a verdict on Prime Minister Benjamin Netanyahu in the first election since the October 7, 2023 attack. Former FRANCE 24 correspondent, Irris Makler, tells us more.",
+   "score": 7,
+   "dup_of": "b690b2201594"
+  },
+  {
+   "id": "4e4be19401d3",
+   "title": "Israel: Netanyahu supporters gather as PM votes",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes",
+   "date": "2026-10-27T14:37:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Supporters of Israeli Prime Minister Benjamin Netanyahu gathered outside a polling station where the leader was voting on Tuesday. This is Israel's first election since the October7, 2023 Hamas attack and is seen as a referendum on Netanyahu. FRANCE 24's Clovis Casali reports from Jerusalem.",
+   "score": 5,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "7b90f9e8bc25",
+   "title": "Israeli voter: 'This government is racist'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-voter-government-racist",
+   "date": "2026-10-27T15:52:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli voter: 'This government is racist' Getting rid of Netanyahu's \"racist\" government should be a priority for Israelis, an Israeli voter told Middle East Eye. Kassim Titi, a Palestinian citizen of Israel from the Galilee, said that the Israeli prime minister and his far-right allies Itamar Ben-Gvir and Bezalel Smotrich had fomented severe hatred against Palestinians. He said the \"government is racist and led by Ben Gvir and Smotrich.\" \"The way they treat Arabs is not right. We want to live in peace, stability and security and we want equality between Jews and Arabs,\" he said.",
+   "score": 4
+  },
+  {
+   "id": "1829847356e9",
+   "title": "Egypt jails Mada Masr editor and orders outlet closed",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/egypts-mada-masr-editor-lina-attalah-jailed-court-orders-outlet-shut",
+   "date": "2026-10-27T15:39:47Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Egypt jails Mada Masr editor and orders outlet closed Submitted by MEE staff on Tue, 10/27/2026 - 13:41 The conviction of respected journalist Lina Attalah and the closure of the independent news site represents a devastating blow to press freedom in the country Egyptian journalist Lina Attalah, co-founder and editor-in-chief of the Cairo-based online newspaper Mada Masr, pictured during an interview with AFP in Cairo, Egypt, 28 December 2020 (AFP) Off Security personnel lifted prominent Egyptian journalist Lina Attalah off the ground and carried her out of a Cairo courtroom on Tuesday, moment",
+   "score": 7
+  },
+  {
+   "id": "2a4b73ebed0a",
+   "title": "Ra'am leader accuses Netanyahu of inciting against his party",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raam-leader-accuses-netanyahu-inciting-against-his-party",
+   "date": "2026-10-27T15:36:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Ra'am leader accuses Netanyahu of inciting against his party Mansour Abbas, leader of the Palestinian-led Ra'am party, has accused Netanyahu of inciting against his party through claiming they were engaged in electoral fraud. “Benjamin Netanyahu is lying and inciting against Ra’am, using it as a scare tactic to mobilise right-wing voters and drive them to the polls,” he said in a video message.",
+   "score": 6
+  },
+  {
+   "id": "119f9f53b2a6",
+   "title": "UN inquiry finds Israel committed age-based persecution of Palestinian children in West Bank",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/un-inquiry-finds-israel-committed-age-based-persecution-palestinian-children-west-bank",
+   "date": "2026-10-27T15:28:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UN inquiry finds Israel committed age-based persecution of Palestinian children in West Bank Submitted by Sondos Asem on Tue, 10/27/2026 - 10:25 Investigators say the genocide in Gaza continues while extermination, torture and rape form part of a widespread and systematic attack on Palestinian civilians in the occupied West Bank Children watch as Israeli security forces deploy nearby in the Palestinian village of al-Mughayyir, near Ramallah in the Israeli-occupied West Bank, on 29 September 2026 (AFP) Off Israeli authorities and forces have committed the crime against humanity of age-based per",
+   "score": 8,
+   "dup_of": "2d6382e08911"
+  },
+  {
+   "id": "d2bc11b7a4b7",
+   "title": "Israeli voter: 'Netanyahu is a psychopath'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-voter-netanyahu-psychopath",
+   "date": "2026-10-27T14:35:36Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli voter: 'Netanyahu is a psychopath' An Israeli voter en route to vote in the city of Or Yehuda, near Tel Aviv, told Middle East Eye that she would be voting for Gadi Eisenkot's Yashar party as \"Netanyahu is a psychopath.\" Orly Neiger, a 60-year-old physiotherapist and mother-of-two, said she believed Eisenkot and his allies were still right-wing, but nevertheless \"people who use their heads - unlike those who vote for Netanyahu out of fear\". She said she would rather have voted for the centre-left The Democrats party led by Yair Golan, but would be casting her vote for Eisenkot as she h",
+   "score": 4
+  },
+  {
+   "id": "19c338ca7e36",
+   "title": "Netanyahu claims Muslim Brotherhood supporters are 'raiding' polling stations",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-claims-muslim-brotherhood-supporters-are-raiding-polling",
+   "date": "2026-10-27T13:50:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu claims Muslim Brotherhood supporters are 'raiding' polling stations Benjamin Netanyahu has claimed Muslim Brotherhood supporters are \"raiding\" the polling stations in Israel. \"We're at war for our home. Muslim Brotherhood supporters are raiding the polling stations and stealing the elections,\" he wrote on X. \"Go out and vote, recover it.\"",
+   "score": 6
+  },
+  {
+   "id": "b3680ec23fd4",
+   "title": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
+   "date": "2026-10-27T13:48:20Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks Submitted by Elis Gjevori on Tue, 10/27/2026 - 12:02 Saudi-backed forces report strikes on Houthi positions as US embassy warns its citizens to leave the kingdom as attacks intensify A man cycles past a large billboard displayed in Enghelab Square in Tehran of the Israeli Prime Minister Benjamin Netanyhu speaking to an empty UN General Assembly, on 26 October 2026 (Atta Kenare/AFP) Off Yemen’s Ansar Allah group, known as the Houthis, said on Tuesday that it had struck Saudi Arabia’s Ras Tanura oil ",
+   "score": 9
+  },
+  {
+   "id": "f33ae0348f4c",
+   "title": "Voter turnout highest since 1973 as of 2pm",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/voter-turnout-highest-1973-2pm",
+   "date": "2026-10-27T13:22:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Voter turnout highest since 1973 as of 2pm Voter turnout at 2pm was the highest in an Israeli election since 1973, according to Israel's election committee. As of 2pm local time 44.9 percent of eligible voters had cast their ballots.",
+   "score": 6,
+   "dup_of": "b690b2201594"
+  },
+  {
+   "id": "662188c343a6",
+   "title": "'Detained and interrogated': Israel blocks British MPs from entering occupied West Bank to meet Palestinians",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israel-detains-british-mps-and-stops-them-entering-west-bank",
+   "date": "2026-10-27T13:12:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "'Detained and interrogated': Israel blocks British MPs from entering occupied West Bank to meet Palestinians Submitted by MEE staff on Tue, 10/27/2026 - 11:28 The international delegation had planned to attend a conference in Ramallah and meet Palestinian farmers during the olive harvest Israeli army soldiers close the vehicle barrier at the Deir Sharaf checkpoint, west of Nablus in the Israeli-occupied West Bank, on 25 October 2026 (AFP) Off Israel has stopped an international delegation from entering the occupied West Bank to meet Palestinian farmers and civil society leaders facing violence",
+   "score": 6
+  },
+  {
+   "id": "4f073d307ab1",
+   "title": "Monitor warns of delays at polling stations in Palestinian communities in Israel",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/monitor-warns-delays-polling-stations-palestinian-communities-israel",
+   "date": "2026-10-27T13:09:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Monitor warns of delays at polling stations in Palestinian communities in Israel Delays and long lines have been reported at polling stations in Palestinian communities in Israel, according to a monitor. Adalah, the Legal Center for Arab Minority Rights in Israel, told Haaretz that there had been systemic delays observed. \"There are numerous reports of severe slowdowns at many polling stations,\" said Yeela Raanan, an Adalah monitor observing election integrity in Bedouin communities. Adalah said police officers were checking voters' identities at polling station entrances and delaying their en",
+   "score": 5
+  },
+  {
+   "id": "b25194607af3",
+   "title": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-forces-kill-14-gaza-un-commission-says-genocide-continues",
+   "date": "2026-10-27T12:55:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces kill 14 in Gaza as UN commission says genocide continues Submitted by MEE staff on Tue, 10/27/2026 - 11:34 Six-year-old among those killed in past two days as UN investigators accuse Israel of continuing genocidal acts despite ceasefire Palestinians walk along a street between tents and destroyed buildings in western Gaza City, Palestine, on 26 October 2026 (Majdi Fathi/NurPhoto via Reuters) Off Israeli forces have killed 14 Palestinians in the Gaza Strip over the past two days, according to the Palestinian health ministry. The latest victim was six-year-old Tahani Mohammad Shal",
+   "score": 9
+  },
+  {
+   "id": "7d1d0c6f68dc",
+   "title": "Mike Huckabee criticised for distinguishing between Israelis and 'Arabs' in elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mike-huckabee-criticised-distinguishing-between-israelis-and-arabs",
+   "date": "2026-10-27T12:38:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Mike Huckabee criticised for distinguishing between Israelis and 'Arabs' in elections US Ambassador to Israel Mike Huckabee faced criticism on Tuesday after he appeared to imply Palestinian citizens of Israel were not Israeli. In a post, Huckabee praised the Israeli electoral system because, among other reasons, \"Arabs vote same as Israelis.\" Today is election day in Israel, which is a national holiday. All voting is in person, ID required. No mail-in or absentee ballots. Arabs vote same as Israelis. Contentious process, but it's a democracy-not many of those in this region! — Ambassador Mike ",
+   "score": 4
+  },
+  {
+   "id": "8910fbcee011",
+   "title": "Jordanians rally around Christian community after church attack",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/jordanians-rally-around-christian-community-after-church-attack",
+   "date": "2026-10-27T12:31:02Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Jordanians rally around Christian community after church attack Submitted by Ayse Betul Aytekin on Tue, 10/27/2026 - 09:29 Jordan strikes Daraa and Sweida after linking attack suspects to ‘terrorist groups’ in Syria Muslims and Christians in Amman lit candles for the victims of a church attack that killed nine people, 25 October 2026 (Ashraf Esaa/The Jordanian Photography Association/MEE) Off Across Jordan , flags have flown at half-mast and security has been visibly stepped up in the capital, Amman, since a deadly attack on a church on Friday. The attack on a Greek Orthodox church during a fu",
+   "score": 6,
+   "dup_of": "3efd5f8667ed"
+  },
+  {
+   "id": "885c7ea66b1b",
+   "title": "Netanyahu rival Eisenkot urges voters to unseat 'worst govt' in Israeli history",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-rival-eisenkot-urges-voters-unseat-worst-govt-israeli-history",
+   "date": "2026-10-27T12:12:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu rival Eisenkot urges voters to unseat 'worst govt' in Israeli history Gadi Eisenkot, the main election challenger of Prime Minister Benjamin Netanyahu, urged voters on Tuesday to oust the \"worst government\" in Israel's history. \"I call on all citizens of Israel to go vote, not to buckle under the heat or the disruptions, to stick to the mission: to replace tonight the worst government since the state was established,\" he said. Reporting by AFP",
+   "score": 6
+  },
+  {
+   "id": "03724f812a3c",
+   "title": "British politicians defend Macklemore and reject push to ban him from UK",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/british-politicians-defend-macklemore-and-slam-calls-him-be-banned-uk",
+   "date": "2026-10-27T11:45:51Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "British politicians defend Macklemore and reject push to ban him from UK Submitted by Imran Mulla on Tue, 10/27/2026 - 09:49 Macklemore is set to perform in London this week but his opposition to the genocide in Gaza has led to calls for his banning from the UK US rapper Macklemore performs during the opening ceremony of the 2023 Invictus Games at the Merkur Spielarena in Düsseldorf, western Germany on September 9, 2023. (AFP) Off British politicians have urged the government to resist pressure to ban US rapper Macklemore from the country, in comments to Middle East Eye. The American rapper is",
+   "score": 2
+  },
+  {
+   "id": "aadf651cf7bf",
+   "title": "Man arrested after approaching centre-left party leader Yair Golan with a knife",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/man-arrested-after-approaching-centre-left-party-leader-yair-golan-knife",
+   "date": "2026-10-27T11:33:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Man arrested after approaching centre-left party leader Yair Golan with a knife A man has been arrested after approaching the centre-left party leader Yair Golan with a knife in Tel Aviv. Golan, leader of the The Democrats, was taking part in a voter mobilisation drive when the man approached him in a \"threatening manner.\" After security guards confronted him, a large knife fell from his jacket and he was tackled by the guards, before police came and arrested him. \"Incitement and violence will not deter us,\" Golan said following the incident.",
+   "score": 4
+  },
+  {
+   "id": "764188538669",
+   "title": "Like Blair and Starmer before him, Burnham has found his Middle East war",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/blair-and-starmer-him-burnham-has-found-his-middle-east-war",
+   "date": "2026-10-27T11:28:59Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Like Blair and Starmer before him, Burnham has found his Middle East war Submitted by Joe Gill on Fri, 10/23/2026 - 15:40 The UK is engaged in a war to protect Saudi oil. Burnham may come to regret this UK Defence Secretary Wes Streeting and US Secretary of War Pete Hegseth at the Pentagon on 15 October 2026 in Arlington, Virginia, US (Finn Gomez/Getty Images/AFP) Off Prime Minister Andy Burnham has found his Middle East war. British RAF fighter jets are being sent to Saudi Arabia to defend its cities and critical oil infrastructure from Yemeni Houthi strikes, Defence Secretary Wes Streeting a",
+   "score": 4
+  },
+  {
+   "id": "a032ff18efd9",
+   "title": "Highest voter turnout since 1977, says election committee",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/highest-voter-turnout-1977-says-election-committee",
+   "date": "2026-10-27T11:28:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Highest voter turnout since 1977, says election committee Israel's election committee said the turnout by noon was the highest since 1977. Over 2.3 million Israelis cast their vote by noon, 31.5 percent of eligible voters. The 1977 election was the first time Benjamin Netanyahu's Likud party won a pluarlity of seats in the country.",
+   "score": 6,
+   "dup_of": "b690b2201594"
+  },
+  {
+   "id": "fb40e550c56c",
+   "title": "Netanyahu warns 'left-wing women are escorting Arab women to the polls'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-left-wing-women-are-escorting-arab-women-polls",
+   "date": "2026-10-27T11:06:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Netanyahu warns 'left-wing women are escorting Arab women to the polls' Benjamin Netanyahu has warned his supporters that \"left-wing women are escorting Arab women to the polls\". According to Haaretz, the prime minister sent voters a recorded message, accusing leftists and Palestinian-led parties of trying to \"steal the election\". He added that police had \"caught three senior [Ra'am] officials with envelopes of cash in the south\".",
+   "score": 5
+  },
+  {
+   "id": "6f9ad15c5260",
+   "title": "Election committee says no evidence of ballot tampering despite complaints from at least six parties",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/election-committee-says-no-evidence-ballot-tampering-despite-complaints",
+   "date": "2026-10-27T10:54:31Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Election committee says no evidence of ballot tampering despite complaints from at least six parties Israel's Central Elections Committee (CEC) has said there is no evidence of systemic tampering with ballots in the election, despite complaints from at least six opposition parties. The Times of Israel said that Yashar, B’Yachad, People of Israel, Yisrael Beytenu, Ra’am, and the Reservists-Economic party had all reported alleged irregularities, including \"missing or defaced ballot slips and other suspected attempts to interfere with voting.\" Yashar said they had raised a complaint after suspici",
+   "score": 5
+  },
+  {
+   "id": "f03b02321717",
+   "title": "UN inquiry says Israel kept committing genocide in Gaza after Oct 2025 truce",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040240/un-inquiry-says-israel-kept-committing-genocide-in-gaza-after-oct-2025-truce",
+   "date": "2026-10-27T15:19:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel continued to commit genocide in Gaza after last October’s US-brokered ceasefire in the enclave, a UN commission said in a report published on Monday. The report ​by the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, examined violations ‌against Palestinian civilians, including children, since the start of the war between Israel and Hamas on October 7, 2023, up to September this year. It said Israeli authorities had kept committing “genocidal acts with the genocidal intent to destroy, in whole or in part, th",
+   "score": 8,
+   "dup_of": "2d6382e08911"
+  },
+  {
+   "id": "61b6517a1e93",
+   "title": "Bilawal calls for 'full stop' on conversations about new provinces",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040225/bilawal-calls-for-full-stop-on-conversations-about-new-provinces",
+   "date": "2026-10-27T13:31:14Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PPP Chairman Bilawal Bhutto-Zardari on Tuesday called for a “full stop” to conversations regarding the creation of new provinces. He made the remarks while speaking to the media at Spencer Eye Hospital in Karachi’s Lyari alongside Sindh Chief Minister Syed Murad Ali Shah. Reiterating his party’s stance in response to a question over “pressure” the PPP was facing regarding the creation of new administrative units and the possibility of rolling back the 18th Amendment, Bilawal said the people of Sindh and their elected representatives had presented their decision and “now we should put a full st",
+   "score": 5
+  },
+  {
+   "id": "e2664d9f6d13",
+   "title": "Karachi suspect accused of luring women for jobs, stealing their phones beaten with slippers during court appearance",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040229/karachi-suspect-accused-of-luring-women-for-jobs-stealing-their-phones-beaten-with-slippers-during-court-appearance",
+   "date": "2026-10-27T15:48:42Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A man accused of stealing over 50 mobile phones from women after luring them to a farmhouse in Gadap under the pretext of job interviews was beaten by the aggrieved during a court appearance on Tuesday. The suspect was arrested by the police on Monday for his alleged involvement in stealing the mobile phones of 59 women, who were brought to the farmhouse in October under the pretext of a job interview. He was presented before the Malir judicial magistrate on Tuesday. During the hearing, the investigating officer (IO) informed the magistrate that the suspect was arrested yesterday and ",
+   "score": 2
+  },
+  {
+   "id": "f807a49bd770",
+   "title": "New private equity policy framework on the horizon to bring over $10bn in investments",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040219/new-private-equity-policy-framework-on-the-horizon-to-bring-over-10bn-in-investments",
+   "date": "2026-10-27T13:46:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The government is set to roll out a new private equity policy framework covering enhanced risk portfolios, targeting $10 to $15 billion in tax-neutral investment from domestic and international players in the private equity market. The government aims to finalise the policy framework within the next two weeks, which would entail policy actions to be introduced through the finance bill for the next fiscal year (FY27-28). Regulatory actions would follow immediately after the finalisation of the framework without waiting for the next year’s budget, an official told Dawn . The framework",
+   "score": 4
+  },
+  {
+   "id": "692164dbb827",
+   "title": "ATC reserves verdict in security breach case against Imaan, Hadi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040233/atc-reserves-verdict-in-security-breach-case-against-imaan-hadi",
+   "date": "2026-10-27T13:43:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The trial of human rights lawyer Imaan Zainab Mazari-Hazir and her husband, Hadi Ali Chattha, in the security breach case concluded at Adiala Jail on Tuesday, with the anti-terrorism court (ATC) reserving its verdict. Imaan and Hadi are facing a jail trial in a 2024 case pertaining to the alleged disruption of an international cricket team’s security route and incitement to public unrest. The couple, accused of removing barriers from the route, was indicted on October 7. On Tuesday, both accused recorded their statements under Section 342 (power to examine the accused) of the Code o",
+   "score": 3
+  },
+  {
+   "id": "e02f0984f225",
+   "title": "Two charged with security offences over plot at UK airbase used by US",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040232/two-charged-with-security-offences-over-plot-at-uk-airbase-used-by-us",
+   "date": "2026-10-27T13:15:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "UK anti-terrorism police said on Tuesday that two men have been charged with national security offences after an incident last month at a British airbase used by the United States, linking the scare to Iran. The head of National Counter Terrorism Policing, Laurence Taylor, said two British men aged 24 had been charged: one with assisting a foreign intelligence service, believed to be in Iran, and another with entering a prohibited place for a purpose “prejudicial” to the United Kingdom. This is the first time that anyone has been charged over the incident at RAF Fairford, after police arrested",
+   "score": 4
+  },
+  {
+   "id": "cb90b3031aa1",
+   "title": "At least 1 killed, 7 injured as roof of under-construction building collapses in Multan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040215/at-least-1-killed-7-injured-as-roof-of-under-construction-building-collapses-in-multan",
+   "date": "2026-10-27T14:02:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: At least one individual was killed, while seven others were injured on Tuesday when the roof of an under-construction building collapsed near Multan’s Northern Bypass, Rescue 1122 said. In a statement, the rescue service said the roof of an under-construction plaza had collapsed near the National College of Business Administration and Economics on Northern Bypass. The agency said that so far, seven injured individuals had been rescued and shifted to Nishtar Hospital, adding that one person was killed in the collapse, whose body had also been shifted to the hospital. It added that a Res",
+   "score": 2
+  },
+  {
+   "id": "847d32f82cf2",
+   "title": "Egypt detains prominent journalist Lina Attalah after trial",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/egypt-detains-prominent-journalist-lina-attalah-after-trial/article71632130.ece",
+   "date": "2026-10-27T14:21:02Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Her trial marks what rights groups have described as a sharp escalation in Cairo's crackdown on press freedom.",
+   "score": 7,
+   "dup_of": "1829847356e9"
+  },
+  {
+   "id": "027141a6b68c",
+   "title": "Syria condemns deadly Jordan strikes as ‘unacceptable violation’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/syria-condemns-deadly-jordan-strikes-as-unacceptable-violation/article71631979.ece",
+   "date": "2026-10-27T14:01:26Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "In the worst crisis between the neighbours since the ouster of longtime Syrian ruler Bashar al-Assad in December 2024, Jordan said it had great respect for Syria and expressed regret for civilian casualties",
+   "score": 8,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "d723a0f9ad08",
+   "title": "Netanyahu’s rival Eisenkot urges voters to unseat ‘worst govt’ in Israeli history",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahus-rival-eisenkot-urges-voters-to-unseat-worst-govt-in-israeli-history/article71631613.ece",
+   "date": "2026-10-27T13:05:44Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "I call on all citizens of Israel to go vote, not to buckle under the heat or the disruptions, to stick to the mission: to replace tonight the worst government since the state was established, he said",
+   "score": 6,
+   "dup_of": "885c7ea66b1b"
+  },
+  {
+   "id": "9a93547a073b",
+   "title": "معبر نصيب بين سوريا والأردن: لماذا أُغلق وما أهميته؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3x2wrr0qe0ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T13:19:54Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "أعلنت سوريا إغلاق معبر نصيب الحدودي مع الأردن، وتعليق حركة المسافرين والتبادل التجاري في الاتجاهين، بعد غارات جوية أردنية استهدفت مناطق في جنوب البلاد. فأين يقع المعبر، وما أهميته، وما الذي نعرفه عن تاريخه؟",
+   "score": 6
+  },
+  {
+   "id": "9bc9eaabf8a7",
+   "title": "ما الذي يحدث بين سوريا والأردن؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmy0r31rl5xdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T15:00:21Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "بينما قال وزير الاتصال الحكومي الأردني إن الغارات الجوية على جنوب سوريا أسفرت عن \"خسائر كبيرة في صفوف التنظيم، تُقدّر بأكثر من 20 عنصراً\"، وتدمير مستودع أسلحة ضخم\"، أعلنت الحكومة السورية أن \"ضحايا مدنيين\" قُتلوا في الغارات.",
+   "score": 7,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "aa1eb05313e8",
+   "title": "هل تؤدي نتائج الانتخابات إلى تغيير حقيقي في سياسات إسرائيل الإقليمية؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3j47z0099r2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T14:31:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "الإسرائيليون يواصلون الإدلاء بأصواتهم في الانتخابات العامة الإسرائيلية وسط منافسة محتدمة بين كتلة رئيس الوزراء بنيامين نتنياهو والكتلة المعارضة بزعامة رئيس الأركان السابق غادي آيزنكوت، وترقب إقليمي للنتائج .",
+   "score": 6
   }
  ]
 }
