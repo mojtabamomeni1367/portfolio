@@ -74,7 +74,7 @@ select option{color:#12212E}
 :root[dir="rtl"] .lab,:root[dir="rtl"] .brand{letter-spacing:0;text-transform:none}
 :root[dir="rtl"] .tracking-tight{letter-spacing:0}
 :root[dir="rtl"] #heroPhotoImg{transform:scaleX(-1)}
-#globe{overflow:hidden}#globe canvas{outline:none}
+#globe{overflow:hidden}@media (max-width:639px){#globe{height:min(92vw,420px)!important}}#globe .float-tooltip-kap,#globe .scene-tooltip{z-index:30!important}#globe canvas{outline:none}
 .glab{position:relative;width:8px;height:8px;pointer-events:none}.glab i{position:absolute;inset:0;border-radius:50%;background:#FFF1E2;box-shadow:0 0 4px 2px rgba(255,214,170,.95),0 0 12px 5px rgba(240,138,93,.7),0 0 26px 8px rgba(226,104,58,.35);animation:cap 2.8s ease-in-out infinite}.glab b{position:absolute;inset-inline-start:13px;top:50%;transform:translateY(-50%);font-size:11px;font-weight:500;color:#FFF3E6;white-space:nowrap;text-shadow:0 0 6px rgba(0,0,0,.95),0 1px 2px #000}@keyframes cap{50%{box-shadow:0 0 5px 3px rgba(255,214,170,1),0 0 16px 7px rgba(240,138,93,.8),0 0 34px 12px rgba(226,104,58,.4)}}@media (prefers-reduced-motion:reduce){.glab i{animation:none}}
 .gtip{font-size:13px;line-height:1.6;background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6);padding:10px 14px;color:#EDE7DB;min-width:180px}
 .sb{overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--or) transparent;overscroll-behavior:auto}
@@ -195,7 +195,6 @@ select option{color:#12212E}
       <div id="fieldwork" class="lg:col-span-8 relative min-w-0">
       <div id="mapwrap" class="relative">
           <div id="globe" class="relative w-full" style="height:clamp(380px,62vh,580px);direction:ltr" role="group" aria-label="3D globe of the Middle East and South Asia"><p id="globeMsg" class="absolute inset-0 flex items-center justify-center text-sm dm">Loading the globe…</p></div>
-          <p class="absolute bottom-2 end-3 z-10 text-[10px] dm opacity-70">Imagery: NASA</p>
           <svg id="map" viewBox="0 0 1000 621" aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden"></svg>
           <div id="gl" class="hidden"></div>
           <div id="tip" class="hidden absolute z-10 pointer-events-none p-4 w-56" style="background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6)"></div>
@@ -754,6 +753,7 @@ function routeN(){const m=location.hash.match(/^#\/n\/(\w+)/);if(m){showN(m[1]);
 /* Research globe (globe.gl, loaded only when the section comes into view) */
 const CAPS=[['Ankara',39.93,32.85],['Damascus',33.51,36.29],['Beirut',33.89,35.5],['Jerusalem',31.77,35.21],['Amman',31.95,35.93],['Baghdad',33.31,44.36],['Tehran',35.69,51.39],['Kuwait City',29.37,47.98],['Riyadh',24.71,46.68],['Manama',26.23,50.59],['Doha',25.29,51.53],['Abu Dhabi',24.45,54.38],['Muscat',23.59,58.41],["Sana'a",15.37,44.19],['Cairo',30.04,31.24],['Kabul',34.53,69.17],['Islamabad',33.68,73.05],['New Delhi',28.61,77.21],['Kathmandu',27.72,85.32],['Dhaka',23.81,90.41],['Colombo',6.93,79.86]];
 let GLOBE=null;
+const CAPK={Beirut:'LBN',Jerusalem:'ISR','Kuwait City':'KWT',Manama:'BHR',Doha:'QAT',Colombo:'LKA',Amman:'JOR','Abu Dhabi':'ARE'};
 const QUIET=['Beirut','Jerusalem','Amman','Manama','Doha','Abu Dhabi','Kuwait City','Kathmandu'];  /* dot only: these sit too close together for labels */
 function relabelGlobe(){if(GLOBE)GLOBE.htmlElementsData(CAPS.slice())}
 (function(){const box=$('#globe');if(!box)return;let started=false,hov=null;
@@ -763,24 +763,35 @@ function relabelGlobe(){if(GLOBE)GLOBE.htmlElementsData(CAPS.slice())}
  function init(){
   if(typeof Globe!=='function')return fail();
   fetch('assets/globe/countries.json').then(r=>r.json()).then(geo=>{
+   const BASE=geo.features;
+   /* small countries get a floating, enlarged copy while hovered */
+   const ext=f=>{let a=[180,90,-180,-90];const w=c=>{if(typeof c[0]==='number'){a=[Math.min(a[0],c[0]),Math.min(a[1],c[1]),Math.max(a[2],c[0]),Math.max(a[3],c[1])]}else c.forEach(w)};w(f.geometry.coordinates);return a};
+   const SMALL=new Set(BASE.filter(f=>{const e=ext(f);return Math.max(e[2]-e[0],e[3]-e[1])<3.6}).map(f=>f.id));
+   const magnify=f=>{const e=ext(f),cx=(e[0]+e[2])/2,cy=(e[1]+e[3])/2,k=Math.max(1,7/Math.max(e[2]-e[0],e[3]-e[1]));
+    const sc=c=>typeof c[0]==='number'?[cx+(c[0]-cx)*k,cy+(c[1]-cy)*k]:c.map(sc);return {type:'Feature',id:f.id,mag:true,geometry:{type:f.geometry.type,coordinates:sc(f.geometry.coordinates)}}};
+   let mag=null,magT=null;
+   function setMag(id){if((mag&&mag.id)===id)return;mag=id?magnify(BASE.find(f=>f.id===id)):null;g.polygonsData(mag?BASE.concat([mag]):BASE);
+    if(!mag)box.querySelectorAll('.glab').forEach(e=>{if(e.onmouseenter)e.style.pointerEvents='auto'})}
+   const fitAlt=()=>{const v=25*Math.PI/180,lim=Math.min(v,Math.atan(Math.tan(v)*W()/H()));return 1/Math.sin(lim*.84)-1};
    const W=()=>box.clientWidth,H=()=>box.clientHeight,coarse=matchMedia('(pointer:coarse)').matches,still=matchMedia('(prefers-reduced-motion:reduce)').matches;
    const g=Globe({animateIn:true})(box).width(W()).height(H()).backgroundColor('rgba(0,0,0,0)')
     .globeImageUrl('assets/globe/night.jpg').bumpImageUrl('assets/globe/bump.png')
     .showAtmosphere(true).atmosphereColor('#F08A5D').atmosphereAltitude(.15)
-    .polygonsData(geo.features)
-    .polygonAltitude(f=>f===hov?.045:f.id==='IRN'?.016:.007)
-    .polygonCapColor(f=>f===hov?'rgba(240,138,93,.85)':f.id==='IRN'?'rgba(226,104,58,.45)':FW.includes(f.id)?'rgba(226,104,58,.2)':'rgba(245,240,231,.07)')
+    .polygonsData(BASE)
+    .polygonAltitude(f=>f.mag?.09:f===hov?.045:f.id==='IRN'?.016:.007)
+    .polygonCapColor(f=>f.mag?'rgba(240,138,93,.92)':f===hov?'rgba(240,138,93,.85)':f.id==='IRN'?'rgba(226,104,58,.45)':FW.includes(f.id)?'rgba(226,104,58,.2)':'rgba(245,240,231,.07)')
     .polygonSideColor(()=>'rgba(226,104,58,.25)').polygonStrokeColor(()=>'rgba(255,225,200,.8)').polygonsTransitionDuration(250)
     .polygonLabel(f=>tipFor(f.id))
-    .onPolygonHover(f=>{hov=f;g.polygonAltitude(g.polygonAltitude()).polygonCapColor(g.polygonCapColor());box.style.cursor=f?'pointer':''})
+    .onPolygonHover(f=>{clearTimeout(magT);hov=f;if(f&&SMALL.has(f.id))setMag(f.id);else if(!f)magT=setTimeout(()=>setMag(null),300);else setMag(null);g.polygonAltitude(g.polygonAltitude()).polygonCapColor(g.polygonCapColor());box.style.cursor=f?'pointer':''})
     .onPolygonClick(f=>openC(f.id))
     .ringsData(CAPS).ringLat(c=>c[1]).ringLng(c=>c[2]).ringColor(()=>t=>'rgba(255,170,110,'+(0.9*(1-t))+')').ringMaxRadius(2.2).ringPropagationSpeed(.8).ringRepeatPeriod(still?0:1700)
     .htmlElementsData(CAPS).htmlLat(c=>c[1]).htmlLng(c=>c[2]).htmlAltitude(.014)
-    .htmlElement(c=>{const e=document.createElement('div');e.className='glab';e.innerHTML='<i></i>'+(QUIET.includes(c[0])?'':'<b>'+T(c[0])+'</b>');e.title=T(c[0]);return e});
-   g.pointOfView(W()<640?{lat:27,lng:62,altitude:2.35}:{lat:28,lng:57,altitude:1.15},0);
+    .htmlElement(c=>{const e=document.createElement('div'),k=CAPK[c[0]];e.className='glab';e.innerHTML='<i></i>'+(QUIET.includes(c[0])||(W()<640&&c[0]!=='Tehran')?'':'<b>'+T(c[0])+'</b>');e.title=T(c[0]);if(k&&SMALL.has(k)){e.style.pointerEvents='auto';e.style.cursor='pointer';e.onmouseenter=()=>{clearTimeout(magT);setMag(k);e.style.pointerEvents='none';magT=setTimeout(()=>setMag(null),2500)};e.onclick=()=>openC(k)}return e});
+   g.pointOfView({lat:27,lng:W()<640?60:57,altitude:fitAlt()},0);
    const ctl=g.controls();ctl.enableZoom=false;ctl.autoRotate=!still;ctl.autoRotateSpeed=.35;if(coarse)ctl.enableRotate=false;
    box.addEventListener('pointerdown',()=>{ctl.autoRotate=false});
-   addEventListener('resize',()=>g.width(W()).height(H()));
+   box.addEventListener('mouseleave',()=>{clearTimeout(magT);hov=null;setMag(null);g.polygonAltitude(g.polygonAltitude()).polygonCapColor(g.polygonCapColor())});
+   addEventListener('resize',()=>{g.width(W()).height(H());g.pointOfView({altitude:fitAlt()},0)});
    const m=$('#globeMsg');if(m)m.remove();GLOBE=g;
   }).catch(e=>fail(e))}
  function start(){if(started)return;started=true;const sc=document.createElement('script');sc.src='https://cdn.jsdelivr.net/npm/globe.gl@2.34.0/dist/globe.gl.min.js';sc.onload=init;sc.onerror=fail;document.head.appendChild(sc)}
