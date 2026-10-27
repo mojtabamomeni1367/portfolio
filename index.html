@@ -74,7 +74,7 @@ select option{color:#12212E}
 :root[dir="rtl"] .lab,:root[dir="rtl"] .brand{letter-spacing:0;text-transform:none}
 :root[dir="rtl"] .tracking-tight{letter-spacing:0}
 :root[dir="rtl"] #heroPhotoImg{transform:scaleX(-1)}
-#globe{overflow:hidden}@media (max-width:639px){#globe{height:min(92vw,420px)!important}}#globe .float-tooltip-kap,#globe .scene-tooltip{z-index:30!important}#globe canvas{outline:none}
+#globe{overflow:hidden}@media (max-width:639px){#globe{height:min(100vw,460px)!important}}#globe .float-tooltip-kap,#globe .scene-tooltip{z-index:30!important}#globe canvas{outline:none}
 .glab{position:relative;width:8px;height:8px;pointer-events:none}.glab i{position:absolute;inset:0;border-radius:50%;background:#FFF1E2;box-shadow:0 0 4px 2px rgba(255,214,170,.95),0 0 12px 5px rgba(240,138,93,.7),0 0 26px 8px rgba(226,104,58,.35);animation:cap 2.8s ease-in-out infinite}.glab b{position:absolute;inset-inline-start:13px;top:50%;transform:translateY(-50%);font-size:11px;font-weight:500;color:#FFF3E6;white-space:nowrap;text-shadow:0 0 6px rgba(0,0,0,.95),0 1px 2px #000}@keyframes cap{50%{box-shadow:0 0 5px 3px rgba(255,214,170,1),0 0 16px 7px rgba(240,138,93,.8),0 0 34px 12px rgba(226,104,58,.4)}}@media (prefers-reduced-motion:reduce){.glab i{animation:none}}
 .gtip{font-size:13px;line-height:1.6;background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6);padding:10px 14px;color:#EDE7DB;min-width:180px}
 .sb{overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--or) transparent;overscroll-behavior:auto}
@@ -194,7 +194,7 @@ select option{color:#12212E}
       </aside>
       <div id="fieldwork" class="lg:col-span-8 relative min-w-0">
       <div id="mapwrap" class="relative">
-          <div id="globe" class="relative w-full" style="height:clamp(380px,62vh,580px);direction:ltr" role="group" aria-label="3D globe of the Middle East and South Asia"><p id="globeMsg" class="absolute inset-0 flex items-center justify-center text-sm dm">Loading the globe…</p></div>
+          <div id="globe" class="relative w-full" style="height:clamp(460px,82vh,780px);direction:ltr" role="group" aria-label="3D globe of the Middle East and South Asia"><p id="globeMsg" class="absolute inset-0 flex items-center justify-center text-sm dm">Loading the globe…</p></div>
           <svg id="map" viewBox="0 0 1000 621" aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden"></svg>
           <div id="gl" class="hidden"></div>
           <div id="tip" class="hidden absolute z-10 pointer-events-none p-4 w-56" style="background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6)"></div>
@@ -772,7 +772,7 @@ function relabelGlobe(){if(GLOBE)GLOBE.htmlElementsData(CAPS.slice())}
    let mag=null,magT=null;
    function setMag(id){if((mag&&mag.id)===id)return;mag=id?magnify(BASE.find(f=>f.id===id)):null;g.polygonsData(mag?BASE.concat([mag]):BASE);
     if(!mag)box.querySelectorAll('.glab').forEach(e=>{if(e.onmouseenter)e.style.pointerEvents='auto'})}
-   const fitAlt=()=>{const v=25*Math.PI/180,lim=Math.min(v,Math.atan(Math.tan(v)*W()/H()));return 1/Math.sin(lim*.84)-1};
+   const fitAlt=()=>{const v=25*Math.PI/180,lim=Math.min(v,Math.atan(Math.tan(v)*W()/H()));return 1/Math.sin(lim*.97)-1};
    const W=()=>box.clientWidth,H=()=>box.clientHeight,coarse=matchMedia('(pointer:coarse)').matches,still=matchMedia('(prefers-reduced-motion:reduce)').matches;
    const g=Globe({animateIn:true})(box).width(W()).height(H()).backgroundColor('rgba(0,0,0,0)')
     .globeImageUrl('assets/globe/night.jpg').bumpImageUrl('assets/globe/bump.png')
