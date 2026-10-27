@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T10:07:29Z",
+ "updated": "2026-10-27T13:11:35Z",
  "items": [
   {
    "id": "d33d24266c27",
@@ -3444,6 +3444,545 @@
    ],
    "desc": "انتخابات سراسری در اسرائیل در جریان است و سران احزاب رای خود را به صندوق انداخته‌اند. این اولین انتخابات پس از حمله هفتم اکتبر است و بنیامین نتانیاهو که از آن زمان درگیر جنگ در غزه و لبنان و ایران بوده امیدوار است که نخست‌وزیر بماند. رقیب اصلی او گادی آیزنکوت است. در همین حال یک روز پس از نشست امنیتی چهارجانبه در تهران، مسعود پزشکیان در مسکو است و با ولادیمیر پوتین دیدار می‌کند.",
    "score": 7
+  },
+  {
+   "id": "bd5f97a20900",
+   "title": "What does Israel's election mean for Gaza and the wider world?",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T10:17:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+   "score": 8,
+   "dup_of": "d1a7a95242cf"
+  },
+  {
+   "id": "69122e2a167a",
+   "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
+   "date": "2026-10-27T11:19:46Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Former PLO official says Israel’s election outcome remains uncertain, with polls divided between Netanyahu and Eisenkot.",
+   "score": 7
+  },
+  {
+   "id": "c38ba2e262c5",
+   "title": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss",
+   "date": "2026-10-27T11:02:41Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The opening pair put on 133-run partnership as India chased down 199 to wrap up the five-match T20 series.",
+   "score": 1
+  },
+  {
+   "id": "0d5e2a99be4d",
+   "title": "Media groups challenge India’s privacy law at top court",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
+   "date": "2026-10-27T10:56:22Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "News organisations are challenging the law, arguing it could hamper investigative journalism and endanger sources.",
+   "score": 5
+  },
+  {
+   "id": "55f3ea8f84e2",
+   "title": "Families of victims killed in Jordanian strike deny links to church attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+   "date": "2026-10-27T10:52:48Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Jordan said it targeted ‘terrorist hideouts’ in Syria, but relatives of those killed deny any link to last week’s church",
+   "score": 6,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "33281e797d04",
+   "title": "Why Jordan has struck Syria: What we know",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
+   "date": "2026-10-27T10:46:53Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Syria says Jordan did not coordinate with Damascus before launching operation in rural Deraa and Suwayda.",
+   "score": 4,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "8fb6baef2f0e",
+   "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+   "date": "2026-10-27T10:36:54Z",
+   "countries": [
+    "IRN",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.",
+   "score": 8
+  },
+  {
+   "id": "591e1a5bbc6a",
+   "title": "UK prosecutors charge two after RAF Fairford incident",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/uk-prosecutors-charge-two-after-raf-fairford-incident?traffic_source=rss",
+   "date": "2026-10-27T09:12:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "British Iranian Mohmed Abdulkarim and British citizen Nouman Essghir have been charged under the National Security Act.",
+   "score": 1
+  },
+  {
+   "id": "aa76dc764c6e",
+   "title": "Israel goes to the polls – in pictures",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/gallery/2026/oct/27/israel-goes-to-the-polls-in-pictures",
+   "date": "2026-10-27T12:04:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Voters head to the polls to elect 120 members of the Knesset in an election that will determine whether Benjamin Netanyahu’s rightwing coalition can remain in power. The election is the first to be held since the Hamas-led attacks on 7 October 2023 Follow our live blog here What you need to know about the most consequential election in Israel’s history Can Netanyahu pull off his greatest political trick yet? Continue reading...",
+   "score": 4,
+   "dup_of": "d1a7a95242cf"
+  },
+  {
+   "id": "b884e1c609ed",
+   "title": "Israeli election: A referendum on 'Bibi' Netanyahu?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+   "date": "2026-10-27T12:52:40Z",
+   "countries": [
+    "ISR",
+    "LBN",
+    "PSE"
+   ],
+   "desc": "PRESS REVIEW – Tuesday, October 27: The Israeli, Palestinian and Lebanese papers break down what's at stake on election day for Israel and its neighbours. Also, the French government announces its first major concessions to protesting high school students, hoping to calm the movement. Finally, Harry Kane's Ballon d'Or means Lamine Yamal and Kylian Mbappé will have to wait their turn.",
+   "score": 8,
+   "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "46088e548b40",
+   "title": "Israeli PM casts his ballot as voters voice opposition to Netanyahu outside polling stations",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israeli-pm-casts-his-ballot-as-voters-voice-opposition-to-netanyahu-outside-polling-stations",
+   "date": "2026-10-27T12:42:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu cast his vote on Tuesday (October 27) in Israel’s general election. FRANCE 24's Clovis Casali tells us more.",
+   "score": 7,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "6a09c28b0dce",
+   "title": "Iraqi court sentences six French nationals to life for IS group membership",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
+   "date": "2026-10-27T11:16:38Z",
+   "countries": [
+    "IRQ",
+    "SYR"
+   ],
+   "desc": "Six French men were sentenced to life in prison by an Iraqi court on Tuesday for membership of the Islamic State (IS) group, according to a source. They are ​among ‌47 French IS group suspects transferred from ⁠detention facilities in Syria to Iraq last year under an arrangement coordinated by US forces and Iraqi authorities.",
+   "score": 7
+  },
+  {
+   "id": "1c338cd9b351",
+   "title": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
+   "date": "2026-10-27T11:14:33Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "As Israelis head to the polls this Tuesday, among those voting are 2 million Palestinian citizens of Israel, some of whom live in mixed Jewish-Arab towns. One of them, Lod, has long been seen as symbolic of this coexistence. However in 2021 the town was the scene of violent clashes, whose consequences are still being felt. FRANCE 24's Stéphane Amar, Sandra Lederer and Josh Vardey report.",
+   "score": 6,
+   "skip": true
+  },
+  {
+   "id": "c0c64078a63c",
+   "title": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
+   "date": "2026-10-27T11:02:18Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Syria's foreign ministry on Tuesday condemned Jordanian strikes in southern Syria in retaliation for a deadly church attack in the kingdom last week that Amman linked to militants operating across the border. Syria said the strikes killed seven ⁠people, including three children and a woman. Jordan said it regretted the civilian casualties.",
+   "score": 7,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "d4438769fc95",
+   "title": "Jordan launches airstrikes in Syria after church attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+   "date": "2026-10-27T10:59:14Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Jordan carried out airstrikes Monday (October 27) evening against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox Church in the southern Jordanian city of Karak that killed nine people, the Jordanian air force said in a statement. Syrian authorities said at least six people were killed.",
+   "score": 8,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "ca90ab01f948",
+   "title": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
+   "date": "2026-10-27T10:50:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Ramallah residents say they hope to see Israeli Prime Minister Benjamin Netanyahu lose power in elections. \"Netanyahu remaining in power means that there will be a clash, a build-up of tension and an explosion in the region\", says one resident. Israel has committed the crime against humanity of \"extermination\" in the West Bank, while continuing to commit \"genocide\" against Palestinians in the Gaza Strip, United Nations-mandated investigators said Monday (October 27).",
+   "score": 7,
+   "dup_of": "c71703196fd3"
+  },
+  {
+   "id": "d2b50cfbd8f7",
+   "title": "Israelis vote in first national election since October 7 attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack",
+   "date": "2026-10-27T10:41:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis are voting in a pivotal election Tuesday (October 27) as their country wrestles with unresolved wars, continues to reel from Hamas' 2023 attack and is deeply divided over the character of the state and the right person to lead it. FRANCE 24's Clovis Casali tells us more from the ground. He spoke with voters.",
+   "score": 9,
+   "dup_of": "d1a7a95242cf"
+  },
+  {
+   "id": "9adf8dbb106e",
+   "title": "Netanyahu's political survival on the line as Israel heads to the polls",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls",
+   "date": "2026-10-27T10:14:33Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Prime Minister Benjamin Netanyahu faces a fight for political survival in Israel's election on Tuesday (October 27), with voters weighing his leadership after the 2023 Hamas-led attacks, wars in Gaza and with Iran, and Israel's deepening international isolation. FRANCE24's Douglas Herbert gives us his analysis.",
+   "score": 8,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "75fbbcaaba92",
+   "title": "Israeli elections: voters turnout reaches '16.7%' four hours after polls open",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israeli-elections-voters-turnout-reaches-16-7-four-hours-after-polls-open",
+   "date": "2026-10-27T10:08:12Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A deeply divided Israel headed to the polls on Tuesday (October 27) for the first time since the October 7, 2023 Hamas attack, with voters delivering their verdict on veteran Prime Minister Benjamin Netanyahu and the country's rightward drift. FRANCE 24's Noga Tornapolski tells us more.",
+   "score": 5,
+   "dup_of": "b690b2201594"
+  },
+  {
+   "id": "6b6124c5a830",
+   "title": "JI says it will 'no longer' postpone Islamabad march, will resume it in mid-November",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040214/ji-says-it-will-no-longer-postpone-islamabad-march-will-resume-it-in-mid-november",
+   "date": "2026-10-27T12:43:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Jamaat-i-Islami (JI) emir Hafiz Naeemur Rehman on Tuesday said his party would hold its march to Islamabad against the petroleum levy in mid-November. He made the announcement during a press conference in Islamabad, which came shortly after he met with Prime Minister Shehbaz Sharif to discuss his demand to abolish the petroleum levy. “We want to make it clear that we will not postpone our Islamabad march any longer. It will now take place in mid-November, and it certainly will take place,” the JI chief said. He added, “Let them announce this package, provide this relief, and devise a mechanism",
+   "score": 6
+  },
+  {
+   "id": "62980969fa2b",
+   "title": "Madushanka’s five-for powers Sri Lanka into tri-series final after Pakistan drubbing",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040181/madushankas-five-for-powers-sri-lanka-into-tri-series-final-after-pakistan-drubbing",
+   "date": "2026-10-27T12:29:22Z",
+   "countries": [
+    "LKA",
+    "PAK"
+   ],
+   "desc": "Sri Lanka stormed into the final of the One-day International tri-series after overwhelming Pakistan by eight wickets, chasing a modest target of 111 in just 18.1 overs at the Gaddafi Stadium on Tuesday. Left-arm pacer Dilshan Madushanka delivered a career-best five for 34 to dismantle Pakistan for 110 in 25.3 overs before Kamindu Mendis struck an unbeaten 62 to guide Sri Lanka to 114-2, sealing victory with 31.5 overs to spare. The result confirmed Sri Lanka’s place in Saturday’s final alongside Pakistan, who had already qualified after winning their first three matches. England’s remaining l",
+   "score": 1
+  },
+  {
+   "id": "a126031708c0",
+   "title": "Pakistan, China launch information corridor 'CPIC' to counter misleading narratives, promote cultural exchange",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040200/pakistan-china-launch-information-corridor-cpic-to-counter-misleading-narratives-promote-cultural-exchange",
+   "date": "2026-10-27T11:16:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan and China have launched the China-Pakistan Information Corridor (CPIC), with Information Minister Ataullah Tarar saying that the initiative will focus on countering misleading narratives, cultural exchanges and cooperation between think tanks. The corridor was launched at a ceremony in Islamabad, which was televised on Tuesday. Chinese Foreign Ministry Spokesperson Mao Ning and Chinese Ambassador Jiang Zaidong attended the launch. In his televised remarks, Tarar expressed his “long-standing“ desire to collaborate with China in the fields of media, information sharing and digital platf",
+   "score": 5
+  },
+  {
+   "id": "315a91a1f7e9",
+   "title": "Lahore ATC denies police further remand of PTI's Hammad Azhar, sends him on judicial remand",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040211/lahore-atc-denies-police-further-remand-of-ptis-hammad-azhar-sends-him-on-judicial-remand",
+   "date": "2026-10-27T11:58:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: An anti-terrorism court (ATC) on Tuesday rejected a police request for further physical remand of PTI leader Hammad Azhar in the Jinnah House attack case and sent him to jail on judicial remand. Sarwar Road police had booked several PTI leaders and workers on charges of attacking and vandalising Jinnah House during the May 9, 2023 protests against the arrest of former prime minister Imran Khan. According to his family , Azhar was arrested on Sept 5. However, police said the next day they were unaware of his arrest, and he was produced before an ATC on Sept 7. His initial 21-day physica",
+   "score": 5
+  },
+  {
+   "id": "b116edca367c",
+   "title": "At least 1 killed, 6 injured as roof of under-construction building collapses in Multan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040215/at-least-1-killed-6-injured-as-roof-of-under-construction-building-collapses-in-multan",
+   "date": "2026-10-27T12:20:50Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: At least one individual was killed, while six others were injured on Tuesday when the roof of an under-construction building collapsed near Multan’s Northern Bypass, Rescue 1122 said. In a statement, the rescue service said the roof of an under-construction plaza had collapsed near the National College of Business Administration and Economics on Northern Bypass. The agency said that so far, six injured individuals had been rescued and shifted to Nishtar Hospital, adding that one person was killed in the collapse. Rescue officials launch a search and rescue operation after building coll",
+   "score": 2
+  },
+  {
+   "id": "bfb56cb3d654",
+   "title": "Indian court orders takedown of documentary on billionaire Gautam Adani, PM Modi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040205/indian-court-orders-takedown-of-documentary-on-billionaire-gautam-adani-pm-modi",
+   "date": "2026-10-27T10:59:43Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "An Indian court has ordered the takedown of an online documentary posted by Hotmail co-founder Sabeer Bhatia accusing Prime ​Minister Narendra Modi and billionaire Gautam Adani of cronyism, after Adani Enterprises sued, calling it defamatory. Adani’s flagship firm, Adani ‌Enterprises, told the high court in the eastern city of Kolkata that the documentary, which garnered millions of views on social media in recent days, was riddled with false content and had prompted inquiries from some investors in the company, whom the court order did not name. The documentary “is not a news report or an ​ac",
+   "score": 5
+  },
+  {
+   "id": "dd70e227b4b0",
+   "title": "At UNGA debate, Pakistan warns against adding more permanent members to Security Council, extending veto privileges",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-permanent-members-to-security-council-extending-veto-privileges",
+   "date": "2026-10-27T11:27:08Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan has warned that adding more permanent members to the United Nations Security Council (UNSC) and extending veto privileges would “deepen existing inequalities, perpetuate historical advantages and increase the risk of Council paralysis”. The counsellor at the Pakistan Mission at UN, Gul Qaiser Sarwani, presented these views at the UN General Assembly during a debate on the use of the veto. He said Pakistan called for “comprehensive, democratic and equitable reform of the UN Security Council” and stressed that the misuse of veto power undermined UNSC’s effectiveness, weakened the credib",
+   "score": 7,
+   "dup_of": "95c6b519428b"
+  },
+  {
+   "id": "4d517474e463",
+   "title": "Fact check: Viral image of Saudi defence minister kissing Iranian president's hand is AI-generated",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040222/fact-check-viral-image-of-saudi-defence-minister-kissing-iranian-presidents-hand-is-ai-generated",
+   "date": "2026-10-27T12:35:25Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Several social media users, including pro-Houthi accounts based on their past posts, have been sharing an image since October 26, on social media platforms Facebook and X, allegedly showing the Saudi defence minister kissing the hand of the Iranian president amid a meeting in Tehran involving the Makkah Defence Alliance. However, the image is old and edited using AI. Iran hosted senior security officials from Saudi Arabia, Pakistan and Turkiye on Oct 26 for talks with Iranian President Masoud Pezeshkian. Pezeshkian called for regional unity and a coordinated stance among Islamic countries, urg",
+   "score": 3
+  },
+  {
+   "id": "bd3e4fd4edd0",
+   "title": "Chromebook scheme",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040133/chromebook-scheme",
+   "date": "2026-10-27T12:09:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "THE government’s plan to distribute 500,000 Chromebooks to students over two years could help narrow Pakistan’s digital divide. The devices, which will come with MiFi internet connectivity, are meant for students handpicked under the scheme. In a country where access to computers and reliable internet still depends heavily on family income and location, that matters. A student who cannot afford a laptop should not be locked out of online learning, digital skills or job opportunities. But the value of the scheme will depend on how it is carried out. The state should publish clear eligibility cr",
+   "score": 1
+  },
+  {
+   "id": "8ee6d25900ba",
+   "title": "India orders evacuations in Andhra Pradesh, Odisha as Cyclone Arnab looms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040202/india-orders-evacuations-in-andhra-pradesh-odisha-as-cyclone-arnab-looms",
+   "date": "2026-10-27T10:24:41Z",
+   "countries": [
+    "IND",
+    "LKA",
+    "NPL"
+   ],
+   "desc": "Indian authorities ordered nearly 100,000 people to evacuate homes in Andhra Pradesh and Odisha, ahead of a severe cyclone the national weather office expects to make landfall by Wednesday. Neighbouring Nepal and Sri Lanka have also issued weather warnings. Cyclone Arnab is forecast to hit India’s southwestern Andhra Pradesh coast as a “very severe cyclonic storm”, with gusts of up to 150 kilometres (93 miles) per hour on Wednesday morning, the India Meteorological Department said in a bulletin. Torrential rain lashed the coast in the port city of Kakinda as heavy waves crashed on shore. “I’ve",
+   "score": 3
+  },
+  {
+   "id": "6eea9d21900d",
+   "title": "Dutch broadcaster pulls out of Eurovision over Israel ‘sensitivities’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netherlands-withdraws-from-eurovision-2027-amid-sensitivities-over-israels-participation-given-its-military-campaign-in-gaza/article71631050.ece",
+   "date": "2026-10-27T12:22:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Dutch withdrawal is the latest in a series of boycotts from countries unhappy at Israel’s inclusion in Eurovision, given its military campaign in Gaza",
+   "score": 3
+  },
+  {
+   "id": "54453d0845a1",
+   "title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece",
+   "date": "2026-10-27T11:23:43Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Cuba lobbying for support of its UNGA resolution against a crippling economic blockade imposed by the U.S.; India, Russia review parliamentary exchanges as they mark 80th anniversary of bilateral ties",
+   "score": 4
+  },
+  {
+   "id": "a13e6a03cee8",
+   "title": "Two men charged with U.K. national security offences over incident at U.S.-run military base in England",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
+   "date": "2026-10-27T10:54:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "British-Iranian dual national Mohmed Abdulkarim and British citizen Nouman Essghir, both aged 24 and from London, were charged under the National Security Act, U.K. prosecutors say",
+   "score": 1,
+   "dup_of": "591e1a5bbc6a"
+  },
+  {
+   "id": "6c4d57ddbbae",
+   "title": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
+   "date": "2026-10-27T10:46:19Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "There is no place for those who finance, support, or provide safe havens to terrorists, says Defence Minister; India supports adoption of action plan for trade and economic cooperation among SCO members",
+   "score": 6
+  },
+  {
+   "id": "a383183b4c79",
+   "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
+   "date": "2026-10-27T10:45:31Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "First such official visit by Indian delegation since Operation Indoor; Senior External Affair Ministry official leads team at three-day SCO preparatory meeting",
+   "score": 6
+  },
+  {
+   "id": "a647d324138b",
+   "title": "Daily Quiz: Imposition of martial law by President Iskander Mirza on October 7, 1958",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/daily-quiz-imposition-of-martial-law-by-president-iskander-mirza-on-october-7-1958/article71629630.ece",
+   "date": "2026-10-27T02:46:14Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The imposition of martial law by President Iskander Mirza on October 7, 1958, followed by his ousting by General Ayub Khan 20 days later, marked the beginning of Pakistan’s first period of military rule. Test your knowledge of the coup, its principal actors and its political aftermath",
+   "score": 1
+  },
+  {
+   "id": "f943237ac2b5",
+   "title": "اولین انتخابات اسرائیل پس از هفتم اکتبر",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c63elwd80zzxt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T12:57:36Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "انتخابات سراسری در اسرائیل در جریان است و سران احزاب رای خود را به صندوق انداخته‌اند. این اولین انتخابات پس از حمله هفتم اکتبر حماس است. نظرسنجی‌ها از رقابتی نزدیک میان حزب لیکود به رهبری بنیامین نتانیاهو و متحدان راستگرایش، و ائتلاف رقیب به رهبری گادی آیزنکوت، رئیس پیشین ستاد کل ارتش اسرائیل حکایت دارد.",
+   "score": 9,
+   "dup_of": "d1a7a95242cf"
+  },
+  {
+   "id": "2dbe2bab4163",
+   "title": "جماعة أنصار الله: دعم مصر الدفاعي للسعودية \"إعلان حرب\" على اليمن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c893zwn37xwxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T10:12:39Z",
+   "countries": [
+    "EGY",
+    "YEM"
+   ],
+   "desc": "اعتبر محمد علي الحوثي أن تفويض البرلمان المصري للرئيس عبد الفتاح السيسي باتخاذ إجراءات دفاعية لدعم السعودية يمثل \"إعلان حرب\" على اليمن، بينما تؤكد القاهرة أن دعمها يقتصر على الدفاع عن أراضي المملكة.",
+   "score": 8,
+   "dup_of": "f2251df679c1"
+  },
+  {
+   "id": "f815079131cc",
+   "title": "نتنياهو يريد شن هجوم على إيران تزامناً مع الانتخابات - مقال في الغارديان",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6x2wr0l1kdro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T11:46:02Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "في جولة الصحف مقالات تتناول توظيف نتنياهو خطاب ترهيب من إيران في خضم المنافسة الانتخابية، والجدل حول استعداد الولايات المتحدة لخوض حروب في الفضاء، فضلاً عن الأثر العميق للحزن، ولماذا لا يكفي مرور الوقت للتعافي من ألم الفقد.",
+   "score": 8,
+   "dup_of": "672f61b2d7f7"
   }
  ]
 }
