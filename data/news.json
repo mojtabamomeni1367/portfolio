@@ -1,7 +1,245 @@
 {
- "updated": "2026-10-27T07:05:40Z",
- "count": 148,
+ "updated": "2026-10-27T10:07:29Z",
+ "count": 156,
  "items": [
+  {
+   "id": "d1a7a95242cf",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm2d615p163gt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T09:51:06Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "اولین انتخابات اسرائیل پس از هفتم اکتبر؛ پزشکیان در مسکو",
+   "title_en": "Israel's First Election Since October 7; Pezeshkian in Moscow",
+   "summary_en": "Voting has begun in Israel's first general election since the October 7 attacks, with Benjamin Netanyahu running against Gadi Eisenkot. Meanwhile, Iranian President Masoud Pezeshkian is in Moscow to meet with Vladimir Putin.",
+   "body_en": [
+    "Polling stations in Israel opened at 7 a.m. local time and will remain open until 10 p.m. as Netanyahu fights for his political survival. Polls show a tight race between Netanyahu's Likud party and a rival coalition led by Gadi Eisenkot, a former military chief of staff. Netanyahu has focused his campaign on his wartime performance and his alliance with US President Donald Trump, while Eisenkot accused him of relying on intimidation and lies.",
+    "Meanwhile, Iranian President Masoud Pezeshkian arrived in Moscow to hold talks with Russian President Vladimir Putin, just one day after a four-way security meeting was held in Tehran."
+   ],
+   "title_fa": "اولین انتخابات اسرائیل پس از هفتم اکتبر؛ پزشکیان در مسکو",
+   "summary_fa": "رأی‌گیری در اولین انتخابات سراسری اسرائیل پس از حملات هفتم اکتبر آغاز شده و بنیامین نتانیاهو با گادی آیزنکوت رقابت می‌کند. هم‌زمان، مسعود پزشکیان، رئیس‌جمهور ایران، برای دیدار با ولادیمیر پوتین در مسکو به سر می‌برد.",
+   "body_fa": [
+    "حوزه‌های رأی‌گیری در اسرائیل از ساعت ۷ صبح تا ۱۰ شب به وقت محلی باز هستند و نتانیاهو برای بقای سیاسی خود تلاش می‌کند. نظرسنجی‌ها رقابتی نزدیک را میان حزب لیکود و ائتلاف تحت رهبری گادی آیزنکوت، رئیس پیشین ستاد کل ارتش، نشان می‌دهند. نتانیاهو بر کارنامه جنگی و تحکیم اتحاد با دونالد ترامپ تأکید دارد، در حالی که آیزنکوت او را به اتهام‌زنی و دروغ‌پراکنی متهم کرده است.",
+    "در همین حال، مسعود پزشکیان یک روز پس از برگزاری نشست امنیتی چهارجانبه در تهران، به مسکو سفر کرده است تا با ولادیمیر پوتین، رئیس‌جمهور روسیه، دیدار کند."
+   ],
+   "title_ar": "أول انتخابات في إسرائيل منذ السابع من أكتوبر؛ بزشكيان في موسكو",
+   "summary_ar": "بدأ الاقتراع في أول انتخابات عامة في إسرائيل منذ هجمات السابع من أكتوبر، حيث يتنافس بنيامين نتنياهو مع غادي أيزنكوت. في غضون ذلك، يتواجد الرئيس الإيراني مسعود بزشكيان في موسكو للقاء فلاديمير بوتين.",
+   "body_ar": [
+    "فتحت مراكز الاقتراع في إسرائيل أبوابها من الساعة السابعة صباحاً حتى العاشرة مساءً بالتوقيت المحلي، حيث يقاتل نتنياهو من أجل بقائه السياسي. وتظهر استطلاعات الرأي منافسة محتدمة بين حزب ليكود وتحالف منافس بقيادة غادي أيزنكوت، رئيس أركان الجيش السابق. ويركز نتنياهو في حملته على أدائه خلال الحرب وتحالفه مع الرئيس الأمريكي دونالد ترامب، بينما اتهمه أيزنكوت بالاعتماد على الترهيب والأكاذيب.",
+    "وفي الوقت نفسه، وصل الرئيس الإيراني مسعود بزشكيان إلى موسكو لإجراء محادثات مع الرئيس الروسي فلاديمير بوتين، بعد يوم واحد من انعقاد اجتماع أمني رباعي في تهران."
+   ]
+  },
+  {
+   "id": "f61343565524",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/palestinians-are-voting-israel-ensure-their-very-survival",
+   "date": "2026-10-27T09:39:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Palestinians are voting in Israel to ensure their very survival",
+   "title_en": "Palestinians are voting in Israel to ensure their very survival",
+   "summary_en": "Palestinian citizens of Israel are expected to turn out in higher numbers for the national election to protect their existence and counter growing political hostility and discrimination.",
+   "body_en": [
+    "Community members and political analysts indicate that voter turnout among Palestinians could rise significantly from the 54 percent recorded in 2022, potentially matching historic highs. Rather than voting for policy reforms or budget allocations, voters express that their primary motivation is preventing displacement and guarding against extreme right-wing policies.",
+    "Rising violent crime, political suppression, and electoral campaigns openly advocating for the expulsion or Judaization of Arab-populated regions have heightened fear within the community, prompting even long-time boycotters to consider voting."
+   ],
+   "title_fa": "فلسطینی‌ها برای تضمین بقای خود در انتخابات اسرائیل شرکت می‌کنند",
+   "summary_fa": "انتظار می‌رود شهروندان فلسطینی اسرائیل به منظور حفاظت از وجود خود و مقابله با خصومت سیاسی و تبعیض فزاینده، حضور گسترده‌تری در انتخابات سراسری داشته باشند.",
+   "body_fa": [
+    "اعضای جامعه و تحلیلگران سیاسی اشاره می‌کنند که میزان مشارکت در میان فلسطینی‌ها می‌تواند در مقایسه با ۵۴ درصد ثبت‌شده در سال ۲۰۲۲ افزایش چشمگیری داشته باشد. به گفته رأی‌دهندگان، انگیزه اصلی آن‌ها به جای اصلاح قوانین یا تخصیص بودجه، جلوگیری از جابه‌جایی اجباری و مقابله با سیاست‌های راست افراطی است.",
+    "افزایش جرایم سازمان‌یافته، سرکوب سیاسی و کارزارهای انتخاباتی که به صراحت خواستار اخراج یا یهودی‌سازی مناطق عرب‌نشین هستند، ترس را در این جامعه افزایش داده و حتی تحریم‌کنندگان قدیمی را به فکر شرکت در انتخابات انداخته است."
+   ],
+   "title_ar": "الفلسطينيون يصوتون في إسرائيل لضمان بقائهم على قيد الحياة",
+   "summary_ar": "من المتوقع أن يشارك المواطنون الفلسطينيون في إسرائيل بأعداد أكبر في الانتخابات العامة لحماية وجودهم ومواجهة العداء السياسي والتمييز المتزايدين.",
+   "body_ar": [
+    "يشير أبناء المجتمع والمحللون السياسيون إلى أن نسبة إقبال الناخبين الفلسطينيين قد ترتفع بشكل كبير مقارنة بنسبة 54 بالمئة المسجلة في عام 2022. ويوضح الناخبون أن دافعهم الرئيسي ليس الحصول على ميزانيات أو إصلاحات، بل منع التهجير والتصدي لسياسات اليمين المتطرف.",
+    "وقد أدت زيادة الجريمة المنظمة، والقمع السياسي، والحملات الانتخابية التي تدعو علناً إلى طرد العرب أو تهويد المناطق ذات الأغلبية العربية، إلى زيادة الخوف داخل المجتمع، مما دفع حتى المقاطعين منذ فترة طويلة إلى التفكير في المشاركة."
+   ]
+  },
+  {
+   "id": "b690b2201594",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/early-turnout-israel-vote-highest-1981-elections-committee",
+   "date": "2026-10-27T09:37:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Early turnout in Israel vote highest since 1981: elections committee",
+   "title_en": "Early turnout in Israel vote highest since 1981: elections committee",
+   "summary_en": "Voter turnout reached 16.68 percent in the first three hours of Israel's general election, according to the Central Elections Committee.",
+   "body_en": [
+    "Dean Livne, acting director general of the Central Elections Committee, stated in a televised broadcast that over 1,200,000 Israelis had cast their ballots by 10 am. This participation rate marks the highest turnout recorded at this point in the vote since 1981."
+   ],
+   "title_fa": "کمیسیون انتخابات: میزان مشارکت اولیه در انتخابات اسرائیل از سال ۱۹۸۱ بی‌سابقه‌ بوده است",
+   "summary_fa": "به گفته کمیسیون مرکزی انتخابات اسرائیل، میزان مشارکت رای‌دهندگان در سه ساعت نخست انتخابات عمومی به ۱۶.۶۸ درصد رسید.",
+   "body_fa": [
+    "دین لیونه، سرپرست مدیرکلی کمیسیون انتخابات، در یک بیانیه تلویزیونی اعلام کرد که تا ساعت ۱۰ صبح بیش از ۱,۲۰۰,۰۰۰ اسرائیلی رای خود را به صندوق‌ها انداخته‌اند. این میزان مشارکت، بالاترین نرخ ثبت‌شده در این مرحله از رای‌گیری از سال ۱۹۸۱ تاکنون است."
+   ],
+   "title_ar": "لجنة الانتخابات: نسبة الإقبال المبكر في الانتخابات الإسرائيلية هي الأعلى منذ عام 1981",
+   "summary_ar": "أفادت لجنة الانتخابات المركزية بأن نسبة إقبال الناخبين في الساعات الثلاث الأولى من الانتخابات العامة الإسرائيلية بلغت 16.68 بالمئة.",
+   "body_ar": [
+    "وقال دين ليفني، القائم بأعمال المدير العام للجنة الانتخابات، في بيان متلفز إن أكثر من 1,200,000 إسرائيلي أدلوا بأصواتهم بحلول الساعة العاشرة صباحاً. وتعد نسبة المشاركة هذه أعلى نسبة تُسجل في هذه المرحلة من التصويت منذ عام 1981."
+   ]
+  },
+  {
+   "id": "c3071901a667",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+   "date": "2026-10-27T09:30:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+   "title_en": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+   "summary_en": "Human rights advocates are warning of a rising number of Iranian athletes facing execution following the recent hanging of mountain climber Ali-Sina Mostafavi.",
+   "body_en": [
+    "The Oslo-based group Human Rights for Sport reported that Mostafavi was executed on October 14 after being arrested in April following anti-government protests. His execution follows the deaths of taekwondo athlete Siavash Jamshidi Kheirabadi in October and MMA fighter Gholamreza Khani Shakarab in May, bringing the total to six athletes executed in connection with political charges or protests.",
+    "At least six additional athletes, including swimmer Ali Pishevarzadeh and footballer Ehsan Hosseinpour, currently face execution after Iran's supreme court upheld their sentences. Activists allege the Iranian regime is intentionally targeting prominent sports figures to intimidate the broader public."
+   ],
+   "title_fa": "افزایش نگرانی‌ها در مورد ورزشکاران ایرانی محکوم به اعدام در پی حلق‌آویز شدن یک کوهنورد",
+   "summary_fa": "مدافعان حقوق بشر پس از اعدام اخیر علی‌سینا مصطفوی، کوهنورد ایرانی، در مورد افزایش تعداد ورزشکاران ایرانی در معرض اعدام هشدار می‌دهند.",
+   "body_fa": [
+    "گروه «حقوق بشر برای ورزش» مستقر در اسلو گزارش داد که مصطفوی در ۱۴ اکتبر، پس از بازداشت در آوریل به دنبال اعتراضات ضد دولتی، اعدام شد. اعدام او پس از کشته شدن سیاوش جمشیدی خیرآبادی، ورزشکار تکواندو در اکتبر و غلامرضا خانی شکرآب، مبارز هنرهای رزمی ترکیبی در مه صورت می‌گیرد و شمار ورزشکاران اعدام‌شده در ارتباط با اتهامات سیاسی یا اعتراضات را به شش نفر می‌رساند.",
+    "حداقل شش ورزشکار دیگر، از جمله علی پیشورزاده، شناگر، و احسان حسین‌پور، فوتبالیست، پس از تأیید احکام در دیوان عالی ایران، با خطر اعدام روبرو هستند. فعالان می‌گویند حکومت ایران عمداً چهره‌های برجسته ورزشی را هدف قرار می‌دهد تا جامعه را بترساند."
+   ],
+   "title_ar": "تزايد المخاوف على الرياضيين الإيرانيين المحكوم عليهم بالإعدام بعد شنق متسلق جبال مؤخراً",
+   "summary_ar": "يحذر مدافعون عن حقوق الإنسان من تزايد عدد الرياضيين الإيرانيين الذين يواجهون الإعدام عقب شنق متسلق الجبال علي سينا مصطفوي مؤخراً.",
+   "body_ar": [
+    "أفادت منظمة \"حقوق الإنسان للرياضة\" ومقرها أوسلو بأن مصطفوي أُعدم في 14 أكتوبر بعد اعتقاله في أبريل عقب احتجاجات مناهضة للحكومة. وتأتي عملية إعدامه بعد مقتل لاعب التايكوندو سياوش جمشيدي خير آبادي في أكتوبر ومقاتل الفنون القتالية المختلطة غلام رضا خاني شكر آب في مايو، ليبلغ إجمالي الرياضيين المُعدمين على خلفية اتهامات سياسية أو احتجاجات ستة رياضيين.",
+    "ويواجه ستة رياضيين آخرين على الأقل، بمن فيهم السباح علي بيشورزاده ولاعب كرة القدم إحسان حسين بور، خطر الإعدام بعد أن أيدت المحكمة العليا الإيرانية أحكامهم. ويزعم ناشطون أن النظام الإيراني يستهدف عمدًا الشخصيات الرياضية البارزة لتخويف عامة الشعب."
+   ]
+  },
+  {
+   "id": "9bf9a3f7336a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+   "date": "2026-10-27T08:38:44Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israelis begin voting as Netanyahu fights for political survival",
+   "title_en": "Israelis begin voting as Netanyahu fights for political survival",
+   "summary_en": "Israelis have started voting in a high-stakes national election where Prime Minister Benjamin Netanyahu faces a political challenge from former military chief Gadi Eisenkot.",
+   "body_en": [
+    "The vote takes place amid deep divisions regarding the war in Gaza, the conflict with Iran, and Israel's growing international isolation."
+   ],
+   "title_fa": "آغاز رأی‌گیری در اسرائیل در پی تلاش نتانیاهو برای بقای سیاسی",
+   "summary_fa": "شهروندان اسرائیل رأی‌گیری در یک انتخابات سرنوشت‌ساز را آغاز کرده‌اند، جایی که بنیامین نتانیاهو با چالش سیاسی از سوی گادی آیزنکوت، رئیس پیشین ارتش، مواجه است.",
+   "body_fa": [
+    "این رای‌گیری در میان شکاف‌های عمیق در مورد جنگ در غزه، مناقشه با ایران و انزوای فزاینده بین‌المللی اسرائیل برگزار می‌شود."
+   ],
+   "title_ar": "الإسرائيليون يبدأون التصويت وسط صراع نتنياهو من أجل البقاء السياسي",
+   "summary_ar": "بدأ الإسرائيليون التصويت في انتخابات عامة حاسمة يواجه فيها رئيس الوزراء بنيامين نتنياهو تحدياً سياسياً من رئيس أركان الجيش السابق غادي أيزنكوت.",
+   "body_ar": [
+    "ويأتي هذا التصويت وسط انقسامات حادة بشأن الحرب في غزة، والنزاع مع إيران، والعزلة الدولية المتزايدة التي تواجهها إسرائيل."
+   ]
+  },
+  {
+   "id": "81e31d12488c",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
+   "date": "2026-10-27T08:19:25Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "New UNSC permanent members without veto would be 'second-class': India",
+   "title_en": "New UNSC permanent members without veto would be 'second-class': India",
+   "summary_en": "India has stated that any reform of the UN Security Council creating permanent members without veto powers would turn them into \"second-class\" members. Ambassador Harish Parvathaneni emphasized that as long as the veto exists, all permanent members must hold it equally.",
+   "body_en": [
+    "Speaking at the UN General Assembly's Inter-Governmental Negotiations plenary, India's Permanent Representative Ambassador Harish Parvathaneni stated that adding permanent seats without veto rights would complicate discussions and preserve existing inequities among nations. He urged the immediate start of text-based negotiations with defined timelines to achieve comprehensive Council reform.",
+    "Parvathaneni also noted that the veto should be exercised with great restraint regarding international peace and security rather than political expediency. He pointed out that consensus is often used as a disguised veto in sanctions committees and negotiation processes, hindering progress for decades."
+   ],
+   "title_fa": "هند: اعضای دائمی جدید شورای امنیت بدون حق وتو «درجه دو» خواهند بود",
+   "summary_fa": "هند اعلام کرد که هرگونه اصلاحات در شورای امنیت سازمان ملل که اعضای دائمی جدیدی بدون حق وتو ایجاد کند، آن‌ها را به اعضای «درجه دو» تنزل می‌دهد. سفیر هاریش پارواتاننی تاکید کرد تا زمانی که حق وتو وجود دارد، همه اعضای دائمی باید از آن برخوردار باشند.",
+   "body_fa": [
+    "نماینده دائمی هند در سازمان ملل، سفیر هاریش پارواتاننی، در مجمع عمومی سازمان ملل گفت ایجاد کرسی‌های دائمی جدید بدون حق وتو، گفتگوها را پیچیده‌تر کرده و نابرابری‌های موجود را تثبیت می‌کند. وی خواستار آغاز فوری مذاکرات بر پایه متن با زمان‌بندی مشخص برای اصلاح جامع شورا شد.",
+    "پارواتاننی همچنین اشاره کرد که حق وتو باید در مسائل مربوط به صلح و امنیت بین‌المللی با خویشتنداری بزرگ اعمال شود نه مصلحت‌جویی سیاسی. وی افزود که قاعده اجماع در کمیته‌های تحریم و روندهای مذاکره اغلب به عنوان وتوی پنهان استفاده می‌شود و مانع پیشرفت شده است."
+   ],
+   "title_ar": "الهند: الأعضاء الدائمون الجدد في مجلس الأمن بدون حق الفيتو سيكونون من \"الدرجة الثانية\"",
+   "summary_ar": "أكدت الهند أن أي إصلاح لمجلس الأمن الدولي ينشئ فئة جديدة من الأعضاء الدائمين دون حق الفيتو سيجعلهم أعضاء من \"الدرجة الثانية\". وشدد السفير هاريش بارفاثانيني على أنه طالما بقي الفيتو قائماً، فيجب أن يتمتع به جميع الأعضاء الدائمين.",
+   "body_ar": [
+    "وقال المندوب الدائم للهند لدى الأمم المتحدة، السفير هاريش بارفاثانيني، في الجمعية العامة للأمم المتحدة إن إضافة مقاعد دائمة دون حق الفيتو ستزيد النقاشات تعقيداً وتكرس انعدام المساواة الحالي. وحث على البدء الفوري في مفاوضات قائمة على نصوص وبجداول زمنية محددة لتحقيق إصلاح شامل للمجلس.",
+    "وأشار بارفاثانيني أيضاً إلى ضرورة ممارسة الفيتو بضبط نفس كبير في مسائل السلم والأمن الدوليين بدلاً من المصلحة السياسية. وأوضح أن قاعدة التوافق تُستخدم غالباً كفيتو مبطن في لجان العقوبات وعمليات التفاوض، مما يعيق التقدم."
+   ]
+  },
+  {
+   "id": "6b5001a5606d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-security-alert-americans-saudi-arabia",
+   "date": "2026-10-27T07:20:40Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 5,
+   "title": "US issues security alert for Americans in Saudi Arabia",
+   "title_en": "US issues security alert for Americans in Saudi Arabia",
+   "summary_en": "The U.S. Department of State has ordered non-emergency government staff and their families to leave Saudi Arabia due to safety risks and potential attacks on airports by Iranian-backed Houthis.",
+   "body_en": [
+    "According to a U.S. Mission security alert, the departure order took effect on October 23, 2026. The alert cited hostility and attacks by Iranian-supported Houthis against civilian airports and critical infrastructure in Saudi Arabia, which have caused civilian casualties and severe travel disruptions. U.S. government personnel now require Chief of Mission authorization to use any airport in the kingdom.",
+    "The alert noted that King Khalid International Airport in Riyadh partially reopened on October 23 for domestic and select international flights, while operations at airports in Jeddah and Dammam are experiencing delays and cancellations. U.S. citizens were advised to exercise extreme caution when using Saudi airports and to check flight statuses directly with airlines."
+   ],
+   "title_fa": "هشدار امنیتی آمریکا برای اتباع این کشور در عربستان سعودی",
+   "summary_fa": "وزارت امور خارجه آمریکا به دلیل مخاطرات امنیتی و احتمال حملات حوثی‌های مورد حمایت ایران به فرودگاه‌ها، به کارمندان غیراضطراری دولت و خانواده‌هایشان دستور داد عربستان سعودی را ترک کنند.",
+   "body_fa": [
+    "بر اساس هشدار امنیتی هیئت نمایندگی آمریکا، دستور خروج از ۲۳ اکتبر ۲۰۲۶ لازم‌الاجرا شده است. در این هشدار به خصومت‌ها و حملات حوثی‌های مورد حمایت ایران به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی در عربستان اشاره شده که منجر به تلفات غیرنظامی و اختلالات شدید در سفرها شده است. همچنین استفاده از فرودگاه‌های این کشور برای پرسنل دولتی آمریکا نیازمند مجوز رئیس هیئت نمایندگی است.",
+    "این هشدار اشاره دارد که فرودگاه بین‌المللی ملک خالد در ریاض از ۲۳ اکتبر برای پروازهای داخلی و برخی پروازهای بین‌المللی به طور جزئی بازگشایی شده، در حالی که پروازها در فرودگاه‌های جده و دمام با تاخیر و لغو مواجه هستند. به شهروندان آمریکایی توصیه شده هنگام استفاده از فرودگاه‌های عربستان نهایت احتیاط را به خرج دهند."
+   ],
+   "title_ar": "الولايات المتحدة تصدر تحذيرًا أمنيًا لرعاياها في السعودية",
+   "summary_ar": "أمرت وزارة الخارجية الأمريكية الموظفين الحكوميين غير الأساسيين وأفراد أسرهم بمغادرة المملكة العربية السعودية بسبب المخاطر الأمنية والهجمات المحتملة على المطار من قبل الحوثيين المدعومين من إيرانيين.",
+   "body_ar": [
+    "وفقًا لتحذير أمني صادر عن البعثة الأمريكية، دخل أمر المغادرة دخل دخل دخل التنفيذ في 23 أكتوبر 2026. وأشار التحذير إلى هجمات الحوثيين المدعومين من إيران على المطارات المدنية والبنية التحتية الحيوية في السعودية، مما أسفر عن سقوط ضحايا مدنيين واضطرابات شديدة في السفر. كما يتطلب استخدام أي مطار في المملكة تصريحًا خاصًا لرئيس البعثة للموظفين الحكوميين.",
+    "ولفت التحذير إلى أن مطار الملك خالد الدولي في الرياض أعاد فتحه جزئيًا في 23 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية، بينما تشهد العمليات في مطاري جدة والدمام تأخيرات وإلغاءات. وتم نصح المواطنين الأمريكيين بتوخي الحذر الشديد عند استخدام المطارات السعودية."
+   ]
+  },
+  {
+   "id": "95c6b519428b",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-members-to-security-council-extending-veto-privileges",
+   "date": "2026-10-27T07:08:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
+   "title_en": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
+   "summary_en": "At a UN General Assembly debate on the veto, Pakistan cautioned that adding new permanent members to the Security Council or extending veto power would deepen inequalities and worsen Council paralysis.",
+   "body_en": [
+    "Speaking at the debate, Gul Qaiser Sarwani, a counsellor at the Pakistan Mission to the UN, called for comprehensive and democratic reform of the Security Council. He stated that strategic rivalries among permanent members have repeatedly blocked action on international peace and security, and opposed the creation of any new permanent seats.",
+    "Sarwani advocated for the abolition of the veto or strict restrictions on its use, emphasizing that any reform must align with the UN Charter. Pakistan supported enhancing representation for elected members to provide a check on veto power and stressed that veto discussions must be addressed comprehensively alongside other Security Council reform issues."
+   ],
+   "title_fa": "هشدار پاکستان در مجمع عمومی سازمان ملل درباره افزودن اعضای جدید به شورای امنیت و گسترش حق veto",
+   "summary_fa": "در جریان مناظره مجمع عمومی سازمان ملل درباره حق veto، پاکستان هشدار داد که افزودن اعضای دائمی جدید به شورای امنیت یا گسترش حق veto باعث تعمیق نابرابری‌ها و افزایش فلج شدن شورای امنیت می‌شود.",
+   "body_fa": [
+    "گل قیصر سروانی، رایزن هیئت نمایندگی پاکستان در سازمان ملل، طی سخنانی خواستار اصلاحات جامع و دمکراتیک در شورای امنیت شد. وی با بیان اینکه رقابت‌های راهبردی میان اعضای دائمی بارها مانع اقدام در زمینه صلح و امنیت بین‌المللی شده است، با ایجاد هرگونه کرسی دائمی جدید مخالفت کرد.",
+    "سروانی خواستار لغو حق veto یا اعمال محدودیت‌های شدید بر آن شد و تأکید کرد که هرگونه اصلاحات باید با منشور سازمان ملل همخوانی داشته باشد. پاکستان از افزایش نمایندگی اعضای منتخب برای ایجاد رقابت و نظارت بر حق veto حمایت کرد."
+   ],
+   "title_ar": "في مناقشة بالجمعية العامة، پاکستان تحذر من إضافية أعضاء جدد لمجلس الأمن وتوسيع حق الفيتو",
+   "summary_ar": "حذرت پاکستان، خلال مناقشة في الجمعية العامة للأمم المتحدة حول حق الفيتو، من أن إضافة أعضاء دائمين جدد إلى مجلس الأمن أو توسيع صلاحيات الفيتو سيزيد من عدم المساواة ويفاقم شلل المجلس.",
+   "body_ar": [
+    "دعا گل قيصر سرواني، المستشار في بعثة پاکستان لدى الأمم المتحدة، إلى إصلاح شامل وديمقراطي لمجلس الأمن. وأوضح أن التنافس الاستراتيجي بين الأعضاء الدائمين أعاق مرارًا العمل المتعلق بالسلام والأمن الدوليين، معربًا عن معارضته لإنشاء أي مقاعد دائمة جديدة.",
+    "ودعا سرواني إلى إلغاء حق الفيتو أو فرض قيود صارمة على استخدامه، مؤكدًا أن أي إصلاح يجب أن يتوافق مع ميثاق الأمم المتحدة. وأكد دعم پاکستان لتعزيز تمثيل الأعضاء المنتخبين لتحقيق التوازن مع سلطة الفيتو."
+   ]
+  },
   {
    "id": "c8ef30e34d74",
    "lang": "en",

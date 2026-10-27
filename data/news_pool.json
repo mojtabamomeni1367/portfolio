@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:05:40Z",
+ "updated": "2026-10-27T10:07:29Z",
  "items": [
   {
    "id": "d33d24266c27",
@@ -3090,6 +3090,360 @@
    "desc": "تُجرى الانتخابات الإسرائيلية اليوم، إذ فُتحت مراكز الاقتراع أمام الناخبين للإدلاء بأصواتهم واختيار ممثليهم، وسط ترقب للنتائج وانعكاساتها على المشهد السياسي في إسرائيل.",
    "score": 9,
    "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "53b3e7949193",
+   "title": "Why it could take time for a new Israeli government to form",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T08:37:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "80748b6e9c6f",
+   "title": "Israel election results 2026: When will we know who won and what’s next?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
+   "date": "2026-10-27T09:22:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Exit polls are expected soon after voting closes late on Tuesday, but a final verdict might take days.",
+   "score": 4
+  },
+  {
+   "id": "9bf9a3f7336a",
+   "title": "Israelis begin voting as Netanyahu fights for political survival",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
+   "date": "2026-10-27T08:38:44Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
+   "score": 7
+  },
+  {
+   "id": "871be98cd4a0",
+   "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+   "date": "2026-10-27T08:02:37Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The cyclonic storm is set to make landfall on Wednesday, with 400,000 people in need of evacuation.",
+   "score": 4
+  },
+  {
+   "id": "2529340fb010",
+   "title": "Qatar’s path to defence autonomy",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss",
+   "date": "2026-10-27T07:55:01Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Qatar needs a strategy built on national resilience and diversified security guarantees.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "c3071901a667",
+   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+   "date": "2026-10-27T09:30:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Two sportspeople have been executed in the past month and at least six more face the same fate, says activist group Fears are growing for more Iranian athletes facing execution after mountain climber Ali-Sina Mostafavi became the latest in a string to be killed by the regime. Mostafavi – who documented his ascents of some of the world’s highest peaks, including Mount Everest – was executed on 14 October having been arrested in April after the anti-government protests a few months earlier. His death followed the killing of Siavash Jamshidi Kheirabadi, a taekwondo athlete, at the start of Octobe",
+   "score": 6
+  },
+  {
+   "id": "ec86a28a710e",
+   "title": "Live: Polls open in first Israeli election since October 7 attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+   "date": "2026-10-27T08:15:50Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A deeply divided Israel headed to the polls on Tuesday for the first time since the October 7, 2023 Hamas attack, with voters delivering their verdict on veteran Prime Minister Benjamin Netanyahu and the country's rightward drift. Follow our live blog for all the latest updates.",
+   "score": 4
+  },
+  {
+   "id": "6f2809cbdadb",
+   "title": "Polls open in Israeli election seen as referendum on Netanyahu",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/polls-open-in-israeli-election-seen-as-referendum-on-netanyahu",
+   "date": "2026-10-27T07:14:17Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Polls opened Tuesday in Israel’s critical national election viewed as a referendum on Prime Minister Benjamin Netanyahu’s policies. Reporting from Jerusalem, FRANCE 24’s Noga Tarnopolsky explains that “the name of the game” after Election Day is whether the country’s fractious opposition, including an Arab-Israeli majority bloc, can come together to form a government.",
+   "score": 7,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "f61343565524",
+   "title": "Palestinians are voting in Israel to ensure their very survival",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/palestinians-are-voting-israel-ensure-their-very-survival",
+   "date": "2026-10-27T09:39:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians are voting in Israel to ensure their very survival Submitted by Lubna Masarwa on Tue, 10/27/2026 - 09:22 When genocide, apartheid, discrimination and rampant violent crime has become the norm, Palestinian citizens of Israel are casting their ballots seeing their existence on the line A woman votes during the national election in the Palestinian city of Umm al-Fahm, northern Israel, 27 October 2026 (Reuters/Ammar Awad) Off Ibrahim Said has boycotted Israeli elections since voting in 1980. Parties came and went, telling him they would defend his interests if elected, even promising ",
+   "score": 5
+  },
+  {
+   "id": "b690b2201594",
+   "title": "Early turnout in Israel vote highest since 1981: elections committee",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/early-turnout-israel-vote-highest-1981-elections-committee",
+   "date": "2026-10-27T09:37:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Early turnout in Israel vote highest since 1981: elections committee Voter turnout in the first three hours of Israel's pivotal general election stood at 16.68 percent, the Central Elections Committee said on Tuesday, the highest at this stage of the vote since 1981. \"By 10 am, more than 1,200,000 Israelis had voted. The nationwide voter turnout stands at 16.68 percent,\" Dean Livne, acting director general of the committee, said in a televised statement. Reporting by AFP",
+   "score": 5
+  },
+  {
+   "id": "560de845808e",
+   "title": "Polls open as Netanyahu fights to retain power",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/polls-open-netanyahu-fights-retain-power",
+   "date": "2026-10-27T09:30:53Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Polls open as Netanyahu fights to retain power Israelis began voting on Tuesday in the first parliamentary elections since the 7 October 2023 attacks, with incumbent Prime Minister Benjamin Netanyahu facing a tough challenge from opposition rival Gadi Eisenkot. Polling stations opened at 7am local time (5am GMT) and are due to close at 10pm (8pm GMT). A total of 36 electoral lists are contesting 120 seats in the Knesset, Israel’s parliament, in a bid to form the country’s 38th government. Netanyahu’s coalition of right-wing, far-right and ultra-Orthodox parties became the first Israeli governm",
+   "score": 7,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "444f00b680cf",
+   "title": "Live: Israelis head to the polls as Netanyahu fights for political life",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live/live-israelis-head-polls-netanyahu-fights-political-life",
+   "date": "2026-10-27T09:30:53Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Live: Israelis head to the polls as Netanyahu fights for political life Submitted by Alex MacDonald on Tue, 10/27/2026 - 09:23 Parliamentary elections first to be held since beginning of Gaza genocide in 2023 Key Points Polling stations opened at 7am local time (5am GMT) and are due to close at 10pm (8pm GMT) 36 electoral lists contest 120 seats in a bid to form the country’s 38th government Israel seals off occupied West Bank with many Palestinians confined to homes or neighbourhoods Israeli Elections Israel Palestine Polls open as Netanyahu fights to retain power Israelis began voting on Tue",
+   "score": 4
+  },
+  {
+   "id": "b8143fe113ba",
+   "title": "Israel elections: Polls open as Netanyahu attempts to fend off challenge from Gadi Eisenkot",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israel-elections-polls-open-netanyahu-fights-retain-power",
+   "date": "2026-10-27T08:56:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel elections: Polls open as Netanyahu attempts to fend off challenge from Gadi Eisenkot Submitted by MEE staff on Tue, 10/27/2026 - 08:50 The veteran prime minister faces a tough challenge from opposition parties as voters elect Israel’s 38th government Israeli President Isaac Herzog and his wife Michal Herzog vote at a polling station during Israel's national election, in Jerusalem, 27 October 2026 (Reuters/Ronen Zvulun) Off Israelis began voting on Tuesday in the first parliamentary elections since the 7 October 2023 attacks, with incumbent Prime Minister Benjamin Netanyahu facing a toug",
+   "score": 7,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "8ba39f05b543",
+   "title": "I have boycotted Israeli elections for years, but this time I will vote",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/i-have-boycotted-israeli-elections-years-time-i-will-vote",
+   "date": "2026-10-27T08:38:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "I have boycotted Israeli elections for years, but this time I will vote Submitted by Zahra Saeed on Tue, 10/27/2026 - 04:16 The Knesset cannot deliver liberation, but fear of displacement makes even the smallest chance of protecting our homes and keeping our families on this land worth taking A worker unfurls a Likud campaign billboard reading \"the Right or Palestine\" in Nazareth on 21 October 2026 (Ahmad Gharabli/AFP) Off In almost every interview I have conducted in recent weeks, and in nearly every conversation with Palestinian citizens of Israel on the streets of our towns, I have heard th",
+   "score": 4
+  },
+  {
+   "id": "b9a9a9b7965f",
+   "title": "Macklemore kicks off 'Free Palestine' tour, calls for 'shared humanity'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/macklemore-kicks-free-palestine-tour-calls-shared-humanity",
+   "date": "2026-10-27T08:04:26Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Macklemore kicks off 'Free Palestine' tour, calls for 'shared humanity' American rapper Macklemore kicked off his \"Free Palestine\" concert tour in Dublin on Monday, after announcing that all tour proceeds would support organisations helping Palestinians. He called for unity and \"shared humanity\" weeks after he was removed from Ed Sheeran’s tour over his pro-Palestine remarks. American rapper Macklemore kicked off his “Free Palestine” concert tour in Dublin on Monday, calling for unity weeks after he was removed from Ed Sheeran’s tour over his pro-Palestine remarks. https://t.co/ByekS8xP1p — Mi",
+   "score": 2
+  },
+  {
+   "id": "0fceb31a1f49",
+   "title": "Morning update",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-652",
+   "date": "2026-10-27T07:39:13Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Morning update Good morning Middle East Eye readers, Here are the latest developments: The US Embassy in Riyadh urged nonemergency government employees and their family members to leave Saudi Arabia, citing safety risks. The post on X added that US government employees working in the kingdom require special authorisation from Chief of Mission to use any airport in the country, following attacks on airports. Most polling stations in Israel have opened as of 7am local time (5am GMT), in the first general election held since 7 October, 2023. Around 7.3 million people are eligible to vote, with mo",
+   "score": 1
+  },
+  {
+   "id": "6b5001a5606d",
+   "title": "US issues security alert for Americans in Saudi Arabia",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-security-alert-americans-saudi-arabia",
+   "date": "2026-10-27T07:20:40Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "US issues security alert for Americans in Saudi Arabia The US Embassy in Riyadh urged nonemergency government employees and their family members to leave Saudi Arabia, citing safety risks. \"Effective October 23, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks,\" it said in a post on X. The post added that US government employees working in the kingdom require special authorisation from Chief of Mission to use any airport in the country, following attacks on airports. \"U.S. citizen",
+   "score": 5
+  },
+  {
+   "id": "3263721012d8",
+   "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+   "date": "2026-10-26T12:00:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+   "score": 8,
+   "dup_of": "34fc65e85cd0"
+  },
+  {
+   "id": "95c6b519428b",
+   "title": "At UNGA debate, Pakistan warns against adding more members to Security Council, extending veto privileges",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-members-to-security-council-extending-veto-privileges",
+   "date": "2026-10-27T07:08:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan has warned that adding more permanent members to the United Nations Security Council (UNSC) and extending veto privileges would “deepen existing inequalities, perpetuate historical advantages and increase the risk of Council paralysis”. The counsellor at the Pakistan Mission at UN, Gul Qaiser Sarwani, presented these views at the UN General Assembly during a debate on the use of the veto. He said Pakistan called for “comprehensive, democratic and equitable reform of the UN Security Council” and stressed that the misuse of veto power undermined UNSC’s effectiveness, weakened the credib",
+   "score": 5
+  },
+  {
+   "id": "273cdf25b4e3",
+   "title": "No pressure from US to cut Russian oil imports, says Indian oil minister",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040190/no-pressure-from-us-to-cut-russian-oil-imports-says-indian-oil-minister",
+   "date": "2026-10-27T08:25:34Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India has faced no pressure from ​the US to reduce its Russian crude ‌imports , oil minister Hardeep Singh Puri said on Tuesday at an industry event. “I never felt anything,” Puri said when ​asked if there has been pressure to ​cut Russian oil imports. Puri said Middle East oil ⁠supplies have been rising as the region is ​able to ship out more cargoes. He said India ​was getting 0.2 per cent of its oil imports from Russia before the Ukraine war , while imports have surged since the war ​started due to discounts on Russian oil . India’s imports ​of Middle Eastern crude oil surged in September, ",
+   "score": 4
+  },
+  {
+   "id": "7ae6f9b573c5",
+   "title": "Israel to give verdict on Netanyahu in pivotal election",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040163/israel-to-give-verdict-on-netanyahu-in-pivotal-election",
+   "date": "2026-10-27T09:34:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A deeply divided Israel headed to the polls on Tuesday for the first time since Hamas’s Oct 7, 2023 attack , with voters delivering their verdict on veteran Prime Minister Benjamin Netanyahu and the country’s rightward drift. Israelis are casting their ballots in the shadow of three years of multi-front regional wars, with the trauma of the Oct 7 attack still fresh and questions over accountability and security central to the campaign. The close-fought vote comes as Israel looks increasingly isolated on the world stage, driven by a devastating military campaign in Gaza, soaring settlement cons",
+   "score": 7,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "aab7d1368cc6",
+   "title": "Financial strain, desperate measures",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039906/financial-strain-desperate-measures",
+   "date": "2026-10-26T01:06:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The apparent rise in murder-suicide cases among young, middle-class families in Karachi cannot be attributed solely to social transition or inadequate mental healthcare. Amid sluggish growth, persistent inflation and unemployment, the government cannot escape scrutiny over its mounting tax burden on middle-class households and the economic distress that may push vulnerable towards desperate extremes. Experts urge the government to abandon ad hoc economic policies and inequitable taxation that force ordinary Pakistanis to shoulder the cost of inefficient utilities and FBR’s failure to adequatel",
+   "score": 1
+  },
+  {
+   "id": "306c0c96d4d9",
+   "title": "Pakistan's last antique restorers give old treasures new life",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040182/pakistans-last-antique-restorers-give-old-treasures-new-life",
+   "date": "2026-10-27T06:59:44Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Sitting outside his small shop in a warren of alleyways in Rawalpindi, Ahsan Shakeel buffed an antique brass pot to a high shine, pressing it against a mechanised wheel. “We’ve removed all the dents, but it still needs polishing,” the 72-year-old restorer, among the last still practising his craft, told AFP as the spinning buffer sent fine metal dust into the air. Quitting a job as a hotel cook, Shakeel followed in his father’s footsteps to become an antiques restorer, opening his workshop in the Bhabra Bazaar market in densely populated Rawalpindi in 1980. Antique dealer Ahsan Shakeel polishe",
+   "score": 2
+  },
+  {
+   "id": "81e31d12488c",
+   "title": "New UNSC permanent members without veto would be 'second-class': India",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
+   "date": "2026-10-27T08:19:25Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India said the veto must be held by all permanent members of a reformed Council as long as the provision exists, stressing that fairness and justice demand equal rights and responsibilities for all permanent members",
+   "score": 5
+  },
+  {
+   "id": "e13fba399823",
+   "title": "Israeli military says it detained Egyptian who crossed into its territory",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-military-says-it-detains-an-egyptian-civilian-who-crossed-the-border-near-nitzana/article71630138.ece",
+   "date": "2026-10-27T07:24:11Z",
+   "countries": [
+    "EGY",
+    "ISR"
+   ],
+   "desc": "The Egyptian civilian was transferred to security ​forces ‌for further questioning, the ‌Israeli military said",
+   "score": 4
+  },
+  {
+   "id": "d1a7a95242cf",
+   "title": "اولین انتخابات اسرائیل پس از هفتم اکتبر؛ پزشکیان در مسکو",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm2d615p163gt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T09:51:06Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "انتخابات سراسری در اسرائیل در جریان است و سران احزاب رای خود را به صندوق انداخته‌اند. این اولین انتخابات پس از حمله هفتم اکتبر است و بنیامین نتانیاهو که از آن زمان درگیر جنگ در غزه و لبنان و ایران بوده امیدوار است که نخست‌وزیر بماند. رقیب اصلی او گادی آیزنکوت است. در همین حال یک روز پس از نشست امنیتی چهارجانبه در تهران، مسعود پزشکیان در مسکو است و با ولادیمیر پوتین دیدار می‌کند.",
+   "score": 7
   }
  ]
 }
