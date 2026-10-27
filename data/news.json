@@ -1,7 +1,65 @@
 {
- "updated": "2026-10-27T19:03:23Z",
+ "updated": "2026-10-27T21:47:46Z",
  "count": 165,
  "items": [
+  {
+   "id": "0e96da27290f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+   "date": "2026-10-27T20:18:18Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Exit polls following Israeli elections indicate no clear winner",
+   "title_en": "Exit polls following Israeli elections indicate no clear winner",
+   "summary_en": "Israeli exit polls indicate no clear winner following a historic election, leaving neither Prime Minister Benjamin Netanyahu nor his main rival with a path to a majority.",
+   "body_en": [
+    "Major Israeli television networks released exit polls from Tuesday's election, projecting that the bloc led by former military chief of staff Gadi Eisenkot would secure 52 or 53 seats in the 120-seat Knesset. Forming a majority government requires 61 seats, and preliminary results are expected soon.",
+    "The vote experienced a record turnout of 74.3 percent as citizens cast ballots in the first election since the October 7, 2023 attacks and subsequent conflicts. Opposition figures claimed the results show a defeat for Netanyahu, while the incumbent could remain in power as a caretaker during coalition negotiations."
+   ],
+   "title_fa": "نزس‌سنجی‌های پس از انتخابات اسرائیل هیچ برنده مشخصی را نشان نمی‌دهند",
+   "summary_fa": "نظرسنجی‌های خروج از حوزه رای‌گیری در اسرائیل نشان می‌دهد که پس از یک انتخابات تاریخی هیچ برنده مشخصی وجود ندارد و نه بنیامین نتانیاهو و نه رقیب اصلی او راهی برای کسب اکثریت ندارند.",
+   "body_fa": [
+    "شبکه‌های اصلی تلویزیون اسرائیل نظرسنجی‌های خروج از حوزه رای‌گیری مربوط به انتخابات روز سه‌شنبه را منتشر کردند که بر اساس آن، ائتلاف به رهبری گادی آیزنکوت، رئیس پیشین ستاد کل ارتش، ۵۲ یا ۵۳ کرسی در کنست ۱۲۰ کرسی به دست خواهد آورد. تشکیل دولت ائتلافی نیازمند ۶۱ کرسی است و نتایج اولیه به زودی اعلام می‌شود.",
+    "این رای‌گیری با مشارکت بی‌سابقه ۷۴.۳ درصدی شهروندان در اولین انتخابات از زمان حملات ۷ اکتبر ۲۰۲۳ و درگیری‌های پس از آن برگزار شد. چهره‌های اپوزیسیون مدعی شدند که این نتایج شکستی برای نتانیاهو محسوب می‌شود، در حالی که نخست‌وزیر فعلی ممکن است در جریان مذاکرات ائتلافی به عنوان سرپرست در قدرت باقی بماند."
+   ],
+   "title_ar": "استطلاعات الرأي بعد الانتخابات الإسرائيلية تشير إلى عدم وجود فائز واضح",
+   "summary_ar": "تشير استطلاعات الرأي بعد التصويت في إسرائيل إلى عدم وجود فائز واضح في أعقاب انتخابات تاريخية، حيث لا يملك رئيس الوزراء بنيامين نتانياهو ولا منافسه الرئيسي سبيلاً لتحقيق الأغلبية.",
+   "body_ar": [
+    "أصدرت شبكات التلفزيون الإسرائيلية الرئيسية استطلاعات الرأي الخروج من صناديق الاقتراع لانتخابات يوم الثلاثاء، والتي توقعت أن يحصل التكتل بقيادة رئيس الأركان السابق جادي آيزنكوت على 52 أو 53 مقعداً في الكنيست المكون من 120 مقعداً. ويتطلب تشكيل حكومة أغلبية الحصول على 61 مقعداً، ومن المتوقع صدور النتائج الأولية قريباً.",
+    "شهد التصويت إقبالاً قياسياً بلغ 74.3 بالمئة حيث أدلى المواطنون بأصواتهم في أول انتخابات منذ هجمات 7 أكتوبر 2023 والصراعات التي تلتها. واعتبر شخصيات المعارضة أن النتائج تُظهر هزيمة لنتانياهو، بينما قد يبقى رئيس الوزراء الحالي في السلطة بصفة تصريف أعمال أثناء مفاوضات الائتلاف."
+   ]
+  },
+  {
+   "id": "f9a0ae76cf96",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+   "date": "2026-10-27T19:36:01Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+   "title_en": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+   "summary_en": "Russian President Vladimir Putin and Qatar's Emir Sheikh Tamim bin Hamad Al Thani met in Moscow to discuss bilateral relations and regional stability.",
+   "body_en": [
+    "The leaders held their meeting on the sidelines of the Gas Exporting Countries Forum in Moscow. Their discussions focused on bilateral ties alongside the impact of US-Iran tensions on regional stability and energy markets."
+   ],
+   "title_fa": "امیر قطر و پوتین در میان درگیری آمریکا و ایران خواستار دیپلماسی شدند",
+   "summary_fa": "ولادیمیر پوتین، رئیس‌جمهور روسیه و شیخ تمیم بن حمد آل ثانی، امیر قطر، در مسکو دیدار و درباره روابط دوجانبه و ثبات منطقه‌ای گفتگو کردند.",
+   "body_fa": [
+    "این رهبران دیدار خود را در حاشیه مجمع کشورهای صادرکننده گاز در مسکو برگزار کردند. محور گفتگوی آنها روابط دوجانبه و همچنین تأثیر تنش‌های ایالات متحده و ایران بر ثبات منطقه‌ای و بازارهای انرژی بود."
+   ],
+   "title_ar": "أمير قطر وپوتين يدعوان إلى الدبلوماسية وسط الصراع بين أمريكا وإيران",
+   "summary_ar": "التقى الرئيس الروسي فلاديمير بوتين وأمير قطر الشيخ تميم بن حمد آل ثاني في موسكو لمناقشة العلاقات الثنائية والاستقرار الإقليمي.",
+   "body_ar": [
+    "عقد الزعيمان اجتماعهما على هامش منتدى الدول المصدرة للغاز في موسكو. وتركزت نقاشاتهما حول العلاقات الثنائية إلى جانب تأثير التوترات بين الولايات المتحدة وإيران على الاستقرار الإقليمي وأسواق الطاقة."
+   ]
+  },
   {
    "id": "692835e18a7f",
    "lang": "en",
@@ -755,68 +813,6 @@
    "body_ar": [
     "تتضمن برامج مثل مقر \"الفتى المحارب\" ودوري \"نو+ميدان\"، التي تُنفذ بالتعاون مع منظمة التعبئة الطلابية (البسيج)، تدريب الطلاب على العمليات السيبرانية، واستطلاعات الأحياء، واستخدام الأسلحة النارية. وفي حين تعتبر السلطات هذه النشاطات جزءاً من التربية الدفاعية والتنشئة الثورية، يرى الناقدون أنها تعكس تزايد حضور المؤسسات الأمنية في المدارس.",
     "كما زادت المخاوف عقب تقارير عن مطالبة بعض المدارس بتزويد الطلاب بـ \"بطاقات/قلائد تعريفية\" شبيهة بالقلائد العسكرية. ورغم نفي وزارة التربية والتعليم الصارم لصدور أي توجيهات بخصوص القلائد العسكرية، أكد أولياء أمور في عدة مدن وجود مطالبات بهذا الخصوص."
-   ]
-  },
-  {
-   "id": "3635adfa8ec8",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
-   "date": "2026-10-27T06:15:48Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Palestinian citizens of Israel can vote, but cannot expect change",
-   "title_en": "Palestinian citizens of Israel can vote, but cannot expect change",
-   "summary_en": "Palestinian citizens of Israel face growing threats to their rights, expanding settlements, and rising state-backed militarisation ahead of the general election, leaving many questioning the impact of their vote.",
-   "body_en": [
-    "Despite holding Israeli citizenship and voting rights, Palestinian citizens experience systemic discrimination, land confiscation, and escalating violence from organised crime and expanding nationalist settlements. Recent policy proposals aim to expand Jewish settlements in the Naqab and Galilee while strengthening civilian security squads and expanding access to personal firearms.",
-    "While political parties like Ra'am have advocated for participating in parliamentary politics to counter the far right, past experiences in coalition governments failed to yield fundamental improvements for Palestinian communities."
-   ],
-   "title_fa": "شهروندان فلسطینی اسرائیل می‌توانند رأی دهند، اما نباید انتظار تغییر داشته باشند",
-   "summary_fa": "شهروندان فلسطینی اسرائیل در آستانه انتخابات عمومی با تهدیدهای فزاینده علیه حقوق خود، گسترش شهرک‌سازی و افزایش نظامی‌سازی مواجه هستند، موضوعی که باعث شده بسیاری در تأثیرگذار بودن رأی خود تردید کنند.",
-   "body_fa": [
-    "با وجود داشتن شهروندی و حق رأی در اسرائیل، شهروندان فلسطینی با تبعیض سیستماتیک، مصادره زمین و افزایش خشونت از سوی جرم سازمان‌یافته و شهرک‌های رو به گسترش مواجه هستند. طرح‌های اخیر پیشنهادی شامل افزودن جمعیت شهرک‌نشین در نقب و جلیل و همچنین تقویت گروه‌های مسلح غیرنظامی است.",
-    "اگرچه احزابی مانند راعم (فهرست متحد عربی) بر مشارکت پارلمانی برای مقابله با راست افراطی تأکید دارند، تجربیات گذشته در دولت‌های ائتلافی نتوانسته تغییرات بنیادی در شرایط زندگی جامعه فلسطینی ایجاد کند."
-   ],
-   "title_ar": "المواطنون الفلسطينيون في إسرائيل يمكنهم التصويت، لكنهم لا يتوقعون التغيير",
-   "summary_ar": "يواجه المواطنون الفلسطينيون في إسرائيل تهديدات متزايدة لحقوقهم، وتوسعاً استيطانياً، وعسكرة متصاعدة قبل الانتخابات العامة، مما يدفهم للتساؤل عن مدى جدوى مشاركتهم الانتخابية.",
-   "body_ar": [
-    "على الرغم من حصولهم على المواطنة الإسرائيلية وحق التصويت، يعاني المواطنون الفلسطينيون من تمييز ممنهج ومصادرة للأراضي وتصاعد العنف. وتتضمن مقترحات السياسات الأخيرة توسيع المستوطنات في النقب والجليل مع تعزيز مجموعات الحراسة المدنية وتسهيل الحصول على الأسلحة الفردية.",
-    "ورغم أن أحزاباً مثل القائمة العربية الموحدة (رعمت) دعت للمشاركة البرلمانية لمواجهة اليمين المتطرف، إلا أن التجارب الائتلافية السابقة لم تحقق تحسينات جوهرية في ظروف المجتمع الفلسطيني."
-   ]
-  },
-  {
-   "id": "c71703196fd3",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
-   "date": "2026-10-27T06:12:04Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
-   "title_en": "Palestinian citizens of Israel fear they’re next target if far-right wins",
-   "summary_en": "Palestinian residents of Majd al-Krum in northern Israel successfully protested to dismantle a newly established Israeli settler outpost on village land. The incident has raised fears among Palestinian citizens of Israel that far-right politicians aim to expand settlement practices and dispossession into the Galilee.",
-   "body_en": [
-    "In September, Israeli settlers set up an outpost on land above Majd al-Krum, claiming to hold a grazing permit from the Jewish National Fund (JNF). Local Palestinian residents responded with daily peaceful demonstrations alongside legal efforts, leading the JNF to order the removal of the settler tents shortly after.",
-    "Villagers view the outpost attempt as a test run by Israeli Finance Minister Bezalel Smotrich, who has campaigned on a promise to 'Judaise' the Galilee. Residents worry that far-right figures seek to incite chaos to justify expanding West Bank-style dispossession to Palestinian citizens of Israel."
-   ],
-   "title_fa": "شهروندان فلسطینی اسرائیل نگرانند که در صورت پیروزی راست‌گرایان افراطی هدف بعدی باشند",
-   "summary_fa": "ساکنان فلسطینی مجدالکروم در شمال اسرائیل با برپایی اعتراضات موفق شدند یک پاسگاه تازه تاسیس شهرک‌نشینان اسرائیلی را در زمین‌های این روستا برچینند. این رویداد نگرانی‌هایی را در میان شهروندان فلسطینی اسرائیل برانگیخته است که سیاستمداران راست‌گرای افراطی قصد دارند اقدامات شهرک‌سازی و سلب مالکیت را به منطقه جلیل گسترش دهند.",
-   "body_fa": [
-    "در ماه سپتامبر، شهرک‌نشینان اسرائیلی با ادعای داشتن مجوز چرای دواب از صندوق ملی یهود، پاسگاهی را بر فراز زمین‌های مجدالکروم برپا کردند. ساکنان فلسطینی محل با تظاهرات مسالمت‌آمیز روزانه و پیگیری‌های حقوقی واکنش نشان دادند که در نهایت منجر به صدور دستور جمع‌آوری چادرهای شهرک‌نشینان توسط صندوق ملی یهود شد.",
-    "روستاییان برپایی این پاسگاه را آزمایشی از سوی بتسلئیل اسموتریچ، وزیر دارایی اسرائیل می‌دانند که وعده «یهودی‌سازی» جلیل را در کارزار تبلیغاتی خود مطرح کرده است. ساکنان نگرانند که چهره‌های راست‌گرای افراطی به دنبال ایجاد آشوب برای توجیه گسترش سلب مالکیت به سبک کرانه باختری علیه شهروندان فلسطینی اسرائیل باشند."
-   ],
-   "title_ar": "المواطنون الفلسطينيون في إسرائيل يخشون أن يكونوا الهدف التالي إذا فاز اليمين المتطرف",
-   "summary_ar": "نجح السكان الفلسطينيون في قرية مجد الكروم بشمال إسرائيل في الاحتجاج لتفكيك بؤرة استيطانية إسرائيلية أُقيمت مؤخراً على أراضي القرية. وقد أثار هذا الحادث مخاوف بين المواطنين الفلسطينيين في إسرائيل من أن السياسيين من اليمين المتطرف يهدفون إلى توسيع الاستيطان ومصادرة الأراضي في الجليل.",
-   "body_ar": [
-    "في أيلول/سبتمبر، أقام مستوطنون إسرائيليون بؤرة استيطانية على أراضٍ مطلة على قرية مجد الكروم، بدعوى الحصول على تصريح رعي من الصندوق القومي اليهودي. ورداً على ذلك، نظم السكان الفلسطينيون المحليون مظاهرات سلمية يومية إلى جانب المساعي القانونية، مما دفع الصندوق القومي اليهودي لإصدار أمر بإزالة خيام المستوطنين بعد ذلك بوقت قصير.",
-    "ويرى أهالي القرية أن محاولة إقامة البؤرة الاستيطانية كانت تجربة اختبارية من قبل وزير المالية الإسرائيلي بتسلئيل سموتريتش، الذي ينادي بـ \"تهويد\" الجليل. ويخشى السكان أن يسعى رموز اليمين المتطرف إلى إثارة الفوضى لتبرير توسيع سياسات مصادرة الأراضي على نمط الضفة الغربية لتشمل المواطنين الفلسطينيين في إسرائيل."
    ]
   },
   {
