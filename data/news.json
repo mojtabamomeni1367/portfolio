@@ -1,7 +1,38 @@
 {
- "updated": "2026-10-26T21:46:28Z",
- "count": 135,
+ "updated": "2026-10-27T01:05:46Z",
+ "count": 136,
  "items": [
+  {
+   "id": "25cfbc19dbf6",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+   "date": "2026-10-26T23:50:11Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Jordan strikes Syria after church attack, killing at least seven people",
+   "title_en": "Jordan strikes Syria after church attack, killing at least seven people",
+   "summary_en": "Jordan launched retaliatory air strikes in Syria following a deadly church shooting in Karak, resulting in the deaths of at least seven people according to Syrian authorities. Following the raids, Syria closed its primary border crossing with Jordan.",
+   "body_en": [
+    "The Jordanian military stated that its strikes targeted armed group hideouts in southeastern Syria in coordination with Syrian authorities, killing and wounding numerous group members. However, the Syrian government denied any prior coordination, stating the military operation took place without notification and announcing an investigation. Syrian civil defense reported seven fatalities, including three children and a woman, across multiple strikes in Deraa and Suweyda provinces.",
+    "The air strikes followed the arrest of three suspects in Jordan linked to Friday's funeral shooting at a Greek Orthodox church in Karak, which left nine people dead. In response to the strikes, Syrian authorities halted traffic at the Nassib crossing, the sole passenger and commercial trade border point between the two countries, while Syria's foreign ministry condemned the raids as a violation of sovereignty."
+   ],
+   "title_fa": "حمله اردن به سوریه پس از حمله به کلیسا حداقل هفت کشته بر جای گذاشت",
+   "summary_fa": "اردن در پاسخ به تیراندازی مرگبار در کلیسایی در کرک، حملات هوایی تلافی‌جویانه‌ای در سوریه انجام داد که به گفته مقامات سوری حداقل هفت کشته برجای گذاشت. در پی این حملات، سوریه گذرگاه مرزی اصلی خود با اردن را مسدود کرد.",
+   "body_fa": [
+    "ارتش اردن اعلام کرد که حملاتش مواضع گروه‌های مسلح را در جنوب شرقی سوریه و با هماهنگی مقامات سوری هدف قرار داده و باعث کشته و زخمی شدن تعداد زیادی از اعضای این گروه‌ها شده است. با این حال، دولت سوریه هرگونه هماهنگی قبلی را تکذیب کرد و اعلام نمود که این عملیات بدون اطلاع‌رسانی انجام شده و تحقیقاتی در این زمینه آغاز شده است. دفاع مدنی سوریه از کشته شدن هفت نفر از جمله سه کودک و یک زن در چند حمله در استان‌های درعا و سویداء خبر داد.",
+    "این حملات هوایی پس از دستگیری سه مظنون در اردن مرتبط با تیراندازی روز جمعه در مراسم تشییع جنازه‌ای در کلیسای ارتدوکس یونانی در کرک که نه کشته بر جای گذاشت، صورت گرفت. در پاسخ به این حملات، مقامات سوری حرکت در گذرگاه نصیب را که تنها نقطه مرزی مسافری و تجاری بین دو کشور است معلق کردند، در حالی که وزارت امور خارجه سوریه این حملات را نقض حاکمیت خود خواند و محکوم کرد."
+   ],
+   "title_ar": "الأردن يشن ضربات على سوريا بعد هجوم على كنيسة، مما أسفر عن مقتل سبعة أشخاص على الأقل",
+   "summary_ar": "شن الأردن ضربات جوية انتقامية في سوريا عقب حادث إطلاق نار مميت في كنيسة بالكرك، مما أسفر عن مقتل سبعة أشخاص على الأقل وفقاً للسلطات السورية. وعقب الغارات، أغلقت سوريا معبرها الحدودي الرئيسي مع الأردن.",
+   "body_ar": [
+    "وذكر الجيش الأردني أن ضرباته استهدفت مخابئ لمجموعات مسلحة في جنوب شرق سوريا بالتنسيق مع السلطات السورية، مما أدى إلى مقتل وإصابة العديد من عناصر تلك المجموعات. ومع ذلك، نفى الحكومة السورية وجود أي تنسيق مسبق، مؤكدة أن العملية العسكرية تمت دون إخطار وأعلنت فتح تحقيق. وأفاد الدفاع المدني السوري بمقتل سبعة أشخاص، بينهم ثلاثة أطفال وامرأة، جراء ضربات متعددة في محافظتي درعا والسويداء.",
+    "وجاءت الضربات الجوية عقب اعتقال ثلاثة مشتبه بهم في الأردن لصلتهم بحادث إطلاق النار يوم الجمعة في جنازة بكنيسة للروم الأرثوذكس في الكرك أسفر عن مقتل تسعة أشخاص. ورداً على الضربات، أوقفت السلطات السورية الحركة في معبر نصيب، وهو المنفذ الحدودي الوحيد للركاب والبضائع التجارية بين البلدين، بينما دانت وزارة الخارجية السورية الغارات واعتبرتها انتهاكاً للسيادة."
+   ]
+  },
   {
    "id": "513f586de3fb",
    "lang": "en",
