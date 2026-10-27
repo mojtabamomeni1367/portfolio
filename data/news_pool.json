@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:06:09Z",
+ "updated": "2026-10-27T19:03:23Z",
  "items": [
   {
    "id": "d33d24266c27",
@@ -3226,7 +3226,8 @@
     "ISR"
    ],
    "desc": "Early turnout in Israel vote highest since 1981: elections committee Voter turnout in the first three hours of Israel's pivotal general election stood at 16.68 percent, the Central Elections Committee said on Tuesday, the highest at this stage of the vote since 1981. \"By 10 am, more than 1,200,000 Israelis had voted. The nationwide voter turnout stands at 16.68 percent,\" Dean Livne, acting director general of the committee, said in a televised statement. Reporting by AFP",
-   "score": 5
+   "score": 5,
+   "dup_of": "4d4c4c86eddc"
   },
   {
    "id": "560de845808e",
@@ -3348,7 +3349,8 @@
     "PAK"
    ],
    "desc": "Pakistan has warned that adding more permanent members to the United Nations Security Council (UNSC) and extending veto privileges would “deepen existing inequalities, perpetuate historical advantages and increase the risk of Council paralysis”. The counsellor at the Pakistan Mission at UN, Gul Qaiser Sarwani, presented these views at the UN General Assembly during a debate on the use of the veto. He said Pakistan called for “comprehensive, democratic and equitable reform of the UN Security Council” and stressed that the misuse of veto power undermined UNSC’s effectiveness, weakened the credib",
-   "score": 5
+   "score": 5,
+   "dup_of": "dd70e227b4b0"
   },
   {
    "id": "273cdf25b4e3",
@@ -3813,8 +3815,7 @@
     "PAK"
    ],
    "desc": "Pakistan has warned that adding more permanent members to the United Nations Security Council (UNSC) and extending veto privileges would “deepen existing inequalities, perpetuate historical advantages and increase the risk of Council paralysis”. The counsellor at the Pakistan Mission at UN, Gul Qaiser Sarwani, presented these views at the UN General Assembly during a debate on the use of the veto. He said Pakistan called for “comprehensive, democratic and equitable reform of the UN Security Council” and stressed that the misuse of veto power undermined UNSC’s effectiveness, weakened the credib",
-   "score": 7,
-   "dup_of": "95c6b519428b"
+   "score": 7
   },
   {
    "id": "4d517474e463",
@@ -3995,8 +3996,7 @@
     "ISR"
    ],
    "desc": "Almost 45 percent of Israeli voters had cast their ballots by mid-afternoon.",
-   "score": 7,
-   "dup_of": "b690b2201594"
+   "score": 7
   },
   {
    "id": "fa0cacede110",
@@ -4628,6 +4628,392 @@
     "ISR"
    ],
    "desc": "الإسرائيليون يواصلون الإدلاء بأصواتهم في الانتخابات العامة الإسرائيلية وسط منافسة محتدمة بين كتلة رئيس الوزراء بنيامين نتنياهو والكتلة المعارضة بزعامة رئيس الأركان السابق غادي آيزنكوت، وترقب إقليمي للنتائج .",
+   "score": 6
+  },
+  {
+   "id": "bb89f4f74e4e",
+   "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T16:11:35Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+   "score": 7,
+   "dup_of": "1829847356e9"
+  },
+  {
+   "id": "f70a57d9dda3",
+   "title": "Jerusalem Daily: Israeli elections underway",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+   "date": "2026-10-27T18:12:17Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
+   "score": 8,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "1e1c78f815f6",
+   "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+   "date": "2026-10-27T18:11:57Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.",
+   "score": 7
+  },
+  {
+   "id": "1f0d32af44eb",
+   "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
+   "date": "2026-10-27T17:03:45Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Mourners have buried four members of a family, including three children, killed in Jordanian airstrikes in Syria.",
+   "score": 7,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "f3b162d4daf5",
+   "title": "Iranian and Qatari leaders meet at Russian energy forum",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+   "date": "2026-10-27T15:49:19Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Iranian and Qatari leaders meet at Russian energy forum",
+   "score": 7,
+   "dup_of": "26eae7a62746"
+  },
+  {
+   "id": "0f209266069b",
+   "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+   "date": "2026-10-27T15:26:59Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Tehran remains firm on demands despite diplomatic urgency to prevent escalation in the ongoing US-Israeli conflict.",
+   "score": 8
+  },
+  {
+   "id": "15b4e1f52371",
+   "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+   "date": "2026-10-27T18:34:19Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath the struggle over democratic institutions lies the erosion of Benjamin Netanyahu's longstanding association with national security. Gerlitz also examines the psychological foundations of Netanyahu's enduring support, the influence of conspiracy narratives, the electoral significance of Arab parties and the uncertain fut",
+   "score": 8,
+   "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "97ec09684c42",
+   "title": "Israelis vote in a tense election: What's at stake?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+   "date": "2026-10-27T16:59:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis were voting Tuesday (October 27) in a tense national election widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership since the Hamas-led Oct. 7, 2023, attack on Israel and the wars that have since shaken the Middle East.",
+   "score": 8,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "1a3e389cdcbe",
+   "title": "Israel elections: voter turnout reaches 55% by 4pm local time",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+   "date": "2026-10-27T16:52:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis flocked to the polls Tuesday (October 27) in turnout unseen in decades, with a deeply divided electorate delivering a verdict on veteran right-wing Prime Minister Benjamin Netanyahu in the first election since the October 7, 2023 attack. FRANCE24's Kethevane Gorjestani tells us more.",
+   "score": 4
+  },
+  {
+   "id": "a5a9b50d6572",
+   "title": "Israel election commission rejects Netanyahu party bid to extend voting",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-election-commission-rejects-netanyahu-party-bid-extend-voting",
+   "date": "2026-10-27T18:30:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel election commission rejects Netanyahu party bid to extend voting Israel's Central Elections Committee on Tuesday rejected a request by Prime Minister Benjamin Netanyahu's party to extend voting beyond 10 pm local time. \"High nationwide turnout across all sectors of society reflects strong public engagement in the democratic process, and no need to extend voting hours was identified,\" a commission statement said.",
+   "score": 5
+  },
+  {
+   "id": "692835e18a7f",
+   "title": "Oman calls for Gulf, Iraq and Iran to unite under one security pact",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/oman-calls-gulf-iraq-and-iran-unite-under-one-security-pact",
+   "date": "2026-10-27T18:26:49Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "OMN"
+   ],
+   "desc": "Oman calls for Gulf, Iraq and Iran to unite under one security pact Submitted by MEE staff on Tue, 10/27/2026 - 16:59 Antagonism against Iran imposed by the US comes at 'a terrible cost' for the region, Oman's foreign minister says Omani Foreign Affairs Minister Badr al-Busaidi gives a thumbs up as he leaves his hotel to reach the Omani ambassador's residence for talks between the US and Iran in Geneva, on 26 February 2026 (Fabrice Coffrini/AFP) Off Omani Foreign Minister Badr al-Busaidi has called on the six Gulf countries, Saudi Arabia, Bahrain, Kuwait, Qatar, the UAE, and Oman, as well as I",
+   "score": 8
+  },
+  {
+   "id": "8888bf2aaf07",
+   "title": "Smotrich says ‘Arab turnout unprecedented’",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-says-arab-turnout-unprecedented",
+   "date": "2026-10-27T17:58:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Smotrich says ‘Arab turnout unprecedented’ Israel’s far-right Finance Minister Bezalel Smotrich has urged right-wing voters to cast their ballots, claiming that unprecedented turnout among Palestinian citizens of Israel could help bring a “dangerous left-wing government” to power. “Do not despair! It is still possible to win,” Smotrich said in a post on X. Palestinian politicians have accused right-wing figures of incitement against Palestinian citizens of Israel, who make up 20 percent of the country’s population.",
+   "score": 5
+  },
+  {
+   "id": "b0835e473d6f",
+   "title": "Ra’am says Israeli police seized ballot boxes in Negev",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raam-says-israeli-police-seized-ballot-boxes-negev",
+   "date": "2026-10-27T17:44:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Ra’am says Israeli police seized ballot boxes in Negev Israeli police have seized ballot boxes in the town of Arara in the Negev, Al Jazeera reported, citing Mansour Abbas’s Ra’am, also known as the United Arab List. The network also said police are preventing the voting process from continuing in the electoral area.",
+   "score": 5
+  },
+  {
+   "id": "e2007e4b3ac0",
+   "title": "Ra’am’s Abbas calls for sustained voting to ‘bring down’ Netanyahu",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raams-abbas-calls-sustained-voting-bring-down-netanyahu",
+   "date": "2026-10-27T17:09:13Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Ra’am’s Abbas calls for sustained voting to ‘bring down’ Netanyahu Netanyahu is using the political group as a “scarecrow” to mobilise right-wing voters, Mansour Abbas, the leader of Ra’am, or the United Arab List, said. Abbas wrote in a social media post that the United Arab List appeals to our people for their support and votes” and added that his party “will bring down Benjamin Netanyahu, Smotrich, and Ben Gvir in this election”.",
+   "score": 6
+  },
+  {
+   "id": "fb0f88c018c4",
+   "title": "Netanyahu warns of Arab voter surge in Israel's election in desperate bid to woo support",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-arab-voter-surge-israels-election-arab-leaders-call",
+   "date": "2026-10-27T16:43:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Netanyahu warns of Arab voter surge in Israel's election in desperate bid to woo support Israeli Prime Minister Benjamin Netanyahu and his far-right coalition partners made a last-ditch push on Tuesday to get their supporters to the polls, warning of a surging Arab voter turnout, a tactic Palestinian politicians denounced as racist and inflammatory. Cars flying Netanyahu's Likud party flags drove through Jerusalem blaring the Islamic call to prayer and urging supporters to cast their ballots because \"Arabs are voting\", witnesses said. \"If we don't wake up now, we'll find ourselves with a gover",
+   "score": 7
+  },
+  {
+   "id": "319300695a98",
+   "title": "Party of main Netanyahu challenger opposes bid to extend Israel voting hours",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/party-main-netanyahu-challenger-opposes-bid-extend-israel-voting-hours",
+   "date": "2026-10-27T16:29:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Party of main Netanyahu challenger opposes bid to extend Israel voting hours The party of Prime Minister Benjamin Netanyahu's main election challenger said it \"firmly opposes\" a call from the premier's party to extend voting hours on Tuesday, calling it a pretext for a future challenge to the poll's legitimacy. \"No exceptional incident has occurred that would justify granting this request, which is intended to lay the groundwork for allegations challenging the integrity of the election, continuing the lies Netanyahu has been spreading since this morning,\" ex-army chief Gadi Eisenkot's Yashar p",
+   "score": 5
+  },
+  {
+   "id": "d4f7e9b77ec2",
+   "title": "Who is Lana Nusseibeh, the UAE diplomat in the race to become next UN secretary-general?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/explainers/who-is-lana-nusseibeh-uae-diplomat-un-secretary-general",
+   "date": "2026-10-27T16:27:55Z",
+   "countries": [
+    "ARE",
+    "ISR",
+    "PSE",
+    "YEM"
+   ],
+   "desc": "Who is Lana Nusseibeh, the UAE diplomat in the race to become next UN secretary-general? Submitted by Daniel Tester on Tue, 10/27/2026 - 14:52 Critics have objected to how she has represented the UAE on Sudan, Israel-Gaza, Libya, Yemen and Somaliland among others UAE Minister of State at the Ministry of Foreign Affairs Lana Nusseibeh at the UN HQ in New York on 7 April 2026 (Reuters) On The Emirati diplomat and minister Lana Nusseibeh has emerged as a late contender in the contest for the next UN secretary-general. The UAE announced her last-minute candidacy earlier this month, amid a stalemat",
+   "score": 6
+  },
+  {
+   "id": "a801fce44339",
+   "title": "Israeli voter: 'A vote against fear, terror and inequality'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-voter-vote-against-fear-terror-and-inequality",
+   "date": "2026-10-27T16:12:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli voter: 'A vote against fear, terror and inequality' An Israeli voter has told Middle East Eye that current elections in Israel were existential. Fatima Hassan Bakri, a 77-year-old Palestinian citizen of Israel, said this was the first time she had \"felt the weight of the moment as I cast my ballot, because these elections are different from any other.\" \"This vote is a vote for survival and for our very existence. A vote for our children who emigrate because there are no jobs. A vote against fear, terror and inequality,\" she said. \"I call on every woman to come out and vote with her chi",
+   "score": 4
+  },
+  {
+   "id": "71c731d96cf3",
+   "title": "Likud requests extension to voting hours beyond 10pm",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/likud-requests-extension-voting-hours-beyond-10pm",
+   "date": "2026-10-27T16:07:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Likud requests extension to voting hours beyond 10pm Netanyahu's Likud party has submitted a request to extend the voting hours beyond 1opm. Times of Israel said that the ultra-Orthodox Shas party had also requested an extension. “The parties are trying to prevent a situation in which citizens waiting in line won’t be able to vote,\" they party said in a statement.",
+   "score": 5
+  },
+  {
+   "id": "f4ab56749a93",
+   "title": "Govt cuts petrol price by Rs3.19 per litre, ups high-speed diesel rate by Rs2.25",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040249/govt-cuts-petrol-price-by-rs319-per-litre-ups-high-speed-diesel-rate-by-rs225",
+   "date": "2026-10-27T18:36:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "2148570ec696",
+   "title": "Joint JI-govt committee to mull ways to expand fuel relief scheme",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040214/joint-ji-govt-committee-to-mull-ways-to-expand-fuel-relief-scheme",
+   "date": "2026-10-27T16:55:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The government and Jamaat-i-Islami (JI) on Tuesday decided to form a joint committee to recommend proposals for expanding the ongoing fuel relief scheme , while JI warned of marching to Islamabad next month if no relief “package” was announced by then. The decision was made during a high-level meeting between Prime Minister Shehbaz Sharif and JI chief Hafiz Naeemur Rehman at the PM House, according to a press release issued by the PM Office (PMO). The meeting was offered by PM Shehbaz last month when urging JI to postpone its Islamabad march, which it had accepted. JI has been demanding the ab",
+   "score": 4
+  },
+  {
+   "id": "ae266df1fc5f",
+   "title": "Justice Ayesha Malik challenges assumptions blaming women for 'inviting' rape",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040251/justice-ayesha-malik-challenges-assumptions-blaming-women-for-inviting-rape",
+   "date": "2026-10-27T18:37:50Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Supreme Court’s (SC) Justice Ayesha Malik on Tuesday challenged victim-blaming assumptions that suggested that women ‘invite’ rape and called for such attitudes to be re-examined. The judge was addressing participants at the launch of a bench book on the adjudication of rape cases for judges of gender-based violence (GBV) courts in Islamabad. The event was held in collaboration between the Ministry of Human Rights (MoHR), the Legal Aid Society (LAS) and the United Nations Population Fund (UNFPA). Delivering the keynote address at the event, Justice Malik expressed concern that sexua",
+   "score": 4
+  },
+  {
+   "id": "a40b842c6f33",
+   "title": "Govt to end slab system punishing consumers crossing 200-unit threshold",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-consumers-crossing-200-unit-threshold",
+   "date": "2026-10-27T17:37:21Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Power Minister Awais Leghari told the Senate on Tuesday that the government has decided to scrap the electricity slab system that punishes consumers for crossing the 200-unit threshold even by one unit, and to provide targeted subsidy only to those deserving. Under the current mechanism, consumers using up to 200 units per month fall under the “protected” category and avail a subsidy of around Rs13 per unit. However, any consumer exceeding the limit by even one unit has to pay up to Rs33 per unit and is then not allowed to avail the facility for six months. Speaking in the Upper Hou",
+   "score": 3
+  },
+  {
+   "id": "bec99aa92686",
+   "title": "In bid to boost exports, govt sets 120-day deadline for roadmap to expand shrimp farming",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040236/in-bid-to-boost-exports-govt-sets-120-day-deadline-for-roadmap-to-expand-shrimp-farming",
+   "date": "2026-10-27T16:01:10Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: A sub-committee constituted by the prime minister has set a 120-day deadline to prepare a roadmap to expand shrimp farming, improve value addition and boost exports. Maritime Affairs Minister Junaid Anwar Chaudhry on Tuesday chaired a meeting of the sub-committee on aquaculture and the shrimp value chain, according to a press release . The 120-day deadline was set as part of a broader 24-month implementation and review process. The meeting brought together provincial fisheries officials and relevant federal institutions to develop a “coordinated strategy” for transforming aquacultur",
+   "score": 2
+  },
+  {
+   "id": "ab00f9122488",
+   "title": "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/explosions-heard-over-riyadh-as-saudi-authorities-say-houthi-missiles-downed/article71633118.ece",
+   "date": "2026-10-27T17:42:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis accused government forces of killing two people in a strike at a gas station near the besieged Yemeni city of Taiz, where fighting has been intensifying between the two sides",
+   "score": 8,
+   "dup_of": "1b4246c80d8e"
+  },
+  {
+   "id": "486bcef73d9c",
+   "title": "Record turnout as Israeli voters deliver verdict on Netanyahu",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
+   "date": "2026-10-27T17:06:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis are casting their ballots in the shadow of October 7 and the multi-front regional wars that it sparked, with the trauma from the attack still fresh and questions over accountability and security central to the campaign",
+   "score": 8,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "8c859f2c93b0",
+   "title": "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece",
+   "date": "2026-10-27T16:17:01Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Jointg declaration calls for a two-state solution to Israel-Palestinan conflict; asserts the right of the Palestinian people to self-determination, freedom, and an independent, sovereign state",
+   "score": 6
+  },
+  {
+   "id": "64d6562dc56e",
+   "title": "روایت رئیس سابق موساد از جنگ روانی در ایران؛ چرا تصاویر عملیات مخفی منتشر شد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ck62y655ldrqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T16:36:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "سخنان رئیس پیشین موساد درباره انتشار عمدی تصاویر عملیات این سازمان در ایران، پرسش‌هایی درباره اهداف جنگ روانی اسرائیل، نقش آن در گسترش بی‌اعتمادی و پیامدهای احتمالی این راهبرد برای شهروندان مطرح کرده است.",
    "score": 6
   }
  ]
