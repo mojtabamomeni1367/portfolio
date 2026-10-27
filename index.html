@@ -74,9 +74,8 @@ select option{color:#12212E}
 :root[dir="rtl"] .lab,:root[dir="rtl"] .brand{letter-spacing:0;text-transform:none}
 :root[dir="rtl"] .tracking-tight{letter-spacing:0}
 :root[dir="rtl"] #heroPhotoImg{transform:scaleX(-1)}
-#globe canvas{outline:none}
+#globe{overflow:hidden}#globe canvas{outline:none}
 .glab{position:relative;width:8px;height:8px;pointer-events:none}.glab i{position:absolute;inset:0;border-radius:50%;background:#FFF1E2;box-shadow:0 0 4px 2px rgba(255,214,170,.95),0 0 12px 5px rgba(240,138,93,.7),0 0 26px 8px rgba(226,104,58,.35);animation:cap 2.8s ease-in-out infinite}.glab b{position:absolute;inset-inline-start:13px;top:50%;transform:translateY(-50%);font-size:11px;font-weight:500;color:#FFF3E6;white-space:nowrap;text-shadow:0 0 6px rgba(0,0,0,.95),0 1px 2px #000}@keyframes cap{50%{box-shadow:0 0 5px 3px rgba(255,214,170,1),0 0 16px 7px rgba(240,138,93,.8),0 0 34px 12px rgba(226,104,58,.4)}}@media (prefers-reduced-motion:reduce){.glab i{animation:none}}
-.gb{border-color:rgba(255,255,255,.25);background:rgba(8,20,31,.7);color:#EDE7DB}.gb[aria-pressed="true"]{border-color:var(--or2);color:var(--or2)}
 .gtip{font-size:13px;line-height:1.6;background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6);padding:10px 14px;color:#EDE7DB;min-width:180px}
 .sb{overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--or) transparent;overscroll-behavior:auto}
 .sb::-webkit-scrollbar{width:6px}.sb::-webkit-scrollbar-thumb{background:var(--or)}.sb::-webkit-scrollbar-track{background:transparent}
@@ -184,18 +183,46 @@ select option{color:#12212E}
 
 <!-- 2. RESEARCH + MAP (mockup 2, middle) -->
 <section id="research" class="navy relative">
-  <div class="max-w-5xl mx-auto px-3 lg:px-10 border-b" style="border-color:rgba(255,255,255,.1)">
-    <div id="fieldwork" class="relative py-8 lg:py-12">
+  <div id="analysis" class="max-w-7xl mx-auto px-6 lg:px-10 pt-16 md:pt-20 pb-12 border-b" style="border-color:rgba(255,255,255,.1)">
+    <p class="lab dm">Data &middot; Context &middot; Analysis</p>
+    <h2 class="disp text-4xl md:text-5xl mt-3">Daily Analysis</h2>
+    <p class="mt-3 opacity-80 max-w-xl">A new analysis every day on the Middle East and South Asia.</p>
+    <div class="mt-10 grid lg:grid-cols-12 gap-10 items-start">
+      <aside class="lg:col-span-4 min-w-0">
+        <div class="flex items-center gap-3 pb-3 border-b" style="border-color:rgba(255,255,255,.22)"><span class="w-2 h-2 rounded-full" style="background:var(--or)"></span><h3 class="disp text-2xl">Latest analyses</h3><button type="button" id="afClear" class="hidden ms-auto text-sm" style="color:var(--or2)">All topics</button></div>
+        <ul id="al" class="sb pe-2" style="max-height:34rem"></ul>
+      </aside>
+      <div id="fieldwork" class="lg:col-span-8 relative min-w-0">
       <div id="mapwrap" class="relative">
-        <div id="globe" class="relative w-full" style="height:clamp(380px,62vh,580px);direction:ltr" role="group" aria-label="3D globe of the Middle East and South Asia"><p id="globeMsg" class="absolute inset-0 flex items-center justify-center text-sm dm">Loading the globe…</p></div>
-        <div id="globeBtns" class="absolute top-3 start-3 z-10 flex gap-1 text-xs"><button type="button" data-t="night" class="gb px-3 py-1 border" aria-pressed="true">Night</button><button type="button" data-t="day" class="gb px-3 py-1 border" aria-pressed="false">Day</button></div>
-        <p class="absolute bottom-2 end-3 z-10 text-[10px] dm opacity-70">Imagery: NASA</p>
-        <svg id="map" viewBox="0 0 1000 621" aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden"></svg>
-        <div id="gl" class="hidden"></div>
-        <div id="tip" class="hidden absolute z-10 pointer-events-none p-4 w-56" style="background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6)"></div>
+          <div id="globe" class="relative w-full" style="height:clamp(380px,62vh,580px);direction:ltr" role="group" aria-label="3D globe of the Middle East and South Asia"><p id="globeMsg" class="absolute inset-0 flex items-center justify-center text-sm dm">Loading the globe…</p></div>
+          <p class="absolute bottom-2 end-3 z-10 text-[10px] dm opacity-70">Imagery: NASA</p>
+          <svg id="map" viewBox="0 0 1000 621" aria-hidden="true" focusable="false" style="position:absolute;width:0;height:0;overflow:hidden"></svg>
+          <div id="gl" class="hidden"></div>
+          <div id="tip" class="hidden absolute z-10 pointer-events-none p-4 w-56" style="background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6)"></div>
+        </div>
+        <p class="text-xs dm text-center mt-3">Hover a country and click to open its page.</p>
       </div>
-      <p class="text-xs dm text-center mt-3">Hover a country and click to open its page.</p>
     </div>
+    <div class="mt-14 grid lg:grid-cols-12 gap-10 items-start">
+      <div class="lg:col-span-8">
+        <p class="lab dm pb-3 border-b" style="border-color:rgba(255,255,255,.22)">Topics</p>
+        <ul id="atopics" class="grid sm:grid-cols-2 gap-x-8">
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="iran-policy" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">01</span><span class="text-sm leading-snug">Iran's Domestic Affairs &amp; Foreign Policy</span></button></li>
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="mena-sa" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">02</span><span class="text-sm leading-snug">Political Issues &amp; Developments in the Middle East &amp; South Asia</span></button></li>
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="political-islam" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">03</span><span class="text-sm leading-snug">Political Islam &amp; Islamist Movements</span></button></li>
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="extremism" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">04</span><span class="text-sm leading-snug">Extremism &amp; Radicalism</span></button></li>
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="migration" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">05</span><span class="text-sm leading-snug">Refugee &amp; Migration Studies</span></button></li>
+          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="security" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">06</span><span class="text-sm leading-snug">Regional Security &amp; Geopolitics</span></button></li>
+        </ul>
+      </div>
+      <div class="lg:col-span-4">
+        <h3 class="disp text-3xl leading-[1.15]">Researching People, Politics and Power</h3>
+        <div class="mt-5 w-12 h-0.5" style="background:var(--or)"></div>
+        <p class="mt-5 text-sm opacity-85">Evidence-based analysis on the Middle East and South Asia, combining academic research, field insights and multilingual sources.</p>
+        <div class="mt-7"><a href="#publications" class="btn btn-ol" style="border-color:var(--or)">View Research<i data-i="arrow" class="fw"></i></a>
+      </div>
+    </div>
+  </div>
   </div>
   <div class="relative overflow-hidden">
     <div id="mtBg" class="absolute inset-0"></div><div class="veil2 absolute inset-0"></div>
@@ -209,37 +236,6 @@ select option{color:#12212E}
   </div>
 </section>
 
-<!-- Daily analysis -->
-<section id="analysis" class="navy2">
-  <div class="max-w-7xl mx-auto px-6 lg:px-10 py-16 md:py-20">
-    <p class="lab dm">Data &middot; Context &middot; Analysis</p>
-    <h2 class="disp text-4xl md:text-5xl mt-3">Daily Analysis</h2>
-    <p class="mt-3 opacity-80 max-w-xl">A new analysis every day on the Middle East and South Asia.</p>
-    <div class="mt-10 grid lg:grid-cols-12 gap-10 items-start">
-      <aside class="lg:col-span-5">
-        <div class="flex items-center gap-3 pb-3 border-b" style="border-color:rgba(255,255,255,.22)"><span class="w-2 h-2 rounded-full" style="background:var(--or)"></span><h3 class="disp text-2xl">Latest analyses</h3><button type="button" id="afClear" class="hidden ms-auto text-sm" style="color:var(--or2)">All topics</button></div>
-        <ul id="al" class="sb pe-2" style="max-height:34rem"></ul>
-      </aside>
-      <div class="lg:col-span-4">
-        <p class="lab dm pb-3 border-b" style="border-color:rgba(255,255,255,.22)">Topics</p>
-        <ul id="atopics">
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="iran-policy" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">01</span><span class="text-sm leading-snug">Iran's Domestic Affairs &amp; Foreign Policy</span></button></li>
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="mena-sa" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">02</span><span class="text-sm leading-snug">Political Issues &amp; Developments in the Middle East &amp; South Asia</span></button></li>
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="political-islam" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">03</span><span class="text-sm leading-snug">Political Islam &amp; Islamist Movements</span></button></li>
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="extremism" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">04</span><span class="text-sm leading-snug">Extremism &amp; Radicalism</span></button></li>
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="migration" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">05</span><span class="text-sm leading-snug">Refugee &amp; Migration Studies</span></button></li>
-          <li><button type="button" class="atopic w-full flex gap-4 items-baseline py-4 px-1 border-b text-start" style="border-color:rgba(255,255,255,.1)" data-tp="security" aria-pressed="false"><span class="disp text-xl" style="color:var(--or)">06</span><span class="text-sm leading-snug">Regional Security &amp; Geopolitics</span></button></li>
-        </ul>
-      </div>
-      <div class="lg:col-span-3">
-        <h3 class="disp text-3xl leading-[1.15]">Researching People, Politics and Power</h3>
-        <div class="mt-5 w-12 h-0.5" style="background:var(--or)"></div>
-        <p class="mt-5 text-sm opacity-85">Evidence-based analysis on the Middle East and South Asia, combining academic research, field insights and multilingual sources.</p>
-        <div class="mt-7"><a href="#publications" class="btn btn-ol" style="border-color:var(--or)">View Research<i data-i="arrow" class="fw"></i></a></div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <!-- Media -->
 <section id="media" class="cream">
@@ -786,7 +782,6 @@ function relabelGlobe(){if(GLOBE)GLOBE.htmlElementsData(CAPS.slice())}
    box.addEventListener('pointerdown',()=>{ctl.autoRotate=false});
    addEventListener('resize',()=>g.width(W()).height(H()));
    const m=$('#globeMsg');if(m)m.remove();GLOBE=g;
-   document.querySelectorAll('#globeBtns .gb').forEach(b=>b.onclick=()=>{document.querySelectorAll('#globeBtns .gb').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));g.globeImageUrl('assets/globe/'+b.dataset.t+'.jpg')});
   }).catch(e=>fail(e))}
  function start(){if(started)return;started=true;const sc=document.createElement('script');sc.src='https://cdn.jsdelivr.net/npm/globe.gl@2.34.0/dist/globe.gl.min.js';sc.onload=init;sc.onerror=fail;document.head.appendChild(sc)}
  if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){io.disconnect();start()}},{rootMargin:'400px'});io.observe(box)}else start();
