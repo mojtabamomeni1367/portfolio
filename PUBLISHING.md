@@ -14,6 +14,8 @@ Instructions for the scheduled publishing agent. Follow them exactly.
    - **title**: the document title, or its first heading if the title is generic (e.g. "Untitled document").
    - **countries**: ISO codes, only from this list and only countries the text is substantially about:
      TUR SYR LBN ISR PSE JOR IRQ IRN KWT SAU BHR QAT ARE OMN YEM EGY AFG PAK IND NPL BGD LKA
+   - **topics**: one or two of these site topics that the analysis is mainly about:
+     `iran-policy` (Iran's domestic affairs & foreign policy), `mena-sa` (political issues & developments in the Middle East & South Asia), `political-islam` (political Islam & Islamist movements), `extremism` (extremism & radicalism), `migration` (refugee & migration studies), `security` (regional security & geopolitics)
    - **slug**: short English kebab-case from the topic, plus the year, e.g. `iran-saudi-detente-2026`. Must not already exist in `content/analyses/`.
    - **date**: today's date (YYYY-MM-DD).
 4. Write the source-language file exactly as the author wrote it (convert formatting to Markdown: headings `##`, bold, links, quotes, lists). Do not edit, shorten or "improve" the author's text.
@@ -30,6 +32,7 @@ Instructions for the scheduled publishing agent. Follow them exactly.
    title: <title in that language>
    date: <YYYY-MM-DD>
    countries: IRN, SAU
+   topics: iran-policy, security
    summary: <summary in that language>
    translated: true        (translations only)
    ---

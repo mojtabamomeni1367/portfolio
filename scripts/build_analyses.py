@@ -34,6 +34,7 @@ OUT_JSON = ROOT / "data" / "analyses.json"
 SITEMAP = ROOT / "sitemap.xml"
 SITE = "https://momenimojtaba.com"
 LANGS = ("en", "fa", "ar")
+TOPICS = ("iran-policy", "mena-sa", "political-islam", "extremism", "migration", "security")
 
 UI = {
     "en": {"back": "Back to site", "by": "Analysis by Mojtaba Momeni", "other": "Also available in"},
@@ -113,6 +114,10 @@ def parse(path):
         raise ValueError(f"{path.name}: date must look like 2026-10-22")
     meta["slug"] = re.sub(r"[^a-z0-9-]+", "-", meta["slug"].lower()).strip("-")
     meta["countries"] = [c.strip().upper() for c in re.split(r"[,\s\[\]]+", meta.get("countries", "")) if c.strip()]
+    meta["topics"] = [t.strip().lower() for t in re.split(r"[,\s\[\]]+", meta.get("topics", "")) if t.strip()]
+    bad = [t for t in meta["topics"] if t not in TOPICS]
+    if bad:
+        raise ValueError(f"{path.name}: unknown topic(s) {', '.join(bad)}; use {', '.join(TOPICS)}")
     meta["body_md"] = m.group(2).strip()
     meta["draft"] = meta.get("draft", "").lower() in ("true", "yes", "1")
     return meta
@@ -171,6 +176,7 @@ def main():
             "id": slug,
             "date": max(v["date"] for v in versions),
             "countries": countries,
+            "topics": sorted({t for v in versions for t in v["topics"]}, key=TOPICS.index),
             "versions": {v["lang"]: {"title": v["title"], "summary": v.get("summary", ""),
                                      "url": f"analysis/{slug}-{v['lang']}.html"} for v in versions},
         })

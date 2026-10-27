@@ -4,6 +4,7 @@ lang: fa
 title: عنوان تحلیل اینجا
 date: 2026-10-22
 countries: IRN, IRQ
+topics: iran-policy, security
 summary: یک یا دو جمله که خلاصهٔ تحلیل را می‌گوید.
 draft: true
 ---
