@@ -1,7 +1,220 @@
 {
- "updated": "2026-10-27T03:53:34Z",
- "count": 141,
+ "updated": "2026-10-27T07:05:40Z",
+ "count": 148,
  "items": [
+  {
+   "id": "c8ef30e34d74",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-iran-started-war-us",
+   "date": "2026-10-27T06:30:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump claims Iran 'started' war with US",
+   "title_en": "Trump claims Iran 'started' war with US",
+   "summary_en": "US President Donald Trump claimed at a rally in Mississippi that Iran started the war with the United States and described a recent ceasefire between the two nations as a \"waste of time\".",
+   "body_en": [
+    "Speaking in Corinth, Mississippi, Trump rejected the idea that Washington initiated the conflict with Tehran. He also expressed dissatisfaction with a previous ceasefire agreement, stating he never favoured it and deemed it ineffective.",
+    "Additionally, Trump alleged that Iran possesses missile capabilities capable of striking targets across Europe and major American cities, specifically mentioning Los Angeles and San Diego."
+   ],
+   "title_fa": "ترامپ مدعی شد ایران جنگ با آمریکا را «آغاز کرد»",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در یک تجمع در می‌سی‌سی‌پی مدعی شد که ایران جنگ با ایالات متحده را آغاز کرده و آتش‌بس اخیر میان دو کشور را «تلف کردن وقت» خواند.",
+   "body_fa": [
+    "ترامپ در سخنرانی خود در کورینثِ می‌سی‌سی‌پی، این موضوع را که واشنگتن آغازگر درگیری با تهران بوده رد کرد. او همچنین با ابراز نارضایتی از توافق آتش‌بس قبلی گفت که هرگز تمایل زیادی به آن نداشته و آن را بی‌افایده می‌داند.",
+    "علاوه بر این، ترامپ ادعا کرد که ایران دارای توانمندی‌های موشکی است که به آن اجازه می‌دهد اهدافی را در اروپا و شهرهای بزرگ آمریکا، به‌ویژه لوس‌آنجلس و سن‌دیگو، هدف قرار دهد."
+   ],
+   "title_ar": "ترامب يزعم أن إيران \"بدأت\" الحرب مع الولايات المتحدة",
+   "summary_ar": "زعم الرئيس الأمريكي دونالد ترامب في تجمع انتخابي في ميسيسيبي أن إيران هي من بدأت الحرب مع الولايات المتحدة، ووصف التهدئة الأخيرة بين البلدين بأنها \"هدر للوقت\".",
+   "body_ar": [
+    "وفي كلمة ألقاها في كورينث بميسيسيبي، نفى ترامب أن تكون واشنطن هي من بدأ النزاع مع تهران. كما أعرب عن عدم رضاه عن اتفاق التهدئة السابق، مشيراً إلى أنه لم يكن يحبذه أبداً واعتبره غير فعال.",
+    "بالإضافة إلى ذلك، ادعى ترامب أن إيران تمتلك قدرات صاروخية تمكنها من ضرب أهداف في أوروبا ومدن أمريكية رئيسية، ممثلاً بمدينتي لوس أنجلوس وسان دييغو."
+   ]
+  },
+  {
+   "id": "98ebb6ca13ef",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+   "date": "2026-10-27T06:28:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+   "title_en": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+   "summary_en": "As Israel held elections, Israeli forces imposed a strict lockdown and forced displacement operations in Hebron following a deadly checkpoint shooting, alongside widespread settler attacks across the West Bank.",
+   "body_en": [
+    "Following a Friday attack at a checkpoint that killed two Israeli soldiers, Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz ordered the isolation of Hebron. According to local officials and humanitarian groups, Israeli forces searched over 500 homes, detained scores of people, and forcibly displaced over 3,100 Palestinians while demolishing several buildings and businesses.",
+    "Concurrently, illegal settler attacks spiked during the olive harvest, with hundreds of incidents recorded. Human rights group B'Tselem warned that the military measures in Hebron amount to collective punishment that could constitute war crimes."
+   ],
+   "title_fa": "گزارش هفتگی فلسطین: کرانه باختری در محاصره هم‌زمان با برگزاری انتخابات در اسرائیل",
+   "summary_fa": "هم‌زمان با برگزاری انتخابات در اسرائیل، نیروهای اسرائیلی در پی تیراندازی مرگبار در یک پاسگاه بازرسی، محاصره شدید و عملیات آوارگی اجباری را در الخلیل اجرا کرده و حملات شهرک‌نشینان در سراسر کرانه باختری شدت یافته است.",
+   "body_fa": [
+    "در پی حمله روز جمعه به یک پاسگاه بازرسی که به کشته شدن دو سرباز اسرائیلی انجامید، بنیامین نتانیاهو و یسرائيل کاتس دستور قرنطینه و محاصره الخلیل را صادر کردند. به گفته مقامات محلی و نهادهای حقوق بشری، نیروهای اسرائیلی بیش از ۵۰۰ خانه را بازرسی، ده‌ها نفر را بازداشت و بیش از ۳۱۰۰ فلسطینی را به‌اجبار آواره کرده و چندین ساختمان و واحد تجاری را تخریب نمودند.",
+    "هم‌زمان، حملات شهرک‌نشینان در فصل برداشت زیتون شدت یافته و صدها مورد حمله به ثبت رسیده است. گروه حقوق بشری بتسیلم هشدار داد که اقدامات نظامی در الخلیل مصداق مجازات دسته‌جمعی است و می‌تواند جنایت جنگی محسوب شود."
+   ],
+   "title_ar": "حصاد فلسطين الأسبوعي: الضفة الغربية تحت الحصار مع توجه الإسرائيليين إلى صناديق الاقتراع",
+   "summary_ar": "مع توجه الإسرائيليين للاقتراع، فرضت القوات الإسرائيلية إغلاقاً مشدداً وعمليات تهجير قسري في الخليل عقب حادثة إطلاق نار مميتة عند حاجز عسكري، بالتزامن مع تصاعد هجمات المستوطنين في الضفة الغربية.",
+   "body_ar": [
+    "عقب هجوم استهدف حاجزا عسكرياً يوم الجمعة أسفر عن مقتل جنديين إسرائيليين، أمر بنيامين نتنياهو ووزير الدفاع إسرائيل كاتس بعزل الخليل. ووفقاً لمسؤولين محليين ومنظمات حقوقية، فتشت القوات الإسرائيلية أكثر من 500 منزل، واعتقلت العشرات، وهجرت قسراً أكثر من 3100 فلسطيني مع هدم عدة مبانٍ ومنشآت تجارية.",
+    "بالتزامن مع ذلك، تصاعدت هجمات المستوطنين خلال موسم قطاف الزيتون حيث تم تسجيل مئات الاعتداءات. وحذرت منظمة \"بتسيلم\" الحقوقية من أن الإجراءات العسكرية في الخليل ترقى إلى مستوى العقاب الجماعي وقد تشكل جرائم حرب."
+   ]
+  },
+  {
+   "id": "d35a9f2a1005",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c84g1p27v55xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T06:25:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
+   "title_en": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
+   "summary_en": "Reports and images of firearm training and military-security initiatives in Iranian schools have sparked renewed concern over the growing militarisation of the country's education system.",
+   "body_en": [
+    "Programs such as the \"Nojavan Mobaraz\" (Combatant Teenager) headquarters and the \"No+Meydan\" league, operated with the Student Basij Organisation, involve training students in cyber operations, gathering local intelligence, and handling firearms. While authorities frame these activities as defensive education and revolutionary training, critics argue they represent an increasing presence of security institutions in schools.",
+    "Concerns were further heightened by rumors of schools requiring identification tags for students similar to military dog tags. Although the Ministry of Education strongly denied issuing any such military tag directives, parents in several cities reported that requests or initiatives for identification tags had taken place."
+   ],
+   "title_fa": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
+   "summary_fa": "گزارش‌ها و تصاویر منتشرشده از آموزش کار با سلاح گرم و اجرای طرح‌های نظامی-امنیتی در مدارس ایران، بار دیگر نگرانی‌ها را درباره گسترش نظامی‌سازی فضای آموزشی کشور برانگیخته است.",
+   "body_fa": [
+    "طرح‌هایی مانند قرارگاه «نوجوان مبارز» و لیگ «نو+میدان» که با همکاری سازمان بسیج دانش‌آموزی اجرا می‌شوند، شامل آموزش اقدام‌های سایبری، دیده‌بانی محلات و کار با سلاح گرم به دانش‌آموزان است. در حالی که مسئولان این برنامه‌ها را بخشی از آموزش دفاعی و تربیت نسل انقلابی می‌دانند، منتقدان آن را نشانه گسترش حضور نهادهای نظامی در مدارس می‌دانند.",
+    "نگرانی‌ها با انتشار گزارش‌هایی درباره درخواست «پلاک شناسایی» برای دانش‌آموزان افزایش یافت. اگرچه وزارت آموزش و پرورش صدور پلاک جنگی را قویاً تکذیب کرد، اما والدینی در چند شهر مدعی شدند که چنین درخواست‌هایی از سوی برخی مدارس مطرح شده است."
+   ],
+   "title_ar": "من \"الفتى المحارب\" إلى \"نو+ميدان\"؛ ماذا تفعل القوات العسكرية في المدارس الإيرانية؟",
+   "summary_ar": "أثارت التقارير والصور المنشورة لتدريبات على الأسلحة النارية والمبادرات العسكرية والأمنية في المدارس الإيرانية مخاوف متجددة بشأن تصاعد عسكرة النظام التعليمي في البلاد.",
+   "body_ar": [
+    "تتضمن برامج مثل مقر \"الفتى المحارب\" ودوري \"نو+ميدان\"، التي تُنفذ بالتعاون مع منظمة التعبئة الطلابية (البسيج)، تدريب الطلاب على العمليات السيبرانية، واستطلاعات الأحياء، واستخدام الأسلحة النارية. وفي حين تعتبر السلطات هذه النشاطات جزءاً من التربية الدفاعية والتنشئة الثورية، يرى الناقدون أنها تعكس تزايد حضور المؤسسات الأمنية في المدارس.",
+    "كما زادت المخاوف عقب تقارير عن مطالبة بعض المدارس بتزويد الطلاب بـ \"بطاقات/قلائد تعريفية\" شبيهة بالقلائد العسكرية. ورغم نفي وزارة التربية والتعليم الصارم لصدور أي توجيهات بخصوص القلائد العسكرية، أكد أولياء أمور في عدة مدن وجود مطالبات بهذا الخصوص."
+   ]
+  },
+  {
+   "id": "3635adfa8ec8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+   "date": "2026-10-27T06:15:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+   "title_en": "Palestinian citizens of Israel can vote, but cannot expect change",
+   "summary_en": "Palestinian citizens of Israel face growing threats to their rights, expanding settlements, and rising state-backed militarisation ahead of the general election, leaving many questioning the impact of their vote.",
+   "body_en": [
+    "Despite holding Israeli citizenship and voting rights, Palestinian citizens experience systemic discrimination, land confiscation, and escalating violence from organised crime and expanding nationalist settlements. Recent policy proposals aim to expand Jewish settlements in the Naqab and Galilee while strengthening civilian security squads and expanding access to personal firearms.",
+    "While political parties like Ra'am have advocated for participating in parliamentary politics to counter the far right, past experiences in coalition governments failed to yield fundamental improvements for Palestinian communities."
+   ],
+   "title_fa": "شهروندان فلسطینی اسرائیل می‌توانند رأی دهند، اما نباید انتظار تغییر داشته باشند",
+   "summary_fa": "شهروندان فلسطینی اسرائیل در آستانه انتخابات عمومی با تهدیدهای فزاینده علیه حقوق خود، گسترش شهرک‌سازی و افزایش نظامی‌سازی مواجه هستند، موضوعی که باعث شده بسیاری در تأثیرگذار بودن رأی خود تردید کنند.",
+   "body_fa": [
+    "با وجود داشتن شهروندی و حق رأی در اسرائیل، شهروندان فلسطینی با تبعیض سیستماتیک، مصادره زمین و افزایش خشونت از سوی جرم سازمان‌یافته و شهرک‌های رو به گسترش مواجه هستند. طرح‌های اخیر پیشنهادی شامل افزودن جمعیت شهرک‌نشین در نقب و جلیل و همچنین تقویت گروه‌های مسلح غیرنظامی است.",
+    "اگرچه احزابی مانند راعم (فهرست متحد عربی) بر مشارکت پارلمانی برای مقابله با راست افراطی تأکید دارند، تجربیات گذشته در دولت‌های ائتلافی نتوانسته تغییرات بنیادی در شرایط زندگی جامعه فلسطینی ایجاد کند."
+   ],
+   "title_ar": "المواطنون الفلسطينيون في إسرائيل يمكنهم التصويت، لكنهم لا يتوقعون التغيير",
+   "summary_ar": "يواجه المواطنون الفلسطينيون في إسرائيل تهديدات متزايدة لحقوقهم، وتوسعاً استيطانياً، وعسكرة متصاعدة قبل الانتخابات العامة، مما يدفهم للتساؤل عن مدى جدوى مشاركتهم الانتخابية.",
+   "body_ar": [
+    "على الرغم من حصولهم على المواطنة الإسرائيلية وحق التصويت، يعاني المواطنون الفلسطينيون من تمييز ممنهج ومصادرة للأراضي وتصاعد العنف. وتتضمن مقترحات السياسات الأخيرة توسيع المستوطنات في النقب والجليل مع تعزيز مجموعات الحراسة المدنية وتسهيل الحصول على الأسلحة الفردية.",
+    "ورغم أن أحزاباً مثل القائمة العربية الموحدة (رعمت) دعت للمشاركة البرلمانية لمواجهة اليمين المتطرف، إلا أن التجارب الائتلافية السابقة لم تحقق تحسينات جوهرية في ظروف المجتمع الفلسطيني."
+   ]
+  },
+  {
+   "id": "c71703196fd3",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+   "date": "2026-10-27T06:12:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+   "title_en": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+   "summary_en": "Palestinian residents of Majd al-Krum in northern Israel successfully protested to dismantle a newly established Israeli settler outpost on village land. The incident has raised fears among Palestinian citizens of Israel that far-right politicians aim to expand settlement practices and dispossession into the Galilee.",
+   "body_en": [
+    "In September, Israeli settlers set up an outpost on land above Majd al-Krum, claiming to hold a grazing permit from the Jewish National Fund (JNF). Local Palestinian residents responded with daily peaceful demonstrations alongside legal efforts, leading the JNF to order the removal of the settler tents shortly after.",
+    "Villagers view the outpost attempt as a test run by Israeli Finance Minister Bezalel Smotrich, who has campaigned on a promise to 'Judaise' the Galilee. Residents worry that far-right figures seek to incite chaos to justify expanding West Bank-style dispossession to Palestinian citizens of Israel."
+   ],
+   "title_fa": "شهروندان فلسطینی اسرائیل نگرانند که در صورت پیروزی راست‌گرایان افراطی هدف بعدی باشند",
+   "summary_fa": "ساکنان فلسطینی مجدالکروم در شمال اسرائیل با برپایی اعتراضات موفق شدند یک پاسگاه تازه تاسیس شهرک‌نشینان اسرائیلی را در زمین‌های این روستا برچینند. این رویداد نگرانی‌هایی را در میان شهروندان فلسطینی اسرائیل برانگیخته است که سیاستمداران راست‌گرای افراطی قصد دارند اقدامات شهرک‌سازی و سلب مالکیت را به منطقه جلیل گسترش دهند.",
+   "body_fa": [
+    "در ماه سپتامبر، شهرک‌نشینان اسرائیلی با ادعای داشتن مجوز چرای دواب از صندوق ملی یهود، پاسگاهی را بر فراز زمین‌های مجدالکروم برپا کردند. ساکنان فلسطینی محل با تظاهرات مسالمت‌آمیز روزانه و پیگیری‌های حقوقی واکنش نشان دادند که در نهایت منجر به صدور دستور جمع‌آوری چادرهای شهرک‌نشینان توسط صندوق ملی یهود شد.",
+    "روستاییان برپایی این پاسگاه را آزمایشی از سوی بتسلئیل اسموتریچ، وزیر دارایی اسرائیل می‌دانند که وعده «یهودی‌سازی» جلیل را در کارزار تبلیغاتی خود مطرح کرده است. ساکنان نگرانند که چهره‌های راست‌گرای افراطی به دنبال ایجاد آشوب برای توجیه گسترش سلب مالکیت به سبک کرانه باختری علیه شهروندان فلسطینی اسرائیل باشند."
+   ],
+   "title_ar": "المواطنون الفلسطينيون في إسرائيل يخشون أن يكونوا الهدف التالي إذا فاز اليمين المتطرف",
+   "summary_ar": "نجح السكان الفلسطينيون في قرية مجد الكروم بشمال إسرائيل في الاحتجاج لتفكيك بؤرة استيطانية إسرائيلية أُقيمت مؤخراً على أراضي القرية. وقد أثار هذا الحادث مخاوف بين المواطنين الفلسطينيين في إسرائيل من أن السياسيين من اليمين المتطرف يهدفون إلى توسيع الاستيطان ومصادرة الأراضي في الجليل.",
+   "body_ar": [
+    "في أيلول/سبتمبر، أقام مستوطنون إسرائيليون بؤرة استيطانية على أراضٍ مطلة على قرية مجد الكروم، بدعوى الحصول على تصريح رعي من الصندوق القومي اليهودي. ورداً على ذلك، نظم السكان الفلسطينيون المحليون مظاهرات سلمية يومية إلى جانب المساعي القانونية، مما دفع الصندوق القومي اليهودي لإصدار أمر بإزالة خيام المستوطنين بعد ذلك بوقت قصير.",
+    "ويرى أهالي القرية أن محاولة إقامة البؤرة الاستيطانية كانت تجربة اختبارية من قبل وزير المالية الإسرائيلي بتسلئيل سموتريتش، الذي ينادي بـ \"تهويد\" الجليل. ويخشى السكان أن يسعى رموز اليمين المتطرف إلى إثارة الفوضى لتبرير توسيع سياسات مصادرة الأراضي على نمط الضفة الغربية لتشمل المواطنين الفلسطينيين في إسرائيل."
+   ]
+  },
+  {
+   "id": "dc6b819a0dfa",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss",
+   "date": "2026-10-27T05:47:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
+   "title_en": "Could US midterms reshape Pakistan’s relationship with Washington?",
+   "summary_en": "Following a period of strained relations, Pakistan has developed a close partnership with US President Donald Trump during his second term, notably through diplomacy around regional conflicts. As the US midterms approach, Islamabad favors maintaining the current administration's alignment.",
+   "body_en": [
+    "Relations between Washington and Islamabad improved after Pakistan helped arrest a key suspect in the Kabul airport bombing and engaged in mediation following a May conflict with India. Trump subsequently reduced tariffs on Pakistani goods and welcomed top Pakistani officials, including Army Chief Asim Munir, to the White House.",
+    "Pakistan also brokered direct talks and a temporary ceasefire between the US and Iran in April, hosting discussions that led to a draft memorandum of understanding. However, analysts note that while Islamabad's geopolitical profile has risen, long-term stability in its US ties remains linked to regional developments and political outcomes in Washington."
+   ],
+   "title_fa": "آیا انتخابات میان‌دوره‌ای آمریکا می‌تواند روابط پاکستان با واشنگتن را بازسازی کند؟",
+   "summary_fa": "پس از دوره‌ای از روابط تیره‌وتار، پاکستان در طول دوره دوم ریاست‌جمهوری دونالد ترامپ، به ویژه از طریق دیپلماسی در قبال مناقشات منطقه‌ای، مشارکت نزدیکی با او برقرار کرده است. با نزدیک شدن به انتخابات میان‌دوره‌ای آمریکا، اسلام‌آباد خواهان حفظ همسویی فعلی با واشنگتن است.",
+   "body_fa": [
+    "روابط واشنگتن و اسلام‌آباد پس از همکاری پاکستان در بازداشت متهم اصلی بمب‌گذاری فرودگاه کابل و میانجی‌گری پس از درگیری ماه مه با هند بهبود یافت. ترامپ متعاقباً تعرفه کالاهای پاکستانی را کاهش داد و از مقامات ارشد پاکستان از جمله عاصم منیر، فرمانده ارتش، در کاخ سفید استقبال کرد.",
+    "پاکستان همچنین در ماه آوریل میانجی‌گری گفتگوهای مستقیم و آتش‌بس موقت میان آمریکا و ایران را بر عهده داشت و میزبان مذاکراتی بود که به پیش‌نویس یک تفاهم‌نامه انجامید. با این حال، تحلیل‌گران خاطرنشان می‌کنند که اگرچه جایگاه ژئوپلیتیک اسلام‌آباد ارتقا یافته، استقرار بلندمدت در روابط آن با آمریکا همچنان به تحولات منطقه‌ای و نتایج سیاسی در واشنگتن وابسته است."
+   ],
+   "title_ar": "هل يمكن لانتخابات منتصف الولاية الأمريكية أن تعيد تشكيل علاقات پاکستان مع واشنطن؟",
+   "summary_ar": "بعد فترة من العلاقات المتوترة، طوّرت پاکستان شراكة وثيقة مع الرئيس الأمريكي دونالد ترامب خلال ولايته الثانية، لا سيما من خلال الدبلوماسية المتعلقة بالنزاعات الإقليمية. ومع اقتراب انتخابات منتصف الولاية الأمريكية، تفضل إسلام آباد الحفاظ على التوافق الحالي مع واشنطن.",
+   "body_ar": [
+    "تحسنت العلاقات بين واشنطن وإسلام آباد بعد أن ساعدت پاکستان في إلقاء القبض على مشتبه به رئيسي في تفجير مطار كابول وشاركت في الوساطة عقب النزاع الذي اندلع في أيار/مايو مع الهند. وعقب ذلك، خفض ترامب الرسوم الجمركية على البضائع الباكستانية واستقبل كبار المسؤولين الباكستانيين، بمن فيهم قائد الجيش عاصم منير، في البيت الأبيض.",
+    "كما توسطت پاکستان في إجراء محادثات مباشرة ووقف إطلاق نار مؤقت بين الولايات المتحدة وإيران في نيسان/أبريل، واستضافت مناقشات أدت إلى مسودة مذكرة تفاهم. ومع ذلك، يشير المحللون إلى أنه على الرغم من ارتفاع المكانة الجيوسياسية لإسلام آباد، فإن الاستقرار طويل الأمد في علاقاتها مع الولايات المتحدة يظل مرتبطاً بالتطورات الإقليمية والنتائج السياسية في واشنطن."
+   ]
+  },
+  {
+   "id": "d62935156b22",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c317kxrq5kr5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T05:22:00Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 5,
+   "title": "«ما برادر کوچک نیستیم»؛ الهام علی‌اف، متحد اردوغان یا ادامه‌دهنده سنت آتاتورک؟",
+   "title_en": "\"We are not a little brother\": Ilham Aliyev, Erdogan's ally or successor to Atatürk's tradition?",
+   "summary_en": "The implementation of new school dress codes in Azerbaijan has triggered criticism from political figures in Turkey over religious freedoms, sparking a dispute regarding Ankara's influence. Azerbaijani officials and pro-government commentators have firmly rejected the backlash, emphasizing the country's national sovereignty and commitment to secularism.",
+   "body_en": [
+    "Following the introduction of updated uniform guidelines emphasizing secular education in Azerbaijan, reports emerged of restrictions on hijab-wearing students and teachers. This drew sharp reaction from figures close to Turkish President Recep Tayyip Erdogan, prompting Baku to blacklist dozens of Turkish critics and accuse them of meddling in domestic affairs.",
+    "Pro-government commentators in Azerbaijan have strongly rejected any submissive role toward Turkey, portraying President Ilham Aliyev as a leader defending national sovereignty. Some political figures have even compared Aliyev's firm stance on secularism to the principles of Mustafa Kemal Atatürk."
+   ],
+   "title_fa": "«ما برادر کوچک نیستیم»؛ الهام علی‌اف، متحد اردوغان یا ادامه‌دهنده سنت آتاتورک؟",
+   "summary_fa": "اجرای مقررات جدید پوشش در مدارس جمهوری آذربایجان و واکنش‌های تند برخی سیاستمداران و رسانه‌های ترکیه، مناقشه‌ای را بر سر مداخله در امور داخلی باکو و حفظ استقلال و سکولاریسم این کشور ایجاد کرده است. مسئولان و رسانه‌های طرفدار دولت در باکو با تاکید بر حاکمیت ملی، بر موضع سکولار خود در برابر فشارهای خارجی پافشاری می‌کنند.",
+   "body_fa": [
+    "پس از اجرایی شدن قوانین جدید لباس فرم با تاکید بر آموزش سکولار در جمهوری آذربایجان، گزارش‌هایی مبنی بر اعمال محدودیت برای دانش‌آموزان و معلمان محجبه منتشر شد. این موضوع واکنش شدید چهره‌های نزدیک به رجب طیب اردوغان را برانگیخت و باکو نیز ده‌ها تن از این منتقدان را در فهرست سیاه قرار داد و آنان را به مداخله در امور داخلی متهم کرد.",
+    "تحلیل‌گران و رسانه‌های طرفدار دولت در جمهوری آذربایجان با رد هرگونه نقش تابع در برابر ترکیه، الهام علی‌اف را رهبری تصویر می‌کنند که از حاکمیت ملی دفاع می‌کند. برخی چهره‌های سیاسی حتی موضع قاطع او را در قبال سکولاریسم با اصول مصطفی کمال آتاتورک مقایسه کرده‌اند."
+   ],
+   "title_ar": "\"لسنا أخاً أصغر\"؛ إلهام علييف، حليف أردوغان أم امتداد لنهج أتاتورك؟",
+   "summary_ar": "أثار تطبيق قواعد جديدة للزي المدرسي في أذربيجان انتقادات من شخصيات سياسية في تركيا بشأن الحريات الدينية، مما أدى إلى بروز خلاف حول مدى نفوذ أنقرة. وقد رفض المسؤولون والمعلقون الموالون للحكومة في باكو هذه الانتقادات شديدة اللهجة، مؤكدين على سيادة البلاد الوطنية والتزامها بالعلمانية.",
+   "body_ar": [
+    "عقب تطبيق قواعد جديدة للزي المدرسي تؤكد على علمانية التعليم في أذربيجان، ظهرت تقارير عن فرض قيود على الطالبات والمعلمات المحجبات. وأثار ذلك ردود فعل حادة من شخصيات مقربة من الرئيس التركي رجب طيب أردوغان، مما دفع باكو إلى إدراج عشرات الناقدين الأتراك في القائمة السوداء واتهامهم بالتدخل في الشؤون الداخلية.",
+    "ورفض المعلقون الموالون للحكومة في أذربيجان بشدة أي دور تابع لتركيا، صوروا الرئيس إلهام علييف كقائد يدافع عن السيادة الوطنية. وذهب بعض الشخصيات السياسية إلى حد مقارنة موقفه الحاسم بشأن العلمانية بمبادئ مصطفى كمال أتاتورك."
+   ]
+  },
   {
    "id": "b9b2cad45d3b",
    "lang": "en",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T03:53:34Z",
+ "updated": "2026-10-27T07:05:40Z",
  "items": [
   {
    "id": "d33d24266c27",
@@ -2686,6 +2686,410 @@
    "desc": "مدير الصحة في درعا يقول إن \"عدد الضحايا جراء تلك الغارات بلغ 7 ‌‌‏‌‏أشخاص، هم 3 ‏أطفال وامرأة و3 رجال بينهم مسن، إضافة ‏إلى 3 إصابات ‏هم رجلان ‏وطفل\".‏",
    "score": 8,
    "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "12864f7f071f",
+   "title": "Israel heads to polls for pivotal election defined by security and democracy",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T05:45:08Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+   "score": 9,
+   "dup_of": "66dbcf0ed3c1"
+  },
+  {
+   "id": "12bda8609c19",
+   "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T02:40:17Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+   "score": 8,
+   "dup_of": "25cfbc19dbf6"
+  },
+  {
+   "id": "33a9d9112119",
+   "title": "India's largest share sale could end cheap mobile internet for millions",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw78pe7vlej5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T00:00:30Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Jio's IPO promises a windfall for investors, but could signal the end of cheap mobile data for millions.",
+   "score": 3
+  },
+  {
+   "id": "98ebb6ca13ef",
+   "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+   "date": "2026-10-27T06:28:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
+   "score": 7
+  },
+  {
+   "id": "3635adfa8ec8",
+   "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+   "date": "2026-10-27T06:15:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.",
+   "score": 6
+  },
+  {
+   "id": "c71703196fd3",
+   "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+   "date": "2026-10-27T06:12:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Majd al-Krum's protests have forced settlers to withdraw, but fears of further provocations loom after elections.",
+   "score": 6
+  },
+  {
+   "id": "dc6b819a0dfa",
+   "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss",
+   "date": "2026-10-27T05:47:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan has gained diplomatic visibility under Trump, but analysts question how much the relationship has delivered.",
+   "score": 5
+  },
+  {
+   "id": "f6e344455100",
+   "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+   "date": "2026-10-27T05:14:13Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
+   "score": 2
+  },
+  {
+   "id": "b0a7ee6d19b0",
+   "title": "Saudi-led coalition says it downed Houthi missiles and drones",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss",
+   "date": "2026-10-27T04:54:26Z",
+   "countries": [
+    "IRN",
+    "PAK",
+    "SAU",
+    "TUR",
+    "YEM"
+   ],
+   "desc": "The attacks come as top officials from Saudi Arabia, Turkiye, Pakistan and Iran met in Tehran to de-escalate conflict.",
+   "score": 8,
+   "dup_of": "1b4246c80d8e"
+  },
+  {
+   "id": "3452e2256b73",
+   "title": "Israel heads to the polls as shift to the right dominates critical election",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+   "date": "2026-10-27T04:44:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu seeks to extend rule at helm of far right alliance facing off against predominantly right-wing bloc.",
+   "score": 9,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "b1cd2e4d1320",
+   "title": "Israel election 2026 live: Polls open as Netanyahu faces tough test",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+   "date": "2026-10-27T04:30:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Millions to cast ballots in election widely billed as the most consequential in Israel's history.",
+   "score": 4,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "c39d9268163d",
+   "title": "Israel election live: polls open in most consequential vote in country’s history",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "date": "2026-10-27T06:53:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad. It’s unclear what effect these voters might have, but many liberal Israelis who don’t supp",
+   "score": 4,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "85242488b3aa",
+   "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+   "date": "2026-10-27T04:12:41Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israelis are voting Tuesday in the first general elections since the October 7, 2023, Hamas attack with Prime Minister Benjamin Netanyahu facing a fight for political survival. The vote follows three years of regional wars, with Netanyahu running neck and neck with centrist rival Gadi Eisenkot.",
+   "score": 9,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "5fbbcebf3aee",
+   "title": "UN chief warns of a growing threat of ethnic cleansing in West Bank",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-warns-growing-threat-ethnic-cleansing-west-bank",
+   "date": "2026-10-27T06:48:14Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UN chief warns of a growing threat of ethnic cleansing in West Bank United Nations secretary-general Antonio Guterres said on Monday that he is \"deeply alarmed\" over Israeli settler expansion and ongoing violence against Palestinians in the occupied West Bank. He warned about the risk of ethnic cleansing, saying \"We are seeing an increasingly coercive environment with the spectre of ethnic cleansing looming ever larger.\" United Nations secretary-general Antonio Guterres said on Monday that he is “deeply alarmed” over Israeli settler expansion and ongoing violence against Palestinians in the oc",
+   "score": 8,
+   "dup_of": "34fc65e85cd0"
+  },
+  {
+   "id": "2f14319803c6",
+   "title": "Polls open in Israel",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/polls-open-israel",
+   "date": "2026-10-27T06:37:10Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Polls open in Israel Most polling stations in Israel have opened as of 7am local time (5am GMT), in the first general election held since 7 October, 2023. Around 7.3 million people are eligible to vote, with most polling stations expected to be closed at 10pm ( 8pm GMT).",
+   "score": 8,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "c8ef30e34d74",
+   "title": "Trump claims Iran 'started' war with US",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-iran-started-war-us",
+   "date": "2026-10-27T06:30:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump claims Iran 'started' war with US US President Donald Trump claimed that Iran was responsible for starting the conflict and called a ceasefire between the two a \"waste of time\". \"We didn’t start the war with Iran. Iran started the war with us,\" he said during a rally in Corinth, Mississippi. When talking about the ceasefire between Washingtom and Tehran, Trump said: \"We did a little ce'asefire, which I never liked very much,” he said. “We wanna be nice, but it was just a waste of time as far as I’m concerned.\" The American president also claimed that Iran has missile capabilities that al",
+   "score": 8
+  },
+  {
+   "id": "d5b68066b1a7",
+   "title": "Iran says meeting with Mecca pact states will mark beginning of 'real transformation'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-meeting-mecca-pact-states-will-mark-beginning-real",
+   "date": "2026-10-27T03:55:43Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "desc": "Iran says meeting with Mecca pact states will mark beginning of 'real transformation' Senior officials from the Mecca Defence Alliance met Iranian leaders in Tehran on Monday, with Iran’s top security official, Mohsen Rezaei, saying the talks showed US threats had little impact on regional diplomacy and would mark the start of a “real transformation”. Members of the alliance, which includes Saudi Arabia, Turkey, and Pakistan, gathered in Tehran to negotiate as regional powers strive to end the Israeli-US war against Iran and establish a security framework independent of Washington. The talks c",
+   "score": 7,
+   "dup_of": "af1ff296a527"
+  },
+  {
+   "id": "1160b6069f2a",
+   "title": "Pakistan reaffirms solidarity with Kashmiris on Black Day, calls for end to rights violations",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040175/pakistan-reaffirms-solidarity-with-kashmiris-on-black-day-calls-for-end-to-rights-violations",
+   "date": "2026-10-27T06:35:44Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "The country’s top leadership on Tuesday reaffirmed Pakistan’s support for the people of Indian Illegally Occupied Jammu and Kashmir (IIOJK) as the country observed Kashmir Black Day to mark the anniversary of the arrival of Indian forces in Srinagar on Oct 27, 1947. In a statement issued on the occasion, Prime Minister Shehbaz Sharif said the arrival of Indian forces in Srinagar 79 years ago marked the beginning of a “tragic chapter” in the history of Jammu and Kashmir, which continued to cast a long shadow over the region. He expressed deep concern over the prolonged incarceration of Kashmiri",
+   "score": 4
+  },
+  {
+   "id": "908b73bb0901",
+   "title": "Israelis to decide Netanyahu’s fate in pivotal election today",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040163/israelis-to-decide-netanyahus-fate-in-pivotal-election-today",
+   "date": "2026-10-27T04:53:15Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A deeply divided Israel will head to the polls on Tuesday for the first time since the October 7, 2023 , attack, with voters delivering their verdict on veteran Prime Minister Benjamin Netanyahu and the country’s rightward drift. Israelis will cast their ballots in the shadow of three years of multi-front regional wars triggered by October 7, with questions over accountability and security central to the campaign. The close-fought vote comes as Israel looks increasingly isolated on the world stage, driven by a devastating military campaign in Gaza, soaring settlement construction and violence ",
+   "score": 9,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "9f482fa60c4e",
+   "title": "Unbeaten Pakistan look to maintain winning run against Sri Lanka",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040146/unbeaten-pakistan-look-to-maintain-winning-run-against-sri-lanka",
+   "date": "2026-10-27T05:56:15Z",
+   "countries": [
+    "LKA",
+    "PAK"
+   ],
+   "desc": "LAHORE: Sri Lankan pacer Eshan Malinga bowls during a net practice session at the Gaddafi Stadium on Monday.—Courtesy PCB LAHORE: Buoyed by Shadab Khan’s extraordinary rescue act against England, unbeaten Pakistan will look to maintain their winning momentum when they face Sri Lanka in the fifth match of the One-day International tri-series at the Gaddafi Stadium on Tuesday. Pakistan have secured their place in Saturday’s final after winning all three matches, but the fixture offers captain Shaheen Shah Afridi’s side another opportunity to assess combinations and address concerns over the top ",
+   "score": 1
+  },
+  {
+   "id": "7ac7d7a822bb",
+   "title": "Minister blames closure of border for LPG price hike",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040031/minister-blames-closure-of-border-for-lpg-price-hike",
+   "date": "2026-10-27T05:34:44Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The National Assembly was apprised on Monday that closure of Pakistan-Iran border was one of the main reasons of sky rocketing price of Liquefied Petroleum Gas (LPG) in the country. “Closure of Pak-Iran border is one of the main reasons of high prices of LPG and now we are trying to get the fuel from sea route,” said Federal Minister for Petroleum Ali Pervez Malik while responding to a calling attention notice in the house. The notice, which was jointly moved by Ms Aliya Kamran, Shahida Begum and Naeema Kishwar Khan, invited the attention of minister to a matter of urgent public imp",
+   "score": 3
+  },
+  {
+   "id": "115e4891da86",
+   "title": "Flu cases double at Karachi hospitals in over a week amid seasonal shift",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040103/flu-cases-double-at-karachi-hospitals-in-over-a-week-amid-seasonal-shift",
+   "date": "2026-10-27T05:43:08Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• JPMC, CHK report more cases over past 10 days than first half of month • Experts advise frequent hand washing, avoiding close contact with sick people and staying hydrated KARACHI: The city is seeing a spike in the number of flu cases over the past eight to 10 days, senior health experts shared on Monday, urging people to take precautionary measures to cope with changing weather conditions. “We have been seeing patients with flu-like symptoms for over a month but their numbers have just doubled over the past week, rising from 30 to 40 per day to 70 to 80 now, with the gradual seasonal shift ",
+   "score": 2
+  },
+  {
+   "id": "8af921857310",
+   "title": "In a pickle in Jamnagar",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040137/in-a-pickle-in-jamnagar",
+   "date": "2026-10-27T04:54:34Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "THE massive Reliance refinery in Jamnagar abutting the Arabian Sea from its perch in Gujarat was inaugurated in December 1999. There may be absolutely no connection between the refinery’s birthday and India’s nuclear tests of May 1998. But it’s difficult also to ignore the high stakes involved in its presence facing Pakistan, which too became a nuclear power that year. History shows a pattern of power play associated with such critical and strategic assets. It was on the eve of World War I that Churchill decided that the Royal Navy should switch to oil and away from Welsh coal to make the flee",
+   "score": 1
+  },
+  {
+   "id": "005c9a7ff4cf",
+   "title": "Whither terrorism",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040138/whither-terrorism",
+   "date": "2026-10-27T05:59:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "THE future of Khyber Pakhtun­khwa remains unclear, whether it’s as a single entity or as a democratic one. PTI, we are told, has been made PNG — once again. And the south of KP is reportedly being carved out rapidly to be a new province or to simply reverse the amendment that made the former Fata part of KP. No one is really sure what the coming days hold. Amid this confusion, a newly appointed member of the Area Representative and Development Council (ARDC) for the special emergency-hit districts of the south has created another storm in a teacup. In a video statement he spoke of reaching out",
+   "score": 3
+  },
+  {
+   "id": "aa2248164aa0",
+   "title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece",
+   "date": "2026-10-27T05:28:57Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Opposition leaders Gadi Eisenkot and Naftali Bennett are challenging PM Netanyahu’s right-wing coalition, with opinion polls showing neither bloc assured of the 61 seats needed for a majority",
+   "score": 9,
+   "dup_of": "12864f7f071f"
+  },
+  {
+   "id": "7ff4fbe6d418",
+   "title": "A guide to Israel’s elections",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece",
+   "date": "2026-10-27T04:10:35Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "",
+   "score": 4
+  },
+  {
+   "id": "d35a9f2a1005",
+   "title": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c84g1p27v55xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T06:25:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "گسترش حضور نهادهای نظامی و امنیتی در مدارس ایران، از آموزش کار با سلاح تا طرح‌های شناسایی عوامل نفوذی و جذب نوجوانان از ۱۲ سالگی، پرسش‌هایی را درباره نقش دانش‌آموزان در فعالیت‌های نظامی و امنیتی مطرح کرده است. این گزارش به بررسی برنامه‌های جدید، سابقه به‌کارگیری نوجوانان در فعالیت‌های نظامی و مرز میان آموزش دفاعی و مشارکت کودکان در مأموریت‌های امنیتی، در شرایط تهدید جنگ، می‌پردازد.",
+   "score": 6
+  },
+  {
+   "id": "d62935156b22",
+   "title": "«ما برادر کوچک نیستیم»؛ الهام علی‌اف، متحد اردوغان یا ادامه‌دهنده سنت آتاتورک؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c317kxrq5kr5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T05:22:00Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "اختلافی که با حجاب دختران دانش‌آموز در مدارس جمهوری آذربایجان آغاز شد، حالا به یکی از حساس‌ترین مباحث سیاسی در روابط باکو و آنکارا تبدیل شده است. در حالی که منتقدان در ترکیه این موضوع را از منظر آزادی‌های دینی دنبال می‌کنند، مقام‌ها و رسانه‌های نزدیک به دولت در جمهوری آذربایجان آن را به مسئله‌ای درباره سکولاریسم، حاکمیت ملی و حق تصمیم‌گیری مستقل کشور پیوند زده‌اند. در میانه این کشمکش، تصویر سیاسی تازه‌ای نیز از الهام علی‌اف در حال شکل‌گیری است؛ رهبری که می‌کوشد متحد ترکیه بماند، اما زیر سایه آن دیده نشود.",
+   "score": 5
+  },
+  {
+   "id": "7dda260c7ad4",
+   "title": "إسرائيل تجري انتخاباتها التشريعية وسط مشهد داخلي وإقليمي معقد",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.co.uk/arabic/live/cw23dz791nrkt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T06:56:19Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "تُجرى الانتخابات الإسرائيلية اليوم، إذ فُتحت مراكز الاقتراع أمام الناخبين للإدلاء بأصواتهم واختيار ممثليهم، وسط ترقب للنتائج وانعكاساتها على المشهد السياسي في إسرائيل.",
+   "score": 9,
+   "dup_of": "12864f7f071f"
   }
  ]
 }
