@@ -1,7 +1,91 @@
 {
- "updated": "2026-10-28T13:12:34Z",
- "count": 191,
+ "updated": "2026-10-28T16:06:05Z",
+ "count": 195,
  "items": [
+  {
+   "id": "6162849d74c8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-defence-minister-slams-eisenkots-call-for-military-to-resist-pm/article71637161.ece",
+   "date": "2026-10-28T15:36:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "title_en": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "summary_en": "Israeli Defence Minister Israel Katz strongly criticized opposition politician Gadi Eisenkot for urging military officials to disobey directives from Prime Minister Benjamin Netanyahu.",
+   "body_en": [
+    "Katz described Eisenkot's remarks on social media as an anti-democratic statement detached from reality. Eisenkot had earlier told supporters that Netanyahu, as a caretaker prime minister lacking a mandate, should not use security for political needs and that the military serves the state rather than the premier."
+   ],
+   "title_fa": "وزیر دفاع اسرائیل فراخوان آیزنکوت به ارتش برای مقاومت در برابر نخست‌وزیر را محکوم کرد",
+   "summary_fa": "اسرائیل کاتز، وزیر دفاع اسرائیل، گادی آیزنکوت، سیاستمدار اپوزیسیون را به دلیل فراخوان مقامات نظامی به سرپیچی از دستورات بنیامین نتانیاهو، نخست‌وزیر، به‌شدت مورد انتقاد قرار داد.",
+   "body_fa": [
+    "کاتز اظهارات آیزنکوت در رسانه‌های اجتماعی را بیانیه‌ای ضددموکراتیک و به دور از واقعیت توصیف کرد. آیزنکوت پیش‌تر به هواداران خود گفته بود که نتانیاهو به عنوان نخست‌وزیر موقت فاقد مأموریت است، نباید از امنیت برای اهداف سیاسی استفاده کند و ارتش باید به جای نخست‌وزیر به دولت خدمت کند."
+   ],
+   "title_ar": "وزير الدفاع الإسرائيلي يندد بدعوة آيزنكوت للجيش لمقاومة رئيس الوزراء",
+   "summary_ar": "انتقد وزير الدفاع الإسرائيلي يسرائيل كاتس بشدة المعارض غادي آيزنكوت لحضه المسؤولين العسكريين على عدم الانصياع لتوجيهات رئيس الوزراء بنيامين نتنياهو.",
+   "body_ar": [
+    "وصف كاتس تصريحات آيزنكوت على منصات التواصل الاجتماعي بأنها بيان مناهض للديمقراطية ومنفصل عن الواقع. وكان آيزنكوت قد صرح لأنصاره سابقاً بأن نتنياهو، بصفته رئيس وزراء تسيير أعمال يفتقر إلى تفويض، يجب ألا يستخدم الأمن لمصالحه السياسية وأن الجيش يجب أن يخدم الدولة لا رئيس الوزراء."
+   ]
+  },
+  {
+   "id": "0be77a5b7e09",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040469/god-will-surely-provide-afghans-compete-for-jobs-homes-as-millions-return-from-neighbouring-countries",
+   "date": "2026-10-28T14:14:42Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "‘God will surely provide’: Afghans compete for jobs, homes as millions return from neighbouring countries",
+   "title_en": "‘God will surely provide’: Afghans compete for jobs, homes as millions return from neighbouring countries",
+   "summary_en": "Millions of Afghans returning from Iran and Pakistan over the past three years are intensifying competition for scarce jobs and housing in local communities.",
+   "body_en": [
+    "The influx has led to severe economic strains, rising food insecurity, and dramatic rent surges amid a prolonged drought in regions like Jawzjan province. While the United Nations and local residents warn of growing grievances and scarce resources, some local officials maintain that employment issues are minimal and that government committees are monitoring housing costs."
+   ],
+   "title_fa": "«خداوند قطعاً روزی می‌رساند»: با بازگشت میلیون‌ها نفر از کشورهای همسایه، افغان‌ها برای شغل و مسکن رقابت می‌کنند",
+   "summary_fa": "بازگشت میلیون‌ها افغانستانی از ایران و پاکستان طی سه سال گذشته، رقابت برای کسب مشاغل کمیاب و مسکن را در جوامع محلی تشدید کرده است.",
+   "body_fa": [
+    "این موج بازگشت، فشار شدید اقتصادی، افزایش ناامنی غذایی و جهش چشمگیر اجاره‌بها را در پی داشته است که با خشکسالی طولانی‌مدت در استان‌هایی مانند جوزجان تشدید شده است. در حالی که سازمان ملل و ساکنان محلی نسبت به نارضایتی‌های فزاینده و کمبود منابع هشدار می‌دهند، برخی مقامات محلی ادعا می‌کنند که مشکلات اشتغال بسیار کم است و کمیته‌های دولتی هزینه‌های مسکن را کنترل می‌کنند."
+   ],
+   "title_ar": "«الله هو الرزاق»: أفغان يتنافسون على الوظائف والمنازل مع عودة ملايين اللاجئين من الدول المجاورة",
+   "summary_ar": "أدت عودة ملايين الأفغان من إيران和 باكستان خلال السنوات الثلاث الماضية إلى حدوث ضغوط شديدة واشتداد المنافسة على فرص العمل والسكن في المجتمعات المحلية.",
+   "body_ar": [
+    "وقد أدى هذا التدفق إلى أزمات اقتصادية حادة، وارتفاع مستويات انعدام الأمن الغذائي، وقفزات هائلة في قيمة الإيجارات وسط جفاف مستمر في مناطق مثل ولاية جوزجان. وبينما تحذر الأمم المتحدة والسكان المحليون من تصاعد المظالم وشح الموارد، يؤكد بعض المسؤولين المحليين أن مشاكل البطالة محدودة وأن لجان حكومية تراقب أسعار الإيجارات."
+   ]
+  },
+  {
+   "id": "b3401056cb69",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+   "date": "2026-10-28T13:47:39Z",
+   "countries": [
+    "IRQ",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "title_en": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "summary_en": "Iraqi Prime Minister Ali al-Zaidi arrived in Damascus to meet Syrian President Ahmed al-Sharaa, marking the first visit by an Iraqi prime minister since the fall of Bashar al-Assad.",
+   "body_en": [
+    "The visit aims to strengthen bilateral ties and boost economic, oil, and agricultural cooperation between the two neighbouring countries. According to the official Iraqi News Agency, the leaders discussed exporting Iraqi oil through the Baniyas line, increasing trade, and achieving food and economic integration."
+   ],
+   "title_fa": "نخست‌وزیر عراق در سفری تاریخی به سوریه با احمد الشریع دیدار کرد",
+   "summary_fa": "علی الزیدی، نخست‌وزیر عراق، برای دیدار با احمد الشریع، رئیس‌جمهور سوریه، وارد دمشق شد که این نخستین سفر یک نخست‌وزیر عراق به سوریه پس از سقوط بشار اسد است.",
+   "body_fa": [
+    "هدف از این سفر تقویت روابط دوجانبه و گسترش همکاری‌های اقتصادی، نفتی و کشاورزی میان دو کشور همسایه است. به گزارش خبرگزاری رسمی عراق (INA)، رهبران دو کشور درباره صادرات نفت عراق از طریق خط بانیاس، افزایش حجم تجارت و دستیابی به یکپارچگی اقتصادی و غذایی گفتگو کردند."
+   ],
+   "title_ar": "رئيس الوزراء العراقي علي الزيدي يلتقي أحمد الشرح في زيارة تاريخية لسوريا",
+   "summary_ar": "وصل رئيس الوزراء العراقي علي الزيدي إلى دمشق للاجتماع مع الرئيس السوري أحمد الشرح، في أول زيارة لرئيس وزراء عراقي إلى سوريا منذ سقوط بشار الأسد.",
+   "body_ar": [
+    "تهدف الزيارة إلى تعزيز العلاقات الثنائية وتطوير التعاون الاقتصادي والنفطي والزراعي بين البلدين الجارين. ووفقاً وكالة الأنباء العراقية الرسمية (واع)، ناقش الزعيمان تصدير النفط العراقي عبر خط بانياس، وزيادة حجم التجارة البينية، وتحقيق التكامل الاقتصادي والغذائي."
+   ]
+  },
   {
    "id": "2846da61e1b4",
    "lang": "ar",
@@ -409,6 +493,33 @@
    "body_ar": [
     "وفي كلمة ألقاها في مقر حزب الليكود بالقدس الغربية، شدد نتنياهو على ضرورة تشكيل حكومة يمينية لضمان أمن إسرائيل على المدى الطويل. ومع فرز أكثر من 70 بالمئة من أصوات الناخبين، تشير التوقعات إلى حصول الليكود على نحو 27 مقعداً متقدماً على حزب \"يشار\" بزعامة غادي أيزنكوت. وبشكل عام، يُتوقع حصول كتلة نتنياهو على 54 مقعداً مقابل 47 مقعداً لتحالف أيزنكوت.",
     "وسلط نتنياهو الضوء على سجل حكومته في الأمن القومي، مشيراً إلى الضربات العسكرية ضد القيادة الإيرانية والجماعات المسلحة في المنطقة. وقال إن إسرائيل تمتلك فرصة تاريخية إلى جانب الرئيس الأمريكي دونالد ترامپ للقضاء على التهديدات الإيرانية."
+   ]
+  },
+  {
+   "id": "43314cd9c666",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040407/us-costs-of-iran-war-rise-to-over-47bn-according-to-pentagon-estimate",
+   "date": "2026-10-28T05:16:03Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "title_en": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "summary_en": "The US military has spent over $47 billion on the war in Iran, marking a significant increase over previous Defense Department estimates, according to Pentagon data.",
+   "body_en": [
+    "The latest estimate includes operational costs such as a projected expenditure of over $29 billion to replace expended munitions and more than $6 billion for military equipment and platform losses, including drones. The conflict, launched jointly with Israel by President Donald Trump in February, has impacted global energy costs and weighed on political support for Republican candidates ahead of the midterm elections."
+   ],
+   "title_fa": "بر اساس برآورد پنتاگون، هزینه‌های ایالات متحده در جنگ با ایران به بیش از ۴۷ میلیارد دلار رسید",
+   "summary_fa": "بر اساس داده‌های پنتاگون، ارتش ایالات متحده بیش از ۴۷ میلیارد دلار برای جنگ در ایران هزینه کرده است که نشان‌دهنده افزایشی چشمگیر نسبت به برآوردهای قبلی وزارت دفاع است.",
+   "body_fa": [
+    "آخرین برآورد شامل هزینه‌های عملیاتی مانند بیش از ۲۹ میلیارد دلار برای جایگزینی مهمات مصرف‌شده و بیش از ۶ میلیارد دلار برای تجهیزات نظامی و خسارت‌های پلتفرمی از جمله پهپادها است. این درگیری که در ماه فوریه توسط دونالد ترامپ و به‌طور مشترک با اسرائیل آغاز شد، بر هزینه‌های جهانی انرژی تأثیر گذاشته و حمایت سیاسی از نامزدهای جمهوری‌خواه را در آستانه انتخابات میادوره‌ای تحت‌الشعاع قرار داده است."
+   ],
+   "title_ar": "تكاليف الحرب الأمريكية على إيران ترتفع إلى أكثر من 47 مليار دولار وفقاً لتقديرات البنتاغون",
+   "summary_ar": "أنفق الجيش الأمريكي أكثر من 47 مليار دولار حتى الآن في خوض الحرب على إيران، وهو ما يمثل زيادة ملحوظة عن تقديرات وزارة الدفاع السابقة، وفقاً لبيانات البنتاغون.",
+   "body_ar": [
+    "يشمل التقدير الأخير تكاليف تشغيلية مثل تخصيص أكثر من 29 مليار دلار لاستبدال الذخائر المستخدمة، وأكثر من 6 مليار دلار للمعدات العسكرية وخسائر المنصات بما في ذلك الطائرات بدون طيار. وقد أثر الصراع، الذي أشنه الرئيس دونالد ترامب بالاشتراك مع إسرائيل في فبراير، على تكاليف الطاقة العالمية وألقى بظلاله على الدعم السياسي للمرشحين الجمهوريين عشية انتخابات الكونغرس."
    ]
   },
   {
