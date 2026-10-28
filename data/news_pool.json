@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:13:31Z",
+ "updated": "2026-10-28T03:58:25Z",
  "items": [
   {
    "id": "040fb06b22bb",
@@ -3298,6 +3298,358 @@
    ],
    "desc": "دونالد ترامپ در یک میتینگ انتخاباتی گفته است اگر به عقب بازگردد تصمیمش را عوض نخواهد کرد چرا که معتقد است جنگ با ایران یکی از «بهترین» کارهایی است که انجام داده است. مسعود پزشکیان بعد از دیدار با ولادیمیر پوتین و امیر قطر در مسکو و در حاشیه اجلاس تولیدکنندگان گار، به ایران بازگشته است. آمریکا گفته به فلاویو بولسونارو که دیوان عالی برزیل پاسپورت او را ابطال کرده، ویزا خواهد داد.",
    "score": 9
+  },
+  {
+   "id": "5dc82ca0cc07",
+   "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T02:09:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+   "score": 8,
+   "dup_of": "0e96da27290f"
+  },
+  {
+   "id": "82b11735bd78",
+   "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+   "date": "2026-10-28T03:10:17Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
+   "score": 7
+  },
+  {
+   "id": "48670a745fff",
+   "title": "Five key takeaways from Israel’s parliamentary elections",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+   "date": "2026-10-28T02:53:35Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition.",
+   "score": 4
+  },
+  {
+   "id": "4b2a4f309abd",
+   "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+   "date": "2026-10-28T02:26:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.",
+   "score": 6
+  },
+  {
+   "id": "2039ae8d6ec5",
+   "title": "Israel election: what we know so far",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+   "date": "2026-10-28T03:31:20Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Revised exit polls suggest a tie between Benjamin Netanyahu’s ruling coalition and Gadi Eisenkot’s opposition bloc, plus marked gains by Palestinian parties Israel election – live updates Analaysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Exit polls published by Israel’s major TV networks show Benjamin Netanyahu’s governing bloc tied with the opposition grouping led by Gadi Eisenkot on 51 seats each, short of the 61 seats needed to form a majority coalition government. Exit polls released earlier on Tuesday evening had Eisenkot winning most seats in the ",
+   "score": 4
+  },
+  {
+   "id": "7918b06adb1d",
+   "title": "Eisenkot warns Netanyahu not to use Israel’s security ‘for political needs’",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-warns-netanyahu-not-use-israels-security-political-needs",
+   "date": "2026-10-28T03:36:35Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Eisenkot warns Netanyahu not to use Israel’s security ‘for political needs’ Israeli opposition candidate Gadi Eisenkot warned Prime Minister Benjamin Netanyahu on Tuesday against using Israel’s security for political gain, as exit polls showed a deadlock in the country’s national election. \"Netanyahu, don’t you dare use Israel’s security for your political needs,\" he said. “Netanyahu, don’t you dare use Israel’s security for your political needs.” Israeli opposition candidate Gadi Eisenkot warned Prime Minister Benjamin Netanyahu against using Israel’s security for political gain, as exit poll",
+   "score": 6
+  },
+  {
+   "id": "762d20da4af9",
+   "title": "Over 1.2 million votes counted in Israeli elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/over-12-million-votes-counted-israeli-elections",
+   "date": "2026-10-28T03:14:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Over 1.2 million votes counted in Israeli elections Figures from the Central Elections Committee indicate that at least 1,216,002 ballots have been counted by 5.20am local time (2.20am GMT) Netanyahu’s Likud party is leading with 23.36 percent of valid votes. Following that is Eisenkot’s Yashar party, at 15.74 percent, and Naftali Bennett’s party, at 8.53 percent.",
+   "score": 4
+  },
+  {
+   "id": "9120e3157375",
+   "title": "At least 94,000 votes counted in Israeli elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-94000-votes-counted-israeli-elections",
+   "date": "2026-10-28T01:09:01Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "At least 94,000 votes counted in Israeli elections Israeli Channel 12 is reporting that approximately 94,000 votes have been counted in the elections so far. Projections show Netanyahu's bloc of 52 seats overtaking Eisenkot’s 49. Palestinian-led parties are projected to take 19 seats.",
+   "score": 4
+  },
+  {
+   "id": "008ac27e6906",
+   "title": "Netanyahu and opposition blocs fall short as Palestinian parties projected to win record seats",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-and-opposition-blocs-fall-short-palestinian-parties-projected",
+   "date": "2026-10-28T00:46:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Netanyahu and opposition blocs fall short as Palestinian parties projected to win record seats Israeli Prime Minister Benjamin Netanyahu’s bloc and the opposition bloc are both projected to fall short of a parliamentary majority following a surge in voting by Palestinian citizens of Israel. The poll, released after voting closed on Tuesday, projects Netanyahu’s bloc to win 50 seats and the opposition bloc 53 in the 120-seat Knesset, with 61 needed for a majority. The Joint List and Ra’am, two parties representing Palestinian citizens of Israel, are projected to win a combined 17 seats, potenti",
+   "score": 8,
+   "dup_of": "0e96da27290f"
+  },
+  {
+   "id": "f2b4bcff75cd",
+   "title": "Netanyahu's bloc overtakes Eisenkot's, as Palestinian-led parties rise to 19 seats",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-bloc-overtakes-eisenkots-palestinian-led-parties-rise-19",
+   "date": "2026-10-28T00:42:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Netanyahu's bloc overtakes Eisenkot's, as Palestinian-led parties rise to 19 seats Netanyahu's bloc has reportedly risen to 52 seats, overtaking Eisenkot's bloc, according to Israel's Channel 12. Meanwhile, Palestinian-led parties have risen to 19 seats.",
+   "score": 8
+  },
+  {
+   "id": "82fc5d580383",
+   "title": "Eisenkot says Israel has chosen change, wants to form government",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-says-israel-has-chosen-change-wants-form-government",
+   "date": "2026-10-27T23:35:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Eisenkot says Israel has chosen change, wants to form government Opposition candidate Gadi Eisenkot said early Wednesday that Israel had chosen change after Prime Minister Benjamin Netanyahu and that he would seek to form a new government. In remarks to supporters, Eisenkot also warned Netanyahu: \"Don't you dare use Israel's security for your political needs,\" in a likely reference to his threats of new strikes on Iran. He also said that he does not want a second election. “In these elections, where there was a high percentage of Voters, it will be a mistake to rerun elections. It is my duty a",
+   "score": 7
+  },
+  {
+   "id": "72d7b17d05ec",
+   "title": "Official vote count under way in Israeli election",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/official-vote-count-under-way-israeli-election",
+   "date": "2026-10-27T23:21:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Official vote count under way in Israeli election Israeli election officials have begun counting votes, Israeli media reported. As of 12:18am local time, 2,670 votes had been counted from 15 polling stations, according to Israel’s Channel 12. Voter turnout in the parliamentary election reached 77.7 percent, the Central Elections Committee’s latest figures showed.",
+   "score": 4
+  },
+  {
+   "id": "9b506617be4e",
+   "title": "Smotrich says he ‘won’t let’ Palestinian citizens celebrate election gains",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-says-he-wont-let-palestinian-citizens-celebrate-election-gains",
+   "date": "2026-10-27T23:17:31Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Smotrich says he ‘won’t let’ Palestinian citizens celebrate election gains Israel’s far-right Finance Minister Bezalel Smotrich has said his party “won’t let” Palestinian citizens of Israel celebrate after exit polls projected major gains for Palestinian-led parties, Haaretz reported. “I can see on some of the screens that the Arabs are celebrating tonight. So I’m telling you and them: We won’t let them celebrate,” Smotrich said at an event held by his Religious Zionism party. Exit polls projected the Joint List and the United Arab List would win between 16 and 18 seats, up from the 10 seats t",
+   "score": 6
+  },
+  {
+   "id": "d9543dc05bdc",
+   "title": "Lieberman calls on Netanyahu to step down",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lieberman-calls-netanyahu-step-down",
+   "date": "2026-10-27T23:10:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Lieberman calls on Netanyahu to step down Yisrael Beiteinu leader Avigdor Lieberman has called on Prime Minister Benjamin Netanyahu to step down and urged members of his Likud party to remove him, Israel’s Channel 12 reported. “If he leaves, it will be possible to rebuild the national camp,” Lieberman, a former finance minister and deputy prime minister, said in a speech at his party’s headquarters. Lieberman also expressed doubts about the exit polls, saying: “I’m not sure the polls reflect the true results”.",
+   "score": 6
+  },
+  {
+   "id": "fca537265e98",
+   "title": "Joint List leader says voters sent clear message to ‘government of bloodshed’",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/joint-list-leader-says-voters-sent-clear-message-government-bloodshed",
+   "date": "2026-10-27T22:40:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Joint List leader says voters sent clear message to ‘government of bloodshed’ Yousef Jabareen, leader of the Palestinian-led Joint List, has called Tuesday’s Israeli election “a historic day”, saying voters sent a clear message that the “government of bloodshed” must go. “The public has spoken, turning out in droves to the polling stations and placing its trust in us unequivocally,” Jabareen said in a statement. “We have proven that we are a political force that cannot be ignored, and that a future here cannot be built without our voice,” he added.",
+   "score": 6
+  },
+  {
+   "id": "2364c287e129",
+   "title": "Israeli far-right minister says Eisenkot-led government would ‘paralyse’ his party’s work",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-far-right-minister-says-eisenkot-led-government-would-paralyse",
+   "date": "2026-10-27T22:38:40Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli far-right minister says Eisenkot-led government would ‘paralyse’ his party’s work Israel’s far-right National Security Minister Itamar Ben-Gvir commented on the possibility of Gadi Eisenkot’s Yashar party forming a government, saying that it “will be paralysing our work”. Speaking to supporters at his Otzma Yehudit party’s headquarters, Ben Gvir also praised its performance in Tuesday’s election. “We are very proud of our journey,” he said, recalling a time when the party did not exist on the political landscape. Otzma Yehudit, or Jewish Power, is projected to win six or seven seats in",
+   "score": 6
+  },
+  {
+   "id": "d29656ea6f47",
+   "title": "One killed, five injured by Afghan firing near Angoor Adda",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040360/one-killed-five-injured-by-afghan-firing-near-angoor-adda",
+   "date": "2026-10-28T01:51:16Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "LOWER SOUTH WA­­Z­IRISTAN: In yet another violation of border protocols, Afghan security forces opened unprovoked fire on Pakistan Army border posts and residential areas in the Angoor Adda border area on Tuesday. The unprovoked attacks took the life of one local, while five of a family were injured when a mortar landed on their home. The unprovoked firing prompted a swift response from security forces. According to officials, the firing originated from posts located inside Afghan territory, and targeted Pakistani border posts with sniper, small and heavy weapons. Sources said that Pakistani f",
+   "score": 7
+  },
+  {
+   "id": "2a823c4739ab",
+   "title": "PTI asked to look inward; warned against further talks",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040377/pti-asked-to-look-inward-warned-against-further-talks",
+   "date": "2026-10-28T01:50:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: A majority of PTI lawmakers on Tuesday opposed further efforts to negotiate with the powers that be, arguing that the latter had already secured what they wanted, and that pursuing further talks would “only show weakness”. Several members also expressed dissatisfaction with the party leadership’s handling of the prevailing challenges, questioning its decisions and overreliance on then-Khyber Pakhtunkhwa chief minister Sohail Afridi. Heated arguments were witnessed during a joint parliamentary party meeting that lasted over seven hours, with some questioning why the top leadership ha",
+   "score": 5
+  },
+  {
+   "id": "199bd61c1157",
+   "title": "Pakistan warns against escalation in Iran crisis, urges diplomacy",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040346/pakistan-warns-against-escalation-in-iran-crisis-urges-diplomacy",
+   "date": "2026-10-28T02:41:17Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "WASHINGTON: Pakistan has warned that the situation surrounding Iran’s nuclear programme has sharply deteriorated, urging all sides to exercise restraint and resolve the dispute through diplomacy amid continued hostilities and divisions within the UN Security Council. Speaking at a council briefing on Iran and nuclear non-proliferation on Tuesday, Pakistan’s Acting Permanent Representative, Ambassador Usman Jadoon, said mounting tensions and a lack of consensus had made a diplomatic settlement more urgent. “Pakistan remains concerned that the situation regarding the Iran nuclear file has sharpl",
+   "score": 7
+  },
+  {
+   "id": "7ef43b28a423",
+   "title": "Delay in compensation for seafarers’ families alarms Senate committee",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040358/delay-in-compensation-for-seafarers-families-alarms-senate-committee",
+   "date": "2026-10-28T03:32:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Senate Functio­nal Committee on Human Rights on Tuesday expressed concern over delays in compensation to families of Pakistani seafarers affected by a hostage-taking incident off Somalia. The committee, chaired by Senator Samina Mumtaz Zehri, also discussed cybercrime, crypto-currency related scams, fraudulent investment schemes and the circulation of inappropriate content targeting children on social media. Taking up the case of Pakistani seafarers, the committee sought explanations from officials over delays in the crew’s release, repatriation of a deceased seafarer’s body, me",
+   "score": 3
+  },
+  {
+   "id": "dc632d1fd32c",
+   "title": "India deploys extra forces after protests against dam",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040344/india-deploys-extra-forces-after-protests-against-dam",
+   "date": "2026-10-28T03:20:27Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "GUWAHATI: India has deployed hundreds of additional security personnel in its remote northeast, authorities said on Tuesday, after youth protesters clashed with police last week over a plan to build a mega-dam to counter a Chinese hydropower project upstream. Protests in Arunachal Pradesh’s Siang Valley, which borders Tibet, turned violent last week, triggering clashes with police, who made at least 21 arrests. Police fired tear gas shells, while youth protesters pelted stones and set fire to a police station and an office of the state-owned National Hydroelectric Pow­er Corporation, authoriti",
+   "score": 5
+  },
+  {
+   "id": "bd92b3fc75e1",
+   "title": "A physicist who took atoms near absolute zero, and physics further",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece",
+   "date": "2026-10-27T12:49:46Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize",
+   "score": 1
+  },
+  {
+   "id": "b40b4e959437",
+   "title": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece",
+   "date": "2026-10-27T07:50:53Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces",
+   "score": 8,
+   "dup_of": "9bf9a3f7336a"
+  },
+  {
+   "id": "f5c1c1ce8664",
+   "title": "توافق دریایی ترکیه و لیبی؛ چرا یونان نگران است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqwyrv4w7jxno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T01:10:32Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "تصویب توافق تعیین حدود حوزه‌های صلاحیت دریایی که در سال ۲۰۱۹ میان ترکیه و لیبی امضا شده بود از سوی مجلس نمایندگان لیبی، پس از هفت سال، معادله تازه‌ای در رقابت‌ها و مذاکرات جاری در شرق مدیترانه ایجاد کرده است.",
+   "score": 7
+  },
+  {
+   "id": "69d6909ea0a5",
+   "title": "آنچه باید در مورد انتخابات سرنوشت‌ساز اسرائیل بدانید",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6wyrv12r48vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T07:02:12Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "رای‌گیری در اسرائیل در انتخاباتی که بسیاری آن را یکی از سرنوشت‌سازترین‌ها در تاریخ این کشور می‌دانند، شروع شد. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در انتخابات امروز برای بقای سیاسی خود مبارزه می‌کند.",
+   "score": 4
+  },
+  {
+   "id": "c0186d81beae",
+   "title": "إيران وأطراف حلف مكة تتفق في طهران على مواصلة المحادثات لخفض التصعيد الإقليمي",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3x2w09wedddo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-27T07:09:35Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "المملكة العربية السعودية تؤكد أهمية فتح قنوات للتفاوض، بما يمنع عودة التصعيد العسكري في المنطقة.",
+   "score": 8,
+   "dup_of": "af1ff296a527"
   }
  ]
 }
