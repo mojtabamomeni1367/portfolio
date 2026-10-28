@@ -13,7 +13,7 @@ Instructions for the scheduled publishing agent. Follow them exactly.
    - **source language**: `fa`, `en` or `ar`.
    - **title**: the document title, or its first heading if the title is generic (e.g. "Untitled document").
    - **countries**: ISO codes, only from this list and only countries the text is substantially about:
-     TUR SYR LBN ISR PSE JOR IRQ IRN KWT SAU BHR QAT ARE OMN YEM EGY AFG PAK IND NPL BGD LKA
+     TUR SYR LBN ISR PSE JOR IRQ IRN KWT SAU BHR QAT ARE OMN YEM EGY AFG PAK IND BGD
    - **topics**: one or two of these site topics that the analysis is mainly about:
      `iran-policy` (Iran's domestic affairs & foreign policy), `mena-sa` (political issues & developments in the Middle East & South Asia), `political-islam` (political Islam & Islamist movements), `extremism` (extremism & radicalism), `migration` (refugee & migration studies), `security` (regional security & geopolitics)
    - **slug**: short English kebab-case from the topic, plus the year, e.g. `iran-saudi-detente-2026`. Must not already exist in `content/analyses/`.
