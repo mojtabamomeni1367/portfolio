@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T19:02:56Z",
- "count": 194,
+ "updated": "2026-10-28T21:56:37Z",
+ "count": 195,
  "items": [
   {
    "id": "4ec4098a07d9",
@@ -149,6 +149,37 @@
    "body_ar": [
     "أظهرت النتائج الأولية بروز حزب الليكود بزعامة نتنياهو كأكبر حزب، مع اقتراب تحالفه الحالي من تحقيق أغلبية. ومع ذلك، أشار المحللون إلى أن النتائج النهائية تظل غير مؤكدة بانتظار فرز أصوات الغياب والجنود.",
     "وفي الوقت نفسه، ادعت شخصيات المعارضة مثل غادي آيزنكوت أن الجمهور صوت لصالح التغيير، بينما يمكن للأحزاب العربية، التي تمثل خُمس السكان، أن تلعب دوراً حاسماً على الرغم من تردد أحزاب المعارضة اليهودية التاريخي في التحالف معها."
+   ]
+  },
+  {
+   "id": "f96242c0fc70",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/afghan-pakistan-border-clash-kills-one-injures-five/article71637670.ece",
+   "date": "2026-10-28T17:16:25Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 8,
+   "title": "Afghan-Pakistan border clash kills one, injures five",
+   "title_en": "Afghan-Pakistan border clash kills one, injures five",
+   "summary_en": "A cross-border clash along the Afghanistan-Pakistan frontier resulted in one death and five injuries, according to Pakistani officials.",
+   "body_en": [
+    "The incident in the market town of Angoor Adda targeted homes and shops through mortar fire originating from Afghanistan, according to the deputy commissioner's office in South Waziristan. Pakistani forces responded with a brief artillery operation targeting an Afghan checkpoint, though casualties on the Afghan side could not be confirmed.",
+    "The governor of Khyber Pakhtunkhwa Province condemned the attack, while local officials blamed Afghan authorities. The two countries have experienced sporadic fighting and tensions following a March truce, amid ongoing Pakistani accusations that Afghanistan harbours militants."
+   ],
+   "title_fa": "درگیری در مرز افغانستان و پاکستان یک کشته و پنج زخمی برجای گذاشت",
+   "summary_fa": "به گفته مقامات پاکستانی، یک درگیری مرزی در امتداد مرز افغانستان و پاکستان یک کشته و پنج زخمی برجای گذاشت.",
+   "body_fa": [
+    "به گفته دفتر کمیسر معاون در وزیرستان جنوبی، در این حادثه که در شهر بازار انگور اده رخ داد، خانه‌ها و مغازه‌ها هدف آتش خمپاره‌ای که از افغانستان شلیک شده بود، قرار گرفتند. نیروهای پاکستانی در پاسخ به این حمله، عملیات توپخانه‌ای کوتاهی را علیه یک پاسگاه افغان انجام دادند، اما تلفات در سمت افغانستان تایید نشد.",
+    "فرماندار استان خیبر پختونخوا این حمله را محکوم کرد و مقامات محلی مقام‌های افغان را مقصر دانستند. دو کشور پس از آتش‌بس ماه مارس شاهد درگیری‌های پراکنده و تنش بوده‌اند و پاکستان همواره افغانستان را به پناه دادن به شبه‌نظامیان متهم می‌کند."
+   ],
+   "title_ar": "مقتل شخص وإصابة خمسة في اشتباك على الحدود بين أفغانستان وباكستان",
+   "summary_ar": "أسفر اشتباك عبر الحدود على طول الحدود بين أفغانستان وباكستان عن مقتل شخص وإصابة خمسة آخرين، وفقاً لمسؤولين باكستانيين.",
+   "body_ar": [
+    "استهدف الحادث، الذي وقع في بلدة أنگور أدا السوقية، المنازل والمتاجر بنيران قذائف الهاون القادمة من أفغانستان، وفقاً لمكتب مفوض نائب وزيرستان الجنوبية. وقد ردت القوات الباكستانية بعملية مدفعية قصيرة استهدفت نقطة تفتيش أفغانية، رغم تعذر تأكيد وقوع إصابات في الجانب الأفغاني.",
+    "أدان حاكم إقليم خيبر بختونخوا الهجوم، بينما حمّل المسؤولون المحليون السلطات الأفغانية المسؤولية. وشهد البلدان اشتباكات متفرقة وتوترات في أعقاب هدنة مارس، وسط اتهامات باكستانية مستمرة لأفغانستان بإيواء مسلحين."
    ]
   },
   {
@@ -646,30 +677,33 @@
    ]
   },
   {
-   "id": "17a8e2a426d4",
+   "id": "795e392f598c",
    "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-bloc-leads-55-seats-short-majority-vote",
-   "date": "2026-10-28T06:26:16Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040402/netanyahu-rival-eisenkot-both-vow-to-form-government-after-inconclusive-israeli-election",
+   "date": "2026-10-28T05:46:35Z",
    "countries": [
     "ISR"
    ],
-   "score": 7,
-   "title": "Netanyahu's bloc leads at 55 seats, but short of majority vote",
-   "title_en": "Netanyahu's bloc leads at 55 seats, but short of majority vote",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu's bloc continues to lead the election results with 55 seats, though it remains short of a governing majority. Gadi Eisenkot's bloc follows with 49 seats, while Arab parties trail in third with 16 seats.",
+   "score": 8,
+   "title": "Netanyahu, rival Eisenkot both vow to form government after inconclusive Israeli election",
+   "title_en": "Netanyahu, rival Eisenkot both vow to form government after inconclusive Israeli election",
+   "summary_en": "Following an inconclusive Israeli election, both caretaker Prime Minister Benjamin Netanyahu and opposition rival Gadi Eisenkot have vowed to form a new government.",
    "body_en": [
-    "According to partial counting data, the pro-Netanyahu bloc's projection dropped from 56 to 55 seats as more votes were processed. The current tally reflects around 2.9 million counted votes, representing 51.8 percent of the total."
+    "With nearly 86 percent of votes tallied, broadcasters projected Netanyahu's right-wing bloc would win 53 seats and Eisenkot's bloc 48 seats in the 120-seat Knesset. Arab-Israeli parties were projected to win an unprecedented 19 seats, complicating paths to a parliamentary majority.",
+    "Netanyahu called for a strong right-wing national government and raised the prospect of joint action with the United States against Iran. Meanwhile, Eisenkot warned Netanyahu against using security for political ends, as the inconclusive results weighed on Israeli markets and weakened the shekel."
    ],
-   "title_fa": "بلوک نتانیاهو با ۵۵ کرسی در صدر است، اما به اکثریت آرا نرسیده است",
-   "summary_fa": "بلوک بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با وجود کاهش کرسی‌ها به ۵۵ عدد همچنان در صدر نتایج انتخابات قرار دارد، اما از دستیابی به اکثریت بازمانده است. بلوک گادی آیزنکوت با ۴۹ کرسی در رتبه بعدی است و احزاب عرب با ۱۶ کرسی در جایگاه سوم قرار دارند.",
+   "title_fa": "نتانیاهو و رقیبش آیزنکوت پس از انتخابات بی‌نتیجه اسرائیل هر دو بر تشکیل دولت تأکید کردند",
+   "summary_fa": "به دنبال برگزاری انتخابات بی‌نتیجه در اسرائیل، بنیامین نتانیاهو، نخست‌وزیر موقت، و گادی آیزنکوت، رقیب اپوزیسیون، هر دو متعهد شدند که دولت جدیدی تشکیل دهند.",
    "body_fa": [
-    "بر اساس داده‌های شمارش آرا، سهم بلوک طرفدار نتانیاهو با پردازش آرای بیشتر از ۵۶ به ۵۵ کرسی کاهش یافته است. نتایج فعلی منعکس‌کننده ۲.۹ میلیون رای شمارش‌شده است که ۵۱.۸ درصد کل آرا را تشکیل می‌دهد."
+    "با شمارش نزدیک به ۸۶ درصد آرا، شبکه‌های تلویزیونی پیش‌بینی کردند که بلوک راست‌گرای نتانیاهو ۵۳ کرسی و بلوک آیزنکوت ۴۸ کرسی در کنست ۱۲۰ کرسی به دست خواهند آورد. پیش‌بینی می‌شود حزب‌های عربی اسرائیل ۱۹ کرسی بی‌سابقه کسب کنند که مسیر دستیابی به اکثریت پارلمانی را پیچیده می‌کند.",
+    "نتانیاهو خواستار تشکیل یک دولت ملی قوی راست‌گرا شد و احتمال اقدام مشترک با ایالات متحده علیه ایران را مطرح کرد. در همین حال، آیزنکوت به نتانیاهو هشدار داد که از مسائل امنیتی برای اهداف سیاسی استفاده نکند، چرا که نتایج بی‌نتیجه بر بازارهای اسرائیل تأثیر گذاشته و ارزش شِکل را کاهش داده است."
    ],
-   "title_ar": "كتلة نتنياهو تتصدر بـ 55 مقعداً لكنها دون أغلبية الأصوات",
-   "summary_ar": "تواصل كتلة رئيس الوزراء الإسرائيلي بنيامين نتنياهو تصدر نتائج الانتخابات بـ 55 مقعداً، رغم أنها لا تزال دون الأغلبية الحاكمة. وتليها كتلة غادي أيزنكوت بـ 49 مقعداً، بينما تحل الأحزاب العربية في المركز الثالث بـ 16 مقعداً.",
+   "title_ar": "نتنياهو ومنافسه آيزنكوت يتعهدان بتشكيل الحكومة بعد انتخابات إسرائيلية غير حاسمة",
+   "summary_ar": "في أعقاب انتخابات إسرائيلية غير حاسمة، تعهد كل من رئيس الوزراء المؤقت بنيامين نتنياهو ومنافسه المعارض غادي آيزنكوت بتشكيل حكومة جديدة.",
    "body_ar": [
-    "وفقاً لبيانات الفرز الجزئي، انخفضت توقعات كتلة المؤيدين لنتنياهو من 56 إلى 55 مقعداً مع فرز المزيد من الأصوات. وتعكس الحصيلة الحالية نحو 2.9 مليون صوت تم فرزها، وهو ما يمثل 51.8 بالمئة من إجمالي الأصوات."
+    "مع فرز نحو 86 بالمائة من الأصوات، توقعت محطات البث أن يفوز كتلة نتنياهو اليمينية بـ 53 مقعداً وكتلة آيزنكوت بـ 48 مقعداً في الكنيست المكون من 120 مقعداً. ومن المتوقع أن تفوز الأحزاب العربية الإسرائيلية بـ 19 مقعداً غير مسبوقة، مما يعقّد الطرق نحو الأغلبية البرلمانية.",
+    "دعا نتانياهو إلى تشكيل حكومة وطنية قوية اليمين وأثار احتمال العمل المشترك مع الولايات المتحدة ضد إيران. وفي الوقت نفسه، حذر آيزنكوت نتانياهو من استخدام الأمن لأغراض سياسية، في الوقت الذي أثرت فيه النتائج غير الحاسمة على الأسواق الإسرائيلية وأضعفت الشيكل."
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:02:56Z",
+ "updated": "2026-10-28T21:56:37Z",
  "items": [
   {
    "id": "040fb06b22bb",
@@ -3448,7 +3448,8 @@
     "ISR"
    ],
    "desc": "Eisenkot says Israel has chosen change, wants to form government Opposition candidate Gadi Eisenkot said early Wednesday that Israel had chosen change after Prime Minister Benjamin Netanyahu and that he would seek to form a new government. In remarks to supporters, Eisenkot also warned Netanyahu: \"Don't you dare use Israel's security for your political needs,\" in a likely reference to his threats of new strikes on Iran. He also said that he does not want a second election. “In these elections, where there was a high percentage of Voters, it will be a mistake to rerun elections. It is my duty a",
-   "score": 7
+   "score": 7,
+   "dup_of": "795e392f598c"
   },
   {
    "id": "72d7b17d05ec",
@@ -3529,7 +3530,8 @@
     "PAK"
    ],
    "desc": "LOWER SOUTH WA­­Z­IRISTAN: In yet another violation of border protocols, Afghan security forces opened unprovoked fire on Pakistan Army border posts and residential areas in the Angoor Adda border area on Tuesday. The unprovoked attacks took the life of one local, while five of a family were injured when a mortar landed on their home. The unprovoked firing prompted a swift response from security forces. According to officials, the firing originated from posts located inside Afghan territory, and targeted Pakistani border posts with sniper, small and heavy weapons. Sources said that Pakistani f",
-   "score": 7
+   "score": 7,
+   "dup_of": "f96242c0fc70"
   },
   {
    "id": "2a823c4739ab",
@@ -3786,8 +3788,7 @@
     "ISR"
    ],
    "desc": "Israeli Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot each vowed on Wednesday to form a government after both came up short in the first election since the events of October 7, 2023. Voters turned out Tuesday in the highest numbers in decades to give their verdict on the divisive rule of Netanyahu, Israel’s longest-serving prime minister who has pushed the country sharply to the right and unleashed a wave of wars in response to the Hamas attack. Exit polls showed Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Netanyahu’s hard-righ",
-   "score": 8,
-   "dup_of": "82fc5d580383"
+   "score": 8
   },
   {
    "id": "43314cd9c666",
@@ -5571,8 +5572,7 @@
     "PAK"
    ],
    "desc": "The countries went to war earlier this year and, with no permanent resolution reached on security issues, there have been sporadic attacks since a March truce",
-   "score": 8,
-   "dup_of": "d29656ea6f47"
+   "score": 8
   },
   {
    "id": "b370e6a7a3e8",
@@ -5613,6 +5613,117 @@
    "desc": "من جلسة واحدة، تحولت قضية \"موقع مدى مصر” المستقل ورئيسة تحريره لينا عطا الله، إلى نقاش أوسع حول واقع الإعلام في مصر. فبينما تقول السلطات إن القضية تتعلق بتشغيل موقع دون ترخيص، أثارت إجراءات المحاكمة والخلاف حول طلبات الترخيص أسئلة بشأن تنظيم الإعلام الرقمي وحدود حرية الصحافة.",
    "score": 3,
    "dup_of": "1829847356e9"
+  },
+  {
+   "id": "2dd72aafdd59",
+   "title": "What are the implications of Israel’s elections?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+   "date": "2026-10-28T19:03:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+   "score": 8,
+   "dup_of": "610e0521d6ab"
+  },
+  {
+   "id": "b429b1169831",
+   "title": "Students on hunger strike in India demand restoration of student union",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+   "date": "2026-10-28T18:52:58Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
+   "score": 3
+  },
+  {
+   "id": "0071751bd2ba",
+   "title": "The Guardian view on Israel’s elections: Netanyahu lost his mandate. If opponents unite, he’ll lose power too | Editorial",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
+   "date": "2026-10-28T19:01:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "His chief rival should reject the prime minister’s anti-democratic vision and work with Palestinian Israeli parties Benjamin Netanyahu has lost his mandate but not, so far, power. While final votes are still being tallied, most voters picked his opponents on Tuesday. His bloc’s share of seats remains the largest, but appears to have slumped by around 10, leaving it below the 61 needed for a majority in the Knesset. Palestinian Israeli parties surged, and are projected to almost double the 10 seats they held. The result is that Mr Netanyahu’s main challenger, Gadi Eisenkot, a former head of the",
+   "score": 4
+  },
+  {
+   "id": "b0deda4d9371",
+   "title": "Historic gains for Arab-majority parties in Israeli election",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election",
+   "date": "2026-10-28T20:32:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Two Arab-majority parties are set to win a historic 19 seats in total, amid a record turnout at the polls in Israel on Tuesday. Voters from the community, descendants of Palestinians who stayed after Israel's creation and who make up around 20 percent of the population, have been enraged by the Netanyahu government's ultra-nationalist Jewish vision for the country and the Palestinian territories. FRANCE 24's Emerald Maxwell reports.",
+   "score": 8,
+   "dup_of": "f2b4bcff75cd"
+  },
+  {
+   "id": "bba20faddf6d",
+   "title": "Which way will Israel break? Netanyahu still in it after election night surprises",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/the-debate/20261028-which-way-will-israel-break-netanyahu-still-in-it-after-election-night-surprises",
+   "date": "2026-10-28T19:34:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "In Israel, the surprises only start with election night: they're still counting ballots in a vote that featured the highest turnout in decades, historic inroads by Arab parties, Benjamin Netanyahu’s worst result since 1999 and yet Israel’s longest-serving prime minister still has a path to staying in power. As we await the definitive makeup of the next parliament, our panel breaks out the calculators and pie charts: in what scenario does Netanyahu survive? Is the issue with the right-wing Likud leader or his policies?",
+   "score": 8,
+   "dup_of": "0e96da27290f"
+  },
+  {
+   "id": "408c9d4878a4",
+   "title": "'Israeli electorate has moved rightward: Many underestimated extent of fracture in Israeli society'",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israeli-electorate-has-moved-rightward-many-underestimated-extent-of-fracture-in-israeli-society",
+   "date": "2026-10-28T19:12:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Erin Ogunkeye is pleased to welcome Dr. Shira Efron, RAND's Distinguished Israel Policy Chair. “Many of us, myself included, underestimated the extent of the fracture in Israeli society.” It reflects a political system in which ideological polarisation, the rightward shift of the Jewish electorate and the contested legitimacy of Arab political participation have sharply narrowed the possibilities for coalition-building. Dr. Efron illustrates a political landscape in which Netanyahu’s governing bloc has lost ground, yet still has “more cards, or better cards, to play,” she argues, whether throu",
+   "score": 4
+  },
+  {
+   "id": "0d4fecca915e",
+   "title": "Israel's unassuming President Herzog holds keys to next government",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040496/israels-unassuming-president-herzog-holds-keys-to-next-government",
+   "date": "2026-10-28T19:06:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s President Isaac Herzog is known for his unassuming and mild manner, but all eyes will soon be on him as he decides who to task with forming the next coalition government. The decision is a weighty one given that partial results from Tuesday’s elections show neither the camp of Prime Minister Benjamin Netanyahu nor that of his rival Gadi Eisenkot securing a majority in parliament. After the official announcement of the results, Herzog will consult with party representatives and name a candidate who has the best chance of forming a government — not necessarily the one whose party holds ",
+   "score": 7,
+   "dup_of": "b370e6a7a3e8"
+  },
+  {
+   "id": "53bb687fa082",
+   "title": "Clinging on: On Netanyahu and the Israel elections",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece",
+   "date": "2026-10-28T19:52:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu’s continuance will be bad news for Israel and the region",
+   "score": 4
   }
  ]
 }
