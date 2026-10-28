@@ -276,7 +276,8 @@ function analyze(src,fileName){
   const tok=norm(text).split(' '),gram={};
   for(const n of [4,3])for(let i=0;i+n<=tok.length;i++){const g=tok.slice(i,i+n);if(g.filter(w=>!STOP.has(w)).length<2)continue;const k=g.join(' ');gram[k]=(gram[k]||0)+1}
   const lim=Math.max(5,Math.round(W/150));
-  const rep=Object.entries(gram).filter(([k,c])=>c>=lim&&!(kw&&norm(kw).includes(k))).sort((a,b)=>b[1]-a[1]||b[0].length-a[0].length);
+  const core=k=>{const w=k.split(' ');while(w.length&&STOP.has(w[0]))w.shift();while(w.length&&STOP.has(w[w.length-1]))w.pop();return w.join(' ')};
+  const rep=Object.entries(gram).filter(([k,c])=>c>=lim&&!(kw&&norm(kw).includes(core(k)))).sort((a,b)=>b[1]-a[1]||b[0].length-a[0].length);
   const shown=[];rep.forEach(([k,c])=>{if(!shown.some(([s])=>s.includes(k)||k.includes(s)))shown.push([k,c])});
   if(shown.length)add('read','bad',`عبارت‌های تکراری: ${shown.slice(0,3).map(([k,c])=>`«${k}» (${fa(c)} بار)`).join('، ')}.`,'تکرار زیاد یک عبارت، متن را مکانیکی می‌کند و گوگل هم ممکن است آن را پرکننده ببیند. بخشی از تکرارها را با ضمیر یا هم‌معنا جایگزین کنید.');
   else add('read','good','عبارتی بیش از حد تکرار نشده است.');
