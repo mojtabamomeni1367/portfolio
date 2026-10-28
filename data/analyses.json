@@ -12,12 +12,26 @@
     "mena-sa"
    ],
    "versions": {
+    "en": {
+     "title": "Israel elections 2026: A coalition with Arab parties could unlock Eisenkot’s path past Netanyahu",
+     "summary": "The parliamentary balance reported in the Israel elections 2026 places Arab parties in a potentially decisive position. A coalition with Arab parties could give Gadi Eisenkot the support needed to form a government and remove Benjamin Netanyahu from power. That prospect, however, depends on the final count, opposition unity and an agreement translating Arab representation into effective political participation.",
+     "focus_keyword": "coalition with Arab parties",
+     "image": "/assets/uploads/ائتلاف با احزاب عرب.png",
+     "url": "analysis/israel-election-2026-arab-parties-en.html"
+    },
     "fa": {
      "title": "انتخابات اسرائیل 2026؛ ائتلاف با احزاب عرب، معادله سرنوشت‌ساز آیزنکوت برای پایان دوران نتانیاهو",
      "summary": "آرایش کرسی‌ها در گزارش‌های منتشرشده از انتخابات اسرائیل 2026، احزاب عرب را در موقعیتی تعیین‌کننده قرار داده است؛ موقعیتی که می‌تواند با ائتلاف با احزاب عرب، راه گادی آیزنکوت را برای تشکیل دولت و کنار زدن بنیامین نتانیاهو باز کند. بااین‌حال، تحقق این سناریو به نتیجه نهایی شمارش آرا، انسجام مخالفان و توافق بر سر مشارکت سیاسی عرب‌ها وابسته است.",
      "focus_keyword": "ائتلاف با احزاب عرب",
      "image": "/assets/uploads/ائتلاف با احزاب عرب.png",
      "url": "analysis/israel-election-2026-arab-parties-fa.html"
+    },
+    "ar": {
+     "title": "انتخابات إسرائيل 2026؛ التحالف مع الأحزاب العربية مفتاح آيزنكوت لتجاوز نتنياهو",
+     "summary": "تضع خريطة المقاعد الواردة في تقارير انتخابات إسرائيل 2026 الأحزاب العربية في موقع حاسم لتحديد هوية الحكومة المقبلة. فقد يتيح التحالف مع الأحزاب العربية لغادي آيزنكوت تأمين الدعم اللازم لتشكيل حكومة وإبعاد بنيامين نتنياهو عن السلطة. غير أن انتقال هذا الاحتمال إلى واقع سياسي يظل مرتبطا بالنتائج النهائية للفرز، وتماسك معسكر التغيير، والتوصل إلى اتفاق يحدد مضمون المشاركة العربية وضماناتها، بدلا من الاكتفاء بجمع المقاعد على الورق أو إعلان انتصار لم يتحول بعد إلى أغلبية قادرة على الحكم.",
+     "focus_keyword": "التحالف مع الأحزاب العربية",
+     "image": "/assets/uploads/ائتلاف با احزاب عرب.png",
+     "url": "analysis/israel-election-2026-arab-parties-ar.html"
     }
    }
   }
