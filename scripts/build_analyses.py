@@ -17,7 +17,9 @@ Files that share a slug are translations of the same analysis.
 
 Output:
   analysis/<slug>-<lang>.html   one page per language version
+  topic/<topic>-<lang>.html     one page per site topic and language
   data/analyses.json            list the site reads for the map and Top Stories
+  sitemap.xml                   every page, with its language versions
 """
 import html
 import json
@@ -38,6 +40,7 @@ SRC = ROOT / "content" / "analyses"
 OUT_DIR = ROOT / "analysis"
 OUT_JSON = ROOT / "data" / "analyses.json"
 SITEMAP = ROOT / "sitemap.xml"
+TOPIC_DIR = ROOT / "topic"
 SITE = "https://momenimojtaba.com"
 LANGS = ("en", "fa", "ar")
 TOPICS = ("iran-policy", "mena-sa", "political-islam", "extremism", "migration", "security")
@@ -50,6 +53,40 @@ UI = {
 LANG_NAME = {"en": "English", "fa": "فارسی", "ar": "العربية"}
 OG_LOCALE = {"en": "en_US", "fa": "fa_IR", "ar": "ar_AR"}
 AUTHOR = {"en": "Mojtaba Momeni", "fa": "مجتبی مؤمنی", "ar": "مجتبى مؤمني"}
+HOME = {"en": "/", "fa": "/fa/", "ar": "/ar/"}
+TOPIC_NAME = {
+    "iran-policy": {"en": "Iran's Domestic Affairs & Foreign Policy", "fa": "مسائل داخلی و سیاست خارجی ایران", "ar": "الشؤون الداخلية والسياسة الخارجية لإيران"},
+    "mena-sa": {"en": "Political Issues & Developments in the Middle East & South Asia", "fa": "مسائل و تحولات سیاسی خاورمیانه و جنوب آسیا", "ar": "القضايا والتطورات السياسية في الشرق الأوسط وجنوب آسيا"},
+    "political-islam": {"en": "Political Islam & Islamist Movements", "fa": "اسلام سیاسی و جنبش‌های اسلام‌گرا", "ar": "الإسلام السياسي والحركات الإسلامية"},
+    "extremism": {"en": "Extremism & Radicalism", "fa": "افراط‌گرایی و رادیکالیسم", "ar": "التطرف والراديكالية"},
+    "migration": {"en": "Refugee & Migration Studies", "fa": "مطالعات پناهندگی و مهاجرت", "ar": "دراسات اللجوء والهجرة"},
+    "security": {"en": "Regional Security & Geopolitics", "fa": "امنیت منطقه‌ای و ژئوپلیتیک", "ar": "الأمن الإقليمي والجغرافيا السياسية"},
+}
+TOPIC_DESC = {
+    "iran-policy": {"en": "Analysis of Iran's domestic politics and its foreign policy towards the region and the wider world.",
+                    "fa": "تحلیل سیاست داخلی ایران و سیاست خارجی آن در قبال منطقه و جهان.",
+                    "ar": "تحليلات حول السياسة الداخلية الإيرانية وسياستها الخارجية تجاه المنطقة والعالم."},
+    "mena-sa": {"en": "Analysis of political issues, elections and developments across the Middle East and South Asia.",
+                "fa": "تحلیل مسائل سیاسی، انتخابات و تحولات خاورمیانه و جنوب آسیا.",
+                "ar": "تحليلات حول القضايا السياسية والانتخابات والتطورات في الشرق الأوسط وجنوب آسيا."},
+    "political-islam": {"en": "Analysis of political Islam and Islamist movements, their ideas, organisations and political roles.",
+                        "fa": "تحلیل اسلام سیاسی و جنبش‌های اسلام‌گرا، اندیشه‌ها، سازمان‌ها و نقش سیاسی آن‌ها.",
+                        "ar": "تحليلات حول الإسلام السياسي والحركات الإسلامية وأفكارها وتنظيماتها وأدوارها السياسية."},
+    "extremism": {"en": "Analysis of extremism and radicalisation, violent groups and the responses to them.",
+                  "fa": "تحلیل افراط‌گرایی و رادیکال‌شدن، گروه‌های خشونت‌گرا و واکنش‌ها به آن‌ها.",
+                  "ar": "تحليلات حول التطرف والتحول إلى الراديكالية والجماعات العنيفة وسبل مواجهتها."},
+    "migration": {"en": "Analysis of refugees, forced displacement and migration in the region and beyond.",
+                  "fa": "تحلیل مسائل پناهندگان، آوارگی اجباری و مهاجرت در منطقه و فراتر از آن.",
+                  "ar": "تحليلات حول اللاجئين والتهجير القسري والهجرة في المنطقة وخارجها."},
+    "security": {"en": "Analysis of regional security, conflicts and the geopolitics of the Middle East and South Asia.",
+                 "fa": "تحلیل امنیت منطقه‌ای، منازعات و ژئوپلیتیک خاورمیانه و جنوب آسیا.",
+                 "ar": "تحليلات حول الأمن الإقليمي والنزاعات والجغرافيا السياسية في الشرق الأوسط وجنوب آسيا."},
+}
+TOPIC_UI = {
+    "en": {"label": "Topic", "none": "Analyses on this topic will appear here soon.", "other": "In other languages", "home": "Home"},
+    "fa": {"label": "موضوع", "none": "تحلیل‌های این موضوع به‌زودی اینجا منتشر می‌شود.", "other": "به زبان‌های دیگر", "home": "صفحهٔ اصلی"},
+    "ar": {"label": "الموضوع", "none": "ستُنشر تحليلات هذا الموضوع هنا قريباً.", "other": "بلغات أخرى", "home": "الصفحة الرئيسية"},
+}
 
 PAGE = """<!DOCTYPE html>
 <html lang="{lang}" dir="{dir}">
@@ -94,13 +131,14 @@ article img,.cover img{{max-width:100%;height:auto;display:block}}
 .cover{{margin:0 0 2rem}}
 .other{{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:.9rem;color:var(--mut)}}
 .other a{{color:var(--rust);margin-inline-end:1rem}}
+.meta a{{color:var(--rust)}}
 footer{{text-align:center;font-size:.8rem;color:var(--mut);padding:2rem 1rem;border-top:1px solid var(--line)}}
 </style>
 </head>
 <body>
-<header><div class="in"><a class="brand" href="../">Mojtaba Momeni</a><a href="../#news">{back}</a></div></header>
+<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><a href="{home}#analysis">{back}</a></div></header>
 <main>
-<p class="meta">{by} · <time datetime="{date}">{date}</time></p>
+<p class="meta">{by} · <time datetime="{date}">{date}</time>{topics}</p>
 <h1>{title_esc}</h1>
 {summary_html}
 {cover}<article>
@@ -242,10 +280,100 @@ def render(meta, siblings):
         body_font=fonts[0], disp_font=fonts[1],
         brand_ls="0" if rtl else ".14em", brand_tt="none" if rtl else "uppercase",
         h_w="700" if rtl else "500",
-        back=UI[lang]["back"], by=UI[lang]["by"], date=meta["date"],
+        back=UI[lang]["back"], by=UI[lang]["by"], date=meta["date"], home=HOME[lang],
+        topics="".join(f' · <a href="/topic/{t}-{lang}.html">{html.escape(TOPIC_NAME[t][lang])}</a>' for t in meta["topics"]),
         body=markdown.markdown(meta["body_md"], extensions=["extra", "sane_lists"]),
         other=other, year=meta["date"][:4],
     )
+
+
+TOPIC_PAGE = """<!DOCTYPE html>
+<html lang="{lang}" dir="{dir}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{name} | {author}</title>
+<meta name="description" content="{desc}">
+{robots}<link rel="canonical" href="{url}">
+{alternates}<meta property="og:site_name" content="Mojtaba Momeni">
+<meta property="og:title" content="{name}">
+<meta property="og:description" content="{desc}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{url}">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Instrument+Sans:wght@400;500&family=Vazirmatn:wght@400;500;700&display=swap">
+<style>
+:root{{--navy:#08141F;--or:#E2683A;--cream:#F5F0E7;--ink:#12212E;--mut:#5A6570;--line:#D9D0C0;--rust:#B5482A}}
+*{{box-sizing:border-box}}
+body{{margin:0;background:var(--cream);color:var(--ink);font:18px/1.75 {body_font}}}
+header{{background:var(--navy);color:#EDE7DB;padding:1rem 1.25rem}}
+header .in{{max-width:46rem;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:1rem}}
+header a{{color:inherit;text-decoration:none;font-size:.9rem}}
+.brand{{font-family:{disp_font};letter-spacing:{brand_ls};text-transform:{brand_tt}}}
+main{{max-width:46rem;margin:0 auto;padding:3rem 1.25rem 4rem}}
+.meta{{font-size:.8rem;color:var(--rust);letter-spacing:.04em}}
+h1{{font-family:{disp_font};font-weight:{h_w};font-size:clamp(1.8rem,5vw,2.6rem);line-height:1.25;margin:.6rem 0 1rem}}
+.desc{{font-size:1.1rem;color:var(--mut);border-bottom:1px solid var(--line);padding-bottom:1.5rem}}
+article{{padding:1.4rem 0;border-bottom:1px solid var(--line)}}
+article time{{font-size:.8rem;color:var(--mut)}}
+article h2{{font-family:{disp_font};font-weight:{h_w};font-size:1.35rem;line-height:1.45;margin:.3rem 0}}
+article h2 a{{color:var(--ink);text-decoration:none}}article h2 a:hover{{text-decoration:underline}}
+article p{{margin:.4rem 0 0;color:var(--mut);font-size:1rem}}
+h3{{font-size:.95rem;color:var(--mut);margin-top:2.5rem}}
+.none{{color:var(--mut)}}
+.other{{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:.9rem;color:var(--mut)}}
+.other a{{color:var(--rust);margin-inline-end:1rem}}
+footer{{text-align:center;font-size:.8rem;color:var(--mut);padding:2rem 1rem;border-top:1px solid var(--line)}}
+</style>
+</head>
+<body>
+<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><a href="{home}#research">{home_label}</a></div></header>
+<main>
+<p class="meta">{label}</p>
+<h1>{name}</h1>
+<p class="desc">{desc}</p>
+{items}
+{other}
+</main>
+<footer>© {year} Mojtaba Momeni</footer>
+</body>
+</html>
+"""
+
+
+def render_topic(topic, lang, items, year):
+    rtl = lang in ("fa", "ar")
+    ui = TOPIC_UI[lang]
+    mine = [it for it in items if topic in it["topics"] and lang in it["versions"]]
+    others = [it for it in items if topic in it["topics"] and lang not in it["versions"]]
+
+    def card(it, l):
+        v = it["versions"][l]
+        summ = f'<p dir="auto">{html.escape(v["summary"])}</p>' if v.get("summary") else ""
+        return (f'<article lang="{l}"><time datetime="{it["date"]}">{it["date"]}</time>'
+                f'<h2 dir="auto"><a href="/{v["url"]}">{html.escape(v["title"])}</a></h2>{summ}</article>')
+
+    body = "".join(card(it, lang) for it in mine)
+    if others:
+        body += f'<h3>{ui["other"]}</h3>' + "".join(card(it, next(iter(it["versions"]))) for it in others)
+    if not body:
+        body = f'<p class="none">{ui["none"]}</p>'
+    url = f"{SITE}/topic/{topic}-{lang}.html"
+    alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{SITE}/topic/{topic}-{l}.html">\n' for l in LANGS)
+    other = '<p class="other">' + "".join(
+        f'<a href="{topic}-{l}.html" lang="{l}">{LANG_NAME[l]}</a>' for l in LANGS if l != lang) + "</p>"
+    fonts = ("'Vazirmatn',sans-serif", "'Vazirmatn',sans-serif") if rtl else (
+        "'Instrument Sans',system-ui,sans-serif", "'Newsreader',Georgia,serif")
+    indexable = bool(mine or others)
+    page = TOPIC_PAGE.format(
+        lang=lang, dir="rtl" if rtl else "ltr", name=html.escape(TOPIC_NAME[topic][lang]), author=AUTHOR[lang],
+        desc=html.escape(TOPIC_DESC[topic][lang]), url=url, alternates=alts,
+        robots="" if indexable else '<meta name="robots" content="noindex, follow">\n',
+        body_font=fonts[0], disp_font=fonts[1], brand_ls="0" if rtl else ".14em",
+        brand_tt="none" if rtl else "uppercase", h_w="700" if rtl else "500",
+        home=HOME[lang], home_label=ui["home"], label=ui["label"], items=body, other=other, year=year)
+    return page, indexable
 
 
 def main():
@@ -293,14 +421,38 @@ def main():
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps({"count": len(items), "items": items}, ensure_ascii=False, indent=1) + "\n",
                         encoding="utf-8")
-    # sitemap for search engines: home page + every analysis page
-    urls = [(SITE + "/", items[0]["date"] if items else None)]
+    # topic pages, one per topic and language
+    TOPIC_DIR.mkdir(parents=True, exist_ok=True)
+    year = items[0]["date"][:4] if items else "2026"
+    topic_pages = []
+    for t in TOPICS:
+        for l in LANGS:
+            page, indexable = render_topic(t, l, items, year)
+            (TOPIC_DIR / f"{t}-{l}.html").write_text(page, encoding="utf-8")
+            if indexable:
+                topic_pages.append((t, l))
+
+    # sitemap for search engines: every page, with its other language versions
+    def entry(loc, lastmod, alts):
+        links = "".join(f'<xhtml:link rel="alternate" hreflang="{h}" href="{u}"/>' for h, u in alts)
+        return (f"  <url><loc>{loc}</loc>" + (f"<lastmod>{lastmod}</lastmod>" if lastmod else "")
+                + links + "</url>\n")
+
+    latest = items[0]["date"] if items else None
+    home_alts = [("en", SITE + "/"), ("fa", SITE + "/fa/"), ("ar", SITE + "/ar/"), ("x-default", SITE + "/")]
+    rows = [entry(u, latest, home_alts) for _, u in home_alts[:3]]
     for it in items:
-        for v in it["versions"].values():
-            urls.append((f"{SITE}/{v['url']}", it["date"]))
-    rows = "".join(f"  <url><loc>{u}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "") + "</url>\n" for u, d in urls)
-    SITEMAP.write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-                       + rows + "</urlset>\n", encoding="utf-8")
+        alts = [(l, f"{SITE}/{v['url']}") for l, v in it["versions"].items()] if len(it["versions"]) > 1 else []
+        rows += [entry(f"{SITE}/{v['url']}", it["date"], alts) for v in it["versions"].values()]
+    for t in TOPICS:
+        langs = [l for tt, l in topic_pages if tt == t]
+        alts = [(l, f"{SITE}/topic/{t}-{l}.html") for l in langs] if len(langs) > 1 else []
+        last = max((it["date"] for it in items if t in it["topics"]), default=None)
+        rows += [entry(f"{SITE}/topic/{t}-{l}.html", last, alts) for l in langs]
+    SITEMAP.write_text('<?xml version="1.0" encoding="UTF-8"?>\n'
+                       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+                       'xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "".join(rows) + "</urlset>\n",
+                       encoding="utf-8")
 
     print(f"analyses: {len(items)} ({sum(len(v) for v in groups.values())} language versions)")
     for e in errors:

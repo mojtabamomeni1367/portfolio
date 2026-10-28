@@ -5,6 +5,8 @@ on:
     paths:
       - "content/analyses/**"
       - "scripts/build_analyses.py"
+      - "scripts/build_langs.py"
+      - "index.html"
   workflow_dispatch:
 
 permissions:
@@ -23,13 +25,15 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install markdown pyyaml
-      - name: Build analysis pages
+      - name: Build analysis and topic pages
         run: python scripts/build_analyses.py
+      - name: Build Persian and Arabic home pages
+        run: python scripts/build_langs.py
       - name: Save changes
         run: |
           git config user.name "analysis-bot"
           git config user.email "analysis-bot@users.noreply.github.com"
-          git add -A analysis data/analyses.json sitemap.xml
+          git add -A analysis topic fa ar data/analyses.json sitemap.xml
           if git diff --cached --quiet; then
             echo "Nothing to publish."
           else
