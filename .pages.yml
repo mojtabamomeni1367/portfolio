@@ -1,0 +1,128 @@
+# Pages CMS (https://app.pagescms.org): the editing panel for momenimojtaba.com
+media:
+  input: assets/uploads
+  output: /assets/uploads
+  extensions: [jpg, jpeg, png, webp]
+
+content:
+  - name: analyses
+    label: تحلیل‌ها
+    description: "تحلیل‌های سایت. پس از Save، صفحه در یکی دو دقیقه روی سایت به‌روز می‌شود. امتیاز سئو: momenimojtaba.com/seo"
+    type: collection
+    path: content/analyses
+    format: yaml-frontmatter
+    exclude: [_template.md, README.md]
+    filename:
+      template: "{fields.slug}-{fields.lang}.md"
+      field: create
+    view:
+      primary: title
+      fields: [title, lang, date, draft]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: عنوان
+        type: string
+        required: true
+      - name: slug
+        label: نامک (Slug)
+        description: "بخش انگلیسی آدرس صفحه، با حروف کوچک و خط تیره. مثال: israel-election-2026-arab-parties. نسخه‌های فارسی، انگلیسی و عربی یک تحلیل باید نامک یکسان داشته باشند. پس از انتشار تغییرش ندهید."
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(-[a-z0-9]+)*$"
+          message: "فقط حروف کوچک انگلیسی، عدد و خط تیره"
+      - name: lang
+        label: زبان
+        type: select
+        required: true
+        default: fa
+        options:
+          values:
+            - { value: fa, label: فارسی }
+            - { value: en, label: English }
+            - { value: ar, label: العربية }
+      - name: date
+        label: تاریخ انتشار
+        type: date
+        required: true
+      - name: countries
+        label: کشورها
+        description: کشورهایی که تحلیل عمدتاً دربارهٔ آن‌هاست. روی نقشهٔ سایت نمایش داده می‌شود.
+        type: select
+        options:
+          multiple: true
+          values:
+            - { value: TUR, label: ترکیه }
+            - { value: SYR, label: سوریه }
+            - { value: LBN, label: لبنان }
+            - { value: ISR, label: اسرائیل }
+            - { value: PSE, label: فلسطین }
+            - { value: JOR, label: اردن }
+            - { value: IRQ, label: عراق }
+            - { value: IRN, label: ایران }
+            - { value: KWT, label: کویت }
+            - { value: SAU, label: عربستان سعودی }
+            - { value: BHR, label: بحرین }
+            - { value: QAT, label: قطر }
+            - { value: ARE, label: امارات }
+            - { value: OMN, label: عمان }
+            - { value: YEM, label: یمن }
+            - { value: EGY, label: مصر }
+            - { value: AFG, label: افغانستان }
+            - { value: PAK, label: پاکستان }
+            - { value: IND, label: هند }
+            - { value: BGD, label: بنگلادش }
+      - name: topics
+        label: موضوع‌ها
+        type: select
+        options:
+          multiple: true
+          values:
+            - { value: iran-policy, label: مسائل داخلی و سیاست خارجی ایران }
+            - { value: mena-sa, label: مسائل و تحولات سیاسی خاورمیانه و جنوب آسیا }
+            - { value: political-islam, label: اسلام سیاسی و جنبش‌های اسلام‌گرا }
+            - { value: extremism, label: افراط‌گرایی و رادیکالیسم }
+            - { value: migration, label: مطالعات پناهندگی و مهاجرت }
+            - { value: security, label: امنیت منطقه‌ای و ژئوپلیتیک }
+      - name: summary
+        label: خلاصه (لید)
+        description: یک یا دو جمله که بالای تحلیل نمایش داده می‌شود.
+        type: text
+      - name: focus_keyword
+        label: "سئو: کلیدواژهٔ کانونی"
+        description: عبارتی که می‌خواهید تحلیل با آن در گوگل پیدا شود. صفحهٔ momenimojtaba.com/seo بر اساس آن امتیاز می‌دهد.
+        type: string
+      - name: seo_title
+        label: "سئو: عنوان در نتایج گوگل"
+        description: اختیاری. اگر خالی بماند، عنوان اصلی استفاده می‌شود. بهتر است حداکثر ۶۰ نویسه باشد.
+        type: string
+        options:
+          maxlength: 90
+      - name: meta_description
+        label: "سئو: توضیح متا"
+        description: اختیاری. متنی که زیر عنوان در نتایج گوگل نمایش داده می‌شود. ۱۲۰ تا ۱۶۰ نویسه. اگر خالی بماند، خلاصه استفاده می‌شود.
+        type: text
+        options:
+          maxlength: 200
+      - name: image
+        label: تصویر شاخص
+        description: اختیاری. بالای تحلیل و هنگام اشتراک‌گذاری در شبکه‌های اجتماعی نمایش داده می‌شود (ترجیحاً افقی، ۱۲۰۰×۶۳۰).
+        type: image
+      - name: image_alt
+        label: توضیح تصویر (Alt)
+        description: یک جملهٔ کوتاه که محتوای تصویر را توصیف کند.
+        type: string
+      - name: translated
+        label: این نسخه ترجمه است
+        type: boolean
+      - name: draft
+        label: پیش‌نویس (منتشر نشود)
+        type: boolean
+      - name: body
+        label: متن تحلیل
+        type: rich-text
+        required: true

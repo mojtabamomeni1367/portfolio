@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /seo/
 
 Sitemap: https://momenimojtaba.com/sitemap.xml

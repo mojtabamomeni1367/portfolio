@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>بررسی سئو | Mojtaba Momeni</title>
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+:root{--navy:#08141F;--navy2:#0D1F2D;--or:#E2683A;--or2:#F08A5D;--cream:#F5F0E7;--paper:#ECE5D8;--ink:#12212E;--mut:#5A6570;--line:#D9D0C0;--rust:#B5482A;
+--good:#2F8F5B;--ok:#D08A1E;--bad:#C2412D}
+*{box-sizing:border-box}
+body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.8 'Vazirmatn',system-ui,sans-serif}
+header{background:var(--navy);color:#EDE7DB;padding:1rem}
+header .in{max-width:68rem;margin:0 auto;display:flex;flex-wrap:wrap;gap:.6rem 1.2rem;align-items:center;justify-content:space-between}
+header a{color:inherit;text-decoration:none;font-size:.9rem;opacity:.85}
+header h1{font-size:1.15rem;margin:0;font-weight:700}
+main{max-width:68rem;margin:0 auto;padding:1.5rem 1rem 4rem}
+.bar{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center}
+select,button{font:inherit}
+select{flex:1 1 20rem;min-width:0;padding:.55rem .7rem;border:1px solid var(--line);background:#fff;color:var(--ink)}
+.btn{padding:.55rem 1rem;border:1px solid var(--ink);background:var(--ink);color:var(--cream);cursor:pointer;text-decoration:none;font-size:.9rem;display:inline-flex;align-items:center;gap:.4rem}
+.btn.ol{background:transparent;color:var(--ink)}
+.btn:hover{filter:brightness(1.15)}
+.status{font-size:.82rem;color:var(--mut);margin-top:.6rem;min-height:1.4em}
+.status.live::before{content:"";display:inline-block;width:.5rem;height:.5rem;border-radius:50%;background:var(--good);margin-inline-end:.4rem;vertical-align:middle}
+.grid{display:grid;grid-template-columns:1fr;gap:1.5rem;margin-top:1.5rem}
+@media(min-width:900px){.grid{grid-template-columns:20rem 1fr}}
+.card{background:#fff;border:1px solid var(--line);padding:1.2rem}
+.card h2{font-size:1rem;margin:0 0 .8rem}
+.scores{display:flex;gap:1rem}
+.score{flex:1;text-align:center;padding:1rem .5rem;border:1px solid var(--line);background:var(--paper)}
+.ring{--c:var(--bad);--p:0;width:6.5rem;height:6.5rem;margin:0 auto;border-radius:50%;display:grid;place-items:center;
+background:conic-gradient(var(--c) calc(var(--p)*1%),#E3DCCD 0)}
+.ring span{width:5.2rem;height:5.2rem;border-radius:50%;background:var(--paper);display:grid;place-items:center;font-size:1.6rem;font-weight:700}
+.score p{margin:.5rem 0 0;font-size:.9rem}
+.score small{display:block;color:var(--mut);font-size:.78rem}
+.meta{font-size:.85rem;color:var(--mut)}
+.meta b{color:var(--ink);font-weight:500}
+.serp{border:1px solid var(--line);padding:1rem;background:#fff;margin-top:1rem;direction:auto}
+.serp .u{font-size:.8rem;color:#4d5156;direction:ltr;text-align:left}
+.serp .t{color:#1a0dab;font-size:1.15rem;line-height:1.4;margin:.2rem 0}
+.serp .d{color:#4d5156;font-size:.88rem;line-height:1.6}
+.sec{margin-top:1.5rem}
+.sec h3{font-size:.95rem;margin:0 0 .5rem;display:flex;align-items:center;gap:.5rem}
+.sec h3 .n{font-size:.75rem;padding:0 .5rem;background:var(--paper);color:var(--mut)}
+ul.checks{list-style:none;margin:0;padding:0}
+ul.checks li{display:flex;gap:.7rem;padding:.6rem 0;border-top:1px solid #EFE9DD;font-size:.93rem}
+ul.checks li:first-child{border-top:0}
+.dot{flex:none;width:.8rem;height:.8rem;border-radius:50%;margin-top:.45rem}
+.good .dot{background:var(--good)}.ok .dot{background:var(--ok)}.bad .dot{background:var(--bad)}
+ul.checks li b{font-weight:500}
+.fix{display:block;color:var(--mut);font-size:.85rem}
+.tabs{display:flex;gap:.4rem;margin-bottom:1rem}
+.tabs button{padding:.4rem .9rem;border:1px solid var(--line);background:transparent;cursor:pointer;color:var(--mut)}
+.tabs button[aria-selected="true"]{background:var(--ink);color:var(--cream);border-color:var(--ink)}
+.empty{padding:3rem 1rem;text-align:center;color:var(--mut)}
+.help{font-size:.85rem;color:var(--mut);margin-top:2rem;border-top:1px solid var(--line);padding-top:1rem}
+.help a{color:var(--rust)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<header><div class="in"><h1>بررسی سئوی تحلیل‌ها</h1><nav class="bar"><a href="https://app.pagescms.org/mojtabamomeni1367/portfolio/main/collection/analyses" target="_blank" rel="noopener">پنل ویرایش ↗</a><a href="/">سایت</a></nav></div></header>
+<main>
+  <div class="bar">
+    <select id="pick" aria-label="انتخاب تحلیل"><option>در حال بارگذاری فهرست…</option></select>
+    <button id="refresh" class="btn" type="button">بررسی دوباره</button>
+    <a id="edit" class="btn ol" target="_blank" rel="noopener" hidden>ویرایش این تحلیل ↗</a>
+  </div>
+  <p id="status" class="status"></p>
+
+  <div id="out" class="grid" hidden>
+    <aside>
+      <div class="card">
+        <div class="scores">
+          <div class="score"><div class="ring" id="r-seo"><span id="s-seo">–</span></div><p>سئو</p><small id="l-seo"></small></div>
+          <div class="score"><div class="ring" id="r-read"><span id="s-read">–</span></div><p>خوانایی</p><small id="l-read"></small></div>
+        </div>
+      </div>
+      <div class="card" style="margin-top:1rem">
+        <h2>پیش‌نمایش در گوگل</h2>
+        <div class="serp" id="serp"></div>
+        <p class="meta" id="facts" style="margin-top:1rem"></p>
+      </div>
+    </aside>
+    <section class="card">
+      <div class="tabs" role="tablist">
+        <button role="tab" aria-selected="true" data-t="seo">سئو</button>
+        <button role="tab" aria-selected="false" data-t="read">خوانایی</button>
+      </div>
+      <div id="list"></div>
+    </section>
+  </div>
+
+  <p class="help">نحوهٔ کار: تحلیل را در <a href="https://app.pagescms.org/mojtabamomeni1367/portfolio/main/collection/analyses" target="_blank" rel="noopener">پنل ویرایش</a> باز کنید و این صفحه را در یک زبانهٔ دیگر کنارش نگه دارید. پس از هر بار Save، این صفحه ظرف حدود ۲۰ ثانیه خودش نسخهٔ تازه را می‌خواند و امتیاز را به‌روز می‌کند. این صفحه در گوگل نمایه نمی‌شود.</p>
+</main>
+
+<script>
+const OWNER='mojtabamomeni1367',REPO='portfolio',DIR='content/analyses',SITE='https://momenimojtaba.com';
+const API=`https://api.github.com/repos/${OWNER}/${REPO}/contents/${DIR}`;
+const EDIT=p=>`https://app.pagescms.org/${OWNER}/${REPO}/main/collection/analyses/edit/${encodeURIComponent(p)}`;
+const AUTHOR={fa:'مجتبی مؤمنی',en:'Mojtaba Momeni',ar:'مجتبى مؤمني'};
+const $=s=>document.querySelector(s);
+const fa=n=>String(n).replace(/\d/g,d=>'۰۱۲۳۴۵۶۷۸۹'[d]);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+
+/* ---------- text helpers ---------- */
+const DIAC=/[ً-ْٰـ]/g;
+function norm(s){ // for matching: unify letters, digits, half-space
+  return String(s||'').replace(DIAC,'').replace(/ي/g,'ی').replace(/ى/g,'ی').replace(/ك/g,'ک').replace(/[ۀة]/g,'ه').replace(/[أإآ]/g,'ا')
+    .replace(/[۰-۹]/g,d=>'۰۱۲۳۴۵۶۷۸۹'.indexOf(d)).replace(/[٠-٩]/g,d=>'٠١٢٣٤٥٦٧٨٩'.indexOf(d))
+    .replace(/[‌‏‎]/g,' ').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+}
+const words=s=>String(s||'').replace(/[‏‎]/g,'').split(/[\s]+/).filter(w=>/[\p{L}\p{N}]/u.test(w));
+function count(hay,needle){ // whole-phrase occurrences in normalized text
+  const h=' '+norm(hay)+' ',n=' '+norm(needle)+' ';if(n.trim()==='')return 0;
+  let c=0,i=0;while((i=h.indexOf(n,i))!==-1){c++;i+=n.length-1}return c;
+}
+const sentences=s=>String(s||'').split(/(?<=[.!?؟])\s+|\n+/).map(x=>x.trim()).filter(x=>words(x).length>0);
+const glen=s=>[...String(s||'')].length;
+
+const TRANS={
+ fa:['بنابراین','در نتیجه','با این حال','بااین‌حال','بااین حال','اما','ولی','همچنین','از این رو','ازاین‌رو','ازاین رو','در مقابل','علاوه بر این','افزون بر این','به همین دلیل','در واقع','به عبارت دیگر','نخست','سپس','در نهایت','در حالی که','درحالی‌که','زیرا','چون','هرچند','اگرچه','با وجود','برای مثال','به‌عنوان مثال','از سوی دیگر','در سوی دیگر','به بیان دیگر','در این میان','در این چارچوب','پس','لذا','در عین حال','به‌ویژه','به ویژه','بنابر این','از همین زاویه','در مجموع','خلاصه آنکه','نیز'],
+ en:['however','therefore','moreover','furthermore','in addition','for example','for instance','consequently','as a result','meanwhile','nevertheless','although','because','thus','in contrast','on the other hand','first','second','finally','in short','similarly','likewise','instead','still','yet','also'],
+ ar:['لذلك','ومع ذلك','بالإضافة إلى','علاوة على ذلك','على سبيل المثال','نتيجة لذلك','في المقابل','من ناحية أخرى','أولاً','ثانياً','أخيراً','لأن','بينما','رغم','لكن','إذن','كذلك','أيضاً','في الواقع','بعبارة أخرى']
+};
+const STOP=new Set(norm('و در به از که این را با برای آن یک تا بر هم ها های است شد می شود کرد کند دارد بود نیز اما یا اگر هر نه the of and to in a is for on that with as by an be it are at or from this').split(' '));
+
+/* ---------- data ---------- */
+let files=[],titles={},others=[],cur=null,etag=null,timer=null;
+async function loadList(){
+  try{const r=await fetch('/data/analyses.json',{cache:'no-cache'});if(r.ok){const d=await r.json();
+    (d.items||[]).forEach(it=>Object.entries(it.versions||{}).forEach(([l,v])=>{titles[`${it.id}-${l}.md`]=v.title;others.push({file:`${it.id}-${l}.md`,kw:v.focus_keyword||'',title:v.title})}))}}catch(e){}
+  const r=await fetch(API+'?ref=main',{headers:{Accept:'application/vnd.github+json'}});
+  if(r.status===403||r.status===429){status('محدودیت درخواست‌های GitHub موقتاً پر شده است. چند دقیقه دیگر صفحه را تازه کنید.');return}
+  if(!r.ok){status('فهرست تحلیل‌ها خوانده نشد.');return}
+  files=(await r.json()).filter(f=>f.type==='file'&&/\.md$/.test(f.name)&&!f.name.startsWith('_')&&f.name.toLowerCase()!=='readme.md');
+  const sel=$('#pick');
+  if(!files.length){sel.innerHTML='<option>هنوز تحلیلی وجود ندارد</option>';status('');return}
+  sel.innerHTML=files.map(f=>`<option value="${esc(f.path)}">${esc(titles[f.name]||f.name)}</option>`).join('');
+  const want=new URLSearchParams(location.search).get('a')||store.get('seo-last');
+  const hit=files.find(f=>f.name===want||f.path===want);if(hit)sel.value=hit.path;
+  select(sel.value);
+}
+function status(t,live){const s=$('#status');s.textContent=t;s.classList.toggle('live',!!live)}
+function select(path){cur=path;etag=null;store.set('seo-last',path);$('#edit').href=EDIT(path);$('#edit').hidden=false;check(true);
+  clearInterval(timer);timer=setInterval(()=>{if(!document.hidden)check(false)},20000)}
+async function check(manual){
+  if(!cur)return;
+  const h={Accept:'application/vnd.github.raw+json'};if(etag&&!manual)h['If-None-Match']=etag;
+  let r;try{r=await fetch(API.replace(DIR,'')+cur.split('/').map(encodeURIComponent).join('/')+'?ref=main',{headers:h,cache:'no-store'})}catch(e){status('اتصال برقرار نشد. دوباره تلاش می‌شود.');return}
+  const now=new Date().toLocaleTimeString('fa-IR',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+  if(r.status===304){status('بررسی خودکار فعال است · بدون تغییر تازه · '+now,true);return}
+  if(r.status===403||r.status===429){status('محدودیت درخواست‌های GitHub موقتاً پر شده است؛ چند دقیقه دیگر خودکار ادامه می‌یابد.');return}
+  if(!r.ok){status('این تحلیل خوانده نشد.');return}
+  etag=r.headers.get('ETag');
+  const src=await r.text();
+  try{render(analyze(src,cur.split('/').pop()))}catch(e){status('ساختار فایل خوانده نشد: '+e.message);return}
+  status('بررسی خودکار فعال است · آخرین به‌روزرسانی '+now,true);
+}
+
+/* ---------- analysis ---------- */
+function parseFile(src){
+  const m=src.replace(/^﻿/,'').match(/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/);
+  if(!m)throw new Error('بخش بالای فایل (بین دو خط ---) پیدا نشد');
+  let meta={};try{meta=jsyaml.load(m[1])||{}}catch(e){m[1].split('\n').forEach(l=>{const i=l.indexOf(':');if(i>0)meta[l.slice(0,i).trim()]=l.slice(i+1).trim()})}
+  return{meta,body:m[2]};
+}
+const arr=v=>Array.isArray(v)?v:String(v||'').split(/[,\s]+/).filter(Boolean);
+const str=v=>v==null?'':String(v instanceof Date?v.toISOString().slice(0,10):v).trim();
+
+function analyze(src,fileName){
+  const{meta,body}=parseFile(src);
+  const lang=['fa','en','ar'].includes(str(meta.lang))?str(meta.lang):'fa';
+  const title=str(meta.title),summary=str(meta.summary),kw=str(meta.focus_keyword);
+  const seoTitle=str(meta.seo_title)||`${title} | ${AUTHOR[lang]}`;
+  const desc=str(meta.meta_description)||summary;
+  const slug=str(meta.slug);
+  const doc=new DOMParser().parseFromString(marked.parse(body||''),'text/html');
+  const heads=[...doc.querySelectorAll('h1,h2,h3,h4')].map(h=>h.textContent.trim());
+  const paras=[...doc.querySelectorAll('p,li,blockquote')].filter(p=>!p.querySelector('p')).map(p=>p.textContent.trim()).filter(Boolean);
+  const links=[...doc.querySelectorAll('a[href]')].map(a=>a.getAttribute('href'));
+  const imgs=[...doc.querySelectorAll('img')];
+  const text=doc.body.textContent||'';
+  const W=words(text).length;
+  const S=sentences(paras.join('\n'));
+  const R={seo:[],read:[]},add=(g,st,msg,fix)=>R[g].push({st,msg,fix});
+
+  /* --- SEO --- */
+  if(!kw){add('seo','bad','کلیدواژهٔ کانونی تعیین نشده است.','در پنل، فیلد «سئو: کلیدواژهٔ کانونی» را پر کنید؛ عبارتی که انتظار دارید خواننده در گوگل جست‌وجو کند. بقیهٔ بررسی‌های کلیدواژه پس از آن فعال می‌شوند.')}
+  else{
+    const inT=count(seoTitle,kw),startT=norm(seoTitle).startsWith(norm(kw));
+    if(!inT)add('seo','bad',`کلیدواژه «${kw}» در عنوان گوگل نیست.`,'کلیدواژه را عیناً در عنوان (یا فیلد «عنوان در نتایج گوگل») بیاورید، ترجیحاً در ابتدای آن.');
+    else if(startT)add('seo','good','کلیدواژه در ابتدای عنوان گوگل آمده است.');
+    else add('seo','ok','کلیدواژه در عنوان هست ولی در ابتدای آن نیست.','اگر ممکن است عنوان را با کلیدواژه شروع کنید.');
+    if(!desc)add('seo','bad','کلیدواژه در توضیح متا بررسی نشد چون توضیح متا خالی است.');
+    else if(count(desc,kw))add('seo','good','کلیدواژه در توضیح متا آمده است.');
+    else add('seo','bad','کلیدواژه در توضیح متا نیست.','کلیدواژه را یک بار در «توضیح متا» (یا خلاصه) بیاورید؛ گوگل آن را در نتایج پررنگ می‌کند.');
+    const intro=summary||paras[0]||'';
+    if(count(intro,kw)||count(paras[0]||'',kw))add('seo','good','کلیدواژه در پاراگراف آغازین آمده است.');
+    else add('seo','bad','کلیدواژه در پاراگراف آغازین نیامده است.','کلیدواژه را در جملهٔ اول یا دوم تحلیل بیاورید.');
+    const occ=count(text,kw),dens=W?occ/W*100:0,dn=dens.toFixed(1);
+    if(occ===0)add('seo','bad','کلیدواژه در متن تحلیل به کار نرفته است.','کلیدواژه را چند بار به‌طور طبیعی در متن بیاورید.');
+    else if(dens<0.5)add('seo','ok',`تراکم کلیدواژه ${fa(dn)}٪ است (${fa(occ)} بار)؛ کمی کم است.`,'یکی دو بار دیگر کلیدواژه یا شکل نزدیک آن را در متن بیاورید.');
+    else if(dens>3)add('seo','bad',`تراکم کلیدواژه ${fa(dn)}٪ است (${fa(occ)} بار)؛ بیش از حد است.`,'تکرار زیاد کلیدواژه از نظر گوگل «پرکردن کلیدواژه» حساب می‌شود. چند مورد را با هم‌معنا یا ضمیر جایگزین کنید.');
+    else add('seo','good',`تراکم کلیدواژه ${fa(dn)}٪ است (${fa(occ)} بار)؛ مناسب است.`);
+    if(heads.length){
+      const hk=heads.filter(h=>count(h,kw)).length;
+      if(hk)add('seo','good',`کلیدواژه در ${fa(hk)} زیرعنوان آمده است.`);
+      else add('seo','ok','کلیدواژه در هیچ زیرعنوانی نیامده است.','کلیدواژه یا شکل نزدیک آن را در دست‌کم یک زیرعنوان بیاورید.');
+    }
+    const dup=others.filter(o=>o.file!==fileName&&o.kw&&norm(o.kw)===norm(kw));
+    if(dup.length)add('seo','ok',`این کلیدواژه قبلاً برای «${dup[0].title}» هم استفاده شده است.`,'دو صفحه با یک کلیدواژه با هم رقابت می‌کنند. کلیدواژهٔ این تحلیل را دقیق‌تر یا متفاوت انتخاب کنید.');
+    else add('seo','good','این کلیدواژه پیش‌تر در تحلیل دیگری استفاده نشده است.');
+  }
+  const tl=glen(seoTitle);
+  if(tl>70)add('seo','bad',`عنوان گوگل ${fa(tl)} نویسه است و در نتایج گوگل بریده می‌شود.`,'در فیلد «سئو: عنوان در نتایج گوگل» عنوانی کوتاه‌تر (حدود ۵۰ تا ۶۰ نویسه) بنویسید. عنوان اصلی روی صفحه دست‌نخورده می‌ماند.');
+  else if(tl>60)add('seo','ok',`عنوان گوگل ${fa(tl)} نویسه است؛ ممکن است انتهایش بریده شود.`,'آن را به حدود ۶۰ نویسه برسانید.');
+  else if(tl<30)add('seo','ok',`عنوان گوگل فقط ${fa(tl)} نویسه است.`,'عنوانی کمی گویاتر بنویسید (۳۰ تا ۶۰ نویسه).');
+  else add('seo','good',`طول عنوان گوگل مناسب است (${fa(tl)} نویسه).`);
+  const dl=glen(desc);
+  if(!dl)add('seo','bad','توضیح متا و خلاصه هر دو خالی‌اند.','در فیلد «توضیح متا» یا «خلاصه» یک یا دو جملهٔ گویا بنویسید.');
+  else if(dl>160)add('seo','ok',`توضیح متا ${fa(dl)} نویسه است و در گوگل بریده می‌شود.`,'در فیلد «سئو: توضیح متا» نسخه‌ای ۱۲۰ تا ۱۶۰ نویسه‌ای بنویسید.');
+  else if(dl<120)add('seo','ok',`توضیح متا ${fa(dl)} نویسه است؛ کمی کوتاه است.`,'آن را به ۱۲۰ تا ۱۶۰ نویسه برسانید.');
+  else add('seo','good',`طول توضیح متا مناسب است (${fa(dl)} نویسه).`);
+  if(W<300)add('seo','bad',`متن ${fa(W)} کلمه است؛ برای یک تحلیل کوتاه است.`,'دست‌کم ۳۰۰ کلمه، و برای تحلیل‌های اصلی ۶۰۰ کلمه یا بیشتر.');
+  else if(W<600)add('seo','ok',`متن ${fa(W)} کلمه است.`,'تحلیل‌های ۶۰۰ کلمه به بالا معمولاً در گوگل بهتر دیده می‌شوند.');
+  else add('seo','good',`طول متن مناسب است (${fa(W)} کلمه).`);
+  const isInt=h=>/^(\/|\.\.?\/|#)/.test(h)||h.includes('momenimojtaba.com');
+  const ext=links.filter(h=>/^https?:/i.test(h)&&!isInt(h)).length,int=links.filter(isInt).length;
+  if(ext)add('seo','good',`${fa(ext)} پیوند به منابع بیرونی دارد.`);
+  else add('seo','ok','هیچ پیوندی به منابع بیرونی ندارد.','به گزارش‌ها و منابعی که به آن‌ها استناد کرده‌اید (مثلاً شبکه ۱۲ یا ۱۳) پیوند بدهید؛ اعتبار تحلیل را بالا می‌برد.');
+  if(int)add('seo','good',`${fa(int)} پیوند داخلی به صفحه‌های سایت دارد.`);
+  else add('seo','ok','پیوند داخلی ندارد.','به یکی از تحلیل‌های مرتبط قبلی یا صفحهٔ موضوع در سایت خودتان پیوند بدهید.');
+  const cover=str(meta.image);
+  if(!cover&&!imgs.length)add('seo','ok','تصویر شاخص ندارد.','یک تصویر افقی در فیلد «تصویر شاخص» بگذارید تا هنگام اشتراک در شبکه‌های اجتماعی کارت تصویری نمایش داده شود.');
+  else if(cover&&!str(meta.image_alt))add('seo','ok','تصویر شاخص توضیح (Alt) ندارد.','فیلد «توضیح تصویر» را با یک جملهٔ کوتاه پر کنید.');
+  else add('seo','good','تصویر و توضیح تصویر تنظیم شده است.');
+  const sw=slug.split('-').filter(Boolean).length;
+  if(!slug)add('seo','bad','نامک (Slug) خالی است.');
+  else if(sw>7||slug.length>75)add('seo','ok','نامک (آدرس صفحه) طولانی است.','نامک را به ۳ تا ۶ کلمهٔ انگلیسی کلیدی کوتاه کنید (فقط برای تحلیل‌های جدید؛ نامک تحلیل منتشرشده را عوض نکنید).');
+  else add('seo','good','نامک (آدرس صفحه) کوتاه و خواناست.');
+  if(!arr(meta.countries).length||!arr(meta.topics).length)add('seo','ok','کشور یا موضوع تعیین نشده است.','کشورها و موضوع را انتخاب کنید تا تحلیل روی نقشه و در صفحهٔ موضوع سایت دیده شود.');
+  else add('seo','good','کشور و موضوع تعیین شده است.');
+
+  /* --- Readability --- */
+  const longP=paras.filter(p=>words(p).length>150);
+  if(longP.length)add('read','ok',`${fa(longP.length)} پاراگراف بیش از ۱۵۰ کلمه دارد.`,'پاراگراف‌های بلند را به دو بخش تقسیم کنید؛ خواندن در موبایل آسان‌تر می‌شود.');
+  else add('read','good','طول پاراگراف‌ها مناسب است.');
+  const longS=S.filter(s=>words(s).length>25).length,pct=S.length?Math.round(longS/S.length*100):0;
+  if(pct>30)add('read','bad',`${fa(pct)}٪ جمله‌ها بیش از ۲۵ کلمه‌اند.`,'جمله‌های بلند را کوتاه کنید؛ حداکثر یک‌چهارم جمله‌ها بهتر است بلند باشند.');
+  else if(pct>25)add('read','ok',`${fa(pct)}٪ جمله‌ها بیش از ۲۵ کلمه‌اند.`,'چند جملهٔ بلند را کوتاه کنید.');
+  else add('read','good',`طول جمله‌ها مناسب است (${fa(pct)}٪ جمله‌های بلند).`);
+  // text without subheading
+  const blocks=[];let acc=0;doc.body.childNodes.forEach(n=>{if(/^H[1-4]$/.test(n.nodeName)){blocks.push(acc);acc=0}else acc+=words(n.textContent||'').length});blocks.push(acc);
+  const maxB=Math.max(...blocks);
+  if(W>=300&&!heads.length)add('read','bad','متن هیچ زیرعنوانی ندارد.','متن را با ۲ تا ۴ زیرعنوان بخش‌بندی کنید (در پنل، از منوی قالب‌بندی Heading 2).');
+  else if(maxB>350)add('read','bad',`یک بخش از متن ${fa(maxB)} کلمه بدون زیرعنوان است.`,'هر حدود ۳۰۰ کلمه یک زیرعنوان بگذارید.');
+  else if(maxB>300)add('read','ok',`یک بخش از متن ${fa(maxB)} کلمه بدون زیرعنوان است.`,'یک زیرعنوان دیگر اضافه کنید.');
+  else add('read','good','زیرعنوان‌ها به‌خوبی در متن پخش شده‌اند.');
+  const TW=(TRANS[lang]||[]).map(norm);
+  const withT=S.filter(s=>{const n=' '+norm(s)+' ';return TW.some(t=>n.includes(' '+t+' '))}).length,tp=S.length?Math.round(withT/S.length*100):0;
+  if(tp>=30)add('read','good',`${fa(tp)}٪ جمله‌ها واژهٔ ربط دارند؛ متن پیوسته است.`);
+  else if(tp>=20)add('read','ok',`فقط ${fa(tp)}٪ جمله‌ها واژهٔ ربط دارند.`,'از واژه‌هایی مثل «بنابراین»، «در مقابل»، «با این حال»، «افزون بر این» بیشتر استفاده کنید.');
+  else add('read','bad',`فقط ${fa(tp)}٪ جمله‌ها واژهٔ ربط دارند.`,'جمله‌ها را با واژه‌های ربط به هم وصل کنید تا استدلال روان‌تر خوانده شود.');
+  // consecutive sentences starting with the same word
+  let run=1,worst=1,word='';S.forEach((s,i)=>{const f=norm(s).split(' ')[0];if(i&&f&&f===norm(S[i-1]).split(' ')[0]){run++;if(run>worst){worst=run;word=f}}else run=1});
+  if(worst>=3)add('read','ok',`${fa(worst)} جملهٔ پشت‌سرهم با «${word}» شروع شده‌اند.`,'شروع جمله‌ها را متنوع کنید.');
+  else add('read','good','شروع جمله‌ها متنوع است.');
+  // over-repeated phrases (3-4 words)
+  const tok=norm(text).split(' '),gram={};
+  for(const n of [4,3])for(let i=0;i+n<=tok.length;i++){const g=tok.slice(i,i+n);if(g.filter(w=>!STOP.has(w)).length<2)continue;const k=g.join(' ');gram[k]=(gram[k]||0)+1}
+  const lim=Math.max(5,Math.round(W/150));
+  const rep=Object.entries(gram).filter(([k,c])=>c>=lim&&!(kw&&norm(kw).includes(k))).sort((a,b)=>b[1]-a[1]||b[0].length-a[0].length);
+  const shown=[];rep.forEach(([k,c])=>{if(!shown.some(([s])=>s.includes(k)||k.includes(s)))shown.push([k,c])});
+  if(shown.length)add('read','bad',`عبارت‌های تکراری: ${shown.slice(0,3).map(([k,c])=>`«${k}» (${fa(c)} بار)`).join('، ')}.`,'تکرار زیاد یک عبارت، متن را مکانیکی می‌کند و گوگل هم ممکن است آن را پرکننده ببیند. بخشی از تکرارها را با ضمیر یا هم‌معنا جایگزین کنید.');
+  else add('read','good','عبارتی بیش از حد تکرار نشده است.');
+
+  return{R,meta:{title,seoTitle,desc,slug,lang,W,S:S.length,heads:heads.length,date:str(meta.date),draft:meta.draft===true||meta.draft==='true',path:cur}};
+}
+
+/* ---------- render ---------- */
+let tab='seo',last=null;
+const score=list=>list.length?Math.round(list.reduce((a,c)=>a+(c.st==='good'?1:c.st==='ok'?.5:0),0)/list.length*100):0;
+const label=s=>s>=70?['خوب','var(--good)']:s>=40?['نیاز به بهبود','var(--ok)']:['ضعیف','var(--bad)'];
+function ring(id,s){const[l,c]=label(s);$('#r-'+id).style.setProperty('--p',s);$('#r-'+id).style.setProperty('--c',c);$('#s-'+id).textContent=fa(s);$('#l-'+id).textContent=l}
+function render(res){
+  last=res;$('#out').hidden=false;
+  ring('seo',score(res.R.seo));ring('read',score(res.R.read));
+  const m=res.meta,cut=(s,n)=>glen(s)>n?[...s].slice(0,n-1).join('')+'…':s;
+  $('#serp').innerHTML=`<div class="u">momenimojtaba.com › analysis › ${esc(m.slug)}-${esc(m.lang)}</div><div class="t" dir="auto">${esc(cut(m.seoTitle,62))}</div><div class="d" dir="auto">${esc(cut(m.desc||'—',160))}</div>`;
+  $('#facts').innerHTML=`<b>${fa(m.W)}</b> کلمه · <b>${fa(m.S)}</b> جمله · <b>${fa(m.heads)}</b> زیرعنوان${m.draft?' · <b style="color:var(--bad)">پیش‌نویس (منتشر نشده)</b>':''}`;
+  draw();
+}
+function draw(){
+  if(!last)return;const L=last.R[tab],o={bad:0,ok:1,good:2};
+  const grp=[['bad','مشکل‌ها'],['ok','قابل بهبود'],['good','خوب']];
+  $('#list').innerHTML=grp.map(([k,h])=>{const it=L.filter(x=>x.st===k);if(!it.length)return'';
+    return `<div class="sec"><h3>${h}<span class="n">${fa(it.length)}</span></h3><ul class="checks">${it.map(x=>`<li class="${k}"><span class="dot"></span><span><b>${esc(x.msg)}</b>${x.fix?`<span class="fix">${esc(x.fix)}</span>`:''}</span></li>`).join('')}</ul></div>`}).join('');
+}
+document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{tab=b.dataset.t;document.querySelectorAll('.tabs button').forEach(x=>x.setAttribute('aria-selected',x===b));draw()});
+$('#pick').onchange=e=>select(e.target.value);
+$('#refresh').onclick=()=>check(true);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)check(false)});
+loadList();
+</script>
+</body>
+</html>

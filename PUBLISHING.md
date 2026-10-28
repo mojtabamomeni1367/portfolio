@@ -37,7 +37,7 @@ Instructions for the scheduled publishing agent. Follow them exactly.
    translated: true        (translations only)
    ---
    ```
-7. Run `pip install markdown -q && python scripts/build_analyses.py` to check the files parse, then discard the generated output (`git checkout -- analysis data sitemap.xml` and remove new files under `analysis/`). Only the `content/analyses/*.md` files go in the commit.
+7. Run `pip install markdown pyyaml -q && python scripts/build_analyses.py` to check the files parse, then discard the generated output (`git checkout -- analysis data sitemap.xml` and remove new files under `analysis/`). Only the `content/analyses/*.md` files go in the commit.
 8. Create branch `analysis/<slug>`, commit, push, and open a pull request to `main` (REST API: `gh api repos/mojtabamomeni1367/portfolio/pulls -f title=... -f head=... -f base=main -f body=...`). Title: `Analysis: <English title>`. Body: the English summary, source language, countries, a link to the Drive document, and the note "Merge this pull request to publish. Check the translations first."
 9. After the pull request exists, move the Drive document into **Published** (update its parent folder).
 10. Report: which documents became which pull requests, and anything skipped and why.
