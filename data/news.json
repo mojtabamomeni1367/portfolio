@@ -1,7 +1,94 @@
 {
- "updated": "2026-10-27T21:47:46Z",
- "count": 165,
+ "updated": "2026-10-28T01:13:31Z",
+ "count": 168,
  "items": [
+  {
+   "id": "97e43c08066e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T01:10:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم",
+   "title_en": "Trump: Attacking Iran is one of the best things I've done",
+   "summary_en": "Donald Trump stated at a political rally that he would not change his decision to attack Iran, calling it one of the best things he has ever done.",
+   "body_en": [
+    "Speaking to supporters in Texas, Trump answered in the affirmative when asked if he would attack Iran again, describing it as one of the greatest actions of his life.",
+    "According to Reuters data from the Pentagon, the US military has spent over $47 billion on the war with Iran so far, a figure 25 percent higher than the July estimate."
+   ],
+   "title_fa": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم",
+   "summary_fa": "دونالد ترامپ در یک میتینگ انتخاباتی گفت که اگر به عقب بازگردد تصمیمش را عوض نخواهد کرد و جنگ با ایران را یکی از بهترین کارهای خود خواند.",
+   "body_fa": [
+    "ترامپ در جمع هواداران خود در تگزاس در پاسخ به این پرسش که آیا باز هم به ایران حمله می‌کرد، گفت که این کار قطعاً یکی از بزرگ‌ترین اقدامات زندگی‌اش بوده است.",
+    "بر اساس داده‌های رویترز به نقل از پنتاگون، ارتش آمریکا تاکنون بیش از ۴۷ میلیارد دلار برای این جنگ هزینه کرده که این رقم ۲۵ درصد بیشتر از برآورد ماه ژوئیه است."
+   ],
+   "title_ar": "ترامپ: الهجوم على إيران هو أحد أفضل الأمور التي فعلتها",
+   "summary_ar": "صرح دونالد ترامپ في تجمع انتخابي بأنه لن يغير قراره بشأن مهاجمة إيران، معتبرًا إياه أحد أفضل الأمور التي قام بها.",
+   "body_ar": [
+    "خلال حديثه أمام مؤيديه في تكساس، أكد ترامپ أنه كان سيهاجم إيران مرة أخرى إذا أتيحت له الفرصة، واصفاً ذلك بأنه أحد أعظم الإنجازات في حياته.",
+    "وبحسب بيانات رويترز المستمدة من البنتاغون، أنفق الجيش الأمريكي أكثر من 47 مليار دلار على الحرب مع إيران حتى الآن، وهو رقم يترفع بنسبة 25 بالمئة عن تقديرات شهر يوليو."
+   ]
+  },
+  {
+   "id": "38d6e9b9e00e",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T00:06:27Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "India and China were easing tensions - then a border official spoke out",
+   "title_en": "India and China were easing tensions - then a border official spoke out",
+   "summary_en": "Comments by an Indian border police chief alleging that Chinese troops re-entered disputed Himalayan frontier areas have sparked a political controversy in New Delhi.",
+   "body_en": [
+    "Shatrujeet Singh Kapur, director general of the Indo-Tibetan Border Police, stated that Chinese troops returned in large numbers earlier this year and pitched tents deep inside territory claimed by India in Arunachal Pradesh.",
+    "While the Indian government has not explicitly denied the account, the opposition has accused Prime Minister Narendra Modi of making concessions to Beijing, and China maintained that it conducts normal management activities."
+   ],
+   "title_fa": "افزایش تنش‌های مرزی هند و چین پس از اظهارات مقام نظامی",
+   "summary_fa": "اظهارات رئیس پلیس مرزی هند مبنی بر بازگشت نیروهای چینی به مناطق مورد مناقشه هیمالیا جنجال سیاسی تازه‌ای در دهلی نو به پا کرده است.",
+   "body_fa": [
+    "ساتروجیت سینگ کاپور، مدیرکل پلیس مرزی هند و تبت، گفت که نیروهای چینی اوایل سال جاری میلادی در تعداد بالا بازگشته و در عمق خاک مورد ادعای هند در آروناتچال پرادش چادر زده‌اند.",
+    "در حالی که دولت هند این گزارش را صراحتاً رد نکرده، احزاب مخالف نخست‌وزیر نارندرا مودی را به امتیازدهی به پکن متهم کرده‌اند و چین بر انجام فعالیت‌های عادی مرزی تأکید کرده است."
+   ],
+   "title_ar": "تصاعد التوترات الحدودية بين الهند والصين إثر تصريحات مسؤول رسمي",
+   "summary_ar": "أثارت تصريحات رئيس شرطة الحدود الهندية بشأن عودة القوات الصينية إلى مناطق نزاع جبلية في الهيمالايا جدلاً سياسياً في نيودلهي.",
+   "body_ar": [
+    "صرح شاتروجيت سينغ كابور، المدير العام لشرطة الحدود الهندية التبتية، بأن القوات الصينية عادت بأعداد كبيرة في وقت سابق من هذا العام ونصبت خياماً داخل الأراضي التي تطالب بها الهند في أروناتشل برادش.",
+    "وفي حين لم تنف الحكومة الهندية هذه الرواية صراحة، اتهمت المعارضة رئيس الوزراء ناريندرا مودي بتقديم تنازلات لبكين، بينما أكدت الصين أنها تجري أنشطة إدارة طبيعية في المناطق الحدودية."
+   ]
+  },
+  {
+   "id": "db2d0b0d604a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+   "date": "2026-10-27T22:29:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "title_en": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "summary_en": "Iranian President Masoud Pezeshkian stated at a summit in Russia that the Middle East can resolve its own issues without the United States.",
+   "body_en": [
+    "The remarks were made by the Iranian president during the summit for gas exporting countries held in Russia."
+   ],
+   "title_fa": "پزشکیان: خاورمیانه می‌تواند مسائل خود را بدون آمریکا حل کند",
+   "summary_fa": "مسعود پزشکیان در اجلاسی در روسیه اظهار داشت که خاورمیانه می‌تواند مسائل خود را بدون دخالت ایالات متحده حل و فصل کند.",
+   "body_fa": [
+    "این سخنان در جریان اجلاس کشورهای صادرکننده گاز در روسیه از سوی رئیس‌جمهور ایران مطرح شد."
+   ],
+   "title_ar": "پزشکیان: يمكن الشرق الأوسط حل مشاكله بدون أمريكا",
+   "summary_ar": "صرح الرئيس الإيراني مسعود پزشکیان خلال قمة في روسيا بأن الشرق الأوسط قادر على حل مشاكله الخاصة دون الحاجة إلى الولايات المتحدة.",
+   "body_ar": [
+    "جاءت تصريحات الرئيس الإيراني خلال قمة الدول المصدرة للغاز التي عقدت في روسيا."
+   ]
+  },
   {
    "id": "0e96da27290f",
    "lang": "en",
@@ -544,6 +631,37 @@
    ]
   },
   {
+   "id": "ca90ab01f948",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
+   "date": "2026-10-27T10:50:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
+   "title_en": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
+   "summary_en": "Residents of Ramallah in the West Bank fear further violence and tension if Israeli Prime Minister Benjamin Netanyahu remains in power.",
+   "body_en": [
+    "Ramallah residents stated they hope to see Netanyahu lose power in upcoming elections, warning that his retention of office would lead to a regional explosion and buildup of tension.",
+    "Meanwhile, United Nations-mandated investigators stated Monday that Israel has committed the crime against humanity of extermination in the West Bank alongside ongoing genocide in Gaza."
+   ],
+   "title_fa": "نگرانی فلسطینیان کرانه باختری از تشدید تنش در صورت باقی ماندن نتانیاهو",
+   "summary_fa": "ساکنان رامالله در کرانه باختری ابراز امیدواری کردند که بنیامین نتانیاهو از قدرت کنار برود و هشدار دادند که بقای او به معنای تنش و درگیری بیشتر در منطقه است.",
+   "body_fa": [
+    "شهروندان رام‌الله ابراز امیدواری کردند که نخست‌وزیر اسرائیل در انتخابات قدرت را از دست بدهد و تأکید کردند که ادامه حضور او به معنای درگیری و انفجار تنش‌ها در منطقه خواهد بود.",
+    "از سوی دیگر، محققان منصوب سازمان ملل روز دوشنبه اعلام کردند که اسرائیل مرتکب جنایت علیه بشریت از طریق «پاکسازی» در کرانه باختری و «نسل‌کشی» در غزه شده است."
+   ],
+   "title_ar": "الفلسطينيون في الضفة الغربية يخشون التصعيد إذا بقي نتنياهو في السلطة",
+   "summary_ar": "يعرب سكان رام الله في الضفة الغربية عن أملهم في إطاحة بنيامين نتانياهو، محذرين من أن بقاءه في السلطة يعني المزيد من الصراع والتصعيد في المنطقة.",
+   "body_ar": [
+    "ذكر سكان رام الله أنهم يملكون أملاً في خسارة نتانياهو للسلطة خلال الانتخابات، مؤكدين أن بقاءه يعني وقوع مواجهات وتصعيد خطير في المنطقة.",
+    "في السياق ذاته، أفاد محققون مكلفون من الأمم المتحدة يوم الإثنين بأن إسرائيل ارتكبت جريمة ضد الإنسانية تتمثل في «الإبادة» بالضفة الغربية، إلى جانب استمرار «الإبادة الجماعية» في قطاع غزة."
+   ]
+  },
+  {
    "id": "6c4d57ddbbae",
    "lang": "en",
    "source": "The Hindu",
@@ -783,36 +901,6 @@
    "body_ar": [
     "عقب هجوم استهدف حاجزا عسكرياً يوم الجمعة أسفر عن مقتل جنديين إسرائيليين، أمر بنيامين نتنياهو ووزير الدفاع إسرائيل كاتس بعزل الخليل. ووفقاً لمسؤولين محليين ومنظمات حقوقية، فتشت القوات الإسرائيلية أكثر من 500 منزل، واعتقلت العشرات، وهجرت قسراً أكثر من 3100 فلسطيني مع هدم عدة مبانٍ ومنشآت تجارية.",
     "بالتزامن مع ذلك، تصاعدت هجمات المستوطنين خلال موسم قطاف الزيتون حيث تم تسجيل مئات الاعتداءات. وحذرت منظمة \"بتسيلم\" الحقوقية من أن الإجراءات العسكرية في الخليل ترقى إلى مستوى العقاب الجماعي وقد تشكل جرائم حرب."
-   ]
-  },
-  {
-   "id": "d35a9f2a1005",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c84g1p27v55xo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-27T06:25:02Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
-   "title_en": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
-   "summary_en": "Reports and images of firearm training and military-security initiatives in Iranian schools have sparked renewed concern over the growing militarisation of the country's education system.",
-   "body_en": [
-    "Programs such as the \"Nojavan Mobaraz\" (Combatant Teenager) headquarters and the \"No+Meydan\" league, operated with the Student Basij Organisation, involve training students in cyber operations, gathering local intelligence, and handling firearms. While authorities frame these activities as defensive education and revolutionary training, critics argue they represent an increasing presence of security institutions in schools.",
-    "Concerns were further heightened by rumors of schools requiring identification tags for students similar to military dog tags. Although the Ministry of Education strongly denied issuing any such military tag directives, parents in several cities reported that requests or initiatives for identification tags had taken place."
-   ],
-   "title_fa": "از «نوجوان مبارز» تا «نو+میدان»؛ نیروهای نظامی در مدارس ایران چه می کنند؟",
-   "summary_fa": "گزارش‌ها و تصاویر منتشرشده از آموزش کار با سلاح گرم و اجرای طرح‌های نظامی-امنیتی در مدارس ایران، بار دیگر نگرانی‌ها را درباره گسترش نظامی‌سازی فضای آموزشی کشور برانگیخته است.",
-   "body_fa": [
-    "طرح‌هایی مانند قرارگاه «نوجوان مبارز» و لیگ «نو+میدان» که با همکاری سازمان بسیج دانش‌آموزی اجرا می‌شوند، شامل آموزش اقدام‌های سایبری، دیده‌بانی محلات و کار با سلاح گرم به دانش‌آموزان است. در حالی که مسئولان این برنامه‌ها را بخشی از آموزش دفاعی و تربیت نسل انقلابی می‌دانند، منتقدان آن را نشانه گسترش حضور نهادهای نظامی در مدارس می‌دانند.",
-    "نگرانی‌ها با انتشار گزارش‌هایی درباره درخواست «پلاک شناسایی» برای دانش‌آموزان افزایش یافت. اگرچه وزارت آموزش و پرورش صدور پلاک جنگی را قویاً تکذیب کرد، اما والدینی در چند شهر مدعی شدند که چنین درخواست‌هایی از سوی برخی مدارس مطرح شده است."
-   ],
-   "title_ar": "من \"الفتى المحارب\" إلى \"نو+ميدان\"؛ ماذا تفعل القوات العسكرية في المدارس الإيرانية؟",
-   "summary_ar": "أثارت التقارير والصور المنشورة لتدريبات على الأسلحة النارية والمبادرات العسكرية والأمنية في المدارس الإيرانية مخاوف متجددة بشأن تصاعد عسكرة النظام التعليمي في البلاد.",
-   "body_ar": [
-    "تتضمن برامج مثل مقر \"الفتى المحارب\" ودوري \"نو+ميدان\"، التي تُنفذ بالتعاون مع منظمة التعبئة الطلابية (البسيج)، تدريب الطلاب على العمليات السيبرانية، واستطلاعات الأحياء، واستخدام الأسلحة النارية. وفي حين تعتبر السلطات هذه النشاطات جزءاً من التربية الدفاعية والتنشئة الثورية، يرى الناقدون أنها تعكس تزايد حضور المؤسسات الأمنية في المدارس.",
-    "كما زادت المخاوف عقب تقارير عن مطالبة بعض المدارس بتزويد الطلاب بـ \"بطاقات/قلائد تعريفية\" شبيهة بالقلائد العسكرية. ورغم نفي وزارة التربية والتعليم الصارم لصدور أي توجيهات بخصوص القلائد العسكرية، أكد أولياء أمور في عدة مدن وجود مطالبات بهذا الخصوص."
    ]
   },
   {
