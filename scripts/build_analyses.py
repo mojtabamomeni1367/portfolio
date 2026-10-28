@@ -24,6 +24,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 import markdown
 
@@ -184,7 +185,8 @@ def _abs(url):
         return ""
     if url.startswith(("http://", "https://")):
         return url
-    return SITE + "/" + url.lstrip("/")
+    # encode spaces and non-Latin letters so social networks can fetch the image
+    return SITE + "/" + quote(url.lstrip("/"), safe="/%")
 
 
 def render(meta, siblings):
