@@ -1,7 +1,97 @@
 {
- "updated": "2026-10-28T21:56:37Z",
- "count": 195,
+ "updated": "2026-10-29T01:17:40Z",
+ "count": 198,
  "items": [
+  {
+   "id": "a7615274512d",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm93z7dn7qwzt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T01:08:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "ترامپ نامه ونس به ایران را تایید کرد اما گفت «مربوط به کمک‌های دارویی» است",
+   "title_en": "Trump confirms Vance letter to Iran was about medical aid, as regional tensions persist",
+   "summary_en": "US President Donald Trump confirmed that a letter sent by Vice President JD Vance to Iran's Supreme National Security Council secretary Mohsen Rezaei concerned medical supplies, amid ongoing diplomatic discussions over a seven-day proposal to reopen the Strait of Hormuz.",
+   "body_en": [
+    "The Wall Street Journal previously reported that the letter aimed to revive peace talks. Concurrently, Iranian Foreign Minister Abbas Araghchi announced ongoing consultations regarding a seven-day plan proposed by Tehran, though an Iranian official dismissed alternative Qatari proposals as unacceptable.",
+    "US Treasury Secretary Scott Bessent stated that economic isolation efforts have successfully pressured Iran to cut funding for its regional proxies, including the Houthis, Hamas, and Hezbollah. Meanwhile, Iran's official annual inflation rate reached 76.8% in Mehr (October)."
+   ],
+   "title_fa": "ترامپ نامه ونس به ایران را تایید کرد اما گفت «مربوط به کمک‌های دارویی» است",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، تایید کرد که نامه ارسالی از سوی جی‌دی ونس، معاون رئیس‌جمهور، به محسن رضایی، دبیر شورای عالی امنیت ملی ایران، مربوط به اقلام دارویی بوده است؛ این در حالی است که رایزنی‌ها بر سر طرح هفت‌روزه تهران ادامه دارد.",
+   "body_fa": [
+    "پیش‌تر نشریه وال استریت ژورنال گزارش داده بود که هدف این نامه احیای مذاکرات صلح بوده است. همزمان، عباس عراقچی، وزیر خارجه ایران، از ادامه رایزنی‌ها بر سر طرح هفت‌روزه تهران خبر داد، هرچند یک مقام ایرانی پیشنهادات جایگزین قطر را غیرقابل قبول دانست.",
+    "اسکات بسنت، وزیر دارایی آمریکا، اعلام کرد تلاش‌ها برای انزوای اقتصادی توانسته ایران را تحت فشار قرار دهد تا بودجه گروه‌های نیابتی خود از جمله حوثی‌ها، حماس و حزب‌الله را کاهش دهد. در همین حال، نرخ تورم سالانه رسمی در ایران در مهرماه به ۷۶.۸ درصد رسید."
+   ],
+   "title_ar": "ترامب يؤكد أن رسالة فانس إلى إيران تتعلق بالمساعدات الطبية وسط استمرار التوترات الإقليمية",
+   "summary_ar": "أكد الرئيس الأمريكي دونالد ترامب أن رسالة أرسلها نائب الرئيس جي دي فانس إلى أمين مجلس الأمن القومي الإيراني محسن رضائي تتعلق بالإمدادات الطبية، وذلك وسط مباحثات دبلوماسية مستمرة بشأن مقترح السيام لفتح مضيق هرمز.",
+   "body_ar": [
+    "وكانت صحيفة «وول ستريت جورنال» قد ذكرت سابقاً أن الرسالة تهدف إلى إحياء محادثات السلام. بالتزامن مع ذلك، أعلن وزير الخارجية الإيراني عباس عراقجي عن استمرار المشاورات بشأن خطة سباعية اقترحتها طهران، رغم أن مسؤولاً إيرانياً وصف المقترحات القطرية البديلة بأنها غير مقبولة.",
+    "وقال وزير الخزانة الأمريكي سكوت بيسنت إن جهود العزل الاقتصادي نجحت في الضغط على إيران لقطع تمويل وكنائها الإقليميين، بما في ذلك الحوثيون وحماس وحزب الله. وفي غضون ذلك، بلغ معدل التضخم السنوي الرسمي في إيران 76.8% في شهر مهر (تشرين الأول)."
+   ]
+  },
+  {
+   "id": "d34cd8dfe155",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "date": "2026-10-29T00:34:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israelis rally for Jewish-Arab government after election gains",
+   "title_en": "Israelis rally for Jewish-Arab government after election gains",
+   "summary_en": "Israelis held a rally in Tel Aviv demanding a Jewish-Arab government following significant electoral gains by parties representing Israel's Arab citizens.",
+   "body_en": [
+    "The demonstration followed Tuesday's general election, in which the two main Arab parties are projected to win approximately 19 seats in the 120-seat Knesset.",
+    "These potential gains could grant Arab-led parties a crucial role in determining who forms the next governing coalition."
+   ],
+   "title_fa": "تجمع اسرائیلی‌ها در تل‌آویو برای تشکیل دولت یهودی-عربی پس از پیروزی در انتخابات",
+   "summary_fa": "شهروندان اسرائیلی پس از دستاوردهای چشمگیر احزاب نماینده شهروندان عرب در انتخابات، با برگزاری تجمعی در تل‌آویو خواستار تشکیل یک دولت یهودی-عربی شدند.",
+   "body_fa": [
+    "این تظاهرات به دنبال انتخابات سراسری روز سه‌شنبه برگزار شد که در آن پیش‌بینی می‌شود دو حزب اصلی عربی حدود ۱۹ کرسی از ۱۲۰ کرسی پارلمان را به دست آورند.",
+    "این دستاوردهای احتمالی می‌تواند نقشی کلیدی به احزاب عربی در تعیین تشکیل ائتلاف دولتی آینده اعطا کند."
+   ],
+   "title_ar": "إسرائيليون يتظاهرون للمطالبة بحكومة يهودية عربية بعد مكاسب انتخابية",
+   "summary_ar": "نظم إسرائيليون مسيرة في تل أبيب للمطالبة بحكومة يهودية عربية في أعقاب المكاسب الانتخابية الكبيرة التي حققتها الأحزاب الممثلة للمواطنين العرب في إسرائيل.",
+   "body_ar": [
+    "جاءت المظاهرة في أعقاب الانتخابات العامة التي جرت يوم الثلاثاء، والتي تشير التوقعات فيها إلى فوز الحزبين العربيين الرئيسيين بنحو 19 مقعداً في الكنيست المؤلف من 120 مقعداً.",
+    "قد تمنح هذه المكاسب المحتملة الأحزاب التي تقودها الأقلية العربية دوراً حاسماً في تحديد من سیشكل الائتلاف الحاكم القادم."
+   ]
+  },
+  {
+   "id": "1ef8f758f511",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+   "date": "2026-10-28T23:48:08Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+   "title_en": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+   "summary_en": "Following Polish Prime Minister Donald Tusk's recent visit to India, bilateral ties in economic and defence cooperation are expected to strengthen as Poland distances itself from China.",
+   "body_en": [
+    "Polish Prime Minister Donald Tusk recently visited India, marking the first such visit in 16 years, following Indian Prime Minister Narendra Modi's trip to Poland in 2024 where their relationship was elevated to a strategic partnership. This strengthening of ties with India occurs as Poland moves away from China due to one-sided trade and concerns over the Russia-Ukraine war.",
+    "Experts and officials note that Poland, mirroring broader European trends, has implemented measures such as barring Chinese-made vehicles from military facilities and seeking technological independence. A government-backed research network has also launched an Asian Programme focusing on countries like India, South Korea, and Taiwan to boost innovation and reduce reliance on Beijing."
+   ],
+   "title_fa": "چرخش لهستان به سمت هند همزمان با ایجاد شکاف در «مشارکت راهبردی» با چین",
+   "summary_fa": "به دنبال سفر اخیر دونالد تاس، نخست‌وزیر لهستان به هند، انتظار می‌رود روابط دوجانبه در زمینه همکاری‌های اقتصادی و دفاعی همزمان با فاصله گرفتن لهستان از چین تقویت شود.",
+   "body_fa": [
+    "دونالد تاس، نخست‌وزیر لهستان، اخیراً به هند سفر کرد که نخستین سفر یک نخست‌وزیر لهستانی در ۱۶ سال گذشته محسوب می‌شود. این سفر به دنبال سفر نارندرا مودی، نخست‌وزیر هند، به لهستان در سال ۲۰۲۴ انجام شد که طی آن روابط دو کشور به سطح مشارکت راهبردی ارتقا یافت.",
+    "کارشناسان و مقام‌ها خاطرنشان می‌کنند که لهستان همسو با روندهای گسترده‌تر اروپایی، اقداماتی نظیر ممنوعیت ورود خودروهای ساخت چین به تأسیسات نظامی را اجرا کرده است. یک شبکه تحقیقاتی دولتی نیز برنامه‌ای آسیایی را با تمرکز بر کشورهایی چون هند، کره جنوبی و تایوان برای تقویت نوآوری و کاهش اتکا به پکن راه‌اندازی کرده است."
+   ],
+   "title_ar": "تتحول بولندا نحو الهند مع ظهور تصدعات في \"الشراكة الاستراتيجية\" مع الصين",
+   "summary_ar": "في أعقاب زيارة رئيس الوزراء البولندي دونالد توسك الأخيرة إلى الهند، من المتوقع أن تتعزيز العلاقات الثنائية في التعاون الاقتصادي والدفاعي مع ابتتعاد بولندا عن الصين.",
+   "body_ar": [
+    "زار رئيس الوزراء البولندي دونالد توسك الهند مؤخراً، في أول زيارة يقوم بها رئيس وزراء بولندي منذ 16 عاماً، وذلك في أعقاب زيارة رئيس الوزراء الهندي ناريندرا مودي إلى بولندا في عام 2024 حيث تم ارتقاء العلاقات إلى شراكة استراتيجية.",
+    "يشير الخبراء والمسؤولون إلى أن بولندا، تماشياً مع الاتجاهات الأوروبية الأوسع، نفذت تدابير مثل حظر المركبات صينية الصنع من المنشآت العسكرية والبحث عن استقلال تكنولوجي. كما أطلقت شبكة أبحاث مدعومة من الحكومة برنامجا آسيويا يركز على دول مثل الهند وكوريا الجنوبية وتايوان لتعزيز الابتكار وتقليل الاعتماد على بكين."
+   ]
+  },
   {
    "id": "4ec4098a07d9",
    "lang": "en",
@@ -180,6 +270,36 @@
    "body_ar": [
     "استهدف الحادث، الذي وقع في بلدة أنگور أدا السوقية، المنازل والمتاجر بنيران قذائف الهاون القادمة من أفغانستان، وفقاً لمكتب مفوض نائب وزيرستان الجنوبية. وقد ردت القوات الباكستانية بعملية مدفعية قصيرة استهدفت نقطة تفتيش أفغانية، رغم تعذر تأكيد وقوع إصابات في الجانب الأفغاني.",
     "أدان حاكم إقليم خيبر بختونخوا الهجوم، بينما حمّل المسؤولون المحليون السلطات الأفغانية المسؤولية. وشهد البلدان اشتباكات متفرقة وتوترات في أعقاب هدنة مارس، وسط اتهامات باكستانية مستمرة لأفغانستان بإيواء مسلحين."
+   ]
+  },
+  {
+   "id": "066ab2051e99",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T16:59:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "title_en": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "summary_en": "Partial results from Israel's general election indicate that Prime Minister Benjamin Netanyahu's right-wing bloc is leading, though it remains short of a parliamentary majority.",
+   "body_en": [
+    "With 85% of the ballots counted, Netanyahu's Likud party and its allies were on track to secure 53 seats in the 120-seat Knesset, while the opposition bloc led by Gadi Eisenkot was set for 48 seats. Arab-led parties are on course for an unprecedented 19 seats, potentially making them kingmakers in the formation of a governing coalition.",
+    "President Isaac Herzog praised the 77.7% voter turnout and stated he would begin consultations with political factions once final results are confirmed to avoid another election. Meanwhile, Likud lodged unproven claims alleging fraud and bribery, while the Central Elections Committee announced it would review the complaints."
+   ],
+   "title_fa": "نتایج جزئی انتخابات اسرائیل: بلوک نتانیاهو پیشتاز است اما به اکثریت نرسیده است",
+   "summary_fa": "نتایج جزئی انتخابات سراسری اسرائیل نشان می دهد که بلوک راست گرای به رهبری بنیامین نتانیاهو پیشتاز است، هرچند همچنان تا کسب اکثریت پارلمانی فاصله دارد.",
+   "body_fa": [
+    "با شمارش ۸۵ درصد آرا، حزب لیکود به رهبری نتانیاهو و متحدانش در مسیر کسب ۵۳ کرسی از پارلمان ۱۲۰ کرسی اسرائیل قرار دارند و بلوک مخالف به رهبری گادی آیزنکوت ۴۸ کرسی را به دست خواهد آورد. حزب های عربی نیز در مسیر کسب ۱۹ کرسی بی‌سابقه هستند که می تواند آنها را به مهره‌های کلیدی در تشکیل ائتلاف دولتی تبدیل کند.",
+    "اسحاق هرتزوگ، رئیس جمهور اسرائیل، ضمن ستایش مشارکت ۷۷.۷ درصدی رای‌دهندگان اعلام کرد که پس از تایید نتایج نهایی برای جلوگیری از برگزاری انتخابات مجدد با جناح‌های سیاسی رایزنی خواهد کرد. در همین حال، حزب لیکود ادعاهایی بدون مدرک مبنی بر تقلب و رشوه مطرح کرد و کمیته مرکزی انتخابات اعلام کرد که این شکایات را بررسی خواهد کرد."
+   ],
+   "title_ar": "النتائج الجزئية لانتخابات إسرائيل: كتلة نتانياهو متقدمة لكنها دون الأغلبية",
+   "summary_ar": "تظهر النتائج الجزئية للانتخابات العامة في إسرائيل أن تكتل رئيس الوزراء بنيامين نتانياهو متقدم، لكنه لا يزال دون الأغلبية البرلمانية.",
+   "body_ar": [
+    "مع فرز 85% من الأصوات، كان حزب اليكود بزعامة نتانياهو وحلفاؤه في طريقهم للفوز بـ 53 مقعداً في الكنيست المكون من 120 مقعداً، بينما حصل تكتل المعارضة بقيادة جادي آيزنکوت على 48 مقعداً. وتتجه الأحزاب التي تقودها الأقلية العربية للفوز بـ 19 مقعداً غير مسبوقة، مما قد يجعلها صانعة قرار في تشكيل ائتلاف حكومي.",
+    "وأشاد الرئيس الإسرائيلي إسحاق هرتسوغ بنسبة المشاركة التي بلغت 77.7%، مشيراً إلى أنه سيبدأ المشاورات مع الأطراف السياسية فور تأكيد النتائج النهائية لتجنب جولة جديدة من الانتخابات. وفي الوقت نفسه، قدم حزب اليكود مزاعم غير مدعومة بشأن التزوير، بينما أعلنت لجنة الانتخابات المركزية أنها ستراجع هذه الشكاوى."
    ]
   },
   {
@@ -647,33 +767,6 @@
    "summary_ar": "مع فرز أكثر من ثلثي الأصوات في الانتخابات الإسرائيلية، تتصدر كتلة رئيس الوزراء بنيامين نتنياهو النتائج بـ 56 مقعداً، وهي نسبة لا تصل إلى الأغلبية البرلمانية.",
    "body_ar": [
     "وفقاً لنتائج جزئية نشرتها لجنة الانتخابات المركزية بعد فرز أكثر من 66 بالمئة من الصناديق، تتصدر كتلة نتنياهو النتائج لكنها تفتقر إلى 61 مقعداً اللازمة لتشكيل الأغلبية. وتليها الكتلة التي يقودها غادي آيزنكوت بـ 48 مقعداً، بينما حصلت الأحزاب ذات الأغلبية العربية على 16 مقعداً."
-   ]
-  },
-  {
-   "id": "ac32d61aed76",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-his-bloc-will-win-decisive-majority",
-   "date": "2026-10-28T07:28:22Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Netanyahu says his bloc will win 'decisive majority'",
-   "title_en": "Netanyahu says his bloc will win 'decisive majority'",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has claimed that his Likud party and the right-wing bloc will secure a decisive majority in the election.",
-   "body_en": [
-    "Addressing supporters, Netanyahu stated that Likud remains the largest political party with which no rival can compete. He asserted that the right-wing bloc holds a clear and decisive majority."
-   ],
-   "title_fa": "نتانیاهو می‌گوید ائتلاف او به «اکثریت قاطع» دست خواهد یافت",
-   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، مدعی شد که حزب لیکود و ائتلاف راست‌گرا به اکثریت قاطعی در انتخابات دست خواهند یافت.",
-   "body_fa": [
-    "نتانیاهو در سخنرانی برای طرفدارانش تأکید کرد که لیکود بزرگ‌ترین حزب سیاسی است و هیچ رقیبی توان رقابت با آن را ندارد. او همچنین ادعا کرد که ائتلاف راست‌گرا از یک اکثریت روشن و قاطع برخوردار است."
-   ],
-   "title_ar": "نتنياهو يؤكد أن كتلته ستحقق \"أغلبية حاسمة\"",
-   "summary_ar": "صرح رئيس الوزراء الإسرائيلي بنيامين نتنياهو بأن حزب الليكود والكتلة اليمينية سيحققان أغلبية حاسمة في الانتخابات.",
-   "body_ar": [
-    "وفي كلمة أمام أنصاره، قال نتنياهو إن حزب الليكود هو أكبر حزب ولا يمكن لأحد منافسته، مؤكداً أن كتلة اليمين تمتلك أغلبية حاسمة وواضحة."
    ]
   },
   {
