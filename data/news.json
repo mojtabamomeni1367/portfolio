@@ -1,7 +1,130 @@
 {
- "updated": "2026-10-29T01:17:40Z",
- "count": 198,
+ "updated": "2026-10-29T04:03:46Z",
+ "count": 202,
  "items": [
+  {
+   "id": "61b1ebd5edee",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040633/moscows-afghan-outreach",
+   "date": "2026-10-29T03:52:16Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Moscow’s Afghan outreach",
+   "title_en": "Moscow’s Afghan outreach",
+   "summary_en": "Russia's expanding diplomatic, security, and economic engagement with the Taliban is reshaping regional diplomacy, presenting both opportunities and challenges for Pakistan's traditional influence in Kabul.",
+   "body_en": [
+    "Russia's pragmatic approach includes formally recognizing the Taliban government in July 2025, delisting them as a prohibited terrorist organization, and pursuing security, trade, and technical cooperation. Driven by concerns over Islamic State-Khorasan (IS-K), drug trafficking, and Central Asian stability, Moscow seeks to secure its interests and preserve influence in Eurasia.",
+    "While Pakistan's geographical and historical ties remain vital, Kabul's growing options lessen its reliance on Islamabad. Moreover, Moscow's primary security focus on IS-K rather than the Tehreek-e-Taliban Pakistan (TTP) means Russia's outreach may not automatically address Islamabad's primary counter-terrorism concerns."
+   ],
+   "title_fa": "تعامل مسکو با افغانستان",
+   "summary_fa": "افزایش تعاملات دیپلماتیک، امنیتی و اقتصادی روسیه با طالبان در حال تغییر شکل دیپلماسی منطقه‌ای است و نفوذ سنتی پاکستان در کابل را با چالش‌ها و فرصت‌هایی مواجه می‌سازد.",
+   "body_fa": [
+    "رویکرد واقع‌بینانه روسیه شامل به رسمیت شناختن رسمی حکومت طالبان در ژوئیه ۲۰۲۵، حذف نام آن‌ها از فهرست گروه‌های تروریستی ممنوعه و دنبال کردن همکاری‌های امنیتی، تجاری و فنی است. مسکو که نگران گسترش داعش خوراسان، قاچاق مواد مخدر و ثبات آسیا-مرکزی است، به دنبال حفظ منافع و نفوذ خود در اوراسیا است.",
+    "اگرچه پیوندهای جغرافیایی و تاریخی پاکستان همچنان بااهمیت است، افزایش گزینه‌های کابل وابستگی آن به اسلام‌آباد را کاهش می‌دهد. علاوه بر این، تمرکز اصلی امنیتی مسکو بر داعش خوراسان است نه تحریک طالبان پاکستان (TTP)، به این معنی که تعامل روسیه لزوماً به نگرانی‌های اصلی ضدتروریسم اسلام‌آباد پاسخ نخواهد داد."
+   ],
+   "title_ar": "تواصل موسكو الأفغاني",
+   "summary_ar": "إن الانخراط الدبلوماسي والأمني والاقتصادي المتزايد لروسيا مع حركة طالبان يعيد تشكيل الدبلوماسية الإقليمية، مما يفرض تحديات وفرصًا أمام النفوذ التقليدي لباكستان في كابول.",
+   "body_ar": [
+    "يتضمن النهج البرغماتي لروسيا الاعتراف الرسمي بحكومة طالبان في يوليو 2025، وإزالتها من قائمة المنظمات الإرهابية المحظورة، ومتابعة التعاون الأمني والتجاري والفني. وبدافع من المخاوف بشأن تنظيم الدولة الإسلامية - ولاية خراسان، وتهريب المخدرات، واستقرار وسط آسيا، تسعى موسكو لحماية مصالحها والحفاظ على نفوذها في أوراسيا.",
+    "على الرغم من أن الروابط الجغرافية والتاريخية لباكستان تظل حيوية، فإن خيارات كابول المتزايدة تقلل من اعتمادها على إسلام آباد. علاوة على ذلك، فإن التركيز الأمني الرئيسي لموسكو ينصب على تنظيم الدولة الإسلامية - ولاية خراسان وليس حركة طالبان پاکستان، مما يعني أن التواصل الروسي قد لا يعالج تلقائيًا مخاوف إسلام آباد الرئيسية المتعلقة بمكافحة الإرهاب."
+   ]
+  },
+  {
+   "id": "4d73eb2d8072",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040632/a-huddle-in-tehran",
+   "date": "2026-10-29T03:34:00Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "score": 5,
+   "title": "A huddle in Tehran",
+   "title_en": "A huddle in Tehran",
+   "summary_en": "Senior defense and intelligence officials from Saudi Arabia, Pakistan, and Turkey met in Tehran with Iran's Supreme National Security Council secretary to discuss regional peace and security.",
+   "body_en": [
+    "The meeting brought together the defense minister of Saudi Arabia, Pakistan's defense chief, Turkey's intelligence chief, and Iran's Mohsen Rezaei. Despite issuing a brief joint statement, the gathering underscored a recognition among major regional powers that Iranian participation is essential for any future Gulf security architecture.",
+    "Rezaei noted that all parties agreed regional security should be managed by the region's own nations. Iran is advocating for an framework based on non-aggression, shared interests, and the exclusion of foreign military forces from the Gulf region."
+   ],
+   "title_fa": "نشستی در تهران",
+   "summary_fa": "مقامات ارشد دفاعی و امنیتی عربستان سعودی، پاکستان و ترکیه در تهران با دبیر شورای عالی امنیت ملی ایران دیدار کردند تا درباره صلح و امنیت منطقه‌ای گفتگو کنند.",
+   "body_fa": [
+    "این نشست با حضور وزیر دفاع عربستان سعودی، رئیس دفاعی پاکستان، رئیس اطلاعات ترکیه و محسن رضایی از ایران برگزار شد. با وجود صدور یک بیانیه مشترک کوتاه، این اجتماع نشان‌دهنده اذعان قدرت‌های بزرگ منطقه‌ای به این نکته است که مشارکت ایران برای هرگونه ساختار امنیتی آینده در خلیج فارس ضروری است.",
+    "رضایی خاطرنشان کرد که تمامی طرف‌ها توافق کردند که امنیت منطقه باید توسط کشورهای خود منطقه تأمین شود. ایران از چارچوبی مبتنی بر عدم تجاوز، منافع مشترک و خروج نیروهای نظامی خارجی از منطقه خلیج فارس حمایت می‌کند."
+   ],
+   "title_ar": "اجتماع في تهران",
+   "summary_ar": "التقى مسؤولون دفاعيون واستخباراتيون بارزون من السعودية وباكستان وتركيا في تهران مع أمين المجلس الأعلى للأمن القومي الإيراني لبحث السلام والأمن الإقليميين.",
+   "body_ar": [
+    "جمع الاجتماع وزير الدفاع السعودي، ورئيس أركان الدفاع الباكستاني، ورئيس الاستخبارات التركية، ومحسن رضائي من جانب إيران. وعلى الرغم من صدور بيان مشترك اقتصر على التعهد بمواصلة الحوار، فقد أظهر الاجتماع اعترافًا من القوى الإقليمية الرئيسية بأن مشاركة إيران ضرورية لأي ترتيبات أمنية مستقبلية في الخليج.",
+    "وأشار رضائي إلى أن جميع الأطراف اتفقت على أن أمن المنطقة يجب أن يتحقق من خلال دول المنطقة نفسها. وتروج إيران لإطار قائم على عدم الاعتداء، وتوافق المصالح، وخروج القوات العسكرية الأجنبية من منطقة الخليج."
+   ]
+  },
+  {
+   "id": "387e3e76d1f1",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-10-29T03:12:47Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+   "title_en": "Activists accuse Israeli settlers of assault in occupied West Bank",
+   "summary_en": "Activist Adele Shoko reported that she and two colleagues were beaten, threatened, and robbed by armed Israeli settlers in the West Bank village of Umm al-Khair.",
+   "body_en": [
+    "Shoko stated on social media that US journalist Jasper Nathaniel and Israeli-Russian activist Andrey X were targeted alongside her. Nathaniel was pepper-sprayed and detained by Israeli forces, while Andrey X suffered a concussion and was taken to a police station instead of receiving required medical care.",
+    "Video footage shared online showed armed men assaulting Nathaniel and Andrey X before Israeli forces led Nathaniel away. The incident follows a recent violent attack by masked settlers against Palestinian olive farmers and a photojournalist in Abu Falah."
+   ],
+   "title_fa": "فعالان، شهرک‌نشینان اسرائیلی را به حمله در کرانه باختری اشغالی متهم کردند",
+   "summary_fa": "عادل شوکو، فعال مدنی، گزارش داد که او و دو تن از همکارانش در روستای ام‌الخیر در کرانه باختری مورد ضرب و شتم، تهدید و سرقت توسط شهرک‌نشینان مسلح اسرائیلی قرار گرفته‌اند.",
+   "body_fa": [
+    "شوکو در شبکه‌های اجتماعی اعلام کرد که جاسپر ناتانیل، خبرنگار آمریکایی، و آندری ایکس، فعال اسرائیلی-روسی، همراه او هدف حمله قرار گرفتند. نیروهای اسرائیلی به ناتانیل اسپری فلفل زده و او را بازداشت کردند، در حالی که آندری ایکس دچار ضربه مغزی شد و به جای دریافت مراقبت‌های پزشکی لازم به بازداشتگاه منتقل گردید.",
+    "ویدئوهای منتشرشده در اینترنت نشان می‌دهد که مردان مسلح به ناتانیل و آندری ایکس حمله می‌کنند و سپس نیروهای اسرائیلی ناتانیل را با خود می‌برند. این حادثه پس از حمله اخیر شهرک‌نشینان نقاب‌دار به کشاورزان زیتون و یک عکاس‌خبرنگار در ابو فلاح رخ می‌دهد."
+   ],
+   "title_ar": "نشطاء يتهمون مستوطنين إسرائيليين بالاعتداء عليهم في الضفة الغربية المحتلة",
+   "summary_ar": "أفادت النشطة أديل شوكو بأنها واثنين من زملائها تعرضوا للضرب والتهديد والسرقة من قبل مستوطنين إسرائيليين مسلحين في قرية أم الخير بالضفة الغربية.",
+   "body_ar": [
+    "وذكرت شوكو على وسائل التواصل الاجتماعي أن الصحفي الأمريكي جاسبر ناثانييل والناشط الإسرائيلي الروسي أندري إكس تعرضا للضرب معها. وأطلقت القوات الإسرائيلية رذاذ الفلفل على ناثانييل واعتقلته، بينما أصيب أندري إكس بارتجاج في المخ وتم نقله إلى مركز الشرطة بدلاً من تلقي العلاج الطبي اللازم.",
+    "وأظهرت مقاطع فيديو نُشرت عبر الإنترنت رجالاً مسلحين يعتدون على ناثانييل وأندري إكس قبل أن تقود القوات الإسرائيلية ناثانييل بعيدًا. يأتي هذا الحادث بعد هجوم عنيف شنه مستوطنون ملثمون مؤخرًا على مزارعي زيتون فلسطينيين ومصورة صحفية في أبو فلاح."
+   ]
+  },
+  {
+   "id": "2378ee684f1d",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqy431yymx0xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T02:07:25Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
+   "title_en": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
+   "summary_en": "The pro-Palestinian hacking group \"Handala\" has reportedly targeted Israeli institutions and foreign organizations, with cybersecurity researchers linking its activities to Iranian intelligence operations.",
+   "body_en": [
+    "Emerging in late 2023, Handala has claimed responsibility for various cyberattacks using \"hack-and-leak\" tactics, defacements, and data theft against Israeli military databases, satellite operators, international media, and foreign firms like US medical equipment maker Stryker. Israeli and US authorities, alongside cybersecurity firms, associate the group with Iran's Ministry of Intelligence and Security.",
+    "The group presents its actions as retaliatory strikes against Israeli operations and support for Palestinian causes. While some leaked material has been described by security analysts as non-sensitive, experts assess the operations as part of broader cyber-enabled psychological campaigns."
+   ],
+   "title_fa": "درباره گروه «حنظله»، مهم‌ترین عملیات‌های سایبری آن و ارتباطش با سرویس‌های اطلاعاتی ایران چه می‌دانیم؟",
+   "summary_fa": "گزارش‌ها نشان می‌دهد که گروه هکری طرفدار فلسطین موسوم به «حنظله» موسسات اسرائیلی و سازمان‌های خارجی را هدف قرار داده است و پژوهشگران امنیت سایبری فعالیت‌های آن را با عملیات اطلاعاتی ایران مرتبط می‌دانند.",
+   "body_fa": [
+    "گروه حنظله که در اواخر سال ۲۰۲۳ ظهور کرد، مسئولیت چندین حمله سایبری از جمله نفوذ به پایگاه‌های داده نظامی اسرائیل، اپراتورهای ماهواره‌ای، رسانه‌های بین‌المللی و شرکت‌های خارجی مانند شرکت تجهیزات پزشکی استرایکر آمریکا را بر عهده گرفته است. مقامات آمریکایی و اسرائیلی و شرکت‌های امنیت سایبری این گروه را به وزارت اطلاعات ایران مرتبط می‌دانند.",
+    "این گروه اقدامات خود را به عنوان حملات تلافی‌جویانه در پاسخ به اقدامات نظامی اسرائیل و حمایت از آرمان فلسطین توصیف می‌کند. اگرچه برخی کارشناسان بخشی از داده‌های افشا‌شده را غیرحساس ارزیابی کرده‌اند، تحلیل‌گران این عملیات‌ها را بخشی از کمپین‌های جنگ روانی سایبری می‌دانند."
+   ],
+   "title_ar": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
+   "summary_ar": "رصدت تقارير استهداف مجموعة القرصنة الداعمة للفلسطينيين \"حنظلة\" لمؤسسات إسرائيلية ومنظمات خارجية، وسط ربط من باحثين في الأمن السيبراني بين أنشطتها وعمليات استخباراتية إيرانية.",
+   "body_ar": [
+    "ظهرت مجموعة \"حنظلة\" في أواخر عام 2023، وادعت المسؤولية عن هجمات سيبرانية متنوعة شملت اختراق قاعدة بيانات طبية للجيش الإسرائيلي، وشركات أقمار صناعية، ومؤسسات إعلامية، وشركات أجنبية مثل شركة \"سترايكر\" الأمريكية. وتربط سلطات أمريكية وإسرائيلية وشركات أمن سيبراني بين المجموعة ووزارة الاستخبارات والأمن الإيرانية.",
+    "وتعرض المجموعة عملياتها كبروتوكولات انتقامية ضد الهجمات الإسرائيلية ودعمًا للقضية الفلسطينية. ورغم أن بعض الوثائق المسربة وُصفت بأنها غير حساسة، فإن خبراء الأمن يعتبرون هذه النشاطات جزءًا من حملات نفسية مدعومة سيبرانيًا."
+   ]
+  },
   {
    "id": "a7615274512d",
    "lang": "fa",

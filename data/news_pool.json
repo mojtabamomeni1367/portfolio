@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:17:40Z",
+ "updated": "2026-10-29T04:03:46Z",
  "items": [
   {
    "id": "22e9db26902b",
@@ -2631,6 +2631,248 @@
    ],
    "desc": "پس از آن که وال استریت ژورنال از نامه جی‌دی ونس، معاون رئیس جمهور آمریکا به محسن رضایی، دبیر شورای امنیت ملی ایران خبر داد، دونالد ترامپ در پاسخ به خبرنگاران محتوای این نامه که گزارش شده درباره آغاز مذاکرات بوده است را مرتبط با «ارسال اقلام دارویی و پزشکی» دانست. همزمان عباس عراقچی از ادامه رایزنی‌ها بر سر طرح هفت روزه تهران به واشنگتن خبر داد هر چند یک مقام وزارت خارجه ایران از «غیرقابل قبول» بودن طرحی سخن گفته که رویترز نوشته میانجی‌گران قطری به ایران ارایه کرده‌اند.",
    "score": 7
+  },
+  {
+   "id": "387e3e76d1f1",
+   "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-10-29T03:12:47Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
+   "score": 6
+  },
+  {
+   "id": "a90f8cc87d0b",
+   "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-10-29T02:43:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Videos circulating on social media show Israeli settlers assaulting three foreign journalists in the West Bank",
+   "score": 6,
+   "dup_of": "387e3e76d1f1"
+  },
+  {
+   "id": "c39d9268163d",
+   "title": "Major Israeli TV networks revise polling projections – as it happened",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+   "date": "2026-10-28T04:08:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "This blog had now closed – our live Israel election results coverage continues here Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with narrow exceptions for diplomats and certain official emissaries abroad. Continue reading...",
+   "score": 4
+  },
+  {
+   "id": "d74e039301cc",
+   "title": "Live: Israeli elections are coming to a close, with no majority to be seen",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen",
+   "date": "2026-10-29T03:36:46Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "With more than 90% of the ballots counted on Thursday, Israeli Prime Minister Benjamin Netanyahu's bloc has gained 53 seats, with the opposition at 67, including 48 for Gadi Eisenkot's centrist bloc and 19 for the Arab-majority parties. The Israeli president called on the parties on Wednesday to \"do everything\" to form a government coalition and avoid a return to the polls. Follow our liveblog for the latest updates.",
+   "score": 4
+  },
+  {
+   "id": "ff0ec9f53d55",
+   "title": "Health ministry scraps ‘flawed’ vaccine tender",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040583/health-ministry-scraps-flawed-vaccine-tender",
+   "date": "2026-10-29T02:47:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Border Health Services vaccination setup abolished; new ministry tender due in a month • Officials arrested for bypassing ministry via parallel procurement committees • Pilgrims asked to arrange jabs thru travel agents ISLAMABAD: The Ministry of National Health Services has decided to issue a new procurement tender for meningococcal meningitis and influenza vaccines for overseas travellers within a month, following its decision to abolish the existing vaccination setup through Border Health Services (BHS). The decision follows a high-level inquiry ordered by Prime Minister Shehbaz Sharif int",
+   "score": 2
+  },
+  {
+   "id": "1f36631e4cd2",
+   "title": "Arrest warrants for Sohail Afridi, others out in Radio Pakistan attack case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040577/arrest-warrants-for-sohail-afridi-others-out-in-radio-pakistan-attack-case",
+   "date": "2026-10-29T03:07:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: An anti-terrorism court on Wednesday issued arrest warrants for Sohail Afridi, the ex-chief minister who was rendered nonfunctional after the imposition of governor’s rule in Khyber Pakhtunkhwa, and four other PTI leaders in the Radio Pakistan attack case . The prosecution had earlier placed the supplementary charge-sheet on the court record, but the hearing was adjourned until Oct 28 due to the judge’s absence. Besides Mr Afridi, the supplementary challan names former provincial ministers Taimoor Saleem Jhagra and Kamran Bangash, PTI Peshawar district president Irfan Saleem and part",
+   "score": 3
+  },
+  {
+   "id": "41b5381c0d13",
+   "title": "SC okays fresh probe into FIA role in boat tragedy",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040581/sc-okays-fresh-probe-into-fia-role-in-boat-tragedy",
+   "date": "2026-10-29T02:01:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Court upholds FST order reinstating 40 officers linked to 2023 boat capsize off Greece • Agency argues tribunal overturned sackings on technicalities; three-judge bench directs agency to fulfil requirements of due process ISLAMABAD: The Supreme Court on Wednesday cleared the way for the Fe­­deral Investigation Agency (FIA) to reopen a departmental inquiry against officials allegedly linked to the fatal 2023 Greek migrant boat capsize tragedy. However, the court rejected the FIA’s appeal against an April 14 Federal Service Tribunal (FST) ruling, upholding the order to reinstate the dismissed ",
+   "score": 3
+  },
+  {
+   "id": "61b1ebd5edee",
+   "title": "Moscow’s Afghan outreach",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040633/moscows-afghan-outreach",
+   "date": "2026-10-29T03:52:16Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "RUSSIA’S growing engagement with Afghanistan’s Taliban rulers is reshaping the regional diplomatic landscape. For Pakistan, which has historically maintained close links with Afghan political and religious networks, the development presents both a challenge and an opportunity. The question is not whether Moscow will replace Islamabad as Kabul’s principal interlocutor, but whether Russia’s expanding diplomatic, security and economic engagement will give the Taliban greater room to manoeuvre in their dealings with Pakistan. Russia’s approach towards the Taliban has been gradually shaping up. In ",
+   "score": 6
+  },
+  {
+   "id": "4d73eb2d8072",
+   "title": "A huddle in Tehran",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040632/a-huddle-in-tehran",
+   "date": "2026-10-29T03:34:00Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "desc": "LAST month, I argued in this space that Iran is emerging as a big regional power to our west. The question I left hanging was whether it would use its newfound centrality to avenge the past or to build a future. Last week offered the first real glimpse of an answer. On Oct 26, Saudi Arabia’s defence minister, Pakistan’s defence chief, and Turkiye’s intellige­nce chief sat down in Tehran with Mohsen Rezaei, secretary of Iran’s Supreme National Security Council. The joint statement that followed was thin, pledging only continued dialogue on regional peace and security. But the significance of th",
+   "score": 5
+  },
+  {
+   "id": "49b1252383f8",
+   "title": "Restructuring plans",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040629/restructuring-plans",
+   "date": "2026-10-29T03:22:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "THE PPP appears quite perturbed over the fact that the creation of new provinces or administrative units continues to be discussed. Speaking at an event in Karachi on Tuesday, PPP chairman Bilawal Bhutto-Zardari asserted that no one outside Sindh could decide its future. “So we should now put a full stop to this conversation as well.” The Bhutto scion said the people of Sindh and their elected representatives had “given their verdict” on this matter, ostensibly referring to a Sindh Assembly resolution in early September. Solely on principle, his position cannot be faulted. The Constitution doe",
+   "score": 2
+  },
+  {
+   "id": "aa7a3ff91ac0",
+   "title": "U.S. warns allies to prepare for possible Iran strikes, retaliation after elections, say sources",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-say-sources/article71638851.ece",
+   "date": "2026-10-29T03:22:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The U.S. has told regional allies that the new round of military action could last for several days, but regional officials are bracing for Iran and its proxy groups to retaliate — leading to a fight that could last even longer, the sources said",
+   "score": 9,
+   "dup_of": "4097deee4e69"
+  },
+  {
+   "id": "de2a9f1a8595",
+   "title": "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/rss-friends-registers-in-us-to-step-up-outreach-correct-inaccuracies/article71638780.ece",
+   "date": "2026-10-29T01:53:56Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The RSS Friends, which provided a Georgia address in the registration document, listed Rashtriya Swayamsevak Sangh, Keshavkunj, New Delhi as its “foreign principal”",
+   "score": 3
+  },
+  {
+   "id": "da143b65702b",
+   "title": "Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece",
+   "date": "2026-10-28T14:49:28Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "",
+   "score": 3
+  },
+  {
+   "id": "6228cfbe0175",
+   "title": "India’s ‘balancing act’ risks eroding Russia’s trust",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/lead/indias-balancing-act-risks-eroding-russias-trust/article71632551.ece",
+   "date": "2026-10-28T09:43:38Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "New Delhi’s performative diplomacy could undermine its longstanding friendship with Moscow",
+   "score": 6
+  },
+  {
+   "id": "486bcef73d9c",
+   "title": "Record turnout as Israeli voters deliver verdict on Netanyahu",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece",
+   "date": "2026-10-28T08:14:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israelis are casting their ballots in the shadow of October 7 and the multi-front regional wars that it sparked, with the trauma from the attack still fresh and questions over accountability and security central to the campaign",
+   "score": 7,
+   "dup_of": "4d4c4c86eddc"
+  },
+  {
+   "id": "973cb2e0af74",
+   "title": "First Israeli election exit polls show narrow edge for Opposition",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
+   "date": "2026-10-28T04:15:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s current Opposition chief Yair Lapid said Benjamin Netanyahu’s bloc had suffered a “crushing defeat”, while left-wing leader Yair Golan said the public had “fired the Netanyahu government”",
+   "score": 7,
+   "dup_of": "0e96da27290f"
+  },
+  {
+   "id": "a13e6a03cee8",
+   "title": "Two Britons charged in connection with assisting Iran over U.K. airbase incident",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
+   "date": "2026-10-28T03:43:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "British-Iranian dual national Mohmed Abdulkarim and British citizen Nouman Essghir, both aged 24 and from London, were charged under the National Security Act, U.K. prosecutors say",
+   "score": 5
+  },
+  {
+   "id": "2378ee684f1d",
+   "title": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqy431yymx0xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T02:07:25Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "مجموعة حنظلة، المعروفة كذلك باسم \"فريق قرصنة حنظلة\"، تُعرّف عن نفسها بأنها مجموعة قرصنة داعمة للفلسطينيين، ومن ثمّ فهي تستهدف إسرائيل وحلفائها.",
+   "score": 5
   }
  ]
 }
