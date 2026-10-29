@@ -53,7 +53,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,
 #hd.sc{background:rgba(8,20,31,.93);backdrop-filter:blur(8px);border-color:rgba(255,255,255,.08)}
 .brand{letter-spacing:.14em;text-transform:uppercase;font-size:1.1rem}
 .nv a{padding:.35rem 0;border-bottom:2px solid transparent;font-size:.88rem}.nv a.on,.nv a:hover{border-color:var(--or)}
-#lang button{opacity:.6}#lang button[aria-pressed="true"]{opacity:1;color:var(--or2)}
+#lang button,.lsw2 button{opacity:.6}#lang button[aria-pressed="true"],.lsw2 button[aria-pressed="true"]{opacity:1;color:var(--or2)}.lsw2 button:hover{opacity:1}
 .veil{background:linear-gradient(to right,rgba(8,20,31,.94) 0%,rgba(8,20,31,.6) 45%,rgba(8,20,31,.05) 100%)}
 .veil2{background:linear-gradient(to top,rgba(8,20,31,.75),rgba(8,20,31,.15))}
 .cd{stroke:#33485A;stroke-width:4.2;stroke-linecap:round;fill:none}
@@ -640,12 +640,14 @@ document.querySelectorAll('.topic').forEach(li=>{const cs=TOP[li.dataset.t],on=f
 
 /* Country page */
 const card=(x,pub)=>'<article class="py-6 border-b" style="border-color:rgba(255,255,255,.12)"><h4 class="disp text-2xl leading-snug">'+esc(x.t)+'</h4><p class="text-sm mt-2 dm">'+(pub?'<span>'+esc(x.v)+'</span>, <span>'+x.y+'</span>':'<span>'+esc(x.o)+'</span>, <span>'+x.y+'</span>')+'</p><p class="mt-3 opacity-85 max-w-2xl">'+esc(pub?x.s:x.d)+'</p></article>';
+const langSw=()=>'<div class="lsw2 flex items-center gap-2 text-xs" style="direction:ltr" role="group" aria-label="Language">'+['en','fa','ar'].map(l=>'<button type="button" data-l="'+l+'" aria-pressed="'+(l===LG)+'">'+l.toUpperCase()+'</button>').join('<span class="opacity-40">|</span>')+'</div>';
+const topRow=b=>'<div class="flex items-center justify-between gap-4">'+b+langSw()+'</div>';
 function renderC(k){const t=CT.find(x=>x[0]===k);if(!t)return;const ps=PUB.filter(p=>p.k.includes(k)),ms=MED.filter(m=>m.k.includes(k));
  const line='border-color:rgba(255,255,255,.12)';
  const col=(h,id,items,empty)=>'<div class="min-w-0"><h3 class="disp text-3xl">'+T(h)+'</h3><div id="'+id+'" class="sb mt-3 border-t pe-2" style="'+line+';max-height:30rem">'+(items.length?items.join(''):'<p class="py-5 dm">'+T(empty)+'</p>')+'</div></div>';
  const news=vNews().filter(x=>x.countries.includes(k)).map(x=>'<article class="py-5 border-b" style="'+line+'">'+nItem(x,0)+(x['summary_'+LG]?'<p class="mt-2 text-sm opacity-75" dir="auto">'+esc(x['summary_'+LG])+'</p>':'')+'</article>');
  const ana=vAna().filter(x=>x.countries.includes(k)).map(x=>'<article class="py-5 border-b" style="'+line+'">'+nItem(x,0)+'</article>');
- $('#cvb').innerHTML='<div class="max-w-5xl mx-auto px-6 py-10"><button id="cvx" class="lab flex items-center gap-2 dm hover:text-white"><i data-i="arrow" class="bk"></i>Back to map</button><div class="mt-12"><h2 class="disp text-5xl md:text-7xl">'+t[1]+'</h2></div><dl class="mt-10 grid grid-cols-3 border-y" style="border-color:rgba(255,255,255,.14)">'+[['Publications',nf(t[2])],['Media appearances',nf(t[3])],['Fieldwork',t[4]?'Yes':'—']].map(x=>'<div class="py-5"><dd class="disp text-4xl">'+x[1]+'</dd><dt class="text-sm dm">'+x[0]+'</dt></div>').join('')+'</dl>'
+ $('#cvb').innerHTML='<div class="max-w-5xl mx-auto px-6 py-10">'+topRow('<button id="cvx" class="lab flex items-center gap-2 dm hover:text-white"><i data-i="arrow" class="bk"></i>Back to map</button>')+'<div class="mt-12"><h2 class="disp text-5xl md:text-7xl">'+t[1]+'</h2></div><dl class="mt-10 grid grid-cols-3 border-y" style="border-color:rgba(255,255,255,.14)">'+[['Publications',nf(t[2])],['Media appearances',nf(t[3])],['Fieldwork',t[4]?'Yes':'—']].map(x=>'<div class="py-5"><dd class="disp text-4xl">'+x[1]+'</dd><dt class="text-sm dm">'+x[0]+'</dt></div>').join('')+'</dl>'
   +'<h3 class="disp text-3xl mt-14">Research on this country</h3>'+(ps.length?'<div id="cvR" class="sb mt-3 border-t pe-2" style="'+line+'">'+ps.map(x=>card(x,1)).join('')+'</div>':'<p class="mt-3 py-5 border-t dm" style="'+line+'">'+T('Research on this country is being prepared.')+'</p>')
   +'<div class="mt-14 grid md:grid-cols-2 gap-10">'+col('News','cvN',news,'No recent news for this country yet.')+col('Analyses','cvA',ana,'No analyses for this country yet.')+'</div>'
   +(ms.length?'<h3 class="disp text-3xl mt-14">In the media</h3><div class="mt-3 border-t" style="'+line+'">'+ms.map(x=>card(x,0)).join('')+'</div>':'')+'</div>';
@@ -660,14 +662,15 @@ function closeC(){hideC();try{location.hash='#research'}catch(e){}}
 const TOPICS=[['iran-policy',"Iran's Domestic Affairs &amp; Foreign Policy",'compass'],['mena-sa','Political Issues &amp; Developments in the Middle East &amp; South Asia','pin'],['political-islam','Political Islam &amp; Islamist Movements','landmark'],['extremism','Extremism &amp; Radicalism','shield'],['migration','Refugee &amp; Migration Studies','users'],['security','Regional Security &amp; Geopolitics','globe']];
 let curTP=null;
 function renderTP(slug){const t=TOPICS.find(x=>x[0]===slug);if(!t)return;
- $('#tpb').innerHTML='<div class="max-w-5xl mx-auto px-6 py-10"><button id="tpx" class="lab flex items-center gap-2 dm hover:text-white"><i data-i="arrow" class="bk"></i>'+T('Back')+'</button><div class="mt-12 flex items-center gap-4"><span style="color:var(--or)"><i data-i="'+t[2]+'"></i></span><h2 class="disp text-4xl md:text-6xl">'+t[1]+'</h2></div>'+(()=>{const l=(typeof ANA!=='undefined'?vAna():[]).filter(x=>(x.topics||[]).includes(slug));return l.length?'<div class="mt-10 border-t" style="border-color:rgba(255,255,255,.12)">'+l.map(x=>{const v=anaFor(x);return '<article class="py-6 border-b" style="border-color:rgba(255,255,255,.12)"><div class="text-xs"><span class="tag">'+T('Analysis')+'</span> <span class="opacity-60">'+fmtD(x.date)+'</span></div><a href="/'+esc(v.url)+'" dir="auto" class="disp text-2xl leading-snug block mt-2 hover:underline">'+esc(v.title)+'</a>'+(v.summary?'<p class="mt-2 opacity-80" dir="auto">'+esc(v.summary)+'</p>':'')+'</article>'}).join('')+'</div>':'<p class="mt-10 dm max-w-2xl">'+T('Articles for this topic are being prepared.')+'</p>'})()+'<a href="/topic/'+slug+'-'+LG+'.html" class="inline-flex items-center gap-2 mt-10 text-sm" style="color:var(--or2)">'+T('Open the topic page')+'<i data-i="arrow" class="fw"></i></a></div>';
+ $('#tpb').innerHTML='<div class="max-w-5xl mx-auto px-6 py-10">'+topRow('<button id="tpx" class="lab flex items-center gap-2 dm hover:text-white"><i data-i="arrow" class="bk"></i>'+T('Back')+'</button>')+'<div class="mt-12 flex items-center gap-4"><span style="color:var(--or)"><i data-i="'+t[2]+'"></i></span><h2 class="disp text-4xl md:text-6xl">'+t[1]+'</h2></div>'+(()=>{const l=(typeof ANA!=='undefined'?vAna():[]).filter(x=>(x.topics||[]).includes(slug));return l.length?'<div class="mt-10 border-t" style="border-color:rgba(255,255,255,.12)">'+l.map(x=>{const v=anaFor(x);return '<article class="py-6 border-b" style="border-color:rgba(255,255,255,.12)"><div class="text-xs"><span class="tag">'+T('Analysis')+'</span> <span class="opacity-60">'+fmtD(x.date)+'</span></div><a href="/'+esc(v.url)+'" dir="auto" class="disp text-2xl leading-snug block mt-2 hover:underline">'+esc(v.title)+'</a>'+(v.summary?'<p class="mt-2 opacity-80" dir="auto">'+esc(v.summary)+'</p>':'')+'</article>'}).join('')+'</div>':'<p class="mt-10 dm max-w-2xl">'+T('Articles for this topic are being prepared.')+'</p>'})()+'<a href="/topic/'+slug+'-'+LG+'.html" class="inline-flex items-center gap-2 mt-10 text-sm" style="color:var(--or2)">'+T('Open the topic page')+'<i data-i="arrow" class="fw"></i></a></div>';
  icons($('#tpb'));tr($('#tpb'));$('#tpx').onclick=closeTP}
 function showTP(slug){curTP=slug;renderTP(slug);$('#tp').classList.remove('hidden');$('#tp').scrollTop=0;document.body.style.overflow='hidden';$('#tpx').focus()}
 function hideTP(){curTP=null;$('#tp').classList.add('hidden');document.body.style.overflow=''}
 function openTP(slug){showTP(slug);try{location.hash='#/topic/'+slug}catch(e){}}
 function closeTP(){hideTP();try{location.hash='#top'}catch(e){}}
 document.querySelectorAll('.topicBtn').forEach(b=>{b.onclick=()=>openTP(b.getAttribute('data-tp'))});
-addEventListener('hashchange',()=>{if(routeN())return;const m=location.hash.match(/^#\/c\/(\w+)/);if(m){showC(m[1]);return}const mt=location.hash.match(/^#\/topic\/([\w-]+)/);if(mt){showTP(mt[1]);return}hideC();hideTP();hideN()});
+function route(){const mt=location.hash.match(/^#\/topic\/([\w-]+)/);if(!mt&&curTP)hideTP();if(routeN())return true;const m=location.hash.match(/^#\/c\/(\w+)/);if(m){showC(m[1]);return true}if(mt){hideN();hideC();showTP(mt[1]);return true}return false}
+addEventListener('hashchange',()=>{if(!route()){hideC();hideTP();hideN()}});
 addEventListener('keydown',e=>{if(e.key==='Escape'){if(curN){location.hash=curN==='list'?'#news':'#/news'}else if(curC)closeC();else if(curTP)closeTP();else closeM()}});
 
 /* Tabs, publications, media */
@@ -741,15 +744,15 @@ function renderN(){
  if(curN==='list'){
   const items=vNews(),groups=[];
   items.forEach(x=>{const k=dayKey(x.date);let g=groups[groups.length-1];if(!g||g.k!==k){g={k,d:x.date,l:[]};groups.push(g)}g.l.push(x)});
-  h='<div class="max-w-4xl mx-auto px-6 py-10">'+back('#news','Back to site')+'<h2 class="disp text-5xl md:text-6xl mt-10">'+T('All news')+'</h2><p class="mt-3 dm">'+T('The most important stories of each day from the Middle East and South Asia.')+'</p>'
+  h='<div class="max-w-4xl mx-auto px-6 py-10">'+topRow(back('#news','Back to site'))+'<h2 class="disp text-5xl md:text-6xl mt-10">'+T('All news')+'</h2><p class="mt-3 dm">'+T('The most important stories of each day from the Middle East and South Asia.')+'</p>'
    +(groups.length?groups.map(g=>'<h3 class="lab mt-14 pb-3 border-b" style="color:var(--or2);border-color:rgba(255,255,255,.2)">'+fmtDay(g.d)+'</h3>'+g.l.map(x=>'<article class="py-5 border-b" style="border-color:rgba(255,255,255,.1)">'+nItem(x,1)+'<p class="mt-2 opacity-75" dir="auto">'+esc(x['summary_'+LG]||'')+'</p></article>').join('')).join('')
    :'<p class="mt-12 dm">'+T(NREADY?'News will appear here shortly.':'Loading the latest news…')+'</p>')+'</div>';
  }else{
   const x=NEWS.find(n=>n.id===curN);
-  if(!x||!inLG(x)){h='<div class="max-w-3xl mx-auto px-6 py-10">'+back('#/news','All news')+'<p class="mt-14 dm">'+T(NREADY?'This story is no longer available.':'Loading the latest news…')+'</p></div>'}
+  if(!x||!inLG(x)){h='<div class="max-w-3xl mx-auto px-6 py-10">'+topRow(back('#/news','All news'))+'<p class="mt-14 dm">'+T(NREADY?'This story is no longer available.':'Loading the latest news…')+'</p></div>'}
   else{
    const tr=LG!==x.lang,body=x['body_'+LG]||[],cs=(x.countries||[]).map(c=>{const t=CT.find(y=>y[0]===c);return t?'<button type="button" data-c="'+c+'" class="mini">'+T(t[1])+'</button>':''}).join('');
-   h='<article class="max-w-3xl mx-auto px-6 py-10">'+back('#/news','All news')
+   h='<article class="max-w-3xl mx-auto px-6 py-10">'+topRow(back('#/news','All news'))
     +'<div class="mt-12 flex flex-wrap items-center gap-2 text-sm"><span class="tag">'+T('News')+'</span><span class="opacity-75">'+T('According to')+' <strong dir="auto">'+esc(x.source)+'</strong></span><span class="opacity-50">·</span><span class="opacity-75">'+fmtD(x.date)+'</span></div>'
     +'<h1 class="disp text-4xl md:text-5xl leading-tight mt-5" dir="auto">'+esc(x['title_'+LG]||x.title)+'</h1>'
     +(x['summary_'+LG]?'<p class="text-xl md:text-2xl mt-7 leading-relaxed opacity-95" dir="auto">'+esc(x['summary_'+LG])+'</p>':'')
@@ -836,13 +839,15 @@ const so=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)documen
 ['top','about','publications','news','analysis','research','media','contact'].forEach(i=>so.observe($('#'+i)));
 
 icons();
-$('#lang').onclick=e=>{const b=e.target.closest('button');if(!b)return;const l=b.dataset.l;try{localStorage.setItem('lang',l)}catch(x){}if(l!==PL)location.href=LP[l]+location.hash};
+function goLang(l){try{localStorage.setItem('lang',l)}catch(x){}if(l!==PL)location.href=LP[l]+location.hash}
+$('#lang').onclick=e=>{const b=e.target.closest('button');if(b)goLang(b.dataset.l)};
+document.addEventListener('click',e=>{const b=e.target.closest('.lsw2 button');if(b)goLang(b.dataset.l)});
 let sl=null;try{sl=localStorage.getItem('lang')}catch(e){}
 const nl=(navigator.language||'en').slice(0,2);
 {const want=sl||(nl==='fa'||nl==='ar'?nl:'en');
  if(PL==='en'&&want!=='en'&&LP[want]&&/^\/(index\.html)?$/.test(location.pathname))location.replace(LP[want]+location.search+location.hash);}
 setLang(PL);
-if(!routeN()){const m=location.hash.match(/^#\/c\/(\w+)/);if(m)showC(m[1])}
+route();
 </script>
 </body>
 </html>

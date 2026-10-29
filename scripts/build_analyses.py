@@ -119,6 +119,9 @@ body{{margin:0;background:var(--cream);color:var(--ink);font:18px/1.75 {body_fon
 header{{background:var(--navy);color:#EDE7DB;padding:1rem 1.25rem}}
 header .in{{max-width:46rem;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:1rem}}
 header a{{color:inherit;text-decoration:none;font-size:.9rem}}
+.hr{{display:flex;align-items:center;gap:1.25rem}}
+.lsw{{display:flex;align-items:center;gap:.45rem;font-size:.78rem;direction:ltr}}
+.lsw a{{opacity:.6}}.lsw a:hover{{opacity:1}}.lsw a[aria-current]{{opacity:1;color:var(--or2)}}.lsw i{{opacity:.35;font-style:normal}}
 .brand{{font-family:{disp_font};letter-spacing:{brand_ls};text-transform:{brand_tt}}}
 main{{max-width:46rem;margin:0 auto;padding:3rem 1.25rem 4rem}}
 .meta{{font-size:.8rem;color:var(--rust);letter-spacing:.04em}}
@@ -136,7 +139,7 @@ footer{{text-align:center;font-size:.8rem;color:var(--mut);padding:2rem 1rem;bor
 </style>
 </head>
 <body>
-<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><a href="{home}#analysis">{back}</a></div></header>
+<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><div class="hr"><a href="{home}#analysis">{back}</a>{langsw}</div></div></header>
 <main>
 <p class="meta">{by} · <time datetime="{date}">{date}</time>{topics}</p>
 <h1>{title_esc}</h1>
@@ -227,6 +230,16 @@ def _abs(url):
     return SITE + "/" + quote(url.lstrip("/"), safe="/%")
 
 
+def lang_switch(current, href):
+    """href(lang) -> address of this page in that language."""
+    out = []
+    for l in LANGS:
+        cur = ' aria-current="page"' if l == current else ""
+        out.append(f'<a href="{href(l)}" lang="{l}" hreflang="{l}"{cur} '
+                   f'onclick="try{{localStorage.setItem(\'lang\',\'{l}\')}}catch(e){{}}">{l.upper()}</a>')
+    return '<nav class="lsw" aria-label="Language">' + "<i>|</i>".join(out) + "</nav>"
+
+
 def render(meta, siblings):
     lang = meta["lang"]
     rtl = lang in ("fa", "ar")
@@ -281,6 +294,8 @@ def render(meta, siblings):
         brand_ls="0" if rtl else ".14em", brand_tt="none" if rtl else "uppercase",
         h_w="700" if rtl else "500",
         back=UI[lang]["back"], by=UI[lang]["by"], date=meta["date"], home=HOME[lang],
+        langsw=lang_switch(lang, lambda l: f'{meta["slug"]}-{l}.html' if l in {x["lang"] for x in siblings}
+                           else HOME[l] + "#analysis"),
         topics="".join(f' · <a href="/topic/{t}-{lang}.html">{html.escape(TOPIC_NAME[t][lang])}</a>' for t in meta["topics"]),
         body=markdown.markdown(meta["body_md"], extensions=["extra", "sane_lists"]),
         other=other, year=meta["date"][:4],
@@ -310,6 +325,9 @@ body{{margin:0;background:var(--cream);color:var(--ink);font:18px/1.75 {body_fon
 header{{background:var(--navy);color:#EDE7DB;padding:1rem 1.25rem}}
 header .in{{max-width:46rem;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:1rem}}
 header a{{color:inherit;text-decoration:none;font-size:.9rem}}
+.hr{{display:flex;align-items:center;gap:1.25rem}}
+.lsw{{display:flex;align-items:center;gap:.45rem;font-size:.78rem;direction:ltr}}
+.lsw a{{opacity:.6}}.lsw a:hover{{opacity:1}}.lsw a[aria-current]{{opacity:1;color:var(--or2)}}.lsw i{{opacity:.35;font-style:normal}}
 .brand{{font-family:{disp_font};letter-spacing:{brand_ls};text-transform:{brand_tt}}}
 main{{max-width:46rem;margin:0 auto;padding:3rem 1.25rem 4rem}}
 .meta{{font-size:.8rem;color:var(--rust);letter-spacing:.04em}}
@@ -328,7 +346,7 @@ footer{{text-align:center;font-size:.8rem;color:var(--mut);padding:2rem 1rem;bor
 </style>
 </head>
 <body>
-<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><a href="{home}#research">{home_label}</a></div></header>
+<header><div class="in"><a class="brand" href="{home}">Mojtaba Momeni</a><div class="hr"><a href="{home}#research">{home_label}</a>{langsw}</div></div></header>
 <main>
 <p class="meta">{label}</p>
 <h1>{name}</h1>
@@ -372,7 +390,8 @@ def render_topic(topic, lang, items, year):
         robots="" if indexable else '<meta name="robots" content="noindex, follow">\n',
         body_font=fonts[0], disp_font=fonts[1], brand_ls="0" if rtl else ".14em",
         brand_tt="none" if rtl else "uppercase", h_w="700" if rtl else "500",
-        home=HOME[lang], home_label=ui["home"], label=ui["label"], items=body, other=other, year=year)
+        home=HOME[lang], home_label=ui["home"], label=ui["label"], items=body, other=other, year=year,
+        langsw=lang_switch(lang, lambda l: f"{topic}-{l}.html"))
     return page, indexable
 
 
