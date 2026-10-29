@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:19:46Z",
+ "updated": "2026-10-29T16:22:50Z",
  "items": [
   {
    "id": "22e9db26902b",
@@ -3458,7 +3458,8 @@
     "ISR"
    ],
    "desc": "تابعت صحف بريطانية تغطية الانتخابات الإسرائيلية وما قد تفرزه نتائجها على مستوى السلطة، وعرضت صحيفة تلغراف نقاشاً حول موجة العنف التي ميزت الاحتجاجات الأخيرة وتبريرها. ونشرت صحيفة الإندبندنت دراسة حول قيمة العناق لدى البشر.",
-   "score": 6
+   "score": 6,
+   "skip": true
   },
   {
    "id": "777d70d1df5c",
@@ -3474,6 +3475,259 @@
    "desc": "أثارت زيارة رئيس الوزراء العراقي، علي الزيدي، لمقام السيدة زينب في دمشق وتبرعه السخي بملايين الدولارات لصالح المرقد المقدس اهتماماً وتفاعلاً عبر الإنترنت، فماذا نعرف عن هذا المقام والحي الذي يقع به.",
    "score": 5,
    "dup_of": "b3401056cb69"
+  },
+  {
+   "id": "2436f7586c8a",
+   "title": "Israel’s anti-Qatar campaign bleeds into elections",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+   "date": "2026-10-29T15:35:53Z",
+   "countries": [
+    "ISR",
+    "QAT"
+   ],
+   "desc": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
+   "score": 6
+  },
+  {
+   "id": "4e2b19219e54",
+   "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "date": "2026-10-29T15:12:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'.",
+   "score": 7
+  },
+  {
+   "id": "d2e85acdd0c5",
+   "title": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
+   "date": "2026-10-29T13:54:18Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced.",
+   "score": 1
+  },
+  {
+   "id": "6ba5679a1883",
+   "title": "Damascus, Amman contradict each other on attack that killed civilians",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+   "date": "2026-10-29T13:44:42Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "Analysts say accountability is needed to quell public outrage over killing of family in southern Syria.",
+   "score": 7
+  },
+  {
+   "id": "d8e1d82ef8c9",
+   "title": "Men pulled from vehicle stranded by floods in Syria",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
+   "date": "2026-10-29T13:15:14Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.",
+   "score": 2
+  },
+  {
+   "id": "ae87b99aceed",
+   "title": "Bangladesh’s Shadman Islam hits century, but West Indies force collapse",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/bangladeshs-shadman-islam-hits-100-but-warrican-tops-west-indies-recovery?traffic_source=rss",
+   "date": "2026-10-29T12:53:11Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Shadman Islam hits 100, but Jomel Warrican bags five wickets before West Indies end day two of first Test on 134-4.",
+   "score": 1
+  },
+  {
+   "id": "3db756187959",
+   "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
+   "date": "2026-10-29T12:46:29Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.",
+   "score": 7
+  },
+  {
+   "id": "ba6aa310e426",
+   "title": "The beautiful, shocking work of artist Hoda Afshar: ‘I don’t take freedom of speech for granted’",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/artanddesign/2026/oct/30/artist-hoda-afshar-interview-photography-exhibition-buxton-contemporary",
+   "date": "2026-10-29T14:00:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Afshar’s experiences as a young woman in Iran have shaped her artistic career in Australia, focusing her eye on the humanity within inhumane systems Get our weekend culture and lifestyle email When Hoda Afshar was a teenager, coming of age in theocratic and authoritarian Iran in the 1990s, she and her friends were repeatedly arrested and physically punished by the “morality police”, for wearing their hijabs incorrectly in public and for attending underground parties. “They used to put a few of us in small solitary confinement cells together for a night or two, it was very common for my generat",
+   "score": 2
+  },
+  {
+   "id": "42762f4ac5d7",
+   "title": "Rana Sanaullah says Imran's jailed sister Noreen 'fine' after being provided medical treatment",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040731/rana-sanaullah-says-imrans-jailed-sister-noreen-fine-after-being-provided-medical-treatment",
+   "date": "2026-10-29T16:01:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Adviser to the prime minister on political affairs, Rana Sanaullah, on Thursday informed the Senate that Noreen Niazi, the sister of jailed PTI founder Imran Khan, was fine after being provided medical treatment in Lahore. Imran’s three sisters — Noreen, Aleema Khan, and Uzma Khan — have been in detention since Sept 21 under the Punjab Maintenance of Public Order Ordinance, 1960 (MPO) on the Lahore deputy commissioner’s (DC) orders. On Wednesday, Noreen’s lawyer said that she was moved from Lahore’s Kot Lakhpat jail to the Punjab Institute of Cardiology (PIC) due to high blood pressure. Her la",
+   "score": 4
+  },
+  {
+   "id": "155d341921b7",
+   "title": "Amid internal doubts, PTI affirms Sohail Afridi 'remains KP chief minister'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040734/amid-internal-doubts-pti-affirms-sohail-afridi-remains-kp-chief-minister",
+   "date": "2026-10-29T15:00:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The PTI on Thursday reaffirmed its support for Sohail Afridi, the ex-chief minister who was rendered nonfunctional after the imposition of governor’s rule in Khyber Pakhtunkhwa, ruling out any move within the party to consider an alternative candidate for the office. Afridi has not been seen since the Centre imposed governor’s rule and emergency in KP on Oct 11. The very next day, a federal minister confirmed that he and some of his cabinet members were in preventive custody . In the notification issued by the party’s central secretariat for the “purpose of clarity and emphasis”, PT",
+   "score": 5
+  },
+  {
+   "id": "b6d7d8e50402",
+   "title": "3 dead in rock spire collapse at tourist site in Turkiye's Cappadocia",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040732/3-dead-in-rock-spire-collapse-at-tourist-site-in-turkiyes-cappadocia",
+   "date": "2026-10-29T15:58:08Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "A landslide triggered by heavy rainfall caused a rock spire to collapse in Turkiye’s Unesco World Heritage-listed Cappadocia region on Thursday, bringing the death toll to three, officials said. Turkiye’s Cappadocia region, a magnet for tourists from around the world, is home to cone-shaped rock formations known as “fairy chimneys”, created by ancient volcanic activity. “According to initial findings, two people were killed and five others injured in the incident,” Justice Minister Akin Gurlek said on X. Rescue teams pulled another body from the rubble, bringing the death toll to three, Nevseh",
+   "score": 2
+  },
+  {
+   "id": "2b8641f975f6",
+   "title": "US fires top military planner in latest ouster: reports",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040735/us-fires-top-military-planner-in-latest-ouster-reports",
+   "date": "2026-10-29T14:30:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The United States has fired a top military planner, US media reported, in a surprise shake-up as President Donald Trump appears to be preparing to resume large-scale strikes against Iran. Army Lieutenant General Brett Sylvia was removed from his role as head of strategy, plans and policy on the Joint Staff, US outlets reported Wednesday, citing unnamed sources. A spokesperson for the Joint Staff, a top Pentagon body that handles planning and other issues, initially issued a statement that appeared to confirm Sylvia’s departure but later withdrew it, saying: “Out of respect for the servicemembe",
+   "score": 7,
+   "dup_of": "15f1b1f7b417"
+  },
+  {
+   "id": "8f39ff0556e4",
+   "title": "PM approves expansion of Jinnah and Allama Iqbal airports, eyes making Karachi 'air cargo hub'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040729/pm-approves-expansion-of-jinnah-and-allama-iqbal-airports-eyes-making-karachi-air-cargo-hub",
+   "date": "2026-10-29T14:38:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Allama Iqbal International Airport and Jinnah International Airport as outlined in their respective masterplans while seeking to turn Karachi into an “air cargo hub”. According to a statement by the Prime Minister’s Office (PMO), the directives came during a meeting held in Islamabad under the premier’s chairmanship. It was attended by Deputy Prime Minister and Foreign Minister Ishaq Dar, federal ministers Khawaja Asif, Musadik Malik, Ahad Khan Cheema, Attaullah Tarar and other senior officials. The statement said the meeting ",
+   "score": 3
+  },
+  {
+   "id": "5d1a6c31fcfa",
+   "title": "Palestinian President says hopes for peace talks with new Israeli government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
+   "date": "2026-10-29T14:39:02Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.",
+   "score": 6
+  },
+  {
+   "id": "f38d505e00b9",
+   "title": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece",
+   "date": "2026-10-29T13:57:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries",
+   "score": 5,
+   "dup_of": "9a87bfeb70b2"
+  },
+  {
+   "id": "2888c291ca41",
+   "title": "Bangladesh's tribunal sentences Awami League leader to death",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladeshs-tribunal-sentences-awami-league-leader-to-death/article71640968.ece",
+   "date": "2026-10-29T13:57:48Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "A three-member tribunal led by Justice Nozrul Islam Chowdhury and comprising Justices Md. Manjurul Bashid and Nur Mohammad Shahriar Kabir delivered the verdict",
+   "score": 6
+  },
+  {
+   "id": "4444e867cde4",
+   "title": "نقش احزاب عرب در شرایطی که نتانیاهو و آیزنکوت پیروز نشوند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cx1l3912rq7zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T14:31:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "با شمارش آرا انتخابات پارلمانی اسرائیل، این پرسش مطرح شده که در صورت برنده نشدن نتانیاهو و آیزنکوت، نقش احزاب عربی در سیاست این کشور چه خواهد بود",
+   "score": 6
+  },
+  {
+   "id": "efe834fb97f7",
+   "title": "إيران تؤكد تلقي رسالة من نائب ترامب، والحرس الثوري يعلن اندلاع حرائق بناقلات في هرمز",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm4g14554xzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T15:55:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "حذرت إيران من أنها سترد بشكل أوسع في حال وقوع أي هجوم جديد، وهدد رضائي باستهداف بنية تحتية مرتبطة بالولايات المتحدة.",
+   "score": 8
+  },
+  {
+   "id": "933355f59ed3",
+   "title": "لماذا يتصارع الجميع على مدينة تعز اليمنية؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckly06vp2l33o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T13:14:54Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "مدينة تعز أصبحت ساحة نزاع رئيسية في اليمن، وتصدرت المشهد بصورة متسارعة كأهم جبهة للقتال في الحرب التي تأججت نارها مجدداً، بين حركة أنصار الله الحوثية المدعومة من إيران والحكومة المعترف بها دولياً المدعومة من تحالف تقوده السعودية، فما أهمية هذه المدينة اليمنية؟",
+   "score": 6
   }
  ]
 }

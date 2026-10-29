@@ -1,7 +1,251 @@
 {
- "updated": "2026-10-29T13:19:46Z",
- "count": 215,
+ "updated": "2026-10-29T16:22:49Z",
+ "count": 224,
  "items": [
+  {
+   "id": "efe834fb97f7",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm4g14554xzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T15:55:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "إيران تؤكد تلقي رسالة من نائب ترامب، والحرس الثوري يعلن اندلاع حرائق بناقلات في هرمز",
+   "title_en": "Iran confirms receiving message from Trump's deputy, and Revolutionary Guard announces fires on tankers in Hormuz",
+   "summary_en": "Iranian reports stated that Tehran received a letter from US Vice President JD Vance attempting to revive peace talks but has not yet replied, as the Revolutionary Guard and the Iranian army announced fires on at least four tankers after striking mines in the Strait of Hormuz.",
+   "body_en": [
+    "According to the Tasnim news agency, Tehran has not responded to the message sent to National Security Council Secretary Mohsen Rezaee, insisting that the United States must meet its seven conditions to end the war and reopen the waterway. The Revolutionary Guard stated that three non-compliant tankers caught fire in the southern strait after turning off navigation systems and ignoring warnings, while the Iranian army later announced that a fourth tanker was disabled by mines to the east.",
+    "Meanwhile, Iranian Foreign Minister Abbas Araghchi stated that discussions are ongoing with mediators over a seven-day plan to halt hostilities, warning of severe economic shocks if Israel launches any new attack. These diplomatic efforts follow reports of a Qatari initiative to permit International Atomic Energy Agency inspections of targeted nuclear sites in exchange for sanctions relief, amid discussions in Washington over potential military action."
+   ],
+   "title_fa": "ایران دریافت پیام از معاون ترامپ را تأیید کرد، و سپاه پاسداران از آتش‌سوزی در نفتکش‌ها در هرمز خبر داد",
+   "summary_fa": "گزارش‌های ایرانی حاکی از آن است که تهران پیامی از جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در تلاش برای احیای مذاکرات صلح دریافت کرده اما هنوز پاسخی نداده است، هم‌زمان سپاه پاسداران و ارتش ایران از آتش‌سوزی دست‌کم چهار نفتکش پس از برخورد با مین در تنگه هرمز خبر دادند.",
+   "body_fa": [
+    "به گزارش خبرگزاری تسنیم، تهران هنوز به نامه ارسالی به محسن رضایی، دبیر شورای امنیت ملی، پاسخ نداده و تأکید دارد آمریکا باید شروط هفت‌گانه ایران را برای پایان جنگ و بازگشایی آبراه بپذیرد. سپاه پاسداران اعلام کرد سه نفتکش متخلف پس از خاموش کردن سامانه‌های ناوبری و نادیده گرفتن هشدارها، در جنوب تنگه دچار انفجار و آتش‌سوزی شدند و ارتش ایران نیز از ازکارافتادگی یک نفتکش چهارم در شرق تنگه به دلایل مشابه خبر داد.",
+    "در همین حال، عباس عراقچی، وزیر امور خارجه ایران، از رایزنی با میانجی‌ها برای اجرای طرحی هفت‌روزه جهت پایان جنگ خبر داد و درباره عواقب اقتصادی هرگونه ماجراجویی جدید اسرائیل هشدار داد. این تحولات دیپلماتیک هم‌زمان با گزارش‌هایی درباره تلاش‌های قطر برای تسهیل بازرسی‌های آژانس بین‌المللی انرژی اتمی در ازای کاهش تحریم‌ها و بررسی‌های واشنگتن درباره اقدام نظامی احتمالی صورت می‌گیرد."
+   ],
+   "title_ar": "إيران تؤكد تلقي رسالة من نائب ترامب، والحرس الثوري يعلن اندلاع حرائق بناقلات في هرمز",
+   "summary_ar": "أفادت تقارير إيرانية بأن طهران تلقت رسالة من نائب الرئيس الأمريكي جيه دي فانس في محاولة لإحياء محادثات السلام دون أن ترد عليها بعد، تزامناً مع إعلان الحرس الثوري والجيش الإيراني عن احتراق ما لا يقل عن أربع ناقلات إثر اصطدامها بألغام في مضيق هرمز.",
+   "body_ar": [
+    "ذكرت وكالة تسنيم أن الرسالة الموجهة إلى محسن رضائي، أمين مجلس الأمن القومي، لم يُرد عليها بعد، مشددة على التزام إيران بشروطها السبعة لإعادة فتح الممر المائي وإنهاء الحرب. وأكد الحرس الثوري أن ثلاث ناقلات مخالفة اشتعلت فيها النيران في جنوب المضيق بعد تجاهلها التحذيرات وإغلاقها أجهزة الملاحة، بينما أعلن الجيش الإيراني لاحقاً عن تضرر ناقلة رابعة شرقي المضيق للسبب ذاته.",
+    "في غضون ذلك، أكد وزير الخارجية الإيراني عباس عراقجي إجراء مشاورات مع وسطاء لتنفيذ مقترح مدته سبعة أيام لإنهاء الحرب، محذراً من التداعيات الاقتصادية لأي هجوم إسرائيلي جديد. وتأتي هذه التطورات وسط تقارير عن مقترح قطري يسمح بعودة مفتشي الوكالة الدولية للطاقة الذرية إلى المواقع النووية مقابل تخفيف العقوبات، وتحذيرات أمريكية غير محسومة بشأن ضربات عسكرية محتملة بعد انتخابات التجديد النصفي."
+   ]
+  },
+  {
+   "id": "2436f7586c8a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections?traffic_source=rss",
+   "date": "2026-10-29T15:35:53Z",
+   "countries": [
+    "ISR",
+    "QAT"
+   ],
+   "score": 6,
+   "title": "Israel’s anti-Qatar campaign bleeds into elections",
+   "title_en": "Israel’s anti-Qatar campaign bleeds into elections",
+   "summary_en": "Qatar's Foreign Ministry has firmly rejected accusations by Israeli Prime Minister Benjamin Netanyahu's party and affiliated media alleging that Doha funded Arab parties to interfere in Israel's parliamentary elections.",
+   "body_en": [
+    "Qatari foreign ministry spokesperson Majed al-Ansari described the claims as an unsubstantiated disinformation campaign aimed at dragging Qatar into internal Israeli political disputes. He stressed that Doha does not interfere in Israeli politics and cautioned against using the country as a scapegoat for Israeli politicians' domestic failures.",
+    "The allegations arose as partial results showed Netanyahu's bloc failing to secure a Knesset majority, while Arab lists achieved a record turnout. Israeli Central Elections Committee acting director Dean Livine also dismissed the claims of foreign meddling, affirming that the vote was held legally and with rigorous safeguards."
+   ],
+   "title_fa": "سرایت کارزار ضدقطری اسرائیل به انتخابات",
+   "summary_fa": "وزارت امور خارجه قطر اتهامات حزب بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و رسانه‌های وابسته به آن مبنی بر تأمین مالی احزاب عربی برای مداخله در انتخابات پارلمانی اسرائیل را قاطعانه رد کرد.",
+   "body_fa": [
+    "ماجد الانصاری، سخنگوی وزارت امور خارجه قطر، این ادعاها را یک کارزار اطلاعات نادرست و بی‌پایه دانست که هدف آن کشاندن قطر به مناقشات سیاسی داخلی اسرائیل است. او تأکید کرد که دوحه در سیاست اسرائیل دخالتی ندارد و هشدار داد که از این کشور نباید به‌عنوان سپربلا برای شکست‌های سیاستمداران اسرائیلی استفاده شود.",
+    "این اتهامات هم‌زمان با نتایج اولیه‌ای مطرح شد که نشان می‌داد بلوک نتانیاهو از کسب اکثریت در کنست بازمانده، در حالی که فهرست‌های عربی با مشارکت بالا کرسی‌های قابل‌توجهی کسب کرده‌اند. همچنین دین لیوین، سرپرست کمیته مرکزی انتخابات اسرائیل، ادعاهای مداخله خارجی را رد و تأکید کرد که انتخابات به‌صورت قانونی و با تدابیر لازم برگزار شده است."
+   ],
+   "title_ar": "حملة إسرائيل المناهضة لقطر تمتد إلى الانتخابات",
+   "summary_ar": "رفضت وزارة الخارجية القطرية بحزم اتهامات وجهها حزب الليكود بزعامة رئيس الوزراء الإسرائيلي بنيامين نتنياهو ووسائل إعلام مرتبطة به، تزعم تمويل الدوحة لأحزاب عربية للتدخل في انتخابات الكنيست.",
+   "body_ar": [
+    "ووصف المتحدث باسم وزارة الخارجية القطرية ماجد الأنصاري هذه المزاعم بأنها حملة تضليل لا أساس لها تهدف إلى جر قطر إلى الخلافات السياسية الداخلية في إسرائيل. وشدد على أن الدوحة لا تتدخل في السياسة الإسرائيلية، محذراً من استخدام بلاده ككبش فداء لإخفاقات السياسيين الإسرائيليين.",
+    "وجاءت هذه الاتهامات في وقت أظهرت فيه نتائج أولية عدم حصول كتلة نتنياهو على أغلبية في الكنيست، بينما حققت القوائم العربية تمثيلاً قياسياً. كما نفى القائم بأعمال مدير لجنة الانتخابات المركزية الإسرائيلية دين ليفين مزاعم التدخل الأجنبي، مؤكداً أن الانتخابات جرت وفقاً للقانون وبنزاهة تامة."
+   ]
+  },
+  {
+   "id": "4e2b19219e54",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "date": "2026-10-29T15:12:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "title_en": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "summary_en": "Intense Israeli strikes have killed several people across the Gaza Strip, including two killed in a drone attack on a civilian car in Maghazi camp. The escalating bombardment coincides with renewed pleas from Gaza's Health Ministry to reopen the Rafah border crossing to evacuate more than 21,000 injured and sick Palestinians requiring urgent medical treatment.",
+   "body_en": [
+    "Gaza's Health Ministry reported that six people were killed and 38 wounded over a 24-hour period, with attacks hitting northern and central Gaza, including tent encampments of displaced families and residential areas. Earlier in the day, funerals were held for four Ministry of Economy workers killed while monitoring commercial aid shipments in Rafah, an incident that also wounded over 30 people.",
+    "The ministry warned that deliberate procedural delays and crossing closures are endangering lives, noting that dozens have already died while awaiting permission to leave. While more than 3,000 patients have been evacuated since February, mainly through Egypt, officials emphasize that over 6,400 individuals remain critical priority cases in urgent need of foreign care."
+   ],
+   "title_fa": "حملات اسرائیل به غزه ادامه دارد هم‌زمان با درخواست وزارت بهداشت برای بازگشایی گذرگاه رفح",
+   "summary_fa": "حملات شدید اسرائیل در سراسر نوار غزه چند کشته برجای گذاشته است، از جمله دو نفر در حمله پهپادی به یک خودروی غیرنظامی در اردوگاه مغازی. هم‌زمان با تشدید بمباران‌ها، وزارت بهداشت غزه بار دیگر خواستار بازگشایی گذرگاه مرزی رفح برای خروج بیش از ۲۱ هزار بیمار و مجروح نیازمند درمان فوری شد.",
+   "body_fa": [
+    "وزارت بهداشت غزه گزارش داد که طی ۲۴ ساعت گذشته ۶ فلسطینی کشته و ۳۸ نفر زخمی شده‌اند و حملات هوایی و توپخانه‌ای مناطقی در مرکز و شمال غزه از جمله چادرهای آوارگان و محله‌های مسکونی را هدف قرار داده است. اوایل روز نیز پیکر چهار کارمند وزارت اقتصاد که در حین نظارت بر کامیون‌های امدادی در رفح کشته شده بودند تشییع شد؛ حمله‌ای که بیش از ۳۰ زخمی نیز برجای گذاشت.",
+    "این وزارتخانه هشدار داد که بسته بودن مداوم مرزها و تأخیر در روندهای خروج، به مرگ ده‌ها بیمار پیش از سفر انجامیده و جان هزاران نفر دیگر را تهدید می‌کند. با وجود خروج بیش از ۳ هزار بیمار از ماه فوریه تاکنون که اغلب از طریق مصر بوده است، مقامات تأکید می‌کنند که بیش از ۶۴۰۰ بیمار در وضعیت بحرانی و نیازمند مراقبت‌های فوری در خارج از کشور هستند."
+   ],
+   "title_ar": "ضربات إسرائيلية تستهدف غزة ووزارة الصحة تطالب بفتح معبر رفح",
+   "summary_ar": "أسفرت هجمات إسرائيلية مكثفة عن سقوط قتلى في أنحاء قطاع غزة، بينهم شخصان قُتلا في غارة لطائرة مسيرة استهدفت سيارة مدنية في مخيم المغازي. ويتزامن هذا التصعيد مع تجديد وزارة الصحة في غزة مطالباتها بإعادة فتح معبر رفح لإجلاء أكثر من 21 ألف مريض وجريح بحاجة ماسة للعلاج في الخارج.",
+   "body_ar": [
+    "أفادت وزارة الصحة في غزة بمقتل ستة فلسطينيين وإصابة 38 آخرين خلال 24 ساعة، مع استمرار الغارات التي استهدفت مناطق وسط وشمال القطاع، بما في ذلك مخيمات النازحين والأحياء السكنية. كما دُفن أربعة موظفين بوزارة الاقتصاد قُتلوا في استهداف مسيرة إسرائيلية أثناء مراقبتهم شاحنات المساعدات في رفح، وهو هجوم أسفر أيضاً عن جرح أكثر من 30 شخصاً.",
+    "وحذرت الوزارة من أن الإغلاق المتكرر للمعابر والتعطيل في إجراءات الإخلاء أديا إلى وفاة العشرات وتدهور صحة الآلاف بانتظار الإذن بالسفر. ورغم إجلاء ما يزيد على 3000 مريض ومصاب منذ فبراير/شباط أغلبهم عبر مصر، تؤكد السلطات أن هناك 6430 حالة حرجة تحظى بأولوية قصوى وتستلزم السفر لتلقي العلاج."
+   ]
+  },
+  {
+   "id": "5d1a6c31fcfa",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
+   "date": "2026-10-29T14:39:02Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinian President says hopes for peace talks with new Israeli government",
+   "title_en": "Palestinian President says hopes for peace talks with new Israeli government",
+   "summary_en": "Palestinian President Mahmoud Abbas expressed hope on Thursday that the formation of a new Israeli government following recent elections would lead to the resumption of peace negotiations.",
+   "body_en": [
+    "Speaking during a meeting with Cypriot President Nikos Christodoulides in Nicosia, Abbas stated that the Palestinians have extended a hand to achieve security and peace, hoping to engage in direct dialogue immediately after Israel forms its new administration.",
+    "Abbas's remarks follow an election where nearly complete results indicate that neither Prime Minister Benjamin Netanyahu's bloc nor the opposition led by Gadi Eisenkot has secured a parliamentary majority, likely resulting in weeks of coalition negotiations. The formal peace process has been stalled for years amid expanded West Bank settlement activity."
+   ],
+   "title_fa": "رئیس تشکیلات خودگردان فلسطین ابراز امیدواری کرد با دولت جدید اسرائیل مذاکرات صلح آغاز شود",
+   "summary_fa": "محمود عباس، رئیس تشکیلات خودگردان فلسطین، روز پنجشنبه ابراز امیدواری کرد که تشکیل دولت جدید اسرائیل پس از انتخابات اخیر به ازسرگیری مذاکرات صلح بینجامد.",
+   "body_fa": [
+    "عباس در جریان دیداری با نیکوس کریستودولیدس، رئیس‌جمهور قبرس، در نیکوزیا گفت که طرف فلسطینی سال‌هاست برای دستیابی به صلح و امنیت دست دوستی دراز کرده است و امیدوار است بلافاصله پس از تشکیل دولت جدید اسرائیل گفت‌وگوها آغاز شود.",
+    "اظهارات عباس در شرایطی مطرح می‌شود که نتایج تقریباً کامل انتخابات اسرائیل نشان می‌دهد نه بلوک بنیامین نتانیاهو، نخست‌وزیر، و نه بلوک مخالفان به رهبری گادی آیزنکوت به اکثریت پارلمانی دست نیافته‌اند؛ موضوعی که ممکن است به هفته‌ها رایزنی ائتلافی بینجامد. فرایند صلح اسرائیل و فلسطین نیز هم‌زمان با گسترش شهرک‌سازی در کرانه باختری سال‌هاست متوقف مانده است."
+   ],
+   "title_ar": "الرئيس الفلسطيني يعرب عن أمله في إجراء محادثات سلام مع الحكومة الإسرائيلية الجديدة",
+   "summary_ar": "أعرب الرئيس الفلسطيني محمود عباس يوم الخميس عن أمله في أن يتيح تشكيل حكومة إسرائيلية جديدة بعد الانتخابات الأخيرة استئناف محادثات السلام.",
+   "body_ar": [
+    "وقال عباس، خلال لقائه بالرئيس القبرصي نيكوس خريستودوليدس في نيقوسيا، إن الجانب الفلسطيني يمد يده منذ سنوات لتحقيق السلام والأمن المشترك، معرباً عن أمله في الدخول في حوار فور تشكيل الحكومة الإسرائيلية الجديدة.",
+    "وتأتي تصريحات عباس في ظل نتائج شبه نهائية للانتخابات أظهرت عجز كل من كتلة رئيس الوزراء بنيامين نتنياهو وكتلة المعارضة بقيادة غادي آيزنكوت عن حسم الأغلبية البرلمانية، مما قد يفتح الباب أمام أسابيع من مفاوضات الائتلاف. وتتوقف مفاوضات السلام الرسمية منذ سنوات في ظل تسارع التوسع الاستيطاني في الضفة الغربية."
+   ]
+  },
+  {
+   "id": "4444e867cde4",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cx1l3912rq7zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T14:31:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "نقش احزاب عرب در شرایطی که نتانیاهو و آیزنکوت پیروز نشوند",
+   "title_en": "The role of Arab parties if Netanyahu and Eisenkot fail to win",
+   "summary_en": "With most votes counted in Israel's election, neither Benjamin Netanyahu's right-wing bloc nor Gadi Eisenkot's opposition has secured a majority, putting Arab parties in a potential kingmaker position despite resistance to political partnerships with them.",
+   "body_en": [
+    "Partial counts indicate Netanyahu's bloc on track for 53 seats and Eisenkot's coalition for 48, while Arab parties secured an unprecedented 19 Knesset seats driven by high voter turnout. Both Netanyahu and Eisenkot claimed public mandates in post-election speeches, yet forming a government will prove difficult without support across deep political divides.",
+    "Most Jewish opposition leaders had pledged during campaigning not to partner with Arab-led lists, and right-wing figure Avigdor Liberman ruled out participating in a minority government reliant on them. However, Ra'am leader Mansour Abbas expressed willingness to enter the next coalition, suggesting political positions often soften once elections conclude."
+   ],
+   "title_fa": "نقش احزاب عرب در شرایطی که نتانیاهو و آیزنکوت پیروز نشوند",
+   "summary_fa": "با شمارش بیشتر آرای انتخابات اسرائیل، نه بلوک راست‌گرای بنیامین نتانیاهو و نه ائتلاف مخالفان به رهبری گادی آیزنکوت اکثریت را به دست نیاورده‌اند و احزاب عربی با کسب ۱۹ کرسی، علیرغم مقاومت در برابر همکاری سیاسی با آنها، در موقعیت احتمالی تعیین‌کننده قرار گرفته‌اند.",
+   "body_fa": [
+    "نتایج اولیه نشان می‌دهد بلوک نتانیاهو در مسیر کسب ۵۳ کرسی و ائتلاف آیزنکوت در مسیر دستیابی به ۴۸ کرسی قرار دارند، در حالی که احزاب عرب با مشارکت بالای رأی‌دهندگان به ۱۹ کرسی بی‌سابقه در کنست دست یافته‌اند. هر دو رهبر در سخنرانی‌های شب انتخابات مدعی رأی اکثریت مردم شدند، اما تشکیل دولت با توجه به شکاف‌های عمیق دشوار خواهد بود.",
+    "در طول کارزار انتخاباتی، بیشتر احزاب مخالف یهودی متعهد شده بودند با احزاب عرب همکاری نکنند و آویگدور لیبرمن، سیاستمدار راست‌گرا، نیز حضور در دولتی متکی به این احزاب را رد کرده بود. با این حال، منصور عباس، رهبر حزب رعام، تمایل خود را برای ورود به ائتلاف اعلام کرده و گفته است مواضع احزاب پس از انتخابات معمولاً تغییر می‌کند."
+   ],
+   "title_ar": "دور الأحزاب العربية في حال عدم فوز نتنياهو وآيزنكوت",
+   "summary_ar": "مع فرز غالبية أصوات الانتخابات الإسرائيلية، لم تتمكن كتلة اليمين بزعامة بنيامين نتنياهو ولا المعارضة بقيادة غادي آيزنكوت من تحقيق الأغلبية، مما يضع الأحزاب العربية في موقع القوة المرجحة رغم رفض التحالف معها.",
+   "body_ar": [
+    "وتشير النتائج الأولية إلى اقتراب كتلة نتنياهو من حصد 53 مقعداً مقابل 48 مقعداً لتحالف آيزنكوت، بينما فازت القوائم العربية برقم قياسي بلغ 19 مقعداً في الكنيست بفضل نسبة الإقبال العالية. وأكد كل من نتنياهو وآيزنكوت أحقيته في تشكيل الحكومة، إلا أن تحقيق ذلك سيواجه صعوبات كبيرة دون تجاوز الانقسامات الحادة.",
+    "وكانت معظم أحزاب المعارضة قد تعهدت خلال الحملات بعدم الشراكة مع القوائم العربية، في حين استبعد السياسي اليميني أفيغدور ليبرمان المشاركة في حكومة أقلية تدعمها هذه الأحزاب. في المقابل، أبدى رئيس القائمة العربية الموحدة منصور عباس استعداده للانضمام إلى الحكومة المقبلة، مشيراً إلى أن المواقف الحزبية قد تتغير بعد انتهاء السباق الانتخابي."
+   ]
+  },
+  {
+   "id": "2888c291ca41",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladeshs-tribunal-sentences-awami-league-leader-to-death/article71640968.ece",
+   "date": "2026-10-29T13:57:48Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 6,
+   "title": "Bangladesh's tribunal sentences Awami League leader to death",
+   "title_en": "Bangladesh's tribunal sentences Awami League leader to death",
+   "summary_en": "A special tribunal in Bangladesh has sentenced Mahbubul Alam Hanif, Joint General Secretary of the now-disbanded Awami League, to death in absentia for the killing of six people during the 2024 July Uprising.",
+   "body_en": [
+    "The three-judge tribunal in Kushtia also handed life terms until death to three local party figures and ordered the confiscation of half of their assets, ruling on charges related to the crackdown on student demonstrations that ultimately forced Prime Minister Sheikh Hasina to flee in August 2024.",
+    "Hanif is the 23rd leader from the former ruling party to face capital punishment, following Hasina's death sentence last year. The proceedings were conducted in absentia with state-appointed defense attorneys, amid criticism from party leaders and international human rights organisations concerning the tribunal's fairness."
+   ],
+   "title_fa": "دادگاه بنگلادش یکی از رهبران حزب عوامی لیگ را به اعدام محکوم کرد",
+   "summary_fa": "یک دادگاه ویژه در بنگلادش محبوب‌العالم حنیف، معاون دبیرکل حزب منحل‌شده عوامی لیگ، را به اتهام قتل شش نفر در جریان قیام ژوئیه ۲۰۲۴ به‌طور غیابی به اعدام محکوم کرد.",
+   "body_fa": [
+    "این دادگاه سه نفره همچنین سه تن دیگر از مسئولان محلی این حزب در منطقه کوشتیا را به حبس ابد محکوم و دستور مصادره نیمی از اموال همه محکومان را صادر کرد؛ اتهاماتی که به سرکوب اعتراضات دانشجویی و در نهایت سرنگونی دولت شیخ حسینه در اوت ۲۰۲۴ مربوط می‌شود.",
+    "حنیف بیست و سومین رهبر این حزب است که پس از صدور حکم اعدام برای شیخ حسینه در سال گذشته، به مجازات اعدام محکوم می‌شود. این محاکمه‌ها به‌صورت غیابی و با وکلای تسخیری برگزار شده، در حالی که رهبران حزب و نهادهای حقوق بشری بین‌المللی سلامت روند دادرسی آن را زیر سؤال برده‌اند."
+   ],
+   "title_ar": "محكمة في بنغلاديش تحكم بالإعدام على قيادي في رابطة عوامي",
+   "summary_ar": "قضت محكمة خاصة في بنغلاديش غيابياً بإعدام محبوب العالم حنيف، نائب الأمين العام لرابطة عوامي المنحلة، بتهمة قتل ستة أشخاص خلال احتجاجات \"انتفاضة يوليو\" عام 2024.",
+   "body_ar": [
+    "وقضت المحكمة الثلاثية أيضاً بالسجن مدى الحياة على ثلاثة مسؤولين محليين في الحزب بمقاطعة كوشتيا مع مصادرة نصف ممتلكات المدانين، إثر تورطهم في قمع التظاهرات الطلابية التي أطاحت بحكومة الشيخة حسينة في أغسطس 2024.",
+    "ويعد حنيف القيادي الثالث والعشرين في الحزب الذي يُحكم عليه بالإعدام غيابياً بعد الحكم المماثل على حسينة العام الماضي. وجرت المحاكمة بحضور محامين عينتهم الدولة، وسط انتقادات من قادة الحزب ومنظمات حقوقية دولية شككت في نزاهة هذه الإجراءات القضائية."
+   ]
+  },
+  {
+   "id": "6ba5679a1883",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+   "date": "2026-10-29T13:44:42Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Damascus, Amman contradict each other on attack that killed civilians",
+   "title_en": "Damascus, Amman contradict each other on attack that killed civilians",
+   "summary_en": "Disagreements have surfaced between Amman and Damascus following Jordanian airstrikes in southern Syria that Jordan stated targeted Islamic State fighters in retaliation for a church bombing, but which killed several civilians. While Jordan claimed the strikes were coordinated, Syrian authorities condemned them as unannounced and a violation of sovereignty.",
+   "body_en": [
+    "Jordan launched the strikes on Deraa and Suwayda after an attack on a Greek Orthodox church in Karak killed nine people, prompting King Abdullah II to vow an \"iron fist\" response. However, Syrian anger grew after reports revealed the deaths of an elderly grandmother, her three grandchildren, and two other elderly men in the targeted border villages.",
+    "The Syrian Foreign Ministry characterized the attacks as treacherous and denied prior coordination, leading to a temporary closure of the Nassib border crossing. The dispute strains slowly recovering diplomatic relations between the neighbors, who share mutual concerns over cross-border drug and weapons smuggling."
+   ],
+   "title_fa": "تناقض در اظهارات دمشق و امان درباره حمله‌ای که منجر به کشته شدن غیرنظامیان شد",
+   "summary_fa": "در پی حملات هوایی اردن به جنوب سوریه، میان امان و دمشق اختلاف‌نظر بروز کرده است؛ اردن اعلام کرد در پاسخ به حمله به یک کلیسا، پایگاه‌های داعش را هدف قرار داده، اما این حملات جان چند غیرنظامی را گرفت. در حالی که اردن مدعی هماهنگی با دمشق است، مقامات سوریه این حملات را غیرمنتظره و نقض حاکمیت کشور دانستند.",
+   "body_fa": [
+    "اردن پس از حمله به یک کلیسای ارتدوکس یونانی در کرک که ۹ کشته برجای گذاشت، با وعده «مشت آهنین» از سوی ملک عبدالله دوم، مناطقی در درعا و سویدا را هدف قرار داد. با این حال، انتشار گزارش‌هایی مبنی بر کشته شدن یک مادربزرگ و سه نوه‌اش و نیز دو مرد سالخورده در روستاهای مرزی، موجی از خشم را در سوریه برانگیخت.",
+    "وزارت امور خارجه سوریه این حملات را غافلگیرانه و بدون هماهنگی قبلی خواند که این امر منجر به بسته شدن موقت گذرگاه مرزی نصیب شد. این حادثه روابط دیپلماتیک دوجانبه را که پس از سقوط حکومت اسد به آرامی رو به بهبود بود و بر منافع مشترکی نظیر مبارزه با قاچاق سلاح و مواد مخدر استوار است، تحت فشار قرار داده است."
+   ],
+   "title_ar": "دمشق وعمان تتناقضان بشأن هجوم أسفر عن مقتل مدنيين",
+   "summary_ar": "برزت خلافات حادة بين عمان ودمشق إثر غارات جوية أردنية على جنوب سوريا أعلن الأردن أنها استهدفت عناصر تنظيم الدولة الإسلامية رداً على استهداف كنيسة، لكنها أسفرت عن مقتل مدنيين. وفي حين زعم الأردن أن الضربات نُفذت بالتنسيق، نددت السلطات السورية بها ووصفتها بأنها تمت دون إخطار مسبق وتعد خرقاً للسيادة.",
+   "body_ar": [
+    "جاءت الغارات الأردنية على درعا والسويداء في أعقاب هجوم على كنيسة للروم الأرثوذكس في الكرك خلف تسعة قتلى، وتعهد الملك عبد الله الثاني بالرد بـ\"قبضة من حديد\". غير أن الغضب تصاعد في سوريا بعد انتشار أنباء عن مقتل جدة وأحفادها الثلاثة إلى جانب مسنين اثنين في القرى المستهدفة.",
+    "ووصفت وزارة الخارجية السورية الهجمات بأنها \"غادرة\" وجرت دون تنسيق، ما دفع إدارة الجمارك لإغلاق معبر نصيب الحدودي مؤقتاً. ويضع هذا الخلاف ضغوطاً على العلاقات الدبلوماسية الآخذة في التحسن تدريجياً، والتي ترتكز على مصالح أمنية مشتركة لمكافحة تهريب السلاح والمخدرات عبر الحدود."
+   ]
+  },
+  {
+   "id": "933355f59ed3",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckly06vp2l33o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T13:14:54Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 6,
+   "title": "لماذا يتصارع الجميع على مدينة تعز اليمنية؟",
+   "title_en": "Why is everyone fighting over the Yemeni city of Taiz?",
+   "summary_en": "Fighting has escalated in the Yemeni city of Taiz between the Houthi Ansar Allah movement and the internationally recognized government, worsening the humanitarian crisis and leaving the city besieged.",
+   "body_en": [
+    "Taiz has become the main fighting front in the war between the Iran-backed Houthis and the government supported by the Saudi-led coalition. Houthi forces encircled the city in recent weeks, causing widespread displacement.",
+    "According to international organizations, the city's hospitals suffer from acute shortages of fuel, oxygen, and medical supplies, while children face risks of hunger, lack of safe drinking water, and disease outbreaks."
+   ],
+   "title_fa": "چرا همه بر سر شهر تعز یمن در حال جنگ هستند؟",
+   "summary_fa": "درگیری‌ها در شهر تعز یمن میان جنبش انصارالله حوثی و حکومت به رسمیت شناخته‌شده بین‌المللی شدت یافته و بحران انسانی و محاصره شهر را بدتر کرده است.",
+   "body_fa": [
+    "تعز به جبهه اصلی جنگ میان حوثی‌های مورد حمایت ایران و حکومت مورد حمایت ائتلاف به رهبری عربستان تبدیل شده است. نیروهای حوثی در هفته‌های اخیر شهر را محاصره کرده‌اند که این امر موجب آوارگی گسترده شده است.",
+    "به گفته سازمان‌های بین‌المللی، بیمارستان‌های شهر با کمبود شدید سوخت، اکسیژن و تجهیزات پزشکی مواجه هستند، در حالی که کودکان با خطرات گرسنگی، فقدان آب آشامیدنی سالم و شیوع بیماری‌ها روبرو هستند."
+   ],
+   "title_ar": "لماذا يتصارع الجميع على مدينة تعز اليمنية؟",
+   "summary_ar": "تزايدت حدة القتال في مدينة تعز اليمنية بين حركة أنصار الله الحوثية والحكومة المعترف بها دولياً، مما أدى إلى تفاقم الأزمة الإنسانية وحصار المدينة.",
+   "body_ar": [
+    "أصبحت تعز جبهة القتال الرئيسية في الحرب بين الحوثيين المدعومين من إيران والحكومة المدعومة من التحالف بقيادة السعودية. وقامت قوات الحوثيين بتطويق المدينة خلال الأسابيع الماضية، مما تسبب في موجة نزوح واسعة النطاق.",
+    "وفقاً لمنظمات دولية، تعاني مستشفيات المدينة من نقص حاد في الوقود والأكسجين والأدوية، بينما يواجه الأطفال مخاطر الجوع ونقص مياه الشرب وانتشار الأمراض."
+   ]
+  },
   {
    "id": "344a192a2adb",
    "lang": "en",
@@ -63,6 +307,36 @@
    ]
   },
   {
+   "id": "3db756187959",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
+   "date": "2026-10-29T12:46:29Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+   "title_en": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+   "summary_en": "Clashes between Yemeni government forces and the Houthis have escalated sharply on several fronts south and west of Taiz, including around the strategic Jabal Sabr. Amid the surge in violence and airstrikes, the United Nations has warned that time is running out to deliver essential humanitarian aid to 800,000 residents trapped in the city.",
+   "body_en": [
+    "Military spokesmen for the Yemeni government reported hundreds of operations over a 24-hour period aimed at repelling Houthi advances and breaking the siege around Taiz, while Houthi media cited extensive airstrikes targeting the Red Sea port of Mocha and areas across Sanaa and other governorates. The heightened violence follows advances by the Houthis on key high ground and coastal positions, prompting an intensified counteroffensive by Saudi-backed government forces.",
+    "The UN Office for the Coordination of Humanitarian Affairs (OCHA) warned that damage to the main southern transit route has forced relief supplies onto precarious mountain roads. OCHA called on all warring factions to adhere to international humanitarian law and ensure unhindered passage for relief aid to address the displacement of over 281,000 people since August."
+   ],
+   "title_fa": "درگیری‌های شدید در نزدیکی تعز یمن هم‌زمان با درخواست سازمان ملل برای دسترسی بشردوستانه",
+   "summary_fa": "درگیری‌ها میان نیروهای دولتی یمن و حوثی‌ها در چندین جبهه در جنوب و غرب تعز، از جمله در اطراف کوه استراتژیک جبل صبر، شدت گرفته است. هم‌زمان با گسترش درگیری‌ها و حملات هوایی، سازمان ملل هشدار داد که فرصت برای ارسال کمک‌های بشردوستانه ضروری به ۸۰۰ هزار نفر از ساکنان تحت محاصره شهر رو به اتمام است.",
+   "body_fa": [
+    "سخنگوی نیروهای دولتی یمن از صدها عملیات نظامی طی ۲۴ ساعت گذشته با هدف دفع پیشروی‌های حوثی‌ها و شکستن محاصره تعز خبر داد، در حالی که رسانه‌های وابسته به حوثی‌ها از حملات هوایی گسترده به بندر مخا در دریای سرخ و چندین منطقه در صنعا و دیگر استان‌ها گزارش دادند. این تشدید درگیری‌ها پس از تحرکات حوثی‌ها برای تسلط بر ارتفاعات مشرف به شهر صورت گرفته است.",
+    "دفتر هماهنگی امور بشردوستانه سازمان ملل (اوچا) هشدار داد که تخریب جاده اصلی ارتباطی تعز، ارسال کاروان‌های امدادی را به مسیرهای باریک کوهستانی محدود کرده است. اوچا از طرف‌های درگیر خواست تا با رعایت قوانین بین‌المللی بشردوستانه، مسیرهای ارسال کمک‌ها را برای امدادرسانی به بیش از ۲۸۱ هزار آواره باز بگذارند."
+   ],
+   "title_ar": "اشتداد القتال قرب تعز اليمنية والأمم المتحدة تدعو لإتاحة وصول المساعدات",
+   "summary_ar": "تصاعدت حدة الاشتباكات بين القوات الحكومية اليمنية والحوثيين في عدة جبهات جنوب وغرب مدينة تعز، لا سيما في محيط جبل صبر الاستراتيجي. وتزامناً مع احتدام القتال والغارات، حذرت الأمم المتحدة من نفاد الوقت لإيصال المساعدات الإنسانية لنحو 800 ألف مدني محاصرين داخل المدينة.",
+   "body_ar": [
+    "أفاد متحدث باسم القوات الحكومية اليمنية بتنفيذ مئات العمليات العسكرية خلال 24 ساعة لصد هجمات الحوثيين ومحاولة كسر الحصار عن تعز، في حين أعلنت وسائل إعلام تابعة للحوثيين عن شن غارات جوية استهدفت ميناء المخا على البحر الأحمر ومواقع في صنعاء وعدة محافظات أخرى. ويأتي هذا التصعيد في أعقاب تقدم الحوثيين نحو مرتفعات مطلة على المدينة ورد القوات الموالية للحكومة بدعم سعودي.",
+    "من جانبه، حذر مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا) من أن تضرر الطريق الرئيسي الرابط بين تعز والمحافظات الجنوبية أجبر شاحنات الإغاثة على سلوك مسالك جبلية وعرة. وطالب المكتب أطراف النزاع باحترام القانون الدولي الإنساني وتأمين ممرات آمنة ودائمة لضمان وصول الإمدادات لمئات الآلاف، مع تفاقم موجات النزوح التي شملت أكثر من 281 ألف شخص منذ أغسطس/آب."
+   ]
+  },
+  {
    "id": "452702bb19cb",
    "lang": "en",
    "source": "Al Jazeera",
@@ -87,6 +361,36 @@
    "summary_ar": "أفاد مزارعون في أفغانستان بأنهم يضطرون للجوء إلى زراعة خشخاش الأفيون لتأمين معيشتهم على الرغم من الحظر المفروض، وذلك في ظل تفاقم الأوضاع الاقتصادية والجفاف.",
    "body_ar": [
     "وذكرت الأسر أن جني محاصيل بديلة مثل القطن لا يوفر عائداً كافياً لإطعام أطفالهم."
+   ]
+  },
+  {
+   "id": "1c0d63d6b788",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+   "date": "2026-10-29T12:29:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+   "title_en": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+   "summary_en": "The Israeli army has continued its military lockdown of Hebron for a seventh consecutive day, imposing strict movement restrictions and carrying out raids across the city.",
+   "body_en": [
+    "The siege was ordered by Prime Minister Benjamin Netanyahu following a shooting incident that killed two Israeli soldiers. Since the operation began, Israeli forces have displaced over 3,000 residents, converted homes into military posts, detained scores of Palestinians, and isolated nearby villages. Settlers have also carried out attacks against Palestinians, foreign journalists, and agricultural property.",
+    "Human rights groups and UN officials have condemned the measures as illegal collective punishment and warned of severe humanitarian consequences. Meanwhile, Palestinian officials accused the government of exploiting the escalation for political gain ahead of Israeli elections."
+   ],
+   "title_fa": "یک هفته محاصره الخلیل توسط اسرائیل: چه اتفاقی افتاده و چه زمانی پایان می‌یابد؟",
+   "summary_fa": "ارتش اسرائیل محاصره نظامی الخلیل را برای هفتمین روز متوالی ادامه داده و محدودیت‌های شدید رفت‌وآمد و یورش‌هایی را در سراسر شهر اعمال کرده است.",
+   "body_fa": [
+    "این محاصره به دستور نخست‌وزیر بنیامین نتانیاهو پس از تیراندازی کشته شدن دو سرباز اسرائیلی آغاز شد. از زمان شروع عملیات، نیروهای اسرائیلی بیش از ۳۰۰۰ ساکن را آواره کرده، خانه‌ها را به پایگاه‌های نظامی تبدیل نموده، ده‌ها فلسطینی را بازداشت کرده و روستاهای اطراف را ایزوله کرده‌اند. شهرک‌نشینان نیز حملاتی را علیه فلسطینیان، خبرنگاران خارجی و املاک کشاورزی انجام داده‌اند.",
+    "گروه‌های حقوق بشری و مقامات سازمان ملل این اقدامات را مجازات دسته جمعی غیرقانونی دانسته و محکوم کرده‌اند. در همین حال، مقامات فلسطینی حکومت را متهم کرده‌اند که از این تنش‌ها برای کسب منافع سیاسی پیش از انتخابات اسرائیل سوءاستفاده می‌کند."
+   ],
+   "title_ar": "أسبوع من الحصار الإسرائيلي على الخليل: ماذا حدث ومتى ينتهي؟",
+   "summary_ar": "واصل الجيش الإسرائيلي فرضه للحصار العسكري على مدينة الخليل لليوم السابع على التوالي، متضمناً فرض قيود مشددة على الحركة وتنفيذ اقتحامات في جميع أنحاء المدينة.",
+   "body_ar": [
+    "جاء الحصار بأمر من رئيس الوزراء بنيامين نتنياهو عقب حادث إطلاق نار أدى إلى مقتل جنديين إسرائيليين. ومنذ بدء العملية، هجّرت القوات الإسرائيلية أكثر من 3000 مواطن، وحولت منازل إلى ثكنات عسكرية، واعتقلت عشرات الفلسطينيين، وعزلت القرى المجاورة. كما شن المستوطنون هجمات ضد الفلسطينيين والصحفيين الأجانب والممتلكات الزراعية.",
+    "ونددت منظمات حقوقية ومسؤولون في الأمم المتحدة بهذه الإجراءات باعتبارها عقاباً جماعياً غير قانوني، وتحذر من عواقب إنسانية وخيمة. في غضون ذلك، اتهم مسؤولون فلسطينيون الحكومة باستغلال التصعيد لتحقيق مكاسب سياسية قبل الانتخابات الإسرائيلية."
    ]
   },
   {
@@ -177,6 +481,66 @@
    "body_ar": [
     "وذكر ميلور أن برنهام أعرب عن رغبته في الزيارة مباشرة لرئيس الوزراء ناريندرا مودي بعد توليه منصبه في يوليو الماضي. كما أبدى الدبلوماسي ثقته في أن البلدين سيتجاوزان هدفهما المتمثل في مضاعفة التجارة الثنائية لتصل إلى نحو 120 مليار دولار بحلول عام 2030، مستفيدين من اتفاقية التجارة الحرة التي دخلت حيز التنفيذ قبل 100 يوم.",
     "وأشار إلى تعزيز العلاقات التجارية مستشهداً بزيارة وفد تجاري ضم أكثر من 200 شركة برفقة سبعة رؤساء بلديات بريطانيين إلى الهند مؤخراً. وأكد ميلور أن الإجراءات المعلنة في الميزانية البريطانية الأخيرة، بما في ذلك دعم تكاليف الطاقة للأسر والالتزام بالقواعد المالية الصارمة، تمنح الاقتصاد استقراراً وجاذبية للاستثمار وسط التحديات الاقتصادية."
+   ]
+  },
+  {
+   "id": "2bc2c45da3cd",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
+   "date": "2026-10-29T10:42:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border",
+   "title_en": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border",
+   "summary_en": "Pakistan and China have signed an online agreement to operationalize a green channel at the Sost-Khunjerab border to facilitate bilateral trade in agricultural and allied products.",
+   "body_en": [
+    "The agreement was signed between the customs administrations of both nations at the Federal Board of Revenue. It establishes priority customs processing and examination for agreed agricultural goods, while providing for enhanced information sharing and risk alert exchanges to improve cross-border trade management.",
+    "The measure aims to handle perishable goods efficiently and reduce border delays. Located between Gilgit-Baltistan and China's Xinjiang region, the Khunjerab Pass serves as a major trade route that operates seasonally between April and November."
+   ],
+   "title_fa": "پاکستان و چین برای فعال‌سازی کانال سبز در مرز سوست-خنجراب توافق‌نامه امضا کردند",
+   "summary_fa": "پاکستان و چین توافق‌نامه‌ای آنلاین برای فعال‌سازی یک کانال سبز در مرز سوست-خنجراب به منظور تسهیل تجارت دوجانبه محصولات کشاورزی و صنایع وابسته امضا کردند.",
+   "body_fa": [
+    "این توافق‌نامه میان ادارات گمرک دو کشور در هیئت دولتی درآمد امضا شد. این طرح ارزیابی و تشریفات گمرکی اولویت‌دار را برای کالاهای کشاورزی توافق‌شده برقرار می‌کند و تبادل اطلاعات و هشدارهای ریسک را برای بهبود مدیریت تجارت فرامرزی افزایش می‌دهد.",
+    "هدف از این اقدام، مدیریت کارآمد کالاهای فاسدشدنی و کاهش تأخیرهای مرزی است. گذرگاه خنجراب واقع در میان گیلگیت-بلتستان و منطقه سین‌کیانگ چین، یک مسیر تجاری مهم است که به صورت فصلی بین آوریل و نوامبر فعالیت می‌کند."
+   ],
+   "title_ar": "باكستان والصين توقعان اتفاقية لتشغيل القناة الخضراء عند حدود سوست-خنجراب",
+   "summary_ar": "وقعت باكستان والصين اتفاقية عبر الإنترنت لتشغيل قناة خضراء عند حدود سوست-خنجراب لتسهيل التجارة الثنائية في المنتجات الزراعية والمالكة.",
+   "body_ar": [
+    "وُقعت الاتفاقية بين إدارتي الجمارك في البلدين في المجلس الفيدرالي للإيرادات. وتحدد الاتفاقية إجراءات جمركية وفحصاً ذي أولوية للبضائع الزراعية المتفق عليها، مع توفير تبادل معزز للمعلومات وتنبيهات المخاطر لتحسين إدارة التجارة عبر الحدود.",
+    "وتهدف هذه الإجراءات إلى التعامل بفعالية مع البضائع القابلة للتلَف وتقليل التأخير عند الحدود. ويعد ممر خنجراب الواقع بين غلغت-بلتستان ومنطقة شينجيانغ الصينية مساراً تجارياً رئيسياً يعمل موسمياً بين أبريل ونوفمبر."
+   ]
+  },
+  {
+   "id": "5c3cad395fdf",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040694/atc-sentences-imaan-hadi-to-10-years-in-security-breach-case",
+   "date": "2026-10-29T09:49:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "ATC sentences Imaan, Hadi to 10 years in security breach case",
+   "title_en": "ATC sentences Imaan, Hadi to 10 years in security breach case",
+   "summary_en": "A Pakistani anti-terrorism court has sentenced human rights lawyer Imaan Zainab Mazari-Hazir and her husband Hadi Ali Chattha to 10 years in prison over a 2024 security breach case. Judge Tahir Abbas Sipra announced the verdict at Adiala jail, convicting the couple under anti-terrorism laws and the Pakistan Penal Code.",
+   "body_en": [
+    "The charges stemmed from allegations that the couple disrupted the security route of an international cricket team and incited public unrest by removing barriers. The court ruled that their sentences, which include fines and concurrent terms for obstructing and assaulting public servants, were intended to terrorize and pressure security officials.",
+    "Both defendants denied all charges, arguing that they were being targeted by the state for their human rights advocacy and pro bono legal work. They criticized the trial process inside the prison, stating that their constitutional rights to a fair trial and due process were severely compromised."
+   ],
+   "title_fa": "محکومیت ایمان و هادی به ۱۰ سال زندان در پرونده نقض امنیتی توسط دادگاه ضد تروریسم",
+   "summary_fa": "یک دادگاه ضد تروریسم در پاکستان، ایمان زینب مزاری حاضر، وکیل حقوق بشر، و همسرش هادی علی چتا را در پرونده نقض امنیتی مربوط به سال ۲۰۲۴ به ۱۰ سال زندان محکوم کرد. قاضی طاهر عباس سپرا این حکم را در زندان آدیالا صادر و این زوج را طبق قوانین ضد تروریسم و قانون مجازات پاکستان محکوم کرد.",
+   "body_fa": [
+    "اتهامات مطرح شده مربوط به ادعاهایی است مبنی بر اینکه این زوج با برداشتن موانع، مسیر امنیتی یک تیم بین‌المللی کریکت را مختل کرده و باعث تحریک ناآرامی‌های عمومی شده‌اند. دادگاه رأی داد که احکام آن‌ها، که شامل جریمه نقدی و حبس‌های همزمان به اتهام ایجاد مانع و حمله به ماموران دولتی است، با هدف ایجاد رعب و فشار بر ماموران امنیتی انجام شده است.",
+    "هر دو متهم تمامی اتهامات را رد کرده و تأکید کردند که به دلیل فعالیت‌های حقوق بشری و ارائه خدمات حقوقی رایگان مورد هدف دولت قرار گرفته‌اند. آن‌ها همچنین از روند محاکمه در داخل زندان انتقاد کرده و اظهار داشتند که حقوق قانونی‌شان برای برخورداری از دادگاهی عادلانه و روند قانونی نقض شده است."
+   ],
+   "title_ar": "محكمة مكافحة الإرهاب تقضي بسجن إيمان وهادي 10 سنوات في قضية خرق أمني",
+   "summary_ar": "قضت محكمة مكافحة الإرهاب الباكستانية بسجن محامية حقوق الإنسان إيمان زينب مزاري حاضر وزوجها هادي علي تشاثا لمدة 10 سنوات في قضية تتعلق بخرق أمني عام 2024. وأعلن القاضي طاهر عباس سيبرا الحكم في سجن أديالا، لإدانة الزوجين بموجب قانون مكافحة الإرهاب وقانون العقوبات الباكستاني.",
+   "body_ar": [
+    "وتعود الاتهامات إلى مزاعم بتمزيق الزوجين للمسار الأمني لفريق كريكت دولي وإثارة الاضطرابات العامة عبر إزالة الحواجز. وقضت المحكمة بأن العقوبات، التي شملت غرامات وأحكامًا متزامنة بتهمة إعاقة والاعتداء على موظفين عموميين، كانت تهدف إلى إرهاب المسؤولين الأمنيين والضغط عليهم.",
+    "ونفى كلا المتهمين جميع الاتهامات، مؤكدين أنهما مستهدفان من قبل الدولة بسبب نشاطهما في مجال حقوق الإنسان وتقديم المساعدة القانونية المجانية. وقاما بانتقاد إجراءات المحاكمة داخل السجن، مشيرين إلى أن حقوقهما الدستورية في محاكمة عادلة قد تم انتهاكها."
    ]
   },
   {
@@ -422,37 +786,6 @@
    ]
   },
   {
-   "id": "4d73eb2d8072",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040632/a-huddle-in-tehran",
-   "date": "2026-10-29T03:34:00Z",
-   "countries": [
-    "IRN",
-    "SAU"
-   ],
-   "score": 5,
-   "title": "A huddle in Tehran",
-   "title_en": "A huddle in Tehran",
-   "summary_en": "Senior defense and intelligence officials from Saudi Arabia, Pakistan, and Turkey met in Tehran with Iran's Supreme National Security Council secretary to discuss regional peace and security.",
-   "body_en": [
-    "The meeting brought together the defense minister of Saudi Arabia, Pakistan's defense chief, Turkey's intelligence chief, and Iran's Mohsen Rezaei. Despite issuing a brief joint statement, the gathering underscored a recognition among major regional powers that Iranian participation is essential for any future Gulf security architecture.",
-    "Rezaei noted that all parties agreed regional security should be managed by the region's own nations. Iran is advocating for an framework based on non-aggression, shared interests, and the exclusion of foreign military forces from the Gulf region."
-   ],
-   "title_fa": "نشستی در تهران",
-   "summary_fa": "مقامات ارشد دفاعی و امنیتی عربستان سعودی، پاکستان و ترکیه در تهران با دبیر شورای عالی امنیت ملی ایران دیدار کردند تا درباره صلح و امنیت منطقه‌ای گفتگو کنند.",
-   "body_fa": [
-    "این نشست با حضور وزیر دفاع عربستان سعودی، رئیس دفاعی پاکستان، رئیس اطلاعات ترکیه و محسن رضایی از ایران برگزار شد. با وجود صدور یک بیانیه مشترک کوتاه، این اجتماع نشان‌دهنده اذعان قدرت‌های بزرگ منطقه‌ای به این نکته است که مشارکت ایران برای هرگونه ساختار امنیتی آینده در خلیج فارس ضروری است.",
-    "رضایی خاطرنشان کرد که تمامی طرف‌ها توافق کردند که امنیت منطقه باید توسط کشورهای خود منطقه تأمین شود. ایران از چارچوبی مبتنی بر عدم تجاوز، منافع مشترک و خروج نیروهای نظامی خارجی از منطقه خلیج فارس حمایت می‌کند."
-   ],
-   "title_ar": "اجتماع في تهران",
-   "summary_ar": "التقى مسؤولون دفاعيون واستخباراتيون بارزون من السعودية وباكستان وتركيا في تهران مع أمين المجلس الأعلى للأمن القومي الإيراني لبحث السلام والأمن الإقليميين.",
-   "body_ar": [
-    "جمع الاجتماع وزير الدفاع السعودي، ورئيس أركان الدفاع الباكستاني، ورئيس الاستخبارات التركية، ومحسن رضائي من جانب إيران. وعلى الرغم من صدور بيان مشترك اقتصر على التعهد بمواصلة الحوار، فقد أظهر الاجتماع اعترافًا من القوى الإقليمية الرئيسية بأن مشاركة إيران ضرورية لأي ترتيبات أمنية مستقبلية في الخليج.",
-    "وأشار رضائي إلى أن جميع الأطراف اتفقت على أن أمن المنطقة يجب أن يتحقق من خلال دول المنطقة نفسها. وتروج إيران لإطار قائم على عدم الاعتداء، وتوافق المصالح، وخروج القوات العسكرية الأجنبية من منطقة الخليج."
-   ]
-  },
-  {
    "id": "387e3e76d1f1",
    "lang": "en",
    "source": "Al Jazeera",
@@ -481,36 +814,6 @@
    "body_ar": [
     "وذكرت شوكو على وسائل التواصل الاجتماعي أن الصحفي الأمريكي جاسبر ناثانييل والناشط الإسرائيلي الروسي أندري إكس تعرضا للضرب معها. وأطلقت القوات الإسرائيلية رذاذ الفلفل على ناثانييل واعتقلته، بينما أصيب أندري إكس بارتجاج في المخ وتم نقله إلى مركز الشرطة بدلاً من تلقي العلاج الطبي اللازم.",
     "وأظهرت مقاطع فيديو نُشرت عبر الإنترنت رجالاً مسلحين يعتدون على ناثانييل وأندري إكس قبل أن تقود القوات الإسرائيلية ناثانييل بعيدًا. يأتي هذا الحادث بعد هجوم عنيف شنه مستوطنون ملثمون مؤخرًا على مزارعي زيتون فلسطينيين ومصورة صحفية في أبو فلاح."
-   ]
-  },
-  {
-   "id": "2378ee684f1d",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cqy431yymx0xo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-29T02:07:25Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
-   "title_en": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
-   "summary_en": "The pro-Palestinian hacking group \"Handala\" has reportedly targeted Israeli institutions and foreign organizations, with cybersecurity researchers linking its activities to Iranian intelligence operations.",
-   "body_en": [
-    "Emerging in late 2023, Handala has claimed responsibility for various cyberattacks using \"hack-and-leak\" tactics, defacements, and data theft against Israeli military databases, satellite operators, international media, and foreign firms like US medical equipment maker Stryker. Israeli and US authorities, alongside cybersecurity firms, associate the group with Iran's Ministry of Intelligence and Security.",
-    "The group presents its actions as retaliatory strikes against Israeli operations and support for Palestinian causes. While some leaked material has been described by security analysts as non-sensitive, experts assess the operations as part of broader cyber-enabled psychological campaigns."
-   ],
-   "title_fa": "درباره گروه «حنظله»، مهم‌ترین عملیات‌های سایبری آن و ارتباطش با سرویس‌های اطلاعاتی ایران چه می‌دانیم؟",
-   "summary_fa": "گزارش‌ها نشان می‌دهد که گروه هکری طرفدار فلسطین موسوم به «حنظله» موسسات اسرائیلی و سازمان‌های خارجی را هدف قرار داده است و پژوهشگران امنیت سایبری فعالیت‌های آن را با عملیات اطلاعاتی ایران مرتبط می‌دانند.",
-   "body_fa": [
-    "گروه حنظله که در اواخر سال ۲۰۲۳ ظهور کرد، مسئولیت چندین حمله سایبری از جمله نفوذ به پایگاه‌های داده نظامی اسرائیل، اپراتورهای ماهواره‌ای، رسانه‌های بین‌المللی و شرکت‌های خارجی مانند شرکت تجهیزات پزشکی استرایکر آمریکا را بر عهده گرفته است. مقامات آمریکایی و اسرائیلی و شرکت‌های امنیت سایبری این گروه را به وزارت اطلاعات ایران مرتبط می‌دانند.",
-    "این گروه اقدامات خود را به عنوان حملات تلافی‌جویانه در پاسخ به اقدامات نظامی اسرائیل و حمایت از آرمان فلسطین توصیف می‌کند. اگرچه برخی کارشناسان بخشی از داده‌های افشا‌شده را غیرحساس ارزیابی کرده‌اند، تحلیل‌گران این عملیات‌ها را بخشی از کمپین‌های جنگ روانی سایبری می‌دانند."
-   ],
-   "title_ar": "ماذا نعرف عن مجموعة \"حنظلة\"، وأهم عملياتها في مجال القرصنة السيبرانية، وما حقيقة صِلتها بالمخابرات الإيرانية؟",
-   "summary_ar": "رصدت تقارير استهداف مجموعة القرصنة الداعمة للفلسطينيين \"حنظلة\" لمؤسسات إسرائيلية ومنظمات خارجية، وسط ربط من باحثين في الأمن السيبراني بين أنشطتها وعمليات استخباراتية إيرانية.",
-   "body_ar": [
-    "ظهرت مجموعة \"حنظلة\" في أواخر عام 2023، وادعت المسؤولية عن هجمات سيبرانية متنوعة شملت اختراق قاعدة بيانات طبية للجيش الإسرائيلي، وشركات أقمار صناعية، ومؤسسات إعلامية، وشركات أجنبية مثل شركة \"سترايكر\" الأمريكية. وتربط سلطات أمريكية وإسرائيلية وشركات أمن سيبراني بين المجموعة ووزارة الاستخبارات والأمن الإيرانية.",
-    "وتعرض المجموعة عملياتها كبروتوكولات انتقامية ضد الهجمات الإسرائيلية ودعمًا للقضية الفلسطينية. ورغم أن بعض الوثائق المسربة وُصفت بأنها غير حساسة، فإن خبراء الأمن يعتبرون هذه النشاطات جزءًا من حملات نفسية مدعومة سيبرانيًا."
    ]
   },
   {
@@ -571,36 +874,6 @@
    "body_ar": [
     "جاءت المظاهرة في أعقاب الانتخابات العامة التي جرت يوم الثلاثاء، والتي تشير التوقعات فيها إلى فوز الحزبين العربيين الرئيسيين بنحو 19 مقعداً في الكنيست المؤلف من 120 مقعداً.",
     "قد تمنح هذه المكاسب المحتملة الأحزاب التي تقودها الأقلية العربية دوراً حاسماً في تحديد من سیشكل الائتلاف الحاكم القادم."
-   ]
-  },
-  {
-   "id": "1ef8f758f511",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
-   "date": "2026-10-28T23:48:08Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
-   "title_en": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
-   "summary_en": "Following Polish Prime Minister Donald Tusk's recent visit to India, bilateral ties in economic and defence cooperation are expected to strengthen as Poland distances itself from China.",
-   "body_en": [
-    "Polish Prime Minister Donald Tusk recently visited India, marking the first such visit in 16 years, following Indian Prime Minister Narendra Modi's trip to Poland in 2024 where their relationship was elevated to a strategic partnership. This strengthening of ties with India occurs as Poland moves away from China due to one-sided trade and concerns over the Russia-Ukraine war.",
-    "Experts and officials note that Poland, mirroring broader European trends, has implemented measures such as barring Chinese-made vehicles from military facilities and seeking technological independence. A government-backed research network has also launched an Asian Programme focusing on countries like India, South Korea, and Taiwan to boost innovation and reduce reliance on Beijing."
-   ],
-   "title_fa": "چرخش لهستان به سمت هند همزمان با ایجاد شکاف در «مشارکت راهبردی» با چین",
-   "summary_fa": "به دنبال سفر اخیر دونالد تاس، نخست‌وزیر لهستان به هند، انتظار می‌رود روابط دوجانبه در زمینه همکاری‌های اقتصادی و دفاعی همزمان با فاصله گرفتن لهستان از چین تقویت شود.",
-   "body_fa": [
-    "دونالد تاس، نخست‌وزیر لهستان، اخیراً به هند سفر کرد که نخستین سفر یک نخست‌وزیر لهستانی در ۱۶ سال گذشته محسوب می‌شود. این سفر به دنبال سفر نارندرا مودی، نخست‌وزیر هند، به لهستان در سال ۲۰۲۴ انجام شد که طی آن روابط دو کشور به سطح مشارکت راهبردی ارتقا یافت.",
-    "کارشناسان و مقام‌ها خاطرنشان می‌کنند که لهستان همسو با روندهای گسترده‌تر اروپایی، اقداماتی نظیر ممنوعیت ورود خودروهای ساخت چین به تأسیسات نظامی را اجرا کرده است. یک شبکه تحقیقاتی دولتی نیز برنامه‌ای آسیایی را با تمرکز بر کشورهایی چون هند، کره جنوبی و تایوان برای تقویت نوآوری و کاهش اتکا به پکن راه‌اندازی کرده است."
-   ],
-   "title_ar": "تتحول بولندا نحو الهند مع ظهور تصدعات في \"الشراكة الاستراتيجية\" مع الصين",
-   "summary_ar": "في أعقاب زيارة رئيس الوزراء البولندي دونالد توسك الأخيرة إلى الهند، من المتوقع أن تتعزيز العلاقات الثنائية في التعاون الاقتصادي والدفاعي مع ابتتعاد بولندا عن الصين.",
-   "body_ar": [
-    "زار رئيس الوزراء البولندي دونالد توسك الهند مؤخراً، في أول زيارة يقوم بها رئيس وزراء بولندي منذ 16 عاماً، وذلك في أعقاب زيارة رئيس الوزراء الهندي ناريندرا مودي إلى بولندا في عام 2024 حيث تم ارتقاء العلاقات إلى شراكة استراتيجية.",
-    "يشير الخبراء والمسؤولون إلى أن بولندا، تماشياً مع الاتجاهات الأوروبية الأوسع، نفذت تدابير مثل حظر المركبات صينية الصنع من المنشآت العسكرية والبحث عن استقلال تكنولوجي. كما أطلقت شبكة أبحاث مدعومة من الحكومة برنامجا آسيويا يركز على دول مثل الهند وكوريا الجنوبية وتايوان لتعزيز الابتكار وتقليل الاعتماد على بكين."
    ]
   },
   {
