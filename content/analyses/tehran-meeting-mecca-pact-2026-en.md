@@ -1,20 +1,29 @@
 ---
-title: '3 scenarios for the Tehran meeting: Mecca Pact members between averting war and mutual restraint'
+title: "3 scenarios for the Tehran meeting: Mecca Pact members between averting
+  war and mutual restraint"
 slug: tehran-meeting-mecca-pact-2026
 lang: en
-date: '2026-10-29'
+date: 2026-10-29
 countries:
-- IRN
-- SAU
-- PAK
-- TUR
+  - IRN
+  - SAU
+  - PAK
+  - TUR
 topics:
-- security
-- iran-policy
-summary: The simultaneous presence of senior Saudi, Pakistani and Turkish defence and security officials at the Tehran meeting has opened another channel for preventing a wider war. Mecca Pact members are pursuing talks that could support mediation while clarifying security red lines. Whether either objective advances will depend on negotiations producing commitments beyond general statements about dialogue and regional stability.
+  - security
+  - iran-policy
+  - mena-sa
+summary: The simultaneous presence of senior Saudi, Pakistani and Turkish
+  defence and security officials at the Tehran meeting has opened another
+  channel for preventing a wider war. Mecca Pact members are pursuing talks that
+  could support mediation while clarifying security red lines. Whether either
+  objective advances will depend on negotiations producing commitments beyond
+  general statements about dialogue and regional stability.
 focus_keyword: Tehran meeting
-seo_title: 'Tehran meeting: 3 scenarios for Mecca Pact members'
-meta_description: 'The Tehran meeting with Saudi, Pakistani and Turkish defence and security officials: three scenarios, from averting war to mutual restraint.'
+seo_title: "Tehran meeting: 3 scenarios for Mecca Pact members"
+meta_description: "The Tehran meeting with Saudi, Pakistani and Turkish defence
+  and security officials: three scenarios, from averting war to mutual
+  restraint."
 image: /assets/uploads/نشست تهران.webp
 image_alt: The Tehran meeting with Saudi, Pakistani, Turkish and Iranian officials
 translated: true
