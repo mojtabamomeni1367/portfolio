@@ -1,0 +1,302 @@
+{
+ "_note": "Spellings of proper names in Persian and Arabic, as used by established Persian- and Arabic-language media. The news script tells Gemini to use these spellings and corrects the listed wrong spellings (fa_wrong, ar_wrong) in every Persian and Arabic text on the site. Add a name here when a new wrong spelling appears.",
+ "typos_fa": {
+  "نزس‌سنجی": "نظرسنجی",
+  "نزس سنجی": "نظرسنجی"
+ },
+ "names": [
+  {
+   "en": "Isaac Herzog",
+   "fa": "اسحاق هرتزوگ",
+   "ar": "يتسحاق هرتسوغ",
+   "fa_wrong": [
+    "هرتسوگ",
+    "هرتزوغ",
+    "هرتسوغ"
+   ],
+   "ar_wrong": [
+    "هرتزوغ",
+    "هيرتسوغ"
+   ]
+  },
+  {
+   "en": "Ahmed al-Sharaa",
+   "fa": "احمد الشرع",
+   "ar": "أحمد الشرع",
+   "fa_wrong": [
+    "الشریع",
+    "الشراع"
+   ],
+   "ar_wrong": [
+    "الشريع"
+   ]
+  },
+  {
+   "en": "Gadi Eisenkot",
+   "fa": "گادی آیزنکوت",
+   "ar": "غادي آيزنكوت",
+   "fa_wrong": [
+    "آیزنوت",
+    "ایزنکوت",
+    "آیزنکات",
+    "آیزنکُت"
+   ],
+   "ar_wrong": [
+    "أيزنكوت",
+    "ايزنكوت"
+   ]
+  },
+  {
+   "en": "Benjamin Netanyahu",
+   "fa": "بنیامین نتانیاهو",
+   "ar": "بنيامين نتنياهو",
+   "fa_wrong": [],
+   "ar_wrong": [
+    "نتانياهو"
+   ]
+  },
+  {
+   "en": "Itamar Ben-Gvir",
+   "fa": "ایتمار بن‌گویر",
+   "ar": "إيتمار بن غفير",
+   "fa_wrong": [
+    "بن گفیر",
+    "بن‌گفیر",
+    "بن غفیر",
+    "بن گویر"
+   ],
+   "ar_wrong": [
+    "بن جفير"
+   ]
+  },
+  {
+   "en": "Bezalel Smotrich",
+   "fa": "بزالل اسموتریچ",
+   "ar": "بتسلئيل سموتريتش",
+   "fa_wrong": [
+    "سموتریچ"
+   ],
+   "ar_wrong": [
+    "سموتريش"
+   ]
+  },
+  {
+   "en": "Yair Lapid",
+   "fa": "یائیر لاپید",
+   "ar": "يائير لابيد",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Naftali Bennett",
+   "fa": "نفتالی بنت",
+   "ar": "نفتالي بينيت",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Benny Gantz",
+   "fa": "بنی گانتس",
+   "ar": "بيني غانتس",
+   "fa_wrong": [
+    "گانتز"
+   ],
+   "ar_wrong": [
+    "جانتس"
+   ]
+  },
+  {
+   "en": "Avigdor Liberman",
+   "fa": "آویگدور لیبرمن",
+   "ar": "أفيغدور ليبرمان",
+   "fa_wrong": [
+    "لیبرمان"
+   ],
+   "ar_wrong": []
+  },
+  {
+   "en": "Yair Golan",
+   "fa": "یائیر گولان",
+   "ar": "يائير غولان",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Ahmad Tibi",
+   "fa": "احمد الطیبی",
+   "ar": "أحمد الطيبي",
+   "fa_wrong": [
+    "طیبی"
+   ],
+   "ar_wrong": []
+  },
+  {
+   "en": "Ayman Odeh",
+   "fa": "ایمن عوده",
+   "ar": "أيمن عودة",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Mansour Abbas",
+   "fa": "منصور عباس",
+   "ar": "منصور عباس",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Yousef Jabareen",
+   "fa": "یوسف جبارین",
+   "ar": "يوسف جبارين",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Sami Abu Shehadeh",
+   "fa": "سامی ابوشحاده",
+   "ar": "سامي أبو شحادة",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Ofer Winter",
+   "fa": "عوفر وینتر",
+   "ar": "عوفر فينتر",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Amir Ohana",
+   "fa": "امیر اوحانا",
+   "ar": "أمير أوحانا",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Masoud Pezeshkian",
+   "fa": "مسعود پزشکیان",
+   "ar": "مسعود بزشكيان",
+   "fa_wrong": [],
+   "ar_wrong": [
+    "بيزشكيان"
+   ]
+  },
+  {
+   "en": "Abbas Araghchi",
+   "fa": "عباس عراقچی",
+   "ar": "عباس عراقجي",
+   "fa_wrong": [],
+   "ar_wrong": [
+    "عراقتشي",
+    "عراقچي"
+   ]
+  },
+  {
+   "en": "Ali Khamenei",
+   "fa": "علی خامنه‌ای",
+   "ar": "علي خامنئي",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Rafael Grossi",
+   "fa": "رافائل گروسی",
+   "ar": "رافائيل غروسي",
+   "fa_wrong": [],
+   "ar_wrong": [
+    "جروسي"
+   ]
+  },
+  {
+   "en": "Donald Trump",
+   "fa": "دونالد ترامپ",
+   "ar": "دونالد ترامب",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "JD Vance",
+   "fa": "جی‌دی ونس",
+   "ar": "جيه دي فانس",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Recep Tayyip Erdoğan",
+   "fa": "رجب طیب اردوغان",
+   "ar": "رجب طيب أردوغان",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Mohammed Shia al-Sudani",
+   "fa": "محمد شیاع السودانی",
+   "ar": "محمد شياع السوداني",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Mohammed bin Salman",
+   "fa": "محمد بن سلمان",
+   "ar": "محمد بن سلمان",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Naim Qassem",
+   "fa": "نعیم قاسم",
+   "ar": "نعيم قاسم",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Shehbaz Sharif",
+   "fa": "شهباز شریف",
+   "ar": "شهباز شريف",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Asim Munir",
+   "fa": "عاصم منیر",
+   "ar": "عاصم منير",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Narendra Modi",
+   "fa": "نارندرا مودی",
+   "ar": "ناريندرا مودي",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Amir Khan Muttaqi",
+   "fa": "امیرخان متقی",
+   "ar": "أمير خان متقي",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Houthis",
+   "fa": "حوثی‌ها",
+   "ar": "الحوثيون",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Knesset",
+   "fa": "کنست",
+   "ar": "الكنيست",
+   "fa_wrong": [],
+   "ar_wrong": []
+  },
+  {
+   "en": "Yashar (party)",
+   "fa": "یاشار",
+   "ar": "يشار",
+   "fa_wrong": [],
+   "ar_wrong": []
+  }
+ ]
+}

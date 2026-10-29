@@ -22,6 +22,7 @@ Instructions for the scheduled publishing agent. Follow them exactly.
 5. Translate into the other two languages (of en, fa, ar). Translation rules:
    - Faithful and complete; no added or removed claims, no softening or sharpening of the author's positions.
    - Formal analytical register. Keep proper names, organisations and quotes accurate; keep the author's terminology consistent (e.g. "Palestine/Israel" as on the site).
+   - Proper names in Persian and Arabic: never transliterate letter by letter from English. Use the spellings in `config/names.json`; for names not listed there, first check how established Persian-language media (BBC Persian, IRNA, ISNA) or Arabic-language media (Al Jazeera, Al Arabiya, Asharq Al-Awsat) write them (e.g. Persian «هرتزوگ», «احمد الشرع»), and add the name to `config/names.json`.
    - Add `translated: true` to the header of translated files.
    - Write a 1–2 sentence `summary` in each language.
 6. Save as `content/analyses/<slug>-<lang>.md` with this header:
