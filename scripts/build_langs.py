@@ -105,6 +105,7 @@ def build(lang, src, D):
     head = head.replace('<meta property="og:type"', f'<meta property="og:locale" content="{m["locale"]}">\n<meta property="og:type"', 1)
     body = translate_text(body, D, lang)
     body = re.sub(r'href="/topic/([a-z-]+)-en\.html"', lambda x: f'href="/topic/{x.group(1)}-{lang}.html"', body)
+    body = body.replace('href="/analyses/"', f'href="/analyses/{lang}/"')
     out = head + body
     if '<html lang="en">' in out or f'data-page-lang="{lang}"' not in out:
         raise ValueError("could not set the page language")

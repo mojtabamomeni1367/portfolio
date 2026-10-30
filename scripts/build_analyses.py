@@ -41,6 +41,8 @@ OUT_DIR = ROOT / "analysis"
 OUT_JSON = ROOT / "data" / "analyses.json"
 SITEMAP = ROOT / "sitemap.xml"
 TOPIC_DIR = ROOT / "topic"
+LIST_DIR = ROOT / "analyses"
+LIST_URL = {"en": "/analyses/", "fa": "/analyses/fa/", "ar": "/analyses/ar/"}
 SITE = "https://momenimojtaba.com"
 LANGS = ("en", "fa", "ar")
 TOPICS = ("iran-policy", "mena-sa", "political-islam", "extremism", "migration", "security")
@@ -395,6 +397,63 @@ def render_topic(topic, lang, items, year):
     return page, indexable
 
 
+LIST_UI = {
+    "en": {"name": "Daily Analysis", "label": "All analyses",
+           "desc": "Every analysis by Mojtaba Momeni on Iran, the Middle East and South Asia, newest first.",
+           "topics": "Topics", "none": "The first analysis will be published soon."},
+    "fa": {"name": "تحلیل روز", "label": "همهٔ تحلیل‌ها",
+           "desc": "همهٔ تحلیل‌های مجتبی مؤمنی دربارهٔ ایران، خاورمیانه و جنوب آسیا، به ترتیب تازه‌ترین.",
+           "topics": "موضوع‌ها", "none": "نخستین تحلیل به‌زودی منتشر می‌شود."},
+    "ar": {"name": "تحليل اليوم", "label": "كل التحليلات",
+           "desc": "جميع تحليلات مجتبى مؤمني حول إيران والشرق الأوسط وجنوب آسيا، الأحدث أولاً.",
+           "topics": "المواضيع", "none": "سيُنشر التحليل الأول قريباً."},
+}
+
+
+def render_list(lang, items, year, live_topics):
+    """The page that lists every analysis in one language (linked from 'Read more' on the home page)."""
+    rtl = lang in ("fa", "ar")
+    ui, tui = LIST_UI[lang], TOPIC_UI[lang]
+
+    def card(it, l):
+        v = it["versions"][l]
+        tags = " · ".join(html.escape(TOPIC_NAME[t][lang]) for t in it["topics"])
+        summ = f'<p dir="auto">{html.escape(v["summary"])}</p>' if v.get("summary") else ""
+        return (f'<article lang="{l}"><time datetime="{it["date"]}">{it["date"]}</time>'
+                + (f' <span class="tg">{tags}</span>' if tags else "")
+                + f'<h2 dir="auto"><a href="/{v["url"]}">{html.escape(v["title"])}</a></h2>{summ}</article>')
+
+    mine = [it for it in items if lang in it["versions"]]
+    others = [it for it in items if lang not in it["versions"]]
+    body = "".join(card(it, lang) for it in mine)
+    if others:
+        body += f'<h3>{tui["other"]}</h3>' + "".join(card(it, next(iter(it["versions"]))) for it in others)
+    if not body:
+        body = f'<p class="none">{ui["none"]}</p>'
+    chips = "".join(f'<a href="/topic/{t}-{lang}.html">{html.escape(TOPIC_NAME[t][lang])}</a>'
+                    for t in TOPICS if (t, lang) in live_topics)
+    if chips:
+        body = f'<nav class="chips" aria-label="{ui["topics"]}">{chips}</nav>' + body
+    url = SITE + LIST_URL[lang]
+    alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{LIST_URL[l]}">\n' for l in LANGS)
+    alts += f'<link rel="alternate" hreflang="x-default" href="{SITE}{LIST_URL["en"]}">\n'
+    other = '<p class="other">' + "".join(
+        f'<a href="{LIST_URL[l]}" lang="{l}">{LANG_NAME[l]}</a>' for l in LANGS if l != lang) + "</p>"
+    fonts = ("'Vazirmatn',sans-serif", "'Vazirmatn',sans-serif") if rtl else (
+        "'Instrument Sans',system-ui,sans-serif", "'Newsreader',Georgia,serif")
+    page = TOPIC_PAGE.format(
+        lang=lang, dir="rtl" if rtl else "ltr", name=html.escape(ui["name"]), author=AUTHOR[lang],
+        desc=html.escape(ui["desc"]), url=url, alternates=alts, robots="" if items else '<meta name="robots" content="noindex, follow">\n',
+        body_font=fonts[0], disp_font=fonts[1], brand_ls="0" if rtl else ".14em",
+        brand_tt="none" if rtl else "uppercase", h_w="700" if rtl else "500",
+        home=HOME[lang], home_label=tui["home"], label=ui["label"], items=body, other=other, year=year,
+        langsw=lang_switch(lang, lambda l: LIST_URL[l]))
+    return page.replace("</style>", ".chips{{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.5rem 0 .5rem}}"
+                        ".chips a{{font-size:.8rem;padding:.25rem .75rem;border:1px solid var(--line);color:var(--mut);text-decoration:none}}"
+                        ".chips a:hover{{border-color:var(--rust);color:var(--rust)}}"
+                        ".tg{{font-size:.75rem;color:var(--rust);margin-inline-start:.5rem}}\n</style>".replace("{{", "{").replace("}}", "}"), 1)
+
+
 def main():
     SRC.mkdir(parents=True, exist_ok=True)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -451,6 +510,13 @@ def main():
             if indexable:
                 topic_pages.append((t, l))
 
+    # list of all analyses, one page per language
+    live = set(topic_pages)
+    for l in LANGS:
+        out = LIST_DIR / ("" if l == "en" else l) / "index.html"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(render_list(l, items, year, live), encoding="utf-8")
+
     # sitemap for search engines: every page, with its other language versions
     def entry(loc, lastmod, alts):
         links = "".join(f'<xhtml:link rel="alternate" hreflang="{h}" href="{u}"/>' for h, u in alts)
@@ -460,6 +526,9 @@ def main():
     latest = items[0]["date"] if items else None
     home_alts = [("en", SITE + "/"), ("fa", SITE + "/fa/"), ("ar", SITE + "/ar/"), ("x-default", SITE + "/")]
     rows = [entry(u, latest, home_alts) for _, u in home_alts[:3]]
+    if items:
+        list_alts = [(l, SITE + LIST_URL[l]) for l in LANGS] + [("x-default", SITE + LIST_URL["en"])]
+        rows += [entry(SITE + LIST_URL[l], latest, list_alts) for l in LANGS]
     for it in items:
         alts = [(l, f"{SITE}/{v['url']}") for l, v in it["versions"].items()] if len(it["versions"]) > 1 else []
         rows += [entry(f"{SITE}/{v['url']}", it["date"], alts) for v in it["versions"].values()]
