@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:14:17Z",
+ "updated": "2026-10-30T16:07:50Z",
  "items": [
   {
    "id": "d34cd8dfe155",
@@ -2790,6 +2790,301 @@
    ],
    "desc": "علی صالحی، دادستان عمومی و انقلاب تهران، با هشدار درباره «کوتاهی» مدیران دولتی، خواستار مداخله نهادهای اطلاعاتی و سپاه پاسداران شد.",
    "score": 7
+  },
+  {
+   "id": "6e4fb3b4a22f",
+   "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T15:17:11Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+   "score": 7
+  },
+  {
+   "id": "47b1a47c3172",
+   "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+   "date": "2026-10-30T15:26:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+   "score": 8
+  },
+  {
+   "id": "acc46978d3e5",
+   "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+   "date": "2026-10-30T15:06:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces demolished the homes of two Palestinians accused of killing two Israeli soldiers in Hebron last week.",
+   "score": 7
+  },
+  {
+   "id": "c201eb216af5",
+   "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+   "date": "2026-10-30T14:40:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
+   "score": 9,
+   "dup_of": "6eb4d00a2775"
+  },
+  {
+   "id": "1ce78d6012f8",
+   "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+   "date": "2026-10-30T14:18:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces are treating the 'Yellow Line', which is encroaching westward, as 'a kill zone', the OHCHR says.",
+   "score": 8
+  },
+  {
+   "id": "864360aadb0f",
+   "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss",
+   "date": "2026-10-30T13:56:22Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "West Indies' Royston Chase forces collapse as Bangladesh slump to 79-6, a lead of 106 runs, on day three of first Test.",
+   "score": 1
+  },
+  {
+   "id": "2a213ec588a0",
+   "title": "Palestinian child survives Israeli gunshot to the head",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
+   "date": "2026-10-30T13:32:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
+   "score": 6
+  },
+  {
+   "id": "57d0ca701700",
+   "title": "World number one Rybakina withdraws from Pan Pacific Open with neck injury",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/world-number-one-rybakina-withdraws-from-pan-pacific-open-with-neck-injury?traffic_source=rss",
+   "date": "2026-10-30T12:42:56Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Elena Rybakina expects to return for next month's WTA Finals in Indian Wells after withdrawing from the Tokyo quarterfinals.",
+   "score": 1
+  },
+  {
+   "id": "10722abdbd0c",
+   "title": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+   "date": "2026-10-30T15:12:57Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The opposition can’t win unless they join forces with Arab parties. Benjamin Netanyahu knows this, and will use every ruse to stay in power It’s less an election result than a philosophical puzzle: what happens when a win contains a loss, a loss contains a win and the two collide? That’s the question posed by the confused and confusing outcome of this week’s Israeli election, one that, despite its murky uncertainty, offers clear, sharp lessons – both for that country and for those locked in combat with nationalist populists across the globe. Start with the result that has simultaneously handed",
+   "score": 3
+  },
+  {
+   "id": "25108ea3d047",
+   "title": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
+   "date": "2026-10-30T15:34:03Z",
+   "countries": [
+    "ISR",
+    "QAT"
+   ],
+   "desc": "In an interview with FRANCE 24, former Israeli prime minister Ehud Barak said Prime Minister Benjamin Netanyahu \"did not win\" this week's election in Israel but \"lost dramatically\", and that his rival Gadi Eisenkot should ally with Arab parties. Barak also suggested that claims of Qatari funding for an Arab party aimed to distract from an ongoing corruption scandal, and warned that Netanyahu was ready to strike Iran to stay in power.",
+   "score": 6
+  },
+  {
+   "id": "95e286903656",
+   "title": "Israel's election ends in deadlock as final results show no clear winner",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner",
+   "date": "2026-10-30T15:24:24Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's wartime election appeared deadlocked on Tuesday, exit polls showed, ​with Gadi Eisenkot's opposition bloc running neck and neck with Prime Minister Benjamin Netanyahu's camp, leaving neither side with a clear path to power. The projections pointed to a setback for Netanyahu's coalition and potentially weeks of political wrangling to form a government. FRANCE 24's Jerusalem correspondent Noga Tarnopolsky has more.",
+   "score": 8,
+   "dup_of": "4ec4098a07d9"
+  },
+  {
+   "id": "512260f2a975",
+   "title": "Palestinian ambassador urges action over London event advertising settlement-linked Israeli agency",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-ambassador-urges-action-over-london-event-advertising",
+   "date": "2026-10-30T14:41:22Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian ambassador urges action over London event advertising settlement-linked Israeli agency The Palestinian ambassador to Britain has urged the UK government to take action after Middle East Eye revealed that an international travel event in London is set to advertise an Israeli agency involved in the construction of illegal settlements. World Travel Market (WTM) London is scheduled to take place between 3-5 November and will feature a stand run by the Israeli government's tourist office. MEE reported on Thursday that the Israeli stand is shared by numerous Israeli companies and organis",
+   "score": 4
+  },
+  {
+   "id": "900a29f1223a",
+   "title": "‘Weak and cowardly’: UK bars renowned Swedish author ahead of Palestine event",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/weak-and-cowardly-uk-bars-renowned-author-ahead-palestine-event",
+   "date": "2026-10-30T13:17:44Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "‘Weak and cowardly’: UK bars renowned Swedish author ahead of Palestine event Submitted by Elis Gjevori on Fri, 10/30/2026 - 11:58 Andreas Malm’s exclusion deepens scrutiny of Andy Burnham’s promises to break with Keir Starmer’s record on Gaza Climate activist and author Andreas Malm attends a premiere at the Toronto International Film Festival on 10 September 2022 (Jeremy Chan/Getty Images/AFP) Off The UK has barred Swedish author and climate activist Andreas Malm from entering the country ahead of a pro- Palestine event in London, marking the latest move in Labour’s crackdown on speakers cri",
+   "score": 3
+  },
+  {
+   "id": "2a002bd2a9bb",
+   "title": "Salman Ali Agha hopes Pakistan top-order turns up in tri-series final, seeks ‘perfect game’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040986/salman-ali-agha-hopes-pakistan-top-order-turns-up-in-tri-series-final-seeks-perfect-game",
+   "date": "2026-10-30T14:27:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan batter Salman Ali Agha believes the the side have not yet displayed a complete team performance in the ongoing One-day International tri-nation series, and hopes the final against Sri Lanka in Lahore on Saturday is where it falls into place. The hosts’ top-order has been notably starved of runs for the series, underscoring Pakistan’s underwhelming campaign with the bat. “Sometimes all of your players don’t score runs. Our top order isn’t scoring runs at the moment, like they used to,” Salman said during a press conference on the eve of the match, adding that they have been key perform",
+   "score": 1
+  },
+  {
+   "id": "9e072a3087af",
+   "title": "Over 30 shops gutted as fire rips through furniture market in Karachi's Gulistan-i-Johar",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040989/over-30-shops-gutted-as-fire-rips-through-furniture-market-in-karachis-gulistan-i-johar",
+   "date": "2026-10-30T15:51:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Over 30 shops were destroyed when a blaze erupted at a furniture market in Karachi’s Gulistan-i-Jauhar in the early hours of Friday. No injuries were reported, according to police and rescue services officials and the fire was later brought under control. Rescue 1122 spokesperson Hassaan Ul Haseeb Khan said the fire erupted in a furniture market near Kamran Chowrangi. It spread rapidly due to the presence of wooden goods, engulfing the whole market, he said, adding that it also spread to nearby residential areas and even engulfed a house. “The residents had already evacuated to safer ",
+   "score": 2
+  },
+  {
+   "id": "ee795a09cd0d",
+   "title": "'I will never go back to sea': 11 fishermen released from Indian captivity reunite with families in Karachi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040963/i-will-never-go-back-to-sea-11-fishermen-released-from-indian-captivity-reunite-with-families-in-karachi",
+   "date": "2026-10-30T13:33:15Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "KARACHI: 11 Pakistani fishermen, after spending several years in Indian jails for unknowingly crossing over to Indian waters while fishing, were reunited with their families in Karachi on Friday morning. The men were handed over through the Wagah Border by Indian authorities some two months ago. On Friday, the Edhi Foundation brought them from Lahore to Karachi by ambulance. They arrived at 11:30am at the Edhi Centre near Merewether Tower, where their families had been waiting since morning. It was a touching reunion where the fishermen, having been jailed for between four and nine years, fina",
+   "score": 4
+  },
+  {
+   "id": "e2effac8b4ab",
+   "title": "NA adopts resolution stating workplace harassment not only sexual in nature, may manifest in gender discrimination",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040987/na-adopts-resolution-stating-workplace-harassment-not-only-sexual-in-nature-may-manifest-in-gender-discrimination",
+   "date": "2026-10-30T15:29:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The National Assembly on Friday approved a resolution reaffirming that workplace harassment was not limited to conduct of a sexual nature but may also include intimidation, humiliation and gender-based discrimination. The resolution was presented by MNA Dr Shahida Rehmani, who is also the secretary of the Women’s Parliamentary Caucus (WPC). The resolution reaffirmed Parliament’s commitment to protecting the dignity, equality and rights of every individual against all forms of workplace harassment and gender-based discrimination, in accordance with Articles 14 (inviolability of digni",
+   "score": 4
+  },
+  {
+   "id": "5dee51cbbaca",
+   "title": "Bill proposing quarterly gas pricing lands in Senate",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040979/bill-proposing-quarterly-gas-pricing-lands-in-senate",
+   "date": "2026-10-30T13:50:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: In what is set to stir a new controversy, a bill proposing quarterly determination of natural gas prices landed in the upper House of Parliament on Friday. The Oil and Gas Regulatory Authority (Ogra) (Amendment) Bill , 2026, was introduced in the House by Minister of State for Interior Tallal Chaudhry at a time when the daily fuel pricing mechanism has drawn widespread criticism. The bill seeks to insert a new Section 8A in the Ogra Ordinance, 2002. Under the proposed mechanism, a licensee for natural gas will submit its total revenue requirement on a quarterly basis — only to the e",
+   "score": 3
+  },
+  {
+   "id": "c46b7d4192fe",
+   "title": "PPP delegation calls on Senate opposition leader, urges participation in proposed committee on electoral reforms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040948/ppp-delegation-calls-on-senate-opposition-leader-urges-participation-in-proposed-committee-on-electoral-reforms",
+   "date": "2026-10-30T15:47:05Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: A PPP delegation called on Senate Opposition Leader Allama Raja Nasir Abbas on Friday and urged the opposition to join a proposed parliamentary committee on electoral reforms, Senator Sherry Rehman said. “He told us that he will respond [to the proposal] after consultation. We are hopeful that their response will be positive,” Rehman said in a video statement after the meeting. The proposal for the committee’s formation was shared by PPP chairperson Bilawal Bhutto-Zardari during the National Assembly on Thursday. He had said Parliament had decided to constitute a committee on electo",
+   "score": 4
+  },
+  {
+   "id": "952765eb32e6",
+   "title": "Difficult negotiations lie ahead in Israel after Netanyahu's bloc lost its parliamentary majority",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/difficult-negotiations-lie-ahead-in-israel-after-netanyahus-bloc-lost-its-parliamentary-majority/article71645164.ece",
+   "date": "2026-10-30T13:09:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The election results still need to be certified and submitted to the President next Wednesday (November 4, 2026)",
+   "score": 8,
+   "dup_of": "d29966d1b430"
+  },
+  {
+   "id": "40e057c9d1c7",
+   "title": "رسالة فانس إلى إيران قد تمثل الأمل الأخير لتجنب صراع جديد في الخليج – مقال في الغارديان",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c5y4328x0vz8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T13:15:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "\"تطلب رسالة فانس من إيران الموافقة على تقديم تعهدات بشأن برنامجها النووي، في بداية عملية من شأنها أن تؤدي إلى فتح مضيق هرمز خلال سبعة أيام، مقابل تخفيف العقوبات الأمريكية\".",
+   "score": 3
+  },
+  {
+   "id": "54794028a7d5",
+   "title": "إيران والولايات المتحدة.. هل تنجح الفرصة الأخيرة لتجنب حرب جديدة؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3pwgpyjyp0do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T14:04:25Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "بين محاولات إحياء المفاوضات الأمريكية الإيرانية، والتحركات العسكرية المتزايدة في المنطقة، تبدو الأزمة أمام منعطف جديد، تتسابق فيه الدبلوماسية مع احتمالات التصعيد، وسط تساؤلات بشأن فرص التوصل إلى اتفاق ينهي حالة المواجهة بين واشنطن وطهران.",
+   "score": 5
   }
  ]
 }
