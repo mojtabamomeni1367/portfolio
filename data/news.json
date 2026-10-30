@@ -1,7 +1,131 @@
 {
- "updated": "2026-10-30T01:18:41Z",
- "count": 226,
+ "updated": "2026-10-30T04:05:45Z",
+ "count": 230,
  "items": [
+  {
+   "id": "a71980d5de0d",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+   "date": "2026-10-30T03:41:42Z",
+   "countries": [
+    "ISR",
+    "PSE",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "title_en": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "summary_en": "Benjamin Netanyahu's Likud party claimed that the Israeli election had been stolen, as official results showed his religious and nationalist bloc falling short of a parliamentary majority with 53 seats in the 120-member Knesset. Opposition leaders and Arab politicians condemned the rhetoric, accusing Netanyahu of attempting to delegitimize the election after Arab-led parties secured 19 seats.",
+   "body_en": [
+    "Likud intensified its unsubstantiated allegations after Supreme Court Justice Noam Sohlberg, head of the election committee, asked the Shin Bet to investigate unverified suspicions of foreign interference, which Israeli media reported were aimed at Qatar. The election commission clarified that the probe relied on classified intelligence and would not alter the final results submitted to the president, while the Shin Bet emphasized the inquiry was not aimed at casting aspersions on voters.",
+    "Opposition figures strongly pushed back against the claims. Former military chief Gadi Eisenkot, whose main opposition bloc took 48 seats, said Likud was attacking the results simply because it lost, while Yair Golan and Arab party leaders Mansour Abbas and the Joint List accused Netanyahu of inciting against the public. President Isaac Herzog urged a thorough investigation, warning against tarnishing any community that participated in the democratic process."
+   ],
+   "title_fa": "حزب نتانیاهو هم‌زمان با نتایج حاکی از از دست رفتن اکثریت مدعی «دزدیده شدن» انتخابات اسرائیل شد",
+   "summary_fa": "حزب لیکود به رهبری بنیامین نتانیاهو در حالی مدعی شد انتخابات اسرائیل «دزدیده شده» که نتایج رسمی نشان داد بلوک مذهبی و ملی‌گرای او با کسب ۵۳ کرسی از ۱۲۰ کرسی کنست اکثریت پارلمانی را از دست داده است. رهبران مخالفان و سیاستمداران عرب این اظهارات را محکوم کرده و نتانیاهو را متهم کردند که پس از دستیابی احزاب عرب به ۱۹ کرسی، در تلاش است مشروعیت انتخابات را زیر سؤال ببرد.",
+   "body_fa": [
+    "حزب لیکود ادعاهای تاییدنشده خود را پس از آن تشدید کرد که قاضی نوآم سولبرگ، رئیس کمیته انتخابات، از شین‌بت خواست تا درباره سوءظن‌های اثبات‌نشده مداخله خارجی که به گزارش رسانه‌های اسرائیلی قطر را هدف گرفته بود، تحقیق کند. کمیته انتخابات اعلام کرد که این تحقیقات مبتنی بر اطلاعات طبقه‌بندی‌شده است و تأثیری بر نتایج نهایی ارائه‌شده به رئیس‌جمهور نخواهد داشت، و شین‌بت نیز تأکید کرد که هدف این بررسی‌ها متهم کردن هیچ بخشی از جامعه نیست.",
+    "چهره‌های اپوزیسیون به تندی به این ادعاها واکنش نشان دادند. گادی آیزنکوت، رئیس پیشین ستاد ارتش که بلوک اصلی مخالفان او ۴۸ کرسی کسب کرده است، گفت لیکود این اقدامات را صرفاً به دلیل شکست خود انجام می‌دهد؛ در حالی که یائیر گولان و رهبران احزاب عرب از جمله منصور عباس و فهرست مشترک، نتانیاهو را به تحریک علیه جامعه متهم کردند. اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، ضمن درخواست برای انجام تحقیقات کامل، هشدار داد که نباید جامعه‌ای را که از حق رأی خود استفاده کرده خدشه‌دار کرد."
+   ],
+   "title_ar": "حزب نتنياهو يزعم أن انتخابات إسرائيل «سُرقت» بالتزامن مع نتائج تظهر خسارته للأغلبية",
+   "summary_ar": "زعم حزب الليكود بقيادة بنيامين نتنياهو أن الانتخابات الإسرائيلية قد «سُرقت»، بعدما أظهرت النتائج الرسمية خسارة كتلته الدينية والقومية للأغلبية البرلمانية بحصولها على 53 مقعداً في الكنيست المكون من 120 عضواً. وندد قادة المعارضة والسياسيون العرب بهذا الخطاب، متهمين نتنياهو بمحاولة نزع الشرعية عن الانتخابات بعدما حققت الأحزاب العربية 19 مقعداً.",
+   "body_ar": [
+    "صعد حزب الليكود مزاعمه غير المستندة إلى أدلة بعدما طلب رئيس لجنة الانتخابات، قاضي المحكمة العليا نوعام سولبرغ، من جهاز الشاباك التحقيق في شبهات غير مؤكدة بوجود تدخل أجنبي، أشارت وسائل إعلام إسرائيلية إلى أنها استهدفت قطر. وأوضحت لجنة الانتخابات أن التحقيق استند إلى معلومات استخباراتية سرية ولن يؤثر في النتائج النهائية التي ستُقدم إلى الرئيس، بينما شدد الشاباك على أن التحقيق لا يهدف إلى التشكيك في أي فئة من الناخبين.",
+    "ورفضت قيادات المعارضة هذه المزاعم بشدة؛ إذ قال رئيس الأركان السابق غادي آيزنكوت، الذي حصدت كتلته المعارضة الرئيسية 48 مقعداً، إن الليكود يتصرف على هذا النحو بسبب خسارته، بينما اتهم يائير غولان وقادة الأحزاب العربية، ومنهم منصور عباس والقائمة المشتركة، نتنياهو بالتحريض ضد المواطنين. من جانبه، دعا الرئيس يتسحاق هرتسوغ إلى تحقيق كامل، محذراً من تشويه سمعة أي مجتمع مارس حقه الديمقراطي في التصويت."
+   ]
+  },
+  {
+   "id": "7ca4a17920e8",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040877/lawfare-emerges-as-new-threat-to-journalists-in-pakistan",
+   "date": "2026-10-30T03:36:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "‘Lawfare’ emerges as new threat to journalists in Pakistan",
+   "title_en": "‘Lawfare’ emerges as new threat to journalists in Pakistan",
+   "summary_en": "A report by Pakistani media watchdog Freedom Network found that Pakistan remained deeply hostile to journalists in 2025–26, as impunity shifted toward a coercive system of \"lawfare.\" Authorities increasingly utilized the Prevention of Electronic Crimes Act (Peca) through cybercrime mechanisms to target and punish dissenting media workers, particularly digital and independent journalists.",
+   "body_en": [
+    "Covering October 2025 to August 2026, the report documented around ten cases a month nationwide, comprising one work-related killing, three attempted assassinations, 18 threats of harm, 11 physical assaults, and 45 legal actions or threats of action. Punjab accounted for more than half of the recorded violations, with victims pointing to government authorities as alleged instigators in nearly two-thirds of the incidents.",
+    "The report highlighted how the National Cyber Crime Investigation Agency leverages cybercrime laws to weaponize allegations such as defamation and false information against investigative reporting on corruption and public spending. It stressed that the legal process itself acts punitively through summonses, device inspections, and detentions, while established institutional journalist safety mechanisms at both the federal and provincial levels remain dysfunctional or severely limited."
+   ],
+   "title_fa": "«جنگ حقوقی» به‌عنوان تهدیدی جدید علیه روزنامه‌نگاران در پاکستان ظهور می‌کند",
+   "summary_fa": "گزارش دیده‌بان رسانه‌ای «فریدام نتورک» در پاکستان نشان می‌دهد که این کشور در سال‌های ۲۰۲۵-۲۰۲۶ همچنان محیطی بسیار خصمانه برای روزنامه‌نگاران بوده و مصونیت از مجازات به سیستم قهری «جنگ حقوقی» تغییر یافته است. بر اساس این گزارش، نهادهای حکومتی برای تنبیه فعالان رسانه‌ای منتقد، به ویژه خبرنگاران مستقل و حوزه دیجیتال، به طور فزاینده‌ای از قانون جرایم الکترونیکی (پکا) بهره گرفته‌اند.",
+   "body_fa": [
+    "این گزارش در دوره اکتبر ۲۰۲۵ تا اوت ۲۰۲۶ حدود ده پرونده در ماه را در سراسر این کشور ثبت کرده است که شامل یک قتل کاری، سه سوءقصد نافرجام، ۱۸ تهدید جانی، ۱۱ مورد حمله فیزیکی و ۴۵ مورد اقدام یا تهدید به اقدام قانونی بوده است. بیش از نیمی از موارد در ایالت پنجاب ثبت شده و قربانیان در نزدیک به دو سوم پرونده‌ها مقامات حکومتی را محرک این اقدامات دانسته‌اند.",
+    "این گزارش تأکید می‌کند که سازمان ملی تحقیقات جرایم سایبری با استفاده از اتهاماتی مانند افترا و نشر اکاذیب، قوانین سایبری را علیه گزارش‌های مربوط به فساد و هزینه‌های دولتی به کار می‌گیرد. این روند قانونی با احضاریه‌ها، بازرسی دستگاه‌ها و بازداشت به ابزاری تنبیهی تبدیل شده است، در حالی که کمیسیون‌های حفاظت از روزنامه‌نگاران در سطوح فدرال و استانی ناکارآمد یا بسیار محدود باقی مانده‌اند."
+   ],
+   "title_ar": "«الحرب القانونية» تبرز كتهديد جديد للصحفيين في باكستان",
+   "summary_ar": "أفاد تقرير أصدرته منظمة «فريدوم نتورك» الباكستانية المعنية بمراقبة الإعلام بأن باكستان ظلت بيئة شديدة العداء للصحفيين خلال عامي 2025 و2026، حيث تحول الإفلات من العقاب إلى نظام قسري من «الحرب القانونية». واستخدمت السلطات بشكل متزايد قانون مكافحة الجرائم الإلكترونية (بيكا) لاستهداف ومعاقبة الإعلاميين المعارضين، لا سيما المستقلين والعاملين في الصحافة الرقمية.",
+   "body_ar": [
+    "ووثق التقرير، الذي غطى الفترة بين أكتوبر 2025 وأغسطس 2026، نحو عشر حالات شهرياً في مختلف أنحاء البلاد، تضمنت مقتل صحفي واحد بسبب عمله، وثلاث محاولات اغتيال، و18 تهديداً بالقتل أو الإيذاء، و11 اعتداءً جسدياً، و45 إجراءً أو تهديداً بإجراءات قانونية. وسجل إقليم البنجاب أكثر من نصف الحالات، في حين أشار الضحايا إلى ضلوع مسؤولين حكوميين في نحو ثلثي تلك الوقائع.",
+    "وأشار التقرير إلى أن الوكالة الوطنية للتحقيق في الجرائم الإلكترونية تستغل القوانين السيبرانية لتوجيه اتهامات مثل التشهير ونشر معلومات مضللة ضد التحقيقات المتعلقة بالفساد والإنفاق العام. وأكدت المنظمة أن الإجراءات القانونية ذاتها باتت عقابية عبر الاستدعاءات ومصادرة الأجهزة والاحتجاز، في وقت تظل فيه لجان حماية الصحفيين الرسمية على المستويين الاتحادي والإقليمي معطلة أو محدودة الأثر."
+   ]
+  },
+  {
+   "id": "cd7b94a97ce7",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040878/lawmakers-voice-alarm-over-kp-situation-seek-electoral-reforms",
+   "date": "2026-10-30T03:29:47Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Lawmakers voice alarm over KP situation, seek electoral reforms",
+   "title_en": "Lawmakers voice alarm over KP situation, seek electoral reforms",
+   "summary_en": "Pakistani lawmakers in both the National Assembly and the Senate have raised alarms over the political situation and reported human rights violations in Khyber Pakhtunkhwa. They also addressed topics including electoral reforms, foreign relations with Iran and Afghanistan, and the detention of political figures.",
+   "body_en": [
+    "During parliamentary discussions, Opposition Leader Mehmood Khan Achakzai criticised the government for not consulting parliament on recent diplomatic moves in Tehran and opposed suspending trade with Afghanistan. Meanwhile, leaders from the Pakistan Tehreek-e-Insaf (PTI) condemned the imposition of governor's rule and emergency measures in Khyber Pakhtunkhwa, warning that fundamental rights must not be compromised.",
+    "PTI figures also raised concerns about the health and detention conditions of Noreen Niazi, the sister of Imran Khan, after reports of her hospitalisation. In response, government adviser Rana Sanaullah stated that Niazi was in satisfactory condition and defended her detention by accusing her of mobilising people for protests. Separately, the Senate approved a resolution urging coordinated steps to curb rapid population growth."
+   ],
+   "title_fa": "ابراز نگرانی نمایندگان پارلمان پاکستان از وضعیت خیبر پختونخوا و تاکید بر اصلاحات انتخاباتی",
+   "summary_fa": "نمایندگان مجالس ملی و سنای پاکستان نسبت به وضعیت سیاسی و نقض حقوق بشر در ایالت خیبر پختونخوا ابراز نگرانی کردند. آنها همچنین موضوعاتی نظیر اصلاحات انتخاباتی، روابط با ایران و افغانستان، و بازداشت چهره‌های سیاسی را به بحث گذاشتند.",
+   "body_fa": [
+    "محمود خان اچکزی، رهبر اپوزیسیون مجلس ملی، در جریان این جلسات از دولت به دلیل مطلع نکردن پارلمان از تحولات دیپلماتیک اخیر با تهران انتقاد کرد و با توقف تجارت با افغانستان مخالفت ورزید. هم‌زمان، رهبران حزب تحریک انصاف پاکستان تحمیل وضعیت اضطراری و حاکمیت فرماندار در خیبر پختونخوا را محکوم کرده و هشدار دادند که حقوق بنیادین شهروندان نباید نادیده گرفته شود.",
+    "نمایندگان تحریک انصاف همچنین از وضعیت بازداشت و سلامتی نورین نیازی، خواهر عمران خان، پس از انتشار گزارش‌هایی درباره بستری شدن وی در بیمارستان ابراز نگرانی کردند. در پاسخ، رانا ثناءالله، مشاور نخست‌وزیر، با دفاع از بازداشت نیازی به اتهام سازماندهی اعتراضات، اعلام کرد که وضعیت سلامتی او رضایت‌بخش است. افزون بر این، سنا قطعنامه‌ای را برای اقدام هماهنگ ملی به منظور مهار رشد سریع جمعیت تصویب کرد."
+   ],
+   "title_ar": "برلمانيون باكستانيون يعربون عن قلقهم إزاء الوضع في خيبر بختونخوا ويطالبون بإصلاحات انتخابية",
+   "summary_ar": "أعرب برلمانيون باكستانيون في الجمعية الوطنية ومجلس الشيوخ عن قلقهم إزاء الوضع السياسي وانتهاكات حقوق الإنسان المزعومة في إقليم خيبر بختونخوا. كما ناقش المجلسان إصلاحات انتخابية والعلاقات مع إيران وأفغانستان، بالإضافة إلى احتجاز شخصيات سياسية.",
+   "body_ar": [
+    "خلال الجلسات البرلمانية، انتقد زعيم المعارضة في الجمعية الوطنية محمود خان أتشاكزاي عدم إشراك البرلمان في التطورات الدبلوماسية الأخيرة في طهران، وعارض تعليق التجارة مع أفغانستان. وفي الوقت نفسه، أدان قادة حزب «حركة الإنصاف» فرض حالة الطوارئ وحكم الحاكم في خيبر بختونخوا، مؤكدين أن الحقوق الأساسية للمواطنين لا يمكن المساس بها.",
+    "كما أثار نواب حركة الإنصاف مخاوف بشأن ظروف احتجاز نورين نيازي، شقيقة عمران خان، وصحتها بعد ورود أنباء عن نقلها إلى المستشفى. ورداً على ذلك، دافع مستشار رئيس الوزراء رانا ثناء الله عن احتجاز نيازي متهماً إياها بالتحشيد للاحتجاجات، مؤكداً أن حالتها الصحية مستقرة. وعلى صعيد منفصل، أقر مجلس الشيوخ قراراً يدعو إلى اتخاذ إجراءات وطنية منسقة لمواجهة النمو السكاني السريع."
+   ]
+  },
+  {
+   "id": "44ed3e485c56",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/crkgwv71v9q2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T03:24:14Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 6,
+   "title": "آینده زنان جنگجوی کرد در سوریه چه خواهد شد؟",
+   "title_en": "What will be the future of Kurdish women fighters in Syria?",
+   "summary_en": "The all-female Kurdish military unit, the Women's Protection Units (YPJ), faces an uncertain future under Syria's new Islamist-led authorities after Damascus rejected its request to integrate into the army. The decision has left around 1,500 female fighters in limbo following the disbandment of the Syrian Democratic Forces.",
+   "body_en": [
+    "The YPJ, which gained international recognition during battles against the Islamic State such as in Kobane and Raqqa, sought to join the Syrian military as an independent all-female regiment that preserved its command structure. However, YPJ commander Nowruz Ahmed revealed that the Ministry of Defence rejected the proposal because the new army does not accept women in combat roles, citing a lack of social acceptance.",
+    "Discussions have shifted toward assigning the female fighters to roles within the Ministry of Interior, such as counter-terrorism or civil policing functions. The issue remains a key unresolved element in integrating former Kurdish-led forces into state institutions, as commanders stress that preserving the YPJ is essential to safeguarding the social and political gains achieved by women in northeastern Syria."
+   ],
+   "title_fa": "آینده زنان جنگجوی کرد در سوریه چه خواهد شد؟",
+   "summary_fa": "یگان‌های مدافع زنان (ی‌پ‌ژ)، واحد نظامی کاملاً زنانه کرد، پس از رد درخواستش از سوی دمشق برای پیوستن به ارتش، در سوریه تحت حاکمیت اسلام‌گرایان با آینده‌ای نامشخص روبه‌رو است. این تصمیم حدود ۱,۵۰۰ زن رزمنده این نیرو را پس از انحلال نیروهای دموکراتیک سوریه در وضعیت بلاتکلیفی قرار داده است.",
+   "body_fa": [
+    "یگان‌های مدافع زنان که در جریان نبردهایی چون کوبانی و رقه علیه داعش شهرت جهانی یافتند، خواهان پیوستن به ارتش به عنوان هنگ یا گردانی مستقل با حفظ ساختار فرماندهی خود بودند. با این حال، نوروز احمد، فرمانده این یگان‌ها، اعلام کرد که وزارت دفاع سوریه این درخواست را به دلیل عدم پذیرش زنان در نقش‌های رزمی و نبود «پذیرش اجتماعی» رد کرده است.",
+    "گفت‌وگوها اکنون به سوی واگذاری نقش‌هایی به اعضای این نیرو در ساختار وزارت کشور، از جمله در زمینه‌های ضدتروریسم یا مأموریت‌های پلیسی، هدایت شده است. این موضوع به یکی از مسائل حل‌نشده در روند ادغام نیروهای پیشین تحت رهبری کردها در نهادهای دولتی بدل شده است، زیرا فرماندهان تأکید دارند که حفظ این تشکیلات برای صیانت از دستاوردهای زنان در شمال‌شرق سوریه نقشی اساسی دارد."
+   ],
+   "title_ar": "ما هو مستقبل المقاتلات الكرديات في سوريا؟",
+   "summary_ar": "تواجه «وحدات حماية المرأة» (YPJ)، وهي وحدة عسكرية كردية نسائية بالكامل، مستقبلاً غامضاً في ظل السلطات الجديدة ذات التوجه الإسلامي في سوريا، بعدما رفضت دمشق طلبها بالانضمام إلى الجيش. وترك هذا القرار نحو 1500 مقاتلة في وضع غير واضح في أعقاب حل «قوات سوريا الديمقراطية».",
+   "body_ar": [
+    "وكانت «وحدات حماية المرأة»، التي حظيت باعتراف دولي خلال معاركها ضد تنظيم الدولة الإسلامية في كوباني والرقة، قد طالبت بالانضمام إلى الجيش السوري كفوج أو كتيبة نسائية مستقلة تحتفظ بهيكلها القيادي. غير أن قائدة الوحدات، نوروز أحمد، أوضحت أن وزارة الدفاع رفضت هذا المقترح لعدم قبول الجيش الجديد بالنساء في أدوار قتالية بداعي غياب «التقبل الاجتماعي».",
+    "وانتقلت المباحثات إلى وزارة الداخلية لبحث تكليف المقاتلات بمهام أمنية مثل مكافحة الإرهاب أو الشرطة المدنية. ولا تزال هذه القضية إحدى المسائل العالقة في مسار دمج المؤسسات التابعة للإدارة الكردية السابقة ضمن هياكل الدولة، في ظل تأكيد القيادات أن بقاء هذه القوة أساسي لحماية المكتسبات التي حققتها المرأة في شمال شرق سوريا."
+   ]
+  },
   {
    "id": "e13a203d3372",
    "lang": "en",
@@ -277,6 +401,36 @@
    "body_ar": [
     "ووصف المتحدث باسم وزارة الخارجية القطرية ماجد الأنصاري هذه المزاعم بأنها حملة تضليل لا أساس لها تهدف إلى جر قطر إلى الخلافات السياسية الداخلية في إسرائيل. وشدد على أن الدوحة لا تتدخل في السياسة الإسرائيلية، محذراً من استخدام بلاده ككبش فداء لإخفاقات السياسيين الإسرائيليين.",
     "وجاءت هذه الاتهامات في وقت أظهرت فيه نتائج أولية عدم حصول كتلة نتنياهو على أغلبية في الكنيست، بينما حققت القوائم العربية تمثيلاً قياسياً. كما نفى القائم بأعمال مدير لجنة الانتخابات المركزية الإسرائيلية دين ليفين مزاعم التدخل الأجنبي، مؤكداً أن الانتخابات جرت وفقاً للقانون وبنزاهة تامة."
+   ]
+  },
+  {
+   "id": "ae080df6af84",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/syria-says-french-jihadist-killed-in-shootout-with-government-forces/article71637049.ece",
+   "date": "2026-10-29T15:20:58Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 6,
+   "title": "Syria says French jihadist killed in shootout with government forces",
+   "title_en": "Syria says French jihadist killed in shootout with government forces",
+   "summary_en": "A French jihadist was killed and a civilian wounded during a shootout between Syrian security forces and an armed group in northwestern Idlib province, Syrian authorities reported. The clash occurred when a patrol pursued members of the French-led jihadist group Firqat al-Ghuraba after they allegedly left their camp with weapons in breach of a prior agreement.",
+   "body_en": [
+    "According to a statement broadcast on state television, the security patrol came under fire from the armed group while attempting pursuit, prompting forces to return fire. An affiliated Telegram channel of Firqat al-Ghuraba confirmed the death of member Abu Ayman al-Faransi, alleging that the security personnel attacked the men while they were out buying food, and vowed to take revenge.",
+    "Firqat al-Ghuraba, led by French-Senegalese preacher Oumar Diaby, comprises dozens to a hundred fighters who remained in Idlib after fighting alongside factions that helped topple Bashar al-Assad. Diaby is wanted on a French arrest warrant and was designated by the United States as an international terrorist in 2016 for facilitating the travel of French-speaking fighters to Syria."
+   ],
+   "title_fa": "سوریه از کشته شدن یک جهادگرای فرانسوی در درگیری مسلحانه با نیروهای دولتی خبر داد",
+   "summary_fa": "مقامات سوریه اعلام کردند که در جریان تبادل آتش میان نیروهای امنیتی این کشور و یک گروه مسلح در شمال‌غرب استان ادلب، یک جهادگرای فرانسوی کشته و یک غیرنظامی زخمی شده است. این درگیری زمانی رخ داد که یک گشت نظامی، اعضای گروه جهادگرای فرانسوی «فرقة الغرباء» را به دلیل خروج مسلحانه از اردوگاه خود برخلاف توافق قبلی، تحت تعقیب قرار داد.",
+   "body_fa": [
+    "بر اساس بیانیه‌ای که از تلویزیون دولتی سوریه پخش شد، این گروه مسلح هنگام تعقیب به سوی نیروهای گشت تیراندازی کرد که به پاسخ متقابل این نیروها انجامید. یک کانال تلگرامی وابسته به «فرقة الغرباء» با تأیید کشته شدن یکی از اعضای خود به نام ابوریمن الفرنسی، ادعا کرد نیروهای امنیتی هنگامی که افراد برای خرید غذا رفته بودند به آن‌ها شلیک کردند و متعهد شد که انتقام خواهد گرفت.",
+    "گروه «فرقة الغرباء» به رهبری عمر دیابی، مبلغ فرانسوی-سنگالی، شامل ده‌ها تا یکصد جنگجو است که پس از نبرد در کنار گروه‌های سرنگون‌کننده بشار اسد، در ادلب باقی مانده‌اند. دیابی با حکم بازداشت از سوی فرانسه تحت تعقیب است و ایالات متحده در سال ۲۰۱۶ او را به دلیل تسهیل اعزام جنگجویان فرانسوی‌زبان به سوریه به عنوان تروریست بین‌المللی معرفی کرد."
+   ],
+   "title_ar": "سوريا تعلن مقتل جهادي فرنسي في تبادل لإطلاق النار مع القوات الحكومية",
+   "summary_ar": "أعلنت السلطات السورية مقتل جهادي فرنسي وإصابة مدني خلال تبادل لإطلاق النار بين قوات الأمن السورية ومجموعة مسلحة في شمال غرب محافظة إدلب. ووقع الاشتباك بعدما لاحقت دورية أمنية عناصر من جماعة «فرقة الغرباء» الجهادية التي يقودها فرنسيون، إثر خروجهم من مخيمهم بأسلحتهم في خرق لاتفاق سابق.",
+   "body_ar": [
+    "ووفقاً لبيان بثه التلفزيون الرسمي السوري، تعرضت الدورية الأمنية لإطلاق نار من المجموعة المسلحة في أثناء محاولة ملاحقتها، مما استدعى الرد على مصدر النيران. من جانبها، أكدت قناة على تطبيق تلغرام تابعة لـ«فرقة الغرباء» مقتل عنصر يُدعى أبو أيمن الفرنسي، زاعمة أن قوات الأمن أطلقت النار عليهم في أثناء خروجهم لشراء الطعام، وتوعدت بالانتقام.",
+    "وتضم «فرقة الغرباء»، التي يقودها الداعية الفرنسي السنغالي عمر ديابي، ما بين بضع عشرات ومئة مقاتل بقوا في إدلب بعدما قاتلوا إلى جانب الفصائل التي أسقطت بشار الأسد. ويخضع ديابي لمذكرة توقيف فرنسية، كما صنفته الولايات المتحدة إرهابياً دولياً في عام 2016 لمساعدته في تسهيل سفر المقاتلين الناطقين بالفرنسية إلى سوريا."
    ]
   },
   {
@@ -667,36 +821,6 @@
    "body_ar": [
     "مع فرز ما يقرب من 90 بالمئة من الأصوات، تتجه كتلة نتنياهو للحصول على 53 مقعداً، بينما يستعد حزب الليكود لتصدر الكنيست بـ 26 مقعداً. في المقابل، تتجه كتلة المعارضة بقيادة آيزنكوت لتحقيق 48 مقعداً، مع حصول حزبه، يشار، على 21 مقعداً، مما يترك كلا المعسكرين عاجزاً عن تشكيل الحكومة بمفرده.",
     "وحققت الأحزاب ذات الأغلبية العربية رقماً قياسياً بحصولها على 19 مقعداً مدفوعة بنسبة إقبال بلغت نحو 80 بالمئة بين المواطنين الفلسطينيين في إسرائيل. وضع هذا التقدم الأحزاب العربية في قلب حسابات الائتلاف، على الرغم من رفض قادة الأحزاب الصهيونية فكرة التشارك معها في الحكم."
-   ]
-  },
-  {
-   "id": "16cd24c03c2a",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/uk-pm-andy-burnham-trip-to-india-could-take-place-soon-british-envoy/article71640057.ece",
-   "date": "2026-10-29T11:09:16Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy",
-   "title_en": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy",
-   "summary_en": "British Prime Minister Andy Burnham is keen to visit India and a trip could take place soon, according to Acting British High Commissioner to India Ben Mellor.",
-   "body_en": [
-    "Mellor stated that Burnham expressed his intention directly during a discussion with Prime Minister Narendra Modi shortly after taking office in July. The diplomat also expressed confidence that the two nations would surpass their objective of doubling bilateral trade to approximately 120 billion dollars by 2030, bolstered by the Free Trade Agreement that took effect 100 days ago.",
-    "He highlighted expanding commercial ties, noting a recent business delegation to India comprising over 200 firms alongside seven British mayors and a local authority. Mellor also pointed to economic policies in the recent UK budget, including energy subsidies for households and strict fiscal rules, as providing predictability and resilience to attract investment amid global headwinds."
-   ],
-   "title_fa": "فرستاده بریتانیا: سفر اندی برنهام، نخست‌وزیر بریتانیا، به هند ممکن است به زودی انجام شود",
-   "summary_fa": "به گفته بن ملور، سرپرست کمیسیون عالی بریتانیا در هند، اندی برنهام، نخست‌وزیر بریتانیا، مشتاق سفر به هند است و این سفر ممکن است به زودی انجام گیرد.",
-   "body_fa": [
-    "ملور اظهار داشت که برنهام اندکی پس از به دست گرفتن قدرت در ماه ژوئیه، در گفت‌وگو با نخست‌وزیر نارندرا مودی تمایل خود را برای این سفر مستقیماً ابراز کرد. این دیپلمات همچنین ابراز اطمینان کرد که دو کشور از هدف خود برای دوبرابر کردن تجارت دوجانبه به حدود ۱۲۰ میلیارد دلار تا سال ۲۰۳۰، با بهره‌گیری از توافق تجارت آزاد که ۱۰۰ روز پیش اجرایی شد، فراتر خواهند رفت.",
-    "او به گسترش پیوندهای اقتصادی اشاره کرد و حضور اخیر یک هیئت تجاری متشکل از بیش از ۲۰۰ شرکت به همراه هفت شهردار بریتانیایی در هند را یادآور شد. ملور همچنین اقدامات اقتصادی اعلام‌شده در بودجه اخیر بریتانیا، از جمله یارانه انرژی برای خانوارها و قوانین انضباط مالی، را عامل ثبات و جذب سرمایه‌گذاری در بحبوحه چالش‌های اقتصادی دانست."
-   ],
-   "title_ar": "المبعوث البريطاني: زيارة رئيس الوزراء البريطاني آندي برنهام إلى الهند قد تتم قريباً",
-   "summary_ar": "أفاد القائم بأعمال المفوض السامي البريطاني في الهند بن ميلور بأن رئيس الوزراء البريطاني آندي برنهام حريص على زيارة الهند وأن الزيارة قد تجري قريباً.",
-   "body_ar": [
-    "وذكر ميلور أن برنهام أعرب عن رغبته في الزيارة مباشرة لرئيس الوزراء ناريندرا مودي بعد توليه منصبه في يوليو الماضي. كما أبدى الدبلوماسي ثقته في أن البلدين سيتجاوزان هدفهما المتمثل في مضاعفة التجارة الثنائية لتصل إلى نحو 120 مليار دولار بحلول عام 2030، مستفيدين من اتفاقية التجارة الحرة التي دخلت حيز التنفيذ قبل 100 يوم.",
-    "وأشار إلى تعزيز العلاقات التجارية مستشهداً بزيارة وفد تجاري ضم أكثر من 200 شركة برفقة سبعة رؤساء بلديات بريطانيين إلى الهند مؤخراً. وأكد ميلور أن الإجراءات المعلنة في الميزانية البريطانية الأخيرة، بما في ذلك دعم تكاليف الطاقة للأسر والالتزام بالقواعد المالية الصارمة، تمنح الاقتصاد استقراراً وجاذبية للاستثمار وسط التحديات الاقتصادية."
    ]
   },
   {

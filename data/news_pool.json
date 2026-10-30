@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:18:41Z",
+ "updated": "2026-10-30T04:05:45Z",
  "items": [
   {
    "id": "d34cd8dfe155",
@@ -1454,6 +1454,279 @@
    "desc": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
    "score": 9,
    "dup_of": "efe834fb97f7"
+  },
+  {
+   "id": "4429b62108ed",
+   "title": "How could Israel break election deadlock? Here are four scenarios",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-29T09:06:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+   "score": 6,
+   "dup_of": "d29966d1b430"
+  },
+  {
+   "id": "3e52ceae68ea",
+   "title": "Flash floods kill five in Syria",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+   "date": "2026-10-30T03:11:55Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Four children drowned while a man died after his car was caught in floodwaters.",
+   "score": 3
+  },
+  {
+   "id": "1c9585119c7a",
+   "title": "Husband of one of Modi’s closest advisors questions election integrity",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+   "date": "2026-10-30T02:41:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The husband of India’s finance minister in the Modi government has joined mass protests against voter-list revision.",
+   "score": 4
+  },
+  {
+   "id": "1da8a030205e",
+   "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+   "date": "2026-10-30T02:40:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
+   "score": 7,
+   "dup_of": "c75959d849ee"
+  },
+  {
+   "id": "64494e6a888c",
+   "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+   "date": "2026-10-29T00:24:12Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "This live blog is now closed – you can read the latest elections news here One apparent loser from Tuesday’s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party’s result of six seats from the 2022 elections. But instead there was stunned silence at the watch party for Otzma Yehudit (Jewish Power) in central Israel as results from the exit polls flashed across the screen, with most channels suggesting the party would remain on just six seats. Continue reading...",
+   "score": 4,
+   "dup_of": "066ab2051e99"
+  },
+  {
+   "id": "801fa16595dc",
+   "title": "Netanyahu bloc in lead without majority in Israel election, say official results",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261030-netanyahu-bloc-in-lead-without-majority-in-israel-election-say-official-results",
+   "date": "2026-10-30T02:29:17Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu's coalition won the most seats in the general election but fell eight short of a parliamentary majority, final results showed Friday. Arab party groupings emerged as potential kingmakers, while allegations of foreign interference threatened to complicate efforts to form a government.",
+   "score": 8,
+   "dup_of": "066ab2051e99"
+  },
+  {
+   "id": "cd7b94a97ce7",
+   "title": "Lawmakers voice alarm over KP situation, seek electoral reforms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040878/lawmakers-voice-alarm-over-kp-situation-seek-electoral-reforms",
+   "date": "2026-10-30T03:29:47Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "PAK"
+   ],
+   "desc": "• Achakzai questions govt’s handling of Tehran diplomacy, Afghanistan ties • Senate resolution seeks coordinated national action to curb population growth ISLAMABAD: Lawmakers in the National Assembly and Senate on Thursday raised concerns over the political situation in Khyber Pakhtunkhwa and alleged human rights violations, while both houses also discussed electoral reforms and the need to strengthen parliamentary institutions. National Assembly Opposition Leader Mehmood Khan Achakzai criticised the government for failing to take parliament into confidence over recent diplomatic developments",
+   "score": 5
+  },
+  {
+   "id": "c1f6ec10e9d3",
+   "title": "Netanyahu's bloc finishes ahead in Israel election, but well short of majority",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040919/netanyahus-bloc-finishes-ahead-in-israel-election-but-well-short-of-majority",
+   "date": "2026-10-30T03:08:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu’s camp finished ahead of the opposition but remained well short of a majority, final results from general election showed on Friday, setting the stage for tough coalition talks or potentially another vote. Netanyahu’s coalition of right-wing and far-right parties won 53 of the Knesset’s 120 seats, with his Likud party remaining the largest faction with 27 seats. The opposition bloc, led by centrist Gadi Eisenkot, secured 48 seats. The results from the Central Elections Committee also cemented the emergence as potential kingmakers of the Arab party grou",
+   "score": 8,
+   "dup_of": "066ab2051e99"
+  },
+  {
+   "id": "fc9d05468c0c",
+   "title": "Trump at odds with reports of Vance’s letter to Iran",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
+   "date": "2026-10-30T02:45:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "• President says outreach focused on medical supplies, not peace talks • Tehran confirms receiving vice president’s letter, no response yet • US media claims correspondence sought to avert new strikes TEHRAN: Iranian media reported on Thursday that Tehran had received a letter from US Vice President JD Vance but had not yet responded, amid efforts to revive peace talks between the countries, though President Donald Trump said the outreach was about helping the country get medical supplies. Iran’s semi-official Tasnim news agency reported that “Iran has received the letter, but has not yet resp",
+   "score": 7,
+   "dup_of": "a7615274512d"
+  },
+  {
+   "id": "ae316e079c79",
+   "title": "IRIS access alone is not legal service, LHC rules",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040872/iris-access-alone-is-not-legal-service-lhc-rules",
+   "date": "2026-10-30T01:58:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Lahore High Court has held that merely uploading an appellate order to the Federal Board of Revenue’s (FBR) Inland Revenue Information System (IRIS) does not constitute valid service under the Income Tax Ordinance, 2001. An LHC division bench comprising Justice Mirza Viqas Rauf and Justice Anwaar Hussain decided three connected reference applications led by Tahir Mehmood. The applications challenged three orders of the Appellate Tribunal Inland Revenue, which had dismissed the taxpayers’ appeals as time-barred on the ground that uploading the orders to IRIS constituted sufficient s",
+   "score": 2
+  },
+  {
+   "id": "3cc13f77b723",
+   "title": "Power division, industry seek fuel levy cut to ease power costs",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040871/power-division-industry-seek-fuel-levy-cut-to-ease-power-costs",
+   "date": "2026-10-30T02:23:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• CPPA seeks Rs2.56 per unit additional fuel cost adjustment to recover Rs33bn • Industrial representatives insist fuel levies inflating generation costs ISLAMABAD: The manufacturing sector and the power division on Thursday unanimously called for the removal or reduction of the petroleum levy on furnace oil and diesel used for power generation, stressing that it was resulting in about Rs10 per unit additional impact to electricity costs. The demand emerged during a public hearing on the Rs2.56 per unit additional monthly fuel cost adjustment (FCA) sought by power companies to recover about Rs",
+   "score": 3
+  },
+  {
+   "id": "7ca4a17920e8",
+   "title": "‘Lawfare’ emerges as new threat to journalists in Pakistan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040877/lawfare-emerges-as-new-threat-to-journalists-in-pakistan",
+   "date": "2026-10-30T03:36:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Pakistan remained deeply hostile to journalism and its practitioners in 2025-26 despite a decline in documented violations against media workers, according to a new report issued by an Islamabad-based media watchdog. “About 10 cases a month [against media personnel], their nationwide spread and severity in the period showed that fewer violations did not mean greater safety,” stated Freedom Network’s latest annual Impunity Report 2026, titled “From Violence to Lawfare: Process as Punishment for Journalists”. Produced with technical assistance from International Media Support (IMS), t",
+   "score": 5
+  },
+  {
+   "id": "2cb6341eea1d",
+   "title": "Pakistan’s climate defences under scrutiny amid Lancet warning",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040864/pakistans-climate-defences-under-scrutiny-amid-lancet-warning",
+   "date": "2026-10-30T02:57:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Ex-health officials slam country’s ‘too little, too late’ disaster response; demand climate-proof hospitals, early warnings, heat action plans • Study calls for climate change to be declared global health emergency • Heat-related deaths rise 36pc since Paris accord; economic losses estimated at over $1tr ISLAMABAD: Health and environmental experts in Pakistan have called for urgent measures to address growing climate-related health risks after a Lancet report warned that rising heat-related deaths, floods, droughts and economic losses are outpacing global efforts to combat climate change. Th",
+   "score": 4
+  },
+  {
+   "id": "20934c66b7b5",
+   "title": "Candid admission",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040897/candid-admission",
+   "date": "2026-10-30T03:41:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PARLIAMENT has recently been debating the future of Pakistani democracy, but those debates will be for naught unless our leaders also develop the capacity to acknowledge each other’s positions. The past two days have seen the government and opposition benches trading blame for democracy’s present, rather sorry state. On Wednesday, JUI-F chief Maulana Fazlur Rehman accused the government of misusing the Constitution and resorting to unconstitutional measures. He also said his party was “prepared to die” resisting the government if the latter continued pursuing a policy of confrontation and viol",
+   "score": 2
+  },
+  {
+   "id": "a71980d5de0d",
+   "title": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+   "date": "2026-10-30T03:41:42Z",
+   "countries": [
+    "ISR",
+    "PSE",
+    "QAT"
+   ],
+   "desc": "Israeli media reported that members of Mr. Netanyahu's party were accusing Qatar — a country that many Israelis view as a patron of Hamas, the Gaza-based militant group",
+   "score": 8
+  },
+  {
+   "id": "ae080df6af84",
+   "title": "Syria says French jihadist killed in shootout with government forces",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/syria-says-french-jihadist-killed-in-shootout-with-government-forces/article71637049.ece",
+   "date": "2026-10-29T15:20:58Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "In a statement carried by state television, security forces in Idlib said a patrol observed ‘an armed group leaving the French camp... in violation of the agreement that prohibits exiting [the site] with weapons’",
+   "score": 6
+  },
+  {
+   "id": "5b14ad9f14c1",
+   "title": "Israel elections: Understanding how Knesset polls work vs India’s system",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
+   "date": "2026-10-29T07:47:08Z",
+   "countries": [
+    "IND",
+    "ISR"
+   ],
+   "desc": "Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset",
+   "score": 3
+  },
+  {
+   "id": "da143b65702b",
+   "title": "Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece",
+   "date": "2026-10-29T06:10:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "",
+   "score": 3
+  },
+  {
+   "id": "53bb687fa082",
+   "title": "Clinging on: On Netanyahu and the Israel elections",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/clinging-on-on-netanyahu-and-the-israel-elections/article71636497.ece",
+   "date": "2026-10-29T03:35:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu’s continuance will be bad news for Israel and the region",
+   "score": 4,
+   "dup_of": "38d67bbae04b"
+  },
+  {
+   "id": "44ed3e485c56",
+   "title": "آینده زنان جنگجوی کرد در سوریه چه خواهد شد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/crkgwv71v9q2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T03:24:14Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "یگان‌های مدافع زنان (ی‌پ‌ژ)، یک واحد نظامی کاملا زنانه کرد، در سوریه تحت حاکمیت اسلام‌گرایان با آینده‌ای نامشخص روبه‌رو است. این نیرو بخشی از نیروهای دموکراتیک سوریه بوده؛ ائتلافی که زمانی یکی از متحدان اصلی آمریکا در نبرد با گروه‌های جهادی به شمار می‌رفت و اکنون در حال ادغام شدن در ساختار دولتی سوریه است.",
+   "score": 6
   }
  ]
 }
