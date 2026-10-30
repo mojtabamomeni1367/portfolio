@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:14:59Z",
+ "updated": "2026-10-30T13:14:17Z",
  "items": [
   {
    "id": "d34cd8dfe155",
@@ -2370,6 +2370,426 @@
    ],
    "desc": "آیا آمریکا پس از انتخابات میان‌دوره‌ای بار دیگر به ایران حمله خواهد کرد؟ این پرسشی است که در هفته‌های اخیر در محافل سیاسی و رسانه‌ای آمریکا بیش از پیش مطرح شده است. گزارش‌های تازه رسانه‌های آمریکایی نشان می‌دهد دولت دونالد ترامپ در قبال ایران دو مسیر را به طور همزمان دنبال می‌کند: بررسی گزینه‌های نظامی و افزایش فشار بر تهران، در کنار تلاش برای گشودن کانال‌های تازه دیپلماتیک.",
    "score": 8
+  },
+  {
+   "id": "5fcd613b303b",
+   "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
+   "date": "2026-10-30T12:26:56Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
+   "score": 8,
+   "dup_of": "2bb6732eb72f"
+  },
+  {
+   "id": "2d2592fbbdcf",
+   "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+   "date": "2026-10-30T11:43:17Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
+   "score": 4
+  },
+  {
+   "id": "e30740df144e",
+   "title": "Activists urge Eisenkot to form new Israeli gov’t with Arab parties",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/activists-urge-eisenkot-to-form-new-israeli-govt-with-arab-parties?traffic_source=rss",
+   "date": "2026-10-30T10:52:08Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli activists rally outside opposition leader Eisenkot’s home, urging him to join forces with Arab parties after ele",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "ce121ba3db44",
+   "title": "How can Israel break its election deadlock?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+   "date": "2026-10-30T10:50:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "No political party has achieved the 61-seat majority required in the Knesset to form a government in Israel.",
+   "score": 6,
+   "dup_of": "d29966d1b430"
+  },
+  {
+   "id": "55dacb3b4e3d",
+   "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+   "date": "2026-10-30T10:40:52Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
+   "score": 8,
+   "dup_of": "3fe50fd126e7"
+  },
+  {
+   "id": "6b731eba087b",
+   "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/dakar-rally-2027-to-be-held-in-portugal-morocco-as-saudi-hosting-revoked?traffic_source=rss",
+   "date": "2026-10-30T10:21:13Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Organisers say moving Dakar Rally, likely scheduled January 9-23, out of Saudi Arabia was 'exceptional and one-off'.",
+   "score": 2
+  },
+  {
+   "id": "ee056f6d0c7a",
+   "title": "What can a global strike of dockworkers achieve for Gaza?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
+   "date": "2026-10-30T10:04:35Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "More than 25 dockworkers' trade unions in 110 ports of 22 countries are going on strike on October 30.",
+   "score": 4
+  },
+  {
+   "id": "b9b0ad284b84",
+   "title": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca?traffic_source=rss",
+   "date": "2026-10-30T09:42:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis deny targeting the region of the Muslim holy city as hostilities continue to escalate.",
+   "score": 7,
+   "dup_of": "2d9a15092e45"
+  },
+  {
+   "id": "729e1d4cac74",
+   "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+   "date": "2026-10-30T12:49:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in the face of Iranian attack, according to a study by the International Institute for Strategic Studies. The report says that in the weeks before the 8 April ceasefire, 12 regional states, overwhelmingly in the Gulf, faced 4,670 Iranian one-way attack drones and more than 1,400 ballistic missiles. Nearly half were aimed ",
+   "score": 6
+  },
+  {
+   "id": "f607aeccd829",
+   "title": "Centcom chief says Hormuz routes remain clear as Iran reports interceptions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-chief-says-hormuz-routes-remain-clear-iran-reports-interceptions",
+   "date": "2026-10-30T13:00:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Centcom chief says Hormuz routes remain clear as Iran reports interceptions The head of US Central Command (Centcom), Admiral Brad Cooper, has claimed that the main international shipping routes through the Strait of Hormuz are clear of Iranian sea mines and that commercial vessels are sailing freely through the strategic waterway. In a video posted on Cencom's X account, Cooper said he flew over the strait earlier this week and saw dozens of commercial vessels transiting the area. “Here’s what I didn’t see – I didn’t see the IRGC out there at all,” he said, claiming Iran’s navy was “all at th",
+   "score": 8
+  },
+  {
+   "id": "9a40980438ea",
+   "title": "A Lebanese bank heist towers over this winter's Middle Eastern film offerings",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/discover/lebanese-bank-heist-towers-over-winters-middle-eastern-film-offerings",
+   "date": "2026-10-30T12:22:55Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "A Lebanese bank heist towers over this winter's Middle Eastern film offerings Submitted by Joseph Fahim on Fri, 10/30/2026 - 10:42 Rami Kodeih's Furies is set during Lebanon's liquidity crisis of 2019, which led depositors to hold up banks to access their money Rym Mroue (left) and Maria Nakouzi (right) star in Furies, which premiered at Venice (Smokehouse Pictures) Off This has been a middling year for Middle Eastern cinema . With Palestine continuing to dominate the region’s cultural discourse and festivals growing increasingly narrow-minded in their selections, critics and audiences alike h",
+   "score": 2
+  },
+  {
+   "id": "09b7a59edaf5",
+   "title": "The myth of Israel as the region's 'only democracy' should be dead. Not in western media",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/if-israel-regions-only-democracy-why-are-palestinian-voters-cast-criminals",
+   "date": "2026-10-30T12:22:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The myth of Israel as the region's 'only democracy' should be dead. Not in western media Submitted by Faisal Hanif on Thu, 10/29/2026 - 15:19 Record Arab turnout has fuelled immediate backlash, amid calls for an investigation into the country's 'Islamisation' Israeli Prime Minister Benjamin Netanyahu addresses his supporters in Jerusalem, hours after polls closed in a close election, on 28 October 2026 (Jewel Samad/AFP) Off For much of the western media, Israel ’s election was a festival of democracy. La Croix billed it as a vote for peace and “the honour of democracy”. The BBC framed it as a ",
+   "score": 3
+  },
+  {
+   "id": "1a6e431ee8db",
+   "title": "UK denies entry to Swedish academic due to appear at pro-Palestine event",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-denies-entry-swedish-academic-due-appear-pro-palestine-event",
+   "date": "2026-10-30T12:14:52Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "UK denies entry to Swedish academic due to appear at pro-Palestine event The United Kingdom has reportedly cancelled the travel authorisation of Swedish academic and pro-Palestine activist Andreas Malm, preventing him from entering the country ahead of a planned appearance at a London event, Al Jazeera has reported. The report said that the Home Office cancelled Malm’s Electronic Travel Authorisation (ETA) on Wednesday, saying his “presence in the UK is not considered to be conducive to the public good”. Malm was due to join a panel organised by the socialist magazine Tribune alongside Huda Am",
+   "score": 3
+  },
+  {
+   "id": "7529c86539a6",
+   "title": "IRGC Navy intercepts two vessels in southern waters of Hormuz",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-says-two-vessels-intercepted-southern-waters-strait-hormuz",
+   "date": "2026-10-30T11:49:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IRGC Navy intercepts two vessels in southern waters of Hormuz Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy said on Friday that it halted two tankers in the southern waters of the Strait of Hormuz after they attempted to pass through an unauthorised route. In a statement, the IRGC Navy said the vessels, one in the eastern and the other in the western part of the strait, had switched off their navigation and positioning systems and ignored several radio warnings. It accused the US military of supporting the attempted passage and blamed what it called hostile US actions, along with the ve",
+   "score": 8
+  },
+  {
+   "id": "736a2319078c",
+   "title": "US midterms: Progressives rally behind war criminal Obama’s attacks on Trump",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/us-midterms-democrats-rally-war-criminal-obama-attack-trump",
+   "date": "2026-10-30T11:44:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US midterms: Progressives rally behind war criminal Obama’s attacks on Trump Submitted by Joseph Massad on Thu, 10/29/2026 - 04:45 Mass deportations, drone strikes and support for Israel's genocidal wars are no obstacle to liberals presenting the former president as a moral alternative to Trump Former US President Barack Obama campaigns with Michigan’s Democratic Senate nominee Abdul El-Sayed and gubernatorial nominee Jocelyn Benson in Detroit on 24 October 2026 (Kyle Mazza/Sipa USA via Reuters) Off Former US President Barack Obama is on the campaign trail to support Democratic Party candidate",
+   "score": 2
+  },
+  {
+   "id": "98c09da94493",
+   "title": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-voter-bribery-probe-limited-and-unlikely-affect-election-results-shin-bet-sources-say",
+   "date": "2026-10-30T11:29:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say Submitted by MEE staff on Fri, 10/30/2026 - 09:56 Security officials play down allegations of foreign interference as Netanyahu’s Likud party claims Palestinian citizens helped ‘steal’ the election Head of the Shin Bet domestic security service David Zini participates in a state memorial ceremony for the fallen soldiers at the Mount Herzl military cemetery in Jerusalem on 16 October 2025 (Olivier fitoussi/AFP) Off The investigation into suspected Israeli election fraud is limited in scope and unlikely to af",
+   "score": 6
+  },
+  {
+   "id": "008065efbb10",
+   "title": "More than 100 ports join international dockworkers’ strike against arms shipments",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-100-ports-join-international-dockworkers-strike-against-arms",
+   "date": "2026-10-30T11:18:38Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "More than 100 ports join international dockworkers’ strike against arms shipments Dockworkers across Europe are staging strikes and demonstrations as part of an international campaign against arms shipments and port militarisation. Unions in France, Italy, Greece, Spain, Turkey and Morocco have called for an end to wars in the Middle East, including Gaza. “Ports must not be used for the transport of weapons, ammunition, military equipment and troops,” a joint statement said. “Dockworkers do not work for war!” In Greece, the Enedep union called a strike at Piraeus, while Italy’s USB announced d",
+   "score": 5
+  },
+  {
+   "id": "0f534884c86f",
+   "title": "Taiz civilians trapped by siege as heavy shelling hits residential areas",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/taiz-civilians-trapped-under-siege-heavy-shelling-hits-residential-areas",
+   "date": "2026-10-30T11:04:54Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Taiz civilians trapped by siege as heavy shelling hits residential areas Civilians in the Yemeni city of Taiz are facing worsening conditions amid heavy shelling and a siege that has cut off villages from essential supplies, Al Jazeera has reported. Although midday brought a period of relative calm, intermittent clashes continued along several front lines, with hostilities escalating around Jabal Saber and Jabal Habashi, the report said. Taiz’s governor said hundreds of shells had fallen on residential neighbourhoods and appealed for an end to the siege, warning that residents were unable to e",
+   "score": 7,
+   "dup_of": "3db756187959"
+  },
+  {
+   "id": "7012abf6071a",
+   "title": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/-uk-miliband-determined-sanction-settlements-regardless-israeli-election-outcome",
+   "date": "2026-10-30T11:00:23Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures Submitted by Imran Mulla on Fri, 10/30/2026 - 09:21 The foreign secretary is understood to be determined that sanctions should not be watered down Britain's Foreign Secretary Ed Miliband (AFP) Off Britain will press ahead with sanctions on Israeli settlements whatever the outcome of Israel's elections, senior UK government figures have privately insisted. Even if Benjamin Netanyahu is no longer prime minister, Labour ministers intend to implement comprehensive sanctions, including aga",
+   "score": 7
+  },
+  {
+   "id": "2111dc20bd58",
+   "title": "Nato chief holds talks with Saudi defence minister amid Middle East tensions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-chief-holds-talks-saudi-defence-minister-amid-middle-east-tensions",
+   "date": "2026-10-30T10:20:37Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Nato chief holds talks with Saudi defence minister amid Middle East tensions Nato Secretary General Mark Rutte spoke with Saudi Defence Minister Khalid bin Salman Al Saud over the phone to discuss security, according to Nato spokesperson Allison Hart. “They discussed the security situation in the Middle East, regional stability and freedom of navigation,” Hart said in a post on X. .@SecGenNATO Mark Rutte had a phone call with Defence Minister @kbsalsaud of the Kingdom of Saudi Arabia 🇸🇦 They discussed the security situation in the Middle East, regional stability &amp; freedom of navigation — N",
+   "score": 7
+  },
+  {
+   "id": "d5347bd96734",
+   "title": "Why Palestinian electoral gains in Israel cannot alter the racist structure of the state",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/why-palestinian-electoral-gains-Israel-cannot-alter-racist-structure-state",
+   "date": "2026-10-30T07:28:35Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Why Palestinian electoral gains in Israel cannot alter the racist structure of the state Submitted by Ghada Majadli on Thu, 10/29/2026 - 19:04 The existence of parliamentary representation negates neither the apartheid regime nor the 50 discriminatory laws that govern the lives of Palestinian citizens of Israel A Palestinian citizen of Israel casts his ballot at a polling station in the town of Umm al-Fahm on 27 October 2026 (AFP) Off The high Palestinian voter turnout in Israel ’s election was fuelled in part by recent attempts to eliminate Palestinian political representation in the Knesset.",
+   "score": 4,
+   "dup_of": "93cc30971e0f"
+  },
+  {
+   "id": "c10ebee1564f",
+   "title": "Pakistan Army destroys Afghan Taliban posts in response to firing at Angoor Adda: state media",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040969/pakistan-army-destroys-afghan-taliban-posts-in-response-to-firing-at-angoor-adda-state-media",
+   "date": "2026-10-30T12:45:41Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "Pakistan’s armed forces targeted and destroyed several Afghan Taliban posts and military positions in areas adjacent to South Waziristan and Parachinar, state media reported on Friday, citing security sources. According to state-run Radio Pakistan , the army “gave a befitting reply to unprovoked firing by the Afghan Taliban along the Pak-Afghan border in the Angoor Adda area” on Tuesday. “Using heavy weaponry, the Pakistan Army forced Afghan Taliban personnel to abandon their posts and flee,” the report said. Citing reports, it added that several Afghan Taliban regime personnel were also kille",
+   "score": 8,
+   "dup_of": "f96242c0fc70"
+  },
+  {
+   "id": "4301c27a2918",
+   "title": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "date": "2026-10-30T11:39:36Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "desc": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a statement issued by the Petroleum Division. Saudi Arabia also announced the immediate introduction of same-day visa processing for Pakistani citizens at its embassy in Islamabad. Pakistan has been planning to boost domestic storage for crude oil and refined products to increase its energy security. With no strategic petroleum reserves, the c",
+   "score": 6
+  },
+  {
+   "id": "b9e355749be4",
+   "title": "FCC says not implementing SC's verdicts amounts to 'challenging the very framework of the legal system'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040962/fcc-says-not-implementing-scs-verdicts-amounts-to-challenging-the-very-framework-of-the-legal-system",
+   "date": "2026-10-30T12:32:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Federal Constitutional Court (FCC) on Friday regretted the non-implementation of an earlier Supreme Court judgment in the sacked employees case , underlining that disregarding or delaying the implementation of the latter’s verdicts by the government amounts to “challenging the very framework of the legal system”. The observation came while hearing a set of contempt of court petitions against the Punjab government, as well as the federal government, for not implementing the Dec 17, 2021 SC judgement — a verdict which had converted the review hearings to the jurisdiction of Articl",
+   "score": 4
+  },
+  {
+   "id": "79125907d254",
+   "title": "PSL franchises allowed seven retentions, must release top-tier player if maximum limit exercised",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040968/psl-franchises-allowed-seven-retentions-must-release-top-tier-player-if-maximum-limit-exercised",
+   "date": "2026-10-30T12:35:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan Super League (PSL) franchises will be allowed to retain a maximum of seven players, including their direct signing, for the 12th edition of the tournament, but any side exercising the full retention allowance will have to release a player from the highest price tier of the previous auction into the general player pool. The provision, unanimously approved by all eight franchises at a tournament operations workshop at Gaddafi Stadium on Thursday, is among the key regulations finalised ahead of the PSL 12 player auction scheduled for January 23. The mandatory release of a top-tier player",
+   "score": 1
+  },
+  {
+   "id": "cbca4c8faa46",
+   "title": "Short-term inflation rises to 11.32pc in last week of October, driven by perishable food prices",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
+   "date": "2026-10-30T10:35:33Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Short-term inflation rose to 11.32 per cent year-on-year in the week ending October 29, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items whose prices are collected from 50 markets in 17 cities, is calculated weekly to track changes in the prices of essential commodities and services. Short-term inflation has remained in double digits for several consecutive weeks, largely on the back of persistent increases in petroleum and diesel prices . The data showed that of the 5",
+   "score": 4
+  },
+  {
+   "id": "3b064d8752e2",
+   "title": "Rubio hosts G20 ministers as Iran, Ukraine wars divide members",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040947/rubio-hosts-g20-ministers-as-iran-ukraine-wars-divide-members",
+   "date": "2026-10-30T10:11:40Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Secretary of State Marco Rubio will host his G20 counterparts, including Russia’s Sergei Lavrov, for talks on Friday that are expected to be fractious, with wars in Ukraine and Iran and surging energy prices fanning discord. The foreign ministers’ meeting in Atlanta, Georgia, taking place just days before crucial US midterm elections , will set the stage for a December G20 leaders’ summit in Miami at President Donald Trump’s Doral resort. Few breakthroughs are expected this week from the Group of 20 economies — which include China, India, Russia, Japan, Germany and France — as officials fac",
+   "score": 7,
+   "dup_of": "15efa6e59dfc"
+  },
+  {
+   "id": "3c3931e50058",
+   "title": "Disrupted LPG supply",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040896/disrupted-lpg-supply",
+   "date": "2026-10-30T11:17:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "THE petroleum minister’s explanation in the National Assembly that the recent closure of the Iran border has disrupted liquefied petroleum gas supplies and driven up prices identifies a major cause of the current crisis. The subsequent partial border reopening has failed to ease the shortage. While the closure may have triggered the present shortages and price hike, the problem recurs every winter. Pakistan produces only about a quarter of the LPG it needs. The rest is imported, mainly from Iran. The disruption of cross-border trade has therefore exposed the vulnerability of a market that depe",
+   "score": 3
+  },
+  {
+   "id": "7756bf1e5263",
+   "title": "Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-forces-committed-war-crimes-genocide-even-after-gaza-ceasefire-un-commission/article71644883.ece",
+   "date": "2026-10-30T12:38:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "In Gaza, Israeli forces have continued expanding their territorial control, resulting in the killing and injuring of Palestinian civilians, including children, who approach or cross the Yellow Line, which separates Israel- military controlled Gaza from the Palestine-ruled parts of the enclave, Justice Srinivasan Muralidhar said.",
+   "score": 8
+  },
+  {
+   "id": "917021ad06a2",
+   "title": "Saudi Aramco, Sonatrach raise LPG official selling prices for November, say sources",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-aramco-sonatrach-raise-lpg-official-selling-prices-for-november-say-sources/article71644828.ece",
+   "date": "2026-10-30T12:18:10Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi Aramco's OSPs are used ​as a reference ‌for contracts to supply LPG from the West Asia to the Asia-Pacific region",
+   "score": 5
+  },
+  {
+   "id": "143f07743178",
+   "title": "دادستان تهران با هشدار به مدیران دولتی، خواستار ورود سپاه به موضوع حجاب شد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cm4g1988g1q9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T12:43:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "علی صالحی، دادستان عمومی و انقلاب تهران، با هشدار درباره «کوتاهی» مدیران دولتی، خواستار مداخله نهادهای اطلاعاتی و سپاه پاسداران شد.",
+   "score": 7
   }
  ]
 }
