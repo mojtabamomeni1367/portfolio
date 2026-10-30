@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:00:03Z",
+ "updated": "2026-10-30T21:51:35Z",
  "items": [
   {
    "id": "d34cd8dfe155",
@@ -3207,6 +3207,104 @@
    ],
    "desc": "الهام علی‌اف، رئیس‌جمهور جمهوری آذربایجان، با وجود دعوت شخصی رجب طیب اردوغان، همتای ترکیه‌ای خود، در نشست سران کشورهای ترک شرکت نکرد.",
    "score": 6
+  },
+  {
+   "id": "0256683fc3eb",
+   "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+   "date": "2026-10-30T20:37:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+   "score": 4
+  },
+  {
+   "id": "5132b7086d65",
+   "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+   "date": "2026-10-30T19:34:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Prime Minister claims the parties accepted foreign funding.",
+   "score": 6,
+   "dup_of": "a71980d5de0d"
+  },
+  {
+   "id": "1cb3d5a20c15",
+   "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+   "date": "2026-10-30T18:55:36Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
+   "score": 8,
+   "dup_of": "bbe396ac5b83"
+  },
+  {
+   "id": "be2ee032966f",
+   "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+   "date": "2026-10-30T18:35:44Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+   "score": 6,
+   "dup_of": "acc46978d3e5"
+  },
+  {
+   "id": "7d8ef33f0c6e",
+   "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-10-30T18:33:29Z",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "desc": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
+   "score": 8
+  },
+  {
+   "id": "fb7b3e119318",
+   "title": "CDA directs removal of 'unauthorised' construction at JUI-F chief's residence in Islamabad",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041006/cda-directs-removal-of-unauthorised-construction-at-jui-f-chiefs-residence-in-islamabad",
+   "date": "2026-10-30T19:09:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Directorate of Building Control (City) of the Capital Development Authority (CDA) on Friday issued a warning notice to remove within 15 days a guards’ room and “unauthorised and illegal” construction at the residence of Jamiat Ulema-i-Islam (JUI-F) chief Maulana Fazlur Rehman in the federal capital’s posh G-6 sector. The notice affixed outside the residence of the JUI-F chief — addressed to the legal owner of the property and dated Oct 30 (Friday) — highlighted three violations under the Islamabad Capital Territory Building Control Regulations 2020 (amended 2023). It pointed out",
+   "score": 3
+  },
+  {
+   "id": "99ad2ca3ff7b",
+   "title": "أنباء عن استهداف القصر الرئاسي في عدن، وجماعة أنصار الله الحوثية تنفي استهداف مكة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crkg7pkw14w0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T20:18:27Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "سبق للسعودية أن اتهمت مرات عدّة الجماعة الحوثية باستهداف مكة المكرمة والمدينة المنورة بصواريخ بالستية ومسيّرات، الأمر الذي نفته الجماعة دائماً",
+   "score": 8
   }
  ]
 }

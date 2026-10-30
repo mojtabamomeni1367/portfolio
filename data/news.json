@@ -1,7 +1,68 @@
 {
- "updated": "2026-10-30T19:00:03Z",
+ "updated": "2026-10-30T21:51:35Z",
  "count": 255,
  "items": [
+  {
+   "id": "99ad2ca3ff7b",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crkg7pkw14w0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T20:18:27Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "أنباء عن استهداف القصر الرئاسي في عدن، وجماعة أنصار الله الحوثية تنفي استهداف مكة",
+   "title_en": "Reports of target on presidential palace in Aden as Houthis deny targeting Mecca",
+   "summary_en": "According to a Yemeni police source, the Houthis targeted the presidential palace in Aden as explosions were heard in the city, while the group denied accusations by the Saudi-led coalition that it had targeted Mecca with a drone.",
+   "body_en": [
+    "The Saudi-led coalition stated that its air defenses intercepted and destroyed drones and a ballistic missile launched by the Houthis toward Riyadh, the southern region, and Mecca. In response, Houthi military spokesman Yahya Saree denied conducting any operations toward Mecca, stating that their strikes specifically target Saudi oil facilities and military bases.",
+    "This escalation follows intensified clashes, airstrikes, and missile attacks between the two sides. The Houthis have made ground advances in strategic areas, including the Bab al-Mandab Strait, alongside repeated attacks on airports and oil infrastructure inside Saudi territory."
+   ],
+   "title_fa": "گزارش‌ها از هدف قرار گرفتن کاخ ریاست‌جمهوری در عدن هم‌زمان با تکذیب هدف‌گیری مکه توسط حوثی‌ها",
+   "summary_fa": "به نقل از یک منبع پلیس یمن، حوثی‌ها هم‌زمان با شنیده شدن صدای انفجارها در عدن، کاخ ریاست‌جمهوری در این شهر را هدف قرار دادند، در حالی که این گروه اتهامات ائتلاف به رهبری عربستان مبنی بر حمله پهپادی به مکه را تکذیب کرد.",
+   "body_fa": [
+    "ائتلاف تحت رهبری عربستان اعلام کرد پدافند هوایی آن پهپادها و یک موشک بالستیک شلیک‌شده توسط حوثی‌ها به سمت ریاض، مناطق جنوبی و مکه را رهگیری و منهدم کرده است. در مقابل، یحیی سریع، سخنگوی نظامی حوثی‌ها، انجام هرگونه عملیات به سمت مکه را تکذیب کرد و گفت حملات آن‌ها تأسیسات نفتی و پایگاه‌های نظامی عربستان را هدف قرار می‌دهد.",
+    "این تشدید درگیری‌ها در پی افزایش نبردها، حملات هوایی و موشکی میان دو طرف رخ می‌دهد. حوثی‌ها پیشروی‌هایی در مناطق استراتژیک از جمله تنگه باب‌المندب داشته‌اند و حملات متعددی نیز به فرودگاه‌ها و تأسیسات نفتی در داخل خاک عربستان انجام داده‌اند."
+   ],
+   "title_ar": "أنباء عن استهداف القصر الرئاسي في عدن، وجماعة أنصار الله الحوثية تنفي استهداف مكة",
+   "summary_ar": "نقلت وكالة فرانس برس عن مصدر في الشرطة اليمنية استهداف الحوثيين للقصر الرئاسي في عدن بالتزامن مع سماع انفجارات في المدينة، بينما نفت الجماعة اتهامات التحالف بقيادة السعودية باستهداف مكة المكرمة بمسيّرة.",
+   "body_ar": [
+    "أعلن التحالف الدفاع الجوي عن اعتراض وتدمير طائرات مسيّرة وصاروخ بالستي أطلقها الحوثيون باتجاه الرياض والمنطقة الجنوبية ومكة المكرمة. في المقابل، أكد المتحدث العسكري باسم الحوثيين، يحيى سريع، أن الجماعة لم تنفذ أي عمليات باتجاه مكة، مشيراً إلى أن هجماتهم تركز على المنشآت النفطية والقواعد العسكرية السعودية.",
+    "ويأتي هذا التصعيد الميداني في ظل تصاعد المعارك والضربات الجوية والصاروخية بين الطرفين، حيث حقق الحوثيون تقدمًا على الأرض وسيطروا على مناطق استراتيجية كمنطقة مضيق باب المندب، وسط هجمات متكررة طالت مطارات ومرافق نفطية داخل الأراضي السعودية."
+   ]
+  },
+  {
+   "id": "7d8ef33f0c6e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-10-30T18:33:29Z",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "score": 8,
+   "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+   "title_en": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+   "summary_en": "Omani maritime authorities evacuated 25 crew members from a burning crude oil tanker in the Strait of Hormuz amid escalating maritime incidents in the waterway.",
+   "body_en": [
+    "The Omani Maritime Security Centre reported that it rescued the crew of the Panamanian-flagged merchant ship RITI. The evacuation coincided with statements from Iran's Islamic Revolutionary Guard Corps claiming three tankers were stopped after attempting to navigate unauthorized routes in the Strait of Hormuz, with one supertanker catching fire following an explosion.",
+    "Iran has warned vessels against passing through the strait without its authorization, while US Central Command chief Brad Cooper stated that primary international transit routes in the waterway had been cleared of Iranian sea mines."
+   ],
+   "title_fa": "عمان ۲۵ نفر را از یک نفتکش شعله‌ور در تنگه هرمز نجات داد",
+   "summary_fa": "مقامات دریایی عمان ۲۵ خدمه یک نفتکش شعله‌ور را در تنگه هرمز هم‌زمان با افزایش حوادث دریایی در این آبراه تخلیه کردند.",
+   "body_fa": [
+    "مرکز امنیت دریایی عمان اعلام کرد که خدمه کشتی تجاری «RITI» با پرچم پاناما را نجات داده است. این تخلیه هم‌زمان با بیانیه‌های سپاه پاسداران انقلاب اسلامی مبنی بر متوقف کردن سه نفتکش به دلیل عبور از مسیرهای غیرمجاز در تنگه هرمز صورت گرفت که طی آن یک سوپرنفتکش بر اثر انفجار دچار آتش‌سوزی شد.",
+    "ایران پیش از این به شناورها درباره عبور بدون مجوز از این تنگه هشدار داده بود، در حالی که برد کوپر، فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام)، اعلام کرد که مسیرهای اصلی ترانزیت بین‌المللی در این آبراه از مین‌های دریایی ایران پاکسازی شده‌اند."
+   ],
+   "title_ar": "عُمان تنقذ 25 شخصاً من ناقلة نفط محترقة في مضيق هرمز",
+   "summary_ar": "أخلت السلطات البحرية العُمانية 25 فرداً من طاقم ناقلة نفط خام محترقة في مضيق هرمز، وسط تصاعد الحوادث البحرية في الممر المائي.",
+   "body_ar": [
+    "أفاد مرکز الأمن البحري العُماني بإخلاء طاقم السفينة التجارية \"RITI\" التي تحمل علم بنما. وجاءت عملية الإخلاء بالتزامن مع تصريحات للحرس الثوري الإيراني قال فيها إنه أوقف ثلاث ناقلات نفط حاولت العبور عبر مسارات غير مصرح بها في مضيق هرمز، مشيراً إلى أن إحدى الناقلات الكبرى تعرضت لانفجار واشتعلت فيها النيران.",
+    "وكانت إيران قد حذرت مراراً السفن من المرور عبر المضيق دون موافقتها، في حين ذكر قائد القيادة المركزية الأمريكية براد كوبر أنه تم تطهير ممرات الترانزيت الدولية الرئيسية في الممر المائي من الألغام البحرية الإيرانية."
+   ]
+  },
   {
    "id": "bbe396ac5b83",
    "lang": "en",
@@ -390,37 +451,6 @@
    ]
   },
   {
-   "id": "98c09da94493",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/israeli-voter-bribery-probe-limited-and-unlikely-affect-election-results-shin-bet-sources-say",
-   "date": "2026-10-30T11:29:11Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say",
-   "title_en": "Israeli election bribery probe ‘limited’ and won't affect results, Shin Bet sources say",
-   "summary_en": "Israeli security sources and an election official stated that a Shin Bet investigation into suspected election fraud and foreign influence is limited in scope and will not alter the election results.",
-   "body_en": [
-    "The inquiry focuses on alleged foreign funding aimed at boosting turnout among Arab citizens of Israel, who secured 19 seats through the Ra'am and Joint List slates. Following claims by Benjamin Netanyahu's Likud party that the election was influenced by foreign intervention, Shin Bet emphasized that its investigation targets specific individuals rather than an entire demographic and confirmed that Netanyahu, Yair Lapid, and Gadi Eisenkot were briefed on the matter.",
-    "Opposition figures, including Lapid and Eisenkot, rejected attempts to delegitimize the outcome, stating there is no basis to delay the swearing-in of the new Knesset or challenge the results. Joint List lawmaker Ahmad Tibi noted that opposition representatives had already discussed potential cooperation to replace Knesset Speaker Amir Ohana."
-   ],
-   "title_fa": "منابع شین‌بت: تحقیقات درباره رشوه در انتخابات اسرائیل «محدود» است و بر نتایج تأثیری نخواهد داشت",
-   "summary_fa": "منابع امنیتی و یک مقام انتخاباتی اسرائیل اعلام کردند که تحقیقات شین‌بت درباره احتمال تقلب و نفوذ خارجی در انتخابات محدود است و نتایج را تغییر نخواهد داد.",
-   "body_fa": [
-    "این تحقیقات بر ادعاهای مربوط به تأمین مالی خارجی برای افزایش مشارکت شهروندان عرب اسرائیل متمرکز است که ۱۹ کرسی را از طریق فهرست‌های راعم و لیست مشترک به دست آوردند. پس از ادعاهای حزب لیکود به رهبری بنیامین نتانیاهو مبنی بر مداخله خارجی، شین‌بت تأکید کرد که تحقیقاتش افراد مشخصی را هدف قرار داده نه یک بخش کامل از جامعه را، و تایید کرد که نتانیاهو، یائیر لاپید و گادی آیزنکوت در جریان جزئیات قرار گرفته‌اند.",
-    "چهره‌های اپوزیسیون از جمله لاپید و آیزنکوت تلاش‌ها برای بی‌اعتبار کردن نتایج را رد کرده و گفتند دلیلی برای به تأخیر انداختن مراسم تحلیف کنست جدید یا زیر سؤال بردن نتایج وجود ندارد. احمد الطیبی، نماینده کنست از لیست مشترک، نیز اشاره کرد که نمایندگان اپوزیسیون درباره همکاری جهت جایگزینی امیر اوحانا، رئیس کنست، گفتگو کرده‌اند."
-   ],
-   "title_ar": "مصادر في الشاباك: التحقيق في رشوة الانتخابات الإسرائيلية \"محدود\" ولن يؤثر على النتائج",
-   "summary_ar": "أفادت مصادر أمنية ومسؤول إنتخابي إسرائيلي بأن تحقيق الشاباك في شبهات التزوير والتدخل الخارجي في الانتخابات محدد ولن يغير نتائج الانتخابات.",
-   "body_ar": [
-    "يركز التحقيق على مزاعم بتمويل خارجي لزيادة نسبة تصويت المواطنين العرب في إسرائيل، الذين حصلوا على 19 مقعداً عبر قائمتي الموحدة والقائمة المشتركة. وعقب ادعاءات حزب الليكود بقيادة بنيامين نتنياهو بوجود تدخل خارجي، أكد جهاز الشاباك أن تحقيقاته تستهدف أفراداً محددين وليس فئة كاملة من المجتمع، مشيراً إلى إحاطة نتنياهو ويائير لابيد وغادي آيزنكوت بالتفاصيل.",
-    "ورفضت شخصيات المعارضة، بما في ذلك لابيد وآيزنكوت، محاولات التشكيك في النتائج، مؤكدين عدم وجود أي مبرر لتأجيل أداء اليمين للكونغرس الجديد أو الطعن في النتائج. وذكر عضو الكنيست عن القائمة المشتركة أحمد الطيبي أن ممثلي المعارضة ناقشوا بالفعل التعاون لاستبدال رئيس الكنيست أمير اوحانا."
-   ]
-  },
-  {
    "id": "7012abf6071a",
    "lang": "en",
    "source": "Middle East Eye",
@@ -565,36 +595,6 @@
    "body_ar": [
     "يمهد اجتماع أتلانتا لقمة قادة مجموعة العشرين المزمع عقدها في ديسمبر بمنتجع دورال التابع للرئيس دونالد ترامب في ميامي. وقد أثار حضور وزير الخارجية الروسي سيرغي لافروف توتراً مع الوزراء الأوروبيين، في وقت تسعى فيه واشنطن للتعاون مع موسكو لكبح أسعار الوقود المرتفعة قبيل الانتخابات.",
     "وتسعى الولايات المتحدة للتركيز على النمو الاقتصادي، وسلاسل الإمداد، وحرية الملاحة في الممرات المائية الحيوية مثل مضيق هرمز الذي تعطلت فيه حركة الملاحة إثر الضربات الأمريكية الإسرائيلية على إيران. ورغم ذلك، يستبعد التوصل إلى توافق في الآراء في ظل انقسامات حادة واعتراضات سابقة من الصين على صياغات حرية الملاحة."
-   ]
-  },
-  {
-   "id": "b1064b9aa160",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040941/cop-martyred-in-kps-bajaur-as-terrorists-attack-police-post-official",
-   "date": "2026-10-30T07:18:22Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Cop martyred in KP's Bajaur as terrorists attack police post: official",
-   "title_en": "Cop martyred in KP's Bajaur as terrorists attack police post: official",
-   "summary_en": "A police officer was killed late Thursday night during a militant attack on a police post in the Bajaur district of Khyber Pakhtunkhwa, Pakistan. Officials stated that police forces retaliated and forced the assailants to flee.",
-   "body_en": [
-    "District police spokesperson Mansoor Khan said fighters belonging to the banned Tehreek-i-Taliban Pakistan targeted the Silai Pati post in the Barang tehsil near Malakand district. The officer died while resisting the attack, which was ultimately repelled.",
-    "Following the incident, local officials and residents attended funeral prayers at the Police Lines in Khar. Prior to the clash, the Bajaur administration had banned pillion riding on motorcycles for 10 days under Section 144 due to security concerns."
-   ],
-   "title_fa": "شهادت یک مأمور پلیس در باجور خیبر پختونخوا در پی حمله تروریست‌ها به یک ایستگاه بازرسی",
-   "summary_fa": "در پی حمله پنجشنبه شب تروریست‌ها به یک پاسگاه پلیس در منطقه باجور در ولایت خیبر پختونخوا پاکستان، یک مأمور پلیس به شهادت رسید. به گفته مقامات، نیروهای پلیس به این حمله پاسخ داده و مهاجمان را فراری دادند.",
-   "body_fa": [
-    "منصور خان، سخنگوی پلیس منطقه، گفت که تروریست‌های متعلق به گروه تحریک طالبان پاکستان پاسگاه سیلای پاتی در بخش برنگ نزدیک به مرز ملاکند را هدف قرار دادند. این مأمور پس از مقاومت شجاعانه جان خود را از دست داد و مهاجمان در پی واکنش پلیس گریختند.",
-    "مراسم تشییع پیکر این مأمور با حضور مقامات محلی و شهروندان در مقر پلیس خار برگزار شد. پیش از این حمله نیز مقامات اداری باجور به دلیل شرایط امنیتی، سوار شدن همزمان دو نفر بر موتورسیکلت را به مدت ۱۰ روز ممنوع اعلام کرده بودند."
-   ],
-   "title_ar": "استشهاد شرطي في باجور بخيبر بختونخوا إثر هجوم إرهابي على نقطة أمنية",
-   "summary_ar": "استشهد شرطي في وقت متأخر من ليل الخميس جراء هجوم شنه مسلحون على نقطة شرطة في منطقة باجور بإقليم خيبر بختونخوا الباكستاني. وأفاد مسؤولون بأن عناصر الشرطة ردوا على الهجوم وأجبروا المهاجمين على الفرار.",
-   "body_ar": [
-    "أوضح المتحدث باسم شرطة المنطقة منصور خان أن عناصر تابعة لحركة طالبان باكستان المحظورة استهدفت نقطة سيلاي باتي في ناحية بارانغ المحاذية لمنطقة مالاكاند. وقد استشهد الشرطي أثناء مقاومته الهجوم، قبل أن يلوذ المهاجمون بالفرار.",
-    "وشارك مسؤولون محليون ومواطنون في صلاة الجنازة التي أقيمت بمقر الشرطة في خار. وكان مسؤولو إدارة باجور قد قرروا حظر ركوب شخصين على دراجة نارية لمدة 10 أيام بموجب المادة 144 لدواعٍ أمنية قبيل وقوع الحادث."
    ]
   },
   {
