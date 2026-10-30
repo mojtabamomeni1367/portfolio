@@ -41,12 +41,13 @@ SOURCES = ROOT / "config" / "sources.json"
 COUNTRIES = ROOT / "config" / "countries.json"
 OUT = ROOT / "data" / "news.json"
 POOL = ROOT / "data" / "news_pool.json"
+ARCHIVE = ROOT / "data" / "news" / "archive"   # stories older than KEEP_DAYS, one file per month (never deleted)
 NAMES = ROOT / "config" / "names.json"
 
 DAILY_MAX = 30           # published stories per day
 MIN_SCORE = 5            # never publish below this importance, even if slots remain
 POOL_DAYS = 2            # candidates are considered for today and yesterday
-KEEP_DAYS = 14           # published stories stay on the site this long
+KEEP_DAYS = 14           # stories stay in data/news.json this long, then move to the archive
 SCORE_BATCH = 60         # headlines per importance request
 ARTICLE_BATCH = 4        # stories per writing request
 ARTICLE_MAX_PER_RUN = 16 # stories written per run (the rest wait for the next run)
@@ -459,6 +460,40 @@ def load(path, default):
         return default
 
 
+def archive_items(items):
+    """Move stories that left data/news.json into the permanent archive.
+
+    data/news/archive/YYYY-MM.json holds the full stories of each month.
+    data/news/archive/index.json holds a light list (id, date, titles, countries)
+    that the site's search and story pages use to find archived stories.
+    """
+    items = [p for p in items if p.get("summary_en")]
+    if not items:
+        return 0
+    ARCHIVE.mkdir(parents=True, exist_ok=True)
+    months = {}
+    for p in items:
+        months.setdefault(local_day(p["date"])[:7], []).append(p)
+    for month, new in months.items():
+        path = ARCHIVE / f"{month}.json"
+        old = {p["id"]: p for p in load(path, {}).get("items", [])}
+        old.update({p["id"]: p for p in new})
+        rows = sorted(old.values(), key=lambda x: x["date"], reverse=True)
+        path.write_text(json.dumps({"month": month, "count": len(rows), "items": rows},
+                                   ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    idx_path = ARCHIVE / "index.json"
+    idx = {r["id"]: r for r in load(idx_path, {}).get("items", [])}
+    for p in items:
+        idx[p["id"]] = {"id": p["id"], "date": p["date"], "lang": p["lang"], "source": p["source"],
+                        "countries": p.get("countries", []),
+                        "t": {l: p.get("title_" + l) or "" for l in LANGS}}
+    rows = sorted(idx.values(), key=lambda x: x["date"], reverse=True)
+    all_months = sorted({local_day(r["date"])[:7] for r in rows}, reverse=True)
+    idx_path.write_text(json.dumps({"updated": iso(now()), "months": all_months, "count": len(rows), "items": rows},
+                                   ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    return len(items)
+
+
 def main():
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     sources = json.loads(SOURCES.read_text(encoding="utf-8"))["feeds"]
@@ -568,6 +603,11 @@ def main():
         new_pub += [p for p in published if local_day(p["date"]) in pool_days
                     and local_day(p["date"]) not in fresh_days and p not in new_pub]
         new_pub.sort(key=lambda x: x["date"], reverse=True)
+        # stories older than KEEP_DAYS are not deleted: they move to the archive
+        kept = {p["id"] for p in new_pub}
+        aged = [p for p in published if p["id"] not in kept and local_day(p["date"]) < cutoff]
+        if aged:
+            print(f"::notice::archived {archive_items(aged)} older stories")
         published = new_pub
         days = {}
         for p in published:

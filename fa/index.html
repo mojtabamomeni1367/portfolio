@@ -82,6 +82,7 @@ select option{color:#12212E}
 #globe{overflow:hidden}@media (max-width:639px){#globe{height:min(100vw,460px)!important}}#globe .float-tooltip-kap,#globe .scene-tooltip{z-index:30!important}#globe canvas{outline:none}
 .glab{position:relative;width:8px;height:8px;pointer-events:none}.glab i{position:absolute;inset:0;border-radius:50%;background:#FFF1E2;box-shadow:0 0 4px 2px rgba(255,214,170,.95),0 0 12px 5px rgba(240,138,93,.7),0 0 26px 8px rgba(226,104,58,.35);animation:cap 2.8s ease-in-out infinite}.glab b{position:absolute;inset-inline-start:13px;top:50%;transform:translateY(-50%);font-size:11px;font-weight:500;color:#FFF3E6;white-space:nowrap;text-shadow:0 0 6px rgba(0,0,0,.95),0 1px 2px #000}@keyframes cap{50%{box-shadow:0 0 5px 3px rgba(255,214,170,1),0 0 16px 7px rgba(240,138,93,.8),0 0 34px 12px rgba(226,104,58,.4)}}@media (prefers-reduced-motion:reduce){.glab i{animation:none}}
 .gtip{font-size:13px;line-height:1.6;background:rgba(8,20,31,.96);border:1px solid rgba(240,138,93,.6);padding:10px 14px;color:#EDE7DB;min-width:180px}
+#sq{width:100%;background:transparent;color:#F3EEE4;border:0;border-bottom:2px solid var(--or);padding:.6rem 0;font-size:1.6rem;outline:none}#sq::placeholder{color:var(--dm);opacity:.8}#sq::-webkit-search-cancel-button{filter:invert(1)}
 .sb{overflow-y:auto;scrollbar-width:thin;scrollbar-color:var(--or) transparent;overscroll-behavior:auto}
 .sb::-webkit-scrollbar{width:6px}.sb::-webkit-scrollbar-thumb{background:var(--or)}.sb::-webkit-scrollbar-track{background:transparent}
 </style>
@@ -95,6 +96,7 @@ select option{color:#12212E}
       <a href="#top">خانه</a><a href="#about">درباره من</a><a href="#publications">انتشارات</a><a href="#news">اخبار</a><a href="#analysis">تحلیل</a><a href="#research">پژوهش</a><a href="#fieldwork">پژوهش میدانی</a><a href="#media">رسانه</a><a href="#contact">تماس</a>
     </nav>
     <div class="flex items-center gap-4">
+      <a id="sbtn" href="#/search" class="p-1 opacity-85 hover:opacity-100" aria-label="Search" title="Search"><i data-i="search"></i></a>
       <div id="lang" class="flex items-center gap-2 text-xs" role="group" aria-label="Language"><button data-l="en">EN</button><span class="opacity-40">|</span><button data-l="fa">FA</button><span class="opacity-40">|</span><button data-l="ar">AR</button></div>
       <button id="burger" class="lg:hidden p-1" aria-label="Open menu" aria-expanded="false"><i data-i="menu"></i></button>
     </div>
@@ -458,7 +460,7 @@ const D={
 'Home':['خانه','الرئيسية'],
 'News':['اخبار','أخبار'],'News and analysis':['اخبار و تحلیل','الأخبار والتحليل'],
 'Select a country to see the latest news and analysis about it.':['برای دیدن تازه‌ترین اخبار و تحلیل‌ها، یک کشور را انتخاب کنید.','اختر دولة لعرض آخر الأخبار والتحليلات عنها.'],
-'Top Stories':['مهم‌ترین اخبار','أهم الأخبار'],'Analyses':['تحلیل‌ها','التحليلات'],'No recent news for this country yet.':['هنوز خبر تازه‌ای دربارهٔ این کشور نیست.','لا توجد أخبار حديثة عن هذه الدولة بعد.'],'No analyses for this country yet.':['هنوز تحلیلی دربارهٔ این کشور منتشر نشده است.','لم يُنشر بعد أي تحليل عن هذه الدولة.'],'Research on this country is being prepared.':['پژوهش‌های مربوط به این کشور در حال آماده‌سازی است.','يجري إعداد الأبحاث المتعلقة بهذه الدولة.'],'Night':['شب','ليل'],'Day':['روز','نهار'],'Loading the globe…':['در حال بارگذاری کرهٔ زمین…','جارٍ تحميل الكرة الأرضية…'],'The globe could not be loaded.':['کرهٔ زمین بارگذاری نشد.','تعذّر تحميل الكرة الأرضية.'],'Imagery: NASA':['تصویر: ناسا','الصور: ناسا'],'Key News and Regional Developments':['مهم‌ترین اخبار و تحولات منطقه','أهم الأخبار والتطورات في المنطقة'],'Hover a country on the map and click to read news and analysis about it.':['نشانگر را روی یک کشور در نقشه ببرید و برای خواندن اخبار و تحلیل‌های آن کلیک کنید.','مرّر المؤشر فوق دولة على الخريطة وانقر لقراءة أخبارها وتحليلاتها.'],'Click a country to open its news and analysis.':['برای دیدن اخبار و تحلیل‌های هر کشور، روی آن کلیک کنید.','انقر على دولة لعرض أخبارها وتحليلاتها.'],"Iran's Domestic Affairs & Foreign Policy":['مسائل داخلی و سیاست خارجی ایران','الشؤون الداخلية والسياسة الخارجية لإيران'],'Political Issues & Developments in the Middle East & South Asia':['مسائل و تحولات سیاسی خاورمیانه و جنوب آسیا','القضايا والتطورات السياسية في الشرق الأوسط وجنوب آسيا'],'Daily Analysis':['تحلیل روز','تحليل اليوم'],'Open the topic page':['باز کردن صفحهٔ این موضوع','فتح صفحة هذا الموضوع'],'A new analysis every day on the Middle East and South Asia.':['هر روز یک تحلیل تازه دربارهٔ خاورمیانه و جنوب آسیا.','تحليل جديد كل يوم عن الشرق الأوسط وجنوب آسيا.'],'Latest analyses':['تازه‌ترین تحلیل‌ها','أحدث التحليلات'],'Topics':['موضوع‌ها','المواضيع'],'All topics':['همهٔ موضوع‌ها','كل المواضيع'],'The first analysis will be published soon.':['نخستین تحلیل به‌زودی منتشر می‌شود.','سيُنشر التحليل الأول قريباً.'],'No analyses on this topic yet.':['هنوز تحلیلی در این موضوع منتشر نشده است.','لم يُنشر بعد أي تحليل في هذا الموضوع.'],'Faculty of Middle East Studies,':['دانشکده مطالعات خاورمیانه،','كلية دراسات الشرق الأوسط،'],'University of Tehran':['دانشگاه تهران','جامعة طهران'],'University of Tehran · Faculty of Middle East Studies · Institute for Public Law, Lisbon (visiting)':['دانشگاه تهران · دانشکده مطالعات خاورمیانه · مؤسسهٔ حقوق عمومی لیسبون (پژوهشگر مهمان)','جامعة طهران · كلية دراسات الشرق الأوسط · معهد القانون العام، لشبونة (زائر)'],'All news':['همهٔ اخبار','كل الأخبار'],'Back to site':['بازگشت به سایت','العودة إلى الموقع'],'According to':['به نقل از','نقلاً عن'],'Source':['منبع','المصدر'],'Written from the source report.':['بر اساس گزارش منبع نوشته شده است.','كُتب استناداً إلى تقرير المصدر.'],'Translated by Gemini.':['ترجمه با Gemini.','الترجمة بواسطة Gemini.'],'This story is no longer available.':['این خبر دیگر در دسترس نیست.','هذا الخبر لم يعد متاحاً.'],'The most important stories of each day from the Middle East and South Asia.':['مهم‌ترین خبرهای هر روز از خاورمیانه و جنوب آسیا.','أهم أخبار كل يوم من الشرق الأوسط وجنوب آسيا.'],'Translated':['ترجمه','مترجم'],'Headline translated by Gemini':['عنوان با Gemini ترجمه شده است','العنوان مترجم بواسطة Gemini'],'Sending…':['در حال ارسال…','جارٍ الإرسال…'],'The message could not be sent. Please email me directly.':['پیام ارسال نشد. لطفاً مستقیم ایمیل بزنید.','تعذّر إرسال الرسالة. يرجى مراسلتي مباشرة عبر البريد الإلكتروني.'],'No recent items for this country yet.':['هنوز مطلب تازه‌ای برای این کشور نیست.','لا توجد مواد حديثة عن هذه الدولة بعد.'],'News will appear here shortly.':['اخبار به‌زودی اینجا نمایش داده می‌شود.','ستظهر الأخبار هنا قريباً.'],'Loading the latest news…':['در حال بارگذاری تازه‌ترین اخبار…','جارٍ تحميل آخر الأخبار…'],'Read more':['ادامه مطلب','اقرأ المزيد'],'Palestine/Israel':['فلسطین/اسرائیل','فلسطين/إسرائيل'],
+'Top Stories':['مهم‌ترین اخبار','أهم الأخبار'],'Analyses':['تحلیل‌ها','التحليلات'],'No recent news for this country yet.':['هنوز خبر تازه‌ای دربارهٔ این کشور نیست.','لا توجد أخبار حديثة عن هذه الدولة بعد.'],'No analyses for this country yet.':['هنوز تحلیلی دربارهٔ این کشور منتشر نشده است.','لم يُنشر بعد أي تحليل عن هذه الدولة.'],'Research on this country is being prepared.':['پژوهش‌های مربوط به این کشور در حال آماده‌سازی است.','يجري إعداد الأبحاث المتعلقة بهذه الدولة.'],'Night':['شب','ليل'],'Day':['روز','نهار'],'Loading the globe…':['در حال بارگذاری کرهٔ زمین…','جارٍ تحميل الكرة الأرضية…'],'The globe could not be loaded.':['کرهٔ زمین بارگذاری نشد.','تعذّر تحميل الكرة الأرضية.'],'Imagery: NASA':['تصویر: ناسا','الصور: ناسا'],'Key News and Regional Developments':['مهم‌ترین اخبار و تحولات منطقه','أهم الأخبار والتطورات في المنطقة'],'Hover a country on the map and click to read news and analysis about it.':['نشانگر را روی یک کشور در نقشه ببرید و برای خواندن اخبار و تحلیل‌های آن کلیک کنید.','مرّر المؤشر فوق دولة على الخريطة وانقر لقراءة أخبارها وتحليلاتها.'],'Click a country to open its news and analysis.':['برای دیدن اخبار و تحلیل‌های هر کشور، روی آن کلیک کنید.','انقر على دولة لعرض أخبارها وتحليلاتها.'],"Iran's Domestic Affairs & Foreign Policy":['مسائل داخلی و سیاست خارجی ایران','الشؤون الداخلية والسياسة الخارجية لإيران'],'Political Issues & Developments in the Middle East & South Asia':['مسائل و تحولات سیاسی خاورمیانه و جنوب آسیا','القضايا والتطورات السياسية في الشرق الأوسط وجنوب آسيا'],'Daily Analysis':['تحلیل روز','تحليل اليوم'],'Open the topic page':['باز کردن صفحهٔ این موضوع','فتح صفحة هذا الموضوع'],'A new analysis every day on the Middle East and South Asia.':['هر روز یک تحلیل تازه دربارهٔ خاورمیانه و جنوب آسیا.','تحليل جديد كل يوم عن الشرق الأوسط وجنوب آسيا.'],'Latest analyses':['تازه‌ترین تحلیل‌ها','أحدث التحليلات'],'Topics':['موضوع‌ها','المواضيع'],'All topics':['همهٔ موضوع‌ها','كل المواضيع'],'The first analysis will be published soon.':['نخستین تحلیل به‌زودی منتشر می‌شود.','سيُنشر التحليل الأول قريباً.'],'No analyses on this topic yet.':['هنوز تحلیلی در این موضوع منتشر نشده است.','لم يُنشر بعد أي تحليل في هذا الموضوع.'],'Faculty of Middle East Studies,':['دانشکده مطالعات خاورمیانه،','كلية دراسات الشرق الأوسط،'],'University of Tehran':['دانشگاه تهران','جامعة طهران'],'University of Tehran · Faculty of Middle East Studies · Institute for Public Law, Lisbon (visiting)':['دانشگاه تهران · دانشکده مطالعات خاورمیانه · مؤسسهٔ حقوق عمومی لیسبون (پژوهشگر مهمان)','جامعة طهران · كلية دراسات الشرق الأوسط · معهد القانون العام، لشبونة (زائر)'],'All news':['همهٔ اخبار','كل الأخبار'],'Back to site':['بازگشت به سایت','العودة إلى الموقع'],'According to':['به نقل از','نقلاً عن'],'Source':['منبع','المصدر'],'Written from the source report.':['بر اساس گزارش منبع نوشته شده است.','كُتب استناداً إلى تقرير المصدر.'],'Translated by Gemini.':['ترجمه با Gemini.','الترجمة بواسطة Gemini.'],'This story is no longer available.':['این خبر دیگر در دسترس نیست.','هذا الخبر لم يعد متاحاً.'],'The most important stories of each day from the Middle East and South Asia.':['مهم‌ترین خبرهای هر روز از خاورمیانه و جنوب آسیا.','أهم أخبار كل يوم من الشرق الأوسط وجنوب آسيا.'],'Translated':['ترجمه','مترجم'],'Headline translated by Gemini':['عنوان با Gemini ترجمه شده است','العنوان مترجم بواسطة Gemini'],'Sending…':['در حال ارسال…','جارٍ الإرسال…'],'The message could not be sent. Please email me directly.':['پیام ارسال نشد. لطفاً مستقیم ایمیل بزنید.','تعذّر إرسال الرسالة. يرجى مراسلتي مباشرة عبر البريد الإلكتروني.'],'No recent items for this country yet.':['هنوز مطلب تازه‌ای برای این کشور نیست.','لا توجد مواد حديثة عن هذه الدولة بعد.'],'News will appear here shortly.':['اخبار به‌زودی اینجا نمایش داده می‌شود.','ستظهر الأخبار هنا قريباً.'],'Loading the latest news…':['در حال بارگذاری تازه‌ترین اخبار…','جارٍ تحميل آخر الأخبار…'],'Read more':['ادامه مطلب','اقرأ المزيد'],'Search':['جستجو','بحث'],'Search the site':['جستجو در سایت','البحث في الموقع'],'Search news and analyses…':['جستجو در اخبار و تحلیل‌ها…','ابحث في الأخبار والتحليلات…'],'Search news and analyses by a word, a name or a country.':['اخبار و تحلیل‌ها را با یک کلمه، نام یا کشور جستجو کنید.','ابحث في الأخبار والتحليلات بكلمة أو اسم أو دولة.'],'No results found.':['نتیجه‌ای پیدا نشد.','لم يتم العثور على نتائج.'],'results':['نتیجه','نتيجة'],'Searching…':['در حال جستجو…','جارٍ البحث…'],'News archive':['آرشیو اخبار','أرشيف الأخبار'],'Older news, month by month.':['اخبار قدیمی‌تر، ماه به ماه.','الأخبار الأقدم، شهراً بشهر.'],'No news in this month.':['در این ماه خبری نیست.','لا توجد أخبار في هذا الشهر.'],'Palestine/Israel':['فلسطین/اسرائیل','فلسطين/إسرائيل'],
 'Sep 2026':['سپتامبر ۲۰۲۶','سبتمبر 2026'],'Aug 2026':['اوت ۲۰۲۶','أغسطس 2026'],'Jul 2026':['ژوئیهٔ ۲۰۲۶','يوليو 2026'],'Jun 2026':['ژوئن ۲۰۲۶','يونيو 2026'],
 'Regional talks resume as mediators seek a lasting ceasefire':['مذاکرات منطقه‌ای از سر گرفته شد؛ میانجی‌ها به دنبال آتش‌بسی پایدارند','استئناف المحادثات الإقليمية بينما يسعى الوسطاء إلى وقف دائم لإطلاق النار'],
 'Refugee arrivals rise along the eastern border, agencies warn of funding gaps':['ورود پناهندگان در مرز شرقی افزایش یافت؛ نهادها از کمبود بودجه هشدار می‌دهند','ارتفاع أعداد اللاجئين عند الحدود الشرقية والوكالات تحذّر من فجوات التمويل'],
@@ -671,7 +673,7 @@ function closeTP(){hideTP();try{location.hash='#top'}catch(e){}}
 document.querySelectorAll('.topicBtn').forEach(b=>{b.onclick=()=>openTP(b.getAttribute('data-tp'))});
 function route(){const mt=location.hash.match(/^#\/topic\/([\w-]+)/);if(!mt&&curTP)hideTP();if(routeN())return true;const m=location.hash.match(/^#\/c\/(\w+)/);if(m){showC(m[1]);return true}if(mt){hideN();hideC();showTP(mt[1]);return true}return false}
 addEventListener('hashchange',()=>{if(!route()){hideC();hideTP();hideN()}});
-addEventListener('keydown',e=>{if(e.key==='Escape'){if(curN){location.hash=curN==='list'?'#news':'#/news'}else if(curC)closeC();else if(curTP)closeTP();else closeM()}});
+addEventListener('keydown',e=>{if(e.key==='Escape'){if(curN){location.hash=curN==='search'?SBACK:curN==='list'?'#news':'#/news'}else if(curC)closeC();else if(curTP)closeTP();else closeM()}});
 
 /* Tabs, publications, media */
 function tabs(el,items,cb){el.innerHTML=items.map((a,i)=>'<button role="tab" class="chip" aria-selected="'+(i===0)+'" data-k="'+a[0]+'">'+a[1]+'</button>').join('');
@@ -741,15 +743,21 @@ const fmtDay=d=>{try{return new Date(d).toLocaleDateString(LG==='fa'?'fa-IR':LG=
 const back=(href,label)=>'<a href="'+href+'" id="cvx" class="lab flex items-center gap-2 dm hover:text-white w-max"><i data-i="arrow" class="bk"></i>'+T(label)+'</a>';
 function renderN(){
  let h;
- if(curN==='list'){
-  const items=vNews(),groups=[];
+ if(curN==='search'){renderS();return}
+ if(curN==='list'||curN.startsWith('m:')){
+  const mo=curN.startsWith('m:')?curN.slice(2):null;
+  if(mo&&!ARCM[mo]){arcMonth(mo).then(()=>{if(curN==='m:'+mo)renderN()})}
+  if(!mo&&!ARCI){arcIndex().then(()=>{if(curN==='list')renderN()})}
+  const items=mo?(ARCM[mo]||[]).filter(inLG):vNews(),groups=[];
   items.forEach(x=>{const k=dayKey(x.date);let g=groups[groups.length-1];if(!g||g.k!==k){g={k,d:x.date,l:[]};groups.push(g)}g.l.push(x)});
-  h='<div class="max-w-4xl mx-auto px-6 py-10">'+topRow(back('#news','Back to site'))+'<h2 class="disp text-5xl md:text-6xl mt-10">'+T('All news')+'</h2><p class="mt-3 dm">'+T('The most important stories of each day from the Middle East and South Asia.')+'</p>'
+  h='<div class="max-w-4xl mx-auto px-6 py-10">'+topRow(mo?back('#/news','All news'):back('#news','Back to site'))+'<h2 class="disp text-5xl md:text-6xl mt-10">'+(mo?esc(fmtMo(mo)):T('All news'))+'</h2><p class="mt-3 dm">'+T(mo?'News archive':'The most important stories of each day from the Middle East and South Asia.')+'</p>'
    +(groups.length?groups.map(g=>'<h3 class="lab mt-14 pb-3 border-b" style="color:var(--or2);border-color:rgba(255,255,255,.2)">'+fmtDay(g.d)+'</h3>'+g.l.map(x=>'<article class="py-5 border-b" style="border-color:rgba(255,255,255,.1)">'+nItem(x,1)+'<p class="mt-2 opacity-75" dir="auto">'+esc(x['summary_'+LG]||'')+'</p></article>').join('')).join('')
-   :'<p class="mt-12 dm">'+T(NREADY?'News will appear here shortly.':'Loading the latest news…')+'</p>')+'</div>';
+   :'<p class="mt-12 dm">'+T(mo?(ARCM[mo]?'No news in this month.':'Loading the latest news…'):NREADY?'News will appear here shortly.':'Loading the latest news…')+'</p>')
+   +(!mo&&ARCI&&ARCI.months.length?'<h3 class="disp text-3xl mt-20">'+T('News archive')+'</h3><p class="mt-2 dm">'+T('Older news, month by month.')+'</p><div class="mt-6 flex flex-wrap gap-2">'+ARCI.months.map(m=>'<a href="#/news/'+m+'" class="mini">'+esc(fmtMo(m))+'</a>').join('')+'</div>':'')+'</div>';
  }else{
-  const x=NEWS.find(n=>n.id===curN);
-  if(!x||!inLG(x)){h='<div class="max-w-3xl mx-auto px-6 py-10">'+topRow(back('#/news','All news'))+'<p class="mt-14 dm">'+T(NREADY?'This story is no longer available.':'Loading the latest news…')+'</p></div>'}
+  const x=findN(curN);
+  if(!x&&NREADY&&!ARCTRY[curN]){const id=curN;ARCTRY[id]=1;arcStory(id).then(()=>{if(curN===id)renderN()})}
+  if(!x||!inLG(x)){h='<div class="max-w-3xl mx-auto px-6 py-10">'+topRow(back('#/news','All news'))+'<p class="mt-14 dm">'+T(NREADY&&ARCTRY[curN]===2?'This story is no longer available.':'Loading the latest news…')+'</p></div>'}
   else{
    const tr=LG!==x.lang,body=x['body_'+LG]||[],cs=(x.countries||[]).map(c=>{const t=CT.find(y=>y[0]===c);return t?'<button type="button" data-c="'+c+'" class="mini">'+T(t[1])+'</button>':''}).join('');
    h='<article class="max-w-3xl mx-auto px-6 py-10">'+topRow(back('#/news','All news'))
@@ -764,9 +772,64 @@ function renderN(){
  $('#cvb').innerHTML=h;icons($('#cvb'));tr($('#cvb'));
  $('#cvb').querySelectorAll('button[data-c]').forEach(b=>b.onclick=()=>openC(b.dataset.c));
 }
-function showN(v){curC=null;curN=v;renderN();$('#cv').classList.remove('hidden');$('#cv').scrollTop=0;document.body.style.overflow='hidden';const b=$('#cvx');if(b)b.focus()}
-function hideN(){if(curN===null)return;curN=null;if(!curC){$('#cv').classList.add('hidden');document.body.style.overflow=''}}
-function routeN(){const m=location.hash.match(/^#\/n\/(\w+)/);if(m){showN(m[1]);return true}if(location.hash==='#/news'){showN('list');return true}return false}
+function showN(v){curC=null;if(curN==='search'&&v!=='search')SQ='';if(v==='search'&&curN!=='search')$('#cvb').innerHTML='';curN=v;renderN();$('#cv').classList.remove('hidden');$('#cv').scrollTop=0;document.body.style.overflow='hidden';const b=$('#cvx');if(b)b.focus()}
+function hideN(){if(curN===null)return;if(curN==='search')SQ='';curN=null;if(!curC){$('#cv').classList.add('hidden');document.body.style.overflow=''}}
+function routeN(){const h=location.hash,m=h.match(/^#\/n\/(\w+)/);if(m){showN(m[1]);return true}if(h==='#/news'){showN('list');return true}
+ const mm=h.match(/^#\/news\/(\d{4}-\d{2})$/);if(mm){showN('m:'+mm[1]);return true}
+ const sm=h.match(/^#\/search(?:\/(.*))?$/);if(sm){let q='';try{q=decodeURIComponent(sm[1]||'')}catch(e){}if(curN!=='search'||q!==SQ){SQ=q;if($('#sq'))$('#sq').value=q}if(curN!=='search')showN('search');else renderS();return true}
+ return false}
+
+/* News archive: stories older than two weeks live in data/news/archive (never deleted) */
+let ARCI=null,ARCP=null;const ARCM={},ARCS={},ARCTRY={};
+const getJ=u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const findN=id=>NEWS.find(n=>n.id===id)||ARCS[id];
+const fmtMo=m=>{try{return new Date(m+'-15T12:00:00Z').toLocaleDateString(LG==='fa'?'fa-IR-u-ca-gregory':LG==='ar'?'ar-u-nu-latn':'en-GB',{month:'long',year:'numeric',timeZone:'UTC'})}catch(e){return m}};
+function arcIndex(){if(!ARCP)ARCP=getJ('/data/news/archive/index.json').then(d=>{ARCI={months:(d&&d.months)||[],items:((d&&d.items)||[]).map(r=>{const o={id:r.id,date:r.date,lang:r.lang,source:r.source,countries:r.countries||[],type:'news',arc:1};['en','fa','ar'].forEach(l=>{if(r.t&&r.t[l])o['title_'+l]=r.t[l]});o.title=o['title_'+r.lang]||o.title_en||'';return o})};return ARCI});return ARCP}
+function arcMonth(m){if(ARCM[m])return Promise.resolve(ARCM[m]);return getJ('/data/news/archive/'+m+'.json').then(d=>{ARCM[m]=((d&&d.items)||[]).map(x=>({...x,type:'news'}));ARCM[m].forEach(x=>{ARCS[x.id]=x});return ARCM[m]})}
+function arcStory(id){return arcIndex().then(ix=>{const r=ix.items.find(x=>x.id===id);return r?arcMonth(dayKey(r.date).slice(0,7)):null}).then(()=>{ARCTRY[id]=2})}
+
+/* Site search (#/search/<words>): news, archived news and analyses, in the page's language.
+   Persian and Arabic letters are matched loosely (ي/ی, ك/ک, أ/ا, ة/ه, diacritics, half-spaces, digits). */
+let SQ='',SBACK='#top',ST=null;
+const NZ=s=>(s||'').toLowerCase()
+ .replace(/[ً-ٰٟـ‌‍‎‏]/g,'')
+ .replace(/[يى]/g,'ی').replace(/ك/g,'ک').replace(/[أإآٱ]/g,'ا').replace(/ؤ/g,'و').replace(/ئ/g,'ی').replace(/ة/g,'ه')
+ .replace(/[۰-۹]/g,d=>'۰۱۲۳۴۵۶۷۸۹'.indexOf(d)).replace(/[٠-٩]/g,d=>'٠١٢٣٤٥٦٧٨٩'.indexOf(d))
+ .replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+const cName=c=>{const t=CT.find(y=>y[0]===c);return t?[t[1]].concat(D[t[1]]||[]).join(' '):''};
+function sHay(x){if(x._h)return x._h;
+ const isA=x.type==='analysis',vs=isA?Object.values(x.versions||{}):[x];
+ const tt=isA?vs.map(v=>v.title).join(' '):['en','fa','ar'].map(l=>x['title_'+l]||'').join(' ')+' '+(x.title||'');
+ const rest=(isA?vs.map(v=>(v.summary||'')+' '+(v.focus_keyword||'')).join(' '):['en','fa','ar'].map(l=>x['summary_'+l]||'').join(' ')+' '+(x.source||''))+' '+(x.countries||[]).map(cName).join(' ');
+ return x._h=[NZ(tt),NZ(rest)]}
+function sRun(q){
+ const terms=NZ(q).split(' ').filter(Boolean);if(!terms.length)return null;
+ const ids=new Set(NEWS.map(n=>n.id)),pool=vAna().concat(vNews(),ARCI?ARCI.items.filter(x=>!ids.has(x.id)&&inLG(x)):[]);
+ const out=[];
+ pool.forEach(x=>{const [t,r]=sHay(x);let sc=0;for(const w of terms){if(t.includes(w))sc+=3;else if(r.includes(w))sc+=1;else return}
+  if(x.type==='analysis')sc+=2;out.push([sc,x])});
+ return out.sort((a,b)=>b[0]-a[0]||String(b[1].date).localeCompare(String(a[1].date))).map(a=>a[1])}
+function sCard(x){const isA=x.type==='analysis',v=isA?anaFor(x):x,sum=isA?v.summary:x['summary_'+LG];
+ return '<article class="py-5 border-b" style="border-color:rgba(255,255,255,.1)">'+nItem(x,1)+(sum?'<p class="mt-2 opacity-75" dir="auto">'+esc(sum.length>260?sum.slice(0,257)+'…':sum)+'</p>':'')+'</article>'}
+function renderS(){
+ if(!$('#sq')){
+  $('#cvb').innerHTML='<div class="max-w-4xl mx-auto px-6 py-10">'+topRow(back(esc(SBACK),'Back to site'))
+   +'<h2 class="disp text-5xl md:text-6xl mt-10">'+T('Search the site')+'</h2>'
+   +'<form id="sform" role="search" class="mt-8" onsubmit="return false"><input id="sq" type="search" dir="auto" autocomplete="off" enterkeyhint="search" aria-label="'+esc(T('Search'))+'" placeholder="'+esc(T('Search news and analyses…'))+'"></form>'
+   +'<p id="scount" class="mt-4 text-sm dm" aria-live="polite"></p><div id="sres" class="mt-2"></div></div>';
+  icons($('#cvb'));tr($('#cvb'));
+  const i=$('#sq');i.value=SQ;
+  i.oninput=()=>{SQ=i.value;clearTimeout(ST);ST=setTimeout(()=>{try{history.replaceState(null,'','#/search'+(SQ.trim()?'/'+encodeURIComponent(SQ.trim()):''))}catch(e){}renderS()},160)};
+  setTimeout(()=>i.focus(),30)}
+ if(!ARCI)arcIndex().then(()=>{if(curN==='search')renderS()});
+ const res=sRun(SQ),c=$('#scount'),box=$('#sres');
+ if(!res){c.textContent='';box.innerHTML='<p class="mt-6 dm">'+T('Search news and analyses by a word, a name or a country.')+'</p>';return}
+ const more=!NREADY||!ARCI;
+ c.textContent=res.length?nf(res.length)+' '+T('results')+(more?' · '+T('Searching…'):''):'';
+ box.innerHTML=res.length?res.slice(0,80).map(sCard).join(''):'<p class="mt-6 dm">'+T(more?'Searching…':'No results found.')+'</p>'}
+document.addEventListener('keydown',e=>{const t=e.target,typing=t&&(t.tagName==='INPUT'||t.tagName==='TEXTAREA'||t.tagName==='SELECT'||t.isContentEditable);
+ if(((e.key==='/'&&!typing)||((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'))&&curN!=='search'){e.preventDefault();location.hash='#/search'}});
+$('#sbtn').addEventListener('click',()=>{const h=location.hash;if(!/^#\/(search|n\/|news)/.test(h))SBACK=h&&!h.startsWith('#/')?h:'#top'});
 
 
 /* Research globe (globe.gl, loaded only when the section comes into view) */
