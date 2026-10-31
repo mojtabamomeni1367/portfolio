@@ -1,6 +1,41 @@
 {
- "count": 4,
+ "count": 5,
  "items": [
+  {
+   "id": "bab-el-mandeb-strait-2026",
+   "date": "2026-10-31",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Bab el-Mandeb Strait: How 2 Maritime Chokepoints Become Leverage for Iran and the Houthis",
+     "summary": "Influencing global commerce does not always require closing a waterway. Sometimes, making passage unpredictable is enough. The significance of the Bab el-Mandeb Strait for the Houthis begins with this possibility: converting the capacity to threaten shipping into bargaining power. Amid Iran's confrontation with the United States and Israel, that capacity can transmit pressure from military operations to commercial costs and government calculations, without necessarily stopping maritime traffic altogether.",
+     "focus_keyword": "Bab el-Mandeb Strait",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-strait-2026-en.html"
+    },
+    "fa": {
+     "title": "تنگه باب المندب؛ ۲ گلوگاه دریایی چگونه به اهرم فشار ایران و حوثی‌ها تبدیل می‌شوند؟",
+     "summary": "برای تأثیرگذاری بر اقتصاد جهانی، همیشه لازم نیست یک آبراه کاملا بسته شود؛ گاهی کافی است عبور از آن دیگر قابل پیش‌بینی نباشد. اهمیت تنگه باب المندب برای حوثی‌ها دقیقا از همین نقطه آغاز می‌شود: تبدیل توان ایجاد ناامنی به قدرت چانه‌زنی. در شرایط تقابل ایران با آمریکا و اسرائیل، این ظرفیت می‌تواند فشار را از میدان نظامی به هزینه تجارت و محاسبات دولت‌ها منتقل کند، بدون آنکه لزوما به توقف کامل کشتیرانی بینجامد.",
+     "focus_keyword": "تنگه باب المندب",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-strait-2026-fa.html"
+    },
+    "ar": {
+     "title": "مضيق باب المندب؛ كيف تستخدم إيران والحوثيون ورقة ٢ من الممرات البحرية؟",
+     "summary": "لا يتطلب التأثير في التجارة العالمية إغلاق ممر بحري بالكامل. فقد يكفي أحيانا أن يصبح العبور فيه غير قابل للتوقع. ومن هنا تبدأ أهمية مضيق باب المندب بالنسبة إلى الحوثيين: تحويل القدرة على تهديد الملاحة إلى قوة تفاوضية. وفي سياق مواجهة إيران مع الولايات المتحدة وإسرائيل، يمكن لهذه القدرة نقل الضغط من الميدان العسكري إلى تكاليف التجارة وحسابات الحكومات، دون أن تؤدي بالضرورة إلى توقف حركة السفن بصورة كاملة أو دائمة.",
+     "focus_keyword": "مضيق باب المندب",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-strait-2026-ar.html"
+    }
+   }
+  },
   {
    "id": "iran-us-israel-war-response-2026",
    "date": "2026-10-31",
