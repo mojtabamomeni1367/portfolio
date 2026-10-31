@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:00:19Z",
+ "updated": "2026-10-31T07:10:00Z",
  "items": [
   {
    "id": "e13a203d3372",
@@ -2287,6 +2287,267 @@
    ],
    "desc": "After the Spain train crash, the Indian Embassy in Madrid issued the emergency helpline number +34 650 339 008, the email cons.madrid@mea.gov.in, and Renfe: 900 10 10 20, and Iryo: 900 001 403",
    "score": 1
+  },
+  {
+   "id": "61fa7006f1ad",
+   "title": "The selective solidarity at the heart of India’s voter protests",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
+   "date": "2026-10-31T06:08:19Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.",
+   "score": 3
+  },
+  {
+   "id": "dd178e3791ef",
+   "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+   "date": "2026-10-31T05:48:25Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.",
+   "score": 5
+  },
+  {
+   "id": "b4e7dbd1f15d",
+   "title": "Mohammed Deif, rare footage and October 7 documents",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
+   "date": "2026-10-31T05:07:34Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Rare footage obtained by Al Jazeera offers a look at the life of former Hamas military commander, Mohammed Deif.",
+   "score": 4
+  },
+  {
+   "id": "8afbb59b1482",
+   "title": "Iran says four tankers on fire after striking mines in Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+   "date": "2026-10-31T03:55:48Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+   "score": 8,
+   "dup_of": "584ff4ee191b"
+  },
+  {
+   "id": "cf82d110ef80",
+   "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+   "date": "2026-10-31T06:00:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehran, the mountains of south-west Yemen, the steppe of the Donbas, the still bloody wasteland that is Gaza and even the elegant boulevards of Paris and Milan have a common thread. One cannot understand one set of conflicts without weaving them into another, and it is this very interdependence that is making ea",
+   "score": 3
+  },
+  {
+   "id": "7d04fbd525d7",
+   "title": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+   "date": "2026-10-31T05:00:33Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "With 180,000 eligible voters, Bedouin turnout was key in Palestinian-led parties winning unprecedented 19 seats Last year, Umm Khaled Fatoum returned from volunteering in a Jewish-Arab support centre for victims of war to find bulldozers tearing into her son’s house in the Bedouin village of Azzarnug. The demolition crew, who arrived under police escort, did not even allow them to remove furniture or solar panels before reducing the home and its contents to a pile of rubble. Continue reading...",
+   "score": 6,
+   "dup_of": "9d821a2575b2"
+  },
+  {
+   "id": "206bf9312d3a",
+   "title": "Israeli strike on Nuseirat refugee camp in central Gaza kills Palestinian",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-nuseirat-refugee-camp-central-gaza-kills-palestinian",
+   "date": "2026-10-31T06:45:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli strike on Nuseirat refugee camp in central Gaza kills Palestinian An Israeli airstrike on Nuseirat refugee camp in central Gaza killed a Palestinian man, Diaa Abu al-Rous, according to Quds News Network (QNN). Another Palestinian, Arafat al-Ar'eer, succumbed to wounds sustained in an Israeli airstrike on the Tal al-Hawa neighbourhood, south of Gaza City, according to QNN.",
+   "score": 6
+  },
+  {
+   "id": "1d10bd9a7777",
+   "title": "Palestinian man injured in Israeli strike on Gaza succumbs, report says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-injured-israeli-strike-gaza-succumbs-report-says",
+   "date": "2026-10-31T06:22:31Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian man injured in Israeli strike on Gaza succumbs, report says A Palestinian man, Arafat al-Ar'eer, has succumbed to wounds sustained in an Israeli airstrike on the Tal al-Hawa neighbourhood, south of Gaza City, Quds News Network reported. On Friday evening, Wafa news agency reported that at least 12 Palestinians, including a man, his wife and their children, were injured in an Israeli drone strike targeting the al-Maslakh area, west of Khan Younis, in the southern Gaza Strip. Breaking | Palestinian Arafat al-Ar'eer succumbs to wounds sustained in an earlier Israeli airstrike on the T",
+   "score": 5
+  },
+  {
+   "id": "7c560921efb9",
+   "title": "Saudi-led coalition forces intercept Houthi drone over Riyadh region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-force-intercepts-houthi-drone-over-riyadh-region",
+   "date": "2026-10-31T06:11:16Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition forces intercept Houthi drone over Riyadh region Saudi-led coalition forces have intercepted and destroyed a drone over Riyadh region, according to Major General Turki al-Maliki, the spokesperson for the coalition. Hours earlier, al-Maliki announced a drone each was shot down in Saudi Arabia’s Eastern Province and in its southern region.",
+   "score": 8
+  },
+  {
+   "id": "356dc675ecf0",
+   "title": "Israeli air strikes target southern Lebanese town of Kfar Tebnit",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-target-southern-lebanese-town-kfar-tebnit",
+   "date": "2026-10-31T05:59:55Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Israeli air strikes target southern Lebanese town of Kfar Tebnit An Israeli air attack has targeted the town of Kfar Tebnit in the Nabatieh district, southern Lebanon, Al Jazeera reported. The Israeli military also continued demolitions and artillery shelling in towns in the Bint Jbeil and Tyre districts in the south, large parts of which continues to be occupied by Israeli forces, the report added.",
+   "score": 7
+  },
+  {
+   "id": "3a6870876a90",
+   "title": "Palestinian journalist returns home after 15 months in Israeli detention",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-journalist-returns-home-after-15-months-israeli-detention",
+   "date": "2026-10-31T05:26:15Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian journalist returns home after 15 months in Israeli detention Palestinian journalist Farah Abu Ayyash has returned home to her family following 450 days of detention in Israeli prisons, according to a report by the Islamic Republic News Agency (Irna). Abu Ayyash, a West Bank correspondent for Iran's Tasnim News Agency, was freed on Thursday night after the Ofer Prison military court ordered her release, dismissing the charges brought against her after she served 15 months under administrative detention. According to Irna, Abu Ayyash was initially detained on 6 August 2025, during an",
+   "score": 4
+  },
+  {
+   "id": "77a2e2920384",
+   "title": "Iran warns of 'earth-shattering blow' as Araghchi slams Germany's war stance",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-earth-shattering-blow-araghchi-slams-germanys-war-stance",
+   "date": "2026-10-31T04:58:52Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran warns of 'earth-shattering blow' as Araghchi slams Germany's war stance Iranian Foreign Minister Abbas Aragchi has criticised Germany for supporting Israel-US war on Iran last year and now complaining the conflict has added has added more than 100 billion euros ($112bn) to Europe’s energy costs. In a post on X, Araghchi said that when Israel-US bombings of Iran began last year, German Chancellor Friedrich Merz hailed them as \"doing Europe's dirty work\". \"100bn Euro is nothing compared to the Earth-shattering blow Iran's Powerful Armed Forces will deal against those who dare harm our peopl",
+   "score": 8,
+   "dup_of": "db0f73103f9e"
+  },
+  {
+   "id": "8bc757758005",
+   "title": "'We must be so strong that no dares covet our land', Pezeshkian says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-must-be-so-strong-no-dares-covet-our-land-pezeshkian-says",
+   "date": "2026-10-31T04:26:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "'We must be so strong that no dares covet our land', Pezeshkian says Iranian President Masoud Pezeshkian has reminded his countrymen that “we must be so strong that no one dares to covet our land and identity”. In a post on X marking forthcoming National Youth Day on 8 November, Pezeshkian recalled the \"courage of Mohammad Hossein Fahmideh\", a 13-year-old Iranian boy killed during the Iran-Iraq war, and paid tribute to children killed in Minab, Lamerd and other parts of the country. Pezeshkian said: \"The names and memories of our children remain in our minds and shape our collective historical",
+   "score": 6
+  },
+  {
+   "id": "41fd8efcf6fe",
+   "title": "SHC moved against construction on Karachi's Nehr-i-Khayyam",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041072/shc-moved-against-construction-on-karachis-nehr-i-khayyam",
+   "date": "2026-10-31T03:56:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Jamaat-i-Islami, along with some Clifton residents, moved the Sindh High Court against the provincial government for carrying out construction and development activities on Nehr-i-Khayyam. Leader of the Opposition in the City Council Advocate Saifuddin and three others filed a petition, citing the chief secretary, local government secretary, Karachi Metropolitan Corporation, Karachi Development Authority, Karachi Water & Sewage Corporation, Sindh Environmental Protection Agency and Boat Basin SHO as respondents. They submitted in the petition that they were aggrieved by the ongoin",
+   "score": 2
+  },
+  {
+   "id": "f80a50ae9b2e",
+   "title": "Jaishankar, Anita Anand agree that Modi’s Canada visit in December will be ‘another building block’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+   "date": "2026-10-31T06:18:42Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting",
+   "score": 5
+  },
+  {
+   "id": "a9d22a1cd737",
+   "title": "Oman rescues 25 from burning ship, Iran halts tankers",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/oman-rescues-25-from-burning-ship-iran-halts-tankers/article71648359.ece",
+   "date": "2026-10-31T05:58:34Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "OMN"
+   ],
+   "desc": "Tehran has restricted maritime traffic through the strait since the West Asia war erupted on February 28 with U.S.-Israeli strikes on the Islamic republic",
+   "score": 8,
+   "dup_of": "7d8ef33f0c6e"
+  },
+  {
+   "id": "e62f50af73f7",
+   "title": "زمستان ۱۴۰۵؛ آیا ایران با کمبود گاز و برق روبه‌رو خواهد شد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmd6d3q0j44go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T06:37:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "با نزدیک شدن فصل سرما، هشدارها درباره کمبود گاز و برق در ایران بار دیگر شدت گرفته است. جنگ اخیر و آسیب به بخشی از زیرساخت‌های انرژی، نگرانی‌ها درباره توان کشور برای عبور از اوج مصرف زمستانی را افزایش داده، اما همزمان مقام‌ها و پیمانکاران از پیشرفت بازسازی و بازگشت بخشی از ظرفیت ازدست‌رفته خبر می‌دهند. در چنین شرایطی، پرسش اصلی این است که آیا ایران در آستانه یک زمستان سخت قرار دارد یا می‌تواند با مدیریت مصرف و تکمیل بازسازی‌ها از بحران گسترده انرژی جلوگیری کند؟",
+   "score": 5
+  },
+  {
+   "id": "581a05ae1ba7",
+   "title": "چرا خطوط لوله نفت و گاز سوریه بارها دچار اختلال می‌شوند؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c8g4707rrrlzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T05:32:36Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "زیرساخت‌های نفت و گاز سوریه از ماه اوت تاکنون با مجموعه‌ای از انفجارها، حملات و حوادث دیگر روبه‌رو شده‌اند، حوادثی که خطوط لوله از شمال شرق این کشور تا سواحل مدیترانه را تحت تاثیر قرار داده‌اند.",
+   "score": 5
+  },
+  {
+   "id": "da3af22060f1",
+   "title": "أزمة سوريا الاقتصادية: ظلامٌ يخيّم على بيوتها، وعائلاتٌ لا تأكل سوى وجبة واحدة يومياً",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c95ynelrzd75o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T05:46:32Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "إنهاء الدعم وارتفاع الأسعار يؤديان إلى تزايد الاستياء، ما يضع الدعم الموجه لحكومة أحمد الشرع على المحك",
+   "score": 6,
+   "dup_of": "f1d1ce3d9d32"
   }
  ]
 }
