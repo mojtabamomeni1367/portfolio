@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:10:00Z",
+ "updated": "2026-10-31T09:57:23Z",
  "items": [
   {
    "id": "e13a203d3372",
@@ -2548,6 +2548,115 @@
    "desc": "إنهاء الدعم وارتفاع الأسعار يؤديان إلى تزايد الاستياء، ما يضع الدعم الموجه لحكومة أحمد الشرع على المحك",
    "score": 6,
    "dup_of": "f1d1ce3d9d32"
+  },
+  {
+   "id": "89bfb63e0305",
+   "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
+   "date": "2026-10-31T09:26:46Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Group calls charges 'unjust', says weapons were meant to be used against Israeli forces in south Lebanon.",
+   "score": 6,
+   "dup_of": "c44adc298b42"
+  },
+  {
+   "id": "0e8b5c6b490f",
+   "title": "A UN protection force must be urgently deployed to Palestine",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
+   "date": "2026-10-31T08:57:35Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel is making Palestinian existence in Palestine increasingly impossible.",
+   "score": 4
+  },
+  {
+   "id": "94121860f369",
+   "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
+   "date": "2026-10-31T08:08:30Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Analysts say the seizure of state arsenals, external backing and extensive military evolution has helped the Houthis.",
+   "score": 7
+  },
+  {
+   "id": "52daaa653eab",
+   "title": "Prime suspect in Gujranwala bride's murder killed in alleged exchange of fire, claims CCD",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041169/prime-suspect-in-gujranwala-brides-murder-killed-in-alleged-exchange-of-fire-claims-ccd",
+   "date": "2026-10-31T09:18:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Crime Control Department (CCD) claimed on Saturday that the prime suspect in the murder of a bride on her wedding day in Gujranwala district was killed during an alleged exchange of fire. According to a CCD spokesperson, the prime suspect, Sarfraz, had allegedly been hiding in Karachi with the other suspects before being arrested. The spokesperson claimed that while he was being transported back by the CCD, the convoy came under attack. Sarfraz was allegedly killed by gunfire from his own accomplices during the exchange of fire. The spokesperson further claimed that the suspects, i",
+   "score": 2
+  },
+  {
+   "id": "5337fbb5dbbf",
+   "title": "Singapore FM’s visit focused on enhancing cooperation in trade, infrastructure and digital technologies: FO",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041164/singapore-fms-visit-focused-on-enhancing-cooperation-in-trade-infrastructure-and-digital-technologies-fo",
+   "date": "2026-10-31T08:37:05Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Deputy Prime Minister and Foreign Minister Ishaq Dar and his Singaporean counterpart Dr Vivian Balakrishnan discussed ways to enhance bilateral cooperation in trade, investment, agriculture, infrastructure development and digital technologies during the latter’s visit to Pakistan, the Foreign Office (FO) said on Saturday. At the invitation of Dar, Dr Balakrishnan undertook an official visit to Pakistan on Friday. According to a statement issued by the FO today, the two sides reviewed the entire spectrum of bilateral ties and exchanged views on regional and international developments. “Deepenin",
+   "score": 3
+  },
+  {
+   "id": "7f7a71cdcbca",
+   "title": "Court grants bail to anchorperson Iqrarul Hassan, lawyer confirms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041168/court-grants-bail-to-anchorperson-iqrarul-hassan-lawyer-confirms",
+   "date": "2026-10-31T09:02:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A judicial magistrate granted bail to anchorperson Iqrarul Hassan, his lawyer, Advocate Ahmad Masood, confirmed to Dawn on Saturday. The anchorperson was arrested by the National Cyber Crime Investigation Agency (NCCIA) in a case registered in Karachi for allegedly disseminating anti-state, false and defamatory content through his official social media accounts. He was booked under multiple sections of the Prevention of Electronic Crimes Act (Peca). Hassan, who was in judicial custody, was granted bail on Saturday against surety bonds of Rs200,000 by East Judicial Magistrate Gulraiz M",
+   "score": 2
+  },
+  {
+   "id": "93e2f90bcf9b",
+   "title": "Saudi Arabia says intercepted ‘hostile drone’ in Riyadh region",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-arabia-shoots-down-drone-in-riyadh-houthis-yemen-october-31-2026/article71648572.ece",
+   "date": "2026-10-31T07:39:51Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "No information yet on who launched the drone",
+   "score": 7,
+   "dup_of": "7c560921efb9"
+  },
+  {
+   "id": "ae66890c6c72",
+   "title": "كيف تؤثر الحرب في اليمن علينا جميعاً؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/watch/cwdd8pvz018zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T07:22:05Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "من الهجمات على ممرات الشحن البحري الحيوية إلى التنافس بين إيران والسعودية، نشرح كيف باتت الأحداث في اليمن تؤثر في التجارة وأسعار النفط والإمدادات الغذائية حول العالم.",
+   "score": 4
   }
  ]
 }
