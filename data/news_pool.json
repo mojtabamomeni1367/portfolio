@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:59:24Z",
+ "updated": "2026-10-31T19:01:06Z",
  "items": [
   {
    "id": "e13a203d3372",
@@ -3051,6 +3051,307 @@
    ],
    "desc": "خلال الأسبوعين أو الأسابيع الثلاثة الماضية، تصاعد الحديث عن نشاط الجماعات المسلحة في هايتي، الواقعة في منطقة البحر الكاريبي.",
    "score": 4
+  },
+  {
+   "id": "d45a2073311f",
+   "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+   "date": "2026-10-31T17:49:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+   "score": 6
+  },
+  {
+   "id": "838802137c65",
+   "title": "Jerusalem Daily: Who will form Israel’s next government?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+   "date": "2026-10-31T17:29:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "3123d22a00d7",
+   "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
+   "date": "2026-10-31T17:21:05Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final.",
+   "score": 2
+  },
+  {
+   "id": "5d1ffac44468",
+   "title": "Iran's Khamenei warns US and Israel against new attacks",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+   "date": "2026-10-31T17:00:36Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes.",
+   "score": 8,
+   "dup_of": "042105d1ca89"
+  },
+  {
+   "id": "0173bb76d68f",
+   "title": "Iran could revisit nuclear weapons ban if war resumes, security chief says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
+   "date": "2026-10-31T18:40:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran could revisit nuclear weapons ban if war resumes, security chief says Iran is debating whether to maintain its longstanding ban on nuclear weapons if hostilities resume, though no decision has been taken on any change, Iranian Security Council chief Mohsen Rezaei told state media on Saturday. Rezaei also said Washington's tone had shifted as it sought to restart negotiations with the Islamic Republic. The US Vice President JD Vance wrote to Rezaei last week in a bid to revive diplomacy. According to the New York Times, Qatari mediators handed the letter to Rezaei. It proposed direct talks",
+   "score": 9
+  },
+  {
+   "id": "f4be0ce9dc13",
+   "title": "At least four Palestinians killed, several wounded in Israeli strikes across Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-four-palestinians-killed-israeli-strikes-and-shelling-across-gaza",
+   "date": "2026-10-31T18:07:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "At least four Palestinians killed, several wounded in Israeli strikes across Gaza At least four Palestinians were killed in Israeli attacks across Gaza on Saturday, and two girls died of burns from a fire in a tent sheltering displaced people, medical sources told the Palestinian news agency Wafa. In Gaza City, a Palestinian died in the morning of wounds from an earlier Israeli attack on the Tel al-Hawa neighbourhood, in the southwest of the city. In the evening, Wael Musallam died of injuries from a recent Israeli drone strike near al-Wehda Tower, in the west of the city. An Israeli drone str",
+   "score": 6,
+   "dup_of": "d45a2073311f"
+  },
+  {
+   "id": "ddb37395c1da",
+   "title": "Trump has not decided whether to resume strikes on Iran, Rubio says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-has-not-decided-whether-resume-strikes-iran-rubio-says",
+   "date": "2026-10-31T17:08:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump has not decided whether to resume strikes on Iran, Rubio says US President Donald Trump has not yet decided whether to resume military action against Iran , Secretary of State Marco Rubio said on Saturday. Rubio told a news conference he did not know whether there was a specific timeframe for Qatar -led talks aimed at resolving the US-Israeli war on Iran. Iranian negotiators held talks with Qatari mediators in Doha to discuss paths out of the war, Reuters reported earlier on Saturday, citing a source who spoke on condition of anonymity. Saturday’s talks in the Qatari capital followed mor",
+   "score": 8
+  },
+  {
+   "id": "51f8b5fa52a0",
+   "title": "London police arrest dozens days before Supreme Court hearing on Palestine Action ban",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/london-police-arrest-dozens-days-supreme-court-hearing-palestine-action",
+   "date": "2026-10-31T16:48:22Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "London police arrest dozens days before Supreme Court hearing on Palestine Action ban London police arrested dozens of Palestine Action supporters on Saturday, days before the UK Supreme Court hears an appeal against the government's contentious ban on the group. The Metropolitan Police began detaining people shortly after hundreds of protesters gathered outside the US Embassy for a lunchtime \"mass action\", AFP reported. A parallel protest was held outside the US consulate in Edinburgh. In a mid-afternoon update, the force said 48 people had been arrested and that officers were \"continuing to ",
+   "score": 4
+  },
+  {
+   "id": "f7013e4a8b1b",
+   "title": "UAE candidate to head UN finishes fourth in first Security Council straw poll",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uae-candidate-head-un-finishes-fourth-first-security-council-straw-poll",
+   "date": "2026-10-31T15:57:46Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "UAE candidate to head UN finishes fourth in first Security Council straw poll Submitted by MEE staff on Sat, 10/31/2026 - 13:17 Lana Nusseibeh secures seven 'encourage' votes in first Security Council ballot as rights groups and regional blocs challenge Abu Dhabi's bid The UAE Envoy Lana Nusseibeh attends a meeting with foreign ministers of the GCC member states in Manama, Bahrain, on 25 June 2026 (Eric Lee/Pool via AFP) Off The United Arab Emirates ' (UAE) chosen candidate to lead the United Nations came fourth in the informal Security Council Straw poll, as the race to lead the UN heats up. ",
+   "score": 5
+  },
+  {
+   "id": "a9b200a9317d",
+   "title": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-prepared-war-tehran-sets-conditions-hormuz-reopening",
+   "date": "2026-10-31T15:35:13Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Araghchi says Iran prepared for war as Tehran sets conditions for Hormuz reopening Iran does not rule out the possibility of renewed war with the United States and Israel and is prepared for “all scenarios”, Foreign Minister Abbas Araghchi has told Al Jazeera, as Tehran sets conditions for reopening the Strait of Hormuz and resuming negotiations with Washington. “We have upgraded our weaponry, addressed our vulnerabilities and tested new arms; our forces are at the highest level of readiness,” Araghchi said. On the Strait of Hormuz, Araghchi said consultations with Qatari mediators had shorten",
+   "score": 8,
+   "dup_of": "877c7c82aa62"
+  },
+  {
+   "id": "6f6845830eb2",
+   "title": "‘Those children in Gaza are our children’: Macklemore finishes Free Palestine tour with sold-out London performance",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/those-children-gaza-are-our-children-macklemore-ends-free-palestine-tour-london",
+   "date": "2026-10-31T14:52:32Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "‘Those children in Gaza are our children’: Macklemore finishes Free Palestine tour with sold-out London performance Submitted by MEE staff on Sat, 10/31/2026 - 12:17 From Hozier and Kneecap in Dublin to Greta Thunberg and Arab Barghouti in London, the tour drew high-profile support for Palestinian rights and humanitarian relief US rapper Macklemore performs at the Goldencoast Rap Festival in Corcelles-les-Monts, near Dijon, France, 30 August 2026 (Arnaud Finistre/AFP) Off Bringing together some of the biggest names in music and activism, Macklemore finished his three-date Free Palestine tour w",
+   "score": 2
+  },
+  {
+   "id": "15af93745fe2",
+   "title": "From Mecca to the Moon: How Turkey is trying to become a player in space",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/big-story/mecca-moon-how-turkey-trying-become-player-space",
+   "date": "2026-10-31T12:28:03Z",
+   "countries": [
+    "SAU",
+    "TUR"
+   ],
+   "desc": "From Mecca to the Moon: How Turkey is trying to become a player in space Submitted by Areeb Ullah on Fri, 10/30/2026 - 14:57 As Turkey prepares its 2027 mission to the Moon, Ankara is navigating global rivalries and tapping Somalia’s space heritage to achieve technological independence Mehmet Nefes looked with pride at the aerial photo of Mecca’s Grand Mosque on the wall. Wearing a black polo shirt and sporting light stubble, Nefes adjusted his glasses, then pointed to the picture to show how small pilgrims in the holy mosque looked from space. Nefes, who directs Tubitak Uzay, Turkey’s state-b",
+   "score": 3
+  },
+  {
+   "id": "569202068964",
+   "title": "Khamenei orders immediate response to any threat 'without geographical limitations'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/khamenei-orders-immediate-response-any-threat-without-geographical",
+   "date": "2026-10-31T11:44:39Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Khamenei orders immediate response to any threat 'without geographical limitations' Iran's Supreme Leader Mojtaba Khamenei has ordered the country’s armed forces to deliver an \"immediate, effective response without geographical limitations\" to any potential enemy threat, according to the state news agency IRNA. In directives issued after a meeting with senior military commanders, Khamenei called for “intelligent combat readiness” to ensure what he described as “maximum deterrence”. He also ordered an update to Iran’s “Targets Bank” to bring tangible and intangible US and Israeli assets within ",
+   "score": 8,
+   "dup_of": "042105d1ca89"
+  },
+  {
+   "id": "b7802bf38fc0",
+   "title": "Mojtaba Khamenei issues ‘important and strategic orders’ to Iran’s military",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mojtaba-khamenei-issues-important-and-strategic-orders-irans-military",
+   "date": "2026-10-31T10:28:25Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Mojtaba Khamenei issues ‘important and strategic orders’ to Iran’s military Iran’s Supreme Leader Mojtaba Khamenei has met senior commanders of the country’s armed forces and issued what his office described as “important and strategic orders”, according to a statement posted on his official X account. The account said details of the directives would be published shortly. Meanwhile, Iran’s judiciary chief Gholam-Hossein Mohseni-Ejei has called for swift legal proceedings against people accused of collaborating with the country’s enemies. Speaking on state broadcaster IRIB, he said cases involv",
+   "score": 9
+  },
+  {
+   "id": "65e5d7ad51ed",
+   "title": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-spills-tankers-attacked-iran-hormuz-reach-uae-coastline-report-says",
+   "date": "2026-10-31T07:58:00Z",
+   "countries": [
+    "ARE",
+    "IRN"
+   ],
+   "desc": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says Oil spills from tankers attacked by Iran near the Strait of Hormuz have reached the UAE coastline, prompting beach closures in three emirates and raising concerns about marine life, the Financial Times reported. The first spill to reach the coast left dark slicks along beaches, with authorities closing affected areas in Umm Al Quwain, Ras Al Khaimah and Sharjah. The UAE environment ministry said it was coordinating cleanup operations and urged fishermen to avoid polluted areas. Marine monitor Windward recorded ",
+   "score": 7
+  },
+  {
+   "id": "9fe7faf7d6f5",
+   "title": "Minutes after sounding alert, Saudi civil defence says danger passes in Jazan",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-civil-defence-says-danger-passes-jazan-province-minutes-after",
+   "date": "2026-10-31T07:39:59Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Minutes after sounding alert, Saudi civil defence says danger passes in Jazan The General Directorate of Saudi Civil Defense said that danger has passed in Jazan Province, minutes after announcing that a danger alert warning the province's residents was issued by the National Early Warning Platform. The directorate urged residents to follow its instructions and avoid gathering and filming. تنبيه زال الخطر عن منطقة جازان، لسلامتك الاستمرار في اتباع تعليمات #الدفاع_المدني وتجنب التجمهر والتصوير نهائيًا. في حالة الطوارئ اتصل بالرقم (998). Alert: The danger has passed in Jazan Province. For your s",
+   "score": 5
+  },
+  {
+   "id": "03849dd89d5f",
+   "title": "Pakistan PM orders fast-tracking of development projects in Gilgit-Baltistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-pm-orders-fast-tracking-of-development-projects-in-gilgit-baltistan/article71650540.ece",
+   "date": "2026-10-31T16:54:20Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "The development assumes significance for India as Gilgit-Baltistan is illegally and forcibly occupied by Pakistan",
+   "score": 4
+  },
+  {
+   "id": "361ebeaa309d",
+   "title": "Iran has no plans for talks with U.S.: Foreign Minister",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-has-no-plans-for-talks-with-us-foreign-minister/article71650486.ece",
+   "date": "2026-10-31T16:24:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Araghchi confirmed that Iran received a letter from U.S. Vice President J. D. Vance, following days of diplomatic efforts to head off a return to violence",
+   "score": 8
+  },
+  {
+   "id": "23db220afa81",
+   "title": "Bangladesh opposition leader warns against India corridor, seeks fair Ganges water pact: Reports",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-opposition-leader-warns-against-india-corridor-seeks-fair-ganges-water-pact-reports/article71650427.ece",
+   "date": "2026-10-31T16:16:21Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "In the rally, the NCP leader also accused Bangladesh Prime Minister Tarique Rahman's government of seeking to facilitate an Indian transit corridor through the country",
+   "score": 6
+  },
+  {
+   "id": "c0c10c997549",
+   "title": "مناظره جنجالی و پرسش‌های بی‌پاسخ؛ میلیاردها دلار پول نفت ایران کجاست؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ckpqgp53j7w0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T17:10:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "مناظره‌ای پرحاشیه بر سر مدیریت یکی از بزرگ‌ترین هلدینگ‌های ایران، پرسش‌هایی درباره سرنوشت میلیاردها دلار درآمد نفتی، نقش واسطه‌ها و مسئولیت نهادهای حکومتی مطرح کرد؛ پرسش‌هایی که همچنان بی‌پاسخ مانده‌اند.",
+   "score": 5
+  },
+  {
+   "id": "35d80c380cd5",
+   "title": "أحمد الطيبي: مستشار ياسر عرفات الذي أصبح أحد أبرز الوجوه الفلسطينية في الكنيست الإسرائيلي",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm2d6ygkyen3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T18:15:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "نرصد في هذا التقرير مسيرة أحمد الطيبي من مستشار لياسر عرفات إلى أحد أبرز الوجوه الفلسطينية في الكنيست، ودوره في معادلة تشكيل الحكومة الإسرائيلية بعد انتخابات 2026.",
+   "score": 4
+  },
+  {
+   "id": "ef478da4a4d0",
+   "title": "جبارين في بلا قيود: منعنا نتنياهو من الأغلبية التي أرادها.",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckx2qvlxjn1lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T16:16:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "أوضح يوسف جبارين رئيس القائمة العربية المشتركة أنّ أسباب عدم الدخول في ائتلاف حكومي يأتي بسبب برنامجهم السياسي وثوابتهم الوطنية والسياسية والأخلاقية كقضية المساواة بين كل المواطنين والقضية الفلسطينية وإقامة دولة فلسطينية على حدود 67.",
+   "score": 6,
+   "dup_of": "a71980d5de0d"
   }
  ]
 }
