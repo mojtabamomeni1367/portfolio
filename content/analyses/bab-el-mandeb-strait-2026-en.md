@@ -13,6 +13,8 @@ summary: 'Influencing global commerce does not always require closing a waterway
 focus_keyword: Bab el-Mandeb Strait
 seo_title: 'Bab el-Mandeb Strait: Leverage for Iran and the Houthis'
 meta_description: How the Bab el-Mandeb Strait and Hormuz become leverage for Iran and the Houthis, from shipping security assessments to the limits of economic pressure.
+image: /assets/uploads/bab-el-mandeb-strait-2026.jpg
+image_alt: Map of the Bab el-Mandeb Strait and the Strait of Hormuz
 translated: true
 draft: false
 ---
