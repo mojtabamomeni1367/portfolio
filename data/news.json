@@ -1,7 +1,68 @@
 {
- "updated": "2026-10-31T19:01:06Z",
- "count": 284,
+ "updated": "2026-10-31T21:48:35Z",
+ "count": 285,
  "items": [
+  {
+   "id": "b2ee5fc6f61c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041221/pakistan-slams-afghan-taliban-for-shifting-blame-persistent-refusal-to-address-terrorism-issues",
+   "date": "2026-10-31T19:46:41Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Pakistan slams Afghan Taliban for 'shifting blame', 'persistent refusal' to address terrorism issues",
+   "title_en": "Pakistan slams Afghan Taliban for 'shifting blame', 'persistent refusal' to address terrorism issues",
+   "summary_en": "Pakistan's information ministry has condemned the Afghan Taliban's stance on bilateral tensions, accusing the administration of deflecting responsibility and consistently failing to curb cross-border terrorism.",
+   "body_en": [
+    "The ministry's statement responded to remarks by Afghan Taliban spokesperson Zabihullah Mujahid, who accused Islamabad's policies of hindering conflict resolution. Islamabad dismissed the claims, stating that the Taliban's refusal to dismantle militant sanctuaries—particularly those used by Tehreek-i-Taliban Pakistan—remains the primary obstacle to improving bilateral ties.",
+    "Reiterating that citizen security is a non-negotiable red line, Pakistan asserted its right under international law to counter national security threats. The diplomatic dispute comes amid repeated border clashes in September and October, involving Pakistani airstrikes, drone intrusions, and cross-border firing by Afghan forces that recently caused casualties in Angoor Adda."
+   ],
+   "title_fa": "انتقاد شدید پاکستان از طالبان افغانستان به دلیل «فرافکنی» و «امتناع مداوم» از حل مسائل تروریسم",
+   "summary_fa": "وزارت اطلاعات پاکستان با انتقاد از موضع طالبان افغانستان در قبال درگیری‌های میان دو کشور، این گروه را به فرافکنی و امتناع مداوم از مقابله با تروریسم برخاسته از خاک افغانستان متهم کرد.",
+   "body_fa": [
+    "بیانیه این وزارتخانه در واکنش به اظهارات ذبیح‌الله مجاهد، سخنگوی طالبان افغانستان، صادر شد که سیاست‌های اسلام‌آباد را مانع حل درگیری دانسته بود. اسلام‌آباد این موضع‌گیری را نشانه رویکرد نادرست طالبان خواند و تأکید کرد که امتناع آنها از برخورد با پناهگاه‌های تروریستی، به ویژه پناهگاه‌های تحریک طالبان پاکستان، مانع اصلی عادی‌سازی روابط است.",
+    "پاکستان با تأکید بر اینکه امنیت شهروندانش قابل مذاکره نیست، اعلام کرد حق انجام اقدامات لازم بر اساس حقوق بین‌الملل را برای دفع تهدیدات محفوظ می‌دارد. به گزارش منابع امنیتی، این موضع‌گیری پس از درگیری‌های مرزی متوالی در ماه‌های سپتامبر و اکتبر، از جمله حملات هوایی پاکستان و تیراندازی نیروهای امنیتی افغان به مناطق مرزی، اتخاذ شده است."
+   ],
+   "title_ar": "باكستان تندد بحركة طالبان الأفغانية لـ«إلقاء اللوم» و«الرفض المستمر» لمعالجة قضايا الإرهاب",
+   "summary_ar": "نددت وزارة الإعلام الباكستانية بموقف حركة طالبان الأفغانية إزاء التوترات بين البلدين، متهمة إياها بإلقاء اللوم على إسلام آباد والرفض المستمر لمواجهة الإرهاب المنطلق من الأراضي الأفغانية.",
+   "body_ar": [
+    "جاء بيان الوزارة رداً على تصريحات المتحدث باسم طالبان أفغانستان ذبيح الله مجاهد، الذي اتهم سياسات إسلام آباد بعرقلة حل النزاع. ووصفت إسلام آباد هذا الموقف بأنه نهج مضلل، مؤكدة أن امتناع طالبان عن تفكيك الملاذات الإرهابية داخل أراضيها، لا سيما المرتبطة بحركة طالبان باكستان، يمثل العقبة الأساسية أمام تطبيع العلاقات.",
+    "وشددت باكستان على أن أمن مواطنيها خط أحمر غير قابل للتفاوض، مؤكدة احتفاظها بحق اتخاذ الإجراءات اللازمة وفقاً للقانون الدولي لدرء التهديدات. وتأتي هذه التطورات في أعقاب اشتباكات حدودية متبادلة خلال شهري سبتمبر وأكتوبر تضمنت ضربات جوية باكستانية وإطلاق نار من القوات الأفغانية أدى مؤخراً إلى سقوط ضحايا."
+   ]
+  },
+  {
+   "id": "671c16bf5ef5",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/crz65vj255vjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-31T18:56:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "رضایی: حکومت برای تغییر دکترین هسته‌ای تصمیم جدیدی نگرفته‌ اما ملت ایران مطالباتی دارد",
+   "title_en": "Rezaei: The Government Has Made No New Decision to Change Nuclear Doctrine, but the Iranian Nation Has Demands",
+   "summary_en": "The secretary of Iran's Supreme National Security Council stated that no official decision has been made to alter the country's nuclear doctrine, though the Iranian public has demands regarding the matter.",
+   "body_en": [
+    "Speaking to Iranian state television, Mohsen Rezaei said discussions exist over whether to maintain the previous doctrine if war erupts again, but no formal decision has been made by the government. He argued that after Iran complied with inspections by the International Atomic Energy Agency, its nuclear facilities were nevertheless attacked, prompting citizens to question why the current approach should continue.",
+    "Rezaei also labeled IAEA Director General Rafael Grossi a \"mercenary of the Zionist regime\" and blamed him for the onset of Iran's issues with the agency. His remarks followed calls a day earlier by Tehran's temporary Friday prayer leader for a revision of the country's nuclear doctrine."
+   ],
+   "title_fa": "رضایی: حکومت برای تغییر دکترین هسته‌ای تصمیم جدیدی نگرفته‌ اما ملت ایران مطالباتی دارد",
+   "summary_fa": "دبیر شورای عالی امنیت ملی ایران اعلام کرد که هنوز تصمیمی رسمی برای تغییر دکترین هسته‌ای کشور اتخاذ نشده است، اما مردم ایران در این خصوص مطالباتی دارند.",
+   "body_fa": [
+    "محسن رضایی در گفتگو با تلویزیون دولتی گفت بحث‌هایی درباره حفظ دکترین قبلی در صورت وقوع جنگ مجدد مطرح است، اما در سطح حکومت تصمیمی گرفته نشده است. او اظهار داشت در حالی که ایران به بازرسی‌های آژانس بین‌المللی انرژی اتمی پاسخ مثبت داده بود، دشمن به مراکز هسته‌ای حمله کرد و همین موضوع باعث شده مردم مطالبه بازنگری در این وضعیت را داشته باشند.",
+    "رضایی همچنین رافائل گروسی، مدیرکل آژانس، را «مزدور رژیم صهیونی» خواند و آغاز مشکلات را از زمان تصدی او دانست. این اظهارات در پی سخنان امام جمعه موقت تهران مطرح شد که خواستار تجدیدنظر در دکترین هسته‌ای ایران شده بود."
+   ],
+   "title_ar": "رضائي: الحكومة لم تتخذ قراراً جديداً لتغيير العقيدة النووية لكن الشعب الإيراني لديه مطالب",
+   "summary_ar": "أعلن أمين المجلس الأعلى للأمن القومي الإيراني أنه لم يُتخذ أي قرار رسمي حتى الآن لتغيير العقيدة النووية للبلاد، غير أن الشعب الإيراني لديه مطالب بهذا الشأن.",
+   "body_ar": [
+    "قال محسن رضائي في تصريحات للتلفزيون الإيراني إن هناك نقاشات قائمة حول الإبقاء على العقيدة النووية السابقة من عدمه في حال اندلاع حرب مجدداً، مشيراً إلى عدم اتخاذ أي قرار رسمي على مستوى الدولة. وأوضح أنه بالرغم من استجابة إيران لعمليات التفتيش التي تجريها الوكالة الدولية للطاقة الذرية، فقد استُهدفت منشآتها النووية، وهو ما يدفع المواطنين للتساؤل حول جدوى الاستمرار في هذا النهج.",
+    "كما وصف رضائي المدير العام للوكالة الدولية للطاقة الذرية رافائيل غروسي بأنه «عميل للنظام الصهيوني»، معتبراً أن المشاكل بدأت منذ توليه منصبه. وجاءت هذه التصريحات عقب دعوة خطيب الجمعة المؤقت في طهران إلى مراجعة العقيدة النووية لإيران."
+   ]
+  },
   {
    "id": "0173bb76d68f",
    "lang": "en",
@@ -677,28 +738,6 @@
     "وأوضح جايشانكار أن العالم يواجه أزمة طاقة لا ترتبط بنقص الإنتاج، بل بعدم القدرة على التنبؤ والاضطرابات والتكاليف الباهظة وصعوبة الوصول. وأشار إلى أن التشوهات المتواصلة في الأسواق لا تراعي وضع الدول منخفضة الدخل، منتقداً الاستثناءات والتمايزات الانتقائية بين إمدادات النفط والغاز.",
     "كما شدد الوزير على حاجة الهند لإمدادات موثوقة من الغاز النفطي المسال لأغراض الطهو النظيف، مسلطاً الضوء على مبادرة بلاده الوطنية للمعادن الحيوية. وأشار أيضاً إلى أن الهند اقترحت مبادرة لمجموعة العشرين حول تدوير المعادن الحيوية، داعياً لتوسيع التمويل لدعم الهيدروجين الأخضر والوقود الحيوي والمفاعلات المعيارية الصغيرة."
    ]
-  },
-  {
-   "id": "4fe6c4753643",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-drone-intercepted-over-saudi-arabias-southern-region-coalition",
-   "date": "2026-10-31T00:54:41Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 6,
-   "title": "Houthi drone intercepted over Saudi Arabia's southern region, coalition says",
-   "title_en": "Houthi drone intercepted over Saudi Arabia's southern region, coalition says",
-   "summary_en": "Saudi-led coalition forces intercepted and destroyed a drone launched by the Houthis over Saudi Arabia's southern region, according to coalition spokesman Major General Turki Al-Malki.",
-   "body_en": [],
-   "title_fa": "ائتلاف از رهگیری پهپاد حوثی‌ها بر فراز منطقه جنوبی عربستان سعودی خبر داد",
-   "summary_fa": "به گفته سرلشکر ترکی المالکی، سخنگوی ائتلاف تحت رهبری عربستان، نیروهای این ائتلاف یک فروند پهپاد پرتاب‌شده توسط حوثی‌ها را بر فراز منطقه جنوبی عربستان سعودی رهگیری و منهدم کردند.",
-   "body_fa": [],
-   "title_ar": "التحالف يعلن اعتراض طائرة مسيرة للحوثيين فوق المنطقة الجنوبية بالسعودية",
-   "summary_ar": "أعلنت قوات التحالف بقيادة السعودية اعتراض وتدمير طائرة مسيرة أطلقها الحوثيون فوق المنطقة الجنوبية للمملكة العربية السعودية، وفقاً للمتحدث باسم التحالف اللواء تركي المالكي.",
-   "body_ar": []
   },
   {
    "id": "c62da8cf6d5d",
