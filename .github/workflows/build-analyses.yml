@@ -7,6 +7,8 @@ on:
       - "scripts/build_analyses.py"
       - "scripts/build_langs.py"
       - "index.html"
+      - "scripts/notify_search.py"
+      - ".github/workflows/build-analyses.yml"
   workflow_dispatch:
 
 permissions:
@@ -38,6 +40,21 @@ jobs:
             echo "Nothing to publish."
           else
             git commit -m "Publish analyses"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+      - name: Tell search engines about new or changed pages
+        env:
+          GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
+          WAIT_FOR_DEPLOY: "120"
+        run: |
+          pip install -q google-auth requests
+          python scripts/notify_search.py
+          for f in data/search_ping.json data/index_status.json; do [ -f "$f" ] && git add "$f"; done
+          if git diff --cached --quiet; then
+            echo "Nothing new to record."
+          else
+            git commit -m "Search engines notified"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi
