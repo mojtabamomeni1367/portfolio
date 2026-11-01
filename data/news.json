@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-01T01:21:32Z",
- "count": 289,
+ "updated": "2026-11-01T04:03:44Z",
+ "count": 291,
  "items": [
+  {
+   "id": "4a6b67b1fdd9",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041304/indias-water-blackmail",
+   "date": "2026-11-01T03:32:43Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "India’s water blackmail",
+   "title_en": "India’s water blackmail",
+   "summary_en": "Since suspending the Indus Waters Treaty, India has aggressively accelerated infrastructure projects on the Chenab river to economically pressure Pakistan, according to reports.",
+   "body_en": [
+    "Since suspending the Indus Waters Treaty in April 2025, India has developed a long-term strategy centered on the Chenab river to dictate Pakistan's foreign policy and weaken its stance, according to analyses.",
+    "The strategic push includes multiple megaprojects and the Chenab-Beas Link Project, which experts warn could severely impact Pakistan's agricultural sector, food security, and national economy."
+   ],
+   "title_fa": "باج‌خواهی آبی هند",
+   "summary_fa": "بر اساس گزارش‌ها، هند از زمان تعلیق معاهده آب‌های سند، به طور تهاجمی پروژه‌های زیرساختی را در رودخانه چناب برای اعمال فشار اقتصادی بر پاکستان تسریع کرده است.",
+   "body_fa": [
+    "بر اساس تحلیل‌ها، هند از زمان تعلیق معاهده آب‌های سند در آوریل ۲۰۲۵، استراتژی بلندمدتی را با محوریت رودخانه چناب برای دیکته کردن سیاست خارجی پاکستان و تضعیف مواضع این کشور تدوین کرده است.",
+    "این اقدام راهبردی شامل چندین مگاپروژه و پروژه تونل انتقال چناب-بیاس است که کارشناسان هشدار می‌دهند می‌تواند به شدت بر بخش کشاورزی، امنیت غذایی و اقتصاد ملی پاکستان تأثیر بگذارد."
+   ],
+   "title_ar": "الابتزاز المائي الهندي",
+   "summary_ar": "وفقاً للتقارير، ومنذ تعليق معاهدة مياه السند، قامت الهند بتسريع مشاريع البنية التحتية بشكل عدواني على نهر تشيناب للضغط اقتصادياً على باكستان.",
+   "body_ar": [
+    "وفقاً للتحليلات، ومنذ تعليق معاهدة مياه السند في أبريل 2025، وضعت الهند استراتيجية طويلة الأجل تتمحور حول نهر تشيناب لإملاء السياسة الخارجية على باكستان وإضعاف موقفها.",
+    "تتضمن هذه الخطوة الاستراتيجية عدة مشاريع ضخمة ومشروع نربط تشيناب-بياس، والتي يحذر الخبراء من أنها قد تؤثر بشدة على قطاع الزراعة والأمن الغذائي والاقتصاد الوطني في باكستان."
+   ]
+  },
+  {
+   "id": "7056accf2fd0",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+   "date": "2026-11-01T03:19:28Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "India’s largest dam planned to counter China faces Indigenous revolt",
+   "title_en": "India’s largest dam planned to counter China faces Indigenous revolt",
+   "summary_en": "Indigenous communities in India's Arunachal Pradesh are protesting a massive planned dam intended to counter China, stating it threatens their ancestral lands and livelihoods.",
+   "body_en": [
+    "The Indigenous people in the remote eastern Himalayan state of Arunachal Pradesh told Al Jazeera that the mega dam poses a direct danger to their culture, ancestral lands, and daily livelihoods.",
+    "The controversial project is part of India's plans to construct its largest dam in the region to counter a colossal upstream hydropower project by China."
+   ],
+   "title_fa": "بزرگترین سد هند با هدف مقابله با چین با اعتراض بومیان مواجه شد",
+   "summary_fa": "جوامع بومی در ایالت آروناچال پرادش هند به یک سد عظیم برنامه‌ریزی شده با هدف مقابله با چین اعتراض می‌کنند و می‌گویند این سد سرزمین‌های اجدادی و معیشت آن‌ها را تهدید می‌کند.",
+   "body_fa": [
+    "بومیان ایالت دورافتاده آروناچال پرادش در شرق هیمالیا به الجزیره گفتند که این مگاسد خطری مستقیم برای فرهنگ، سرزمین‌های اجدادی و معیشت روزمره آن‌ها به شمار می‌رود.",
+    "این پروژه جنجالی بخشی از برنامه‌های هند برای ساخت بزرگترین سد خود در این منطقه با هدف مقابله با پروژه عظیم برق آبی بالادست چین است."
+   ],
+   "title_ar": "أكبر سد في الهند تخطط له لمواجهة الصين يواجه ثورة من السكان الأصليين",
+   "summary_ar": "احتجت مجتمعات السكان الأصليين في ولاية أروناتشال براديش الهندية على سد ضخم تخطط له الحكومة لمواجهة الصين، مشيرة إلى أنه يهدد أراضيهم ومصادر رزقهم.",
+   "body_ar": [
+    "قال السكان الأصليون في ولاية أروناتشال براديش الواقعة في جبال هيماليا الشرقية النائية لقناة الجزيرة إن السد الضخم يشكل خطراً مباشراً على ثقافتهم وأراضيهم ومصادر رزقهم.",
+    "يأتي هذا المشروع المثير للجدل كجزء من خطط الهند لبناء أكبر سد لها في المنطقة لمواجهة مشروع للطاقة الكهرومائية تقيمه الصين في أعالي النهر."
+   ]
+  },
   {
    "id": "c24be81faca1",
    "lang": "en",
