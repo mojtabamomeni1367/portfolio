@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:53:09Z",
+ "updated": "2026-11-01T18:55:32Z",
  "items": [
   {
    "id": "7116fb04b341",
@@ -1640,7 +1640,8 @@
     "ISR"
    ],
    "desc": "'Give peace a chance': Israeli protesters urge opposition to ally with Arab parties Hundreds of Israelis took to the streets on Saturday to urge the opposition to ally with Arab parties to oust Prime Minister Benjamin Netanyahu, who has gone on the offensive against the minority group's leaders. Arab-majority parties made major gains in Tuesday's election, fuelled by anger over rhetoric targeting the community from Netanyahu's hard-right government, but opposition chief Gadi Eisenkot has not decided whether to seek a coalition with them. Joining a rally in Tel Aviv, Ayelet Raz said that the Ar",
-   "score": 5
+   "score": 5,
+   "dup_of": "c94fbfc40bff"
   },
   {
    "id": "219fbba28a88",
@@ -1764,8 +1765,7 @@
     "ISR"
    ],
    "desc": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with 'terrorists'.",
-   "score": 7,
-   "dup_of": "7e414a45e410"
+   "score": 7
   },
   {
    "id": "11f8c293dd23",
@@ -2887,6 +2887,301 @@
    "desc": "The talks come amid concerns that the conflict ‌could escalate again after the November 3 U.S. midterm elections",
    "score": 9,
    "dup_of": "631b22c26981"
+  },
+  {
+   "id": "96a242f04e8e",
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T17:06:32Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+   "score": 7
+  },
+  {
+   "id": "43faee369704",
+   "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+   "date": "2026-11-01T17:30:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+   "score": 7,
+   "dup_of": "4fbc75e188ba"
+  },
+  {
+   "id": "444d79bd6258",
+   "title": "Bangladesh workers clash with police in protests over low pay",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
+   "date": "2026-11-01T16:52:42Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.",
+   "score": 4
+  },
+  {
+   "id": "ecf63c363def",
+   "title": "India protesters march with 1km banner of deleted voters’ names",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
+   "date": "2026-11-01T16:42:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls.",
+   "score": 3
+  },
+  {
+   "id": "d23a87aed05f",
+   "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+   "date": "2026-11-01T15:38:12Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+   "score": 4,
+   "dup_of": "43faee369704"
+  },
+  {
+   "id": "17d074ce2b4c",
+   "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+   "date": "2026-11-01T17:49:28Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait of Hormuz before the US midterm elections on Tuesday. Indirect talks in Doha ran into a third day on Sunday with Qatar trying to negotiate the release of more than $6bn in Iranian assets, which could lead to the reopening of the strait of Hormuz and the restart of negotiations on Iran’s nuclear programme. Continue readi",
+   "score": 8,
+   "dup_of": "dabd2925be5e"
+  },
+  {
+   "id": "499812904761",
+   "title": "Houthi media says Saudi strikes target Yemen's Hodeidah port",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-says-saudi-strikes-target-yemens-hodeidah-port",
+   "date": "2026-11-01T18:36:29Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthi media says Saudi strikes target Yemen's Hodeidah port Houthi media said on Sunday that Saudi air strikes targeted Hodeidah, a strategic port under Houthi control, as the Iran-aligned group battles a Saudi-led coalition supporting the internationally recognised government. \"The Saudi enemy has launched two airstrikes on Ras Issa port,\" Al-Masirah TV said. Hodeidah, on the Red Sea, is the largest seaport under Houthi control and a main entry point for food and aid into the areas the group holds. The port is also used for importing and storing oil.",
+   "score": 7
+  },
+  {
+   "id": "61788eb62224",
+   "title": "Israel’s election chief says results valid after Netanyahu claims vote ‘stolen’",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-chief-says-results-valid-after-netanyahu-claims-vote",
+   "date": "2026-11-01T18:28:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s election chief says results valid after Netanyahu claims vote ‘stolen’ Israel’s Central Elections Committee chairman Noam Sohlberg said on Sunday that the election was conducted properly and its results reflect voters’ will, Haaretz reported. Speaking alongside Attorney General Gali Baharav-Miara and Shin Bet chief David Zini, Sohlberg said all three backed the conclusions. \"We are standing here together, and what I am telling you is agreed upon by all three of us,\" he said. His statement came after Prime Minister Benjamin Netanyahu and his Likud party seized on an investigation to cl",
+   "score": 7,
+   "dup_of": "7bc626e8e131"
+  },
+  {
+   "id": "29da63158176",
+   "title": "Saudi Arabia condemns strike on Qatar’s LNG tanker",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-condemns-strike-qatars-lng-tanker",
+   "date": "2026-11-01T17:44:54Z",
+   "countries": [
+    "QAT",
+    "SAU"
+   ],
+   "desc": "Saudi Arabia condemns strike on Qatar’s LNG tanker Saudi Arabia has condemned the attack on Qatar’s liquefied natural gas (LNG) carrier Al Mayeda and backed measures to protect Qatari vessels and international trade. In a statement posted on X, the Saudi foreign ministry reiterated its “rejection of all violations that threaten the security and safety of maritime navigation and global energy supplies”. It urged the international community to act immediately to uphold international law and “ensure maritime security and the safety of international trade”. The Al Mayeda, owned and operated by the",
+   "score": 7,
+   "dup_of": "9947d9715741"
+  },
+  {
+   "id": "e3c4701e74da",
+   "title": "Israeli strikes kill nine people in Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strikes-kill-ten-people-gaza",
+   "date": "2026-11-01T17:07:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli strikes kill nine people in Gaza Israeli strikes in the Gaza Strip killed at least nine people, including a child on Sunday, according to Al Jazeera. Five people were killed in Khan Younis and three in Gaza City, according to a statement from the civil defence service. Local hospitals said they had received the bodies as well as several people wounded. \"Occupation aircraft targeted several on-duty police officers\" in Khan Younis, the Palestinian interior ministry in Gaza said. A Palestinian man weeps over the body of a child who was killed in an Israeli strike that targeted Gaza City's",
+   "score": 7,
+   "dup_of": "4f74f56acb7b"
+  },
+  {
+   "id": "ef7cf00fc0fd",
+   "title": "Houthis repeat threats against Saudi oil giant, aviation",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-repeat-threats-against-saudi-oil-giant-aviation",
+   "date": "2026-11-01T16:28:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis repeat threats against Saudi oil giant, aviation Houthi media, citing an anonymous military official, on Sunday repeated threats against Saudi oil giant Aramco and aviation in the kingdom. Yemen's Houthis, fighting a Saudi-led coalition backing the internationally recognised government, are allies of Iran, which on Sunday warned the US and Israel not to renew strikes on the Islamic Republic after they had threatened a return to war. \"Aramco facilities are within range of the Yemeni Armed Forces, and investments in them are a venture fraught with losses,\" the Houthis' Saba news agency q",
+   "score": 7
+  },
+  {
+   "id": "d58e09426883",
+   "title": "Lula's victory alone cannot loosen the US and Israeli grip on Latin America",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/lulas-victory-alone-cannot-loosen-us-and-israeli-grip-latin-america",
+   "date": "2026-11-01T15:57:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Lula's victory alone cannot loosen the US and Israeli grip on Latin America Submitted by Jodor Jalit on Thu, 10/29/2026 - 01:44 Brazil's president has defied Trump and condemned the genocide in Gaza, but a divided electorate and powerful right-wing neighbours limit hopes of a regional shift Brazilian President Luiz Inacio Lula da Silva gestures to supporters during his birthday celebrations at the Alvorada Palace in Brasilia, two days after winning a fourth term, on 27 October 2026 (Pablo Porciuncula/AFP) Off \"Lula won! Lula won!\" a Brazilian student shouted at a language school in Cairo . An ",
+   "score": 3
+  },
+  {
+   "id": "aa011cbf65d0",
+   "title": "‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041391/were-technology-savvy-dg-ispr-says-pakistan-ahead-of-india-afghan-taliban-in-operational-readiness",
+   "date": "2026-11-01T17:31:26Z",
+   "countries": [
+    "AFG",
+    "IND",
+    "PAK"
+   ],
+   "desc": "Inter-Services Public Relations (ISPR) Director General Lieutenant General Ahmed Sharif Chaudhry has affirmed that Pakistan is “much ahead” in operational readiness compared to the Afghan Taliban and India, adding that the country’s military is adopting emerging technologies. The military spokesperson’s remarks, shared by state media on Sunday, were made during Friday’s wide-ranging interview with an international outlet. The remarks aired today focused on the ongoing tensions between Islamabad and Kabul. Replying to a query about whether Islamabad was worried about the use of drones by the Af",
+   "score": 5
+  },
+  {
+   "id": "2c3f5657ea9e",
+   "title": "Pakistan responds to unprovoked firing from Afghan posts along border in Lower South Waziristan: DC",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041405/pakistan-responds-to-unprovoked-firing-from-afghan-posts-along-border-in-lower-south-waziristan-dc",
+   "date": "2026-11-01T18:46:38Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "Pakistani security forces have responded to unprovoked firing from the Afghan border posts, the deputy commissioner of Lower South Waziristan district said on Sunday. In a post on X, the DC’s official account said, “Unprovoked firing from Afghan border posts onto Pakistani border checkpoints continues.” It added that Pakistani security forces responded immediately and effectively, targeting “multiple Afghan border posts, mortar positions, and defensive checkpoints”. “The Afghan Taliban were forced to abandon their posts and flee in response to the Pakistani forces’ strong response,” the post r",
+   "score": 7
+  },
+  {
+   "id": "ee10c76fd04a",
+   "title": "Polio case from KP's Khyber takes nationwide tally for 2026 to eight",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041402/polio-case-from-kps-khyber-takes-nationwide-tally-for-2026-to-eight",
+   "date": "2026-11-01T17:58:50Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The National Emergency Operations Centre for Polio Eradication (NEOC) on Sunday confirmed the country’s eighth polio case of this year. The latest case was from Khyber Pakhtunkhwa’s Khyber district, where the affected child is a 13-month-old girl from Union Council Janbaz-B in the Bara tehsil, according to the Pakistan Polio Eradication Programme (PPEP). Polio is a highly contagious disease that has no cure and can cause lifelong paralysis. It can, however, be prevented through safe and effective polio vaccines, which have been used safely in 195 countries, including all Muslim-majo",
+   "score": 3
+  },
+  {
+   "id": "9ead0b3c681e",
+   "title": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041397/pakistans-embassy-in-tehran-refutes-rumours-of-people-attacking-its-ambassador-to-iran",
+   "date": "2026-11-01T17:27:52Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Pakistan’s embassy in Iran on Sunday refuted rumours of an attack on Ambassador Imran Ahmed Siddiqui in Tehran, terming them “baseless”. In a post on X, the embassy said it had taken note of “certain reports circulating in social media and other forums” concerning the Pakistani ambassador to Iran. The embassy shared a post from another X account, which had posted a video showing a commotion amongst a large crowd of people in an unidentified building, with several people appearing to engage in physical altercations. The account that posted the video alleged, citing reports, that the Pakistani a",
+   "score": 4
+  },
+  {
+   "id": "9559d87a1517",
+   "title": "Bhutan builds 108 stupas in 9 hours, dedicates No. 76 to PM Modi",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bhutan-builds-108-stupas-in-9-hours-dedicates-no-76-to-pm-modi/article71653715.ece",
+   "date": "2026-11-01T16:37:27Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "King Jigme Khesar Namgyel Wangchuk says gesture recognises India’s steadfast support for realisation of Gelephu Mindfulness City",
+   "score": 2
+  },
+  {
+   "id": "3786199f7715",
+   "title": "Bangladesh forms wage board as garment workers keep up protests",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-forms-wage-board-as-garment-workers-keep-up-protests/article71653893.ece",
+   "date": "2026-11-01T16:21:43Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The garment sector is the backbone of Bangladesh's export-driven economy, employing millions of workers and generating the bulk of the country's foreign earnings",
+   "score": 4,
+   "dup_of": "444d79bd6258"
+  },
+  {
+   "id": "94eb3dc1c355",
+   "title": "حمید علیدوستی، بازیکن و مربی سرشناس فوتبال ایران، درگذشت",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c8wy906g9d0qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T16:02:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "رسانه‌های ایران از درگذشت حمید علیدوستی، بازیکن سابق تیم ملی فوتبال ایران و باشگاه هما خبر داده‌اند.",
+   "score": 2
+  },
+  {
+   "id": "f4b34060dca4",
+   "title": "جماعة أنصار الله: غارات سعودية تستهدف ميناء الحديدة ومناطق عدة في اليمن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6y4xe1557xdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T18:45:35Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "تصعيد عسكري متبادل بين السعودية والحوثيين، مع اتهامات بغارات على مناطق يمنية وتهديدات حوثية لأرامكو والطيران السعودي، مقابل إعلان التحالف اعتراض هجمات جوية.",
+   "score": 7,
+   "dup_of": "499812904761"
+  },
+  {
+   "id": "20c4d8c6a64f",
+   "title": "اعتقال أكثر من 300 شخص خلال تظاهرة تدعم منظمة \"فلسطين آكشن\" أمام السفارة الأمريكية في لندن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cknv096yj2r6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T16:00:33Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "الشرطة البريطانية اعتقلت أكثر من 4000 شخص لدعمهم الجماعة منذ حظرها في يوليو/تموز 2025.",
+   "score": 4
   }
  ]
 }
