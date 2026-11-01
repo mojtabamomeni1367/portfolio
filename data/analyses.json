@@ -1,6 +1,40 @@
 {
- "count": 5,
+ "count": 6,
  "items": [
+  {
+   "id": "iran-uk-tensions-2026",
+   "date": "2026-11-01",
+   "countries": [
+    "IRN"
+   ],
+   "topics": [
+    "iran-policy",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Iran-UK Tensions: 4 Questions About Tehran's Latest Decision",
+     "summary": "Tehran's latest decision concerning British military and intelligence institutions marks a sensitive development in bilateral relations. On November 1, 2026, Iran's Foreign Ministry announced that it was designating the Royal Navy and Royal Air Force as terrorist organizations under Iranian domestic law, while classifying Britain's foreign intelligence service, MI6, as a hostile group. The significance of Iran-UK tensions extends beyond the severity of these descriptions. The central issue is whether the classifications change security practices, diplomatic communication and the calculations governing each country's response.",
+     "focus_keyword": "Iran-UK tensions",
+     "image": "/assets/uploads/iran-uk-tensions-2026.jpg",
+     "url": "analysis/iran-uk-tensions-2026-en.html"
+    },
+    "fa": {
+     "title": "تنش ایران و انگلیس؛ ۴ پرسش درباره پیامدهای تصمیم تازه تهران",
+     "summary": "تصمیم تازه تهران درباره نهادهای نظامی و اطلاعاتی بریتانیا، رابطه دو کشور را وارد مرحله ای حساس کرده است. وزارت خارجه ایران در اول نوامبر ۲۰۲۶ اعلام کرد نیروی دریایی و نیروی هوایی سلطنتی بریتانیا را در چارچوب قوانین داخلی ایران «سازمان تروریستی» و سرویس اطلاعات خارجی این کشور، ام آی ۶، را «گروه متخاصم» معرفی کرده است. اهمیت این تحول در تنش ایران و انگلیس، فقط به شدت واژگان مربوط نیست؛ مسئله اصلی، تاثیری است که این طبقه بندی می تواند بر رفتار امنیتی، ارتباطات دیپلماتیک و محاسبات دو طرف بگذارد.",
+     "focus_keyword": "تنش ایران و انگلیس",
+     "image": "/assets/uploads/iran-uk-tensions-2026.jpg",
+     "url": "analysis/iran-uk-tensions-2026-fa.html"
+    },
+    "ar": {
+     "title": "التوتر بين إيران وبريطانيا؛ ٤ أسئلة حول تداعيات قرار طهران الجديد",
+     "summary": "يمثل قرار طهران الأخير بشأن المؤسسات العسكرية والاستخباراتية البريطانية تطورا حساسا في العلاقة بين البلدين. فقد أعلنت وزارة الخارجية الإيرانية في الأول من نوفمبر ٢٠٢٦ تصنيف البحرية الملكية وسلاح الجو الملكي البريطاني منظمتين إرهابيتين، في إطار القوانين الداخلية الإيرانية، واعتبار جهاز الاستخبارات الخارجية البريطاني، المعروف باسم إم آي ٦، جماعة معادية. ولا تقتصر أهمية التوتر بين إيران وبريطانيا على شدة المصطلحات، بل تتصل بما قد تحدثه هذه التصنيفات في الممارسات الأمنية، والاتصالات الدبلوماسية، وحسابات الرد لدى الطرفين.",
+     "focus_keyword": "التوتر بين إيران وبريطانيا",
+     "image": "/assets/uploads/iran-uk-tensions-2026.jpg",
+     "url": "analysis/iran-uk-tensions-2026-ar.html"
+    }
+   }
+  },
   {
    "id": "bab-el-mandeb-strait-2026",
    "date": "2026-10-31",
