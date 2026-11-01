@@ -1,7 +1,127 @@
 {
- "updated": "2026-11-01T10:10:54Z",
- "count": 293,
+ "updated": "2026-11-01T13:05:50Z",
+ "count": 309,
  "items": [
+  {
+   "id": "b42ae36a3b27",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+   "date": "2026-11-01T11:26:08Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "Thousands rally in New Delhi to demand India’s election chief resign",
+   "title_en": "Thousands rally in New Delhi to demand India’s election chief resign",
+   "summary_en": "Thousands of demonstrators marched in New Delhi to demand the resignation of Chief Election Commissioner Gyanesh Kumar over electoral roll revisions that opposition parties claim favor Prime Minister Narendra Modi's ruling party.",
+   "body_en": [
+    "Congress party leader Rahul Gandhi led the protest, which was part of a monthslong campaign against voter list revisions that removed more than 130 million names. Opposition groups allege the purge disproportionately targeted Muslims and other minority groups, while the Election Commission denied any bias and noted removed voters could reregister.",
+    "The ruling BJP accused opposition parties of attempting to undermine democratic procedures, with Health Minister Jagat Prakash Nadda characterizing the rally as an orchestrated conspiracy to create anarchy."
+   ],
+   "title_fa": "راهپیمایی هزاران نفر در نیودلوی برای درخواست استعفای رئیس انتخابات هند",
+   "summary_fa": "هزاران معترض در نیودلوی دست به راهپیمایی زدند تا خواستار استعفای گیانیش کومار، رئیس کمیسیون انتخابات، به دلیل تغییرات در فهرست رأی‌دهندگان شوند؛ تغییراتی که احزاب اپوزیسیون می‌گویند به نفع حزب حاکم نارندرا مودی است.",
+   "body_fa": [
+    "راهول گاندی، رهبر حزب کنگره، هدایت این تظاهرات را بر عهده داشت که بخشی از کمپین یک‌ماهه در اعتراض به اصلاح فهرست‌های انتخاباتی و حذف بیش از ۱۳۰ میلیون نام است. احزاب مخالف ادعا می‌کنند این اقدام به‌طور نامتناسبی مسلمانان و اقلیت‌های دیگر را هدف قرار داده است، اما کمیسیون انتخابات هرگونه جانبداری را تکذیب کرد.",
+    "حزب حاکم بی‌جِی‌پِی، احزاب مخالف را به تضعیف روند دمکراتیک متهم کرد و جاگات پراکاش نادا، وزیر بهداشت، این راهپیمایی را توطئه‌ای برنامه‌ریزی‌شده برای ایجاد انارشیسم توصیف کرد."
+   ],
+   "title_ar": "آلاف المتظاهرين يحتشدون في نيودلهي للمطالبة باستقالة رئيس هيئة الانتخابات الهندية",
+   "summary_ar": "تظاهر الآلاف في العاصمة الهندية نيودلهي للمطالبة باستقالة رئيس هيئة الانتخابات جيانيش كومار، بسبب تعديلات في قوائم الناخبين تقول أحزاب المعارضة إنها تحابي الحزب الحاكم برئاسة رئيس الوزراء ناريندرا مودي.",
+   "body_ar": [
+    "وقاد راهول غاندي، زعيم حزب المؤتمر الوطني الهندي، مظاهرات الأحد ضد تعديل السجلات الانتخابية الذي أسفر عن حذف أكثر من 130 مليون اسم، وهي إجراءات تقول المعارضة إنها استهدفت المسلمين والأقليات بشكل غير متناسب، بينما نفت هيئة الانتخابات تقديم أي تحيز.",
+    "من جانبه، اتهم حزب بهاراتيا جاناتا الحاكم أحزاب المعارضة بتقويض الديمقراطية، ووصف وزير الصحة جاغات براكاش نادا التظاهرة بأنها مؤامرة مدروسة لإغراق البلاد في الفوضى."
+   ]
+  },
+  {
+   "id": "0bfe0fba770b",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmj4702x1ydro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T11:17:01Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 5,
+   "title": "بعد الجدل حول قضية \"مدى مصر\".. مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
+   "title_en": "بعد الجدل حول قضية \"مدى مصر\".. مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
+   "summary_en": "Egypt's Supreme Judicial Council denied any violations of defense rights following a court ruling that ordered the closure of the independent news site Mada Masr and fined its editor-in-chief Lina Attalah.",
+   "body_en": [
+    "The New Cairo Misdemeanor Court fined Attalah three million Egyptian pounds and ordered the confiscation of the website's equipment for operating without a license. Attalah's defense team criticized the rapid proceedings, stating the court denied their requests to review case files and appointed an unwanted public defender.",
+    "In response, the Supreme Judicial Council stated that Attalah's chosen legal team refused to inspect the court files despite access being granted. Meanwhile, Egypt's Journalists' Syndicate and over 110 human rights organizations denounced the ruling and expressed concern over trial guarantees."
+   ],
+   "title_fa": "تکذیب نقض ضمانت‌های دادرسی توسط شورای قضایی مصر در پی جنجال پرونده «مدی مصر»",
+   "summary_fa": "شورای عالی قضایی مصر پس از حکم دادگاه مبنی بر تعطیلی سایت خبری مستقل «مدی مصر» و جریمه نقدی سردبیر آن لینا عطاالله، هرگونه نقض حقوق دفاعیه را تکذیب کرد.",
+   "body_fa": [
+    "دادگاه جنحه قاهره جدید، عطاالله را به پرداخت سه میلیون لیره مصر محکوم و دستور ضبط تجهیزات سایت را به دلیل فعالیت بدون مجوز صادر کرد. تیم دفاعی عطاالله با انتقاد از سرعت روند دادگاه اعلام کرد که قاضی درخواست مطالعه پرونده را رد کرده و وکیلی تسخیری منصوب کرده است.",
+    "در مقابل، شورای عالی قضایی اعلام کرد که وکلا خودشان از مطالعه ملف پرونده امتناع کردند. در همین حال، سندیکای روزنامه‌نگاران مصر و بیش از ۱۱۰ نهاد حقوق بشری محکومیت عطاالله را محکوم کرده و نسبت به رعایت ضمانت‌های دادرسی ابراز نگرانی کردند."
+   ],
+   "title_ar": "بعد الجدل حول قضية \"مدى مصر\".. مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
+   "summary_ar": "نفى مجلس القضاء الأعلى في مصر وقوع أي إخلال بحق الدفاع أو ضمانات المحاكمة في القضية المتعلقة بموقع \"مدى مصر\"، عقب صدور حكم قضائي بإغلاق الموقع وتغريم رئيسة تحريره لينا عطا الله.",
+   "body_ar": [
+    "قضت محكمة جنح القاهرة الجديدة بإغلاق موقع \"مدى مصر\" ومصادرة معداته وتغريم لينا عطا الله ثلاثة ملايين جنيه بتهمة إدارة موقع دون ترخيص. وانتقد فريق الدفاع سرعة الإجراءات، مشيراً إلى أن المحكمة رفضت طلبات الاطلاع وانتكست محامياً دفاعياً دون رغبة المتهمة.",
+    "من جانبه، أكد مجلس القضاء الأعلى أن هيئة الدفاع امتنعت عن الاطلاع على أوراق القضية رغم إتاحتها. وفي المقابل، أعلنت نقابة الصحفيين المصرية وأكثر من 110 منظمات حقوقية اعتراضها على الحكم ومطالبتها بوقف ملاحقة عطا الله."
+   ]
+  },
+  {
+   "id": "9947d9715741",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+   "date": "2026-11-01T10:21:48Z",
+   "countries": [
+    "QAT"
+   ],
+   "score": 9,
+   "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+   "title_en": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+   "summary_en": "A Qatari liquefied natural gas carrier, the Al Mayeda, was struck by unidentified objects while sailing in the Gulf, the Qatar Gas Transport Company announced.",
+   "body_en": [
+    "According to a statement released on the Qatar Stock Exchange, the attack occurred on Friday evening without causing any crew injuries or environmental damage. The company stated that the vessel remains operational and in a safe condition while the effects of the incident are evaluated.",
+    "The strike is part of a broader surge in attacks on commercial shipping since the start of the US-Israel war on Iran, with over 120 commercial vessels targeted following Iran's closure of the Strait of Hormuz and the subsequent US blockade of Iranian southern ports."
+   ],
+   "title_fa": "حمله «اشیای ناشناس» به یک نفتکش گاز طبیعی مایع قطر در خلیج فارس",
+   "summary_fa": "شرکت گاز ترابری قطر اعلام کرد نفتکش گاز طبیعی مایع «المائده» متعلق به این شرکت حین حرکت در خلیج فارس هدف اصابت «اشیای ناشناس» قرار گرفته است.",
+   "body_fa": [
+    "بر اساس بیانیه‌ای که در بورس اوراق بهادار قطر منتشر شد، این حمله شامگاه جمعه رخ داد و هیچ‌گونه تلفات جانی در میان خدمه یا خسارت زیست‌محیطی به دنبال نداشت. این شرکت تصریح کرد که کشتی همچنان عملیاتی و در وضعیتی ایمن است و ارزیابی پیامدهای این حادثه ادامه دارد.",
+    "این حمله در چارچوب تشدید حملات علیه کشتیرانی تجاری پس از آغاز جنگ آمریکا و اسرائیل علیه ایران صورت می‌گیرد؛ به‌طوری‌که بیش از ۱۲۰ کشتی تجاری در پی مسدود شدن تنگه هرمز از سوی ایران و محاصره بنادر جنوبی ایران توسط ایالات متحده هدف حمله قرار گرفته‌اند."
+   ],
+   "title_ar": "ناقلة غاز طبيعي مسال قطرية تتعرض لهجوم بـ «أجسام مجهولة» في الخليج",
+   "summary_ar": "أعلنت شركة قطر لنقل الغاز أن ناقلة الغاز الطبيعي المسال التابعة لها، «المائدة»، تعرضت للاستهداف بـ «أجسام مجهولة» أثناء إبحارها في الخليج.",
+   "body_ar": [
+    "وفقاً لبيان نُشر في بورصة قطر، وقع الهجوم مساء الجمعة دون تسجيل أي إصابات بين أفراد الطاقم أو وقوع أضرار بيئية. وأوضحت الشركة أن السفينة لا تزال في حالة تشغيلية وآمنة، بينما تجري عملية تقييم آثار الحادث.",
+    "ويأتي هذا الاستهداف ضمن تصاعد الهجمات على حركة الملاحة التجارية منذ اندلاع الحرب الأمريكية الإسرائيلية ضد إيران، حيث استُهدفت أكثر من 120 سفينة تجارية عقب إغلاق إيران لمضيق هرمز وفرض الولايات المتحدة حصاراً على الموانئ الإيرانية الجنوبية."
+   ]
+  },
+  {
+   "id": "18c6985db839",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+   "date": "2026-11-01T10:08:55Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni government forces seize strategic positions in al-Jawf",
+   "title_en": "Yemeni government forces seize strategic positions in al-Jawf",
+   "summary_en": "Yemen's internationally recognised government said its troops recaptured military positions and strategic heights east of al-Hazm in al-Jawf governorate. The Houthis stated they repelled government advances in both al-Jawf and neighbouring Marib.",
+   "body_en": [
+    "According to the Yemeni army's media centre, the 1st Emergency Brigade captured weapons and ammunition depots and destroyed armoured vehicles while killing, wounding, and capturing Houthi fighters. The clashes are part of Operation Dawn of Yemen, an offensive launched in October aimed at reversing Houthi control over northern territories.",
+    "Government forces also reported repelling Houthi assaults near the besieged city of Taiz and in Lahij governorate. Meanwhile, fighting across the country has intensified the humanitarian crisis, with more than 290,000 people displaced since August as vital aid deliveries to Taiz remain severely restricted."
+   ],
+   "title_fa": "نیروهای دولتی یمن مواضع راهبردی را در الجوف تصرف کردند",
+   "summary_fa": "دولت به رسمیت شناخته‌شده بین‌المللی یمن اعلام کرد نیروهایش مواضع نظامی و بلندی‌های راهبردی را در شرق الحزم در استان الجوف بازپس گرفته‌اند. در مقابل، حوثی‌ها اعلام کردند که پیشروی‌های نیروهای دولتی را در الجوف و مأرب خنثی کرده‌اند.",
+   "body_fa": [
+    "به گزارش مرکز رسانه‌ای ارتش یمن، تیپ یکم واکنش سریع انبارهای سلاح و مهمات را به تصرف خود درآورد و ضمن انهدام خودروهای زرهی، شماری از نیروهای حوثی را کشته، زخمی و اسیر کرد. این درگیری‌ها بخشی از عملیات «سپیده‌دم یمن» است که در ماه اکتبر برای بازپس‌گیری مناطق تحت کنترل حوثی‌ها آغاز شد.",
+    "نیروهای دولتی همچنین از دفع حملات حوثی‌ها در نزدیکی شهر محاصره‌شده تعز و در استان لحج خبر دادند. در همین حال، درگیری‌ها در سراسر یمن بحران انسانی را تشدید کرده است و بیش از ۲۹۰ هزار نفر از ماه اوت آواره شده‌اند، در حالی که ارسال کمک‌های ضروری به تعز همچنان با محدودیت‌های شدید مواجه است."
+   ],
+   "title_ar": "القوات الحكومية اليمنية تسيطر على مواقع استراتيجية في الجوف",
+   "summary_ar": "أعلنت الحكومة اليمنية المعترف بها دولياً أن قواتها استعادت مواقع عسكرية ومرتفعات استراتيجية شرق الحزم في محافظة الجوف. في المقابل، قال الحوثيون إنهم أحبطوا تقدماً للقوات الحكومية في الجوف ومأرب المجاورة.",
+   "body_ar": [
+    "وفقاً للمركز الإعلامي للجيش اليمني، استولى لواء الطوارئ الأول على مستودعات أسلحة وذخائر ودمر آليات مدرعة، بعد سقوط قتلى وجرحى وأسرى في صفوف مقاتلي الحوثيين. وتأتي هذه المعارك ضمن عملية \"فجر اليمن\" التي انطلقت في أكتوبر لاستعادة الأراضي الخاضعة لسيطرة الجماعة في الشمال.",
+    "كما أفادت القوات الحكومية بصد هجمات للحوثيين بالقرب من مدينة تعز المحاصرة وفي محافظة لحج المجاورة. وتتزامن هذه التطورات مع تفاقم الأزمة الإنسانية في البلاد، حيث نزح أكثر من 290 ألف شخص منذ أغسطس في ظل قيود مشددة تعرقل وصول المساعدات الحيوية إلى تعز."
+   ]
+  },
   {
    "id": "4845774a9079",
    "lang": "en",
@@ -33,6 +153,208 @@
    ]
   },
   {
+   "id": "4c1e1d02df87",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+   "date": "2026-11-01T08:24:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+   "title_en": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+   "summary_en": "US President Donald Trump said he is in no hurry to make a decision regarding strikes on Iran. He also stated that \"one or two sites\" in the country still need \"taking care of\".",
+   "body_en": [
+    "Speaking at his Mar-a-Lago Halloween costume party, where he appeared dressed as himself, Trump made the remarks as international mediators continue efforts to avert a renewed outbreak of war."
+   ],
+   "title_fa": "دونالد ترامپ در جشن هالووین «در نقش خودش» گفت برای اقدام در مورد ایران «عجله‌ای ندارد»",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که برای تصمیم‌گیری درباره حمله به ایران عجله‌ای ندارد. او همچنین گفت که هنوز «یک یا دو سایت» در ایران نیاز به «رسیدگی» دارند.",
+   "body_fa": [
+    "دونالد ترامپ که در مهمانی هالووین خود در مار-ئه-لاگو با لباس و ظاهر خودش حاضر شده بود، این سخنان را در حالی مطرح کرد که میانجی‌ها تلاش می‌کنند از وقوع جنگی تازه جلوگیری نمایند."
+   ],
+   "title_ar": "دونالد ترامب في حفل الهالوين \"بشخصيته الحقيقية\" يقول إنه \"ليس في عجلة من أمره\" بشأن إيران",
+   "summary_ar": "قال الرئيس الأمريكي دونالد ترامب إنه ليس في عجلة من أمره لاتخاذ قرار بشأن توجيه ضربات إلى إيران. وأضاف أن \"موقعاً أو موقعين\" في البلاد ما زالا بحاجة إلى \"التعامل معهما\".",
+   "body_ar": [
+    "أدلى ترامب بهذه التصريحات خلال حفل تنكري بمناسبة الهالوين في منتجعه بمار إيه لاغو، حيث حضر الحفل مرتدياً ملابسه المعتادة دون تنكر، وذلك في وقت يسعى فيه الوسطاء لمنع اندلاع حرب جديدة."
+   ]
+  },
+  {
+   "id": "6f545e74e28d",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
+   "date": "2026-11-01T07:24:20Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+   "title_en": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+   "summary_en": "Healthcare workers in Gaza face immense psychological strain, overwork, and personal bereavement while operating under constant pressure during the military conflict.",
+   "body_en": [
+    "Medical personnel at hospitals like Al-Aqsa Martyrs and Nasser Medical Complex report severe emotional trauma after encountering deceased family members at their workplaces. Officials from Gaza's Ministry of Health noted that at least 1,700 medical staff have been killed and dozens detained, leaving the remaining health workers depleted and lacking adequate mental health support.",
+    "A study cited in the report indicates that over three-quarters of Gaza's healthcare workers lack access to mental health services, worsening staff exhaustion and straining the health system's capacity to retain personnel."
+   ],
+   "title_fa": "پزشکان غزه در میان جنگ نبرد با سوگ، کار زیاد و تروما دست و پنجه نرم می‌کنند",
+   "summary_fa": "کادر درمان در غزه هنگام فعالیت زیر فشارهای مداوم در طول درگیری‌های نظامی، با فشارهای روانی شدید، کار بیش از حد و داغداری شخصی مواجه هستند.",
+   "body_fa": [
+    "کارکنان پزشکی در بیمارستان‌هایی مانند شهدای الاقصی و مجتمع پزشکی ناصر، پس از مواجهه با اجساد بستگان خود در محل کار، رویدادهای روانی دردناکی را گزارش می‌دهند. به گفته مقامات وزارت بهداشت غزه، حداقل ۱۷۰۰ تن از پرسنل پزشکی کشته و ده‌ها نفر بازداشت شده‌اند که این امر موجب خستگی شدید کادر درمان باقی‌مانده شده است.",
+    "بر اساس پژوهشی که به آن اشاره شده، بیش از ۷۸ درصد از کارکنان بهداشتی در غزه به خدمات سلامت روان دسترسی ندارند، که این موضوع موجب تشدید فرسودگی شغلی و کاهش توانایی سیستم بهداشت برای حفظ نیروهای خود شده است."
+   ],
+   "title_ar": "أطباء غزة يواجهون الفقد والإرهاق والصدمات النفسية وسط الحرب",
+   "summary_ar": "يواجه الكوادر الطبية في غزة ضغوطاً نفسية هائلة وإرهاقاً كبيراً وفقداناً لأسرهم أثناء عملهم تحت الضغط المستمر خلال الحرب.",
+   "body_ar": [
+    "يعاني أفراد الطواقم الطبية في مستشفيات مثل مستشفى شهداء الأقصى ومجمع ناصر الطبي من صدمات نفسية قاسية إثر تفاجئهم بفقدان أعضاء من عائلاتهم داخل مقر عملهم. وأكد مسئولون في وزارة الصحة بغزة مقتل ما لا يقل عن 1700 من الكوادر الطبية واعتقال العشرات، مما يضاعف العبء على المتبقين.",
+    "وأظهرت دراسة أن 78 بالمئة على الأقل من العاملين في مجال الرعاية الصحية في غزة يفتقرون إلى خدمات الصحة النفسية، مما يفاقم حالة الإنهاك ويهدد قدرة المنظومة الصحية على الاستمرار."
+   ]
+  },
+  {
+   "id": "1460849b2fb4",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece",
+   "date": "2026-11-01T06:40:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+   "title_en": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+   "summary_en": "U.S. President Donald Trump said that Washington has already severely degraded Iran's military and nuclear capabilities but still has one or two sites to address, while Tehran warned that any attack would provoke an immediate and unrestricted retaliation.",
+   "body_en": [
+    "Speaking to reporters in Florida, Trump specifically mentioned a suspected underground complex at Pickaxe Mountain as a potential site the U.S. could neutralize quickly, though Iranian authorities have denied conducting nuclear operations there. Secretary of State Marco Rubio noted that Trump has not yet decided on launching fresh strikes, reiterating Washington's openness to a diplomatic path.",
+    "In response to the strike warnings, Iranian Supreme Leader Mojtaba Khamenei instructed top military commanders to prepare a widespread retaliation targeting all tangible and intangible assets of the American and Israeli alliance. Meanwhile, mediation efforts led by Qatar and Pakistan remain underway, even as shipping restrictions through the Strait of Hormuz continue."
+   ],
+   "title_fa": "رئیس‌جمهور ترامپ می‌گوید ایالات متحده هنوز «یک یا دو هدف» در ایران دارد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد واشنگتن بخش زیادی از توان نظامی و هسته‌ای ایران را از بین برده اما هنوز باید به «یک یا دو سایت» دیگر رسیدگی کند؛ در حالی که تهران هشدار داده است هرگونه حمله‌ای با پاسخی فوری و نامحدود روبه‌رو خواهد شد.",
+   "body_fa": [
+    "ترامپ در گفت‌وگو با خبرنگاران در فلوریدا به‌طور مشخص از تأسیسات زیرزمینی مشکوک در «کوه تیشه» به عنوان هدفی یاد کرد که می‌تواند به‌سرعت خنثی شود، هرچند مقام‌های ایرانی انجام هرگونه فعالیت هسته‌ای در آنجا را تکذیب کرده‌اند. هم‌زمان، مارکو روبیو، وزیر امور خارجه، اعلام کرد ترامپ هنوز تصمیمی درباره حملات جدید نگرفته و واشنگتن آماده دستیابی به راه‌حلی دیپلماتیک است.",
+    "در واکنش به این تهدیدها، مجتبی خامنه‌ای، رهبر ایران، در نشستی با فرماندهان نظامی دستور داد فهرست اهداف برای پاسخی فراگیر و نامحدود به تمامی دارایی‌های ملموس و ناملموس ائتلاف آمریکایی-اسرائیلی به‌روزرسانی شود. هم‌زمان تلاش‌های میانجیگرانه قطر و پاکستان ادامه دارد، هرچند محدودیت‌های رفت‌وآمد در تنگه هرمز همچنان برقرار است."
+   ],
+   "title_ar": "الرئيس ترامب يقول إن الولايات المتحدة لا يزال لديها «هدف أو هدفان» في إيران",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن واشنطن دمرت جزءاً كبيراً من قدرات إيران العسكرية والنووية، لكن لا يزال يتعين عليها التعامل مع موقع أو موقعين، في حين حذرت طهران من أن أي هجوم سيقابل برد فوري وغير مقيد.",
+   "body_ar": [
+    "وخلال حديثه مع الصحفيين في فلوريدا، أشار ترامب على وجه التحديد إلى منشأة مشتبه بها تحت الأرض في «جبل بيكاكس» كأحد المواقع التي يمكن تحييدها سريعاً، رغم نفي طهران ممارسة أي أنشطة نووية هناك. ومن جهته، ذكر وزير الخارجية ماركو روبيو أن ترامب لم يتخذ بعد قراراً بشأن شن ضربات جديدة، مؤكداً انفتاح واشنطن على الحل الدبلوماسي.",
+    "ورداً على هذه التهديدات، أصدر المرشد الأعلى الإيراني مجتبى خامنئي توجيهات لكبار القادة العسكريين لإعداد رد فوري وشامل يستهدف كافة الأصول المادية وغير المادية للتحالف الأمريكي الإسرائيلي. وتتزامن هذه التطورات مع استمرار جهود الوساطة بقيادة قطر وباكستان، في ظل مواصلة فرض القيود على الملاحة في مضيق هرمز."
+   ]
+  },
+  {
+   "id": "272d53e379d8",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-designates-britains-royal-navy-raf-terrorist-groups-report-says",
+   "date": "2026-11-01T06:04:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran designates Britain's Royal Navy, RAF as 'terrorist' groups, report says",
+   "title_en": "Iran designates Britain's Royal Navy, RAF as 'terrorist' groups, report says",
+   "summary_en": "Iran's Foreign Ministry has officially classified Britain's Royal Navy and Royal Air Force as terrorist organisations in a retaliatory measure against the UK.",
+   "body_en": [
+    "According to a statement carried by the Mehr News Agency, the decision was adopted through a resolution by Iran's Supreme National Security Council and also labelled Britain's foreign intelligence service, MI6, as a hostile group. The move follows Britain's designation of the Islamic Revolutionary Guard Corps under the State Threats Act 2026 earlier in July.",
+    "Tehran stated that the measures were implemented in response to British hostiles policies and accused the UK of aiding the US-Israel military campaign against Iran by granting access to bases and logistical infrastructure under British jurisdiction."
+   ],
+   "title_fa": "بر اساس گزارش‌ها، ایران نیروی دریایی و نیروی هوایی سلطنتی بریتانیا را سازمان‌های «تروریستی» نامید",
+   "summary_fa": "وزارت امور خارجه ایران در اقدامی تلافی‌جویانه، نیروی دریایی سلطنتی و نیروی هوایی سلطنتی بریتانیا را سازمان‌های «تروریستی» نامید.",
+   "body_fa": [
+    "طبق بیانیه‌ای که خبرگزاری مهر منتشر کرد، این تصمیم بر اساس مصوبه شورای عالی امنیت ملی ایران اتخاذ شده و سازمان اطلاعات خارجی بریتانیا (ام‌آی۶) را نیز به عنوان «گروه متخاصم» معرفی کرده است. این اقدام در واکنش به اقدام پیشین بریتانیا در تروریستی نامیدن سپاه پاسداران در ماه ژوئیه ذیل قانون تهدیدات کشوری ۲۰۲۶ انجام شد.",
+    "تهران اعلام کرد این اقدامات واکنشی متقابل به سیاست‌های خصمانه بریتانیا بوده و لندن را متهم کرد که از طریق اجازه دسترسی به پایگاه‌ها و امکانات لجستیکی تحت حاکمیت خود، در جنگ آمریکا و اسرائیل علیه ایران مشارکت داشته است."
+   ],
+   "title_ar": "إيران تصنف البحرية الملكية وسلاح الجو الملكي البريطانيين كمنظمات «إرهابية»، بحسب تقرير",
+   "summary_ar": "صنفت وزارة الخارجية الإيرانية البحرية الملكية وسلاح الجو الملكي البريطانيين كمنظمات «إرهابية»، في إجراء انتقامي ضد المملكة المتحدة.",
+   "body_ar": [
+    "وبحسب بيان نشرته وكالة مهر للأنباء، اتُخذ هذا القرار بناءً على مرسوم صادر عن المجلس الأعلى للأمن القومي الإيراني، كما صُنّف جهاز الاستخبارات الخارجية البريطاني (MI6) كـ «جماعة معادية». وتأتي الخطوة رداً على تصنيف لندن للحرس الثوري كمنظمة إرهابية في يوليو الماضي بموجب قانون تهديدات الدولة لعام 2026.",
+    "وأكدت طهران أن هذا الإجراء يستند إلى مبدأ المعاملة بالمثل رداً على ما وصفته بالسياسات البريطانية العدائية، متهمةً لندن بالمشاركة في الحرب الأمريكية الإسرائيلية ضد إيران من خلال توفير القواعد والمنشآت اللوجستية الخاضعة لولايتها."
+   ]
+  },
+  {
+   "id": "0f6082a8597f",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-receive-russian-su-35-jets-after-war-ends-irgc-says",
+   "date": "2026-11-01T05:42:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran to receive Russian Su-35 jets after war ends, IRGC says",
+   "title_en": "Iran to receive Russian Su-35 jets after war ends, IRGC says",
+   "summary_en": "The Islamic Revolutionary Guard Corps announced that Iran has purchased Russian Su-35 fighter jets and anticipates their delivery once the war concludes.",
+   "body_en": [
+    "IRGC spokesperson Mohammad Akraminia told the Iranian news website Tabnak that the aircraft were originally slated to arrive prior to the conflict, adding that required training and preparations have already been completed."
+   ],
+   "title_fa": "سپاه پاسداران: ایران جنگنده‌های سوخو-۳۵ روسی را پس از پایان جنگ دریافت می‌کند",
+   "summary_fa": "سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد که ایران جنگنده‌های سوخو-۳۵ روسی را خریداری کرده است و انتظار دارد پس از پایان جنگ تحویل داده شوند.",
+   "body_fa": [
+    "محمد اکرم‌نیا، سخنگوی سپاه پاسداران، در مصاحبه با وب‌سایت خبری تابناک اظهار داشت که این جنگنده‌ها در اصل قرار بود پیش از آغاز جنگ تحویل داده شوند، اما افزود که آموزش‌ها و آماده‌سازی‌های لازم برای دریافت آنها به پایان رسیده است."
+   ],
+   "title_ar": "الحرس الثوري الإيراني: إيران ستتسلم مقاتلات «سو-35» الروسية بعد انتهاء الحرب",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أن طهران اشترت مقاتلات روسية من طراز «سو-35»، وتتوقع استلامها بمجرد انتهاء الحرب.",
+   "body_ar": [
+    "وقال المتحدث باسم الحرس الثوري، محمد أكرم نيا، في مقابلة مع موقع «تابناك» الإخباري الإيراني، إن الطائرات كان من المقرر في الأصل أن تصل قبل اندلاع الحرب، مشيراً إلى اكتمال كافة الاستعدادات والتدريبات اللازمة لذلك."
+   ]
+  },
+  {
+   "id": "a117d6f5fc5c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-civilians-injured-saudi-coalition-air-raids-hodeidah-houthis-say",
+   "date": "2026-11-01T05:06:37Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say",
+   "title_en": "Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say",
+   "summary_en": "At least three civilians were injured in two air strikes launched by Saudi-led coalition forces on an oil facility in Yemen's Hodeidah governorate, according to Houthi-affiliated media.",
+   "body_en": [
+    "According to Al Masirah TV, the air raids targeted an oil facility located in the Bajil district of the western governorate."
+   ],
+   "title_fa": "حوثی‌ها: سه غیرنظامی در حملات هوایی ائتلاف سعودی به الحدیده زخمی شدند",
+   "summary_fa": "به گزارش رسانه وابسته به حوثی‌ها، دست‌کم سه غیرنظامی در دو حمله هوایی نیروهای ائتلاف به رهبری عربستان سعودی به یک تأسیسات نفتی در استان الحدیده یمن زخمی شدند.",
+   "body_fa": [
+    "به گزارش شبکه المسیره، این حملات هوایی یک تأسیسات نفتی را در منطقه باجل واقع در این استان غربی هدف قرار دادند."
+   ],
+   "title_ar": "الحوثيون: إصابة ثلاثة مدنيين في غارات للتحالف بقيادة السعودية على الحديدة",
+   "summary_ar": "أفادت وسائل إعلام تابعة للحوثيين بإصابة ما لا يقل عن ثلاثة مدنيين جراء غارتين جويتين نفذتهما قوات التحالف بقيادة السعودية على منشأة نفطية في محافظة الحديدة اليمنية.",
+   "body_ar": [
+    "وذكرت قناة المسيرة أن الغارتين استهدفتا منشأة نفطية تقع في مديرية باجل غربي محافظة الحديدة."
+   ]
+  },
+  {
+   "id": "608e24c78fbd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+   "date": "2026-11-01T04:49:15Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+   "title_en": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+   "summary_en": "The United Nations has demanded an urgent and independent investigation into the death of its human rights employee Mohammad el-Shami while in Houthi detention in Yemen. El-Shami died more than a month ago, but his family was only recently notified.",
+   "body_en": [
+    "UN High Commissioner for Human Rights Volker Turk called for full transparency from Houthi authorities, noting that the group did not state the cause of death. Secretary-General Antonio Guterres said he was appalled by the incident and confirmed the UN is urgently seeking answers regarding the circumstances.",
+    "El-Shami was arbitrarily detained alongside dozens of other UN and NGO workers in June 2024 on accusations of espionage. He is the second UN employee to die in Houthi custody since February 2025, while seven other personnel from the human rights office remain detained."
+   ],
+   "title_fa": "سازمان ملل پس از جان‌باختن یکی از کارکنانش در بازداشت حوثی‌ها در یمن خواستار انجام تحقیق شد",
+   "summary_fa": "سازمان ملل متحد خواستار انجام تحقیقی فوری و مستقل درباره مرگ محمد الشامی، کارمند حقوق بشر خود، در بازداشتگاه حوثی‌ها در یمن شد. الشامی بیش از یک ماه پیش جان باخته بود، اما خبر درگذشت او به‌تازگی به خانواده‌اش اطلاع داده شد.",
+   "body_fa": [
+    "فولکر تورک، کمیسر عالی حقوق بشر سازمان ملل، با اشاره به اینکه حوثی‌ها علت فوت را اعلام نکرده‌اند، خواستار شفافیت کامل از سوی این گروه شد. آنتونیو گوترش، دبیرکل سازمان ملل، نیز از این رویداد ابراز انزجار کرد و افزود که سازمان به دنبال پاسخ‌های فوری درباره جزئیات مرگ او است.",
+    "الشامی در ژوئن ۲۰۲۴ به همراه ده‌ها تن دیگر از کارکنان سازمان ملل و سازمان‌های غیردولتی به اتهام جاسوسی به‌طور خودسرانه بازداشت شده بود. او دومین کارمند سازمان ملل است که از فوریه ۲۰۲۵ در بازداشت حوثی‌ها جان باخته است، در حالی که هفت نفر دیگر از کارکنان دفتر حقوق بشر همچنان در اسارت به سر می‌برند."
+   ],
+   "title_ar": "الأمم المتحدة تطالب بالتحقيق بعد وفاة أحد موظفيها رهن الاحتجاز لدى الحوثيين في اليمن",
+   "summary_ar": "طالبت الأمم المتحدة بإجراء تحقيق عاجل ومستقل في وفاة موظف حقوق الإنسان التابع لها محمد الشامي أثناء احتجازه لدى الحوثيين في اليمن. وتوفي الشامي قبل أكثر من شهر، إلا أن عائلته لم تُبلغ بذلك إلا مؤخراً.",
+   "body_ar": [
+    "وطالب المفوض السامي لحقوق الإنسان فولكر تورك سلطات الحوثيين بالشفافية الكاملة، مشيراً إلى أن الجماعة لم تفصح عن سبب الوفاة. من جانبه، عبر الأمين العام للأمم المتحدة أنطونيو غوتيريش عن صدمته، مؤكداً أن المنظمة تبحث بشكل عاجل عن ملابسات الحادث.",
+    "وكان الشامي محتجزاً تعسفياً منذ يونيو 2024 برفقة العشرات من موظفي الأمم المتحدة والمنظمات غير الحكومية بتهمة التجسس. وتعد هذه ثاني حالة وفاة لموظف أممي رهن احتجاز الحوثيين منذ فبراير 2025، في حين لا يزال سبعة آخرون من موظفي مفوضية حقوق الإنسان قيد الاحتجاز."
+   ]
+  },
+  {
    "id": "96a58246ed76",
    "lang": "en",
    "source": "Middle East Eye",
@@ -61,6 +383,68 @@
    "body_ar": [
     "في أعقاب انتخابات أسفرت عن برلمان معلق، أبدى رئيس حزب يشار استعداده للعمل مع أي نائب منتخب يقبل بهذه المبادئ. وبالإضافة إلى الإجراءات المتعلقة بحماس وفرض الخدمة الوطنية، تعهد آيزنكوت بتشكيل لجنة تحقيق رسمية في إخفاقات 7 أكتوبر 2023 وإلغاء قوانين التعديلات القضائية التي أقرتها الحكومة المنتهية ولايتها.",
     "ورغم حصول الأطراف المعارضة لنتنياهو على 67 مقعداً في الكنيست المكون من 120 مقعداً، فإن هذا المجموع يضم 19 مقعداً للأحزاب العربية مقابل 48 للأحزاب الصهيونية، بينما حصل حزب الليكود بزعامة نتنياهو على 27 مقعداً وحزب يشار على 21. ودعا آيزنكوت إلى بذل جهود لتفادي انتخابات جديدة، غير أن تردد قادة معارضين يهود في التعاون رسمياً مع الأحزاب العربية يعقد الوصول إلى أغلبية الـ61 مقعداً اللازمة للحكم."
+   ]
+  },
+  {
+   "id": "637c2bfc0642",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041358/us-hears-pakistans-concerns-over-terrorism-from-afghanistan-would-play-productive-role-if-there-is-one-rubio",
+   "date": "2026-11-01T04:24:21Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "US hears Pakistan’s concerns over terrorism from Afghanistan, would play ‘productive role’ if there is one: Rubio",
+   "title_en": "US hears Pakistan’s concerns over terrorism from Afghanistan, would play ‘productive role’ if there is one: Rubio",
+   "summary_en": "US Secretary of State Marco Rubio said Washington has heard Pakistan's concerns regarding terrorism originating from Afghanistan and is willing to play a productive role to help resolve the issue if possible.",
+   "body_en": [
+    "Speaking to reporters in Atlanta, Rubio emphasized that the US opposes terrorism regardless of its target or origin. He noted that while Washington does not have the closest relationship with the Afghan Taliban, it recognizes Islamabad's concerns over attacks launched from Afghan territory and the Taliban's perceived failure to curb them.",
+    "Rubio's remarks follow a sharp escalation in rhetoric between Islamabad and Kabul, with Pakistan accusing the Taliban administration of refusing to address terrorist sanctuaries on Afghan soil. Afghan Taliban officials have denied the allegations and blamed Pakistan's own policies for the conflict, while previous mediation attempts by regional countries have failed to achieve a breakthrough."
+   ],
+   "title_fa": "روبیو: آمریکا نگرانی‌های پاکستان درباره تروریسم از خاک افغانستان را شنیده است و در صورت وجود، «نقش سازنده‌ای» ایفا خواهد کرد",
+   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که واشنگتن نگرانی‌های پاکستان را در مورد تروریسم با منشأ افغانستان شنیده است و در صورت امکان تمایل دارد نقش سازنده‌ای برای حل این مسئله ایفا کند.",
+   "body_fa": [
+    "روبیو در گفتگو با خبرنگاران در آتلانتا تأکید کرد که ایالات متحده صرف‌نظر از منشأ و هدف تروریسم، با آن مخالف است. وی اشاره کرد که اگرچه واشنگتن روابط چندان نزدیکی با طالبان افغانستان ندارد، اما نگرانی‌های اسلام‌آباد را درباره حملات انجام‌شده از خاک افغانستان و ناکامی طالبان در مهار آن‌ها درک می‌کند.",
+    "این سخنان روبیو در پی تشدید تنش‌های کلامی میان اسلام‌آباد و کابل مطرح می‌شود؛ جایی که پاکستان اداره طالبان را به امتناع از مقابله با پناهگاه‌های تروریستی در خاک افغانستان متهم کرده است. مقامات طالبان این اتهامات را رد کرده و سیاست‌های پاکستان را عامل درگیری دانسته اند، در حالی که تلاش‌های قبلی میانجی‌گران منطقه‌ای برای حل این بحران به نتیجه‌ای نرسیده است."
+   ],
+   "title_ar": "روبيو: الولايات المتحدة استمعت لمخاوف باكستان بشأن الإرهاب من أفغانستان، وستلعب \"دوراً بناءً\" إذا وجد",
+   "summary_ar": "قال وزير الخارجية الأمريكي ماركو روبيو إن واشنطن استمعت إلى مخاوف باكستان بشأن الإرهاب المنطلق من أفغانستان، ومستعدة للعب دور بنّاء للمساعدة في حل المشكلة إذا أتيحت الفرصة.",
+   "body_ar": [
+    "وأكد روبيو في حديثه للصحفيين في أتلانتا أن الولايات المتحدة تعارض الإرهاب بغض النظر عن مصدره أو استهدافه. وأشار إلى أنه على الرغم من أن واشنطن لا تربطها وثيق العلاقات مع حركة طالبان الأفغانية، إلا أنها تفهم مخاوف إسلام آباد بشأن الهجمات المنطلقة من الأراضي الأفغانية وما تراه تقاعساً من طالبان في كبحها.",
+    "وتأتي تصريحات روبيو عقب تصاعد حاد في التراشق الإعلامي بين إسلام آباد وكابول، حيث اتهمت باكستان إدارة طالبان بالرفض المستمر لمعالجة ملاذات الإرهابيين على الأراضي الأفغانية. ومن جانبهم، نفى مسؤولو طالبان هذه الاتهامات وألقوا باللوم على سياسات باكستان، في حين فشلت جهود الوساطة السابقة التي بذلتها دول إقليمية في تحقيق أي اختراق."
+   ]
+  },
+  {
+   "id": "11f8c293dd23",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-more-9500-demolition-stop-work-notices-west-bank-report",
+   "date": "2026-11-01T03:36:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel issues more than 9,500 demolition, stop-work notices in West Bank, report says",
+   "title_en": "Israel issues more than 9,500 demolition, stop-work notices in West Bank, report says",
+   "summary_en": "Israeli authorities have issued over 9,500 demolition and stop-work notices against Palestinian structures in the occupied West Bank since 2015, according to a report by the Wall and Settlement Resistance Commission.",
+   "body_en": [
+    "The commission recorded 9,174 notices issued between 2015 and 2025, alongside an additional 344 notices during the first nine months of 2026. The report noted that these actions have halted construction, put properties under threat, and disrupted the daily lives and livelihoods of Palestinian families.",
+    "The findings come amid a broader surge in violence by Israeli settlers, often occurring under the supervision of the Israeli military, which has caused civilian casualties, raids, sieges, and damage to properties and crops across the territory."
+   ],
+   "title_fa": "طبق یک گزارش، اسرائیل بیش از ۹۵۰۰ اخطار تخریب و توقف کار در کرانه باختری صادر کرده است",
+   "summary_fa": "بر اساس گزارش هیئت مقاومت در برابر دیوار و شهرک‌سازی، مقامات اسرائیلی از سال ۲۰۱۵ تاکنون بیش از ۹۵۰۰ اخطار تخریب و توقف کار برای ساختمان‌های فلسطینیان در کرانه باختری اشغالی صادر کرده‌اند.",
+   "body_fa": [
+    "این هیئت ۹۱۷۴ اخطار را بین سال‌های ۲۰۱۵ تا ۲۰۲۵ و ۳۴۴ اخطار دیگر را در نه ماه نخست سال ۲۰۲۶ ثبت کرده است. در این گزارش آمده است که این اقدامات موجب توقف ساخت‌وساز، تهدید املاک و مختل شدن زندگی روزمره و معیشت خانواده‌های فلسطینی شده است.",
+    "این آمار در حالی منتشر می‌شود که خشونت‌های شهرک‌نشینان اسرائیلی، که اغلب زیر نظر ارتش اسرائیل انجام می‌شود، افزایش یافته و منجر به تلفات غیرنظامیان، یورش‌ها، محاصره‌ها و آسیب به املاک و محصولات کشاورزی شده است."
+   ],
+   "title_ar": "تقرير: إسرائيل تصدر أكثر من 9500 إخطار بالهدم ووقف البناء في الضفة الغربية",
+   "summary_ar": "أصدرت السلطات الإسرائيلية أكثر من 9500 إخطار بالهدم ووقف العمل ضد منشآت فلسطينية في الضفة الغربية المحتلة منذ عام 2015، وفقاً لتقرير صادر عن هيئة مقاومة الجدار والاستيطان.",
+   "body_ar": [
+    "وثقت الهيئة 9,174 إخطاراً صدرت بين عامي 2015 و2025، بالإضافة إلى 344 إخطاراً آخر خلال الأشهر التسعة الأولى من عام 2026. وأشار التقرير إلى أن هذه الإجراءات أدت إلى وقف أعمال البناء وتهديد الممتلكات وتعطيل الحياة اليومية وسبل عيش العائلات الفلسطينية.",
+    "وتأتي هذه الأرقام في ظل تصاعد واسع في عُنف المستوطنين الإسرائيليين، والذي يتم غالباً تحت حراسة الجيش الإسرائيلي، ما أسفر عن سقوط ضحايا من المدنيين، وتنفيذ اقتحامات وحصار وتدمير للممتلكات والمحاصيل الزراعية."
    ]
   },
   {
@@ -121,6 +505,98 @@
    "body_ar": [
     "قال السكان الأصليون في ولاية أروناتشال براديش الواقعة في جبال هيماليا الشرقية النائية لقناة الجزيرة إن السد الضخم يشكل خطراً مباشراً على ثقافتهم وأراضيهم ومصادر رزقهم.",
     "يأتي هذا المشروع المثير للجدل كجزء من خطط الهند لبناء أكبر سد لها في المنطقة لمواجهة مشروع للطاقة الكهرومائية تقيمه الصين في أعالي النهر."
+   ]
+  },
+  {
+   "id": "93455dd7828a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041293/us-to-deport-150-afghan-immigrants-back-to-kabul",
+   "date": "2026-11-01T02:34:09Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "US to deport 150 Afghan immigrants back to Kabul",
+   "title_en": "US to deport 150 Afghan immigrants back to Kabul",
+   "summary_en": "The administration of US President Donald Trump plans to deport over 150 Afghan immigrants back to Afghanistan via Pakistan, according to US media reports.",
+   "body_en": [
+    "The planned deportations, which could begin as early as Monday, involve sending the individuals to Pakistan, which will then oversee their expulsion to Afghanistan. Advocacy groups have warned that the move could put the lives of the deportees in danger.",
+    "According to the advocacy group AfghanEvac, those targeted for deportation include relatives of Afghans who assisted the US military prior to the Taliban's takeover in 2021. The move follows travel bans and efforts by Donald Trump to revoke deportation protections for Afghans."
+   ],
+   "title_fa": "آمریکا ۱۵۰ مهاجر افغان را به کابل بازمی‌گرداند",
+   "summary_fa": "بر اساس گزارش رسانه‌های آمریکایی، دولت دونالد ترامپ، رئیس‌جمهور آمریکا، قصد دارد بیش از ۱۵۰ مهاجر افغان را از طریق پاکستان به افغانستان بازگرداند.",
+   "body_fa": [
+    "این اخراج‌ها که ممکن است از روز دوشنبه آغاز شود، شامل انتقال افراد به پاکستان است تا از آنجا تحت نظارت مقامات پاکستانی به افغانستان فرستاده شوند. گروه‌های مدافع حقوق بشر هشدار داده‌اند که این اقدام می‌تواند جان اخراج‌شدگان را به خطر بیندازد.",
+    "به گفته گروه حمایتی «افغان‌اوک»، برخی از افرادی که قرار است اخراج شوند، بستگان افغان‌هایی هستند که پیش از سقوط کابل در سال ۲۰۲۱ به ارتش آمریکا کمک کرده بودند. این تصمیم در ادامه ممنوعیت‌های مسافرتی و تلاش‌های دونالد ترامپ برای لغو حمایت‌های مربوط به منع اخراج افغان‌ها صورت می‌گیرد."
+   ],
+   "title_ar": "الولايات المتحدة ترحل 150 مهاجراً أفغانياً إلى كابول",
+   "summary_ar": "تخطط إدارة الرئيس الأمريكي دونالد ترامب لترحيل أكثر من 150 مهاجراً أفغانياً إلى أفغانستان عبر باكستان، وفقاً لما أوردته وسائل إعلام أمريكية.",
+   "body_ar": [
+    "وتتضمن عمليات الترحيل المخطط لها، والتي قد تبدأ يوم الاثنين، إرسال الأفراد إلى باكستان التي ستشرف بدورها على طردهم إلى أفغانستان. وحذرت مجموعات حقوقية من أن هذه الخطوة قد تعرض حياة المرحلين للخطر.",
+    "وفقاً لمنظمة \"AfghanEvac\"، فإن من بين المقرر ترحيلهم أقارب لأفغان ساعدوا الجيش الأمريكي قبل سيطرة طالبان في عام 2021. وتأتي هذه الإجراءات في إطار حظر السفر وسعي دونالد ترامب لإنهاء حماية الترحيل للمواطنين الأفغان."
+   ]
+  },
+  {
+   "id": "3736a6e70eb1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-foreign-minister-urges-gulf-states-help-restore-countrys",
+   "date": "2026-11-01T02:25:16Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "Lebanese foreign minister urges Gulf states to help restore country's sovereignty",
+   "title_en": "Lebanese foreign minister urges Gulf states to help restore country's sovereignty",
+   "summary_en": "Lebanese Foreign Minister Youssef Rajji called for a complete Israeli withdrawal from Lebanese territory and an end to attacks, while urging Gulf states to support Lebanon's efforts to reassert full state sovereignty.",
+   "body_en": [
+    "Speaking at the Manama Dialogue, Rajji emphasized that Lebanon, under President Joseph Aoun and Prime Minister Nawaf Salam, is working to place all weapons exclusively under state authority and ban Hezbollah's military operations. He stated that Lebanon would not allow its territory to be used against Gulf states or as a bargaining chip in external negotiations.",
+    "Rajji expressed solidarity with Bahrain and other Gulf nations against external threats and armed groups linked to Tehran. He also highlighted the security of the Red Sea and strategic waterways, calling for a comprehensive Arab partnership rooted in sovereign states with exclusive control over decisions of war and peace."
+   ],
+   "title_fa": "وزیر امور خارجه لبنان از کشورهای خلیج فارس خواست به بازگرداندن حاکمیت این کشور کمک کنند",
+   "summary_fa": "یوسف رَجّی، وزیر امور خارجه لبنان، خواستار خروج کامل اسرائیل از اراضی اشغالی لبنان و پایان دادن به حملات شد و از کشورهای خلیج فارس خواست تا از تلاش‌های لبنان برای احیای کامل حاکمیت دولتی حمایت کنند.",
+   "body_fa": [
+    "رجی در سخنرانی خود در گفتگوی منامه تأکید کرد که لبنان تحت ریاست جمهوری ژوزف عون و نخست‌وزیری نواف سلام در تلاش است تا تمامی سلاح‌ها را منحصراً تحت اختیار دولت قرار داده و فعالیت‌های نظامی حزب‌الله را ممنوع کند. وی تصریح کرد که لبنان اجازه نخواهد داد از خاکش علیه امنیت برادران عرب استفاده شود.",
+    "وزیر خارجه لبنان همچنین بر همبستگی کشورش با بحرین و سایر کشورهای خلیج فارس در برابر تهدیدات گروه‌های مسلح وابسته به تهران تأکید کرد. وی با اشاره به اهمیت امنیت درامتداد دریای سرخ و آبراه‌های استراتژیک، خواستار یک مشارکت راهبردی عربی بر پایه دولت‌های مقتدر شد که اختیار انحصاری تصمیم‌گیری درباره جنگ و صلح را دارا باشند."
+   ],
+   "title_ar": "وزير الخارجية اللبناني يدعو دول الخليج للمساعدة في استعادة سيادة بلاده",
+   "summary_ar": "دعا وزير الخارجية اللبناني يوسف رجي إلى انسحاب إسرائيلي كامل من الأراضي اللبنانية المحتلة ووقف الهجمات، حامثاً دول الخليج على دعم جهود لبنان لاستعادة سيادة الدولة بالكامل.",
+   "body_ar": [
+    "وفي كلمته خلال حوار المنامة، أكد رجي أن لبنان، تحت قيادة الرئيس جوزيف عون ورئيس الوزراء نواف سلام، يعمل على وضع جميع الأسلحة تحت سلطة الدولة حكراً وحظر النشاطات العسكرية لحزب الله. وأوضح أن لبنان لن يسمح باستخدام أراضيه ضد أمن الدول العربية أو كورقة تفاوض خارج حدوده.",
+    "وأعرب رجي عن تضامن لبنان مع البحرين ودول الخليج في مواجهة الهجمات والجماعات المسلحة المرتبطة بطهران. كما شدد على ارتباط أمن الخليج بالبحر الأحمر والممرات البحرية، داعياً إلى شراكة استراتيجية عربية قائمة على دول ذات سيادة تمتلك وحدها قرار الحرب والسلم."
+   ]
+  },
+  {
+   "id": "bb6c28bac66d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/guterres-condemns-death-un-staff-member-houthi-custody",
+   "date": "2026-11-01T01:53:23Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Guterres condemns death of UN staff member in Houthi custody",
+   "title_en": "Guterres condemns death of UN staff member in Houthi custody",
+   "summary_en": "UN Secretary-General Antonio Guterres expressed shock and condemnation over the death of UN human rights staff member Mohammad el-Shami while in Houthi custody in Yemen, demanding an immediate and thorough investigation.",
+   "body_en": [
+    "According to the UN, el-Shami had been arbitrarily detained by the Houthis since June 6, 2024. His family recently learned he had died more than a month ago, though no official explanation regarding the cause or circumstances of his death has been provided.",
+    "UN High Commissioner for Human Rights Volker Turk called the death devastating and urged Houthi authorities to ensure a prompt and transparent inquiry to reveal the truth to the family."
+   ],
+   "title_fa": "گوترش مرگ کارمند سازمان ملل در بازداشت حوثی‌ها را محکوم کرد",
+   "summary_fa": "آنتونیو گوترش، دبیرکل سازمان ملل متحد، از جان باختن محمد الشامی، کارمند حقوق بشر این سازمان در زمان بازداشت نزد حوثی‌ها در یمن ابراز تاسف و آن را محکوم کرد و خواستار تحقیقات فوری و کامل شد.",
+   "body_fa": [
+    "به گفته سازمان ملل، الشامی از ۶ ژوئن ۲۰۲۴ به صورت خودسرانه توسط حوثی‌ها بازداشت شده بود. خانواده او اخیراً مطلع شده‌اند که او بیش از یک ماه پیش درگذشته است، اما هیچ توضیحی درباره علت یا شرایط مرگ وی دریافت نکرده‌اند.",
+    "فولکر تورک، کمیسر عالی حقوق بشر سازمان ملل متحد، مرگ او را ویرانگر خواند و از مقامات حوثی خواست تا برای روشن شدن حقیقت برای خانواده‌اش، تحقیقات سریع و شفافی انجام دهند."
+   ],
+   "title_ar": "غوتيريش يدين وفاة أحد موظفي الأمم المتحدة أثناء احتجازه لدى الحوثيين",
+   "summary_ar": "أعرب الأمين العام للأمم المتحدة أنطونيو غوتيريش عن صدمته وإدانته لوفاة محمد الشامي، الموظف في مفوضية الأمم المتحدة السامية لحقوق الإنسان، أثناء احتجازه لدى الحوثيين في اليمن، داعياً إلى إجراء تحقيق فوري وشامل.",
+   "body_ar": [
+    "وبحسب الأمم المتحدة، كان الشامي محتجزاً بشكل تعسفي لدى الحوثيين منذ 6 يونيو/حزيران 2024. وذكرت عائلته للأمم المتحدة أنه توفي منذ أكثر من شهر، لكنها لم تُبلغ بذلك إلا مؤخراً دون الحصول على أي توضيح حول أسباب الوفاة أو ظروفها.",
+    "ووصف مفوض الأمم المتحدة السامي لحقوق الإنسان فولكر تورك الوفاة بأنها مفجعة للغاية، حثاً سلطات الحوثيين على ضمان إجراء تحقيق سريع وشفاف لكشف الحقيقة للعائلة."
    ]
   },
   {

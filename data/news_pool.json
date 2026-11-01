@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:10:54Z",
+ "updated": "2026-11-01T13:05:50Z",
  "items": [
   {
    "id": "7116fb04b341",
@@ -2400,6 +2400,177 @@
    "desc": "Arab-majority parties made major gains in elections, fuelled by anger over rhetoric targeting the community from Mr. Netanyahu’s hard-right government, but opposition chief Gadi Eisenkot has not decided whether to seek a coalition with them",
    "score": 6,
    "dup_of": "9acee05d5e43"
+  },
+  {
+   "id": "1da5e24db4ce",
+   "title": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+   "date": "2026-11-01T12:32:24Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "MotoGP says Yamaha's non-participation at the November 6–8 event in Lusail 'carries sporting implications'.",
+   "score": 3
+  },
+  {
+   "id": "b42ae36a3b27",
+   "title": "Thousands rally in New Delhi to demand India’s election chief resign",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+   "date": "2026-11-01T11:26:08Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Hundreds of police, some carrying batons and shields, are deployed around the rally site.",
+   "score": 6
+  },
+  {
+   "id": "555d19980e41",
+   "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+   "date": "2026-11-01T11:14:27Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says latest talks 'going fine'; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
+   "score": 4
+  },
+  {
+   "id": "9947d9715741",
+   "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+   "date": "2026-11-01T10:21:48Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Qatar Gas Transport Company says no injuries or environmental damage.",
+   "score": 9
+  },
+  {
+   "id": "18c6985db839",
+   "title": "Yemeni government forces seize strategic positions in al-Jawf",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+   "date": "2026-11-01T10:08:55Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Weapons and ammunition depots are seized after a counteroffensive.",
+   "score": 7
+  },
+  {
+   "id": "c31e69e74300",
+   "title": "Marquez wins Malaysian Grand Prix to close in on retaining championship",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/1/marquez-wins-malaysian-grand-prix-to-close-in-on-retaining-championship?traffic_source=rss",
+   "date": "2026-11-01T09:36:17Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Marc Marquez takes 44-point lead over Jorge Martin and can seal the MotoGP title in Qatar next weekend.",
+   "score": 1
+  },
+  {
+   "id": "4707e2c4811e",
+   "title": "PIA's first Boeing 787-9 Dreamliner arrives in Islamabad",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041374/pias-first-boeing-787-9-dreamliner-arrives-in-islamabad",
+   "date": "2026-11-01T12:04:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan International Airlines’ (PIA) first Boeing 787-9 Dreamliner, acquired on lease last month, arrived in Islamabad from London as flight PK786 on Sunday. A PIA spokesperson, in a statement, said that the carrier is the first Pakistani airline to have added a Boeing 787-9 to its fleet. PIA Chief Executive Aamir Hayat, accompanied by his team, welcomed the Dreamliner at Islamabad airport, according to the statement. The plane is equipped with modern technology, including in-flight entertainment, and features a spacious and comfortable cabin, PIA said. “The inclusion of the Dreamliner is pa",
+   "score": 3
+  },
+  {
+   "id": "f23026487206",
+   "title": "Thousands protest in India's capital against voter roll revision",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041368/thousands-protest-in-indias-capital-against-voter-roll-revision",
+   "date": "2026-11-01T10:20:49Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Thousands joined a protest led by opposition politicians in India’s capital on Sunday, renewing demands for the country’s election chief to resign over an overhaul of voter lists they say unfairly benefits the ruling party. The nationwide revision of electoral rolls has sparked political disputes and street protests in the world’s largest democracy over the last month. The Election Commission says the initiative is necessary to ensure accurate voter lists, but the opposition claims it is being manipulated to favour Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP). Both the Election ",
+   "score": 6,
+   "dup_of": "b42ae36a3b27"
+  },
+  {
+   "id": "f5e310feb221",
+   "title": "Pakistan’s past and future make a bid for the present",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041381/pakistans-past-and-future-make-a-bid-for-the-present",
+   "date": "2026-11-01T12:02:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Whatever there is to be said about Fakhar Zaman has been said. And he has usually said it himself – first when he made his debut and steered Pakistan to their greatest triumph of the past decade, then countless times for Lahore Qalandars, then on that one rainy day in Bangalore, climbing a mountain no one had given him a shot at. Fakhar has had a long few years, with recurring injuries and patches of very lean form, but his penchant of showing up when it matters, in extremely emphatic fashion, hasn’t wavered with time. In a side that gets frequently noted for crumbling under pressure, falterin",
+   "score": 3
+  },
+  {
+   "id": "d11515f95c5b",
+   "title": "Cyber safety",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041310/cyber-safety",
+   "date": "2026-11-01T11:54:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "WHILE the state’s proposal to create a Cybersecurity and Social Media Awareness Council envisages needed interventions to protect children from online harm, the same body’s focus on ‘fake news’ — as described by the government — is cause for concern. Speaking at a recent seminar in Islamabad, the federal information minister said there is a need to raise awareness about the “dangers of fake news”, while also emphasising the need for digital education in schools and colleges. In particular, he said children should be protected from cyberattacks. At the same event, the IT minister observed that ",
+   "score": 2
+  },
+  {
+   "id": "2a28d38a819c",
+   "title": "الحكومة الإسرائيلية: نتنياهو يحاول الحفاظ على تماسك معسكره، وآيزنكوت يسعى لتوسيع دائرة شركائه",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmvgxqdnqzv2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T12:48:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "من المقرر أن يتسلم الرئيس الإسرائيلي إسحاق هرتسوغ النتائج الرسمية للانتخابات يوم الأربعاء، قبل بدء مشاوراته مع ممثلي الأحزاب للاستماع إلى توصياتهم بشأن الشخصية التي ينبغي تكليفها بتشكيل الحكومة",
+   "score": 6,
+   "dup_of": "96a58246ed76"
+  },
+  {
+   "id": "0bfe0fba770b",
+   "title": "بعد الجدل حول قضية \"مدى مصر\".. مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmj4702x1ydro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T11:17:01Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "من جلسة واحدة، تحولت قضية \"موقع مدى مصر\" المستقل ورئيسة تحريره لينا عطا الله، إلى نقاش أوسع حول واقع الإعلام في مصر. فبينما تقول السلطات إن القضية تتعلق بتشغيل موقع دون ترخيص، أثارت إجراءات المحاكمة والخلاف حول طلبات الترخيص أسئلة بشأن تنظيم الإعلام الرقمي وحدود حرية الصحافة.",
+   "score": 5
+  },
+  {
+   "id": "fd089ec59d50",
+   "title": "من هي لانا نسيبة، المرشحة الإماراتية لمنصب الأمين العام للأمم المتحدة؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/watch/c6y4xe081x7no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-01T10:11:37Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "لانا نسيبة، قد تصبح أول امرأة تتولى منصب الأمين العام للأمم المتحدة، وثاني شخصية عربية تصل إلى هذا المنصب.",
+   "score": 5
   }
  ]
 }
