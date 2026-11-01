@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:55:32Z",
+ "updated": "2026-11-01T21:47:06Z",
  "items": [
   {
    "id": "7116fb04b341",
@@ -3182,6 +3182,87 @@
    ],
    "desc": "الشرطة البريطانية اعتقلت أكثر من 4000 شخص لدعمهم الجماعة منذ حظرها في يوليو/تموز 2025.",
    "score": 4
+  },
+  {
+   "id": "72d3716398ea",
+   "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
+   "date": "2026-11-01T20:48:00Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.",
+   "score": 2
+  },
+  {
+   "id": "7a63247dca30",
+   "title": "How will the Iran war shape the outcome of the US midterm vote?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+   "date": "2026-11-01T19:00:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The conflict has become a central issue ahead of Tuesday's polls.",
+   "score": 5
+  },
+  {
+   "id": "17b9135c5bba",
+   "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+   "date": "2026-11-01T18:23:57Z",
+   "countries": [
+    "ISR",
+    "YEM"
+   ],
+   "desc": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+   "score": 6
+  },
+  {
+   "id": "1a3939e319fc",
+   "title": "Trump holds call with Netanyahu over state of Iran war: report",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+   "date": "2026-11-01T20:35:58Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "The Israeli source described the call as “tough,” while the American source said it was “direct,” according to Axios",
+   "score": 7
+  },
+  {
+   "id": "47d9e3d202db",
+   "title": "Israel elections chief says inquiry into irregularities will not undermine result",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece",
+   "date": "2026-11-01T20:20:59Z",
+   "countries": [
+    "ISR",
+    "QAT"
+   ],
+   "desc": "The Shin Bet security agency launched the inquiry last week, at the elections chief’s request, to determine whether the Arab Israeli party Raam received money from Qatar — an accusation both the Gulf state and the party deny",
+   "score": 5
+  },
+  {
+   "id": "73b04d67ffd4",
+   "title": "Dwindling support: On the U.S. and the Cuban embargo",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
+   "date": "2026-11-01T19:16:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India and the world must stand up against the bullying of Cuba by the U.S.",
+   "score": 1
   }
  ]
 }

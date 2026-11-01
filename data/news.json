@@ -1,7 +1,38 @@
 {
- "updated": "2026-11-01T18:55:32Z",
+ "updated": "2026-11-01T21:47:06Z",
  "count": 315,
  "items": [
+  {
+   "id": "1a3939e319fc",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-holds-call-with-netanyahu-over-state-of-iran-war-report/article71654260.ece",
+   "date": "2026-11-01T20:35:58Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Trump holds call with Netanyahu over state of Iran war: report",
+   "title_en": "Trump holds call with Netanyahu over state of Iran war: report",
+   "summary_en": "U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu discussed the conflict with Iran during a call, according to media reports citing officials.",
+   "body_en": [
+    "According to officials cited by Axios, Netanyahu urged Trump to initiate strikes on Iran right after the U.S. midterm elections, whereas Trump favored allowing room for negotiations. The call was characterized as \"tough\" by an Israeli official and \"direct\" by an American official.",
+    "Trump has pursued both military actions and diplomatic efforts to reach a deal aimed at reopening the Strait of Hormuz. He indicated to reporters that negotiations were progressing and noted that Washington was not rushing to launch offensive actions."
+   ],
+   "title_fa": "گزارش‌ها: گفتگوهای تلفنی ترامپ با نتانیاهو درباره وضعیت جنگ ایران",
+   "summary_fa": "بر اساس گزارش‌های رسانه‌ای به نقل از مقامات، دونالد ترامپ رئیس‌جمهور آمریکا و بنیامین نتانیاهو نخست‌وزیر اسرائیل در یک تماس تلفنی درباره درگیری با ایران گفتگو کردند.",
+   "body_fa": [
+    "به گفته مقاماتی که آکسیوس به آن‌ها استناد کرده است، نتانیاهو از ترامپ خواسته است تا بلافاصله پس از انتخابات میان‌دوره‌ای آمریکا حملاتی را علیه ایران آغاز کند، در حالی که ترامپ ترجیح داده است به مذاکرات فرصت داده شود. یک مقام اسرائیلی این تماس را «سخت» و یک مقام آمریکایی آن را «مستقیم» توصیف کرده است.",
+    "ترامپ اقدامات نظامی و تلاش‌های دیپلماتیک را برای دستیابی به توافقی با هدف بازگشایی تنگه هرمز دنبال کرده است. او به خبرنگاران گفت که مذاکرات در حال پیشرفت است و تاکید کرد که واشنگتن عجله‌ای برای آغاز اقدامات تهاجمی ندارد."
+   ],
+   "title_ar": "تقارير: ترامب يجري مكالمة مع نتنياهو بشأن مستجدات الحرب مع إيران",
+   "summary_ar": "أجرى الرئيس الأمريكي دونالد ترامب مكالمة هاتفية مع رئيس الوزراء الإسرائيلي بنيامين نتنياهو لمناقشة الصراع مع إيران، وفقًا لتقارير إعلامية نقلاً عن مسؤولين.",
+   "body_ar": [
+    "وفقًا لمسؤولين نقلت عنهم شبكة آكسيوس، ضغط نتنياهو على ترامپ لبدء ضربات ضد إيران فور انتهاء انتخابات المنتصف الأمريكية، بينما فضل ترامب إعطاء فرصة للمفاوضات. ووصف مسؤول إسرائيلي المكالمة بأنها كانت \"صعبة\"، بينما وصفها مسؤول أمريكي بأنها كانت \"مباشرة\".",
+    "وقد اتبع ترامب مسارین يشملان العمليات العسكرية والجهود الدبلوماسية للتوصل إلى اتفاق يهدف إلى إعادة فتح مضيق هرمز. وأشار للصحفيين إلى أن المفاوضات تسير بشكل جيد، مؤكدًا أن واشنگتن ليست عجلة في شن هجمات هجومية."
+   ]
+  },
   {
    "id": "2c3f5657ea9e",
    "lang": "en",
@@ -477,36 +508,6 @@
    "summary_ar": "قال الرئيس الأمريكي دونالد ترامب إنه ليس في عجلة من أمره لاتخاذ قرار بشأن توجيه ضربات إلى إيران. وأضاف أن \"موقعاً أو موقعين\" في البلاد ما زالا بحاجة إلى \"التعامل معهما\".",
    "body_ar": [
     "أدلى ترامب بهذه التصريحات خلال حفل تنكري بمناسبة الهالوين في منتجعه بمار إيه لاغو، حيث حضر الحفل مرتدياً ملابسه المعتادة دون تنكر، وذلك في وقت يسعى فيه الوسطاء لمنع اندلاع حرب جديدة."
-   ]
-  },
-  {
-   "id": "6f545e74e28d",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
-   "date": "2026-11-01T07:24:20Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-   "title_en": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-   "summary_en": "Healthcare workers in Gaza face immense psychological strain, overwork, and personal bereavement while operating under constant pressure during the military conflict.",
-   "body_en": [
-    "Medical personnel at hospitals like Al-Aqsa Martyrs and Nasser Medical Complex report severe emotional trauma after encountering deceased family members at their workplaces. Officials from Gaza's Ministry of Health noted that at least 1,700 medical staff have been killed and dozens detained, leaving the remaining health workers depleted and lacking adequate mental health support.",
-    "A study cited in the report indicates that over three-quarters of Gaza's healthcare workers lack access to mental health services, worsening staff exhaustion and straining the health system's capacity to retain personnel."
-   ],
-   "title_fa": "پزشکان غزه در میان جنگ نبرد با سوگ، کار زیاد و تروما دست و پنجه نرم می‌کنند",
-   "summary_fa": "کادر درمان در غزه هنگام فعالیت زیر فشارهای مداوم در طول درگیری‌های نظامی، با فشارهای روانی شدید، کار بیش از حد و داغداری شخصی مواجه هستند.",
-   "body_fa": [
-    "کارکنان پزشکی در بیمارستان‌هایی مانند شهدای الاقصی و مجتمع پزشکی ناصر، پس از مواجهه با اجساد بستگان خود در محل کار، رویدادهای روانی دردناکی را گزارش می‌دهند. به گفته مقامات وزارت بهداشت غزه، حداقل ۱۷۰۰ تن از پرسنل پزشکی کشته و ده‌ها نفر بازداشت شده‌اند که این امر موجب خستگی شدید کادر درمان باقی‌مانده شده است.",
-    "بر اساس پژوهشی که به آن اشاره شده، بیش از ۷۸ درصد از کارکنان بهداشتی در غزه به خدمات سلامت روان دسترسی ندارند، که این موضوع موجب تشدید فرسودگی شغلی و کاهش توانایی سیستم بهداشت برای حفظ نیروهای خود شده است."
-   ],
-   "title_ar": "أطباء غزة يواجهون الفقد والإرهاق والصدمات النفسية وسط الحرب",
-   "summary_ar": "يواجه الكوادر الطبية في غزة ضغوطاً نفسية هائلة وإرهاقاً كبيراً وفقداناً لأسرهم أثناء عملهم تحت الضغط المستمر خلال الحرب.",
-   "body_ar": [
-    "يعاني أفراد الطواقم الطبية في مستشفيات مثل مستشفى شهداء الأقصى ومجمع ناصر الطبي من صدمات نفسية قاسية إثر تفاجئهم بفقدان أعضاء من عائلاتهم داخل مقر عملهم. وأكد مسئولون في وزارة الصحة بغزة مقتل ما لا يقل عن 1700 من الكوادر الطبية واعتقال العشرات، مما يضاعف العبء على المتبقين.",
-    "وأظهرت دراسة أن 78 بالمئة على الأقل من العاملين في مجال الرعاية الصحية في غزة يفتقرون إلى خدمات الصحة النفسية، مما يفاقم حالة الإنهاك ويهدد قدرة المنظومة الصحية على الاستمرار."
    ]
   },
   {
