@@ -13,8 +13,8 @@ summary: 'تماس رئیس جمهور آمریکا و نخست وزیر اسر�
 focus_keyword: ترامپ و نتانیاهو
 seo_title: ترامپ و نتانیاهو؛ ۴ گره تصمیم درباره گام بعدی علیه ایران
 meta_description: ترامپ و نتانیاهو درباره ایران هم نظرند یا اختلاف دارند؟ چهار گره زمان بندی، توافق قابل قبول، تقسیم هزینه و معیار پایان عملیات در تصمیم بعدی علیه ایران.
-image: /assets/uploads/trump-netanyahu-iran-next-move-2026-fa.jpg
-image_alt: نقشه خاورمیانه با ایران و اسرائیل و پیوند واشنگتن
+image: /assets/uploads/trump-netanyahu-iran-next-move-2026.jpg
+image_alt: پرچم های آمریکا، اسرائیل و ایران
 translated: false
 draft: false
 ---

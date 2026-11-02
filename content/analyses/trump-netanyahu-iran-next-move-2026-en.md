@@ -13,8 +13,8 @@ summary: 'A telephone conversation between the American president and Israel''s 
 focus_keyword: Trump and Netanyahu
 seo_title: 'Trump and Netanyahu: 4 Decision Points on the Next Iran Move'
 meta_description: 'Are Trump and Netanyahu aligned on Iran? Four decision points: timing, an acceptable deal, the distribution of costs and when military operations should end.'
-image: /assets/uploads/trump-netanyahu-iran-next-move-2026-en.jpg
-image_alt: Map of the Middle East highlighting Iran and Israel, with a link to Washington
+image: /assets/uploads/trump-netanyahu-iran-next-move-2026.jpg
+image_alt: Flags of the United States, Israel and Iran
 translated: true
 draft: false
 ---

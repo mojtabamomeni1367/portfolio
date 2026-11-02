@@ -13,8 +13,8 @@ summary: 'يثير الاتصال بين الرئيس الأمريكي ورئي�
 focus_keyword: ترامب ونتنياهو
 seo_title: ترامب ونتنياهو؛ ٤ عقد في القرار بشأن الخطوة المقبلة ضد إيران
 meta_description: 'هل يتفق ترامب ونتنياهو بشأن إيران؟ أربع عقد تحدد الخطوة المقبلة: التوقيت، والاتفاق المقبول، وتوزيع التكاليف، ومعيار إنهاء العمليات العسكرية.'
-image: /assets/uploads/trump-netanyahu-iran-next-move-2026-ar.jpg
-image_alt: خريطة الشرق الأوسط تبرز إيران وإسرائيل والصلة بواشنطن
+image: /assets/uploads/trump-netanyahu-iran-next-move-2026.jpg
+image_alt: أعلام الولايات المتحدة وإسرائيل وإيران
 translated: true
 draft: false
 ---
