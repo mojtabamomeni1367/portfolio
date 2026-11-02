@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:21:13Z",
+ "updated": "2026-11-02T04:07:22Z",
  "count": 319,
  "items": [
   {
@@ -471,37 +471,6 @@
    ]
   },
   {
-   "id": "d10d5b592db6",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
-   "date": "2026-11-01T13:03:53Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Iran submits evidence of US-Israeli attacks on maritime infrastructure to IMO",
-   "title_en": "Iran submits evidence of US-Israeli attacks on maritime infrastructure to IMO",
-   "summary_en": "Iran has submitted a dossier of evidence to the International Maritime Organisation (IMO) detailing alleged US and Israeli attacks on its maritime infrastructure.",
-   "body_en": [
-    "The documentation provided by Tehran includes photographic evidence and records of sabotage against Iranian maritime facilities. According to Iranian officials, IMO member states will review the material during a council session in London scheduled for November 2-6.",
-    "Iranian authorities stated that these attacks jeopardize the safety of international shipping and seafarers. They added that damage to traffic control and rescue systems increases collision risks and weakens emergency response capabilities."
-   ],
-   "title_fa": "ایران اسناد حملات آمریکا و اسرائیل به زیرساخت‌های دریایی را به سازمان بین‌المللی دریانوردی ارائه داد",
-   "summary_fa": "ایران پرونده‌ای از مدارک و اسناد مربوط به حملات ادعایی آمریکا و اسرائیل به زیرساخت‌های دریایی خود را به سازمان بین‌المللی دریانوردی (IMO) ارائه کرده است.",
-   "body_fa": [
-    "مدارک ارائه‌شده توسط تهران شامل اسناد تصویری و سوابق خرابکاری علیه تأسیسات دریایی ایران است. به گفته مقامات ایرانی، کشورهای عضو سازمان بین‌المللی دریانوردی این مدارک را در نشست شورای این سازمان در لندن که برای ۲ تا ۶ نوامبر برنامه‌ریزی شده است، بررسی خواهند کرد.",
-    "مقامات ایرانی اعلام کردند که این حملات ایمنی کشتیرانی بین‌المللی و دریانوردان را به خطر می‌اندازد. آنها افزودند که آسیب به سیستم‌های کنترل ترافیک و امداد و نجات، خطر حوادث را افزایش داده و توانمندی‌های پاسخگویی به شرایط اضطراری را تضعیف می‌کند."
-   ],
-   "title_ar": "إيران تقدم أدلة للتقارير عن هجمات أمريكية وإسرائيلية على البنية التحتية البحرية إلى المنظمة البحرية الدولية",
-   "summary_ar": "قدمت إيران ملف أدلة إلى المنظمة البحرية الدولية (IMO) يفصل الهجمات الأمريكية والإسرائيلية المزاعم على بنيتها التحتية البحرية.",
-   "body_ar": [
-    "تتضمن الوثائق التي قدمتها تهران أدلة فوتوغرافية وسجلات للأعمال التخريبية ضد المنشآت البحرية الإيرانية. ووفقًا بمسؤولين إيرانيين، ستناقش الدول الأعضاء في المنظمة البحرية الدولية هذه الأدلة خلال دورة المجلس المقرر عقدها في لندن من 2 إلى 6 نوفمبر.",
-    "وصرحت السلطات الإيرانية أن هذه الهجمات تهدد سلامة الملاحة الدولية البحارة. وأضافت أن الأضرار التي لحقت بأنظمة مراقبة الحركة البحرية ومرافق الإنقاذ تزيد من مخاطر الحوادث وتقوض قدرات الاستجابة للطوارئ."
-   ]
-  },
-  {
    "id": "d235ca549940",
    "lang": "en",
    "source": "Middle East Eye",
@@ -703,6 +672,36 @@
    "summary_ar": "أعلن الحرس الثوري الإيراني أن طهران اشترت مقاتلات روسية من طراز «سو-35»، وتتوقع استلامها بمجرد انتهاء الحرب.",
    "body_ar": [
     "وقال المتحدث باسم الحرس الثوري، محمد أكرم نيا، في مقابلة مع موقع «تابناك» الإخباري الإيراني، إن الطائرات كان من المقرر في الأصل أن تصل قبل اندلاع الحرب، مشيراً إلى اكتمال كافة الاستعدادات والتدريبات اللازمة لذلك."
+   ]
+  },
+  {
+   "id": "2c0d39d07cbd",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/raam-and-joint-list-the-surge-of-the-other/article71650610.ece",
+   "date": "2026-11-01T05:34:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Ra’am and Joint List | The surge of the other",
+   "title_en": "Ra’am and Joint List | The surge of the other",
+   "summary_en": "Arab political parties in Israel secured a record combined 19 seats in the Knesset following high voter turnout among Arab citizens in the October 27 legislative elections.",
+   "body_en": [
+    "High participation among Arab voters, estimated at nearly 80% by Channel 12 exit polls, pushed the Joint List and the United Arab List (Ra’am) to become the third-largest bloc in parliament. The surge was driven by mobilization over discriminatory rhetoric, government policies, rising crime in Arab communities, and the ongoing war in Gaza and violence in the West Bank.",
+    "Despite their historic gains, both major Israeli blocs have expressed reluctance to form a coalition with Arab parties. Prime Minister Benjamin Netanyahu vowed to exclude them from power, while opposition leader Gadi Eisenkot of Yashar has also been hesitant to align with them due to fundamental differences over Palestinian statehood and the occupation."
+   ],
+   "title_fa": "راعم و لیست مشترک | جهش دیگری",
+   "summary_fa": "احزاب سیاسی عرب در اسرائیل در پی مشارکت بالای شهروندان عرب در انتخابات پارلمانی ۲۷ اکتبر، موفق به کسب مجموعاً ۱۹ کرسی در کنست شدند که یک حد نصاب تاریخی محسوب می‌شود.",
+   "body_fa": [
+    "مشارکت بالای رای‌دهندگان عرب، که در نظرسنجی‌های پای صندوق شبکه ۱۲ نزدیک به ۸۰ درصد برآورد شد، باعث گردید لیست مشترک و فهرست متحد عربی (راعم) به سومین فراکسیون بزرگ در پارلمان تبدیل شوند. این جهش ناشی از بسترسازی سیاسی علیه سخنان تبعیض‌آمیز، سیاست‌های حکومتی، افزایش جرم و جنایت در جامعه عرب، و جنگ جاری در غزه و خشونت‌ها در کرانه باختری بوده است.",
+    "با وجود این دستاورد تاریخی، هر دو ائتلاف اصلی اسرائیلی تمایلی به تشکیل دولت ائتلافی با احزاب عربی نشان نداده‌اند. بنیامین نتانیاهو، نخست‌وزیر، قول داده است که آن‌ها را از قدرت دور نگه دارد، در حالی که گادی آیزنکوت، رهبر اپوزیسیون از حزب یاشار، نیز به دلیل اختلافات بنیادی در مورد تشکیل کشور مستقل فلسطینی و اشغالگری، برای همکاری با آن‌ها تردید دارد."
+   ],
+   "title_ar": "راعم والقائمة المشتركة | تصاعد الآخر",
+   "summary_ar": "حققت الأحزاب السياسية العربية في إسرائيل رقماً قياسياً بحصولها على 19 مقعداً مجتمعة في الكنيست في أعقاب الإقبال الكبير من المواطنين العرب في الانتخابات التشريعية التي جرت في 27 أكتوبر.",
+   "body_ar": [
+    "أدى الإقبال الكبير من الناخبين العرب، الذي قدرته استطلاعات خروج الملايين التابعة للقناة 12 بنحو 80٪، إلى جعل القائمة المشتركة والقائمة العربية الموحدة (راعم) ثالث أكبر كتلة في البرلمان. ورافق هذا الارتفاع تعبئة ضد الخطاب التمييزي، وسياسات الحكومة، وتصاعد الجريمة في المجتمع العربي، والحرب المستمرة في غزة والعنف في الضفة الغربية.",
+    "على الرغم من هذه المكاسب التاريخية، أبدت الكتلتا الإسرائيليتان الرئيسيتان ترددها في تشكيل ائتلاف مع الأحزاب العربية. حيث تعهد رئيس الوزراء بنيامين نتنياهو بإبعادها عن السلطة، بينما تردد زعيم المعارضة غادي آیزنكوت من حزب يشار في التحالف معها بسبب الاختلافات الجوهرية حول إقامة الدولة الفلسطينية والاحتلال."
    ]
   },
   {

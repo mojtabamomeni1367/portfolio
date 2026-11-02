@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:21:13Z",
+ "updated": "2026-11-02T04:07:22Z",
  "items": [
   {
    "id": "8fa2de342312",
@@ -1852,6 +1852,32 @@
    "desc": "ترامب يبحث إيران مع نتنياهو، وطهران تحذّر من حرب أطول إذا تجدد القتال، فيما يكشف تحقيق لرويترز شبكة سرية لتأمين احتياجاتها العسكرية رغم العقوبات.",
    "score": 8,
    "dup_of": "46aeed245c8d"
+  },
+  {
+   "id": "9742a3ed6c54",
+   "title": "Irish bookshops help meet U.K. demand for Sally Rooney novels",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/irish-bookshops-help-meet-uk-demand-for-sally-rooney-novels/article71655233.ece",
+   "date": "2026-11-02T03:58:21Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Publisher Faber said it could no longer distribute Ms. Rooney's books in the United Kingdom because it could not transfer U.K. earnings to the author after she announced plans to donate those proceeds to Palestine Action, which is banned in Britain",
+   "score": 1
+  },
+  {
+   "id": "2c0d39d07cbd",
+   "title": "Ra’am and Joint List | The surge of the other",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/raam-and-joint-list-the-surge-of-the-other/article71650610.ece",
+   "date": "2026-11-01T05:34:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s Arab parties made historic gains in elections but uncertainty remains whether the opposition bloc would join hands with them to form a government",
+   "score": 7
   }
  ]
 }
