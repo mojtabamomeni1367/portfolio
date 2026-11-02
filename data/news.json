@@ -1,7 +1,118 @@
 {
- "updated": "2026-11-01T21:47:06Z",
- "count": 315,
+ "updated": "2026-11-02T01:21:13Z",
+ "count": 319,
  "items": [
+  {
+   "id": "46aeed245c8d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-some-point-will-need-give-iran-hammer",
+   "date": "2026-11-02T00:37:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says US 'at some point' will need to give Iran 'the hammer'",
+   "title_en": "Trump says US 'at some point' will need to give Iran 'the hammer'",
+   "summary_en": "US President Donald Trump reiterated threats to strike Iran, telling a campaign rally that Washington may eventually need to use extreme force against Tehran.",
+   "body_en": [
+    "Speaking at an event in Iowa ahead of the 3 November midterm elections, Trump said the only reason he had not finished with Iran was a desire to save lives, but asserted that the US would eventually have to strike Tehran forcefully."
+   ],
+   "title_fa": "ترامپ می‌گوید ایالات متحده «در مقطعی» باید ضربه نهایی را به ایران وارد کند",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، با تکرار تهدیدها مبنی بر ازسرگیری حملات علیه ایران، در جمع هوادارانش گفت واشنگتن ممکن است در مقطعی ناچار شود به تهران ضربه سنگینی وارد کند.",
+   "body_fa": [
+    "ترامپ طی سخنرانی در جمع هواداران خود در آیووا پیش از انتخابات میان‌دوره‌ای ۳ نوامبر گفت تنها دلیلی که کار ایران را تمام نکرده، تمایل او برای نجات جان انسان‌ها بوده است، اما در مقطعی ایالات متحده مجبور خواهد شد ضربه سختی به آن کشور وارد کند."
+   ],
+   "title_ar": "ترامب يقول إن الولايات المتحدة ستحتاج \"في مرحلة ما\" إلى توجيه ضربة قاصمة لإيران",
+   "summary_ar": "جدد الرئيس الأمريكي دونالد ترامب تهديداته باستئناف الهجمات على إيران، مصرحاً أمام تجمع انتخابي بأن واشنطن قد تضطر في نهاية المطاف إلى توجيه ضربة قاصمة لطهران.",
+   "body_ar": [
+    "وخلال كلمة ألقاها أمام مؤيديه في ولاية آيوا قبيل انتخابات التجديد النصفي في 3 نوفمبر، قال ترامب إن السبب الوحيد لعدم حسابه النهائي مع إيران هو رغبته في الحفاظ على الأرواح، مؤكداً أن الولايات المتحدة ستضطر في مرحلة ما إلى توجيه ضربة قاصمة لها."
+   ]
+  },
+  {
+   "id": "3a92a606d985",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+   "date": "2026-11-02T00:29:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+   "title_en": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+   "summary_en": "The head of Israel's Central Elections Committee affirmed that the election results remain valid despite claims by Prime Minister Benjamin Netanyahu's party that the vote was stolen through foreign interference and Arab-led parties.",
+   "body_en": [
+    "Elections chief Noam Sohlberg stated alongside security and legal officials that suspicions of foreign meddling would not invalidate the electoral process, responding to claims by Netanyahu's Likud party that Arab-led factions illicitly gained seats with Qatari money, an allegation Qatar rejected. Opposition leader Gadi Eisenkot accused Netanyahu of attempting to delegitimise the outcome, while police dealt with three activists suspected of voter-bribery links to the Ra'am party, whose leader Mansour Abbas condemned the arrests as an attempt to sway results.",
+    "The vote produced a political deadlock in the 120-seat Knesset, with Netanyahu's bloc winning 53 seats and Eisenkot's opposition securing 48, leaving neither able to govern alone. Arab-led parties secured a historic 19 seats, theoretically offering Eisenkot a path to a 67-seat majority, though such a partnership remains politically fraught. Official certification of the results is expected this week, after which President Isaac Herzog will task a candidate with forming a government."
+   ],
+   "title_fa": "مقامات اسرائیلی می‌گویند نتایج معتبر است، در حالی که نتانیاهو مدعی «دزدیده شدن» انتخابات شد",
+   "summary_fa": "رئیس کمیته مرکزی انتخابات اسرائیل تأکید کرد که نتایج انتخابات معتبر خواهد ماند، هرچند حزب بنیامین نتانیاهو، نخست‌وزیر اسرائیل، بدون ارائه مدرک مدعی شده است احزاب عرب با حمایت مالی خارجی انتخابات را «دزدیده‌اند».",
+   "body_fa": [
+    "نوام سولبرگ، رئیس کمیته انتخابات، همراه با رئیس شین‌بت و دادستان کل اعلام کرد حتی در صورت اثبات سوءظن‌ها، سلامت کلی انتخابات مخدوش نمی‌شود. این در حالی است که حزب لیکود متعلق به نتانیاهو احزاب عرب را به سرقت آرا با دریافت پول از قطر متهم کرد؛ اتهامی که دوحه آن را کارزار اطلاعات نادرست خواند. گادی آیزنکوت، رهبر اپوزیسیون، نتانیاهو را به راه‌اندازی کارزاری سازمان‌یافته برای سلب مشروعیت از نتایج متهم کرد و منصور عباس، رهبر حزب رعم، بازداشت فعالان متهم به رشوه انتخاباتی را تلاشی غیردموکراتیک برای اثرگذاری بر آرا دانست.",
+    "در این انتخابات، بلوک نتانیاهو ۵۳ کرسی و جناح مخالف به رهبری آیزنکوت ۴۸ کرسی در کنست ۱۲۰ نفره به دست آوردند و هیچ‌کدام اکثریت لازم را ندارند. احزاب تحت رهبری اعراب با کسب ۱۹ کرسی می‌توانند از نظر ریاضی به آیزنکوت در تشکیل اکثریت ۶۷ کرسی کمک کنند، هرچند این ائتلاف از نظر سیاسی دشوار ارزیابی می‌شود. نتایج رسمی این هفته تأیید خواهد شد و پس از آن اسحاق هرتزوگ، رئیس‌جمهور، نامزد تشکیل دولت را مأمور خواهد کرد."
+   ],
+   "title_ar": "مسؤولون إسرائيليون يؤكدون ثبات النتائج بينما يدعي نتنياهو أن الانتخابات \"سُرقت\"",
+   "summary_ar": "أكد رئيس لجنة الانتخابات المركزية الإسرائيلية أن نتائج الانتخابات العامة ستظل قائمة، رغم مزاعم حزب رئيس الوزراء بنيامين نتنياهو بأن أحزاباً تقودها شخصيات عربية \"سرقت\" الأصوات وتلقت تمويلاً خارجياً.",
+   "body_ar": [
+    "أكد رئيس لجنة الانتخابات المركزية نوعام سولبرغ، برفقة رئيس الشاباك والمستشارة القضائية للحكومة، أن شبهات التدخل الأجنبي لن تقوض نزاهة العملية الانتخابية ونتائجها. وجاء ذلك بعدما اتهم حزب الليكود بزعامة نتنياهو الأحزاب العربية بـ\"سرقة\" الأصوات وتلقي تمويل من قطر، وهو ما نفته الدوحة. ومن جانبه، اتهم زعيم المعارضة غادي آيزنكوت نتنياهو بالسعي لنزع الشرعية عن الانتخابات، في حين استنكر منصور عباس، رئيس القائمة العربية الموحدة، توقيف ناشطين بشبهة تقديم رشاوى انتخابية معتبراً ذلك محاولة للتأثير على النتائج.",
+    "وأسفرت الانتخابات عن مأزق سياسي في الكنيست المكون من 120 مقعداً، حيث حصل معسكر نتنياهو على 53 مقعداً مقابل 48 مقعداً لكتلة آيزنكوت، مما يحرم الطرفين من تشكيل حكومة بمفردهما. وفي المقابل، حصدت الأحزاب العربية 19 مقعداً، وهو ما يتيح لآيزنكوت حسابياً تشكيل أغلبية من 67 نائباً رغم الصعوبات السياسية المحيطة بهذا التحالف. ومن المقرر اعتماد النتائج رسمياً هذا الأسبوع ليكلف بعدها الرئيس يتسحاق هرتسوغ مرشحاً بتشكيل الحكومة."
+   ]
+  },
+  {
+   "id": "06413aba9f10",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+   "date": "2026-11-02T00:23:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran warns renewed war with US could outlast previous conflict",
+   "title_en": "Iran warns renewed war with US could outlast previous conflict",
+   "summary_en": "Iran has warned that any renewed military conflict with the United States could last longer than their earlier confrontation, as President Donald Trump indicated further potential targets.",
+   "body_en": [
+    "Tehran also threatened retaliatory action without geographical limits amid ongoing diplomatic efforts to prevent further escalation prior to the upcoming US midterm elections."
+   ],
+   "title_fa": "ایران هشدار داد جنگ مجدد با آمریکا می‌تواند طولانی‌تر از درگیری پیشین باشد",
+   "summary_fa": "در پی اشاره دونالد ترامپ مبنی بر وجود اهداف بیشتر برای حمله، ایران هشدار داد که ازسرگیری جنگ با ایالات متحده ممکن است بیش از درگیری قبلی به طول بینجامد.",
+   "body_fa": [
+    "تهران همچنین تهدید کرد که اقدامات تلافی‌جویانه آن هیچ محدودیت جغرافیایی نخواهد داشت؛ این مواضع هم‌زمان با تداوم تلاش‌های دیپلماتیک برای جلوگیری از تشدید تنش‌ها پیش از انتخابات میان‌دوره‌ای آمریکا مطرح شده است."
+   ],
+   "title_ar": "إيران تحذر من أن تجدد الحرب مع الولايات المتحدة قد يمتد لفترة أطول من النزاع السابق",
+   "summary_ar": "حذرت إيران من أن أي حرب جديدة مع الولايات المتحدة قد تدوم لفترة أطول من النزاع السابق، وذلك تزامناً مع تلميح الرئيس دونالد ترامب إلى وجود أهداف أخرى قابلة للقصف.",
+   "body_ar": [
+    "وهددت طهران بالرد دون التقيد بحدود جغرافية، في وقت تتواصل فيه المساعي الدبلوماسية لنزع فتيل التصعيد قبل انتخابات التجديد النصفي في الولايات المتحدة."
+   ]
+  },
+  {
+   "id": "3eb9c0e908f3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-war-will-end-very-soon-one-way-or-other",
+   "date": "2026-11-01T22:47:37Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says Iran war will end ‘very soon, one way or the other’",
+   "title_en": "Trump says Iran war will end ‘very soon, one way or the other’",
+   "summary_en": "US President Donald Trump stated that the war with Iran will end very soon, saying Tehran will either make a deal or the US will end it.",
+   "body_en": [
+    "In an interview with the Right Side Broadcasting Network (RSBN), Donald Trump claimed that a significant victory had been achieved and asserted that the conflict would conclude shortly. He added that the war could potentially end \"maybe the easy way\" if Iran agrees to a deal."
+   ],
+   "title_fa": "ترامپ می‌گوید جنگ با ایران «خیلی زود، به یک شکلی» پایان خواهد یافت",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که جنگ با ایران به‌زودی پایان خواهد یافت و گفت تهران یا توافق خواهد کرد یا ایالات متحده آن را تمام می‌کند.",
+   "body_fa": [
+    "دونالد ترامپ در گفتگو با شبکه پخش رایت ساید (RSBN) مدعی شد که پیروزی بزرگی به دست آمده و تأکید کرد که این درگیری به‌زودی نهایی خواهد شد. وی افزود که اگر ایران با توافق موافقت کند، جنگ ممکن است «از راه آسان» به پایان برسد."
+   ],
+   "title_ar": "ترامب يقول إن الحرب مع إيران ستنتهي \"قريباً جداً، بطريقة أو بأخرى\"",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن الحرب مع إيران ستنتهي قريباً جداً، مشيراً إلى أن طهران إما ستتوصل إلى اتفاق أو أن الولايات المتحدة ستنهيها بنفسها.",
+   "body_ar": [
+    "في مقابلة مع شبكة \"رايت سايد برودكاستينغ\" (RSBN)، ادعى دونالد ترامب أنه تم تحقيق نصر كبير، مؤكداً أن الصراع سينتهي قريباً. وأضاف أن الحرب قد تنتهي \"ربما بالطريقة السهلة\" إذا وافقت إيران على إبرام صفقة."
+   ]
+  },
   {
    "id": "1a3939e319fc",
    "lang": "en",
@@ -31,6 +142,33 @@
    "body_ar": [
     "وفقًا لمسؤولين نقلت عنهم شبكة آكسيوس، ضغط نتنياهو على ترامپ لبدء ضربات ضد إيران فور انتهاء انتخابات المنتصف الأمريكية، بينما فضل ترامب إعطاء فرصة للمفاوضات. ووصف مسؤول إسرائيلي المكالمة بأنها كانت \"صعبة\"، بينما وصفها مسؤول أمريكي بأنها كانت \"مباشرة\".",
     "وقد اتبع ترامب مسارین يشملان العمليات العسكرية والجهود الدبلوماسية للتوصل إلى اتفاق يهدف إلى إعادة فتح مضيق هرمز. وأشار للصحفيين إلى أن المفاوضات تسير بشكل جيد، مؤكدًا أن واشنگتن ليست عجلة في شن هجمات هجومية."
+   ]
+  },
+  {
+   "id": "856b4c0c9c3d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-two-tankers-exploded-after-hitting-mines-hormuz",
+   "date": "2026-11-01T20:18:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz",
+   "title_en": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz",
+   "summary_en": "The naval force of Iran's Islamic Revolutionary Guard Corps stated that two oil tankers exploded after striking mines along an unauthorised path in the Strait of Hormuz.",
+   "body_en": [
+    "According to Iranian state media on Sunday, the IRGC Navy reported the explosions in the strategic strait. Iran has placed restrictions on maritime traffic in the Strait of Hormuz and has targeted vessels accused of breaching those rules in an effort to assert authority over the waterway and pressure the United States."
+   ],
+   "title_fa": "نیروی دریایی سپاه پاسداران ایران می‌گوید دو نفتکش پس از برخورد با مین در هرمز «منفجر شدند»",
+   "summary_fa": "نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد دو نفتکش پس از برخورد با مین در یک مسیر «غیرمجاز» در تنگه هرمز «منفجر شدند».",
+   "body_fa": [
+    "بر اساس گزارش رسانه‌های دولتی ایران در روز یکشنبه، نیروی دریایی سپاه این انفجارها را در این آبراه راهبردی گزارش کرده است. ایران محدودیت‌هایی را برای عبور کشتی‌ها از تنگه هرمز وضع کرده و به شناورهایی که می‌گوید ناقض این مقررات هستند حمله کرده است تا کنترل خود را بر این آبراه تثبیت کند و ایالات متحده را تحت فشار بگذارد."
+   ],
+   "title_ar": "بحرية الحرس الثوري الإيراني تقول إن ناقلتي نفط \"انفجرتا\" بعد اصطدامهما بألغام في هرمز",
+   "summary_ar": "أعلنت القوات البحرية التابعة للحرس الثوري الإيراني أن ناقلتي نفط \"انفجرتا\" إثر اصطدامهما بألغام أثناء مرورهما عبر مسار \"غير مصرح به\" في مضيق هرمز.",
+   "body_ar": [
+    "وبحسب ما نقلته وسائل إعلام رسمية إيرانية يوم الأحد، أفادت بحرية الحرس الثوري بوقوع الانفجارين في المضيق الإستراتيجي. وكانت إيران قد فرضت قيوداً على حركة السفن المارة عبر مضيق هرمز وهاجمت سفناً قالت إنها انتهكت تلك القيود، في إطار مساعيها لفرض السيطرة على هذا الممر الحيوي وممارسة ضغوط على الولايات المتحدة."
    ]
   },
   {
@@ -361,36 +499,6 @@
    "body_ar": [
     "تتضمن الوثائق التي قدمتها تهران أدلة فوتوغرافية وسجلات للأعمال التخريبية ضد المنشآت البحرية الإيرانية. ووفقًا بمسؤولين إيرانيين، ستناقش الدول الأعضاء في المنظمة البحرية الدولية هذه الأدلة خلال دورة المجلس المقرر عقدها في لندن من 2 إلى 6 نوفمبر.",
     "وصرحت السلطات الإيرانية أن هذه الهجمات تهدد سلامة الملاحة الدولية البحارة. وأضافت أن الأضرار التي لحقت بأنظمة مراقبة الحركة البحرية ومرافق الإنقاذ تزيد من مخاطر الحوادث وتقوض قدرات الاستجابة للطوارئ."
-   ]
-  },
-  {
-   "id": "b42ae36a3b27",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
-   "date": "2026-11-01T11:26:08Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "Thousands rally in New Delhi to demand India’s election chief resign",
-   "title_en": "Thousands rally in New Delhi to demand India’s election chief resign",
-   "summary_en": "Thousands of demonstrators marched in New Delhi to demand the resignation of Chief Election Commissioner Gyanesh Kumar over electoral roll revisions that opposition parties claim favor Prime Minister Narendra Modi's ruling party.",
-   "body_en": [
-    "Congress party leader Rahul Gandhi led the protest, which was part of a monthslong campaign against voter list revisions that removed more than 130 million names. Opposition groups allege the purge disproportionately targeted Muslims and other minority groups, while the Election Commission denied any bias and noted removed voters could reregister.",
-    "The ruling BJP accused opposition parties of attempting to undermine democratic procedures, with Health Minister Jagat Prakash Nadda characterizing the rally as an orchestrated conspiracy to create anarchy."
-   ],
-   "title_fa": "راهپیمایی هزاران نفر در نیودلوی برای درخواست استعفای رئیس انتخابات هند",
-   "summary_fa": "هزاران معترض در نیودلوی دست به راهپیمایی زدند تا خواستار استعفای گیانیش کومار، رئیس کمیسیون انتخابات، به دلیل تغییرات در فهرست رأی‌دهندگان شوند؛ تغییراتی که احزاب اپوزیسیون می‌گویند به نفع حزب حاکم نارندرا مودی است.",
-   "body_fa": [
-    "راهول گاندی، رهبر حزب کنگره، هدایت این تظاهرات را بر عهده داشت که بخشی از کمپین یک‌ماهه در اعتراض به اصلاح فهرست‌های انتخاباتی و حذف بیش از ۱۳۰ میلیون نام است. احزاب مخالف ادعا می‌کنند این اقدام به‌طور نامتناسبی مسلمانان و اقلیت‌های دیگر را هدف قرار داده است، اما کمیسیون انتخابات هرگونه جانبداری را تکذیب کرد.",
-    "حزب حاکم بی‌جِی‌پِی، احزاب مخالف را به تضعیف روند دمکراتیک متهم کرد و جاگات پراکاش نادا، وزیر بهداشت، این راهپیمایی را توطئه‌ای برنامه‌ریزی‌شده برای ایجاد انارشیسم توصیف کرد."
-   ],
-   "title_ar": "آلاف المتظاهرين يحتشدون في نيودلهي للمطالبة باستقالة رئيس هيئة الانتخابات الهندية",
-   "summary_ar": "تظاهر الآلاف في العاصمة الهندية نيودلهي للمطالبة باستقالة رئيس هيئة الانتخابات جيانيش كومار، بسبب تعديلات في قوائم الناخبين تقول أحزاب المعارضة إنها تحابي الحزب الحاكم برئاسة رئيس الوزراء ناريندرا مودي.",
-   "body_ar": [
-    "وقاد راهول غاندي، زعيم حزب المؤتمر الوطني الهندي، مظاهرات الأحد ضد تعديل السجلات الانتخابية الذي أسفر عن حذف أكثر من 130 مليون اسم، وهي إجراءات تقول المعارضة إنها استهدفت المسلمين والأقليات بشكل غير متناسب، بينما نفت هيئة الانتخابات تقديم أي تحيز.",
-    "من جانبه، اتهم حزب بهاراتيا جاناتا الحاكم أحزاب المعارضة بتقويض الديمقراطية، ووصف وزير الصحة جاغات براكاش نادا التظاهرة بأنها مؤامرة مدروسة لإغراق البلاد في الفوضى."
    ]
   },
   {
