@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:31:46Z",
+ "updated": "2026-11-02T13:32:03Z",
  "items": [
   {
    "id": "8fa2de342312",
@@ -2325,6 +2325,180 @@
    ],
    "desc": "The development comes a day after the National Emergency Operations Centre for Polio Eradication confirmed that the new case was reported from Khyber district in Khyber Pakhtunkhwa province",
    "score": 4
+  },
+  {
+   "id": "21702d134676",
+   "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+   "date": "2026-11-02T12:36:23Z",
+   "countries": [
+    "ISR",
+    "JOR"
+   ],
+   "desc": "King tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.",
+   "score": 8
+  },
+  {
+   "id": "743c1b506a05",
+   "title": "Oman and China sign deals to boost trade and investment",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment?traffic_source=rss",
+   "date": "2026-11-02T12:18:07Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "Oman and China sign deals to boost trade and investment",
+   "score": 6,
+   "skip": true
+  },
+  {
+   "id": "6eba06ea873e",
+   "title": "Al-Jawf becomes new hotspot in Yemen war between government forces, Houthis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/al-jawf-becomes-new-hotspot-in-yemen-war-between-government-forces-houthis?traffic_source=rss",
+   "date": "2026-11-02T12:14:10Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Recent military advances by Yemeni government forces highlight the geographic and strategic significance of Al-Jawf.",
+   "score": 7,
+   "dup_of": "18c6985db839"
+  },
+  {
+   "id": "1477eaa02e74",
+   "title": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
+   "date": "2026-11-02T10:24:47Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Improving prison conditions for Abdullah Ocalan has been a key Kurdish demand in push to end PKK-Turkiye conflict.",
+   "score": 6
+  },
+  {
+   "id": "7ece69afc2f4",
+   "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
+   "date": "2026-11-02T13:00:41Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Following a Syrian mother and daughter over a decade, Itab Azzam and Jack MacInnes capture a family transformed There’s a startling moment in this BBC refugee documentary when Syrian mother Nisreen – in the apparently miserable situation of hiking across the Balkans towards Germany, four kids in tow – suddenly explodes with joy. “This is the best holiday I’ve ever had! It’s an amazing adventure. Now I have the chance to walk in the rain – I love it!” Shunted off early into an arranged marriage, never having left Syria until forced out of Aleppo by the civil war, for Nisreen this running jump i",
+   "score": 2
+  },
+  {
+   "id": "b2cdc9d212d2",
+   "title": "Govt enlists oil refineries to shield citizens from global price hikes",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041627/govt-enlists-oil-refineries-to-shield-citizens-from-global-price-hikes",
+   "date": "2026-11-02T13:15:18Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK"
+   ],
+   "desc": "The government announced on Monday that oil refineries would bear a burden of approximately Rs15 billion each month, which would allow petrol to be sold Rs15 cheaper than what it was in the global market amid the US-Israeli war on Iran. The announcement came at a press conference in Islamabad addressed by Petroleum Minister Ali Pervaiz Malik and Information Minister Attaullah Tarar. Addressing the conference, Malik said that the premier had made efforts to meet with refineries and consult with them regarding interventions to ensure that people got the cheapest petrol amid impending steep fuel ",
+   "score": 5
+  },
+  {
+   "id": "95d708bcd6f4",
+   "title": "LHC directs jail authorities to arrange meeting between Noreen Niazi, her daughters",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041583/lhc-directs-jail-authorities-to-arrange-meeting-between-noreen-niazi-her-daughters",
+   "date": "2026-11-02T11:11:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Lahore High Court (LHC) on Monday directed jail authorities to arrange a meeting between Noreen Niazi, the sister of PTI founder Imran Khan, and her two daughters on Tuesday (tomorrow). Justice Abher Gul Khan issued the directives while hearing petitions challenging the extensions in the detention orders of Imran’s sisters Noreen, Uzma Khan and Aleema Khanum. The judge also summoned the Lahore deputy commissioner to appear in person on Nov 4 and explain the extensions in the detention orders of Noreen and Uzma Khan. Aleema and Noreen, along with their sister Uzma Khan, were detaine",
+   "score": 3
+  },
+  {
+   "id": "193b1fe4087b",
+   "title": "Civilian convicted of offence against state cannot claim fundamental rights, LHC told in Hassaan Niazi case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041613/civilian-convicted-of-offence-against-state-cannot-claim-fundamental-rights-lhc-told-in-hassaan-niazi-case",
+   "date": "2026-11-02T12:31:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Punjab government on Monday told the Lahore High Court (LHC) that a civilian who commits an offence against the state and is convicted cannot claim the protection of fundamental rights, while seeking the dismissal of a petition filed by Barrister Hassaan Khan Niazi, nephew of PTI founder Imran Khan, challenging his handover to the army and subsequent trial in a case related to the May 9 riots. In a report submitted after almost a year on behalf of the provincial government through the home secretary and the inspector general of police, the deputy inspector general of police (legal)",
+   "score": 4
+  },
+  {
+   "id": "1b5cc05fc3d5",
+   "title": "Pakistan fined for slow over-rate in tri-series final",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041621/pakistan-fined-for-slow-over-rate-in-tri-series-final",
+   "date": "2026-11-02T11:55:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan have been fined five per cent of their match fees for maintaining a slow over-rate during their three-wicket victory over Sri Lanka in the One-day International tri-series final in Lahore on Saturday. The hosts were found to be one over short after time allowances were taken into consideration by match referee Jeff Crowe of the Emirates ICC Elite Panel, the International Cricket Council said in a statement on Monday. Pakistan captain Shaheen Shah Afridi pleaded guilty to the offence and accepted the proposed sanction, which was imposed under Article 2.22 of the ICC Code of Conduct for",
+   "score": 1
+  },
+  {
+   "id": "956f9c5db262",
+   "title": "Consumer inflation falls to 9.6pc in Oct from 10.3pc in Sept",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041620/consumer-inflation-falls-to-96pc-in-oct-from-103pc-in-sept",
+   "date": "2026-11-02T12:08:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Consumer inflation eased to 9.6 per cent in October from 10.3pc a month earlier , mainly due to a slight slowdown in perishable food products, the Pakistan Bureau of Statistics said on Monday. The slowdown in the inflation rate for the second consecutive month, measured by the Consumer Price Index, reversed the sharp increase recorded in August , when higher food and energy prices pushed the annual rate to 11.1pc from 9.2pc in July. The easing was recorded in both places, in rural areas where inflation fell to 9.5pc from 10.1pc, while urban inflation edged down to 9.8pc from 10.5pc.",
+   "score": 4
+  },
+  {
+   "id": "ef891fa5db7a",
+   "title": "Babar, Shaheen set for Quaid-e-Azam Trophy opening-round clash",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041616/babar-shaheen-set-for-quaid-e-azam-trophy-opening-round-clash",
+   "date": "2026-11-02T10:41:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan Test captain Babar Azam and One-day International skipper Shaheen Shah Afridi will headline the opening round of the 69th edition of the Quaid-e-Azam Trophy, which gets under way across Islamabad, Abbottabad and Rawalpindi on Tuesday. Babar will turn out for Lahore Whites, who face Shaheen-led Fata at the Diamond Cricket Ground in Islamabad, in what promises to be one of the early highlights of the premier first-class competition. Several other established Pakistan players will also feature in the tournament, with Saud Shakeel captaining defending champions Karachi Blues, Mohammad Riz",
+   "score": 1
+  },
+  {
+   "id": "e4543197e6b3",
+   "title": "West Asia conflict: China's Foreign Minister pushes for dialogue",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
+   "date": "2026-11-02T10:54:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Dialogue ‌and negotiation are the way ‌to ⁠resolve West Asia conflicts, Chinese FM ⁠told Ali Bagheri Kani, the Deputy Secretary of the Iran Supreme National Security Council",
+   "score": 7
+  },
+  {
+   "id": "79e98aa3fbf9",
+   "title": "روسیه: نشانه‌های اقدام نظامی جدید علیه ایران نگران‌کننده است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6ly085882gdt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-02T13:20:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "سخنگوی وزارت امور خارجه روسیه از «نشانه‌های برنامه‌ریزی برای عملیات جدید نظامی علیه ایران» ابراز نگرانی شدید کرد. ساعتی پیش وزیر خارجه چین هم گفت که ایران برای دفاع از حاکمیت و امنیتش از حمایت چین برخوردار است. در همین حال، وزارت خارجه ایران تاکید کرد که مبنای گفت‌وگو با آمریکا همان طرح هفت‌ ماده‌ای است که اکنون «آمادگی اجرای آن ظرف دو روز وجود دارد.»",
+   "score": 8
   }
  ]
 }

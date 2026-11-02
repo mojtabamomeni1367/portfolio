@@ -1,7 +1,160 @@
 {
- "updated": "2026-11-02T10:31:46Z",
- "count": 326,
+ "updated": "2026-11-02T13:32:03Z",
+ "count": 331,
  "items": [
+  {
+   "id": "79e98aa3fbf9",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6ly085882gdt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-02T13:20:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "روسیه: نشانه‌های اقدام نظامی جدید علیه ایران نگران‌کننده است",
+   "title_en": "Russia: Signs of New Military Action Against Iran Are Concerning",
+   "summary_en": "The spokesperson for the Russian Foreign Ministry expressed severe concern over indications of plans for a new military operation against Iran.",
+   "body_en": [
+    "Maria Zakharova, the spokesperson for the Russian Foreign Ministry, stated that signs of planning for a new military action against Iran are highly concerning. Pointing to the experience of recent months, she emphasized that military adventures cannot break the resolve of Iranians to defend their sovereignty and independence, urging those issuing threats to reconsider.",
+    "Russia has repeatedly described US and Israeli strikes on Iran as violations of international law. This statement comes as Donald Trump has not ruled out the possibility of military action following the US midterm elections."
+   ],
+   "title_fa": "روسیه: نشانه‌های اقدام نظامی جدید علیه ایران نگران‌کننده است",
+   "summary_fa": "سخنگوی وزارت امور خارجه روسیه از وجود نشانه‌هایی مبنی بر برنامه‌ریزی برای عملیات نظامی جدید علیه ایران ابراز نگرانی شدید کرد.",
+   "body_fa": [
+    "ماریا زاخارووا، سخنگوی وزارت امور خارجه روسیه، اعلام کرد که نشانه‌های برنامه‌ریزی برای اقدام نظامی جدید علیه ایران بسیار نگران‌کننده است. وی با اشاره به تجربیات ماه‌های اخیر تاکید کرد که ماجراجویی‌های نظامی نمی‌تواند اراده ایرانیان را در دفاع از حاکمیت و استقلال کشورشان بشکند و خواستار تجدیدنظر تهدیدکنندگان شد.",
+    "روسيه بارها حملات آمریکا و اسرائیل به ایران را نقض قوانین بین‌المللی دانسته است. این موضع‌گیری در حالی مطرح می‌شود که دونالد ترامپ ترامپ احتمال اقدام نظامی پس از انتخابات میان‌دوره‌ای آمریکا را رد نکرده است."
+   ],
+   "title_ar": "روسیة: المؤشرات على عمل عسكري جديد ضد إيران تدعو للقلق",
+   "summary_ar": "أعربت المتحدثة باسم وزارة الخارجية الروسية عن قلقها البالغ إزاء وجود مؤشرات على التخطيط لعملية عسكرية جديدة ضد إيران.",
+   "body_ar": [
+    "صرحت ماريا زاخاروفا، المتحدثة باسم وزارة الخارجية الروسية، بأن المؤشرات على التخطيط لعمل عسكري جديد ضد إيران تدعو للقلق الشديد. وأكدت، متطرقة إلى تجارب الأشهر الأخيرة، أن المغامرات العسكرية لن تكسر إرادة الإيرانيين في الدفاع عن سيادة بلادهم واستقلالها، داعيةً من يهددون إلى إعادة النظر.",
+    "وقد وصفت روسيا مراراً الهجمات الأمريكية والإسرائيلية على إيران بأنها انتهاك للقانون الدولي. وتأتي هذه التصريحات في وقت لم يستبعد فيه دونالد ترامب إمكانية القيام بعمل عسكري بعد الانتخابات النصفيّة الأمريكية."
+   ]
+  },
+  {
+   "id": "b2cdc9d212d2",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041627/govt-enlists-oil-refineries-to-shield-citizens-from-global-price-hikes",
+   "date": "2026-11-02T13:15:18Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Govt enlists oil refineries to shield citizens from global price hikes",
+   "title_en": "Govt enlists oil refineries to shield citizens from global price hikes",
+   "summary_en": "The Pakistani government announced that domestic oil refineries will absorb around Rs15 billion per month to prevent a Rs15 per litre fuel price hike following global market shifts.",
+   "body_en": [
+    "Petroleum Minister Ali Pervaiz Malik and Information Minister Attaullah Tarar explained during a press conference in Islamabad that consultations with refineries led to the decision. The refineries agreed to use profits earned from increased throughput over the past three months to assist consumers during a period of international market instability.",
+    "The intervention allowed the government to hold petrol prices steady ahead of a projected price increase. Officials expressed hope that regional tensions affecting global energy markets would ease while the government continues plans for deregulation and refinery modernization."
+   ],
+   "title_fa": "Govt enlists oil refineries to shield citizens from global price hikes",
+   "summary_fa": "دولت پاکستان اعلام کرد که پالایشگاه‌های نفت داخلی ماهیانه حدود ۱۵ میلیارد روپیه بار مالی را بر عهده می‌گیرند تا از افزایش ۱۵ روپیه‌ای قیمت هر لیتر بنزین در پی نوسانات بازار جهانی جلوگیری شود.",
+   "body_fa": [
+    "علی پرویز ملک، وزیر نفت، و عطاءالله تارار، وزیر اطلاع‌رسانی، در یک کنفرانس خبری در اسلام‌آباد توضیح دادند که این تصمیم پس از رایزنی با پالایشگاه‌ها اتخاذ شده است. پالایشگاه‌ها موافقت کردند از سود حاصل از افزایش تولید خود در سه ماه گذشته برای حمایت از مصرف‌کنندگان در دوره بی‌ثباتی بازار بین‌المللی استفاده کنند.",
+    "این اقدام به دولت اجازه داد تا قیمت بنزین را پیش از افزایش پیش‌بینی‌شده ثابت نگه دارد. مقامات ابراز امیدواری کردند که تنش‌های منطقه‌ای تاثیرگذار بر بازارهای جهانی انرژی کاهش یابد، در حالی که دولت برنامه‌های خود برای آزادسازی و نوسازی پالایشگاه‌ها را دنبال می‌کند."
+   ],
+   "title_ar": "Govt enlists oil refineries to shield citizens from global price hikes",
+   "summary_ar": "أعلنت الحكومة الباكستانية أن مصافي النفط المحلية ستحتمل عبئاً مالياً يبلغ نحو 15 مليار روبية شهرياً لمنع ارتفاع أسعار البنزين بمقدار 15 روبية للتر في ظل التقلبات العالمية.",
+   "body_ar": [
+    "أوضح وزير البترول علي برفيز مالك ووزير الإعلام عطا الله تارار خلال مؤتمر صحفي في إسلام آباد أن القرار جاء بعد مشاورات مع المصافي. ووافقت المصافي على استخدام الأرباح المحققة من زيادة الإنتاج خلال الأشهر الثلاثة الماضية لدعم المستهلكين خلال فترة عدم الاستقرار في الأسواق الدولية.",
+    "وسمحت هذه الخطوة للحكومة بالحفاظ على ثبات أسعار البنزين قبل الارتفاع المتوقع. وأعرب المسؤولون عن أملهم في تخفيف التوترات الإقليمية التي تؤثر على أسواق الطاقة العالمية بينما تواصل الحكومة خططها لنزع القيود وتحديث المصافي."
+   ]
+  },
+  {
+   "id": "21702d134676",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
+   "date": "2026-11-02T12:36:23Z",
+   "countries": [
+    "ISR",
+    "JOR"
+   ],
+   "score": 8,
+   "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+   "title_en": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
+   "summary_en": "King Abdullah II told parliament that Jordan will forcefully confront terrorism and extremism following a deadly church attack in Karak that killed nine people.",
+   "body_en": [
+    "Opening a new parliamentary session in Amman, King Abdullah II declared that the country would not be shaken by the recent attack on a church in Karak, which left nine dead and dozens wounded. He called for a minute of silence for the victims and stated that there is no place for terrorists in Jordan.",
+    "The king also warned that Israeli expansionist ambitions represent the greatest threat to Middle East security, pointing to ongoing assaults in the West Bank and Gaza. Additionally, he pledged to safeguard Jordan's water supplies against external threats and urged lawmakers to maintain unity while improving living conditions."
+   ],
+   "title_fa": "ملک عبدالله، پادشاه اردن، پس از حمله کرک وعده مقابله با «تروریست‌ها» را داد",
+   "summary_fa": "ملک عبدالله دوم در کنست (پارلمان) اعلام کرد که اردن پس از حمله مرگبار به کلیسایی در کرک که به کشته شدن نه نفر انجامید، با قاطعیت با تروریسم و افراط‌گرایی مقابله خواهد کرد.",
+   "body_fa": [
+    "ملک عبدالله دوم در افتتاحیه نشست جدید پارلمان در عمان تاکید کرد که کشورش با حمله اخیر به کلیسایی در کرک که نه کشته و ده‌ها زخمی بر جای گذاشت، متزلزل نخواهد شد. او خواستار یک دقیقه سکوت به احترام قربانیان شد و اعلام کرد تروریست‌ها جایی در اردن ندارند.",
+    "پادشاه اردن همچنین هشدار داد که جاه‌طلبی‌های توسعه‌طلبانه اسرائیل بزرگ‌ترین تهدید برای امنیت خاورمیانه است و به حملات مداوم در کرانه باختری و غزه اشاره کرد. وی همچنین متعهد شد که از منابع آبی اردن در برابر تهدیدات خارجی محافظت کند و از نمایندگان خواست تا ضمن بهبود شرایط زندگی مردم، وحدت ملی را حفظ کنند."
+   ],
+   "title_ar": "الملك عبد الله ملك الأردن يتعهد بمواجهة \"الإرهابيين\" بعد هجوم الكرك",
+   "summary_ar": "أكد الملك عبد الله الثاني أمام البرلمان أن الأردن سيتصدى بقوة للإرهاب والتطرف في أعقاب الهجوم الدموي على كنيسة في الكرك والذي أسفر عن مقتل تسعة أشخاص.",
+   "body_ar": [
+    "افتتح الملك عبد الله الثاني دورة برلمانية جديدة في عمان، موضحاً أن المملكة لن تتردد أو تتزعزع بسبب الهجوم اخیر على كنيسة في الكرك والذي أسفر عن مقتل تسعة أشخاص وإصابة العشرات. وطلب من النواب الوقوف دقيقة صمتاً على أرواح الضحايا، مؤكداً أنه لا مكان للإرهابيين في الأردن.",
+    "كما حذر الملك من أن الأطماع التوسعية الإسرائيلية تشكل التهديد الأكبر لأمن الشرق الأوسط، مشيراً إلى الاعتداءات المتواصلة في الضفة الغربية وغزة. وتعهد بحماية مصادر المياه في الأردن من التهديدات الخارجية، دافعاً النواب إلى الحفاظ على الوحدة الوطنية وتحسين الظروف المعيشية."
+   ]
+  },
+  {
+   "id": "e4543197e6b3",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/west-asia-conflict-chinas-foreign-minister-pushes-for-dialogue/article71656273.ece",
+   "date": "2026-11-02T10:54:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "West Asia conflict: China's Foreign Minister pushes for dialogue",
+   "title_en": "West Asia conflict: China's Foreign Minister pushes for dialogue",
+   "summary_en": "Chinese Foreign Minister Wang Yi urged all parties in the West Asia conflict to pursue political solutions and dialogue rather than military force during a meeting in Beijing.",
+   "body_en": [
+    "During talks with Ali Bagheri Kani, Deputy Secretary of Iran's Supreme National Security Council, Chinese Foreign Minister Wang Yi stated that dialogue and negotiation are the only ways to resolve regional conflicts. Wang reiterated that China supports Iran in safeguarding its national sovereignty and security.",
+    "In a separate meeting in Beijing, Chinese President Xi Jinping told Omani leader Sultan Haitham bin Tariq al-Said that the region should not become an arena for great-power rivalry. China also announced that its special envoy to West Asia will visit Iran, Oman, and Saudi Arabia later this month to push for regional stability."
+   ],
+   "title_fa": "مناقشه غرب آسیا؛ تاکید وزیر امور خارجه چین بر گفتگو",
+   "summary_fa": "وانگ یی، وزیر امور خارجه چین، در دیداری در پکن از تمامی طرف‌های مناقشه غرب آسیا خواست تا به جای توسل مجدد به سلاح، بر راه‌حل‌های سیاسی و گفتگو تمرکز کنند.",
+   "body_fa": [
+    "وانگ یی، وزیر امور خارجه چین، در گفتگو با علی باقری‌کنی، معاون دبیر شورای عالی امنیت ملی ایران، تاکید کرد که گفتگو و مذاکره تنها راه حل مناقشات منطقه‌ای است. او همچنین تصریح کرد که چین از ایران در دفاع از حاکمیت و امنیت ملی خود حمایت می‌کند.",
+    "در دیداری جداگانه در پکن، شی جین‌پینگ، رئیس‌جمهور چین، به هیثم بن طارق آل سعید، سلطان عمان، گفت که منطقه نباید به میدان رقابت قدرت‌های بزرگ تبدیل شود. چین همچنین اعلام کرد که فرستاده ویژه این کشور در امور غرب آسیا طی این ماه از ایران، عمان و عربستان سعودی بازدید خواهد کرد."
+   ],
+   "title_ar": "صراع غرب آسيا: وزير الخارجية الصيني يدعو إلى الحوار",
+   "summary_ar": "حث وزير الخارجية الصيني وانغ يي جميع الأطراف في صراع غرب آسيا على التركيز على الحلول السياسية والحوار بدلاً من اللجوء إلى السلاح مجدداً، وذلك خلال اجتماع في بكين.",
+   "body_ar": [
+    "خلال محادثات مع علي باقري كني، معاون أمين المجلس الأعلى للأمن القومي الإيراني، أكد وزير الخارجية الصيني وانغ يي أن الحوار والتفاوض هما السبيل لحل النزاعات الإقليمية. وأضاف أن الصين تدعم إيران في حماية سيادتها وأمنها القومي.",
+    "وفي اجتماع منفصل في بكين، قال الرئيس الصيني شي جين بينغ لسطان عمان هيثم بن طارق آل سعيد إن المنطقة لا ينبغي أن تتحول إلى ساحة للتنافس بين القوى الكبرى. كما أعلنت الصين أن مبعوثها الخاص إلى غرب آسيا سيزور إيران وعمان والسعودية هذا الشهر لتعزيز الاستقرار الإقليمي."
+   ]
+  },
+  {
+   "id": "1477eaa02e74",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss",
+   "date": "2026-11-02T10:24:47Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
+   "title_en": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
+   "summary_en": "Imprisoned Kurdistan Workers' Party (PKK) founder Abdullah Ocalan has been moved to a newly constructed facility within the Imrali island prison complex where he has been held since 1999.",
+   "body_en": [
+    "Pro-Kurdish politicians confirmed the transfer, with Peoples' Equality and Democracy Party (DEM) member Mithat Sancar stating that the move necessitates an acceleration of the stalled peace process. DEM politician Pervin Buldan noted that the new facility remains part of the prison and does not fully define Ocalan's overall status.",
+    "Ocalan has been detained on Imrali island in the Sea of Marmara since his capture 27 years ago. Improving his detention conditions has been a central demand among Kurdish representatives amid ongoing peace efforts between Turkiye and the PKK."
+   ],
+   "title_fa": "عبدالله اوجالان، موسس زندانی پ‌ک‌ک، به بخش جدیدی از زندان جزیره‌ای ترکیه منتقل شد",
+   "summary_fa": "عبدالله اوجالان، بنیان‌گذار زندانی حزب کارگران کردستان (پ‌ک‌ک)، به یک بخش تازه ساخت در مجتمع زندان جزیره امرالی، محل نگهداری او از سال ۱۹۹۹، منتقل شده است.",
+   "body_fa": [
+    "سیاستمداران حامی کردها این انتقال را تایید کردند و مدحت سنجار، عضو حزب برابری و دموکراسی خلق‌ها (DEM)، اعلام کرد که این اقدام مستلزم تسریع در روند صلح متوقف‌شده است. پروین بولدان، دیگر سیاستمدار این حزب، اشاره کرد که این تاسیسات جدید همچنان بخشی از زندان است و وضعیت کلی اوجالان را به‌تنهایی تعیین نمی‌کند.",
+    "اوجالان از زمان دستگیری‌اش در ۲۷ سال پیش، در جزیره امرالی در دریای مرمره نگهداری می‌شود. بهبود شرایط زندان او از خواسته‌های اصلی نمایندگان کرد در میان تلاش‌های مداوم صلح میان ترکیه و پ‌ک‌ک بوده است."
+   ],
+   "title_ar": "نقل مؤسس حزب العمال الكردستاني السجين أوجلان إلى قسم جديد في سجن الجزيرة التركي",
+   "summary_ar": "تم نقل عبد الله أوجلان، مؤسس حزب العمال الكردستاني السجين، إلى منشأة بنيت حديثاً داخل مجمع سجن جزيرة إمرالي المحتجز فيه منذ عام 1999.",
+   "body_ar": [
+    "وأكد سياسيون مؤيدون للكراد هذا النقل، حيث صرح مدحت سنجار، العضو في حزب المساواة وديمقراطية الشعوب، بأن هذه الخطوة تتطلب تسريع عملية السلام المتوقفة. وأشارت السياسية بروين بولدان إلى أن المنشأة الجديدة تظل جزءاً من السجن ولا تحدد الوضع العام لأوجلان بشكل كامل.",
+    "وُضع أوجلان قيد الاحتجاز في جزيرة إمرالي ببحر مرمرة منذ القبض عليه قبل 27 عاماً. وتعتبر تحسين ظروف سجنه مطلباً كردياً رئيسياً في ظل جهود السلام المستمرة بين تركيا وحزب العمال الكردستاني."
+   ]
+  },
   {
    "id": "2e23a5d598a9",
    "lang": "en",
