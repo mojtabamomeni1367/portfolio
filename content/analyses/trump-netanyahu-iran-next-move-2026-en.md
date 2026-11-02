@@ -1,18 +1,27 @@
 ---
-title: 'Trump and Netanyahu: 4 Decision Points Over the Next Move Against Iran'
+title: "Trump and Netanyahu: 4 Decision Points Over the Next Move Against Iran"
 slug: trump-netanyahu-iran-next-move-2026
 lang: en
-date: '2026-11-02'
+date: 2026-11-02
 countries:
-- IRN
-- ISR
+  - IRN
+  - ISR
 topics:
-- iran-policy
-- security
-summary: 'A telephone conversation between the American president and Israel''s prime minister raises a question beyond their personal relationship: does alignment against Iran mean agreement on military timing, diplomatic opportunities and the conditions for ending a crisis? Axios''s November 1 report on the conversation between Trump and Netanyahu brings that question into focus. However, the call alone establishes neither agreement to resume war nor an irreversible fracture in their partnership.'
+  - iran-policy
+  - security
+  - mena-sa
+summary: "A telephone conversation between the American president and Israel's
+  prime minister raises a question beyond their personal relationship: does
+  alignment against Iran mean agreement on military timing, diplomatic
+  opportunities and the conditions for ending a crisis? Axios's November 1
+  report on the conversation between Trump and Netanyahu brings that question
+  into focus. However, the call alone establishes neither agreement to resume
+  war nor an irreversible fracture in their partnership."
 focus_keyword: Trump and Netanyahu
-seo_title: 'Trump and Netanyahu: 4 Decision Points on the Next Iran Move'
-meta_description: 'Are Trump and Netanyahu aligned on Iran? Four decision points: timing, an acceptable deal, the distribution of costs and when military operations should end.'
+seo_title: "Trump and Netanyahu: 4 Decision Points on the Next Iran Move"
+meta_description: "Are Trump and Netanyahu aligned on Iran? Four decision
+  points: timing, an acceptable deal, the distribution of costs and when
+  military operations should end."
 image: /assets/uploads/trump-netanyahu-iran-next-move-2026.jpg
 image_alt: Flags of the United States, Israel and Iran
 translated: true
