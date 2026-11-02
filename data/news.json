@@ -1,7 +1,128 @@
 {
- "updated": "2026-11-02T16:29:39Z",
- "count": 340,
+ "updated": "2026-11-02T19:17:41Z",
+ "count": 344,
  "items": [
+  {
+   "id": "2320bdc42532",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/houthis-launched-cross-border-raids-saudi-arabian-military-posts-sources-say",
+   "date": "2026-11-02T18:50:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis launched cross border raids on Saudi military posts, sources say",
+   "title_en": "Houthis launched cross border raids on Saudi military posts, sources say",
+   "summary_en": "The Houthis have launched multiple small-scale cross-border raids into southwestern Saudi Arabia in recent months, according to Western and Arab officials.",
+   "body_en": [
+    "The raids targeted border posts in Saudi Arabia's mountainous southwest, including at least one attack observed at the end of October. A Western official stated that Houthi forces appear to have captured specific small arms known to be used exclusively by Saudi border security forces.",
+    "The operations mark the first reported ground incursions into Saudi Arabia since the collapse of the Yemen ceasefire. In response to the incursions, Saudi Arabia's allies, including Turkey, Pakistan, and Egypt, have taken steps to deploy military and defensive assistance to the kingdom."
+   ],
+   "title_fa": "به گفته منابع، حوثی‌ها حملات فرامرزی به پایگاه‌های نظامی عربستان انجام دادند",
+   "summary_fa": "به گفته مقامات غربی و عربی، حوثی‌ها در ماه‌های اخیر چندین حمله فرامرزی کوچک به جنوب غربی عربستان سعودی انجام داده‌اند.",
+   "body_fa": [
+    "این حملات پایگاه‌های مرزی را در مناطق کوهستانی جنوب غربی عربستان هدف قرار دادند، از جمله حداقل یک حمله که در اواخر اکتبر رصد شد. یک مقام غربی اعلام کرد به نظر می‌رسد نیروهای حوثی سلاح‌های سبکی را به غنیمت گرفته‌اند که اختصاصاً توسط نیروهای مرزبانی عربستان استفاده می‌شود.",
+    "این عملیات‌ها نخستین نفوذهای زمینی گزارش‌شده به داخل خاک عربستان از زمان پایان آتش‌بس یمن محسوب می‌شوند. در پاسخ به این حملات، متحدان عربستان سعودی از جمله ترکیه، پاکستان و مصر اقداماتی را برای اعزام کمک‌های نظامی و دفاعی به این کشور آغاز کرده‌اند."
+   ],
+   "title_ar": "مصادر: الحوثيون شنوا غارات عبر الحدود على مواقع عسكرية سعودية",
+   "summary_ar": "شن الحوثيون عدة غارات صغيرة عبر الحدود إلى جنوب غرب السعودية في الأشهر الأخيرة، وفقاً لمسؤولين غربيين وعرب.",
+   "body_ar": [
+    "استهدفت الغارات مواقع أمنية في المنطقة الجبلية بجنوب غرب السعودية، بما في ذلك هجوم واحد على الأقل رُصد في نهاية أكتوبر. وذكر مسؤول غربي أن قوات الحوثيين استولت على أسلحة خفيفة تُستخدم حصرياً من قبل قوات أمن الحدود السعودية.",
+    "وتعد هذه Operations أول توغلات برية مُبلغ عنها داخل السعودية منذ انهيار الهدنة في اليمن. ورداً على ذلك، اتخذ حلفاء السعودية، بمن فيهم تركيا وباكستان ومصر، خطوات لنشر مساعدات عسكرية ودفاعية في المملكة."
+   ]
+  },
+  {
+   "id": "d2172d15f051",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041649/at-kazakhstan-forum-pakistan-presents-karachi-and-gwadar-ports-as-strategic-gateways-for-central-asian-trade",
+   "date": "2026-11-02T18:35:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
+   "title_en": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
+   "summary_en": "Pakistan highlighted its major seaports as strategic trade gateways for landlocked Central Asian countries during the Second Tianshan Forum in Kazakhstan.",
+   "body_en": [
+    "Addressing the forum in Almaty, Minister for Board of Investment Qaiser Ahmed Sheikh stated that Pakistan can serve as a vital transit corridor, connecting Central Asian economies to international maritime routes. He emphasized the potential of Karachi Port, Port Qasim, and Gwadar Port in facilitating regional trade and economic integration.",
+    "The minister invited regional and international investors to explore opportunities in sectors such as energy, infrastructure, and logistics, noting that improved connectivity is essential for regional prosperity."
+   ],
+   "title_fa": "پاکستان در مجمع قزاقستان بنادر کراچی و گوادر را به عنوان «درگاه‌های راهبردی» برای تجارت آسیای مرکزی معرفی کرد",
+   "summary_fa": "پاکستان در دومین مجمع تیانشان در قزاقستان، بنادر اصلی خود را به عنوان درگاه‌های راهبردی تجاری برای کشورهای محصور در خشکی آسیای مرکزی معرفی کرد.",
+   "body_fa": [
+    "قیصر احمد شیخ، وزیر هیئت سرمایه‌گذاری پاکستان، طی سخنانی در این مجمع در آلماتی اظهار داشت که پاکستان می‌تواند به عنوان یک کریدور ترانزیتی حیاتی عمل کرده و اقتصادهای آسیای مرکزی را به مسیرهای دریایی بین‌المللی متصل کند. وی بر پتانسیل بنادر کراچی، قاسم و گوادر در تسهیل تجارت منطقه‌ای تأکید کرد.",
+    "این وزیر پاکستانی از سرمایه‌گذاران منطقه‌ای و بین‌المللی دعوت کرد تا فرصت‌های موجود در بخش‌های انرژی، زیرساخت و لجستیک را بررسی کنند و خاطرنشان ساخت که بهبود ارتباطات برای شکوفایی منطقه ضروری است."
+   ],
+   "title_ar": "باكستان تعرض ميناءي كراتشي وگوادر «بوابات استراتيجية» لتجارة آسيا الوسطى في منتدى كازاخستان",
+   "summary_ar": "سلطت باكستان الضوء على موانئها الرئيسية كبوابات تجارية استراتيجية لدول آسيا الوسطى الح حبيسة، وذلك خلال منتدى تيانشان الثاني في كازاخستان.",
+   "body_ar": [
+    "وفي كلمته أمام المنتدى في ألماتي، صرح وزير مجلس الاستثمار قيصر أحمد شيخ بأن باكستان يمكن أن تكون ممر عبور حيوي يربط اقتصاديات آسيا الوسطى بالطرق البحرية الدولية. وأكد على إمكانيات ميناء كراتشي وميناء قاسم وميناء گوادر في تسهيل التجارة الإقليمية.",
+    "ودعا الوزير المستثمرين الإقليميين والدوليين إلى استكشاف الفرص في قطاعات الطاقة والبنية التحتية والخدمات اللوجستية، مشيراً إلى أن تحسين الترابط يعد أمراً أساسياً لتحقيق الاخلاص الإقليمي."
+   ]
+  },
+  {
+   "id": "fe2bd460e083",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+   "date": "2026-11-02T17:14:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+   "title_en": "Oil price falls amid hope of a breakthrough to end Iran war",
+   "summary_en": "Global oil prices fell by over 6% to their lowest level in more than two weeks following reports of ongoing negotiations to end the war with Iran.",
+   "body_en": [
+    "Brent crude dropped to $105.55 a barrel after Iranian Foreign Minister Abbas Araghchi confirmed that consultations with the US through mediators are very intensive. Markets were also encouraged by reports that Supreme Leader Mojtaba Khamenei granted his government powers in negotiations aimed at ending the Middle East conflict.",
+    "The drop in oil prices sparked hopes of easing global inflationary pressures, leading to a fall in government borrowing costs and a rise in airline shares. Meanwhile, Qatari officials have been working to negotiate the release of over $6bn in Iranian assets in exchange for reopening the Strait of Hormuz."
+   ],
+   "title_fa": "کاهش قیمت نفت در پی امیدها به گشایش برای پایان دادن به جنگ ایران",
+   "summary_fa": "در پی انتشار گزارش‌هایی مبنی بر ادامه مذاکرات برای پایان دادن به جنگ با ایران، قیمت جهانی نفت با افت بیش از ۶ درصدی به پایین‌ترین سطح خود در بیش از دو هفته گذشته رسید.",
+   "body_fa": [
+    "نفت خام برنت پس از تأکید عباس عراقچی، وزیر امور خارجه ایران، مبنی بر فشرده بودن رایزنی‌ها با آمریکا از طریق واسطه‌ها، به ۱۰۵٫۵۵ دلار در هر بشکه کاهش یافت. همچنین گزارش‌ها درباره اعطای اختیارات از سوی مجتبی خامنه‌ای به دولت برای مذاکره جهت پایان دادن به درگیری، موجب خرسندی بازارها شد.",
+    "کاهش قیمت نفت امیدها برای کاهش فشارهای تورمی جهانی را افزایش داد و باعث افت هزینه‌های استقراض دولتی و رشد سهام شرکت‌های هواپیمایی شد. در همین حال، مقامات قطری در تلاشند تا برای آزادسازی بیش از ۶ میلیارد دلار از دارایی‌های ایران در ازای بازگشایی تنگه هرمز مذاکره کنند."
+   ],
+   "title_ar": "انخفاض أسعار النفط وسط آمال بالتوصل إلى انفراجة لأنهيار الحرب في إيران",
+   "summary_ar": "انخفضت أسعار النفط العالمية بأكثر من 6% لتصل إلى أدنى مستوياتها منذ أكثر من أسبوعين عقب تقارير عن استمرار المفاوضات لأنهيار الحرب مع إيران.",
+   "body_ar": [
+    "انخفض خام برنت إلى 105.55 دولاراً للبرميل بعد أن أكد وزير الخارجية الإيراني عباس عراقجي أن المشاورات مع الولايات المتحدة عبر الوسطاء مكثفة للغاية. كما تلقت الأسواق دفعة إيجابية من تقارير أفادت بأن علي خامنئي منح حكومته صلاحيات في المفاوضات الهادفة إلى إنهاء الصراع في الشرق الأوسط.",
+    "وأدى تراجع أسعار النفط إلى تجدد الآمال بتخفيف الضغوط التضخمية العالمية، مما أسفر عن انخفاض تكاليف الاقتراض الحكومي وارتفاع أسهم شركات الطيران. في غضون ذلك، يسعى مسؤولون قطريون للتفاوض على إطلاق سراح أكثر من 6 مليارات دولار من الأصول الإيرانية مقابل إعادة فتح مضيق هرمز."
+   ]
+  },
+  {
+   "id": "90afd9c106ea",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041638/pakistan-china-discuss-regional-and-global-developments-in-high-level-meetings",
+   "date": "2026-11-02T16:43:33Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Pakistan, China discuss regional and global developments in high-level meetings",
+   "title_en": "Pakistan, China discuss regional and global developments in high-level meetings",
+   "summary_en": "Pakistan and China held high-level meetings in Islamabad to discuss regional and global developments, reaffirming their enduring strategic partnership.",
+   "body_en": [
+    "Liu Haixing, minister of the International Department of the Communist Party of China's Central Committee, met with Prime Minister Shehbaz Sharif, Field Marshal Asim Munir, and Deputy Prime Minister Ishaq Dar during his three-day visit to Islamabad. The leaders emphasized the importance of sustained political engagement and strengthening cooperation across trade, investment, and infrastructure.",
+    "Both sides highlighted the historic and time-tested nature of their bilateral ties, which continue to expand through initiatives like the China-Pakistan Economic Corridor and recent efforts to enhance border trade and information connectivity."
+   ],
+   "title_fa": "پاکستان و چین تحولات منطقه‌ای و جهانی را در دیدارهای عالیرتبه بررسی کردند",
+   "summary_fa": "پاکستان و چین برای بررسی تحولات منطقه‌ای و جهانی دیدارهای عالیرتبه‌ای در اسلام‌آباد برگزار کردند و بر شراکت راهبردی دیرینه خود تأکید مجدد نمودند.",
+   "body_fa": [
+    "لیو هایشینگ، وزیر دپارتمان بین‌الملل کمیته مرکزی حزب کمونیست چین، در جریان سفر سه روزه خود به اسلام‌آباد با شهباز شریف، نخست‌وزیر، عاصم منیر، فرمانده ارتش، و اسحاق دار، معاون نخست‌وزیر و وزیر خارجه پاکستان دیدار کرد. رهبران دو کشور بر اهمیت تعامل سیاسی مداوم و تقویت همکاری‌ها در حوزه‌های تجارت، سرمایه‌گذاری و زیرساخت تأکید کردند.",
+    "طرفین ماهیت تاریخی و آزموده شده روابط دوجانبه را برجسته کردند که همچنان از طریق ابتکاراتی مانند کریدور اقتصادی چین و پاکستان و تلاش‌های اخیر برای بهبود تجارت مرزی و ارتباطات گسترش می‌یابد."
+   ],
+   "title_ar": "باكستان والصين تبحثان التطورات الإقليمية والعالمية في اجتماعات رفيعة المستوى",
+   "summary_ar": "عقدت باكستان والصين اجتماعات رفيعة المستوى في إسلام آباد لمناقشة التطورات الإقليمية والعالمية، مؤكدتين من جديد شراكتهما الاستراتيجية الراسخة.",
+   "body_ar": [
+    "التقى ليو هايشينغ، وزير الدائرة الدولية للجنة المركزية للحزب الشيوعي الصيني، برئيس الوزراء شهباز شريف، وقائد الجيش عاصم منير، ونائب رئيس الوزراء وزير الخارجية إسحاق دار خلال زيارته التي استمرت ثلاثة أيام إلى إسلام آباد. وأكد القادة على أهمية التواصل السياسي المستمر وتعزيز التعاون في مجالات التجارة والاستثمار والبنية التحتية.",
+    "أبرز الجانبان الطبيعة التاريخية والمختبرة لروابطهما الثنائية، التي تستمر في التوسع من خلال مبادرات مثل الممر الاقتصادي بين الصين وباكستان والجهود الأخيرة لتحسين التجارة الحدودية."
+   ]
+  },
   {
    "id": "f1ecd4335fe5",
    "lang": "en",
@@ -121,6 +242,34 @@
    "body_ar": [
     "ووصفت الشبكة، ومقرها قطر، قرار التمديد الذي أقرته المحكمة بأنه اعتداء على حرية الصحافة وحق الجمهور في الوصول إلى المعرفة. وأشارت إلى أن القرار استند إلى مواد سرية لم يُسمح للشبكة أو لمحاميها بالاطلاع عليها أو الرد عليها، مما حرمها من فرص الدفاع المكفولة قانوناً.",
     "وكانت حكومة رئيس الوزراء بنيامين نتنياهو قد صوتت في مايو 2024 على إغلاق مكاتب الجزيرة بموجب قانون يتيح إغلاق وسائل الإعلام الأجنبية التي تُعد تهديداً للأمن القومي. وأكدت الشبكة أن محاولات إسكاتها لن تثنيها عن أداء رسالتها الإعلامية، مشيرة إلى أنها تدرس اتخاذ كافة الإجراءات القانونية المتاحة."
+   ]
+  },
+  {
+   "id": "ec49ce7a491a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-security-chief-discusses-us-israel-war-russian-president-state",
+   "date": "2026-11-02T15:02:59Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Iran security chief discusses US-Israel war with Russian president: state media",
+   "title_en": "Iran security chief discusses US-Israel war with Russian president: state media",
+   "summary_en": "General Mohsen Rezaei, secretary of Iran's Supreme National Security Council, discussed the Middle East situation with Russian President Vladimir Putin during a telephone conversation.",
+   "body_en": [
+    "According to the state-run IRNA news agency, the discussion covered the US-Israel war on Iran as part of high-level consultations between senior officials of the two countries."
+   ],
+   "title_fa": "رسانه‌های دولتی: گفتگو رئیس شورای امنیت ایران با رئیس‌جمهور روسیه درباره جنگ آمریکا و اسرائیل",
+   "summary_fa": "سردار محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در گفتگویی تلفنی با ولادیمیر پوتین، رئیس‌جمهور روسیه، درباره وضعیت خاورمیانه گفتگو کرد.",
+   "body_fa": [
+    "به گزارش خبرگزاری دولتی ایرنا، این گفتگو در چارچوب رایزنی‌های سطح بالا میان مقامات ارشد دو کشور و درباره جنگ آمریکا و اسرائیل علیه ایران انجام شده است."
+   ],
+   "title_ar": "وسائل إعلام رسمية: مسئول الأمن الإيراني يبحث الحرب الأمريكية الإسرائيلية مع الرئيس الروسي",
+   "summary_ar": "بحث اللواء محسن رضائي، أمين المجلس الأعلى للأمن القومي الإيراني، الوضع في الشرق الأوسط خلال اتصال هاتفي مع الرئيس الروسي فلاديمير بوتين.",
+   "body_ar": [
+    "وبحسب وكالة أنباء \"إيرنا\" الرسمية، تناولت المحادثات الحرب الأمريكية الإسرائيلية على إيران في إطار المشاورات رفيعة المستوى بين كبار المسؤولين في البلدين."
    ]
   },
   {
@@ -275,38 +424,6 @@
    ]
   },
   {
-   "id": "b2cdc9d212d2",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041627/govt-enlists-oil-refineries-to-shield-citizens-from-global-price-hikes",
-   "date": "2026-11-02T13:15:18Z",
-   "countries": [
-    "IRN",
-    "ISR",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Govt enlists oil refineries to shield citizens from global price hikes",
-   "title_en": "Govt enlists oil refineries to shield citizens from global price hikes",
-   "summary_en": "The Pakistani government announced that domestic oil refineries will absorb around Rs15 billion per month to prevent a Rs15 per litre fuel price hike following global market shifts.",
-   "body_en": [
-    "Petroleum Minister Ali Pervaiz Malik and Information Minister Attaullah Tarar explained during a press conference in Islamabad that consultations with refineries led to the decision. The refineries agreed to use profits earned from increased throughput over the past three months to assist consumers during a period of international market instability.",
-    "The intervention allowed the government to hold petrol prices steady ahead of a projected price increase. Officials expressed hope that regional tensions affecting global energy markets would ease while the government continues plans for deregulation and refinery modernization."
-   ],
-   "title_fa": "Govt enlists oil refineries to shield citizens from global price hikes",
-   "summary_fa": "دولت پاکستان اعلام کرد که پالایشگاه‌های نفت داخلی ماهیانه حدود ۱۵ میلیارد روپیه بار مالی را بر عهده می‌گیرند تا از افزایش ۱۵ روپیه‌ای قیمت هر لیتر بنزین در پی نوسانات بازار جهانی جلوگیری شود.",
-   "body_fa": [
-    "علی پرویز ملک، وزیر نفت، و عطاءالله تارار، وزیر اطلاع‌رسانی، در یک کنفرانس خبری در اسلام‌آباد توضیح دادند که این تصمیم پس از رایزنی با پالایشگاه‌ها اتخاذ شده است. پالایشگاه‌ها موافقت کردند از سود حاصل از افزایش تولید خود در سه ماه گذشته برای حمایت از مصرف‌کنندگان در دوره بی‌ثباتی بازار بین‌المللی استفاده کنند.",
-    "این اقدام به دولت اجازه داد تا قیمت بنزین را پیش از افزایش پیش‌بینی‌شده ثابت نگه دارد. مقامات ابراز امیدواری کردند که تنش‌های منطقه‌ای تاثیرگذار بر بازارهای جهانی انرژی کاهش یابد، در حالی که دولت برنامه‌های خود برای آزادسازی و نوسازی پالایشگاه‌ها را دنبال می‌کند."
-   ],
-   "title_ar": "Govt enlists oil refineries to shield citizens from global price hikes",
-   "summary_ar": "أعلنت الحكومة الباكستانية أن مصافي النفط المحلية ستحتمل عبئاً مالياً يبلغ نحو 15 مليار روبية شهرياً لمنع ارتفاع أسعار البنزين بمقدار 15 روبية للتر في ظل التقلبات العالمية.",
-   "body_ar": [
-    "أوضح وزير البترول علي برفيز مالك ووزير الإعلام عطا الله تارار خلال مؤتمر صحفي في إسلام آباد أن القرار جاء بعد مشاورات مع المصافي. ووافقت المصافي على استخدام الأرباح المحققة من زيادة الإنتاج خلال الأشهر الثلاثة الماضية لدعم المستهلكين خلال فترة عدم الاستقرار في الأسواق الدولية.",
-    "وسمحت هذه الخطوة للحكومة بالحفاظ على ثبات أسعار البنزين قبل الارتفاع المتوقع. وأعرب المسؤولون عن أملهم في تخفيف التوترات الإقليمية التي تؤثر على أسواق الطاقة العالمية بينما تواصل الحكومة خططها لنزع القيود وتحديث المصافي."
-   ]
-  },
-  {
    "id": "4acccaef9cab",
    "lang": "en",
    "source": "Al Jazeera",
@@ -332,6 +449,36 @@
    "summary_ar": "صرح المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي بأن المحادثات غير المباشرة مع الولايات المتحدة قد تُستأنف في وقت قريب إذا تم تلبية مطالب طهران.",
    "body_ar": [
     "وبحسب بقائي، تتولى قطر تيسير هذه المفاوضات غير المباشرة المستندة إلى خطة سلام إيرانية مقترحة تتألف من سبع خطوات. وتؤكد طهران أنه يمكن تنفيذ هذه الخطة في غضون يومين بمجرد الاستجابة لشروطها."
+   ]
+  },
+  {
+   "id": "6a2063e933a0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israels-first-ambassador-somaliland-has-credentials-accepted",
+   "date": "2026-11-02T12:56:26Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israel's first ambassador to Somaliland has credentials accepted",
+   "title_en": "Israel's first ambassador to Somaliland has credentials accepted",
+   "summary_en": "Israel's first ambassador to Somaliland has formally presented his credentials to the territory's president in Hargeisa. The move follows mutual recognition between the two sides in late 2025.",
+   "body_en": [
+    "Somaliland President Abdirahman Mohamed Abdullahi accepted the credentials of Israeli ambassador Michael Lotem during a ceremony where officials also laid the cornerstone for an Israeli embassy. Israeli Foreign Minister Gideon Saar stated that Israel is determined to strengthen its relations with the territory.",
+    "Abdullahi noted that it was the first time a Somaliland president had received credentials from an ambassador representing a UN member state that recognises its independence. Additionally, the two sides have discussed potential cooperation regarding a naval base on Somaliland's Red Sea coast."
+   ],
+   "title_fa": "استوارنامه نخستین سفیر اسرائیل در سومالی‌لند پذیرفته شد",
+   "summary_fa": "نخستین سفیر اسرائیل در سومالی‌لند استوارنامه خود را به طور رسمی به رئیس‌جمهور این منطقه در هرجیسا تسلیم کرد. این اقدام به دنبال شناسایی متقابل دو طرف در اواخر سال ۲۰۲۵ انجام شد.",
+   "body_fa": [
+    "عبدالرحمن محمد عبدالله، رئیس‌جمهور سومالی‌لند، استوارنامه مایکل لوتم، سفیر اسرائیل را در مراسمی که طی آن سنگ بنای سفارت اسرائیل نیز گذاشته شد، پذیرفت. گیدعون سعار، وزیر خارجه اسرائیل، اظهار داشت که این کشور مصمم به تقویت روابط خود با سومالی‌لند است.",
+    "عبدالله خاطرنشان کرد که این نخستین بار است که رئیس‌جمهور سومالی‌لند استوارنامه سفیر عضوی از سازمان ملل را که استقلال این منطقه را به رسمیت می‌شناسد، دریافت می‌کند. علاوه بر این، دو طرف درباره احتمال همکاری در خصوص ساخت یک پایگاه دریایی در ساحل دریای سرخ سومالی‌لند گفتگو کرده‌اند."
+   ],
+   "title_ar": "قبول أوراق اعتماد أول سفیر لإسرائيل لدى أرض الصومال",
+   "summary_ar": "قدم أول سفیر لإسرائيل لدى أرض الصومال أوراق اعتماده رسمياً إلى رئیس الإقلیم في هرجیسا. وتأتي هذه الخطوة في أعقاب الاعتراف المتبادل بين الجانبين في أواخر عام 2025.",
+   "body_ar": [
+    "تقبل رئیس أرض الصومال عبد الرحمن محمد عبد الله أوراق اعتماد السفير الإسرائيلي ميخائيل لوتم خلال مراسم تم خلالها أيضاً وضع حجر الأساس لسفارة إسرائيلية. وأكد وزير الخارجية الإسرائيلي غدعون ساعر أن إسرائيل عازمة على تعزيز علاقاتها مع أرض الصومال.",
+    "وأشار عبد الله إلى أن هذه هي المرة الأولى التي يتسلم فيها رئيس لأرض الصومال أوراق اعتماد سفير يمثل دولة عضو في الأمم المتحدة تعترف باستقلالها. بالإضافة إلى ذلك، ناقش الجانبان إمكانية التعاون بشأن إنشاء قاعدة بحرية على ساحل أرض الصومال على البحر الأحمر."
    ]
   },
   {
@@ -366,6 +513,68 @@
    ]
   },
   {
+   "id": "7ffcc84c6dcc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/king-jordan-says-no-security-middle-east-without-palestinian-homeland",
+   "date": "2026-11-02T11:47:49Z",
+   "countries": [
+    "JOR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "King of Jordan says no security in Middle East without Palestinian 'homeland'",
+   "title_en": "King of Jordan says no security in Middle East without Palestinian 'homeland'",
+   "summary_en": "Jordan's King Abdullah stated that regional security and stability are impossible without fulfilling the Palestinian people's right to their homeland.",
+   "body_en": [
+    "Opening the Jordanian parliament, King Abdullah emphasized that despite international calls to halt Israeli violations, the humanitarian crisis in Gaza and attacks in the West Bank and Jerusalem persist. He warned that Israel's expansionist ambitions remain the greatest threat to the future and hopes of the region."
+   ],
+   "title_fa": "پادشاه اردن گفت بدون «وطن» فلسطینی هیچ امنیتی در خاورمیانه وجود ندارد",
+   "summary_fa": "ملک عبدالله، پادشاه اردن، اظهار داشت که امنیت و ثبات منطقه‌ای بدون احقاق حق مردم فلسطین برای داشتن وطن خود غیرممکن است.",
+   "body_fa": [
+    "ملک عبدالله در افتتاحیه پارلمان اردن تأکید کرد که علی‌رغم فراخوان‌های بین‌المللی برای توقف تخلفات اسرائیل، بحران بشری در غزه و حملات مداوم در کرانه باختری و قدس ادامه دارد. وی هشدار داد که تمایلات توسعه‌طلبانه اسرائیل بزرگ‌ترین تهدید برای آینده و امیدهای منطقه باقی مانده است."
+   ],
+   "title_ar": "ملك الأردن يقول إنه لا أمن في الشرق الأوسط دون «وطن» فلسطيني",
+   "summary_ar": "صرح الملك عبد الله الثاني ملك الأردن بأن الأمن والاستقرار الإقليميين مستحيلان دون تلبية حق الشعب الفلسطيني في وطنه.",
+   "body_ar": [
+    "وفي افتتاحه للبرلمان الأردني، أكد الملك عبد الله أن الأزمة الإنسانية في غزة والهجمات المستمرة في الضفة الغربية والقدس تتواصل على الرغم من النداءات الدولية لوقف الانتهاكات الإسرائيلية. وحذر من أن الطموحات التوسعية لإسرائيل تظل التهديد الأكبر لمستقبل المنطقة وآمالها."
+   ]
+  },
+  {
+   "id": "0c3a96606451",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/why-syria-considering-joining-saudi-turkey-pakistan-defence-pact",
+   "date": "2026-11-02T11:42:34Z",
+   "countries": [
+    "ISR",
+    "PAK",
+    "SAU",
+    "SYR",
+    "TUR"
+   ],
+   "score": 8,
+   "title": "Why is Syria considering joining the Saudi-Turkey-Pakistan defence pact?",
+   "title_en": "Why is Syria considering joining the Saudi-Turkey-Pakistan defence pact?",
+   "summary_en": "Syrian Foreign Minister Asaad al-Shaibani announced that Syria is evaluating whether to join the Mecca Joint Defence Agreement, a mutual security alliance between Saudi Arabia, Turkey, and Pakistan.",
+   "body_en": [
+    "Speaking at the Manama Dialogue conference in Bahrain, Shaibani described Syria as an integral part of regional security and urged the development of joint deterrence systems. The Mecca agreement, signed in August, obligates its members to treat an attack on one signatory as an attack on all.",
+    "Analysts suggest Syria's interest in the pact is part of a strategic effort to navigate regional tensions and Houthi attacks on Saudi Arabia, as well as to strengthen its stance regarding Israeli military strikes. Syrian President Ahmed al-Sharaa recently visited Riyadh to enhance bilateral ties, though Damascus denied reports that it was asked to send ground forces to fight in Yemen."
+   ],
+   "title_fa": "چرا سوریه در حال بررسی پیوستن به پیمان دفاعی عربستان، ترکیه و پاکستان است؟",
+   "summary_fa": "اسعد الشیبانی، وزیر امور خارجه سوریه، اعلام کرد که کشورش در حال بررسی پیوستن به توافقنامه دفاع مشترک مکه است؛ پیمانی امنیتی و متقابل میان عربستان سعودی، ترکیه و پاکستان.",
+   "body_fa": [
+    "الشیبانی در کنفرانس گفتگوی منامه در بحرین، سوریه را بخش جدایی‌ناپذیر امنیت منطقه‌ای خواند و خواستار توسعه سیستم‌های بازدارندگی مشترک شد. توافقنامه مکه که در ماه اوت امضا شد، اعضای خود را متعهد می‌کند که حمله به یک عضو را به عنوان حمله به همه تلقی کنند.",
+    "تحلیلگران بر این باورند که تمایل سوریه به این پیمان بخشی از یک تلاش راهبردی برای مدیریت تنش‌های منطقه‌ای، حملات حوثی‌ها به عربستان و موضع‌گیری در برابر حملات نظامی اسرائیل است. احمد الشرع، رئیس‌جمهور سوریه، اخیراً برای تقویت روابط دوجانبه از ریاض بازدید کرد، هرچند دمشق گزارش‌ها مبنی بر درخواست ارسال نیروی زمینی برای جنگ در یمن را رد کرده است."
+   ],
+   "title_ar": "لماذا تدرس سوريا الانضمام إلى الاتفاقية الدفاعية بين السعودية وتركيا وباكستان؟",
+   "summary_ar": "أعلن وزير الخارجية السوري أسعد الشرع أن بلاده تدرس الانضمام إلى اتفاقية مكة للدفاع المشترك، وهي تحالف أمني متبادل بين السعودية وتركيا وباكستان.",
+   "body_ar": [
+    "وفي كلمته خلال مؤتمر حوار المنامة في البحرين، وصف الشيباني سوريا بأنها جزء لا يتجزأ من الأمن الإقليمي، داعياً إلى تطوير أنظمة ردع ودفاع مشتركة. وتلزم اتفاقية مكة، التي تم توقيعها في أغسطس، أعضاءها باعتبار أي هجوم على دولة عضو هجوماً على الجميع.",
+    "ويرى محللون أن اهتمام سوريا بالانضمام إلى الحلف يأتي في إطار تلاشٍ استراتيجي للتعامل مع التوترات الإقليمية وهجمات الحوثيين على السعودية، فضلاً عن تعزيز موقفها تجاه الضربات العسكرية الإسرائيلية. وكان الرئيس السوري أحمد الشرع قد زار الرياض مؤخراً لتعزيز العلاقات الثنائية، رغم نفي دمشق للتقارير التي تحدثت عن طلب نشر قوات برية للقتال في اليمن."
+   ]
+  },
+  {
    "id": "e4543197e6b3",
    "lang": "en",
    "source": "The Hindu",
@@ -396,6 +605,37 @@
    ]
   },
   {
+   "id": "38cd37e89f29",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/hamas-would-have-cancelled-7-october-attack-if-israel-honoured-agreements-report-says",
+   "date": "2026-11-02T10:50:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Hamas considered 'cancelling 7 October' attack if Israel honoured agreements",
+   "title_en": "Hamas considered 'cancelling 7 October' attack if Israel honoured agreements",
+   "summary_en": "According to an Al Jazeera investigation, Hamas's plan for the 7 October 2023 attack included a provision to cancel the operation if Israel ceased its actions regarding Al-Aqsa Mosque and prisoners. The report cited meeting records from the group's armed wing from early 2023.",
+   "body_en": [
+    "A document from an 11 February 2023 meeting of the Izz al-Din al-Qassam Brigades, codenamed \"Project Fahd\", stated the operation would be abandoned if Israeli attacks on Al-Aqsa Mosque and prisoners stopped. The meeting was reportedly attended by Yahya Sinwar and Mohammed Deif, and cited Israeli violations and a lack of political progress as motivations for the operation.",
+    "The investigation also broadcast previously unseen footage and documents detailing Deif's leadership and early life. The primary operational objective of the project was to defeat the Israeli military's Gaza Division and capture soldiers."
+   ],
+   "title_fa": "حماس بررسی کرده بود در صورت پایبندی اسرائیل به توافق‌ها، حمله ۷ اکتبر را لغو کند",
+   "summary_fa": "بر اساس یک تحقیق شبکه الجزیره، طرح حماس برای حمله ۷ اکتبر ۲۰۲۳ شامل بندی برای لغو این عملیات در صورت توقف اقدامات اسرائیل در قبال مسجدالاقصی و زندانیان بود. این گزارش به اسناد جلسات شاخه نظامی این گروه در اوایل سال ۲۰۲۳ استناد کرده است.",
+   "body_fa": [
+    "سندی از نشست ۱۱ فوریه ۲۰۲۳ گردان‌های عزالدین قسام با نام رمز «پروژه فهد» نشان می‌دهد که اگر حملات اسرائیل به مسجدالاقصی و زندانیان متوقف می‌شد، این عملیات کنار گذاشته می‌شد. گزارش شده است که یحیی سنوار و محمد ضیف در این نشست حضور داشته و نقض توافق‌ها از سوی اسرائیل را دلیل این اقدام عنوان کرده‌اند.",
+    "این تحقیق همچنین تصاویر و اسناد دیده‌نشده‌ای را درباره رهبری و زندگی اولیه ضیف پخش کرد. هدف عملیاتی اصلی این پروژه شکست لشکر غزه ارتش اسرائیل و به اسارت گرفتن نظامیان بود."
+   ],
+   "title_ar": "حماس درست في \"إلغاء هجوم 7 أكتوبر\" إذا التزمت إسرائيل بالاتفاقات",
+   "summary_ar": "وفقاً لتحقيق أجرته قناة الجزيرة، تضمن مخطط حماس لهجوم 7 أكتوبر 2023 بنداً يتيح إلغاء العملية إذا أوقفت إسرائيل إجراءاتها بشأن المسجد الأقصى والأسرى. واعتمد التقرير على محاضر اجتماعات للجناح العسكري للحركة تعود لعام 2023.",
+   "body_ar": [
+    "أفادت وثيقة لاجتماع عقد في 11 فبراير 2023 لكتائب الشهيد عز الدين القسام، حمل رمز \"مشروع فهد\"، بأن الخطة كانت ستبلغ الإلغاء إذا توقف الهجوم الإسرائيلي على المسجد الأقصى وفي السجون. وبحسب التقارير، حضر الاجتماع يحيى السنوار ومحمد ضيف، وأشارت الوثيقة إلى الانتهاكات الإسرائيلية وغياب التقدم السياسي.",
+    "كما بث التحقيق لقطات ووثائق تُعرض لأول مرة توثق قيادة ضيف وحياته المبكرة. وكان الهدف العملياتي الأساسي للمشروع هو هزيمة فرقة غزة التابعة للجيش الإسرائيلي وأسر أكبر عدد ممكن من الجنود."
+   ]
+  },
+  {
    "id": "1477eaa02e74",
    "lang": "en",
    "source": "Al Jazeera",
@@ -423,96 +663,6 @@
    "body_ar": [
     "وأكد سياسيون مؤيدون للكراد هذا النقل، حيث صرح مدحت سنجار، العضو في حزب المساواة وديمقراطية الشعوب، بأن هذه الخطوة تتطلب تسريع عملية السلام المتوقفة. وأشارت السياسية بروين بولدان إلى أن المنشأة الجديدة تظل جزءاً من السجن ولا تحدد الوضع العام لأوجلان بشكل كامل.",
     "وُضع أوجلان قيد الاحتجاز في جزيرة إمرالي ببحر مرمرة منذ القبض عليه قبل 27 عاماً. وتعتبر تحسين ظروف سجنه مطلباً كردياً رئيسياً في ظل جهود السلام المستمرة بين تركيا وحزب العمال الكردستاني."
-   ]
-  },
-  {
-   "id": "2e23a5d598a9",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
-   "date": "2026-11-02T08:29:29Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "Thousands evacuated as India braces for second cyclone in a week",
-   "title_en": "Thousands evacuated as India braces for second cyclone in a week",
-   "summary_en": "Authorities in India's Andhra Pradesh state have begun evacuating thousands of residents from coastal areas ahead of Cyclone Murasu. The severe storm is expected to strike the region just days after Cyclone Arnab left six people dead.",
-   "body_en": [
-    "Prakhar Jain, managing director of the Andhra Pradesh State Disaster Management Authority, told Reuters that about 2,000 people had been evacuated by Monday, with plans to move about 30,000 people. The India Meteorological Department stated the cyclone was projected to cross the south coast as a severe storm with wind speeds around 100 to 110 kilometres per hour.",
-    "Chief Minister N Chandrababu Naidu and other officials warned of potential damage to infrastructure, including electrical poles, and impacts on several districts. Disaster response teams have been deployed, schools closed in multiple states, and fishermen urged to stay ashore as heavy rains are expected to continue."
-   ],
-   "title_fa": "تخلیه هزاران نفر در هند در آستانه دومین طوفان در یک هفته گذشته",
-   "summary_fa": "مقامات ایالت آندرا پرادش در هند همزمان با نزدیک شدن طوفان «موراسو» تخلیه هزاران تن از ساکنان مناطق ساحلی را آغاز کردند. این طوفان شدید قرار است تنها چند روز پس از آنکه طوفان «آرناب» شش کشته بر جای گذاشت، این منطقه را درنوردد.",
-   "body_fa": [
-    "پرخار جین، مدیرعامل سازمان مدیریت بلایای ایالت آندرا پرادش، به خبرگزاری رویترز گفت که تا روز دوشنبه حدود ۲ هزار نفر تخلیه شده‌اند و برنامه‌ریزی برای جابجایی حدود ۳۰ هزار نفر در جریان است. اداره هواشناسی هند اعلام کرد که پیش‌بینی می‌شود این طوفان با سرعت باد بین ۱۰۰ تا ۱۱۰ کیلومتر در ساعت از سواحل جنوبی عبور کند.",
-    "ن. چندرابابو نایدو، سروزیر ایالت، و دیگر مقامات درباره خسارات احتمالی به زیرساخت‌ها از جمله تیرهای برق و تأثیرات آن بر چندین بخش هشدار دادند. تیم‌های امداد و نجات مستقر شده‌اند، مدارس در چند ایالت تعطیل شده و با توجه به پیش‌بینی تداوم بارندگی‌ها، از ماهیگیران خواسته شده است به دریا نروند."
-   ],
-   "title_ar": "إجلاء آلاف السكان في الهند استعداداً لعاصفة استوائية ثانية في غضون أسبوع",
-   "summary_ar": "بدأت السلطات في ولاية آندرا برادش الهندية إجلاء آلاف السكان من المناطق الساحلية قبيل وصول الإعصار «موراسو». ومن المتوقع أن يضرب الإعصار الشديد المنطقة بعد أيام قليلة من مخلفات الإعصار «آرناب» الذي أودى بحياة ستة أشخاص.",
-   "body_ar": [
-    "قال براخار جين، المدير التنفيذي لهيئة إدارة الكوارث في ولاية آندرا برادش، لوكالة رويترز إنه تم إجلاء نحو ألفي شخص بحلول يوم الإثنين، وسط خطط لإجلاء نحو 30 ألف شخص. وأشارت دائرة الأرصاد الجوية الهندية إلى أن الإعصار من المرجح أن يعبر الساحل الجنوبي كعاصفة شديدة بسرعة سرعة رياح تتراوح بين 100 و110 كيلومترات في الساعة.",
-    "وحذر رئيس وزراء الولاية ن. تشاندرابابو نايدو ومسؤولون آخرون من الأضرار المحتملة التي تلحق بالبنية التحتية، بما في ذلك أعمدة الكهرباء، وتأثيراتها على عدة مناطق. وقد تم نشر فرق الاستجابة للكوارث، وإغلاق المدارس في عدة ولايات، وحث الصيادين على البقاء في اليابسة مع استمرار هطول الأمطار."
-   ]
-  },
-  {
-   "id": "3785887ee7d5",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
-   "date": "2026-11-02T07:25:43Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27",
-   "title_en": "Pakistan assumes chairmanship of SCO Interbank Consortium for 2026-27",
-   "summary_en": "Pakistan has taken over the chairmanship of the Shanghai Cooperation Organisation Interbank Consortium for 2026-27. The Ministry of Finance announced that HBL Chairman Sultan Ali Allana will head the consortium during this period.",
-   "body_en": [
-    "According to the ministry, this development coincides with Pakistan's chairmanship of the broader organisation for the same period, reflecting its role in promoting regional trade, investment, and economic cooperation. The SCO Interbank Consortium serves as a platform for financial collaboration among member states to support sustainable development and transnational projects.",
-    "Deputy Prime Minister and Foreign Minister Ishaq Dar noted that Pakistan's engagement with the organisation has evolved significantly since 2017. Pakistan previously hosted the SCO Council of Government leaders in October 2024 and currently chairs its Regional Anti-Terrorist Structure."
-   ],
-   "title_fa": "پاکستان ریاست کنسرسیوم بین بانکی سازمان همکاری شانگهای را برای دوره ۲۰۲۶-۲۰۲۷ بر عهده گرفت",
-   "summary_fa": "پاکستان ریاست کنسرسیوم بین بانکی سازمان همکاری شانگهای را برای دوره ۲۰۲۶-۲۰۲۷ بر عهده گرفت. وزارت دارایی پاکستان اعلام کرد که سلطان علی علانا، رئیس بانک اچ‌بی‌ال، ریاست این کنسرسیوم را در این مدت بر عهده خواهد داشت.",
-   "body_fa": [
-    "به گفته وزارت دارایی، این رویداد همزمان با ریاست پاکستان بر سازمان همکاری شانگهای در همین دوره است و نشان‌دهنده نقش این کشور در ارتقای تجارت منطقه‌ای، سرمایه‌گذاری و همکاری‌های اقتصادی است. کنسرسیوم بین بانکی این سازمان به عنوان بستری برای همکاری مالی میان کشورهای عضو جهت حمایت از توسعه پایدار و پروژه‌های فرامرزی عمل می‌کند.",
-    "اسحاق دار، معاون نخست‌وزیر و وزیر امور خارجه پاکستان، خاطرنشان کرد که تعامل این کشور با سازمان همکاری شانگهای از سال ۲۰۱۷ به طور قابل توجهی رشد کرده است. پاکستان پیش‌تر در اکتبر ۲۰۲۴ میزبان نشست شورای سران دولت‌های این سازمان بود و در حال حاضر ریاست ساختار منطقه‌ای ضد تروریسم آن را بر عهده دارد."
-   ],
-   "title_ar": "باكستان تتولى رئاسة اتحاد بين البنوك التابع لمنظمة شانغهاي للتعاون لفترة 2026-2027",
-   "summary_ar": "تولت باكستان رئاسة اتحاد بين البنوك التابع لمنظمة شانغهاي للتعاون لفترة 2026-2027. وأعلنت وزارة المالية أن سلطان علي علانا، رئيس مجلس إدارة بنك إتش بي إل، سيتولى رئاسة الاتحاد خلال هذه الفترة.",
-   "body_ar": [
-    "وفقاً للوزارة، يتزامن هذا التطور مع رئاسة باكستان للمنظمة للفترة نفسها، مما يعكس دور البلاد في تعزيز التجارة الإقليمية والاستثمار والتعاون الاقتصادي. ويعمل اتحاد بين البنوك التابع لمنظمة شانغهاي كمنصة للتعاون المالي بين الدول الأعضاء لدعم التنمية المستدامة والمشاريع العابرة للحدود.",
-    "وأشار نائب رئيس الوزراء وزير الخارجية إسحاق دار إلى أن مشاركة باكستان في المنظمة تطورت بشكل ملحوظ منذ عام 2017. وكانت باكستان قد استضافت اجتماع رؤساء حكومات الدول الأعضاء في أكتوبر 2024، وتتولى حالياً رئاسة الهيئة الإقليمية لمكافحة الإرهاب التابعة للمنظمة."
-   ]
-  },
-  {
-   "id": "4511087399d6",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-   "date": "2026-11-02T07:08:28Z",
-   "countries": [
-    "BGD"
-   ],
-   "score": 5,
-   "title": "Bangladesh garment factories disrupted as protests continue for third day",
-   "title_en": "Bangladesh garment factories disrupted as protests continue for third day",
-   "summary_en": "Protests over low wages and rising living costs have disrupted operations in hundreds of garment factories across Bangladesh for a third consecutive day.",
-   "body_en": [
-    "About 500 factories were temporarily closed following the start of demonstrations on Saturday. Thousands of garment workers took to the streets in key industrial areas including Mirpur, Savar, Ashulia, and Gazipur, demanding an increase in the minimum monthly wage from 12,500 taka ($101) to 30,000 taka ($242). Security forces deployed tear gas and sound grenades to disperse the crowds.",
-    "In response to the unrest, the government formed a wage board to review worker compensation, while Prime Minister Tarique Rahman held an emergency meeting with ministers. Factory owners warned that continued protests could lead to the enforcement of a \"no work, no pay\" policy, citing existing challenges such as rising operational costs, energy market uncertainty amid the US-Israel war on Iran, and slowing export demand."
-   ],
-   "title_fa": "تداوم اعتراضات برای سومین روز متوالی کارخانه‌های پوشاک بنگلادش را دچار اختلال کرد",
-   "summary_fa": "اعتراضات به دستمزدهای پایین و افزایش هزینه‌های زندگی، برای سومین روز متوالی فعالیت صدها کارخانه پوشاک را در سراسر بنگلادش دچار اختلال کرده است.",
-   "body_fa": [
-    "در پی آغاز تظاهرات در روز شنبه، حدود ۵۰۰ کارخانه به طور موقت تعطیل شدند. هزاران کارگر پوشاک در مناطق صنعتی کلیدی از جمله میرپور، ساور، آشوریا و گازی‌پور به خیابان‌ها آمدند و خواستار افزایش حداقل دستمزد ماهانه از ۱۲,۵۰۰ تاکا (۱۰۱ دلار) به ۳۰,۰۰۰ تاکا (۲۴۲ دلار) شدند. نیروهای امنیتی برای متفرق کردن معترضان از گاز اشک‌آور و نارنجک صوتی استفاده کردند.",
-    "در پاسخ به این ناآرامی‌ها، دولت هیئتی را برای بررسی دستمزد کارگران تشکیل داد و طارق رحمان، نخست‌وزیر، جلسه اضطراری با وزرا برگزار کرد. صاحبان کارخانه‌ها با اشاره به چالش‌های موجود مانند افزایش هزینه‌های عملیاتی، عدم قطعیت در بازار انرژی به دلیل جنگ آمریکا و اسرائیل علیه ایران و کاهش تقاضای صادرات، هشدار دادند که تداوم اعتراضات ممکن است منجر به اجرای سیاست «بدون کار، بدون پرداخت» شود."
-   ],
-   "title_ar": "استمرار الاحتجاجات لليوم الثالث يربك مصانع الملابس في بنغلاديش",
-   "summary_ar": "تسببت الاحتجاجات المطالبة برفع الأجور ومواجهة ارتفاع تكاليف المعيشة في إرباك العمل بمئات مصانع الملابس في بنغلاديش لليوم الثالث على التوالي.",
-   "body_ar": [
-    "أُغلقت نحو 500 منشأة صناعية مؤقتاً عقب انطلاق المظاهرات يوم السبت. وخرج آلاف العمال في مناطق صناعية رئيسية شملت ميربور وساوار وآشوليا وغازيبور للمطالبة برفع الحد الأدنى للرواتب الشهرية من 12,500 تاكا (101 دولار) إلى 30,000 تاكا (242 دولاراً)، فيما استخدمت قوات الأمن قنابل الغاز والقنابل الصوتية لتفريق المحتجين.",
-    "ورداً على الاضطرابات، شكلت الحكومة مجلساً لمراجعة أجور العمال، كما عقد رئيس الوزراء طارق رحمان اجتماعاً طارئاً مع وزرائه. وحذر أصحاب المصانع من أن استمرار الاحتجاجات قد يدفعهم لتطبيق قاعدة \"لا أجر دون عمل\"، مشيرين إلى ضغوط الارتفاع في التكاليف التشغيلية وعدم استقرار سوق الطاقة في ظل الحرب الأمريكية الإسرائيلية على إيران وتراجع الطلب على الصادرات."
    ]
   },
   {
@@ -604,36 +754,6 @@
    "body_ar": [
     "عقب مشاركة قياسية للمواطنين العرب رفعت تمثيل الأحزاب العربية إلى 19 مقعداً في الكنيست، أكد جبارين أن الهدف الأول هو إنهاء حكومة نتنياهو والوزيرين إيتمار بن غفير وبتسلئيل سموتريتش. ورغم عدم نية القائمة المشتركة الانضمام للحكومة بسبب استمرار الاحتلال، أبدى جبارين استعداده للدعم من الخارج لإنجاح حكومة أقلية.",
     "وأشار زعيم التحالف إلى أن النواب الـ67 المعارضين لنتنياهو يمكنهم استخدام غالبيتهم فوراً لتغيير رئيس الكنيست والسيطرة على اللجان البرلمانية. ودعا المعارضة إلى معالجة التمييز ضد المجتمع العربي، وإيقاف الحرب، واستئناف المفاوضات مع القيادة الفلسطينية."
-   ]
-  },
-  {
-   "id": "1793b3e29e0e",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041521/two-killed-one-abducted-in-balochistans-qila-abdullah",
-   "date": "2026-11-02T03:30:39Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Two killed, one abducted in Balochistan's Qila Abdullah",
-   "title_en": "Two killed, one abducted in Balochistan's Qila Abdullah",
-   "summary_en": "Two people were killed during an exchange of fire following the abduction of a local resident by armed men in Balochistan's Qila Abdullah district. Police and law enforcement agencies have launched a search operation in the area.",
-   "body_en": [
-    "According to officials, unidentified armed men abducted a man named Haider in the Gulistan tehsil on Sunday. Angered by the incident, local residents confronted the abductors, leading to a shootout that resulted in the deaths of two individuals identified as Abdul Wali and Hanifullah.",
-    "After the incident, the armed suspects fled to an undisclosed location with the abducted person. Law enforcement forces have cordoned off the area to track down the kidnappers and secure the release of the captive."
-   ],
-   "title_fa": "کشته شدن دو تن و ربوده شدن یک نفر در قلعه عبدالله واقع در بلوچستان",
-   "summary_fa": "در پی ربوده شدن یک تن از ساکنان محلی توسط افراد مسلح در شهرستان قلعه عبدالله در ایالت بلوچستان، درگیری مسلحانه‌ای رخ داد که به کشته شدن دو نفر انجامید. پلیس و نهادهای مجری قانون عملیات جستجویی را در منطقه آغاز کرده‌اند.",
-   "body_fa": [
-    "به گفته مقام‌های رسمی، افراد مسلح ناشناس روز یکشنبه فردی به نام حیدر را در بخش گلستان ربودند. ساکنان محلی خشمگین از این آدم‌ربایی با ربایندگان درگیر شدند که این تبادل آتش به کشته شدن دو نفر به نام‌های عبدالولی و حنیف‌الله انجامید.",
-    "پس از این رویداد، افراد مسلح همراه با فرد ربوده شده به مکانی نامعلوم گریختند. نیروهای امنیتی برای ردیابی ربایندگان و آزادی فرد ربوده‌شده منطقه را محاصره کرده‌اند."
-   ],
-   "title_ar": "مقتل شخصين وإختطاف آخر في منطقة قلعة عبد الله ببلوشستان",
-   "summary_ar": "قتل شخصان خلال تبادل لإطلاق النار أعقب عملية اختطاف استهدفت مقيماً محلياً على يد مسلحين في منطقة قلعة عبد الله بإقليم بلوشستان. وأطلقت الشرطة والأجهزة الأمنية عملية بحث في المنطقة.",
-   "body_ar": [
-    "وبحسب المسؤولين، قام مسلحون مجهولون باختطاف شخص يدعى حيدر في منطقة غوستان يوم الأحد. وتجمهر السكان المحليون الغاضبون واشتبكوا مع الخاطفين، مما أدى إلى مقتل شخصين يدعيان عبد الولي وحنيف الله.",
-    "وعقب الحادث، فر المسلحون إلى جهة مجهولة ومعهم الشخص المختطف. وقد طوقت قوات الأمن والشرطة المنطقة لإطلاق عملية تفتيش بهدف القبض على الجناة وتحرير المختطف."
    ]
   },
   {
