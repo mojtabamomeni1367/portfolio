@@ -1,5 +1,5 @@
 {
- "count": 7,
+ "count": 8,
  "items": [
   {
    "id": "persian-gulf-security-uae-2026",
@@ -33,6 +33,41 @@
      "focus_keyword": "أمن الخليج الفارسي",
      "image": "/assets/uploads/persian-gulf-security-uae-2026-ar.jpg",
      "url": "analysis/persian-gulf-security-uae-2026-ar.html"
+    }
+   }
+  },
+  {
+   "id": "trump-netanyahu-iran-next-move-2026",
+   "date": "2026-11-02",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "topics": [
+    "iran-policy",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Trump and Netanyahu: 4 Decision Points Over the Next Move Against Iran",
+     "summary": "A telephone conversation between the American president and Israel's prime minister raises a question beyond their personal relationship: does alignment against Iran mean agreement on military timing, diplomatic opportunities and the conditions for ending a crisis? Axios's November 1 report on the conversation between Trump and Netanyahu brings that question into focus. However, the call alone establishes neither agreement to resume war nor an irreversible fracture in their partnership.",
+     "focus_keyword": "Trump and Netanyahu",
+     "image": "/assets/uploads/trump-netanyahu-iran-next-move-2026-en.jpg",
+     "url": "analysis/trump-netanyahu-iran-next-move-2026-en.html"
+    },
+    "fa": {
+     "title": "ترامپ و نتانیاهو؛ ۴ گره تصمیم گیری درباره گام بعدی علیه ایران",
+     "summary": "تماس رئیس جمهور آمریکا و نخست وزیر اسرائیل، پرسشی فراتر از روابط شخصی دو رهبر ایجاد کرده است: آیا همسویی در برابر ایران، به معنای توافق درباره زمان حمله، فرصت مذاکره و شرایط پایان بحران است؟ گزارش اول نوامبر اکسیوس از گفتگوی ترامپ و نتانیاهو درباره ایران، این پرسش را دوباره مطرح کرده است. با این حال، تماس تلفنی به تنهایی نه توافق بر سر جنگ را اثبات می کند و نه شکافی قطعی در اتحاد دو طرف را نشان می دهد.",
+     "focus_keyword": "ترامپ و نتانیاهو",
+     "image": "/assets/uploads/trump-netanyahu-iran-next-move-2026-fa.jpg",
+     "url": "analysis/trump-netanyahu-iran-next-move-2026-fa.html"
+    },
+    "ar": {
+     "title": "ترامب ونتنياهو؛ ٤ عقد في اتخاذ القرار بشأن الخطوة المقبلة ضد إيران",
+     "summary": "يثير الاتصال بين الرئيس الأمريكي ورئيس الوزراء الإسرائيلي سؤالا يتجاوز علاقتهما الشخصية: هل يعني التوافق تجاه إيران الاتفاق على توقيت الهجوم، وفرصة التفاوض، وشروط إنهاء الأزمة؟ وقد أعاد تقرير أكسيوس المنشور في الأول من نوفمبر، بشأن حديث ترامب ونتنياهو حول إيران، طرح هذا السؤال. لكن الاتصال وحده لا يثبت الاتفاق على استئناف الحرب، كما لا يبرهن على حدوث انقسام نهائي في الشراكة بين الطرفين أو انتهاء التنسيق بين مؤسساتهما.",
+     "focus_keyword": "ترامب ونتنياهو",
+     "image": "/assets/uploads/trump-netanyahu-iran-next-move-2026-ar.jpg",
+     "url": "analysis/trump-netanyahu-iran-next-move-2026-ar.html"
     }
    }
   },
