@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:17:41Z",
+ "updated": "2026-11-02T21:58:58Z",
  "items": [
   {
    "id": "8fa2de342312",
@@ -1919,7 +1919,8 @@
     "BGD"
    ],
    "desc": "Workers in Bangladesh's largest export sector are demanding a minimum wage increase amid rising inflation.",
-   "score": 5
+   "score": 5,
+   "dup_of": "8594dbe9c831"
   },
   {
    "id": "f674ac2eae43",
@@ -2121,8 +2122,7 @@
     "BGD"
    ],
    "desc": "Thousands of Bangladeshi garment workers blocked a major highway and clashed with police on Monday, demanding a monthly minimum wage more than double their current pay, as protests spread across industrial hubs. The South Asian nation of 170 million people is the world’s second-biggest garment exporter behind China , manufacturing clothes for some of the largest international brands. Hundreds of workers in Gazipur, north of the capital Dhaka, blocked the Dhaka-Tangail highway, vandalising several vehicles, while large groups took to the streets in the Mirpur district, where police dispersed de",
-   "score": 6,
-   "dup_of": "4511087399d6"
+   "score": 6
   },
   {
    "id": "15a63a1c9269",
@@ -3158,6 +3158,102 @@
    ],
    "desc": "قُتلت سيفدا، ابنة سميرة البالغة من العمر 16 عاماً، بالرصاص بينما كانتا تشاركان في احتجاجات حاشدة في شهر يناير/كانون الثاني",
    "score": 5
+  },
+  {
+   "id": "ebdde0b3842f",
+   "title": "Iran pushing accelerated plan for ceasefire talks with US",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+   "date": "2026-11-02T18:49:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+   "score": 9
+  },
+  {
+   "id": "663fac26e318",
+   "title": "Israeli 'unity government': Efrat Shapira expects Herzog will urge rival camps to form a 'coalition'",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israeli-unity-government-efrat-shapira-expects-herzog-will-urge-rival-camps-to-form-a-coalition",
+   "date": "2026-11-02T19:15:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Erin Ogunkeye is pleased to welcome Efrat Shapira Rosenberg, Israeli Radio/TV Host, Columnist, Podcaster and Educator. Following a deadlocked Israeli election, “everyone is saying who they’re not going to sit with, but no one is actually saying who they will sit with.” As President Isaac Herzog prepares to consult parliamentary factions over the formation of a new coalition, the impasse reveals tensions that extend beyond the familiar confrontation between Benjamin Netanyahu and his political opponents. According to Shapira, co-host of the highly popular Israeli politics podcast Miflaget Hamak",
+   "score": 7,
+   "dup_of": "4d00ab8880d9"
+  },
+  {
+   "id": "46672e0229a2",
+   "title": "Trump says he will not attack Iran after midterms",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-will-not-attack-iran-after-midterms",
+   "date": "2026-11-02T21:41:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says he will not attack Iran after midterms The US is not going to attack Iran after the midterms, President Donald Trump said on Monday, one day ahead of a hotly anticipated election and following a warning from conservative podcast host Tucker Carlson that Trump was weighing dropping a nuclear bomb. Trump ruled out strikes in a question posed by an NBC reporter during a speech at the Washington Reflecting Pool on Monday, after signalling in other interviews he was in no rush to resume attacking the Islamic Republic. \"One way or the other, we will do something, but there is no rush. We ",
+   "score": 8
+  },
+  {
+   "id": "37c6dd4e3801",
+   "title": "Trump says settlement with Iran possible",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-settlement-iran-possible",
+   "date": "2026-11-02T21:37:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says settlement with Iran possible US President Donald Trump said on Monday that a settlement with Iran \"could happen\". In a post on Truth Social, Trump wrote, \"Oil Prices are DROPPING LIKE A ROCK, down almost $10 a Barrel, A RECORD, because people feel that there will not be a War with Iran.\" \"Iran wants a settlement, as soon as possible. It could happen,\" he added.",
+   "score": 8,
+   "dup_of": "4acccaef9cab"
+  },
+  {
+   "id": "68f3acd02d30",
+   "title": "Trump in 'no rush' to decide on Iran, Axios reports",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-no-rush-decide-iran-axios-reports",
+   "date": "2026-11-02T21:31:27Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump in 'no rush' to decide on Iran, Axios reports In a phone interview with Axios, US President Donald Trump said that he is \"in no rush\" to decide whether to resume the war on Iran.",
+   "score": 7,
+   "dup_of": "4c1e1d02df87"
+  },
+  {
+   "id": "1c62cdcd20f8",
+   "title": "Netanyahu pressing Trump to attack Iran after midterms, says officials",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahu-pressing-trump-to-attack-iran-after-midterms-says-officials/article71658356.ece",
+   "date": "2026-11-02T20:23:21Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "A return to full-scale war with Iran could help Benjamin Netanyahu to form an emergency government after he and his far-right allies lost their parliamentary majority in last week's elections",
+   "score": 8
+  },
+  {
+   "id": "dc9586fab5a8",
+   "title": "An anti-climactic outcome in the Knesset elections",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/op-ed/an-anti-climactic-outcome-in-the-knesset-elections/article71658190.ece",
+   "date": "2026-11-02T19:46:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "While voters have reprimanded Benjamin Netanyahu for his flawed conduct, they seem to be willing to give him another chance",
+   "score": 7,
+   "dup_of": "7bc626e8e131"
   }
  ]
 }
