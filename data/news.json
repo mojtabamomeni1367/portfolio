@@ -1,7 +1,128 @@
 {
- "updated": "2026-11-02T04:07:22Z",
- "count": 319,
+ "updated": "2026-11-02T07:47:09Z",
+ "count": 323,
  "items": [
+  {
+   "id": "4511087399d6",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
+   "date": "2026-11-02T07:08:28Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 5,
+   "title": "Bangladesh garment factories disrupted as protests continue for third day",
+   "title_en": "Bangladesh garment factories disrupted as protests continue for third day",
+   "summary_en": "Protests over low wages and rising living costs have disrupted operations in hundreds of garment factories across Bangladesh for a third consecutive day.",
+   "body_en": [
+    "About 500 factories were temporarily closed following the start of demonstrations on Saturday. Thousands of garment workers took to the streets in key industrial areas including Mirpur, Savar, Ashulia, and Gazipur, demanding an increase in the minimum monthly wage from 12,500 taka ($101) to 30,000 taka ($242). Security forces deployed tear gas and sound grenades to disperse the crowds.",
+    "In response to the unrest, the government formed a wage board to review worker compensation, while Prime Minister Tarique Rahman held an emergency meeting with ministers. Factory owners warned that continued protests could lead to the enforcement of a \"no work, no pay\" policy, citing existing challenges such as rising operational costs, energy market uncertainty amid the US-Israel war on Iran, and slowing export demand."
+   ],
+   "title_fa": "تداوم اعتراضات برای سومین روز متوالی کارخانه‌های پوشاک بنگلادش را دچار اختلال کرد",
+   "summary_fa": "اعتراضات به دستمزدهای پایین و افزایش هزینه‌های زندگی، برای سومین روز متوالی فعالیت صدها کارخانه پوشاک را در سراسر بنگلادش دچار اختلال کرده است.",
+   "body_fa": [
+    "در پی آغاز تظاهرات در روز شنبه، حدود ۵۰۰ کارخانه به طور موقت تعطیل شدند. هزاران کارگر پوشاک در مناطق صنعتی کلیدی از جمله میرپور، ساور، آشوریا و گازی‌پور به خیابان‌ها آمدند و خواستار افزایش حداقل دستمزد ماهانه از ۱۲,۵۰۰ تاکا (۱۰۱ دلار) به ۳۰,۰۰۰ تاکا (۲۴۲ دلار) شدند. نیروهای امنیتی برای متفرق کردن معترضان از گاز اشک‌آور و نارنجک صوتی استفاده کردند.",
+    "در پاسخ به این ناآرامی‌ها، دولت هیئتی را برای بررسی دستمزد کارگران تشکیل داد و طارق رحمان، نخست‌وزیر، جلسه اضطراری با وزرا برگزار کرد. صاحبان کارخانه‌ها با اشاره به چالش‌های موجود مانند افزایش هزینه‌های عملیاتی، عدم قطعیت در بازار انرژی به دلیل جنگ آمریکا و اسرائیل علیه ایران و کاهش تقاضای صادرات، هشدار دادند که تداوم اعتراضات ممکن است منجر به اجرای سیاست «بدون کار، بدون پرداخت» شود."
+   ],
+   "title_ar": "استمرار الاحتجاجات لليوم الثالث يربك مصانع الملابس في بنغلاديش",
+   "summary_ar": "تسببت الاحتجاجات المطالبة برفع الأجور ومواجهة ارتفاع تكاليف المعيشة في إرباك العمل بمئات مصانع الملابس في بنغلاديش لليوم الثالث على التوالي.",
+   "body_ar": [
+    "أُغلقت نحو 500 منشأة صناعية مؤقتاً عقب انطلاق المظاهرات يوم السبت. وخرج آلاف العمال في مناطق صناعية رئيسية شملت ميربور وساوار وآشوليا وغازيبور للمطالبة برفع الحد الأدنى للرواتب الشهرية من 12,500 تاكا (101 دولار) إلى 30,000 تاكا (242 دولاراً)، فيما استخدمت قوات الأمن قنابل الغاز والقنابل الصوتية لتفريق المحتجين.",
+    "ورداً على الاضطرابات، شكلت الحكومة مجلساً لمراجعة أجور العمال، كما عقد رئيس الوزراء طارق رحمان اجتماعاً طارئاً مع وزرائه. وحذر أصحاب المصانع من أن استمرار الاحتجاجات قد يدفعهم لتطبيق قاعدة \"لا أجر دون عمل\"، مشيرين إلى ضغوط الارتفاع في التكاليف التشغيلية وعدم استقرار سوق الطاقة في ظل الحرب الأمريكية الإسرائيلية على إيران وتراجع الطلب على الصادرات."
+   ]
+  },
+  {
+   "id": "f63c5509f840",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss",
+   "date": "2026-11-02T06:27:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+   "title_en": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+   "summary_en": "Israeli military forces have withdrawn from Hebron following a 10-day siege, allowing Palestinian security forces to take control and enabling displaced residents to return home.",
+   "body_en": [
+    "Governor Khaled Dudin and local officials confirmed that Palestinian forces took full control of the area after the Israeli pullout on Monday morning. The siege was originally imposed on October 23 after two Palestinian attackers killed two Israeli soldiers and wounded three others before being killed. Municipal functions, schools, and universities have reopened after being completely halted during the blockade.",
+    "According to local authorities, the military operation resulted in the destruction of 15 structures, including the homes of the two attackers, and displaced over 537 families. Local officials and observers noted that the military imposed widespread closures, seized private homes as outposts, and inflicted severe damage on the local economy."
+   ],
+   "title_fa": "استاندار الخلیل می‌گوید نیروهای اسرائیلی پس از ۱۰ روز محاصره از این شهر عقب‌نشینی کرده‌اند",
+   "summary_fa": "نیروهای نظامی اسرائیل پس از یک محاصره ۱۰ روزه از الخلیل عقب‌نشینی کرده‌اند، که این امر به نیروهای امنیتی فلسطین اجازه داد کنترل شهر را به دست گیرند و شرایط بازگشت آوارگان را فراهم کنند.",
+   "body_fa": [
+    "خالد دودین، استاندار الخلیل، و مقامات محلی تایید کردند که نیروهای فلسطینی پس از عقب‌نشینی روز دوشنبه اسرائیل، کنترل کامل منطقه را به دست گرفته‌اند. این محاصره در ۲۳ اکتبر و پس از حمله دو فلسطینی آغاز شد که به کشته شدن دو سرباز اسرائیلی و زخمی شدن سه تن دیگر انجامید. فعالیت‌های شهری، مدارس و دانشگاه‌ها پس از تعطیلی کامل در طول محاصره، دوباره بازگشایی شده‌اند.",
+    "به گفته مقامات محلی، این عملیات نظامی به تخریب ۱۵ ساختمان از جمله خانه دو مهاجم انجامید و بیش از ۵۳۷ خانواده را آواره کرد. مسئولان محلی و ناظران اعلام کردند که ارتش بسته‌شدن گسترده راه‌ها را تحمیل کرد، خانه‌های شخصی را به پایگاه نظامی تبدیل نمود و آسیب‌های شدیدی به اقتصاد محلی وارد آورد."
+   ],
+   "title_ar": "محافظ الخليل يقول إن القوات الإسرائيلية انسحبت من المدينة بعد حصار دام 10 أيام",
+   "summary_ar": "انسحبت القوات العسكرية الإسرائيلية من مدينة الخليل بعد حصار استمر 10 أيام، مما سمح لقوات الأمن الفلسطينية باستلام السيطرة وتمكين العائلات النازحة من العودة.",
+   "body_ar": [
+    "أكد محافظ الخليل خالد دودين ومسؤولون محليون أن القوات الفلسطينية استلمت السيطرة الكاملة على المنطقة بعد الانسحاب الإسرائيلي صباح الاثنين. وكان الحصار قد فرض في 23 تشرين الأول/أكتوبر عقب هجوم أدى إلى مقتل جنديين إسرائيليين وإصابة ثلاثة آخرين قبل مقتل المنفذين. واستأنفت المدارس والجامعات والخدمات البلدية نشاطها بعد توقف كامل خلال الحصار.",
+    "ووفقاً للسلطات المحلية، أسفرت العملية العسكرية عن هدم 15 منشأة، بما في ذلك منازل المنفذين، وتهجير أكثر من 537 عائلة. وذكر مسؤولون محليون أن الجيش فرض إغلاقات واسعة واستولى على منازل وحولها إلى نقاط عسكرية، مما ألحق أضراراً بالغة بالاقتصاد المحلي."
+   ]
+  },
+  {
+   "id": "e8945d7d0316",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+   "date": "2026-11-02T06:00:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "title_en": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "summary_en": "A new poll reveals that half of the Israeli public believes the government should adjust its West Bank settlement policy to prevent escalating international sanctions and isolation.",
+   "body_en": [
+    "The survey by the research group aChord found that 50% of respondents favor changing settlement construction policies to avoid sanctions, with support for adjustments reaching 71% among voters backing Gadi Eisenkot's Change bloc. Conversely, only 14% of Benjamin Netanyahu's supporters backed altering the policy, with the majority preferring to continue regardless of international pressure.",
+    "While three-quarters of Netanyahu bloc voters said recent UK trade restrictions on settlement goods did not impact their election vote, a 52% majority of Israelis supported targeted sanctions against individual violent settlers. However, support for settlement policy drops further if international sanctions begin to affect personal financial matters such as bank interest rates and credit card usage."
+   ],
+   "title_fa": "نظرسنجی نشان می‌دهد اکثر اسرائیلی‌ها معتقدند سیاست استیتکاک‌سازی برای جلوگیری از تحریم‌های بیشتر باید تغییر کند",
+   "summary_fa": "یک نظرسنجی جدید نشان می‌دهد که نیمی از افکار عمومی اسرائیل معتقدند دولت باید سیاست شهرک‌سازی خود در کرانه باختری را برای جلوگیری از تشدید تحریم‌های بین‌المللی و انزوا تعدیل کند.",
+   "body_fa": [
+    "بر اساس نظرسنجی گروه تحقیقاتی aChord، پنجاه درصد از شرکت‌کنندگان خواهان تغییر سیاست‌های ساخت شهرک‌ها برای اجتناب از تحریم‌ها هستند و این حمایت در میان رای‌دهندگان به بلوک تغییر تحت رهبری گادی آیزنکوت به ۷۱ درصد می‌رسد. در مقابل، تنها ۱۴ درصد از طرفداران بنیامین نتانیاهو با تغییر این سیاست موافق بودند و اکثریت آنها ادامه آن را بدون توجه به فشارها ترجیح دادند.",
+    "اگرچه سه چهارم از رای‌دهندگان بلوک نتانیاهو اعلام کردند محدودیت‌های تجاری اخیر بریتانیا تاثیری بر رای‌گیری آنها نداشته است، ۵۲ درصد از اسرائیلی‌ها از تحریم‌های هدفمند علیه شهرک‌نشینان خشونت‌طلب حمایت کردند. با این حال، در صورت بروز مشکلات مالی شخصی نظیر افزایش نرخ بهره یا محدودیت‌های بانکی، مخالفت عمومی با ادامه سیاست‌های فعلی افزایش می‌یابد."
+   ],
+   "title_ar": "استطلاع رأي يظهر أن غالبية الإسرائيليين يرون ضرورة تغيير سياسة الاستيطان لتجنب المزيد من العقوبات",
+   "summary_ar": "كشف استطلاع جديد للرأي أن نصف الجمهور الإسرائيلي يعتقد أن على الحكومة تعديل سياسة الاستيطان في الضفة الغربية لتجنب تصاعد العقوبات الدولية والعزلة.",
+   "body_ar": [
+    "أظهر الاستطلاع الذي أجرته مجموعة \"aChord\" أن 50% من المشاركين يؤيدون تعديل سياسة بناء المستوطنات لتجنب العقوبات، وارتفعت هذه النسبة إلى 71% بين ناخبي كتلة التغيير الداعمة لـ غادي آيزنكوت. في المقابل، وافق 14% فقط من مؤيدي بنيامين نتنياهو على تغيير السياسة، مع تفضيل الغالبية الاستمرار بغض النظر عن الضغوط.",
+    "ورغم أن ثلاثة أرباع ناخبي كتلة نتنياهو أكدوا أن قيود التجارة البريطانية الأخيرة لم تؤثر على تصويتهم، فإن 52% من الإسرائيليين أيدوا فرض عقوبات على المستوطنين العنيفين. وتزداد المعارضة لسياسة الاستيطان إذا بدأت العقوبات تؤثر على الشؤون المالية الشخصية مثل الفوائد المصرفية واستخدام البطاقات الائتمانية."
+   ]
+  },
+  {
+   "id": "451a04e84b13",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+   "date": "2026-11-02T06:00:32Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+   "title_en": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+   "summary_en": "Yousef Jabareen, head of the Joint List, declared a historic opportunity to alter Israel's political direction and offered external parliamentary support to help Gadi Eisenkot's opposition bloc oust Benjamin Netanyahu.",
+   "body_en": [
+    "Following record turnout among Arab citizens that gave Arab parties 19 seats in the Knesset, Jabareen stated that his primary goal is ending the government of Netanyahu and ministers Itamar Ben-Gvir and Bezalel Smotrich. While the Joint List does not plan to join the cabinet due to the ongoing occupation, Jabareen expressed readiness to vote tactically from the outside to sustain a minority government.",
+    "The coalition leader noted that the 67 non-Netanyahu lawmakers could immediately exert their majority to replace the Knesset speaker and control key parliamentary committees. He urged the opposition to address systemic discrimination against the Arab minority, stop the war, and restart peace negotiations with Palestinian leadership."
+   ],
+   "title_fa": "رهبر ائتلاف عربی می‌گوید اسرائیل با یک فرصت «تاریخی» برای تغییر مسیر روبرو است",
+   "summary_fa": "یوسف جبارین، رهبر فهرست مشترک، از وجود یک فرصت تاریخی برای تغییر مسیر سیاسی اسرائیل خبر داد و پیشنهاد کرد برای برکناری بنیامین نتانیاهو، از ائتلاف اپوزیسیون به رهبری گادی آیزنکوت پشتیبانی پارلمانی خارج از دولت به عمل آورد.",
+   "body_fa": [
+    "در پی مشارکت بی‌سابقه شهروندان عرب که به دستیابی احزاب عربی به ۱۹ کرسی در کنست انجامید، جبارین هدف اصلی خود را پایان دادن به دولت نتانیاهو و وزرایی چون ایتمار بن‌گویر و بزالل اسموتریچ اعلام کرد. با اینکه فهرست مشترک به دلیل تداوم اشغالگری برنامه‌ای برای ورود به کابینه ندارد، جبارین آمادگی خود را برای رای‌دهی تاکتیکی از بیرون جهت حفظ دولت اقلیت ابراز داشت.",
+    "رهبر این ائتلاف تاکید کرد که ۶۷ نماینده مخالف نتانیاهو می‌توانند بلافاصله با بهره‌گیری از اکثریت خود، رئیس کنست را تغییر داده و کنترل کمیسیون‌های کلیدی را به دست گیرند. او از اپوزیسیون خواست به تبعیض ساختاری علیه اقلیت عرب پایان دهد، جنگ را متوقف کند و مذاکرات صلح با رهبری فلسطین را از سر گیرد."
+   ],
+   "title_ar": "زعيم التحالف العربي يقول إن إسرائيل أمام فرصة \"تاريخية\" لتغيير المسار",
+   "summary_ar": "أعلن يوسف جبارين، رئيس القائمة المشتركة، عن فرصة تاريخية لتغيير المسار السياسي في إسرائيل، معرباً عن استعداده لتقديم دعم برلماني من الخارج لكتلة المعارضة بقيادة غادي آيزنكوت للإطاحة بـ بنيامين نتنياهو.",
+   "body_ar": [
+    "عقب مشاركة قياسية للمواطنين العرب رفعت تمثيل الأحزاب العربية إلى 19 مقعداً في الكنيست، أكد جبارين أن الهدف الأول هو إنهاء حكومة نتنياهو والوزيرين إيتمار بن غفير وبتسلئيل سموتريتش. ورغم عدم نية القائمة المشتركة الانضمام للحكومة بسبب استمرار الاحتلال، أبدى جبارين استعداده للدعم من الخارج لإنجاح حكومة أقلية.",
+    "وأشار زعيم التحالف إلى أن النواب الـ67 المعارضين لنتنياهو يمكنهم استخدام غالبيتهم فوراً لتغيير رئيس الكنيست والسيطرة على اللجان البرلمانية. ودعا المعارضة إلى معالجة التمييز ضد المجتمع العربي، وإيقاف الحرب، واستئناف المفاوضات مع القيادة الفلسطينية."
+   ]
+  },
   {
    "id": "46aeed245c8d",
    "lang": "en",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:07:22Z",
+ "updated": "2026-11-02T07:47:09Z",
  "items": [
   {
    "id": "8fa2de342312",
@@ -1878,6 +1878,128 @@
    ],
    "desc": "Israel’s Arab parties made historic gains in elections but uncertainty remains whether the opposition bloc would join hands with them to form a government",
    "score": 7
+  },
+  {
+   "id": "f3f6c3d1fba6",
+   "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-02T06:00:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+   "score": 6,
+   "skip": true
+  },
+  {
+   "id": "da80da0d81c8",
+   "title": "The future of the Palestinian vote in Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
+   "date": "2026-11-02T07:14:44Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "4511087399d6",
+   "title": "Bangladesh garment factories disrupted as protests continue for third day",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
+   "date": "2026-11-02T07:08:28Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Workers in Bangladesh's largest export sector are demanding a minimum wage increase amid rising inflation.",
+   "score": 5
+  },
+  {
+   "id": "f674ac2eae43",
+   "title": "Shadowy Indian election ‘consultants’ add US midterms to global footprint",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/2/shadowy-indian-election-consultants-add-us-midterms-to-global-footprint?traffic_source=rss",
+   "date": "2026-11-02T06:28:01Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India's election consultants are exporting covert campaign tactics to manipulate elections worldwide, including the US.",
+   "score": 3
+  },
+  {
+   "id": "f63c5509f840",
+   "title": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss",
+   "date": "2026-11-02T06:27:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Hebron Mayor Youssef al-Jaabari says families forced from their homes can return and students can go back to schools.",
+   "score": 7
+  },
+  {
+   "id": "e8945d7d0316",
+   "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
+   "date": "2026-11-02T06:00:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election , but a majority think the Israeli government’s settlements policy should change if it is going to lead to further sanctions, a new poll of Israelis shows. There had been fierce criticism of the UK foreign secretary Ed Miliband’s decision in September to impose a trade ban and wider sanctions on illegal settlements, with some c",
+   "score": 6
+  },
+  {
+   "id": "451a04e84b13",
+   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+   "date": "2026-11-02T06:00:32Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is facing a historic opportunity to change direction. Yousef Jabareen, the head of the Joint List, said he was ready to join forces with the “Change” bloc to oust Benjamin Netanyahu and his far-right coalition, and to wrest control of the Knesset. Continue reading...",
+   "score": 6
+  },
+  {
+   "id": "d3907e32bc63",
+   "title": "Bangladesh garment factories reopen as wage protests keep industry on edge",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-garment-factories-reopen-as-wage-protests-keep-industry-on-edge/article71655556.ece",
+   "date": "2026-11-02T06:58:43Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The latest unrest disrupted operations in key manufacturing hubs and raised ‌concerns over export shipments and buyer confidence in Bangladesh, the world’s ‌second-largest apparel exporter after China, as workers demanded a minimum monthly wage of ⁠30,000 taka ($243), up from 12,500 taka",
+   "score": 5,
+   "dup_of": "4511087399d6"
+  },
+  {
+   "id": "d8721a0c7d55",
+   "title": "از جفر و رمل خامنه‌ای تا انگشتر باطل‌السحر وزیر اطلاعات؛ جایگاه علوم غریبه در جمهوری اسلامی",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cjqlnz97gy61o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-02T05:33:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "از علاقه علی خامنه‌ای به جفر و رمل تا اتهام ارتباط با «جن‌گیران و رمالان» علیه دولت احمدی‌نژاد و ادعای استفاده اسرائیل از طلسم و جادو، علوم غریبه چگونه به بالاترین سطوح قدرت در جمهوری اسلامی راه یافت؟",
+   "score": 4
   }
  ]
 }
