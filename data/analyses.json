@@ -1,6 +1,41 @@
 {
- "count": 6,
+ "count": 7,
  "items": [
+  {
+   "id": "persian-gulf-security-uae-2026",
+   "date": "2026-11-02",
+   "countries": [
+    "ARE",
+    "IRN"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Persian Gulf Security: 5 Reasons the UAE Fears Renewed War With Iran",
+     "summary": "Recent remarks by Anwar Gargash, diplomatic adviser to the UAE president, raise an important question: why would a country critical of Iran also warn against a military solution? At the Manama Dialogue on November 1, 2026, Gargash expressed hope for a diplomatic breakthrough while emphasizing readiness for the worst. This is not necessarily contradictory. It reflects a calculation in which Persian Gulf security depends not simply on the outcome of an operation, but also on the regional conditions that follow it.",
+     "focus_keyword": "Persian Gulf security",
+     "image": "/assets/uploads/persian-gulf-security-uae-2026-en.jpg",
+     "url": "analysis/persian-gulf-security-uae-2026-en.html"
+    },
+    "fa": {
+     "title": "امنیت خلیج فارس؛ ۵ دلیل نگرانی امارات از جنگ دوباره با ایران",
+     "summary": "اظهارات انور قرقاش، مشاور دیپلماتیک رئیس امارات، پرسشی مهم را پیش کشیده است: چرا کشوری که از رفتار ایران انتقاد دارد، همزمان درباره پیامدهای راه حل نظامی هشدار می دهد؟ قرقاش در نشست گفتگوی منامه در اول نوامبر ۲۰۲۶، خواستار گشایش دیپلماتیک شد و تاکید کرد امارات برای بدترین احتمال نیز آماده است. این ترکیب، تناقض نیست؛ نشانه محاسبه ای است که در آن امنیت خلیج فارس با نتیجه یک عملیات نظامی سنجیده نمی شود، بلکه به وضعیت منطقه پس از آن نیز وابسته است.",
+     "focus_keyword": "امنیت خلیج فارس",
+     "image": "/assets/uploads/persian-gulf-security-uae-2026-fa.jpg",
+     "url": "analysis/persian-gulf-security-uae-2026-fa.html"
+    },
+    "ar": {
+     "title": "أمن الخليج الفارسي؛ ٥ أسباب وراء قلق الإمارات من تجدد الحرب مع إيران",
+     "summary": "تطرح تصريحات أنور قرقاش، المستشار الدبلوماسي لرئيس الإمارات، سؤالا مهما: لماذا تحذر دولة تنتقد سلوك إيران من نتائج الحل العسكري في الوقت نفسه؟ فقد أعرب قرقاش، خلال حوار المنامة في الأول من نوفمبر ٢٠٢٦، عن أمله في تحقيق اختراق دبلوماسي، مؤكدا الاستعداد لأسوأ الاحتمالات. ولا يعكس هذا الجمع تناقضا بالضرورة، بل حسابا يرى أن أمن الخليج الفارسي لا يقاس بنتيجة عملية عسكرية وحدها، وإنما يتوقف أيضا على شكل المنطقة والظروف التي تعقب انتهاء تلك العملية.",
+     "focus_keyword": "أمن الخليج الفارسي",
+     "image": "/assets/uploads/persian-gulf-security-uae-2026-ar.jpg",
+     "url": "analysis/persian-gulf-security-uae-2026-ar.html"
+    }
+   }
+  },
   {
    "id": "iran-uk-tensions-2026",
    "date": "2026-11-01",
