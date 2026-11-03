@@ -1,7 +1,66 @@
 {
- "updated": "2026-11-03T07:31:36Z",
- "count": 368,
+ "updated": "2026-11-03T10:16:00Z",
+ "count": 370,
  "items": [
+  {
+   "id": "7f918264f7f1",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece",
+   "date": "2026-11-03T09:52:34Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+   "title_en": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+   "summary_en": "Iranian Foreign Minister Abbas Araqchi stated that discussions with Saudi Arabia are continuing as Tehran pursues new regional security arrangements without foreign military involvement. Meanwhile, fighting between Saudi Arabia and the Iran-aligned Houthis has escalated.",
+   "body_en": [
+    "Top officials from Saudi Arabia, Turkiye and Pakistan recently met Iranian officials in Tehran for high-level talks. The U.S.-Israeli war on Iran began in late February, subsequently spreading fighting to Saudi Arabia and Yemen.",
+    "Riyadh noted that the diplomatic outreach aimed to prevent renewed military escalation amid intensified clashes with the Houthis. The militia has advanced toward the Bab el-Mandeb Strait and launched attacks on Saudi oil facilities and airports."
+   ],
+   "title_fa": "وزیر خارجه ایران: گفت‌وگوها با عربستان ادامه دارد؛ درگیری‌ها در یمن شدت گرفته است",
+   "summary_fa": "عباس عراقچی، وزیر خارجه ایران، اعلام کرد که مذاکرات با عربستان سعودی در جریان است تا تهران به ترتیبات امنیتی منطقه‌ای جدیدی بدون حضور نظامی خارجی دست یابد. در همین حال، درگیری‌ها میان عربستان و حوثی‌های هم‌سو با ایران شدت گرفته است.",
+   "body_fa": [
+    "مقام‌های ارشد عربستان سعودی، ترکیه و پاکستان اخیراً برای دیدارهای رده‌بالا با مقام‌های ایرانی در تهران دیدار کردند. جنگ آمریکا و اسرائیل علیه ایران در اواخر بهمن آغاز شد و پس از آن درگیری‌ها به عربستان سعودی و یمن نیز کشیده شد.",
+    "ریاض خاطرنشان کرد که این سفر با هدف گشایش کانال‌های مذاکره برای جلوگیری از تشدید نظامی در پی افزایش درگیری‌ها با حوثی‌ها انجام شده است. این گروه شبه‌نظامی به سمت تنگه باب‌المندب پیشروی کرده و تأسیسات نفتی و فرودگاه‌های سعودی را هدف حمله قرار داده است."
+   ],
+   "title_ar": "وزير خارجية إيران يقول إن المحادثات مع السعودية مستمرة وتشتد حدة القتال في اليمن",
+   "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن المناقشات مع السعودية مستمرة بينما تسعى طهران للتوصل إلى ترتيبات أمنية إقليمية جديدة بدون تدخل عسكري أجنبي. وفي الوقت نفسه، تصاعد القتال بين السعودية والحوثيين المتحالفين مع إيران.",
+   "body_ar": [
+    "اجتمع كبار المسؤولين من السعودية وتركيا وپاکستان مؤخراً مع مسؤولين إيرانيين في طهران لعقد محادثات رفيعة المستوى. وقد بدأت الحرب الأمريكية الإسرائيلية على إيران في أواخر فبراير شباط، مما أدى لاحقاً إلى امتداد القتال إلى السعودية واليمن.",
+    "وأشارت الرياض إلى أن هذه الزيارة هدفت إلى فتح قنوات تفاوض لمنع عودة التصعيد العسكري وسط تزايد الاشتباكات مع الحوثيين. وقد تقدمت الجماعة المسلحة نحو مضيق باب المندب وشنت هجمات على منشآت نفطية ومطارات سعودية."
+   ]
+  },
+  {
+   "id": "e9b8baf7ec46",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261103-israeli-opposition-unites-behind-eisenkot-netanyahu-voters-chose-him-pm",
+   "date": "2026-11-03T09:03:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Israeli opposition unites behind Eisenkot as Netanyahu says voters chose him for PM",
+   "title_en": "Israeli opposition unites behind Eisenkot as Netanyahu says voters chose him for PM",
+   "summary_en": "Israel's opposition is set to meet following a closely contested election where neither Gadi Eisenkot's change bloc nor Prime Minister Benjamin Netanyahu's right-wing alliance secured a Knesset majority. Parties in Eisenkot's camp have endorsed him for prime minister as debate surrounds potential unity with Arab parties.",
+   "body_en": [
+    "All parties within Eisenkot's political alliance have backed his candidacy for the next prime minister. A key and contentious issue for the coalition will be deciding whether to unite with Arab parties that achieved surprise gains in the election."
+   ],
+   "title_fa": "مخالفان اسرائیل پشت سر گادی آیزنکوت متحد می‌شوند و بنیامین نتانیاهو می‌گوید رای‌دهندگان او را برای نخست‌وزیری برگزیدند",
+   "summary_fa": "مخالفان اسرائیل پس از انتخاباتی نزدیک که در آن نه بلوک تغییر به رهبری گادی آیزنکوت و نه ائتلاف راست‌گرای بنیامین نتانیاهو موفق به کسب اکثریت در کنست شدند، گردهم می‌آیند. احزاب موجود در اردوگاه آیزنکوت از او برای تصدی سمت نخست‌وزیری حمایت کرده‌اند.",
+   "body_fa": [
+    "تمام احزاب ائتلاف سیاسی آیزنکوت از نامزدی او برای نخست‌وزیری آینده حمایت کرده‌اند. موضوع کلیدی و چالش‌برانگیز در این میان، تصمیم‌گیری درباره اتحاد با احزاب عربی است که در این انتخابات به دستاوردهای غافلگیرکننده‌ای دست یافتند."
+   ],
+   "title_ar": "المعارضة الإسرائيلية توحد صفوفها خلف غادي آيزنكوت بينما يقول بنيامین نتانیاهو إن الناخبين اختاروه لرئاسة الوزراء",
+   "summary_ar": "من المقرر أن تجتمع المعارضة الإسرائيلية في أعقاب انتخابات متقاربة لم يتمكن فيها تكتل التغيير بقيادة غادي آيزنكوت ولا الائتلاف اليميني بزعامة رئيس الوزراء بنيامين نتانیاهو من الفوز بأغلبية في الكنيست. وقد أيدت أحزاب معسكر آيزنكوت توليه رئاسة الوزراء وسط نقاش حول الوحدة مع الأحزاب العربية.",
+   "body_ar": [
+    "دعمتا جميع الأحزاب داخل التحالف السياسي لآيزنكوت ترشحه لمنصب رئيس الوزراء القادم. وتظل المسألة المثيرة للجدل هي ما إذا كان سيتم الاتحاد مع الأحزاب العربية التي حققت مكاسب مفاجئة في الانتخابات."
+   ]
+  },
   {
    "id": "fd2bc89f7a8e",
    "lang": "fa",
