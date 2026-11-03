@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T19:09:57Z",
+ "updated": "2026-11-03T21:59:06Z",
  "items": [
   {
    "id": "3a92a606d985",
@@ -1907,7 +1907,8 @@
     "BGD"
    ],
    "desc": "These factories, which manufacture for brands like H&M and Uniqlo, rely on millions of lowly paid workers.",
-   "score": 6
+   "score": 6,
+   "dup_of": "af74df10e05f"
   },
   {
    "id": "3ff5405d38d3",
@@ -1960,7 +1961,8 @@
     "YEM"
    ],
    "desc": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
-   "score": 6
+   "score": 6,
+   "dup_of": "20e4fed4629d"
   },
   {
    "id": "e71f2e3b0d68",
@@ -2460,8 +2462,7 @@
     "YEM"
    ],
    "desc": "کنفدراسیون فوتبال آسیا اعلام کرد که جام ملت‌های آسیا که قرار بود در اوایل سال ۲۰۲۷ در عربستان سعودی برگزار شود، در پی حملات اخیر به این کشور، تا دسامبر سال آینده به تعویق افتاده است.",
-   "score": 7,
-   "dup_of": "50a8e0346879"
+   "score": 7
   },
   {
    "id": "5c67f944d3de",
@@ -2959,8 +2960,7 @@
     "BGD"
    ],
    "desc": "Paramilitary forces have been deployed in Gazipur and Narayanganj as workers demanding a 30,000-taka minimum wage stay on the streets for a fourth day, with 58 police officers injured, the police said",
-   "score": 7,
-   "dup_of": "0e058aab39ae"
+   "score": 7
   },
   {
    "id": "a16be6ebf529",
@@ -3604,6 +3604,174 @@
    "desc": "دونالد ترامپ می‌گوید آمریکا ارسال سالانه حدود چهار میلیارد دلار کمک به اسرائیل را متوقف می‌کند.",
    "score": 10,
    "dup_of": "13698c50167a"
+  },
+  {
+   "id": "a3bb29d08379",
+   "title": "Netanyahu’s eight-seat problem",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+   "date": "2026-11-03T21:19:13Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu’s Likud-led bloc won the most seats in the general election, but forming a government is another battle",
+   "score": 6,
+   "dup_of": "c3948cfa6c39"
+  },
+  {
+   "id": "de37f73a80fb",
+   "title": "Palestinian families return home after Israeli siege of Hebron",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+   "date": "2026-11-03T21:15:17Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian families return home after Israeli siege of Hebron",
+   "score": 6,
+   "dup_of": "f63c5509f840"
+  },
+  {
+   "id": "a6ce9c614994",
+   "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
+   "date": "2026-11-03T19:09:09Z",
+   "countries": [
+    "IRN",
+    "LBN",
+    "YEM"
+   ],
+   "desc": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
+   "score": 8
+  },
+  {
+   "id": "24e7b8f8991c",
+   "title": "Senegal arrests activist for protesting against Israeli participation at Youth Olympic Games",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/senegal-arrests-activist-protesting-against-israeli-participation-youth-olympic-games",
+   "date": "2026-11-03T21:40:14Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Senegal arrests activist for protesting against Israeli participation at Youth Olympic Games Submitted by Azad Essa on Tue, 11/03/2026 - 10:34 Civil society group member says pro-Palestine activist's TikTok video was misconstrued as a call for violence Pro-Palestinian activist Amadou Sarang Diallo was reportedly arrested on Monday for a social media post (Supplied/MEE) Off Senegalese civil society groups are calling for the release of a pro-Palestine activist after he criticised the government for hosting Israeli athletes at the Youth Olympic Games currently taking place in the West African na",
+   "score": 3
+  },
+  {
+   "id": "64d90d98cdbb",
+   "title": "Israel attorney general asks intel services to provide proof of poll fraud",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-attorney-general-asks-intel-services-provide-proof-poll-fraud",
+   "date": "2026-11-03T21:32:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel attorney general asks intel services to provide proof of poll fraud Israel's attorney general on Tuesday called on the intelligence agency Shin Bet to share the progress of its investigation into claims of electoral fraud by Palestinian citizens of Israel parties, stating that no evidence had yet been submitted. \"If the Shin Bet or any other authority holds evidence that would justify opening an investigation, it is invited to present it,\" said Gali Baharav-Miara, according to a statement sent to the media by her spokesperson.",
+   "score": 6,
+   "dup_of": "3a92a606d985"
+  },
+  {
+   "id": "e3cbe9826f05",
+   "title": "Tanker hit by two unknown projectiles off Oman, UKMTO says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-two-unknown-projectiles-oman-ukmto-says",
+   "date": "2026-11-03T21:05:41Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "Tanker hit by two unknown projectiles off Oman, UKMTO says A tanker was struck by two \"unknown projectiles\" fourteen nautical miles northeast of Oman's Lima, the United Kingdom Maritime Trade Operations (UKMTO) said on Tuesday. UKMTO said no casualties or environmental impact have been reported until now.",
+   "score": 8
+  },
+  {
+   "id": "2c6194cece0e",
+   "title": "Opinion: How an election defeat triggered a carnival of racism against Palestinians",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-how-election-defeat-triggered-carnival-racism-against",
+   "date": "2026-11-03T20:54:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Opinion: How an election defeat triggered a carnival of racism against Palestinians day before the Israeli elections, I was walking through a well-heeled, leafy neighbourhood in West Jerusalem, five minutes from President Issac Herzog’s official residence. I was on my way to interview an expert on Palestinian citizens of Israel, who were expected to vote in large numbers for the first time. Three children - they could not have been more than seven or eight - jumped off the slides in a playground and ran towards me. One of them asked whom I was going to vote for. A funny question, I thought, co",
+   "score": 3
+  },
+  {
+   "id": "6a11613f2eb8",
+   "title": "US has plans to strike Iran as early as tomorrow, report says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-has-plans-strike-iran-early-tomorrow-report-says",
+   "date": "2026-11-03T20:20:48Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US has plans to strike Iran as early as tomorrow, report says US Central Command has a plan to strike Iran beginning as early as Wednesday, after the US midterm elections and when three aircraft carriers are in the region, according to US officials, The New York Times reported . The window is narrow, with one carrier due to return home after early November and moonless nights offering favourable conditions for attacks, the report said. Some cabinet members want more time for sanctions and a US blockade, saying that economic pressure would eventually bring down Iran’s government. Other official",
+   "score": 9
+  },
+  {
+   "id": "f1134b14ab19",
+   "title": "More on Israeli officials’ reaction to Trump’s announcement on US aid",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-israeli-officials-reaction-trumps-announcement-us-aid",
+   "date": "2026-11-03T19:32:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "More on Israeli officials’ reaction to Trump’s announcement on US aid Israeli officials in the finance ministry said on Tuesday they were surprised by Trump’s announcement, the Times of Israel reported, citing the Walla news site. “No formal document was submitted from the Prime Minister’s Office regarding the end of aid,” an official told the site. “The ministry was aware of the intention to end it, but was surprised by the intention to do so immediately.” Defence ministry officials and the military were also reportedly surprised by the announcement.",
+   "score": 5,
+   "dup_of": "ad08c7d92065"
+  },
+  {
+   "id": "454d79e786c6",
+   "title": "Israeli ex-generals condemn settler violence, help Palestinian farmers",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-ex-generals-condemn-settler-violence-help-palestinian-farmers",
+   "date": "2026-11-03T19:25:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli ex-generals condemn settler violence, help Palestinian farmers A group of senior Israeli ex-military officials helped Palestinian farmers on Tuesday to harvest olives, in a gesture of solidarity amid an upsurge in extremist settler violence targeting Palestinians in the occupied West Bank. \"When I see what is going on here, when I see these guys come... and hit women and kids, it reminds me of stories from my parents from the time when the Jewish people suffered,\" said former Major General Eyal Ben-Reuven, who compared the settler attacks to pogroms. Ben-Reuven said he began organising",
+   "score": 5
+  },
+  {
+   "id": "aecd0512a9f3",
+   "title": "Top UN court to rule November 19 on Rohingya genocide case",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/top-un-court-to-rule-november-19-on-rohingya-genocide-case/article71662800.ece",
+   "date": "2026-11-03T19:47:41Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Judges at the International Court of Justice (ICJ) have for seven years been weighing accusations by The Gambia that Myanmar’s brutal repression of the Rohingya breached the 1948 UN Genocide Convention",
+   "score": 7
+  },
+  {
+   "id": "6f18c65add09",
+   "title": "Trump says U.S. cutting $3.8 billion annual security assistance to Israel",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-us-cutting-38-billion-annual-security-assistance-to-israel/article71662755.ece",
+   "date": "2026-11-03T19:10:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Donald Trump said Israel was “fine” with him ending the assistance, which began in 2019 and was signed under his predecessor, Barack Obama, three years earlier",
+   "score": 9,
+   "dup_of": "fb781a800ab0"
   }
  ]
 }
