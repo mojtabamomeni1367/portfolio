@@ -1,17 +1,28 @@
 ---
-title: 'Limited Strike, Unlimited War: Can a US Attack on Iran After November 4 Be Contained?'
+title: "Limited Strike, Unlimited War: Can a US Attack on Iran After November 4
+  Be Contained?"
 slug: us-strike-iran-limited-war-2026
 lang: en
-date: '2026-11-03'
+date: 2026-11-03
 countries:
-- IRN
+  - IRN
+  - ISR
 topics:
-- iran-policy
-- security
-summary: 'When an operation is described as limited, who determines its boundaries: the country launching it, the state being targeted, or the sequence of responses that follows? The Associated Press''s November 2 report of a US attack on Iran raises that question. An American official described action against Iranian targets around Hormuz as defensive. However, that description does not establish that Tehran shares the interpretation, or that the consequences will remain within the same geographic boundaries.'
+  - iran-policy
+  - security
+  - mena-sa
+summary: "When an operation is described as limited, who determines its
+  boundaries: the country launching it, the state being targeted, or the
+  sequence of responses that follows? The Associated Press's November 2 report
+  of a US attack on Iran raises that question. An American official described
+  action against Iranian targets around Hormuz as defensive. However, that
+  description does not establish that Tehran shares the interpretation, or that
+  the consequences will remain within the same geographic boundaries."
 focus_keyword: US attack on Iran
-seo_title: 'US Attack on Iran: Limited Strike or Unlimited War?'
-meta_description: A US attack on Iran near Hormuz was called defensive. Four tests show whether such an operation stays limited or turns into an open-ended cycle of war.
+seo_title: "US Attack on Iran: Limited Strike or Unlimited War?"
+meta_description: A US attack on Iran near Hormuz was called defensive. Four
+  tests show whether such an operation stays limited or turns into an open-ended
+  cycle of war.
 image: /assets/uploads/us-strike-iran-limited-war-2026.jpg
 image_alt: Flags of Iran and the United States on a world map
 translated: true
