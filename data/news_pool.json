@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:06:57Z",
+ "updated": "2026-11-03T19:09:57Z",
  "items": [
   {
    "id": "3a92a606d985",
@@ -3289,6 +3289,321 @@
    "desc": "أفادت وكالة الأنباء الإيرانية الرسمية (إرنا) بسماع دويّ خمسة انفجارات متتالية في الجزيرة التي تقع في مضيق هرمز، في حين قال سكان إنهم شاهدوا طائرتين تحلّقان في أجوائها",
    "score": 9,
    "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "75e27868bf56",
+   "title": "Palestinian Americans turn to US flags to protect West Bank homes",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
+   "date": "2026-11-03T18:38:50Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
+   "score": 6
+  },
+  {
+   "id": "d67d2c4433da",
+   "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+   "date": "2026-11-03T17:26:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+   "score": 7,
+   "dup_of": "af22115f2ec5"
+  },
+  {
+   "id": "c3948cfa6c39",
+   "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+   "date": "2026-11-03T16:49:10Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+   "score": 7
+  },
+  {
+   "id": "808b413ef91d",
+   "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "date": "2026-11-03T16:22:15Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+   "score": 3
+  },
+  {
+   "id": "13698c50167a",
+   "title": "Trump claims US will end military aid to Israel by end of this year",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+   "date": "2026-11-03T17:17:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters sceptical of US support for Israel and the war in Gaza . In a phone interview with Fox News as voting began on Tuesday morning, the US president said the US would cut nearly $4bn (£2.96bn) in military aid to Israel because “they don’t need it”. Continue reading...",
+   "score": 10,
+   "dup_of": "fb781a800ab0"
+  },
+  {
+   "id": "864958441751",
+   "title": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
+   "date": "2026-11-03T16:01:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US President Donald Trump on Tuesday, November 3, said he made a deal with Israeli Prime Minister Benjamin Netanyahu for Washington to stop providing $3.8 billion in funding to Israel after the end of this year. FRANCE 24's Jerusalem correspondent, Noga Tarnopolsky, has more.",
+   "score": 10,
+   "dup_of": "13698c50167a"
+  },
+  {
+   "id": "a1898e751ac5",
+   "title": "Trump says US will halt $4 billion in aid to Israel after end of the year",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
+   "date": "2026-11-03T14:35:19Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "President Donald Trump on Tuesday said that the United States will stop $4 billion in funding to Israel after the end of this year. While speaking to Fox News' Fox and Friends, the US president added that Israel no longer needed the aid from Washington, and that some politicians were using the funding to criticise Republicans.",
+   "score": 10,
+   "dup_of": "13698c50167a"
+  },
+  {
+   "id": "9c5d278aced0",
+   "title": "Iran says US ceasefire proposal 'insufficient' as strikes are reported on Qeshm Island",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-us-ceasefire-proposal-insufficient-strikes-are-reported-qeshm",
+   "date": "2026-11-03T19:02:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says US ceasefire proposal 'insufficient' as strikes are reported on Qeshm Island Iran cast doubt on the chances of a deal with the US on Tuesday, after the US carried out air strikes on Iran’s Qeshm Island, with the fate of last-minute negotiations between the two sides uncertain. The air strikes, which occurred late on Monday, came after US President Donald Trump said he did not plan to attack Iran after the midterm elections and voiced hope for a deal. Iranian President Masoud Pezeshkian said an agreement could be reached and that the government was “authorised” to renew a truce. Howev",
+   "score": 9,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "849188b6955c",
+   "title": "French judges probe war crimes complaint against Israeli army in Lebanon",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/french-judges-probe-war-crimes-complaint-against-israeli-army-lebanon",
+   "date": "2026-11-03T18:40:36Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "French judges probe war crimes complaint against Israeli army in Lebanon France has opened a judicial investigation into a war crimes complaint over an Israeli strike on a residential building in Lebanon, a lawyer told AFP on Tuesday. French-Lebanese artist Ali Cherri, whose parents were killed in the Beirut strike in 2024, filed the complaint as a civil party this year with the International Federation for Human Rights, Cherris lawyer Clemence Bectarte explained. The crimes against humanity unit of the Paris Judicial Court has appointed two investigating judges to the case, she added, hailing",
+   "score": 7,
+   "dup_of": "98060c1ed518"
+  },
+  {
+   "id": "9e32affe1fea",
+   "title": "Israeli air strikes hit Lebanon’s Bint Jbeil district",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-hit-lebanons-bint-jbeil-district",
+   "date": "2026-11-03T18:24:03Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Israeli air strikes hit Lebanon’s Bint Jbeil district Israeli air strikes targeted the outskirts of the town of Aita al-Jabal in southern Lebanon’s Bint Jbeil district with artillery fire, the National News Agency reported. Israeli forces also opened machine-gun fire towards the entrance of Kunin, a town in the same district, the report said.",
+   "score": 7
+  },
+  {
+   "id": "7e424bc61e3f",
+   "title": "Israeli finance ministry was unaware of plans to end US military aid: Report",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-finance-ministry-unaware-plans-end-us-military-aid-trump",
+   "date": "2026-11-03T17:24:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli finance ministry was unaware of plans to end US military aid: Report Israel's finance ministry was unaware of any plans to immediately end US military assistance before President Donald Trump's announcement on Tuesday, according to Israel's Channel 12. The $3.8bn in annual US military aid was expected to provide a significant source of funding for Israel's defence budget in 2027 and 2028, Channel 12 economics correspondent Yuval Sade reported in a post on X. במשרד האוצר לא הכירו כוונה לבטל את הסיוע הביטחוני לישראל באופן מידי עד להצהרת הנשיא טראמפ היום. הסיוע בגובה 3.8 מיליארד דולר לשנה",
+   "score": 8,
+   "dup_of": "13698c50167a"
+  },
+  {
+   "id": "ad08c7d92065",
+   "title": "Israel's Eisenkot says US aid cut shows Netanyahu 'must be replaced'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-eisenkot-says-us-aid-cut-shows-netanyahu-must-be-replaced",
+   "date": "2026-11-03T16:48:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's Eisenkot says US aid cut shows Netanyahu 'must be replaced' Israel's opposition candidate Gadi Eisenkot said on Tuesday that a phaseout of US aid to the country announced by President Donald Trump showed that Prime Minister Benjamin Netanyahu must go. \"The fact that Israel's defence establishment is learning of a shift in our strategic relationship through the media, at the same time as the Israeli public, shows just how dangerous Benjamin Netanyahu's conduct is. He can no longer be trusted and must be replaced,\" Eisenkot said in a statement.",
+   "score": 8
+  },
+  {
+   "id": "3a71ddde8f27",
+   "title": "Saudi defence minister and Hegseth discuss latest Houthi attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-minister-and-hegseth-discuss-latest-houthi-attacks",
+   "date": "2026-11-03T16:30:32Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi defence minister and Hegseth discuss latest Houthi attacks Saudi Defence Minister Khalid bin Salman and US Defence Secretary Pete Hegseth discussed efforts to ease tensions in the Gulf during a phone call, the Saudi Press Agency reported. The two also discussed Houthi attacks on Saudi Arabia and defence cooperation, according to the agency’s readout.",
+   "score": 7
+  },
+  {
+   "id": "b0cba6185c8d",
+   "title": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
+   "date": "2026-11-03T17:15:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing said . According to a statement by Inter-Services Public Relations (ISPR), the missile is equipped with a state-of-the-art terminal guidance system and can engage enemy targets at longer ranges. “Fa’az will significantly enhance [the] operational flexibility of [the] Pakistan Air Force, further strengthening the country’s overall defence",
+   "score": 7
+  },
+  {
+   "id": "bb31474a4fb9",
+   "title": "Govt cuts petrol price by Rs5.45 per litre, high-speed diesel by Rs3.68",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041886/govt-cuts-petrol-price-by-rs545-per-litre-high-speed-diesel-by-rs368",
+   "date": "2026-11-03T18:21:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "0a7041d78677",
+   "title": "Pakistan’s new UN envoy presents credentials to secretary general in New York",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041890/pakistans-new-un-envoy-presents-credentials-to-secretary-general-in-new-york",
+   "date": "2026-11-03T18:49:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "UNITED NATIONS: Pakistan’s newly appointed Permanent Representative to the United Nations, Ambassador Syed Haider Shah, presented his credentials to UN Secretary General António Guterres at UN Headquarters in New York on Tuesday. During the meeting, Ambassador Shah reaffirmed Islamabad’s commitment to multilateralism, the UN Charter and the organisation’s work in promoting international peace and security, sustainable development and human rights. He also conveyed the greetings of Prime Minister Shehbaz Sharif and Deputy PM Ishaq Dar. Guterres reciprocated the greetings and appreciated Pakista",
+   "score": 3
+  },
+  {
+   "id": "1e79a1cf3b50",
+   "title": "Imran's nephew denied jail meeting this time; PTI open to possible alliance with JUI-F",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041877/imrans-nephew-denied-jail-meeting-this-time-pti-open-to-possible-alliance-with-jui-f",
+   "date": "2026-11-03T16:48:49Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: PTI founder and former prime minister Imran Khan was again denied a meeting with his family and lawyers on Tuesday – a prescribed day by the Islamabad High Court for meetings at the Adiala jail. The denial comes just a day after Imran’s lawyer, Barrister Salman Safdar, was allowed to meet him and his incarcerated wife Bushra Bibi for consultations on a legal case. The IHC has allowed Imran twice-a-week meetings — on Tuesdays and Thursdays — with his family, lawyers and other associates. Despite multiple court directives , Imran’s meetings with his family and party leaders have been ",
+   "score": 5
+  },
+  {
+   "id": "84f310cb2cbc",
+   "title": "Govt assures public of meeting gas demand in winter, pledges to ensure supply during mealtimes",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041874/govt-assures-public-of-meeting-gas-demand-in-winter-pledges-to-ensure-supply-during-mealtimes",
+   "date": "2026-11-03T18:07:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Petroleum Minister Ali Pervaiz Malik on Tuesday assured the public that the government will make utmost efforts to meet the demand for liquefied petroleum gas (LPG) during the winter months. His remarks come as LPG supply has been disrupted due to the closure of Iranian border crossings, resulting in gas cylinders being sold at twice the official rate in the open market. LPG is widely used for rickshaws, but also for cooking and other purposes by those not on the piped gas network. Addressing a press conference in Islamabad, Malik said, “Seeing people’s distress and also knowing that from Dece",
+   "score": 2
+  },
+  {
+   "id": "e4add7ef029d",
+   "title": "Iran president says return to war benefits 'no one', after reported U.S. strikes",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-president-says-return-to-war-benefits-no-one-after-reported-us-strikes/article71662666.ece",
+   "date": "2026-11-03T18:16:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "It came as U.S. voters prepared to cast their ballots in midterm elections that threaten President Donald Trump's grip on power",
+   "score": 9,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "728d6d287664",
+   "title": "South Korea, Turkey agree to deepen nuclear energy, defence ties",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/south-korea-turkey-agree-to-deepen-nuclear-energy-defence-ties/article71662518.ece",
+   "date": "2026-11-03T17:37:23Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The two sides agreed that cooperation on Turkey's Sinop nuclear power plant project has been progressing smoothly",
+   "score": 4
+  },
+  {
+   "id": "acaf67e7cbed",
+   "title": "Suspected militants open fire, kill 2 police officers guarding polio workers in Pakistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/suspected-militants-open-fire-kill-2-police-officers-guarding-polio-workers-in-pakistan/article71662451.ece",
+   "date": "2026-11-03T17:27:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The drive-by shooting in Mohmand also left a third officer wounded",
+   "score": 8,
+   "dup_of": "99f15e0c88e0"
+  },
+  {
+   "id": "154d3a11a420",
+   "title": "Saudi forces say intercepted drone, as Yemen's Houthis announce 17 killed in two days",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-forces-say-intercepted-drone-as-yemens-houthis-announce-17-killed-in-two-days/article71662407.ece",
+   "date": "2026-11-03T17:20:56Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia has accused the Houthis several times of targeting Mecca and Medina, another holy city, accusations the Iran-backed fighters systematically reject",
+   "score": 8
+  },
+  {
+   "id": "030e5965adc4",
+   "title": "ترامپ از توقف کمک‌ آمریکا به اسرائیل خبر داد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6kgl902rl09o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T17:09:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "دونالد ترامپ می‌گوید آمریکا ارسال سالانه حدود چهار میلیارد دلار کمک به اسرائیل را متوقف می‌کند.",
+   "score": 10,
+   "dup_of": "13698c50167a"
   }
  ]
 }
