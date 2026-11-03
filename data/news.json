@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-02T21:58:58Z",
- "count": 345,
+ "updated": "2026-11-03T01:23:11Z",
+ "count": 348,
  "items": [
+  {
+   "id": "89f5fb10fdf6",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c9vgrzgpv11xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T00:03:42Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 7,
+   "title": "سوریه پس از اسد؛ چرا بسیاری می‌گویند زندگی سخت‌تر شده است؟",
+   "title_en": "Syria after Assad: Why many say life has become harder",
+   "summary_en": "Months after the overthrow of Bashar al-Assad, many Syrians face worsening financial hardships and soaring living costs under the transitional leadership of Ahmed al-Sharaa.",
+   "body_en": [
+    "Protests erupted across Syria recently following a government decision to raise fuel prices, which was later reversed amid growing public anger over the cost of living. For many citizens, financial conditions have deteriorated since rebel forces led by al-Sharaa ended five decades of Baathist rule and more than 13 years of civil war.",
+    "While international sanctions have been lifted and security remains relatively stable, citizens continue to struggle with soaring prices for basic goods, high unemployment, and slashed subsidies under a strict economic austerity policy. Experts note that the transition toward a free-market economy without adequate social protections has left a significant portion of the population worse off than before."
+   ],
+   "title_fa": "سوریه پس از اسد؛ چرا بسیاری می‌گویند زندگی سخت‌تر شده است؟",
+   "summary_fa": "ماه‌ها پس از سرنگونی بشار اسد، بسیاری از سوری‌ها در دوران رهبری گذار احمد الشرع با سختی‌های فزاینده مالی و افزایش سرسام‌آور هزینه‌های زندگی روبه‌رو هستند.",
+   "body_fa": [
+    "به دنبال تصمیم دولت برای افزایش قیمت سوخت که در پی خشم عمومی لغو شد، اعتراضاتی در سراسر سوریه شکل گرفت. برای بسیاری از شهروندان، شرایط مالی از زمان پایان حکومت پنج دهه‌ای خانواده اسد به رهبری الشرع بدتر شده است.",
+    "با وجود لغو تحریم‌های بین‌المللی و ثبات نسبی امنیتی، شهروندان هم‌چنان با گرانی کالاهای اساسی، بیکاری و کاهش یارانه‌ها دست‌وپنجه نرم می‌کنند. کارشناسان بر این باورند که گذار به اقتصاد بازار آزاد بدون در نظر گرفتن حمایت‌های اجتماعی، وضعیت بخش بزرگی از مردم را دشوارتر کرده است."
+   ],
+   "title_ar": "سوريا بعد الأسد: لماذا يقول الكثيرون إن الحياة أصبحت أكثر صعوبة؟",
+   "summary_ar": "بعد أشهر من الإطاحة ببشار الأسد، يواجه العديد من السوريين تفاقماً في المصاعب المالية وارتفاعاً حاداً في تكاليف المعيشة في ظل قيادة أحمد الشرع الانتقالية.",
+   "body_ar": [
+    "شهدت أنحاء سوريا مؤخراً احتجاحات على خلفية قرار حكومي برفع أسعار الوقود، والذي تم التراجع عنه لاحقاً وسط غضب شعبي عارم من غلاء المعيشة. وبالنسبة للعديد من المواطنين، تدهورت الظروف المالية منذ أن أنهت قوات المعارضة بقيادة الشرع عقوداً من حكم عائلة الأسد.",
+    "وعلى الرغم من رفع العقوبات الدولية واستقرار الأوضاع نسبياً، يعاني المواطنون من ارتفاع أسعار السلع الأساسية والبطالة وتخفيض الدعم في إشفال سياسة التقشف الاقتصادي. ويشير الخبراء إلى أن الانتقال نحو اقتصاد السوق الحر دون شبكات حماية كافية قد ترك جزءاً كبيراً من السكان في وضع أسوأ مما كان عليه."
+   ]
+  },
+  {
+   "id": "0f1a935f2e2b",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+   "date": "2026-11-03T00:00:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+   "title_en": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+   "summary_en": "Tehran stated that the United States must lift its naval blockade and fully meet its demands before any agreement can be reached, while JD Vance reported progress.",
+   "body_en": [
+    "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached."
+   ],
+   "title_fa": "پوشش زنده جنگ ایران؛ ونس از «پیشرفت» می‌گوید، تهران اعلام کرد «توپ در زمین آمریکاست»",
+   "summary_fa": "تهران اعلام کرد که ایالات متحده پیش از حصول هرگونه توافق باید محاصره دریایی را لغو کرده و خواسته‌های این کشور را به طور کامل برآورده کند.",
+   "body_fa": [
+    "تهران می‌گوید ایالات متحده باید محاصره دریایی خود را لغو کند و پیش از دستیابی به هرگونه توافق، خواسته‌های آن را به طور کامل برآورده سازد."
+   ],
+   "title_ar": "تغطية مباشرة لحرب إيران: فانس يرى \"تقدمًا\"، وتهران تقول \"الكرة في الملعب الأمريكي\"",
+   "summary_ar": "أعلنت تهران أن على الولايات المتحدة رفع حصارها البحري وتلبية مطالبها بالكامل قبل التوصل إلى أي اتفاق.",
+   "body_ar": [
+    "قالت تهران إنه يجب على الولايات المتحدة رفع حصارها البحري وتلبية مطالبها بالكامل قبل التوصل إلى أي اتفاق."
+   ]
+  },
+  {
+   "id": "3f5f6e21578f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+   "date": "2026-11-02T23:41:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+   "title_en": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+   "summary_en": "Asia-Pacific governments and businesses are closely watching the US midterm elections amid hopes for changes to trade policies and the ongoing war on Iran.",
+   "body_en": [
+    "The region has been hit hard by the energy shock resulting from the US and Israel's war on Iran, which led to choked oil supplies through the Strait of Hormuz and soaring fuel costs. In addition to the conflict, sweeping US tariffs implemented by Donald Trump's administration have severely impacted Asian economies.",
+    "While analysts believe that a potential Democratic takeover of Congress could lead to increased oversight and investigations into the conflict, it is unlikely to fundamentally alter trade policies or force an end to the war due to presidential veto powers."
+   ],
+   "title_fa": "جنگ، تعرفه‌ها و چین: میان‌دوره‌ای‌های ایالات متحده برای آسیا-اقیانوسیه چه معنایی دارد؟",
+   "summary_fa": "دولت‌ها و کسب‌وکارها در منطقه آسیا-اقیانوسیه در سایه امید به تغییر در سیاست‌های تجاری و جنگ جاری علیه ایران، انتخابات میان‌دوره‌ای ایالات متحده را به دقت دنبال می‌کنند.",
+   "body_fa": [
+    "این منطقه به شدت تحت تأثیر شوک انرژی ناشی از جنگ ایالات متحده و اسرائیل علیه ایران قرار گرفته است که به مسدود شدن عرضه نفت در تنگه هرمز و افزایش هزینه‌های سوخت منجر شد. علاوه بر این konflikt، تعرفه‌های گسترده اعمال‌شده توسط دولت دونالد ترامپ اقتصادهای آسیایی را به شدت تحت تأثیر قرار داده است.",
+    "در حالی که تحلیلگران معتقدند تسلط احتمالی دموکرات‌ها بر کنگره می‌تواند به نظارت بیشتر و تحقیقات درباره این درگیری منجر شود، اما به دلیل اختیارات وتوی رئیس‌جمهور بعید است سیاست‌های تجاری را به طور اساسی تغییر دهد یا به جنگ پایان دهد."
+   ],
+   "title_ar": "الحرب والرسوم الجمركية والصين: ماذا تعني انتخابات التجديد النصفي الأمريكية لأفريقيا وآسيا والمحيط الهادئ؟",
+   "summary_ar": "تتابع الحكومات والشركات في منطقة آسيا والمحيط الهادئ انتخابات التجديد النصفي الأمريكية عن كثب وسط آمال بتغيير سياسات التجارة والحرب المستمرة على إيران.",
+   "body_ar": [
+    "تأثرت المنطقة بشدة جراء صدمة الطاقة الناتجة عن الحرب الأمريكية الإسرائيلية على إيران، مما أدى إلى تقليص إمدادات النفط عبر مضيق هرمز وارتفاع أسعار الوقود. وإلى جانب النزاع، أثرت الرسوم الجمركية الواسعة التي فرضتها إدارة دونالد ترامب سلباً على الاقتصادات الآسيوية.",
+    "وبينما يرى المحللون أن سيطرة محتملة للديمقراطيين على الكونغرس قد تؤدي إلى زيادة الرقابة والتحقيقات بشأن النزاع، فإنه من غير المرجح أن تغير السياسات التجارية بشكل جذري أو تجبر على إنهاء الحرب نظراً لصلاحيات الفيتو الرئاسية."
+   ]
+  },
   {
    "id": "46672e0229a2",
    "lang": "en",
