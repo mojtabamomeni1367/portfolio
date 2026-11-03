@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:16:00Z",
+ "updated": "2026-11-03T13:32:01Z",
  "items": [
   {
    "id": "3a92a606d985",
@@ -2476,6 +2476,531 @@
    "desc": "تواجه السعودية اختباراً جديداً لجاذبيتها الاستثمارية في ظلّ التصعيد العسكري الإقليمي، بعد تأجيل سلسلة من أبرز الفعاليات الاقتصادية والثقافية والرياضية، وفي مقدّمتها مبادرة مستقبل الاستثمار. فهل تؤثّر المخاوف الأمنية واضطرابات السفر على ثقة المستثمرين الدوليين، وتهدّد طموحات رؤية 2030؟ أم تنجح المملكة في احتواء التداعيات واستعادة الزخم الدولي؟",
    "score": 7,
    "dup_of": "50a8e0346879"
+  },
+  {
+   "id": "8b0e9b13f19e",
+   "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T11:51:08Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
+   "score": 2
+  },
+  {
+   "id": "7c9a4628cc6e",
+   "title": "Qatar remains hopeful the US and Iran can reach a deal",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+   "date": "2026-11-03T13:05:39Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working to",
+   "score": 8
+  },
+  {
+   "id": "0e05a4cd03db",
+   "title": "Two police officers protecting polio workers in Pakistan shot dead",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+   "date": "2026-11-03T12:33:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The attackers, travelling on a motorcycle, opened fire on a police car in Khyber Pakhtunkhwa province.",
+   "score": 7,
+   "dup_of": "99f15e0c88e0"
+  },
+  {
+   "id": "1848adeac779",
+   "title": "Al Jazeera journalist recounts arrest during Israeli raid on his home",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss",
+   "date": "2026-11-03T12:14:19Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Released Al Jazeera Arabic correspondent Montaser Nassar describes how Israeli forces raided his home and arrested him.",
+   "score": 5,
+   "dup_of": "c442a2886f69"
+  },
+  {
+   "id": "78ac69547e5b",
+   "title": "How India pulled 500 million people out of poverty as inequality deepens",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
+   "date": "2026-11-03T11:30:34Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India's extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
+   "score": 4
+  },
+  {
+   "id": "46aadf3e164d",
+   "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
+   "date": "2026-11-03T10:40:34Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.",
+   "score": 9,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "b0b343b4a232",
+   "title": "US conducts series of ‘defensive strikes’ against Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
+   "date": "2026-11-03T10:39:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.",
+   "score": 9,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "ebaa89465f18",
+   "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
+   "date": "2026-11-03T10:17:27Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
+   "score": 6
+  },
+  {
+   "id": "66a6b6965c13",
+   "title": "Trump’s troubles with Iran could open the door to China",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+   "date": "2026-11-03T13:13:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East. The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November. Continue reading...",
+   "score": 7
+  },
+  {
+   "id": "533502411645",
+   "title": "US strikes Iran's Qeshm Island as midterm elections start",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
+   "date": "2026-11-03T12:12:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a US official said Monday, on the eve of crucial midterm elections. The unpopular Iran war and the resulting impact on U.S. gasoline prices and other parts of the economy have been a vulnerability for Republicans as they try to keep control of Congress. FRANCE 24's International Affairs Editor Oliver Farry has more.",
+   "score": 9,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "261205e453a9",
+   "title": "Israeli attack on Gaza's Khan Younis kills three, wounds others",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-gazas-khan-younis-kills-three-wounds-others",
+   "date": "2026-11-03T12:52:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli attack on Gaza's Khan Younis kills three, wounds others Three Palestinians have been killed and several others wounded in an Israeli drone strike west of southern Gaza's Khan Younis, Wafa reports, citing medical sources.",
+   "score": 7,
+   "dup_of": "f1ecd4335fe5"
+  },
+  {
+   "id": "05e4bfa41e79",
+   "title": "Israeli forces kill 19 Palestinians in three days of Gaza attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-19-palestinians-three-days-gaza-attacks",
+   "date": "2026-11-03T12:40:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces kill 19 Palestinians in three days of Gaza attacks Israeli forces have killed 19 Palestinians in the Gaza Strip since Saturday, according to the Palestinian Health Ministry. The ministry said on Tuesday afternoon that six people had been killed in the previous 24 hours, following 13 deaths over the weekend. One Palestinian succumbed to his wounds on Tuesday morning after Israeli forces bombed the displacement camp where he was staying in Khan Younis. Another was killed in an air strike targeting a group of people at the University College of Applied Sciences (UCAS) in Khan Youni",
+   "score": 8,
+   "dup_of": "96a242f04e8e"
+  },
+  {
+   "id": "daa88a8b490c",
+   "title": "Israel’s election shows its democracy is a sham, but the West can’t stop buying the lie",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/israels-election-shows-its-democracy-sham-west-cant-stop-buying-lie",
+   "date": "2026-11-03T12:34:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel’s election shows its democracy is a sham, but the West can’t stop buying the lie Submitted by Jonathan Cook on Mon, 11/02/2026 - 12:30 The same racist, Zionist logic that justified the Gaza genocide is now making it impossible for the Jewish opposition to reach a deal with Palestinian parties to oust Netanyahu Protesters hold up placards during a demonstration on Habima Square in Tel Aviv on, calling for the formation of a Jewish-Arab coalition government following Israel's general elections on 31 October 2026 (AFP) Off Israel’s general election last week unmasked beyond question the We",
+   "score": 4
+  },
+  {
+   "id": "537790d12688",
+   "title": "Israeli military spokesperson denies involvement in Qeshm Island attack",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-spokesperson-denies-involvement-qeshm-island-attack",
+   "date": "2026-11-03T12:08:53Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Israeli military spokesperson denies involvement in Qeshm Island attack An Israeli military spokesperson has told AFP that Israel was not involved in the reported US attacks on Iran's Qeshm Island.",
+   "score": 8,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "4fae986e9c02",
+   "title": "Israeli air strike kills police officers near Khan Younis, says Gaza ministry",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-interior-ministry-israeli-air-strike-kills-police-officers-near",
+   "date": "2026-11-03T11:14:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli air strike kills police officers near Khan Younis, says Gaza ministry Gaza's interior ministry reports that several police officers have been killed and wounded in an Israeli air strike near the southern city of Khan Younis. This comes after the ministry called on the international community to “to take urgent action and exert pressure” on Israel to stop its killing of policemen.",
+   "score": 7,
+   "dup_of": "261205e453a9"
+  },
+  {
+   "id": "4c0468c02c5b",
+   "title": "IRGC claims three tankers exploded after hitting naval mines in Hormuz",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-three-tankers-exploded-after-hitting-naval-mines-hormuz",
+   "date": "2026-11-03T11:10:52Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IRGC claims three tankers exploded after hitting naval mines in Hormuz Iran's Islamic Revolutionary Guard (IRGC) has said that three tankers have exploded after a collision with naval mines in the Strait of Hormuz. The IRGC said the tankers were trying to cross the Strait without permission from Tehran. It added that the ships had turned off their geolocation tracking systems as they crossed the southern part of the Strait. There are no reports of any casualties as yet.",
+   "score": 9,
+   "dup_of": "856b4c0c9c3d"
+  },
+  {
+   "id": "0bd7cc26758c",
+   "title": "Gaza: Indiscriminate Israeli gunfire kills and terrorises displaced families",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-indiscriminate-israeli-gunfire-kills-and-terrorises-displaced",
+   "date": "2026-11-03T10:59:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Gaza: Indiscriminate Israeli gunfire kills and terrorises displaced families After finishing her homework, Fatima al-Bayouk went to play with her cousins outside her grandmother’s home in Deir al-Balah, central Gaza, when an Israeli bullet struck her neck. Moments later, the eight-year-old Palestinian girl returned home trembling, blood soaking her shirt. She screamed that her cousin had been shot, unaware that she had been hit herself. The bullet had lodged in her lung. After a week in hospital, she died from her injuries. For her grandmother, Safia Abo Amra, Bayouk - the sole survivor of her",
+   "score": 7
+  },
+  {
+   "id": "dfc2b5ee8a8e",
+   "title": "Qatari foreign minister spokesperson: Only path forward is diplomacy",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-fm-spokesman-only-path-forward-diplomacy",
+   "date": "2026-11-03T10:57:03Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Qatari foreign minister spokesperson: Only path forward is diplomacy Qatari foreign ministry spokesperson Majed al-Asari has said US-Iran mediation efforts are ongoing, stressing that the only path forward is through diplomacy. He warned that renewed hostilities risked derailing the talks, adding that all GCC states agree that the conflict must not be allowed to escalate further. He also denounced threats to Qatari vessels, emphasising that freedom of navigation is non-negotiable.",
+   "score": 7,
+   "dup_of": "7c9a4628cc6e"
+  },
+  {
+   "id": "7a253bfeee28",
+   "title": "Palestinian man succumbs to injuries sustained in Israeli attack in Khan Younis",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-injuries-sustained-israeli-attack-khan-younis",
+   "date": "2026-11-03T10:29:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian man succumbs to injuries sustained in Israeli attack in Khan Younis A Palestinian man has succumbed to wounds sustained in an Israeli attack on Khan Younis in southern Gaza, Wafa reports citing medical sources. According to the sources, 39-year-old Imad Omar Ahmed Radi died from wounds sustained in Israeli bombardment of the Al-Hayy al-Yabani neighbourhood northwest of Khan Younis.",
+   "score": 6,
+   "dup_of": "261205e453a9"
+  },
+  {
+   "id": "3af84113cebd",
+   "title": "‘Death is closer than school’: Yemen’s children struggle with war trauma",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/death-closer-school-yemens-children-struggle-war-trauma",
+   "date": "2026-11-03T09:02:42Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "‘Death is closer than school’: Yemen’s children struggle with war trauma Submitted by MEE correspondent on Mon, 11/02/2026 - 09:10 Renewed fighting around Taiz has left children with nightmares, bedwetting and constant fear, while schools remain closed and psychological support is scarce A woman sits with two children in a classroom converted into a temporary shelter for displaced people at Sawkani school, north of Aden, Yemen, 15 September 2026 (AFP) Off In October, as clashes reached Taghreed Abdulellah’s area, located about 30km from Yemen's Taiz city, the mother of three found herself unab",
+   "score": 6
+  },
+  {
+   "id": "77ca44461f62",
+   "title": "Can the world withstand another winter of war?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/can-world-withstand-another-winter-war",
+   "date": "2026-11-03T08:15:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Can the world withstand another winter of war? Submitted by Marco Carnelos on Mon, 11/02/2026 - 17:47 Amid ongoing conflicts in Ukraine and Iran, economic pressures are soaring around the globe High gas prices are displayed at a Shell station in Burbank, California, on 11 May 2026 (Mario Tama/Getty Images/AFP) Off Almost five years after the Russian invasion of Ukraine scrambled Europe’s energy map, another war has delivered a second shock. Since the US-Israeli war on Iran began this past February, the Strait of Hormuz, through which about a fifth of the world’s oil normally flows, has been cl",
+   "score": 3
+  },
+  {
+   "id": "52b0b9819c79",
+   "title": "Morning update",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-659",
+   "date": "2026-11-03T08:14:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Morning update Good morning Middle East Eye readers, Here are the latest developments: Reports confirmed that the US military was responsible for overnight strikes in southern Iran's Qesh Island and Bandar Lengeh. The strikes come despite US President Donald Trump's remarks saying he would not launch attacks against Iran after the midterms. US President Donald Trump said that Washington may need to \"go after\" a suspected underground nuclear complex in Iran, known as Pickaxe Mountain, if there is no deal reached. \"We might have to go after Pickaxe, we can do that in one hour, as soon as we want",
+   "score": 1
+  },
+  {
+   "id": "aadf540d4cb5",
+   "title": "Iran-US deal still out of reach, senior Iranian official says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-us-deal-still-out-reach-senior-iranian-official-says",
+   "date": "2026-11-03T08:10:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran-US deal still out of reach, senior Iranian official says Iran and the US are far from reaching a deal to end the conflict, a senior Iranian official told Reuters on Tuesday. The official added that Tehran would not accept Washington's \"excessive demands\".",
+   "score": 8,
+   "dup_of": "0f1a935f2e2b"
+  },
+  {
+   "id": "a5208e5ae0e5",
+   "title": "Iran chief negotiator says ball in US court to 'prevent war'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-chief-negotiator-says-ball-us-court-prevent-war",
+   "date": "2026-11-03T07:23:55Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran chief negotiator says ball in US court to 'prevent war' Iran's parliament speaker and chief negotiator in talks with the US said that the ball was in Washington's court to \"prevent war\". \"The countries of the region should know that, just as the Islamic Republic of Iran stands ready for battle with its finger on the trigger, it has also given the American side a powerful and rational response,\" Mohammad Bagher Ghalibaf said in a televised speech. \"The ball is now in America's court to prevent war.\"",
+   "score": 8,
+   "dup_of": "0f1a935f2e2b"
+  },
+  {
+   "id": "79df83fd1143",
+   "title": "Trump says US might have to 'go after' Iran's Pickaxe Mountain if no deal is reached",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-might-have-go-after-irans-pickaxe-mountain-if-no-deal",
+   "date": "2026-11-03T07:16:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says US might have to 'go after' Iran's Pickaxe Mountain if no deal is reached US President Donald Trump said that Washington may need to \"go after\" a suspected underground nuclear complex in Iran, known as Pickaxe Mountain, if there is no deal reached. \"We might have to go after Pickaxe, we can do that in one hour, as soon as we want, at any time we want,\" Trump told Fox News. Trump also did not rule out the possibility of resuming the war on Iran, saying: \"It could happen if they don’t make a deal, but they want to make a deal very badly and there is a very good chance we make a deal.\"",
+   "score": 9,
+   "dup_of": "46aeed245c8d"
+  },
+  {
+   "id": "d8df9dc711ae",
+   "title": "Indian foreign ministry says one national killed in attack on ship near Oman",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-foreign-ministry-says-one-national-killed-attack-ship-near-oman",
+   "date": "2026-11-03T06:42:26Z",
+   "countries": [
+    "IND",
+    "OMN"
+   ],
+   "desc": "Indian foreign ministry says one national killed in attack on ship near Oman One Indian was killed after an attack on a commercial vessel near Limah in Oman, the Indian foreign ministry said on Tuesday. Among the 14 Indian nationals on board the MSV AL JUSUFI, 13 were rescued after the incident occurred on Monday.",
+   "score": 8
+  },
+  {
+   "id": "5ecd2b482e6e",
+   "title": "Iran's Araghchi says talks with Saudi Arabia are ongoing",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-araghchi-says-talks-saudi-arabia-are-ongoing",
+   "date": "2026-11-03T06:25:33Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "desc": "Iran's Araghchi says talks with Saudi Arabia are ongoing Iranian Foreign Minister Abbas Araghchi indicated that talks between Tehran and Saudi Arabia are ongoing. \"In my interview with Al Jazeera network, I affirmed that we harbour no hostility toward the countries of the Gulf Cooperation Council, and we appreciate the positive role played by Qatar and Oman, and we continue the dialogue with Saudi Arabia,\" he said in a post on X. \"Our goal is to reach new regional security arrangements carried out by the countries of the region themselves, away from any foreign military presence.\"",
+   "score": 8,
+   "dup_of": "7f918264f7f1"
+  },
+  {
+   "id": "5499e19d8df9",
+   "title": "Iran warns US of 'harder and broader' response to aggression",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-us-harder-and-broader-response-aggression",
+   "date": "2026-11-03T06:22:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran warns US of 'harder and broader' response to aggression An Iranian military spokesperson has warned that any renewed attacks by the US will be met with a \"harder and broader\" response compared to Tehran's past retaliations. He said that if a new war broke out, then the \"geography of the conflict will not remain limited to the West Asia region\", adding that US \"facilities, equipment, personnel, and interests in any location within reach could become targets\".",
+   "score": 9,
+   "dup_of": "06413aba9f10"
+  },
+  {
+   "id": "1b1ed6b13a97",
+   "title": "Petitions against detention of Sohail Afridi, others referred to PHC CJ for constitution of larger bench",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041837/petitions-against-detention-of-sohail-afridi-others-referred-to-phc-cj-for-constitution-of-larger-bench",
+   "date": "2026-11-03T11:01:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: A Peshawar High Court (PHC) bench on Tuesday referred multiple petitions challenging the detention of PTI leaders, including Sohail Afridi — the non-functional Khyber Pakhtunkhwa chief minister — to the chief justice for the constitution of a larger bench. Afridi has not been seen since the imposition of governor’s rule and emergency in KP on Oct 11. His whereabouts remained unknown on the day governor’s rule was imposed, and a federal minister confirmed a day later that he and some of his cabinet members were in preventive custody . The PTI has also alleged the detention and arrests",
+   "score": 2
+  },
+  {
+   "id": "64338fabff22",
+   "title": "IHC grants protective bail to TikToker booked following stampede at wedding event",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041841/ihc-grants-protective-bail-to-tiktoker-booked-following-stampede-at-wedding-event",
+   "date": "2026-11-03T11:33:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Islamabad High Court (IHC) on Tuesday granted protective bail to TikToker Muhammad Ansar Jatt, alias “Mr Pattlo”, after a stampede at his mehndi (henna) event in Sialkot claimed two lives. Jatt had announced holding a mehndi event and prize-distribution ceremony at Faraz Cricket Ground on Daska Road on Friday night; however, with hundreds gathered at the site, a stampede occurred when the stadium gates opened, killing two and injuring 18 people. Subsequently, a first information report (FIR) was registered on October 31 at the Motra Police Station, naming Jatt, his brother, the ",
+   "score": 1
+  },
+  {
+   "id": "1cdc2f9d13e5",
+   "title": "Lahore court grants NCCIA further two-day remand of suspects over US postage stamp fraud",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041850/lahore-court-grants-nccia-further-two-day-remand-of-suspects-over-us-postage-stamp-fraud",
+   "date": "2026-11-03T12:25:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: A judicial magistrate on Tuesday granted the National Cyber Crime Investigation Agency (NCCIA) a further two-day physical remand of two suspects in a Rs35 billion fraud involving the online sale of counterfeit US postage stamps. The prime suspect, identified as a 33-year-old resident of Khanewal, had been charged by a Florida jury with defrauding the United States Postal Service (USPS) of $126 million, the US Attorney’s Office of the Southern District of Florida said on Sept 28. The Lahore NCCIA announced the prime suspect’s arrest in late October, and he was sent on a five-day physica",
+   "score": 2
+  },
+  {
+   "id": "98060c1ed518",
+   "title": "French judges probe war crimes complaint against Israeli army in Lebanon: lawyer",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041847/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer",
+   "date": "2026-11-03T11:24:14Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "France has opened a judicial investigation into a war crimes complaint over an Israeli strike on a residential building in Lebanon, a lawyer told AFP on Tuesday. French-Lebanese artist Ali Cherri, whose parents were killed in the Beirut strike in 2024, filed the complaint as a civil party this year with the International Federation for Human Rights, Cherri’s lawyer Clemence Bectarte explained. The crimes against humanity unit of the Paris Judicial Court has appointed two investigating judges to the case, she added, hailing the move as “a first”. Hezbollah fought with Israel at the start of the",
+   "score": 7
+  },
+  {
+   "id": "a7fb0e4b478b",
+   "title": "IHC suspends order rejecting FIR plea in Pims fire case, seeks inquiry report and govt response",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041835/ihc-suspends-order-rejecting-fir-plea-in-pims-fire-case-seeks-inquiry-report-and-govt-response",
+   "date": "2026-11-03T11:05:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Islamabad High Court (IHC) on Tuesday suspended a Justice of the Peace’s order dismissing an application seeking the registration of an FIR into the Pakistan Institute of Medical Sciences (Pims) neonatal fire tragedy . The court also directed the authorities to submit the complete record, along with the inquiry report, and issued notices to the respondents, including the federal government and the Prime Minister’s Office (PMO). The August 26 fire at a nursery in Pims’ Mother and Child Hospital claimed the lives of 14 newborns. The incident raised concerns over fire safety measur",
+   "score": 2
+  },
+  {
+   "id": "9a441d9014f8",
+   "title": "Soaring LPG prices force rickshaw drivers in Pakistan to cut meals",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041853/soaring-lpg-prices-force-rickshaw-drivers-in-pakistan-to-cut-meals",
+   "date": "2026-11-03T12:48:48Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "For 13 years, Rashid Ali has driven a three-wheeled motorised rickshaw around Lahore. His day starts at 6am and sometimes does not end until midnight, but he was long able to make around Rs1,700 ($6.50) a day, enough for his family’s bare essentials. Now, with liquefied petroleum gas (LPG) prices surging, he doesn’t even make half that. Ali, 33, is among thousands of drivers who run their vehicles on LPG, which is sold in cylinders and mainly used for cooking and heating. Rashid Ali waits for customers while offering rides in his liquefied petroleum gas (LPG)-powered auto-rickshaw along a road",
+   "score": 3
+  },
+  {
+   "id": "af74df10e05f",
+   "title": "Bangladesh garment workers clash with police, defy call to end protests",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-garment-workers-clash-with-police-defy-call-to-end-protests/article71660838.ece",
+   "date": "2026-11-03T12:45:35Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Paramilitary forces have been deployed in Gazipur and Narayanganj as workers demanding a 30,000-taka minimum wage stay on the streets for a fourth day, with 58 police officers injured, the police said",
+   "score": 7,
+   "dup_of": "0e058aab39ae"
+  },
+  {
+   "id": "a16be6ebf529",
+   "title": "Kremlin confirms Ukraine-U.S. talks in Abu Dhabi on November 10-11",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/kremlin-confirms-ukraine-us-talks-in-abu-dhabi-on-november-10-11/article71660788.ece",
+   "date": "2026-11-03T12:30:53Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "U.S. President Donald Trump's special envoy Steve Witkoff earlier announced the meeting will take place on November 10-11",
+   "score": 5
+  },
+  {
+   "id": "fa7972b65a41",
+   "title": "Iran unveils huge billboard with threat against Donald Trump’s life",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-unveils-huge-billboard-with-threat-against-donald-trumps-life/article71660523.ece",
+   "date": "2026-11-03T11:38:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "We will kill Trump, read the billboard towering over the busy Enghelab Square in Tehran",
+   "score": 6
+  },
+  {
+   "id": "53b951eb2184",
+   "title": "شروع رای‌گیری انتخابات میان‌دوره‌ای آمریکا زیر سایه جنگ ایران",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/ckzd6m7dv0nyt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T13:15:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "رأی‌گیری انتخابات میان‌دوره‌ای آمریکا آغاز شده است. میلیون‌ها آمریکایی پای صندوق‌های رأی می‌روند تا نمایندگان خود را برای دو مجلس نمایندگان و کنگره انتخاب کنند. نتیجه این انتخابات تعیین‌کننده دو سال پایانی ریاست‌جمهوری دونالد ترامپ خواهد بود. تمام ۴۳۵ کرسی کنگره، ۳۵ کرسی از ۱۰۰ کرسی سنا و تعدادی از سیاستمداران در سطح ایالتی در این انتخابات مشخص می‌شود.",
+   "score": 8,
+   "dup_of": "533502411645"
   }
  ]
 }
