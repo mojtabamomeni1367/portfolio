@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:05:44Z",
+ "updated": "2026-11-03T07:31:36Z",
  "items": [
   {
    "id": "3a92a606d985",
@@ -1881,6 +1881,398 @@
    ],
    "desc": "India and the world must stand up against the bullying of Cuba by the U.S.",
    "score": 2
+  },
+  {
+   "id": "7062a3beba16",
+   "title": "US strikes Iran ahead of midterm elections",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T03:39:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+   "score": 10,
+   "dup_of": "ee4967f67bfd"
+  },
+  {
+   "id": "0e058aab39ae",
+   "title": "Wage protests force hundreds of Bangladesh garment factories to close",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T03:59:02Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "These factories, which manufacture for brands like H&M and Uniqlo, rely on millions of lowly paid workers.",
+   "score": 6
+  },
+  {
+   "id": "3ff5405d38d3",
+   "title": "'We grew up around this historic Delhi mosque - now we have been forced out'",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9gljmp3kdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T00:20:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Authorities have razed hundreds of houses in a neighbourhood in central Delhi, saying they were built on government land.",
+   "score": 3
+  },
+  {
+   "id": "ff38690d931f",
+   "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T00:09:13Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+   "score": 2
+  },
+  {
+   "id": "7ef622d90071",
+   "title": "One dead after two helicopters collide near Mount Everest in Nepal",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "date": "2026-11-03T07:06:07Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
+   "score": 2
+  },
+  {
+   "id": "50a8e0346879",
+   "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+   "date": "2026-11-03T06:55:39Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.",
+   "score": 6
+  },
+  {
+   "id": "e71f2e3b0d68",
+   "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
+   "date": "2026-11-03T06:46:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "As Israel grapples with an inconclusive election, Palestinians face West Bank closures and Gaza killings.",
+   "score": 5
+  },
+  {
+   "id": "3ab6ac5bfe7b",
+   "title": "How a Harvard dream ended in tragedy for a Pakistani family",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
+   "date": "2026-11-03T05:51:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
+   "score": 2
+  },
+  {
+   "id": "318d7717b68a",
+   "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
+   "date": "2026-11-03T05:27:56Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Tens of thousands of workers in world's second-largest apparel exporter hit the streets to demand better minimum wages.",
+   "score": 6,
+   "dup_of": "0e058aab39ae"
+  },
+  {
+   "id": "86d7efb15b41",
+   "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+   "date": "2026-11-03T05:02:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Nearly 1,600 Palestinians have been killed in Gaza since a US-brokered 'ceasefire' took effect in October last year.",
+   "score": 8,
+   "dup_of": "f1ecd4335fe5"
+  },
+  {
+   "id": "c442a2886f69",
+   "title": "Israeli forces release Al Jazeera journalist in occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
+   "date": "2026-11-03T04:25:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Al Jazeera correspondent Montaser Nassar released hours after being arrested at his home in Dura, near Hebron.",
+   "score": 6
+  },
+  {
+   "id": "294d63f791bf",
+   "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+   "date": "2026-11-03T03:53:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli soldiers blindfolded, handcuffed and arrested Al Jazeera correspondent Montaser Nassar during a raid on his home",
+   "score": 6
+  },
+  {
+   "id": "0cfa6bb1abad",
+   "title": "‘Our aim is that children are protected’: besieged West Bank school fortifies its defences against settler violence",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/03/our-aim-is-that-children-are-protected-besieged-west-bank-school-fortifies-its-defences-against-settler-violence",
+   "date": "2026-11-03T06:00:41Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "After deaths of five students at hands of Israeli settlers in last academic year, al-Mughayyir’s teachers and pupils are on high alert This year, parents in al-Mughayyir had to be persuaded to send their children back to school. Israeli settlers had killed five teenage students last academic year – one of them at the school gates. To reassure parents, teachers of the public secondary school gave a tour of the facilities, which they had spent the summer break fortifying. Metal fences now towered over the schoolyard’s walls and the door had been replaced by a sturdy metal gate. A new wall shield",
+   "score": 5
+  },
+  {
+   "id": "99f15e0c88e0",
+   "title": "2 policemen martyred, 1 injured in attack en route to polio duty in KP’s Mohmand",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041809/2-policemen-martyred-1-injured-in-attack-en-route-to-polio-duty-in-kps-mohmand",
+   "date": "2026-11-03T07:11:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "MOHMAND/TANK: Two policemen were martyred and another was injured when unidentified gunmen opened fire on them while they were on their way to join a polio team for security duty during the ongoing vaccination campaign in Khyber Pakhtunkhwa’s Mohmand district on Tuesday, police said. Headquarters Deputy Superintendent of Police Liaquat Ali confirmed these details to Dawn , adding that the attack took place near the Hashim Kor police checkpost in the Dag Tamanzai area of the Pindiali tehsil. He identified the martyred cops as Constables Zahoor Khan and Arbai Khan and the injured policeman as Se",
+   "score": 7
+  },
+  {
+   "id": "99c50981a2fb",
+   "title": "US signals progress in Iran talks to avert flare-up",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041801/us-signals-progress-in-iran-talks-to-avert-flare-up",
+   "date": "2026-11-03T05:32:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US President Donald Trump signaled progress on Tuesday in talks with Iran to avoid a return to war , as Tehran reported “intensive” exchanges while offering to reopen the Strait of Hormuz under strict conditions. The fresh diplomatic signals came ahead of US midterm elections on Tuesday, in which Trump’s Republican Party is pushing to retain control of Congress, faced with voter dissatisfaction over the conflict and the soaring fuel prices it has triggered. A deal with Tehran “could happen,” Trump wrote on his Truth Social platform. “Iran wants a settlement, as soon as possible.” But hours lat",
+   "score": 9,
+   "dup_of": "0f1a935f2e2b"
+  },
+  {
+   "id": "a87b74a7c891",
+   "title": "Maaz Sadaqat, Hasan Nawaz named in Pakistan Shaheens squad for Rising Stars Asia Cup",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041810/maaz-sadaqat-hasan-nawaz-named-in-pakistan-shaheens-squad-for-rising-stars-asia-cup",
+   "date": "2026-11-03T06:25:55Z",
+   "countries": [
+    "PAK",
+    "QAT"
+   ],
+   "desc": "Maaz Sadaqat and Hasan Nawaz have been included in the 15-member Pakistan Shaheens squad for the ACC Men’s Asia Cup Rising Stars 2026, with Abdul Samad appointed captain for the 50-over tournament to be held in Qatar from Nov 19 to 29. The Pakistan Cricket Board announced the squad on Tuesday, with the Shaheens set to defend the title they won in the previous 50-over edition in 2023. Pakistan are also the defending champions of the T20 version of the competition, having beaten Bangladesh A in a final decided by a Super Over. The eight-team tournament will feature two groups of four sides. Paki",
+   "score": 2
+  },
+  {
+   "id": "126d186b50e7",
+   "title": "JIT chief issued show cause over delay in submission of final charge sheet in Mir Raza murder case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041719/jit-chief-issued-show-cause-over-delay-in-submission-of-final-charge-sheet-in-mir-raza-murder-case",
+   "date": "2026-11-03T05:15:02Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A judicial magistrate on Monday issued a show-cause notice to DIG Irfan Baloch, chief of the newly formed joint investigation team (JIT) in the Mir Raza murder case, after police failed to submit the final charge sheet. He has been directed to respond by Nov 10. The Sindh home department had formed the JIT, led by DIG Baloch, on the recommendation of a single-member judicial commission comprising Justice Omar Sial of the Sindh High Court. The team was tasked with investigating the circumstances surrounding Mir Raza’s death and possible negligence in the case. Two previous high-level i",
+   "score": 4
+  },
+  {
+   "id": "35bedde3803c",
+   "title": "Taliban govt voices concern over US plans for deportation",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041765/taliban-govt-voices-concern-over-us-plans-for-deportation",
+   "date": "2026-11-03T02:28:21Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "KABUL: Afghanistan’s Taliban authorities voiced concern on Monday over reported plans by Washington to deport scores of Afghan immigrants to Pakistan with the aim of their eventual return to their home country. More than 150 Afghans in the United States would be deported via Pakistan to Afghanistan, including relatives of those who assisted US forces before their 2021 withdrawal, according to US media reports and an advocacy group. “The Islamic Emirate of Afghanistan expresses its serious concern over reports that the United States intends to deport some Afghan refugees to Pakistan who have no",
+   "score": 6
+  },
+  {
+   "id": "13470de30732",
+   "title": "Centre mulls reversing Fata merger, says Fazl",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041676/centre-mulls-reversing-fata-merger-says-fazl",
+   "date": "2026-11-03T02:09:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rahman on Monday alleged that the federal government was considering reversing the merger of Fata with Khyber Pakhtunkhwa. “The merger of Fata with this province is being proposed to be revoked. High-level government men have directly told me that the decision to merge the region was a mistake. Those running this system have told me directly that they want to revoke the merger and restore its previous status,” Mr Fazl told a convention of digital media workers of his party’s merged areas chapter here. The JUI-F chief said the mer",
+   "score": 5
+  },
+  {
+   "id": "8445e80f4d79",
+   "title": "Sindh govt moves to demolish fire-ravaged Gul Plaza building",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041721/sindh-govt-moves-to-demolish-fire-ravaged-gul-plaza-building",
+   "date": "2026-11-03T02:09:47Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Sindh government has begun implementing its decision to demolish the charred, structurally damaged Gul Plaza building and has invited bids from interested firms to demolish the fire-ravaged commercial complex. According to an official announcement, the Sindh Building Control Authority will supervise the demolition process, for which technical and financial proposals have been invited separately. Interested firms can submit their bids by Nov 20. The move follows recommendations by a technical committee, which submitted its report in January, declaring the damaged structure unfit fo",
+   "score": 3
+  },
+  {
+   "id": "613c489a0c32",
+   "title": "PAKISTAN’S MIRAGE OF HIGHER EDUCATION",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041349/pakistans-mirage-of-higher-education",
+   "date": "2026-11-03T05:59:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Twenty-four years ago, on September 11, 2002, Gen Pervez Musharraf signed the Higher Education Commission Ordinance that formally launched Pakistan’s ground-breaking higher education reforms. This legislation dissolved the University Grants Commission and, in its place, created the Higher Education Commission (HEC) with vast regulatory, financial and administrative autonomy, and an express mandate to restructure the national higher education system and set Pakistan on course to become a knowledge economy. Over the next five years, the budget allocation for higher education went up by 5,000 per",
+   "score": 3
+  },
+  {
+   "id": "81f4b70ece85",
+   "title": "Azma retorts as Salik remembers Parvez Elahi as ‘the best-ever CM’ in Punjab",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041737/azma-retorts-as-salik-remembers-parvez-elahi-as-the-best-ever-cm-in-punjab",
+   "date": "2026-11-03T04:56:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The remarks by Federal Minister for Overseas Pakistanis Chaudhry Salik Hussain declaring former Punjab chief minister Chaudhry Parvez Elahi as the province’s “best-ever chief minister” and his criticism of “unjust” distribution of development funds among the districts have caused unease within the Maryam Nawaz administration, drawing a sharp rebuttal from Punjab Information Minister Azma Bokhari, who advised the PML-Q leader not to “bite the hand that feeds him.” During a private television channel talk show on Monday, Salik lavished praise on Elahi, the Pakistan Tehreek-i-Insaf (PTI) ",
+   "score": 4
+  },
+  {
+   "id": "9cb34ad8a666",
+   "title": "Donald the Lame Duck? Trump will have other ideas if Republicans lose midterms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041807/donald-the-lame-duck-trump-will-have-other-ideas-if-republicans-lose-midterms",
+   "date": "2026-11-03T06:04:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "President Donald Trump’s second term has been a wild ride, but his last two years in power could be wilder still if Republicans lose control of Congress in Tuesday’s US midterm elections . From renewed military action against Iran to election challenges and fightbacks against Democratic investigations, Trump’s post-midterms playbook could involve disruption on all fronts. Analysts warn that Trump as a “lame duck” president could be the most vengeful Trump of all. “I’m skeptical that President Trump will go quiet into that good night,” Peter Loge, director of George Washington University’s Scho",
+   "score": 5,
+   "dup_of": "3f5f6e21578f"
+  },
+  {
+   "id": "54a4ae0ce2e9",
+   "title": "How necessity continues to be the mother of invention in Pakistan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040487/how-necessity-continues-to-be-the-mother-of-invention-in-pakistan",
+   "date": "2026-11-03T05:53:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Nowadays, the sight of solar panels perched on rooftops has become commonplace in Pakistan. According to an analysis published by Renewables First and the Centre for Research on Energy and Clean Air earlier this year, Pakistan has gone from importing less than one gigawatt (GW) of solar modules in 2018 to more than 51GW by early 2026. It estimated that the boom had already spared the country more than $12 billion in oil and gas imports by February. For a country long held hostage to load-shedding and rising tariffs, rooftop panels are a manifestation of the age-old adage: necessity is the moth",
+   "score": 3
+  },
+  {
+   "id": "f1bc1436a523",
+   "title": "India, Israel vote against UNGA draft on regional conventional arms control",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece",
+   "date": "2026-11-03T07:00:35Z",
+   "countries": [
+    "IND",
+    "ISR"
+   ],
+   "desc": "India and Israel were the only countries to vote against the resolution in the 193-member UN body",
+   "score": 7
+  },
+  {
+   "id": "7979c16e41b1",
+   "title": "Who are the Indian-origin candidates in U.S. midterm elections?",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/who-are-the-indian-origin-candidates-in-us-midterm-elections/article71644803.ece",
+   "date": "2026-11-03T06:44:20Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Democratic lawmakers Ro Khanna, Pramila Jayapal, Ami Bera and Suhas Subramanyam are seeking re-election to the U.S. Congress",
+   "score": 4
+  },
+  {
+   "id": "bf037afb7ece",
+   "title": "Indian killed as two helicopters collide in Nepal",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/nepal-helicopter-collision-indian-national-killed-updates-november-3-2026/article71659501.ece",
+   "date": "2026-11-03T06:21:11Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The number of passengers aboard the two helicopters at the time of the collision has yet to be confirmed",
+   "score": 2,
+   "dup_of": "7ef622d90071"
+  },
+  {
+   "id": "d0e675fdf797",
+   "title": "Indian national killed, another injured as two helicopters collide in Nepal’s Solukhumbu",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/videos/shorts/indian-national-killed-another-injured-as-two-helicopters-collide-in-nepals-solukhumbu/article71659588.ece",
+   "date": "2026-11-03T06:17:29Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "",
+   "score": 2,
+   "dup_of": "7ef622d90071"
+  },
+  {
+   "id": "fd2bc89f7a8e",
+   "title": "قوه قضائیه ایران از اعدام امیرحسین ملکی و امیرحسین ابراهیمی، دو بازداشتی اعتراضات دی‌ماه میدان علیخانی اصفهان، خبر داد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cw80zn1v395ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T07:12:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "قوه قضائیه ایران از اعدام امیرحسین ملکی و امیرحسین ابراهیمی، از بازداشتیان اعتراضات دی‌ماه میدان علیخانی ملک‌شهر اصفهان خبر داده است.",
+   "score": 9
   }
  ]
 }
