@@ -1,7 +1,279 @@
 {
- "updated": "2026-11-03T13:32:01Z",
- "count": 371,
+ "updated": "2026-11-03T16:06:57Z",
+ "count": 375,
  "items": [
+  {
+   "id": "33e3f25e062a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
+   "date": "2026-11-03T15:47:34Z",
+   "countries": [
+    "LBN",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+   "title_en": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+   "summary_en": "Syrian security forces announced they prevented a plot to attack the Homs oil refinery and arrested two individuals linked to Lebanon's Hezbollah, a claim the group denies.",
+   "body_en": [
+    "Syria's General Intelligence Service (GIS) said the operation was conducted with the Internal Security Forces and led to the capture of two suspects, identified by their initials, along with explosive devices. Hezbollah issued a statement denying involvement, asserting it has no presence in Syria nor any role in activities compromising Syrian stability.",
+    "The operation comes amid worsening relations between Damascus and Hezbollah following the fall of Bashar al-Assad's government. Syrian authorities have recently accused Hezbollah of multiple security plots, while energy facilities across the country have faced repeated attacks and disruptions."
+   ],
+   "title_fa": "سوریه می‌گوید طرح حزب‌الله برای هدف قرار دادن پالایشگاه نفت حمص را خنثی کرده است",
+   "summary_fa": "نیروهای امنیتی سوریه اعلام کردند که طرحی برای حمله به پالایشگاه نفت حمص را خنثی کرده و دو فرد مرتبط با گروه حزب‌الله لبنان را بازداشت کرده‌اند؛ ادعایی که حزب‌الله آن را تکذیب کرده است.",
+   "body_fa": [
+    "سرویس اطلاعات عمومی سوریه اعلام کرد این عملیات با همکاری نیروهای امنیت داخلی انجام شد و به بازداشت دو مظنون که با حروف اختصاری نام برده شده‌اند، به همراه ابزارهای انفجاری منجر گردید. حزب‌الله با صدور بیانیه‌ای دخالت در این حادثه را رد کرده و تأکید نمود هیچ حضوری در خاک سوریه یا نقشی در اقدامات علیه ثبات این کشور ندارد.",
+    "این عملیات در پی تیرگی روابط دمشق و حزب‌الله پس از سقوط حکومت بشار اسد صورت می‌گیرد. مقامات سوری اخیراً حزب‌الله را به طراحی چندین اقدام امنیتی متهم کرده‌اند، در حالی که تأسیسات انرژی در سراسر این کشور با حملات و اختلالات متعددی مواجه شده‌اند."
+   ],
+   "title_ar": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
+   "summary_ar": "أعلنت قوات الأمن السورية أنها أحبطت مخططاً لاستهداف مصفاة النفط في حمص واعتقلت شخصين مرتبطين بحزب الله اللبناني، وهو ما نفته الجماعة.",
+   "body_ar": [
+    "وقال جهاز المخابرات العامة السوري إن العملية نُفذت بالتعاون مع قوى الأمن الداخلي وأسفرت عن اعتقال مشتبه بهما، أُشير إليهما بحرفين من اسميهما، وضبط عبوات ناسفة بحوزتهما. من جانبه، أصدر حزب الله بياناً نفى فيه هذه الاتهامات، مؤكداً عدم وجود أي عنصر له على الأراضي السورية أو مشاركته في أنشطة تقوض أمن البلاد.",
+    "وتأتي هذه العملية في ظل تدهور العلاقات بين دمشق وحزب الله عقب الإطاحة بحكومة بشار الأسد. واتهمت السلطات السورية مؤخراً حزب الله بالضلوع في مخططات أمنية متعددة، في وقت تعرضت فيه منشآت الطاقة في جميع أنحاء البلاد لهجمات واضطرابات متكررة."
+   ]
+  },
+  {
+   "id": "8144af9be5b0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-prison-guards-shot-prominent-palestinian-detainees-nine-times",
+   "date": "2026-11-03T15:45:50Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli prison guards ‘shot prominent Palestinian detainees nine times’",
+   "title_en": "Israeli prison guards ‘shot prominent Palestinian detainees nine times’",
+   "summary_en": "Palestinian detainees' rights groups and the fiancee of prominent prisoner Hassan Salameh reported that Israeli prison guards shot him nine times and severely beat him following a cell visit by National Security Minister Itamar Ben-Gvir.",
+   "body_en": [
+    "According to the Palestinian Prisoners' Society and Salameh's fiancee Ghufran Zamel, the 55-year-old detainee was assaulted and shot after Ben-Gvir filmed himself threatening him in his cell last month.",
+    "Salameh, a leading figure in the al-Qassam Brigades serving 48 life terms, was reportedly returned to his cell without proper medical treatment and was given only painkillers despite his severe injuries."
+   ],
+   "title_fa": "زندبانان اسرائیلی «یک زندانی برجسته فلسطینی را هدف ۹ گلوله قرار دادند»",
+   "summary_fa": "گروه‌های مدافع حقوق زندانیان فلسطینی و نامزد حسن سلامه، زندانی برجسته، گزارش دادند که زندبانان اسرائیلی پس از بازدید ایتمار بن‌گویر، وزیر امنیت ملی، از سلول او، وی را به شدت مورد ضرب و شتم قرار داده و ۹ بار هدف گلوله قرار داده‌اند.",
+   "body_fa": [
+    "بر اساس اعلام جامعه اسیران فلسطینی و غفران زمل، نامزد سلامه، این زندانی ۵۵ ساله پس از آنکه بن‌گویر ماه گذشته در سلولش از خود فیلمبرداری کرد و او را به مرگ تهدید نمود، مورد ضرب و شتم و تیراندازی قرار گرفت.",
+    "سلامه که از چهره‌های سرشناس گردان‌های قسام بوده و ۴۸ حبس ابد را می‌گذراند، گزارش شده است که با وجود جراحات شدید بدون درمان پزشکی به سلولش بازگردانده شده و تنها مسکن دریافت کرده است."
+   ],
+   "title_ar": "سجان إسرائيليون «أطلقوا النار تسع مرات على معتقل فلسطيني بارز»",
+   "summary_ar": "أفادت جماعات حقوقية لحقوق المعتلفين الفلسطينيين وخطيبة الأسير البارز حسن سلامة بأن سجانين إسرائيليين أطلقوا النار عليه تسع مرات وضربوه بوحشية عقب اقتحام وزير الأمن القومي إيتمار بن غفير لزنزانته.",
+   "body_ar": [
+    "وفقاً لنادي الأسير الفلسطيني وخطيبة سلامة، غفران زمل، تعرض المعتقل البارز البالغ من العمر 55 عاماً للاعتداء وإطلاق النار بعد أن صور وزير الأمن القومي إيتمار بن غفير نفسه وهو يهدده داخل زنزانته الشهر الماضي.",
+    "وتشير التقارير إلى أن سلامة، القيادي البارز في كتائب القسام والمحكوم بـ 48 مؤبداً، أعيد إلى زنزانته دون تلقي رعاية طبية مناسبة واقتصر الأمر على إعطائه مسكنات للألم رغم إصاباته البليغة."
+   ]
+  },
+  {
+   "id": "4875797bc3da",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041875/soldier-martyred-17-terrorists-killed-in-intelligence-based-operations-in-balochistan-ispr",
+   "date": "2026-11-03T15:10:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 8,
+   "title": "Soldier martyred, 17 terrorists killed in intelligence-based operations in Balochistan: ISPR",
+   "title_en": "Soldier martyred, 17 terrorists killed in intelligence-based operations in Balochistan: ISPR",
+   "summary_en": "One Pakistani soldier was killed and 17 terrorists were eliminated during two intelligence-based operations in the Kachhi and Kharan districts of Balochistan, according to the military's media wing.",
+   "body_en": [
+    "Inter-Services Public Relations (ISPR) reported that the first operation in Kachhi's Sanni area thwarted a roadblock attempt, resulting in 10 militants killed. In Kharan, security forces engaged in a gunfight that left seven militants dead and recovered weapons and ammunition. Sepoy Hikmatullah, a 25-year-old soldier, lost his life during the operations.",
+    "Pakistani officials, including President Asif Ali Zardari and Interior Minister Mohsin Naqvi, praised the security forces and offered condolences to the fallen soldier's family. President Zardari stated that counterterrorism actions under Operation Azm-i-Istehkam will continue until terrorism is fully eradicated."
+   ],
+   "title_fa": "روابط عمومی ارتش پاکستان: شهادت یک سرباز و کشته شدن ۱۷ تروریست در عملیات‌های اطلاعات‌محور در بلوچستان",
+   "summary_fa": "طبق اعلام بخش رسانه‌ای ارتش پاکستان، در جریان دو عملیات اطلاعات‌محور در ولسوالی‌های کچی و خاران در بلوچستان، یک سرباز پاکستانی کشته و ۱۷ تروریست به هلاکت رسیدند.",
+   "body_fa": [
+    "روابط عمومی بین‌سرویسی ارتش (ISPR) گزارش داد که عملیات اول در منطقه سنی در ولسوالی کچی، تلاش برای مسدود کردن جاده را ناکام گذاشت و به کشته شدن ۱۰ شبه‌نظامی انجامید. در خاران نیز نیروهای امنیتی در درگیری مسلحانه هفت شبه‌نظامی را کشتند و مقادیری سلاح و مهمات کشف کردند. سپاهی حکمت‌الله، سرباز ۲۵ ساله، در جریان این عملیات جان باخت.",
+    "مقامات پاکستانی از جمله آصف‌علی زرداری، رئیس‌جمهور، و محسن نقوی، وزیر کشور، از نیروهای امنیتی تمجید کرده و تسلیت خود را به خانواده سرباز جان‌باخته ابراز داشتند. رئیس‌جمهور زرداری اعلام کرد که اقدامات ضد تروریسم تحت عملیات «عزم استحکام» تا نابودی کامل تروریسم ادامه خواهد داشت."
+   ],
+   "title_ar": "الجيش الباكستاني: مقتل 17 إرهابياً واستشهاد جندي في عمليات استخباراتية ببلوشستان",
+   "summary_ar": "أعلن الجناح الإعلامي للجيش الباكستاني مقتل 17 إرهابياً واستشهاد جندي باكستاني خلال عمليتين استخباراتيتين في منطقتي كتشي وخاران بإقليمبلوشستان.",
+   "body_ar": [
+    "وذكرت إدارة العلاقات العامة في الجيش أن العملية الأولى في منطقة سني بإقليم كتشي أحبطت محاولة لإقامة حاجز طريق وأسفرت عن مقتل 10 مسلحين. وفي خاران، خاضت قوات الأمن اشتباكاً مسلّحاً أدى إلى مقتل سبعة مسلحين واستعادة أسلحة وذخائر. وأسفرت العمليات عن استشهاد الجندي حكمت الله البالغ من العمر 25 عاماً.",
+    "وأشاد مسؤولون باكستانيون، بمن فيهم الرئيس آصف علي زرداري ووزير الداخلية محسن نقوي، بقوات الأمن وقدموا التعازي لأسرة الجندي الشهيد. وأكد الرئيس زرداري أن العمليات ضد الإرهاب ضمن عملية \"عزم الاستحكام\" ستستمر حتى القضاء التام على الإرهاب."
+   ]
+  },
+  {
+   "id": "fb781a800ab0",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2dlx86n9yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T15:09:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Trump says US will stop providing aid to Israel after year-end",
+   "title_en": "Trump says US will stop providing aid to Israel after year-end",
+   "summary_en": "US President Donald Trump announced that Washington will stop providing its annual $4bn in financial aid to Israel by the end of the year, following an agreement reached with Prime Minister Benjamin Netanyahu.",
+   "body_en": [
+    "In a telephone interview with Fox News, Trump stated that the deal to end the annual aid was reached months ago, claiming that Israel no longer requires American financial support. He added that the US would still assist Israel if needed and that Israel can continue purchasing military equipment from the US.",
+    "While it remains unclear which specific funds Trump was referring to—given that the current memorandum of understanding providing $3.8bn in annual military aid expires in 2028—Prime Minister Netanyahu had previously expressed a desire in May to draw down US financial support to zero over the coming decade."
+   ],
+   "title_fa": "ترامپ می‌گوید آمریکا پس از پایان سال جاری ارائه کمک به اسرائیل را متوقف می‌کند",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که واشنگتن طبق توافقی که با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، داشته است، ارائه کمک مالی سالانه ۴ میلیارد دلاری خود به اسرائیل را تا پایان سال جاری متوقف خواهد کرد.",
+   "body_fa": [
+    "ترامپ در مصاحبه‌ای تلفنی با فاکس نیوز گفت که توافق برای پایان دادن به این کمک‌های سالانه چند ماه پیش حاصل شده است و ادعا کرد که اسرائیل دیگر نیازی به پشتیبانی مالی آمریکا ندارد. او افزود که ایالات متحده در صورت نیاز همچنان به اسرائیل کمک خواهد کرد و این کشور می‌تواند تجهیزات نظامی خود را از آمریکا خریداری کند.",
+    "اگرچه مشخص نیست ترامپ به کدام بودجه خاص اشاره می‌کرد — چرا که یادداشت تفاهم فعلی برای ارائه ۳٫۸ میلیارد دلار کمک نظامی سالانه در سال ۲۰۲۸ منقضی می‌شود — بنیامین نتانیاهو، نخست‌وزیر، پیش از این در ماه مه ابراز تمایل کرده بود که حمایت مالی آمریکا در طول دهه آینده به صفر کاهش یابد."
+   ],
+   "title_ar": "ترامب يقول إن الولايات المتحدة ستتوقف عن تقديم المساعدات لإسرائيل بعد نهاية العام",
+   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب أن واشنطن ستتوقف عن تقديم مساعداتها المالية السنوية لإسرائيل والبالغة 4 مليارات دولار بحلول نهاية العام، وذلك عقب اتفاق تم التوصل إليه مع رئيس الوزراء بنيامين نتنياهو.",
+   "body_ar": [
+    "وقال ترامب في مقابلة هاتفية مع شبكة \"فوكس نيوز\" إن الاتفاق على إنهاء المساعدات السنوية تم التوصل إليه قبل أشهر، مدعياً أن إسرائيل لم تعد بحاجة إلى الدعم المالي الأمريكي. وأضاف أن الولايات المتحدة ستساعد إسرائيل إذا اقتضت الحاجة، وأنه بإمكان إسرائيل مواصلة شراء المعدات العسكرية من واشنطن.",
+    "وفي حين لم يتضح بعد أي أموال كان يشير إليها الرئيس الأمريكي — حيث إن مذكرات التفاهم الحالية التي تقدم مساعدات عسكرية سنوية بقيمة 3.8 مليار دولار تنتهي في عام 2028 — كان رئيس الوزراء بنيامين نتنياهو قد أعرب في مايو عن رغبته في تخفيض الدعم المالي الأمريكي إلى الصفر خلال العقد المقبل."
+   ]
+  },
+  {
+   "id": "ef5555824fb2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-not-looking-kill-lots-people-iran",
+   "date": "2026-11-03T14:52:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says 'not looking to kill lots of people' in Iran",
+   "title_en": "Trump says 'not looking to kill lots of people' in Iran",
+   "summary_en": "US President Donald Trump stated in an interview that he is not seeking to cause heavy casualties in Iran following what he described as a \"minor attack\" on Qeshm Island.",
+   "body_en": [
+    "Speaking to Fox News, Trump remarked that the US has full control over the situation and could act aggressively if necessary, but expressed a preference to avoid actions that would result in thousands of deaths in a war."
+   ],
+   "title_fa": "ترامپ می‌گوید «به دنبال کشته شدن افراد زیادی» در ایران نیست",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در مصاحبه‌ای اعلام کرد که پس از آنچه «حمله جزئی» به جزیره قشم خواند، به دنبال وارد کردن تلفات سنگین در ایران نیست.",
+   "body_fa": [
+    "ترامپ در گفتگو با فاکس نیوز اظهار داشت که ایالات متحده تسلط کامل بر اوضاع دارد و در صورت لزوم می‌تواند اقدام کند، اما ترجیح می‌دهد از اقداماتی که منجر به کشته شدن هزاران نفر در یک جنگ می‌شود پرهیز کند."
+   ],
+   "title_ar": "ترامب يقول إنه \"لا يتطلع لقتل الكثير من الناس\" في إيران",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب في مقابلة أنه لا يسعى لإلحاق خسائر بشرية كبيرة في إيران بعد ما وصفه بهجوم \"طفيف\" على جزيرة قشم.",
+   "body_ar": [
+    "وفي حديثه لشبكة \"فوكس نيوز\"، أشار ترامب إلى أن الولايات المتحدة تسيطر تماماً على الوضع ويمكنها الحسم إذا لزم الأمر، لكنه أعرب عن فضيله لتجنب الأفعال التي قد تؤدي إلى مقتل آلاف الأشخاص في حرب."
+   ]
+  },
+  {
+   "id": "8eaefbac02da",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/french-judges-open-war-crimes-probe-israeli-strike-killed-seven-beirut",
+   "date": "2026-11-03T14:43:39Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "French judges open war crimes probe into Israeli strike that killed seven in Beirut",
+   "title_en": "French judges open war crimes probe into Israeli strike that killed seven in Beirut",
+   "summary_en": "French judges have opened a judicial investigation into a November 2024 Israeli air strike on a residential building in Beirut that killed seven civilians, marking the first French war crimes probe into alleged Israeli military actions in Lebanon.",
+   "body_en": [
+    "The probe follows a complaint filed by Franco-Lebanese artist Ali Cherri, whose parents were among the seven killed in the strike, and the International Federation for Human Rights.",
+    "The investigation focuses on the alleged deliberate attack against civilian property under French war crimes law, utilizing research from Amnesty International and Forensic Architecture."
+   ],
+   "title_fa": "قضات فرانسوی درباره حمله اسرائیل به بیروت که منجر به کشته شدن هفت تن شد، تحقیقات جنایات جنگی آغاز کردند",
+   "summary_fa": "قضات فرانسوی تحقیقات قضایی را درباره حمله هوایی نوامبر ۲۰۲۴ اسرائیل به یک ساختمان مسکونی در بیروت که به کشته شدن هفت غیرنظامی منجر شد، آغاز کردند؛ این نخستین بار است که دستگاه قضایی فرانسه تحقیقاتی را درباره اقدامات ادعایی ارتش اسرائیل در لبنان به جریان می‌اندازد.",
+   "body_fa": [
+    "این تحقیقات به دنبال شکایتی که توسط علی سری، هنرمند فرانسوی-لبنانی که والدینش در میان کشته‌شدگان این حمله بودند، و فدراسیون بین‌المللی حقوق بشر ثبت شد، آغاز گردید.",
+    "این پرونده با تکیه بر پژوهش‌های سازمان عفو بین‌الملل و گروه تحقیقاتی فارنزیک آرکی‌تکتر، بر اتهام حمله عمدی به اموال غیرنظامیان بر اساس قوانین جرائم جنگی فرانسه تمرکز دارد."
+   ],
+   "title_ar": "قضاة فرنسيون يفتحون تحقيقاً في جرائم حرب بشأن غارة إسرائيلية أودت بحياة سبعة أشخاص في بيروت",
+   "summary_ar": "فتح قضاة فرنسيون تحقيقاً قضائياً في غارة جوية إسرائيلية استهدفت مبنى سكني في بيروت في نوفمبر 2024 وأسفرت عن مقتل سبعة مدنيين، فيما يعد أول تحقيق فرنسي في جرائم حرب تتعلق بأفعال الجيش الإسرائيلي في لبنان.",
+   "body_ar": [
+    "جاء فتح التحقيق بناءً على شكوى قدمها الفنان الفرنسي اللبناني علي شري، الذي كان والداه من بين القتلى السبعة في الغارة، إلى جانب الفدرالية الدولية لحقوق الإنسان.",
+    "يركز التحقيق على الهجوم المتعمد المزعوم ضد ممتلكات مدنية بموجب قانون جرائم الحرب الفرنسي، مستنداً إلى أبحاث أجرتها منظمة العفو الدولية ومجموعة \"فورنسيك أركيتكتشر\"."
+   ]
+  },
+  {
+   "id": "3b5065619a78",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+   "date": "2026-11-03T13:21:57Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 7,
+   "title": "Iran commander sets out five conditions for regional security",
+   "title_en": "Iran commander sets out five conditions for regional security",
+   "summary_en": "The chief of staff of Iran’s armed forces has outlined a five-point roadmap for lasting regional security amid ongoing diplomatic efforts involving Qatar and the United States.",
+   "body_en": [
+    "Major-General Ali Abdollahi's plan demands an end to hostilities across all fronts, including Lebanon and the Gaza Strip, alongside the complete lifting of sanctions, the release of frozen Iranian assets, and war reparations, according to Tasnim news agency. The proposal also calls for the recognition of Iran's sovereignty over the Strait of Hormuz and guarantees against future aggression.",
+    "The announcement comes as Qatari mediators engage in talks with both Iranian and US officials to restart negotiations and prevent further escalation following recent strikes. Meanwhile, Iranian officials noted that Washington's responses to Tehran's demands have not yet been convincing."
+   ],
+   "title_fa": "فرمانده ایرانی پنج شرط برای امنیت منطقه‌ای تعیین کرد",
+   "summary_fa": "رئیس ستاد کل نیروهای مسلح ایران در بحبوحه تلاش‌های دیپلماتیک جاری با حضور قطر و ایالات متحده، نقشه راهی پنج ماده‌ای برای امنیت پایدار منطقه‌ای ترسیم کرده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری تسنیم، طرح سرلشکر علی عبداللهی خواستار پایان دادن به مخاصمات در تمامی جبهه‌ها از جمله لبنان و باریکه غزه، به همراه لغو کامل تحریم‌ها، آزادی دارایی‌های مسدود شده ایران و غرامت جنگی است. این پیشنهاد همچنین خواستار به رسمیت شناخته شدن حاکمیت ایران بر تنگه هرمز و تضمین‌هایی در برابر تجاوزات آینده شده است.",
+    "این اعلامیه در حالی منتشر می‌شود که میانجیگران قطری برای از سرگیری مذاکرات و جلوگیری از تشدید تنش‌های بیشتر پس از حملات اخیر، با مقامات ایران و ایالات متحده گفتگو می‌کنند. در همین حال، مقامات ایرانی خاطرنشان کردند که پاسخ‌های واشنگتن به مطالبات تهران هنوز متقاعدکننده نبوده است."
+   ],
+   "title_ar": "قائد إيراني يضع خمسة شروط للأمن الإقليمي",
+   "summary_ar": "عرض رئيس هيئة أركان القوات المسلحة الإيرانية خارطة طريق من خمس نقاط للأمن الإقليمي المستدام وسط جهود دبلوماسية مستمرة تشمل قطر والولايات المتحدة.",
+   "body_ar": [
+    "ذكرت وكالة أنباء تسنیم أن خطة اللواء علي تعليق تطالب بإنهاء الأعمال العدائية على جميع الجبهات، بما في ذلك لبنان وقطاع غزة، إلى جانب الرفع الكامل للعقوبات، والإفراج عن الأصول الإيرانية المجمدة، وتعويضات الحرب. وتهدف الخطة أيضاً إلى الاعتراف بسيادة إيران على مضيق هرمز وتقديم ضمانات ضد أي عدوان مستقبلي.",
+    "يأتي هذا الإعلان في الوقت الذي يجري فيه الوسطاء القطريون محادثات مع كل من المسؤولين الإيرانيين والأمريكيين لاستئناف المفاوضات ومنع المزيد من التصعيد في أعقاب الضربات الأخيرة. وفي الوقت نفسه، أشار مسؤولون إيرانيون إلى أن ردود واشنطن على مطالب طهران لم تكن مقناع بعد."
+   ]
+  },
+  {
+   "id": "66a6b6965c13",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+   "date": "2026-11-03T13:13:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Trump’s troubles with Iran could open the door to China",
+   "title_en": "Trump’s troubles with Iran could open the door to China",
+   "summary_en": "China has intensified its diplomatic engagement with Middle Eastern leaders as ongoing US-Iran tensions create potential opportunities for Beijing to bolster its regional influence.",
+   "body_en": [
+    "Chinese President Xi Jinping and Foreign Minister Wang Yi recently held a series of high-level meetings with officials from Oman, Saudi Arabia, and Iran. During these talks, Beijing emphasized its commitment to regional stability and supporting national sovereignty.",
+    "While China's economic leverage includes purchasing significant amounts of Iranian crude oil, analysts note that Beijing's broader diplomatic role has grown as Washington faces regional challenges and potential openings arise ahead of a meeting between Donald Trump and Xi Jinping."
+   ],
+   "title_fa": "دشواری‌های ترامپ با ایران می‌تواند راه را برای چین باز کند",
+   "summary_fa": "چین همزمان با ایجاد فرصت‌های بالقوه برای پکن جهت تقویت نفوذ منطقه‌ای خود در پی تنش‌های جاری ایالات متحده و ایران، تعاملات دیپلماتیک خود با رهبران خاورمیانه را تشدید کرده است.",
+   "body_fa": [
+    "شی جین‌پینگ، رئیس‌جمهور چین و وانگ یی، وزیر امور خارجه این کشور، اخیراً سلسله دیدارهای عالیرتبه‌ای با مقاماتی از عمان، عربستان سعودی و ایران برگزار کردند. پکن در جریان این گفتگوها بر تعهد خود به ثبات منطقه‌ای و حمایت از حاکمیت ملی تأکید کرد.",
+    "در حالی که اهرم اقتصادی چین شامل خرید مقادیر قابل توجهی از نفت خام ایران است، تحلیلگران خاطرنشان می‌کنند که نقش دیپلماتیک گسترده‌تر پکن با مواجهه واشنگتن با چالش‌های منطقه‌ای و پدید آمدن فرصت‌های احتمالی پیش از دیدار دونالد ترامپ و شی جین‌پینگ افزایش یافته است."
+   ],
+   "title_ar": "مشاكل ترامپ مع إيران قد تفتح الباب أمام الصين",
+   "summary_ar": "كثفت الصين مشاركتها الدبلوماسية مع زعماء الشرق الأوسط في الوقت الذي توفر فيه التوترات المستمرة بين الولايات المتحدة وإيران فرصاً محتملة لبكين لتعزيز نفوذها الإقليمي.",
+   "body_ar": [
+    "عقد الرئيس الصيني شي جين بينغ ووزير الخارجية وانغ يي مؤخراً سلسلة من الاجتماعات رفيعة المستوى مع مسؤولين من عمان والسعودية وإيران. وخلال هذه المحادثات، أكدت بكين التزامها بالاستقرار الإقليمي ودعم السيادة الوطنية.",
+    "وفي حين تشمل النفوذ الاقتصادي للصين شراء كميات كبيرة من النفط الخام الإيراني، يشير المحللون إلى أن الدور الدبلوماسي الأوسع لبكين قد نما مع مواجهة واشنطن لتحديات إقليمية و ظهور فرص محتملة قبيل اجتماع مرتقب بين دونالد ترامب وشي جين بينغ."
+   ]
+  },
+  {
+   "id": "7c9a4628cc6e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+   "date": "2026-11-03T13:05:39Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Qatar remains hopeful the US and Iran can reach a deal",
+   "title_en": "Qatar remains hopeful the US and Iran can reach a deal",
+   "summary_en": "Qatar's foreign ministry spokesperson Majed al-Ansari stated that regional and international partners are working to secure an agreement between the US and Iran, noting that both parties remain committed to a diplomatic resolution.",
+   "body_en": [
+    "According to Qatar's foreign ministry spokesperson Majed al-Ansari, ongoing efforts are being made by regional neighbors and international partners to facilitate a deal between Washington and Tehran.",
+    "Al-Ansari affirmed that both the United States and Iran remain committed to reaching a diplomatic outcome through these collaborative efforts."
+   ],
+   "title_fa": "قطر همچنان به حصول توافق میان ایالات متحده و ایران امیدوار است",
+   "summary_fa": "ماجد الانصاری، سخنگوی وزارت خارجه قطر، اعلام کرد که شرکای منطقه‌ای و بین‌المللی برای دستیابی به توافقی میان ایالات متحده و ایران تلاش می‌کنند و افزود که هر دو طرف همچنان به یک نتیجه دیپلماتیک متعهد هستند.",
+   "body_fa": [
+    "بر اساس اظهارات ماجد الانصاری، سخنگوی وزارت خارجه قطر، تلاش‌های همسایگان منطقه‌ای و شرکای بین‌المللی برای تسهیل دستیابی به توافقی میان واشنگتن و تهران در جریان است.",
+    "الانصاری تایید کرد که هم ایالات متحده و هم ایران همچنان به دستیابی به یک نتیجه دیپلماتیک از طریق این تلاش‌های جمعی متعهد هستند."
+   ],
+   "title_ar": "قطر لا تزال آملة في توصل الولايات المتحدة وإيران إلى اتفاق",
+   "summary_ar": "صرح المتحدث باسم وزارة الخارجية القطرية ماجد الأنصاري بأن الشركاء الإقليميين والدوليين يعملون لتأمين اتفاق بين الولايات المتحدة وإيران، مؤكداً أن الجانبين لا يزالان ملتزمين بالوصول إلى نتيجة دبلوماسية.",
+   "body_ar": [
+    "وفقاً للمتحدث باسم وزارة الخارجية القطرية ماجد الأنصاري، فإن الجيران الإقليميين والشركاء الدوليين يبذلون جهوداً مستمرة لتأمين التوصل إلى اتفاق بين واشنطن وطهران.",
+    "وأكد الأنصاري أن كلاً من الولايات المتحدة وإيران لا تزالان ملتزمتين بالوصول إلى مخرج دبلوماسي من خلال هذه المساعي المشتركة."
+   ]
+  },
   {
    "id": "fa7972b65a41",
    "lang": "en",
@@ -30,6 +302,37 @@
    "body_ar": [
     "عرضت لوحة إعلانية في ساحل انقلاب عبارة \"سنقتل ترامب\" إلى جانب صور تظهره هو وؤول مسؤولي آخرين بوجوه ملطخة بالدماء. وتجمع عشرات المتظاهرين تلويحاً بالأعلام الحمراء للمطالبة بالثار للführt الراحل علي خامنئي.",
     "تأتي هذه العروض في الوقت الذي تستمر فيه الجهود الدبلوماسية لمنع استئناف القتال، بينما يواجه ترامب انتخابات التجديد النصفي الأمريكية وسط استياء الناخبين المرتبط بالحرب."
+   ]
+  },
+  {
+   "id": "98060c1ed518",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041847/french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer",
+   "date": "2026-11-03T11:24:14Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "French judges probe war crimes complaint against Israeli army in Lebanon: lawyer",
+   "title_en": "French judges probe war crimes complaint against Israeli army in Lebanon: lawyer",
+   "summary_en": "France has opened a judicial investigation into a war crimes complaint filed over an Israeli strike that killed the parents of a French-Lebanese artist in Beirut.",
+   "body_en": [
+    "According to a lawyer representing the complainant, the crimes against humanity unit of the Paris Judicial Court appointed two investigating judges to examine the strike on a residential building in central Beirut in late 2024. The bombing resulted in multiple civilian casualties just hours before a ceasefire agreement took effect.",
+    "The legal action marks a first for alleged war crimes committed by Israeli forces in Lebanon, though several other related cases and preliminary investigations are currently pending before French prosecutors and courts."
+   ],
+   "title_fa": "وکیل مدافع: قضات فرانسوی شکایت جنایات جنگی علیه ارتش اسرائیل در لبنان را بررسی می‌کنند",
+   "summary_fa": "فرانسه تحقیقات قضایی را درباره یک شکایت جنایات جنگی مربوط به حمله اسرائیل که به کشته شدن والدین یک هنرمند فرانسوی-لبنانی در بیروت انجامید، آغاز کرده است.",
+   "body_fa": [
+    "به گفته وکیل مدافع شاکی، واحد جنایات علیه بشریت دادگاه قضایی پاریس دو قاضی تحقیق را برای بررسی حمله به یک ساختمان مسکونی در مرکز بیروت در اواخر سال ۲۰۲۴ تعیین کرد. این بمباران چند ساعت پیش از اجرایی شدن توافق آتش‌بس، تلفات غیرنظامی متعددی بر جای گذاشت.",
+    "این اقدام حقوقی نخستین مورد در خصوص جرائم جنگی ادعایی نیروهای اسرائیلی در لبنان به شمار می‌رود، هرچند چندین پرونده و تحقیق مقدماتی مرتبط دیگر در حال حاضر در دادستان‌ها و دادگاه‌های فرانسه در جریان است."
+   ],
+   "title_ar": "محامٍ: قضاة فرنسيون يحققون في شكوى جرائم حرب ضد الجيش الإسرائيلي في لبنان",
+   "summary_ar": "فتحت فرنسا تحقيقاً قضائياً في شكوى جرائم حرب تم تقديمها على خلفية ضربة إسرائيلية أودت بحياة والدي فنان فرنسي-لبناني في بيروت.",
+   "body_ar": [
+    "وفقاً لمحامية تمثل الشاكي، عيّنت وحدة الجرائم ضد الإنسانية في محكمة باريس القضائية قاضيي تحقيق لفحص الهجوم على مبنى سكني في وسط بيروت في أواخر عام 2024. وقد أسفر القصف عن سقوط العديد من الضحايا المدنيين قبل ساعات فقط من دخول اتفاق وقف اطلاق النار حيز التنفيذ.",
+    "يُعد هذا الإجراء القانوني الأول من نوعه فيما يتعلق بجرائم حرب مزعومة ارتكبتها القوات الإسرائيلية في لبنان، رغم وجود عدة قضايا وتحقيقات أولية أخرى ذات صلة معروضة حالياً أمام المدعين العامين والمحاكم الفرنسية."
    ]
   },
   {
@@ -305,34 +608,34 @@
    ]
   },
   {
-   "id": "e71f2e3b0d68",
+   "id": "d8df9dc711ae",
    "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
-   "date": "2026-11-03T06:46:27Z",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-foreign-ministry-says-one-national-killed-attack-ship-near-oman",
+   "date": "2026-11-03T06:42:26Z",
    "countries": [
-    "ISR",
-    "PSE"
+    "IND",
+    "OMN"
    ],
-   "score": 5,
-   "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-   "title_en": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
-   "summary_en": "Record gains for Arab-led parties in Israeli elections have sparked a political deadlock and anti-Palestinian rhetoric, coinciding with ongoing military sieges and deadly attacks in the West Bank and Gaza.",
+   "score": 8,
+   "title": "Indian foreign ministry says one national killed in attack on ship near Oman",
+   "title_en": "Indian foreign ministry says one national killed in attack on ship near Oman",
+   "summary_en": "The Indian foreign ministry announced that one of its nationals was killed in an attack on a commercial vessel near Limah, Oman, while 13 other Indian crew members were rescued.",
    "body_en": [
-    "Following the election, right-wing Israeli politicians have ruled out partnerships with Palestinian parties, while coalition negotiations face severe hurdles over proposed demands such as mandatory national service. Meanwhile, military operations and settler attacks have severely restricted movement and the olive harvest across the West Bank, particularly in Hebron and Masafer Yatta.",
-    "In Gaza, daily strikes and worsening humanitarian conditions have continued, with the UN warning of a shrinking safe zone and a collapsing health system. The Ministry of Health reported rising casualties as restrictions on shelter and aid persist."
+    "The incident involving the commercial vessel MSV AL JUSUFI occurred on Monday near Limah, according to the Indian foreign ministry on Tuesday.",
+    "Out of the 14 Indian nationals on board, 13 were successfully rescued following the attack."
    ],
-   "title_fa": "هفته فلسطین: بن‌بست انتخاباتی با محاصره کرانه باختری و کشتار در غزه روبه‌رو شد",
-   "summary_fa": "دستاوردهای بی‌سابقه احزاب عرب‌تبار در انتخابات اسرائیل به بن‌بست سیاسی و لحن ضد فلسطینی منجر شده است که با محاصره‌های نظامی و حملات مرگبار در کرانه باختری و غزه همزمان شده است.",
+   "title_fa": "وزارت خارجه هند از کشته شدن یک تبعه این کشور در حمله به کشتی در نزدیکی عمان خبر داد",
+   "summary_fa": "وزارت خارجه هند اعلام کرد که یک تبعه این کشور در پی حمله به یک فروند کشتی تجاری در نزدیکی لیما در عمان کشته شده و ۱۳ خدمه دیگر هندی نجات یافته‌اند.",
    "body_fa": [
-    "پس از انتخابات، سیاستمداران راست‌گرای اسرائیل ائتلاف با احزاب فلسطینی را رد کرده‌اند و مذاکرات ائتلافی با موانعی بر سر مطالبات پیشنهادی مانند خدمت اجباری ملی روبه‌روست. در همین حال، عملیات نظامی و حملات شهرک‌نشینان محدودیت‌های شدیدی بر تردد و برداشت زیتون در سراسر کرانه باختری، به‌ویژه در الخلیل و مسافر یطا، اعمال کرده است.",
-    "در غزه، حملات روزانه و وخامت شرایط بشردوستانه ادامه یافته و سازمان ملل درباره کوچک شدن منطقه امن و فروپاشی نظام سلامت هشدار داده است. وزارت بهداشت گزارش داد که با تداوم محدودیت‌ها بر سرپناه و کمک‌ها، تلفات در حال افزایش است."
+    "به گفته وزارت خارجه هند در روز سه‌شنبه، این رویداد مرتبط با کشتی تجاری MSV AL JUSUFI روز دوشنبه در نزدیکی لیما رخ داده است.",
+    "از مجموع ۱۴ تبعه هندی حاضر در این کشتی، ۱۳ نفر پس از وقوع حادثه نجات یافتند."
    ],
-   "title_ar": "حصاد فلسطين الأسبوعي: جمود انتخابي يواجه حصار الضفة الغربية وقتل في غزة",
-   "summary_ar": "أدت المكاسب القياسية للأحزاب التي تقودها الأقطاب العربية في الانتخابات الإسرائيلية إلى جمود سياسي وخطاب معادٍ للفلسطينيين بالتزامن مع الحصار العسكري المستمر والهجمات المميتة في الضفة الغربية وغزة.",
+   "title_ar": "الخارجية الهندية تعلن مقتل أحد مواطنيها في هجوم على سفينة قرب عمان",
+   "summary_ar": "أعلنت وزارة الخارجية الهندية مقتل أحد مواطنيها جراء هجوم استهدف سفينة تجارية قرب مدينة ليما في عمان، بينما تم إنقاذ 13 هندياً آخرين.",
    "body_ar": [
-    "في أعقاب الانتخابات، استبعد السياسيون الإسرائيليون اليمينيون الدخول في شراكات مع الأحزاب الفلسطينية، بينما تواجه مفاوضات الائتلاف عقبات حادة بشأن مطالب مقترحة مثل الخدمة الوطنية الإجارية. وفي الوقت نفسه، فرضت العمليات العسكرية وهجمات المستوطنين قيوداً شديدة على الحركة وموسم قطف الزيتون في جميع أنحاء الضفة الغربية، لا سيما في الخليل ومسافر يطا.",
-    "في غزة، استمرت الغارات اليومية وتدهور الأوضاع الإنسانية، وسط تحذيرات أممية من تقلص المنطقة الآمنة وانهيار النظام الصحي. وألقت وزارة الصحة الضوء على ارتفاع عدد الضحايا مع استمرار القيود المفروضة على الملاجئ والمساعدات."
+    "وقع الحادث الذي استهدف السفينة التجارية \"إم إس في أل جوسوفي\" يوم الإثنين قرب ليما، بحسب ما أفادت وزارة الخارجية الهندية يوم الثلاثاء.",
+    "ومن بين 14 مواطناً هندياً كانوا على متن السفينة، تم إنقاذ 13 شخصاً بعد وقوع الهجوم."
    ]
   },
   {
@@ -397,33 +700,6 @@
    ]
   },
   {
-   "id": "294d63f791bf",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-   "date": "2026-11-03T03:53:09Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-   "title_en": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-   "summary_en": "Israeli soldiers have detained Al Jazeera correspondent Montaser Nassar during a military raid on his home in the southern occupied West Bank.",
-   "body_en": [
-    "According to reports, soldiers blindfolded, handcuffed, and removed Nassar from his residence in Dura, south of Hebron."
-   ],
-   "title_fa": "نظامیان اسرائیلی خبرنگار الجزیره را در یورش‌های الخلیل بازداشت کردند",
-   "summary_fa": "نظامیان اسرائیلی منتصر نصار، خبرنگار الجزیره را در جریان یورش نظامی به خانه‌اش در جنوب کرانه باختری اشغالی بازداشت کردند.",
-   "body_fa": [
-    "بر اساس گزارش‌ها، نظامیان در حالی که چشم‌بند به چشم نصار زده و او را دستبند زده بودند، وی را از منزلش در شهر دورا در جنوب الخلیل خارج کردند."
-   ],
-   "title_ar": "جنود إسرائيليون يعتقلون صحفياً في قناة الجزيرة خلال اقتحامات الخليل",
-   "summary_ar": "احتجز جنود إسرائيليون مراسل قناة الجزيرة منتصر نصار خلال اقتحام عسكري لمنزله في جنوب الضفة الغربية المحتلة.",
-   "body_ar": [
-    "وبحسب التقارير، قام الجنود بتعصيب عيوني نصار وتكبليه وإخراجه من منزله في دورا جنوب الخليل."
-   ]
-  },
-  {
    "id": "e8f5f462fc90",
    "lang": "en",
    "source": "Middle East Eye",
@@ -451,67 +727,6 @@
    "body_ar": [
     "صرح المتحدث باسم الجيش اليمني ماجد النزيلي في منشور على منصة إكس بأن الجيش نفذ 951 عملية عسكرية في إطار عملية \"فجر اليمن\" خلال 24 ساعة. وادعى أن هذه العمليات أدت إلى \"تحييد\" نحو 332 من القادة الميدانيين والمقاتلين الحوثيين.",
     "وأضاف المتحدث العسكري أن العمليات أسفرت أيضاً عن تدمير وإلحاق الأضرار بـ 56 آلية ومعدات وأسلحة تابعة للحوثيين عبر عدة جبهات شملت الجوف ومأرب والبيضاء."
-   ]
-  },
-  {
-   "id": "bd61e0672d04",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/israels-far-right-supporters-hold-out-hope-for-return-to-power/article71659276.ece",
-   "date": "2026-11-03T03:01:41Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Israel’s far-right supporters hold out hope for return to power",
-   "title_en": "Israel’s far-right supporters hold out hope for return to power",
-   "summary_en": "Following an election outcome that left far-right parties with the same number of seats in the Knesset, supporters of figures like Itamar Ben-Gvir and Bezalel Smotrich remain hopeful about their political future. Despite falling short of watershed gains, right-wing voters in places like Sderot continue to back their hardline security stances.",
-   "body_en": [
-    "Far-right parties retained 13 seats between them in the recent vote, failing to achieve major gains but cementing their presence in the political landscape. Prime Minister Benjamin Netanyahu's bloc fell short of a majority, leaving the far right's role in a future coalition uncertain as mainstream parties negotiate.",
-    "Supporters in Sderot expressed strong backing for Ben-Gvir and Smotrich, citing the need for radical security positions following the October 7, 2023 attacks. However, other voters voiced disappointment and concern over the possibility of an alternative coalition involving opposition figures and Arab-Israeli parties."
-   ],
-   "title_fa": "حامیان راست افراطی اسرائیل به بازگشت به قدرت امید بسته‌اند",
-   "summary_fa": "به دنبال نتایج انتخاباتی که تعداد کرسی‌های احزاب راست افراطی را در کنست تغییر نداد، حامیان چهره‌هایی مانند ایتمار بن‌گویر و بزالل اسموتریچ به آینده سیاسی خود امیدوارند. با وجود عدم دستیابی به پیروزی‌های بزرگ، رأی‌دهندگان راست‌گرا در مکان‌هایی مانند سدروت همچنان از مواضع سرسختانه امنیتی آنها حمایت می‌کنند.",
-   "body_fa": [
-    "احزاب راست افراطی در رای‌گیری اخیر ۱۳ کرسی به دست آوردند که نتوانست دستاوردهای بزرگی به همراه داشته باشد اما حضور آن‌ها را در چشم‌انداز سیاسی تثبیت کرد. ائتلاف بنیامین نتانیاهو نتوانست اکثریت را کسب کند و با مذاکره احزاب اصلی، نقش راست افراطی در ائتلاف آینده نامشخص است.",
-    "حامیان در سدروت با اشاره به نیاز به مواضع امنیتی رادیکال پس از حملات ۷ اکتبر ۲۰۲۳، از بن‌گویر و اسموتریچ حمایت قوی خود را ابراز کردند. با این حال، رأی‌دهندگان دیگر نسبت به احتمال تشکیل ائتلاف جایگزین شامل چهره‌های اپوزیسیون و احزاب عربی اسرائیلی ابراز ناامیدی و نگرانی کردند."
-   ],
-   "title_ar": "أنصار اليمين المتطرف في إسرائيل يمسكون بالأمل في العودة إلى السلطة",
-   "summary_ar": "في أعقاب نتائج الانتخابات التي أبقت أحزاب اليمين المتطرف بنفس عدد المقاعد في الكنيست، لا يزال أنصار شخصيات مثل إيتمار بن غفير وبتسلئيل سموتريتش يأملون في مستقبلهم السياسي. وعلى الرغم من عدم تحقيق مكاسب واسعة النطاق، يواصل الناخبون اليمينيون في أماكن مثل سدروت دعم مواقفهم الأمنية المتشددة.",
-   "body_ar": [
-    "احتفظت أحزاب اليمين المتطرف بـ 13 مقعداً فيما بينها في التصويت الأخير، فشلت في تحقيق مكاسب كبرى لكنها عززت حضورها في المشهد السياسي. ولم يحقق تكتل بنيامين نتنياهو الأغلبية، مما يجعل دور اليمين المتطرف في ائتلاف مستقبلي غير مؤكد مع تفاوض الأحزاب الرئيسية.",
-    "أعرب المؤيدون في سدروت عن دعمهم القوي لبن غفير وسموتريتش، مشيرين إلى الحاجة لمواقف أمنية متشددة بعد هجمات 7 أكتوبر 2023. ومع ذلك، أعرب ناخبون آخرون عن خيبة أملهم وقلقهم إزاء احتمال تشكيل ائتلاف بديل يضم شخصيات المعارضة والأحزاب العربية الإسرائيلية."
-   ]
-  },
-  {
-   "id": "35bedde3803c",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041765/taliban-govt-voices-concern-over-us-plans-for-deportation",
-   "date": "2026-11-03T02:28:21Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Taliban govt voices concern over US plans for deportation",
-   "title_en": "Taliban govt voices concern over US plans for deportation",
-   "summary_en": "Afghanistan's Taliban authorities have expressed serious concern over reported US plans to deport Afghan immigrants through Pakistan.",
-   "body_en": [
-    "Reports indicate that more than 150 Afghans in the United States, including relatives of individuals who assisted US forces before the 2021 withdrawal, could face deportation. A foreign ministry spokesperson stated that the government views the plans with serious concern, while advocacy groups warn that returning former allies to the region could endanger their lives.",
-    "Although the Taliban administration has announced a general amnesty and promised safe returns, international bodies continue to document cases of abuses and detentions. The deportation push follows broader immigration restrictions implemented under the administration of US President Donald Trump."
-   ],
-   "title_fa": "دولت طالبان نسبت به برنامه‌های ایالات متحده برای اخراج مهاجران ابراز نگرانی کرد",
-   "summary_fa": "مقامات طالبان افغانستان نسبت به گزارش‌های مربوط به برنامه‌های ایالات متحده برای اخراج مهاجران افغان از طریق پاکستان ابراز نگرانی جدی کردند.",
-   "body_fa": [
-    "گزارش‌ها حاکی از آن است که بیش از ۱۵۰ افغان در ایالات متحده، از جمله بستگان افرادی که پیش از خروج نیروهای آمریکایی در سال ۲۰۲۱ به آنها کمک کرده بودند، ممکن است با اخراج مواجه شوند. سخنگوی وزارت خارجه اعلام کرد که دولت با نگرانی جدی به این برنامه‌ها نگاه می‌کند، در حالی که گروه‌های حامی حقوق مهاجران هشدار می‌دهند که بازگرداندن متحدان سابق به منطقه می‌تواند جان آنها را به خطر بیندازد.",
-    "اگرچه دولت طالبان عفو عمومی اعلام کرده و وعده بازگشت امن داده است، نهادهای بین‌المللی همچنان موارد سوءاستفاده و بازداشت را مستند می‌کنند. تلاش برای اخراج به دنبال محدودیت‌های گسترده‌تر مهاجرتی که در دوران ریاست جمهوری دونالد ترامپ اعمال شده بود، صورت می‌گیرد."
-   ],
-   "title_ar": "حكومة طالبان تبدي قلقها إزاء خطط الولايات المتحدة للترحيل",
-   "summary_ar": "أبدت سلطات طالبان في أفغانستان قلقها الشديد إزاء التقارير التي تتحدث عن خطط أمريكية لترحيل مهاجرين أفغان عبر باكستان.",
-   "body_ar": [
-    "تشير التقارير إلى أن أكثر من 150 أفغانياً في الولايات المتحدة، بما في ذلك أقارب لأشخاص ساعدوا القوات الأمريكية قبل الانسحاب في عام 2021، قد يواجهون الترحيل. وذكر متحدث باسم وزارة الخارجية أن الحكومة تنظر إلى الخطط بقلق بالغ، بينما تحذر مجموعات حقوقية من أن إعادة الحلفاء السابقين إلى المنطقة قد تعريض حياتهم للخطر.",
-    "على الرغم من أن إدارة طالبان أعلنت عفوًا عامًا ووعدت بعودة آمنة، إلا أن الهيئات الدولية تواصل توثيق حالات الانتهاكات والاحتجاز. يأتي دفع الترحيل في أعقاب قيود الهجرة الأوسع التي نفذت في عهد إدارة الرئيس الأمريكي دونالد ترامب."
    ]
   },
   {
@@ -575,67 +790,6 @@
    ]
   },
   {
-   "id": "079dcfa45f50",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
-   "date": "2026-11-03T02:15:39Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
-   "title_en": "Thousands displaced as homes are bulldozed in India’s Assam state",
-   "summary_en": "Hundreds of homes have been demolished in the Dhubri district of India's Assam state as part of a government eviction campaign. Local media reported that the operation has displaced around 4,000 people, mostly Bengali-speaking Muslims.",
-   "body_en": [
-    "The demolitions took place in the Dhubri district of Assam, targeting families the government states do not legally live in the area.",
-    "According to local media, the vast majority of the approximately 4,000 displaced residents belong to the Bengali-speaking Muslim community."
-   ],
-   "title_fa": "آوارگی هزاران نفر به دنبال تخریب خانه‌ها در ایالت آسام هند",
-   "summary_fa": "صدها خانه در منطقه دوبری در ایالت آسام در شمال شرقی هند به عنوان بخشی از کمپین تخلیه دولت تخریب شد. رسانه‌های محلی گزارش دادند که این عملیات حدود ۴۰۰۰ نفر را که بیشترشان مسلمانان بنگالی‌زبان بودند، آواره کرده است.",
-   "body_fa": [
-    "این تخریب‌ها در منطقه دوبری آسام رخ داد و خانواده‌هایی را هدف قرار داد که به گفته دولت به‌طور قانونی در این منطقه زندگی نمی‌کنند.",
-    "به گزارش رسانه‌های محلی، اکثریت قریب به اتفاق حدود ۴۰۰۰ ساکن آواره‌شده متعلق به جامعه مسلمانان بنگالی‌زبان هستند."
-   ],
-   "title_ar": "نزوح الآلاف جراء هدم المنازل في ولاية آسام الهندية",
-   "summary_ar": "هدمت مئات المنازل في منطقة دھوبری بولاية آسام في شمال شرق الهند كجزء من حملة إخلاء حكومية. وأفادت وسائل إعلام محلية أن العملية أدت إلى نزوح نحو 4000 شخص، معظمهم من المسلمين الناطقين بالبنغالية.",
-   "body_ar": [
-    "حدثت عمليات الهدم في منطقة دھوبری بولاية آسام، مستهدفة العائلات التي تقول الحكومة إنها لا تعيش بشكل قانوني في المنطقة.",
-    "وفقاً لوسائل إعلام محلية، فإن الغالبية العظمى من السكان النازحين البالغ عددهم نحو 4000 شخص ينتمون إلى مجتمع المسلمين الناطقين بالبنغالية."
-   ]
-  },
-  {
-   "id": "62545b1fbbcf",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/show-courage-and-end-netanyahus-government-tibi-urges-israeli-opposition",
-   "date": "2026-11-03T00:43:06Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "'Show courage' and end Netanyahu's government, Tibi urges Israeli opposition leader",
-   "title_en": "'Show courage' and end Netanyahu's government, Tibi urges Israeli opposition leader",
-   "summary_en": "Palestinian lawmaker Ahmad Tibi has called on Israeli opposition figure Gadi Eisenkot to display political courage by cooperating with Arab parties to topple Prime Minister Benjamin Netanyahu’s administration.",
-   "body_en": [
-    "In an interview for the David Hearst Podcast, Tibi argued that there is no democratic rationale preventing cooperation with Palestinian representatives in the Knesset. He stated his hope that Eisenkot would take the initiative to form a minority government that would immediately remove Netanyahu from power.",
-    "Tibi noted that Palestinian-led parties hold a combined 19 seats in the Knesset, making them essential for either a Netanyahu-led or an Eisenkot-led bloc to achieve a 61-seat majority."
-   ],
-   "title_fa": "درخواست الطیبی از رهبر اپوزیسیون اسرائیل: «شجاعت به خرج دهید» و دولت نتانیاهو را سرنگون کنید",
-   "summary_fa": "احمد طیبی، قانونگذار فلسطینی، از گادی آیزنکوت، چهره اپوزیسیون اسرائیل، خواست تا با همکاری با حزب‌های عربی و نشان دادن شجاعت سیاسی، دولت بنیامین نتانیاهو را سرنگون کند.",
-   "body_fa": [
-    "الطیبی در گفتگو با پادکست دیوید هرست استدلال کرد که هیچ توجیه دموکراتیکی برای رد همکاری با نمایندگان فلسطینی در کنست وجود ندارد. وی ابراز امیدواری کرد که آیزنکوت ابتکار عمل را برای تشکیل یک اقلیت دولتی به دست گیرد تا نتانیاهو بلافاصله از قدرت برکنار شود.",
-    "الطیبی خاطرنشان کرد که حزب‌های به رهبری فلسطینیان در مجموع ۱۹ کرسی در کنست در اختیار دارند که این امر آن‌ها را برای دستیابی هر یک از بلوک‌های به رهبری نتانیاهو یا آیزنکوت به اکثریت ۶۱ کرسی حیاتی می‌سازد."
-   ],
-   "title_ar": "الطيبي يحث زعيم المعارضة الإسرائيلية على إبداء «الشجاعة» والإطاحة بحكومة نتنياهو",
-   "summary_ar": "دعا البرلماني الفلسطيني أحمد الطيبي شخصية المعارضة الإسرائيلية غادي آيزنكوت إلى إبداء الشجاعة السياسية والتعاون مع الأحزاب العربية للإطاحة بحكومة رئيس الوزراء بنيامين نتنياهو.",
-   "body_ar": [
-    "أكد الطيبي، في مقابلة مع بودكاست ديفيد هيرست، أنه لا يوجد مبرر ديمقراطي لاستبعاد التعاون مع الممثلين الفلسطينيين في الكنيست. وأعرب عن أمله في أن يتشجع آيزنكوت للمضي قدماً في تشكيل حكومة أقلية تنهي حكم نتنياهو على الفور.",
-    "وأشار الطيبي إلى أن الأحزاب العربية تشغل مجتمعة 19 مقعداً في الكنيست، مما يجعلها ضرورية لأي من المعسكرين، سواء بقيادة نتنياهو أو آيزنكوت، لتحقيق أغلبية الـ 61 مقعداً."
-   ]
-  },
-  {
    "id": "89f5fb10fdf6",
    "lang": "fa",
    "source": "BBC Persian",
@@ -690,36 +844,6 @@
    "summary_ar": "أعلنت تهران أن على الولايات المتحدة رفع حصارها البحري وتلبية مطالبها بالكامل قبل التوصل إلى أي اتفاق.",
    "body_ar": [
     "قالت تهران إنه يجب على الولايات المتحدة رفع حصارها البحري وتلبية مطالبها بالكامل قبل التوصل إلى أي اتفاق."
-   ]
-  },
-  {
-   "id": "3f5f6e21578f",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-   "date": "2026-11-02T23:41:18Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-   "title_en": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-   "summary_en": "Asia-Pacific governments and businesses are closely watching the US midterm elections amid hopes for changes to trade policies and the ongoing war on Iran.",
-   "body_en": [
-    "The region has been hit hard by the energy shock resulting from the US and Israel's war on Iran, which led to choked oil supplies through the Strait of Hormuz and soaring fuel costs. In addition to the conflict, sweeping US tariffs implemented by Donald Trump's administration have severely impacted Asian economies.",
-    "While analysts believe that a potential Democratic takeover of Congress could lead to increased oversight and investigations into the conflict, it is unlikely to fundamentally alter trade policies or force an end to the war due to presidential veto powers."
-   ],
-   "title_fa": "جنگ، تعرفه‌ها و چین: میان‌دوره‌ای‌های ایالات متحده برای آسیا-اقیانوسیه چه معنایی دارد؟",
-   "summary_fa": "دولت‌ها و کسب‌وکارها در منطقه آسیا-اقیانوسیه در سایه امید به تغییر در سیاست‌های تجاری و جنگ جاری علیه ایران، انتخابات میان‌دوره‌ای ایالات متحده را به دقت دنبال می‌کنند.",
-   "body_fa": [
-    "این منطقه به شدت تحت تأثیر شوک انرژی ناشی از جنگ ایالات متحده و اسرائیل علیه ایران قرار گرفته است که به مسدود شدن عرضه نفت در تنگه هرمز و افزایش هزینه‌های سوخت منجر شد. علاوه بر این konflikt، تعرفه‌های گسترده اعمال‌شده توسط دولت دونالد ترامپ اقتصادهای آسیایی را به شدت تحت تأثیر قرار داده است.",
-    "در حالی که تحلیلگران معتقدند تسلط احتمالی دموکرات‌ها بر کنگره می‌تواند به نظارت بیشتر و تحقیقات درباره این درگیری منجر شود، اما به دلیل اختیارات وتوی رئیس‌جمهور بعید است سیاست‌های تجاری را به طور اساسی تغییر دهد یا به جنگ پایان دهد."
-   ],
-   "title_ar": "الحرب والرسوم الجمركية والصين: ماذا تعني انتخابات التجديد النصفي الأمريكية لأفريقيا وآسيا والمحيط الهادئ؟",
-   "summary_ar": "تتابع الحكومات والشركات في منطقة آسيا والمحيط الهادئ انتخابات التجديد النصفي الأمريكية عن كثب وسط آمال بتغيير سياسات التجارة والحرب المستمرة على إيران.",
-   "body_ar": [
-    "تأثرت المنطقة بشدة جراء صدمة الطاقة الناتجة عن الحرب الأمريكية الإسرائيلية على إيران، مما أدى إلى تقليص إمدادات النفط عبر مضيق هرمز وارتفاع أسعار الوقود. وإلى جانب النزاع، أثرت الرسوم الجمركية الواسعة التي فرضتها إدارة دونالد ترامب سلباً على الاقتصادات الآسيوية.",
-    "وبينما يرى المحللون أن سيطرة محتملة للديمقراطيين على الكونغرس قد تؤدي إلى زيادة الرقابة والتحقيقات بشأن النزاع، فإنه من غير المرجح أن تغير السياسات التجارية بشكل جذري أو تجبر على إنهاء الحرب نظراً لصلاحيات الفيتو الرئاسية."
    ]
   },
   {
