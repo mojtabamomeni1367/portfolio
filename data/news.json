@@ -1,7 +1,94 @@
 {
- "updated": "2026-11-04T07:34:50Z",
- "count": 384,
+ "updated": "2026-11-04T10:24:58Z",
+ "count": 387,
  "items": [
+  {
+   "id": "753662e8e932",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042071/pakistan-continuing-efforts-for-peace-in-middle-east-as-before-pm-shehbaz",
+   "date": "2026-11-04T10:02:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz",
+   "title_en": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz",
+   "summary_en": "Pakistani Prime Minister Shehbaz Sharif announced at a cabinet meeting that Pakistan is continuing its diplomatic engagements to help restore peace in the Middle East. He noted that global fuel prices have surged due to ongoing instability in the region.",
+   "body_en": [
+    "During his address, Prime Minister Shehbaz cited Pakistan's recent interactions with Tehran and other regional stakeholders, as well as actions taken under the Makkah Joint Defence Agreement. He also highlighted domestic steps to mitigate rising fuel costs, noting that the petroleum minister negotiated with local refineries to absorb price hikes instead of passing a planned Rs15 increase to consumers."
+   ],
+   "title_fa": "نخست‌وزیر شهباز: پاکستان مانند گذشته به تلاش‌های خود برای صلح در خاورمیانه ادامه می‌دهد",
+   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در جلسه هیئت دولت اعلام کرد که پاکستان همچنان به رایزنی‌های دیپلماتیک خود برای اعاده صلح در خاورمیانه ادامه می‌دهد. وی اشاره کرد که قیمت‌های جهانی سوخت به دلیل ناآرامی‌ها در منطقه به شدت افزایش یافته است.",
+   "body_fa": [
+    "نخست‌وزیر شهباز در سخنان خود به تعاملات اخیر پاکستان با تهران و دیگر بازیگران منطقه‌ای و همچنین اقدامات صورت‌گرفته در قالب موافقت‌نامه دفاعی مشترک مکه اشاره کرد. وی همچنین به اقدامات داخلی برای کنترل هزینه‌های سوخت پرداخت و گفت وزیر نفت با پالایشگاه‌ها توافق کرده تا افزایش قیمت‌ها را تحکیم کنند و از تحمیل افزایش ۱۵ روپیه‌ای به مصرف‌کنندگان جلوگیری شود."
+   ],
+   "title_ar": "رئيس الوزراء شهباز: پاکستان تواصل جهودها لتحقيق السلام في الشرق الأوسط كالمعتاد",
+   "summary_ar": "أعلن رئيس الوزراء الباكستاني شهباز شريف خلال اجتماع لمجلس الوزراء أن بلاده تواصل جهودها الدبلوماسية لاستعادة السلام في الشرق الأوسط. وأشار إلى أن أسعار النفط العالمية ارتفعت بشكل كبير بسبب عدم الاستقرار في المنطقة.",
+   "body_ar": [
+    "وأشار رئيس الوزراء شهباز في كلمته إلى اتصالات پاکستان الأخيرة مع تهران وأطراف إقليمية أخرى، بالإضافة إلى الجهود المبذولة في إطار اتفاقية مكة للدفاع المشترك. كما تطرق إلى التدابير المحلية للحد من ارتفاع أسعار الوقود، مشيراً إلى أن وزير البترول اتفق مع المكررات على تحمل زيادة الأسعار بدلاً من فرض زيادة قدرها 15 روبية على المستهلكين."
+   ]
+  },
+  {
+   "id": "bb6c6d32c132",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+   "date": "2026-11-04T09:16:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+   "title_en": "Who determines Iran’s fighting and negotiating position amid US threats?",
+   "summary_en": "Iranian President Masoud Pezeshkian stated that Supreme Leader Mojtaba Khamenei granted his government specific authorities regarding negotiations with the United States amid heightening regional tensions. However, key decision-making on national security and war efforts remains heavily driven by military commanders and the Supreme National Security Council.",
+   "body_en": [
+    "Pezeshkian's remarks follow mediation attempts by countries like Qatar and Pakistan to prevent further escalation after US and Israeli strikes on February 28 killed former Supreme Leader Ali Khamenei and other officials. Since the outbreak of conflict, power inside Iran has consolidated further around Islamic Revolutionary Guard Corps (IRGC) commanders and security officials. Analysts note that any durable agreement must have the approval of Iran's military and security leadership.",
+    "While President Pezeshkian heads the Supreme National Security Council, its secretary, former IRGC commander Mohsen Rezaei, has assumed a key coordinating role and recently received a letter directly from US Vice President JD Vance. Decision-making involves institutions including the supreme leader's office and the security council, with Iranian officials seeking commitments from Washington to end the conflict and manage maritime access through the Strait of Hormuz."
+   ],
+   "title_fa": "چه کسی موضع جنگی و مذاکراتی ایران را در میان تهدیدهای آمریکا تعیین می‌کند؟",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که مجتبی خامنه‌ای، رهبر جمهوری اسلامی، اختیارات مشخصی را در خصوص مذاکرات با آمریکا به دولت او واگذار کرده است. با این حال، تصمیم‌گیری‌های کلیدی درباره امنیت ملی و جنگ همچنان عمدتاً در اختیار فرماندهان نظامی و شورای عالی امنیت ملی قرار دارد.",
+   "body_fa": [
+    "اظهارات پزشکیان پس از تلاش‌های میانجی‌گرانه کشورهایی مانند قطر و پاکستان برای جلوگیری از تشدید درگیری‌ها صورت می‌گیرد؛ درگیری‌هایی که پس از حملات ۲۸ فوریه آمریکا و اسرائیل به کشته شدن علی خامنه‌ای، رهبر پیشین، و دیگر مقامات انجامید. از زمان آغاز جنگ، موازنه قدرت در ایران بیش از پیش به سمت فرماندهان سپاه پاسداران و مقامات امنیتی سنگینی می‌کند و تحلیل‌گران تاکید دارند که هرگونه توافق باید مورد تایید نهادهای نظامی-امنیتی باشد.",
+    "اگرچه مسعود پزشکیان رئیس شورای عالی امنیت ملی است، محسن رضایی، دبیر این شورا و فرمانده سابق سپاه، نقش محوری را در هماهنگی‌ها بر عهده گرفته و اخیراً نامه‌ای مستقیم از جیه دی فانس، معاون رئیس‌جمهور آمریکا، دریافت کرده است. فرایند تصمیم‌گیری شامل دفتر رهبری و شورای عالی امنیت ملی است و مقامات ایرانی در پی دریافت ضمانت‌هایی از واشنگتن برای پایان جنگ و بازگشایی مسیرهای navigation در تنگه هرمز هستند."
+   ],
+   "title_ar": "من يحدد موقف إيران في القتال والمفاوضات وسط التهديدات الأمريكية؟",
+   "summary_ar": "أعلن الرئيس الإيراني مسعود بزشكيان أن المرشد الأعلى مجتبى خامنئي منح حكومته \"صلاحيات محددة\" فيما يتعلق بالمفاوضات مع الولايات المتحدة وسط تصاعد التوترات. ومع ذلك، يظل اتخاذ القرارات الرئيسية بشأن الأمن القومي والحرب بيد القادة العسكريين والمجلس الأعلى للأمن القومي.",
+   "body_ar": [
+    "تأتي تصريحات بزشكيان عقب جهود وساطة من قطر وباكستان لمنع التصعيد بعد ضربات أمريكية وإسرائيلية في 28 شباط/فبراير أسفرت عن مقتل المرشد الأعلى السابق علي خامنئي ومسؤولين آخرين. ومنذ اندلاع الصراع، تركزت السلطة داخل إيران بشكل أكبر بيد قادة الحرس الثوري والمسؤولين الأمنيين، وأكد محللون أن أي اتفاق يستلزم موافقة المؤسسة العسكرية والأمنية.",
+    "ورغم أن الرئيس بزشكيان يرأس المجلس الأعلى للأمن القومي، إلا أن أمينه محسن رضائي، القائد السابق للحرس الثوري، بات يلعب دوراً مركزياً في التنسيق، حيث تلقى مؤخراً رسالة مباشرة من نائب الرئيس الأمريكي جيه دي فانس. وتشارك مؤسسات عدة مثل مكتب المرشد والمجلس الأعلى للأمن القومي في اتخاذ القرار، بينما تسعى إيران للحصول على التزامات من واشنطن لإنهاء الحرب وتنظيم الحركة في مضيق هرمز."
+   ]
+  },
+  {
+   "id": "8e713eb74b28",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042064/israel-election-commission-rejects-netanyahu-charges-of-fraud",
+   "date": "2026-11-04T08:27:43Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel election commission rejects Netanyahu charges of fraud",
+   "title_en": "Israel election commission rejects Netanyahu charges of fraud",
+   "summary_en": "Israel's Central Elections Committee has rejected allegations of election fraud promoted by Prime Minister Benjamin Netanyahu against Arab-majority parties. The electoral body confirmed that an audit of over 9,000 polling stations showed the published results accurately reflect voter intent.",
+   "body_en": [
+    "Following an audit triggered by complaints, the committee stated there was no evidence of harm to the integrity of the October 27 election. Netanyahu had previously accused Arab-majority factions of fraud, claiming they received funds from Qatar, while Attorney General Gali Baharav-Miara stated she would not interrogate anyone without concrete evidence. Netanyahu's Likud party criticized the attorney general, whereas opposition figure Gadi Eisenkot accused Likud of undermining democracy.",
+    "The development comes as President Isaac Herzog receives the official results to decide whether to task Netanyahu or Eisenkot with forming a government. Neither leader holds a clear majority in the 120-seat parliament, with Netanyahu's coalition commanding 53 seats and Eisenkot's bloc holding 48, making the 19 seats won by Arab-majority parties a potential key to determining the next leadership."
+   ],
+   "title_fa": "کمیسیون انتخابات اسرائیل اتهامات تقلب مطرح‌شده توسط نتانیاهو را رد کرد",
+   "summary_fa": "کمیسیون مرکزی انتخابات اسرائیل ادعاهای مطرح‌شده توسط بنیامین نتانیاهو، نخست‌وزیر، مبنی بر تقلب احزاب عربی را رد کرد. این نهاد انتخاباتی پس از بازرسی از بیش از ۹ هزار شعبه اخذ رای تاکید کرد که نتایج اعلام‌شده کاملاً بازگوکننده اراده رای‌دهندگان است.",
+   "body_fa": [
+    "در پی بازرسی‌های انجام‌شده پس از دریافت شکایت‌ها، کمیسیون اعلام کرد هیچ یافته‌ای مبنی بر خدشه به سلامت انتخابات ۲۷ اکتبر وجود ندارد. نتانیاهو پیشتر احزاب عربی را به تقلب و دریافت کمک مالی از قطر متهم کرده بود، در حالی که گالی بهاراو-میارا، دادستان کل، تاکید کرد بدون مدرک از کسی بازجویی نخواهد شد. حزب لیکود به تندی از دادستان کل انتقاد کرد، اما گادی آیزنکوت، از چهره‌های اپوزیسیون، لیکود را به صدمه زدن به دموکراسی متهم ساخت.",
+    "این تحولات در حالی رخ می‌دهد که اسحاق هرتزوگ، رئیس‌جمهور، برای تصمیم‌گیری درباره واگذاری ماموریت تشکیل کابینه به نتانیاهو یا آیزنکوت، نتایج رسمی را دریافت می‌کند. هیچ‌یک از این دو رقیب اکثریت ۶۱ کرسی در پارلمان ۱۲۰ نفره را در اختیار ندارند؛ ائتلاف نتانیاهو ۵۳ کرسی و بلوک آیزنکوت ۴۸ کرسی دارند، که این امر ۱۹ کرسی احزاب عربی را به عاملی تعیین‌کننده تبدیل می‌کند."
+   ],
+   "title_ar": "لجنة الانتخابات الإسرائيلية ترفض اتهامات التزوير التي وجهها نتنياهو",
+   "summary_ar": "رفضت لجنة الانتخابات المركزية الإسرائيلية ادعاءات التزوير التي روج لها رئيس الوزراء بنيامين نتنياهو ضد الأحزاب ذات الأغلبية العربية. وأكدت اللجنة أن مراجعة أكثر من 9000 مركز اقتراع أظهرت أن النتائج المعلنة تعكس بدقة إرادة الناخبين.",
+   "body_ar": [
+    "عقب مراجعة أجريت بناءً على شكاوى، أعلنت اللجنة عدم وجود أي أدلة تشير إلى المساس بنزاهة انتخابات 27 تشرين الأول/أكتوبر. وكان بنيامين نتنياهو قد اتهم الأحزاب ذات الأغلبية العربية بالتزوير وتلقي أموال من قطر، بينما أكدت المدعية العامة غالي بهاراف ميارا أنها لن تستجوب أحداً دون أدلة. وانتقد حزب الليكود المدعية العامة، بينما اتهم غادي آيزنكوت حزب الليكود بمحاولة استهداف الديمقراطية.",
+    "تأتي هذه التطورات في وقت يتسلم فيه الرئيس يتسحاق هرتسوغ النتائج الرسمية لتحديد ما إذا كان سيكلف نتنياهو أم آيزنكوت بتشكيل الحكومة. ولا يملك أي منهما أغلبية 61 مقعداً في البرلمان المكون من 120 مقعداً، حيث يملك معسكر نتنياهو 53 مقعداً مقابل 48 مقعداً لكتلة آيزنكوت، مما يجعل المقاعد الـ19 التي حازتها الأحزاب العربية حاسمة في تحديد الحكومة المقبلة."
+   ]
+  },
   {
    "id": "cf064f177920",
    "lang": "en",
