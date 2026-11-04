@@ -1,35 +1,279 @@
 {
- "updated": "2026-11-04T16:17:22Z",
- "count": 397,
+ "updated": "2026-11-04T19:17:07Z",
+ "count": 400,
  "items": [
   {
-   "id": "8719f8b1e2a3",
+   "id": "da67dddf13b2",
    "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042079/38-detained-in-karachi-as-police-baton-charge-protesters-headed-towards-cm-house",
-   "date": "2026-11-04T14:06:59Z",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-judge-temporarily-blocks-deportation-of-detained-afghans-to-afghanistan-or-pakistan/article71667117.ece",
+   "date": "2026-11-04T18:04:37Z",
    "countries": [
+    "AFG",
     "PAK"
    ],
-   "score": 5,
-   "title": "38 detained in Karachi as police baton-charge protesters headed towards CM House",
-   "title_en": "38 detained in Karachi as police baton-charge protesters headed towards CM House",
-   "summary_en": "Police in Karachi detained 38 protesting teachers and used tear gas and batons to disperse a march attempting to reach the Chief Minister House.",
+   "score": 7,
+   "title": "U.S. judge temporarily blocks deportation of detained Afghans to Afghanistan or Pakistan",
+   "title_en": "U.S. judge temporarily blocks deportation of detained Afghans to Afghanistan or Pakistan",
+   "summary_en": "A federal judge in New York temporarily blocked the Trump administration from deporting detained Afghan nationals to Afghanistan or Pakistan, following warnings from lawmakers and advocates that their lives would be in grave danger.",
    "body_en": [
-    "Hundreds of teachers gathered outside the Karachi Press Club on the call of the All Sindh Primary Teachers Association, demanding changes to service structures and the delegation of transfer powers to district officers. As the demonstrators marched toward the Red Zone and breached police barricades near Governor House Road, authorities intervened with force.",
-    "South Deputy Inspector General Syed Asad Raza stated that negotiations had failed after protesters turned violent and threw stones, injuring an official. Meanwhile, a representative of the teachers' association defended the protest, citing unfulfilled government promises regarding pay scales and policies from previous years."
+    "The court order, issued by Judge Valerie Caproni and expiring on Saturday, came after the government stated that Immigration and Customs Enforcement had no immediate deportation flights scheduled to those countries. Advocates and dozens of members of Congress had earlier warned that returnees would face severe persecution and torture by the Taliban.",
+    "Immigrant rights organizations and legal representatives noted that over 80 detained Afghans, including former military allies and vulnerable minorities, had been notified of potential deportations before the intervention."
    ],
-   "title_fa": "بازداشت ۳۸ نفر در کراچی در پی یورش پلیس با باتوم به معترضان به سمت دفتر سروزیر",
-   "summary_fa": "پلیس کراچی ۳۸ معلم معترض را بازداشت کرد و برای متفرق کردن راهپیمایی آن‌ها به سمت دفتر سروزیر، از گاز اشک‌آور و باتوم استفاده کرد.",
+   "title_fa": "قناد آمریکایی اخراج موقت افغان‌های بازداشتی به افغانستان یا پاکستان را متوقف کرد",
+   "summary_fa": "یک قناد فدرال در نیویورک مانع از اقدام دولت ترامپ برای اخراج اتباع بازداشتی افغان به افغانستان یا پاکستان شد؛ این تصمیم پس از هشدار قانون‌گذاران و مدافعان حقوق مهاجران اتخاذ شد که زندگی آن‌ها را در خطر جدی می‌دانند.",
    "body_fa": [
-    "صدها معلم به فراخوان انجمن معلمان ابتدایی سند در مقابل باشگاه خبرنگاران کراچی تجمع کرده و خواستار تغییر در ساختارهای خدماتی و واگذاری اختیارات نقل و انتقالات به مقامات استانی شدند. هنگامی که تظاهرکنندگان به سمت منطقه قرمز حرکت کرده و موانع پلیس را شکستند، نیروهای امنیتی با زور مداخله کردند.",
-    "سید اسد رضا، معاون فرمانده پلیس منطقه جنوب، اظهار داشت که پس از خشونت معترضان و پرتاب سنگ که منجر به زخمی شدن یک مامور شد، مذاکرات شکست خورد. در همین حال، یکی از نمایندگان انجمن معلمان از اعتراضات دفاع کرد و به وعده‌های برآورده نشده دولت درباره مقیاس حقوق و سیاست‌های سال‌های گذشته اشاره کرد."
+    "این حکم قضایی که توسط والری کاپرونی صادر شده و تا روز شنبه اعتبار دارد، پس از آن صادر شد که دولت اعلام کرد اداره مهاجرت پرواز فوری برای اخراج به این کشورها ندارد. مدافعان و ده‌ها تن از اعضای کنگره پیش‌تر هشدار داده بودند که بازگشت‌کنندگان با آزار و شکنجه شدید از سوی طالبان روبه‌رو خواهند شد.",
+    "سازمان‌های مدافع حقوق مهاجران و نمایندگان حقوقی خاطرنشان کردند که بیش از ۸۰ افغان بازداشتی، از جمله متحدان نظامی سابق و اقلیت‌های آسیب‌پذیر، پیش از این مداخله از احتمال اخراج خود مطلع شده بودند."
    ],
-   "title_ar": "احتجاز 38 شخصاً في كراتشي إثر استخدام الشرطة الهراوات ضد محتجين متوجهين إلى مكتب رئيس الوزراء الإقليمي",
-   "summary_ar": "احتجبت شرطة كراتشي 38 معلماً محتجا واستخدمت الغاز المسيل للدموع والهراوات لتفريق مسيرة كانت محاولة الوصول إلى مكتب رئيس الوزراء الإقليمي.",
+   "title_ar": "قاضٍ أمريكي يعلق مؤقتاً ترحيل أفغان محتجزين إلى أفغانستان أو باكستان",
+   "summary_ar": "علق قاضٍ فدرالي في نيويورك مؤقتاً خطط إدارة ترامب لترحيل رعايا أفغان محتجزين إلى أفغانستان أو باكستان، وذلك في أعقاب تحذيرات من مشرعين ونشطاء من أن حياتهم ستكون في خطر داهم.",
    "body_ar": [
-    "تجمع مئات المعلمين خارج نادي الصحافة في كراتشي بدعوة من جمعية معلمي المرحلة الابتدائية في سند، مطالبين بتغييرات في هيكل الخدمة وتفويض صلاحيات النقل لمسؤولي المقاطعات. وعندما تقدم المتظاهرون نحو المنطقة الحمراء واجتازوا حواجز الشرطة، تدخلت السلطات بالقوة.",
-    "صرح نائب المفتش العام لمنطقة الجنوب سيد أسد رضا بأن المفاوضات فشلت بعد أن أصبح المتظاهرون عنيفين وألقوا الحجارة، مما أدى إلى إصابة مسؤول. وفي الوقت نفسه، دافع ممثل عن جمعية المعلمين عن الاحتجاج، مشيراً إلى وعود حكومية غير مנוفة بشأن جداول الرواتب."
+    "وجاء الأمر القضائي، الصادر عن القاضية فاليري كابروني والذي ينتهي يوم السبت، بعد أن أفادت الحكومة بأن وكالة إنفاذ قوانين الهجرة والجمارك ليس لديها رحلات ترحيل فورية مجدولة إلى تلك الدول. وكان نشطاء وعشرات من أعضاء الكونغرس قد حذروا في السابق من أن العائدين سيواجهون اضطهاداً شديداً وتعذيباً.",
+    "وأشارت منظمات حقوق المهاجرين وممثلو الدفاع القانوني إلى أن أكثر من 80 أفغانياً محتجزاً، من بينهم حلفاء عسكريون سابقون وأقليات ضعيفة، قد أُبلغوا باحتمال ترحيلهم قبل صدور هذا القرار."
+   ]
+  },
+  {
+   "id": "6b7e925fa3bb",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-inflicted-defeat-trump-security-chief-says-after-midterms",
+   "date": "2026-11-04T17:21:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran inflicted 'defeat' on Trump, security chief says",
+   "title_en": "Iran inflicted 'defeat' on Trump, security chief says",
+   "summary_en": "Iran's top security chief stated that Tehran inflicted a political defeat on US President Donald Trump following significant Republican losses in the midterm elections.",
+   "body_en": [
+    "Mohsen Rezaei, the secretary of Iran's Supreme National Security Council, stated on X that the Iranian nation delivered a strategic defeat to Trump on the battlefield and in Hormuz, alongside a political defeat in Washington.",
+    "Rezaei added that Americans were left bearing the cost of his war, noting that anyone confronting Iran will face consequences ranging from the battlefield to their own doorstep."
+   ],
+   "title_fa": "ایران «شکست» را به ترامپ تحمیل کرد، مقام ارشد امنیتی گفت",
+   "summary_fa": "ارشدترین مقام امنیتی ایران اظهار داشت که تهران پس از شکست‌های سنگین حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای آمریکا، یک شکست سیاسی را به دونالد ترامپ تحمیل کرده است.",
+   "body_fa": [
+    "محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در شبکه اجتماعی ایکس اعلام کرد که ملت ایران شکستی استراتژیک در میدان نبرد و هرمز و شکستی سیاسی در واشنگتن به ترامپ وارد کرده است.",
+    "رضایی افزود که آمریکایی‌ها گرفتار هزینه‌های جنگ او شدند و خاطرنشان کرد هر کس با ایران درگیر شود، از میدان نبرد تا آستانه خانه خود بهای آن را پرداخت خواهد کرد."
+   ],
+   "title_ar": "إيران ألحقت \"هزيمة\" بترامب، حسبما قال مسؤول أمني بارز",
+   "summary_ar": "صرح المسؤول الأمني الأول في إيران بأن طهران ألحقت هزيمة سياسية بالرئيس الأمريكي دونالد ترامب عقب الخسائر الكبيرة التي مني بها الحزب الجمهوري في انتخابات التجديد النصفي.",
+   "body_ar": [
+    "أعلن محسن رضايي، أمين المجلس الأعلى للأمن القومي الإيراني، عبر منصة إكس أن الشعب الإيراني ألحق بترامب هزيمة استراتيجية في ساحة المعركة وفي هرمز، فضلاً عن هزيمة سياسية في واشنگتن.",
+    "وأضاف رضايي أن الأمريكيين علقوا بدفع فاتورة حربه، مشيراً إلى أن كل من يواجه إيران سيدفع الثمن بدءاً من ساحة المعركة وحتى عتبةداره."
+   ]
+  },
+  {
+   "id": "2e85b5dc04af",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-seize-eight-homes-occupied-west-bank-village-west",
+   "date": "2026-11-04T17:06:31Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli settlers seize eight homes in occupied West Bank village west of Jericho",
+   "title_en": "Israeli settlers seize eight homes in occupied West Bank village west of Jericho",
+   "summary_en": "Israeli settlers seized eight empty Palestinian homes in the West Bank village of al-Duyuk al-Tahta, west of Jericho.",
+   "body_en": [
+    "According to Wafa news, Palestinian security sources reported that settlers accompanied by their families stormed the vacant properties on Wednesday, smashed the doors, and remained inside.",
+    "In a separate development, Israeli forces also raided Jericho and its refugee camps, and soldiers reportedly ransacked the home of a Fatah secretary in Tulkarm."
+   ],
+   "title_fa": "شهرک‌نشینان اسرائیلی هشت خانه را در روستایی در کرانه باختری اشغالی در غرب اریحا تصرف کردند",
+   "summary_fa": "شهرک‌نشینان اسرائیلی هشت خانه خالی فلسطینی را در روستای الدیوک التحتا در کرانه باختری در غرب اریحا تصرف کردند.",
+   "body_fa": [
+    "به گزارش خبرگزاری وفا، منابع امنیتی فلسطینی اعلام کردند که شهرک‌نشینان به همراه خانواده‌های خود روز چهارشنبه به این خانه‌های خالی یورش برده، درهای آن‌ها را شکستند و در داخل آن‌ها ماندند.",
+    "در رویدادی دیگر، نیروهای اسرائیلی همچنین به اریحا و اردوگاه‌های آن یورش بردند و گزارش شد که سربازان خانه یکی از مقام‌های فتح را در طولکرم تفتیش و تخریب کردند."
+   ],
+   "title_ar": "مستوطنون إسرائيليون يستولون على ثمانية منازل في قرية بالضفة الغربية المحتلة غرب أريحا",
+   "summary_ar": "استولى مستوطنون إسرائيليون على ثمانية منازل فلسطينية خالية في قرية الديوك التحتا بالضفة الغربية غرب أريحا.",
+   "body_ar": [
+    "وفقاً لوكالة الأنباء الفلسطينية \"وفا\"، أفادت مصادر أمنية فلسطينية بأن مستوطنين برفقة عائلاتهم اقتحاموا المنازل الشاغرة يوم الأربعاء، وحطموا أبوابها وبقوا داخلها.",
+    "وفي تطور منفصل، اقتحمت القوات الإسرائيلية أيضاً أريحا ومخيماتها، وأفادت التقارير بأن الجنود داهموا منزل أمين سر حركة فتح في طولكرم وعاثوا فيه فساداً."
+   ]
+  },
+  {
+   "id": "342aa34252cb",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+   "date": "2026-11-04T16:50:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+   "title_en": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+   "summary_en": "Iran's first deputy parliament speaker attributed Republican losses in the US midterm elections to Washington's conflict with Iran.",
+   "body_en": [
+    "Ali Nikzad told lawmakers on Wednesday that American efforts to apply pressure on Tehran had ultimately failed following the Democratic victory in both chambers of Congress during Tuesday's elections.",
+    "The Democratic Party gained control of the House and Senate as a result of the midterm vote."
+   ],
+   "title_fa": "انتخابات میان‌دوره‌ای آمریکا: واکنش نایب رئیس مجلس ایران به ناکامی ترامپ در انتخابات",
+   "summary_fa": "نخستین نایب رئیس مجلس شورای اسلامی ایران، شکست‌های جمهوری‌خواهان در انتخابات میان‌دوره‌ای آمریکا را به جنگ واشنگتن با ایران نسبت داد.",
+   "body_fa": [
+    "علی نیکزاد روز چهارشنبه به نمایندگان مجلس گفت که تلاش‌های آمریکا برای اعمال فشار بر تهران پس از پیروزی دموکرات‌ها در هر دو مجلس کنگره در انتخابات سه‌شنبه شکست خورده است.",
+    "حزب دموکرات در نتیجه رای‌گیری میان‌دوره‌ای کنترل مجلس نمایندگان و سنا را به دست آورد."
+   ],
+   "title_ar": "انتخابات التجديد النصفي الأمريكية: نائب رئيس البرلمان الإيراني يعقب على انتكاسة ترامب الانتخابية",
+   "summary_ar": "عزا النائب الأول لرئيس البرلمان الإيراني خسائر الجمهوريين في انتخابات التجديد النصفي الأمريكية إلى حرب واشنگتن مع إيران.",
+   "body_ar": [
+    "قال علي نيكزاد للنواب يوم الأربعاء إن الجهود الأمريكية لممارسة الضغط على طهران قد فشلت في أعقاب فوز الديمقراطيين بمجلسي النيوغرس في انتخابات يوم الثلاثاء.",
+    "وقد استعاد الحزب الديمقراطي السيطرة على مجلسي النواب والشيوخ نتيجة لانتخابات التجديد النصفي."
+   ]
+  },
+  {
+   "id": "c9a34cdbab49",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-election-results-fuel-israeli-oppositions-push-remove-netanyahu",
+   "date": "2026-11-04T16:32:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "US election results fuel Israeli opposition's push to remove Netanyahu",
+   "title_en": "US election results fuel Israeli opposition's push to remove Netanyahu",
+   "summary_en": "Following the Democratic Party's victory in the US midterm elections, Israeli opposition leaders renewed calls to remove Prime Minister Benjamin Netanyahu, warning that his continued leadership endangers the country's security and global standing.",
+   "body_en": [
+    "Former prime minister Yair Lapid stated that the US election results eliminated any possibility of forming a unity government with Netanyahu, asserting on X that his remaining in office endangers security and democracy.",
+    "Yair Golan, leader of the left-wing Democrats alliance, also described Netanyahu as a threat to Israel's security, while recent reports indicated that US President Donald Trump has been pressing for a unity government that excludes extremists."
+   ],
+   "title_fa": "نتایج انتخابات آمریکا تلاش اپوزیسیون اسرائیل برای برکناری نتانیاهو را تقویت کرد",
+   "summary_fa": "به دنبال پیروزی حزب دمکرات در انتخابات میان‌دوره‌ای آمریکا، رهبران اپوزیسیون اسرائیل خواستار برکناری بنیامین نتانیاهو شدند و هشدار دادند که ادامه رهبری او امنیت و جایگاه جهانی کشور را به خطر می‌اندازد.",
+   "body_fa": [
+    "یائیر لاپید، نخست‌وزیر پیشین، اظهار داشت که نتایج انتخابات آمریکا هرگونه امکان تشکیل دولت وحدت با نتانیاهو را از بین برده است و در شبکه اجتماعی ایکس تأکید کرد که ماندن او در قدرت، امنیت و دموکراسی را به خطر می‌اندازد.",
+    "یائیر گولان، رهبر ائتلاف چپ‌گرای دموکرات‌ها، نیز نتانیاهو را تهدیدی برای امنیت اسرائیل توصیف کرد، در حالی که گزارش‌های اخیر حاکی از آن است که دونالد ترامپ، رئیس‌جمهور آمریکا، برای تشکیل دولتی فاقد افراط‌گرایان فشار می‌آورد."
+   ],
+   "title_ar": "نتائج الانتخابات الأمريكية تغذي مساعي المعارضة الإسرائيلية لإزاحة نتنياهو",
+   "summary_ar": "في أعقاب فوز الحزب الديمقراطي في الانتخابات النصفية الأمريكية، جدد قادة المعارضة الإسرائيلية الدعوات لإزاحة رئيس الوزراء بنيامين نتانياهو، محذرين من أن استمراره في القيادة يهدد أمن البلاد ومكانتها العالمية.",
+   "body_ar": [
+    "صرح رئيس الوزراء الأسبق يائير لابيد بأن نتائج الانتخابات الأمريكية ألغت أي إمكانية لتشكيل حكومة وحدة مع نتانياهو، مؤكداً على منصة إكس أن بقاءه في منصبه يهدد الأمن والديمقراطية.",
+    "ووصف يائير غولان، زعيم تحالف الديمقراطيين اليساري، نتنياهو أيضاً بأنه تهديد لأمن إسرائيل، بينما أشارت تقارير حديثة إلى أن الرئيس الأمريكي دونالد ترامب يضغط من أجل تشكيل حكومة وحدة تستبعد المتطرفين."
+   ]
+  },
+  {
+   "id": "4ab718ae5b84",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq70pd6k6n7eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T15:37:44Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "الحوثيون يعلنون استهداف مطار الرياض، وحزب الله ينفي دعمهم عسكرياً",
+   "title_en": "Houthis announce strike on Riyadh airport as Hezbollah denies military backing",
+   "summary_en": "The Houthi movement claimed responsibility for a ballistic missile attack on King Khalid International Airport in Riyadh, while Hezbollah denied Yemeni government accusations of providing military experts to the group.",
+   "body_en": [
+    "Houthi military spokesman Yahya Saree stated that the group targeted the Saudi capital's airport with a ballistic missile. Meanwhile, the UN warned of a worsening humanitarian crisis in Taiz, noting that blocked roads and fighting have cut off food, medical supplies, and maternal healthcare.",
+    "Politically, the internationally recognized Yemeni government alleged that Iranian and Hezbollah experts are aiding Houthi military operations, claims that Hezbollah subsequently denied."
+   ],
+   "title_fa": "حوثی‌ها از حمله به فرودگاه ریاض خبر دادند و حزب‌الله حمایت نظامی از آن‌ها را رد کرد",
+   "summary_fa": "جنبش انصارالله حوثی مسئولیت حمله موشکی بالستیک به فرودگاه بین‌المللی ملک خالد در ریاض را بر عهده گرفت، در حالی که حزب‌الله اهای دولت یمن مبنی بر اعزام کارشناسان نظامی به این گروه را رد کرد.",
+   "body_fa": [
+    "یحیی سریع، سخنگوی نظامی حوثی‌ها، اعلام کرد که این گروه فرودگاه پایتخت عربستان را با یک موشک بالستیک هدف قرار داده است. در همین حال، سازمان ملل نسبت به وخامت بحران انسانی در تعز هشدار داد و خاطرنشان کرد که مسدود بودن جاده‌ها دسترسی به غذا و ملزومات پزشکی را قطع کرده است.",
+    "در حوزه سیاسی، دولت یمن مدعی شد که کارشناسان ایرانی و حزب‌الله به عملیات نظامی حوثی‌ها کمک می‌کنند، ادعاهایی که حزب‌الله بعداً آن را رد کرد."
+   ],
+   "title_ar": "الحوثيون يعلنون استهداف مطار الرياض، وحزب الله ينفي دعمهم عسكرياً",
+   "summary_ar": "أعلنت جماعة الحوثي مسؤوليتها عن هجوم صاروخي باليستي استهدف مطار الملك خالد الدولي في الرياض، بينما نفي حزب الله اتهامات الحكومة اليمنية بتقديم خبراء عسكريين للجماعة.",
+   "body_ar": [
+    "صرح المتحدث العسكري الحوثي يحيى سريع بأن الجماعة استهدفت مطار العاصمة السعودية بصاروخ باليستي. وفي غضون ذلك، حذرت الأمم المتحدة من تفاقم الأزمة الإنسانية في تعز، مشيرة إلى أن الطرق المغلقة والقتال قطعا الإمدادات الغذائية والطبية.",
+    "وعلى الصعيد السياسي، ادعت الحكومة اليمنية المعترف بها دولياً أن خبراء إيرانيين ومن حزب الله يساعدون العمليات العسكرية للحوثيين، وهي الاتهامات التي نفاها حزب الله لاحقاً."
+   ]
+  },
+  {
+   "id": "f75b3e2ee6b9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defence-spokesperson-says-us-vote-exposes-failure-trumps-war",
+   "date": "2026-11-04T14:54:10Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Iran defence spokesperson says US vote exposes failure of Trump’s war policies",
+   "title_en": "Iran defence spokesperson says US vote exposes failure of Trump’s war policies",
+   "summary_en": "An Iranian defence spokesperson described the US midterm election results as evidence of the failure of Donald Trump and Benjamin Netanyahu's warmongering policies.",
+   "body_en": [
+    "General Reza Talaeinik, spokesperson for Iran’s Defence Ministry, wrote on social media that the outcome offers a chance to revisit the actions of global powers and renew commitments against interventionism.",
+    "He stated that the collapse of their hegemony and the steadfastness of the Iranian nation inspire free nations globally. These remarks followed a warning from Supreme Leader Ali Khamenei that Tehran cannot trust Washington despite US political shifts."
+   ],
+   "title_fa": "سخنگوی وزارت دفاع ایران: رأی‌گیری آمریکا شکست سیاست‌های جنگ‌طلبانه ترامپ را آشکار کرد",
+   "summary_fa": "سخنگوی وزارت دفاع ایران نتایج انتخابات میان‌دوره‌ای آمریکا را گواهی بر شکست سیاست‌های جنگ‌طلبانه دونالد ترامپ و بنیامین نتانیاهو دانست.",
+   "body_fa": [
+    "سرتیپ رضا طلایی‌نیک، سخنگوی وزارت دفاع ایران، در فضای مجازی نوشت که این رویداد فرصتی برای بازخوانی اقدامات قدرت‌های جهانی و تجدید عهد در برابر مداخله‌گری است.",
+    "او اظهار داشت که فروپاشی هژمونی آن‌ها و پایداری ملت ایران الهام‌بخش ملت‌های آزاده است. این اظهارات به دنبال هشدار علی خامنه‌ای، رهبر ایران، مطرح شد که تهران نمی‌تواند به واشنگتن اعتماد کند."
+   ],
+   "title_ar": "متحدث الدفاع الإيراني يقول إن الانتخابات الأمريكية تكشف فشل سياسات ترامب الحربية",
+   "summary_ar": "وصف متحدث باسم وزارة الدفاع الإيرانية نتائج الانتخابات النصفية الأمريكية بأنها دليل على فشل سياسات دونالد ترامب وبنيامین نتنياهو الحربية.",
+   "body_ar": [
+    "كتب الجنرال رضا طلائي نيك، المتحدث باسم وزارة الدفاع الإيرانية، على وسائل التواصل الاجتماعي أن النتيجة توفر فرصة لإعادة النظر في أفعال القوى العالمية وتجديد الالتزام بمقاومة التدخل.",
+    "وذكر أن انهيار هيمنتهما وصمود الشعب الإيراني يلهمان الأحرار في جميع أنحاء العالم. وجاءت هذه التصريحات بعد تحذير من القائد الأعلى علي خامنئي من أن طهران لا يمكنها الثقة بواشنطن."
+   ]
+  },
+  {
+   "id": "ed273a3df882",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+   "date": "2026-11-04T14:08:18Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+   "title_en": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+   "summary_en": "Yemeni government forces stated they advanced further into a mountain range in eastern al-Jawf province following days of clashes and air support against the Houthis.",
+   "body_en": [
+    "The armed forces reported that troops backed by airstrikes and drones stormed Houthi positions, seizing military equipment and inflicting heavy losses.",
+    "Meanwhile, a Houthi ballistic missile hit a military training camp in al-Dhalea, causing casualties, while officials and international sources reported ongoing military developments across multiple provinces."
+   ],
+   "title_fa": "نیروهای دولتی یمن از کنترل بر رشته‌کوه راهبردی الجوف خبر دادند",
+   "summary_fa": "نیروهای دولتی یمن اعلام کردند که به پیشروی خود در رشته‌کوهی در شرق استان الجوف در جریان درگیری با حوثی‌ها ادامه داده‌اند.",
+   "body_fa": [
+    "نیروهای مسلح گزارش دادند که با پشتیبانی حملات هوایی و پهپادی به مواضع حوثی‌ها یورش برده و تجهیزات نظامی را ضبط کرده‌اند.",
+    "در همین حال، یک موشک بالستیک شلیک‌شده از سوی حوثی‌ها به یک اردوگاه نظامی در الضالع اصابت کرد و تلفاتی برجای گذاشت."
+   ],
+   "title_ar": "القوات الحكومية اليمنية تعلن السيطرة على سلسلة جبال الجوف الاستراتيجية",
+   "summary_ar": "أعلنت القوات الحكومية اليمنية أنها تقدمت بشكل أكبر في سلسلة جبال شرق محافظة الجوف بعد اشتباكات ودعم جوي ضد الحوثيين.",
+   "body_ar": [
+    "ذكرت القوات المسلحة أن قوات مدعومة بغارات جوية وطائرات مسيرة اقتحمت مواقع الحوثيين واستولت على معدات عسكرية.",
+    "وفي الوقت ذاته، أصار صاروخ باليستي حوثي مخيماً للتدريب العسكري في الضالع مما أوقع إصابات، وسط تقارير عن تطورات ميدانية في عدة محافظات."
+   ]
+  },
+  {
+   "id": "cc4a4a4d0e80",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+   "date": "2026-11-04T14:07:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+   "title_en": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+   "summary_en": "Iran displayed a prominent banner in Tehran bearing an anti-Trump slogan following US midterm election results, while debates continue over potential American military responses.",
+   "body_en": [
+    "The billboard in Enqelab Square depicted Donald Trump behind bars alongside messages celebrating the US election outcome as a blow to Washington's policies.",
+    "Iranian officials welcomed the results as a sign of resistance, while international observers discussed whether the political shift might prompt aggressive reactions from Washington."
+   ],
+   "title_fa": "ایران از بنر «ترامپ را خواهیم کشت» رونمایی کرد؛ اما رئیس‌جمهور آمریکا ممکن است به از سرگیری بمباران وسوسه شود",
+   "summary_fa": "ایران پس از نتایج انتخابات میان‌دوره‌ای آمریکا، بنر بزرگی با شعار ضد ترامپ در تهران به نمایش گذاشت و بحث‌ها درباره واکنش‌های نظامی احتمالی آمریکا ادامه دارد.",
+   "body_fa": [
+    "این بیلبورد در میدان انقلاب دونالد ترامپ را پشت میله‌های زندان به همراه پیام‌هایی در جشن گرفتن نتیجه انتخابات آمریکا به عنوان ضربه‌ای به سیاست‌های واشنگتن به تصویر کشید.",
+    "مقامات ایرانی از این نتایج به عنوان نشانه مقاومت استقبال کردند، در حالی که ناظران بین‌المللی درباره احتمال واکنش‌های تند از سوی واشنگتن بحث کردند."
+   ],
+   "title_ar": "إيران تكشف عن لافتة 'سنقتل ترامب' - لكن الرئيس الأمريكي قد يميل الآن لاستئناف القصف",
+   "summary_ar": "عرضت إيران لافتة بارزة في طهران تحمل شعاراً مناهضاً لترامب في أعقاب نتائج الانتخابات النصفية الأمريكية، وسط استمرار النقاشات حول ردود الفعل العسكرية المحتملة.",
+   "body_ar": [
+    "تصورت اللوحة الإعلانية في ساحة انقلاب دونالد ترامب خلف القضبان إلى جانب رسائل تحتفي بنتيجة الانتخابات الأمريكية باعتبارها ضربة لسياسات واشنگتن.",
+    "رحب المسؤولون الإيرانيون بالنتائج باعتبارها علامة على المقاومة، بينما ناقش مراقبون دوليون ما إذا كان التحول السياسي قد يدفع واشنگتن لردود فعل عدوانية."
    ]
   },
   {
@@ -61,6 +305,36 @@
    "body_ar": [
     "تواصل العائلات في غزة مواجهة صعوبات بالغة في الاستعداد لفصل الشتاء بينما تستمر إسرائيل في قصف مخيمات النازحين.",
     "في الوقت ذاته، تكتثفت العمليات الأمنية وعمليات الاعتقال في جميع أنحاء الضفة الغربية المحتلة، وفقاً للتقارير."
+   ]
+  },
+  {
+   "id": "0e9c205bcc44",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+   "date": "2026-11-04T13:26:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+   "title_en": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+   "summary_en": "Iran's Supreme Leader Mojtaba Khamenei stated that expecting a shift in US policy following midterm setbacks for President Donald Trump is a serious mistake, warning that renewed attacks would trigger a massive response.",
+   "body_en": [
+    "In a written statement, Khamenei asserted that hoping for behavioral changes in the hegemonic system through factional shifts or by offering concessions is delusional. He also warned that Iran's control over the Strait of Hormuz has shattered American invincibility.",
+    "While other Iranian officials reacted to the US election results with varying tones, analysts warned that President Trump might become more reckless and escalate tensions during the transition period."
+   ],
+   "title_fa": "خامنه‌ای هشدار داد که شکست ترامپ در انتخابات خصومت آمریکا را پایان نمی‌دهد",
+   "summary_fa": "مجتبی خامنه‌ای، رهبر ایران، اظهار داشت که انتظار تغییر در سیاست ایالات متحده پس از ناکامی‌های میان‌دوره‌ای دونالد ترامپ اشتباهی جدی است و هشدار داد که حملات مجدد پاسخ گسترده‌ای در پی خواهد داشت.",
+   "body_fa": [
+    "خامنه‌ای در بیانیه‌ای کتبی تأکید کرد که امید به تغییر رفتار نظام سلطه از طریق تحولات جناحی یا با دادن امتیاز، توهمی بیش نیست. وی همچنین هشدار داد که تسلط ایران بر تنگه هرمز اسطوره شکست‌ناپذیری آمریکا را درهم شکسته است.",
+    "در حالی که سایر مقامات ایرانی با رویکردهای متفاوتی به نتایج انتخابات آمریکا واکنش نشان دادند، تحلیلگران هشدار دادند که ممکن است دونالد ترامپ در دوره انتقال بی‌محاباتر عمل کرده و تنش‌ها را تشدید کند."
+   ],
+   "title_ar": "خامنئي يحذر من أن خسارة ترامب الانتخابية لن تنهي العداء الأمريكي",
+   "summary_ar": "صرح المرشد الإيراني مجتبى خامنئي بأن توقع حدوث تغيير في السياسة الأمريكية بعد انتكاسات الرئيس دونالد ترامب الانتخابية يعد خطأً جسيماً، محذراً من أن شن هجمات متجددة سيقابل برد واسع.",
+   "body_ar": [
+    "وفي بيان مكتوب، أكد خامنئي أن الأمل في تغيير سلوك النظام المستبد عبر التغيرات الحزبية أو تقديم التنازلات هو أمر خاطئ تماماً. وحذر أيضاً من أن سيطرة إيران على مضيق هرمز قد حطمت أسطورة التفوق الأمريكي.",
+    "وفي حين تفاعل مسؤولون إيرانيون آخرون مع نتائج الانتخابات الأمريكية بنبرات متباينة، حذر محللون من أن الرئيس ترامب قد يصبح أكثر تهوراً ويزيد من تصعيد التوترات خلال الفترة الانتقالية."
    ]
   },
   {
@@ -146,36 +420,6 @@
    "body_ar": []
   },
   {
-   "id": "26f882133684",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
-   "date": "2026-11-04T12:43:47Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 5,
-   "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-   "title_en": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-   "summary_en": "The UK Supreme Court has begun hearing a legal appeal challenging the British government's designation of the direct-action group Palestine Action as a proscribed terrorist organisation.",
-   "body_en": [
-    "Huda Ammori, cofounder of Palestine Action, is arguing that the government's ban imposes a disproportionate restriction on freedom of speech and the right to protest. Proscription under anti-terrorism laws leaves members and supporters facing potential prison sentences of up to 14 years.",
-    "Police arrested approximately 25 people protesting the ban outside the court in London, as rights groups including Amnesty International reiterated calls for the UK government to lift the proscription."
-   ],
-   "title_fa": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-   "summary_fa": "دادگاه عالی بریتانیا رسیدگی به دادخواست استیناف در اعتراض به اقدام دولت در تروریستی اعلام کردن و ممنوعیت فعالیت گروه «اقدام برای فلسطین» را آغاز کرد.",
-   "body_fa": [
-    "هدی عموری، از بنیان‌گذاران این گروه، در دادگاه استدلال می‌کند که این ممنوعیت تاثیری نامتناسب بر آزادی بیان و حق اعتراض دارد. قرار گرفتن نام این گروه در فهرست سازمان‌های تروریستی، هواداران و اعضای آن را با خطر تا ۱۴ سال حبس مواجه می‌کند.",
-    "هم‌زمان با برگزاری دادگاه، پلیس حدود ۲۵ نفر از معترضانی را که در مقابل ساختمان دادگاه در لندن تجمع کرده بودند بازداشت کرد. نهادهای حقوق بشری از جمله عفو بین‌الملل خواهان لغو ممنوعیت فعالیت این گروه شده‌اند."
-   ],
-   "title_ar": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-   "summary_ar": "بدأت المحكمة العليا في المملكة المتحدة جلسات الاستماع في الاستئناف المقدم ضد قرار الحكومة حظر حركة \"فلسطين أکشن\" وتصنيفها كمنظمة إرهابية.",
-   "body_ar": [
-    "وتسعى هدى عموري، الشريكة في تأسيس الحركة، إلى إثبات أن الحظر يفرض قيوداً غير متناسبة على حرية التعبير وحق التظاهر. وتصنف الحكومة الحركة بموجب قوانين الإرهاب، مما يعرض أعضاءها والداعمين لها لعقوبات تصل إلى السجن 14 عاماً.",
-    "واعتقلت الشرطة نحو 25 شخصاً من الذين تجمعوا أمام مقر المحكمة في لندن للاحتجاج على قرار الحظر والمطالبة بإلغائه، في حين انتقدت منظمات حقوقية مثل العفو الدولية استخدام قوانين الإرهاب ضد المحتجين السلميين."
-   ]
-  },
-  {
    "id": "555f715f10b0",
    "lang": "en",
    "source": "Dawn",
@@ -207,33 +451,33 @@
    ]
   },
   {
-   "id": "1358d30e5c59",
+   "id": "7a8886a4b982",
    "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-   "date": "2026-11-04T11:24:50Z",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
+   "date": "2026-11-04T12:00:00Z",
    "countries": [
-    "IRN"
+    "AFG"
    ],
-   "score": 5,
-   "title": "‘Seismic shift’: World reacts to US midterm election results",
-   "title_en": "‘Seismic shift’: World reacts to US midterm election results",
-   "summary_en": "Democrats have secured a major victory in the United States midterm elections by taking control of both chambers of Congress, prompting diverse reactions from international leaders.",
+   "score": 7,
+   "title": "Afghan children face narrowing path to education, UN agencies report",
+   "title_en": "Afghan children face narrowing path to education, UN agencies report",
+   "summary_en": "More than half of primary school-age children in Afghanistan remain out of formal education, according to a joint report by UNESCO and UNICEF.",
    "body_en": [
-    "Foreign leaders and officials are closely evaluating how the shift in power in Washington could impact global policies, ranging from European security and support for Ukraine to Middle Eastern dynamics and trade relations.",
-    "While some figures expressed optimism or noted potential changes in US foreign engagement, others emphasized that their foundational ties with Washington remain strong and unchanged regardless of domestic political fluctuations."
+    "The report highlights that millions of girls continue to be barred from secondary and higher education following the Taliban's return to power in 2021.",
+    "UN agencies warned that insufficient investment, population growth, and emergency situations are straining the educational system and risking a generation's future."
    ],
-   "title_fa": "«تحول لرزه‌ای»: واکنش جهان به نتایج انتخابات میان‌دوره‌ای ایالات متحده",
-   "summary_fa": "دموکرات‌ها با به دست گرفتن کنترل هر دو مجلس کنگره پیروزی بزرگی در انتخابات میان‌دوره‌ای ایالات متحده کسب کردند که واکنش‌های گوناگونی را از سوی رهبران جهان به دنبال داشت.",
+   "title_fa": "گزارش آژانس‌های سازمان ملل: کودکان افغان با مسیر محدودتری برای آموزش روبرو هستند",
+   "summary_fa": "بر اساس گزارش مشترک یونسکو و یونیسف، بیش از نیمی از کودکان در سن آموزش ابتدایی در افغانستان از تحصیل رسمی بازمانده‌اند.",
    "body_fa": [
-    "رهبران و مقام‌های خارجی به دقت در حال ارزیابی این موضوع هستند که تغییر قدرت در واشنگتن چگونه می‌تواند بر سیاست‌های جهانی، از امنیت اروپا و حمایت از اوکراین گرفته تا پویایی‌های خاورمیانه و روابط تجاری تأثیر بگذارد.",
-    "در حالی که برخی چهره‌ها ابراز خوش‌بینی کرده یا به تغییرات احتمالی در تعهدات خارجی ایالات متحده اشاره کردند، برخی دیگر تأکید کردند که روابط اساسی آن‌ها با واشنگتن بدون توجه به نوسانات سیاسی داخلی قوی و دست‌نخورده باقی می‌ماند."
+    "این گزارش تأکید می‌کند که میلیون‌ها دختر پس از بازگشت طالبان به قدرت در سال ۲۰۲۱ همچنان از تحصیل در مقاطع متوسطه و عالی محروم هستند.",
+    "آژانس‌های سازمان ملل هشدار دادند که سرمایه‌گذاری ناکافی، رشد جمعیت و شرایط اضطراری سیستم آموزشی را تحت فشار قرار داده و آینده یک نسل را به خطر انداخته است."
    ],
-   "title_ar": "«تحول زلزالي»: العالم يتفاعل مع نتائج الانتخابات النصفية الأمريكية",
-   "summary_ar": "حقق الديمقراطيون فوزاً كبيراً في الانتخابات النصفية بالولايات المتحدة من خلال السيطرة على مجلسي الكونغرس، مما أثار ردود فعل متباينة من الزعماء الدوليين.",
+   "title_ar": "وكالات الأمم المتحدة تقرير تفيد بأن الأطفال الأفغان يواجهون مساراً ضيقاً للتعليم",
+   "summary_ar": "أفاد تقرير مشترك صادر عن اليونسكو واليونيسف بأن أكثر من نصف الأطفال في سن التعليم الابتدائي في أفغانستان خارج التعليم الرسمي.",
    "body_ar": [
-    "يقيم الزعماء والمسؤولون الأجانب عن كثب كيف يمكن أن تؤثر تحولات السلطة في واشنگتن على السياسات العالمية، بدءاً من الأمن الأوروبي ودعم أوكرانيا وصولاً إلى ديناميكيات الشرق الأوسط والعلاقات التجارية.",
-    "وفي حين أعربت بعض الشخصيات عن تفاؤلها أو أشارت إلى تغييرات محتملة في المشاركة الخارجية الأمريكية، أكد آخرون أن علاقاتهم الأساسية مع واشنگتن تظل قوية وثابتة بغض النظر عن التقلبات السياسية المحلية."
+    "يبرز التقرير أن ملايين الفتيات ما زلن محرومات من التعليم الثانوي العالي في أعقاب عودة طالبان إلى السلطة في عام 2021.",
+    "حذرت وكالات الأمم المتحدة من أن الاستثمار غير الكافي والنمو السكاني وحالات الطوارئ تشكل ضغطاً على النظام التعليمي تهدد مستقبل بأكمله."
    ]
   },
   {
@@ -264,95 +508,6 @@
    "body_ar": [
     "أدى إغلاق الحوثيين للطرق الرئيسية والفرعية التي تربط تعز بالمحافظات الأخرى إلى شلل كامل في الحركة واشتداد النقص في الخدمات الأساسية والطبية. ووصف مسؤولون محليون في تعز هذا الحصار بأنه الأشد كارثية منذ بدء الحرب في عام 2014، حيث ارتفعت أسعار السلع بشكل حاد وتراكمت أطنان القمامة داخل الشوارع.",
     "كما منع الحصار السكان والمصابين بأمراض مزمنة من المغادرة لتلقي العلاج خارج اليمن أو الوصول إلى المستشفيات داخل المدينة، في ظل تراجع قدرة المرافق الصحية ونقص المستلزمات الطبية والوقود اللازم لتشغيلها."
-   ]
-  },
-  {
-   "id": "753662e8e932",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042071/pakistan-continuing-efforts-for-peace-in-middle-east-as-before-pm-shehbaz",
-   "date": "2026-11-04T10:02:43Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz",
-   "title_en": "Pakistan continuing efforts for peace in Middle East as before: PM Shehbaz",
-   "summary_en": "Pakistani Prime Minister Shehbaz Sharif announced at a cabinet meeting that Pakistan is continuing its diplomatic engagements to help restore peace in the Middle East. He noted that global fuel prices have surged due to ongoing instability in the region.",
-   "body_en": [
-    "During his address, Prime Minister Shehbaz cited Pakistan's recent interactions with Tehran and other regional stakeholders, as well as actions taken under the Makkah Joint Defence Agreement. He also highlighted domestic steps to mitigate rising fuel costs, noting that the petroleum minister negotiated with local refineries to absorb price hikes instead of passing a planned Rs15 increase to consumers."
-   ],
-   "title_fa": "نخست‌وزیر شهباز: پاکستان مانند گذشته به تلاش‌های خود برای صلح در خاورمیانه ادامه می‌دهد",
-   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در جلسه هیئت دولت اعلام کرد که پاکستان همچنان به رایزنی‌های دیپلماتیک خود برای اعاده صلح در خاورمیانه ادامه می‌دهد. وی اشاره کرد که قیمت‌های جهانی سوخت به دلیل ناآرامی‌ها در منطقه به شدت افزایش یافته است.",
-   "body_fa": [
-    "نخست‌وزیر شهباز در سخنان خود به تعاملات اخیر پاکستان با تهران و دیگر بازیگران منطقه‌ای و همچنین اقدامات صورت‌گرفته در قالب موافقت‌نامه دفاعی مشترک مکه اشاره کرد. وی همچنین به اقدامات داخلی برای کنترل هزینه‌های سوخت پرداخت و گفت وزیر نفت با پالایشگاه‌ها توافق کرده تا افزایش قیمت‌ها را تحکیم کنند و از تحمیل افزایش ۱۵ روپیه‌ای به مصرف‌کنندگان جلوگیری شود."
-   ],
-   "title_ar": "رئيس الوزراء شهباز: پاکستان تواصل جهودها لتحقيق السلام في الشرق الأوسط كالمعتاد",
-   "summary_ar": "أعلن رئيس الوزراء الباكستاني شهباز شريف خلال اجتماع لمجلس الوزراء أن بلاده تواصل جهودها الدبلوماسية لاستعادة السلام في الشرق الأوسط. وأشار إلى أن أسعار النفط العالمية ارتفعت بشكل كبير بسبب عدم الاستقرار في المنطقة.",
-   "body_ar": [
-    "وأشار رئيس الوزراء شهباز في كلمته إلى اتصالات پاکستان الأخيرة مع تهران وأطراف إقليمية أخرى، بالإضافة إلى الجهود المبذولة في إطار اتفاقية مكة للدفاع المشترك. كما تطرق إلى التدابير المحلية للحد من ارتفاع أسعار الوقود، مشيراً إلى أن وزير البترول اتفق مع المكررات على تحمل زيادة الأسعار بدلاً من فرض زيادة قدرها 15 روبية على المستهلكين."
-   ]
-  },
-  {
-   "id": "30dddfaae3f7",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
-   "date": "2026-11-04T09:51:33Z",
-   "countries": [
-    "IRN",
-    "ISR",
-    "SYR"
-   ],
-   "score": 5,
-   "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
-   "title_en": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
-   "summary_en": "A new nationwide survey indicates that a majority of Syrians view Israel as the primary security threat to their country and the region, with Iran ranking second.",
-   "body_en": [
-    "The Arab Opinion Index for Syria 2026 revealed that 61 percent of respondents consider Israel the main threat to Syria, while 20 percent named Iran. Furthermore, 97 percent of participants stated that Israel threatens Middle Eastern stability, and a significant majority opposed recognizing Israel or making agreements without the return of the Golan Heights.",
-    "The survey also explored domestic views, showing increased support for democratic pluralism and mixed opinions regarding the country's overall direction following the end of Bashar al-Assad's rule."
-   ],
-   "title_fa": "نظرسنجی: سوری‌ها اسرائیل را بزرگترین تهدید منطقه‌ای می‌دانند و پس از آن ایران قرار دارد",
-   "summary_fa": "یک نظرسنجی سراسری جدید نشان می‌دهد که اکثریت سوری‌ها اسرائیل را تهدید امنیتی اصلی برای کشور و منطقه خود می‌دانند و ایران در رتبه دوم قرار دارد.",
-   "body_fa": [
-    "شاخص افکار عربی برای سوریه در سال ۲۰۲۶ نشان داد که ۶۱ درصد از پاسخ‌دهندگان اسرائیل را تهدید اصلی برای سوریه می‌دانند، در حالی که ۲۰ درصد از ایران نام بردند. علاوه بر این، ۹۷ درصد از شرکت‌کنندگان اظهار داشتند که اسرائیل ثبات خاورمیانه را تهدید می‌کند و اکثریت قاطعی با به رسمیت شناختن اسرائیل یا توافق بدون بازگرداندن بلندی‌های جولان مخالفت کردند.",
-    "این نظرسنجی همچنین دیدگاه‌های داخلی را بررسی کرد که نشان‌دهنده افزایش حمایت از پلورالیسم دموکراتیک و نظرات متفاوتی درباره مسیر کلی کشور پس از پایان حکومت بشار اسد است."
-   ],
-   "title_ar": "استطلاع: السوريون يرون في إسرائيل التهديد الإقليمي الأكبر تليها إيران",
-   "summary_ar": "يظهر استطلاع جديد على مستوى البلاد أن أغلبية السوريين تعتبر إسرائيل التهديد الأمنـي الرئيسي لبلدهم والمنطقة، مع احتلال إيران المرتبة الثانية.",
-   "body_ar": [
-    "أظهر المؤشر العربي للرأي في سوريا لعام 2026 أن 61 في المائة من المستطلعين يعتبرون إسرائيل التهديد الرئيسي لسوريا، بينما سمى 20 في المائة إيران. علاوة على ذلك، ذكر 97 في المائة من المشاركين أن إسرائيل تهدد استقرار الشرق الأوسط، وعارضت أغلبية كبيرة الاعتراف بإسرائيل أو عقد اتفاقيات دون عودة هضبة الجولان.",
-    "تناول الاستطلاع أيضاً الآراء المحلية، مظهرًا زيادة الدعم للتعددية الديمقراطية وآراء متباينة بشأن الاتجاه العام للبلاد بعد انتهاء حكم بشار الأسد."
-   ]
-  },
-  {
-   "id": "bb6c6d32c132",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
-   "date": "2026-11-04T09:16:57Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
-   "title_en": "Who determines Iran’s fighting and negotiating position amid US threats?",
-   "summary_en": "Iranian President Masoud Pezeshkian stated that Supreme Leader Mojtaba Khamenei granted his government specific authorities regarding negotiations with the United States amid heightening regional tensions. However, key decision-making on national security and war efforts remains heavily driven by military commanders and the Supreme National Security Council.",
-   "body_en": [
-    "Pezeshkian's remarks follow mediation attempts by countries like Qatar and Pakistan to prevent further escalation after US and Israeli strikes on February 28 killed former Supreme Leader Ali Khamenei and other officials. Since the outbreak of conflict, power inside Iran has consolidated further around Islamic Revolutionary Guard Corps (IRGC) commanders and security officials. Analysts note that any durable agreement must have the approval of Iran's military and security leadership.",
-    "While President Pezeshkian heads the Supreme National Security Council, its secretary, former IRGC commander Mohsen Rezaei, has assumed a key coordinating role and recently received a letter directly from US Vice President JD Vance. Decision-making involves institutions including the supreme leader's office and the security council, with Iranian officials seeking commitments from Washington to end the conflict and manage maritime access through the Strait of Hormuz."
-   ],
-   "title_fa": "چه کسی موضع جنگی و مذاکراتی ایران را در میان تهدیدهای آمریکا تعیین می‌کند؟",
-   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که مجتبی خامنه‌ای، رهبر جمهوری اسلامی، اختیارات مشخصی را در خصوص مذاکرات با آمریکا به دولت او واگذار کرده است. با این حال، تصمیم‌گیری‌های کلیدی درباره امنیت ملی و جنگ همچنان عمدتاً در اختیار فرماندهان نظامی و شورای عالی امنیت ملی قرار دارد.",
-   "body_fa": [
-    "اظهارات پزشکیان پس از تلاش‌های میانجی‌گرانه کشورهایی مانند قطر و پاکستان برای جلوگیری از تشدید درگیری‌ها صورت می‌گیرد؛ درگیری‌هایی که پس از حملات ۲۸ فوریه آمریکا و اسرائیل به کشته شدن علی خامنه‌ای، رهبر پیشین، و دیگر مقامات انجامید. از زمان آغاز جنگ، موازنه قدرت در ایران بیش از پیش به سمت فرماندهان سپاه پاسداران و مقامات امنیتی سنگینی می‌کند و تحلیل‌گران تاکید دارند که هرگونه توافق باید مورد تایید نهادهای نظامی-امنیتی باشد.",
-    "اگرچه مسعود پزشکیان رئیس شورای عالی امنیت ملی است، محسن رضایی، دبیر این شورا و فرمانده سابق سپاه، نقش محوری را در هماهنگی‌ها بر عهده گرفته و اخیراً نامه‌ای مستقیم از جیه دی فانس، معاون رئیس‌جمهور آمریکا، دریافت کرده است. فرایند تصمیم‌گیری شامل دفتر رهبری و شورای عالی امنیت ملی است و مقامات ایرانی در پی دریافت ضمانت‌هایی از واشنگتن برای پایان جنگ و بازگشایی مسیرهای navigation در تنگه هرمز هستند."
-   ],
-   "title_ar": "من يحدد موقف إيران في القتال والمفاوضات وسط التهديدات الأمريكية؟",
-   "summary_ar": "أعلن الرئيس الإيراني مسعود بزشكيان أن المرشد الأعلى مجتبى خامنئي منح حكومته \"صلاحيات محددة\" فيما يتعلق بالمفاوضات مع الولايات المتحدة وسط تصاعد التوترات. ومع ذلك، يظل اتخاذ القرارات الرئيسية بشأن الأمن القومي والحرب بيد القادة العسكريين والمجلس الأعلى للأمن القومي.",
-   "body_ar": [
-    "تأتي تصريحات بزشكيان عقب جهود وساطة من قطر وباكستان لمنع التصعيد بعد ضربات أمريكية وإسرائيلية في 28 شباط/فبراير أسفرت عن مقتل المرشد الأعلى السابق علي خامنئي ومسؤولين آخرين. ومنذ اندلاع الصراع، تركزت السلطة داخل إيران بشكل أكبر بيد قادة الحرس الثوري والمسؤولين الأمنيين، وأكد محللون أن أي اتفاق يستلزم موافقة المؤسسة العسكرية والأمنية.",
-    "ورغم أن الرئيس بزشكيان يرأس المجلس الأعلى للأمن القومي، إلا أن أمينه محسن رضائي، القائد السابق للحرس الثوري، بات يلعب دوراً مركزياً في التنسيق، حيث تلقى مؤخراً رسالة مباشرة من نائب الرئيس الأمريكي جيه دي فانس. وتشارك مؤسسات عدة مثل مكتب المرشد والمجلس الأعلى للأمن القومي في اتخاذ القرار، بينما تسعى إيران للحصول على التزامات من واشنطن لإنهاء الحرب وتنظيم الحركة في مضيق هرمز."
    ]
   },
   {
@@ -500,67 +655,6 @@
    "summary_ar": "عقد رئيس الوزراء الباكستاني شهباز شريف اجتماعات مع رئيس حزب الشعب بيلاوال بوتو زرداري وقائد الجيش عاصم منير لمراجعة الأوضاع في إقليم خيبر بختونخوا عقب فرض حكم المحافظ.",
    "body_ar": [
     "تناولت اللقاءات التشاورية الأوضاع الأمنية والإجراءات الإدارية في خيبر بختونخوا وبلوشستان. كما ناقش المشاركون الإسراع في تشكيل اللجنة البرلمانية لإصلاح الانتخابات."
-   ]
-  },
-  {
-   "id": "b9184082908b",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opposition-leader-lapid-accuses-netanyahu-backers-attempts-crushing",
-   "date": "2026-11-04T03:36:39Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Opposition leader Lapid accuses Netanyahu backers of attempts at 'crushing' Israel's democracy",
-   "title_en": "Opposition leader Lapid accuses Netanyahu backers of attempts at 'crushing' Israel's democracy",
-   "summary_en": "Israeli opposition leader Yair Lapid accused supporters of Benjamin Netanyahu's government of trying to crush democracy and steal the recent election.",
-   "body_en": [
-    "Lapid's statement followed reports that Shin Bet chief David Zini sought to question three leaders of Palestinian-led parties over alleged foreign interference in the election. Law enforcement officials stated there was no evidence supporting these claims, which emerged after Palestinian-led parties won a historic 19 seats in the 120-seat parliament.",
-    "The strong turnout among Palestinian citizens prevented both Netanyahu and his opponent Gadi Eisenkot from securing the 61-seat majority required to form a government. Lapid urged state institutions to resist these moves and called on fellow political leaders to swiftly form a coalition government."
-   ],
-   "title_fa": "یائیر لاپید حامیان نتانیاهو را به تلاش برای «له کردن» دمکراسی در اسرائیل متهم کرد",
-   "summary_fa": "یائیر لاپید، رهبر اپوزیسیون اسرائیل، حامیان دولت بنیامین نتانیاهو را به تلاش برای له کردن دمکراسی و دزدیدن انتخابات اخیر متهم کرد.",
-   "body_fa": [
-    "سخنان لاپید پس از انتشار گزارش‌هایی مطرح شد که نشان می‌داد دیوید زینی، رئیس شین‌بت، به دنبال بازجویی از سه تن از رهبران احزاب فلسطینی به اتهام ادعایی مداخله خارجی در انتخابات بوده است. مقامات انتظامی اعلام کرده‌اند که هیچ مدرکی برای اثبات این ادعاها وجود ندارد؛ ادعاهایی که پس از کسب ۱۹ کرسی تاریخی توسط احزاب فلسطینی در کنست مطرح شدند.",
-    "مشارکت گسترده شهروندان فلسطینی مانع از دستیابی بنیامین نتانیاهو و رقیبش گادی آیزنکوت به اکثریت ۶۱ کرسی برای تشکیل کابینه شد. لاپید از نهادهای حکومتی خواست در برابر این اقدامات ایستادگی کنند و از رهبران سیاسی خواست هرچه سریع‌تر برای تشکیل دولت ائتلافی اقدام نمایند."
-   ],
-   "title_ar": "زعيم المعارضة يائير لابيد يتهم أنصار نتنياهو بمحاولة \"سحق\" الديمقراطية في إسرائيل",
-   "summary_ar": "اتهم زعيم المعارضة الإسرائيلية يائير لابيد أنصار حكومة بنيامين نتنياهو بمحاولة سحق الديمقراطية وسرقة الانتخابات الأخيرة.",
-   "body_ar": [
-    "جاءت تصريحات لابيد عقب تقارير أفادت بسعي رئيس جهاز الشاباك دافيد زيني لاستجواب ثلاثة من قادة الأحزاب العربية في إطار تحقيق حول تدخل خارجي مزعوم في الانتخابات. وأكد مسؤولو إنفاذ القانون عدم وجود أي أدلة تدعم هذه الادعاءات، والتي ظهرت بعد فوز الأحزاب العربية بـ 19 مقعداً تاريخياً في الكنيست.",
-    "وأدت المشاركة الواسعة للمواطنين العرب إلى منع كل من بنيامين نتنياهو ومنافسه غادي آيزنكوت من الحصول على أغلبية 61 مقعداً اللازمة لتشكيل الحكومة. وحث لابيد مؤسسات الدولة على الصمود بوجه هذه المحاولات، داعياً القادة السياسيين إلى الإسراع في تشكيل الحكومة."
-   ]
-  },
-  {
-   "id": "e27de82fad37",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-reiterates-warnings-citizens-over-houthi-hostilities-against",
-   "date": "2026-11-04T01:57:42Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 5,
-   "title": "US Embassy reiterates warnings to citizens over Houthi 'hostilities' against Saudi Arabia",
-   "title_en": "US Embassy reiterates warnings to citizens over Houthi 'hostilities' against Saudi Arabia",
-   "summary_en": "The US Embassy in Saudi Arabia has warned American citizens of heightened security risks resulting from Houthi attacks on Saudi infrastructure and airports.",
-   "body_en": [
-    "The embassy noted that Iranian-backed Houthi strikes involving missiles and drones have caused travel disruptions and civilian casualties. Due to safety concerns, the US Department of State ordered non-emergency government personnel and their family members to leave Saudi Arabia on October 23, 2026.",
-    "US government personnel now require special authorization to use Saudi airports. Officials advised private US citizens to exercise extreme caution, monitor flight statuses directly with airlines, and prepare for potential airspace closures and cancellations."
-   ],
-   "title_fa": "هشدار مجدد سفارت آمریکا به شهروندان خود در پی «اقدامات خصمانه» حوثی‌ها علیه عربستان سعودی",
-   "summary_fa": "سفارت آمریکا در عربستان سعودی به شهروندان خود درباره افزایش مخاطرات امنیتی ناشی از حملات حوثی‌ها به بنادر، فرودگاه‌ها و زیرساخت‌های سعودی هشدار داد.",
-   "body_fa": [
-    "این سفارتخانه اعلام کرد حملات موشکی و پهپادی حوثی‌های مورد حمایت ایران موجب اختلال در سفرها و تلفات مدنی شده است. به همین دلیل، وزارت امور خارجه آمریکا در تاریخ ۲۳ اکتبر ۲۰۲۶ دستور خروج کارمندان غیرضروری و خانواده‌هایشان از عربستان را صادر کرد.",
-    "کارمندان دولت آمریکا در حال حاضر برای استفاده از فرودگاه‌های عربستان به مجوز ویژه نیاز دارند. این سفارتخانه به شهروندان آمریکایی توصیه کرده است هنگام استفاده از فرودگاه‌ها احتیاط کامل را رعایت کرده و وضعیت پروازها را پیگیری کنند."
-   ],
-   "title_ar": "السفارة الأمريكية تجدد تحذيراتها لمواطنيها بسبب \"الأعمال العدائية\" للحوثيين ضد السعودية",
-   "summary_ar": "حذرت السفارة الأمريكية في السعودية مواطنيها من تصاعد المخاطر الأمنية نتيجة هجمات الحوثيين على البنية التحتية والمطارات في المملكة.",
-   "body_ar": [
-    "وأوضحت السفارة أن هجمات الحوثيين المدعومين من إيران باستخدام الصواريخ والطائرات المسيرة أدت إلى وقوع إصابات بين المدنيين واضطرابات في حركة السفر. وبناءً على ذلك، أمرت وزارة الخارجية الأمريكية الموظفين غير الضروريين وعائلاتهم بالمغادرة في 23 أكتوبر 2026.",
-    "ويتطلب استخدام الموظفين الحكوميين الأمريكيين للمطارات السعودية الحصول على إذن خاص. كما نصحت السفارة المواطنين الأمريكيين بتوخي الحذر الشديد ومتابعة حالة الرحلات الجوية مباشرة مع شركات الطيران تحسباً لإغلاق المجال الجوي أو إلغاء الرحلات."
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:17:22Z",
+ "updated": "2026-11-04T19:17:07Z",
  "items": [
   {
    "id": "0f1a935f2e2b",
@@ -3317,6 +3317,524 @@
    ],
    "desc": "السعودية تعلن زوال خطر محتمل في جازان وارتفاع حصيلة قتلى هجوم مطار الرياض إلى 14 شخصاً، فيما تحذر الأمم المتحدة من تفاقم الأزمة الإنسانية في تعز، وسط اتهامات يمنية لإيران بتعزيز دعمها العسكري للحوثيين.",
    "score": 8
+  },
+  {
+   "id": "812f6529ab85",
+   "title": "Israel's president begins consultations with parties after election deadlock",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T16:18:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+   "score": 7,
+   "dup_of": "044c00a11838"
+  },
+  {
+   "id": "273ef3eb4db0",
+   "title": "Netanyahu bet on Trump – but both lost",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
+   "date": "2026-11-04T17:41:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
+   "score": 3
+  },
+  {
+   "id": "b1590b1a2723",
+   "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+   "date": "2026-11-04T17:18:50Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+   "score": 8
+  },
+  {
+   "id": "cb49b604260d",
+   "title": "Palestinian citizens of Israel face intimidation after election success",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+   "date": "2026-11-04T17:14:21Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
+   "score": 6
+  },
+  {
+   "id": "764addf0a644",
+   "title": "The new Congress may struggle to push a progressive agenda",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+   "date": "2026-11-04T17:05:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
+   "score": 3
+  },
+  {
+   "id": "11fee7c13277",
+   "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+   "date": "2026-11-04T16:37:49Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
+   "score": 5
+  },
+  {
+   "id": "342aa34252cb",
+   "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1",
+   "date": "2026-11-04T16:50:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on Wednesday attributed Republican losses in the US midterm elections to Washington's war with Iran, telling lawmakers that American efforts to pressure Tehran had failed. Democrats won control of both chambers of Congress in Tuesday's midterm elections.",
+   "score": 7
+  },
+  {
+   "id": "5af319f04b78",
+   "title": "US issues fresh sanctions against individuals and entities aiding Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-fresh-sanctions-against-individuals-and-entities-aiding-iran",
+   "date": "2026-11-04T19:00:16Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "desc": "US issues fresh sanctions against individuals and entities aiding Iran The US Treasury issued fresh sanctions on Wednesday targeting what it called \"the vast criminal network\" of companies and individuals tied to Iran. It named Indian nationals Suniel Kumar Sharma and his wife, Jaspreet Preeti Shahid, as well as two other Indian citizens who head two of the couple's businesses, and nine separate entities connected to Sharma. \"Their schemes have provided false flags and certifications to sanctioned vessels involved in transporting Iranian petroleum, including vessels operating on behalf of the ",
+   "score": 9
+  },
+  {
+   "id": "bf7c094da103",
+   "title": "Trump admits Iran war caused election losses but ‘we had to do it’",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-admits-iran-war-caused-election-losses-we-had-do-it",
+   "date": "2026-11-04T18:53:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump admits Iran war caused election losses but ‘we had to do it’ US President Donald Trump said on Wednesday that the Iran war was responsible for his Republican Party's resounding midterm election defeat. Asked whether he agreed with Vice President JD Vance earlier remarks that the Iran war was \"the reason we lost\", Trump told reporters outside the White House ballroom construction site that his comments were \"largely true because it drove the gasoline up a little bit short term\". \"But at the same time, if I had it to do again, I'd have to do it again. Because long term, it's the only answe",
+   "score": 9,
+   "dup_of": "9aa911f39fbd"
+  },
+  {
+   "id": "2d94260e91a6",
+   "title": "UK: Dozens arrested outside Supreme Court hearing on Palestine Action ban",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-dozens-arrested-outside-supreme-court-hearing-palestine-action-ban",
+   "date": "2026-11-04T18:43:31Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "UK: Dozens arrested outside Supreme Court hearing on Palestine Action ban Lawyers representing the co-founder of Palestine Action have argued that the direct-action group has never advocated for violence against individuals, as the campaign to overturn its designation as a terrorist organisation by the UK government reached the Supreme Court. Speaking on the first day of the two-day hearing, Raza Husain KC, representing Huda Ammori, opened proceedings and said that less than one percent of the group’s protests met the legal definition of terrorism. \"It’s not the label that's important – it’s t",
+   "score": 4,
+   "dup_of": "26f882133684"
+  },
+  {
+   "id": "6b7e925fa3bb",
+   "title": "Iran inflicted 'defeat' on Trump, security chief says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-inflicted-defeat-trump-security-chief-says-after-midterms",
+   "date": "2026-11-04T17:21:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran inflicted 'defeat' on Trump, security chief says Iran's top security chief Mohsen Rezaei said on Wednesday that Tehran had given US President Donald Trump a \"political defeat\" after his Republican party suffered heavy losses in the US midterm elections. \"The Iranian nation handed Trump a strategic defeat on the battlefield and in the Hormuz -- and a POLITICAL DEFEAT in Washington,\" Rezaei, the secretary of Iran's Supreme National Security Council, said on X. The Iranian nation handed Trump a strategic defeat on the battlefield and in the Hormuz—and a POLITICAL DEFEAT in Washington. Meanwh",
+   "score": 7
+  },
+  {
+   "id": "2e85b5dc04af",
+   "title": "Israeli settlers seize eight homes in occupied West Bank village west of Jericho",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-seize-eight-homes-occupied-west-bank-village-west",
+   "date": "2026-11-04T17:06:31Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers seize eight homes in occupied West Bank village west of Jericho Israeli settlers seized eight Palestinian homes on Wednesday in the village of al-Duyuk al-Tahta, west of Jericho, in the occupied West Bank, Wafa news reported. Palestinian security sources told Wafa that the settlers, accompanied by their families, stormed the eight homes, which were empty at the time of the raid, and smashed their doors, remaining inside the property. Israeli forces also stormed Jericho and its refugee camps on Wednesday evening, deploying military vehicles along the city’s streets, according t",
+   "score": 7
+  },
+  {
+   "id": "8b1a342591b4",
+   "title": "Top US Senate Democrat says Iran war 'must end'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-us-senate-democrat-says-iran-war-must-end",
+   "date": "2026-11-04T16:49:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Top US Senate Democrat says Iran war 'must end' US Senate Democrat leader Chuck Schumer said on Wednesday that the Iran war \"must end\", adding that his party's incoming majority in Congress could use their control over government funding to put pressure on the Trump administration to do so. \"This war must end. It must end,\" AFP reported that Schumer told journalists, noting that the \"power of the purse\" is \"one of the ways of deterring a president who does war without the consent of the American people.\" This comes after Vice President JD Vance blamed the US war on Iran for the Republican part",
+   "score": 8
+  },
+  {
+   "id": "c9a34cdbab49",
+   "title": "US election results fuel Israeli opposition's push to remove Netanyahu",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-election-results-fuel-israeli-oppositions-push-remove-netanyahu",
+   "date": "2026-11-04T16:32:30Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US election results fuel Israeli opposition's push to remove Netanyahu As news emerged on Wednesday that the Democratic Party had won a landslide victory, regaining control of the US Congress, Israeli politicians, journalists and experts warned of the results' grave implications for Israel's national security, pointing to the declining standing of Prime Minister Benjamin Netanyahu in the US. Former Israeli prime minister Yair Lapid, who was re-elected to parliament last week as part of the centre-right Together alliance, said the US election results had \"eliminated\" any possibility of forming ",
+   "score": 8
+  },
+  {
+   "id": "34da58f0205c",
+   "title": "Vance blames Iran war for Republican midterm defeat",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-blames-iran-war-republican-midterm-defeat",
+   "date": "2026-11-04T16:06:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Vance blames Iran war for Republican midterm defeat US Vice President JD Vance says the war in Iran drove voters who backed him and Donald Trump in 2024 towards the Democrats in this year’s midterm elections. “The reason we lost is the war. The president himself said so last night”, he wrote on X. “If you’d like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so.” Vance pointed to those switching parties as the central reason for the Republican defeat. “The main problem is that many people who voted for Trump/Vance in 2024 voted for Democrats in 2026",
+   "score": 8,
+   "dup_of": "b1590b1a2723"
+  },
+  {
+   "id": "ffecdeb1176a",
+   "title": "Dapo Akande elected as ICJ judge, restoring British presence inside highest UN court",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/dapo-akande-elected-icj-judge-restoring-british-presence-uns-highest-court",
+   "date": "2026-11-04T15:56:54Z",
+   "countries": [
+    "IRQ",
+    "PSE",
+    "SYR"
+   ],
+   "desc": "Dapo Akande elected as ICJ judge, restoring British presence inside highest UN court Submitted by Sondos Asem on Wed, 11/04/2026 - 12:19 Oxford professor argued against annexation of Palestinian territory and challenged Britain’s legal positions on Chagos, Iraq and Syria Dapo Akande addresses the International Court of Justice on behalf of Japan during hearings on Israel’s occupation of Palestinian territory, in The Hague on 22 February, 2024 (UN Photo/ICJ-CIJ/Frank van Beek) Off British international lawyer Dapo Akande has been elected to the International Court of Justice (ICJ), restoring a ",
+   "score": 4
+  },
+  {
+   "id": "6ccb56693889",
+   "title": "UK government facing legal challenge over IHRA antisemitism definition in schools",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uk-government-facing-legal-challenge-over-ihra-antisemitism-definition-schools",
+   "date": "2026-11-04T15:56:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "UK government facing legal challenge over IHRA antisemitism definition in schools Submitted by Oscar Rickett on Wed, 11/04/2026 - 13:30 The Good Law Project and British Jewish group Na'amod tell MEE contested IHRA definition protects Israel, not Jewish students Police officers intervene as a pro-Israel banner is held during a rally in London on 16 November 2024 (AFP) Off The British government is being challenged legally over its recommendation for schools to adopt the contested IHRA definition of antisemitism. The Good Law Project launched a legal challenge against the government on Monday. T",
+   "score": 4
+  },
+  {
+   "id": "3954cbdd37db",
+   "title": "Palestine Action takes fight against UK ban to Supreme Court",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestine-action-takes-fight-against-uk-ban-supreme-court",
+   "date": "2026-11-04T15:42:17Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Palestine Action takes fight against UK ban to Supreme Court Palestine Action returned to the UK’s Supreme Court on Wednesday to contest the government’s decision to outlaw the group under terrorism legislation. Authorities have arrested at least 4,000 people on charges linked to the group since the government imposed the ban in July last year. Co-founder Huda Ammori said the measure had turned legitimate protest into a terrorism offence. “The overwhelming evidence presented to the Supreme Court by UN experts, Amnesty International, Liberty and even the former director of MI6 is that this dang",
+   "score": 5,
+   "dup_of": "26f882133684"
+  },
+  {
+   "id": "74bcf248cf8c",
+   "title": "US midterm elections 2026: Top Democrat tells Trump administration to 'lawyer up'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/us-midterm-elections-2026-top-democrat-tells-trump-lawyer-up",
+   "date": "2026-11-04T15:24:37Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "US midterm elections 2026: Top Democrat tells Trump administration to 'lawyer up' Submitted by MEE staff on Wed, 11/04/2026 - 14:35 Robert Garcia has vowed to investigate the Trump family's business dealings. Among the issues under scrutiny could be UAE investments and a deal involving Abu Dhabi-backed investors US Congressman Robert Garcia convenes a hearing in West Palm Beach, Florida, 12 May 2026 (Joe Raedle/Getty Images via AFP) Off A senior Democrat has warned US President Donald Trump and his Republican allies to \"lawyer up\", vowing to investigate alleged corruption and the business deal",
+   "score": 6
+  },
+  {
+   "id": "e3b827320f4a",
+   "title": "Inspired by UK sanctions on Israel, US Democrats want to work with Labour",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/inspired-uk-sanctions-israel-us-democrats-want-work-labour",
+   "date": "2026-11-04T15:21:31Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Inspired by UK sanctions on Israel, US Democrats want to work with Labour As US President Donald Trump reels from Tuesday night’s election wipeout, victorious Democrats are praising British Foreign Secretary Ed Miliband for inspiring new US policies towards Israel . Democrats have told MEE that they plan to take advantage of their new hold over Congress to introduce sanctions aimed at settlers in the occupied West Bank, which would be in line with British sanctions introduced last month. There is also talk on both sides of the Atlantic of reviving the traditional alliance between Labour and De",
+   "score": 6
+  },
+  {
+   "id": "56820139b358",
+   "title": "Israeli army ends 11-day Hebron raid after looting and vandalising Palestinian homes",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-army-ends-11-day-hebron-raid-after-looting-and-vandalising-palestinian-homes",
+   "date": "2026-11-04T14:58:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli army ends 11-day Hebron raid after looting and vandalising Palestinian homes Submitted by Fayha Shalash on Wed, 11/04/2026 - 14:24 Residents return to damaged houses stripped of valuables as military assault leaves hundreds displaced, businesses destroyed and West Bank city facing millions of dollars in losses A Palestinian man looks on as he assess the damage to his home after the Israeli military ended an assault in Hebron in theoccupied West Bank, 2 November 2026 (Reuters/Mussa Qawasma) Off For 11 days, Abbas Mujahid imagined returning home. He had no idea when that might be. Israel",
+   "score": 7
+  },
+  {
+   "id": "f75b3e2ee6b9",
+   "title": "Iran defence spokesperson says US vote exposes failure of Trump’s war policies",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defence-spokesperson-says-us-vote-exposes-failure-trumps-war",
+   "date": "2026-11-04T14:54:10Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran defence spokesperson says US vote exposes failure of Trump’s war policies Iran’s Defence Ministry spokesperson General Reza Talaeinik has portrayed the US midterm election results as further evidence that Trump and Netanyahu’s policies have failed. Writing on social media, he called it an opportunity to “revisit the crimes of global arrogance, especially America, and to renew our pledge to resist interventionism”. “Today, with the failure of Trump and Netanyahu’s warmongering policies becoming more apparent and the trend of their hegemony’s collapse in the world, the steadfastness of the ",
+   "score": 7
+  },
+  {
+   "id": "7a8886a4b982",
+   "title": "Afghan children face narrowing path to education, UN agencies report",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
+   "date": "2026-11-04T12:00:00Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
+   "score": 7
+  },
+  {
+   "id": "c04b46e259ac",
+   "title": "US Vice President JD Vance says Iran war is 'the reason we lost' midterms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042118/us-vice-president-jd-vance-says-iran-war-is-the-reason-we-lost-midterms",
+   "date": "2026-11-04T18:12:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Vice President JD Vance said on Wednesday that the Iran war had doomed Republicans in the midterm elections , moving to distance himself from the unpopular conflict ahead of a possible 2028 White House run. “The reason we lost is the war. The president himself said so last night,” Vance said in a lengthy post on X — apparently referring to President Donald Trump’s remarks that the Iran war was “part of it” but that it was still justified. “If you’d like to argue it was worth it, that losing the Senate for the next 6 years was worth it, then do so. Argue it was a worthwhile cost to pay. Agre",
+   "score": 8,
+   "dup_of": "b1590b1a2723"
+  },
+  {
+   "id": "3ac721f7a7fa",
+   "title": "Petrol price dropped by Rs7.06 per litre, high-speed diesel by Rs3.71",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042105/petrol-price-dropped-by-rs706-per-litre-high-speed-diesel-by-rs371",
+   "date": "2026-11-04T18:23:44Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 2
+  },
+  {
+   "id": "d4fc226e7e02",
+   "title": "'United opposition' gathers at Fazl's Islamabad residence to discuss KP situation, other matters",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042114/united-opposition-gathers-at-fazls-islamabad-residence-to-discuss-kp-situation-other-matters",
+   "date": "2026-11-04T18:54:14Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Opposition leaders on Wednesday gathered at the residence of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman in Islamabad to discuss the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa, among other matters. A statement by the JUI-F at night said that opposition leaders in the National Assembly (NA) and Senate, Mahmood Khan Achakzai and Allama Raja Nasir Abbas, respectively, along with key PTI leaders, were attending a meeting to discuss “the situation of emergency and governor’s rule” in KP. The meeting was also set to discuss plans to hold a multi-party confere",
+   "score": 6
+  },
+  {
+   "id": "359166ac7e71",
+   "title": "38 briefly detained in Karachi as police baton-charge protesters headed towards CM House",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042079/38-briefly-detained-in-karachi-as-police-baton-charge-protesters-headed-towards-cm-house",
+   "date": "2026-11-04T18:10:44Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Thirty-eight people were released after brief detention on Wednesday as police used tear gas and batons against protesting teachers headed towards Chief Minister House from Karachi Press Club (KPC). Hundreds of teachers had gathered outside the press club at the call of the All Sindh Primary Teachers Association (ASPTA). They were headed towards CM House to present their demands that pertained to the service structure and called for delegating powers for transfers and postings to district officers. The protesters chanted slogans and attempted to move towards the CM House. However, whe",
+   "score": 4,
+   "dup_of": "8719f8b1e2a3"
+  },
+  {
+   "id": "0d082b8f6030",
+   "title": "Israel president urges compromise after divisive election",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042120/israel-president-urges-compromise-after-divisive-election",
+   "date": "2026-11-04T17:30:40Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s president on Wednesday opened talks on forming a new government with a call for compromise, saying neither side had won divisive elections, as he also condemned “racist” rhetoric against Arab parties that made sharp gains. More than a week after Israel’s first election since the October 7, 2023 Hamas attacks, President Isaac Herzog began meeting party leaders to decide whether to give Prime Minister Benjamin Netanyahu or his rival Gadi Eisenkot the first chance to form a government in the deeply polarised country. With neither bloc holding a majority in the 120-seat parliament after t",
+   "score": 7,
+   "dup_of": "812f6529ab85"
+  },
+  {
+   "id": "7c9041c2ddb8",
+   "title": "Seeing red in Iran",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042008/seeing-red-in-iran",
+   "date": "2026-11-04T18:34:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IN the run-up to yesterday’s US mid-term elections , it became obvious that, almost four decades after the Cold War ended, the ‘spectre of communism’ Marx and Engels identified in the 19th century still haunts Western consciousness. Islamophobia might have been the most prominent weapon, but it was accompanied by diatribes against Marxists and communists, invariably directed against people who are neither. For good measure, some of them are simultaneously derided as Islamist jihadists. The American establishment’s obsession with the communist threat, real or imagined, dates back to the early 2",
+   "score": 3
+  },
+  {
+   "id": "96772e11e556",
+   "title": "Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm elections",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece",
+   "date": "2026-11-04T18:58:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "J.D. Vance, who has said he would decide after the election whether to run for President in 2028, issued a lengthy social media post blaming the unpopular conflict with Iran for the Grand Old Party’s drubbing",
+   "score": 8,
+   "dup_of": "b1590b1a2723"
+  },
+  {
+   "id": "da67dddf13b2",
+   "title": "U.S. judge temporarily blocks deportation of detained Afghans to Afghanistan or Pakistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-judge-temporarily-blocks-deportation-of-detained-afghans-to-afghanistan-or-pakistan/article71667117.ece",
+   "date": "2026-11-04T18:04:37Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "The order pauses planned removals until Saturday after advocates and lawmakers warned that deported Afghans could face persecution, torture or death",
+   "score": 7
+  },
+  {
+   "id": "71ec03fbc4c9",
+   "title": "Iran says tankers destroyed after hitting mines in Hormuz",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-says-tankers-destroyed-after-hitting-mines-in-hormuz/article71667142.ece",
+   "date": "2026-11-04T17:36:37Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "It came a day after President Donald Trump said the United States had launched strikes on the Islamic Republic, following reports of a raid on Qeshm, the largest island in the strait",
+   "score": 8,
+   "dup_of": "cf064f177920"
+  },
+  {
+   "id": "b5d1dde2c3ea",
+   "title": "U.S. VP Vance says Iran war was the reason Republicans lost midterms",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-vp-vance-says-iran-war-was-the-reason-republicans-lost-midterms/article71667003.ece",
+   "date": "2026-11-04T17:33:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The U.S. vice-president said the conflict doomed Republicans, as he sought to distance himself from the war ahead of a possible 2028 presidential run",
+   "score": 8,
+   "dup_of": "b1590b1a2723"
+  },
+  {
+   "id": "bde93d983bee",
+   "title": "Bangladesh agrees new garment pay scale from December amid protests",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/article71667080.ece",
+   "date": "2026-11-04T17:32:31Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Workers are demanding the monthly minimum wage be raised to 30,000 taka ($242) from 12,500 taka, saying rising food, housing and transport costs have eroded their purchasing power",
+   "score": 5
+  },
+  {
+   "id": "d60a443a54d4",
+   "title": "United Nations report says genocide continues in Gaza",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/united-nations-report-says-genocide-continues-in-gaza/article71666146.ece",
+   "date": "2026-11-04T17:26:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli violations include widespread or systematic attacks directed against the civilian population, state policy, and the fact that the security forces knew the acts constituted part of an attack against the civilian population and so intended them (mens rea)",
+   "score": 9
+  },
+  {
+   "id": "4c2fc7c7fd4b",
+   "title": "‘Garment workers unrest narrows Tarique Rahman’s window for India visit’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/garment-workers-unrest-narrows-tarique-rahmans-window-for-india-visit/article71666688.ece",
+   "date": "2026-11-04T16:32:20Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "In an exclusive conversation with The Hindu, a highly-placed source says Mr. Rahman is being “misguided by his own people” on the India policy",
+   "score": 5
+  },
+  {
+   "id": "9cb6dbe8c363",
+   "title": "از تهران تا تگزاس؛ شوخی با «تغییر رژیم» و اختلاف در اردوگاه ترامپ پس از انتخابات آمریکا",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmwyvzw1lvw9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T17:05:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "شکست جمهوری‌خواهان در انتخابات میان‌‌دوره‌ای آمریکا، بحث درباره نقش جنگ ایران در نتایج این رای‌گیری را شدت بخشیده است؛ از اختلاف میان حامیان ترامپ گرفته تا ابراز خشنودی مقام‌های جمهوری اسلامی و واکنش‌های طنزآمیزی مانند «تغییر رژیم در تگزاس».",
+   "score": 4
+  },
+  {
+   "id": "352f4e5c9453",
+   "title": "الديمقراطيون ينتزعون الأغلبية في الكونغرس الأمريكي، وفانس يقول إن \"حرب إيران\" هي السبب",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c64g1vl7p3xgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T17:54:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "بفوزهم بالغالبية في مجلسَي النواب والشيوخ، أصبحت للديموقراطيين اليد الطولى في تعطيل أجندة ترامب التشريعية ورفض تعييناته في الحكومة أو في القضاء.",
+   "score": 8,
+   "dup_of": "1358d30e5c59"
   }
  ]
 }
