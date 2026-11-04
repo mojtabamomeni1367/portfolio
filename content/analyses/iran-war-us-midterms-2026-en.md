@@ -12,6 +12,8 @@ summary: Democrats won control of the House and Senate in the November 3, 2026 m
 focus_keyword: war with Iran
 seo_title: 'War With Iran: How It Hurt Trump''s Party in the Midterms'
 meta_description: How the war with Iran, from Hormuz disruption to higher gas prices, fed the Democratic blue wave and Republican losses in the November 3 midterm elections.
+image: /assets/uploads/iran-war-us-midterms-2026.jpg
+image_alt: Trump at the White House beside a map of the US swept by a Democratic blue wave
 translated: true
 draft: false
 ---
