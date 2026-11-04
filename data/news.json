@@ -1,7 +1,68 @@
 {
- "updated": "2026-11-04T01:23:50Z",
- "count": 377,
+ "updated": "2026-11-04T04:10:01Z",
+ "count": 380,
  "items": [
+  {
+   "id": "b9184082908b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opposition-leader-lapid-accuses-netanyahu-backers-attempts-crushing",
+   "date": "2026-11-04T03:36:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Opposition leader Lapid accuses Netanyahu backers of attempts at 'crushing' Israel's democracy",
+   "title_en": "Opposition leader Lapid accuses Netanyahu backers of attempts at 'crushing' Israel's democracy",
+   "summary_en": "Israeli opposition leader Yair Lapid accused supporters of Benjamin Netanyahu's government of trying to crush democracy and steal the recent election.",
+   "body_en": [
+    "Lapid's statement followed reports that Shin Bet chief David Zini sought to question three leaders of Palestinian-led parties over alleged foreign interference in the election. Law enforcement officials stated there was no evidence supporting these claims, which emerged after Palestinian-led parties won a historic 19 seats in the 120-seat parliament.",
+    "The strong turnout among Palestinian citizens prevented both Netanyahu and his opponent Gadi Eisenkot from securing the 61-seat majority required to form a government. Lapid urged state institutions to resist these moves and called on fellow political leaders to swiftly form a coalition government."
+   ],
+   "title_fa": "یائیر لاپید حامیان نتانیاهو را به تلاش برای «له کردن» دمکراسی در اسرائیل متهم کرد",
+   "summary_fa": "یائیر لاپید، رهبر اپوزیسیون اسرائیل، حامیان دولت بنیامین نتانیاهو را به تلاش برای له کردن دمکراسی و دزدیدن انتخابات اخیر متهم کرد.",
+   "body_fa": [
+    "سخنان لاپید پس از انتشار گزارش‌هایی مطرح شد که نشان می‌داد دیوید زینی، رئیس شین‌بت، به دنبال بازجویی از سه تن از رهبران احزاب فلسطینی به اتهام ادعایی مداخله خارجی در انتخابات بوده است. مقامات انتظامی اعلام کرده‌اند که هیچ مدرکی برای اثبات این ادعاها وجود ندارد؛ ادعاهایی که پس از کسب ۱۹ کرسی تاریخی توسط احزاب فلسطینی در کنست مطرح شدند.",
+    "مشارکت گسترده شهروندان فلسطینی مانع از دستیابی بنیامین نتانیاهو و رقیبش گادی آیزنکوت به اکثریت ۶۱ کرسی برای تشکیل کابینه شد. لاپید از نهادهای حکومتی خواست در برابر این اقدامات ایستادگی کنند و از رهبران سیاسی خواست هرچه سریع‌تر برای تشکیل دولت ائتلافی اقدام نمایند."
+   ],
+   "title_ar": "زعيم المعارضة يائير لابيد يتهم أنصار نتنياهو بمحاولة \"سحق\" الديمقراطية في إسرائيل",
+   "summary_ar": "اتهم زعيم المعارضة الإسرائيلية يائير لابيد أنصار حكومة بنيامين نتنياهو بمحاولة سحق الديمقراطية وسرقة الانتخابات الأخيرة.",
+   "body_ar": [
+    "جاءت تصريحات لابيد عقب تقارير أفادت بسعي رئيس جهاز الشاباك دافيد زيني لاستجواب ثلاثة من قادة الأحزاب العربية في إطار تحقيق حول تدخل خارجي مزعوم في الانتخابات. وأكد مسؤولو إنفاذ القانون عدم وجود أي أدلة تدعم هذه الادعاءات، والتي ظهرت بعد فوز الأحزاب العربية بـ 19 مقعداً تاريخياً في الكنيست.",
+    "وأدت المشاركة الواسعة للمواطنين العرب إلى منع كل من بنيامين نتنياهو ومنافسه غادي آيزنكوت من الحصول على أغلبية 61 مقعداً اللازمة لتشكيل الحكومة. وحث لابيد مؤسسات الدولة على الصمود بوجه هذه المحاولات، داعياً القادة السياسيين إلى الإسراع في تشكيل الحكومة."
+   ]
+  },
+  {
+   "id": "e27de82fad37",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-reiterates-warnings-citizens-over-houthi-hostilities-against",
+   "date": "2026-11-04T01:57:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 5,
+   "title": "US Embassy reiterates warnings to citizens over Houthi 'hostilities' against Saudi Arabia",
+   "title_en": "US Embassy reiterates warnings to citizens over Houthi 'hostilities' against Saudi Arabia",
+   "summary_en": "The US Embassy in Saudi Arabia has warned American citizens of heightened security risks resulting from Houthi attacks on Saudi infrastructure and airports.",
+   "body_en": [
+    "The embassy noted that Iranian-backed Houthi strikes involving missiles and drones have caused travel disruptions and civilian casualties. Due to safety concerns, the US Department of State ordered non-emergency government personnel and their family members to leave Saudi Arabia on October 23, 2026.",
+    "US government personnel now require special authorization to use Saudi airports. Officials advised private US citizens to exercise extreme caution, monitor flight statuses directly with airlines, and prepare for potential airspace closures and cancellations."
+   ],
+   "title_fa": "هشدار مجدد سفارت آمریکا به شهروندان خود در پی «اقدامات خصمانه» حوثی‌ها علیه عربستان سعودی",
+   "summary_fa": "سفارت آمریکا در عربستان سعودی به شهروندان خود درباره افزایش مخاطرات امنیتی ناشی از حملات حوثی‌ها به بنادر، فرودگاه‌ها و زیرساخت‌های سعودی هشدار داد.",
+   "body_fa": [
+    "این سفارتخانه اعلام کرد حملات موشکی و پهپادی حوثی‌های مورد حمایت ایران موجب اختلال در سفرها و تلفات مدنی شده است. به همین دلیل، وزارت امور خارجه آمریکا در تاریخ ۲۳ اکتبر ۲۰۲۶ دستور خروج کارمندان غیرضروری و خانواده‌هایشان از عربستان را صادر کرد.",
+    "کارمندان دولت آمریکا در حال حاضر برای استفاده از فرودگاه‌های عربستان به مجوز ویژه نیاز دارند. این سفارتخانه به شهروندان آمریکایی توصیه کرده است هنگام استفاده از فرودگاه‌ها احتیاط کامل را رعایت کرده و وضعیت پروازها را پیگیری کنند."
+   ],
+   "title_ar": "السفارة الأمريكية تجدد تحذيراتها لمواطنيها بسبب \"الأعمال العدائية\" للحوثيين ضد السعودية",
+   "summary_ar": "حذرت السفارة الأمريكية في السعودية مواطنيها من تصاعد المخاطر الأمنية نتيجة هجمات الحوثيين على البنية التحتية والمطارات في المملكة.",
+   "body_ar": [
+    "وأوضحت السفارة أن هجمات الحوثيين المدعومين من إيران باستخدام الصواريخ والطائرات المسيرة أدت إلى وقوع إصابات بين المدنيين واضطرابات في حركة السفر. وبناءً على ذلك، أمرت وزارة الخارجية الأمريكية الموظفين غير الضروريين وعائلاتهم بالمغادرة في 23 أكتوبر 2026.",
+    "ويتطلب استخدام الموظفين الحكوميين الأمريكيين للمطارات السعودية الحصول على إذن خاص. كما نصحت السفارة المواطنين الأمريكيين بتوخي الحذر الشديد ومتابعة حالة الرحلات الجوية مباشرة مع شركات الطيران تحسباً لإغلاق المجال الجوي أو إلغاء الرحلات."
+   ]
+  },
   {
    "id": "c9d1b1dab55e",
    "lang": "fa",
@@ -58,6 +119,36 @@
    "summary_ar": "أعلنت إيران أنها أعدت خطة \"ردع أقصى\" لمواجهة أي عمل عسكري جديد من جانب الولايات المتحدة.",
    "body_ar": [
     "وحذرت تهران من أن ردها على أي هجوم جديد تشنه القوات الأمريكية سيكون فورياً."
+   ]
+  },
+  {
+   "id": "e95288268895",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-opens-military-training-centre-tehran-plans-train-one-million",
+   "date": "2026-11-03T23:41:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran opens military training centre in Tehran, plans to train one million volunteers",
+   "title_en": "Iran opens military training centre in Tehran, plans to train one million volunteers",
+   "summary_en": "Iran has opened a third military training centre in Tehran and announced plans to train one million paramilitary volunteers nationwide.",
+   "body_en": [
+    "According to the ISNA news agency, members of the Basij, a paramilitary force affiliated with the Islamic Revolutionary Guard Corps, attended the opening of the new facility. This follows the launch of two other training centres in Tehran in August and September.",
+    "The announcement comes amid heightened concerns regarding potential renewed conflict involving the United States and Israel."
+   ],
+   "title_fa": "ایران مرکز آموزش نظامی جدیدی در تهران افتتاح کرد و از برنامه آموزش یک میلیون نیروی داوطلب خبر داد",
+   "summary_fa": "ایران با افتتاح سومین مرکز آموزش نظامی در تهران، از برنامه‌ریزی برای آموزش یک میلیون نیروی داوطلب شبه‌نظامی در سراسر کشور خبر داده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری ایسنا، اعضای بسیج، نیروی شبه‌نظامی وابسته به سپاه پاسداران انقلاب اسلامی، در مراسم افتتاح این مرکز جدید حضور داشتند. پیش از این نیز دو مرکز آموزشی دیگر در ماه‌های مرداد و شهریور در تهران راه‌اندازی شده بود.",
+    "این اقدام در میان نگرانی‌ها از احتمال بروز درگیری‌های جدید با ایالات متحده و اسرائیل صورت می‌گیرد."
+   ],
+   "title_ar": "إيران تفتتح مركز تدريب عسكري في تهران وتخطط لتدريب مليون متطوع",
+   "summary_ar": "افتتحت إيران مركز تدريب عسكري ثالثاً في تهرأن، وأعلنت عن خطط لتدريب مليون متطوع من القوات شبه العسكرية في جميع أنحاء البلاد.",
+   "body_ar": [
+    "وفقاً لوكالة أنباء إسنا، شارك أعضاء من قوات البسيج، وهي قوة شبه عسكرية تابعة للحرس الثوري الإيراني، في افتتاح المنشأة الجديدة. وتأتي هذه الخطوة بعد افتتاح مركزين تدريبيين آخرين في تهرأن خلال شهري أغسطس وسبتمبر الماضيَين.",
+    "وإلتقى هذا الإعلان وسط مخاوف من تجدد الصراع مع الولايات المتحدة وإسرائيل."
    ]
   },
   {
