@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:24:58Z",
+ "updated": "2026-11-04T13:29:24Z",
  "items": [
   {
    "id": "0f1a935f2e2b",
@@ -2853,6 +2853,279 @@
    ],
    "desc": "Following the war of 1971, India and Bangladesh agreed to establish a Joint River Commission to deal with all river-water-related issues between the two sides",
    "score": 3
+  },
+  {
+   "id": "2e07af688a74",
+   "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+   "date": "2026-11-04T12:48:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
+   "score": 7
+  },
+  {
+   "id": "9aa911f39fbd",
+   "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+   "date": "2026-11-04T12:44:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+   "score": 7
+  },
+  {
+   "id": "26f882133684",
+   "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+   "date": "2026-11-04T12:43:47Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
+   "score": 5
+  },
+  {
+   "id": "1358d30e5c59",
+   "title": "‘Seismic shift’: World reacts to US midterm election results",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+   "date": "2026-11-04T11:24:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
+   "score": 5
+  },
+  {
+   "id": "8612c432abb2",
+   "title": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+   "date": "2026-11-04T10:44:46Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Blockade prompts warnings of a 'catastrophe' as food, water, fuel and medical supplies are unable to reach city.",
+   "score": 7
+  },
+  {
+   "id": "f151543a7eec",
+   "title": "Israel vote results confirmed as election commission rejects fraud claims",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
+   "date": "2026-11-04T10:37:21Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu’s allies refuse to back the result, as President Herzog begins talks on who should form the next government.",
+   "score": 6,
+   "dup_of": "8e713eb74b28"
+  },
+  {
+   "id": "6c2c33810cc6",
+   "title": "From education to housing protests, Palestine’s flag spreads across Europe",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
+   "date": "2026-11-04T10:10:08Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Symbols such as the flag and keffiyeh represent anti-colonial struggles but some question their use amid mass rallies.",
+   "score": 4
+  },
+  {
+   "id": "30dddfaae3f7",
+   "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
+   "date": "2026-11-04T09:51:33Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SYR"
+   ],
+   "desc": "Some 97% of respondents to Arab Opinion Index for Syria say Israel threatens security and stability in the Middle East.",
+   "score": 5
+  },
+  {
+   "id": "5c520a90cf25",
+   "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+   "date": "2026-11-04T12:19:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Move comes after attorney general blocks Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of last week’s vote that stripped Benjamin Netanyahu’s far-right coalition of its governing majority, rejecting claims of mass fraud promoted by the prime minister. The main challenger, Gadi Eisenkot, said Netanyahu had launched a “pogrom against democracy” in attempting to hold on to power by discrediting valid votes and weaponising security forces against parties led by Palestinian citizens of Israel. Continue rea",
+   "score": 6,
+   "dup_of": "8e713eb74b28"
+  },
+  {
+   "id": "01e767fa1899",
+   "title": "What consequences for Israel as Democrats win the US midterm elections?",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261104-what-consequences-for-israel-as-democrats-win-the-us-midterm-elections",
+   "date": "2026-11-04T11:32:43Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Democrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning upset. What are the potential consequences for Israel and Benjamin Netanyahu, as Trump announced on Tuesday that the US will halt $3.8 billion in aid to the country? FRANCE 24's correspondent Noga Tarnopolsky has more.",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "dcf03693f9b3",
+   "title": "Israel's President Herzog accepts certified election results, urges compromise to form government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261104-israel-s-herzog-urges-compromise-to-form-government-after-divisive-election",
+   "date": "2026-11-04T02:05:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli President Isaac Herzog on Wednesday formally accepted the certified results from last week’s legislative elections which delivered no clear winner, and said he would begin consultations regarding the formation of a new government. Both Prime Minister Benjamin Netanyahu and his main challenger, former military chief Gadi Eisenkot, are negotiating to form a governing coalition.",
+   "score": 6,
+   "dup_of": "044c00a11838"
+  },
+  {
+   "id": "83923af5ea23",
+   "title": "Federal cabinet ratifies defence agreement with Kuwait",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042071/federal-cabinet-ratifies-defence-agreement-with-kuwait",
+   "date": "2026-11-04T12:47:43Z",
+   "countries": [
+    "KWT",
+    "PAK"
+   ],
+   "desc": "The federal cabinet on Wednesday ratified the defence cooperation agreement between Pakistan and Kuwait, according to a handout by the Prime Minister’s Office (PMO). “The federal cabinet ratified a defence cooperation agreement between Pakistan and Kuwait. This agreement, which aims to foster cooperation in the defence sector between the two brotherly nations, was concluded on June 11, 2023. The Kuwaiti government had ratified the agreement on July 19,” the handout said. In 2023, Pakistan and Kuwait signed a defence pact to further strengthen defe­nce cooperation and institutional linkages bet",
+   "score": 6
+  },
+  {
+   "id": "bd594931035a",
+   "title": "Asif says Chaudhry Salik's remarks about corruption in Punjab 'beyond my understanding'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042084/asif-says-chaudhry-saliks-remarks-about-corruption-in-punjab-beyond-my-understanding",
+   "date": "2026-11-04T12:30:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Defence Minister Khawaja Asif said on Wednesday that Minister for Overseas Pakistanis Chaudhry Salik Hussain’s remarks regarding corruption in Punjab were “beyond my understanding”. During a talk show on a private television channel on Monday, the Pakistan Muslim League-Quaid (PML-Q) leader had lavished praise on former Punjab chief minister Chaudhry Pervez Elahi. However, he had also criticised the present provincial administration, headed by Chief Minister Maryam Nawaz, alleging that he regularly heard complaints of corruption. On Tuesday, CM Maryam had sent a Rs5 billion defamation notice t",
+   "score": 3
+  },
+  {
+   "id": "1684777bb73c",
+   "title": "At least 30 detained in Karachi as police baton-charge protesters headed towards CM House",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042079/at-least-30-detained-in-karachi-as-police-baton-charge-protesters-headed-towards-cm-house",
+   "date": "2026-11-04T13:11:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: At least 30 people were detained on Wednesday as police used tear gas and baton-charged protesting teachers headed towards Chief Minister House from Karachi Press Club (KPC). Hundreds of teachers had gathered outside the press club on the call of the All Sindh Primary Teachers Association. They were headed towards CM House to present their demands that pertained to the service structure for delegating powers for transfers and postings to district officers. The protesters chanted slogans and attempted to move towards the CM House. However, when they arrived near Fawara Chowk, police ba",
+   "score": 4
+  },
+  {
+   "id": "555f715f10b0",
+   "title": "Pakistan, UK express concern at threat posed by terrorist groups operating in and from Afghanistan: FO",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042085/pakistan-uk-express-concern-at-threat-posed-by-terrorist-groups-operating-in-and-from-afghanistan-fo",
+   "date": "2026-11-04T12:17:28Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "Pakistan and the United Kingdom on Wednesday expressed concerns over the ongoing threat from terrorist groups operating in and from Afghanistan, the Foreign Office said. According to a statement by the FO, the two countries held their annual bilateral dialogue on counter-terrorism in Islamabad, in which they reviewed ongoing bilateral and multilateral counter-terrorism cooperation and reaffirmed their shared commitment to combatting terrorism in all its forms. “The two sides discussed in detail the evolving regional and global security environment and exchanged views on the threats posed by te",
+   "score": 7
+  },
+  {
+   "id": "90a7e47cbdb3",
+   "title": "Schools in Sindh to remain closed on Nov 9 on account of Iqbal Day",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042077/schools-in-sindh-to-remain-closed-on-nov-9-on-account-of-iqbal-day",
+   "date": "2026-11-04T11:04:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Sindh government announced on Wednesday that all public and private schools across the province would remain closed on Nov 9 (Monday) to mark the birth anniversary of Dr Allama Muhammad Iqbal, the national poet of Pakistan. The Sindh Information Department posted a notification by the School Education and Literacy Department on the social media platform X. “In pursuance of the decision taken in the meeting of Steering Committee on Education held on Feb 12, all public and private educational institutions under the administrative control of the School Education and Literacy Department, gover",
+   "score": 1
+  },
+  {
+   "id": "c03e480f120a",
+   "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+   "date": "2026-11-04T12:24:39Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "desc": "With U.S. President Donald Trump’s Republicans facing a major loss, the results could affect India’s position on the Iran war, Russian oil, the trade deal, immigration and China policy",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "12b150e40f74",
+   "title": "Israel election commission rejects Benjamin Netanyahu charges of fraud",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-election-commission-rejects-benjamin-netanyahu-charges-of-fraud/article71665384.ece",
+   "date": "2026-11-04T11:40:25Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The Central Elections Committee said it had conducted an audit of 9,069 polling stations following complaints and was confident that the announced results accurately reflect the will of the voters",
+   "score": 6,
+   "dup_of": "8e713eb74b28"
+  },
+  {
+   "id": "fabb9fdbd090",
+   "title": "Jaishankar highlights importance of digital public infrastructure at Commonwealth meet in Antigua and Barbuda",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/jaishankar-highlights-importance-of-digital-public-infrastructure-at-commonwealth-meet-in-antigua-and-barbuda/article71665005.ece",
+   "date": "2026-11-04T11:27:56Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Mr. Jaishankar also spoke about India's recent Free Trade Agreements and other ongoing negotiations at the meeting",
+   "score": 3
+  },
+  {
+   "id": "6930ae705eb9",
+   "title": "Attack on vessel near Hormuz Strait: Deceased sailor hailed from Gujarat, kin plan burial in Oman",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/attack-on-vessel-near-hormuz-strait-deceased-sailor-hailed-from-gujarat-kin-plan-burial-in-oman/article71665279.ece",
+   "date": "2026-11-04T11:15:37Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "Nahim Ajij Gandhar was among the 14 crew members on board the vessel, which was registered at Bedi port in Gujarat’s Jamnagar district",
+   "score": 4,
+   "dup_of": "d8df9dc711ae"
   }
  ]
 }
