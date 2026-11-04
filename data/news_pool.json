@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:17:07Z",
+ "updated": "2026-11-04T22:02:57Z",
  "items": [
   {
    "id": "0f1a935f2e2b",
@@ -2904,7 +2904,8 @@
     "IRN"
    ],
    "desc": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
-   "score": 5
+   "score": 5,
+   "dup_of": "352f4e5c9453"
   },
   {
    "id": "8612c432abb2",
@@ -3833,8 +3834,213 @@
     "IRN"
    ],
    "desc": "بفوزهم بالغالبية في مجلسَي النواب والشيوخ، أصبحت للديموقراطيين اليد الطولى في تعطيل أجندة ترامب التشريعية ورفض تعييناته في الحكومة أو في القضاء.",
+   "score": 8
+  },
+  {
+   "id": "4439dbb93799",
+   "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+   "date": "2026-11-04T21:13:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
+   "score": 7
+  },
+  {
+   "id": "1afac6f78eff",
+   "title": "US midterm election results live: Trump blames Iran war after losses",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+   "date": "2026-11-04T21:00:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
    "score": 8,
-   "dup_of": "1358d30e5c59"
+   "dup_of": "9aa911f39fbd"
+  },
+  {
+   "id": "eaa6b52280c8",
+   "title": "Will the US resume its attacks on Iran?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+   "date": "2026-11-04T20:25:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran says it's ready with a maximum deterrence plan.",
+   "score": 6,
+   "dup_of": "6a11613f2eb8"
+  },
+  {
+   "id": "e8d44099fee5",
+   "title": "Iranians celebrate Democrat victory in US midterms",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+   "date": "2026-11-04T19:59:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+   "score": 5
+  },
+  {
+   "id": "03ca8dc25af4",
+   "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+   "date": "2026-11-04T20:00:43Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email , free app or daily news podcast Millions of dollars of food grown in illegal Israeli settlements in the occupied West Bank has been shipped to Australia labelled as “produce of Israel”, a new analysis of trade data has shown. The human rights legal organisation Global Echo has analysed commercial documents and official trade data from the Israeli government and the Australian Bureau of Statistics, showing at le",
+   "score": 4
+  },
+  {
+   "id": "43e490bb19da",
+   "title": "The midterms were a thumping rebuke of the US-Israel relationship",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+   "date": "2026-11-04T19:22:43Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same On the eve of a midterm election that ended in an unequivocal rejection of his brand of politics, even Donald Trump seemed to recognize that the US-Israel relationship had become a political liability. Trump’s 11th-hour suggestion, on election morning, that he would cut military aid to Israel at the end of the year because, as he put it, “they don’t need it”, was condemned across the board – with pro-Palestinian advocates dismissing it as “desperate” and pro-Israel ones as “unserious",
+   "score": 5
+  },
+  {
+   "id": "4752ae9d0ba2",
+   "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
+   "date": "2026-11-04T21:26:53Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli Prime Minister Benjamin Netanyahu on Wednesday cited \"serious suspicions\" around foreign interference in Israel's recent parliamentary elections. He claims foreign countries spent large amounts of money to influence the results, while the largest Arab-Israeli bloc called such accusations \"political persecution\".",
+   "score": 6,
+   "dup_of": "8e713eb74b28"
+  },
+  {
+   "id": "36f838dcf184",
+   "title": "Egyptian doctor who undertook medical missions to Gaza will now go to Congress",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-doctor-who-undertook-medical-missions-gaza-will-now-go-congress",
+   "date": "2026-11-04T21:48:18Z",
+   "countries": [
+    "EGY",
+    "PSE"
+   ],
+   "desc": "Egyptian doctor who undertook medical missions to Gaza will now go to Congress Egyptian-American surgeon Adam Hamawy has won his bid for Congress in New Jersey’s 12th congressional district, joining the blue wave across the US and making history as the first Muslim and Egyptian American to represent the state. During his victory speech in the midterm elections on Tuesday, he spoke directly to the people in Gaza, saying: “To the men, women and children of Gaza and Palestine. Your smiles give me the courage and the hope to fight for a better world.\" Republicans previously held the majority of th",
+   "score": 3
+  },
+  {
+   "id": "9f4605cf72a7",
+   "title": "Saudi, Syrian defence ministries sign cooperation agreement",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-syrian-defence-ministries-sign-cooperation-agreement",
+   "date": "2026-11-04T21:32:47Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "Saudi, Syrian defence ministries sign cooperation agreement Saudi Arabia and Syria signed a defence cooperation agreement on Wednesday, Saudi news agency SPA reported, amid the kingdom's ongoing conflict with Yemen's Houthis. The agreement was signed during a visit by Syrian President Ahmed al-Sharaa to Riyadh, where he met Saudi Crown Prince Mohammed bin Salman - their second meeting in a month. Details of the agreement have not been disclosed, but Reuters reported last month that Syria was carefully weighing providing military assistance to Saudi Arabia amid the kingdom's escalating war agai",
+   "score": 7
+  },
+  {
+   "id": "f79b0fd9b685",
+   "title": "Bessent says ‘you are either with us or against us’ after new Iran-linked sanctions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bessent-says-you-are-either-us-or-against-us-after-new-iran-linked",
+   "date": "2026-11-04T20:47:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Bessent says ‘you are either with us or against us’ after new Iran-linked sanctions US Treasury Secretary Scott Bessent said on Wednesday that \"you are either with us or against us\" after his department issued fresh sanctions targeting what it described as a “vast criminal network” aiding Iran’s shadow fleet of oil tankers. \"As we have said many times, under Operation Economic Outcast, you are either with us or against us,\" Bessent wrote in a post on X. \"We know where you are, and we will sanction those who continue supporting the Iranian regime, whether by land, sea, or air,\" he added. As we ",
+   "score": 8
+  },
+  {
+   "id": "3a52ebbf65ae",
+   "title": "Netanyahu says 'serious suspicions' of foreign interference in vote",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-serious-suspicions-foreign-interference-vote",
+   "date": "2026-11-04T20:11:18Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu says 'serious suspicions' of foreign interference in vote Israeli Prime Minister Benjamin Netanyahu said on Wednesday that there are \"serious suspicions\" of foriegn interference in the Israeli elections after his Likud party suffered resounding defeats in the recent vote. \"There are serious suspicions that foreign states have spent considerable sums to influence the outcome of the elections in Israel,\" Netanyahu said in a video posted on social media. He blamed \"extremist Islam\" for \"tearing apart countries in Europe\", adding that this \"challenge\" cannot be confronted by \"a governmen",
+   "score": 6,
+   "dup_of": "4752ae9d0ba2"
+  },
+  {
+   "id": "76e41021419b",
+   "title": "Israel's Eisenkot vows to 'deepen' ties to US if he becomes PM",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-eisenkot-vows-deepen-ties-us-if-he-becomes-pm",
+   "date": "2026-11-04T19:35:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's Eisenkot vows to 'deepen' ties to US if he becomes PM Israeli opposition bloc leader Gadi Eisenkot vowed on Wednesday to strengthen ties with the US and work with President Donald Trump to stabilise the Middle East if he becomes prime minister. \"Under my leadership, we will renew and deepen that partnership, strengthen the bipartisan foundations that have long sustained it,\" Eisenkot said, adding that he looked forward to working with Trump to \"advance our shared security interests, strengthen regional stability, and open new doors to prosperity for the peoples of the Middle East\". Re",
+   "score": 7,
+   "dup_of": "ad08c7d92065"
+  },
+  {
+   "id": "c6e85c06e4b2",
+   "title": "'United opposition' gathers at Fazl's Islamabad residence, vows stronger alliance",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042114/united-opposition-gathers-at-fazls-islamabad-residence-vows-stronger-alliance",
+   "date": "2026-11-04T20:34:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Opposition leaders on Wednesday gathered at the residence of Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman in Islamabad and agreed to strengthen their alliance and parliamentary coordination. After a meeting during which they discussed several matters, including the emergency and governor’s rule in Khyber Pakhtunkhwa, JUI-F and TTAP decided to form committees to resolve mutual differences and take forward consultations on a multi-party conference (MPC). National Assembly (NA) and Senate opposition leaders, Mahmood Khan Achakzai and Allama Raja Nasir Abbas, respectively, attende",
+   "score": 6
+  },
+  {
+   "id": "3d982c0e2aad",
+   "title": "Damning report: On Justice Muralidhar’s report on Israeli atrocities",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece",
+   "date": "2026-11-04T19:24:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The world must act on Justice Muralidhar’s report on Israeli atrocities",
+   "score": 4
+  },
+  {
+   "id": "81754acaeee1",
+   "title": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+   "date": "2026-11-04T19:18:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Donald Trump said the war has been worth it to stop Tehran from “having ‌a nuclear weapon”",
+   "score": 7,
+   "dup_of": "9aa911f39fbd"
   }
  ]
 }
