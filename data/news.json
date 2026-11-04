@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-03T21:59:06Z",
- "count": 375,
+ "updated": "2026-11-04T01:23:50Z",
+ "count": 377,
  "items": [
+  {
+   "id": "c9d1b1dab55e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cw073leglm8zt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T01:16:09Z",
+   "countries": [
+    "EGY",
+    "IRN"
+   ],
+   "score": 7,
+   "title": "گفتگوی تلفنی وزاری خارجه ایران و مصر؛ قاهره خواستار انعطاف بیشتر شد",
+   "title_en": "گفتگوی تلفنی وزاری خارجه ایران و مصر؛ قاهره خواستار انعطاف بیشتر شد",
+   "summary_en": "Egyptian Foreign Minister Badr Abdelatty called on Iran and the US to exercise restraint and show flexibility in negotiations to reach a political solution.",
+   "body_en": [
+    "In a statement, the Egyptian Ministry of Foreign Affairs said Minister Badr Abdelatty urged Iranian Foreign Minister Abbas Araghchi during a phone call for all parties to show flexibility to prevent further military escalation in the region.",
+    "Meanwhile, Mohsen Rezaei, secretary of Iran's National Security Council, stated on X that the US response to Tehran's demands was unconvincing. He stressed that Washington must fully respond to Iran's seven conditions before the Strait of Hormuz can be reopened."
+   ],
+   "title_fa": "گفتگوی تلفنی وزاری خارجه ایران و مصر؛ قاهره خواستار انعطاف بیشتر شد",
+   "summary_fa": "بدر عبدالعاطی، وزیر خارجه مصر، در گفت‌وگوی تلفنی با عباس عراقچی خواستار خویشتن‌داری و انعطاف‌پذیری ایران و آمریکا در مذاکرات برای دستیابی به راهکار سیاسی شد.",
+   "body_fa": [
+    "وزارت خارجه مصر در بیانیه‌ای اعلام کرد بدر عبدالعاطی در گفت‌وگوی تلفنی با عباس عراقچی، وزیر خارجه ایران، تاکید کرده که تمامی طرف‌ها باید از خود انعطاف نشان دهند تا از تشدید تنش‌های نظامی جلوگیری شود.",
+    "در همین حال، محسن رضایی، دبیر شورای عالی امنیت ملی ایران، در شبکه ایکس نوشت که پاسخ آمریکا به مطالبات ایران قانع‌کننده نبوده است. او تاکید کرد تنها در صورت پاسخ کامل و صریح آمریکا به هفت شرط ایران، تنگه هرمز باز خواهد شد."
+   ],
+   "title_ar": "اتصال هاتفي بين وزيري خارجية إيران ومصر؛ القاهرة تطالب بمزيد من المرونة",
+   "summary_ar": "دعا وزير الخارجية المصري بدر عبد العاطي، خلال اتصال هاتفي مع عباس عراقجي، إيران والولايات المتحدة إلى إبداء ضبط النفس والمرونة في المفاوضات للوصول إلى حل سياسي.",
+   "body_ar": [
+    "وأعلنت وزارة الخارجية المصرية في بيان أن الوزير بدر عبد العاطي أكد لوزير الخارجية الإيراني عباس عراقجي ضرورة إبداء جميع الأطراف مرونة لتجنب تصاعد المواجهات العسكرية في المنطقة.",
+    "في غضون ذلك، صرح محسن رضائي، أمين مجلس الأمن القومي الإيراني، عبر منصة إكس بأن الرد الأمريكي على مطالب إيران لم يكن مقنعاً. وأكد أن مضيق هرمز لن يُفتح إلا بعد استجابة واشنطن الكاملة والصريحة للشروط الإيرانية السبعة."
+   ]
+  },
+  {
+   "id": "d5a29ca6b4fd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "date": "2026-11-04T00:00:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "title_en": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "summary_en": "Iran announced that it has prepared a \"maximum deterrence\" plan to counter any new military action by the United States.",
+   "body_en": [
+    "Tehran stated that its response to any new attack by US forces would be immediate."
+   ],
+   "title_fa": "پوشش زنده جنگ ایران: تهران طرح «بازدارندگی حداکثری» را برای هرگونه حمله جدید آماده می‌کند",
+   "summary_fa": "ایران اعلام کرد که طرحی را تحت عنوان «بازدارندگی حداکثری» برای مقابله با هرگونه حمله نظامی جدید آمریکا آماده کرده است.",
+   "body_fa": [
+    "تهران هشدار داده است که پاسخ آن به هرگونه حمله جدید نیروهای آمریکایی فوری خواهد بود."
+   ],
+   "title_ar": "تغطية مباشرة لحرب إيران: تهران تعد خطة \"ردع أقصى\" لأي هجوم جديد",
+   "summary_ar": "أعلنت إيران أنها أعدت خطة \"ردع أقصى\" لمواجهة أي عمل عسكري جديد من جانب الولايات المتحدة.",
+   "body_ar": [
+    "وحذرت تهران من أن ردها على أي هجوم جديد تشنه القوات الأمريكية سيكون فورياً."
+   ]
+  },
   {
    "id": "e3cbe9826f05",
    "lang": "en",
