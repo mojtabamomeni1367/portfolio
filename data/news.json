@@ -1,7 +1,124 @@
 {
- "updated": "2026-11-04T04:10:01Z",
- "count": 380,
+ "updated": "2026-11-04T07:34:50Z",
+ "count": 384,
  "items": [
+  {
+   "id": "cf064f177920",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T07:17:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 10,
+   "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+   "title_en": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) reported that four oil tankers were destroyed by naval mines in the Strait of Hormuz after traveling an unauthorized route, following recent US military strikes on the country.",
+   "body_en": [
+    "According to the IRGC, two of the hit vessels remained on fire while two additional tankers were seized. The IRGC also reported that three other tankers were destroyed by mines earlier in the week and an MQ-9 drone was shot down over the strait.",
+    "The developments occurred amid comments by Iranian officials, including parliamentary speaker Mohammad Bagher Ghalibaf and President Masoud Pezeshkian, on the conflict and US midterm elections. Meanwhile, US President Donald Trump acknowledged the impact of the war on election results but stated the conflict would end on his terms."
+   ],
+   "title_fa": "سپاه پاسداران ایران: چهار نفتکش بر اثر برخورد با مین‌های دریایی در تنگه هرمز نابود شدند",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که چهار نفتکش پس از حرکت در یک مسیر ممنوعه در تنگه هرمز بر اثر برخورد با مین‌های دریایی نابود شده‌اند.",
+   "body_fa": [
+    "به گفته سپاه پاسداران، دو فروند از شناورهای آسیب‌دیده همچنان در آتش می‌سوزند و دو نفتکش دیگر نیز توقیف شده‌اند. سپاه همچنین گزارش داد که سه نفتکش دیگر نیز اوایل هفته بر اثر برخورد با مین نابود شده و یک پهپاد ام‌کیو-۹ بر فراز تنگه سرنگون شده است.",
+    "این تحولات در پی اظهارات مقامات ایرانی از جمله محمدباقر قالیاف، رئیس مجلس، و مسعود پزشکیان، رئیس‌جمهور، درباره تنش‌ها و انتخابات میان‌دوره‌ای آمریکا صورت گرفت. در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، با اذعان به تأثیر جنگ بر نتایج انتخابات اعلام کرد که پایان نزاع به تصمیم او خواهد بود."
+   ],
+   "title_ar": "الحرس الثوري الإيراني ينفي تدمير أربع ناقلات نفط بملاغم بحرية في مضيق هرمز",
+   "summary_ar": "أعلن الحرس الثوري الإيراني عن تدمير أربع ناقلات نفط جراء اصطدامها بألغام بحرية في مضيق هرمز بعد سلوكها مساراً حظراً، وذلك عقب ضربات عسكرية أمريكية استهدفت البلاد مؤخراً.",
+   "body_ar": [
+    "وبحسب الحرس الثوري، فإن اثنتين من السفن المتضررة ما زالتا تشتعلان، بينما تم احتجاز ناقلتين إضافيتين. كما أفاد الحرس الثوري بتدمير ثلاث ناقلات أخرى بالألغام في وقت سابق وإسقاط طائرة مسيرة من طراز MQ-9 فوق المضيق.",
+    "تأتي هذه التطورات في ظل تصريحات لمسؤولين إيرانيين، بينهم رئيس البرلمان محمد باقر قاليباف والرئيس مسعود بزشكيان، حول الصراع والانتخابات النصفية الأمريكية. من جانبه، أقر الرئيس الأمريكي دونالد ترامپ بتأثير الحرب على نتائج الانتخابات لكنه أكد أن النزاع سينتهي وفق ما يراه."
+   ]
+  },
+  {
+   "id": "044c00a11838",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israels-unassuming-president-herzog-holds-keys-to-next-government/article71664315.ece",
+   "date": "2026-11-04T06:31:10Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel's unassuming President Herzog holds keys to next government",
+   "title_en": "Israel's unassuming President Herzog holds keys to next government",
+   "summary_en": "Israeli President Isaac Herzog has begun consultations to determine which political leader will be tasked with forming the next coalition government following an inconclusive election between Benjamin Netanyahu and Gadi Eisenkot.",
+   "body_en": [
+    "Under Israeli law, the president has broad discretion to select the candidate deemed to have the best chance of building a government. Herzog emphasised his intention to avoid snap elections and indicated openness to supporting a unity government.",
+    "Herzog stressed that his decision would remain independent of external pressure, including from US President Donald Trump, who has previously pressed for a pardon regarding Netanyahu's ongoing trials."
+   ],
+   "title_fa": "اسحاق هرتزوگ، رئیس‌جمهور متواضع اسرائیل، کلید دولت بعدی را در دست دارد",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، رایزنی‌های خود را برای تعیین فرد مأمور تشکیل دولت ائتلافی پس از انتخابی که در آن هیچ‌یک از اردوگاه‌های بنیامین نتانیاهو و گادی آیزنکوت اکثریت را به دست نیاوردند، آغاز کرده است.",
+   "body_fa": [
+    "طبق قوانین اسرائیل، رئیس‌جمهور اختیارات گسترده‌ای برای انتخاب نامزدی دارد که بیشترین شانس را برای تشکیل دولت دارد. هرتزوگ تأکید کرد که تمام تلاش خود را برای جلوگیری از برگزاری انتخابات مجدد به کار خواهد بست و از ایده دولت وحدت ملی حمایت می‌کند.",
+    "هرتزوگ تصریح کرد که تصمیم او تحت تأثیر فشارهای خارجی، از جمله از سوی دونالد ترامپ، رئیس‌جمهور آمریکا، قرار نخواهد گرفت؛ ترامپ پیش‌تر خواستار صدور عفو برای پرونده‌های قضایی نتانیاهو شده بود."
+   ],
+   "title_ar": "يتسحاق هرتسوغ رئيس إسرائيل المتواضع يمسك بمفاتيح الحكومة المقبلة",
+   "summary_ar": "بدأ رئيس إسرائيل يتسحاق هرتسوغ مشاوراته لتحديد الشخصية المكلفة بتشكيل الحكومة الائتلافية المقبلة، عقب انتخابات لم يحصل فيها معسكر بنيامين نتنياهو ولا معسكر غادي آيزنكوت على الأغلبية.",
+   "body_ar": [
+    "بموجب القانون الإسرائيلي، يمتلك الرئيس صلاحيات واسعة لاختيار المرشح الأقدر على تشكيل الحكومة. وأكد هرتسوغ سعي لتجنب انتخابات جديدة وإمكانية دعم حكومة وحدة وطنية.",
+    "وشدد هرتسوغ على أن قراره لن يخضع لأي ضغوط خارجية، بما في ذلك ضغوط الرئيس الأمريكي دونالد ترامب، الذي دعا سابقاً لمنح محاكمة نتنياهو عفواً رئاسياً."
+   ]
+  },
+  {
+   "id": "3bebe1e40db6",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+   "date": "2026-11-04T04:39:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 10,
+   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+   "title_en": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+   "summary_en": "Iran has described the United States' response to its terms for reopening the Strait of Hormuz as unconvincing, while US President Donald Trump confirmed strikes on an anti-aircraft facility on Qeshm Island.",
+   "body_en": [
+    "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, stated that Washington must fully address Iran's seven conditions. Meanwhile, mediator Qatar confirmed that the exchange of proposals between both nations remains ongoing.",
+    "Trump described the strike on Qeshm Island as a minor defensive operation. The incident comes alongside renewed reports of military activity and attacks on commercial shipping in the region."
+   ],
+   "title_fa": "ایران پاسخ آمریکا به طرح هرمز را «غیرقانونی» خواند؛ ترامپ حملات را تأیید کرد",
+   "summary_fa": "ایران پاسخ ایالات متحده به شروط خود برای بازگشایی تنگه هرمز را غیرقانونی و غیرقانع‌کننده خواند، در حالی که دونالد ترامپ، رئیس‌جمهور آمریکا، حملات به تاسیسات پدافندی در جزیره قشم را تأیید کرد.",
+   "body_fa": [
+    "محسن رضایی، دبیر شورای عالی امنیت ملی ایران، اعلام کرد که واشنگتن باید به طور کامل به هفت شرط ایران پاسخ دهد. در همین حال، قطر به عنوان میانجی تأیید کرد که تبادل پیام‌ها و پیشنهادها بین دو کشور همچنان ادامه دارد.",
+    "ترامپ حمله به جزیره قشم را یک عملیات دفاعی کوچک توصیف کرد. این حادثه هم‌زمان با گزارش‌های جدید از تحرکات نظامی و حملات به کشتی‌های تجاری در منطقه رخ داده است."
+   ],
+   "title_ar": "إيران تصف الرد الأمريكي على خطة هرمز بـ \"غير المقنع\"؛ وترامب يؤكد تنفيذ ضربات",
+   "summary_ar": "وصفت إيران الرد الأمريكي على شروطها لإعادة فتح مضيق هرمز بأنه غير مقنع، في حين أكد الرئيس الأمريكي دونالد ترامب تنفيذ ضربات استهدفت منشأة لمضادات الطائرات في جزيرة قشم.",
+   "body_ar": [
+    "صرح محسن رضائي، أمين المجلس الأعلى للأمن القومي الإيراني، بأنه يتوجب على واشنطن الاستجابة لشروط إيران السبعة بشكل كامل. في غضون ذلك، أكدت قطر التي تلعب دور الوسيط استمرار تبادل المقترحات بين الطرفين.",
+    "ووصف ترامب الضربة على جزيرة قشم بأنها عملية دفاعية محدودة. وتأتي هذه التطورات بالتزامن مع تقارير عن نشاط عسكري وهجمات استهدفت السفن التجارية في المنطقة."
+   ]
+  },
+  {
+   "id": "a70b9239c8fa",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041950/bigwigs-review-kp-situation-after-federal-takeover",
+   "date": "2026-11-04T04:15:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Bigwigs review KP situation after federal takeover",
+   "title_en": "Bigwigs review KP situation after federal takeover",
+   "summary_en": "Pakistan Prime Minister Shehbaz Sharif met with PPP Chairman Bilawal Bhutto-Zardari and military chief Field Marshal Asim Munir to discuss the situation in Khyber Pakhtunkhwa following the imposition of governor's rule.",
+   "body_en": [
+    "The consultative meeting addressed provincial security, governance measures in Khyber Pakhtunkhwa, and updates from Balochistan. The leaders also discussed the expedited formation of a proposed Parliamentary Committee on Electoral Reforms."
+   ],
+   "title_fa": "بررسی وضعیت خیبر پختونخوا توسط مقامات ارشد پس از تحویل اداره آن به دولت فدرال",
+   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در دیدارهایی با بلاول بهوتو زرداری، رئیس حزب مردم، و عاصم منیر، فرمانده ارتش، وضعیت استان خیبر پختونخوا را پس از برقراری حکومت فرمانداری بررسی کرد.",
+   "body_fa": [
+    "در این نشست‌های مشورتی، مسائل امنیتی استان‌ها، تدابیر اداری در خیبر پختونخوا و وضعیت بلوچستان مورد بحث قرار گرفت. رهبران همچنین بر تسریع در تشکیل کمیته پارلمانی اصلاحات انتخاباتی تأکید کردند."
+   ],
+   "title_ar": "كبار المسؤولين يراجعون الأوضاع في خيبر بختونخوا بعد فرض الإدارة الاتحادية",
+   "summary_ar": "عقد رئيس الوزراء الباكستاني شهباز شريف اجتماعات مع رئيس حزب الشعب بيلاوال بوتو زرداري وقائد الجيش عاصم منير لمراجعة الأوضاع في إقليم خيبر بختونخوا عقب فرض حكم المحافظ.",
+   "body_ar": [
+    "تناولت اللقاءات التشاورية الأوضاع الأمنية والإجراءات الإدارية في خيبر بختونخوا وبلوشستان. كما ناقش المشاركون الإسراع في تشكيل اللجنة البرلمانية لإصلاح الانتخابات."
+   ]
+  },
   {
    "id": "b9184082908b",
    "lang": "en",
