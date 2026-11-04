@@ -1,7 +1,68 @@
 {
- "updated": "2026-11-04T13:29:24Z",
- "count": 393,
+ "updated": "2026-11-04T16:17:22Z",
+ "count": 397,
  "items": [
+  {
+   "id": "8719f8b1e2a3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042079/38-detained-in-karachi-as-police-baton-charge-protesters-headed-towards-cm-house",
+   "date": "2026-11-04T14:06:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "38 detained in Karachi as police baton-charge protesters headed towards CM House",
+   "title_en": "38 detained in Karachi as police baton-charge protesters headed towards CM House",
+   "summary_en": "Police in Karachi detained 38 protesting teachers and used tear gas and batons to disperse a march attempting to reach the Chief Minister House.",
+   "body_en": [
+    "Hundreds of teachers gathered outside the Karachi Press Club on the call of the All Sindh Primary Teachers Association, demanding changes to service structures and the delegation of transfer powers to district officers. As the demonstrators marched toward the Red Zone and breached police barricades near Governor House Road, authorities intervened with force.",
+    "South Deputy Inspector General Syed Asad Raza stated that negotiations had failed after protesters turned violent and threw stones, injuring an official. Meanwhile, a representative of the teachers' association defended the protest, citing unfulfilled government promises regarding pay scales and policies from previous years."
+   ],
+   "title_fa": "بازداشت ۳۸ نفر در کراچی در پی یورش پلیس با باتوم به معترضان به سمت دفتر سروزیر",
+   "summary_fa": "پلیس کراچی ۳۸ معلم معترض را بازداشت کرد و برای متفرق کردن راهپیمایی آن‌ها به سمت دفتر سروزیر، از گاز اشک‌آور و باتوم استفاده کرد.",
+   "body_fa": [
+    "صدها معلم به فراخوان انجمن معلمان ابتدایی سند در مقابل باشگاه خبرنگاران کراچی تجمع کرده و خواستار تغییر در ساختارهای خدماتی و واگذاری اختیارات نقل و انتقالات به مقامات استانی شدند. هنگامی که تظاهرکنندگان به سمت منطقه قرمز حرکت کرده و موانع پلیس را شکستند، نیروهای امنیتی با زور مداخله کردند.",
+    "سید اسد رضا، معاون فرمانده پلیس منطقه جنوب، اظهار داشت که پس از خشونت معترضان و پرتاب سنگ که منجر به زخمی شدن یک مامور شد، مذاکرات شکست خورد. در همین حال، یکی از نمایندگان انجمن معلمان از اعتراضات دفاع کرد و به وعده‌های برآورده نشده دولت درباره مقیاس حقوق و سیاست‌های سال‌های گذشته اشاره کرد."
+   ],
+   "title_ar": "احتجاز 38 شخصاً في كراتشي إثر استخدام الشرطة الهراوات ضد محتجين متوجهين إلى مكتب رئيس الوزراء الإقليمي",
+   "summary_ar": "احتجبت شرطة كراتشي 38 معلماً محتجا واستخدمت الغاز المسيل للدموع والهراوات لتفريق مسيرة كانت محاولة الوصول إلى مكتب رئيس الوزراء الإقليمي.",
+   "body_ar": [
+    "تجمع مئات المعلمين خارج نادي الصحافة في كراتشي بدعوة من جمعية معلمي المرحلة الابتدائية في سند، مطالبين بتغييرات في هيكل الخدمة وتفويض صلاحيات النقل لمسؤولي المقاطعات. وعندما تقدم المتظاهرون نحو المنطقة الحمراء واجتازوا حواجز الشرطة، تدخلت السلطات بالقوة.",
+    "صرح نائب المفتش العام لمنطقة الجنوب سيد أسد رضا بأن المفاوضات فشلت بعد أن أصبح المتظاهرون عنيفين وألقوا الحجارة، مما أدى إلى إصابة مسؤول. وفي الوقت نفسه، دافع ممثل عن جمعية المعلمين عن الاحتجاج، مشيراً إلى وعود حكومية غير مנוفة بشأن جداول الرواتب."
+   ]
+  },
+  {
+   "id": "4b2f49e6e457",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+   "date": "2026-11-04T13:29:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+   "title_en": "Jerusalem Daily: Mass arrests across occupied West Bank",
+   "summary_en": "Israeli forces have arrested at least 45 people in the occupied West Bank since Tuesday, amidst ongoing military actions that also included the bombardment of displacement camps in Gaza.",
+   "body_en": [
+    "Families in Gaza continue to face severe hardships as they prepare for the winter season while coping with ongoing Israeli bombardment of displacement camps.",
+    "Concurrently, security operations and arrests have intensified across the occupied West Bank, according to reports."
+   ],
+   "title_fa": "روزنامه اورشلیم: دستگیری‌های گسترده در سراسر کرانه باختری اشغالی",
+   "summary_fa": "نیروهای اسرائیلی از روز سه‌شنبه دست کم ۴۵ نفر را در کرانه باختری اشغالی بازداشت کرده‌اند، در حالی که اقدامات نظامی این رژیم شامل بمباران اردوگاه‌های آوارگان در غزه نیز بوده است.",
+   "body_fa": [
+    "خانواده‌ها در غزه همزمان با بمباران اردوگاه‌های آوارگان توسط اسرائیل، با سختی‌های زیادی برای آماده شدن جهت فصل سرما مواجه هستند.",
+    "بر اساس گزارش‌ها، همزمان عملیات امنیتی و بازداشت‌ها در سراسر کرانه باختری اشغالی تشدید شده است."
+   ],
+   "title_ar": "صحيفة القدس اليومية: حملة اعتقالات واسعة في جميع أنحاء الضفة الغربية المحتلة",
+   "summary_ar": "اعتقلت القوات الإسرائيلية 45 شخصاً على الأقل في الضفة الغربية المحتلة منذ يوم الثلاثاء، وسط عمليات عسكرية مستمرة شملت أيضاً قصف مخيمات النازحين في غزة.",
+   "body_ar": [
+    "تواصل العائلات في غزة مواجهة صعوبات بالغة في الاستعداد لفصل الشتاء بينما تستمر إسرائيل في قصف مخيمات النازحين.",
+    "في الوقت ذاته، تكتثفت العمليات الأمنية وعمليات الاعتقال في جميع أنحاء الضفة الغربية المحتلة، وفقاً للتقارير."
+   ]
+  },
   {
    "id": "2e07af688a74",
    "lang": "en",
@@ -146,6 +207,36 @@
    ]
   },
   {
+   "id": "1358d30e5c59",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+   "date": "2026-11-04T11:24:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "‘Seismic shift’: World reacts to US midterm election results",
+   "title_en": "‘Seismic shift’: World reacts to US midterm election results",
+   "summary_en": "Democrats have secured a major victory in the United States midterm elections by taking control of both chambers of Congress, prompting diverse reactions from international leaders.",
+   "body_en": [
+    "Foreign leaders and officials are closely evaluating how the shift in power in Washington could impact global policies, ranging from European security and support for Ukraine to Middle Eastern dynamics and trade relations.",
+    "While some figures expressed optimism or noted potential changes in US foreign engagement, others emphasized that their foundational ties with Washington remain strong and unchanged regardless of domestic political fluctuations."
+   ],
+   "title_fa": "«تحول لرزه‌ای»: واکنش جهان به نتایج انتخابات میان‌دوره‌ای ایالات متحده",
+   "summary_fa": "دموکرات‌ها با به دست گرفتن کنترل هر دو مجلس کنگره پیروزی بزرگی در انتخابات میان‌دوره‌ای ایالات متحده کسب کردند که واکنش‌های گوناگونی را از سوی رهبران جهان به دنبال داشت.",
+   "body_fa": [
+    "رهبران و مقام‌های خارجی به دقت در حال ارزیابی این موضوع هستند که تغییر قدرت در واشنگتن چگونه می‌تواند بر سیاست‌های جهانی، از امنیت اروپا و حمایت از اوکراین گرفته تا پویایی‌های خاورمیانه و روابط تجاری تأثیر بگذارد.",
+    "در حالی که برخی چهره‌ها ابراز خوش‌بینی کرده یا به تغییرات احتمالی در تعهدات خارجی ایالات متحده اشاره کردند، برخی دیگر تأکید کردند که روابط اساسی آن‌ها با واشنگتن بدون توجه به نوسانات سیاسی داخلی قوی و دست‌نخورده باقی می‌ماند."
+   ],
+   "title_ar": "«تحول زلزالي»: العالم يتفاعل مع نتائج الانتخابات النصفية الأمريكية",
+   "summary_ar": "حقق الديمقراطيون فوزاً كبيراً في الانتخابات النصفية بالولايات المتحدة من خلال السيطرة على مجلسي الكونغرس، مما أثار ردود فعل متباينة من الزعماء الدوليين.",
+   "body_ar": [
+    "يقيم الزعماء والمسؤولون الأجانب عن كثب كيف يمكن أن تؤثر تحولات السلطة في واشنگتن على السياسات العالمية، بدءاً من الأمن الأوروبي ودعم أوكرانيا وصولاً إلى ديناميكيات الشرق الأوسط والعلاقات التجارية.",
+    "وفي حين أعربت بعض الشخصيات عن تفاؤلها أو أشارت إلى تغييرات محتملة في المشاركة الخارجية الأمريكية، أكد آخرون أن علاقاتهم الأساسية مع واشنگتن تظل قوية وثابتة بغض النظر عن التقلبات السياسية المحلية."
+   ]
+  },
+  {
    "id": "8612c432abb2",
    "lang": "en",
    "source": "Al Jazeera",
@@ -200,6 +291,38 @@
    "summary_ar": "أعلن رئيس الوزراء الباكستاني شهباز شريف خلال اجتماع لمجلس الوزراء أن بلاده تواصل جهودها الدبلوماسية لاستعادة السلام في الشرق الأوسط. وأشار إلى أن أسعار النفط العالمية ارتفعت بشكل كبير بسبب عدم الاستقرار في المنطقة.",
    "body_ar": [
     "وأشار رئيس الوزراء شهباز في كلمته إلى اتصالات پاکستان الأخيرة مع تهران وأطراف إقليمية أخرى، بالإضافة إلى الجهود المبذولة في إطار اتفاقية مكة للدفاع المشترك. كما تطرق إلى التدابير المحلية للحد من ارتفاع أسعار الوقود، مشيراً إلى أن وزير البترول اتفق مع المكررات على تحمل زيادة الأسعار بدلاً من فرض زيادة قدرها 15 روبية على المستهلكين."
+   ]
+  },
+  {
+   "id": "30dddfaae3f7",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
+   "date": "2026-11-04T09:51:33Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SYR"
+   ],
+   "score": 5,
+   "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+   "title_en": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+   "summary_en": "A new nationwide survey indicates that a majority of Syrians view Israel as the primary security threat to their country and the region, with Iran ranking second.",
+   "body_en": [
+    "The Arab Opinion Index for Syria 2026 revealed that 61 percent of respondents consider Israel the main threat to Syria, while 20 percent named Iran. Furthermore, 97 percent of participants stated that Israel threatens Middle Eastern stability, and a significant majority opposed recognizing Israel or making agreements without the return of the Golan Heights.",
+    "The survey also explored domestic views, showing increased support for democratic pluralism and mixed opinions regarding the country's overall direction following the end of Bashar al-Assad's rule."
+   ],
+   "title_fa": "نظرسنجی: سوری‌ها اسرائیل را بزرگترین تهدید منطقه‌ای می‌دانند و پس از آن ایران قرار دارد",
+   "summary_fa": "یک نظرسنجی سراسری جدید نشان می‌دهد که اکثریت سوری‌ها اسرائیل را تهدید امنیتی اصلی برای کشور و منطقه خود می‌دانند و ایران در رتبه دوم قرار دارد.",
+   "body_fa": [
+    "شاخص افکار عربی برای سوریه در سال ۲۰۲۶ نشان داد که ۶۱ درصد از پاسخ‌دهندگان اسرائیل را تهدید اصلی برای سوریه می‌دانند، در حالی که ۲۰ درصد از ایران نام بردند. علاوه بر این، ۹۷ درصد از شرکت‌کنندگان اظهار داشتند که اسرائیل ثبات خاورمیانه را تهدید می‌کند و اکثریت قاطعی با به رسمیت شناختن اسرائیل یا توافق بدون بازگرداندن بلندی‌های جولان مخالفت کردند.",
+    "این نظرسنجی همچنین دیدگاه‌های داخلی را بررسی کرد که نشان‌دهنده افزایش حمایت از پلورالیسم دموکراتیک و نظرات متفاوتی درباره مسیر کلی کشور پس از پایان حکومت بشار اسد است."
+   ],
+   "title_ar": "استطلاع: السوريون يرون في إسرائيل التهديد الإقليمي الأكبر تليها إيران",
+   "summary_ar": "يظهر استطلاع جديد على مستوى البلاد أن أغلبية السوريين تعتبر إسرائيل التهديد الأمنـي الرئيسي لبلدهم والمنطقة، مع احتلال إيران المرتبة الثانية.",
+   "body_ar": [
+    "أظهر المؤشر العربي للرأي في سوريا لعام 2026 أن 61 في المائة من المستطلعين يعتبرون إسرائيل التهديد الرئيسي لسوريا، بينما سمى 20 في المائة إيران. علاوة على ذلك، ذكر 97 في المائة من المشاركين أن إسرائيل تهدد استقرار الشرق الأوسط، وعارضت أغلبية كبيرة الاعتراف بإسرائيل أو عقد اتفاقيات دون عودة هضبة الجولان.",
+    "تناول الاستطلاع أيضاً الآراء المحلية، مظهرًا زيادة الدعم للتعددية الديمقراطية وآراء متباينة بشأن الاتجاه العام للبلاد بعد انتهاء حكم بشار الأسد."
    ]
   },
   {

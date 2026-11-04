@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:29:24Z",
+ "updated": "2026-11-04T16:17:22Z",
  "items": [
   {
    "id": "0f1a935f2e2b",
@@ -3126,6 +3126,197 @@
    "desc": "Nahim Ajij Gandhar was among the 14 crew members on board the vessel, which was registered at Bedi port in Gujarat’s Jamnagar district",
    "score": 4,
    "dup_of": "d8df9dc711ae"
+  },
+  {
+   "id": "682ce1cdff62",
+   "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+   "date": "2026-11-04T15:28:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
+   "score": 8,
+   "dup_of": "9aa911f39fbd"
+  },
+  {
+   "id": "711dc49d3d84",
+   "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+   "date": "2026-11-04T15:13:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.",
+   "score": 8,
+   "dup_of": "2e07af688a74"
+  },
+  {
+   "id": "ed273a3df882",
+   "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+   "date": "2026-11-04T14:08:18Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.",
+   "score": 7
+  },
+  {
+   "id": "ddaf1a0a5bd8",
+   "title": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+   "date": "2026-11-04T13:40:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers have expanded in Hebron's Old City, with Palestinian residents' presence under threat.",
+   "score": 6,
+   "dup_of": "6b5ea4c9b36a"
+  },
+  {
+   "id": "36e8bcfac301",
+   "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+   "date": "2026-11-04T13:33:05Z",
+   "countries": [
+    "EGY",
+    "PSE"
+   ],
+   "desc": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
+   "score": 4
+  },
+  {
+   "id": "4b2f49e6e457",
+   "title": "Jerusalem Daily: Mass arrests across occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+   "date": "2026-11-04T13:29:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
+   "score": 7
+  },
+  {
+   "id": "0e9c205bcc44",
+   "title": "Iran’s Khamenei warns Trump loss at polls won’t end US hostility",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+   "date": "2026-11-04T13:26:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian supreme leader says US policy won't change amid Tehran 'Fight Against Global Arrogance' day rallies",
+   "score": 8
+  },
+  {
+   "id": "cc4a4a4d0e80",
+   "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+   "date": "2026-11-04T14:07:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran celebrates its claimed role in ‘regime change’ amid pressure on Trump to ‘finish the job’ with attack US midterms live – latest updates Iran this week unveiled a huge billboard and banners over Enqelab Square in central Tehran. The billboard pledged in English: “We will kill Trump” – elevating the degree of personal animus with which Donald Trump is viewed in official Iranian circles. The poster depicts the US president behind bars with his head bowed. And in a sense, given the US midterm election results on Tuesday, Iran has indeed killed Trump, or at least the second term of his preside",
+   "score": 7
+  },
+  {
+   "id": "83fc46e62e8d",
+   "title": "Govt says Islamabad's One Constitution Avenue to be turned into a five-star hotel",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042095/govt-says-islamabads-one-constitution-avenue-to-be-turned-into-a-five-star-hotel",
+   "date": "2026-11-04T14:47:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The federal government on Wednesday said that a joint investigation team had revealed that Islamabad’s One Constitution Avenue was built on “irregularities and rigging” and announced that the residential building will soon be turned into a five-star hotel. The building, a skyscraper in the federal capital that houses residential apartments, had its lease cancelled by the Capital Development Authority (CDA) due to the company behind the project defaulting on payments. The decision was upheld by the Islamabad High Court (IHC) in April. The building was initially supposed to be a five-star hotel ",
+   "score": 2
+  },
+  {
+   "id": "1bd1ce6199c9",
+   "title": "ECP objects to retired SC judge's remarks about 2023 ruling on polls in Punjab and KP, reserved seats case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042087/ecp-objects-to-retired-sc-judges-remarks-about-2023-ruling-on-polls-in-punjab-and-kp-reserved-seats-case",
+   "date": "2026-11-04T15:00:45Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Election Commission of Pakistan (ECP) on Wednesday objected to remarks made by former senior puisne judge of the Supreme Court of Pakistan, Mansoor Ali Shah, regarding polls in KP and Punjab and the reserved seats case pertaining to the PTI. Shah made the remarks at an event organised by the US-based Community Alliance for Peace and Justice on October 29, where he was asked about his dissenting opinion in the 2023 SC ruling on provincial elections in Punjab and KP and whether it was a “turning point” and the beginning of a “division” within the SC. In its 3-2 verdict, the SC, after taking ",
+   "score": 4
+  },
+  {
+   "id": "8719f8b1e2a3",
+   "title": "38 detained in Karachi as police baton-charge protesters headed towards CM House",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042079/38-detained-in-karachi-as-police-baton-charge-protesters-headed-towards-cm-house",
+   "date": "2026-11-04T14:06:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Thirty-eight people were detained on Wednesday as police used tear gas and baton-charged protesting teachers headed towards Chief Minister House from Karachi Press Club (KPC). Hundreds of teachers had gathered outside the press club on the call of the All Sindh Primary Teachers Association. They were headed towards CM House to present their demands that pertained to the service structure and called for delegating powers for transfers and postings to district officers. The protesters chanted slogans and attempted to move towards the CM House. However, when they arrived near Fawara Chow",
+   "score": 5
+  },
+  {
+   "id": "509cc2706dbf",
+   "title": "Iran supreme leader says those expecting US policy shift 'seriously mistaken'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042092/iran-supreme-leader-says-those-expecting-us-policy-shift-seriously-mistaken",
+   "date": "2026-11-04T13:27:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran’s supreme leader Ayatollah Mojtaba Khamenei said on Wednesday that anyone expecting a shift in US policy was “seriously mistaken”, hours after midterm elections dealt a blow to President Donald Trump. “Those who still harbour even the slightest hope that the behaviour of the hegemonic system might change through partisan or factional shifts, or who imagine that making concessions to the United States can dissuade it from hostility towards the Iranian nation, are seriously mistaken,” Khamenei said in a written statement published on his website. Democrats seized control of the US Congress ",
+   "score": 8,
+   "dup_of": "0e9c205bcc44"
+  },
+  {
+   "id": "42a7e4c05986",
+   "title": "Israel’s President accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israels-president-accepts-certified-election-results-in-a-blow-to-netanyahus-claim-of-vote-fraud/article71666124.ece",
+   "date": "2026-11-04T13:58:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Herzog's acceptance of the results as valid dealt a blow to Prime Minister Benjamin Netanyahu's effort to discredit the vote in which his religious-nationalist bloc lost its majority in the Israeli parliament, or Knesset",
+   "score": 8,
+   "dup_of": "8e713eb74b28"
+  },
+  {
+   "id": "4ab718ae5b84",
+   "title": "الحوثيون يعلنون استهداف مطار الرياض، وحزب الله ينفي دعمهم عسكرياً",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq70pd6k6n7eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T15:37:44Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "السعودية تعلن زوال خطر محتمل في جازان وارتفاع حصيلة قتلى هجوم مطار الرياض إلى 14 شخصاً، فيما تحذر الأمم المتحدة من تفاقم الأزمة الإنسانية في تعز، وسط اتهامات يمنية لإيران بتعزيز دعمها العسكري للحوثيين.",
+   "score": 8
   }
  ]
 }
