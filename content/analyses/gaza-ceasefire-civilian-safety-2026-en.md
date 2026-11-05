@@ -44,7 +44,7 @@ The next test is visible in ordinary life. Can parents choose a route to school 
 
 For mediators, these questions offer ways to judge implementation between diplomatic meetings. For example, they can follow the continuity of a service over several weeks and establish whether a reported incident led to a concrete response. Moreover, reporting on these outcomes would give the parties a clearer basis for identifying where intervention is needed. The practical measure is whether families can repeat an essential journey and find that the service they set out to reach is still operating.
 
-**Related analysis:** [The Lebanon Ceasefire After UNIFIL Faces 3 Questions](https://momenimojtaba.com/analysis/lebanon-blue-line-monitoring-2026-en.html)
+**Related analysis:** [Lebanon Ceasefire After UNIFIL: Who Watches the Blue Line From 2027?](https://momenimojtaba.com/analysis/lebanon-blue-line-monitoring-2026-en.html)
 
 **Sources**
 
