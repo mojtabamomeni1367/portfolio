@@ -7,7 +7,7 @@ countries: [LBN, ISR]
 topics: [mena-sa, security]
 summary: "Independent records, reliable communication and clear responsibility for action shape the transition after UNIFIL."
 focus_keyword: "Lebanon ceasefire"
-seo_title: "Lebanon Ceasefire After UNIFIL: Who Watches the Blue Line From 2027?"
+seo_title: "Lebanon Ceasefire After UNIFIL: Who Watches the Blue Line?"
 meta_description: "The Lebanon ceasefire after UNIFIL faces three questions: who records Blue Line incidents independently, how communication stays open and who must act."
 image: /assets/uploads/lebanon-blue-line-monitoring-2026.jpg
 image_alt: "UNIFIL peacekeepers beside a UN vehicle in southern Lebanon"
