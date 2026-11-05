@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-04T22:02:57Z",
- "count": 405,
+ "updated": "2026-11-05T01:21:44Z",
+ "count": 406,
  "items": [
+  {
+   "id": "61a0fa8d6df2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
+   "date": "2026-11-04T22:06:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+   "title_en": "Palestinians, Israelis react after Democrats sweep US midterms",
+   "summary_en": "Palestinians and Israelis expressed divided opinions following the Democratic victory in the United States midterm elections.",
+   "body_en": [
+    "The outcome of the midterm elections could reshape the remaining two years of Donald Trump's presidential administration."
+   ],
+   "title_fa": "واکنش فلسطینی‌ها و اسرائیلی‌ها پس از پیروزی قاطع دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا",
+   "summary_fa": "فلسطینی‌ها و اسرائیلی‌ها پس از پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای ایالات متحده نظرات متفاوتی ابراز کردند.",
+   "body_fa": [
+    "نتیجه انتخابات میان‌دوره‌ای می‌تواند دو سال آینده دولت دونالد ترامپ، رئیس‌جمهور آمریکا، را دگرگون کند."
+   ],
+   "title_ar": "تفاعل الفلسطينيين والإسرائيليين بعد اكتساح الديمقراطيين لانتخابات التصفية النصفية الأمريكية",
+   "summary_ar": "أعرب الفلسطينيون والإسرائيليون عن آراء متباينة عقب فوز الديمقراطيين في انتخابات التصفية النصفية للولايات المتحدة.",
+   "body_ar": [
+    "قد تؤدي نتيجة الانتخابات النصفية إلى إعادة تشكيل العامين المتبقيين من إدارة الرئيس دونالد ترامب."
+   ]
+  },
   {
    "id": "f79b0fd9b685",
    "lang": "en",
