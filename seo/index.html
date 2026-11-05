@@ -132,17 +132,21 @@ const TRANS={
 const STOP=new Set(norm('و در به از که این را با برای آن یک تا بر هم ها های است شد می شود کرد کند دارد بود نیز اما یا اگر هر نه the of and to in a is for on that with as by an be it are at or from this').split(' '));
 
 /* ---------- data ---------- */
-let files=[],titles={},others=[],cur=null,etag=null,timer=null;
+let files=[],titles={},others=[],ord={},cur=null,etag=null,timer=null;
 async function loadList(){
+  try{const r=await fetch('/data/analyses_order.json',{cache:'no-cache'});if(r.ok)ord=(await r.json()).files||{}}catch(e){}
   try{const r=await fetch('/data/analyses.json',{cache:'no-cache'});if(r.ok){const d=await r.json();
     (d.items||[]).forEach(it=>Object.entries(it.versions||{}).forEach(([l,v])=>{titles[`${it.id}-${l}.md`]=v.title;others.push({file:`${it.id}-${l}.md`,kw:v.focus_keyword||'',title:v.title})}))}}catch(e){}
   const r=await fetch(API+'?ref=main',{headers:{Accept:'application/vnd.github+json'}});
   if(r.status===403||r.status===429){status('محدودیت درخواست‌های GitHub موقتاً پر شده است. چند دقیقه دیگر صفحه را تازه کنید.');return}
   if(!r.ok){status('فهرست تحلیل‌ها خوانده نشد.');return}
   files=(await r.json()).filter(f=>f.type==='file'&&/\.md$/.test(f.name)&&!f.name.startsWith('_')&&f.name.toLowerCase()!=='readme.md');
+  /* newest first: publish date, then the time the article reached the site; files not built yet (just added) go on top */
+  const key=f=>{const o=ord[f.name];return o?(o.date||'')+'|'+(o.added||''):'9999'};
+  files.sort((a,b)=>key(b).localeCompare(key(a))||b.name.localeCompare(a.name));
   const sel=$('#pick');
   if(!files.length){sel.innerHTML='<option>هنوز تحلیلی وجود ندارد</option>';status('');return}
-  sel.innerHTML=files.map(f=>`<option value="${esc(f.path)}">${esc(titles[f.name]||f.name)}</option>`).join('');
+  sel.innerHTML=files.map(f=>{const o=ord[f.name]||{},d=o.date?o.date+' · ':'';return `<option value="${esc(f.path)}">${esc(d+(titles[f.name]||o.title||f.name)+(o.draft?' (پیش‌نویس)':''))}</option>`}).join('');
   const want=new URLSearchParams(location.search).get('a')||store.get('seo-last');
   const hit=files.find(f=>f.name===want||f.path===want);if(hit)sel.value=hit.path;
   select(sel.value);

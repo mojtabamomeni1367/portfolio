@@ -1,0 +1,364 @@
+{
+ "files": {
+  "pakistan-mediation-balancing-2026-fa.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "pakistan-mediation-balancing-2026",
+   "lang": "fa",
+   "title": "میانجیگری پاکستان در ۳ آزمون میان تهران و ریاض",
+   "draft": false
+  },
+  "pakistan-mediation-balancing-2026-en.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "pakistan-mediation-balancing-2026",
+   "lang": "en",
+   "title": "Pakistan's Mediation Faces 3 Tests Between Tehran and Riyadh",
+   "draft": false
+  },
+  "pakistan-mediation-balancing-2026-ar.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "pakistan-mediation-balancing-2026",
+   "lang": "ar",
+   "title": "وساطة باكستان بين طهران والرياض أمام ٣ اختبارات",
+   "draft": false
+  },
+  "lebanon-blue-line-monitoring-2026-fa.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "lebanon-blue-line-monitoring-2026",
+   "lang": "fa",
+   "title": "آتش بس لبنان پس از یونیفل؛ از ۲۰۲۷ خط آبی زیرنظر کیست؟",
+   "draft": false
+  },
+  "lebanon-blue-line-monitoring-2026-en.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "lebanon-blue-line-monitoring-2026",
+   "lang": "en",
+   "title": "Lebanon Ceasefire After UNIFIL: Who Watches the Blue Line From 2027?",
+   "draft": false
+  },
+  "lebanon-blue-line-monitoring-2026-ar.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "lebanon-blue-line-monitoring-2026",
+   "lang": "ar",
+   "title": "وقف إطلاق النار في لبنان بعد اليونيفيل؛ من يراقب الخط الأزرق من ٢٠٢٧؟",
+   "draft": false
+  },
+  "iran-nuclear-verification-gap-2026-fa.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "iran-nuclear-verification-gap-2026",
+   "lang": "fa",
+   "title": "راستی آزمایی هسته ای ایران پس از جنگ به ۳ شرط نیاز دارد",
+   "draft": false
+  },
+  "iran-nuclear-verification-gap-2026-en.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "iran-nuclear-verification-gap-2026",
+   "lang": "en",
+   "title": "Nuclear Verification in Iran After the War Depends on 3 Conditions",
+   "draft": false
+  },
+  "iran-nuclear-verification-gap-2026-ar.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "iran-nuclear-verification-gap-2026",
+   "lang": "ar",
+   "title": "التحقق النووي في إيران بعد الحرب يتوقف على ٣ شروط",
+   "draft": false
+  },
+  "gulf-arab-maritime-insurance-2026-fa.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gulf-arab-maritime-insurance-2026",
+   "lang": "fa",
+   "title": "بیمه دریایی پس از جنگ ۴۰ روزه؛ هزینه پنهان دور زدن تنگه هرمز",
+   "draft": false
+  },
+  "gulf-arab-maritime-insurance-2026-en.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gulf-arab-maritime-insurance-2026",
+   "lang": "en",
+   "title": "Marine Insurance After the 40-Day War: The Hidden Cost of Bypassing Hormuz",
+   "draft": false
+  },
+  "gulf-arab-maritime-insurance-2026-ar.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gulf-arab-maritime-insurance-2026",
+   "lang": "ar",
+   "title": "التأمين البحري بعد حرب الأربعين يوما؛ الكلفة الخفية لتجاوز مضيق هرمز",
+   "draft": false
+  },
+  "gaza-ceasefire-civilian-safety-2026-fa.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gaza-ceasefire-civilian-safety-2026",
+   "lang": "fa",
+   "title": "آتش بس غزه بعد از گذشت ۱۳ ماه؛ وقتی خاموشی توپ ها هنوز امنیت نیست",
+   "draft": false
+  },
+  "gaza-ceasefire-civilian-safety-2026-en.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gaza-ceasefire-civilian-safety-2026",
+   "lang": "en",
+   "title": "Gaza Ceasefire After 13 Months: When Silent Guns Still Do Not Mean Safety",
+   "draft": false
+  },
+  "gaza-ceasefire-civilian-safety-2026-ar.md": {
+   "date": "2026-11-05",
+   "added": "2026-11-05T06:30:20Z",
+   "slug": "gaza-ceasefire-civilian-safety-2026",
+   "lang": "ar",
+   "title": "وقف إطلاق النار في غزة بعد ١٣ شهرا؛ حين لا يعني صمت المدافع الأمان",
+   "draft": false
+  },
+  "iran-war-us-midterms-2026-fa.md": {
+   "date": "2026-11-04",
+   "added": "2026-11-04T07:30:27Z",
+   "slug": "iran-war-us-midterms-2026",
+   "lang": "fa",
+   "title": "از بسته شدن تنگه هرمز تا سونامی آبی ۳ نوامبر، جنگ با ایران چگونه به شکست حزب ترامپ دامن زد؟",
+   "draft": false
+  },
+  "iran-war-us-midterms-2026-en.md": {
+   "date": "2026-11-04",
+   "added": "2026-11-04T07:30:27Z",
+   "slug": "iran-war-us-midterms-2026",
+   "lang": "en",
+   "title": "From Hormuz Disruption to the November 3 Blue Wave, How the War With Iran Hurt Trump's Party",
+   "draft": false
+  },
+  "iran-war-us-midterms-2026-ar.md": {
+   "date": "2026-11-04",
+   "added": "2026-11-04T07:30:27Z",
+   "slug": "iran-war-us-midterms-2026",
+   "lang": "ar",
+   "title": "من اضطراب مضيق هرمز إلى الموجة الزرقاء في ٣ نوفمبر، كيف ساهمت الحرب مع إيران في هزيمة حزب ترامب؟",
+   "draft": false
+  },
+  "us-strike-iran-limited-war-2026-en.md": {
+   "date": "2026-11-03",
+   "added": "2026-11-03T11:05:24Z",
+   "slug": "us-strike-iran-limited-war-2026",
+   "lang": "en",
+   "title": "Limited Strike, Unlimited War: Can a US Attack on Iran After November 4 Be Contained?",
+   "draft": false
+  },
+  "us-strike-iran-limited-war-2026-ar.md": {
+   "date": "2026-11-03",
+   "added": "2026-11-03T11:05:24Z",
+   "slug": "us-strike-iran-limited-war-2026",
+   "lang": "ar",
+   "title": "هجوم محدود وحرب بلا حدود؛ هل يمكن احتواء هجوم أمريكي على إيران بعد ٤ نوفمبر؟",
+   "draft": false
+  },
+  "us-strike-iran-limited-war-2026-fa.md": {
+   "date": "2026-11-03",
+   "added": "2026-11-03T10:58:29Z",
+   "slug": "us-strike-iran-limited-war-2026",
+   "lang": "fa",
+   "title": "حمله محدود، جنگ نامحدود؛ آیا حمله آمریکا به ایران پس از ۴ نوامبر قابل کنترل خواهد بود؟",
+   "draft": false
+  },
+  "trump-netanyahu-iran-next-move-2026-fa.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T11:23:47Z",
+   "slug": "trump-netanyahu-iran-next-move-2026",
+   "lang": "fa",
+   "title": "ترامپ و نتانیاهو؛ ۴ گره تصمیم گیری درباره گام بعدی علیه ایران",
+   "draft": false
+  },
+  "trump-netanyahu-iran-next-move-2026-en.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T11:23:47Z",
+   "slug": "trump-netanyahu-iran-next-move-2026",
+   "lang": "en",
+   "title": "Trump and Netanyahu: 4 Decision Points Over the Next Move Against Iran",
+   "draft": false
+  },
+  "trump-netanyahu-iran-next-move-2026-ar.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T11:23:47Z",
+   "slug": "trump-netanyahu-iran-next-move-2026",
+   "lang": "ar",
+   "title": "ترامب ونتنياهو؛ ٤ عقد في اتخاذ القرار بشأن الخطوة المقبلة ضد إيران",
+   "draft": false
+  },
+  "persian-gulf-security-uae-2026-fa.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T06:33:51Z",
+   "slug": "persian-gulf-security-uae-2026",
+   "lang": "fa",
+   "title": "امنیت خلیج فارس؛ ۵ دلیل نگرانی امارات از جنگ دوباره با ایران",
+   "draft": false
+  },
+  "persian-gulf-security-uae-2026-en.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T06:33:51Z",
+   "slug": "persian-gulf-security-uae-2026",
+   "lang": "en",
+   "title": "Persian Gulf Security: 5 Reasons the UAE Fears Renewed War With Iran",
+   "draft": false
+  },
+  "persian-gulf-security-uae-2026-ar.md": {
+   "date": "2026-11-02",
+   "added": "2026-11-02T06:33:51Z",
+   "slug": "persian-gulf-security-uae-2026",
+   "lang": "ar",
+   "title": "أمن الخليج الفارسي؛ ٥ أسباب وراء قلق الإمارات من تجدد الحرب مع إيران",
+   "draft": false
+  },
+  "iran-uk-tensions-2026-fa.md": {
+   "date": "2026-11-01",
+   "added": "2026-11-01T13:10:30Z",
+   "slug": "iran-uk-tensions-2026",
+   "lang": "fa",
+   "title": "تنش ایران و انگلیس؛ ۴ پرسش درباره پیامدهای تصمیم تازه تهران",
+   "draft": false
+  },
+  "iran-uk-tensions-2026-en.md": {
+   "date": "2026-11-01",
+   "added": "2026-11-01T13:10:30Z",
+   "slug": "iran-uk-tensions-2026",
+   "lang": "en",
+   "title": "Iran-UK Tensions: 4 Questions About Tehran's Latest Decision",
+   "draft": false
+  },
+  "iran-uk-tensions-2026-ar.md": {
+   "date": "2026-11-01",
+   "added": "2026-11-01T13:10:30Z",
+   "slug": "iran-uk-tensions-2026",
+   "lang": "ar",
+   "title": "التوتر بين إيران وبريطانيا؛ ٤ أسئلة حول تداعيات قرار طهران الجديد",
+   "draft": false
+  },
+  "bab-el-mandeb-strait-2026-fa.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T19:30:27Z",
+   "slug": "bab-el-mandeb-strait-2026",
+   "lang": "fa",
+   "title": "تنگه باب المندب؛ ۲ گلوگاه دریایی چگونه به اهرم فشار ایران و حوثی‌ها تبدیل می‌شوند؟",
+   "draft": false
+  },
+  "bab-el-mandeb-strait-2026-en.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T19:30:27Z",
+   "slug": "bab-el-mandeb-strait-2026",
+   "lang": "en",
+   "title": "Bab el-Mandeb Strait: How 2 Maritime Chokepoints Become Leverage for Iran and the Houthis",
+   "draft": false
+  },
+  "bab-el-mandeb-strait-2026-ar.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T19:30:27Z",
+   "slug": "bab-el-mandeb-strait-2026",
+   "lang": "ar",
+   "title": "مضيق باب المندب وهرمز؛ كيف توظف إيران والحوثيون ممرين بحريين للضغط على واشنطن وحلفائها؟",
+   "draft": false
+  },
+  "iran-us-israel-war-response-2026-en.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T15:32:29Z",
+   "slug": "iran-us-israel-war-response-2026",
+   "lang": "en",
+   "title": "Iran-US War: 3 Implications of a Response Without Geographic Limits",
+   "draft": false
+  },
+  "iran-us-israel-war-response-2026-ar.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T15:32:29Z",
+   "slug": "iran-us-israel-war-response-2026",
+   "lang": "ar",
+   "title": "حرب إيران وأمريكا: 3 تداعيات للرد دون قيود جغرافية",
+   "draft": false
+  },
+  "iran-us-israel-war-response-2026-fa.md": {
+   "date": "2026-10-31",
+   "added": "2026-10-31T15:10:13Z",
+   "slug": "iran-us-israel-war-response-2026",
+   "lang": "fa",
+   "title": "جنگ ایران و آمریکا و اسرائیل؛ ۳ پیام پاسخ بدون محدودیت جغرافیایی",
+   "draft": false
+  },
+  "iran-us-talks-three-fronts-2026-en.md": {
+   "date": "2026-10-30",
+   "added": "2026-10-30T17:48:53Z",
+   "slug": "iran-us-talks-three-fronts-2026",
+   "lang": "en",
+   "title": "Iran-US negotiations on 3 fronts: Diplomacy under military threat and Washington’s credibility crisis",
+   "draft": false
+  },
+  "iran-us-talks-three-fronts-2026-ar.md": {
+   "date": "2026-10-30",
+   "added": "2026-10-30T17:48:53Z",
+   "slug": "iran-us-talks-three-fronts-2026",
+   "lang": "ar",
+   "title": "المفاوضات الإيرانية الأمريكية على 3 جبهات؛ دبلوماسية تحت التهديد وأزمة في صدقية واشنطن",
+   "draft": false
+  },
+  "iran-us-talks-three-fronts-2026-fa.md": {
+   "date": "2026-10-30",
+   "added": "2026-10-30T17:06:49Z",
+   "slug": "iran-us-talks-three-fronts-2026",
+   "lang": "fa",
+   "title": "مذاکرات ایران و آمریکا در ۳ جبهه؛ دیپلماسی زیر سایه تهدید و بحران اعتبار واشنگتن",
+   "draft": false
+  },
+  "tehran-meeting-mecca-pact-2026-en.md": {
+   "date": "2026-10-29",
+   "added": "2026-10-29T11:58:23Z",
+   "slug": "tehran-meeting-mecca-pact-2026",
+   "lang": "en",
+   "title": "3 scenarios for the Tehran meeting: Mecca Pact members between averting war and mutual restraint",
+   "draft": false
+  },
+  "tehran-meeting-mecca-pact-2026-ar.md": {
+   "date": "2026-10-29",
+   "added": "2026-10-29T11:58:23Z",
+   "slug": "tehran-meeting-mecca-pact-2026",
+   "lang": "ar",
+   "title": "3 سيناريوهات لاجتماع طهران؛ أعضاء حلف مكة بين منع الحرب والضبط المتبادل",
+   "draft": false
+  },
+  "tehran-meeting-mecca-pact-2026-fa.md": {
+   "date": "2026-10-29",
+   "added": "2026-10-29T11:41:06Z",
+   "slug": "tehran-meeting-mecca-pact-2026",
+   "lang": "fa",
+   "title": "۳ سناریو برای نشست تهران؛ اعضای پیمان مکه میان جلوگیری از جنگ و مهار متقابل",
+   "draft": false
+  },
+  "israel-election-2026-arab-parties-en.md": {
+   "date": "2026-10-28",
+   "added": "2026-10-28T16:33:06Z",
+   "slug": "israel-election-2026-arab-parties",
+   "lang": "en",
+   "title": "Israel elections 2026: A coalition with Arab parties could unlock Eisenkot’s path past Netanyahu",
+   "draft": false
+  },
+  "israel-election-2026-arab-parties-ar.md": {
+   "date": "2026-10-28",
+   "added": "2026-10-28T16:33:06Z",
+   "slug": "israel-election-2026-arab-parties",
+   "lang": "ar",
+   "title": "انتخابات إسرائيل 2026؛ التحالف مع الأحزاب العربية مفتاح آيزنكوت لتجاوز نتنياهو",
+   "draft": false
+  },
+  "israel-election-2026-arab-parties-fa.md": {
+   "date": "2026-10-28",
+   "added": "2026-10-28T15:32:52Z",
+   "slug": "israel-election-2026-arab-parties",
+   "lang": "fa",
+   "title": "انتخابات اسرائیل 2026؛ ائتلاف با احزاب عرب، معادله سرنوشت‌ساز آیزنکوت برای پایان دوران نتانیاهو",
+   "draft": false
+  }
+ }
+}

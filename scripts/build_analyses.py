@@ -23,6 +23,7 @@ Output:
 """
 import html
 import json
+from datetime import datetime, timezone
 import re
 import sys
 from pathlib import Path
@@ -39,6 +40,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "content" / "analyses"
 OUT_DIR = ROOT / "analysis"
 OUT_JSON = ROOT / "data" / "analyses.json"
+# every article file (drafts too) with its publish date and the moment it first reached the site;
+# the SEO page and the site use it to list the newest articles first
+ORDER_JSON = ROOT / "data" / "analyses_order.json"
 SITEMAP = ROOT / "sitemap.xml"
 TOPIC_DIR = ROOT / "topic"
 LIST_DIR = ROOT / "analyses"
@@ -458,6 +462,12 @@ def main():
     SRC.mkdir(parents=True, exist_ok=True)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     groups, errors = {}, []
+    try:
+        order = json.loads(ORDER_JSON.read_text(encoding="utf-8")).get("files", {})
+    except (OSError, ValueError):
+        order = {}
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    seen = {}
     for p in sorted(SRC.glob("*.md")):
         if p.name.startswith("_") or p.name.lower() == "readme.md":
             continue
@@ -466,6 +476,9 @@ def main():
         except ValueError as e:
             errors.append(str(e))
             continue
+        seen[p.name] = {"date": meta["date"], "added": order.get(p.name, {}).get("added") or stamp,
+                        "slug": meta["slug"], "lang": meta["lang"], "title": meta["title"],
+                        "draft": bool(meta["draft"])}
         if meta["draft"]:
             continue
         groups.setdefault(meta["slug"], []).append(meta)
@@ -495,7 +508,16 @@ def main():
         if old.name not in wanted:
             old.unlink()
 
-    items.sort(key=lambda x: x["date"], reverse=True)
+    # newest first: publish date, then (same day) the time the article reached the site
+    added = {}
+    for f in seen.values():
+        added[f["slug"]] = max(added.get(f["slug"], ""), f["added"])
+    for it in items:
+        it["added"] = added.get(it["id"], "")
+    items.sort(key=lambda x: (x["date"], x["added"]), reverse=True)
+    rows = sorted(seen.items(), key=lambda kv: (kv[1]["date"], kv[1]["added"], kv[0]), reverse=True)
+    ORDER_JSON.parent.mkdir(parents=True, exist_ok=True)
+    ORDER_JSON.write_text(json.dumps({"files": dict(rows)}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     OUT_JSON.write_text(json.dumps({"count": len(items), "items": items}, ensure_ascii=False, indent=1) + "\n",
                         encoding="utf-8")
