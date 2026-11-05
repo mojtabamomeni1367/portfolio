@@ -1,6 +1,182 @@
 {
- "count": 10,
+ "count": 15,
  "items": [
+  {
+   "id": "gaza-ceasefire-civilian-safety-2026",
+   "date": "2026-11-05",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "The Gaza Ceasefire Faces 3 Tests of Civilian Safety",
+     "summary": "Safe routes, reliable aid delivery and credible incident reviews show whether the ceasefire is improving civilian safety in Gaza.",
+     "focus_keyword": "Gaza ceasefire",
+     "image": "/assets/uploads/gaza-ceasefire-civilian-safety-2026.jpg",
+     "url": "analysis/gaza-ceasefire-civilian-safety-2026-en.html"
+    },
+    "fa": {
+     "title": "آتش بس غزه در ۳ آزمون امنیت غیرنظامیان",
+     "summary": "امنیت مسیرها، نظم در توزیع کمک و رسیدگی به حوادث سه معیار سنجش اثر آتش بس بر زندگی غیرنظامیان غزه هستند.",
+     "focus_keyword": "آتش بس غزه",
+     "image": "/assets/uploads/gaza-ceasefire-civilian-safety-2026.jpg",
+     "url": "analysis/gaza-ceasefire-civilian-safety-2026-fa.html"
+    },
+    "ar": {
+     "title": "وقف إطلاق النار في غزة أمام ٣ اختبارات لسلامة المدنيين",
+     "summary": "توضح سلامة الطرق وانتظام المساعدات ومراجعة الحوادث ما إذا كان الاتفاق يحسن سلامة المدنيين في غزة.",
+     "focus_keyword": "وقف إطلاق النار في غزة",
+     "image": "/assets/uploads/gaza-ceasefire-civilian-safety-2026.jpg",
+     "url": "analysis/gaza-ceasefire-civilian-safety-2026-ar.html"
+    }
+   }
+  },
+  {
+   "id": "gulf-arab-maritime-insurance-2026",
+   "date": "2026-11-05",
+   "countries": [
+    "ARE",
+    "OMN",
+    "SAU"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Marine Insurance in the Persian Gulf and 3 Tests for Alternative Export Routes",
+     "summary": "Alternative pipelines and ports can ease disruption at Hormuz. Usable capacity, voyage costs and delivery reliability determine their commercial value.",
+     "focus_keyword": "marine insurance",
+     "image": "/assets/uploads/gulf-arab-maritime-insurance-2026.jpg",
+     "url": "analysis/gulf-arab-maritime-insurance-2026-en.html"
+    },
+    "fa": {
+     "title": "بیمه دریایی خلیج فارس و ۳ آزمون صادرات از مسیر جایگزین",
+     "summary": "خط لوله و بندر جایگزین بخشی از فشار هرمز را کاهش می دهند. ظرفیت واقعی، هزینه سفر و نظم تحویل ارزش تجاری مسیرها را تعیین می کنند.",
+     "focus_keyword": "بیمه دریایی",
+     "image": "/assets/uploads/gulf-arab-maritime-insurance-2026.jpg",
+     "url": "analysis/gulf-arab-maritime-insurance-2026-fa.html"
+    },
+    "ar": {
+     "title": "التأمين البحري في الخليج الفارسي و٣ اختبارات لمسارات التصدير البديلة",
+     "summary": "تخفف الأنابيب والموانئ البديلة بعض آثار اضطراب هرمز، وتحدد الطاقة الفعلية وكلفة الرحلة وانتظام التسليم قيمتها التجارية.",
+     "focus_keyword": "التأمين البحري",
+     "image": "/assets/uploads/gulf-arab-maritime-insurance-2026.jpg",
+     "url": "analysis/gulf-arab-maritime-insurance-2026-ar.html"
+    }
+   }
+  },
+  {
+   "id": "iran-nuclear-verification-gap-2026",
+   "date": "2026-11-05",
+   "countries": [
+    "IRN"
+   ],
+   "topics": [
+    "iran-policy",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Nuclear Verification in Iran After the War Depends on 3 Conditions",
+     "summary": "A credible inventory, a workable sequence of commitments and continuous monitoring would make a nuclear agreement with Iran easier to verify.",
+     "focus_keyword": "nuclear verification",
+     "image": "/assets/uploads/iran-nuclear-verification-gap-2026.jpg",
+     "url": "analysis/iran-nuclear-verification-gap-2026-en.html"
+    },
+    "fa": {
+     "title": "راستی آزمایی هسته ای ایران پس از جنگ به ۳ شرط نیاز دارد",
+     "summary": "ثبت موجودی اولیه، ترتیب اجرای تعهدها و تداوم نظارت سه شرط سنجش اجرای یک توافق هسته ای با ایران هستند.",
+     "focus_keyword": "راستی آزمایی هسته ای",
+     "image": "/assets/uploads/iran-nuclear-verification-gap-2026.jpg",
+     "url": "analysis/iran-nuclear-verification-gap-2026-fa.html"
+    },
+    "ar": {
+     "title": "التحقق النووي في إيران بعد الحرب يتوقف على ٣ شروط",
+     "summary": "يساعد الجرد الموثوق وتسلسل الالتزامات واستمرار الرقابة على التحقق من تنفيذ أي اتفاق نووي مع إيران.",
+     "focus_keyword": "التحقق النووي",
+     "image": "/assets/uploads/iran-nuclear-verification-gap-2026.jpg",
+     "url": "analysis/iran-nuclear-verification-gap-2026-ar.html"
+    }
+   }
+  },
+  {
+   "id": "lebanon-blue-line-monitoring-2026",
+   "date": "2026-11-05",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "The Lebanon Ceasefire After UNIFIL Faces 3 Questions",
+     "summary": "Independent records, reliable communication and clear responsibility for action shape the transition after UNIFIL.",
+     "focus_keyword": "Lebanon ceasefire",
+     "image": "/assets/uploads/lebanon-blue-line-monitoring-2026.jpg",
+     "url": "analysis/lebanon-blue-line-monitoring-2026-en.html"
+    },
+    "fa": {
+     "title": "آتش بس لبنان پس از یونیفل با ۳ پرسش روبه روست",
+     "summary": "ثبت مستقل حوادث، حفظ کانال ارتباط و تعیین مسئول پاسخ عملی سه پرسش جنوب لبنان در دوره انتقال پس از یونیفل هستند.",
+     "focus_keyword": "آتش بس لبنان",
+     "image": "/assets/uploads/lebanon-blue-line-monitoring-2026.jpg",
+     "url": "analysis/lebanon-blue-line-monitoring-2026-fa.html"
+    },
+    "ar": {
+     "title": "وقف إطلاق النار في لبنان بعد اليونيفيل أمام ٣ أسئلة",
+     "summary": "يرتبط الانتقال بعد اليونيفيل بتوثيق مستقل للحوادث واتصالات موثوقة ومسؤولية واضحة عن اتخاذ الإجراء.",
+     "focus_keyword": "وقف إطلاق النار في لبنان",
+     "image": "/assets/uploads/lebanon-blue-line-monitoring-2026.jpg",
+     "url": "analysis/lebanon-blue-line-monitoring-2026-ar.html"
+    }
+   }
+  },
+  {
+   "id": "pakistan-mediation-balancing-2026",
+   "date": "2026-11-05",
+   "countries": [
+    "IRN",
+    "PAK",
+    "SAU"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Pakistan's Mediation Faces 3 Tests Between Tehran and Riyadh",
+     "summary": "Islamabad's access to Tehran and Riyadh offers diplomatic opportunities, while its defense commitments require clear limits and credible communication.",
+     "focus_keyword": "Pakistan's mediation",
+     "image": "/assets/uploads/pakistan-mediation-balancing-2026.jpg",
+     "url": "analysis/pakistan-mediation-balancing-2026-en.html"
+    },
+    "fa": {
+     "title": "میانجیگری پاکستان در ۳ آزمون میان تهران و ریاض",
+     "summary": "اسلام آباد برای حفظ اعتماد تهران و ریاض، باید حدود تعهد دفاعی و نقش خود در میانجیگری را روشن نگه دارد.",
+     "focus_keyword": "میانجیگری پاکستان",
+     "image": "/assets/uploads/pakistan-mediation-balancing-2026.jpg",
+     "url": "analysis/pakistan-mediation-balancing-2026-fa.html"
+    },
+    "ar": {
+     "title": "وساطة باكستان بين طهران والرياض أمام ٣ اختبارات",
+     "summary": "يتيح التواصل مع طهران والرياض فرصا دبلوماسية لإسلام آباد، فيما تتطلب التزاماتها الدفاعية حدودا واضحة ورسائل دقيقة.",
+     "focus_keyword": "وساطة باكستان",
+     "image": "/assets/uploads/pakistan-mediation-balancing-2026.jpg",
+     "url": "analysis/pakistan-mediation-balancing-2026-ar.html"
+    }
+   }
+  },
   {
    "id": "iran-war-us-midterms-2026",
    "date": "2026-11-04",
