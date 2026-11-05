@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:25:10Z",
+ "updated": "2026-11-05T19:17:27Z",
  "items": [
   {
    "id": "29f03273177a",
@@ -3013,7 +3013,8 @@
     "PSE"
    ],
    "desc": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
-   "score": 7
+   "score": 7,
+   "skip": true
   },
   {
    "id": "d5ac50a3aa52",
@@ -3190,6 +3191,208 @@
    ],
    "desc": "قال الدكتور فاتن غطّاس عضو الكنيست المنتخب عن القائمة العربية المشتركة، إنّهم الوحيدون الذين يطرحون الحل السلمي للحروب التي تخوضها إسرائيل، مشيراً إلى ضرورة إعطاء الشعب الفلسطيني حق تقرير المصير.",
    "score": 4
+  },
+  {
+   "id": "ee34a295b1d8",
+   "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+   "date": "2026-11-05T18:47:10Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+   "score": 9,
+   "dup_of": "cf064f177920"
+  },
+  {
+   "id": "d906454d3235",
+   "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+   "date": "2026-11-05T18:30:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
+   "score": 7
+  },
+  {
+   "id": "95f086dcd8d9",
+   "title": "Jordanian officer killed in stabbing attack in Amman",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+   "date": "2026-11-05T17:08:45Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
+   "score": 7,
+   "dup_of": "a582647bb3ef"
+  },
+  {
+   "id": "b29a036a281e",
+   "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+   "date": "2026-11-05T16:46:34Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.",
+   "score": 3
+  },
+  {
+   "id": "b4dcd993f868",
+   "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+   "date": "2026-11-05T18:13:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority Israel’s president, Isaac Herzog, was due to meet Benjamin Netanyahu and his chief political rival, Gadi Eisenkot, on Thursday with less than a week left before he decides which of the two men should first try to form a government. A bitterly contested election last month, seen by many observers as one of the most consequential for Israel in many decades, ended with neither Netanyahu nor Eisenkot, a former military general and chief of staff, securing a clear pathway to power. Co",
+   "score": 7
+  },
+  {
+   "id": "5d1b4e7bc70b",
+   "title": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
+   "date": "2026-11-05T14:43:59Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.",
+   "score": 7,
+   "dup_of": "d906454d3235"
+  },
+  {
+   "id": "acb862566390",
+   "title": "Petrol price slashed by Rs9.41 per litre, high-speed diesel by Rs5.56",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556",
+   "date": "2026-11-05T17:53:57Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "0e946ee98a1d",
+   "title": "Collision between passenger bus, truck near Pakpattan claims 11 lives",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042375/collision-between-passenger-bus-truck-near-pakpattan-claims-11-lives",
+   "date": "2026-11-05T18:05:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: A collision between a passenger bus and truck on Thursday claimed the lives of 11 people and left 33 others injured near Pakpattan. Rescue 1122 said that 11 people had died in the collision. It added that eight people had sustained minor injuries, while 25 others were shifted to the District Headquarter Hospital (DHQ) in Pakpattan. According to a press release by the district administration, the collision occurred on Depalpur Road between a passenger bus travelling from Multan to Kasur and a truck coming in the opposite direction. Upon receiving news of the accident, Deputy Commissione",
+   "score": 2
+  },
+  {
+   "id": "d0021c9ccf4f",
+   "title": "Gadi Eisenkot tipped to seek Israel government with backing of Arab lists",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042371/gadi-eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists",
+   "date": "2026-11-05T17:16:12Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s largest Arab list on Thursday said it would back Gadi Eisenkot to form the next government, bolstering his chances of being picked over Prime Minister Benjamin Netanyahu, who lost the support of an allied religious party. President Isaac Herzog was holding a second day of consultation s with political parties after the October 27 election, in which neither Netanyahu — a polarising right-winger who has led Israel through three years of war — nor Eisenkot — a former military chief promising to restore national unity — secured enough votes for a majority. Herzog will himself choose whom ",
+   "score": 7,
+   "dup_of": "d906454d3235"
+  },
+  {
+   "id": "bd9dfcd54f5e",
+   "title": "Official says 273 arrested in NCCIA raid on 'illegal' call centre on Karachi's Sharea Faisal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042369/official-says-273-arrested-in-nccia-raid-on-illegal-call-centre-on-karachis-sharea-faisal",
+   "date": "2026-11-05T18:17:38Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal. Addressing a press conference in Karachi, NCCIA Additional Director Shahzad Akbar said 339 laptops, 152 cell phones and four computers were seized during the operation. “The NCCIA conducted a major enforcement operation on Nov 4 at a premises located near Kavish Crown Plaza in connection with an ongoing enquiry into an alleged international financial fraud networ",
+   "score": 3
+  },
+  {
+   "id": "033d9c3f4dec",
+   "title": "Eight dead in mass shooting in rural west Turkiye: officials",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/people-dead-in-mass-shooting-in-rural-west-turkiye-officials/article71671567.ece",
+   "date": "2026-11-05T19:00:38Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The shooting struck in a rural area near Afyonkarahisar, a town halfway between the capital Ankara and the coastal city of Izmir",
+   "score": 4
+  },
+  {
+   "id": "4c2f8b336fc6",
+   "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+   "date": "2026-11-05T18:20:21Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, a joint press release stated",
+   "score": 5
+  },
+  {
+   "id": "866e5687296f",
+   "title": "Iranians burn giant poster of Trump and allies, demand revenge",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece",
+   "date": "2026-11-05T17:47:37Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "In the capital's central Enghelab square, crowds gathered to observe the burning of the poster featuring U.S. President Donald Trump, his Vice President J. D. Vance, special envoy Steve Witkoff, Israeli Prime Minister Benjamin Netanyahu",
+   "score": 5
+  },
+  {
+   "id": "0b037c79cd50",
+   "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
+   "date": "2026-11-05T17:37:53Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The Saudi-led coalition fighting the Houthis in ‌Yemen said it destroyed a missile launched by the group towards Islam's holy city of ‌Medina",
+   "score": 8
+  },
+  {
+   "id": "a8ab89af0c55",
+   "title": "یک کشته و یک زخمی در حمله «تروریستی» در امان، پایتخت اردن",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c8kge7kgd55vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-05T16:09:59Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "بنابر اعلام مقام‌های اردن، یک مامور امنیتی در امان، پایتخت این کشور امروز(پنجشنبه) با چاقو کشته شده است؛ یک مامور دیگر هم در این حمله مجروح شده است. مقام‌های اردن این حمله را «تروریستی» خواندند.",
+   "score": 7,
+   "dup_of": "a582647bb3ef"
   }
  ]
 }
