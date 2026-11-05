@@ -1,7 +1,362 @@
 {
- "updated": "2026-11-05T10:31:22Z",
- "count": 410,
+ "updated": "2026-11-05T13:38:04Z",
+ "count": 422,
  "items": [
+  {
+   "id": "7b52b5bb5a83",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-forces-demolish-five-west-bank-buildings-and-displace-over-100-palestinians",
+   "date": "2026-11-05T12:59:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+   "title_en": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+   "summary_en": "Israeli forces demolished five residential buildings in the occupied West Bank town of Biddu, leaving more than 100 Palestinians displaced.",
+   "body_en": [
+    "Residents reported that Israeli troops raided the town near Jerusalem early Thursday morning, firing tear gas and stun grenades while preventing families from retrieving their belongings before tearing down 12 apartments. Israeli authorities cited the lack of building permits in Area C as the reason for the demolitions, though local officials noted that some affected structures were subject to ongoing legal appeals.",
+    "The Jerusalem Governorate office criticized the actions as a serious violation of international law aimed at reducing the Palestinian presence near Jerusalem. Local representatives called for compensation and emergency housing assistance for the nine families impacted by the destruction."
+   ],
+   "title_fa": "نیروهای اسرائیلی پنج ساختمان را در کرانه باختری تخریب و بیش از ۱۰۰ فلسطینی را آواره کردند",
+   "summary_fa": "نیروهای اسرائیلی پنج ساختمان مسکونی را در شهرک بدو در کرانه باختری اشغالی تخریب کردند که منجر به آوارگی بیش از ۱۰۰ فلسطینی شد.",
+   "body_fa": [
+    "به گفته ساکنان، نیروهای اسرائیلی بامداد پنجشنبه به این شهرک در نزدیکی اورشلیم یورش بردند و با شلیک گاز اشک‌آور و نارنجک‌های صوتی، مانع از برداشتن وسایل زندگی توسط اهالی شدند و سپس ۱۲ واحد آپارتمانی را تخریب کردند. مقامات اسرائیلی علت تخریب را نداشتن مجوز ساخت در منطقه C عنوان کردند، در حالی که مسئولان محلی تاکید دارند برخی از این ساختمان‌ها پرونده‌های حقوقی در حال جریان در دادگاه‌ها داشتند.",
+    "دفتر استانداری قدس وابسته به تشکیلات خودگردان این اقدام را تصعیدی خطرناک و ناقض قوانین بین‌المللی دانست که با هدف تضعیف حضور فلسطینیان در حومه اورشلیم انجام می‌شود. نماینده شورای محلی خواستار جبران خسارت و تأمین مسکن جایگزین برای خانواده‌های آسیب‌دیده شد."
+   ],
+   "title_ar": "القوات الإسرائيلية تهدم خمسة مبانٍ في الضفة الغربية وتهجر أكثر من 100 فلسطيني",
+   "summary_ar": "دمّرت القوات الإسرائيلية خمسة مبانٍ سكنية في بلدة بدو بالضفة الغربية المحتلة، مما أدى إلى تهجير أكثر من 100 فلسطيني.",
+   "body_ar": [
+    "وأفاد سكان بأن القوات الإسرائيلية اقتحمت البلدة الواقعة شمال غرب القدس فجر الخميس، وأطلقت قنابل الصوت والغاز المسيل للدموع ومعدات الهدم، مانعة الأهالي من إخراج ممتلكاتهم قبل هدم 12 شقة سكنية. وتذرعت السلطات الإسرائيلية بعدم وجود تراخيص بناء في المنطقة (ج)، بينما أكد مسؤولون محليون أن بعض المباني كانت تخضع لإجراءات قانونية معلقة أمام المحاكم.",
+    "ووصف مكتب محافظة القدس التابع للسلطة الفلسطينية عمليات الهدم بالتصعيد الخطير الذي يخالف القانون الدولي ويهدف إلى تقليص الوجود الفلسطيني في ضواحي القدس. وطالب أعضاء في المجلس المحلي بتقديم التعويضات وتوفير مأوى بديل للأسر المتضررة."
+   ]
+  },
+  {
+   "id": "a582647bb3ef",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+   "date": "2026-11-05T12:04:00Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 6,
+   "title": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+   "title_en": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+   "summary_en": "A Jordanian security officer was killed and another was wounded in a stabbing attack near the Sri Lankan embassy in Amman on Thursday. Authorities described the assault as a terrorist act and arrested the perpetrator.",
+   "body_en": [
+    "According to Jordan’s Public Security Directorate, Corporal Jawad Ali Khalaf al-Salaita, who was guarding the embassy, died from his injuries after being stabbed in the neck. A second security officer intervened, stopped the assailant from seizing the victim's firearm, and took control of him despite sustaining injuries.",
+    "Preliminary investigations indicate that the attacker planned the act and had a prior record of terrorism convictions, having previously served prison time for joining terrorist groups. The State Security Court has opened an investigation into the incident."
+   ],
+   "title_fa": "کشته‌شدن یک مامور امنیتی در حمله با چاقو در پایتخت اردن",
+   "summary_fa": "روز پنجشنبه در پی حمله با چاقو در نزدیکی سفارت سریلانکا در امان، یک مامور امنیتی اردنی کشته و یک مامور دیگر زخمی شد. مقامات این حمله را اقدامی تروریستی خوانده و عامل آن را بازداشت کردند.",
+   "body_fa": [
+    "به گفته مدیریت امنیت عمومی اردن، سرInternal جواد علی خلف السلایطه که مسئول نگهبانی از سفارت بود، پس از وارد آمدن ضربات چاقو به گردنش بر اثر شدت جراحات درگذشت. یک مامور امنیتی دیگر مداخله کرد و با وجود زخمی شدن، مانع از تصاحب سلاح گرم مقتول توسط مهاجم شد و او را مهار کرد.",
+    "تحقیقات اولیه نشان می‌دهد که فرد مهاجم برای انجام این اقدام برنامه‌ریزی کرده بود و سابقه محکومیت‌های تروریستی داشته است، چرا که پیش از این به دلیل عضویت در گروه‌های تروریستی چند سال را در زندان گذرانده بود. دادگاه امنیت الدولة تحققات خود را درباره این حادثه آغاز کرده است."
+   ],
+   "title_ar": "مقتل رجل أمن في هجوم بطعن في العاصمة الأردنية",
+   "summary_ar": "قُتل رجل أمن أردني وأُصيب آخر في هجوم بطعن بالقرب من سفارة سريلانكا في عمان يوم الخميس. ووصف السلطات الهجوم بأنه عمل إرهابي واعتقلت الجاني.",
+   "body_ar": [
+    "وفقًا لمديرية الأمن العام الأردنية، توفي العريف جواد علي خلف الخلايلة، الذي كان مكلفًا بحراسة السفارة، متأثرًا بجراحه بعد تعرضه للطعن في الرقبة. وتدخل ضابط أمن ثاني ومنع المعتدي من الاستيلاء على سلاح المتوفى وسيطر عليه رغم تعرضه للإصابة.",
+    "وأشارت التحقيقات الأولية إلى أن المهاجم كان يخطط لارتكاب هذا العمل ولديه سجل سابق من الإدانات الإرهابية، حيث قضى سابقًا عقوبة بالسجن للانضمام إلى جماعات إرهابية. وقد فتحت محكمة أمن الدولة تحقيقًا في الحادث."
+   ]
+  },
+  {
+   "id": "f55f497b9f08",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-navy-reports-tanker-fire-strait-hormuz",
+   "date": "2026-11-05T11:35:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iranian navy reports tanker on fire in Strait of Hormuz",
+   "title_en": "Iranian navy reports tanker on fire in Strait of Hormuz",
+   "summary_en": "The Iranian navy reported that an illegal tanker caught fire after striking a mine in an unsafe section of the Strait of Hormuz.",
+   "body_en": [
+    "According to Iranian authorities cited by the Tasnim news agency, the vessel stopped moving after the collision and had previously turned off its navigation and tracking systems. Tehran issued a fresh warning to ship owners, emphasizing that the Strait of Hormuz remains closed and unsafe for unauthorized vessels attempting to pass without prior coordination."
+   ],
+   "title_fa": "نیروی دریایی ایران از آتش‌سوزی یک نفتکش در تنگه هرمز خبر داد",
+   "summary_fa": "نیروی دریایی ایران اعلام کرد یک نفتکش متخلف پس از برخورد با مین در منطقه‌ای ناامن از تنگه هرمز دچار آتش‌سوزی شده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری تسنیم به نقل از مقامات ایرانی، این شناور پس از برخورد متوقف شد و پیش از آن نیز سیستم‌های ردیابی و مسیریابی خود را خاموش کرده بود. تهران بار دیگر به صاحبان کشتی‌ها هشدار داد که تنگه هرمز برای شناورهای غیرمجازی که بدون هماهنگی قصد عبور دارند، ناامن و بسته است."
+   ],
+   "title_ar": "البحرية الإيرانية تعلن اشتعال النيران في ناقلة نفط بمضيق هرمز",
+   "summary_ar": "أعلنت البحرية الإيرانية أن ناقلة مخالفة تعرضت لاشتعال النيران إثر اصطدامها بلغم في منطقة غير آمنة بمضيق هرمز.",
+   "body_ar": [
+    "وبحسب تصريحات للسلطات الإيرانية نقلتها وكالة تسنيم، فإن السفينة توقفت عن الحركة بعد الاصطدام، مشيرة إلى أنها كانت قد أغلقت أجهزة التتبع والملاحة الخاصة بها. وجددت تهران تحذيرها لمالكي السفن بأن مضيق هرمز غير آمن ومغلق أمام السفن غير المصرح لها والتي تحاول العبور دون تنسيق."
+   ]
+  },
+  {
+   "id": "d14ba9ab2392",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+   "date": "2026-11-05T11:32:40Z",
+   "countries": [
+    "IRN",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+   "title_en": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+   "summary_en": "Following significant Democratic gains in the US midterm elections, attention has shifted to how Congress may influence foreign policy and military conflicts involving Iran, Gaza, and Ukraine.",
+   "body_en": [
+    "Democrats secured majorities in both the House of Representatives and the Senate following widespread voter dissatisfaction with President Donald Trump's policy decisions, including the military conflict with Iran. Democratic leaders expressed intentions to use congressional budgetary powers to constrain military operations, though legal analysts note that constitutional and legislative limitations may restrict their ability to swiftly reverse executive actions.",
+    "President Donald Trump acknowledged the impact of the foreign policy debate on the election results but defended his decisions, stating he would utilize presidential veto powers to block legislative initiatives opposed by his administration."
+   ],
+   "title_fa": "ایران، غزه، اوکراین: نتایج انتخابات میان‌دوره‌ای آمریکا چه معنایی برای این منازعات دارد؟",
+   "summary_fa": "در پی پیروزی چشمگیر دمکرات‌ها در انتخابات میان‌دوره‌ای ایالات متحده، توجه جهانی به نحوه تأثیرگذاری کنگره بر سیاست خارجی و منازعات ایران، غزه و اوکراین جلب شده است.",
+   "body_fa": [
+    "دمکرات‌ها با بهره‌گیری از نارضایتی عمومی از تصمیمات دونالد ترامپ، به ویژه درگیری نظامی با ایران، اکثریت را در مجلس نمایندگان و مجلس سنا به دست آوردند. رهبران دمکرات اعلام کرده‌اند قصد دارند از اختیارات بودجه‌ای کنگره برای محدود کردن عملیات نظامی استفاده کنند، هرچند کارشناسان حقوقی معتقدند موانع قانونی و ساختاری ممکن است مانع تغییر سریع سیاست‌ها شود.",
+    "رئیس‌جمهور دونالد ترامپ با اذعان به تأثیر این منازعات بر شکست انتخاباتی جمهوری‌خواهان، از تصمیمات خود دفاع کرد و هشدار داد که از حق وتوی ریاست‌جمهوری برای مقابله با مصوبات کنگره استفاده خواهد کرد."
+   ],
+   "title_ar": "إيران وغزة وأوكرانيا: ماذا تعني نتائج انتخابات منتصف الولاية الأمريكية لهذه الصراعات؟",
+   "summary_ar": "عقب تحقيق الديمقراطيين انتصاراً كبيراً في انتخابات منتصف الولاية الأمريكية، تتجه الأنظار إلى كيفية تأثير الكونغرس على السياسة الخارجية والصراعات في إيران وغزة وأوكرانيا.",
+   "body_ar": [
+    "استعاد الديمقراطيون الأغلبية في مجلسي النواب والشيوخ استناداً إلى الاستياء الشعبي من قرارات الرئيس دونالد ترامپ، وخاصة المواجهة العسكرية مع إيران. وأكدت قيادات ديمقراطية السعي لاستخدام الصلاحيات المالية للكونغرس للحد من العمليات العسكرية، رغم الإشارة إلى وجود عقبات قانونية قد تعرقل الإلغاء السريع للقرارات التنفيذية.",
+    "من جانبه، أقر الرئيس دونالد ترامپ بتأثير ملف الحرب على نتائج الانتخابات، متمسكاً بقراراته ومؤكداً أنه سيستخدم حق النقض (الفيتو) لمواجهة التشريعات التي تتعارض مع سياساته."
+   ]
+  },
+  {
+   "id": "c1493b787cbc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-including-child-attacks-central-and",
+   "date": "2026-11-05T11:08:43Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel kills three Palestinians, including a child, in attacks in central and southern Gaza",
+   "title_en": "Israel kills three Palestinians, including a child, in attacks in central and southern Gaza",
+   "summary_en": "Israeli forces killed at least three Palestinians, including a woman and a child, in separate attacks across central and southern Gaza, according to medical sources cited by Wafa.",
+   "body_en": [
+    "A Palestinian child was killed by Israeli fire in the Bureij camp in central Gaza, while a Palestinian woman was shot and killed in al-Mawasi, near Khan Younis. Another person was killed in an air strike west of al-Zawayda, and several others were wounded in a strike on a group of Palestinians in Deir el-Balah."
+   ],
+   "title_fa": "اسرائیل سه فلسطینی از جمله یک کودک را در حملات به مرکز و جنوب غزه کشید",
+   "summary_fa": "به نقل از منابع پزشکی توسط وفا، نیروهای اسرائیلی در حملات جداگانه در مرکز و جنوب غزه دست‌کم سه فلسطینی از جمله یک زن و یک کودک را کشتند.",
+   "body_fa": [
+    "یک کودک فلسطینی بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج در مرکز غزه کشته شد، و یک زن فلسطینی نیز در منطقه المواصی در خان یونس هدف شلیک قرار گرفت و جان باخت. شخص دیگری در یک حمله هوایی در غرب الزوایده کشته شد و چندین نفر دیگر در حمله‌ای به دسته‌ای از فلسطینیان در دیرالبلح زخمی شدند."
+   ],
+   "title_ar": "إسرائيل تقتل ثلاثة فلسطينيين بينهم طفل في هجمات على وسط وجنوب غزة",
+   "summary_ar": "قتلت القوات الإسرائيلية ثلاثة فلسطينيين على الأقل، بينهم امرأة وطفل، في هجمات منفصلة في وسط وجنوب غزة، وفقاً لمصادر طبية نقلت عنها وكالة وفا.",
+   "body_ar": [
+    "قُتل طفل فلسطيني برصاص إسرائيلي في مخيم البريج بوسط غزة، بينما قُتلت امرأة فلسطينية بالرصاص في منطقة المواصي بخان يونس جنوب قطاع غزة. وقُتل شخص آخر في غارة جوية غرب الزوايدة، وأُصيب آخرون في هجوم استهدف مجموعة من الفلسطينيين في دير البلح."
+   ]
+  },
+  {
+   "id": "0219bd19b111",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
+   "date": "2026-11-05T11:07:22Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "title_en": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "summary_en": "The Saudi-led coalition announced the interception of a ballistic missile fired by Houthi forces toward the city of Medina.",
+   "body_en": [
+    "A spokesman for the coalition fighting the Houthis in Yemen confirmed the interception on Thursday. The statement followed warnings from Saudi Arabia's civil defence agency regarding potential risks in the area surrounding the port of Yanbu."
+   ],
+   "title_fa": "ائتلاف سعودی: موشک‌های شلیک‌شده حوثی‌ها به سوی مدینه رهگیری شدند",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری یک موشک بالستیک شلیک‌شده توسط حوثی‌ها به سمت شهر مدینه خبر داد.",
+   "body_fa": [
+    "سخنگوی ائتلاف درگیر با حوثی‌ها در یمن روز پنجشنبه این رهگیری را تأیید کرد. این اعلان مدت کوتاهی پس از آن صورت گرفت که سازمان دفاع مدنی عربستان درباره خطرات احتمالی در اطراف بندر استراتژیک ینبع هشدار داده بود."
+   ],
+   "title_ar": "التحالف السعودي يعلن اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المدينة المنورة",
+   "summary_ar": "أعلن التحالف بقيادة السعودية اعتراض صاروخ باليستي أطلقته قوات الحوثيين باتجاه مدينة المدينة المنورة.",
+   "body_ar": [
+    "وأكد متحدث باسم التحالف الذي يقاتل الحوثيين في اليمن عملية الاعتراض يوم الخميس. وجاء هذا الإعلان بعد وقت قصير من تحذير وكالة الدفاع المدني في المملكة من مخاطر محتملة حول ميناء ينبع الاستراتيجي."
+   ]
+  },
+  {
+   "id": "b712a9138623",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+   "date": "2026-11-05T10:25:28Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 7,
+   "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+   "title_en": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+   "summary_en": "Displaced Palestinian families living in deteriorating tents on Gaza's coast face severe winter weather, flooding, and cold as shelter supplies remain blocked from entering the strip.",
+   "body_en": [
+    "Tens of thousands of displaced Palestinians are sheltering on Gaza's beaches after being forced from their homes by military orders and high displacement costs. Many tents offer no protection against rising tides, wind, and rain, leading local aid groups to construct makeshift barriers using soil-filled cooking pots donated by aid organizations to block seawater.",
+    "Gaza's Winter Emergency Committee warned of an escalating catastrophe, stating that Israeli restrictions continue to prevent the entry of tents, caravans, building materials, and fuel. Officials reported that thousands of damaged shelters are positioned in high-risk flood zones, while municipal and civil defense equipment has been largely destroyed or paralyzed by fuel shortages."
+   ],
+   "title_fa": "«دردمند و درمانده»: خانواده‌هایی که در چادرهای ساحلی غزه با زمستان روبرو هستند",
+   "summary_fa": "خانواده‌های آواره فلسطینی که در چادرهای فرسوده در سواحل غزه زندگی می‌کنند، با نزدیک شدن زمستان، سرما و خطر سیلاب روبرو هستند، در حالی که واردات تجهیزات اسکان به این منطقه همچنان ممنوع است.",
+   "body_fa": [
+    "ده‌ها هزار آواره فلسطینی پس از خروج اجباری از خانه‌های خود به دلیل دستورات نظامی و هزینه‌های بالای اسکان، در سواحل غزه پناه گرفته‌اند. بسیاری از چادرها در برابر بالا آمدن آب دریا، باد و باران مقاومتی ندارند و همین امر گروه کمک‌رسانی محلی را بر آن داشته تا با استفاده از دیگ‌های کهنه پر شده از خاک مانع ورود آب دریا به چادرها شوند.",
+    "کمیته اضطراری زمستان غزه نسبت به تشدید بحران بشردوستانه هشدار داده و اعلام کرد که محدودیت‌های اسرائیلی مانع از ورود چادر، کانکس، مصالح ساختمانی و سوخت می‌شود. به گفته این کمیته، هزاران چادر فرسوده در مناطق پرخطر و در معرض سیل قرار دارند، در حالی که بخش اعظم تجهیزات امدادی و شهرداری به دلیل ناامنی و نقص سوخت از کار افتاده‌اند."
+   ],
+   "title_ar": "«عاجزون»: عائلات تواجه الشتاء في خيام على شاطئ البحر في غزة",
+   "summary_ar": "تواجه العائلات الفلسطينية النازحة التي تعيش في خيام متهالكة على ساحل غزة ظروفاً جوية قاسية وخطر الفيضانات والبرد مع استمرار منع دخول مستلزمات الإيواء إلى القطاع.",
+   "body_ar": [
+    "تلجأ عشرات آلاف العائلات النازحة إلى شواطئ غزة بعد أن اضطرت لمغادرة منازلها بسبب الأوامر العسكرية وارتفاع تكاليف الإيواء. ولا توفر الخيام المتهالكة أي حماية من الأمواج والرياح والأمطار، مما دفع مبادرات محلية لاستخدام أواني طهي قديمة مملوءة بالتراب كحواجز لمنع مياه البحر من غمر الخيام.",
+    "وحذرت لجنة طوارئ الشتاء في غزة من تفاقم الكارثة الإنسانية، مشيرة إلى أن القيود الإسرائيلية تواصل منع دخول الخيام والبيوت المتنقلة ومواد البناء والوقود. وأفادت اللجنة بأن آلاف الخيام تقع في مناطق شديدة الخطورة ومعرضة للفيضانات، في حين تضررت معظم معدات الدفاع المدني والبلديات أو توقفت بسبب أزمة الوقود."
+   ]
+  },
+  {
+   "id": "2cd6fcd3313d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042319/fcc-bars-phc-from-hearing-cases-related-to-pti-workers-preventive-detention",
+   "date": "2026-11-05T10:10:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "FCC bars PHC from hearing cases related to PTI workers' preventive detention",
+   "title_en": "FCC bars PHC from hearing cases related to PTI workers' preventive detention",
+   "summary_en": "Pakistan's Federal Constitutional Court has barred the Peshawar High Court from hearing petitions concerning the preventive detention of PTI activists under Article 245 of the Constitution. The two-judge bench ordered that high court proceedings remain suspended while armed forces act in aid of civil power in Khyber Pakhtunkhwa.",
+   "body_en": [
+    "The bench, headed by Chief Justice Aminuddin Khan, issued the ruling while hearing appeals against interim bail orders granted by the Peshawar High Court to detained activists. The decision follows the federal government's deployment of the Pakistan Army in the province after the imposition of emergency and governor's rule on October 11.",
+    "The court directed the Khyber Pakhtunkhwa advocate general to submit a report within seven days specifying the areas where armed forces deployment is no longer required. The court stated it would evaluate the report and constitutional questions regarding high court jurisdiction before issuing a final pronouncement."
+   ],
+   "title_fa": "دادگاه قانون اساسی فدرال، دادگاه عالی پیشاور را از رسیدگی به پرونده‌های بازداشت بازدارنده فعالان پی‌تی‌آی منع کرد",
+   "summary_fa": "دادگاه قانون اساسی فدرال پاکستان، دادگاه عالی پیشاور را طبق اصل ۲۴۵ قانون اساسی از رسیدگی به دادخواست‌های مربوط به بازداشت بازدارنده فعالان حزب تحریک انصاف (پی‌تی‌آی) منع کرد. هیئت دو نفره قضات دستور داد که همزمان با فعالیت نیروهای مسلح در جهت کمک به نیروهای غیرنظامی در خیبر پختونخوا، رسیدگی‌های دادگاه عالی معلق بماند.",
+   "body_fa": [
+    "این هیئت به ریاست امین‌الدین خان، قاضی ارشد، این حکم را در جریان رسیدگی به فرجام‌خواهی‌ها علیه دستورات قرار وثیقه موقت صادره از سوی دادگاه عالی پیشاور برای فعالان بازداشتی صادر کرد. این تصمیم پس از استقرار ارتش پاکستان در این ایالت توسط دولت فدرال در پی اعلام وضعیت فوق‌العاده و حکومت فرمانداری در ۱۱ اکتبر اتخاذ شد.",
+    "دادگاه به دادستان کل خیبر پختونخوا دستور داد ظرف هفت روز گزارشی ارائه دهد که در آن مناطق بی‌نیاز از استقرار نیروهای مسلح مشخص شده باشد. دادگاه اعلام کرد که پیش از صدور رای نهایی، این گزارش و پرسش‌های قانون اساسی درباره صلاحیت دادگاه عالی را بررسی خواهد کرد."
+   ],
+   "title_ar": "المحكمة الدستورية الاتحادية تمنع محكمة بيشاور العليا من النظر في قضايا الاحتجاز الوقائي لناشطي حركة الإنصاف",
+   "summary_ar": "منعت المحكمة الدستورية الاتحادية الباكستانية محكمة بيشاور العليا من النظر في العرائض المتعلقة بالاحتجاز الوقائي لناشطي حركة الإنصاف بموجب المادة 245 من الدستور. وأمرت هيئة المحكمة المكونة من قاضيين بإيقاف إجراءات المحكمة العليا طالما تعمل القوات المسلحة لمساعدة السلطة المدنية في خیبر بختونخوا.",
+   "body_ar": [
+    "أصدرت الهيئة برئاسة رئيس القضاة أمين الدين خان القرار أثناء النظر في طعون ضد قرارات الكفالة المؤقتة التي منحتها محكمة بيشاور العليا للناشطين المحتجزين. ويأتي هذا القرار بعد نشر الحكومة الاتحادية للجيش الباكستاني في الإقليم عقب فرض حالة الطوارئ وحكم المحافظ في 11 أكتوبر.",
+    "ووجّهت المحكمة المدعي العام لخيبر بختونخوا بتقديم تقرير خلال سبعة أيام يحدد المناطق التي لم تعد بحاجة لنشر القوات المسلحة. وذكرت المحكمة أنها ستُقيّم التقرير والمسائل الدستورية المتعلقة باختصاص المحكمة العليا قبل إصدار حكم نهائي."
+   ]
+  },
+  {
+   "id": "bcfb29a76825",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042324/ecp-fixes-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-polls-delayed-in-kp",
+   "date": "2026-11-05T10:08:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "ECP fixes Feb 7 as polling date for first phase of Punjab local govt elections; polls delayed in KP",
+   "title_en": "ECP fixes Feb 7 as polling date for first phase of Punjab local govt elections; polls delayed in KP",
+   "summary_en": "The Election Commission of Pakistan has scheduled the first phase of Punjab's local government elections for February 7, 2027, citing winter weather and logistical requirements. Meanwhile, local elections in Khyber Pakhtunkhwa have been postponed until further notice following federal emergency measures.",
+   "body_en": [
+    "The decision was announced by a four-member ECP bench following a request from Punjab administrative officials to push back the originally proposed December date. Officials argued that heavy fog and shorter daylight hours in December and January would hinder voter turnout and election administration.",
+    "In Khyber Pakhtunkhwa, all election preparations were halted after the federal government extended the suspension of constitutional provisions regarding local governments across the province. Local body elections in Punjab have faced repeated postponements since the previous councils completed their terms in late 2021."
+   ],
+   "title_fa": "کمیسیون انتخابات پاکستان ۷ فوریه را به عنوان تاریخ رای‌گیری مرحله اول انتخابات شوراهای محلی پنجاب تعیین کرد؛ تعویق انتخابات در خیبر پختونخوا",
+   "summary_fa": "کمیسیون انتخابات پاکستان با اشاره به شرایط آب‌وهوایی زمستان و الزامات تدارکاتی، تاریخ مرحله اول انتخابات شوراهای محلی پنجاب را برای ۷ فوریه ۲۰۲۷ برنامه‌ریزی کرد. در همین حال، انتخابات محلی در خیبر پختونخوا در پی اقدامات اضطراری فدرال تا اطلاع ثانوی به تعویق افتاد.",
+   "body_fa": [
+    "این تصمیم توسط یک هیئت چهار نفره از کمیسیون انتخابات پس از درخواست مقامات اداری پنجاب برای به عقب انداختن تاریخ پیشنهادی اولیه در دسامبر اعلام شد. مقامات استدلال کردند که مه سنگین و ساعات کوتاه‌تر روز در دسامبر و ژانویه مانع از حضور رای‌دهندگان و مدیریت انتخابات می‌شود.",
+    "در خیبر پختونخوا، پس از آنکه دولت فدرال تعلیق اصول قانون اساسی مربوط به شوراهای محلی را به سراسر ایالت گسترش داد، تمامی مقدمات انتخابات متوقف شد. انتخابات نهادهای محلی در پنجاب از زمان پایان دوره شوراهای قبلی در اواخر سال ۲۰۲۱ با تعویق‌های مکرر مواجه شده است."
+   ],
+   "title_ar": "جنة الانتخابات الباكستانية تحدد 7 فبراير موعدًا للاقتراع في المرحلة الأولى من انتخابات الحكم المحلي في البنجاب؛ وتأجيل الانتخابات في خيبر بختونخوا",
+   "summary_ar": "حددت لجنة الانتخابات الباكستانية المرحلة الأولى من انتخابات الحكم المحلي في البنجاب في 7 فبراير 2027، مرجعة ذلك إلى الأحوال الجوية الشتوية والمتطلبات اللوجستية. في غضون ذلك، تقرر تأجيل الانتخابات المحلية في خيبر بختونخوا حتى إشعار آخر عقب التدابير الاتحادية الطارئة.",
+   "body_ar": [
+    "أعلنت هيئة مكونة من أربعة أعضاء في لجنة الانتخابات القرار بعد طلب من المسؤولين الإداريين في البنجاب بتأجيل الموعد المقترح سابقًا في ديسمبر. ودفع المسؤولون بأن الضباب كثيف وقصر ساعات النهار في ديسمبر ويناير يعيقان إقبال الناخبين وإدارة الانتخابات.",
+    "وفي خيبر بختونخوا، أُوقفت جميع التحضيرات الانتخابية بعد أن وسّعت الحكومة الاتحادية تعليق الأحكام الدستورية المتعلقة بالحكومات المحلية في جميع أنحاء الإقليم. وتواجه انتخابات المجالس المحلية في البنجاب تأجيلات متكررة منذ انتهاء ولاية المجالس السابقة في أواخر عام 2021."
+   ]
+  },
+  {
+   "id": "029a75e7dbe1",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+   "date": "2026-11-05T09:58:18Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "A month after Yemen government offensive began, war of attrition takes hold",
+   "title_en": "A month after Yemen government offensive began, war of attrition takes hold",
+   "summary_en": "One month after Yemen's government launched the \"Dawn of Yemen\" offensive against Houthi forces, analysts say the conflict has turned into a prolonged war of attrition despite high casualties and localized Houthi gains.",
+   "body_en": [
+    "The military campaign, supported by a Saudi-led coalition, aims to reclaim Houthi-controlled regions across Yemen, including the capital Sanaa. Government forces claim to have inflicted heavy losses on Houthi commanders and personnel through air strikes and ground attacks, particularly along the western coast and in Taiz.",
+    "Despite losing significant equipment and fighters, Houthi forces have made localized territorial gains in provinces such as Taiz and Lahij while continuing missile and drone strikes against Saudi Arabia. Experts note that the offensive has targeted Houthi supply networks and maritime routes, but the overall strategic balance remains tied to broader regional dynamics."
+   ],
+   "title_fa": "یک ماه پس از آغاز عملیات دولت یمن، جنگ فرسایشی حاکم می‌شود",
+   "summary_fa": "یک ماه پس از آغاز عملیات «سپیده‌دم یمن» توسط دولت یمن علیه حوثی‌ها، کارشناسان می‌گویند این نبرد با وجود تلفات سنگین و پیشروی‌های منطقه‌ای حوثی‌ها، به یک جنگ فرسایشی طولانی‌مدت تبدیل شده است.",
+   "body_fa": [
+    "این عملیات نظامی که با پشتیبانی ائتلاف به رهبری عربستان سعودی انجام می‌شود، هدف خود را بازپس‌گیری تمام مناطق تحت کنترل حوثی‌ها از جمله صنعا اعلام کرده است. نیروهای دولتی مدعی هستند که در حملات هوایی و زمینی به‌ویژه در سواحل غربی و تعز، تلفات سنگینی به فرماندهان و نیروهای حوثی وارد کرده‌اند.",
+    "با وجود خسارات زیاد، نیروهای حوثی‌ پیشروی‌هایی در استان‌هایی مانند تعز و لحج داشته‌اند و حملات موشکی و پهپادی خود را به خاک عربستان ادامه داده‌اند. به گفته تحلیل‌گران، حملات علیه مسیرهای تدارکاتی و دریایی حوثی‌ها فشار زیادی وارد کرده، اما توازن کلی قدرت به تحولات منطقه‌ای وابسته مانده است."
+   ],
+   "title_ar": "بعد شهر من بدء هجوم الحكومة اليمنية، حرب الاستنزاف تفرض نفسها",
+   "summary_ar": "بعد مرور شهر على إطلاق الحكومة اليمنية عملية «فجر اليمن» ضد الحوثيين، يررى خبراء أن الصراع تحول إلى حرب استنزاف طويلة الأمد رغم الخسائر الكبيرة والتقدم الميداني للحوثيين في بعض المناطق.",
+   "body_ar": [
+    "تهدف الحملة العسكرية المدعومة من التحالف بقيادة السعودية إلى استعادة السيطرة على المناطق التي يسيطر عليها الحوثيون في جميع أنحاء اليمن بما فيها العاصمة صنعاء. وتؤكد القوات الحكومية أنها ألحقت خسائر جسيمة بصفوف الحوثيين وقياداتهم من خلال الغارات الجوية والاشتباكات الميدانية خاصة في الساحل الغربي وتعز.",
+    "ورغم الخسائر البشرية والمادية، حقق الحوثيون مكاسب ميدانية في محافظات مثل تعز ولحج مع استمرارهم في إطلاق الصواريخ والطائرات المسيرة نحو السعودية. ويفيد خبراء بأن الهجوم استهدف شبكات الإمداد والمنافذ البحرية للحوثيين، لكن توازن القوى الميداني لا يزال مرتبطاً بالتصعيد الإقليمي الواسع."
+   ]
+  },
+  {
+   "id": "bb596659923e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/shot-class-gazas-children-return-school-under-israeli-fire",
+   "date": "2026-11-05T07:21:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Shot in class: Gaza's children return to school under Israeli fire",
+   "title_en": "Shot in class: Gaza's children return to school under Israeli fire",
+   "summary_en": "Teachers and students in makeshift tent schools across Gaza face ongoing danger from Israeli gunfire and air strikes following the resumption of the academic year. Multiple incidents in Khan Younis and Gaza City have recently resulted in injuries and fatalities among educators and children.",
+   "body_en": [
+    "In eastern Khan Younis, a teacher was hit in the back by an Israeli bullet while presenting a lesson inside a tent classroom, leaving her unable to walk properly as the bullet could not be safely removed. Weeks later, a nine-year-old student in the same area was hospitalized for emergency surgery after a bullet pierced his classroom tent and struck his shoulder.",
+    "Educational institutions have also been targeted directly by air strikes, including recent attacks at the University College of Applied Sciences and the Islamic University. According to the Palestinian Ministry of Education and Higher Education, thousands of students and hundreds of teachers have been killed since October 2023."
+   ],
+   "title_fa": "شلیک در کلاس درس: بازگشت کودکان غزه به مدرسه زیر آتش اسرائیل",
+   "summary_fa": "معلمان و دانش‌آموزان در مدارس چادری موقت در سراسر غزه پس از ازسرگیری سال تحصیلی با خطر مداوم تیراندازی و حملات هوایی اسرائیل مواجه هستند. چندین حادثه اخیر در خان یونس و شهر غزه منجر به زخمی شدن و کشته شدن معلمان و کودکان شده است.",
+   "body_fa": [
+    "در شرق خان یونس، یک معلم هنگام تدریس در یک کلاس چادری از پشت مورد اصابت گلوله اسرائیل قرار گرفت و به دلیل عدم امکان خارج کردن ایمن گلوله، توانایی راه رفتن مناسب را از دست داد. چند هفته بعد، یک دانش‌آموز نه ساله در همان منطقه پس از عبور گلوله از چادر کلاس و اصابت به شانه‌اش، برای جراحی اضطراری در بیمارستان بستری شد.",
+    "مراکز آموزشی نیز مستقیماً هدف حملات هوایی قرار گرفته‌اند، از جمله حملات اخیر به دانشکده دانشگاهی علوم کاربردی و دانشگاه اسلامی. به گفته وزارت آموزش و آموزش عالی فلسطین، از اکتبر ۲۰۲۳ تاکنون هزاران دانش‌آموز و صدها معلم کشته شده‌اند."
+   ],
+   "title_ar": "إطلاق نار داخل الفصل: أطفال غزة يعودون إلى المدارس تحت النيران الإسرائيلية",
+   "summary_ar": "يواجه المعلمون والطلاب في مدارس الخيام المؤقتة في جميع أنحاء غزة خطرًا مستمرًا من إطلاق النار والغارات الجوية الإسرائيلية بعد استئناف العام الدراسي. وأدت حوادث متعددة في خان يونس ومدينة غزة مؤخرًا إلى وقوع إصابات ووفيات بين المعلمين والأطفال.",
+   "body_ar": [
+    "في شرق خان يونس، أصيبت معلمة برصاصة إسرائيلية في ظهرها أثناء تقديم درس داخل فصل من الخيام، مما جعلها غير قادرة على المشي بشكل طبيعي لعدم إمكانية إزالة الرصاصة بأمان. وبعد أسابيع، نُقل طالب يبلغ من العمر تسع سنوات في المنطقة نفسها إلى المستشفى لإجراء جراحة عاجلة بعد أن واخترقت رصاصة خيمة الفصل وأصابت كتفه.",
+    "كما استُهدفت المؤسسات التعليمية مباشرة بالغارات الجوية، بما في ذلك الهجمات الأخيرة على الكلية الجامعية للعلوم التطبيقية والجامعة الإسلامية. ووفقًا لوزارة التربية والتعليم العالي الفلسطينية، قُتل آلاف الطلاب ومئات المعلمين منذ أكتوبر 2023."
+   ]
+  },
+  {
+   "id": "378c80c15625",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/herzog-warns-netanyahu-highly-explosive-and-dangerous-reality-amid",
+   "date": "2026-11-05T06:47:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence",
+   "title_en": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence",
+   "summary_en": "Israeli President Isaac Herzog sent a letter to Prime Minister Benjamin Netanyahu and senior officials warning of a dangerous and explosive situation in the West Bank due to rising settler violence.",
+   "body_en": [
+    "In the letter, which was also sent to Defence Minister Israel Katz and Attorney General Gali Baharav-Miara, Herzog noted that security officials face limited tools and manpower shortages. He stated that upcoming political developments and the olive harvest season could trigger severe escalations with major consequences for Israel's security, economy, and international standing."
+   ],
+   "title_fa": "هشدار اسحاق هرتزوگ به بنیامین نتانیاهو درباره «واقعیت بسیار انفجاری و خطرناک» در پی افزایش خشونت شهرک‌نشینان",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در نامه‌ای به بنیامین نتانیاهو و مقام‌های ارشد درباره شرایط «بسیار انفجاری و خطرناک» در کرانه باختری به دلیل افزایش خشونت شهرک‌نشینان هشدار داد.",
+   "body_fa": [
+    "در این نامه که برای وزیر دفاع و دادستان کل نیز ارسال شده، هرتزوگ به نقل از فرماندهان نظامی و امنیتی از کمبود نیرو و ابزارهای محدود خبر داد. او تاکید کرد که همزمانی رویدادهای سیاسی و فصل برداشت زیتون می‌تواند به تنش‌های شدیدی منجر شود که به امنیت، اقتصاد و اعتبار بین‌المللی اسرائیل آسیب می‌زند."
+   ],
+   "title_ar": "يتسحاق هرتسوغ يحذر بنيامين نتنياهو من «واقع شديد الانفجار والخطورة» وسط تصاعد عنف المستوطنين",
+   "summary_ar": "وجه رئيس يتسحاق هرتسوغ رسالة إلى رئيس الوزراء بنيامين نتنياهو ومسؤولين كبار حذر فيها من وضع «شديد الانفجار والخطورة» في الضفة الغربية بسبب تصاعد عنف المستوطنين.",
+   "body_ar": [
+    "في الرسالة التي أُرسلت أيضاً إلى وزير الدفاع والمدعية العامة، أشار يتسحاق هرتسوغ إلى أن الأجهزة الأمنية تعاني من نقص في القوى البشرية ومحدودية الأدوات. وأكد أن تزامن التطورات السياسية مع موسم قطاف الزيتون قد يؤدي إلى تصعيد خطير يلقي بظلاله على أمن إسرائيل واقتصادها ومكانتها الدولية."
+   ]
+  },
   {
    "id": "a25dd1357122",
    "lang": "en",
