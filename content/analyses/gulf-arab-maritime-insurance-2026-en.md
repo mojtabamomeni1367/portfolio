@@ -1,16 +1,16 @@
 ---
 slug: gulf-arab-maritime-insurance-2026
 lang: en
-title: "Marine Insurance in the Persian Gulf and 3 Tests for Alternative Export Routes"
+title: "Marine Insurance After the 40-Day War: The Hidden Cost of Bypassing Hormuz"
 date: 2026-11-05
 countries: [SAU, ARE, OMN]
 topics: [mena-sa, security]
 summary: "Alternative pipelines and ports can ease disruption at Hormuz. Usable capacity, voyage costs and delivery reliability determine their commercial value."
 focus_keyword: "marine insurance"
-seo_title: "Marine Insurance and 3 Tests for Gulf Export Routes"
+seo_title: "Marine Insurance After the 40-Day War: Bypassing Hormuz"
 meta_description: "Marine insurance and war-risk costs help decide whether alternative pipelines and ports can keep Saudi and Emirati oil flowing despite Hormuz disruption."
 image: /assets/uploads/gulf-arab-maritime-insurance-2026.jpg
-image_alt: "An oil tanker at an oil terminal in the Persian Gulf"
+image_alt: "An oil tanker in the Strait of Hormuz with warships on the horizon"
 translated: true
 ---
 
@@ -41,8 +41,6 @@ Exporters in the region have different alternatives. For a producer that can mov
 Accordingly, marine insurance should be evaluated alongside delivery schedules and the ability to replace supplies. A buyer unsure when a cargo will arrive might make another purchase or seek greater flexibility in the contract. Both choices have financial implications for the exporter, even if the original cargo eventually sails. Publishing loading data, ship waiting times and the continuity of voyages can help buyers determine which routes can be used consistently. Moreover, data collected over time can show whether delays are concentrated at a terminal or occur later in the voyage.
 
 Arab countries on the Persian Gulf can reduce some of the [pressure from disruption at Hormuz](https://momenimojtaba.com/analysis/persian-gulf-security-uae-2026-en.html) by diversifying ports and routes. The result, however, depends on performance. Marine insurance signals sustained improvement when cover is offered on workable terms, ships repeat voyages and buyers receive cargoes on schedule. If any of those conditions remains weak, moving oil to a different port may solve part of the problem while shifting costs and delays to the next stage. A buyer judging reliability will look at the time from the commitment to delivery, including any changes in route or terms along the way.
-
-*Photo: [U.S. Navy, public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:US_Navy_041207-N-6932B-014_The_oil_tanker_Omala_is_one_of_hundreds_of_oil_tankers_from_around_the_world_that_receives_its_payload_from_Iraq%27s_Al_Basrah_Oil_Terminal_(ABOT).jpg)*
 
 **Sources**
 
