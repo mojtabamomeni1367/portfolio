@@ -46,7 +46,7 @@ translated: true
 
 *الصورة: [قوات الدفاع الأيرلندية، CC BY 2.0، عبر ويكيميديا كومنز](https://commons.wikimedia.org/wiki/File:LAF_and_UNIFIL_Joint_Patrol_along_the_Blue_Line_with_Pte_Mark_Slattery_of_Clare(3)_(6868975337).jpg)*
 
-**تحليل ذو صلة:** [وقف إطلاق النار في غزة أمام ٣ اختبارات لسلامة المدنيين](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-ar.html)
+**تحليل ذو صلة:** [وقف إطلاق النار في غزة بعد ١٣ شهرا؛ حين لا يعني صمت المدافع الأمان](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-ar.html)
 
 **المصادر**
 

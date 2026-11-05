@@ -44,7 +44,7 @@ Furthermore, a successful transfer can be assessed through observable results. F
 
 *Photo: [Irish Defence Forces, CC BY 2.0, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LAF_and_UNIFIL_Joint_Patrol_along_the_Blue_Line_with_Pte_Mark_Slattery_of_Clare(3)_(6868975337).jpg)*
 
-**Related analysis:** [The Gaza Ceasefire Faces 3 Tests of Civilian Safety](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-en.html)
+**Related analysis:** [Gaza Ceasefire After 13 Months: When Silent Guns Still Do Not Mean Safety](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-en.html)
 
 **Sources**
 

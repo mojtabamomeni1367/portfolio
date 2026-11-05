@@ -43,7 +43,7 @@ image_alt: "گشت مشترک ارتش لبنان و یونیفل در امتد�
 
 *عکس: [نیروهای دفاعی ایرلند، CC BY 2.0، ویکی مدیا کامانز](https://commons.wikimedia.org/wiki/File:LAF_and_UNIFIL_Joint_Patrol_along_the_Blue_Line_with_Pte_Mark_Slattery_of_Clare(3)_(6868975337).jpg)*
 
-**تحلیل مرتبط:** [آتش بس غزه در ۳ آزمون امنیت غیرنظامیان](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-fa.html)
+**تحلیل مرتبط:** [آتش بس غزه بعد از گذشت 13 ماه؛ وقتی خاموشی توپ ها هنوز امنیت نیست](https://momenimojtaba.com/analysis/gaza-ceasefire-civilian-safety-2026-fa.html)
 
 **منابع**
 
