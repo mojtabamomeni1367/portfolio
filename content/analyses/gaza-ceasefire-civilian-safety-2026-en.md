@@ -1,16 +1,16 @@
 ---
 slug: gaza-ceasefire-civilian-safety-2026
 lang: en
-title: "The Gaza Ceasefire Faces 3 Tests of Civilian Safety"
+title: "Gaza Ceasefire After 13 Months: When Silent Guns Still Do Not Mean Safety"
 date: 2026-11-05
 countries: [PSE, ISR]
 topics: [mena-sa, security]
 summary: "Safe routes, reliable aid delivery and credible incident reviews show whether the ceasefire is improving civilian safety in Gaza."
 focus_keyword: "Gaza ceasefire"
-seo_title: "The Gaza Ceasefire Faces 3 Tests of Civilian Safety"
+seo_title: "Gaza Ceasefire After 13 Months: Silent Guns Are Not Safety"
 meta_description: "The Gaza ceasefire faces three tests of civilian safety: secure daily routes, aid that actually reaches families and credible reviews of deadly incidents."
 image: /assets/uploads/gaza-ceasefire-civilian-safety-2026.jpg
-image_alt: "A humanitarian aid truck at the Kerem Shalom crossing into Gaza"
+image_alt: "A girl sitting beside empty cooking pots in Gaza"
 translated: true
 ---
 
@@ -43,8 +43,6 @@ The durability of the Gaza ceasefire depends in part on mechanisms for reporting
 The next test is visible in ordinary life. Can parents choose a route to school in advance? Can a hospital plan several weeks of care? Can families and aid workers get reliable information after a strike? Together, these answers show how far lower military intensity has translated into civilian safety. If routes, services or incident procedures remain unpredictable, the agreement may persist on paper while families still cannot plan the next day.
 
 For mediators, these questions offer ways to judge implementation between diplomatic meetings. For example, they can follow the continuity of a service over several weeks and establish whether a reported incident led to a concrete response. Moreover, reporting on these outcomes would give the parties a clearer basis for identifying where intervention is needed. The practical measure is whether families can repeat an essential journey and find that the service they set out to reach is still operating.
-
-*Photo: [U.S. Army, public domain, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Humanitarian_Aid_at_the_Kerem_Shalom_Crossing_Point_(9389531).jpg)*
 
 **Related analysis:** [The Lebanon Ceasefire After UNIFIL Faces 3 Questions](https://momenimojtaba.com/analysis/lebanon-blue-line-monitoring-2026-en.html)
 
