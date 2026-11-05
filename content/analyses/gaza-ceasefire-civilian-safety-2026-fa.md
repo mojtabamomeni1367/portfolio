@@ -1,7 +1,7 @@
 ---
 slug: gaza-ceasefire-civilian-safety-2026
 lang: fa
-title: "آتش بس غزه بعد از گذشت 13 ماه؛ وقتی خاموشی توپ ها هنوز امنیت نیست"
+title: "آتش بس غزه بعد از گذشت ۱۳ ماه؛ وقتی خاموشی توپ ها هنوز امنیت نیست"
 date: 2026-11-05
 countries: [PSE, ISR]
 topics: [mena-sa, security]
