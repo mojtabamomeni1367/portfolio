@@ -1,7 +1,69 @@
 {
- "updated": "2026-11-05T01:21:44Z",
- "count": 406,
+ "updated": "2026-11-05T04:12:14Z",
+ "count": 408,
  "items": [
+  {
+   "id": "47be2d65b84f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+   "date": "2026-11-05T03:46:13Z",
+   "countries": [
+    "SAU",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+   "title_en": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+   "summary_en": "Syrian President Ahmed al-Sharaa and Saudi Arabia's Crown Prince Mohammed bin Salman have overseen the signing of a defence cooperation agreement and $403m in loans for various Syrian sectors during talks in Riyadh.",
+   "body_en": [
+    "The agreements were concluded on Wednesday during al-Sharaa's second visit to Riyadh in less than a month. According to the Syrian Foreign Ministry, the defence pact is the most notable of the deals, following recent discussions over Syria potentially joining a mutual defence alliance with Saudi Arabia, Turkiye and Pakistan.",
+    "Additionally, the Saudi Fund for Development agreed to provide $403m through six concessional loans to support healthcare, housing, civil defence, power generation, and drinking water systems in Syria. The two governments also signed memoranda of understanding covering industrial cooperation, agriculture, and environmental protection."
+   ],
+   "title_fa": "سوریه و عربستان سعودی توافقنامه همکاری دفاعی امضا کردند و با ۴۰۳ میلیون دلار وام موافقت نمودند",
+   "summary_fa": "احمد الشرع، رئیس‌جمهور سوریه، و محمد بن سلمان، ولیعهد عربستان سعودی، در جریان مذاکراتی در ریاض بر امضای یک توافقنامه همکاری دفاعی و اعطای ۴۰۳ میلیون دلار وام به بخش‌های مختلف سوریه نظارت کردند.",
+   "body_fa": [
+    "این توافقنامه‌ها روز چهارشنبه در جریان دومین سفر الشرع به ریاض در کمتر از یک ماه گذشته امضا شد. به گفته وزارت امور خارجه سوریه، پیمان دفاعی برجسته‌ترین توافق میان دو کشور است که به دنبال بحث‌های اخیر درباره احتمال پیوستن سوریه به یک ائتلاف دفاعی متقابل با عربستان سعودی، ترکیه و پاکستان مطرح شده است.",
+    "علاوه بر این، صندوق توسعه سعودی موافقت کرد که ۴۰۳ میلیون دلار از طریق شش وام امتیازی برای حمایت از بخش‌های بهداشت، مسکن، دفاع مدنی، تولید برق و سیستم‌های آب آشامیدنی در سوریه اختصاص دهد. دو دولت همچنین تفاهم‌نامه‌هایی در زمینه همکاری‌های صنعتی، کشاورزی و حفاظت از محیط زیست امضا کردند."
+   ],
+   "title_ar": "سوريا والسعودية توقعان اتفاقية تعاون دفاعي وتفقان على قرض بقيمة 403 ملايين دولار",
+   "summary_ar": "أشرف الرئيس السوري أحمد الشرع ولي العهد السعودي محمد بن سلمان على توقيع اتفاقية تعاون دفاعي وقروض بقيمة 403 ملايين دولار لمختلف القطاعات السورية خلال محادثات في الرياض.",
+   "body_ar": [
+    "وُقعت الاتفاقيات يوم الأربعاء خلال زيارة الشرع الثانية إلى الرياض في أقل من شهر. ووفقاً لوزارة الخارجية السورية، تعد اتفاقية الدفاع أبرز الصفقات، وذلك أعقاب مناقشات جرت مؤخراً حول احتمال انضمام سوريا إلى حلف دفاعي مشترك يضم السعودية وتركيا وباكستان.",
+    "بالإضافة إلى ذلك، وافق الصندوق السعودي للتنمية على تقديم 403 ملايين دولار عبر ستة قروض ميسرة لدعم قطاعات الرعاية الصحية والإسكان والدفاع المدني وتوليد الطاقة ومياه الشرب في سوريا. كما وقعت الحكومتان مذكرات تفاهم تشمل التعاون الصناعي والزراعة وحماية البيئة."
+   ]
+  },
+  {
+   "id": "56529818e597",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042213/riyadh-rolls-over-3bn-as-prospects-of-10bn-us-facility-wane",
+   "date": "2026-11-05T02:05:14Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "score": 6,
+   "title": "Riyadh rolls over $3bn as prospects of $10bn US facility wane",
+   "title_en": "Riyadh rolls over $3bn as prospects of $10bn US facility wane",
+   "summary_en": "Pakistan has secured a $3 billion rollover from Saudi Arabia for a reasonable period, while prospects for a proposed $10bn US support facility have diminished, according to the country's finance minister.",
+   "body_en": [
+    "Finance Minister Muhammad Aurangzeb confirmed that Riyadh extended the $3 billion financing that matured at the end of October. He stated that while the proposed US Exchange Stabilisation Support Facility requested in July remains uncertain, Pakistan has successfully accessed international markets through recent bond issuances.",
+    "During a meeting with the Senate Standing Committee on Finance, officials reported that Pakistan is targeting a $4bn reduction in external debt during the current fiscal year. Public debt figures have also shown a relative decline as a percentage of GDP, bolstered by fiscal discipline and stabilizing foreign exchange reserves."
+   ],
+   "title_fa": "ریاض وام ۳ میلیارد دلاری را تمدید کرد؛ احتمال تأمین تسهیلات ۱۰ میلیارد دلاری آمریکا کاهش یافت",
+   "summary_fa": "به گفته وزیر دارایی پاکستان، این کشور توانسته است مهلت بازپرداخت وام ۳ میلیارد دلاری عربستان سعودی را برای مدت زمان معقولی تمدید کند، در حالی که چشم‌انداز دریافت تسهیلات حمایتی ۱۰ میلیارد دلاری پیشنهادی از سوی آمریکا کاهش یافته است.",
+   "body_fa": [
+    "محمد اورنگ‌زیب، وزیر دارایی، تایید کرد که ریاض تامین مالی ۳ میلیارد دلاری را که سررسید آن در پایان اکتبر بود، تمدید کرده است. او اظهار داشت که در حالی که تسهیلات حمایتی تثبیت نرخ ارز پیشنهادی آمریکا که در ماه ژوئیه درخواست شده بود همچنان نامشخص است، پاکستان توانسته از طریق انتشار اوراق قرضه اخیر به بازارهای بین‌المللی دسترسی پیدا کند.",
+    "طی نشستی در کمیته دائمی دارایی سنا، مقامات گزارش دادند که پاکستان کاهش ۴ میلیارد دلاری بدهی خارجی را در سال مالی جاری هدف قرار داده است. ارقام بدهی عمومی نیز با تکیه بر انضباط مالی و ثبات ذخایر ارزی، به عنوان درصدی از تولید ناخالص داخلی کاهش نسبی نشان داده است."
+   ],
+   "title_ar": "الرياض تمدد قرضاً بقيمة 3 مليارات دولار وسط تراجع احتمالات الحصول على تسهيلات أمريكية بـ 10 مليارات دولار",
+   "summary_ar": "حصلت باكستان على تمديد لقرض بقيمة 3 مليارات دولار من السعودية لفترة معقولة، في حين تراجعت احتمالات الحصول على تسهيلات دعم أمريكية مقترحة بقيمة 10 مليارات دولار، وفقاً لوزير المالية.",
+   "body_ar": [
+    "أكد وزير المالية محمد أورنگ زیب أن الرياض مددت التمويل البالغ 3 مليارات دولار الذي استحق أجله في نهاية أكتوبر/تشرين الأول. وأشار إلى أنه في الوقت الذي يظل فيه مصير تسهيلات دعم استقرار الصرف الأمريكية المقترحة التي طلبت في يوليو/تموز غير حاسم، فقد نجحت باكستان في الوصول إلى الأسواق الدولية من خلال إصدارات السندات الأخيرة.",
+    "خلال اجتماع لجنة الشؤون المالية بمجلس الشيوخ، أفاد المسؤولون بأن باكستان تستهدف خفض الديون الخارجية بمقدار 4 مليارات دولار خلال السنة المالية الحالية. كما أظهرت أرقام الدين العام تراجعاً نسبياً كنسبة من الناتج المحلي الإجمالي، مدعومة الانضباط المالي واستقرار احتياطيات النقد الأجنبي."
+   ]
+  },
   {
    "id": "61a0fa8d6df2",
    "lang": "en",
