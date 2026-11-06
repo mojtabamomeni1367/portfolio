@@ -1,7 +1,272 @@
 {
- "updated": "2026-11-06T07:32:01Z",
- "count": 428,
+ "updated": "2026-11-06T10:18:12Z",
+ "count": 441,
  "items": [
+  {
+   "id": "d991b0ba4db1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-urges-arab-states-deter-houthi-attacks-foreign-minister-says",
+   "date": "2026-11-06T09:53:16Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen urges Arab states to deter Houthi attacks, foreign minister says",
+   "title_en": "Yemen urges Arab states to deter Houthi attacks, foreign minister says",
+   "summary_en": "Yemen's Foreign Minister Afrah al-Zouba has called on Arab nations to pursue measures to deter attacks by the Houthis, according to the state-run Saba news agency.",
+   "body_en": [
+    "During a meeting with Arab ambassadors in Berlin, Zouba highlighted the impact of Houthi strikes on civilians, the continued siege of Taiz, and the group's detention of humanitarian and UN personnel. She stated that the absence of deterrence has enabled the Houthis to persist with operations both inside Yemen and across its borders.",
+    "The assembled ambassadors condemned Houthi attacks on Yemeni and Saudi territory and reaffirmed their backing for the internationally recognised government of Yemen."
+   ],
+   "title_fa": "وزیر خارجه یمن از کشورهای عربی خواست مانع حملات حوثی‌ها شوند",
+   "summary_fa": "به گزارش خبرگزاری دولتی سبأ، افراح الزوبه، وزیر امور خارجه یمن، از کشورهای عربی خواست اقداماتی برای بازدارندگی در برابر حملات حوثی‌ها در پیش بگیرند.",
+   "body_fa": [
+    "افراح الزوبه در دیداری با سفرای کشورهای عربی در برلین، به اثرات حملات حوثی‌ها بر غیرنظامیان، تداوم محاصره تعز و بازداشت کارکنان سازمان ملل و امدادرسانان اشاره کرد. او گفت که نبود اقدامات بازدارنده موجب شده است تا این گروه به حملات خود در داخل یمن و فراتر از مرزهای آن ادامه دهد.",
+    "سفرای حاضر در این نشست حملات حوثی‌ها در خاک یمن و عربستان سعودی را محکوم کرده و بر حمایت مجدد خود از دولت به رسمیت شناخته‌شده بین‌المللی یمن تأکید کردند."
+   ],
+   "title_ar": "اليمن يحث الدول العربية على ردع هجمات الحوثيين، بحسب وزيرة الخارجية",
+   "summary_ar": "دعت وزيرة الخارجية اليمنية أفراح الزوبة الدول العربية إلى الدفع باتجاه اتخاذ تدابير لردع هجمات الحوثيين، بحسب ما نقلته وكالة الأنباء الرسمية سبأ.",
+   "body_ar": [
+    "وخلال لقائها بسفراء عرب في برلين، سلطت الزوبة الضوء على تداعيات هجمات الحوثيين على المدنيين، والحصار المستمر على تعز، واحتجاز الجماعة لموظفي الأمم المتحدة والعاملين في المجال الإنساني. وأوضحت أن غياب الإجراءات الرادعة شجع الجماعة على مواصلة عملياتها داخل اليمن وعبر حدوده.",
+    "من جانبهم، أدان السفراء هجمات الحوثيين داخل اليمن وعلى الأراضي السعودية، وجددوا تأكيد دعمهم للحكومة اليمنية المعترف بها دولياً."
+   ]
+  },
+  {
+   "id": "5fb929358d13",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042580/asif-sees-attempt-to-set-ground-for-alternative-arrangement-in-punjab-amid-maryam-salik-row",
+   "date": "2026-11-06T09:35:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Asif sees attempt to set ground for 'alternative arrangement' in Punjab amid Maryam-Salik row",
+   "title_en": "Asif sees attempt to set ground for 'alternative arrangement' in Punjab amid Maryam-Salik row",
+   "summary_en": "Pakistan's Defence Minister Khawaja Asif claimed that corruption allegations made against the Punjab government by federal minister Chaudhry Salik Hussain are intended to lay the groundwork for an \"alternative arrangement\" in the province. The remarks follow a public dispute between Punjab Chief Minister Maryam Nawaz and Salik, who received a legal notice over his criticisms.",
+   "body_en": [
+    "During a television interview, Asif stated that Salik's accusations selectively targeted Punjab to discredit current leaders and make way for a new political team. He linked this move to wealthy individuals acting in anticipation of a political crisis, while noting that politicians in these factions may be preparing to align with a fresh political group ahead of future elections.",
+    "The dispute intensified after Salik publicly criticised Maryam's provincial administration over alleged corruption and high government spending, notably questioning the use of official aircraft. In response, Maryam sent a 5 billion rupee defamation notice demanding a retraction, alleging that Salik's criticism stemmed from a disagreement over administrative appointments in Gujrat."
+   ],
+   "title_fa": "آصف در میانه تنش میان مریم و سالک، ادعاها را تلاشی برای زمینه‌سازی «ترتیبات جایگزین» در پنجاب دانست",
+   "summary_fa": "خواجه آصف، وزیر دفاع پاکستان، مدعی شد اتهامات فساد مطرح‌شده از سوی چودری سالک حسین، وزیر امور پاکستانی‌های خارج از کشور، علیه دولت پنجاب تلاشی برای زمینه‌سازی یک «ترتیب جایگزین» در این ایالت است. این اظهارات در پی مناقشه‌ای علنی میان مریم نواز، سروزیر پنجاب، و سالک مطرح شده که منجر به ارسال اخطاریه قانونی برای وی شده است.",
+   "body_fa": [
+    "آصف در یک مصاحبه تلویزیونی اعلام کرد اتهامات سالک به شکلی گزینشی دولت پنجاب را هدف قرار داده تا چهره مسئولان فعلی را مخدوش کرده و راه را برای یک تیم جدید باز کند. او این اقدامات را به افراد ثروتمندی نسبت داد که با پیش‌بینی یک بحران سیاسی فعالیت می‌کنند و افزود که برخی سیاستمداران ممکن است برای پیوستن به گروهی تازه در انتخابات آینده آماده شوند.",
+    "این تنش زمانی شدت گرفت که سالک، از رهبران حزب مسلم لیگ-قائد، علناً از عملکرد دولت استانی به رهبری مریم Nawaz، فساد ادعایی و هزینه‌های دولتی مانند استفاده از هواپیمای اختصاصی انتقاد کرد. در پاسخ، مریم نواز یک اخطاریه اعاده حیثیت ۵ میلیارد روپیه‌ای برای او ارسال کرد و مدعی شد این خشم ناشی از مخالفت او با جابه‌جایی معاون فرماندار گجرات است."
+   ],
+   "title_ar": "آصف يرى محاولة لتمهيد الطريق لـ«ترتيب بديل» في البنجاب وسط خلاف بين مريم وسالك",
+   "summary_ar": "صرح وزير الدفاع الباكستاني خواجة آصف بأن اتهامات الفساد التي وجهها الوزير الاتحادي شودري سالك حسين لحكومة إقليم البنجاب تهدف إلى التمهيد لـ«ترتيب بديل» في الإقليم. وتأتي هذه التصريحات عقب خلاف علني بين رئيسة وزراء البنجاب مريم نواز وسالك، بعد أن تلقى الأخير إخطاراً قانونياً بشأن تصريحاته.",
+   "body_ar": [
+    "وأوضح آصف في مقابلة تلفزيونية أن اتهامات سالك استهدفت حكومة البنجاب بشكل انتقائي بهدف تشويه سمعة القادة الحاليين وتقديم فريق سياسي جديد. وربط ذلك بتحركات لأثرياء يتصرفون تحسباً لأزمة سياسية، مشيراً إلى أن شخصيات تسعى لمصالحها الخاصة قد تنضم إلى مجموعة جديدة في الانتخابات المقبلة.",
+    "وكان الخلاف قد تصاعد بعد أن وجه سالك، القيادي في حزب الرابطة الإسلامية الباكستانية-قائد، انتقادات علنية لإدارة الإقليم بشأن قضايا فساد والإنفاق الحكومي ولا سيما استخدام الطائرات الرسمية. وردت مريم بإرسال إخطار قانوني للمطالبة بتعويض قدره 5 مليارات روبية والتراجع عن تصريحاته، معتبرة أن موقفه جاء نتيجة تغيير مسؤول إداري في كوجرات خلافاً لرغبته."
+   ]
+  },
+  {
+   "id": "d0c0c87668e9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-says-18-gaza-shelters-require-urgent-attention-winter-nears",
+   "date": "2026-11-06T09:15:58Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Unrwa says 18 Gaza shelters require urgent attention as winter nears",
+   "title_en": "Unrwa says 18 Gaza shelters require urgent attention as winter nears",
+   "summary_en": "UNRWA warned that 18 of its emergency shelters in Gaza are unsafe ahead of winter, with four facing an extremely high danger of collapse.",
+   "body_en": [
+    "An assessment of 113 displacement sites by the agency identified an additional six shelters at high risk and eight at medium risk. UNRWA noted that its shelters accommodate around 60,000 displaced people and that it is collaborating with humanitarian partners to secure tents for families agreeing to move, giving priority to 270 households in the most dangerous buildings.",
+    "The agency also pointed to a growing number of acute respiratory infections ahead of the winter season, warning of further increases in the weeks ahead."
+   ],
+   "title_fa": "آنروا: با نزدیک شدن زمستان ۱۸ پناهگاه در غزه نیازمند رسیدگی فوری هستند",
+   "summary_fa": "آنروا هشدار داد که در آستانه فصل زمستان ۱۸ پناهگاه اضطراری این آژانس در غزه ناامن هستند و چهار پناهگاه در معرض خطر بسیار شدید فروریختن قرار دارند.",
+   "body_fa": [
+    "ارزیابی این نهاد از ۱۱۳ محل اسکان آوارگان نشان داد که شش پناهگاه دیگر در وضعیت پرخطر و هشت پناهگاه در معرض خطر متوسط هستند. آنروا اعلام کرد که پناهگاه‌هایش حدود ۶۰ هزار آواره را در خود جای داده‌اند و این سازمان در حال همکاری با شرکای بشردوست برای تأمین چادر جهت جابه‌جایی خانواده‌هاست و ۲۷۰ خانوار ساکن در خطرناک‌ترین ساختمان‌ها در اولویت قرار دارند.",
+    "این آژانس همچنین از افزایش موارد ابتلا به عفونت‌های حاد تنفسی در آستانه زمستان خبر داد و هشدار داد که این آمار در هفته‌های پیش‌رو افزایش بیشتری خواهد یافت."
+   ],
+   "title_ar": "الأونروا تعلن أن 18 مأوى في غزة بحاجة إلى تدخل عاجل مع اقتراب الشتاء",
+   "summary_ar": "حذرت وكالة الأونروا من أن 18 من ملاجئ الطوارئ التابعة لها في قطاع غزة غير آمنة مع اقتراب فصل الشتاء، مشيرة إلى أن أربعة منها معرضة لخطر الانهيار بشكل كبير جداً.",
+   "body_ar": [
+    "وأظهر تقييم أجرته الوكالة لـ 113 موقعاً للنزوح وجود ستة ملاجئ إضافية معرضة لخطر كبير وثمانية ملاجئ لخطر متوسط. وأوضحت الأونروا أن ملاجئها تضم نحو 60 ألف نازح، وأنها تنسق مع شركاء العمل الإنساني لتوفير خيام للأسر التي توافق على الانتقال، مع إعطاء الأولوية لـ 270 أسرة تقيم في أكثر المباني خطورة.",
+    "كما أفادت الوكالة بتسجيل ارتفاع في حالات الإصابة بالتهابات الجهاز التنفسي الحادة قبيل حلول الشتاء، محذرة من توقعات بزيادة إضافية في هذه الحالات خلال الأسابيع المقبلة."
+   ]
+  },
+  {
+   "id": "c34c0b55bd17",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042577/saudi-arabia-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
+   "date": "2026-11-06T08:44:33Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 6,
+   "title": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
+   "title_en": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
+   "summary_en": "Saudi Arabia has strongly refuted a Wall Street Journal report stating that Yemen's Houthis demanded $51 billion to end hostilities with Riyadh.",
+   "body_en": [
+    "Saudi Deputy Minister for Public Diplomacy Ambassador Rayed Krimly called the claims \"pure fabrication\" by the journalists or their sources. The newspaper had reported that Saudi Arabia approached the group to explore a negotiated halt to fighting, where the Houthis allegedly sought both the money and official recognition as Yemen's rulers.",
+    "Krimly accused the militia of triggering famine, opposing the recognized Yemeni government, rejecting peace initiatives, and launching attacks against commercial shipping in the Red Sea as well as civilian and economic sites."
+   ],
+   "title_fa": "عربستان گزارش وال استریت ژورنال مبنی بر درخواست ۵۱ میلیارد دلاری حوثی‌ها برای توقف درگیری‌ها را تکذیب کرد",
+   "summary_fa": "عربستان سعودی گزارش روزنامه وال استریت ژورنال مبنی بر درخواست ۵۱ میلیارد دلاری حوثی‌های یمن برای توقف درگیری‌ها با ریاض را قاطعانه تکذیب کرد.",
+   "body_fa": [
+    "رائد قرملي، معاون دیپلماسی عمومی وزارت خارجه عربستان، این ادعاها را «ساختگی محض» از سوی نویسندگان یا منابع آن‌ها خواند. این روزنامه ادعا کرده بود ریاض برای بررسی راه‌های توقف مذاکره‌شده درگیری‌ها به حوثی‌ها رجوع کرده و این گروه خواهان این مبلغ و به‌رسمیت‌شناخته‌شدن رسمی به عنوان حاکمان یمن شده است.",
+    "قرملي این شبه‌نظامیان را به ایجاد قحطی، کودتا علیه دولت به رسمیت شناخته‌شده یمن، رد طرح‌های صلح و حمله به کشتی‌های تجاری در دریای سرخ و اهداف غیرنظامی و اقتصادی متهم کرد."
+   ],
+   "title_ar": "السعودية تنفي تقرير وول ستريت جورنال الذي زعم مطالبة الحوثيين بـ 51 مليار دولار لوقف الأعمال العدائية",
+   "summary_ar": "نفت المملكة العربية السعودية بشكل قاطع تقريراً نشرته صحيفة وول ستريت جورنال زعم أن الحوثيين في اليمن طالبوا بـ 51 مليار دولار مقابل وقف الأعمال العدائية مع الرياض.",
+   "body_ar": [
+    "ووصف وكيل وزارة الخارجية لشؤون الدبلوماسية العامة، السفير رائد قرملي، هذه المزاعم بأنها «فبركة محضة» من قبل الكُتّاب أو مصادرهم المزعومة. وكانت الصحيفة قد ادعت أن الرياض تواصلت مع الجماعة لبحث التوصل إلى وقف تفاوضي للقتال، وأن الحوثيين طالبوا بهذا المبلغ والاعتراف بهم رسمياً كحكام لليمن.",
+    "واتهم قرملي الميليشيا بالتسبب في المجاعة، والتمرد على الحكومة اليمنية المعترف بها، ورفض مساعي السلام، ومهاجمة السفن التجارية في ممرات البحر الأحمر إلى جانب استهداف مواقع مدنية واقتصادية."
+   ]
+  },
+  {
+   "id": "7ef5d283da7a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-two-houthi-missiles-fired-towards-saudi-arabias",
+   "date": "2026-11-06T08:00:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led says coalition two Houthi missiles fired towards Saudi Arabia's Najran intercepted",
+   "title_en": "Saudi-led says coalition two Houthi missiles fired towards Saudi Arabia's Najran intercepted",
+   "summary_en": "The Saudi-led coalition stated that its air defences intercepted and destroyed two ballistic missiles fired by Yemen's Houthis towards Najran. Debris fell after the interception, and resulting damage is being evaluated.",
+   "body_en": [],
+   "title_fa": "ائتلاف به رهبری عربستان از رهگیری دو موشک حوثی‌ها به سمت نجران خبر داد",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد سامانه‌های پدافند هوایی آن دو فروند موشک بالستیک شلیک‌شده توسط حوثی‌های یمن به سمت نجران را رهگیری و منهدم کرده‌اند. در پی این رهگیری، لاشه موشک‌ها سقوط کرده و ارزیابی خسارت‌ها در جریان است.",
+   "body_fa": [],
+   "title_ar": "التحالف بقيادة السعودية يعلن اعتراض صاروخين أطلقهما الحوثيون باتجاه نجران",
+   "summary_ar": "أعلن التحالف بقيادة السعودية أن دفاعاته الجوية اعترضت ودمرت صاروخين باليستيين أطلقهما الحوثيون في اليمن باتجاه نجران. وأضاف التحالف أن حطاماً سقط عقب عملية الاعتراض، بينما يجري تقييم الأضرار الناجمة عن ذلك.",
+   "body_ar": []
+  },
+  {
+   "id": "d6dfa85fa3f5",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-ablaze-after-collision-mines-hormuz-strait",
+   "date": "2026-11-06T07:58:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "IRGC says two oil tankers ablaze after collision with mines in Hormuz Strait",
+   "title_en": "IRGC says two oil tankers ablaze after collision with mines in Hormuz Strait",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps navy announced that two oil tankers caught fire and halted after hitting mines while navigating an unauthorized route in the Strait of Hormuz.",
+   "body_en": [
+    "According to an IRGC statement, the two vessels turned off their tracking and navigation systems and attempted to transit the waterway with the backing of the US military. One tanker struck a mine in the eastern part of the strait, while the other was hit inside the strait itself.",
+    "The IRGC stated that the Strait of Hormuz remains closed until seven unspecified conditions are met, warning that attempts by US forces to escort tankers through the mine-contaminated passage will result in failure."
+   ],
+   "title_fa": "سپاه پاسداران می‌گوید دو نفتکش پس از برخورد با مین در تنگه هرمز آتش گرفتند",
+   "summary_fa": "نیروی دریایی سپاه پاسداران انقلاب اسلامی اعلام کرد دو نفتکش حین عبور از یک مسیر غیرمجاز در تنگه هرمز با مین برخورد کرده، دچار آتش‌سوزی شده و متوقف شده‌اند.",
+   "body_fa": [
+    "بر اساس بیانیه سپاه پاسداران، این دو شناور سامانه‌های ناوبری و شناسایی خود را خاموش کرده و در تلاش بودند با پشتیبانی ارتش آمریکا از این آبراه عبور کنند. یکی از نفتکش‌ها در بخش شرقی تنگه هرمز و دیگری در خود تنگه با مین برخورد کرد.",
+    "سپاه پاسداران تأکید کرد که تنگه هرمز تا زمان تحقق هفت شرط اعلام‌شده بسته خواهد ماند و هشدار داد تلاش‌های نیروهای آمریکایی برای عبور دادن نفتکش‌ها از مناطق آلوده به مین با شکست روبه‌رو خواهد شد."
+   ],
+   "title_ar": "الحرس الثوري يقول إن ناقلتي نفط اشتعلتا بعد اصطدامهما بألغام في مضيق هرمز",
+   "summary_ar": "أعلنت بحرية الحرس الثوري الإيراني أن ناقلتي نفط اشتعلتا وتوقفتا إثر اصطدامهما بألغام أثناء محاولتهما عبور مسار غير مصرح به في مضيق هرمز.",
+   "body_ar": [
+    "وفقاً لبيان صادر عن الحرس الثوري، أغلقت السفينتان أنظمة الملاحة والتعريف الخاصة بهما وحاولتا عبور الممر المائي بدعم من الجيش الأمريكي. واصطدمت إحدى الناقلتين بلغم في الجزء الشرقي من المضيق، بينما أُصيبت الأخرى داخل المضيق نفسه.",
+    "وذكر الحرس الثوري أن مضيق هرمز سيظل مغلقاً حتى تلبية سبعة شروط، محذراً من أن مساعي القوات الأمريكية لإجبار الناقلات على المرور عبر المناطق الملوثة بالألغام ستبوء بالفشل."
+   ]
+  },
+  {
+   "id": "3a7b00a96496",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T07:33:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "title_en": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "summary_en": "Satellite imagery indicates that Iran is carrying out extensive construction and excavation near key missile sites, alongside repairs to bases damaged during US and Israeli air strikes.",
+   "body_en": [
+    "Satellite photos from November reviewed by British intelligence firm MAIAR reveal new digging and structures at the Garmdareh base in Karaj and the Shahroud base in the north. Analysts suggested that the excavations, including a possible new underground portal at Karaj, reflect efforts to move missile production and sensitive infrastructure subterranean to protect them from future strikes. Repair work was also identified across at least a dozen other military installations, including facilities in Kermanshah and the Parchin complex.",
+    "The visible activity suggests Tehran is focused on restoring military capabilities amid fears of renewed attacks following US midterm elections, during which Vice-President JD Vance noted the war's political unpopularity. While Donald Trump and the Pentagon previously asserted that air strikes severely degraded Iran's missile and drone production infrastructure, Iranian state media has continued to broadcast footage showcasing large arsenals and underground facilities."
+   ],
+   "title_fa": "تصاویر ماهواره‌ای از ساخت‌وساز گسترده در نزدیکی پایگاه‌های موشکی ایران خبر می‌دهند",
+   "summary_fa": "تصاویر ماهواره‌ای نشان می‌دهد که ایران در حال انجام ساخت‌وسازها و خاک‌برداری‌های گسترده در نزدیکی سایت‌های موشکی کلیدی و همچنین بازسازی پایگاه‌های آسیب‌دیده از حملات هوایی آمریکا و اسرائیل است.",
+   "body_fa": [
+    "تصاویر ماهواره‌ای مربوط به ماه نوامبر که توسط شرکت اطلاعاتی بریتانیایی «مایار» بررسی شده است، حفاری‌ها و سازه‌های جدیدی را در پایگاه گرمدره کرج و پایگاه شاهرود در شمال کشور نشان می‌دهد. به گفته تحلیلگران، این خاک‌برداری‌ها—از جمله دهانه جدیدی برای یک تأسیسات زیرزمینی در کرج—نشان‌دهنده تلاش برای انتقال خطوط تولید موشک و زیرساخت‌ها به زیر زمین با هدف محافظت در برابر حملات بعدی است. همچنین نشانه‌هایی از تعمیرات در دست‌کم ۱۲ سایت نظامی دیگر از جمله تأسیسات کرمانشاه و مجتمع پارچین مشاهده شده است.",
+    "این تحرکات حاکی از اولویت تهران در بازسازی ظرفیت‌های دفاعی در بحبوحه احتمال آغاز دوباره حملات پس از انتخابات میان‌دوره‌ای آمریکاست؛ انتخاباتی که در آن جی‌دی ونس، معاون رئیس‌جمهور، به نارضایتی رأی‌دهندگان از جنگ اشاره کرد. اگرچه دونالد ترامپ و پنتاگون پیشتر اعلام کرده بودند حملات بخش عمده زیرساخت‌های پهپادی و موشکی ایران را منهدم کرده است، رسانه‌های دولتی ایران تصاویری از ذخایر موشکی و تأسیسات زیرزمینی خود منتشر کرده‌اند."
+   ],
+   "title_ar": "صور الأقمار الصناعية تشير إلى أعمال بناء واسعة النطاق قرب قواعد صاروخية إيرانية",
+   "summary_ar": "تشير صور الأقمار الصناعية إلى أن إيران تجري أعمال بناء وحفر واسعة النطاق قرب مواقع صاروخية رئيسية، إلى جانب ترميم قواعد تضررت جراء الغارات الجوية الأمريكية والإسرائيلية.",
+   "body_ar": [
+    "أظهرت لقطات الأقمار الصناعية لشهر نوفمبر، والتي فحصتها شركة الاستخبارات البريطانية «مايار»، أعمال حفر ومنشآت جديدة في قاعدة گرمدره في كرج وقاعدة شاهرود في الشمال. وأوضح محللون أن عمليات الحفر، التي تتضمن مدخلاً جديداً لمنشأة تحت الأرض في كرج، تعكس محاولات لنقل خطوط إنتاج الصواريخ والبنية التحتية إلى باطن الأرض لحمايتها من الضربات القادمة. كما رُصدت أعمال ترميم في 12 موقعاً عسكرياً آخر على الأقل، بما في ذلك منشآت في كرمانشاه ومجمع بارشين.",
+    "وتشير هذه الأنشطة إلى تركيز طهران على إعادة بناء قدراتها العسكرية تحسباً لهجمات جديدة بعد انتخابات التجديد النصفي الأمريكية، التي أشار فيها نائب الرئيس جيه دي فانس إلى عدم شعبية الحرب لدى الناخبين. ورغم تأكيدات سابقة من دونالد ترامب والبنتاغون بتدمير جزء كبير من البنية الصناعية للصواريخ والطائرات المسيرة الإيرانية، واصلت وسائل الإعلام الرسمية الإيرانية بث لقطات تستعرض مخزونات ومنشآت صاروخية تحت الأرض."
+   ]
+  },
+  {
+   "id": "6b07e529f885",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+   "date": "2026-11-06T07:30:04Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "title_en": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "summary_en": "Fears of renewed Israeli military escalations have led many Lebanese residents to prepare emergency bags and stock up on food and medicine. Despite a ceasefire reached in April, civilians report persistent drone activity and lingering war trauma.",
+   "body_en": [
+    "Residents across southern Lebanon and Beirut's southern suburbs say they are keeping power supplies charged, maintaining emergency fuel, and mapping out quick evacuation routes. Concerns over another escalation have intensified alongside reports of potential US-Israeli strikes on Iran, as well as Israeli claims that the Lebanese army has failed to adhere to framework agreements.",
+    "The prolonged conflict between Israel and Hezbollah has left roughly 9,000 dead in Lebanon according to health authorities, while creating an occupied zone in the south. In addition to security anxieties, residents face mounting economic strain, with the World Bank projecting Lebanese inflation to reach 17.5 percent."
+   ],
+   "title_fa": "بستن چمدان‌ها و ذخیره آذوقه توسط لبنانی‌ها در پی نگرانی از تشدید حملات اسرائیل",
+   "summary_fa": "نگرانی از تشدید دوباره حملات نظامی اسرائیل باعث شده است تا بسیاری از شهروندان لبنانی به بستن چمدان‌های اضطراری و ذخیره غذا و دارو روی بیاورند. با وجود آتش‌بسی که در ماه آوریل اعلام شد، غیرنظامیان از تداوم پرواز پهپادها و آسیب‌های روانی ناشی از جنگ سخن می‌گویند.",
+   "body_fa": [
+    "ساکنان مناطق جنوبی لبنان و حومه جنوبی بیروت می‌گویند دستگاه‌های برقی و ذخایر انرژی خود را شارژ نگه می‌دارند، باک خودروها را پر می‌کنند و مسیرهای خروج اضطراری را در نظر دارند. هراس از موج تازه درگیری‌ها با انتشار گزارش‌هایی مبنی بر احتمال حملات مشترک آمریکا و اسرائیل علیه ایران و نیز ادعاهای اسرائیل در خصوص عدم اجرای توافقات از سوی ارتش لبنان تشدید شده است.",
+    "به گفته وزارت بهداشت لبنان، درگیری‌های مداوم میان حزب‌الله و اسرائیل تاکنون به کشته شدن حدود ۹ هزار نفر در لبنان انجامیده و بخش‌هایی از جنوب این کشور را زیر اشغال برده است. در کنار این چالش‌های امنیتی، فشارهای شدید اقتصادی نیز زندگی مردم را تحت تأثیر قرار داده و بانک جهانی پیش‌بینی کرده است نرخ تورم در لبنان به ۱۷٫۵ درصد برسد."
+   ],
+   "title_ar": "اللبنانيون يحزمون أمتعتهم ويخزنون المؤن وسط مخاوف من تصعيد إسرائيلي جديد",
+   "summary_ar": "دفعت المخاوف من تصعيد عسكري إسرائيلي جديد العديد من اللبنانيين إلى تجهيز حقائب الطوارئ وتخزين المواد الغذائية والأدوية. وعلى الرغم من إعلان وقف إطلاق النار في أبريل، يؤكد السكان استمرار تحليق الطائرات المسيرة والمعاناة من الصدمات النفسية للحرب.",
+   "body_ar": [
+    "أفاد سكان في جنوب لبنان والضاحية الجنوبية لبيروت بأنهم يبقون على بطارياتهم مشحونة وخزانات وقودهم ممتلئة ويحددون مسارات سريعة للنزوح. وتصاعدت هذه المخاوف تزامناً مع أنباء تفيد بدراسة ضربات أمريكية وإسرائيلية محتملة ضد إيران، بالإضافة إلى اتهامات إسرائيلية للجيش اللبناني بعدم الالتزام ببنود الاتفاقات المبرمة.",
+    "وأسفر النزاع المستمر بين حزب الله وإسرائيل عن مقتل نحو 9000 شخص في لبنان وفقاً لوزارة الصحة اللبنانية، فضلاً عن فرض منطقة محتلة في الجنوب. وإلى جانب الضغوط الأمنية، يواجه المواطنون أزمة اقتصادية حادة مع توقعات البنك الدولي بارتفاع التضخم في لبنان إلى 17.5 في المئة."
+   ]
+  },
+  {
+   "id": "5f3df3154b71",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+   "date": "2026-11-06T07:28:53Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "title_en": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "summary_en": "Israel is increasing its control over Palestinian education in occupied East Jerusalem by cancelling teacher entry permits and compelling schools to teach the Israeli curriculum.",
+   "body_en": [
+    "Around 180 West Bank Palestinian teachers who commute to East Jerusalem were notified that their entry permits will end after the 2026-27 school year, adding to ongoing travel delays and restrictions that have triggered school strikes. Israeli policies are also tying funding and operating licenses for local institutions to the adoption of the Israeli curriculum, while barring educators with degrees from Palestinian universities.",
+    "Rights organisation Ir Amim reported that about half of the government plan's education budget for East Jerusalem is aimed at expanding the Israeli curriculum, with student enrollment in it growing from hundreds 15 years ago to roughly 45,000 for 2026-27. School administrators report facing strict oversight, classroom inspections, and threats to licensing if they resist adopting the amended textbooks."
+   ],
+   "title_fa": "چگونه اسرائیل تسلط خود بر مدارس فلسطینی در قدس شرقی را محکم‌تر می‌کند",
+   "summary_fa": "اسرائیل با لغو مجوز ورود معلمان و وادار کردن مدارس به تدریس برنامه درسی اسرائیلی، تسلط خود بر آموزش فلسطینیان در قدس شرقی اشغالی را افزایش می‌دهد.",
+   "body_fa": [
+    "به حدود ۱۸۰ معلم فلسطینی ساکن کرانه باختری که به قدس شرقی رفت‌وآمد دارند اطلاع داده شده که مجوز ورود آن‌ها پس از سال تحصیلی ۲۰۲۶–۲۰۲۷ تمدید نخواهد شد؛ اقدامی که در کنار تأخیرها و محدودیت‌های پیشین، موجب اعتصاب مدارس شده بود. علاوه بر این، سیاست‌های اسرائیل اعطای بودجه و مجوز فعالیت مدارس را به پذیرش برنامه درسی اسرائیلی مشروط کرده و استخدام دارندگان مدارک دانشگاهی فلسطینی را منع کرده است.",
+    "سازمان حقوق بشری «عیر عمیم» گزارش داده است که حدود نیمی از بودجه آموزشی طرح دولت برای قدس شرقی صرف ترویج برنامه درسی اسرائیلی می‌شود و شمار دانش‌آموزان این برنامه از چند صد نفر در ۱۵ سال گذشته به حدود ۴۵ هزار نفر در سال تحصیلی ۲۰۲۶–۲۰۲۷ رسیده است. مدیران مدارس نیز از نظارت‌های سخت‌گیرانه، بازرسی کلاس‌ها و تهدید به لغو مجوز در صورت خودداری از تدریس این کتاب‌ها خبر می‌دهند."
+   ],
+   "title_ar": "كيف تحكم إسرائيل قبضتها على المدارس الفلسطينية في القدس الشرقية",
+   "summary_ar": "تعمل إسرائيل على تشديد قبضتها على التعليم الفلسطيني في القدس الشرقية المحتلة من خلال إلغاء تصاريح دخول المعلمين وإلزام المدارس بتدريس المنهاج الإسرائيلي.",
+   "body_ar": [
+    "أُبلغ نحو 180 معلماً فلسطينياً من الضفة الغربية يعملون في القدس الشرقية بأن تصاريح دخولهم ستُلغى بنهاية العام الدراسي 2026-2027، إلى جانب قيود مشددة وتأخيرات في إصدار التصاريح أدت سابقاً إلى إضرابات مدرسية. كما تربط السلطات الإسرائيلية تمويل المدارس وتراخيص تشغيلها بتدريس المنهاج الإسرائيلي، وتمنع توظيف حاملي الشهادات الصادرة من الجامعات الفلسطينية.",
+    "وأفادت منظمة «عير عميم» الحقوقية بأن قرابة نصف الميزانية التعليمية المخصصة لخطة الحكومة في القدس الشرقية موجهة لتوسيع المنهاج الإسرائيلي، الذي ارتفع عدد طلابه من بضع مئات قبل 15 عاماً إلى نحو 45 ألف طالب في العام الدراسي 2026-2027. وأشار مدير إحدى المدارس إلى تعرض الإدارات لرقابة ميدانية مشددة وتفتيش للحقائب والتهديد بسحب التراخيص حال رفض تطبيق هذه المناهج."
+   ]
+  },
   {
    "id": "d48b37cee401",
    "lang": "ar",
@@ -30,6 +295,87 @@
    "body_ar": [
     "قال الرئيس الأمريكي دونالد ترامب للصحفيين في البيت الأبيض إن الولايات المتحدة ستحدد قريباً موقفها بشأن المقترحات المتعلقة بإيران، مشدداً على أن طهران لن تتخذ أي خطوة دون موافقة واشنطن. وأضاف أنه يفضل عدم تدمير ما تبقى من إيران، لكنه قد يضطر إلى ذلك وفق تعبيره.",
     "في غضون ذلك، يواجه وزير الدفاع الأمريكي بيت هيغسيث ضغوطاً متزايدة في الكونغرس مع إعلان الديمقراطيين عزمهم فتح تحقيقات في إدارة الحرب على إيران، إلى جانب قصد نائب جمهوري تقديم بنود لاقتراح عزله. ورغم هذه الدعوات، أكد ترامب تمسكه بهيغسيث مشيداً بأدائه."
+   ]
+  },
+  {
+   "id": "66a3237d1488",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attacks-yemen-kill-nine-including-children",
+   "date": "2026-11-06T07:13:54Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi attacks on Yemen kill nine, including children",
+   "title_en": "Saudi attacks on Yemen kill nine, including children",
+   "summary_en": "Strikes across Yemen by Saudi forces killed nine civilians, including three children, according to the Health Ministry in Sanaa. The ministry added that 14 other individuals were wounded in the attacks.",
+   "body_en": [],
+   "title_fa": "حملات عربستان سعودی به یمن ۹ کشته از جمله چند کودک برجای گذاشت",
+   "summary_fa": "وزارت بهداشت مستقر در صنعا اعلام کرد حملات نیروهای عربستان سعودی در سراسر یمن به کشته شدن ۹ غیرنظامی از جمله سه کودک منجر شده است. طبق این بیانیه، ۱۴ نفر دیگر نیز در این حملات زخمی شدند.",
+   "body_fa": [],
+   "title_ar": "هجمات سعودية على اليمن تسفر عن مقتل تسعة أشخاص بينهم أطفال",
+   "summary_ar": "أعلنت وزارة الصحة في صنعاء أن هجمات سعودية استهدفت مناطق في اليمن أسفرت عن مقتل تسعة مدنيين، بينهم ثلاثة أطفال. وذكرت الوزارة في بيانها أن 14 شخصاً آخرين أصيبوا بجروح جراء تلك الهجمات.",
+   "body_ar": []
+  },
+  {
+   "id": "631988c4b808",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/turkey-halts-turkmen-gas-imports-iran-under-us-pressure",
+   "date": "2026-11-06T07:01:16Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "Turkey halts Turkmenistan gas imports via Iran under US pressure",
+   "title_en": "Turkey halts Turkmenistan gas imports via Iran under US pressure",
+   "summary_en": "Turkish Energy Minister Alparslan Bayraktar announced that Turkey halted gas imports from Turkmenistan routed through Iran due to pressure from the United States. He noted that the decision was driven by the involvement of the US Office of Foreign Assets Control amid heightened tensions between Washington and Tehran.",
+   "body_en": [
+    "Under a deal initiated in March 2025, Turkey had arranged to receive 1.3 billion cubic metres of gas annually using Iranian infrastructure. Bayraktar explained that although Turkey made no payments directly to Iran, the escalating conflict prompted Washington's sanctions measures.",
+    "Bayraktar also highlighted that Turkey has spare capacity in the Trans-Anatolian Gas Pipeline to expand exports to Europe, pointing to Turkmenistan's reserves as a potential alternative as Azerbaijani resources decline. However, infrastructural hurdles and maritime disputes in the Caspian Sea continue to complicate the construction of a direct pipeline link to Azerbaijan."
+   ],
+   "title_fa": "ترکیه تحت فشار آمریکا واردات گاز از ترکمنستان از طریق ایران را متوقف کرد",
+   "summary_fa": "آلپ‌ارسلان بایراکتار، وزیر انرژی ترکیه، اعلام کرد این کشور واردات گاز از ترکمنستان از طریق خاک ایران را به دلیل فشارهای ایالات متحده متوقف کرده است. او توضیح داد که دخالت دفتر کنترل دارایی‌های خارجی آمریکا در پی تشدید تنش‌ها میان واشنگتن و تهران دلیل اصلی این توقف بوده است.",
+   "body_fa": [
+    "بر اساس توافقی که در مارس ۲۰۲۵ آغاز شد، قرار بود سالانه ۱٫۳ میلیارد متر مکعب گاز با استفاده از زیرساخت‌های ایران به ترکیه منتقل شود. بایراکتار خاطرنشان کرد هرچند ترکیه پولی به ایران پرداخت نمی‌کرد، اما با تشدید درگیری‌ها، تدابیر تحریمی واشنگتن مانع از ادامه این روند شد.",
+    "وزیر انرژی ترکیه همچنین با اشاره به ظرفیت خالی خط لوله ترانس‌آناتولی برای دوبرابر کردن صادرات گاز به اروپا، ذخایر ترکمنستان را گزینه‌ای مناسب با توجه به کاهش منابع جمهوری آذربایجان دانست. با این حال، موانع زیرساختی و مناقشات مربوط به مناطق ویژه اقتصادی در دریای خزر همچنان ساخت خط لوله مستقیم میان ترکمنستان و جمهوری آذربایجان را دشوار کرده است."
+   ],
+   "title_ar": "تركيا توقف استيراد الغاز التركمانستاني عبر إيران بضغط أمريكي",
+   "summary_ar": "أعلن وزير الطاقة التركي ألب أرسلان بيرقدار أن تركيا اضطرت لوقف واردات الغاز من تركمانستان عبر إيران بسبب ضغوط مارستها الولايات المتحدة. وأوضح أن القرار جاء نتيجة لتدخل مكتب مراقبة الأصول الأجنبية الأمريكي على خلفية تصاعد التوتر بين واشنطن وطهران.",
+   "body_ar": [
+    "بموجب اتفاق بدأ سريانه في مارس 2025، كان من المقرر أن تستورد تركيا 1.3 مليار متر مكعب سنوياً من الغاز باستخدام البنية التحتية الإيرانية. وأوضح بيرقدار أنه بالرغم من عدم دفع أي أموال لإيران، فإن الإجراءات العقابية الأمريكية وتصاعد الصراع حالا دون استمرار الإمدادات.",
+    "وأشار الوزير التركي إلى وجود سعة فائضة في خط أنابيب الغاز العابر للأناضول لمضاعفة الصادرات نحو أوروبا، معتبراً الغاز التركمانستاني بديلاً مناسباً في ظل تراجع احتياطيات أذربيجان. غير أن تحديات البنية التحتية والنزاعات البحرية في بحر قزوين ما زالت تعرقل إنشاء خط أنابيب مباشر يربط تركمانستان بأذربيجان."
+   ]
+  },
+  {
+   "id": "ee0a202ddac2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-destroy-rest-iran-saying-youll-know-soon-enough-about",
+   "date": "2026-11-06T06:36:58Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Trump threatens to 'destroy the rest' of Iran, saying 'you’ll know soon enough' about his decision",
+   "title_en": "Trump threatens to 'destroy the rest' of Iran, saying 'you’ll know soon enough' about his decision",
+   "summary_en": "US President Donald Trump stated he may need to \"destroy the rest\" of Iran and warned that a decision on taking further action will be known soon.",
+   "body_en": [
+    "Speaking to reporters in the Oval Office, Trump remarked that he would prefer not to destroy the rest of the country if possible, but suggested it might be necessary. He added that he estimated it would take 25 years to rebuild Iran following the US-Israeli war."
+   ],
+   "title_fa": "دونالد ترامپ با تهدید به «نابودی مابقی» ایران گفت «به زودی» از تصمیم او باخبر خواهید شد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد ممکن است لازم باشد «مابقی» ایران را نابود کند و هشدار داد که تصمیم در مورد اقدامات بیشتر به زودی مشخص خواهد شد.",
+   "body_fa": [
+    "دونالد ترامپ در گفتگو با خبرنگاران در دفتر بیضی گفت که ترجیح می‌دهد در صورت امکان مابقی کشور را ویران نکند، اما شاید مجبور به این کار شود. او همچنین افزود که برآورد می‌کند بازسازی ایران پس از جنگ آمریکا و اسرائیل ۲۵ سال طول خواهد کشید."
+   ],
+   "title_ar": "ترامب يهدد بـ\"تدمير ما تبقى\" من إيران ويقول: \"ستعلمون قريباً جداً\" بشأن قراره",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأنه قد يضطر إلى \"تدمير ما تبقى\" من إيران، محذراً من أن قراره بشأن المضي قدماً في ذلك سيُعرف قريباً.",
+   "body_ar": [
+    "وقال دونالد ترامب للصحفيين في المكتب البيضاوي إنه يفضل عدم تدمير بقية البلاد إذا كان ذلك ممكناً، لكنه أشار إلى أنه قد يضطر للقيام بذلك. وأضاف أنه يعتقد أن إعادة إعمار إيران بعد الحرب الأمريكية الإسرائيلية ستستغرق 25 عاماً."
    ]
   },
   {
@@ -244,6 +590,34 @@
    "body_ar": [
     "ووافقت الجمعية العامة على الاتفاق بواقع 279 صوتًا مقابل 119 صوتًا معارضًا، من أصل 398 نائبًا شاركوا في التصويت. وتلزم الاتفاقية الدول الأعضاء باستخدام كافة الوسائل اللازمة لحماية وحدة أراضي بعضها البعض وتقديم المساعدة الفورية في حال وقوع هجوم مسلح.",
     "وفي حين تهدف الاتفاقية إلى تعزيز الردع والتعاون العسكري، أشار المسؤولون الأتراك إلى أن الاتفاق لا يتوقع الدخول في صراع مع الحوثيين في اليمن، الذين كثفوا مؤخراً هجماتهم ضد السعودية."
+   ]
+  },
+  {
+   "id": "747deb6348f9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-refugee-camp-kills-three-palestinians-gaza",
+   "date": "2026-11-05T23:13:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli air strike on refugee camp kills three Palestinians in Gaza",
+   "title_en": "Israeli air strike on refugee camp kills three Palestinians in Gaza",
+   "summary_en": "An Israeli air strike on the al-Shati refugee camp in western Gaza City killed three Palestinians and injured several others on Thursday evening.",
+   "body_en": [
+    "According to Wafa news agency, citing local sources, the Israeli strike hit a group of Palestinians near Martyrs Square within the camp. The attack followed earlier strikes and gunfire across Gaza that killed five people, including a woman and a child."
+   ],
+   "title_fa": "حمله هوایی اسرائیل به اردوگاه آوارگان سه فلسطینی را در غزه کشت",
+   "summary_fa": "حمله هوایی شامگاه پنجشنبه اسرائیل به اردوگاه آوارگان الشاطی در غرب شهر غزه منجر به کشته شدن سه فلسطینی و زخمی شدن چند تن دیگر شد.",
+   "body_fa": [
+    "به گزارش خبرگزاری وفا به نقل از منابع محلی، این حمله هوایی اسرائیل گروهی از فلسطینی‌ها را در نزدیکی میدان شهدا در داخل این اردوگاه هدف قرار داد. این حمله پس از حملات و تیراندازی‌های دیگری در سراسر غزه رخ داد که پیش‌تر پنج کشته، از جمله یک زن و یک کودک، برجای گذاشته بود."
+   ],
+   "title_ar": "غارة جوية إسرائيلية على مخيم للاجئين تقتل ثلاثة فلسطينيين في غزة",
+   "summary_ar": "أسفرت غارة جوية إسرائيلية على مخيم الشاطئ للاجئين غرب مدينة غزة، مساء الخميس، عن مقتل ثلاثة فلسطينيين وإصابة آخرين بجروح.",
+   "body_ar": [
+    "وذكرت وكالة الأنباء الفلسطينية (وفا) نقلاً عن مصادر محلية أن القصف الإسرائيلي استهدف مجموعة من الفلسطينيين قرب ساحة الشهداء في المخيم. وجاء ذلك في أعقاب غارات وإطلاق نار في أنحاء متفرقة من غزة أسفرت في وقت سابق عن مقتل خمسة أشخاص، بينهم امرأة وطفل."
    ]
   },
   {

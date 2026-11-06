@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:32:01Z",
+ "updated": "2026-11-06T10:18:12Z",
  "items": [
   {
    "id": "0ed6bd389882",
@@ -2400,6 +2400,354 @@
    "desc": "قال هرتسوغ في رسالة مصوّرة في ختام يومين من المشاورات مع قادة الأحزاب \"أعتزم أن أكلّف الأحد المقبل أحد أعضاء الكنيست بتشكيل الحكومة\"، موضحاً أن 67 نائباً أوصوا بتكليف آيزنكوت، مقابل 46 أوصوا بتكليف نتنياهو، فيما امتنع سبعة عن التوصية بأيّ مرشّح.",
    "score": 8,
    "dup_of": "c5f65bf33ff4"
+  },
+  {
+   "id": "3a7b00a96496",
+   "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T07:33:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+   "score": 8
+  },
+  {
+   "id": "8c04ada61803",
+   "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+   "date": "2026-11-06T08:32:57Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Captain Ajay Pant was in international waters when his allegedly 'shadow' tanker was captured by British soldiers.",
+   "score": 4
+  },
+  {
+   "id": "6b07e529f885",
+   "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+   "date": "2026-11-06T07:30:04Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
+   "score": 7
+  },
+  {
+   "id": "5f3df3154b71",
+   "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+   "date": "2026-11-06T07:28:53Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
+   "score": 6
+  },
+  {
+   "id": "dbcc24f90282",
+   "title": "Netanyahu rival Eisenkot secures broad backing in bid to form government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261106-netanyahu-rival-eisenkot-secures-broad-backing-in-bid-to-form-government",
+   "date": "2026-11-06T10:02:32Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, after the opposition's Gadi Eisenkot secured a commanding number of recommendations to replace Prime Minister Benjamin Netanyahu. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
+   "score": 8,
+   "dup_of": "d906454d3235"
+  },
+  {
+   "id": "d991b0ba4db1",
+   "title": "Yemen urges Arab states to deter Houthi attacks, foreign minister says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-urges-arab-states-deter-houthi-attacks-foreign-minister-says",
+   "date": "2026-11-06T09:53:16Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Yemen urges Arab states to deter Houthi attacks, foreign minister says Yemen’s foreign minister Afrah al-Zouba has urged Arab states to push for measures to deter Houthi attacks during a meeting with Arab ambassadors in Berlin. Zouba told the envoys about the impact of the attacks on civilians, particularly in Taiz, which she said remained under siege, and raised the detention of UN staff and humanitarian workers by the Houthis, the state-run Saba news agency reported. She said the absence of deterrent measures had encouraged the group to continue attacks in Yemen and across its borders, the r",
+   "score": 7
+  },
+  {
+   "id": "c5b5a76b3864",
+   "title": "Turkey moves closer to Saudi troop deployment as parliament approves Mecca defence pact",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/turkey-moves-closer-saudi-troop-deployment-parliament-approves-mecca-defence-pact",
+   "date": "2026-11-06T09:30:50Z",
+   "countries": [
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Turkey moves closer to Saudi troop deployment as parliament approves Mecca defence pact Submitted by Ragip Soylu on Fri, 11/06/2026 - 09:04 Ankara must still secure a troop deployment mandate and finalise legal arrangements governing its forces in Saudi Arabia Turkish President Recep Tayyip Erdogan (L), Saudi Crown Prince Mohammed bin Salman and Pakistani Prime Minister Shehbaz Sharif posing after signing the Mecca Joint Defence Agreement in Mecca, Saudi Arabia (Handout/Pakistan prime minister's office/AFP) Off The Turkish parliament passed a law approving the Mecca defence pact early on Frida",
+   "score": 8,
+   "dup_of": "e59b7ed0ae56"
+  },
+  {
+   "id": "d0c0c87668e9",
+   "title": "Unrwa says 18 Gaza shelters require urgent attention as winter nears",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-says-18-gaza-shelters-require-urgent-attention-winter-nears",
+   "date": "2026-11-06T09:15:58Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Unrwa says 18 Gaza shelters require urgent attention as winter nears The UN agency for Palestinian refugees (Unrwa) has said that 18 of its emergency shelters in Gaza are unsafe as winter approaches, with four at very high risk of collapse. In its latest situation report, the agency said an assessment of 113 displacement sites found six additional shelters at high risk and eight at medium risk. Unrwa is working with humanitarian partners to secure tents for families who agree to relocate, prioritising 270 households living in the most dangerous buildings, it said, adding that its shelters hous",
+   "score": 6
+  },
+  {
+   "id": "7ef5d283da7a",
+   "title": "Saudi-led says coalition two Houthi missiles fired towards Saudi Arabia's Najran intercepted",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-two-houthi-missiles-fired-towards-saudi-arabias",
+   "date": "2026-11-06T08:00:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led says coalition two Houthi missiles fired towards Saudi Arabia's Najran intercepted The Saudi-led coalition said on Friday that air defences intercepted and destroyed two ballistic missiles fired by Yemen's Houthis towards Saudi Arabia's Najran. It added that there was debris following the interception, with damage being assessed.",
+   "score": 7
+  },
+  {
+   "id": "d6dfa85fa3f5",
+   "title": "IRGC says two oil tankers ablaze after collision with mines in Hormuz Strait",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-ablaze-after-collision-mines-hormuz-strait",
+   "date": "2026-11-06T07:58:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IRGC says two oil tankers ablaze after collision with mines in Hormuz Strait Iran's Islamic Revolutionary Guard Corps (IRGC) navy announced that two oil tankers caught fire after being struck by mines while attempting to transit through the Strait of Hormuz. The statement said that the two \"offending\" vessels - \"one in the eastern part of the Strait of Hormuz and the other in the Strait of Hormuz itself\" - were attempting to pass through an \"unauthorised route\". They subsequently collided with mines, caught fire and were stopped in the water. \"These two tankers turned off all their navigation ",
+   "score": 8
+  },
+  {
+   "id": "66a3237d1488",
+   "title": "Saudi attacks on Yemen kill nine, including children",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attacks-yemen-kill-nine-including-children",
+   "date": "2026-11-06T07:13:54Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi attacks on Yemen kill nine, including children Saudi attacks on Thursday across Yemen killed nine civilians, including three children, the Sanaa-based Health Ministry announced early on Friday. According to the statement, 14 others were wounded in the attacks.",
+   "score": 7
+  },
+  {
+   "id": "631988c4b808",
+   "title": "Turkey halts Turkmenistan gas imports via Iran under US pressure",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/turkey-halts-turkmen-gas-imports-iran-under-us-pressure",
+   "date": "2026-11-06T07:01:16Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "desc": "Turkey halts Turkmenistan gas imports via Iran under US pressure Submitted by Ragip Soylu on Fri, 11/06/2026 - 06:45 Energy Minister Alparslan Bayraktar says sanctions concerns prevented Ankara from resuming supplies through Iranian infrastructure Iranians work on a section of a gas pipeline linking Iran and Pakistan after the project was launched during a ceremony in the Iranian border city of Chah Bahar on March 11, 2013. (ATTA KENARE / AFP) Off Turkey had to stop gas imports from Turkmenistan through Iran due to US pressure, Energy Minister Alparslan Bayraktar revealed on Thursday during a ",
+   "score": 7
+  },
+  {
+   "id": "014a5b704ac0",
+   "title": "Watch: Israel’s president to select candidate to form government on Sunday",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israels-president-select-candidate-form-government-sunday",
+   "date": "2026-11-06T06:54:26Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Watch: Israel’s president to select candidate to form government on Sunday Israeli President Isaac Herzog said on Thursday that he will announce his chosen candidate to form a government on Sunday (8 November). Herzog said that the elected parties representing 67 of parliament’s 120 elected lawmakers picked Israeli opposition leader Gadi Eisenkot, while factions representing 46 lawmakers picked Prime Minister Benjamin Netanyahu. Israel’s 27 October election ended in deadlock, with neither Netanyahu nor Eisenkot securing a clear path to a parliamentary majority. Israeli President Isaac Herzog s",
+   "score": 7,
+   "dup_of": "b4dcd993f868"
+  },
+  {
+   "id": "ee0a202ddac2",
+   "title": "Trump threatens to 'destroy the rest' of Iran, saying 'you’ll know soon enough' about his decision",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-threatens-destroy-rest-iran-saying-youll-know-soon-enough-about",
+   "date": "2026-11-06T06:36:58Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Trump threatens to 'destroy the rest' of Iran, saying 'you’ll know soon enough' about his decision US President Donald Trump said that he may need to \"destroy the rest\" of Iran, adding that he thinks it will 25 years to rebuild it after the US-Israeli war on the country. \"Now we'll make a decision: Do we want to go further and just certify it, by certifying it meaning it will never happen again?\" Trump told reporters in the Oval Office. \"I would rather not destroy the rest of the country, if possible, but maybe I’ll have to. And you’ll know soon enough.\"",
+   "score": 8
+  },
+  {
+   "id": "abc45f688fcc",
+   "title": "Palestinian-led party backs Eisenkot to form Israeli government",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-led-party-backs-eisenkot-form-israeli-government",
+   "date": "2026-11-06T06:18:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian-led party backs Eisenkot to form Israeli government Mansour Abbas, leader of the Palestinian-led Ra’am party, endorsed Gadi Eisenkot to form Israel’s next government on the second day of consultations with President Isaac Herzog in Jerusalem. Israeli Prime Minister Benjamin Netanyahu has gone on the offensive against Palestinian-majority parties, accusing them of accepting foreign funding ahead of last week’s elections, in which Palestinian voters turned out in record numbers. Mansour Abbas, leader of the Arab-Israeli Ra’am party, endorsed Gadi Eisenkot to form Israel’s next govern",
+   "score": 7,
+   "dup_of": "d906454d3235"
+  },
+  {
+   "id": "9b7935c996d2",
+   "title": "Iran’s Basij chief praises 'resistance cinema', saying that 'change has begun' in US, Israel",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-basij-chief-praises-resistance-cinema-saying-change-has-begun-us",
+   "date": "2026-11-06T05:57:20Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran’s Basij chief praises 'resistance cinema', saying that 'change has begun' in US, Israel Iran’s Basij commander Hossein Taeb has said that the US and Israel are seeing change amid their ongoing attempts at transforming the Middle East's landscape. \"Today, we say that change has begun in America and Israel, and we will soon see it across different areas,\" he said during the closing ceremony of the 19th International Resistance Film Festival in Tehran. His highlighted the use of media and film as a way of \"disrupting America’s media monopoly\", describing it as \"resistance cinema\". \"The stagi",
+   "score": 4
+  },
+  {
+   "id": "a1759fd4d056",
+   "title": "Iran's foreign minister discusses regional developments in call with UAE counterpart",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-discusses-regional-developments-call-uae",
+   "date": "2026-11-06T05:02:13Z",
+   "countries": [
+    "ARE",
+    "IRN"
+   ],
+   "desc": "Iran's foreign minister discusses regional developments in call with UAE counterpart Iranian Foreign Minister Abbas Araghchi in a call with his UAE counterpart have discussed the latest developments and diplomatic efforts to maintain stability in the region. During the conversation, Sheikh Abdullah bin Zayed Al Nahyan highlighted the importance of de-escalation.",
+   "score": 6,
+   "dup_of": "2d75a8774ae0"
+  },
+  {
+   "id": "ebd68e8748b4",
+   "title": "Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-president-herzog-deliberates-after-eisenkot-receives-majority",
+   "date": "2026-11-06T03:04:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli president Herzog deliberates after Eisenkot receives majority Knesset backing to become prime minister Yashar leader Gadi Eisenkot has received the backing of a majority of Knesset members to be prime minister, possibly granting him the mandate to attempt to form the next government. Eisenkot received 67 recommendations compared with 46 for Prime Minister Benjamin Netanyahu. The Yashar party urged Israeli president Isaac Herzog on Thursday to hand Eisenkot the mandate to form the next government \"as soon as possible\", adding that its the largest number of recommendations given to a can",
+   "score": 8,
+   "dup_of": "b4dcd993f868"
+  },
+  {
+   "id": "2e0063862184",
+   "title": "What are the odds of an escalation of the war on Iran in the wake of the US midterms?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-are-odds-escalation-war-iran-wake-us-midterms",
+   "date": "2026-11-06T01:41:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "What are the odds of an escalation of the war on Iran in the wake of the US midterms? MEE Live’s Mathilda Mallinson asks Trita Parsi, Executive Vice President at the Quincy Institute, whether a vengeful Trump could escalate the war on Iran in the immediate aftermath of the US midterm elections. Parsi believes Trump’s hubris and unpredictability could play a decisive role in escalating the war, much as they did in starting it. MEE Live’s Mathilda Mallinson asks Quincy Institute Executive Vice President Trita Parsi whether Trump could escalate the war on Iran after the US midterms. Parsi warns t",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "94e0cde401f4",
+   "title": "Saudi civil defence issues emergency alert in Najran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-civil-defence-issues-emergency-alert-najran",
+   "date": "2026-11-06T00:52:34Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi civil defence issues emergency alert in Najran Saudi Arabia’s Civil Defence issued a warning alert in Najran, later announcing that the danger had passed. It urged residents to continue following guidelines issued by the civil defence, calling on them to avoid gathering or filming.",
+   "score": 6,
+   "dup_of": "7ef5d283da7a"
+  },
+  {
+   "id": "2862ba98cb2c",
+   "title": "Trump says he may have to ‘destroy’ rest of Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-may-have-destroy-rest-iran",
+   "date": "2026-11-05T23:23:51Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Trump says he may have to ‘destroy’ rest of Iran US President Donald Trump said on Thursday that Iran could take 25 years to rebuild following the US-Israeli war. “I would rather not destroy the rest of the country if possible, but maybe I’ll have to,” Trump told reporters. “You’ll know soon enough.”",
+   "score": 8,
+   "dup_of": "ee0a202ddac2"
+  },
+  {
+   "id": "747deb6348f9",
+   "title": "Israeli air strike on refugee camp kills three Palestinians in Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-refugee-camp-kills-three-palestinians-gaza",
+   "date": "2026-11-05T23:13:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli air strike on refugee camp kills three Palestinians in Gaza We earlier reported that Israeli strikes and gunfire killed five people across Gaza, including a woman and a 12-year-old boy. Wafa news agency is now reporting that three Palestinians have been killed and several others injured in an Israeli air attack on the al-Shati refugee camp, west of Gaza City, on Thursday evening. Citing local sources, the agency said Israeli strikes targeted a group of Palestinians near Martyrs Square in the camp. Israel’s genocidal war on Gaza has killed at least 74,618 Palestinians and wounded more t",
+   "score": 7
+  },
+  {
+   "id": "c34c0b55bd17",
+   "title": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042577/saudi-arabia-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
+   "date": "2026-11-06T08:44:33Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia has denied a report by the US-based Wall Street Journal ( WSJ ) that Yemen’s Houthis had demanded $51 billion from kingdom in return for a “negotiated halt” to the ongoing hostilities between the two sides. A report by the Journal claimed on Thursday that the kingdom had approached the Houthis “to see what it would take to arrive at a negotiated halt to the hostilities”, and the group demanded $51bn in return. The report, citing unnamed sources, further claimed that the Houthis would want to be “officially recognised … as the rulers of Yemen”. But Saudi Deputy Minister for Public ",
+   "score": 6
+  },
+  {
+   "id": "5fb929358d13",
+   "title": "Asif sees attempt to set ground for 'alternative arrangement' in Punjab amid Maryam-Salik row",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042580/asif-sees-attempt-to-set-ground-for-alternative-arrangement-in-punjab-amid-maryam-salik-row",
+   "date": "2026-11-06T09:35:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Defence Minister Khawaja Asif has claimed that Minister for Overseas Pakistanis Chaudhry Salik Hussain’s recent corruption allegations against the Punjab government are part of efforts to set the ground for an “alternative arrangement”. His remarks came during ARY News’ programme ‘ Khabar – Mohammad Malick Ke Saath! ’ on Thursday, when he was asked about his earlier statement, wherein he had suggested that Salik’s allegations could be “part of some future political agenda — to target Maryam Nawaz’s government and carve out space for himself in Punjab and at the Centre to secure his political f",
+   "score": 5
+  },
+  {
+   "id": "012abea308ef",
+   "title": "ملك الأردن بعد مقتل رجل أمن طعناً في عمّان: \"لن نتهاون في محاربة الإرهاب أو نسمح بتهديد أمننا\"",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c617kjj5lp1vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T08:07:39Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "قُتل رجل أمن أردني طعناً بأداة حادة في شارع المدينة المنورة بالعاصمة عمّان، بعد تعرّضه لاعتداء ومحاولة الاستيلاء على سلاحه، وفقاً لمديرية الأمن العام. ووصفت المديرية الحادثة بـ\"العمل الإرهابي\".",
+   "score": 6,
+   "dup_of": "a582647bb3ef"
   }
  ]
 }
