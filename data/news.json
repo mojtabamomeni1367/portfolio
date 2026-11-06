@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-06T19:07:27Z",
+ "updated": "2026-11-06T21:56:29Z",
  "count": 450,
  "items": [
+  {
+   "id": "cdbbbb97a08d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-granting-ships-safe-passage-email-report",
+   "date": "2026-11-06T20:48:06Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen's Houthis granting ships safe passage via email: Report",
+   "title_en": "Yemen's Houthis granting ships safe passage via email: Report",
+   "summary_en": "Yemen's Houthis have set up an email-based system to manage maritime traffic through the Red Sea by reviewing and responding to requests for safe passage from commercial vessels.",
+   "body_en": [
+    "According to a report by the Wall Street Journal, commercial ships transiting the Red Sea have been emailing the Houthis to request safe clearance after the group declared a blockade on Saudi Arabia. The Houthis typically respond within 24 hours to confirm whether vessels meet their criteria for passage.",
+    "Ship masters have reportedly submitted declarations asserting no operational or ownership ties to Israel, the United Kingdom, or the United States, targeting of whose associated vessels has been ongoing. In documented responses, Houthi representatives confirmed safe passage for compliant vessels."
+   ],
+   "title_fa": "گزارش: حوثی‌های یمن از طریق ایمیل به کشتی‌ها مجوز عبور امن می‌دهند",
+   "summary_fa": "حوثی‌های یمن سیستمی بر پایه ایمیل برای مدیریت رفت‌وآمد دریایی در دریای سرخ ایجاد کرده‌اند تا درخواست‌های کشتی‌های تجاری برای عبور امن را بررسی کرده و به آن‌ها پاسخ دهند.",
+   "body_fa": [
+    "بر اساس گزارش وال استریت ژورنال، کشتی‌های تجاری که از دریای سرخ عبور می‌کنند، پس از اعلام محاصره علیه عربستان سعودی توسط حوثی‌ها، با ارسال ایمیل به این گروه خواستار مجوز عبور امن می‌شوند. حوثی‌ها معمولاً ظرف ۲۴ ساعت پاسخ می‌دهند تا مشخص کنند آیا کشتی شرایط عبور را دارد یا خیر.",
+    "گزارش‌ها نشان می‌دهد ناخداهای کشتی‌ها با ارسال اظهارنامه‌هایی تأکید می‌کنند هیچ ارتباطی با اسرائیل، بریتانیا یا ایالات متحده ندارند؛ کشورهایی که کشتی‌های مرتبط با آن‌ها هدف حمله قرار گرفته‌اند. در پاسخ‌های ثبت‌شده، نمایندگان حوثی عبور امن برای کشتی‌های موافق با ضوابط خود را تأیید کرده‌اند."
+   ],
+   "title_ar": "تقرير: الحوثيون في اليمن يمنحون السفن إذن المرور الآمن عبر البريد الإلكتروني",
+   "summary_ar": "أنشأ الحوثيون في اليمن نظاماً عبر البريد الإلكتروني لإدارة الحركة البحرية في البحر الأحمر من خلال مراجعة طلبات السفن التجارية للحصول على مرور آمن والرد عليها.",
+   "body_ar": [
+    "وفقاً لتقرير نشرته صحيفة وول ستريت جورنال، بدأت السفن التجارية التي تعبر البحر الأحمر بإرسال رسائل بريد إلكتروني إلى الحوثيين لطلب المرور الآمن بعد فرض الجماعة حصاراً بحرياً. وعادة ما يرد الحوثيون خلال 24 ساعة لتأكيد استيفاء السفن لمعايير المرور.",
+    "وأفادت التقارير بأن ربابنة السفن يقدمون إقرارات تؤكد عدم وجود أي روابط تشغيلية أو ملكية مع إسرائيل أو المملكة المتحدة أو الولايات المتحدة، وهي الدول التي تتعرض السفن المرتبطة بها لاستهداف متكرر. وفي الردود الموثقة، أكد ممثلو الحوثيين المرور الآمن للسفن الملتزمة بالمعايير."
+   ]
+  },
+  {
+   "id": "211a7e926937",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-new-iran-sanctions-trump-says-talks-tehran-going-very-well",
+   "date": "2026-11-06T20:11:53Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US issues new Iran sanctions as Trump says talks with Tehran going 'very well'",
+   "title_en": "US issues new Iran sanctions as Trump says talks with Tehran going 'very well'",
+   "summary_en": "US President Donald Trump stated that discussions with Iranian representatives are progressing very well, even as Washington introduced fresh sanctions targeting Iranian financial network connections.",
+   "body_en": [
+    "President Donald Trump told reporters on Friday that his administration is engaged in talks with Tehran, remarking that the US is \"doing very well with Iran.\" However, the announcement coincided with new measures from the US Treasury Department aimed at curbing Iran's economic activities and sanctions evasion efforts.",
+    "The Treasury Department placed sanctions on eight Canadian-based entities and blocked US banks from transacting with Seychelles-registered cryptocurrency exchange MEXC Global, accusing it of facilitating $16bn in illicit transactions for Iran, North Korea, and Russia. These moves follow sanctions announced a day earlier against foreign companies and individuals in India and Turkey accused of aiding Iranian oil exports and airlines."
+   ],
+   "title_fa": "آمریکا تحریم‌های جدیدی علیه ایران اعمال کرد؛ ترامپ از روند «بسیار خوب» گفتگوها با تهران خبر داد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد گفتگوها با نمایندگان ایران بسیار خوب پیش می‌رود، هم‌زمان واشنگتن تحریم‌های جدیدی را علیه شبکه‌های مرتبط با ایران اعمال کرد.",
+   "body_fa": [
+    "دونالد ترامپ، رئیس‌جمهور آمریکا، روز جمعه به خبرنگاران گفت که دولتش در حال گفتگو با تهران است و اشاره کرد که واشنگتن «با ایران بسیار خوب پیش می‌رود». با این حال، این اظهارات هم‌زمان با اقدامات جدید وزارت خزانه داری آمریکا برای محدود کردن فعالیت‌های اقتصادی ایران و راه‌های دور زدن تحریم‌ها مطرح شد.",
+    "وزارت خزانه‌داری آمریکا هشت نهاد مستقر در کانادا را تحریم کرد و بانک‌های آمریکایی را از معامله با صرافی رمزارز MEXC Global ممنوع ساخت. واشنگتن این صرافی را به تسهیل ۱۶ میلیارد دلار معاملاتی غیرقانونی برای ایران، کره شمالی و روسیه متهم کرده است. این اقدامات پس از تحریم‌هایی صورت می‌گیرد که یک روز قبل علیه شرکت‌ها و افرادی در هند و ترکیه به اتهام کمک به صادرات نفت و خطوط هوایی ایران اعلام شده بود."
+   ],
+   "title_ar": "الولايات المتحدة تفرض عقوبات جديدة على إيران وترامب يقول إن المحادثات مع طهران تسير \"بشكل جيد للغاية\"",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن المحادثات مع الممثلين الإيرانيين تسير بشكل جيد للغاية، وذلك بالتزامن مع فرض واشنطن عقوبات جديدة تستهدف شبكات مرتبطة بإيران.",
+   "body_ar": [
+    "صرح الرئيس الأمريكي دونالد ترامب للصحفيين يوم الجمعة بأن إدارته تجري محادثات مع طهران، مشيراً إلى أن الولايات المتحدة \"تسير بشكل جيد للغاية مع إيران\". ومع ذلك، تزامنت هذه التصريحات مع فرض وزارة الخزانة الأمريكية إجراءات جديدة تهدف إلى الحد من النشاطات الاقتصادية الإيرانية ومحاولات الالتفاف على العقوبات.",
+    "وفرضت الخزانة الأمريكية عقوبات على ثمانية كيانات مقرها كندا، وحظرت على البنوك الأمريكية التعامل مع منصة التداول بالعملات المشفرة \"MEXC Global\" المسجلة في سيشل، متهمة إياها بتسهيل معاملات غير مشروعة بقيمة 16 مليار دولار لصالح إيران وشمال كوريا وروسيا. وتأتي هذه الخطوات بعد عقوبات أُعلنت قبل يوم ضد شركات وأفراد في الهند وتوركيا متهمين بمساندة صادرات النفط وخطوط الطيران الإيرانية."
+   ]
+  },
+  {
+   "id": "2cdabfb55427",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-15-year-old-boy-gaza",
+   "date": "2026-11-06T19:22:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli forces kill 15-year-old boy in Gaza",
+   "title_en": "Israeli forces kill 15-year-old boy in Gaza",
+   "summary_en": "A 15-year-old Palestinian boy died after being shot by Israeli forces in southern Gaza's al-Mawasi area on Friday.",
+   "body_en": [
+    "Medical sources confirmed that Mohammed Nidal Barbakh succumbed to his wounds after Israeli forces shot him in al-Mawasi, located west of Khan Younis.",
+    "According to Gaza's health ministry, at least 1,602 Palestinians have been killed and 5,799 wounded in Israeli attacks since a ceasefire took effect on 11 October 2025."
+   ],
+   "title_fa": "نیروهای اسرائیلی یک نوجوان ۱۵ ساله را در غزه به قتل رساندند",
+   "summary_fa": "یک نوجوان ۱۵ ساله فلسطینی روز جمعه بر اثر شلیک نیروهای اسرائیلی در منطقه المواصی در جنوب غزه جان باخت.",
+   "body_fa": [
+    "منابع پزشکی تأیید کردند که محمد نضال بارباخ پس از شلیک نیروهای اسرائیلی در منطقه المواصی واقع در غرب خان یونس، بر اثر شدت جراحات وارده درگذشت.",
+    "طبق اعلام وزارت بهداشت غزه، از زمان برقراری آتش‌بس در ۱۱ اکتبر ۲۰۲۵، دست‌کم ۱٬۶۰۲ فلسطینی در حملات اسرائیل کشته و ۵٬۷۹۹ نفر زخمی شده‌اند."
+   ],
+   "title_ar": "القوات الإسرائيلية تقتل فتى يبلغ من العمر 15 عاماً في غزة",
+   "summary_ar": "استشهد فتى فلسطيني يبلغ من العمر 15 عاماً يوم الجمعة بعد تعرضه لإطلاق نار من قبل القوات الإسرائيلية في منطقة المواصي جنوبي قطاع غزة.",
+   "body_ar": [
+    "أكدت مصادر طبية أن محمد نضال بارباخ توفي متأثراً بجراحه بعد أن أطلقت عليه القوات الإسرائيلية النار في منطقة المواصي غربي خان يونس.",
+    "وبحسب وزارة الصحة في غزة، قُتل ما لا يقل عن 1,602 فلسطيني وأصيب 5,799 آخرون في الهجمات الإسرائيلية منذ بدء سريان وقف إطلاق النار في 11 أكتوبر 2025."
+   ]
+  },
   {
    "id": "1dbfa0a984a3",
    "lang": "en",
@@ -28,6 +119,38 @@
    "summary_ar": "أجبر مستوطنون إسرائيليون عشرات الفلسطينيين على ترك منازلهم في مدينة أريحا بعد الاستيلاء على ثمانية عقارات.",
    "body_ar": [
     "وأفادت التقارير بأن المستوطنين أطلقوا الرصاص الحي واعتدوا بالضرب على السكان ورشقوا الحجارة خلال استيلائهم على المنازل."
+   ]
+  },
+  {
+   "id": "f749c004bae0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-sends-military-advisers-saudi-arabia-amid-houthi-attacks-sources",
+   "date": "2026-11-06T16:55:48Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Syria sends military advisers to Saudi Arabia amid Houthi attacks, sources say",
+   "title_en": "Syria sends military advisers to Saudi Arabia amid Houthi attacks, sources say",
+   "summary_en": "Syria has dispatched military personnel to Saudi Arabia to train and advise local forces following Houthi attacks, according to regional military sources and a US official.",
+   "body_en": [
+    "Military sources and a US official reported that Syrian training teams and advisers have traveled to Saudi Arabia in recent weeks to bolster the combat readiness of Saudi and Yemeni units. The move follows a defense cooperation agreement signed in Riyadh between Syrian President Ahmed al-Sharaa and Saudi Crown Prince Mohammed bin Salman.",
+    "While a senior Syrian diplomat stated that claims of military deployments remain premature and emphasized Damascus's focus on domestic security and reconstruction, they confirmed the bilateral defense deal explicitly covers training, advisory assistance, and expertise exchanges."
+   ],
+   "title_fa": "به گفته منابع، هم‌زمان با حملات حوثی‌ها، سوریه مشاوران نظامی به عربستان سعودی اعزام کرده است",
+   "summary_fa": "به گفته منابع نظامی منطقه‌ای و یک مقام آمریکایی، سوریه در پی حملات حوثی‌ها، پرسنل نظامی خود را برای آموزش و مشاوره نیروهای محلی به عربستان سعودی اعزام کرده است.",
+   "body_fa": [
+    "منابع نظامی و یک مقام آمریکایی گزارش دادند که تیم‌های آموزشی و مشاوران سوری طی هفته‌های اخیر برای ارتقای توان رزمی واحدهای سعودی و یمنی به عربستان سعودی سفر کرده‌اند. این اقدام پس از امضای توافق‌نامه همکاری دفاعی در ریاض میان احمد الشرع، رئیس‌جمهور سوریه، و محمد بن سلمان، ولیعهد عربستان سعودی صورت می‌گیرد.",
+    "در حالی که یک دیپلمات ارشد سوری اعلام کرد سخن گفتن از استقرار نظامی هنوز زود است و بر تمرکز دمشق بر امنیت داخلی و بازسازی تأکید کرد، اما تأیید نمود که توافق دفاعی دو‌جانبه شامل پشتیبانی مشاوره، آموزش و تبادل تجربیات می‌شود."
+   ],
+   "title_ar": "مصادر: سوريا ترسل مستشارين عسكريين إلى السعودية وسط هجمات الحوثيين",
+   "summary_ar": "أفادت مصادر عسكرية إقليمية ومسؤول أمريكي بأن سوريا أرسلت كوادر عسكرية إلى السعودية لتدريب القوات المحلية تقديم الاستشارات لها عقب هجمات الحوثيين.",
+   "body_ar": [
+    "ذكرت مصادر عسكرية ومسؤول أمريكي أن فرق تدريب ومستشارين سوريين توجهوا إلى السعودية في الأسابيع الأخيرة لتعزيز الكفاءة القتالية للوحدات السعودية واليمنية. وتأتي هذه الخطوة بعد توقيع اتفاقية تعاون دفاعي في الرياض بين الرئيس السوري أحمد الشرع وولي العهد السعودي محمد بن سلمان.",
+    "وفي حين صرح دبلماسي سوري رفيع بأن الحديث عن انتشار عسكري يعد أمراً مبكراً وأكد تمركز دمشق على الأمن الداخلي وإعادة الإعمار، إلا أنه أكد أن الاتفاق الدفاعي الثنائي يتضمن بشكل صريح الدعم الاستشاري والتدريب وتبادل الخبرات."
    ]
   },
   {
@@ -213,36 +336,6 @@
    ]
   },
   {
-   "id": "a23ef175cbd3",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042608/pakistan-uk-agree-to-expand-cooperation-on-counterterrorism-narcotics",
-   "date": "2026-11-06T12:30:44Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Pakistan, UK agree to expand cooperation on counterterrorism, narcotics",
-   "title_en": "Pakistan, UK agree to expand cooperation on counterterrorism, narcotics",
-   "summary_en": "Pakistan and the United Kingdom agreed during delegation-level talks in Islamabad to boost bilateral cooperation on counterterrorism, anti-narcotics, cybercrime, and immigration.",
-   "body_en": [
-    "The meeting took place at the Ministry of Interior between Pakistani Interior Minister Mohsin Naqvi and visiting British Minister of State for Security Dan Jarvis. Both sides decided to quickly finalize a memorandum of understanding on anti-narcotics to fully operationalize cooperation between the UK's National Crime Agency and Pakistan's Anti-Narcotics Force. Naqvi noted that Pakistan had foiled 330 narcotics smuggling cases to the UK in recent years.",
-    "Jarvis praised the Federal Investigation Agency's efforts against illegal immigration and acknowledged Pakistan's sacrifices in combating terrorism, emphasizing the need for international joint work against cybercrime. The two countries also agreed to convene a working group meeting between their interior ministries soon."
-   ],
-   "title_fa": "پاکستان و بریتانیا بر سر گسترش همکاری‌ها در زمینه مبارزه با تروریسم و مواد مخدر توافق کردند",
-   "summary_fa": "پاکستان و بریتانیا در جریان مذاکرات هیئت‌های دو کشور در اسلام‌آباد، بر سر افزایش همکاری‌های دو جانبه در زمینه‌های مبارزه با تروریسم، مواد مخدر، جرایم سایبری و مهاجرت توافق کردند.",
-   "body_fa": [
-    "این نشست در وزارت کشور میان محسن نقوی، وزیر کشور پاکستان، و دان جارویس، وزیر در امور امنیت بریتانیا، برگزار شد. دو طرف تصمیم گرفتند یادداشت تفاهم همکاری‌های ضد مواد مخدر را برای عملیاتی‌سازی کامل همکاری میان آژانس ملی الجریمه بریتانیا و نیروی مبارزه با مواد مخدر پاکستان سریعاً نهایی کنند. نقوی اشاره کرد که پاکستان طی سال‌های اخیر از ۳۳۰ مورد قاچاق مواد مخدر به بریتانیا جلوگیری کرده است.",
-    "جارویس از عملکرد آژانس تحقیقات فدرال در مقابله با مهاجرت غیرقانونی تمجید کرد و قربانی‌های پاکستان در جنگ با تروریسم را ستود. وی همچنین بر لزوم همکاری بین‌المللی در برابر جرایم سایبری تأکید نمود. دو طرف همچنین توافق کردند که به‌زودی نشست گروه کاری میان وزارتهای کشور دو طرف را برگزار کنند."
-   ],
-   "title_ar": "باكستان وبريطانيا تتفقان على توسيع التعاون في مكافحة الإرهاب والمخدرات",
-   "summary_ar": "اتفقت باكستان والمملكة المتحدة خلال محادثات على مستوى الوفود في إسلام آباد على تعزيز التعاون الثنائي في مجالات مكافحة الإرهاب والمخدرات والجريمة الإلكترونية والهجرة.",
-   "body_ar": [
-    "وجرت المحادثات في وزارة الداخلية بين وزير الداخلية الباكستاني محسن نقوي ووزير الدولة البريطاني لشؤون الأمن دان جارفيس. وقرر الجانبان الإسراع في اللمسات الأخيرة لمذكرة تفاهم بشأن مكافحة المخدرات لتفعيل التعاون بين الوكالة الوطنية لمكافحة الجريمة في بريطانيا وقوة مكافحة المخدرات الباكستانية. وأشار نقوي إلى أن پاکستان أحبطت 330 حالة تهريب مخدرات إلى المملكة المتحدة خلال السنوات الأخيرة.",
-    "وأشاد جارفيس بجهود وكالة التحقيقات الفيدرالية في الحد من الهجرة غير الشرعية وتضحيات باكستان في مبارزة الإرهاب، مؤكداً ضرورة العمل الدولي المشترك لمواجهة الجرائم الإلكترونية. كما اتفق الطرفان على عقد اجتماع قريب لمجموعة العمل المشتركة بين وزارتي الداخلية في البلدين."
-   ]
-  },
-  {
    "id": "4461bf3e086c",
    "lang": "en",
    "source": "Middle East Eye",
@@ -270,36 +363,6 @@
    "body_ar": [
     "وفي تصريحات لنقلها وكالة فارس للأنباء، قال باقري إن الولايات المتحدة عرقلت أربع جولات من المفاوضات خلال الأشهر الـ 18 الماضية من خلال إجراءات عدائية وانتهاك للتعهدات. وأكد أن اتخاذ خطوات عملية من جانب واشنطن أمر ضروري قبل بدء أي فصل جديد في الدبلوماسية.",
     "كما تطرق باقري إلى التعاون الإيراني مع روسيا، موضحاً أن الزيارة الأخيرة التي قام بها محسن رضائي، أمين المجلس الأعلى للأمن القومي، إلى موسكو كانت تهدف إلى نقل رسالة من القائد الإيراني إلى الرئيس فلاديمير بوتين."
-   ]
-  },
-  {
-   "id": "7c2eca42efaf",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression",
-   "date": "2026-11-06T12:00:42Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
-   "title_en": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
-   "summary_en": "Following the Republican losses in the US midterm elections, pro-government crowds and Iranian officials celebrated the results in Tehran, while residents report mixed expectations over war and fear continued domestic repression.",
-   "body_en": [
-    "In Tehran, pro-regime crowds burned banners depicting Donald Trump, JD Vance, Steve Witkoff, and Benjamin Netanyahu, while state television broadcast a mock hanging of Trump. Officials portrayed the results as a setback for US policy, with Iran's supreme leader, Mojtaba Khamenei, stating that the collapse of the US had accelerated following the death of his predecessor Ali Khamenei in February strikes.",
-    "Despite the government's celebrations, ordinary citizens expressed ongoing anxiety over rising economic hardship and internal security measures. While some residents interviewed believed the risk of a full-scale war had lessened or increased, many agreed that domestic political repression would persist regardless of events in the United States."
-   ],
-   "title_fa": "«تمام سال برای بدترین سناریو آماده شده‌ایم»: بلاتکلیفی در ایران پس از شکست ترامپ در انتخابات میان‌دوره‌ای",
-   "summary_fa": "پس از شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای آمریکا، هواداران حکومت و مقامات ایرانی در تهران این نتایج را جشن گرفتند، در حالی که شهروندان درباره احتمال جنگ نظرات متفاوتی داشته و نگران تداوم سرکوب داخلی هستند.",
-   "body_fa": [
-    "در تهران، حامیان حکومت بنرهایی شامل تصاویر دونالد ترامپ، جی‌دی ونس، استیو ویتکوف و بنیامین نتانیاهو را آتش زدند و تلویزیون دولتی نیز صحنه‌ای از اعدام نمادین ترامپ را پخش کرد. مقامات این نتایج را شکست سیاست‌های آمریکا خواندند و مجتبی خامنه‌ای، رهبر ایران، که پدرش علی خامنه‌ای در حملات فوریه کشته شد، اعلام کرد که روند فروپاشی آمریکا سرعت یافته است.",
-    "با وجود خوشحالی حکومتی، شهروندان عادی از مشکلات رو به رشد اقتصادی و اقدامات امنیتی داخلی ابراز نگرانی کردند. در حالی که برخی مصاحبه‌شوندگان معتقد بودند احتمال جنگ همه‌جانبه کاهش یا افزایش یافته است، بسیاری تاکید داشتند که سرکوب سیاسی داخلی بدون توجه به تحولات ایالات متحده ادامه خواهد داشت."
-   ],
-   "title_ar": "«کنا نستعد للأسوأ طوال العام»: عدم اليقين يخيم على إيران بعد هزيمة ترامب في الانتخابات النصفيّة",
-   "summary_ar": "في أعقاب خسارة الحزب الجمهوري في الانتخابات النصفيّة الأمريكية، احتفلت حشود مؤيدة للحكومة ومسؤولون إيرانيون بالنتائج في طهران، بينما يعبر سكان عن تباين آرائهم حول احتمالات الحرب ومخاوفهم من استمرار القمع الداخلي.",
-   "body_ar": [
-    "في طهران، أحرق مؤيدون للنظام لافتات تحمل صور دونالد ترامب وجيه دي فانس وستيف ويتكوف وبنيامين نتنياهو، بينما عرض التلفزيون الرسمي مشهداً لإعدام رمزي لترامب. واعتبر مسؤولون النتائج تراجعاً للسياسات الأمريكية، وقال القائد الأعلى مجتبى خامنئي، الذي قُتل والده علي خامنئي في ضربات فبراير، إن عملية انهيار الولايات المتحدة قد تسارعت.",
-    "ورغم الاحتفالات الحكومية، عبر مواطنون عن قلق مستمر جراء تدهور الأوضاع الاقتصادية والإجراءات الأمنية. وبينما رأى بعض السكان أن احتمال نشوب حرب شاملة قد تراجع أو زاد، اتفق كثيرون على أن القمع السياسي الداخلي سيستمر بغض النظر عما يحدث في الولايات المتحدة."
    ]
   },
   {
@@ -450,67 +513,6 @@
    "body_ar": [
     "وخلال لقائها بسفراء عرب في برلين، سلطت الزوبة الضوء على تداعيات هجمات الحوثيين على المدنيين، والحصار المستمر على تعز، واحتجاز الجماعة لموظفي الأمم المتحدة والعاملين في المجال الإنساني. وأوضحت أن غياب الإجراءات الرادعة شجع الجماعة على مواصلة عملياتها داخل اليمن وعبر حدوده.",
     "من جانبهم، أدان السفراء هجمات الحوثيين داخل اليمن وعلى الأراضي السعودية، وجددوا تأكيد دعمهم للحكومة اليمنية المعترف بها دولياً."
-   ]
-  },
-  {
-   "id": "d0c0c87668e9",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unrwa-says-18-gaza-shelters-require-urgent-attention-winter-nears",
-   "date": "2026-11-06T09:15:58Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Unrwa says 18 Gaza shelters require urgent attention as winter nears",
-   "title_en": "Unrwa says 18 Gaza shelters require urgent attention as winter nears",
-   "summary_en": "UNRWA warned that 18 of its emergency shelters in Gaza are unsafe ahead of winter, with four facing an extremely high danger of collapse.",
-   "body_en": [
-    "An assessment of 113 displacement sites by the agency identified an additional six shelters at high risk and eight at medium risk. UNRWA noted that its shelters accommodate around 60,000 displaced people and that it is collaborating with humanitarian partners to secure tents for families agreeing to move, giving priority to 270 households in the most dangerous buildings.",
-    "The agency also pointed to a growing number of acute respiratory infections ahead of the winter season, warning of further increases in the weeks ahead."
-   ],
-   "title_fa": "آنروا: با نزدیک شدن زمستان ۱۸ پناهگاه در غزه نیازمند رسیدگی فوری هستند",
-   "summary_fa": "آنروا هشدار داد که در آستانه فصل زمستان ۱۸ پناهگاه اضطراری این آژانس در غزه ناامن هستند و چهار پناهگاه در معرض خطر بسیار شدید فروریختن قرار دارند.",
-   "body_fa": [
-    "ارزیابی این نهاد از ۱۱۳ محل اسکان آوارگان نشان داد که شش پناهگاه دیگر در وضعیت پرخطر و هشت پناهگاه در معرض خطر متوسط هستند. آنروا اعلام کرد که پناهگاه‌هایش حدود ۶۰ هزار آواره را در خود جای داده‌اند و این سازمان در حال همکاری با شرکای بشردوست برای تأمین چادر جهت جابه‌جایی خانواده‌هاست و ۲۷۰ خانوار ساکن در خطرناک‌ترین ساختمان‌ها در اولویت قرار دارند.",
-    "این آژانس همچنین از افزایش موارد ابتلا به عفونت‌های حاد تنفسی در آستانه زمستان خبر داد و هشدار داد که این آمار در هفته‌های پیش‌رو افزایش بیشتری خواهد یافت."
-   ],
-   "title_ar": "الأونروا تعلن أن 18 مأوى في غزة بحاجة إلى تدخل عاجل مع اقتراب الشتاء",
-   "summary_ar": "حذرت وكالة الأونروا من أن 18 من ملاجئ الطوارئ التابعة لها في قطاع غزة غير آمنة مع اقتراب فصل الشتاء، مشيرة إلى أن أربعة منها معرضة لخطر الانهيار بشكل كبير جداً.",
-   "body_ar": [
-    "وأظهر تقييم أجرته الوكالة لـ 113 موقعاً للنزوح وجود ستة ملاجئ إضافية معرضة لخطر كبير وثمانية ملاجئ لخطر متوسط. وأوضحت الأونروا أن ملاجئها تضم نحو 60 ألف نازح، وأنها تنسق مع شركاء العمل الإنساني لتوفير خيام للأسر التي توافق على الانتقال، مع إعطاء الأولوية لـ 270 أسرة تقيم في أكثر المباني خطورة.",
-    "كما أفادت الوكالة بتسجيل ارتفاع في حالات الإصابة بالتهابات الجهاز التنفسي الحادة قبيل حلول الشتاء، محذرة من توقعات بزيادة إضافية في هذه الحالات خلال الأسابيع المقبلة."
-   ]
-  },
-  {
-   "id": "c34c0b55bd17",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042577/saudi-arabia-denies-wsj-report-claiming-houthis-demanded-51bn-to-halt-hostilities",
-   "date": "2026-11-06T08:44:33Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 6,
-   "title": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
-   "title_en": "Saudi Arabia denies WSJ report claiming Houthis demanded $51bn to halt hostilities",
-   "summary_en": "Saudi Arabia has strongly refuted a Wall Street Journal report stating that Yemen's Houthis demanded $51 billion to end hostilities with Riyadh.",
-   "body_en": [
-    "Saudi Deputy Minister for Public Diplomacy Ambassador Rayed Krimly called the claims \"pure fabrication\" by the journalists or their sources. The newspaper had reported that Saudi Arabia approached the group to explore a negotiated halt to fighting, where the Houthis allegedly sought both the money and official recognition as Yemen's rulers.",
-    "Krimly accused the militia of triggering famine, opposing the recognized Yemeni government, rejecting peace initiatives, and launching attacks against commercial shipping in the Red Sea as well as civilian and economic sites."
-   ],
-   "title_fa": "عربستان گزارش وال استریت ژورنال مبنی بر درخواست ۵۱ میلیارد دلاری حوثی‌ها برای توقف درگیری‌ها را تکذیب کرد",
-   "summary_fa": "عربستان سعودی گزارش روزنامه وال استریت ژورنال مبنی بر درخواست ۵۱ میلیارد دلاری حوثی‌های یمن برای توقف درگیری‌ها با ریاض را قاطعانه تکذیب کرد.",
-   "body_fa": [
-    "رائد قرملي، معاون دیپلماسی عمومی وزارت خارجه عربستان، این ادعاها را «ساختگی محض» از سوی نویسندگان یا منابع آن‌ها خواند. این روزنامه ادعا کرده بود ریاض برای بررسی راه‌های توقف مذاکره‌شده درگیری‌ها به حوثی‌ها رجوع کرده و این گروه خواهان این مبلغ و به‌رسمیت‌شناخته‌شدن رسمی به عنوان حاکمان یمن شده است.",
-    "قرملي این شبه‌نظامیان را به ایجاد قحطی، کودتا علیه دولت به رسمیت شناخته‌شده یمن، رد طرح‌های صلح و حمله به کشتی‌های تجاری در دریای سرخ و اهداف غیرنظامی و اقتصادی متهم کرد."
-   ],
-   "title_ar": "السعودية تنفي تقرير وول ستريت جورنال الذي زعم مطالبة الحوثيين بـ 51 مليار دولار لوقف الأعمال العدائية",
-   "summary_ar": "نفت المملكة العربية السعودية بشكل قاطع تقريراً نشرته صحيفة وول ستريت جورنال زعم أن الحوثيين في اليمن طالبوا بـ 51 مليار دولار مقابل وقف الأعمال العدائية مع الرياض.",
-   "body_ar": [
-    "ووصف وكيل وزارة الخارجية لشؤون الدبلوماسية العامة، السفير رائد قرملي، هذه المزاعم بأنها «فبركة محضة» من قبل الكُتّاب أو مصادرهم المزعومة. وكانت الصحيفة قد ادعت أن الرياض تواصلت مع الجماعة لبحث التوصل إلى وقف تفاوضي للقتال، وأن الحوثيين طالبوا بهذا المبلغ والاعتراف بهم رسمياً كحكام لليمن.",
-    "واتهم قرملي الميليشيا بالتسبب في المجاعة، والتمرد على الحكومة اليمنية المعترف بها، ورفض مساعي السلام، ومهاجمة السفن التجارية في ممرات البحر الأحمر إلى جانب استهداف مواقع مدنية واقتصادية."
    ]
   },
   {
