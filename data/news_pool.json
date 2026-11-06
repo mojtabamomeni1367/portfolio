@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:14:30Z",
+ "updated": "2026-11-06T19:07:27Z",
  "items": [
   {
    "id": "0ed6bd389882",
@@ -3288,6 +3288,156 @@
    ],
    "desc": "Earlier, a NATO spokeswoman said Ukraine's allies are working for a \"just and sustainable\" end to the war ahead of U.S.-mediated talks next week in Abu Dhabi",
    "score": 2
+  },
+  {
+   "id": "1dbfa0a984a3",
+   "title": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "date": "2026-11-06T18:17:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers have forced dozens of Palestinians from their homes in Jericho after seizing eight properties.",
+   "score": 7
+  },
+  {
+   "id": "811ba6d983a1",
+   "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+   "date": "2026-11-06T18:09:49Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "The attack on al-Hadara market in Taiz governorate's al-Waziiya district killed at least 30 people, Houthi rebels say.",
+   "score": 8,
+   "dup_of": "a6beafc4224e"
+  },
+  {
+   "id": "398f6302dac8",
+   "title": "US city votes to divest from Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+   "date": "2026-11-06T17:40:13Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+   "score": 4
+  },
+  {
+   "id": "10bb6499f7c8",
+   "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu?traffic_source=rss",
+   "date": "2026-11-06T16:21:57Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Arab-majority parties in Israel, the Joint List and Ra’am, have backed Netanyahu’s rival Gadi Eisenkot to form a governm",
+   "score": 7,
+   "dup_of": "ae0308f19451"
+  },
+  {
+   "id": "cbec17a87d6e",
+   "title": "Israel’s election and self-definition invite questions | Letters",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/06/israels-election-and-self-definition-invite-questions",
+   "date": "2026-11-06T16:38:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Dr Richard Skues responds to an article by Jonathan Freedland in which he says the opposition can’t win unless they join forces with Arab parties Jonathan Freedland is surely right that the Israeli political parties opposed to Benjamin Netanyahu should make common cause with their Palestinian fellow citizens ( This is the hard lesson from Israel’s election: to stop nationalist populists, you can’t play by gentlemen’s rules, 30 October ). He is also right to be pessimistic, recognising that “Israel’s Jewish-led parties have long shunned the mainly Arab parties because the latter identify as ant",
+   "score": 3
+  },
+  {
+   "id": "905cae3da111",
+   "title": "Bangladesh rescues Rohingya refugees in border gun battle",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece",
+   "date": "2026-11-06T17:18:36Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "One soldier was killed in the clash on November 5 night, the military's Inter-Services Public Relations (ISPR) said.",
+   "score": 6
+  },
+  {
+   "id": "a6251b060897",
+   "title": "Iran Guards say two tankers caught fire in Hormuz",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-guards-say-two-tankers-caught-fire-in-hormuz/article71675787.ece",
+   "date": "2026-11-06T16:49:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Since the outbreak of the West Asia war on February 28, Tehran has sought to limit traffic through the strategic waterway, which normally carries about one-fifth of global oil consumption",
+   "score": 8,
+   "dup_of": "d6dfa85fa3f5"
+  },
+  {
+   "id": "0c9753b805fb",
+   "title": "Israel Opposition eases on ultra-Orthodox draft to oust Netanyahu",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-opposition-eases-on-ultra-orthodox-draft-to-oust-netanyahu/article71675551.ece",
+   "date": "2026-11-06T16:16:50Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Listing the most important goals as removing Netanyahu and avoiding new elections, Opposition partner Avigdor Liberman said it was time to compromise and \"understand that trying to have everything risks getting nothing\".",
+   "score": 7
+  },
+  {
+   "id": "07dabdc95df8",
+   "title": "Two USCIRF officials claim vigilante attacks on gurdwaras in India",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/us-commission-on-international-religious-freedom-claim-vigilante-attacks-on-india-gurdwaras/article71675663.ece",
+   "date": "2026-11-06T16:12:37Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India describes U.S. Commission on International Religious Freedom as a biased organisation that lacks credibility",
+   "score": 5
+  },
+  {
+   "id": "d9f43700ce93",
+   "title": "پاکستان می‌گوید در حال بررسی طرح آمریکا برای اخراج مهاجران افغان از طریق این کشور است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ck1exxve9w3no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T18:31:42Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "وزارت امور خارجه پاکستان اعلام کرده است که اسلام‌آباد در حال بررسی پیشنهاد دولت ایالات متحده مبنی بر اخراج شهروندان افغانستان از طریق این کشور است. سجاد حیدر خان، سخنگوی این وزارت، در یک نشست خبری گفت که این موضوع در حال بررسی است و تمام جوانب آن به دقت مورد ارزیابی قرار می‌گیرد. یک دادگاه فدرال آمریکا روز سه‌شنبه طرح حکومت ترامپ در مورد اخراج ده‌ها مهاجر افغان به افغانستان را متوقف کرد.",
+   "score": 7,
+   "dup_of": "da67dddf13b2"
+  },
+  {
+   "id": "ad30b65970eb",
+   "title": "بين التعدين والنزاع الحدودي المصري السوداني، ماذا نعرف عن المنطقة التي قُتل فيها ضابطان مصريان؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cr93zzvl7xv9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T17:02:32Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "أعلن الجيش المصري مقتل ضابطين خلال عملية تستهدف مكافحة التنقيب غير القانوني عن الذهب قرب الحدود الجنوبية للبلاد، في وقت تتواصل فيه تداعيات اتهامات سودانية سابقة بشأن استهداف منقبين عن الذهب في مناطق حدودية.",
+   "score": 6
   }
  ]
 }
