@@ -1,7 +1,279 @@
 {
- "updated": "2026-11-06T10:18:12Z",
- "count": 441,
+ "updated": "2026-11-06T13:25:47Z",
+ "count": 450,
  "items": [
+  {
+   "id": "6db2aa2254dc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-recapture-villages-and-districts-taiz-government-says",
+   "date": "2026-11-06T13:04:14Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen's government says its forces recaptured villages and districts in Taiz",
+   "title_en": "Yemen's government says its forces recaptured villages and districts in Taiz",
+   "summary_en": "Saudi-backed Yemeni government forces reported regaining control of several areas in Taiz province from Houthi fighters.",
+   "body_en": [
+    "Government forces stated they recaptured the villages of al-Nidani and al-Sarari, the Rabat al-Qarn area, and large portions of the Sanamat district.",
+    "According to the forces, 37 Houthi fighters were killed or injured during the military operations in the province, which is located near the strategically important Bab al-Mandeb strait."
+   ],
+   "title_fa": "دولت یمن از بازپس‌گیری روستاها و بخش‌هایی در تعز توسط نیروهای خود خبر داد",
+   "summary_fa": "نیروهای دولتی یمن با حمایت عربستان از بازپس‌گیری کنترل چند منطقه در استان تعز از دست جنگجویان حوثی خبر دادند.",
+   "body_fa": [
+    "نیروهای دولتی اعلام کردند که روستاهای الندانی و الصراری، منطقه رباط القرن و بخش‌های بزرگی از منطقه صنمات را بازپس گرفته‌اند.",
+    "به گفته این نیروها، ۳۷ تن از جنگجویان حوثی در جریان این عملیات‌های نظامی در این استان که در نزدیکی تنگه استراتژیک باب‌المندب قرار دارد، کشته یا زخمی شدند."
+   ],
+   "title_ar": "الحكومة اليمنية تعلن استعادة قواتها لقرى ومديريات في تعز",
+   "summary_ar": "أعلنت القوات الحكومية اليمنية المدعومة من السعودية استعادة السيطرة على عدة مناطق في محافظة تعز من مقاتلي الحوثيين.",
+   "body_ar": [
+    "وذكرت القوات الحكومية أنها استعادت قرى النداني والصراري، ومنطقة رباط القرن، وأجزاء واسعة من مديرية صنمات.",
+    "ووفقاً لتلك القوات، مقتل وإصابة 37 مقاتلاً من الحوثيين خلال العمليات العسكرية في المحافظة الواقعة بالقرب من مضيق باب المندب الاستراتيجي."
+   ]
+  },
+  {
+   "id": "bcab29b2eadd",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/fake-iranian-accounts-campaigned-netanyahu-ahead-israeli-election",
+   "date": "2026-11-06T12:34:08Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Fake Iranian accounts ‘campaigned for Netanyahu’ ahead of Israeli election",
+   "title_en": "Fake Iranian accounts ‘campaigned for Netanyahu’ ahead of Israeli election",
+   "summary_en": "A network of more than 1,600 X accounts pretending to be Iranian users campaigned in Hebrew for Israeli Prime Minister Benjamin Netanyahu ahead of last week's election, according to an investigation reported by Haaretz.",
+   "body_en": [
+    "The investigation, based on research by social media monitoring firm Expose, revealed that accounts previously used to promote Reza Pahlavi shifted focus in July to interact with Netanyahu's social media profiles and attack his political opponents. The coordinated network posted identical messages urging Israelis to vote for Netanyahu and his Likud party, before returning to its focus on Pahlavi after the vote concluded.",
+    "A petition regarding the network was submitted to the Central Elections Committee by the Brandeis Institute and FakeReporter. Judge Noam Solberg rejected the petition because the operators' identities remain unknown, though he noted the activity appeared to violate election transparency laws and referred the evidence to the police. Both Likud and the Prime Minister's Office denied any connection to the accounts."
+   ],
+   "title_fa": "حساب‌های جعلی ایرانی پیش از انتخابات اسرائیل «برای نتانیاهو تبلیغ کردند»",
+   "summary_fa": "بر اساس تحلیلی که روزنامه هاآرتص منتشر کرده است، شبکه‌ای شامل بیش از ۱۶۰۰ حساب کاربری در شبکه ایکس که خود را کاربران ایرانی جا می‌زدند، پیش از انتخابات هفته گذشته اسرائیل به زبان عبری برای بنیامین نتانیاهو تبلیغ می‌کردند.",
+   "body_fa": [
+    "این بررسی که بر پایه تحقیقات شرکت پایش شبکه‌های اجتماعی «اکسپوز» انجام شده، نشان می‌دهد حساب‌هایی که پیش‌تر برای ترویج رضا پهلوی استفاده می‌شدند، از ماه ژوئیه تمرکز خود را بر تعامل با صفحه‌های بنیامین نتانیاهو و حمله به رقبای سیاسی او معطوف کردند. این شبکه هماهنگ پیام‌های مشابه‌ای در فراخوان برای رای دادن به نتانیاهو و حزب لیکود منتشر می‌کرد و پس از پایان انتخابات دوباره به فعالیت‌های قبلی خود بازگشت.",
+    "پژوهشکده براندیس و فیک‌ریپورتر شکایتی را درباره این شبکه به کمیته مرکزی انتخابات ارائه کردند. قاضی نوام سولبرگ این شکایت را به دلیل مشخص نبودن هویت گردانندگان حساب‌ها رد کرد، اما اعلام نمود که این فعالیت‌ها قانون شفافیت تبلیغات انتخاباتی را نقض کرده است و پرونده را به پلیس ارجاع داد. دفتر نخست‌وزیری و حزب لیکود هرگونه ارتباط با این حساب‌ها را تکذیب کرده‌اند."
+   ],
+   "title_ar": "حسابات إيرانية مزيفة \"شاركت في حملة نتنياهو\" قبل الانتخابات الإسرائيلية",
+   "summary_ar": "أفادت صحيفة هآرتس بأن شبكة تضم أكثر من 1600 حساب على منصة إكس تدعي أنها لمستخدمين إيرانيين شاركت في حملة انتخابية باللغة العبرية لصالح رئيس الوزراء الإسرائيلي بنيامين نتنياهو قبل انتخابات الأسبوع الماضي.",
+   "body_ar": [
+    "كشف التحقيق، المستند إلى بحث أجري بواسطة شركة \"إكسبوز\" لرقابة وسائل التواصل الاجتماعي، أن حسابات كانت تُستخدم سابقًا للترويج لرضا پهلوی تحولت في يوليو للتفاعل مع حسابات بنيامين نتنياهو ومهاجمة خصومه السياسيين. ونشرت الشبكة المنسقة رسائل متطابقة تحث الإسرائيليين على التصويت لنتنياهو وحزب Likud، قبل أن تعود إلى تركيزها على پهلوی بعد انتهاء الانتخابات.",
+    "وقدم معهد برانديز ومنظمة FakeReporter عريضة بشأن الشبكة إلى لجنة الانتخابات المركزية. ورفض القاضي نوام سولبرغ العريضة لأن هويات المشغلين لا تزال مجهولة، لكنه أشار إلى أن النشاط يخرق قوانين شفافية الدعاية الانتخابية وأحال الأدلة إلى الشرطة. ونفى كل من حزب Likud ومكتب رئيس الوزراء أي صلة لهما بالحسابات."
+   ]
+  },
+  {
+   "id": "a23ef175cbd3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042608/pakistan-uk-agree-to-expand-cooperation-on-counterterrorism-narcotics",
+   "date": "2026-11-06T12:30:44Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Pakistan, UK agree to expand cooperation on counterterrorism, narcotics",
+   "title_en": "Pakistan, UK agree to expand cooperation on counterterrorism, narcotics",
+   "summary_en": "Pakistan and the United Kingdom agreed during delegation-level talks in Islamabad to boost bilateral cooperation on counterterrorism, anti-narcotics, cybercrime, and immigration.",
+   "body_en": [
+    "The meeting took place at the Ministry of Interior between Pakistani Interior Minister Mohsin Naqvi and visiting British Minister of State for Security Dan Jarvis. Both sides decided to quickly finalize a memorandum of understanding on anti-narcotics to fully operationalize cooperation between the UK's National Crime Agency and Pakistan's Anti-Narcotics Force. Naqvi noted that Pakistan had foiled 330 narcotics smuggling cases to the UK in recent years.",
+    "Jarvis praised the Federal Investigation Agency's efforts against illegal immigration and acknowledged Pakistan's sacrifices in combating terrorism, emphasizing the need for international joint work against cybercrime. The two countries also agreed to convene a working group meeting between their interior ministries soon."
+   ],
+   "title_fa": "پاکستان و بریتانیا بر سر گسترش همکاری‌ها در زمینه مبارزه با تروریسم و مواد مخدر توافق کردند",
+   "summary_fa": "پاکستان و بریتانیا در جریان مذاکرات هیئت‌های دو کشور در اسلام‌آباد، بر سر افزایش همکاری‌های دو جانبه در زمینه‌های مبارزه با تروریسم، مواد مخدر، جرایم سایبری و مهاجرت توافق کردند.",
+   "body_fa": [
+    "این نشست در وزارت کشور میان محسن نقوی، وزیر کشور پاکستان، و دان جارویس، وزیر در امور امنیت بریتانیا، برگزار شد. دو طرف تصمیم گرفتند یادداشت تفاهم همکاری‌های ضد مواد مخدر را برای عملیاتی‌سازی کامل همکاری میان آژانس ملی الجریمه بریتانیا و نیروی مبارزه با مواد مخدر پاکستان سریعاً نهایی کنند. نقوی اشاره کرد که پاکستان طی سال‌های اخیر از ۳۳۰ مورد قاچاق مواد مخدر به بریتانیا جلوگیری کرده است.",
+    "جارویس از عملکرد آژانس تحقیقات فدرال در مقابله با مهاجرت غیرقانونی تمجید کرد و قربانی‌های پاکستان در جنگ با تروریسم را ستود. وی همچنین بر لزوم همکاری بین‌المللی در برابر جرایم سایبری تأکید نمود. دو طرف همچنین توافق کردند که به‌زودی نشست گروه کاری میان وزارتهای کشور دو طرف را برگزار کنند."
+   ],
+   "title_ar": "باكستان وبريطانيا تتفقان على توسيع التعاون في مكافحة الإرهاب والمخدرات",
+   "summary_ar": "اتفقت باكستان والمملكة المتحدة خلال محادثات على مستوى الوفود في إسلام آباد على تعزيز التعاون الثنائي في مجالات مكافحة الإرهاب والمخدرات والجريمة الإلكترونية والهجرة.",
+   "body_ar": [
+    "وجرت المحادثات في وزارة الداخلية بين وزير الداخلية الباكستاني محسن نقوي ووزير الدولة البريطاني لشؤون الأمن دان جارفيس. وقرر الجانبان الإسراع في اللمسات الأخيرة لمذكرة تفاهم بشأن مكافحة المخدرات لتفعيل التعاون بين الوكالة الوطنية لمكافحة الجريمة في بريطانيا وقوة مكافحة المخدرات الباكستانية. وأشار نقوي إلى أن پاکستان أحبطت 330 حالة تهريب مخدرات إلى المملكة المتحدة خلال السنوات الأخيرة.",
+    "وأشاد جارفيس بجهود وكالة التحقيقات الفيدرالية في الحد من الهجرة غير الشرعية وتضحيات باكستان في مبارزة الإرهاب، مؤكداً ضرورة العمل الدولي المشترك لمواجهة الجرائم الإلكترونية. كما اتفق الطرفان على عقد اجتماع قريب لمجموعة العمل المشتركة بين وزارتي الداخلية في البلدين."
+   ]
+  },
+  {
+   "id": "4461bf3e086c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-demands-us-action-says-it-will-not-accept-commitments-paper",
+   "date": "2026-11-06T12:18:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran demands US action, says it will not accept commitments on paper",
+   "title_en": "Iran demands US action, says it will not accept commitments on paper",
+   "summary_en": "Iran will not rely on written US commitments as it evaluates entering a new diplomatic phase with Washington, according to Ali Baqeri, deputy secretary of Iran’s Supreme National Security Council.",
+   "body_en": [
+    "Speaking to Fars news agency, Baqeri stated that the United States had derailed four rounds of negotiations over the last 18 months through hostile measures and breaches of its commitments. He stressed that practical actions from Washington are required before any new chapter in diplomacy can begin.",
+    "Baqeri also noted Iran's cooperation with Russia, explaining that a recent visit to Moscow by Mohsen Rezaei, secretary of the Supreme National Security Council, was intended to deliver a message from Iran's leader to President Vladimir Putin."
+   ],
+   "title_fa": "ایران خواستار اقدام آمریکا شد و گفت تعهدات روی کاغذ را نمی‌پذیرد",
+   "summary_fa": "علی باقری، معاون دبیر شورای عالی امنیت ملی ایران، اعلام کرد که تهران برای ورود به مرحله جدید دیپلماتیک با واشنگتن به تعهدات کاغذی آمریکا اتکا نخواهد کرد.",
+   "body_fa": [
+    "باقری در گفت‌وگو با خبرگزاری فارس گفت که ایالات متحده طی ۱۸ ماه گذشته چهار دور مفاوضات را از طریق اقدامات خصمانه و نقض تعهدات از مسیر خود خارج کرده است. وی تأکید کرد که پیش از آغاز هرگونه فصل جدید در دیپلماسی، نیازمند اقدامات عملی از سوی واشنگتن هستیم.",
+    "باقری همچنین به همکاری ایران با روسیه اشاره کرد و گفت سفر اخیر محسن رضایی، دبیر شورای عالی امنیت ملی به موسکو، به منظور ابلاغ پیام رهبر ایران به ولادیمیر پوتین، رئیس‌جمهور روسیه انجام شده است."
+   ],
+   "title_ar": "إيران تطالب بانتهاج أمريكا خطوات عملية وتقول إنها لن تقبل بتعهدات على الورق",
+   "summary_ar": "صرح علي باقري، نائب أمين المجلس الأعلى للأمن القومي الإيراني، بأن إيران لن تعتمد على التعهدات الورقية الأمريكية أثناء دراستها لدخول مرحلة دبلوماسية جديدة مع واشنطن.",
+   "body_ar": [
+    "وفي تصريحات لنقلها وكالة فارس للأنباء، قال باقري إن الولايات المتحدة عرقلت أربع جولات من المفاوضات خلال الأشهر الـ 18 الماضية من خلال إجراءات عدائية وانتهاك للتعهدات. وأكد أن اتخاذ خطوات عملية من جانب واشنطن أمر ضروري قبل بدء أي فصل جديد في الدبلوماسية.",
+    "كما تطرق باقري إلى التعاون الإيراني مع روسيا، موضحاً أن الزيارة الأخيرة التي قام بها محسن رضائي، أمين المجلس الأعلى للأمن القومي، إلى موسكو كانت تهدف إلى نقل رسالة من القائد الإيراني إلى الرئيس فلاديمير بوتين."
+   ]
+  },
+  {
+   "id": "7c2eca42efaf",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/06/uncertainty-iran-donald-trump-midterms-defeat-war-repression",
+   "date": "2026-11-06T12:00:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
+   "title_en": "‘We’ve been preparing for the worst all year’: uncertainty grips Iran after Trump midterms defeat",
+   "summary_en": "Following the Republican losses in the US midterm elections, pro-government crowds and Iranian officials celebrated the results in Tehran, while residents report mixed expectations over war and fear continued domestic repression.",
+   "body_en": [
+    "In Tehran, pro-regime crowds burned banners depicting Donald Trump, JD Vance, Steve Witkoff, and Benjamin Netanyahu, while state television broadcast a mock hanging of Trump. Officials portrayed the results as a setback for US policy, with Iran's supreme leader, Mojtaba Khamenei, stating that the collapse of the US had accelerated following the death of his predecessor Ali Khamenei in February strikes.",
+    "Despite the government's celebrations, ordinary citizens expressed ongoing anxiety over rising economic hardship and internal security measures. While some residents interviewed believed the risk of a full-scale war had lessened or increased, many agreed that domestic political repression would persist regardless of events in the United States."
+   ],
+   "title_fa": "«تمام سال برای بدترین سناریو آماده شده‌ایم»: بلاتکلیفی در ایران پس از شکست ترامپ در انتخابات میان‌دوره‌ای",
+   "summary_fa": "پس از شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای آمریکا، هواداران حکومت و مقامات ایرانی در تهران این نتایج را جشن گرفتند، در حالی که شهروندان درباره احتمال جنگ نظرات متفاوتی داشته و نگران تداوم سرکوب داخلی هستند.",
+   "body_fa": [
+    "در تهران، حامیان حکومت بنرهایی شامل تصاویر دونالد ترامپ، جی‌دی ونس، استیو ویتکوف و بنیامین نتانیاهو را آتش زدند و تلویزیون دولتی نیز صحنه‌ای از اعدام نمادین ترامپ را پخش کرد. مقامات این نتایج را شکست سیاست‌های آمریکا خواندند و مجتبی خامنه‌ای، رهبر ایران، که پدرش علی خامنه‌ای در حملات فوریه کشته شد، اعلام کرد که روند فروپاشی آمریکا سرعت یافته است.",
+    "با وجود خوشحالی حکومتی، شهروندان عادی از مشکلات رو به رشد اقتصادی و اقدامات امنیتی داخلی ابراز نگرانی کردند. در حالی که برخی مصاحبه‌شوندگان معتقد بودند احتمال جنگ همه‌جانبه کاهش یا افزایش یافته است، بسیاری تاکید داشتند که سرکوب سیاسی داخلی بدون توجه به تحولات ایالات متحده ادامه خواهد داشت."
+   ],
+   "title_ar": "«کنا نستعد للأسوأ طوال العام»: عدم اليقين يخيم على إيران بعد هزيمة ترامب في الانتخابات النصفيّة",
+   "summary_ar": "في أعقاب خسارة الحزب الجمهوري في الانتخابات النصفيّة الأمريكية، احتفلت حشود مؤيدة للحكومة ومسؤولون إيرانيون بالنتائج في طهران، بينما يعبر سكان عن تباين آرائهم حول احتمالات الحرب ومخاوفهم من استمرار القمع الداخلي.",
+   "body_ar": [
+    "في طهران، أحرق مؤيدون للنظام لافتات تحمل صور دونالد ترامب وجيه دي فانس وستيف ويتكوف وبنيامين نتنياهو، بينما عرض التلفزيون الرسمي مشهداً لإعدام رمزي لترامب. واعتبر مسؤولون النتائج تراجعاً للسياسات الأمريكية، وقال القائد الأعلى مجتبى خامنئي، الذي قُتل والده علي خامنئي في ضربات فبراير، إن عملية انهيار الولايات المتحدة قد تسارعت.",
+    "ورغم الاحتفالات الحكومية، عبر مواطنون عن قلق مستمر جراء تدهور الأوضاع الاقتصادية والإجراءات الأمنية. وبينما رأى بعض السكان أن احتمال نشوب حرب شاملة قد تراجع أو زاد، اتفق كثيرون على أن القمع السياسي الداخلي سيستمر بغض النظر عما يحدث في الولايات المتحدة."
+   ]
+  },
+  {
+   "id": "485a7339fd2e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-strike-targets-syria-and-lebanon-simultaneously",
+   "date": "2026-11-06T11:36:53Z",
+   "countries": [
+    "ISR",
+    "LBN",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Israeli forces strike targets in Syria and Lebanon",
+   "title_en": "Israeli forces strike targets in Syria and Lebanon",
+   "summary_en": "Israeli forces carried out military attacks in southern Lebanon and southern Syria, targeting a municipality and farmland.",
+   "body_en": [
+    "According to the Lebanese National News Agency, Israeli forces bombed the al-Tayri municipality located in the Bint Jbeil district of southern Lebanon.",
+    "In southern Syria, Syrian state broadcaster Al-Ikhbariya reported that Israeli forces launched an artillery shell at agricultural land near the village of al-Samdaniyah al-Sharqiyah in the Quneitra countryside."
+   ],
+   "title_fa": "حملات نیروهای اسرائیلی به اهدافی در سوریه و لبنان",
+   "summary_fa": "نیروهای اسرائیلی حملاتی را در جنوب لبنان و جنوب سوریه انجام دادند و یک شهرداری و زمین‌های کشاورزی را هدف قرار دادند.",
+   "body_fa": [
+    "به گزارش خبرگزاری رسمی لبنان، نیروهای اسرائیلی شهرداری الطیری در منطقه بنت جبیل در جنوب لبنان را بمباران کردند.",
+    "در جنوب سوریه نیز به گزارش شبکه دولتی الإخباریه، نیروهای اسرائیلی یک گلوله توپخانه به سمت زمین‌های کشاورزی در نزدیکی روستای الصمدانیه الشرقیه در حومه قنیطره شلیک کردند."
+   ],
+   "title_ar": "القوات الإسرائيلية تقصف أهدافاً في سوريا ولبنان",
+   "summary_ar": "نفذت القوات الإسرائيلية هجمات في جنوب لبنان وجنوب سوريا، استهدفت بلدية وأراضٍ زراعية.",
+   "body_ar": [
+    "وذكرت الوكالة الوطنية للإعلام اللبنانية أن القوات الإسرائيلية قصفت بلدية الطيري الواقعة في قضاء بنت جبيل بجنوب لبنان.",
+    "وفي جنوب سوريا، أفادت قناة الإخبارية السورية الرسمية أن القوات الإسرائيلية أطلقت قذيفة مدفعية على أراضٍ زراعية بالقرب من قرية الصمدانية الشرقية في ريف القنيطرة."
+   ]
+  },
+  {
+   "id": "a6beafc4224e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-30-killed-or-wounded-air-strikes-yemen-market-houthis-say",
+   "date": "2026-11-06T11:25:47Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "More than 30 killed or wounded in air strikes on Yemeni market, Houthis say",
+   "title_en": "More than 30 killed or wounded in air strikes on Yemeni market, Houthis say",
+   "summary_en": "Air strikes targeting a market in Yemen's Taiz province have killed or wounded over 30 people, according to Houthi-run media.",
+   "body_en": [
+    "Houthi-run Al-Masirah TV reported that Friday morning's strike on the market caused a preliminary casualty count of more than 30 people, with search efforts for missing individuals ongoing while aircraft remained overhead.",
+    "The broadcaster also reported intense air strikes hitting two artesian wells in the Hamdan area of Sanaa, as well as attacks in Saada province's Majz district and artillery and rocket bombardment along the Saudi border."
+   ],
+   "title_fa": "به گفته حوثی‌ها بیش از ۳۰ نفر در حملات هوایی به بازاری در یمن کشته یا زخمی شدند",
+   "summary_fa": "به گفته رسانه‌های وابسته به حوثی‌ها، حملات هوایی به بازاری در استان تعز یمن بیش از ۳۰ کشته یا زخمی بر جای گذاشته است.",
+   "body_fa": [
+    "شبکه المسیره وابسته به حوثی‌ها گزارش داد که حمله صبح روز جمعه به این بازار آمار اولیه بیش از ۳۰ کشته و زخمی را به همراه داشته است و جستجو برای یافتن مفقودان در حالی که هواپیماها همچنان پرواز می‌کردند ادامه دارد.",
+    "این شبکه همچنین از حملات هوایی شدید به دو چاه عمیق در منطقه همدان صنعا، حملاتی در شهرستان مجز در استان صعده و همچنین حملات توپخانه‌ای و راکتی در طول مرز عربستان خبر داد."
+   ],
+   "title_ar": "مقتل وإصابة أكثر من 30 شخصاً في غارات جوية على سوق يمني، وفقاً للحوثيين",
+   "summary_ar": "أسفرت غارات جوية استهدفت سوقاً في محافظة تعز اليمنية عن مقتل وإصابة أكثر من 30 شخصاً، وفقاً لإعلام الحوثيين.",
+   "body_ar": [
+    "وذكرت قناة المسيرة التابعة للحوثيين أن الهجوم الذي استهدف السوق صباح الجمعة أسفر عن حصيلة أولية بلغت أكثر من 30 قتيلاً وجريحاً، مع استمرار البحث عن المفقودين في ظل تحليق الطيران.",
+    "كما أفادت القناة بوقوع غارات مكثفة استهدفت بئرين إرتوازيتين في منطقة همدان بصنعاء، وهجمات على مديرية مجز بمحافظة صعدة، إضافة إلى قصف مدفعي وصاروخي على طول الحدود السعودية."
+   ]
+  },
+  {
+   "id": "2e9864484bed",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-missile-response-new-attack-could-extend-europe",
+   "date": "2026-11-06T10:42:29Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Iran warns missile response to new attack could extend to Europe",
+   "title_en": "Iran warns missile response to new attack could extend to Europe",
+   "summary_en": "An Iranian lawmaker warned that any new attack by the US or Israel could trigger missile responses reaching Europe and push oil prices over $150 a barrel.",
+   "body_en": [
+    "Hosseinali Haji Deligani, a member of the Iranian parliament, told Tasnim news agency that Iran's response to any attack would be massive, strategic, and without geographical limits, extending missile coverage into Europe.",
+    "Haji Deligani also characterized the US naval blockade of Iran as an act of war and warned that Iranian forces would respond at an appropriate time, echoing recent statements from Iran's top military commander."
+   ],
+   "title_fa": "هشدار ایران: پاسخ موشکی به هرگونه حمله جدید ممکن است به اروپا برسد",
+   "summary_fa": "یک نماینده مجلس ایران هشدار داد که هرگونه حمله جدید آمریکا یا اسرائیل می‌تواند منجر به پاسخ‌های موشکی تا اروپا شود و قیمت نفت را به بالای ۱۵۰ دلار در هر بشکه برساند.",
+   "body_fa": [
+    "حسینعلی حاجی دلیگانی، نماینده مجلس شورای اسلامی، به خبرگزاری تسنیم گفت که پاسخ ایران به هرگونه حمله‌ای گسترده، چندبرابری و استراتژیک و بدون محدودیت جغرافیایی خواهد بود و برد موشک‌ها اروپا را نیز شامل می‌شود.",
+    "حاجی دلیگانی همچنین محاصره دریایی ایران توسط آمریکا را شکلی از جنگ توصیف کرد و هشدار داد نیروهای ایرانی در زمان مناسب دست به حمله خواهند زد؛ موضعی که همسو با اظهارات اخیر فرمانده ارشد نظامی ایران است."
+   ],
+   "title_ar": "إيران تحذر من أن الرد الصاروخي على أي هجوم جديد قد يصل إلى أوروبا",
+   "summary_ar": "حذر برلماني إيراني من أن أي هجوم جديد من الولايات المتحدة أو إسرائيل قد يؤدي إلى ردود صاروخية تصل إلى أوروبا وتدفع أسعار النفط لتجاوز 150 دولاراً للبرميل.",
+   "body_ar": [
+    "وقال حسين علي حاجي دليغاني، العضو في البرلمان الإيراني، لوكالة تسنيم للأنباء إن رد إيران على أي هجوم سيكون ضخماً ومضاعفاً واستراتيجياً ودون حدود جغرافية، ليشمل مدى الصواريخ أوروبا.",
+    "كما وصف حاجي دليغاني الحصار البحري الأمريكي لإيران بأنه نوع من الحرب، وحذر من أن القوات الإيرانية ستهاجم في الوقت المناسب، وهو ما يتطابق مع تصريحات أخيرها القائد العسكري الأعلى في إيران."
+   ]
+  },
+  {
+   "id": "224e6e44a1e4",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261106-israel-president-to-announce-sunday-who-will-form-new-government",
+   "date": "2026-11-06T10:39:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel president to announce Sunday who will form new government",
+   "title_en": "Israel president to announce Sunday who will form new government",
+   "summary_en": "Israeli President Isaac Herzog will announce on Sunday who will be tasked with attempting to form a new government following post-election consultations with party leaders.",
+   "body_en": [
+    "Following recommendations from parliament members, 67 lawmakers backed Gadi Eisenkot to head the government, while 46 recommended Prime Minister Benjamin Netanyahu. Seven lawmakers chose to abstain."
+   ],
+   "title_fa": "رئیس‌جمهور اسرائیل روز یکشنبه تشکیل‌دهنده دولت جدید را معرفی می‌کند",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل اعلام کرد پس از رایزنی‌های پس از انتخابات با رهبران احزاب، روز یکشنبه فرد مامور تشکیل دولت جدید را معرفی خواهد کرد.",
+   "body_fa": [
+    "در جریان توصیه‌های نمایندگان پارلمان، ۶۷ نماینده از گادی آیزنکوت برای ریاست دولت حمایت کردند، در حالی که ۴۶ نماینده بنیامین نتانیاهو، نخست‌وزیر را پیشنهاد دادند. هفت نماینده نیز رای ممتنع دادند."
+   ],
+   "title_ar": "الرئيس الإسرائيلي يعلن الأحد المكلف بتشكيل الحكومة الجديدة",
+   "summary_ar": "أعلن الرئيس الإسرائيلي يتسحاق هرتسوغ أنه سيعلن يوم الأحد عن الشخصية التي سيكلفها بمحاولة تشكيل حكومة جديدة، وذلك عقب مشاورات ما بعد الانتخابات مع رؤساء الأحزاب.",
+   "body_ar": [
+    "وبحسب توصيات أعضاء البرلمان، أيد 67 نائباً غادي آيزنكوت لتشكيل الحكومة، بينما أوصى 46 نائباً برئيس الوزراء بنيامين نتنياهو، وامتنع سبعة نواب عن التصويت."
+   ]
+  },
   {
    "id": "d991b0ba4db1",
    "lang": "en",
