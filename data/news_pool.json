@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:09:54Z",
+ "updated": "2026-11-06T07:32:01Z",
  "items": [
   {
    "id": "0ed6bd389882",
@@ -2193,6 +2193,213 @@
    "desc": "Democrats won full control of the U.S. Congress in a sweeping midterm rout with a landslide of upsets that delivered a crushing rebuke of President Donald Trump and his Republican Party",
    "score": 9,
    "dup_of": "9aa911f39fbd"
+  },
+  {
+   "id": "c5f65bf33ff4",
+   "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+   "date": "2026-11-06T07:09:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
+   "score": 8,
+   "dup_of": "b4dcd993f868"
+  },
+  {
+   "id": "605f0ede9a7d",
+   "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+   "date": "2026-11-06T06:06:24Z",
+   "countries": [
+    "IND",
+    "IRN",
+    "IRQ",
+    "QAT"
+   ],
+   "desc": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+   "score": 8
+  },
+  {
+   "id": "4638cd546e34",
+   "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+   "date": "2026-11-06T05:59:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+   "score": 4
+  },
+  {
+   "id": "e5717fc7abd4",
+   "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+   "date": "2026-11-06T05:00:47Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+   "score": 8
+  },
+  {
+   "id": "29f9807f818f",
+   "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "date": "2026-11-06T04:30:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+   "score": 7,
+   "dup_of": "2e85b5dc04af"
+  },
+  {
+   "id": "75dcc31bfecb",
+   "title": "Building wind turbines out of parts found in Gaza’s rubble",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+   "date": "2026-11-06T04:20:22Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+   "score": 4
+  },
+  {
+   "id": "3bc62924afd8",
+   "title": "Turkish parliament approves Makkah defence pact with Pakistan, Saudi Arabia",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042575/turkish-parliament-approves-makkah-defence-pact-with-pakistan-saudi-arabia",
+   "date": "2026-11-06T07:01:09Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "The Turkish parliament on Thursday approved a bill ratifying the Makkah Agreement on Joint Defence with Pakistan and Saudi Arabia, paving the way for the trilateral security pact to come into force. Lawmakers endorsed the measure by 279 votes to 119, with 398 of the chamber’s 592 members taking part in the ballot. The measure, formally titled the Bill on the Approval of the Makkah Joint Defence Agreement between the Republic of Turkiye, Pakistan and the Kingdom of Saudi Arabia, passed after a lengthy debate among parties. During the debate, ruling Justice and Development (AK) Party lawmaker Zi",
+   "score": 8,
+   "dup_of": "e59b7ed0ae56"
+  },
+  {
+   "id": "600e5071465b",
+   "title": "UN Security Council adopts Pakistan-led statement urging diplomacy during wars",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042566/un-security-council-adopts-pakistan-led-statement-urging-diplomacy-during-wars",
+   "date": "2026-11-06T05:59:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "UNITED NATIONS: The UN Security Council on Thursday adopted a presidential statement initiated by Pakistan, calling on countries to continue diplomatic engagement even after the outbreak of armed conflicts and urging sustained efforts to secure ceasefires, prevent escalation and achieve lasting political settlements. The statement, titled “The Role of Diplomacy during Active Hostilities”, emphasises that diplomatic engagement remains essential during wars to protect civilians, contain violence, prevent conflicts from spreading and facilitate humanitarian assistance. It urges countries to use m",
+   "score": 6
+  },
+  {
+   "id": "86f58d500ce5",
+   "title": "Maliha Ali takes bronze at MMA worlds as Pakistan appeals semi-final decision",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042574/maliha-ali-takes-bronze-at-mma-worlds-as-pakistan-appeals-semi-final-decision",
+   "date": "2026-11-06T06:51:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Maliha Ali fought with a fractured toe, a severely bruised eyelid and a partially dislocated jaw. She fought anyway. When Omar Ahmed, president of the Pakistan MMA Federation, asked if she could compete, her response was simple. “Sir, we fight from the heart,” she said. “These hands and feet are just not that important.” That courage carried her to the semi-final. It couldn’t carry her past the judges. Maliha’s run at the IMMAF World Championships in Tbilisi, Georgia, ended in a bronze medal and a dispute on Thursday, with the Pakistan MMA Federation filing a formal appeal over her split-decis",
+   "score": 2
+  },
+  {
+   "id": "10dec11ad2b9",
+   "title": "PTI expresses concern over Imran's health, urges CJP to ensure court orders on treatment are implemented",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042568/pti-expresses-concern-over-imrans-health-urges-cjp-to-ensure-court-orders-on-treatment-are-implemented",
+   "date": "2026-11-06T06:16:31Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The PTI’s core committee has expressed concern over jailed party founder Imran Khan’s health, urging the chief justice of Pakistan to ensure the effective implementation of court orders regarding the ex-prime minister’s treatment. The party’s core committee met on Thursday and the gathering continued late into the night. It was held after reports that Imran’s blood pressure recently surged to 192 . A statement issued after the meeting said the committee had expressed “grave concern” over Imran’s health, citing the alleged lack of medical facilities and obstacles to his access to fam",
+   "score": 5
+  },
+  {
+   "id": "3d45cdc6cead",
+   "title": "Shafay says standing by his younger brother",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042400/shafay-says-standing-by-his-younger-brother",
+   "date": "2026-11-06T04:29:31Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Punjab Commerce and Investment Minister Shafay Hussain of the PML-Q has said that he is standing by his younger brother Salik Hussain, Federal Minister for Overseas Pakistanis, come what may. In response to the ongoing controversy involving Punjab Chief Minister Maryam Nawaz and Salik Hussain, Mr Shafay said: “I have and will never distance myself from my younger brother. My brother is an independent person with his own independent views,” he told Dawn on Thursday. Maryam Nawaz has served a Rs5 billion defamation notice on Salik over his corruption allegations against her government, d",
+   "score": 1
+  },
+  {
+   "id": "9031b4264efb",
+   "title": "CJ shows displeasure over cops making TikTok videos",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042403/cj-shows-displeasure-over-cops-making-tiktok-videos",
+   "date": "2026-11-06T04:14:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Lahore High Court Chief Justice Aalia Neelum on Thursday expressed her displeasure over police officers making TikTok videos about missing girls and uploading them on social media. “How police officers engaged in such activities [making video clips] would trace the missing girls,” the chief justice questioned, hearing a petition filed by a woman, Salma Bibi, seeking recovery of her allegedly missing daughter. The chief justice also expressed dissatisfaction with the committee formed to recover the missing girls and summoned Inspector General of Police (IGP) Abdul Karim in person on Nov",
+   "score": 2
+  },
+  {
+   "id": "3e8630258193",
+   "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
+   "date": "2026-11-06T06:54:19Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Union Culture Minister Gajendra Singh Shekhawat hailed the inscriptions as a landmark recognition of India’s extraordinary documentary and civilisational heritage",
+   "score": 2
+  },
+  {
+   "id": "d48b37cee401",
+   "title": "ترامب: واشنطن ستقرر خلال أسبوعين بين اتخاذ خطوات إضافية تجاه إيران أو المصادقة على الاتفاق",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cr9dzzq2ln57o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T07:16:37Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "قال الرئيس الأمريكي دونالد ترامب إن واشنطن ستقرر خلال الأسبوعين المقبلين ما إذا كانت ستمضي في اتخاذ خطوات إضافية تجاه إيران أو تصادق على الاتفاق، مؤكداً أن طهران لن تمتلك سلاحاً نووياً، وأنها لن تتخذ أي خطوة دون موافقة واشنطن.",
+   "score": 9
+  },
+  {
+   "id": "554b57f1ca94",
+   "title": "الرئيس الإسرائيلي يحدد الأحد المقبل موعداً لاختيار مرشح لتشكيل الحكومة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cjdx33ezggwpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-06T04:05:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "قال هرتسوغ في رسالة مصوّرة في ختام يومين من المشاورات مع قادة الأحزاب \"أعتزم أن أكلّف الأحد المقبل أحد أعضاء الكنيست بتشكيل الحكومة\"، موضحاً أن 67 نائباً أوصوا بتكليف آيزنكوت، مقابل 46 أوصوا بتكليف نتنياهو، فيما امتنع سبعة عن التوصية بأيّ مرشّح.",
+   "score": 8,
+   "dup_of": "c5f65bf33ff4"
   }
  ]
 }
