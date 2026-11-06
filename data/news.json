@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-06T01:30:31Z",
- "count": 422,
+ "updated": "2026-11-06T04:09:54Z",
+ "count": 423,
  "items": [
+  {
+   "id": "34eb86a3d57d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042455/pakistan-builds-record-reserves-amid-gulf-war",
+   "date": "2026-11-06T01:59:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Pakistan builds record reserves amid Gulf war",
+   "title_en": "Pakistan builds record reserves amid Gulf war",
+   "summary_en": "Pakistan's foreign exchange reserves climbed to a record high of over $26.8 billion despite the economic impacts of the Gulf war.",
+   "body_en": [
+    "The State Bank of Pakistan reported that total country reserves reached $26.864 billion, improving its position since the war began on February 28.",
+    "While the financial sector considers these reserves sufficient to stabilize the exchange rate, experts note that a widening trade deficit and reliance on remittances to bridge the gap remain concerns."
+   ],
+   "title_fa": "پاکستان در میان جنگ خلیج فارس ذخایر ارزی خود را به رکورد رساند",
+   "summary_fa": "ذخایر ارزی پاکستان علیرغم تأثیرات اقتصادی جنگ خلیج فارس به بالاترین حد خود یعنی بیش از ۲۶.۸ میلیارد دلار رسید.",
+   "body_fa": [
+    "بانک مرکزی پاکستان گزارش داد که کل ذخایر کشور به ۲۶.۸۶۴ میلیارد دلار رسیده است و از زمان آغاز جنگ در ۲۸ فوریه وضعیت خود را بهبود بخشیده است.",
+    "در حالی که بخش مالی این ذخایر را برای تثبیت نرخ ارز کافی می‌داند، کارشناسان خاطرنشان می‌کنند که کسری تجاری رو به رشد و اتکا به حواله‌های ارزی برای پر کردن شکاف همچنان مایه نگرانی است."
+   ],
+   "title_ar": "باكستان تبني احتياطيات قياسية وسط حرب الخليج",
+   "summary_ar": "ارتفعت احتياطيات النقد الأجنبي في باكستان إلى مستوى قياسي بلغ أكثر من 26.8 مليار دولار على الرغم من الآثار الاقتصادية لحرب الخليج.",
+   "body_ar": [
+    "أفاد بنك باكستان المركزي أن إجمالي احتياطيات البلاد بلغ 26.864 مليار دولار، مما حسّن وضعه منذ بدء الحرب في 28 فبراير.",
+    "وفي حين يعتبر القطاع المالي هذه الاحتياطيات كافية لتثبيت سعر الصرف، يشير الخبراء إلى أن اتساع العجز التجاري والاعتماد على التحويلات المالية لسد الفجوة لا يزالان يمثلان مصدراً للقلق."
+   ]
+  },
   {
    "id": "ed7aaf167d18",
    "lang": "en",
@@ -236,6 +266,36 @@
    "body_ar": [
     "لم يحقق ائتلاف نتانیاهو ولا كتلة التغيير برئاسة آيزنكوت الأغلبية في الانتخابات الأخيرة، مما ترك الأحزاب العربية التي تملك رصيداً قياسياً من المقاعد كصانعة قرار محتملة. واجه نتانیاهو انتقادات واتهم الأحزاب العربية بتزوير الأصوات، وهي مزاعم رفضتها لجنة الانتخابات المركزية.",
     "وحث هرتسوغ جميع الأطراف على المساعدة في تجنب جولة جديدة من الانتخابات مع استمرار المشاورات. وفي الوقت نفسه، يظل نتانیاهو رئيس وزراء حكومة تصريف الأعمال."
+   ]
+  },
+  {
+   "id": "45772cc0d7d9",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/a-new-political-balance-in-washington/article71669743.ece",
+   "date": "2026-11-05T18:03:40Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 8,
+   "title": "A new political balance in Washington",
+   "title_en": "A new political balance in Washington",
+   "summary_en": "Following decisive midterm victories for the Democrats, President Donald Trump faces the remainder of his term as a lame-duck leader.",
+   "body_en": [
+    "The midterm election results are being interpreted as a repudiation of President Trump's policies, including his aggressive unilateral trade measures and the military campaign against Iran.",
+    "With a dominant presence in Congress, Democrats could potentially use constitutional powers such as the 'power of the purse' and enact a Trade Promotion Authority to rein in the administration."
+   ],
+   "title_fa": "تعادل سیاسی جدید در واشنگتن",
+   "summary_fa": "به دنبال پیروزی‌های قاطع دموکرات‌ها در انتخابات میان‌دوره‌ای، دونالد ترامپ با باقی‌مانده دوران ریاست جمهوری خود به عنوان یک رئیس‌جمهور ضعیف روبه‌رو است.",
+   "body_fa": [
+    "نتایج انتخابات میان‌دوره‌ای به عنوان رد سیاست‌های دونالد ترامپ، از جمله اقدامات تجاری یکجانبه تهاجمی او و کمپین نظامی علیه ایران تعبیر می‌شود.",
+    "با حضور مسلط در کنگره، دموکرات‌ها به‌طور بالقوه می‌توانند از اختیارات قانون اساسی مانند «قدرت بودجه» استفاده کرده و برای مهار دولت، قانون ارتقای تجارت را به تصویب برسانند."
+   ],
+   "title_ar": "توازن سياسي جديد في واشنگتن",
+   "summary_ar": "في أعقاب انتصارات حاسمة للديمقراطيين في انتخابات التجديد النصفي، يواجه دونالد ترامب ما تبقى من ولايته كزعيم ضعيف.",
+   "body_ar": [
+    "تُفسر نتائج انتخابات التجديد النصفي على أنها رفض لسياسات دونالد ترامب، بما في ذلك إجراءاته التجارية الأحادية العدوانية والحملة العسكرية ضد إيران.",
+    "مع وجود حضور مهيمن في الكونغرس، يمكن للديمقراطيين استخدام الصلاحيات الدستورية مثل \"سلطة المال\" وإسناد تشريعات ترويج التجارة لكبح الإدارة."
    ]
   },
   {
@@ -652,66 +712,6 @@
    ]
   },
   {
-   "id": "2cd6fcd3313d",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042319/fcc-bars-phc-from-hearing-cases-related-to-pti-workers-preventive-detention",
-   "date": "2026-11-05T10:10:04Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "FCC bars PHC from hearing cases related to PTI workers' preventive detention",
-   "title_en": "FCC bars PHC from hearing cases related to PTI workers' preventive detention",
-   "summary_en": "Pakistan's Federal Constitutional Court has barred the Peshawar High Court from hearing petitions concerning the preventive detention of PTI activists under Article 245 of the Constitution. The two-judge bench ordered that high court proceedings remain suspended while armed forces act in aid of civil power in Khyber Pakhtunkhwa.",
-   "body_en": [
-    "The bench, headed by Chief Justice Aminuddin Khan, issued the ruling while hearing appeals against interim bail orders granted by the Peshawar High Court to detained activists. The decision follows the federal government's deployment of the Pakistan Army in the province after the imposition of emergency and governor's rule on October 11.",
-    "The court directed the Khyber Pakhtunkhwa advocate general to submit a report within seven days specifying the areas where armed forces deployment is no longer required. The court stated it would evaluate the report and constitutional questions regarding high court jurisdiction before issuing a final pronouncement."
-   ],
-   "title_fa": "دادگاه قانون اساسی فدرال، دادگاه عالی پیشاور را از رسیدگی به پرونده‌های بازداشت بازدارنده فعالان پی‌تی‌آی منع کرد",
-   "summary_fa": "دادگاه قانون اساسی فدرال پاکستان، دادگاه عالی پیشاور را طبق اصل ۲۴۵ قانون اساسی از رسیدگی به دادخواست‌های مربوط به بازداشت بازدارنده فعالان حزب تحریک انصاف (پی‌تی‌آی) منع کرد. هیئت دو نفره قضات دستور داد که همزمان با فعالیت نیروهای مسلح در جهت کمک به نیروهای غیرنظامی در خیبر پختونخوا، رسیدگی‌های دادگاه عالی معلق بماند.",
-   "body_fa": [
-    "این هیئت به ریاست امین‌الدین خان، قاضی ارشد، این حکم را در جریان رسیدگی به فرجام‌خواهی‌ها علیه دستورات قرار وثیقه موقت صادره از سوی دادگاه عالی پیشاور برای فعالان بازداشتی صادر کرد. این تصمیم پس از استقرار ارتش پاکستان در این ایالت توسط دولت فدرال در پی اعلام وضعیت فوق‌العاده و حکومت فرمانداری در ۱۱ اکتبر اتخاذ شد.",
-    "دادگاه به دادستان کل خیبر پختونخوا دستور داد ظرف هفت روز گزارشی ارائه دهد که در آن مناطق بی‌نیاز از استقرار نیروهای مسلح مشخص شده باشد. دادگاه اعلام کرد که پیش از صدور رای نهایی، این گزارش و پرسش‌های قانون اساسی درباره صلاحیت دادگاه عالی را بررسی خواهد کرد."
-   ],
-   "title_ar": "المحكمة الدستورية الاتحادية تمنع محكمة بيشاور العليا من النظر في قضايا الاحتجاز الوقائي لناشطي حركة الإنصاف",
-   "summary_ar": "منعت المحكمة الدستورية الاتحادية الباكستانية محكمة بيشاور العليا من النظر في العرائض المتعلقة بالاحتجاز الوقائي لناشطي حركة الإنصاف بموجب المادة 245 من الدستور. وأمرت هيئة المحكمة المكونة من قاضيين بإيقاف إجراءات المحكمة العليا طالما تعمل القوات المسلحة لمساعدة السلطة المدنية في خیبر بختونخوا.",
-   "body_ar": [
-    "أصدرت الهيئة برئاسة رئيس القضاة أمين الدين خان القرار أثناء النظر في طعون ضد قرارات الكفالة المؤقتة التي منحتها محكمة بيشاور العليا للناشطين المحتجزين. ويأتي هذا القرار بعد نشر الحكومة الاتحادية للجيش الباكستاني في الإقليم عقب فرض حالة الطوارئ وحكم المحافظ في 11 أكتوبر.",
-    "ووجّهت المحكمة المدعي العام لخيبر بختونخوا بتقديم تقرير خلال سبعة أيام يحدد المناطق التي لم تعد بحاجة لنشر القوات المسلحة. وذكرت المحكمة أنها ستُقيّم التقرير والمسائل الدستورية المتعلقة باختصاص المحكمة العليا قبل إصدار حكم نهائي."
-   ]
-  },
-  {
-   "id": "bcfb29a76825",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042324/ecp-fixes-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-polls-delayed-in-kp",
-   "date": "2026-11-05T10:08:17Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "ECP fixes Feb 7 as polling date for first phase of Punjab local govt elections; polls delayed in KP",
-   "title_en": "ECP fixes Feb 7 as polling date for first phase of Punjab local govt elections; polls delayed in KP",
-   "summary_en": "The Election Commission of Pakistan has scheduled the first phase of Punjab's local government elections for February 7, 2027, citing winter weather and logistical requirements. Meanwhile, local elections in Khyber Pakhtunkhwa have been postponed until further notice following federal emergency measures.",
-   "body_en": [
-    "The decision was announced by a four-member ECP bench following a request from Punjab administrative officials to push back the originally proposed December date. Officials argued that heavy fog and shorter daylight hours in December and January would hinder voter turnout and election administration.",
-    "In Khyber Pakhtunkhwa, all election preparations were halted after the federal government extended the suspension of constitutional provisions regarding local governments across the province. Local body elections in Punjab have faced repeated postponements since the previous councils completed their terms in late 2021."
-   ],
-   "title_fa": "کمیسیون انتخابات پاکستان ۷ فوریه را به عنوان تاریخ رای‌گیری مرحله اول انتخابات شوراهای محلی پنجاب تعیین کرد؛ تعویق انتخابات در خیبر پختونخوا",
-   "summary_fa": "کمیسیون انتخابات پاکستان با اشاره به شرایط آب‌وهوایی زمستان و الزامات تدارکاتی، تاریخ مرحله اول انتخابات شوراهای محلی پنجاب را برای ۷ فوریه ۲۰۲۷ برنامه‌ریزی کرد. در همین حال، انتخابات محلی در خیبر پختونخوا در پی اقدامات اضطراری فدرال تا اطلاع ثانوی به تعویق افتاد.",
-   "body_fa": [
-    "این تصمیم توسط یک هیئت چهار نفره از کمیسیون انتخابات پس از درخواست مقامات اداری پنجاب برای به عقب انداختن تاریخ پیشنهادی اولیه در دسامبر اعلام شد. مقامات استدلال کردند که مه سنگین و ساعات کوتاه‌تر روز در دسامبر و ژانویه مانع از حضور رای‌دهندگان و مدیریت انتخابات می‌شود.",
-    "در خیبر پختونخوا، پس از آنکه دولت فدرال تعلیق اصول قانون اساسی مربوط به شوراهای محلی را به سراسر ایالت گسترش داد، تمامی مقدمات انتخابات متوقف شد. انتخابات نهادهای محلی در پنجاب از زمان پایان دوره شوراهای قبلی در اواخر سال ۲۰۲۱ با تعویق‌های مکرر مواجه شده است."
-   ],
-   "title_ar": "جنة الانتخابات الباكستانية تحدد 7 فبراير موعدًا للاقتراع في المرحلة الأولى من انتخابات الحكم المحلي في البنجاب؛ وتأجيل الانتخابات في خيبر بختونخوا",
-   "summary_ar": "حددت لجنة الانتخابات الباكستانية المرحلة الأولى من انتخابات الحكم المحلي في البنجاب في 7 فبراير 2027، مرجعة ذلك إلى الأحوال الجوية الشتوية والمتطلبات اللوجستية. في غضون ذلك، تقرر تأجيل الانتخابات المحلية في خيبر بختونخوا حتى إشعار آخر عقب التدابير الاتحادية الطارئة.",
-   "body_ar": [
-    "أعلنت هيئة مكونة من أربعة أعضاء في لجنة الانتخابات القرار بعد طلب من المسؤولين الإداريين في البنجاب بتأجيل الموعد المقترح سابقًا في ديسمبر. ودفع المسؤولون بأن الضباب كثيف وقصر ساعات النهار في ديسمبر ويناير يعيقان إقبال الناخبين وإدارة الانتخابات.",
-    "وفي خيبر بختونخوا، أُوقفت جميع التحضيرات الانتخابية بعد أن وسّعت الحكومة الاتحادية تعليق الأحكام الدستورية المتعلقة بالحكومات المحلية في جميع أنحاء الإقليم. وتواجه انتخابات المجالس المحلية في البنجاب تأجيلات متكررة منذ انتهاء ولاية المجالس السابقة في أواخر عام 2021."
-   ]
-  },
-  {
    "id": "029a75e7dbe1",
    "lang": "en",
    "source": "Al Jazeera",
@@ -802,36 +802,6 @@
    ]
   },
   {
-   "id": "a25dd1357122",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
-   "date": "2026-11-05T06:10:51Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
-   "title_en": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
-   "summary_en": "An interview given by jailed Indian Muslim scholar Sharjeel Imam from his prison cell has sparked a major debate over the political representation and rights of Muslims in the country.",
-   "body_en": [
-    "In the interview with an Indian news website, Imam criticized the Indian constitution and described the country's secularism as Islamophobic, arguing that democracy has been used to deny Muslims their rights. He also accused independent India's founders and pro-secular liberals of sharing core ideas with Hindu nationalists.",
-    "Imam was arrested in January 2020 following nationwide protests against a controversial citizenship law passed by Prime Minister Narendra Modi's government. While his remarks drew criticism from some legal scholars for oversimplifying political diversity among Muslims, other academics noted that his raising of historical and ideological questions is significant."
-   ],
-   "title_fa": "آیا دموکراسی هند در برابر مسلمانان این کشور شکست خورده است؟ مناظره‌ای که یک پژوهشگر زندانی به راه انداخت",
-   "summary_fa": "مصاحبه‌ای از زندان توسط شرجیل امام، پژوهشگر مسلمان هندی، بحث گسترده‌ای را درباره نمایندگی سیاسی و حقوق مسلمانان در این کشور برانگیخته است.",
-   "body_fa": [
-    "امام در مصاحبه با یک وب‌سایت خبری هندی، قانون اساسی این کشور را نقد کرد و سکولاریسم آن را اسلام‌ستیزانه خواند و استدلال کرد که از دموکراسی برای محروم کردن مسلمانان از حقوقشان استفاده شده است. او همچنین بنیانگذاران هند مستقل و لیبرال‌های طرفدار سکولاریسم را متهم کرد که ایده‌های اصلی مشابهی با ملی‌گرایان هندو دارند.",
-    "امام در ژانویه ۲۰۲۰ به دنبال اعتراضات سراسری علیه قانون جنجالی شهروندی که توسط دولت نخست‌وزیر نارندرا مودی تصویب شد، بازداشت شد. در حالی که سخنان او از سوی برخی حقوقدانان به دلیل ساده‌سازی بیش از حد تنوع سیاسی در میان مسلمانان مورد انتقاد قرار گرفت، برخی دیگر از دانشگاهیان طرح پرسش‌های تاریخی و ایدئولوژیک توسط او را حائز اهمیت دانستند."
-   ],
-   "title_ar": "هل فشلت دموکراسی الهند في حماية مسلميها؟ باحث مسجون يثير جدلاً واسعاً",
-   "summary_ar": "أثار حوار أجراه الباحث المسلم الهندي المسجون شارجيل إمام من محبسه جدلاً واسعاً حول التمثيل السياسي وحقوق المسلمين في البلاد.",
-   "body_ar": [
-    "انتقد إمام، في مقابلة مع موقع إخباري هندي، الدستور الهندي ووصف علمانية البلاد بأنها معادية للإسلام، معتبراً أن الديموقراطية استُخدمت لحرمان المسلمين من حقوقهم. كما اتهم مؤسسي الهند المستقلة والليبراليين المؤيدين للعلمانية بمشاركة القوميين الهندوس أفكارهم الأساسية.",
-    "أُلقي القبض على إمام في يناير 2020 عقب احتجاجات واسعة النطاق ضد قانون مثير للجدل للجنسية أقرته حكومة رئيس الوزراء ناريندرا مودي. وفي حين تعرضت تصريحاته لانتقادات من بعض الباحثين القانونيين بسبب تبسيطها للتنوع السياسي بين المسلمين، أشار أكاديميون آخرون إلى أهمية طرحه للأسئلة التاريخية والأيديولوجية."
-   ]
-  },
-  {
    "id": "444853f1d6b1",
    "lang": "en",
    "source": "The Guardian",
@@ -890,6 +860,67 @@
    "body_ar": [
     "وُقعت الاتفاقيات يوم الأربعاء خلال زيارة الشرع الثانية إلى الرياض في أقل من شهر. ووفقاً لوزارة الخارجية السورية، تعد اتفاقية الدفاع أبرز الصفقات، وذلك أعقاب مناقشات جرت مؤخراً حول احتمال انضمام سوريا إلى حلف دفاعي مشترك يضم السعودية وتركيا وباكستان.",
     "بالإضافة إلى ذلك، وافق الصندوق السعودي للتنمية على تقديم 403 ملايين دولار عبر ستة قروض ميسرة لدعم قطاعات الرعاية الصحية والإسكان والدفاع المدني وتوليد الطاقة ومياه الشرب في سوريا. كما وقعت الحكومتان مذكرات تفاهم تشمل التعاون الصناعي والزراعة وحماية البيئة."
+   ]
+  },
+  {
+   "id": "81754acaeee1",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+   "date": "2026-11-05T03:22:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+   "title_en": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+   "summary_en": "Hours after his party suffered historic losses in the midterm elections, U.S. President Donald Trump held a public event focused on the construction of a new White House ballroom.",
+   "body_en": [
+    "Mr. Trump met with construction workers to mark the installation of the final steel beam for the ballroom project amidst questions regarding his administration's unpopular war with Iran and potential impeachment by a newly Democratic Congress.",
+    "The President defended his focus on prestige projects in Washington, stating that the ballroom was relaxing and for the glory of the country, despite calls from some Republican strategists to shift focus to economic concerns."
+   ],
+   "title_fa": "پس از شکست جمهوری‌خواهان، ترامپ اولین رویداد پس از میان‌دوره‌ای را به سالن رقص کاخ سفید اختصاص داد",
+   "summary_fa": "چند ساعت پس از متحمل شدن شکست‌های تاریخی حزب خود در انتخابات میان‌دوره‌ای، دونالد ترامپ، رئیس‌جمهور آمریکا، رویداد عمومی را با تمرکز بر ساخت سالن رقص جدید کاخ سفید برگزار کرد.",
+   "body_fa": [
+    "دونالد ترامپ در میان پرسش‌هایی درباره جنگ نامحبوب دولت خود با ایران و احتمال استیضاح توسط کنگره جدید با اکثریت دموکرات، با کارگران ساختمانی دیدار کرد تا نصب آخرین تیر فولادی پروژه سالن رقص را گرامی بدارد.",
+    "این رئیس‌جمهور از تمرکز خود بر پروژه‌های تشریفاتی در واشنگتن دفاع کرد و اظهار داشت که سالن رقص آرامش‌بخش و برای افتخار کشور است، علی‌رغم اینکه برخی از استراتژیست‌های جمهوری‌خواه خواستار تغییر تمرکز به سمت دغدغه‌های اقتصادی شده بودند."
+   ],
+   "title_ar": "بعد هزيمة الجمهوريين، ترامب يخصص أول حدث بعد الانتخابات النصفية لقاعة الاحتفالات في البيت الأبيض",
+   "summary_ar": "بعد ساعات من تعرض حزبه لخسائر تاريخية في انتخابات التجديد النصفي، عقد الرئيس الأمريكي دونالد ترامب حدثاً عاماً تركز على بناء قاعة احتفالات جديدة في البيت الأبيض.",
+   "body_ar": [
+    "التقى دونالد ترامب بعمال البناء للاحتفال بتثبيت العوارض الفولاذية الأخيرة لمشروع قاعة الاحتفالات وسط أسئلة تتعلق بحرب إدارته غير الشعبية مع إيران والاحتمال المتوقع لعزله من قبل كونغرس ذي أغلبية ديمقراطية.",
+    "دافع الرئيس عن تركيزه على مشاريع الهيبة في واشنگتن، مشيراً إلى أن قاعة الاحتفالات مريحة ولصالح مجد البلاد، على الرغم من دعوات بعض الاستراتيجيين الجمهوريين لتحويل التركيز إلى المخاوف الاقتصادية."
+   ]
+  },
+  {
+   "id": "c03e480f120a",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+   "date": "2026-11-05T02:18:26Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "score": 7,
+   "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "title_en": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "summary_en": "The U.S. midterm election results are expected to have a greater impact on global geopolitics and India's operating environment than on direct bilateral relations.",
+   "body_en": [
+    "With Democrats securing majorities in the House and Senate, U.S. President Donald Trump will face domestic and foreign policy constraints.",
+    "While Mr. Trump acknowledged that his decision to attack Iran in February 2026 contributed to Republican losses, New Delhi will closely watch whether this leads to an early exit from the conflict."
+   ],
+   "title_fa": "نتایج میان‌دوره‌ای آمریکا ممکن است برای روابط هند و آمریکا کمتر از فضای مانور هند در ژئوپلیتیک اهمیت داشته باشد",
+   "summary_fa": "انتظار می‌رود نتایج انتخابات میان‌دوره‌ای آمریکا تأثیر بیشتری بر ژئوپلیتیک جهانی و محیط عملیاتی هند داشته باشد تا بر روابط دوجانبه مستقیم.",
+   "body_fa": [
+    "با به دست آوردن اکثریت در مجلس نمایندگان و سنا توسط دموکرات‌ها، دونالد ترامپ، رئیس‌جمهور آمریکا، با محدودیت‌های سیاست داخلی و خارجی روبه‌رو خواهد شد.",
+    "در حالی که دونالد ترامپ اذعان کرد که تصمیم او برای حمله به ایران در فوریه ۲۰۲۶ در شکست‌های جمهوری‌خواهان نقش داشته است، دهلی نو به دقت زیر نظر خواهد داشت که آیا این امر منجر به خروج زودهنگام از درگیری می‌شود یا خیر."
+   ],
+   "title_ar": "نتائج التجديد النصفي في أمريكا قد تكون أقل أهمية للعلاقات الهندية الأمريكية مقارنة بمساحة مناورة الهند في الجيوسياسة",
+   "summary_ar": "من المتوقع أن يكون لنتائج انتخابات التجديد النصفي الأمريكية تأثير أكبر على الجيوسياسة العالمية وبيئة عمل الهند مقارنة بالعلاقات الثنائية المباشرة.",
+   "body_ar": [
+    "مع حصول الديمقراطيين على الأغلبية في مجلس النواب والشيوخ، سيواجه الرئيس الأمريكي دونالد ترامب قيوداً على السياسة الداخلية والخارجية.",
+    "وفي حين أقر دونالد ترامب بأن قرار مهاجمة إيران في فبراير 2026 ساهم في خسائر الجمهوريين، ستراقب نيودلهي عن كثب ما إذا كان ذلك سيؤدي إلى خروج مبكر من الصراع."
    ]
   },
   {
