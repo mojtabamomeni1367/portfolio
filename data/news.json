@@ -1,7 +1,188 @@
 {
- "updated": "2026-11-07T04:02:40Z",
- "count": 426,
+ "updated": "2026-11-07T07:17:56Z",
+ "count": 432,
  "items": [
+  {
+   "id": "6da1f10b9d2e",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+   "date": "2026-11-07T07:00:04Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 9,
+   "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+   "title_en": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+   "summary_en": "Qatar has proposed a phased plan under which the United States would lift its naval blockade and unfreeze Iranian assets in exchange for Iran permitting UN nuclear inspections and reopening the Strait of Hormuz.",
+   "body_en": [
+    "Under the proposal discussed between Qatari Emir Sheikh Tamim bin Hamad al-Thani and US President Donald Trump, Washington would immediately lift its naval blockade in the Strait of Hormuz and unfreeze part of $8 billion in Iranian assets. In return, International Atomic Energy Agency inspectors would be allowed to visit bombed Iranian nuclear sites based on an agreement reached in Cairo in September 2025.",
+    "Iran would reopen the Strait of Hormuz on the second day via a route negotiated with Oman and submitted to the International Maritime Organization. Tehran continues to seek additional conditions, including an end to the war in Lebanon, the withdrawal of US forces from its coastline, sanctions relief, and war reparations."
+   ],
+   "title_fa": "تنگه هرمز می‌تواند در قالب طرح قطر برای بازرسی‌های هسته‌ای ایران بازگشایی شود",
+   "summary_fa": "قطر طرحی مرحله‌ای پیشنهاد کرده است که بر اساس آن ایالات متحده محاصره دریایی را لغو کرده و دارایی‌های بلوکه‌شده ایران را آزاد می‌کند در ازای آنکه ایران اجازه بازرسی‌های هسته‌ای سازمان ملل را داده و تنگه هرمز را بازگشایی کند.",
+   "body_fa": [
+    "طبق این پیشنهاد که در گفتگو میان شیخ تمیم بن حمد آل ثانی، امیر قطر، و دونالد ترامپ، رئیس‌جمهور آمریکا، مطرح شد، واشنگتن محاصره دریایی خود در تنگه هرمز را بلافاصله لغو کرده و بخشی از ۸ میلیارد دلار دارایی‌های بلوکه‌شده ایران را آزاد می‌کند. در مقابل، به بازرسان آژانس بین‌المللی انرژی اتمی اجازه داده می‌شود بر اساس توافق سپتامبر ۲۰۲۵ قاهره از سایت‌های هسته‌ای بمباران‌شده ایران بازدید کنند.",
+    "ایران در روز دوم، تنگه هرمز را از طریق مسیری که با عمان مذاکره کرده و به سازمان بین‌المللی دریانوردی ارائه می‌شود، بازگشایی خواهد کرد. با این حال، تهران همچنان خواستار شروط دیگری از جمله پایان جنگ در لبنان، خروج نیروهای آمریکایی از خطوط ساحلی خود، لغو تحریم‌ها و پرداخت غرامت جنگی است."
+   ],
+   "title_ar": "إمكانية إعادة فتح مضيق هرمز كجزء من خطة قطرية للتفتيش على النووي الإيراني",
+   "summary_ar": "اقترحت قطر خطة مرحلية تقوم بموجبها الولايات المتحدة برفع الحظر البحري وإلغاء تجميد الأصول الإيرانية مقابل سماح إيران بالتفتيش النووي للأمم المتحدة وإعادة فتح مضيق هرمز.",
+   "body_ar": [
+    "بموجب المقترح الذي ناقشه أمير قطر الشيخ تميم بن حمد آل ثاني مع الرئيس الأمريكي دونالد ترامب، سترفع واشنطن حظرها البحري في مضيق هرمز فوراً وتفرج عن جزء من الأصول الإيرانية المجمدة البالغة 8 مليارات دولار. في المقابل، يُسمح لمفتشي الوكالة الدولية للطاقة الذرية بزيارة المواقع النووية الإيرانية التي تعرضت للقصف بناءً على اتفاق القاهرة المبرم في سبتمبر 2025.",
+    "وتقوم إيران بإعادة فتح مضيق هرمز في اليوم الثاني عبر مسار تم التفاوض عليه مع عمان وإيداعه لدى المنظمة البحرية الدولية. وتواصل تهران المطالبة بشروط إضافية تشتمل على إنهاء الحرب في لبنان، وانسحاب القوات الأمريكية من سواحلها، ورفع العقوبات الاقتصادية، ودفع تعويضات الحرب."
+   ]
+  },
+  {
+   "id": "d16055133bfa",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+   "date": "2026-11-07T06:26:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "How the Iran war helped Democrats win the midterms",
+   "title_en": "How the Iran war helped Democrats win the midterms",
+   "summary_en": "The political fallout from the US conflict with Iran fueled voter discontent over the cost of living and foreign policy, helping Democrats win control of the House and Senate in the midterm elections.",
+   "body_en": [
+    "The war brought economic costs into American homes, notably by restricting shipping through the Strait of Hormuz and driving up everyday prices. Voters expressed widespread discontent with the conflict's lack of strategic goals and its impact on the economy, alongside broader frustrations with Washington's leadership and ties to Israel.",
+    "Following the vote, Vice President JD Vance acknowledged on social media that the war was the reason for the Republican loss. He highlighted voter demands to end the war, focus on the cost of living, put America first, and change the relationship with Israel."
+   ],
+   "title_fa": "چگونه جنگ ایران به دموکرات‌ها کمک کرد در انتخابات میان‌دوره‌ای پیروز شوند",
+   "summary_fa": "پیامدهای سیاسی درگیری ایالات متحده با ایران نارضایتی رأی‌دهندگان از هزینه زندگی و سیاست خارجی را دامن زد و به دموکرات‌ها کمک کرد کنترل مجلس نمایندگان و سنا را در انتخابات میان‌دوره‌ای به دست آورند.",
+   "body_fa": [
+    "این جنگ هزینه‌های اقتصادی را به خانه‌های آمریکایی کشاند، به ویژه با محدود کردن کشتیرانی در تنگه هرمز و افزایش قیمت‌های روزمره. رأی‌دهندگان نارضایتی گسترده خود را از عدم وجود اهداف استراتژیک در این درگیری و تأثیر آن بر اقتصاد، در کنار ناامیدی‌های گسترده‌تر از رهبری واشنگتن و روابط با اسرائیل ابراز کردند.",
+    "پس از رأی‌گیری، جی‌دی ونس، معاون رئیس‌جمهور، در رسانه‌های اجتماعی اذعان کرد که جنگ دلیل شکست جمهوری‌خواهان بوده است. او بر مطالبات رأی‌دهندگان برای پایان دادن به جنگ، تمرکز بر هزینه زندگی، اولویت دادن به آمریکا و تغییر رابطه با اسرائیل تأکید کرد."
+   ],
+   "title_ar": "كيف ساعدت حرب إيران الديمقراطيين على الفوز في انتخابات التجديد النصفي",
+   "summary_ar": "أدت التداعيات السياسية للصراع الأمريكي مع إيران إلى تغذية استياء الناخبين بشأن تكلفة المعيشة والسياسة الخارجية، مما ساعد الديمقراطيين على الفوز السيطرة على مجلسي النواب والشيوخ في انتخابات التجديد النصفي.",
+   "body_ar": [
+    "جلبت الحرب تكاليف اقتصادية إلى المنازل الأمريكية، لا سيما من خلال تقييد الشحن عبر مضيق هرمز ورفع الأسعار اليومية. وأعرب الناخبون عن استياء واسع النطاق من افتقار الصراع إلى أهداف استراتيجية وتأثيره على الاقتصاد، إلى جانب الإحباطات الأوسع نطاقاً من قيادة واشنطن وعلاقاتها مع إسرائيل.",
+    "في أعقاب التصويت، أقر نائب الرئيس جيه دي فانس على وسائل التواصل الاجتماعي بأن الحرب كانت سبباً خسارة الجمهوريين. وسلط الضوء على مطالب الناخبين بإنهاء الحرب، والتركيز على تكلفة المعيشة، ووضع أمريكا أولاً، وتغيير العلاقة مع إسرائيل."
+   ]
+  },
+  {
+   "id": "7afa583ecee2",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042798/iran-says-forces-stronger-than-at-beginning-of-war",
+   "date": "2026-11-07T05:29:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran says forces ‘stronger’ than at beginning of war",
+   "title_en": "Iran says forces ‘stronger’ than at beginning of war",
+   "summary_en": "An Iranian military spokesman stated that the country's armed forces have become stronger and more alert through direct confrontation with the US and Israel, maintaining that the Strait of Hormuz will remain closed until Tehran's demands are met.",
+   "body_en": [
+    "Iranian army spokesman Mohammad Akraminia told state news agency IRNA that Iranian forces possess enhanced motivation and self-confidence after months of conflict. He added that any response ordered by Supreme Leader Ali Khamenei would be immediate and without geographical limits.",
+    "The statement comes alongside Iranian reports of explosions on Qeshm Island and claims by the Iranian military that its air defenses shot down a US drone in the area. Meanwhile, US President Donald Trump noted that Iran is eager for a deal, following a phone call with Qatari Emir Sheikh Tamim bin Hamad Al Thani regarding peace efforts."
+   ],
+   "title_fa": "ایران می‌گوید نیروهایش «قوی‌تر» از آغاز جنگ هستند",
+   "summary_fa": "سخنگوی ارتش ایران اعلام کرد نیروهای مسلح کشور از طریق رویارویی مستقیم با آمریکا و اسرائیل قوی‌تر و هوشیارتر شده‌اند و تاکید کرد تنگه هرمز تا زمان برآورده شدن خواسته‌های تهران بسته خواهد ماند.",
+   "body_fa": [
+    "محمد اکرمی‌نیا، سخنگوی ارتش ایران، به خبرگزاری دولتی ایرنا گفت نیروهای ایرانی پس از ماه‌ها درگیری از انگیزه و اعتمادبه‌نفس بالاتری برخوردارند. وی افزود هرگونه پاسخ به دستور علی خامنه‌ای، رهبر معظم، فوری و بدون محدودیت جغرافیایی خواهد بود.",
+    "این اظهارات هم‌زمان با گزارش‌های ایران درباره وقوع انفجارها در جزیره قشم و ادعای ارتش ایران مبنی بر سرنگونی یک پهپاد آمریکایی توسط پدافند هوایی در این منطقه مطرح می‌شود. در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، پس از تماس تلفنی با شیخ تمیم بن حمد آل ثانی، امیر قطر، درباره تلاش‌های صلح، اشاره کرد که ایران مشتاق توافق است."
+   ],
+   "title_ar": "إيران تقول إن قواتها \"أقوى\" مما كانت عليه في بداية الحرب",
+   "summary_ar": "صرح متحدث باسم الجيش الإيراني بأن القوات المسلحة للبلاد أصبحت أقوى وأكثر تأهباً من خلال المواجهة المباشرة مع الولايات المتحدة وإسرائيل، مؤكداً أن مضيق هرمز سيبقى مغلقاً حتى تلبية مطالب تهران.",
+   "body_ar": [
+    "صرح متحدث الجيش الإيراني محمد أكرمينيا لوكالة الأنباء الرسمية إرنا بأن القوات الإيرانية تمتلك دافعية وثقة بالنفس أعلى بعد أشهر من الصراع. وأضاف أن أي رد بأمر من المرشد الأعلى علي خامنئي سيكون فورياً ودون حدود جغرافية.",
+    "تأتي هذه التصريحات بالتزامن مع تقارير إيرانية عن وقوع انفجارات في جزيرة قشم وإعلان الجيش الإيراني إسقاط دفاعاته الجوية لطائرة مسيرة أمريكية في المنطقة. من جهته، أشار الرئيس الأمريكي دونالد ترامب إلى أن إيران حريصة على التوصل إلى اتفاق، عقب اتصال هاتفي مع أمير قطر الشيخ تميم بن حمد آل ثاني بشأن جهود السلام."
+   ]
+  },
+  {
+   "id": "853c9ccd2c08",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+   "date": "2026-11-07T05:12:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+   "title_en": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+   "summary_en": "The US Department of State's Rewards for Justice program is offering up to $20 million and potential relocation for information regarding Iran's nuclear program, CENTCOM announced.",
+   "body_en": [
+    "According to US Central Command, the reward program targets details about Iranian nuclear facilities, equipment, and associated personnel such as scientists. The State Department stated that Iran's non-compliance with IAEA safeguards led to a loss of key monitoring capabilities regarding centrifuge production and inventory.",
+    "President Donald Trump reiterated that Tehran is eager to reach a deal to conclude the eight-month war, noting that Iran's economy and military have been severely damaged. Meanwhile, Iranian President Masoud Pezeshkian confirmed his administration continues to pursue a diplomatic solution to the crisis."
+   ],
+   "title_fa": "سنتکام: ایالات متحده برای اطلاعات درباره «برنامه هسته‌ای ایران» ۲۰ میلیون دلار پاداش تعیین کرد",
+   "summary_fa": "فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد برنامه پاداش برای عدالت وزارت امور خارجه ایالات متحده تا ۲۰ میلیون دلار پاداش و احتمال جابه‌جایی برای اطلاعات مربوط به برنامه هسته‌ای ایران پیشنهاد می‌کند.",
+   "body_fa": [
+    "به گفته فرماندهی مرکزی آمریکا، این برنامه پاداش شامل جزئیات مربوط به تأسیسات، تجهیزات و پرسنل مرتبط مانند دانشمندان هسته‌ای ایران می‌شود. وزارت امور خارجه آمریکا اعلام کرد عدم پایبندی ایران به پادمان‌های آژانس بین‌المللی انرژی اتمی باعث از دست رفتن قابلیت‌های کلیدی نظارتی در مورد تولید و موجودی سانتریفیوژها شده است.",
+    "دونالد ترامپ، رئیس‌جمهور آمریکا، تکرار کرد که تهران پس از آسیب‌های شدید اقتصادی و نظامی در طول هشت ماه جنگ، تمایل زیادی برای دستیابی به توافق دارد. در همین حال، مسعود پزشکیان، رئیس‌جمهور ایران، تأیید کرد که دولتش همچنان به دنبال حل بحران از طریق گفتگو است."
+   ],
+   "title_ar": "سنتكوم: الولايات المتحدة تقدم پاداشاً بقيمة 20 مليون دولار مقابل معلومات عن \"البرنامج النووي الإيراني\"",
+   "summary_ar": "أعلنت القيادة المركزية الأمريكية (سنتكوم) أن برنامج \"مكافآت من أجل العدالة\" التابع لوزارة الخارجية الأمريكية يقدم مكافأة تصل إلى 20 مليون دولار وإمكانية إعادة التوطين مقابل معلومات تتعلق بالبرنامج النووي الإيراني.",
+   "body_ar": [
+    "وفقاً للقيادة المركزية الأمريكية، يستهدف برنامج المكافآت التفاصيل المتعلقة بالمنشآت والمعدات والكوادر المرتبطة بالبرنامج النووي الإيراني مثل العلماء. وذكرت وزارة الخارجية أن عدم التزام إيران بضمانات الوكالة الدولية للطاقة الذرية أدى إلى فقدان القدرة على متابعة إنتاج أجهزة الطرد المركزي ومخزونها.",
+    "وجدد الرئيس دونالد ترامب تأكيده أن تهران حريصة على التوصل إلى صفقة لإنهاء الحرب المستمرة منذ ثمانية أشهر، مشيراً إلى تعرض اقتصادها وجيشها لأضرار جسيمة. وفي الوقت نفسه، أكد الرئيس الإيراني مسعود بزشكيان أن حكومته ما زالت تسعى لحل الأزمة عبر الحوار."
+   ]
+  },
+  {
+   "id": "ccbb949a8cd3",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+   "date": "2026-11-07T04:50:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+   "title_en": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+   "summary_en": "The United States has imposed sanctions on eight Canadian currency-exchange businesses accused of helping Iranian entities circumvent financial restrictions.",
+   "body_en": [
+    "The US Department of the Treasury announced the measures as part of Operation Economic Outcast, stating that some of the firms also laundered proceeds by converting currencies into digital assets. The sanctions cut the businesses off from the US financial system and froze their American assets.",
+    "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) stated that it worked with the US Financial Crimes Enforcement Network (FinCEN) to impose the sanctions against the money service businesses based in Ontario and British Columbia."
+   ],
+   "title_fa": "خزانه داری ایالات متحده هشت شرکت صرافی کانادایی را به دلیل ارتباط با ایران تحریم کرد",
+   "summary_fa": "ایالات متحده هشت صرافی کانادایی را به اتهام کمک به نهادهای ایرانی برای دور زدن تحریم‌های مالی تحت تحریم قرار داد.",
+   "body_fa": [
+    "وزارت خزانه‌داری ایالات متحده این اقدامات را به عنوان بخشی از عملیات طرد اقتصادی اعلام کرد و اظهار داشت که برخی از این شرکت‌ها همچنین با تبدیل ارزها به دارایی‌های دیجیتال، عواید حاصل را پولشویی کرده‌اند. این تحریم‌ها این کسب‌وکارها را از سیستم مالی ایالات متحده قطع و دارایی‌های آمریکایی آن‌ها را مسدود کرد.",
+    "مرکز تجزیه و تحلیل معاملات مالی و گزارش‌های کانادا (FINTRAC) اعلام کرد که با شبکه اجرای جرایم مالی ایالات متحده (FinCEN) برای اعمال تحریم‌ها علیه این کسب‌وکارهای خدمات پولی مستقر در انتاریو و بریتیش کلمبیا همکاری کرده است."
+   ],
+   "title_ar": "وزارة الخزانة الأمريكية تفرض عقوبات على ثرمز شركة صرافة كندية بسبب ارتباطها بإیران",
+   "summary_ar": "فرضی الولايات المتحدة عقوبات على ثرمز شركات صرافة كندية متهمة بمساعدة كيانات إيرانية على التحايل على القيود المالية.",
+   "body_ar": [
+    "أعلنت وزارة الخزانة الأمريكية عن هذه الإجراءات كجزء من عملية المنبوذ الاقتصادي، مشيرة إلى أن بعض الشركات قامت أيضاً بغسل الأموال عن طريق تحويل العملات إلى أصول رقمية. وأدت العقوبات إلى قطع هذه الشركات عن النظام المالي الأمريكي وتجميد أصولها الأمريكية.",
+    "صرح مركز تحليل المعاملات والتقارير المالية في كندا (FINTRAC) بأنه تعاون مع شبكة إنفاذ جرائم الممال المالية الأمريكية (FinCEN) لفرض العقوبات ضد شركات خدمات تحويل الأموال ومقرها في أونتاريو وكولومبيا البريطانية."
+   ]
+  },
+  {
+   "id": "87f3033a5d18",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+   "date": "2026-11-07T04:20:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+   "title_en": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+   "summary_en": "US President Donald Trump announced a minor military strike that destroyed a newly built Iranian anti-aircraft system, as Iran evaluates a Qatari proposal to resolve nuclear disputes and end the war.",
+   "body_en": [
+    "US forces struck an air defense target in the Suza area of Qeshm Island on Friday, with President Donald Trump characterizing the action as minor and completed quickly. Iranian state media confirmed explosions in the area. The strike represents the first US action against Iran since the US midterm elections.",
+    "Simultaneously, Iranian officials are reviewing trust-building proposals presented by Qatar. The two-day framework involves lifting the US blockade and unfreezing assets in exchange for allowing IAEA inspections at damaged nuclear facilities and reopening the Strait of Hormuz, before proceeding to broader talks."
+   ],
+   "title_fa": "حملات هدفمند جدید ارتش آمریکا به ایران در حال بررسی پیشنهادات میانجی توسط تهران",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، از یک حمله نظامی محدود خبر داد که طی آن یک سیستم پدافند هوایی تازه ساخته‌شده ایران منهدم شد، هم‌زمان با اینکه ایران در حال بررسی پیشنهاد قطر برای حل اختلافات هسته‌ای و پایان دادن به جنگ است.",
+   "body_fa": [
+    "نیروهای آمریکایی روز جمعه یک هدف پدافند هوایی را در منطقه سوزا در جزیره قشم هدف قرار دادند و دونالد ترامپ این اقدام را جزئی و سریع خواند. رسانه‌های دولتی ایران وقوع انفجارها در این منطقه را تأیید کردند. این نخستین حمله آمریکا به ایران پس از انتخابات میان‌دوره‌ای آمریکا محسوب می‌شود.",
+    "هم‌زمان، مقامات ایرانی در حال بررسی پیشنهادات اعتمادساز ارائه شده از سوی قطر هستند. این چارچوب دو روزه شامل لغو محاصره آمریکا و آزادکنی دارایی‌ها در ازای اجازه بازرسی‌های آژانس از تأسیسات آسیب‌دیده و بازگشایی تنگه هرمز، پیش از ورود به مذاکرات گسترده‌تر است."
+   ],
+   "title_ar": "الجيش الأمريكي ينفذ ضربات جديدة مستهدفة في إيران بينما تدرس تهران مقترحات الوسيط",
+   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب عن ضربة عسكرية محدودة دمرت نظاماً إيرانياً مضاداً للطائرات تم بناؤه حديثاً، في وقت تدرس فيه إيران مقترحاً قطرياً لحل الخلافات النووية وإنهاء الحرب.",
+   "body_ar": [
+    "استهدفت القوات الأمريكية هدفاً للدفاع الجوي في منطقة سوزا بجزيرة قشم يوم الجمعة، ووصف الرئيس دونالد ترامب العمل العسكري بأنه بسيط وتم بسرعة. وأكدت وسائل الإعلام الرسمية الإيرانية سماع دوى انفجارات في المنطقة. وتعد هذه الضربات الأولى منذ انتخابات المنتصف الأمريكية.",
+    "في الوقت نفسه، يدرس المسؤولون الإيرانيون مقترحات لبناء الثقة قدمتها قطر. ويتضمن الإطار الزمني الممتد ليومين رفع الحظر الأمريكي وإلغاء تجميد الأصول مقابل السماح بتفتيش الوكالة الدولية للطاقة الذرية للمنشآت النووية المتضررة وإعادة فتح مضيق هرمز، قبل الانتقال إلى محادثات أوسع."
+   ]
+  },
   {
    "id": "8acdf42e10a9",
    "lang": "en",
