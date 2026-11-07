@@ -1,7 +1,154 @@
 {
- "updated": "2026-11-07T15:54:32Z",
+ "updated": "2026-11-07T18:59:46Z",
  "count": 450,
  "items": [
+  {
+   "id": "f3d2de2b699c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-strikes-kill-least-27-yemens-sanaa-houthis-say",
+   "date": "2026-11-07T18:45:33Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
+   "title_en": "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
+   "summary_en": "At least 27 people, mostly women and children, were killed and 36 others wounded in Saudi-led coalition air strikes in Yemen's Sanaa province, according to Houthi health officials.",
+   "body_en": [
+    "The Houthi-run health ministry reported that the strikes hit the village of Al-Shariya, with Saba news agency adding that warplanes struck paramedics twice as rescuers worked to recover victims from the rubble.",
+    "In response, the Houthis claimed to have launched six missile and drone attacks against Saudi targets, including Aramco facilities and Riyadh airport. The Saudi-led coalition stated it intercepted a Houthi missile aimed at Riyadh province, while Yemeni government forces announced strikes on 875 Houthi locations as part of an offensive to retake territory."
+   ],
+   "title_fa": "حوثی‌ها: حملات ائتلاف تحت رهبری عربستان دست‌کم ۲۷ کشته در صنعای یمن بر جای گذاشت",
+   "summary_fa": "به گفته مقامات بهداشتی حوثی‌ها، در پی حملات هوایی ائتلاف به رهبری عربستان در استان صنعای یمن، دست‌کم ۲۷ نفر که بیشترشان زن و کودک بودند کشته و ۳۶ نفر دیگر زخمی شدند.",
+   "body_fa": [
+    "وزارت بهداشت تحت مدیریت حوثی‌ها گزارش داد که این حملات به روستای الشرعیه اصابت کرده است. خبرگزاری سبا نیز افزود که هواپیماهای جنگی در حالی که امدادگران مشغول بیرون کشیدن قربانیان از زیر آوار بودند، دو بار امدادگران را هدف قرار دادند.",
+    "در مقابل، حوثی‌ها مدعی شدند شش عملیات موشکی و پهپادی علیه اهدافی در عربستان، از جمله تاسیسات آرامکو و فرودگاه ریاض انجام داده‌اند. ائتلاف تحت رهبری عربستان اعلام کرد یک موشک حوثی‌ها را به سمت استان ریاض رهگیری و منهدم کرده است، در حالی که نیروهای دولتی یمن از هدف قرار دادن ۸۷۵ موضع حوثی‌ها در اطار یک بازپس‌گیری اراضی خبر دادند."
+   ],
+   "title_ar": "الحوثيون: غارات بقيادة السعودية تقتل 27 شخصاً على الأقل في صنعاء باليمن",
+   "summary_ar": "ووفقاً لوزارة الصحة التابعة للحوثيين، قُتل 27 شخصاً على الأقل، معظمهم من النساء والأطفال، وأُصيب 36 آخرون في غارات جوية للتحالف بقيادة السعودية في محافظة صنعاء باليمن.",
+   "body_ar": [
+    "وذكرت وزارة الصحة التابعة للحوثيين أن الغارات استهدفت قرية الشريعة، وأضافت وكالة سبأ للأنباء أن الطائرات الحربية استهدفت المسعفين مرتين أثناء عملهم على انتشال الضحايا من تحت الأنقاض.",
+    "في المقابل، قال الحوثيون إنهم نفذوا ست عمليات بالصواريخ والطائرات المسيرة ضد أهداف سعودية، شملت منشآت لشركة آرامكو ومطار الرياض. من جانبه، أعلن التحالف بقيادة السعودية اعتراض صواريخ للحوثيين باتجاه منطقة الرياض، بينما أعلنت القوات الحكومية اليمنية استهداف 875 موقعاً للحوثيين ضمن هجوم لاستعادة الأراضي."
+   ]
+  },
+  {
+   "id": "7da1e4d18a9a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-aramco-sites-riyadh-airport-and-troops",
+   "date": "2026-11-07T18:32:34Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
+   "title_en": "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
+   "summary_en": "Yemen's Houthis announced they conducted multiple missile and drone attacks against Saudi military infrastructure, troops, and oil facilities.",
+   "body_en": [
+    "According to Houthi military spokesman Yahya Saree, the group carried out six operations targeting Aramco oil facilities, Riyadh airport, and Saudi troops stationed along the border and inside Yemen.",
+    "Saree stated on X that the group will persist with attacks deep within Saudi Arabia to enforce their strategy of matching blockade with blockade and escalation with escalation."
+   ],
+   "title_fa": "حوثی‌ها مسئولیت حملات به تاسیسات آرامکو، فرودگاه ریاض و نیروهای سعودی را بر عهده گرفتند",
+   "summary_fa": "حوثی‌های یمن اعلام کردند که چندین حمله موشکی و پهپادی را علیه زیرساخت‌های نظامی، نیروها و تاسیسات نفتی عربستان سعودی انجام داده‌اند.",
+   "body_fa": [
+    "به گفته یحیی سریع، سخنگوی نظامی حوثی‌ها، این گروه شش عملیات انجام داده که تاسیسات نفتی آرامکو، فرودگاه ریاض و نیروها و تاسیسات نظامی عربستان را در دو طرف مرز و داخل یمن هدف قرار داده است.",
+    "سریع در شبکه‌های اجتماعی تاکید کرد که این گروه به عملیات در عمق خاک عربستان ادامه می‌دهد تا معادله تقابل پایاپای را تحمیل کند."
+   ],
+   "title_ar": "الحوثيون يعلنون مسؤوليتهم عن هجمات استهدفت منشآت لشركة أرامكو ومطار الرياض وقوات سعودية",
+   "summary_ar": "أعلن الحوثيون في اليمن عن تنفيذ عدة هجمات بالصاروخ والطائرات المسيرة استهدفت بنية تحتية عسكرية وقوات ومنشآت نفطية سعودية.",
+   "body_ar": [
+    "وفقًا للمتحدث العسكري باسم الحوثيين يحيى سريع، نفذت الجماعة ست عمليات استهدفت منشآت نفطية لشركة أرامكو ومطار الرياض وقوات ومرافق عسكرية سعودية على جانبي الحدود وداخل اليمن.",
+    "وأكد سريع عبر منصة إكس أن الجماعة ستواصل عملياتها في عمق الأراضي السعودية لفرض معادلة الحصار بالحصار والتصعيد بالتصعيد."
+   ]
+  },
+  {
+   "id": "654d4d4352ba",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+   "date": "2026-11-07T17:39:23Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis report 25 killed in Yemen strikes",
+   "title_en": "Houthis report 25 killed in Yemen strikes",
+   "summary_en": "Yemen's Houthis stated that at least 25 people were killed and 30 injured in air strikes attributed to the Saudi-led coalition.",
+   "body_en": [
+    "According to Houthi-affiliated media, nine separate attacks targeted telecommunications networks located in the Sa'ada governorate."
+   ],
+   "title_fa": "حوثی‌ها از کشته شدن ۲۵ نفر در حملات یمن خبر دادند",
+   "summary_fa": "حوثی‌های یمن اعلام کردند که در پی حملات هوایی منتسب به ائتلاف تحت رهبری عربستان، دست‌کم ۲۵ نفر کشته و ۳۰ نفر زخمی شده‌اند.",
+   "body_fa": [
+    "به گزارش رسانه‌های وابسته به حوثی‌ها، نه حمله هوایی شبکه‌های ارتباطی را در استان صعده هدف قرار داده است."
+   ],
+   "title_ar": "الحوثيون يعلنون مقتل 25 شخصاً في غارات على اليمن",
+   "summary_ar": "أعلن الحوثيون في اليمن مقتل 25 شخصاً على الأقل وإصابة 30 آخرين في غارات جوية اتهموا التحالف بقيادة السعودية بشنها.",
+   "body_ar": [
+    "وبحسب وسائل إعلام تابعة للحوثيين، فإن تسع هجمات استهدفت شبكات الاتصالات في محافظة صعدة."
+   ]
+  },
+  {
+   "id": "48e1b5c23070",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+   "date": "2026-11-07T16:30:33Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 8,
+   "title": "Israel builds 90km network of military roads across southern Lebanon",
+   "title_en": "Israel builds 90km network of military roads across southern Lebanon",
+   "summary_en": "Satellite images reveal that Israel is constructing a 90km network of military roads and outposts across southern Lebanon.",
+   "body_en": [
+    "The ongoing construction of roads and military positions has heightened concerns regarding a potential long-term Israeli military presence in the region."
+   ],
+   "title_fa": "اسرائیل شبکه ۹۰ کیلومتری از جاده‌های نظامی در جنوب لبنان می‌سازد",
+   "summary_fa": "تصاویر ماهواره‌ای نشان می‌دهد که اسرائیل در حال ساخت یک شبکه ۹۰ کیلومتری از جاده‌ها و پایگاه‌های نظامی در سراسر جنوب لبنان است.",
+   "body_fa": [
+    "ساخت‌وسازهای جاری جاده‌ها و مواضع نظامی، نگرانی‌ها در مورد احتمال حضور نظامی طولانی‌مدت اسرائیل در این منطقه را افزایش داده است."
+   ],
+   "title_ar": "إسرائيل تبني شبكة طرق عسكرية بطول 90 كيلومترًا في جنوب لبنان",
+   "summary_ar": "تظهر صور الأقمار الصناعية أن إسرائيل تقوم ببناء شبكة من الطرق والمواقع العسكرية بطول 90 كيلومترًا عبر جنوب لبنان.",
+   "body_ar": [
+    "أثار البناء المستمر للطرق والمواقع العسكرية مخاوف تزايدت بشأن احتمال وجود عسكري إسرائيلي طويل الأمد في المنطقة."
+   ]
+  },
+  {
+   "id": "24a498bafff3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-spokesman-announces-lifting-restrictions-iranian-missiles",
+   "date": "2026-11-07T14:40:47Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "IRGC spokesman announces lifting of restrictions on Iranian missiles",
+   "title_en": "IRGC spokesman announces lifting of restrictions on Iranian missiles",
+   "summary_en": "An IRGC spokesman announced that restrictions on the range of Iranian missiles have been lifted following warnings issued to the United States.",
+   "body_en": [
+    "Brigadier General Hossein Mohebbi made the statement at a news conference when asked about Supreme Leader Mojtaba Khamenei's warning of an immediate and geographically unrestricted response to any potential US or Israeli attack.",
+    "According to Tasnim news agency, Mohebbi confirmed the removal of missile range limits and emphasized that the military's duty is to demonstrate its capabilities in the field."
+   ],
+   "title_fa": "سخنگوی سپاه پاسداران از لغو محدودیت‌های موشکی ایران خبر داد",
+   "summary_fa": "سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد که محدودیت‌های مربوط به برد موشک‌های ایران برداشته شده است.",
+   "body_fa": [
+    "سرتیپ حسین محبی در یک نشست خبری و در پاسخ به پرسشی درباره هشدار رهبر ایران مبنی بر پاسخ فوری، تاثیرگذار و بدون محدودیت جغرافیایی به هرگونه حمله احتمالی آمریکا یا اسرائیل، این مطالب را بیان کرد.",
+    "به گزارش خبرگزاری تسنیم، محبی تایید کرد که محدودیت برد موشکی لغو شده است و افزود که وظیفه نیروهای مسلح نمایش توانمندی‌های خود در میدان نبرد است."
+   ],
+   "title_ar": "متحدث باسم الحرس الثوري يعلن رفع القيود عن الصواريخ الإيرانية",
+   "summary_ar": "أعلن متحدث باسم الحرس الثوري الإيراني أنه تم رفع القيود المترتبة على مدى الصواريخ الإيرانية.",
+   "body_ar": [
+    "جاءت تصريحات العميد حسين محبي خلال مؤتمر صحفي ورداً على سؤال حول تحذير المرشد الأعلى مجتبى خامنئي من رد فوري ومؤثر وغير محدد جغرافياً على أي هجوم أمريكي أو إسرائيلي محتمل.",
+    "وفقاً لوكالة تسنيم للأنباء، أكد محبي أن القيود على مدى الصواريخ قد رُفعت، مشيراً إلى أن واجب القوات هو إظهار قدراتها في میدان المعركة."
+   ]
+  },
   {
    "id": "86360c73c2ec",
    "lang": "en",
@@ -60,6 +207,33 @@
    "body_ar": [
     "وأوضح حسين في مقابلة مع الجزيرة أن العراق يحقق في الهجمات التي انطلقت من أراضيه ضد دول الخليج، ويسعى لحل الخلافات مع السعودية عبر الحوار. كما أشار إلى أن بغداد تتفاوض مع الفصائل المسلحة المقربة من إيران لإخضاع سلاحها لسيطرة الدولة، وتتواصل مع تهران بشأن هذه المسألة.",
     "وأضاف حسين أن واشنتن طلبت إغلاق كافة المعابر الحدودية مع إيران باستثناء معبرين. وأفاد بأن العراق خسر نحو 60 مليار دولار جراء تعليق صادرات النفط عبر مضيق هرمز، مشيراً إلى أن الشحنات استؤنفت بعد التوصل إلى تفاهمات مع واشنطن وتكساس."
+   ]
+  },
+  {
+   "id": "caefb1b5006f",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-looking-expand-naval-blockade-and-restrict-iranian-land",
+   "date": "2026-11-07T14:09:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US military looking to expand naval blockade and restrict Iranian land commerce: Report",
+   "title_en": "US military looking to expand naval blockade and restrict Iranian land commerce: Report",
+   "summary_en": "The US military is establishing a new task force aimed at restricting Iran's transport of advanced weapons and sanctioned materials across land borders and the Caspian Sea.",
+   "body_en": [
+    "According to a statement obtained by Reuters, US Central Command is expected to formally announce the formation of this task force to bolster sanctions enforcement and interdict military gear."
+   ],
+   "title_fa": "گزارش: ارتش آمریکا به دنبال گسترش محاصره دریایی و محدود کردن تجارت زمینی ایران است",
+   "summary_fa": "ارتش آمریکا در حال ایجاد یک گروه کاری جدید برای محدود کردن انتقال تسلیحات پیشرفته و مواد تحریمی توسط ایران از طریق مرزهای زمینی و دریای خزر است.",
+   "body_fa": [
+    "بر اساس بیانیه‌ای که به دست رویترز رسیده است، انتظار می‌رود ستاد فرماندهی مرکزی آمریکا (سنتکام) خبر تشکیل این گروه کاری را به منظور تقویت اجرای تحریم‌ها به طور رسمی اعلام کند."
+   ],
+   "title_ar": "تقرير: الجيش الأمريكي يسعى لتوسيع الحصار البحري وتقييد التجارة البرية الإيرانية",
+   "summary_ar": "يقوم الجيش الأمريكي بإنشاء قوة مهام جديدة بهدف تقييد نقل إيران للأسلحة المتقدمة والمواد الخاضعة للعقوبات عبر حدودها البرية وبحر قزوين.",
+   "body_ar": [
+    "وفقاً لبيان حصلت عليه وكالة رويترز، من المتوقع أن تعلن القيادة المركزية الأمريكية رسمياً عن تشكيل قوة المهام هذه لتعزيز تطبيق العقوبات ومنع نقل المعدات العسكرية."
    ]
   },
   {
@@ -270,67 +444,6 @@
    ]
   },
   {
-   "id": "e4cfd3af25b8",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
-   "date": "2026-11-07T11:10:02Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Rains flood thousands of displaced families’ tents in Gaza",
-   "title_en": "Rains flood thousands of displaced families’ tents in Gaza",
-   "summary_en": "The first winter storm of the season has flooded around 70,000 tents housing displaced Palestinians in the Gaza Strip, causing widespread severe disruption and material damage.",
-   "body_en": [
-    "According to Gaza's Government Media Office, initial damages from the storm reached approximately $3 million, with collapsing walls causing injuries and compromised structures threatening further collapses. Local authorities held Israel responsible for the emergency due to restrictions preventing shelter and rebuilding supplies from entering the territory.",
-    "Civil defence teams responded to about 1,500 distress calls as water levels rose sharply in shelter camps across Gaza. Health officials warned that flooding at emergency facilities and mixing sewage could trigger severe disease outbreaks among displaced populations."
-   ],
-   "title_fa": "بارندگی‌ها خیمه‌های هزاران خانواده آواره در غزه را زیر آب برد",
-   "summary_fa": "نخستین طوفان زمستانی فصل موجب آب‌گرفتگی حدود ۷۰ هزار چادر محل سکونت آوارگان فلسطینی در نوار غزه شد و خسارات مادی و اختلالات شدیدی به بار آورد.",
-   "body_fa": [
-    "به گفته دفتر اطلاع‌رسانی دولتی غزه، خسارات اولیه این طوفان حدود ۳ میلیون دلار برآورد شده است؛ فروپاشی دیوارهای متعدد باعث مصدومیت افراده شده و ساختمان‌های ترک‌خورده خطرات جدی ایجاد کرده‌اند. مقامات محلی اسرائیل را مسئول این بحران دانستند زیرا مانع ورود وسایل اسکان و بازسازی به غزه شده است.",
-    "تیم‌های دفاع مدنی به حدود ۱۵۰۰ تماس امدادی پاسخ دادند زیرا سطح آب در اردوگاه‌های غزه به‌شدت بالا رفت. مقامات بهداشتی نیز هشدار دادند که آب‌گرفتگی مراکز درمانی و مخلوط شدن فاضلاب می‌تواند به شیوع بیماری‌های عفونی منجر شود."
-   ],
-   "title_ar": "أمطار تغرق آلاف خيام العائلات النازحة في غزة",
-   "summary_ar": "تسببت أول عاصفة شتوية هذا الموسم في إغراق نحو 70 ألف خيمة تئوي نازحين فلسطينيين في قطاع غزة، مما أدى إلى أضرار مادية واضطرابات واسعة النطاق.",
-   "body_ar": [
-    "ووفقًا للمكتب الإعلامي الحكومي في غزة، قُدرت الخسائر الأولية الناجمة عن العاصفة بنحو 3 ملايين دولار، حيث تسبب انهيار الجدران في إصابات وتزايدت مخاطر انهيار المباني المتصدعة. وحمّلت السلطات المحلية إسرائيل المسؤولية كاملة لتعطيلها دخول مواد الإيواء وإعادة الإعمار.",
-    "تلقت طواقم الدفاع المدني نحو 1500 نداء استغاثة مع ارتفاع منسوب المياه في مخيمات الإيواء في أنحاء القطاع. وحذر مسئولون صحيون من أن غرق أقسام الطوارئ اختلاط مياه الأمطار بالصرف الصحي قد يؤدي إلى تفشي الأمراض الخطيرة."
-   ]
-  },
-  {
-   "id": "ab2a133b0417",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-   "date": "2026-11-07T09:48:11Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "title_en": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "summary_en": "Palestinian citizens of Israel gained a record 19 Knesset seats in the October 27 election, driving high Arab voter turnout but sparking intense backlash and accusations from Israeli media and politicians.",
-   "body_en": [
-    "Following the election, Likud and figures such as Itamar Ben-Gvir accused Arab parties of stealing votes through violence and fraud, despite Central Elections Committee and police investigations finding no evidence of organized tampering. Arab citizens described an environment where their voting power was framed as a threat to the state rather than a democratic right.",
-    "Experts and residents noted that while Arab workers remain essential to key economic sectors, systemic marginalization and delegitimization efforts have intensified, leaving Palestinian citizens feeling accepted only out of necessity rather than true equality."
-   ],
-   "title_fa": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "summary_fa": "شهروندان فلسطینی اسرائیل در انتخابات ۲۷ اکتبر به رکورد ۱۹ کرسی در کنست دست یافتند؛ مشارکتی بالا که واکنش‌های شدید و اتهاماتی را از سوی رسانه‌ها و سیاستمداران اسرائیلی به دنبال داشت.",
-   "body_fa": [
-    "پس از انتخابات، حزب لیکود و افرادی مانند ایتمار بن‌گویر، احزاب عربی را به دزدیدن آرا از طریق خشونت و تقلب متهم کردند؛ این در حالی است که کمیته مرکزی انتخابات و پلیس اعلام کردند هیچ نشانه‌ای از دستکاری سازمان‌یافته پیدا نکرده‌اند. شهروندان عرب توصیف کردند که قدرت رای آن‌ها به جای یک حق دمکراتیک، به عنوان تهدیدی برای کشور به تصویر کشیده شده است.",
-    "کارشناسان و ساکنان اشاره می‌کنند که اگرچه کارگران عرب برای بخش‌های کلیدی اقتصادی ضروری هستند، اما تلاش‌ها برای حاشیه‌رانی و سلب مشروعیت از آن‌ها شدت یافته و باعث شده شهروندان فلسطینی احساس کنند تنها از روی ضرورت تحمل می‌شوند نه بر اساس برابری واقعی."
-   ],
-   "title_ar": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "summary_ar": "حصل المواطنون الفلسطينيون في إسرائيل على 19 مقعداً قياسياً في الكنيست خلال انتخابات 27 أكتوبر، مما عكس نسبة إقبال عربية عالية ولكنه أثار ردود فعل غاضبة واتهامات من وسائل الإعلام والسياسيين الإسرائيليين.",
-   "body_ar": [
-    "عقب الانتخابات، اتهم حزب الليكود وشخصيات مثل إيتمار بن غفير الأحزاب العربية بسرقة الانتخابات عبر العنف والتزوير، رغم أن لجنة الانتخابات المركزية والشرطة أكدتا عدم وجود أي دليل على تزوير منظم. وذكر مواطنون عرب أن مشاركتهم الانتخابية تم تصويرها كتهديد للدولة بدلاً من كونها حقاً ديمقراطياً.",
-    "وأشار خبراء وسكان إلى أنه على الرغم من أن العمال العرب يظلون أساسيين في قطاعات اقتصادية حيوية، إلا أن جهود التهميش وسلب الشرعية قد تزايدت، مما يجعل المواطنين الفلسطينيين يشعرون بأن قبولهم يتم فقط بداعي الضرورة وليس على أساس المساواة الفعلية."
-   ]
-  },
-  {
    "id": "ff0eea51cee9",
    "lang": "en",
    "source": "Al Jazeera",
@@ -411,36 +524,6 @@
    "body_ar": [
     "بموجب المقترح الذي ناقشه أمير قطر الشيخ تميم بن حمد آل ثاني مع الرئيس الأمريكي دونالد ترامب، سترفع واشنطن حظرها البحري في مضيق هرمز فوراً وتفرج عن جزء من الأصول الإيرانية المجمدة البالغة 8 مليارات دولار. في المقابل، يُسمح لمفتشي الوكالة الدولية للطاقة الذرية بزيارة المواقع النووية الإيرانية التي تعرضت للقصف بناءً على اتفاق القاهرة المبرم في سبتمبر 2025.",
     "وتقوم إيران بإعادة فتح مضيق هرمز في اليوم الثاني عبر مسار تم التفاوض عليه مع عمان وإيداعه لدى المنظمة البحرية الدولية. وتواصل تهران المطالبة بشروط إضافية تشتمل على إنهاء الحرب في لبنان، وانسحاب القوات الأمريكية من سواحلها، ورفع العقوبات الاقتصادية، ودفع تعويضات الحرب."
-   ]
-  },
-  {
-   "id": "d16055133bfa",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-   "date": "2026-11-07T06:26:58Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "How the Iran war helped Democrats win the midterms",
-   "title_en": "How the Iran war helped Democrats win the midterms",
-   "summary_en": "The political fallout from the US conflict with Iran fueled voter discontent over the cost of living and foreign policy, helping Democrats win control of the House and Senate in the midterm elections.",
-   "body_en": [
-    "The war brought economic costs into American homes, notably by restricting shipping through the Strait of Hormuz and driving up everyday prices. Voters expressed widespread discontent with the conflict's lack of strategic goals and its impact on the economy, alongside broader frustrations with Washington's leadership and ties to Israel.",
-    "Following the vote, Vice President JD Vance acknowledged on social media that the war was the reason for the Republican loss. He highlighted voter demands to end the war, focus on the cost of living, put America first, and change the relationship with Israel."
-   ],
-   "title_fa": "چگونه جنگ ایران به دموکرات‌ها کمک کرد در انتخابات میان‌دوره‌ای پیروز شوند",
-   "summary_fa": "پیامدهای سیاسی درگیری ایالات متحده با ایران نارضایتی رأی‌دهندگان از هزینه زندگی و سیاست خارجی را دامن زد و به دموکرات‌ها کمک کرد کنترل مجلس نمایندگان و سنا را در انتخابات میان‌دوره‌ای به دست آورند.",
-   "body_fa": [
-    "این جنگ هزینه‌های اقتصادی را به خانه‌های آمریکایی کشاند، به ویژه با محدود کردن کشتیرانی در تنگه هرمز و افزایش قیمت‌های روزمره. رأی‌دهندگان نارضایتی گسترده خود را از عدم وجود اهداف استراتژیک در این درگیری و تأثیر آن بر اقتصاد، در کنار ناامیدی‌های گسترده‌تر از رهبری واشنگتن و روابط با اسرائیل ابراز کردند.",
-    "پس از رأی‌گیری، جی‌دی ونس، معاون رئیس‌جمهور، در رسانه‌های اجتماعی اذعان کرد که جنگ دلیل شکست جمهوری‌خواهان بوده است. او بر مطالبات رأی‌دهندگان برای پایان دادن به جنگ، تمرکز بر هزینه زندگی، اولویت دادن به آمریکا و تغییر رابطه با اسرائیل تأکید کرد."
-   ],
-   "title_ar": "كيف ساعدت حرب إيران الديمقراطيين على الفوز في انتخابات التجديد النصفي",
-   "summary_ar": "أدت التداعيات السياسية للصراع الأمريكي مع إيران إلى تغذية استياء الناخبين بشأن تكلفة المعيشة والسياسة الخارجية، مما ساعد الديمقراطيين على الفوز السيطرة على مجلسي النواب والشيوخ في انتخابات التجديد النصفي.",
-   "body_ar": [
-    "جلبت الحرب تكاليف اقتصادية إلى المنازل الأمريكية، لا سيما من خلال تقييد الشحن عبر مضيق هرمز ورفع الأسعار اليومية. وأعرب الناخبون عن استياء واسع النطاق من افتقار الصراع إلى أهداف استراتيجية وتأثيره على الاقتصاد، إلى جانب الإحباطات الأوسع نطاقاً من قيادة واشنطن وعلاقاتها مع إسرائيل.",
-    "في أعقاب التصويت، أقر نائب الرئيس جيه دي فانس على وسائل التواصل الاجتماعي بأن الحرب كانت سبباً خسارة الجمهوريين. وسلط الضوء على مطالب الناخبين بإنهاء الحرب، والتركيز على تكلفة المعيشة، ووضع أمريكا أولاً، وتغيير العلاقة مع إسرائيل."
    ]
   },
   {
@@ -592,34 +675,6 @@
    ]
   },
   {
-   "id": "7fdf2dcc770e",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-west-bank-olive-harvest-hit-record-2006-un-says",
-   "date": "2026-11-07T04:51:37Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Israeli settler attacks on West Bank olive harvest hit record since 2006, UN says",
-   "title_en": "Israeli settler attacks on West Bank olive harvest hit record since 2006, UN says",
-   "summary_en": "Israeli settlers have launched 377 attacks on the olive harvest in the occupied West Bank since September, marking the highest number recorded by the UN since 2006.",
-   "body_en": [
-    "According to the UN Office for the Coordination of Humanitarian Affairs (OCHA), these attacks resulted in the death of one Palestinian, injuries to over 200 others, and damage to more than 3,850 olive trees and saplings. Official Israeli access restrictions have further damaged livelihoods, affecting between 80,000 and 100,000 families reliant on the harvest."
-   ],
-   "title_fa": "سازمان ملل: حملات شهرک‌نشینان اسرائیلی به برداشت زیتون در کرانه باختری به بالاترین حد از سال ۲۰۰۶ رسید",
-   "summary_fa": "طبق اعلام سازمان ملل، شهرک‌نشینان اسرائیلی از ماه سپتامبر تاکنون ۳۷۷ بار به برنامه‌های برداشت زیتون در کرانه باختری اشغالی حمله کرده‌اند که بالاترین میزان ثبت‌شده توسط این سازمان از سال ۲۰۰۶ تاکنون است.",
-   "body_fa": [
-    "به گفته دفتر هماهنگی امور انسان‌دوستانه سازمان ملل (اوچا)، در جریان این حملات یک فلسطینی توسط یک شهرک‌نشین کشته، بیش از ۲۰۰ تن زخمی و افزون بر ۳۸۵۰ درخت و نهال زیتون تخریب شدند. محدودیت‌های رسمی اسرائیل برای دسترسی فلسطینی‌ها به باغ‌ها نیز به معیشت ۸۰ تا ۱۰۰ هزار خانواده متکی به این محصول آسیب زده است."
-   ],
-   "title_ar": "الأمم المتحدة: هجمات المستوطنين الإسرائيليين على موسم زيتون الضفة الغربية تسجل قياساً منذ 2006",
-   "summary_ar": "أفاد مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية أن المستوطنين الإسرائيليين نفذوا 377 هجوماً على موسم حصاد الزيتون في الضفة الغربية المحتلة منذ سبتمبر، وهو أعلى رقم تسجله الأمم المتحدة منذ عام 2006.",
-   "body_ar": [
-    "ووفقاً لبيان مكتب \"أوتشا\"، أسفرت هذه الهجمات عن مقتل فلسطيني واحد على يد مستوطن، وإصابة أكثر من 200 آخرين، وإتلاف أو تخريب أكثر من 3850 شجرة وشتلة زيتون. وتسببت الهجمات إلى جانب القيود الإسرائيلية الرسمية في الإضرار بسبل عيش ما بين 80 ألفاً و100 ألف عائلة فلسطينية تعتمد على الحصاد."
-   ]
-  },
-  {
    "id": "ccbb949a8cd3",
    "lang": "en",
    "source": "Al Jazeera",
@@ -741,34 +796,6 @@
    ]
   },
   {
-   "id": "5a1406bbe325",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-would-be-no-israel-if-iran-was-allowed-nuclear-weapon",
-   "date": "2026-11-07T01:04:31Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
-   "title_en": "Trump says 'there would be no Israel' if Iran was allowed nuclear weapon",
-   "summary_en": "US President Donald Trump stated that Israel would no longer exist if he had permitted Iran to obtain a nuclear weapon.",
-   "body_en": [
-    "Speaking at NASA’s Kennedy Space Center in Florida on Friday, Donald Trump defended his military policies regarding Tehran. He asserted that without his actions, Israel would have been entirely destroyed."
-   ],
-   "title_fa": "دونالد ترامپ: اگر به ایران اجازه دستیابی به سلاح هسته‌ای داده می‌شد، اسرائیلی وجود نداشت",
-   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که اگر به ایران اجازه دستیابی به سلاح هسته‌ای را داده بود، اسرائیل دیگر وجود نداشت.",
-   "body_fa": [
-    "دونالد ترامپ روز جمعه در مرکز فضایی کندی ناسا در فلوریدا، از رویکرد نظامی خود در قبال تهران دفاع کرد. او ادعا کرد که بدون اقدامات وی، اسرائیل به‌طور کامل از بین می‌رفت."
-   ],
-   "title_ar": "دونالد ترامب: لم تكن لإسرائيل وجود لو سمح لإيران بالحصول على سلاح نووي",
-   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن إسرائيل لم تكن لتوجد اليوم لو أنه سمح لإيران بالحصول على سلاح نووي.",
-   "body_ar": [
-    "ودافع دونالد ترامب، خلال كلمة ألقاها يوم الجمعة في مركز كينيدي للفضاء التابع لناسا في فلوريدا، عن حملته العسكرية ضد طهران. وأكد أنه لولا قراراته لمُحيت إسرائيل من على وجه الأرض."
-   ]
-  },
-  {
    "id": "c00f63183844",
    "lang": "en",
    "source": "Middle East Eye",
@@ -821,36 +848,6 @@
    "summary_ar": "نفت قطر تقارير ادعت أن رئيس وزرائها أعلن فشل المفاوضات الأمريكية الإيرانية لإنهائها الحرب، مؤكدة أن الطرفين يواصلان العمل للتوصل إلى اتفاق.",
    "body_ar": [
     "وصف المكتب الإعلامي الدولي لقطر في بيان يوم الجمعة التقارير حول تصريحات رئيس الوزراء محمد بن عبد الرحمن آل ثاني بأنها \"كاذبة ومضللة\". وأوضح المكتب أن تصريحاته تم تحريفها عمداً من قبل أطراف تستفيد من استمرار الحرب وعدم الاستقرار، مؤكداً استمرار الجهود للتوصل إلى اتفاق."
-   ]
-  },
-  {
-   "id": "17795315154f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-health-ministry-denies-report-iodine-distribution-over-us-strike",
-   "date": "2026-11-06T22:36:51Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "Iran's health ministry denies report on iodine distribution over US strike fears",
-   "title_en": "Iran's health ministry denies report on iodine distribution over US strike fears",
-   "summary_en": "Iran's health ministry has denied a report by The Times of London claiming it was distributing iodine tablets near nuclear sites ahead of potential US strikes, calling the story false and irresponsible.",
-   "body_en": [
-    "Hossein Kermanpour, head of the ministry's public relations centre, stated that no official had spoken to the newspaper and that the quotes attributed to the ministry were false. While noting that the healthcare system is prepared for various threats, he emphasized that declaring a state of war is outside the ministry's scope of authority.",
-    "The Times of London had cited an unnamed official claiming that Iran was providing iodine tablets to residents living within two to three kilometers of nuclear facilities due to concerns over US military actions."
-   ],
-   "title_fa": "تکذیب گزارش توزیع قرص ید در ایران از ترس حملات آمریکا توسط وزارت بهداشت",
-   "summary_fa": "وزارت بهداشت ایران گزارش روزنامه تایمز لندن مبنی بر توزیع قرص‌های ید در نزدیک مراکز هسته‌ای از ترس حملات احتمالی آمریکا را تکذیب کرد و آن را نادرست و غیرمسئولانه خواند.",
-   "body_fa": [
-    "حسین کرمانپور، رئیس مرکز روابط عمومی و اطلاع‌رسانی وزارت بهداشت، اعلام کرد که هیچ مسئولی از این وزارتخانه با تایمز گفتگو نکرده و نقل‌قول‌های منتشرشده دروغین است. وی با اشاره به آمادگی سیستم بهداشتی برای سناریوها و تهدیدهای مختلف، یادآور شد که اعلام وضعیت جنگی در صلاحیّت این وزارتخانه نیست.",
-    "روزنامه تایمز لندن به نقل از یک مقام نامشخص مدعی شده بود که ایران به دلیل نگرانی از اقدامات نظامی آمریکا، در حال توزیع قرص‌های ید برای محافظت از غده تیروئید در شعاع دو تا سه کیلومتری سایت‌های هسته‌ای خود است."
-   ],
-   "title_ar": "وزارة الصحة الإيرانية تنفي تقريراً عن توزيع اليود خوفاً من ضربات أمريكية",
-   "summary_ar": "نفت وزارة الصحة الإيرانية تقريراً لصحيفة \"تايمز\" اللندنية ادعى توزيع قرص اليود بالقرب من المنشآت النووية تحسباً لضربات أمريكية، واصفة التقرير بالعديم المسؤولية والكاذب.",
-   "body_ar": [
-    "صرح حسين كرمانبور، رئيس مرکز العلاقات العامة والإعلام بالوزارة، أنه لم يتحدث أي مسؤول للصحيفة وأن الاقتباسات المنسوبة للوزارة مفبركة. وأوضح أنه رغم جاهزية القطاع الصحي لمختلف التهديدات، فإن إعلان حالة الحرب ليس من اختصاص الوزارة.",
-    "وكانت صحيفة \"تايمز\" قد نقلت عن مسؤول لم تسمه أن إيران توزع حبوب اليود للسكان المقيمين على بعد كيلومترين إلى ثلاثة كيلومترات من المنشآت النووية لحماية الغدة الدرقية خوفاً من أي تحرك عسكري أمريكي."
    ]
   },
   {
