@@ -1,7 +1,183 @@
 {
- "updated": "2026-11-07T10:02:14Z",
- "count": 434,
+ "updated": "2026-11-07T13:24:38Z",
+ "count": 442,
  "items": [
+  {
+   "id": "e6e179b48d3d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-yemens-bani-hashish-reaches-22",
+   "date": "2026-11-07T12:48:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Death toll in Yemen's Bani Hashish reaches 22",
+   "title_en": "Death toll in Yemen's Bani Hashish reaches 22",
+   "summary_en": "The death toll from Saudi air strikes on the Bani Hashish district in Yemen has risen to 22, according to the Houthi-run health ministry.",
+   "body_en": [
+    "The ministry reported that the majority of those killed in the strikes on the al-Shariyah area were women and children. Approximately 30 people were also wounded, including a cameraman working for the Houthi-run al-Masirah news network."
+   ],
+   "title_fa": "شمار کشته‌شدگان در بنی‌حشیش یمن به ۲۲ نفر رسید",
+   "summary_fa": "به گزارش وزارت بهداشت وابسته به حوثی‌ها، شمار قربانیان حملات هوایی عربستان سعودی به بخش بنی‌حشیش در یمن به ۲۲ تن افزایش یافته است.",
+   "body_fa": [
+    "این وزارتخانه در بیانیه‌ای اعلام کرد که اکثر کشته‌شدگان حملات هوایی به منطقه الشریه، زنان و کودکان بودند. همچنین حدود ۳۰ نفر دیگر زخمی شده‌اند که یک فیلم‌بردار شبکه المسیره وابسته به حوثی‌ها در میان آن‌ها حضور دارد."
+   ],
+   "title_ar": "حصيلة القتلى في بني حشيش باليمن ترتفع إلى 22",
+   "summary_ar": "أعلنت وزارة الصحة التابعة للحوثيين ارتفاع حصيلة ضحايا الغارات الجوية السعودية على مديرية بني حشيش في اليمن إلى 22 قتيلاً.",
+   "body_ar": [
+    "وأكدت الوزارة في بيان لها أن معظم القتلى الذين سقطوا في الغارات على منطقة الشريعة كانوا من النساء والأطفال. كما أصيب نحو 30 شخصاً بجروح، من بينهم مصور يعمل لدى قناة المسيرة التابعة للحوثيين."
+   ]
+  },
+  {
+   "id": "6f1f97b06f55",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/netanyahu-and-mossad-chief-planned-attack-iran-israeli-election-says-report",
+   "date": "2026-11-07T12:38:24Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
+   "title_en": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
+   "summary_en": "Israeli media reported that a planned operation against Iran by Prime Minister Benjamin Netanyahu and Mossad chief Roman Gofman ahead of the October 27 election was halted after the United States was inadvertently notified.",
+   "body_en": [
+    "According to Channel 12, the initiative faced strong opposition from senior security officials who warned it could trigger a wider confrontation with Iran and disrupt the election. Preparations were reportedly halted after an operative mistakenly alerted Washington, though Netanyahu's office denied the reports, stating an attack before the vote was never on the agenda.",
+    "The disclosures follow reports of friction between Netanyahu and military chief of staff Eyal Zamir, who reportedly pushed back against proposals that military leaders feared were aimed at using the Iranian issue for political advantage."
+   ],
+   "title_fa": "افشاگری طرح نتانیاهو و رئیس موساد برای حمله به ایران پیش از انتخابات اسرائیل را فاش کرد",
+   "summary_fa": "رسانه‌های اسرائیلی گزارش دادند که طرح عملیات علیه ایران توسط بنیامین نتانیاهو، نخست‌وزیر، و رومان گوفمن، رئیس موساد، در آستانه انتخابات ۲۷ اکتبر پس از اطلاع‌رسانی اشتباهی به آمریکا متوقف شد.",
+   "body_fa": [
+    "به گزارش شبکه ۱۲ اسرائیل، مقامات ارشد امنیتی با این عملیات مخالفت کرده بودند، چرا که از خطر تشدید درگیری با ایران و به تعویق افتادن انتخابات بیم داشتند. با وجود ادامه مقدمات، اشتباه یک نیروی امنیتی در آگاه کردن واشنگتن موجب مداخله سریع آمریکا شد؛ هرچند دفتر نتانیاهو با رد این گزارش‌ها اعلام کرد که حمله پیش از انتخابات در دستور کار نبوده است.",
+    "این گزارش‌ها به دنبال تنش‌های قبلی میان نتانیاهو و ایال زمیر، رئیس ستاد کل ارتش، مطرح شد؛ فردی که در برابر اقداماتی که فرماندهان نظامی نگران بهره‌برداری سیاسی از موضوع ایران در آستانه انتخابات بودند، مقاومت کرده بود."
+   ],
+   "title_ar": "تسريب يكشف خطة نتنياهو ورئيس الموساد لمهاجمة إيران قبل الانتخابات الإسرائيلية",
+   "summary_ar": "أفادت وسائل إعلام إسرائيلية بأن خطة لشن عملية ضد إيران دبرها رئيس الوزراء بنيامين نتنياهو ورئيس الموساد رومان غوفمان قبيل انتخابات 27 أكتوبر أُحبطت بعد إخطار الولايات المتحدة عن طريق الخطأ.",
+   "body_ar": [
+    "وبحسب القناة 12 الإسرائيلية، عارض مسؤولون أمنيون كبار هذه الخطوة خشية أن تؤدي إلى تصعيد واسع مع إيران وتأجيل الانتخابات. ومع ذلك، استمرت الترتيبات حتى أبلغ عنصر أمني إسرائيلي واشنطن بالخطأ، مما دفعها للتدخل وإيقافها، في حين نفى مكتب نتنياهو ذلك مؤكداً أن شن هجوم قبل الانتخابات لم يكن مطروحاً.",
+    "وجاءت هذه التقارير عقب خلافات سابقة بين نتنياهو ورئيس أركان الجيش إيال زامير، الذي عارض العمليات العسكرية التي خشي قادة الجيش من محاولة استغلال الملف الإيراني من خلالها لتحقيق مكاسب سياسية."
+   ]
+  },
+  {
+   "id": "7108a19d6c87",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+   "date": "2026-11-07T12:12:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel coalition talks gain momentum",
+   "title_en": "Israel coalition talks gain momentum",
+   "summary_en": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot expressed confidence that he will receive the mandate to form a government as President Isaac Herzog prepares to name the first nominee.",
+   "body_en": [
+    "Eisenkot stated that he is making headway in efforts aimed at replacing long-serving Prime Minister Benjamin Netanyahu."
+   ],
+   "title_fa": "مذاکرات ائتلافی در اسرائیل شتاب می‌گیرد",
+   "summary_fa": "در پی انتخابات نامشخص در اسرائیل، گادی آیزنکوت، نامزد اپوزیسیون، ابراز اطمینان کرد که مأموریت تشکیل کابینه را به دست خواهد آورد، در حالی که اسحاق هرتزوگ، رئیس‌جمهور، برای معرفی اولین گزینه آماده می‌شود.",
+   "body_fa": [
+    "آیزنکوت مدعی شده که در مسیر تلاش‌ها برای برکناری بنیامین نتانیاهو، نخست‌وزیر باسابقه، پیشرفت داشته است."
+   ],
+   "title_ar": "محادثات الائتلاف في إسرائيل تكتسب زخماً",
+   "summary_ar": "عقب انتخابات غير حاسمة في إسرائيل، أكد مرشح المعارضة غادي آيزنكوت ثقته في نيل تكليف تشكيل الحكومة، في حين يستعد الرئيس يتسحاق هرتسوغ لتسمية المرشح الأول.",
+   "body_ar": [
+    "وذكر آيزنكوت أنه يحرز تقدماً في المساعي الرامية إلى إزاحة رئيس الوزراء بنيامين نتنياهو الذي يشغل المنصب منذ فترة طويلة."
+   ]
+  },
+  {
+   "id": "5993c755a2f1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-medical-sources-report-10-deaths-last-48",
+   "date": "2026-11-07T11:18:06Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Gaza death toll rises after medical sources report 10 deaths in last 48 hours",
+   "title_en": "Gaza death toll rises after medical sources report 10 deaths in last 48 hours",
+   "summary_en": "The reported death toll in the Gaza Strip has reached 74,640 after local hospitals received 10 dead bodies and 22 injured individuals over a 48-hour period.",
+   "body_en": [
+    "Citing medical sources, news agency Wafa reported that Israeli actions have killed approximately 1,610 Palestinians and wounded 5,819 others since the October 2025 ceasefire came into effect. Total injuries across Gaza have now reached 175,947.",
+    "Rescue workers have reportedly retrieved around 849 bodies from underneath destroyed buildings, while thousands of others are believed to remain trapped under rubble."
+   ],
+   "title_fa": "افزایش آمار کشته‌شدگان غزه پس از گزارش منابع پزشکی از ۱۰ کشته در ۴۸ ساعت گذشته",
+   "summary_fa": "بر اساس گزارش‌ها، آمار کشته‌شدگان در نوار غزه پس از تحویل ۱۰ جسد و ۲۲ مجروح به بیمارستان‌ها طی ۴۸ ساعت گذشته، به ۷۴ هزار و ۶۴۰ نفر رسیده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری وفا به نقل از منابع پزشکی، از زمان اجرای آتش‌بس ادعایی در اکتبر ۲۰۲۵، اقدامات اسرائیل به کشته شدن حدود ۱۶۱۰ فلسطینی و مجروح شدن ۵۸۱۹ نفر دیگر منجر شده است. مجموع مجروحان در غزه اکنون به ۱۷۵ هزار و ۹۴۷ نفر رسیده است.",
+    "تیم‌های امداد و نجات توانسته‌اند پیکر حدود ۸۴۹ نفر را از زیر آوار ساختمان‌های ویران‌شده بیرون بکشند، در حالی که هزاران نفر همچنان زیر خرابی‌ها گرفتار هستند."
+   ],
+   "title_ar": "ارتفاع حصيلة الشهداء في غزة بعد إبلاغ مصادر طبية عن 10 حالات وفاة خلال الـ 48 ساعة الماضية",
+   "summary_ar": "ارتفعت حصيلة الوفيات المسجلة في قطاع غزة إلى 74,640 شهيدًا بعد وصول 10 جثامين و22 جريحًا إلى المستشفيات خلال 48 ساعة.",
+   "body_ar": [
+    "ونقلت وكالة وفا عن مصادر طبية أن أفعال إسرائيل أدت إلى مقتل نحو 1610 فلسطينيًا وإصابة 5819 آخرين منذ دخول وقف إطلاق النار حيز التنفيذ في أكتوبر 2025. وارتفع اجمالي عدد الجرحى في غزة إلى 175,947.",
+    "وأفادت التقارير أن فرق الإنقاذ انتشلت نحو 849 جثة من تحت ركام المباني المهدمة، في حين لا يزال آلاف آخرون محاصرين تحت الأنقاض."
+   ]
+  },
+  {
+   "id": "151e93764e95",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqd0990elxrlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T11:11:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "قوه قضائیه ایران می‌گوید محمدعارف شه‌بخش، فرد «مرتبط» با جیش‌العدل، را اعدام کرده است",
+   "title_en": "قوه قضائیه ایران می‌گوید محمدعارف شه‌بخش، فرد «مرتبط» با جیش‌العدل، را اعدام کرده است",
+   "summary_en": "Iran's judiciary announced the execution of Mohammad Aref Shahbakhsh, who was convicted of armed rebellion and enmity against God over his links to the militant group Jaish al-Adl.",
+   "body_en": [
+    "According to the judiciary's news agency Mizan, Shahbakhsh was prosecuted following an armed attack on a police station in Khash county, which resulted in deaths and injuries among security personnel. The case was handled by the Public and Revolutionary Prosecutor's Office in Zahedan.",
+    "Human rights organizations have repeatedly criticized the lack of transparency and legal safeguards in trial processes for political and security detainees in Iran, noting that defendants are often denied access to chosen legal representation."
+   ],
+   "title_fa": "قوه قضائیه ایران می‌گوید محمدعارف شه‌بخش، فرد «مرتبط» با جیش‌العدل، را اعدام کرده است",
+   "summary_fa": "قوه قضائیه ایران از اعدام محمدعارف شه‌بخش خبر داد که به اتهام «بغی و محاربه» و ارتباط با گروه مسلح جیش‌العدل محاکمه و به مرگ محکوم شده بود.",
+   "body_fa": [
+    "به گزارش خبرگزاری میزان، وابسته به قوه قضائیه، شه‌بخش به دنبال حمله مسلحانه به پاسگاه انتظامی قلعه‌بید در شهرستان خاش که به کشته و زخمی شدن چند تن از نیروهای انتظامی انجامید، محاکمه شده بود. پرونده او در دادسرای عمومی و انقلاب زاهدان بررسی شد.",
+    "نهادهای حقوق بشری همواره از عدم شفافیت و رعایت نشدن موازین حقوقی در دادرسی پرونده‌های سیاسی و امنیتی در ایران انتقاد کرده و می‌گویند متهمان از دسترسی به وکیل تعیینی محروم هستند."
+   ],
+   "title_ar": "السلطة القضائية الإيرانية تعلن تنفيذ حكم الإعدام بحق محمد عارف شه بخش «المبايع» لجش العدل",
+   "summary_ar": "أعلنت السلطة القضائية الإيرانية تنفيذ حكم الإعدام بحق محمد عارف شه بخش، الذي أدين بتهمتي \"البغي والحرابة\" لصلته بجماعة جش العدل المسلحة.",
+   "body_ar": [
+    "وفقًا لوكالة \"ميزان\" التابعة للسلطة القضائية، جرت محاكمة شه بخش عقب شن هجوم مسلح على مركز للشرطة في قضاء خاش، مما أسفر عن مقتل وإصابة عدد من عناصر الأمن. وقد نُظر في القضية أمام دادسرا العادية والثورية في زاهدان.",
+    "وتنتقد المنظمات الحقوقية باستمرار غياب الشفافية والضمانات القانونية في محاكمات المعتقلين السياسيين والأمنيين في إيران، مشيرة إلى حرمان المتهمين من حق توكيل محامين من اختيارهم."
+   ]
+  },
+  {
+   "id": "e4cfd3af25b8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+   "date": "2026-11-07T11:10:02Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Rains flood thousands of displaced families’ tents in Gaza",
+   "title_en": "Rains flood thousands of displaced families’ tents in Gaza",
+   "summary_en": "The first winter storm of the season has flooded around 70,000 tents housing displaced Palestinians in the Gaza Strip, causing widespread severe disruption and material damage.",
+   "body_en": [
+    "According to Gaza's Government Media Office, initial damages from the storm reached approximately $3 million, with collapsing walls causing injuries and compromised structures threatening further collapses. Local authorities held Israel responsible for the emergency due to restrictions preventing shelter and rebuilding supplies from entering the territory.",
+    "Civil defence teams responded to about 1,500 distress calls as water levels rose sharply in shelter camps across Gaza. Health officials warned that flooding at emergency facilities and mixing sewage could trigger severe disease outbreaks among displaced populations."
+   ],
+   "title_fa": "بارندگی‌ها خیمه‌های هزاران خانواده آواره در غزه را زیر آب برد",
+   "summary_fa": "نخستین طوفان زمستانی فصل موجب آب‌گرفتگی حدود ۷۰ هزار چادر محل سکونت آوارگان فلسطینی در نوار غزه شد و خسارات مادی و اختلالات شدیدی به بار آورد.",
+   "body_fa": [
+    "به گفته دفتر اطلاع‌رسانی دولتی غزه، خسارات اولیه این طوفان حدود ۳ میلیون دلار برآورد شده است؛ فروپاشی دیوارهای متعدد باعث مصدومیت افراده شده و ساختمان‌های ترک‌خورده خطرات جدی ایجاد کرده‌اند. مقامات محلی اسرائیل را مسئول این بحران دانستند زیرا مانع ورود وسایل اسکان و بازسازی به غزه شده است.",
+    "تیم‌های دفاع مدنی به حدود ۱۵۰۰ تماس امدادی پاسخ دادند زیرا سطح آب در اردوگاه‌های غزه به‌شدت بالا رفت. مقامات بهداشتی نیز هشدار دادند که آب‌گرفتگی مراکز درمانی و مخلوط شدن فاضلاب می‌تواند به شیوع بیماری‌های عفونی منجر شود."
+   ],
+   "title_ar": "أمطار تغرق آلاف خيام العائلات النازحة في غزة",
+   "summary_ar": "تسببت أول عاصفة شتوية هذا الموسم في إغراق نحو 70 ألف خيمة تئوي نازحين فلسطينيين في قطاع غزة، مما أدى إلى أضرار مادية واضطرابات واسعة النطاق.",
+   "body_ar": [
+    "ووفقًا للمكتب الإعلامي الحكومي في غزة، قُدرت الخسائر الأولية الناجمة عن العاصفة بنحو 3 ملايين دولار، حيث تسبب انهيار الجدران في إصابات وتزايدت مخاطر انهيار المباني المتصدعة. وحمّلت السلطات المحلية إسرائيل المسؤولية كاملة لتعطيلها دخول مواد الإيواء وإعادة الإعمار.",
+    "تلقت طواقم الدفاع المدني نحو 1500 نداء استغاثة مع ارتفاع منسوب المياه في مخيمات الإيواء في أنحاء القطاع. وحذر مسئولون صحيون من أن غرق أقسام الطوارئ اختلاط مياه الأمطار بالصرف الصحي قد يؤدي إلى تفشي الأمراض الخطيرة."
+   ]
+  },
   {
    "id": "ff0eea51cee9",
    "lang": "en",
@@ -113,6 +289,34 @@
    "body_ar": [
     "جلبت الحرب تكاليف اقتصادية إلى المنازل الأمريكية، لا سيما من خلال تقييد الشحن عبر مضيق هرمز ورفع الأسعار اليومية. وأعرب الناخبون عن استياء واسع النطاق من افتقار الصراع إلى أهداف استراتيجية وتأثيره على الاقتصاد، إلى جانب الإحباطات الأوسع نطاقاً من قيادة واشنطن وعلاقاتها مع إسرائيل.",
     "في أعقاب التصويت، أقر نائب الرئيس جيه دي فانس على وسائل التواصل الاجتماعي بأن الحرب كانت سبباً خسارة الجمهوريين. وسلط الضوء على مطالب الناخبين بإنهاء الحرب، والتركيز على تكلفة المعيشة، ووضع أمريكا أولاً، وتغيير العلاقة مع إسرائيل."
+   ]
+  },
+  {
+   "id": "bd2525dc963e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-forces-destroy-houthi-missile-over-riyadh-region",
+   "date": "2026-11-07T05:44:29Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
+   "title_en": "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
+   "summary_en": "Saudi-led coalition forces intercepted and destroyed a cruise missile launched by the Houthis toward the Riyadh region, according to coalition spokesperson Major General Turki al-Malki.",
+   "body_en": [
+    "Major General Turki al-Malki stated in a post on X that the coalition intercepted and destroyed the incoming Houthi cruise missile targeting the area."
+   ],
+   "title_fa": "نیروهای ائتلاف به رهبری عربستان یک موشک حوثی‌ها را بر فراز منطقه ریاض منهدم کردند",
+   "summary_fa": "به گفته سرلشکر ترکی المالکی، سخنگوی نیروهای ائتلاف، نیروهای ائتلاف به رهبری عربستان یک موشک کروز پرتاب‌شده از سوی حوثی‌ها به سمت منطقه ریاض را رهگیری و منهدم کردند.",
+   "body_fa": [
+    "سرلشکر ترکی المالکی در پستی در شبکه اجتماعی ایکس اعلام کرد که ائتلاف موفق شده است این موشک کروز شلیک‌شده به سمت این منطقه را رهگیری و منهدم کند."
+   ],
+   "title_ar": "قوات التحالف بقيادة السعودية تدمر صاروخاً حوثياً فوق منطقة الرياض",
+   "summary_ar": "أعلنت قوات التحالف بقيادة السعودية اعتراض وتدمير صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض، وفق ما صرح به المتحدث باسم القوات اللواء تركي المالكي.",
+   "body_ar": [
+    "وأوضح اللواء تركي المالكي في منشور على منصة إكس أن قوات التحالف تمكنت من اعتراض وتدمير الصاروخ الذي استهدف المنطقة."
    ]
   },
   {
@@ -233,6 +437,37 @@
    "body_ar": [
     "استهدفت القوات الأمريكية هدفاً للدفاع الجوي في منطقة سوزا بجزيرة قشم يوم الجمعة، ووصف الرئيس دونالد ترامب العمل العسكري بأنه بسيط وتم بسرعة. وأكدت وسائل الإعلام الرسمية الإيرانية سماع دوى انفجارات في المنطقة. وتعد هذه الضربات الأولى منذ انتخابات المنتصف الأمريكية.",
     "في الوقت نفسه، يدرس المسؤولون الإيرانيون مقترحات لبناء الثقة قدمتها قطر. ويتضمن الإطار الزمني الممتد ليومين رفع الحظر الأمريكي وإلغاء تجميد الأصول مقابل السماح بتفتيش الوكالة الدولية للطاقة الذرية للمنشآت النووية المتضررة وإعادة فتح مضيق هرمز، قبل الانتقال إلى محادثات أوسع."
+   ]
+  },
+  {
+   "id": "28a840ef261a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-citizens-across-middle-east-exercise-heightened-caution",
+   "date": "2026-11-07T03:10:33Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "US urges citizens across Middle East to exercise 'heightened caution'",
+   "title_en": "US urges citizens across Middle East to exercise 'heightened caution'",
+   "summary_en": "The United States Department of State has issued security alerts urging American citizens in the Middle East to exercise heightened vigilance due to potential regional threats.",
+   "body_en": [
+    "According to an alert published by the State Department, Americans in the region face an increased risk of armed attacks by Houthis as well as Iranian efforts targeting US officials. The notice advised travelers to prepare for possible flight cancellations, travel disruptions, and closures of airspace.",
+    "The security warnings were issued by the State Department and multiple US diplomatic missions for countries across the region, including Israel, Saudi Arabia, Qatar, Jordan, Iraq, Bahrain, Kuwait, Oman, the UAE, Lebanon, and Iran."
+   ],
+   "title_fa": "آمریکا از شهروندان خود در سراسر خاورمیانه خواست «احتیاط بیشتری» به خرج دهند",
+   "summary_fa": "وزارت امور خارجه ایالات متحده با انتشار هشدارهای امنیتی از شهروندان آمریکایی در خاورمیانه خواست به دلیل تهدیدات منطقه‌ای هوشیاری بیشتری داشته باشند.",
+   "body_fa": [
+    "بر اساس هشدار منتشرشده از سوی وزارت امور خارجه آمریکا، آمریکایی‌های حاضر در منطقه با افزایش خطر حملات مسلحانه از سوی حوثی‌ها و همچنین تلاش‌های ایران برای هدف قرار دادن مقامات آمریکایی مواجه هستند. این هشدار از مسافران خواسته است برای لغو احتمالی پروازها، اختلال در سفرها و بسته‌شدن حریم هوایی آماده باشند.",
+    "این هشدارهای امنیتی توسط وزارت امور خارجه و سفارتخانه‌ها و نمایندگی‌های مختلف ایالات متحده برای کشورهای منطقه از جمله اسرائیل، عربستان سعودی، قطر، اردن، عراق، بحرین، کویت، عمان، امارات متحده عربی، لبنان و ایران صادر شده است."
+   ],
+   "title_ar": "الولايات المتحدة تحث مواطنيها في الشرق الأوسط على ممارسة \"حذر شديد\"",
+   "summary_ar": "حثت وزارة الخارجية الأمريكية المواطنين الأمريكيين في الشرق الأوسط على ممارسة أقصى درجات الحذر بسبب التهديدات الإقليمية المحتملة.",
+   "body_ar": [
+    "وفقًا لتنبيه نشرته وزارة الخارجية الأمريكية، يواجه الأمريكيون في المنطقة خطرًا متزايدًا جراء الهجمات المسلحة التي يشنها الحوثيون، بالإضافة إلى الجهود الإيرانية التي تستهدف المسئولين الأمريكيين. ونصح التنبيه المسافرين بالاستعداد لاحتمال إلغاء الرحلات الجوية، وتعطل حركة السفر، وإغلاق المجال الجوي.",
+    "وقد صدرت هذه التحذيرات الأمنية عن وزارة الخارجية والعديد من البعثات الدبلوماسية الأمريكية لشمل دولاً عدة في المنطقة، من بينها إسرائيل، والسعودية، وقطر، والأردن، والعراق، والبحرين، والكويت، وعمان، والإمارات، ولبنان، وإيران."
    ]
   },
   {

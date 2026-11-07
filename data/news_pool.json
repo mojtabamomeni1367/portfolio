@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:02:14Z",
+ "updated": "2026-11-07T13:24:38Z",
  "items": [
   {
    "id": "927ac1fd8263",
@@ -2323,6 +2323,503 @@
    ],
    "desc": "Veteran fast bowler Mohammad Abbas is targeting a maiden five-wicket haul on home soil as Pakistan prepare for their two-Test series against Sri Lanka , hoping to add a missing milestone to an otherwise impressive Test career. Speaking on the sidelines of the team’s practice session at the Islamabad Club on Saturday, Abbas expressed satisfaction with his current form and vowed to maintain his consistency. “I thank Allah that I am in form and will try to continue it. I owe a big performance — a five-wicket haul — in Pakistan, so I will try to get my name on the board here as well,” he said. Sin",
    "score": 1
+  },
+  {
+   "id": "1ed61bc0c753",
+   "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+   "date": "2026-11-07T12:22:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+   "score": 9,
+   "dup_of": "44d7fe55d199"
+  },
+  {
+   "id": "10e7c1452b4a",
+   "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+   "date": "2026-11-07T11:59:26Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+   "score": 7
+  },
+  {
+   "id": "e4cfd3af25b8",
+   "title": "Rains flood thousands of displaced families’ tents in Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+   "date": "2026-11-07T11:10:02Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
+   "score": 6
+  },
+  {
+   "id": "eb3a4198ef59",
+   "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
+   "date": "2026-11-07T10:50:54Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
+   "score": 1
+  },
+  {
+   "id": "3892e7fe57db",
+   "title": "Pakistani astronaut to join China’s next space station mission",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+   "date": "2026-11-07T10:17:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
+   "score": 4
+  },
+  {
+   "id": "ab2a133b0417",
+   "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+   "date": "2026-11-07T09:48:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
+   "score": 6
+  },
+  {
+   "id": "395b7d483495",
+   "title": "Court rules against Home Office in asylum seeker kidnapping case",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+   "date": "2026-11-07T13:00:11Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims. The ruling means that many people who have been kidnapped for ransom, whom officials have previously excluded from being victims of exploitation under trafficking rules, will now have to have these claims considered. They may be eligible for the support and recovery package trafficking victims are entitled to. Continue readi",
+   "score": 4
+  },
+  {
+   "id": "48ebc69d655d",
+   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+   "date": "2026-11-07T12:00:12Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza , the networks of Israel ’s military intelligence community were plagued with technical problems. There were major, multi-hour outages to their systems, and repeated crashes. Built-in debugging mechanisms failed. The problems, which started as intelligence operations were undergoing updates to digital infrastructure, became so persistent as to undermine the “confidence” of Israeli intelligence agencies in one of their top network providers: the multinatio",
+   "score": 5
+  },
+  {
+   "id": "7108a19d6c87",
+   "title": "Israel coalition talks gain momentum",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
+   "date": "2026-11-07T12:12:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serving Prime Minister Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
+   "score": 7
+  },
+  {
+   "id": "e6e179b48d3d",
+   "title": "Death toll in Yemen's Bani Hashish reaches 22",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-yemens-bani-hashish-reaches-22",
+   "date": "2026-11-07T12:48:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Death toll in Yemen's Bani Hashish reaches 22 The death toll from Saudi attacks on Yemen's Bani Hashish has risen to 22, the Houthi-run health ministry is reporting. In a statement, the ministry said that most of those killed in air strikes on the district al-Shariyah area were women and children, confirming that some 30 others were wounded, including a camerman for the Houthi-affiliated al-Masirah news channel.",
+   "score": 7
+  },
+  {
+   "id": "48d85a242a48",
+   "title": "Centcom offers $20m reward for information about Iran's nuclear programme",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-offers-20m-reward-information-about-irans-nuclear-programme",
+   "date": "2026-11-07T12:43:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Centcom offers $20m reward for information about Iran's nuclear programme US Central Command (Centcom) has announced it is offering a $20m reward for information about Iran's nuclear programme. In a post on X late on Friday, Centcom said it was offering \"a reward of up to $20 million and possible relocation\" for information about the programme \"including its facilities, equipment, and associated personnel, such as those in the scientific community, or the movement of any of the above\". This comes after Trump confirmed US military strikes on Iran's Qeshm Island - the latest round of attacks sin",
+   "score": 8,
+   "dup_of": "853c9ccd2c08"
+  },
+  {
+   "id": "6f1f97b06f55",
+   "title": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/netanyahu-and-mossad-chief-planned-attack-iran-israeli-election-says-report",
+   "date": "2026-11-07T12:38:24Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election Submitted by MEE staff on Sat, 11/07/2026 - 09:51 Channel 12 said an Israeli operative inadvertently alerted Washington of the plan, after which the US moved to stop the operation Israeli Prime Minister Benjamin Netanyahu speaks alongside US President Donald Trump during a dinner at the White House in Washington, DC, with Israeli military secretary Roman Gofman on 7 July 2025 (Andrew Harnik/Getty Images via AFP) Off Israeli Prime Minister Benjamin Netanyahu and Mossad chief Roman Gofman sought to c",
+   "score": 8
+  },
+  {
+   "id": "78af892b23f3",
+   "title": "Rains flood Gaza displacement camps as Israeli authorities block entry of shelter materials into territory",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rains-flood-gaza-displacement-camps-israeli-authorities-block-entry",
+   "date": "2026-11-07T11:56:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Rains flood Gaza displacement camps as Israeli authorities block entry of shelter materials into territory Thousands of tents sheltering displaced Palestinians have been flooded by heavy rains overnight, exacerbating an already dire humanitarian situation. Scarce aid entering the territory has left tens of thousands of Palestinians in the war-torn enclave exposed to the elements for a fourth winter in a row- with no fuel and nothing but makeshift tents and shelters for protection. Red Cross spokesperon Amani Al Naouq told Al Jazeera that she has seen footage of “entire families, entire camps” ",
+   "score": 6,
+   "dup_of": "e4cfd3af25b8"
+  },
+  {
+   "id": "b552424f341c",
+   "title": "Yemeni government forces claim attack on Houthi positions in al-Misrakh, while Saudi attacks on Bani Hashih kill at least 15",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-attack-houthi-positions-al-misrakh-while",
+   "date": "2026-11-07T11:33:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemeni government forces claim attack on Houthi positions in al-Misrakh, while Saudi attacks on Bani Hashih kill at least 15 Yemeni government forces have claimed three air attacks on Houthi positions in the al-Misrakh district of the Taiz governorate. The city of Taiz- which is government-held- has been subject to an ongoing Houthi siege. The blockade has triggered a spiralling humanitarian crisis in the city, as road closures bar vital supplies, including fuel, from entering. Laurent Bukera, the United Nations Humanitarian Coordinator for Yemen warned that the city's health system is \"close ",
+   "score": 7
+  },
+  {
+   "id": "5993c755a2f1",
+   "title": "Gaza death toll rises after medical sources report 10 deaths in last 48 hours",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-after-medical-sources-report-10-deaths-last-48",
+   "date": "2026-11-07T11:18:06Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Gaza death toll rises after medical sources report 10 deaths in last 48 hours Gaza's death toll has surged to 74,640 with another 175,947 wounded after hospitals across the Strip reported that they had received ten bodies and 22 injured in the last 48 hours. Wafa reports, citing medical sources, that since the so-called ceasefire took effect in October 2025, Israel has killed some 1,610 Palestinians and wounded another 5,819. Rescue teams have recovered around 849 bodies from the rubble, while thousands remain trapped under the debris of razed buildings.",
+   "score": 6
+  },
+  {
+   "id": "b96de1136472",
+   "title": "Trump claims 'minor strikes' on Iran's Qeshm Island, but says talks ongoing",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/trump-says-us-military-carried-out-fresh-round-minor-strikes-irans-qesham-island-claims-talks",
+   "date": "2026-11-07T11:03:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump claims 'minor strikes' on Iran's Qeshm Island, but says talks ongoing Submitted by MEE staff on Sat, 11/07/2026 - 09:13 The claimed attack comes shortly after Trump's Republican Party suffered a crushing defeat in the US midterm elections US President Donald Trump speaks during NASA's Max Power event at the Kennedy Space Center, in Merritt Island, Florida, US, November 6, 202 (REUTERS) Off US President Donald Trump said on Friday that the American military carried out a new round of \"minor strikes\" on Iran' s Qeshm Island, which he claimed \"knocked out\" Iranian air defence systems. Irani",
+   "score": 9,
+   "dup_of": "8acdf42e10a9"
+  },
+  {
+   "id": "b5e7bcb33172",
+   "title": "Houthi media says 11 killed in Saudi strikes on Yemen's Sanaa province",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-says-11-killed-saudi-strikes-yemens-sanaa-province",
+   "date": "2026-11-07T10:38:13Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthi media says 11 killed in Saudi strikes on Yemen's Sanaa province Houthi media said on Saturday that Saudi strikes killed 11 people, including women and children, in Yemen's Sanaa province, following the return of the country's dormant civil war. \"Martyrdom of 11 citizens, among them women and children, in Saudi enemy airstrikes\" on homes in the Al-Shariyah area of Sanaa province, the Iran-backed Houthis' Saba news agency said, adding that operations to recover victims from the rubble were ongoing and that \"aircraft targeted paramedics with two strikes\". Reporting by AFP",
+   "score": 7,
+   "dup_of": "e6e179b48d3d"
+  },
+  {
+   "id": "39e7e58b90d4",
+   "title": "Covering Palestine: Historic news clippings reveal US media complicity in Israel's crimes",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/discover/covering-palestine-history-us-media-complicity-their-coverage-palestine",
+   "date": "2026-11-07T09:06:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Covering Palestine: Historic news clippings reveal US media complicity in Israel's crimes Submitted by Fleur Hargreaves on Wed, 10/28/2026 - 13:45 An archive of American newspaper excerpts documents how Israel’s occupation was reported before 7 October 2023 A clipping from the San Francisco Examiner with the headline “Arab activist killed by Santa Ana bomb” from 12 October 1985 Off For years, mainstream media has been criticised for its failure to report accurately on Israel ’s genocide in Gaza, allowing Israel to commit crimes with impunity. In July the UN special rapporteur for the Palestini",
+   "score": 3
+  },
+  {
+   "id": "f31d7a2be30b",
+   "title": "Morning update",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-663",
+   "date": "2026-11-07T07:52:53Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Morning update Good Morning Middle East Eye readers, If you are just joining us, here are key developments from across the region and beyond: *Qatar’s Prime Minister and Minister of Foreign Affairs, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, has said that efforts at mediation between Iran and the United States remain active to prevent escalation, warning that the crisis \"cannot be left unresolved\". *Qatar has denied reports that its prime minister said the United States and Iran had failed to reach an agreement to end the war, calling the claims “false and misleading”. *US President ",
+   "score": 1
+  },
+  {
+   "id": "83339d9ab74a",
+   "title": "US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-former-soldier-visit-netherlands-accused-gaza-war-crimes",
+   "date": "2026-11-07T07:43:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "US-Israeli former soldier on visit to Netherlands accused of Gaza war crimes The Hind Rajab Foundation (HRF) has filed a criminal complaint in the Netherlands against a former US-Israeli soldier accused of involvement in attacks on schools sheltering displaced Palestinians, mass detentions and the destruction of residential buildings in Gaza. The complaint, submitted to the Dutch National Public Prosecutor's Office on 4 November, names Noam Himmelman, a former member of the Israeli army's Netzah Yehuda Battalion, who is currently in Amsterdam. HRF alleges that Himmelman was involved in war cri",
+   "score": 5
+  },
+  {
+   "id": "d096bba89d7d",
+   "title": "Israeli forces raid West Bank areas of Salfit and Nablus, detain Palestinian man",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-west-bank-areas-salfit-and-nablus-detain-palestinian",
+   "date": "2026-11-07T07:06:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces raid West Bank areas of Salfit and Nablus, detain Palestinian man Israeli forces have carried out raids in several parts of the occupied West Bank and detained at least one person on Saturday, Wafa reported. Forces raided homes in the town of az-Zawiya, near Salfit, as well as in the Askar al-Jadeed and Balata camps, near Nablus, Wafa reported. A Palestinian man was detained in Askar al-Jadeed, the agency added. Quds News Network, meanwhile, released a video showing Israeli forces detaining several Palestinians by the roadside after intercepting their vehicle near the town of Tu",
+   "score": 5
+  },
+  {
+   "id": "893996b592e5",
+   "title": "'It would facilitate Gaza genocide': Protesters storm Microsoft planned site",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/it-would-facilitate-gaza-genocide-protesters-storm-microsoft-planned",
+   "date": "2026-11-07T06:43:44Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "'It would facilitate Gaza genocide': Protesters storm Microsoft planned site Several hundred activists occupied the construction site of a planned Microsoft data centre in Amsterdam on Friday, protesting the technology giant's alleged role in facilitating Israel's genocide in Gaza, as well as the environmental impact of artificial intelligence infrastructure. The demonstration, organised by climate and justice collective Geef Tegengas and environmental group Fossielvrij, halted construction work for the day in the city's Sloterdijk district. The protesters argued that the facility could be use",
+   "score": 4
+  },
+  {
+   "id": "b7c61e795e92",
+   "title": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-foreign-minister-discusses-de-escalation-saudi-uae-kuwaiti",
+   "date": "2026-11-07T06:18:22Z",
+   "countries": [
+    "ARE",
+    "EGY",
+    "KWT",
+    "SAU"
+   ],
+   "desc": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts Egyptian Foreign Minister Badr Abdelatty says that he has discussed with Saudi Arabia's Foreign Minister, Prince Faisal bin Farhan, the need to sustain joint efforts to \"prevent escalation, restore calm, and pursue the path of negotiations\". Abdelatty said that in a phone call for UAE foreign minister on Friday, he discussed efforts to \"restore calm, prevent escalation and prioritise diplomacy\", while in another call with his Kuwaiti counterpart, he emphasised \"the importance of supporting de-escalation, u",
+   "score": 7
+  },
+  {
+   "id": "bd2525dc963e",
+   "title": "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-forces-destroy-houthi-missile-over-riyadh-region",
+   "date": "2026-11-07T05:44:29Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition forces destroy Houthi missile over Riyadh region Saudi-led coalition forces intercepted and destroyed a cruise missile launched by the Houthis targeting the Riyadh region, spokesperson for the forces, Major General Turki al-Malki, said in a post on X.",
+   "score": 8
+  },
+  {
+   "id": "d0e3111bb327",
+   "title": "Iran will not allow US bases in the region to be rebuilt, army spokesman says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-not-allow-us-rebuild-bases-region-army-spokesman-says",
+   "date": "2026-11-07T05:32:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran will not allow US bases in the region to be rebuilt, army spokesman says Iranian Army Spokesman Brigadier General Mohammad Akraminia has said Iran's army will not allow US military bases in the region to be rebuilt. Akraminia said more than 228 locations or facilities at US bases across the region had been severely damaged or destroyed, according to Iran’s Fars news agency, claiming no US base in the region remained capable of operational missions, forcing US forces to bring in fuel for their vessels and supplies for personnel from outside the region. “We will never allow the enemy’s base",
+   "score": 7
+  },
+  {
+   "id": "7fdf2dcc770e",
+   "title": "Israeli settler attacks on West Bank olive harvest hit record since 2006, UN says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-attacks-west-bank-olive-harvest-hit-record-2006-un-says",
+   "date": "2026-11-07T04:51:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settler attacks on West Bank olive harvest hit record since 2006, UN says The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) has said Israeli settlers have carried out a total of 377 attacks on olive harvest across the occupied West Bank since September, a record since 2006 when the UN began recording them. In a statement, OCHA said that during these attacks, one Palestinian was killed by a settler, more than 200 Palestinians were injured, and over 3,850 olive trees and saplings were damaged or vandalised. Combined with official Israeli restrictions on Palest",
+   "score": 6
+  },
+  {
+   "id": "9f68a8ffe311",
+   "title": "Iranian forces on higher alert, stronger than before war, spokesman says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-forces-higher-alert-stronger-war-spokesman-says",
+   "date": "2026-11-07T04:07:43Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iranian forces on higher alert, stronger than before war, spokesman says Iran's military is \"stronger\" and more motivated than it was when the United States and Israel started the war in February, says Iranian army spokesman Mohammad Akraminia. \"Today, the Islamic Republic's armed forces... having gained experience from direct confrontation with the United States and the Israeli regime, are on higher alert and are stronger than they were at the beginning of the war,\" Akraminia said, according to the state news agency Irna. \"They now possess greater motivation, commitment, and self-confidence.\"",
+   "score": 8,
+   "dup_of": "7afa583ecee2"
+  },
+  {
+   "id": "a923cf344fd6",
+   "title": "'Crisis cannot be left unresolved': Qatar PM says mediation efforts continue",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/crisis-cannot-be-left-unresolved-qatar-pm-says-mediation-efforts",
+   "date": "2026-11-07T03:34:35Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "'Crisis cannot be left unresolved': Qatar PM says mediation efforts continue Qatar’s Prime Minister and Minister of Foreign Affairs, Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, has said that efforts at mediation between Iran and the United States remain active to prevent escalation, warning that the crisis \"cannot be left unresolved\". During a public interview at Oxford University on Friday, Al Thani said that “for the past couple of weeks, we have worked with colleagues in the US administration who have very genuine intentions to find a way to contain the situation and de-escalate it",
+   "score": 8,
+   "dup_of": "d01f5b42d42d"
+  },
+  {
+   "id": "28a840ef261a",
+   "title": "US urges citizens across Middle East to exercise 'heightened caution'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-citizens-across-middle-east-exercise-heightened-caution",
+   "date": "2026-11-07T03:10:33Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "desc": "US urges citizens across Middle East to exercise 'heightened caution' The United States has urged Americans currently in the Middle East to exercise \"heightened vigilance\" due to the \"increased threat of armed attacks by Houthis and Iranian efforts to target US government officials in the region\". \"Be aware of potential flight cancellations, airspace closures, and travel disruptions,\" reads an alert issued by the Department of State on X. The Department of State and multiple US embassies/missions across the MiddleEast issued security alerts for Israel, Saudi Arabia, Iran, Iraq, Qatar, Oman, Jo",
+   "score": 7
+  },
+  {
+   "id": "ec3d5f187a2f",
+   "title": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+   "date": "2026-11-07T11:39:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday. Pakistan and China are close diplomatic and strategic partners, and signed a deal in February 2025 setting up a Chinese government training programme for Pakistani astronauts. The statement by the China National Space Administration (CNSA) did not give a date of departure, but the mission is expected to take place by the end of the year. However, earlier in October, Planning Minister Ahsan",
+   "score": 4,
+   "dup_of": "3892e7fe57db"
+  },
+  {
+   "id": "d6b4f8708fc1",
+   "title": "Supreme Court terms lawyers' vigilance 'foundational' to protecting clients' cases from dismissal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042824/supreme-court-terms-lawyers-vigilance-foundational-to-protecting-clients-cases-from-dismissal",
+   "date": "2026-11-07T11:52:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Emphasising the importance of diligent case presentation, the Supreme Court on Saturday reiterated that an advocate’s absolute vigilance was a “foundational requirement” for protecting a client’s case from dismissal in default. This principle is also “reverberated across the world with one voice by dint of a legal maxim ‘ Vigilantibus et non dormientibus jura subveniunt ’, thereby implying that the law assists the vigilant, not those who sleep over their rights”, observed Justice Muhammad Ali Mazhar in an eight-page judgment issued on Saturday, which restored two civil revisions tha",
+   "score": 2
+  },
+  {
+   "id": "b77052c55755",
+   "title": "PCB adds Aamir Jamal, three uncapped players to Pakistan squad for Sri Lanka Tests",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042821/pcb-adds-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
+   "date": "2026-11-07T10:41:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Pakistan Cricket Board (PCB) on Saturday added pace-bowling all-rounder Aamir Jamal and three uncapped players to the Test squad for the two-match series against Sri Lanka , taking the strength of the team to 16. Batter Mohammad Tayyab Arif, fast bowlers Ali Shabbir and Saqib Khan have earned their maiden call-ups following impressive performances in domestic cricket and the PCB Patron’s XI’s three-day practice match against Sri Lanka at the Islamabad Club from November 4 to 6. The PCB also released Ali Usman and Abdullah Fazal from the original 14-member squad. The first Test is scheduled",
+   "score": 1
+  },
+  {
+   "id": "1edb7838a2d6",
+   "title": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
+   "date": "2026-11-07T12:05:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior. “Interior Minister Mohsin Naqvi and Sudanese Interior Minister Lt Gen Babiker Samra Mustafa Ali signed the agreement,” the ministry said on the social media platform X. “Under the agreement, holders of Pakistani and Sudanese official and diplomatic passports will be able to enter each other’s countries without a visa,” it stated. “Both interior ministers welcomed the visa-free entry agreement for official and diplomatic passp",
+   "score": 4
+  },
+  {
+   "id": "59ac5037dda5",
+   "title": "When home is hell",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042776/when-home-is-hell",
+   "date": "2026-11-07T00:03:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ON an ordinary March afternoon this year, the children of a household in Lahore’s Choong district gathered for their uncle’s small promise of treats. Among them was four-year-old Azan, who was led out for a stroll by his uncle. It all ended eight hours later in the isolated outskirts of Quaid-i-Azam Industrial Estate — with Azan dead. The minor’s body, when recovered, showed a two-inch exposed spinal cord attaching the head and mutilated remains. Azan had reportedly been tortured and eventually killed with an eight-inch-long knife by his own father, allegedly in a calculated bid to implicate a",
+   "score": 2
+  },
+  {
+   "id": "151e93764e95",
+   "title": "قوه قضائیه ایران می‌گوید محمدعارف شه‌بخش، فرد «مرتبط» با جیش‌العدل، را اعدام کرده است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqd0990elxrlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T11:11:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "قوه قضائیه ایران اعلام کرده است که محمدعارف شه‌بخش را اعدام کرده است. میزان، خبرگزاری قوه قضائیه گزارش داده است که محمدعارف شه‌بخش با جیش العدل «مرتبط» و «به اتهام بغی و محاربه» محاکمه و به اعدام محکوم شده بود.",
+   "score": 6
+  },
+  {
+   "id": "d83c0e2697c6",
+   "title": "\"الشتاء في غزة أصبح أقسى من الحرب\"، الأمطار تُغرق آلاف الخيام في القطاع",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cr3ellen9927o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T10:45:33Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "بلغت التقديرات الأولية للخسائر المباشرة لبداية هذا المنخفض نحو 3 ملايين دولار حتى الآن، وفق المكتب الإعلامي الحكومي في غزة.",
+   "score": 6,
+   "dup_of": "e4cfd3af25b8"
   }
  ]
 }
