@@ -1,7 +1,891 @@
 {
  "month": "2026-10",
- "count": 15,
+ "count": 45,
  "items": [
+  {
+   "id": "0e630e42ad19",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-has-no-plans-fight-houthis-under-saudi-pact-minister-says-0",
+   "date": "2026-10-23T20:27:03Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
+   "title_en": "Turkey has no plans to fight Houthis under Saudi pact, minister says",
+   "summary_en": "Turkish Defence Minister Yasar Guler announced that Turkey does not envision its military engaging in combat against Yemen's Houthis under a mutual defence pact with Saudi Arabia and Pakistan.",
+   "body_en": [
+    "In a television interview, Guler clarified that any Turkish military support for Saudi Arabia would primarily focus on strengthening deterrence, comparing the arrangement to Turkey's presence in Qatar. He noted that any specific requests for military assistance from Riyadh would be evaluated and would require legal procedures and parliamentary consent.",
+    "The Mecca Joint Defence Agreement, signed in August and currently submitted to the Turkish parliament for ratification, binds Turkey, Saudi Arabia, and Pakistan to treat an armed assault on one signatory as an attack on all three."
+   ],
+   "title_fa": "وزیر دفاع ترکیه: ترکیه‌ای قصدی برای جنگ با حوثی‌ها تحت پیمان با عربستان ندارد",
+   "summary_fa": "یاشار گولر، وزیر دفاع ترکیه، اعلام کرد این کشور در قالب پیمان دفاعی مشترک با عربستان سعودی و پاکستان، هیچ برنامه‌ای برای درگیری نظامی نیروهای خود با حوثی‌های یمن ندارد.",
+   "body_fa": [
+    "گولر در یک مصاحبه تلویزیونی تصریح کرد که هرگونه پشتیبانی نظامی ترکیه از عربستان سعودی عمدتاً با هدف تقویت بازدارندگی خواهد بود و این اقدام را با حضور ترکیه در قطر مقایسه کرد. وی خاطرنشان کرد که درخواست‌های مشخص برای حمایت نظامی از سوی ریاض ارزیابی شده و نیازمند طی مراحل قانونی و تصویب پارلمان خواهد بود.",
+    "توافق‌نامه دفاع مشترک مکه که در ماه اوت امضا شد و این هفته برای تصویب به پارلمان ترکیه ارائه گردید، سه کشور را متعهد می‌سازد که حمله مسلحانه به هر یک از اعضا را به عنوان حمله به تمامی آن‌ها تلقی کنند."
+   ],
+   "title_ar": "وزير الدفاع التركي: تركيا لا تخطط لقتال الحوثيين بموجب الاتفاق مع السعودية",
+   "summary_ar": "أعلن وزير الدفاع التركي يشار غولر أن بلاده لا تتوقع ورود قواتها في مواجهات قتالية ضد الحوثيين في اليمن بموجب اتفاقية الدفاع المشترك مع السعودية وباكستان.",
+   "body_ar": [
+    "وأوضح غولر في مقابلة تلفزيونية أن أي دعم عسكري تركي للسعودية سيركز بالأساس على تعزيز الردع، مشابهاً ذلك بالدور التركي في قطر. وأشار إلى أن أي طلبات محددة للحصول على مساعدة عسكرية من الرياض ستخضع للتقييم والموافقات القانونية والبرلمانية.",
+    "وتلزم اتفاقية مكة للدفاع المشترك، التي وُقعت في أغسطس وأُحيلت إلى البرلمان التركي للتصديق عليها هذا الأسبوع، الدول الثلاث بأن تعتبر أي هجوم مسلح على إحداها هجوماً على الجميع."
+   ]
+  },
+  {
+   "id": "3290c34fc8b9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/everybody-terrorised-el-fasher-population-drops-just-7-percent-last-years-high-amnesty-says",
+   "date": "2026-10-23T20:12:31Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 7,
+   "title": "'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says",
+   "title_en": "'Everybody is terrorised': El-Fasher population drops to just seven percent of last year's high, Amnesty says",
+   "summary_en": "Amnesty International reported that the population of El Fasher in Sudan's North Darfur region has dropped by over 90 percent compared to last year, leaving only 70,000 residents following its capture by the Rapid Support Forces (RSF).",
+   "body_en": [
+    "Based on interviews with 25 civilians and aid workers, Amnesty documented widespread torture, illegal killings, arbitrary detentions, and surveillance by the RSF. Former detainees described being held in converted schools, subjected to severe beatings, forced labor, and executions, with many suffering from acute malnutrition.",
+    "Humanitarian operations in the city remain severely restricted and heavily monitored by the RSF, preventing free interaction with residents. Amnesty renewed its calls for an immediate ceasefire, an international civilian protection force, and a global arms embargo on Sudan, specifically urging countries to halt weapon transfers to the UAE due to its support for the RSF."
+   ],
+   "title_fa": "عفو بین‌الملل: با وحشت همگانی، جمعیت الفاشر به هفت درصد میزان سال گذشته کاهش یافته است",
+   "summary_fa": "عفو بین‌الملل گزارش داد که جمعیت شهر الفاشر در دارفور شمالی سودان پس از تصرف آن توسط نیروهای پشتیبانی سریع (RSF)، بیش از ۹۰ درصد نسبت به سال گذشته کاهش یافته و تنها ۷۰ هزار نفر در آن باقی مانده‌اند.",
+   "body_fa": [
+    "عفو بین‌الملل بر اساس مصاحبه با ۲۵ غیرنظامی و امدادگر، موارد گسترده‌ای از شکنجه، قتل‌های غیرقانونی، بازداشت‌های خودسرانه و نظارت توسط نیروهای پشتیبانی سریع را ثبت کرده است. بازداشت‌شدگان سابق از نگهداری در مدرسه‌های تغییرکاربری‌داده‌شده، ضرب و شتم شدید، کار اجباری و اعدام یاد کرده‌اند و از سوءتغذیه شدید رنج می‌برند.",
+    "فعالیت‌های بشردوستانه در شهر همچنان به‌شدت محدود بوده و تحت نظارت دقیق نیروهای پشتیبانی سریع قرار دارد. عفو بین‌الملل ضمن تکرار درخواست خود برای آتش‌بس فوری و اعزام نیروی بین‌المللی محافظت از غیرنظامیان، خواستار تحریم تسلیحاتی سودان و توقف توزیع سلاح به امارات متحده عربی شد."
+   ],
+   "title_ar": "منظمة العفو الدولية: السكان مرعوبون ونسبة المقيمين في الفاشر تنخفض إلى 7% مقارنة بالعام الماضي",
+   "summary_ar": "أفادت منظمة العفو الدولية بأن عدد سكان مدينة الفاشر في ولاية شمال دارفور بالسودان انخفض بنسبة تتجاوز 90% مقارنة بالعام الماضي، حيث لم يبق سوى 70 ألف شخص عقب سيطرة قوات الدعم السريع عليها.",
+   "body_ar": [
+    "وبناءً على مقابلات مع 25 مدنياً وعاملاً في المجال الإنساني، وثقت منظمة العفو الدولية عمليات تعذيب واسعة النطاق وقتلاً غير قانوني واحتجازاً تعسفياً ورقابة من قبل قوات الدعم السريع. وذكر معتقلون سابقون أنه تم احتجازهم في مدارس تحولت إلى مراكز احتجاز، وتعرضوا للضرب المبرح والعمل القسري والإعدامات.",
+    "وتخضع العمليات الإنسانية في المدينة لقيود صارمة ومراقبة وثيقة من قوات الدعم السريع، مما يمنع التواصل الحر مع السكان. وجددت المنظمة مطالباتها بوقف فوری لإطلاق النار ونشر قوة دولية لحماية المدنيين وحظر توريد الأسلحة للسودان والإمارات."
+   ]
+  },
+  {
+   "id": "1761a261dbc6",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-us-could-launch-another-military-operation-against-iran",
+   "date": "2026-10-23T19:50:46Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "score": 9,
+   "title": "Trump: US could launch another military operation against Iran",
+   "title_en": "Trump: US could launch another military operation against Iran",
+   "summary_en": "US President Donald Trump stated at a rally in Florida that Washington might conduct another military operation against Iran.",
+   "body_en": [
+    "Speaking to supporters, Trump suggested the US could carry out \"another little Operation Epic Fury\" or Iran might choose to negotiate. He added that if Iranian leaders were smart they would agree to talk, though he expressed doubt that they would do so.",
+    "Earlier the same day, Trump was asked about remarks by Tom Barrack, the US Ambassador to Turkey, who said the US could strike Iran as early as the weekend. Trump responded that he was unaware of those comments."
+   ],
+   "title_fa": "ترامپ: ایالات متحده ممکن است عملیات نظامی دیگری را علیه ایران آغاز کند",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، در تجمع انتخاباتی در فلوریدا گفت که واشنگتن ممکن است عملیات نظامی دیگری را علیه ایران انجام دهد.",
+   "body_fa": [
+    "ترامپ در سخنرانی برای طرفدارانش عنوان کرد که ایالات متحده می‌تواند «عملیات حماسه خشم کوچک دیگری» انجام دهد یا اینکه ایران ممکن است مذاکره را انتخاب کند. وی افزود که اگر رهبران ایران باهوش باشند، موافقت خواهند کرد که وارد گفتگو شوند، هرچند ابراز تردید کرد که دست به چنین کاری بزنند.",
+    "پیش از آن در همان روز، از ترامپ درباره اظهارات تام باراک، سفیر آمریکا در ترکیه، پرسیده شد که گفته بود ایالات متحده می‌تواند همین آخر هفته به ایران حمله کند. ترامپ در پاسخ گفت که از این اظهارات بی‌خبر است."
+   ],
+   "title_ar": "ترامب: الولايات المتحدة قد تشن عملية عسكرية أخرى ضد إيران",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب خلال تجمع حاشد في فلوريدا أن واشنطن قد تنفذ عملية عسكرية أخرى ضد إيران.",
+   "body_ar": [
+    "وفي كلمته أمام مؤيديه، لمح ترامب إلى أن الولايات المتحدة قد تنفذ \"عملية صغيرة أخرى باسم ملحمة الغضب\" أو أن إيران قد تختار التفاوض. وأضاف أنه إذا كان القادة الإيرانيون أذكياء فسيوافقون على المحادثات، لكنه أعرب عن شكه في قيامهم بذلك.",
+    "وفي وقت سابق من اليوم نفسه، سُئل ترامب عن تصريحات السفير الأمريكي لدى تركيا، توم باراك، الذي قال إن الولايات المتحدة قد تضرب إيران في نهاية هذا الأسبوع. ورد ترامب بأنه لا يعلم أي شيء عن تلك التصريحات."
+   ]
+  },
+  {
+   "id": "2383aedb23df",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039288/pakistan-saudi-arabia-have-completed-ratification-of-makkah-defence-pact-fo",
+   "date": "2026-10-23T16:43:55Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 8,
+   "title": "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO",
+   "title_en": "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO",
+   "summary_en": "Pakistan and Saudi Arabia have completed the ratification process for the Makkah Joint Defence Agreement, while Turkiye is currently fulfilling its domestic legal requirements to do so, according to Pakistan's Foreign Office.",
+   "body_en": [
+    "Foreign Office spokesperson Sajjad Haider Khan confirmed that the tripartite pact, signed in August, treats an armed attack against one member as an attack on all. He emphasized that the agreement is defensive in nature, aligned with UN Charter principles, and not directed at any specific nation. Any potential collective assistance will be decided jointly by all three parties following an objective assessment of circumstances.",
+    "The announcement follows recent Houthi strikes on Saudi Arabia. While the agreement establishes a framework for collective defence and potential rapid military deployment, Pakistani officials stated that the pact's implementation and potential invocation remain subject to mutual discussions among the member states."
+   ],
+   "title_fa": "وزارت امور خارجه: پاکستان و عربستان سعودی تصویب پیمان دفاعی مکه را به پایان رساندند",
+   "summary_fa": "به گفته سخنگوی وزارت امور خارجه پاکستان، اسلام‌آباد و ریاض روند تصویب «پیمان دفاع مشترک مکه» را به پایان رسانده‌اند و ترکیه نیز در حال طی مراحل قانونی داخلی خود برای تصویب آن است.",
+   "body_fa": [
+    "سجاد حیدر خان، سخنگوی وزارت امور خارجه پاکستان، تأیید کرد که این پیمان سه‌جانبه که در ماه اوت امضا شد، حمله مسلحانه به یک عضو را به عنوان حمله به همه اعضا تلقی می‌کند. وی تأکید کرد که این اتفاق‌نظر ماهیتی دفاعی دارد، با منشور ملل متحد همراستا است و علیه کشور خاصی جهت‌گیری نشده است. تصمیم‌گیری درباره هرگونه کمک جمعی مشروط به ارزیابی موضوعی شرایط توسط هر سه کشور خواهد بود.",
+    "این اظهارات پس از حملات اخیر حوثی‌ها به عربستان سعودی مطرح می‌شود. اگرچه این پیمان چارچوبی برای دفاع جمعی و استقرار سریع نظامی فراهم می‌کند، مقامات پاکستانی اعلام کردند که اجرای این توافقنامه و استناد احتمالی به آن، نیازمند تصمیم‌گیری و گفتگوهای مشترک میان کشورهای عضو است."
+   ],
+   "title_ar": "الخارجية الباكستانية: پاکستان والسعودية أتمتا التصديق على اتفاقية مكة الدفاعية",
+   "summary_ar": "أعلنت وزارة الخارجية الباكستانية أن إسلام آباد والرياض أتمتا إجراءات التصديق على اتفاقية مكة للتدفُاع المشترك، بينما تواصل تركيا استكمال إجراءاتها القانونية المحلية للتصديق عليها.",
+   "body_ar": [
+    "أكد المتحدث باسم الخارجية الباكستانية، سجاد حيدر خان، أن الاتفاقية الثلاثية الموقعة في أغسطس تعتبر أي هجوم مسلح على طرف هجوماً على الجميع. وأوضح أن الاتفاقية ذات طبيعة دفاعية وتتوافق مع ميثاق الأمم المتحدة وليست موجهة ضد أي دولة بعينها، مشيراً إلى أن تقديم أي مساعدة جماعية سيتحدد بالتشاور بين الدول الثلاث بعد تقييم الظروف.",
+    "تأتي هذه التصريحات عقب الهجمات الأخيرة التي شنها الحوثيون على السعودية. ورغم أن الاتفاقية تضع إطاراً للدفاع الجماعي وإمكانية الانتشار العسكري السريع، فقد ذكر المسؤولون الباكستانيون أن تفعيل الاتفاقية أو الاستناد إليها يخضع لمباحثات مشتركة بين الدول الأعضاء."
+   ]
+  },
+  {
+   "id": "1b53825f47c1",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T15:30:47Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 7,
+   "title": "Oil spill washes up on UAE beaches after tanker strike",
+   "title_en": "Oil spill washes up on UAE beaches after tanker strike",
+   "summary_en": "An oil spill originating from a tanker attacked near the Strait of Hormuz has reached the coastline of the United Arab Emirates, prompting authorities to close several beaches. The slick has expanded over 35 kilometres from the vessel, impacting coastal areas near Umm Al Quwain.",
+   "body_en": [
+    "UAE authorities said containment efforts began immediately to curb the environmental impact of the spill, which stems from the Panama-flagged crude oil tanker Gem No.2. The ship caught fire after being hit by an unknown projectile in early October during a series of Iranian attacks on vessels, and its 22 Indian crew members were subsequently rescued.",
+    "Researchers have warned that the environmental damage remains uncertain, though the spill threatens critical habitats nearby, including Siniyah and Khor Al Beidah islands. The area is a recognized biodiversity zone home to coral reefs, sea turtles, and endangered marine species."
+   ],
+   "title_fa": "نشت نفت پس از حمله به نفتکش به سواحل امارات رسید",
+   "summary_fa": "نشت نفت از یک نفتکش مورد حمله قرار گرفته در نزدیکی تنگه هرمز به خط ساحلی امارات متحده عربی رسیده و مقام‌ها را مجبور به بستن چندین ساحل کرده است. این لکه نفتی بیش از ۳۵ کیلومتر از کشتی گسترش یافته و مناطقی را در نزدیکی ام‌القیوین تحت تأثیر قرار داده است.",
+   "body_fa": [
+    "مقامات امارات متحده عربی اعلام کردند که اقدامات مهار لکه برای کاهش اثرات زیست‌محیطی ناشی از نفتکش «جم شماره ۲» با پرچم پاناما بلافاصله آغاز شده است. این کشتی در اوایل اکتبر پس از اصابت پرتابه‌ای ناشناس در جریان حملات ایران دچار آتش‌سوزی شد و هر ۲۲ خدمه هندی آن نجات یافتند.",
+    "پژوهشگران هشدار داده‌اند که با وجود نامشخص بودن میزان دقیق آسیب‌ها، نشت نفت زیستگاه‌های مهم مجاور از جمله جزایر سینیه و خور البیضاء را تهدید می‌کند. این منطقه تنوع زیستی شناخته‌شده شامل تپه‌های مرجانی، لاک‌پشت‌های دریایی و گونه‌های در معرض خطر انقراض است."
+   ],
+   "title_ar": "تسرب نفطي يصل إلى شواطئ الإمارات بعد استهداف ناقلة",
+   "summary_ar": "وصل تسرب نفطي ناتج عن ناقلة تعرضت لهجوم بالقرب من مضيق هرمز إلى سواحل دولة الإمارات، مما دفع السلطات إلى إغلاق عدد من الشواطئ. وامتدت بقعة النفط لأكثر من 35 كيلومتراً من السفينة لتصل إلى مناطق ساحلية قرب أم القيوين.",
+   "body_ar": [
+    "أفادت السلطات الإماراتية بأنها بدأت فوراً جهود الاحتواء للحد من الآثار البيئية للتسرب الناجم عن ناقلة النفط الخام \"جم رقم 2\" التي ترفع علم بنما. وكانت السفينة قد تعرضت للاشتعال إثر إصابتها بمقذوف مجهول في أوائل أكتوبر وسط تصاعد هجمات إيرانية على السفن، وتم إنقاذ جميع أفراد طاقمها الهنود البالغ عددهم 22 بحاراً.",
+    "وحذر باحثون من أن حجم الأضرار البيئية لا يزال غير مؤكد، رغم أن البقعة تهدد موائل حيوية قريبة تشمل جزيرتي السينية وخور البيضاء، وهي منطقة معترف بها للتنوع البيولوجي وتضم شعاباً مرجانية وسلاحف بحرية وكائنات مهددة بالانقراض."
+   ]
+  },
+  {
+   "id": "5c89fcc53c3c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039222/r4-bloc-european-powers-discuss-developments-in-the-gulf-in-istanbul-meeting",
+   "date": "2026-10-23T15:24:19Z",
+   "countries": [
+    "EGY",
+    "IRN",
+    "ISR",
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting",
+   "title_en": "R4 bloc, European powers discuss developments in the Gulf in Istanbul meeting",
+   "summary_en": "Foreign ministers from the R4 group—Pakistan, Egypt, Saudi Arabia, and Turkiye—met with their counterparts from France, Germany, Italy, and the UK in Istanbul to discuss regional developments in the Gulf amid the US-Israeli war on Iran.",
+   "body_en": [
+    "According to Pakistan's Foreign Office, the meeting provided an opportunity to exchange views on regional developments in the Gulf and their socioeconomic impacts, as well as the need for diplomatic engagement. Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar briefed participants on Pakistan's diplomatic efforts to de-escalate tensions.",
+    "The R4 bloc also held a separate meeting to review Middle East security challenges, expressing solidarity with Saudi Arabia and condemning Houthi attacks targeting the kingdom. Additionally, Dar held bilateral talks on the sidelines with foreign ministers from Turkiye, Egypt, and Germany."
+   ],
+   "title_fa": "گفتگوی بلوک R4 و قدرت‌های اروپایی درباره تحولات خلیج فارس در نشست استانبول",
+   "summary_fa": "وزراى امور خارجه گروه R4 شامل پاکستان، مصر، عربستان سعودی و ترکیه در استانبول با همتایان خود از فرانسه، آلمان، ایتالیا و بریتانیا دیدار کردند تا در میان جنگ آمریکا و اسرائیل علیه ایران، درباره تحولات منطقه‌ای در خلیج فارس گفتگو کنند.",
+   "body_fa": [
+    "به گفته وزارت امور خارجه پاکستان، این نشست فرستادگی برای تبادل نظر درباره تحولات منطقه‌ای در خلیج فارس، پیامدهای اقتصادی-اجتماعی آن و نیاز به تعامل دیپلماتیک فراهم کرد. اسحاق دار، معاون نخست‌وزیر و وزیر امور خارجه پاکستان، حاضران را در جریان تلاش‌های دیپلماتیک کشورش برای کاهش تنش‌ها قرار داد.",
+    "بلوک R4 همچنین نشست جداگانه‌ای برای بررسی چالش‌های امنیتی خاورمیانه برگزار کرد و ضمن ابراز همبستگی با عربستان سعودی، حملات حوثی‌ها به این کشور را محکوم نمود. علاوه بر این، دار در حاشیه این نشست دیدارهای دوجانبه‌ای با وزرای امور خارجه ترکیه، مصر و آلمان داشت."
+   ],
+   "title_ar": "كتلة R4 والدول الأوروبية يناقشون تطورات الخليج في اجتماع بإسطنبول",
+   "summary_ar": "التقى وزراء خارجية مجموعة R4 التي تضم پاکستان ومصر والسعودية وتركيا بنظرائهم من فرنسا وألمانيا وإيطاليا والمملكة المتحدة في إسطنبول لمناقشة التطورات الإقليمية في منطقة الخليج في ظل الحرب الأمريكية الإسرائيلية على إيران.",
+   "body_ar": [
+    "ووفقاً لوزارة الخارجية الباكستانية، وفر الاجتماع فرصة لتبادل وجهات النظر حول التطورات الإقليمية في منطقة الخليج وآثارها الاجتماعية والاقتصادية، والحاجة إلى تعزيز التواجد الدبلوماسي. واستعرض نائب رئيس الوزراء ووزير الخارجية الباكستاني إسحاق دار الجهود الدبلوماسية التي تبذلها بلاده لتهدئة التوترات.",
+    "كما عقدت كتلة R4 اجتماعاً منفصلاً لمراجعة التحديات الأمنية في الشرق الأوسط، حيث أعربت عن تضامنها مع المملكة العربية السعودية ونددت بهجمات الحوثيين التي تستهدفها. بالإضافة إلى ذلك، أجرى دار محادثات ثنائية على هامش اللقاء مع وزراء خارجية تركيا ومصر وألمانيا."
+   ]
+  },
+  {
+   "id": "9ecef35ab16b",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+   "date": "2026-10-23T12:57:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "War in the Middle East: Israel launches West Bank operations",
+   "title_en": "War in the Middle East: Israel launches West Bank operations",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu ordered a West Bank lockdown after Palestinian militants injured five Israelis in an attack before being killed in a shootout.",
+   "body_en": [
+    "The attack occurred on Friday, just days before the Israeli elections. Israeli soldiers killed the Palestinian militants in the subsequent shootout."
+   ],
+   "title_fa": "جنگ در خاورمیانه: اسرائیل عملیاتی را در کرانه باختری آغاز کرد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پس از آنکه شبه‌نظامیان فلسطینی در حمله‌ای پنج اسرائیلی را زخمی کرده و سپس در تیراندازی متقابل کشته شدند، دستور قرنطینه و مسدودسازی کرانه باختری را صادر کرد.",
+   "body_fa": [
+    "این حمله روز جمعه و تنها چند روز پیش از برگزاری انتخابات اسرائیل رخ داد. سربازان اسرائیلی شبه‌نظامیان فلسطینی را در تیراندازی بعدی به قتل رساندند."
+   ],
+   "title_ar": "الحرب في الشرق الأوسط: إسرائيل تبدأ عمليات في الضفة الغربية",
+   "summary_ar": "أمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بإغلاق الضفة الغربية بعد أن أدى هجوم شنّه مسلحون فلسطينيون إلى إصابة خمسة إسرائيليين قبل مقتلهم في تبادل لإطلاق النار.",
+   "body_ar": [
+    "وقع الهجوم يوم الجمعة، قبل أيام قليلة من الانتخابات الإسرائيلية. وقتل الجنود الإسرائيليون المسلحين الفلسطينيين في تبادل إطلاق النار الذي أعقب ذلك."
+   ]
+  },
+  {
+   "id": "555ec2b1718a",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cq0mex8k817lt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T12:53:14Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "آنچه گذشت؛ رسانه‌های اسرائیل: رئیس ستاد ارتش گفته ضرورتی برای حمله به ایران پیش از انتخابات نمی‌بیند",
+   "title_en": "What Happened; Israeli Media: Army Chief Sees No Need for Attack on Iran Before Elections",
+   "summary_en": "According to Israeli media reports, the Israeli army chief of staff stated that there is no operational necessity to attack Iran before the upcoming Knesset elections.",
+   "body_en": [
+    "Israel's Channel 13 reported that Chief of Staff Eyal Zamir stated in a private meeting that he sees no indication requiring an attack on Iran prior to the elections, though an attack would be executed if deemed necessary. These remarks come as critics of Benjamin Netanyahu, including opposition leader Yair Lapid, accused him of dangerously politicizing security threats ahead of the vote.",
+    "In other developments, a US judge ordered Donald Trump to answer questions under oath by December 11 in his defamation lawsuit against the BBC. Meanwhile in Iran, authorities reported the arrest of an organizer of past protests in Azna, and the Statistical Center announced the upcoming verification phase of the national census."
+   ],
+   "title_fa": "آنچه گذشت؛ رسانه‌های اسرائیل: رئیس ستاد ارتش گفته ضرورتی برای حمله به ایران پیش از انتخابات نمی‌بیند",
+   "summary_fa": "بر اساس گزارش رسانه‌های اسرائیلی، رئیس ستاد ارتش این کشور اعلام کرده است که هیچ ضرورت عملیاتی برای حمله به ایران پیش از انتخابات کنست وجود ندارد.",
+   "body_fa": [
+    "کانال ۱۳ اسرائیل گزارش داد که ایال زمیر، رئیس ستاد ارتش، در نشستی خصوصی گفته است نشانه‌ای از ضرورت حمله به ایران پیش از انتخابات نمی‌بیند، اگرچه در صورت نیاز این اقدام انجام خواهد شد. این اظهارات در حالی مطرح می‌شود که منتقدان بنیامین نتانیاهو، از جمله یائیر لاپید، او را به سیاسی کردن تهدیدهای امنیتی برای تاثیرگذاری بر انتخابات متهم کرده‌اند.",
+    "در تحولاتی دیگر، دادگاهی در آمریکا به دونالد ترامپ دستور داده تا ۱۱ دسامبر در پرونده شکایت افترا علیه بی‌بی‌سی تحت سوگند پاسخ دهد. همچنین در ایران، مقامات از بازداشت یکی از سازمان‌دهندگان ناآرامی‌های دی‌ماه گذشته در ازنا خبر دادند و مرکز آمار نیز از آغاز مرحله نهایی سرشماری نفوس و مسکن خبر داده است."
+   ],
+   "title_ar": "ما حدث؛ وسائل إعلام إسرائيلية: رئيس أركان الجيش لا يرى ضرورة للهجوم على إيران قبل الانتخابات",
+   "summary_ar": "وفقاً لتقارير إعلامية إسرائيلية، صرح رئيس أركان الجيش الإسرائيلي بأنه لا يرى ضرورة عملياتية للهجوم على إيران قبل انتخابات الكنيست.",
+   "body_ar": [
+    "ذكرت القناة 13 الإسرائيلية أن رئيس الأركان إيال زامير قال في اجتماع خاص إنه لا يرى أي مؤشر يستدعي توجيه ضربة لإيران قبل الانتخابات، مؤكداً أنه يتم تنفيذها إذا دعت الحاجة. وتأتي هذه تصريحات في وقت اتهم فيه نقاد بنيامين نتنياهو، ومن بينهم يائير لبيد، بتسييس التهديدات الأمنية بشكل خطير قبل الاقتراع.",
+    "وفي تطورات أخرى، أمر قاضٍ أمريكي دونالد ترامب بالرد على الأسئلة تحت القسم بحلول 11 ديسمبر في قضية التشهير التي رفعها ضد بي بي سي. وفي إيران، أعلنت السلطات اعتقال أحد منظمي اضطرابات شهر دي الماضي في مدينة أزنا، في حين أعلن مركز الإحصاء بدء المرحلة النهائية من التعداد السكاني."
+   ]
+  },
+  {
+   "id": "7718246191f0",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T12:48:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "title_en": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "summary_en": "Two Israeli soldiers were killed and three other Israelis wounded in a shooting by two suspected Palestinian gunmen at a military checkpoint in Hebron, occupied West Bank.",
+   "body_en": [
+    "The military reported that troops returned fire, killing both attackers at the scene. In response, Prime Minister Benjamin Netanyahu ordered preparations for a full lockdown of the West Bank and announced the cancellation of upcoming election campaign events.",
+    "The attack has heightened political tensions four days ahead of Israel's general election, with coalition partners calling for intense military action in the West Bank, while military forces have initiated raids and ordered house demolitions."
+   ],
+   "title_fa": "کشته شدن دو سرباز اسرائیلی در حمله افراد مسطح مظنون به فلسطینی بودن در کرانه باختری",
+   "summary_fa": "در جریان تیراندازی دو فرد مسلح مظنون به فلسطینی بودن در یک ایست بازرسی نظامی در الخلیل واقع در کرانه باختری اشغالی، دو سرباز اسرائیلی کشته و سه اسرائیلی دیگر زخمی شدند.",
+   "body_fa": [
+    "به گفته ارتش اسرائیل، نیروهای نظامی با تیراندازی متقابل، هر دو مهاجم را در محل به قتل رساندند. در پاسخ، بنیامین نتانیاهو نخست‌وزیر دستور آماده‌سازی برای قرنطینه کامل کرانه باختری را صادر کرد و از لغو برنامه‌های تبلیغات انتخاباتی خبر داد.",
+    "این حادثه چهار روز پیش از انتخابات عمومی اسرائیل، تنش‌های سیاسی را افزایش داده است؛ به‌طوری‌که شرکای ائتلافی خواستار اقدام نظامی گسترده در کرانه باختری شده‌اند و ارتش نیز یورش به منازل و تخریب ساختمان‌ها را آغاز کرده است."
+   ],
+   "title_ar": "مقتل جنديين إسرائيليين في هجوم نفذه مسلحان فلسطينيان مشتبه بهما في الضفة الغربية",
+   "summary_ar": "قتِل جنديان إسرائيليان وأصيب ثلاثة إسرائيليين آخرين في إطلاق نار نفذه مسلحان فلسطينيان مشتبه بهما عند حاجز عسكري في الخليل بالضفة الغربية المحتلة.",
+   "body_ar": [
+    "وذكر الجيش الإسرائيلي أن القوات ردت بإطلاق النار مما أدى إلى مقتل المهاجمَيْن في الموقع. ورداً على ذلك، أمر رئيس الوزراء بنيامين نتنياهو بالاستعداد لإغلاق كامل للضفة الغربية وإلغاء الفعاليات الانتخابية المقررة.",
+    "وقد زاد الهجوم من التوترات السياسية قبل أربعة أيام من الانتخابات العامة الإسرائيلية، حيث دعا شركاء في الائتلاف الحكومي إلى شن حملة عسكرية واسعة في الضفة الغربية، بينما بدأت القوات العسكرية مداهمات وأوامر بهدم المنازل."
+   ]
+  },
+  {
+   "id": "70f852fa83bf",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T12:43:29Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 7,
+   "title": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+   "title_en": "Urgent: Shooting at a church in Karak Governorate, southern Jordan, leaves casualties",
+   "summary_en": "At least seven people were killed and nearly 10 others critically injured after unidentified gunmen opened fire inside Hammoud Church during a funeral in Karak Governorate, southern Jordan.",
+   "body_en": [
+    "Witnesses stated that two gunmen stepped out of a vehicle and targeted people gathered in the church courtyard, while residents closed the doors to prevent them from storming inside. Jordanian security forces are investigating the incident on the ground.",
+    "Public Security warned against sharing unverified details about the shooting under penalty of legal liability, urging the public to rely on official updates. A press conference by government and security officials is scheduled in Karak Governorate."
+   ],
+   "title_fa": "فوری: تیراندازی در کلیسایی در استان کرک در جنوب اردن تلفاتی برجای گذاشت",
+   "summary_fa": "در پی تیراندازی افراد مسلح ناشناس در داخل کلیسای حمود در جریان یک مراسم تشییع جنازه در استان کرک در جنوب اردن، دست‌کم هفت نفر کشته و حدود ۱۰ نفر دیگر به شدت زخمی شدند.",
+   "body_fa": [
+    "شاهدان عینی اظهار داشتند که دو فرد مسلح از خودرویی پیاده شده و حاضران در حیاط کلیسا را هدف قرار دادند، در حالی که اهالی با بستن درها مانع از ورود آنها به داخل شدند. نیروهای امنیتی اردن در حال پیگیری میدانی این حادثه هستند.",
+    "نیروی امنیت عمومی اردن نسبت به انتشار هرگونه اطلاعات غیررسمی درباره این تیراندازی تحت پیگرد قانونی تحذیر داد و از مردم خواست به بیانیه‌های رسمی استناد کنند. قرار است کنفرانس خبری مسئولان حکومتی و امنیتی در استان کرک برگزار شود."
+   ],
+   "title_ar": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+   "summary_ar": "قتل سبعة أشخاص على الأقل وأصيب نحو 10 آخرين بجروح حرجة إثر إطلاق مسلحين مجهولين النار داخل كنيسة حمود أثناء تشييع جنازة في محافظة الكرك جنوبي الأردن.",
+   "body_ar": [
+    "وقال شهود عيان إن مسلحين ترجلا من مركبة واستهدفا الموجودين في ساحة الكنيسة، بينما أغلق الأهالي الأبواب لمنعهما من الاقتحام. وتتابع الأجهزة الأمنية الأردنية الحادثة ميدانياً.",
+    "وحذر الأمن العام من تداول أي معلومات حول الحادثة داعياً للالتزام بالبيانات الرسمية تحت طائلة المساءلة القانونية. ومن المقرر عقد مؤتمر صحفي لوزراء ومسؤولين أمنيين في محافظة الكرك."
+   ]
+  },
+  {
+   "id": "06b0daaa6fbe",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/worshippers-killed-after-attack-gunmen-jordanian-church",
+   "date": "2026-10-23T12:17:48Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 8,
+   "title": "Worshippers killed in shooting at church in Jordan",
+   "title_en": "Worshippers killed in shooting at church in Jordan",
+   "summary_en": "At least seven people were killed when two gunmen opened fire inside a church during a funeral procession in Jordan's Karak region.",
+   "body_en": [
+    "According to an eyewitness, the attackers arrived in a vehicle and fired continuously for five minutes before fleeing. Between 150 and 200 people were present, with most victims aged between 50 and 70. Jordanian security forces are currently investigating the incident to identify the gunmen."
+   ],
+   "title_fa": "کشته شدن نمازگزاران در تیراندازی در کلیسایی در اردن",
+   "summary_fa": "در پی تیراندازی دو فرد مسلح در داخل کلیسایی هنگام برگزاری مراسم تشییع جنازه در منطقه کرک اردن، دست‌کم هفت نفر کشته شدند.",
+   "body_fa": [
+    "به گفته یک شاهد عینی، مهاجمان با یک خودرو وارد شده و پیش از فرار، به مدت پنج دقیقه مداوم تیراندازی کردند. در زمان حادثه بین ۱۵۰ تا ۲۰۰ نفر در کلیسا حضور داشتند و بیشتر قربانیان بین ۵۰ تا ۷۰ سال سن داشتند. نیروهای امنیتی اردن تحقیقات خود را برای شناسایی مهاجمان آغاز کرده‌اند."
+   ],
+   "title_ar": "مقتل مصلين في إطلاق نار داخل كنيسة في الأردن",
+   "summary_ar": "قُتل سبعة أشخاص على الأقل عندما فتح مسلحان النار داخل كنيسة أثناء تشييع جنازة في منطقة الكرك بالأردن.",
+   "body_ar": [
+    "وفقاً لشاهد عيان، وصل المهاجمان في سيارة وأطلقا النار باستمرار لمدة خمس دقائق قبل الفرار. وكان يتواجد في الموقع ما بين 150 و200 شخص، معظم ضحاياهم تتراوح أعمارهم بين 50 و70 عاماً. وتجري القوات الأمنية الأردنية تحقيقات لتحديد هوية المهاجمَيْن."
+   ]
+  },
+  {
+   "id": "2f892d716c9e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-two-palestinians-gaza-city-0",
+   "date": "2026-10-23T12:12:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli drone strike kills two Palestinians in Gaza City",
+   "title_en": "Israeli drone strike kills two Palestinians in Gaza City",
+   "summary_en": "An Israeli drone attack in the al-Nasr area, west of Gaza City, killed two Palestinians and wounded several others, according to medical sources.",
+   "body_en": [],
+   "title_fa": "کشته شدن دو فلسطینی در حمله پهپادی اسرائیل در شهر غزه",
+   "summary_fa": "به گفته منابع پزشکی، در پی حمله پهپادی اسرائیل به منطقه النصر در غرب شهر غزه، دو فلسطینی کشته و چند نفر دیگر زخمی شدند.",
+   "body_fa": [],
+   "title_ar": "مقتل فلسطينيين اثنين في غارة لطائرة مسيرة إسرائيلية في مدينة غزة",
+   "summary_ar": "أفادت مصادر طبية بأن هجوماً بطائرة مسيرة إسرائيلية على حي النصر غرب مدينة غزة أسفر عن مقتل فلسطينيين اثنين وإصابة آخرين بجروح.",
+   "body_ar": []
+  },
+  {
+   "id": "d18d06f6bf62",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+   "date": "2026-10-23T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "title_en": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+   "summary_en": "Aid agencies have warned of a rapidly deteriorating humanitarian emergency in Taiz City, Yemen, which has been encircled by Houthi forces and cut off from supplies for 20 days.",
+   "body_en": [
+    "According to the UN aid coordination office (OCHA), fighting has made access to and from the city impossible, cutting off food, fuel, and other essential supplies. The World Food Programme reported that over 800,000 people in Taiz are cut off from assistance, while water production inside the city has dropped by half and water truck prices have tripled.",
+    "UNICEF expressed concern over widespread hunger, noting that over 52,000 children screened in Taiz this year were found to be acutely malnourished. Meanwhile, the UN migration agency recorded over 258,000 displaced individuals across Taiz and Lahj governorates, while reports indicate that at least 1,574 people have been killed in the conflict since August."
+   ],
+   "title_fa": "یمن: افزایش نگرانی‌ها برای شهر تعز در پی جلوگیری از ورود کمک‌ها",
+   "summary_fa": "آژانس‌های امدادرسانی درباره وضعیت اضطراری انسانی که به سرعت در شهر تعز یمن در حال وخیم‌تر شدن است و ۲۰ روز است توسط نیروهای حوثی محاصره شده و راه‌های ورودی آن مسدود گردیده، هشدار دادند.",
+   "body_fa": [
+    "به گفته دفتر هماهنگی امور انسان‌دوستانه سازمان ملل (OCHA)، درگیری‌ها ورود و خروج از شهر را غیرممکن ساخته و سوخت، غذا و سایر اقلام ضروری را قطع کرده است. برنامه جهانی غذا گزارش داد که بیش از ۸۰۰ هزار نفر در تعز از کمک‌ها محروم شده‌اند، در حالی که تولید آب در داخل شهر به نصف کاهش یافته و قیمت تانکرهای آب سه برابر شده است.",
+    "یونیسف از سوءتغذیه گسترده ابراز نگرانی کرد و اشاره نمود که از میان کودکان غربالگری‌شده در تعز در سال جاری، بیش از ۵۲ هزار کودک دچار سوءتغذیه شدید بوده‌اند. در همین حال، سازمان بین‌المللی مهاجرت بیش از ۲۵۸ هزار آواره را در استان‌های تعز و لحج ثبت کرده است و گزارش‌ها نشان می‌دهد حداقل ۱,۵۷۴ نفر از ماه اوت در این درگیری‌ها کشته شده‌اند."
+   ],
+   "title_ar": "اليمن: مخاوف متزايدة بشأن مدينة تعز مع منع دخول المساعدات",
+   "summary_ar": "حذرت وكالات الإغاثة من حالة طوارئ إنسانية متدهورة بسرعة داخل مدينة تعز اليمنية، التي تطوقها قوات الحوثيين وتم قطع الإمدادات عنها منذ 20 يوماً.",
+   "body_ar": [
+    "ووفقاً لمكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا)، جعلت الاشتباكات الدخول والخروج من المدينة أمراً مستحيلاً، مما أدى إلى قطع الغذاء والوقود والإمدادات الأخرى. وأفاد برنامج الأغذية العالمي بأن أكثر من 800 ألف شخص في تعز معزولون عن المساعدات، بينما انخفض إنتاج المياه داخل المدينة إلى النصف وتضاعفت أسعار صهاريج المياه ثلاث مرات.",
+    "وأعربت اليونيسف عن قلقها إزاء الجوع المنتشر، مشيرة إلى أنه تم تشخيص أكثر من 52 ألف طفل بسوء التغذية الحاد في تعز هذا العام. في غضون ذلك، سجلت المنظمة الدولية للهجرة أكثر من 258 ألف نازح في محافظتي تعز ولحج، فيما تشير التقارير إلى مقتل 1,574 شخصاً على الأقل في الصراع منذ أغسطس."
+   ]
+  },
+  {
+   "id": "d139ede9e737",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "date": "2026-10-23T11:35:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "title_en": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "summary_en": "Brent crude prices rose to $114.72 a barrel, reaching their highest level in over five months due to fears that the US may launch new military strikes against Iran.",
+   "body_en": [
+    "The surge followed warnings from Tehran that it would strike oil infrastructure, undersea cables, datacenters, and AI facilities in the Gulf region if targeted by a new US-Israeli attack. Tensions have mounted further after the IRGC claimed to have hit four commercial vessels in the Strait of Hormuz and amid continued Houthi rebel attacks in Saudi Arabia."
+   ],
+   "title_fa": "نفت در پی نگرانی‌ها از حملات دوباره آمریکا به ایران به بالاترین حد پنج ماه اخیر رسید",
+   "summary_fa": "قیمت نفت خام برنت به ۱۱۴٫۷۲ دلار در هر بشکه رسید که بالاترین سطح در بیش از پنج ماه گذشته است و علت آن نگرانی از احتمال حملات نظامی جدید آمریکا علیه ایران عنوان شده است.",
+   "body_fa": [
+    "این افزایش قیمت پس از آن رخ داد که تهران تهدید کرد در صورت حمله جدید آمریکا و اسرائیل، تاسیسات نفتی، کابل‌های زیردریا، مرکز داده‌ها و تاسیسات هوش مصنوعی را در منطقه خلیج فارس هدف قرار خواهد داد. تنش‌ها همچنین پس از ادعای سپاه پاسداران مبنی بر هدف قرار دادن چهار شناور تجاری در تنگه هرمز و ادامه حملات حوثی‌ها به عربستان سعودی افزایش یافته است."
+   ],
+   "title_ar": "النفط يسجل أعلى مستوى في 5 أشهر وسط مخاوف من تجدد الضربات الأمريكية على إيران",
+   "summary_ar": "ارتفعت أسعار خام برنت إلى 114.72 دولاراً للبرميل لتسجل أعلى مستوى لها منذ أكثر من خمسة أشهر وسط مخاوف من شن الولايات المتحدة ضربات عسكرية جديدة على إيران.",
+   "body_ar": [
+    "وجاء هذا الارتفاع بعد تحذيرات من طهران باستهداف منشآت نفطية وكابلات بحرية ومراكز بيانات في منطقة الخليج في حال تعرضها لهجوم أمريكي إسرائيلي جديد. كما تصاعدت التوترات عقب إعلان الحرس الثوري استهداف أربع سفن تجارية في مضيق هرمز واستمرار هجمات الحوثيين على السعودية."
+   ]
+  },
+  {
+   "id": "ee70a7b22aae",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039254/10-india-sponsored-terrorists-killed-as-bid-to-undermine-states-writ-in-gwadar-foiled-ispr",
+   "date": "2026-10-23T11:23:34Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 8,
+   "title": "10 India-sponsored terrorists killed as bid to undermine state's writ in Gwadar foiled: ISPR",
+   "title_en": "10 India-sponsored terrorists killed as bid to undermine state's writ in Gwadar foiled: ISPR",
+   "summary_en": "Pakistan's military reported that security forces killed 10 foreign-sponsored terrorists in Gwadar district while foiling attempts to disrupt peace and state authority in Balochistan.",
+   "body_en": [
+    "According to the Inter-Services Public Relations (ISPR), the military's media wing, security forces launched clearance operations in Gabd Border Crossing and Gwadar city after militant attacks. Ten terrorists, including one female, were killed during the engagements. One civilian was killed and several vehicles were damaged in the attacks, while security forces suffered no losses.",
+    "The military statement condemned the coercion of a Baloch woman into the attack as propaganda. President Asif Ali Zardari praised the security operations, expressing grief over the civilian death and emphasizing that attempts to disturb stability would not shake resolve for the region's development."
+   ],
+   "title_fa": "۱۰ تروریست مورد حمایت هند در پی خنثی شدن تلاش برای تضعیف حاکمیت دولت در گوادر کشته شدند: آی‌اس‌پی‌آر",
+   "summary_fa": "ارتش پاکستان گزارش داد که نیروهای امنیتی ۱۰ تروریست مورد حمایت خارجی را در شهرستان گوادر کشته و تلاش‌ها برای برهم زدن صلح و اقتدار دولت در بلوچستان را خنثی کرده‌اند.",
+   "body_fa": [
+    "به گفته دفتر روابط عمومی بین‌سرویسی ارتش پاکستان (ISPR)، نیروهای امنیتی پس از حملات شبه‌نظامیان، عملیات پاکسازی را در گذرگاه مرزی گبد و شهر گوادر آغاز کردند. در جریان این درگیری‌ها، ۱۰ تروریست از جمله یک زن کشته شدند. در این حملات یک غیرنظامی کشته و چند خودرو آسیب دیدند، در حالی که نیروهای امنیتی هیچ تلفاتی نداشتند.",
+    "بیانیه ارتش بهره‌گیری اجباری از یک زن بلوچ در این حمله را اقدامی تبلیغاتی دانست و آن را محکوم کرد. آصف‌علی زرداری، رئیس‌جمهور پاکستان، با تمجید از عملیات امنیتی و ابراز تأسف از کشته شدن این فرد غیرنظامی، تأکید کرد که تلاش‌ها برای برهم زدن ثبات، اراده برای توسعه منطقه را متزلزل نخواهد کرد."
+   ],
+   "title_ar": "مقتل 10 إرهابيين مدعومين من الهند مع إحباط محاولة لإضعاف هيبة الدولة في گوادر: العلاقات العامة بين الخدمات",
+   "summary_ar": "أعلن الجيش الباكستاني أن القوات الأمنية قتلت 10 إرهابيين مدعومين من الخارج في منطقه گوادر، أثناء إحباط محاولات لزعزعة السلام وسلطة الدولة فيبلوشستان.",
+   "body_ar": [
+    "ووفقاً لجناح الإعلام العسكري (ISPR)، شنت القوات الأمنية عمليات تطهير في معبر گبد الحدودي ومدينة گوادر بعد هجمات للمسلحين. وقد قُتل عشرة إرهابيين، من بينهم امرأة، خلال الاشتباكات. كما قُتل مدني واحد وأُلحقت أضرار بعدة مركبات في الهجمات، دون وقوع خسائر في صفوف القوات الأمنية.",
+    "وأدان بيان الجيش استغلال امرأة من البلوش في الهجوم واعتبره وسيلة دعاية. وأشاد الرئيس آصف علي زرداري بالعمليات الأمنية، معرباً عن حزنه لمقتل المدني، ومؤكداً أن محاولات زعزعة الاستقرار لن تزعزع العزيمة على تحقيق التنمية في المنطقة."
+   ]
+  },
+  {
+   "id": "f6b75460b9ee",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039253/the-gulfs-emerging-web-of-security-partnerships",
+   "date": "2026-10-23T10:51:29Z",
+   "countries": [
+    "PAK",
+    "QAT",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "The Gulf’s emerging web of security partnerships",
+   "title_en": "The Gulf’s emerging web of security partnerships",
+   "summary_en": "Middle Eastern countries and their allies are expanding regional defense agreements, such as the Badr MoU and the Makkah Joint Defense Agreement, to diversify security options amid doubts over US protection.",
+   "body_en": [
+    "The Badr agreement, signed by Pakistan, Türkiye, Qatar, and Indonesia, focuses on defense manufacturing, technology transfer, and training without imposing mutual defense obligations. In contrast, the Makkah agreement between Saudi Arabia, Pakistan, and Türkiye contains collective defense guarantees treating an attack on one as an attack on all.",
+    "These arrangements highlight how regional states are seeking greater strategic flexibility and military cooperation rather than forming a single, integrated military bloc."
+   ],
+   "title_fa": "شبکه نوظهور مشارکت‌های امنیتی در خلیج فارس",
+   "summary_fa": "کشورهای خاورمیانه و متحدانشان در حال گسترش توافق‌نامه‌های دفاعی منطقه‌ای مانند یادداشت تفاهم بدر و پیمان دفاع مشترک مکه هستند تا در میان تردیدها نسبت به چتر امنیتی آمریکا، روابط دفاعی خود را تنوع ببخشند.",
+   "body_fa": [
+    "توافق‌نامه بدر که به امضای پاکستان، ترکیه، قطر و اندونزی رسیده است، بر تولیدات دفاعی، انتقال فناوری و آموزش تمرکز دارد و تعهد دفاع متقابل ایجاد نمی‌کند. در مقابل، توافق‌نامه مکه میان عربستان سعودی، پاکستان و ترکیه شامل تضمین‌های دفاع متقابل است.",
+    "این ترتیبات نشان‌دهنده تلاش کشورهای منطقه برای دستیابی به انعطاف‌پذیری استراتژیک و افزایش همکاری‌های دفاعی به جای تشکیل یک بلوک نظامی واحد و یکپارچه است."
+   ],
+   "title_ar": "شبكة الشراكات الأمنية الناشئة في الخليج",
+   "summary_ar": "توسع دول في الشرق الأوسط وحلفاؤها الاتفاقيات الدفاعية الإقليمية، مثل مذكرة تفاهم \"بدر\" واتفاقية \"مكة\" للدفاع المشترك، لتنويع الخيارات الأمنية وسط شكوك بشأن الحماية الأمريكية.",
+   "body_ar": [
+    "تركز اتفاقية بدر التي وقعتها پاکستان وتركيا وقطر وإندونيسيا على التصنيع الدفاعي ونقل التكنولوجيا والتدريب دون التزامات دفاعية متبادلة. في المقابل، تتضمن اتفاقية مكة بين السعودية وباكستان وتركيا ضمانات دفاع مشترك تنص على أن أي هجوم على طرف يعد هجوماً على الجميع.",
+    "وتعكس هذه الترتيبات يسعي دول المنطقة لتحقيق مرونة إستراتيجية وتعزيز التعاون العسكري بدلاً من تشكيل تكتل عسكري موحد."
+   ]
+  },
+  {
+   "id": "38aef09981a9",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election",
+   "date": "2026-10-23T10:41:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+   "title_en": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has ordered a closure of the West Bank following an attack that injured Israelis ahead of the elections.",
+   "body_en": [
+    "Details were provided by France 24's Jerusalem correspondent, Noga Tarnopolsky."
+   ],
+   "title_fa": "نتانیاهو در پی زخمی شدن اسرائیلی‌ها در یک حمله پیش از انتخابات، دستور انسداد کرانه باختری را صادر کرد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در پی حمله‌ای که پیش از انتخابات منجر به زخمی شدن چند اسرائیلی شد، دستور انسداد کرانه باختری را صادر کرده است.",
+   "body_fa": [
+    "جزئیات توسط نوگا تارنوپولسکی، خبرنگار فرانس ۲۴ در اورشلیم ارائه شده است."
+   ],
+   "title_ar": "نتنياهو يأمر بإغلاق الضفة الغربية بعد هجوم أسفر عن إصابة إسرائيليين قبل الانتخابات",
+   "summary_ar": "أمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بإغلاق الضفة الغربية في أعقاب هجوم أدى إلى إصابة إسرائيليين قبل الانتخابات.",
+   "body_ar": [
+    "قدمت التفاصيل مراسلة فرانس 24 في القدس، نوغا تارنوبولسكي."
+   ]
+  },
+  {
+   "id": "4878c6d5168e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/we-have-lost-hope-world-looks-away-palestines-history-crushed",
+   "date": "2026-10-23T10:40:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Another East Jerusalem neighbourhood is demolished as the world fails to act",
+   "title_en": "Another East Jerusalem neighbourhood is demolished as the world fails to act",
+   "summary_en": "A delegation of foreign diplomats visited the al-Bustan neighborhood in occupied East Jerusalem, where Palestinian residents face impending home demolitions by Israeli municipal authorities.",
+   "body_en": [
+    "The municipality plans to clear al-Bustan to construct a park and recreational area for settlers, affecting roughly 1,500 Palestinian residents. Local representatives pleaded with visiting international representatives to act against the Israeli policy of displacement and home demolitions."
+   ],
+   "title_fa": "تخریب محله‌ای دیگر در اورشلیم شرقی در سایه بی‌عملی جامعه جهانی",
+   "summary_fa": "هیئتی از دیپلمات‌های خارجی از محله البستان در اورشلیم شرقی اشغالی بازدید کردند؛ محله‌ای که ساکنان فلسطینی آن با تخریب قریب‌الوقوع منازل خود توسط شهرداری اورشلیم روبرو هستند.",
+   "body_fa": [
+    "شهرداری قصد دارد محله البستان را برای احداث پارک و مراكز تفریحی تخریب کند، اقدامی که حدود ۱۵۰۰ ساکن فلسطینی را تحت تاثیر قرار می‌دهد. نمایندگان محلی از دیپلمات‌های بین‌المللی خواستند برای توقف سیاست‌های تخریب و آوارگی اقدام کنند."
+   ],
+   "title_ar": "هدم حي آخر في القدس الشرقية وسط تقاعس دولي",
+   "summary_ar": "زار وفد من الدبلوماسيين الأجانب حي البستان في القدس الشرقية المحتلة، حيث يواجه السكان الفلسطينيون عمليات هدم وشيكة لمنازلهم من قبل بلدية القدس.",
+   "body_ar": [
+    "وتخطط البلدية لإزالة حي البستان لبناء متنزه ومرافق ترفيهية للمستوطنين، مما يؤثر على نحو 1500 مواطن فلسطيني. وناشد ممثلو الحي الدبلوماسيين الدوليين للتحرك ضد سياسة التهجير وهدم المنازل."
+   ]
+  },
+  {
+   "id": "5810ad5f7253",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/talks-between-russia-ukraine-and-us-planned-to-resume-in-november-in-abu-dhabi/article71615588.ece",
+   "date": "2026-10-23T10:35:21Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 8,
+   "title": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+   "title_en": "Talks between Russia, Ukraine and U.S. ‘planned’ to resume in November in Abu Dhabi",
+   "summary_en": "Trilateral peace talks involving Russia, Ukraine, and the United States are planned to resume in Abu Dhabi in early November 2026, according to Kremlin spokesman Dmitry Peskov.",
+   "body_en": [
+    "The announcement follows a meeting in Saint Petersburg between Russian President Vladimir Putin and U.S. special envoy Steve Witkoff. Witkoff had previously met with Ukrainian President Volodymyr Zelenskyy and European leaders in Oslo as part of diplomatic efforts by U.S. President Donald Trump's administration.",
+    "Kremlin spokesman Peskov stated that the talks are scheduled for the first half of November in a trilateral format. President Putin mentioned in a televised interview that discussions would focus on long-term security arrangements for a final peace agreement rather than a short ceasefire."
+   ],
+   "title_fa": "مذاکرات میان روسیه، اوکراین و آمریکا برای ازسرگیری در ماه نوامبر در ابوظبی «برنامه‌ریزی شده» است",
+   "summary_fa": "به گفته دیمیتری پسکوف، سخنگوی کرملین، مذاکرات صلح سه جانبه با حضور روسیه، اوکراین و ایالات متحده برای ازسرگیری در اوایل نوامبر ۲۰۲۶ در ابوظبی برنامه‌ریزی شده است.",
+   "body_fa": [
+    "این اعلامیه پس از دیدار ولادیمیر پوتین، رئیس‌جمهور روسیه، و استیو ویتکوف، فرستاده ویژه آمریکا در سن پترزبورگ صورت می‌گیرد. ویتکوف پیشتر در اسلو با ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، و رهبران اروپایی در اطار تلاش‌های دیپلماتیک دولت دونالد ترامپ، رئیس‌جمهور آمریکا، دیدار کرده بود.",
+    "پسکوف، سخنگوی کرملین اعلام کرد که این گفتگوها برای نیمه اول ماه نوامبر و به صورت سه‌جانبه برنامه‌ریزی شده است. پوتین در یک مصاحبه تلویزیونی اشاره کرد که محور مذاکرات بر ترتیبات امنیتی بلندمدت برای توافق نهایی صلح متمرکز خواهد بود و نه یک آتش‌بس کوتاه."
+   ],
+   "title_ar": "محادثات بين روسيا وأوكرانيا والولايات المتحدة \"مخطط\" لاستئنافها في نوفمبر بأبوظبي",
+   "summary_ar": "من المقرر استئناف محادثات السلام الثلاثية التي تضم روسيا وأوكرانيا والولايات المتحدة في أبوظبي في أوائل نوفمبر 2026، وفقاً للمتحدث باسم الكرملين ديمتري بيسكوف.",
+   "body_ar": [
+    "يأتي هذا الإعلان عقب اجتماع عُقد في سان بطرسبرغ بين الرئيس الروسي فلاديمير بوتين والمبعوث الأمريكي الخاص ستيف ويتكوف. وكان ويتكوف قد التقى في وقت سابق بالرئيس الأوكراني فولوديمير زيلينسكي وقادة أوروبيين في أوسلو ضمن جهود دبلوماسية لإدارة الرئيس الأمريكي دونالد ترامب.",
+    "وصرح المتحدث باسم الكرملين بيسكوف بأن المحادثات مقررة في النصف الأول من شهر نوفمبر بصيغة ثلاثية. وذكر الرئيس بوتين في مقابلة تلفزيونية أن المباحثات ستركز على الترتيبات الأمنية لاتفاق سلام نهائي وليس على هدنة قصيرة."
+   ]
+  },
+  {
+   "id": "e2f79c6f11f1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/smotrich-orders-palestinian-building-demolitions-near-hebron-shooting",
+   "date": "2026-10-23T10:32:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "title_en": "Smotrich orders Palestinian building demolitions near Hebron shooting site",
+   "summary_en": "Israeli Finance Minister Bezalel Smotrich has ordered the demolition of several Palestinian buildings near Hebron's northern entrance following a shooting in the area.",
+   "body_en": [
+    "The demolition instruction followed a gunfight that wounded six Israeli soldiers and left two Palestinians dead after being shot by Israeli forces."
+   ],
+   "title_fa": "دستور اسموتریچ برای تخریب ساختمان‌های فلسطینی نزدیک محل تیراندازی در الخلیل",
+   "summary_fa": "بتسلئیل اسموتریچ، وزیر دارایی اسرائیل، پس از وقوع تیراندازی در نزدیکی ورودی شمالی الخلیل، دستور تخریب چندین ساختمان فلسطینی را صادر کرد.",
+   "body_fa": [
+    "این دستور تخریب پس از درگیری مسلحانه‌ای صادر شد که طی آن شش سرباز اسرائیلی زخمی شدند و دو فلسطینی به دست نیروهای اسرائیلی کشته شدند."
+   ],
+   "title_ar": "سموتريتش يأمر بهدم مبان فلسطينية قرب موقع إطلاق النار في الخليل",
+   "summary_ar": "أصدر وزير المالية الإسرائيلي بتسلئيل سموتريتش أمراً بهدم العديد من المباني الفلسطينية قرب المدخل الشمالي لمدينة الخليل عقب حادثة إطلاق نار.",
+   "body_ar": [
+    "وجاء أمر الهدم عقب تبادل لإطلاق النار أسفر عن إصابة ستة جنود إسرائيليين ومقتل اثنين من الفلسطينيين بنيران القوات الإسرائيلية."
+   ]
+  },
+  {
+   "id": "c36d9ed0789a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/gaza-bakeries-shut-israel-blocks-flour-shipments",
+   "date": "2026-10-23T09:23:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Gaza bakeries forced to shut as Israel blocks flour shipments",
+   "title_en": "Gaza bakeries forced to shut as Israel blocks flour shipments",
+   "summary_en": "Most commercial bakeries in Gaza have closed after Israeli restrictions blocked flour shipments, prompting warnings from local authorities of an impending severe humanitarian crisis.",
+   "body_en": [
+    "According to Palestinian officials, 10 out of 17 commercial bakeries have shut down due to a lack of flour supplies, which have been blocked for 10 days. Israel previously suspended commercial imports over an alleged tax dispute between merchants and Gaza authorities, and residents have faced long queues for bread amid worsening food insecurity.",
+    "The Ministry of Social Development in Gaza warned of rising malnutrition and imminent famine, urging the international community to intervene. Despite a ceasefire agreement in October 2025 stipulating the entry of 600 aid trucks daily, average entries remain at around 200 trucks."
+   ],
+   "title_fa": "نانوایی‌های غزه در پی مسدود شدن محموله‌های آرد توسط اسرائیل مجبور به تعطیلی شدند",
+   "summary_fa": "بیشتر نانوایی‌های تجاری غزه در پی محدودیت‌های اسرائیل و جلوگیری از ورود محموله‌های آرد تعطیل شده‌اند، که این امر هشدارهایی را از سوی مقامات محلی درباره بحران انسانی شدید به همراه داشته است.",
+   "body_fa": [
+    "به گفته مقامات فلسطینی، ۱۰ نانوایی از ۱۷ نانوایی فعال تجاری به دلیل نبود آرد که ورود آن به مدت ۱۰ روز مسدود شده، تعطیل شده‌اند. اسرائیل پیشتر واردات تجاری را به دلیل ادعای اختلاف مالیاتی میان بازرگانان و مقامات غزه به حالت تعلیق درآورده بود و ساکنان در میان وخامت امنیت غذایی با صف‌های طولانی دریافت نان مواجه شده‌اند.",
+    "وزارت توسعه اجتماعی غزه نسبت به افزایش سوءتغذیه و قحطی قریب‌الوقوع هشدار داد و از جامعه بین‌المللی خواست مداخله کند. با وجود توافق آتش‌بس در اکتبر ۲۰۲۵ که ورود روزانه ۶۰۰ کامیون کمک‌رسانی را تعیین کرده بود، میانگین ورود کامیون‌ها در حدود ۲۰۰ دستگاه باقی مانده است."
+   ],
+   "title_ar": "مخابز غزة تضطر للإغلاق مع حظر إسرائيل لشحنات الدقيق",
+   "summary_ar": "أُغلقت معظم المخابز التجارية في غزة بعد أن حظرت القيود الإسرائيلية شحنات الدقيق، مما أثار تحذيرات من السلطات المحلية من أزمة إنسانية حادة وشيكة.",
+   "body_ar": [
+    "وفقاً للمسؤولين الفلسطينيين، أُغلق 10 من أصل 17 مخبزاً تجارياً بسبب نقص إمدادات الدقيق التي مُنعت لليوم العاشر. وكانت إسرائيل قد أوقفت الواردات التجارية سابقاً بسبب نزاع ضريبي مزعوم بين التجار والسلطات في غزة، حيث يواجه السكان طوابير طويلة للحصول على الخبز وسط تفاقم انعدام الأمن الغذائي.",
+    "وحذرت وزارة التنمية الاجتماعية في غزة من تزايد سوء التغذية والمجاعة الوشيكة، داعية المجتمع الدولي إلى التدخل. ورغم اتفاق وقف إطلاق النار في أكتوبر 2025 الذي نص على دخول 600 شاحنة مساعدات يومياً، فإن متوسط الشاحنات الداخلة لا يزال في حدود 200 شاحنة."
+   ]
+  },
+  {
+   "id": "e635f4785570",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-10-23T09:12:38Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli military kills two in gun battle in occupied West Bank",
+   "title_en": "Israeli military kills two in gun battle in occupied West Bank",
+   "summary_en": "Israeli forces killed two Palestinians suspected of launching a shooting attack near a military checkpoint in the occupied West Bank. Following the incident near Hebron, Israel's Prime Minister instructed the army to prepare for a complete closure of the West Bank.",
+   "body_en": [],
+   "title_fa": "ارتش اسرائیل دو نفر را در درگیری مسلحانه در کرانه باختری اشغالی به قتل رساند",
+   "summary_fa": "نیروهای اسرائیلی دو فلسطینی مظنون به انجام حمله مسلحانه در نزدیکی یک ایست بازرسی نظامی در کرانه باختری اشغالی را کشتند. در پی این حادثه در نزدیکی الخلیل، نخست‌وزیر اسرائیل به ارتش دستور داد برای قرنطینه و تعطیلی کامل کرانه باختری آماده شود.",
+   "body_fa": [],
+   "title_ar": "الجيش الإسرائيلي يقتل شخصين في اشتباك مسلح بالضفة الغربية المحتلة",
+   "summary_ar": "قتلت القوات الإسرائيلية فلسطينيين يُشتبه في تنفيذهما هجوماً بإطلاق النار قرب حاجز عسكري في الضفة الغربية المحتلة. وعقب الحادث الواقع قرب الخليل، أبلغ رئيس الوزراء الإسرائيلي الجيش بالاستعداد للإغلاق التام للضفة الغربية.",
+   "body_ar": []
+  },
+  {
+   "id": "0b01b800f0fd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "date": "2026-10-23T09:03:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "title_en": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "summary_en": "The question of whether Israel’s ultra-Orthodox minority should serve in the military has become a central and divisive issue ahead of the country's upcoming election.",
+   "body_en": [
+    "With an estimated 80,000 ultra-Orthodox men avoiding military service, critics and political opponents argue that the exemption places an unfair burden on the rest of the population amid ongoing conflicts. Prime Minister Benjamin Netanyahu's coalition relies on Haredi parties that strongly oppose conscription, creating a political dilemma as public polls show overwhelming support for equal military service.",
+    "Despite popular anger and threats to the government, Haredi political factions have ruled out joining any coalition that does not pass exemption laws. Opposition figures are leveraging the issue to challenge Netanyahu, framing the election as a choice between draft evaders and those who fulfill their state duties."
+   ],
+   "title_fa": "بحث سربازی حریدیم، میدان نبرد انتخاباتی اسرائیل را شعله‌ور کرد",
+   "summary_fa": "موضوع خدمت نظامی اقلیت حریدیم در اسرائیل به یکی از مسائل اصلی و اختلاف‌برانگیز پیش از انتخابات پیش رو تبدیل شده است.",
+   "body_fa": [
+    "با تخمین خودداری ۸۰ هزار مرد حریدیم از خدمت نظامی، منتقدان و مخالفان سیاسی استدلال می‌کنند که این معافیت بار ناعرمانه‌ای را در جریان درگیری‌های جاری بر دوش بقیه جمعیت می‌گذارد. ائتلاف بنیامین نتانیاهو به احزاب حریدیم که به شدت با سربازی مخالفت می‌کنند متکی است و این در حالی است که نظرسنجی‌های عمومی حمایت قاطع از خدمت نظامی برابر را نشان می‌دهند.",
+    "با وجود خشم عمومی و تهدیدها علیه دولت، جناح‌های سیاسی حریدیم پیوستن به هر ائتلافی را که قوانین معافیت را تصویب نکند، رد کرده‌اند. چهره‌های اپوزیسیون از این موضوع برای به چالش کشیدن نتانیاهو استفاده می‌کنند و انتخابات را به عنوان انتخابی میان فراریان از سربازی و کسانی که وظایف دولتی خود را انجام می‌دهند، توصیف می‌کنند."
+   ],
+   "title_ar": "نقاش التجنيد الإلزامي لليهود الحريديم يشعل المعحمة الانتخابية في إسرائيل",
+   "summary_ar": "أصبحت قضية ما إذا كان ينبغي لأقلية الحريديم المتشددة في إسرائيل الخدمة في الجيش مسألة رئيسية ومثيرة للانقسام قبيل الانتخابات المقبلة.",
+   "body_ar": [
+    "مع تهرب نحو 80 ألف رجل من الحريديم من الخدمة العسكرية، يجادل النقاد والمعارضون السياسيون بأن هذا الإعفاء يضع عبئاً غير عادل على بقية السكان وسط الصراعات المستمرة. يعتمد ائتلاف رئيس الوزراء بنيامين نتنياهو على أحزاب الحريديم التي تعارض التجنيد بشدة، مما يخلق معضلة سياسية بينما تُظهر استطلاعات الرأي العامة تأييداً ساحقاً للخدمة العسكرية المتساوية.",
+    "على الرغم من الغضب الشعبي والتهديدات الموجهة للحكومة، استبعدت الفصائل السياسية للحريديم الانضمام إلى أي ائتلاف لا يقر قوانين الإعفاء. تستغل شخصيات المعارضة القضية لتحدي نتنياهو، مصورة الانتخابات على أنها اختيار بين المتخلفين عن التجنيد وأولئك الذين يؤدون واجباتهم تجاه الدولة."
+   ]
+  },
+  {
+   "id": "1d336c319bd5",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cjr4yd6w01pwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-23T08:51:08Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 8,
+   "title": "التحالف يعلن اعتراض صاروخ باليستي باتجاه الرياض ومسيرتين جنوبي المملكة",
+   "title_en": "Coalition announces interception of ballistic missile aimed at Riyadh and two drones in southern Saudi Arabia",
+   "summary_en": "The Saudi-led military coalition announced the interception of a ballistic missile launched by Ansar Allah toward Riyadh, as well as two drones targeting southern Saudi Arabia. The attacks come amid escalating cross-border strikes, impacting oil prices and prompting precautionary evacuations at Aramco's Dhahran headquarters.",
+   "body_en": [
+    "According to coalition spokesman Turki al-Malki, air defenses destroyed the missile and drones, following earlier interceptions of four drones near Riyadh and Medina. Ansar Allah military spokesman Yahya Saree stated that recent operations targeted the Saudi Ministry of Defense, Aramco facilities in Yanbu, and airports in Dammam and Abha. The clashes come after the collapse of the 2022 truce and renewed fighting in July, with Ansar Allah imposing a naval blockade on Saudi ships.",
+    "Due to security concerns, essential staff at Aramco's headquarters in Dhahran were instructed to work from home. Oil prices rose over one percent on Friday following the escalations. Meanwhile, the IMF reported that while the economic impact on Saudi Arabia remains limited so far due to strong domestic demand, it projects the Saudi economy could contract by 3.3 percent in 2026 amid broader regional tensions."
+   ],
+   "title_fa": "ائتلاف از رهگیری یک موشک بالستیک به سمت ریاض و دو پهپاد در جنوب عربستان خبر داد",
+   "summary_fa": "ائتلاف نظامی به رهبری عربستان سعودی از رهگیری یک موشک بالستیک شلیک‌شده توسط انصارالله به سمت ریاض و دو پهپاد در جنوب این کشور خبر داد. این حملات در میان تشدید حملات متقابل رخ می‌دهد و باعث افزایش قیمت نفت و تخلیه پیشگیرانه مقر اصلی آرامکو در ظهران شده است.",
+   "body_fa": [
+    "به گفته تركي المالكي، سخنگوی ائتلاف، پدافند هوایی موشک و پهپادها را منهدم کرده است. یحیی سریع، سخنگوی نظامی انصارالله نیز اعلام کرد که عملیات‌های اخیر، وزارت دفاع عربستان، تاسیسات آرامکو در ينبع و فرودگاه‌های دمام و ابها را هدف قرار داده است. این درگیری‌ها پس از فروپاشی آتش‌بس سال ۲۰۲۲ و از سرگیری درگیری‌ها در ژوئیه رخ می‌دهد.",
+    "به دلیل نگرانی‌های امنیتی، از کارکنان اصلی مقر آرامکو در ظهران خواسته شد تا از خانه دورکاری کنند. قیمت نفت روز جمعه در پی این تنش‌ها بیش از یک درصد افزایش یافت. در همین حال، صندوق بین‌المللی پول اعلام کرد اگرچه تاثیر اقتصادی این حملات بر عربستان به دلیل تقاضای قوی داخلی تا کنون محدود بوده، اما پیش‌بینی می‌کند که اقتصاد عربستان در سال ۲۰۲۶ با انقباض ۳.۳ درصدی مواجه شود."
+   ],
+   "title_ar": "التحالف يعلن اعتراض صاروخ باليستي باتجاه الرياض ومسيرتين جنوبي المملكة",
+   "summary_ar": "أعلن التحالف العسكري بقيادة السعودية اعتراض وتدمير صاروخ باليستي أطلقته جماعة أنصار الله باتجاه الرياض، إضافة إلى طائرتين مسيرتين استهدفتا جنوب المملكة. وتأتي هذه الهجمات في ظل تصاعد الضربات المتبادلة، مما أثر على أسعار النفط دفع إلى إخلاء احترازي للمقر الرئيسي لشركة أرامكو بالظهران.",
+   "body_ar": [
+    "وفقاً للمتحدث باسم التحالف تركي المالكي، اعترضت الدفاعات الجوية الصاروخ والمسيرتين، بعد يوم من اعتراض أربع مسيرات قرب الرياض والمدينة المنورة. وكان المتحدث العسكري لانصار الله يحيى سريع قد أعلن استهداف وزارة الدفاع السعودية ومنشآت لأرامكو في ينبع ومطاري الدمام وأبها. وتأتي هذه المواجهات بعد انهيار هدنة 2022 وتجدد القتال في يوليو الماضي.",
+    "بسبب المخاوف الأمنية، طُلب من الموظفين الأساسيين في مقر أرامكو بالظهران العمل من منازلهم. وارتفعت أسعار النفط بأكثر من 1% يوم الجمعة عقب هذه التطورات. من جانبه، ذكر صندوق النقد الدولي أن التأثير الاقتصادي على السعودية لا يزال محدوداً بفضل قوة الطلب المحلي، لكنه يتوقع انكماش الاقتصاد السعودي بنسبة 3.3% في عام 2026."
+   ]
+  },
+  {
+   "id": "1c0f3972c84a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039235/hit-them-hard-cdf-munir-vows-to-continue-campaign-against-indian-sponsored-terrorist-outfits",
+   "date": "2026-10-23T08:42:49Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "‘Hit them hard’: CDF Munir vows to continue campaign against Indian-sponsored terrorist outfits",
+   "title_en": "‘Hit them hard’: CDF Munir vows to continue campaign against Indian-sponsored terrorist outfits",
+   "summary_en": "Field Marshal Asim Munir has stated that Pakistan's armed forces will vigorously continue their counterterrorism campaign against Indian-sponsored groups.",
+   "body_en": [
+    "During a visit to the Corps Headquarters in Peshawar, Chief of Defence Forces and Army Chief Field Marshal Asim Munir vowed to hit terrorist outfits hard wherever they are. He lauded the morale of the security forces and stressed the importance of maintaining high standards of operational readiness.",
+    "The remarks come amid a recent surge in violence-linked fatalities, particularly in Balochistan and Khyber Pakhtunkhwa. Security forces have stepped up intelligence-based operations and counter-terrorism measures following recent clashes and casualties in the region."
+   ],
+   "title_fa": "«به آن‌ها ضربه سختی بزنید»: عزم ارتش پاکستان بر ادامه مبارزه با گروه‌های تروریستی حامی هند",
+   "summary_fa": "فیلدمارشال عاصم منیر اعلام کرد که نیروهای مسلح پاکستان به شدت کارزار ضدتروریسم خود را علیه گروه‌های تحت حمایت هند ادامه خواهند داد.",
+   "body_fa": [
+    "فیلدمارشال عاصم منیر، فرمانده کل نیروهای دفاعی و ارتش، در جریان بازدید از مقر سپاه در پیشاور، متعهد شد که به گروه‌های تروریستی در هر کجا که باشند ضربه سختی بزند. او از روحیه نیروهای امنیتی تمجید کرد و بر اهمیت حفظ استانداردهای بالای آمادگی عملیاتی تأکید نمود.",
+    "این اظهارات در پی افزایش اخیر تلفات ناشی از خشونت، به‌ویژه در بلوچستان و خیبرپختونخوا مطرح شد. نیروهای امنیتی به دنبال درگیری‌ها و تلفات اخیر در منطقه، عملیات‌های مبتنی بر اطلاعات و اقدامات ضدتروریستی را تشدید کرده‌اند."
+   ],
+   "title_ar": "«اضربوهم بقوة»: قائد الجيش الباكستاني يتعهد بمواصلة الحملة ضد الجماعات الإرهابية المدعومة من الهند",
+   "summary_ar": "صرح المارشال عاصم منیر أن القوات المسلحة الباكستانية ستواصل بقوة حملتها لمكافحة الإرهاب ضد الجماعات المدعومة من الهند.",
+   "body_ar": [
+    "خلال زيارة له إلى مقر الفيالق في بيشاور، تعهد رئيس قوات الدفاع وقائد الجيش المارشال عاصم منیر بضرب الجماعات الإرهابية بقوة أينما كانت. وأشاد بمعنويات قوات الأمن وشدد على أهمية الحفاظ على أعلى معايير الجاهزية التشغيلية.",
+    "تأتي هذه التصريحات وسط تصاعد مؤخر في الوفيات المرتبطة بالعنف، لا سيما في بلوشستان وخيبر بختونخوا. وقد كثفت قوات الأمن العمليات القائمة على الاستخبارات ومدابیر مكافحة الإرهاب في أعقاب الاشتباكات والضحايا الأخيرة في المنطقة."
+   ]
+  },
+  {
+   "id": "438f22af2c8f",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/nyt-reports-plans-for-fresh-strikes-on-iran-after-the-us-midterm-elections",
+   "date": "2026-10-23T08:40:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "NYT reports plans for fresh strikes on Iran after the US midterm elections",
+   "title_en": "NYT reports plans for fresh strikes on Iran after the US midterm elections",
+   "summary_en": "Tehran correspondent Reza Sayah provides details on reports regarding potential upcoming strikes on Iran.",
+   "body_en": [
+    "France 24 correspondent Reza Sayah reporting from Tehran provides further information on the situation."
+   ],
+   "title_fa": "گزارش نیویورک تایمز از برنامه‌هایی برای حملات جدید به ایران پس از انتخابات میان‌دوره‌ای آمریکا",
+   "summary_fa": "رضا صیاح، خبرنگار در تهران، جزئیاتی درباره گزارش‌های مربوط به احتمال حملات آتی به ایران ارائه می‌دهد.",
+   "body_fa": [
+    "رضا صیاح، خبرنگار فرانس ۲۴ در تهران، اطلاعات بیشتری در مورد این موضوع ارائه می‌دهد."
+   ],
+   "title_ar": "صحيفة نيويورك تايمز تفيد بوجود خطط لشن ضربات جديدة على إيران بعد انتخابات التجديد النصفي الأمريكية",
+   "summary_ar": "يقدم مراسلنا في تهران، رضا صياح، تفاصيل حول التقارير المتعلقة بضربات محتملة قادمة على إيران.",
+   "body_ar": [
+    "يقدم مراسل فرانس 24 في تهران، رضا صياح، معلومات إضافية حول هذا الوضع."
+   ]
+  },
+  {
+   "id": "9c9b369cb67e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+   "date": "2026-10-23T08:35:44Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "title_en": "Israeli forces accused of killing disabled man in Syria raid",
+   "summary_en": "Israeli forces reportedly shot and killed a Syrian man with intellectual and hearing disabilities during a night raid in southern Syria.",
+   "body_en": [
+    "According to reports, the incident occurred during a night raid in the southern Syrian village of Jamla. Locals stated that the victim's body was later discovered several kilometers away near a UN peacekeeper base with his hands bound."
+   ],
+   "title_fa": "متهم شدن نیروهای اسرائیلی به قتل یک مرد معلول در حمله به سوریه",
+   "summary_fa": "گزارش‌ها حاکی از آن است که نیروهای اسرائیلی یک مرد سوری دارای معلولیت ذهنی و شنوایی را طی یک یورش شبانه در جنوب سوریه به گلوله بسته و کشته‌اند.",
+   "body_fa": [
+    "بر اساس گزارش‌ها، این حادثه در جریان یک یورش شبانه در روستای جمله در جنوب سوریه رخ داد. محلی‌ها اعلام کردند که جسد قربانی بعدها در فاصله چند کیلومتری در نزدیکی یک پایگاه صلح‌بانان سازمان ملل در حالی که دستانش بسته بود، پیدا شد."
+   ],
+   "title_ar": "اتهام القوات الإسرائيلية بقتل رجل من ذوي الإعاقة في غارة بسوريا",
+   "summary_ar": "أفادت التقارير أن القوات الإسرائيلية أطلقت النار وقطعت دابر رجل سوري يعاني من إعاقة ذهنية وسمعية خلال غارة ليلية في جنوب سوريا.",
+   "body_ar": [
+    "وفقاً للتقارير، وقع الحادث خلال غارة ليلية في قرية جملة بجنوب سوريا. وقال محليون إن جثة الضحية عُثر عليها لاحقاً على بعد عدة كيلومترات بالقرب من قاعدة لقوات حفظ السلام التابعة للأمم المتحدة وكانت يدانه مقيدتين."
+   ]
+  },
+  {
+   "id": "f75bb84bb68f",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039241/west-bank-attack-wounds-5-israelis-as-netanyahu-cancels-events",
+   "date": "2026-10-23T08:14:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+   "title_en": "West Bank attack wounds 5 Israelis as Netanyahu cancels events",
+   "summary_en": "A shooting attack near a checkpoint near Hebron wounded at least five Israelis on Friday, leading to a firefight in which Israeli forces killed two Palestinians. The incident prompted Prime Minister Benjamin Netanyahu to cancel political events days before national elections and order preparations for a complete closure of the West Bank.",
+   "body_en": [
+    "According to Israel's emergency service Magen David Adom, the shooting wounded five people, including two in critical condition. An AFP journalist witnessed two armed Palestinians exchanging fire with Israeli forces at the Farsh al-Hawa checkpoint before being shot dead. The Israeli military stated that soldiers eliminated the attackers and continued searches in the area.",
+    "In response to the attack, Netanyahu claimed a major attack was prevented and instructed the military to cordon off Hebron and prepare for a closure of the entire West Bank. Meanwhile, far-right National Security Minister Itamar Ben Gvir called for dismantling the Palestinian Authority, though no evidence linked it to the attack. Former army chief Gadi Eisenkot praised the troops' response."
+   ],
+   "title_fa": "حمله در کرانه باختری ۵ اسرائیلی را زخمی کرد؛ نتانیاهو برنامه‌های خود را لغو کرد",
+   "summary_fa": "حمله مسلحانه در نزدیکی ایست بازرسی در حوالی الخلیل در روز جمعه دست‌کم پنج اسرائیلی را زخمی کرد و به درگیری مسلحانه‌ای انجامید که در آن نیروهای اسرائیلی دو فلسطینی را کشتند. این حادثه باعث شد بنیامین نتانیاهو، نخست‌وزیر اسرائیل، رویدادهای سیاسی خود را چند روز پیش از انتخابات لغو کند و دستور آماده‌سازی برای تعطیلی کامل کرانه باختری را صادر کند.",
+   "body_fa": [
+    "به گفته سازمان امداد و نجات اسرائیل (نجمه داوود سرخ)، در این تیراندازی پنج نفر زخمی شدند که حال دو نفر از آن‌ها وخیم است. خبرنگار خبرگزاری فرانسه شاهد تبادل آتش دو فلسطینی مسلح با نیروهای اسرائیلی در ایست بازرسی فرش الهوا بود که در نهایت به کشته شدن آن‌ها انجامید. ارتش اسرائیل اعلام کرد سربازان مهاجمان را از پا درآورده و به جستجو در منطقه ادامه می‌دهند.",
+    "در پاسخ به این حمله، نتانیاهو ادعا کرد از یک حمله بزرگ جلوگیری شده است و به ارتش دستور داد شهر الخلیل را محاصره کرده و برای تعطیلی کامل کرانه باختری آماده شود. در همین حال، ایتامار بن گویر، وزیر امنیت ملی، خواستار انحلال تشکیلات خودگردان فلسطین شد، هرچند هیچ مدرکی ارتباط این تشکیلات با حمله را نشان نمی‌دهد."
+   ],
+   "title_ar": "هجوم في الضفة الغربية يصيب 5 إسرائيليين ونتنياهو يلغي الفعاليات",
+   "summary_ar": "أسفر هجوم بإطلاق النار قرب حاجز قبالة مدينة الخليل يوم الجمعة عن إصابة خمسة إسرائيليين على الأقل، وأدى إلى اشتباك مسلح أسفر عن مقتل فلسطينيين اثنين برصاص القوات الإسرائيلية. ودفعت هذه التطورات رئيس الوزراء بنيامين نتنياهو إلى إلغاء فعالياته السياسية قبل أيام من الانتخابات والأمر بالإعداد لإغلاق تام للضفة الغربية.",
+   "body_ar": [
+    "وفقاً لخدمة الإسعاف الإسرائيلية (نجمة داوود الحمراء)، أسفر إطلاق النار عن إصابة خمسة أشخاص، اثنين منهم في حالة حرجة. وشاهد صحفي في وكالة فرانس برس فلسطينيين مسلحين يتبادلان إطلاق النار مع القوات الإسرائيلية عند حاجز فرش الهوى قبل مقتلهما. وذكر الجيش الإسرائيلي أن جنوده قضوا على المهاجمين ويواصلون عمليات التفتيش.",
+    "ورداً على الهجوم، ادعى نتنياهو منع هجوم كبير وأمر الجيش بفرض طوق أمني على الخليل والاستعداد لإغلاق الضفة الغربية بالكامل. من جهته، دعا وزير الأمن القومي إيتمار بن غفير إلى تفكيك السلطة الفلسطينية، رغم عدم وجود أدلة تربطها بالهجوم. وأشاد رئيس أركان الجيش السابق غادي آيزنكوت بردة فعل القوات."
+   ]
+  },
+  {
+   "id": "6c6f7690e6c8",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-says-forces-kill-suspected-shooters-near-hebron",
+   "date": "2026-10-23T05:15:21Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli military says forces kill suspected shooters near Hebron",
+   "title_en": "Israeli military says forces kill suspected shooters near Hebron",
+   "summary_en": "The Israeli military reported that its forces killed two individuals suspected of carrying out an attack near Hebron in the occupied West Bank.",
+   "body_en": [
+    "According to a statement from the Israeli military, a cordon was imposed in the area alongside search operations following the incident. The specific details regarding the alleged attack remain unclear."
+   ],
+   "title_fa": "ارتش اسرائیل می‌گوید نیروهایش تیراندازان مظنون را در نزدیکی الخلیل کشتند",
+   "summary_fa": "ارتش اسرائیل گزارش داد که نیروهایش دو فرد مظنون به انجام حمله در نزدیکی الخلیل در کرانه باختری اشغالی را کشتند.",
+   "body_fa": [
+    "بر اساس بیانیه ارتش اسرائیل، در پی این حادثه، محاصره منطقه‌ای و عملیات جستجو در محل اجرا شده است. جزئیات دقیق این حمله ادعایی همچنان نامشخص است."
+   ],
+   "title_ar": "الجيش الإسرائيلي يعلن مقتل مشتبه بهما في إطلاق نار قرب الخليل",
+   "summary_ar": "أعلن الجيش الإسرائيلي أن قواته قتلت شخصين يُشتبه في تنفيذهما هجوماً قرب الخليل في الضفة الغربية المحتلة.",
+   "body_ar": [
+    "وذكر بيان للجيش الإسرائيلي أنه تم فرض طوق أمني في المنطقة إلى جانب تنفيذ عمليات تمشيط عقب الحادث، فيما لا تزال تفاصيل الهجوم المزعوم غير واضحة."
+   ]
+  },
+  {
+   "id": "a05b684a7740",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039176/houthi-attacks-on-saudi-sites-claim-four-more-lives",
+   "date": "2026-10-23T02:19:15Z",
+   "countries": [
+    "EGY",
+    "IRN",
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthi attacks on Saudi sites claim four more lives",
+   "title_en": "Houthi attacks on Saudi sites claim four more lives",
+   "summary_en": "Yemen's Houthi forces have launched attacks on several targets in Saudi Arabia, including the King Fahd International Airport in Dammam and an oil field, causing four deaths. Meanwhile, Iran's Revolutionary Guards threatened to strike US bases if the military continues escorting ships through the Strait of Hormuz.",
+   "body_en": [
+    "Saudi authorities confirmed that a strike on the Dammam airport killed a Saudi citizen and an Indian national while injuring eight others. Two additional casualties were reported in a Houthi drone strike on a Saudi oil field, and the Saudi-led coalition reported intercepting four drones over Riyadh and Madina. Houthi military spokesperson Yahya Saree claimed responsibility for strikes on Aramco facilities in Yanbu and the defence ministry in Riyadh, prompting Aramco to instruct staff at its Dhahran headquarters to work remotely.",
+    "Separately, the Iranian Revolutionary Guards stated that four vessels involved in illegal oil transfers were hit in the northern Persian Gulf and three others struck mines west of the strait. Amid the escalation, Egypt's foreign minister urged a diplomatic resolution as parliament considers military support for the Saudi campaign, while Pakistan issued travel guidance for pilgrims moving between Iran and Iraq."
+   ],
+   "title_fa": "حملات حوثی‌ها به پایگاه‌های عربستان چهار قربانی دیگر گرفت",
+   "summary_fa": "نیروهای حوثی یمن به چندین هدف در عربستان سعودی، از جمله فرودگاه بین‌المللی ملک فهد در دمام و یک میدان نفتی حمله کردند که منجر به کشته شدن چهار نفر شد. در همین حال، سپاه پاسداران انقلاب اسلامی تهدید کرد که در صورت ادامه اسکورت کشتی‌ها توسط ارتش آمریکا در تنگه هرمز، پایگاه‌های آمریکایی را هدف قرار خواهد داد.",
+   "body_fa": [
+    "مقامات عربستان سعودی تأیید کردند که حمله به فرودگاه دمام منجر به کشته شدن یک شهروند سعودی و یک تبعه هندی و زخمی شدن هشت نفر دیگر شد. دو تلفات دیگر نیز در حمله پهپادی حوثی‌ها به یک میدان نفتی عربستان گزارش شد و ائتلاف تحت رهبری عربستان از رهگیری چهار پهپاد در آسمان ریاض و مدینه خبر داد. یحیی سریع، سخنگوی نظامی حوثی‌ها، مسئولیت حملات به تأسیسات آرامکو در ینبع و وزارت دفاع در ریاض را بر عهده گرفت که در پی آن آرامکو به کارکنان دفتر مرکزی خود در ظهران دستور داد به صورت دورکاری فعالیت کنند.",
+    "به طور جداگانه، سپاه پاسداران انقلاب اسلامی اعلام کرد چهار شناور در حال انتقال غیرقانونی نفت در شمال خلیج فارس هدف قرار گرفته و سه شناور دیگر در غرب تنگه هرمز با مین برخورد کرده‌اند. در میان این تصاعد بحران، وزیر امور خارجه مصر در حالی که پارلمان این کشور حمایت نظامی از کارزار عربستان را بررسی می‌کند خواهان راهکار دیپلماتیک شد و پاکستان نیز دستورالعمل‌های مسافرتی برای زائرانی که بین ایران و عراق تردد می‌کنند صادر کرد."
+   ],
+   "title_ar": "هجمات الحوثيين على مواقع سعودية تودي بحياة أربعة آخرين",
+   "summary_ar": "شنّت نیروهای الحوثي في اليمن هجمات على عدة أهداف في السعودية، من بينها مطار الملك فهد الدولي بالدمام وحقل نفطي، ما أسفر عن مقتل أربعة أشخاص. في غضون ذلك، هدد الحرس الثوري الإيراني بضرب القواعد الأمريكية إذا استمر الجيش الأمريكي في مرافقة السفن عبر مضيق هرمز.",
+   "body_ar": [
+    "وأكّدت السلطات السعودية أن الهجوم على مطار الدمام أسفر عن مقتل مواطن سعودي ورعية هندي وإصابة ثمانية آخرين. كما أُفيد بمقتل شخصين آخرين في هجوم بطائرة مسيرة للحوثيين على حقل نفطي سعودي، وأعلن التحالف تقاطع وتدمير أربع طائرات مسيرة فوق منطقتي الرياض والمدينة المنورة. وأعلن المتحدث العسكري باسم الحوثيين يحيى سريع المسؤوليّة عن ضرب مرافق لأرامكو في ينبع ووزارة الدفاع في الرياض، ما دفع أرامكو لإبلاغ موظفي مقرها الرئيسي في الظهران بالعمل عن بُعد.",
+    "من جهة أخرى، ذكر الحرس الثوري الإيراني أن أربع سفن مشاركة في نقل النفط غير القانوني تعرضت للضرب في شمال الخليج ورست ثلاث سفن أخرى على ألغام غرب المضيق. ومع هذا التصعيد، دعا وزیر الخارجية المصري إلى حل دبلوماسي في وقت يدرس فيه البرلمان تقديم دعم عسكري للحملة السعودية، بينما وجهت پاکستان ارشادات للمعتمرين والزوار المسافرين بين إيران والعراق."
+   ]
+  },
   {
    "id": "aa1ca8ae657f",
    "lang": "ar",
