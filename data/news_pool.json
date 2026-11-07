@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:59:46Z",
+ "updated": "2026-11-07T21:53:49Z",
  "items": [
   {
    "id": "927ac1fd8263",
@@ -2362,7 +2362,8 @@
     "PSE"
    ],
    "desc": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
-   "score": 6
+   "score": 6,
+   "dup_of": "6aee37dbf9f5"
   },
   {
    "id": "eb3a4198ef59",
@@ -2871,8 +2872,7 @@
     "PSE"
    ],
    "desc": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
-   "score": 7,
-   "dup_of": "e4cfd3af25b8"
+   "score": 7
   },
   {
    "id": "213870ee0ec8",
@@ -3300,6 +3300,295 @@
    ],
    "desc": "تزايدت التقارير الصحفية خلال الأيام الماضية بشأن احتمال رحيل حسام حسن عن منتخب مصر، على خلفية انتشار خلافات أسرية مع زوجتيه السابقتين، وكذلك خلافات مع نجوم في المنتخب على رأسهم محمد صلاح",
    "score": 1
+  },
+  {
+   "id": "c8d41d697ede",
+   "title": "Mélenchon promises action against Israeli annexation if elected President",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+   "date": "2026-11-07T20:53:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Mélenchon promises action against Israeli annexation if elected President",
+   "score": 3
+  },
+  {
+   "id": "4a32102f2942",
+   "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+   "date": "2026-11-07T20:26:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
+   "score": 8
+  },
+  {
+   "id": "e2b9797fcd1b",
+   "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
+   "date": "2026-11-07T19:29:06Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
+   "score": 4
+  },
+  {
+   "id": "566a74c7d2b4",
+   "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "date": "2026-11-07T19:06:31Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
+   "score": 7,
+   "dup_of": "b552424f341c"
+  },
+  {
+   "id": "1d5f7eb7aeb5",
+   "title": "Demonstration in Berlin calls for an end to arming Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
+   "date": "2026-11-07T19:04:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Demonstration in Berlin calls for an end to arming Israel",
+   "score": 3
+  },
+  {
+   "id": "c58085b689f6",
+   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+   "date": "2026-11-07T19:49:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention to task him with forming a government”. Continue reading...",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "173755b2628a",
+   "title": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+   "date": "2026-11-07T19:37:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "13dbab3bc36a",
+   "title": "US military says it disabled cargo vessel in Gulf of Oman",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-disabled-cargo-vessel-gulf-oman",
+   "date": "2026-11-07T21:27:14Z",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "desc": "US military says it disabled cargo vessel in Gulf of Oman A US military aircraft fired on and disabled a commercial vessel that tried to break the US naval blockade of Iran on Saturday, US Central Command (Centcom) said. The St Kitts and Nevis-flagged cargo ship had visited an Iranian port and was trying to leave regional waters when a US plane fired precision munitions at its stern, after US forces ordered the crew to clear the targeted areas of the vessel, Centcom said. The US military also said on Saturday it was launching a task force to crack down on Iran’s movement of advanced weapons an",
+   "score": 8
+  },
+  {
+   "id": "795df9d89632",
+   "title": "Iran's army says forces 'stronger' than at start of war, Hormuz to stay closed",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-says-forces-stronger-start-war-hormuz-stay-closed",
+   "date": "2026-11-07T21:21:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's army says forces 'stronger' than at start of war, Hormuz to stay closed Iran's armed forces are \"on higher alert and are stronger than they were at the beginning of the war\" with the United States, an army spokesman said on Saturday. \"They now possess greater motivation, commitment and self-confidence,\" Mohammad Akraminia told the official IRNA news agency, adding that the Strait of Hormuz would stay closed until Washington met Tehran's demands. \"Under the order of the Supreme Leader, the response of the armed forces will be immediate, effective and without geographical limitations,\" he",
+   "score": 8,
+   "dup_of": "7afa583ecee2"
+  },
+  {
+   "id": "6d8115433d11",
+   "title": "Explosions reported on Iran's Qeshm Island and in port of Jask",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-reported-irans-qeshm-island-and-port-jask",
+   "date": "2026-11-07T20:31:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Explosions reported on Iran's Qeshm Island and in port of Jask Explosions were heard on Saturday on Iran's Qeshm Island in the Strait of Hormuz and in the southern port of Jask, Iranian media reported, though there was no official confirmation of what caused them. The Iranian Tasnim news agency said earlier on Saturday that two missiles had struck Qeshm Island, but did not say who fired them. There was no official word on damage. The reported explosions come days after US strikes on the island, which a US official described as limited and not a resumption of major combat operations.",
+   "score": 8,
+   "dup_of": "44d7fe55d199"
+  },
+  {
+   "id": "72d88dc9fe9e",
+   "title": "Saudi Arabia lifts alert in Jazan, home to Aramco refinery targeted by Houthis",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-lifts-alert-jazan-home-aramco-refinery-targeted-houthis",
+   "date": "2026-11-07T20:26:58Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia lifts alert in Jazan, home to Aramco refinery targeted by Houthis Saudi Arabia's civil defence authority issued an all-clear for the southwestern province of Jazan on Saturday, after an earlier warning of potential danger in the area. Jazan is home to an Aramco refinery with a capacity of 400,000 barrels per day. Southern Saudi Arabia, which borders Yemen, has come under repeated Houthi missile and drone attacks on military sites and energy infrastructure, including the Jazan refinery, since fighting in Yemen resumed in July.",
+   "score": 7,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "1783810532bf",
+   "title": "Israel's president picks Eisenkot over Netanyahu to try to form new government",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israels-president-picks-eisenkot-over-netanyahu-try-form-new-government",
+   "date": "2026-11-07T20:13:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's president picks Eisenkot over Netanyahu to try to form new government Submitted by MEE staff on Sat, 11/07/2026 - 19:52 Former army chief, backed by both Arab-led parties, has 28 days to build a coalition as Netanyahu fights to stay in power Former military chief Gadi Eisenkot, leader of the Yashar party, waves following national election exit polls at his party headquarters in Tel Aviv, Israel, 28 October 2026 (REUTERS/Shir Torem) Off Israeli President Isaac Herzog on Saturday chose opposition leader Gadi Eisenkot to try to form a new government, Israeli media reported, after an inco",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "7f6c9608d166",
+   "title": "Iraq has evidence outside parties use its territory to attack neighbours: Foreign minister",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-has-evidence-outside-parties-use-its-territory-attack-neighbours",
+   "date": "2026-11-07T19:32:15Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Iraq has evidence outside parties use its territory to attack neighbours: Foreign minister Iraq has evidence that external parties have been using its territory to attack neighbouring countries, Foreign Minister Fuad Hussein said in an interview with Al Jazeera on Saturday. Hussein said Baghdad was investigating attacks launched from Iraqi soil against Gulf states and wanted to resolve its differences with Saudi Arabia \"through frank dialogue\". Riyadh has accused Iran -aligned groups in Iraq of targeting its oil infrastructure. In September, Baghdad confirmed that the drones that struck the ki",
+   "score": 7,
+   "dup_of": "053daca12a9c"
+  },
+  {
+   "id": "8986524c19ba",
+   "title": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-will-keep-pushing-us-iran-peace",
+   "date": "2026-11-07T19:06:47Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "desc": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace Turkish President Recep Tayyip Erdogan told US President Donald Trump in a phone call that Ankara would continue its peace efforts and that tensions between Iran and the United States should be resolved through diplomacy, his office said on Saturday. According to a readout from the Turkish presidency, Erdogan also said Turkey would keep contributing to efforts to end the war in Ukraine, adding that contacts with both Kyiv and Moscow should be intensified.",
+   "score": 7
+  },
+  {
+   "id": "2fbdf53da317",
+   "title": "Israeli president picks Netanyahu's rival Gadi Eisenkot to try to form government",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042866/israeli-president-picks-netanyahus-rival-gadi-eisenkot-to-try-to-form-government",
+   "date": "2026-11-07T21:07:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu’s strongest rival, to try to form a new government following a deadlocked election that left neither man with a clear path to power. Netanyahu, Israel’s longest-serving leader, is fighting to stay in office after his religious-nationalist coalition lost its majority in an Oct 27 election but still emerged as the largest bloc in parliament. Eisenkot, a former military chief, has declined to join forces with Arab parties, with whose support he would have a majority of seats in parliament. But Arab leaders, ince",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "ed45f876e014",
+   "title": "Pakistan's men down South Korea to win Asian Team Squash title",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042864/pakistans-men-down-south-korea-to-win-asian-team-squash-title",
+   "date": "2026-11-07T18:56:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Pakistan defeated South Korea 2-0 in the men’s final of the 23rd Asian Team Squash Championship at the Mushaf Squash Complex on Saturday. In the men’s final, Pakistan’s Noor Zaman and Asim Khan outclassed their respective opponents. Noor beat Jeongmin Ryu 11-5, 11-7, 13-11 while Asim outplayed Seojin Oh 11-6, 11-5, 11-4 to give Pakistan the title. In the women’s final, Hong Kong China downed Malaysia 2-1 to become Asian champions. Hong Kong China and Malaysia men’s teams won bronze medal while Iran and Korea claimed bronze in the women’s section. Pakistan’s Noor Zaman plays a shot d",
+   "score": 1
+  },
+  {
+   "id": "9b5c5d63e0cb",
+   "title": "CM Bugti's remarks about FWO's performance taken out of context: Balochistan minister",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042865/cm-bugtis-remarks-about-fwos-performance-taken-out-of-context-balochistan-minister",
+   "date": "2026-11-07T19:44:21Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "GWADAR: Balochistan Planning Minister Mir Zahoor Ahmad Buledi has said Chief Minister Sarfraz Bugti’s recent remarks regarding the Frontier Works Organisation (FWO) had been presented out of context. Buledi’s clarification comes over a week after CM Bugti acknowledged shortcomings in FWO’s performance while responding to remarks made by National Party leader Dr Abdul Malik Baloch, who had also criticised the entity. Speaking on a point of order in the Balochistan Assembly in late October, Baloch, a former chief minister, had criticised the contracting process for road projects and alleged that",
+   "score": 2
+  },
+  {
+   "id": "5e1b0dbbda3c",
+   "title": "Israeli President picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+   "date": "2026-11-07T20:23:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Mr. Eisenkot, a former military chief, has declined to join forces with Arab parties, with whose support he ‌would have a majority of seats in parliament",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "44b0ef7ee9e9",
+   "title": "رئیس جمهور اسرائیل، گادی آیزنکوت را مامور تشکیل دولت جدید اسرائیل کرد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cm9dz7e04l3yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T20:05:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "اسحاق هرتسوگ، رئیس‌جمهور اسرائیل، اعلام کرد که پس از رایزنی‌ها با رهبران احزاب سیاسی، گادی آیزنکوت را مأمور تشکیل دولت جدید خواهد کرد.",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "98d444d170fa",
+   "title": "الرئيس الإسرائيلي يكلف غادي آيزنكوت بتشكيل الحكومة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm62ypx3wj64o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T21:28:45Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "الرئيس الإسرائيلي إسحق هرتسوغ يعلن تكليف غادي آيزنكوت، رئيس التكتل المعارض الذي حقق أفضلية في الانتخابات التشريعية بتأليف حكومة جديدة",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "8cb76bc5f982",
+   "title": "غادي آيزنكوت: من هو المكلف بتشكيل الحكومة الإسرائيلية؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cxj0levgjmydo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T20:16:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "نتناول في هذا التقرير سيرة القائد العسكري السابق الذي يشكّل أكبر تهديد سياسي لرئيس الوزراء بنيامين نتنياهو في الانتخابات العامة المقبلة.",
+   "score": 5,
+   "dup_of": "4a32102f2942"
   }
  ]
 }
