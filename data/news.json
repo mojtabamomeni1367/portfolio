@@ -1,7 +1,59 @@
 {
- "updated": "2026-11-07T07:17:56Z",
- "count": 432,
+ "updated": "2026-11-07T10:02:14Z",
+ "count": 434,
  "items": [
+  {
+   "id": "ff0eea51cee9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+   "date": "2026-11-07T08:45:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+   "title_en": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+   "summary_en": "US President Donald Trump has alternated between threatening further attacks on Iran and claiming that negotiations are progressing following Republican losses in the midterm elections. Meanwhile, US forces conducted strikes on Qeshm Island, and Iran began distributing iodine tablets around its nuclear facilities amid escalating tensions.",
+   "body_en": [
+    "Following Republican midterm defeats linked partly to the war, Trump threatened that the US might destroy the rest of Iran, while also stating that talks were underway and progress was being made. On Friday, US forces conducted what Washington described as minor strikes against air defence systems on Qeshm Island, where Iranian media confirmed two missile impacts and stated that an American MQ-9 drone had been intercepted.",
+    "Reports indicate Iranian authorities are distributing iodine tablets to protect residents near facilities such as the Bushehr plant, as concerns mount over possible strikes on sites including Pickaxe Mountain. Analysts note that Trump faces intense domestic political pressure, while Iran continues to demand the lifting of sanctions and the end of naval blockades before reopening the Strait of Hormuz."
+   ],
+   "title_fa": "آیا ترامپ با ورود ایران به «جنگ شناختی» دوباره به سایت‌های هسته‌ای حمله خواهد کرد؟",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، در پی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، مواضع متناقضی میان تهدید به نابودی بخش‌های دیگری از ایران و ادعای پیشرفت در مذاکرات اتخاذ کرده است. در همین حال، نیروهای آمریکایی حملاتی را به جزیره قشم انجام دادند و ایران هم‌زمان با تشدید تنش‌ها توزیع قرص‌های ید را در اطراف تأسیسات هسته‌ای خود آغاز کرده است.",
+   "body_fa": [
+    "در پی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای که بخشی از آن به نارضایتی از جنگ نسبت داده شده، ترامپ تهدید کرد که آمریکا ممکن است باقی‌مانده ایران را نابود کند، اما هم‌زمان اعلام کرد که گفتگوها در جریان است و پیشرفت حاصل شده است. روز جمعه، نیروهای آمریکایی حملاتی را به سامانه‌های پدافند هوایی در جزیره قشم انجام دادند؛ در حالی که رسانه‌های ایرانی اصابت دو موشک به این جزیره و همچنین سرنگونی یک پهپاد ام‌کیو-۹ آمریکایی را گزارش کردند.",
+    "بر اساس گزارش‌ها، مقامات ایرانی توزیع قرص‌های ید را برای محافظت از ساکنان مناطق نزدیک به تأسیساتی همچون نیروگاه بوشهر آغاز کرده‌اند، زیرا نگرانی‌ها از احتمال حمله به مراکزی چون کوه کلنگ افزایش یافته است. به گفته تحلیل‌گران، ترامپ با فشارهای شدید سیاسی در داخل روبه‌رو است، در حالی که ایران بازگشایی تنگه هرمز را به لغو تحریم‌ها و پایان محاصره دریایی مشروط کرده است."
+   ],
+   "title_ar": "هل يضرب ترامب المواقع النووية مجدداً مع خوض إيران «حرباً إدراكية»؟",
+   "summary_ar": "تأرجحت تصريحات الرئيس الأمريكي دونالد ترامب بين التهديد بشن مزيد من الضربات ضد إيران والحديث عن إحراز تقدم في المفاوضات عقب هزيمة الجمهوريين في انتخابات التجديد النصفي. في غضون ذلك، شنت القوات الأمريكية ضربات على جزيرة قشم، وبدأت إيران بتوزيع أقراص اليود بالقرب من منشآتها النووية وسط تصاعد التوتر.",
+   "body_ar": [
+    "في أعقاب هزيمة الجمهوريين في التجديد النصفي والتي عُزيت جزئياً إلى الحرب، هدد ترامب بإمكانية تدمير ما تبقى من إيران، مؤكداً في الوقت ذاته أن المحادثات جارية وأن تقدماً قد أُحرز. ونفذت القوات الأمريكية يوم الجمعة ضربات وصفتها بالطفيفة ضد أنظمة دفاع جوي في جزيرة قشم، بينما أفادت وسائل إعلام إيرانية بسقوط صاروخين في الجزيرة واعتراض طائرة مسيرة أمريكية من طراز إم كيو-9.",
+    "وتشير التقارير إلى أن السلطات الإيرانية وزعت أقراص اليود لحماية السكان قرب منشآت نووية مثل محطة بوشهر، وسط مخاوف من ضربات قد تستهدف مواقع محصنة مثل جبل بيكاكس. ويوضح محللون أن ترامب يواجه ضغوطاً سياسية داخلية متزايدة، بينما تتمسك إيران بمطالبها لرفع العقوبات وإنهاء الحصار البحري قبل إعادة فتح مضيق هرمز."
+   ]
+  },
+  {
+   "id": "d01f5b42d42d",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+   "date": "2026-11-07T07:10:37Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Qatari PM says US willing to seek solution to war with Iran",
+   "title_en": "Qatari PM says US willing to seek solution to war with Iran",
+   "summary_en": "Qatari Prime Minister Mohammed bin Abdulrahman Al Thani said the United States remains willing to pursue a solution to the conflict with Iran. He noted this stance persists despite shifts in Washington's political landscape following the midterm elections.",
+   "body_en": [],
+   "title_fa": "نخست‌وزیر قطر: آمریکا مایل به یافتن راه‌حلی برای جنگ با ایران است",
+   "summary_fa": "محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، اعلام کرد ایالات متحده همچنان مایل به پیگیری راه‌حلی برای درگیری با ایران است. وی اشاره کرد که این موضع علی‌رغم دگرگونی فضای سیاسی در واشینگتن پس از انتخابات میان‌دوره‌ای پابرجا مانده است.",
+   "body_fa": [],
+   "title_ar": "رئيس وزراء قطر يقول إن الولايات المتحدة مستعدة للبحث عن حل للحرب مع إيران",
+   "summary_ar": "صرح رئيس الوزراء القطري محمد بن عبد الرحمن آل ثاني بأن الولايات المتحدة لا تزال راغبة في التوصل إلى حل للصراع مع إيران. وأشار إلى أن هذا الموقف مستمر على الرغم من التغيرات التي طرأت على المشهد السياسي في واشنطن بعد انتخابات التجديد النصفي.",
+   "body_ar": []
+  },
   {
    "id": "6da1f10b9d2e",
    "lang": "en",
