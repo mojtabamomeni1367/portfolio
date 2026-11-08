@@ -1,6 +1,79 @@
 {
- "count": 15,
+ "count": 17,
  "items": [
+  {
+   "id": "china-energy-security-diplomacy-2026",
+   "date": "2026-11-09",
+   "countries": [
+    "IRN",
+    "OMN",
+    "SAU"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "China on the Road to Tehran, Muscat and Riyadh: Will Energy Security Drive More Active Diplomacy?",
+     "summary": "Energy security offers Beijing an incentive for more active diplomacy. Its announced envoy mission will be tested by coordination, workable commitments and lower risk.",
+     "focus_keyword": "energy security",
+     "image": "/assets/uploads/china-energy-security-diplomacy-2026.jpg",
+     "url": "analysis/china-energy-security-diplomacy-2026-en.html"
+    },
+    "fa": {
+     "title": "چین در مسیر تهران، مسقط و ریاض؛ آیا امنیت انرژی پکن را وارد دیپلماسی فعال تر می کند؟",
+     "summary": "امنیت انرژی دلیلی برای تحرک دیپلماتیک پکن است، اما نفوذ تجاری تضمین امنیتی نیست. سفر اعلام شده فرستاده چین را باید با نتایج قابل اجرا سنجید.",
+     "focus_keyword": "امنیت انرژی",
+     "image": "/assets/uploads/china-energy-security-diplomacy-2026.jpg",
+     "url": "analysis/china-energy-security-diplomacy-2026-fa.html"
+    },
+    "ar": {
+     "title": "الصين في طريقها إلى طهران ومسقط والرياض؛ هل يدفع أمن الطاقة بكين إلى دبلوماسية أكثر نشاطا؟",
+     "summary": "يوفر أمن الطاقة دافعا لتحرك صيني أكثر نشاطا، لكن النفوذ التجاري ليس ضمانا أمنيا. معيار الزيارات المعلنة هو الالتزامات العملية وانخفاض المخاطر.",
+     "focus_keyword": "أمن الطاقة",
+     "image": "/assets/uploads/china-energy-security-diplomacy-2026.jpg",
+     "url": "analysis/china-energy-security-diplomacy-2026-ar.html"
+    }
+   },
+   "added": "2026-11-08T23:38:52Z"
+  },
+  {
+   "id": "qatar-mediation-us-defense-partnership-2026",
+   "date": "2026-11-09",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Qatar Between Fire and Negotiation: Can a Mediator Remain a US Military Partner?",
+     "summary": "Qatar's mediation depends on turning access to Washington and Tehran into clear commitments while preserving credibility alongside its defense partnership.",
+     "focus_keyword": "Qatar",
+     "image": "/assets/uploads/qatar-mediation-us-defense-partnership-2026.jpg",
+     "url": "analysis/qatar-mediation-us-defense-partnership-2026-en.html"
+    },
+    "fa": {
+     "title": "قطر میان آتش و مذاکره؛ آیا میانجی می تواند شریک نظامی آمریکا باقی بماند؟",
+     "summary": "قطر می کوشد همکاری دفاعی با واشنگتن را با نقش میانجی میان ایران و آمریکا جمع کند. اعتبار این نقش به استقلال در انتقال پیام و تعهدات قابل اجرا وابسته است.",
+     "focus_keyword": "قطر",
+     "image": "/assets/uploads/qatar-mediation-us-defense-partnership-2026.jpg",
+     "url": "analysis/qatar-mediation-us-defense-partnership-2026-fa.html"
+    },
+    "ar": {
+     "title": "قطر بين النار والتفاوض؛ هل يستطيع الوسيط أن يبقى شريكا عسكريا للولايات المتحدة؟",
+     "summary": "تحاول قطر الجمع بين الشراكة الدفاعية مع واشنطن والوساطة مع طهران. وترتبط مصداقية الدور باستقلال نقل الرسائل ووضوح الالتزامات القابلة للتنفيذ.",
+     "focus_keyword": "قطر",
+     "image": "/assets/uploads/qatar-mediation-us-defense-partnership-2026.jpg",
+     "url": "analysis/qatar-mediation-us-defense-partnership-2026-ar.html"
+    }
+   },
+   "added": "2026-11-08T23:38:52Z"
+  },
   {
    "id": "gaza-ceasefire-civilian-safety-2026",
    "date": "2026-11-05",
