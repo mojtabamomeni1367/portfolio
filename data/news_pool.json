@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:15:41Z",
+ "updated": "2026-11-08T10:05:48Z",
  "items": [
   {
    "id": "de520f20779b",
@@ -2237,6 +2237,237 @@
    "desc": "سُمع دوي انفجارات قوية في العاصمة السعودية الرياض، الأحد، عقب إنذار من تهديد جوي معاد، فيما أعلن التحالف اعتراض وتدمير ثلاثة صواريخ باليستية وصاروخ كروز أطلقتها جماعة أنصار الله (الحوثيون) باتجاه الرياض والمنطقتين الشرقية والجنوبية.",
    "score": 8,
    "dup_of": "bd2525dc963e"
+  },
+  {
+   "id": "e792cabafcd5",
+   "title": "Floods in Gaza leave tens of thousands without shelter",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+   "date": "2026-11-08T09:28:52Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
+   "score": 7,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "9f3d6f681de3",
+   "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
+   "date": "2026-11-08T09:09:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
+   "score": 6
+  },
+  {
+   "id": "24ab0c4cf245",
+   "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss",
+   "date": "2026-11-08T08:57:49Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.",
+   "score": 2
+  },
+  {
+   "id": "4524229b75c3",
+   "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
+   "date": "2026-11-08T08:47:36Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+   "score": 4
+  },
+  {
+   "id": "201bf524aa7d",
+   "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
+   "date": "2026-11-08T08:42:16Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "A series of controversies surrounding Hassan's marital life left a 'negative impact' on the team, Egyptian FA says.",
+   "score": 1
+  },
+  {
+   "id": "718247ba153f",
+   "title": "US military attacks cargo ship in the Gulf of Oman",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+   "date": "2026-11-08T08:24:37Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+   "score": 8,
+   "dup_of": "13dbab3bc36a"
+  },
+  {
+   "id": "00485656fad7",
+   "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+   "date": "2026-11-08T07:40:07Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+   "score": 8,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "682a9e6d201b",
+   "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+   "date": "2026-11-08T09:47:36Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the latest developments from the Middle East.",
+   "score": 3
+  },
+  {
+   "id": "5035f48f32ec",
+   "title": "Israel's Arab-led parties gain influence",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
+   "date": "2026-11-08T09:43:26Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Arab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these parties ultimately hold the balance of power in forming Israel's next government? Antonia Kerrigan reports.",
+   "score": 6
+  },
+  {
+   "id": "f7216b033ce6",
+   "title": "Gaza: Heavy rain inundates thousands of tents",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "date": "2026-11-08T09:42:03Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings, building makeshift earthen barriers and trying to drain the water by hand. Many have seen essential items soaked and rendered unusable, adding to the hardship faced by those already displaced.",
+   "score": 7,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "2001f89656d3",
+   "title": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of efforts against terrorism",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043052/kp-plans-to-set-up-faceless-atcs-spend-rs70bn-on-ctd-and-police-in-a-year-as-part-of-efforts-against-terrorism",
+   "date": "2026-11-08T09:53:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The administrative setup in Khyber Pakhtunkhwa plans to establish faceless anti-terrorism courts in the province as part of its initiatives to strengthen the fight against terrorism, according to a briefing of the officials televised on Sunday. KP Governor Faisal Karim Kundi was also present at the briefing, where an official outlined several measures planned to step up the fight against terrorism and explained that witnesses in terrorism cases feared coming forward. “So, we have recently sent the amendment to set faceless anti-terrorism courts. Through this, not just the protection of witness",
+   "score": 6
+  },
+  {
+   "id": "5191bf2ee24d",
+   "title": "Babar Azam says selection not in his hands as youthful Pakistan face Sri Lanka",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043046/babar-azam-says-selection-not-in-his-hands-as-youthful-pakistan-face-sri-lanka",
+   "date": "2026-11-08T08:37:31Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan captain Babar Azam says team selection is the responsibility of the selectors and coach, adding that his role is to get the best out of the players available to him as a youthful Pakistan side prepares to face Sri Lanka in the opening Test of a two-match series on Monday. Responding to questions about the omission of certain players despite their not having featured in recent matches, Babar said the squad had been selected after consultations between the selectors and team management. “When we came back from England the scenario was in front of everyone. After that, when we sat down f",
+   "score": 1
+  },
+  {
+   "id": "7f5edcae2a5e",
+   "title": "President Zardari, PM Shehbaz wish Hindu community on Diwali, reaffirm commitment to minority rights",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043038/president-zardari-pm-shehbaz-wish-hindu-community-on-diwali-reaffirm-commitment-to-minority-rights",
+   "date": "2026-11-08T08:10:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif and President Asif Ali Zardari on Sunday extended greetings to the Hindu community in Pakistan and worldwide on the occasion of Diwali, reaffirming their commitment to minority rights. Diwali is a Hindu festival involving lighting candles, worship, celebrations and prayers. It is celebrated to mark the day when Hindu deity Lord Rama returned home after his 14-year exile. It is a five-day festival and during this time, houses are cleaned and windows are opened to welcome Lakshmi, the goddess of wealth. PM Shehbaz calls for interfaith harmony In his message on the o",
+   "score": 3
+  },
+  {
+   "id": "b20fbb3b903c",
+   "title": "Locally built robots serve taste of future to Karachi diners",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043044/locally-built-robots-serve-taste-of-future-to-karachi-diners",
+   "date": "2026-11-08T09:35:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Wheeling its way between dining booths at a neon-lit restaurant in Karachi, a robot waitress drops off a fresh pizza to an awaiting family. While global buzz is growing around agile humanoids made in the United States, China and elsewhere, robotic staff are a rare sight in the South Asian country. “Welcome to Sicilian. My name is Robia,” the waitress says in an electronic voice, looking down at diners through blinking red LED eyes. This photograph taken on October 2, 2026 shows Robia (R) and Jojo (2R), humanoid robot waitresses serving customers at The Sicilian restaurant in Karachi. — AFP Rob",
+   "score": 1
+  },
+  {
+   "id": "f4b15b62a47d",
+   "title": "Riyadh financial district targeted in missile attack, Aramco tower damaged: witnesses",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/riyadh-financial-district-targeted-in-missile-attack-aramco-tower-damaged-witnesses/article71680790.ece",
+   "date": "2026-11-08T09:32:19Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Multiple floors of the Aramco tower appeared to have sustained damage, said another witness, with glass shattered and damage to part of the tower's facade visible",
+   "score": 8,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "813193966b68",
+   "title": "Bangladesh Law Minister calls Hasina ‘convicted criminal’, says extradition request sent to India",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680798.ece",
+   "date": "2026-11-08T09:23:29Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Indian govt previously acknowledged receiving Bangladesh's extradition requests for Ms. Hasina but has not announced any decision on handing her over",
+   "score": 7
+  },
+  {
+   "id": "9bcb125fab52",
+   "title": "قوه قضائیه ایران سه نفر از بازداشت‌شدگان اعتراضات دی‌ماه را اعدام و اموالشان را مصادره کرد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqp8g34231d0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T09:12:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "قوه قضائیه ایران اعلام کرد که حکم اعدام حسن دیوبند و حمید کاظمی و رضا زنگنه، سه نفر از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در کرج، را صبح یکشنبه به اجرا درآورده است.",
+   "score": 7,
+   "dup_of": "4213c33f66b8"
   }
  ]
 }
