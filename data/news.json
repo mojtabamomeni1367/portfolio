@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-08T10:05:48Z",
- "count": 429,
+ "updated": "2026-11-08T13:11:30Z",
+ "count": 432,
  "items": [
+  {
+   "id": "7852ff6295f7",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c5zjxr1vpenro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T12:51:00Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "إسرائيل تؤكد أنها \"لم تنجز مهمتها بعد في إيران\"، وطهران تتوعد بإفشال أي خطة لحصار اقتصادها",
+   "title_en": "Israel affirms it has 'not yet completed its mission in Iran', and Tehran vows to thwart any plan to blockade its economy",
+   "summary_en": "Israeli Defence Minister Israel Katz stated that his country has not yet completed its mission in Iran, accusing it of seeking nuclear weapons, while Iran's Revolutionary Guard vowed to thwart a new US plan aimed at disrupting Tehran's land and maritime trade routes.",
+   "body_en": [
+    "Katz's remarks come amid reported divisions within the Israeli leadership and military pushback against launching fresh strikes ahead of legislative elections, following two earlier wars against Iran in 2025 and 2026. Military action also faces hesitation from Washington, where reports indicated that the US administration previously thwarted an Israeli plan to launch a strike on the eve of the Knesset elections.",
+    "Meanwhile, US Central Command (CENTCOM) announced the creation of a task force called \"Iron Gate\" to curb the transfer of advanced weaponry and sanctioned materials across Iran's land borders and the Caspian Sea, reinforcing a naval blockade in place since April. An IRGC spokesperson responded by asserting that Washington cannot economically isolate Iran, citing Tehran's preparations and close ties with its neighbours."
+   ],
+   "title_fa": "اسرائیل تأکید کرد که «هنوز مأموریت خود را در ایران به پایان نرسانده است» و تهران وعده شکست هرگونه طرح برای محاصره اقتصادش را داد",
+   "summary_fa": "یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد که کشورش هنوز مأموریت خود را در ایران به پایان نرسانده و تهران را به تلاش برای دستیابی به سلاح هسته‌ای متهم کرد؛ هم‌زمان، سپاه پاسداران وعده داد طرح جدید آمریکا برای مسدود کردن مسیرهای تجاری زمینی و دریایی تهران را به شکست بکشاند.",
+   "body_fa": [
+    "اظهارات کاتس در میان گزارش‌هایی از اختلافات در رهبری اسرائیل و مخالفت ارتش با انجام حملات جدید پیش از انتخابات پارلمانی بیان می‌شود، که پس از دو جنگ پیشین علیه ایران در سال‌های ۲۰۲۵ و ۲۰۲۶ رخ می‌دهد. اقدامات نظامی با تردید واشینگتن نیز روبه‌رو شده است، جایی که گزارش‌ها حاکی از مداخله دولت آمریکا برای توقف طرح پیشین اسرائیل جهت حمله در آستانه انتخابات کنست است.",
+    "هم‌زمان، فرماندهی مرکزی آمریکا (سنتکام) از تشکیل یک کارگروه به نام «دروازه آهنین» برای جلوگیری از انتقال تسلیحات پیشرفته و اقلام تحریمی از طریق مرزهای زمینی ایران و دریای خزر خبر داد تا محاصره دریایی موجود از آوریل را تقویت کند. سخنگوی سپاه پاسداران در پاسخ تأکید کرد که واشینگتن قادر به انزوای اقتصادی ایران نیست و به آمادگی‌های تهران و روابط نزدیک آن با همسایگانش اشاره نمود."
+   ],
+   "title_ar": "إسرائيل تؤكد أنها \"لم تنجز مهمتها بعد في إيران\"، وطهران تتوعد بإفشال أي خطة لحصار اقتصادها",
+   "summary_ar": "أعلن وزير الدفاع الإسرائيلي يسرائيل كاتس أن بلاده لم تنجز مهمتها بعد في إيران متهماً إياها بالسعي لامتلاك سلاح نووي، فيما توعد الحرس الثوري الإيراني بإفشال خطة أمريكية جديدة تهدف إلى قطع مسارات التجارة البرية والبحرية لطهران.",
+   "body_ar": [
+    "تأتي تصريحات كاتس في ظل تقارير عن خلافات داخل القيادة الإسرائيلية ورفض عسكري لشن ضربات جديدة قبيل الانتخابات التشريعية، بعد جولتين سابقتين من الحرب على إيران في عامي 2025 و2026. وتواجه التحركات العسكرية تحفظات أيضاً من واشنطن، حيث أفادت تقارير بإحباط الإدارة الأمريكية محاولة إسرائيلية سابقة لتنفيذ ضربة عسكرية عشية انتخابات الكنيست.",
+    "في غضون ذلك، أعلنت القيادة المركزية الأمريكية (سنتكوم) عن تشكيل فريق عمل باسم «البوابة الحديدية» لعرقلة نقل الأسلحة والمواد الخاضعة للعقوبات عبر الحدود البرية الإيرانية وبحر قزوين، تعزيزاً للحصار البحري القائم منذ أبريل/نيسان. ورد متحدث باسم الحرس الثوري الإيراني بالتأكيد على عدم قدرة واشنطن على عزل إيران اقتصادياً، مشيراً إلى استعدادات بلاده وعلاقاتها الوثيقة مع جيرانها."
+   ]
+  },
+  {
+   "id": "38f02fc341d5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+   "date": "2026-11-08T11:34:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "title_en": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "summary_en": "Israeli President Isaac Herzog has tasked Yashar party leader Gadi Eisenkot with forming a new government after Benjamin Netanyahu's coalition lost its parliamentary majority in the October elections.",
+   "body_en": [
+    "The former military chief has 28 days, with a possible 14-day extension, to assemble a majority coalition of at least 61 seats in the 120-member Knesset. Eisenkot faces significant hurdles due to sharp disagreements within opposition parties over national security, religion, and the occupation, alongside his partners' refusal to rely on Arab-led parties to form a minority administration despite receiving their endorsement.",
+    "Netanyahu's Likud won 27 seats while Eisenkot's Yashar took 21, with Netanyahu's religious-nationalist coalition dropping to 53 seats after United Torah Judaism withheld its endorsement over ultra-Orthodox conscription. Beyond a minority government, Eisenkot could pursue an alliance with ultra-Orthodox factions or a unity government with Likud; if he fails, Herzog could offer Netanyahu or the Knesset an opportunity to form a coalition before fresh elections are triggered."
+   ],
+   "title_fa": "آیا آیزنکوت می‌تواند با وجود اپوزیسیون دچار تفرقه، دولت بعدی اسرائیل را تشکیل دهد؟",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، پس از آنکه ائتلاف بنیامین نتانیاهو در انتخابات اکتبر اکثریت پارلمانی را از دست داد، گادی آیزنکوت، رهبر حزب یاشار، را مأمور تشکیل دولت جدید کرد.",
+   "body_fa": [
+    "رئیس پیشین ستاد ارتش ۲۸ روز مهلت دارد که می‌تواند تا ۱۴ روز دیگر تمدید شود تا ائتلافی با حداقل ۶۱ کرسی در کنست ۱۲۰ نفره ایجاد کند. آیزنکوت به دلیل اختلافات شدید احزاب مخالف در موضوعات امنیت ملی، مذهب و اشغالگری، و همچنین امتناع شرکای او از اتکا به احزاب تحت رهبری اعراب برای تشکیل دولت اقلیت—علیرغم حمایت فهرست مشترک و رعد—با چالش‌های جدی مواجه است.",
+    "حزب لیکود نتانیاهو ۲۷ کرسی و حزب یاشار آیزنکوت ۲۱ کرسی به دست آوردند و ائتلاف ملی‌گرای مذهبی نتانیاهو پس از عدم حمایت «یهودیت توراتی متحد» به دلیل معافیت سربازی حریدی‌ها، به ۵۳ کرسی سقوط کرد. علاوه بر دولت اقلیت، آیزنکوت می‌تواند گزینه‌هایی چون ائتلاف با احزاب حریدی یا تشکیل دولت وحدت با لیکود را بررسی کند؛ و در صورت شکست وی، هرتزوگ ممکن است فرصت تشکیل کابینه را به نتانیاهو یا کنست واگذار کند."
+   ],
+   "title_ar": "هل يتمكن آيزنكوت من تشكيل الحكومة الإسرائيلية القادمة في ظل معارضة منقسمة؟",
+   "summary_ar": "كلف الرئيس الإسرائيلي يتسحاق هرتسوغ زعيم حزب يشار غادي آيزنكوت بتشكيل الحكومة الجديدة بعد فقدان ائتلاف بنيامين نتنياهو الأغلبية البرلمانية إثر انتخابات أكتوبر.",
+   "body_ar": [
+    "يمتلك رئيس الأركان السابق مهلة 28 يوماً، قابلة للتمديد 14 يوماً، للتوصل إلى ائتلاف حاكم يضم 61 نائباً على الأقل في الكنيست البالغ عدد مقاعده 120. ويواجه آيزنكوت تحديات معقدة بسبب تباين مواقف قوى المعارضة حول قضايا الأمن والدين والاحتلال، إضافة إلى معارضة حلفائه الاعتماد على الأحزاب ذات الغالبية العربية لتشكيل حكومة أقلية رغم تأييد القائمة المشتركة والموحدة له.",
+    "حصل حزب الليكود بزعامة نتنياهو على 27 مقعداً بينما نال حزب يشار 21 مقعداً، وتراجع الائتلاف الديني القومي لنتنياهو إلى 53 مقعداً بعد امتناع كتلة «يهودوت هتوراه» عن دعمه بسبب ملف تجنيد المتدينين. وإلى جانب خيار حكومة الأقلية، قد يسعى آيزنكوت لضم الأحزاب الحريدية لكتلته، أو التوجه نحو تشكيل حكومة وحدة مع الليكود، في حين سيعيد هرتسوغ التكليف لنتنياهو أو البرلمان إذا فشل مسعى آيزنكوت."
+   ]
+  },
+  {
+   "id": "7ea81a840109",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crq5nvqvgl2lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T10:59:30Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "من حرب إلى حرب: معاناة المهاجرين الإثيوبيين في اليمن",
+   "title_en": "From war to war: the suffering of Ethiopian migrants in Yemen",
+   "summary_en": "Ethiopian migrants in Yemen face severe humanitarian and security conditions alongside continuous abuse by smugglers as they attempt to reach Saudi Arabia for work or to escape conflict.",
+   "body_en": [
+    "The International Organization for Migration recorded the arrival of around 134,000 migrants in Yemen by late September 2026, a 22 percent increase compared to the previous year, with the vast majority being Ethiopians escaping economic hardship, forced conscription, or the conflict in Tigray. Migrants undertake hazardous sea journeys via Djibouti or Somalia to reach Yemeni areas such as Aden and Shabwah.",
+    "Once in Yemen, many migrants endure detention, beatings, and extortion by smuggling networks, as well as gunfire near the Saudi border that has left people dead or wounded. Renewed local fighting and declining international humanitarian funding have compounded difficulties in securing shelter and healthcare, leaving thousands stranded on the streets unable to continue their journey or return home."
+   ],
+   "title_fa": "از جنگی به جنگی دیگر: رنج مهاجران اتیوپیایی در یمن",
+   "summary_fa": "مهاجران اتیوپیایی در یمن هنگام تلاش برای رسیدن به عربستان سعودی در جستجوی کار یا فرار از درگیری‌ها، با شرایط دشوار انسانی و امنیتی و سوءاستفاده‌های مداوم قاچاقچیان مواجه هستند.",
+   "body_fa": [
+    "سازمان بین‌المللی مهاجرت ورود نزدیک به ۱۳۴ هزار مهاجر به یمن را تا اواخر سپتامبر ۲۰۲۶ ثبت کرد که نشان‌دهنده افزایشی ۲۲ درصدی نسبت به سال قبل است و اکثریت قریب به اتفاق آنان را اتیوپیایی‌هایی تشکیل می‌دهند که از پیامدهای جنگ در تیگرای، سربازی اجباری یا فشارهای اقتصادی می‌گریزند. این افراد مسیرهای دریایی پرخطری را از طریق جیبوتی یا سومالی طی می‌کنند تا به مناطقی مانند عدن و شبوه در یمن برسند.",
+    "بسیاری از مهاجران در یمن با بازداشت، ضرب و شتم و اخاذی توسط شبکه‌های قاچاق و همچنین تیراندازی در نزدیکی مرز عربستان سعودی روبه‌رو می‌شوند که به مرگ یا زخمی شدن شماری از آنان انجامیده است. از سرگیری درگیری‌های داخلی و کاهش بودجه نهادهای امدادرسان بین‌المللی نیز دستیابی به سرپناه و مراقبت‌های بهداشتی را سخت‌تر کرده و هزاران نفر را بدون توانایی ادامه مسیر یا بازگشت به کشور، در خیابان‌ها سرگردان ساخته است."
+   ],
+   "title_ar": "من حرب إلى حرب: معاناة المهاجرين الإثيوبيين في اليمن",
+   "summary_ar": "يواجه المهاجرون الإثيوبيون في اليمن ظروفاً إنسانية وأمنية قاسية وانتهاكات مستمرة على أيدي المهربين أثناء محاولتهم العبور إلى السعودية بحثاً عن عمل أو هرباً من النزاعات.",
+   "body_ar": [
+    "سجلت المنظمة الدولية للهجرة دخول نحو 134 ألف مهاجر إلى اليمن بحلول أواخر سبتمبر/أيلول 2026 بزيادة بلغت 22 بالمئة عن العام السابق، غالبيتهم العظمى من الإثيوبيين الفارين من تداعيات الحرب في تيغراي أو التجنيد الإجباري والضغوط الاقتصادية. ويسلك هؤلاء طرقاً بحرية محفوفة بالمخاطر عبر جيبوتي أو الصومال قبل وصولهم إلى مدن يمنية مثل عدن وشبوة.",
+    "يتعرض العديد من المهاجرين في اليمن للاحتجاز والضرب والابتزاز على يد شبكات التهريب، فضلاً عن استهدافهم بنيران مسلحة بالقرب من الحدود السعودية تؤدي في بعض الأحيان إلى مقتلهم أو إصابتهم بجروح بالغة. كما تفاقم تجدد الاشتباكات المحلية ونقص تمويل المنظمات الإغاثية الدولية من صعوبة حصولهم على الرعاية الصحية والمأوى، ما يترك الآلاف منهم عالقين في الشوارع دون القدرة على مواصلة الرحلة أو العودة إلى بلادهم."
+   ]
+  },
   {
    "id": "2001f89656d3",
    "lang": "en",
