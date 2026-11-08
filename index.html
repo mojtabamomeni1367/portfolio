@@ -780,7 +780,7 @@ function routeN(){const h=location.hash,m=h.match(/^#\/n\/(\w+)/);if(m){showN(m[
 
 /* News archive: stories older than two weeks live in data/news/archive (never deleted) */
 let ARCI=null,ARCP=null;const ARCM={},ARCS={},ARCTRY={};
-const getJ=u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const getJ=u=>fetch(u+(u.includes('?')?'&':'?')+'t='+Math.floor(Date.now()/6e4),{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 const findN=id=>NEWS.find(n=>n.id===id)||ARCS[id];
 const fmtMo=m=>{try{return new Date(m+'-15T12:00:00Z').toLocaleDateString(LG==='fa'?'fa-IR-u-ca-gregory':LG==='ar'?'ar-u-nu-latn':'en-GB',{month:'long',year:'numeric',timeZone:'UTC'})}catch(e){return m}};
 function arcIndex(){if(!ARCP)ARCP=getJ('/data/news/archive/index.json').then(d=>{ARCI={months:(d&&d.months)||[],items:((d&&d.items)||[]).map(r=>{const o={id:r.id,date:r.date,lang:r.lang,source:r.source,countries:r.countries||[],type:'news',arc:1};['en','fa','ar'].forEach(l=>{if(r.t&&r.t[l])o['title_'+l]=r.t[l]});o.title=o['title_'+r.lang]||o.title_en||'';return o})};return ARCI});return ARCP}
@@ -888,7 +888,7 @@ function renderAnalyses(){
  $('#afClear').classList.toggle('hidden',!AF)}
 document.querySelectorAll('.atopic').forEach(b=>b.onclick=()=>{AF=AF===b.dataset.tp?null:b.dataset.tp;renderAnalyses()});
 $('#afClear').onclick=()=>{AF=null;renderAnalyses()};
-Promise.all(['/data/news.json','/data/analyses.json'].map(u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}))))
+Promise.all(['/data/news.json','/data/analyses.json'].map(u=>fetch(u+(u.includes('?')?'&':'?')+'t='+Math.floor(Date.now()/6e4),{cache:'no-store'}).then(r=>r.ok?r.json():{items:[]}).catch(()=>({items:[]}))))
  .then(([n,a])=>{NEWS=(n.items||[]).map(x=>({...x,type:'news'}));ANA=(a.items||[]).map(x=>({...x,type:'analysis'}));NREADY=true;renderNews();renderAnalyses();if(curC)renderC(curC);if(curN)renderN();if(curTP)renderTP(curTP)});
 renderNews();
 
