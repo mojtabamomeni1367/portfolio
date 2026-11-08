@@ -1,0 +1,22 @@
+name: site-check
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check that the live site serves fresh news
+        run: |
+          for host in momenimojtaba.com www.momenimojtaba.com; do
+            for path in data/news.json fa/ ar/ ""; do
+              echo "== https://$host/$path"
+              curl -sSI "https://$host/$path?t=$(date +%s)" | grep -iE "^(HTTP|cache-control|cf-cache-status|age|last-modified|etag)"
+            done
+            curl -sS "https://$host/data/news.json?t=$(date +%s)" | python3 -c "
+          import json,sys,datetime as d
+          j=json.load(sys.stdin);u=j.get('updated');print('updated',u,'items',len(j['items']),'newest',j['items'][0]['date'])
+          age=(d.datetime.now(d.timezone.utc)-d.datetime.fromisoformat(u.replace('Z','+00:00'))).total_seconds()/3600
+          print('age hours',round(age,1));sys.exit(1 if age>12 else 0)"
+          done
