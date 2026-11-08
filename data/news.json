@@ -1,7 +1,63 @@
 {
- "updated": "2026-11-08T04:04:43Z",
- "count": 422,
+ "updated": "2026-11-08T07:15:41Z",
+ "count": 425,
  "items": [
+  {
+   "id": "4213c33f66b8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+   "date": "2026-11-08T05:52:10Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Iran executes three men over armed unrest during January protests",
+   "title_en": "Iran executes three men over armed unrest during January protests",
+   "summary_en": "Iran has executed three men convicted of conducting operations for Israel and the United States and taking part in armed unrest during anti-government protests in January. The Supreme Court upheld their death sentences, while ten other defendants received prison terms ranging from five to ten years.",
+   "body_en": [
+    "According to state media and the judiciary, Hassan Dioband, Hamid Kazemi, and Reza Zanganeh were convicted of using firearms, grenades, and Molotov cocktails, setting fire to public facilities, and damaging a power substation in Karaj. The judiciary also ordered the confiscation of their assets following Dioband's arrest on January 11 and the subsequent detention of his associates."
+   ],
+   "title_fa": "ایران سه مرد را به اتهام ناآرامی‌های مسلحانه در جریان اعتراضات دی‌ماه اعدام کرد",
+   "summary_fa": "ایران سه مرد را که به انجام عملیات برای اسرائیل و ایالات متحده و شرکت در ناآرامی‌های مسلحانه در جریان اعتراضات ضدحکومتی دی‌ماه محکوم شده بودند، اعدام کرد. دیوان عالی کشور احکام اعدام آنان را تأیید کرده بود، در حالی که ده متهم دیگر به حبس‌های ۵ تا ۱۰ سال محکوم شدند.",
+   "body_fa": [
+    "به گزارش رسانه‌های دولتی و قوه قضائیه، حسن دیوبند، حمید کاظمی و رضا زنگنه به استفاده از سلاح گرم، نارنجک و کوکتل مولوتف، آتش زدن اماکن عمومی و آسیب رساندن به یک پست برق در کرج متهم شده بودند. قوه قضائیه همچنین پس از بازداشت دیوبند در ۲۱ دی‌ماه و دستگیری متعاقب همراهانش، دستور ضبط اموال این سه نفر را صادر کرد."
+   ],
+   "title_ar": "إيران تعدم ثلاثة رجال بتهمة إثارة اضطرابات مسلحة خلال احتجاجات يناير",
+   "summary_ar": "أعدمت إيران ثلاثة رجال بعد إدانتهم بتنفيذ عمليات لصالح إسرائيل والولايات المتحدة والمشاركة في اضطرابات مسلحة خلال احتجاجات مناهضة للحكومة في يناير. وجاء تنفيذ الأحكام بعد تأييدها من المحكمة العليا، بينما حُكم على عشرة متهمين آخرين بالسجن لمدد تتراوح بين خمس وعشر سنوات.",
+   "body_ar": [
+    "وبحسب وسائل الإعلام الرسمية والسلطة القضائية، أُدين حسن ديوبند وحميد كاظمي ورضا زنكنه باستخدام أسلحة نارية وقنابل يدوية وزجاجات حارقة، وإضرام النار في مرافق عامة، وتخريب محطة فرعية للكهرباء في كرج. كما أمرت السلطة القضائية بمصادرة ممتلكاتهم عقب اعتقال ديوبند في 11 يناير واعتقال شركائه لاحقاً."
+   ]
+  },
+  {
+   "id": "b3534df0c874",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T04:03:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "title_en": "Houthis say at least 33 killed in Saudi air strike",
+   "summary_en": "Media linked to Yemen's Houthi movement reported that at least 33 people were killed and 39 injured in an air strike carried out by Saudi Arabia on Saturday. The Saudi-led coalition has not issued any comment regarding the incident.",
+   "body_en": [
+    "Houthi-run television station Al Masirah broadcast footage showing rescuers removing bodies, including those of young children, from the rubble of buildings in al-Shariyah, a town east of Sanaa. The strike occurred hours after the Saudi-led coalition said it had intercepted a missile fired toward Riyadh, prompting Houthi leader Mahdi al-Mashat to pledge retaliation."
+   ],
+   "title_fa": "حوثی‌ها می‌گویند در حمله هوایی عربستان دست‌کم ۳۳ نفر کشته شدند",
+   "summary_fa": "رسانه‌های وابسته به جنبش حوثی‌ها در یمن اعلام کردند که در حمله هوایی روز شنبه عربستان سعودی، دست‌کم ۳۳ نفر کشته و ۳۹ تن زخمی شدند. ائتلاف تحت رهبری عربستان هنوز در این باره اظهارنظری نکرده است.",
+   "body_fa": [
+    "شبکه تلویزیونی المسیره متعلق به حوثی‌ها تصاویری از امدادگران را پخش کرد که در حال بیرون کشیدن اجساد، از جمله پیکر کودکان، از زیر آوارهای چند ساختمان در شهر الشریه در شرق صنعا بودند. این حمله ساعاتی پس از آن رخ داد که ائتلاف تحت رهبری عربستان از رهگیری موشکی به سمت ریاض خبر داده بود، و در پی آن مهدی المشاط، از رهبران حوثی‌ها، وعده داد که این گروه انتقام خواهد گرفت."
+   ],
+   "title_ar": "الحوثيون يقولون إن 33 شخصاً على الأقل قتلوا في غارة جوية سعودية",
+   "summary_ar": "أفادت وسائل إعلام تابعة لجماعة الحوثيين في اليمن بمقتل 33 شخصاً على الأقل وإصابة 39 آخرين في غارة جوية شنتها السعودية يوم السبت. ولم يصدر أي تعليق من التحالف الذي تقوده السعودية بشأن هذا الحادث.",
+   "body_ar": [
+    "وبثت قناة المسيرة التابعة للحوثيين لقطات لفرق الإنقاذ وهي تنتشل جثثاً، من بينها جثث أطفال صغار، من تحت أنقاض عدة مبانٍ في بلدة الشرية شرق العاصمة صنعاء. وجاءت هذه الغارة بعد ساعات من إعلان التحالف بقيادة السعودية اعتراض صاروخ كان متجهاً نحو الرياض، مما دفع القيادي الحوثي مهدي المشاط إلى التعهد بالرد والانتقام."
+   ]
+  },
   {
    "id": "31f2ba8499fd",
    "lang": "en",
@@ -30,6 +86,36 @@
    "body_ar": [
     "وقضت هيئة المحكمة برئاسة رئيس المحكمة العليا يحيى أفريدي بنقض قراري محكمة البداية ومحكمة لاهور العليا، مانحةً المتهمين لياقت علي وعمر دراز ميزة الشك. ورغم أن تقييماً قديماً في عام 2007 اعتبرهما سليمين عقلياً، إلا أن لجان فحص متخصصة أكدت لاحقاً إصابة الشقيقين باضطراب ثنائي القطب، واستنتجت عجزهما عن إدراك أفعالهما وقت ارتكاب الجرم المزعوم.",
     "كما طلبت المحكمة العليا من معهد البنجاب للصحة النفسية في لاهور ضمان استمرار تقديم الرعاية الطبية لهما. وأوضح القاضي شكيل أحمد في مذكرة مؤيدة أن التقارير الطبية والظروف المحيطة تثير شكوكاً معقولة حول مسؤوليتهما الجنائية، مشيراً إلى ضرورة موازنة المحاسبة القانونية بالإنسانية والرحمة عند ثبوت انعدام الأهلية."
+   ]
+  },
+  {
+   "id": "93a09676d350",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042924/sindh-cm-declares-tharparkar-drought-hit-orders-relief-measures",
+   "date": "2026-11-08T02:02:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Sindh CM declares Tharparkar drought-hit, orders relief measures",
+   "title_en": "Sindh CM declares Tharparkar drought-hit, orders relief measures",
+   "summary_en": "Sindh Chief Minister Syed Murad Ali Shah has declared Tharparkar a drought-affected district following severe crop losses across all seven of its talukas. He directed relevant departments to initiate immediate relief operations and guarantee access to drinking water and vital supplies.",
+   "body_en": [
+    "A briefing at the CM House revealed that 85 to 90 percent of cultivated crops in the district have been destroyed or rendered unproductive because of deficient and uneven monsoon rainfall, notably in September. The agriculture extension department and administrative field reports confirmed that only 10 to 15 percent of crops survived.",
+    "Shah instructed authorities to prioritize the repair and functioning of reverse osmosis plants, resolve existing water supply defects, and assess the feasibility of a water pipeline from Naukot to Mithi. He also emphasized the urgent procurement of fodder to safeguard livestock, a principal source of local livelihoods."
+   ],
+   "title_fa": "سروزیر سند ترپارکر را منطقه خشک‌زده اعلام کرد و دستور اقدامات امدادی داد",
+   "summary_fa": "سید مراد علی شاه، سروزیر سند، در پی خسارات شدید به محصولات کشاورزی در هر هفت تعلقه‌ شهرستان ترپارکر، این منطقه را خشک‌زده اعلام کرد. او به نهادهای مربوطه دستور داد تا فوراً عملیات امدادرسانی را آغاز کنند و از تأمین آب آشامیدنی و اقلام اساسی اطمینان حاصل نمایند.",
+   "body_fa": [
+    "در جلسه‌ای در مقر سروزیری اعلام شد که به دلیل بارندگی‌های ناکافی و نامنظم فصل مانسون، به‌ویژه در ماه سپتامبر، ۸۵ تا ۹۰ درصد محصولات کشت‌شده در این منطقه از بین رفته یا بی‌حاصل شده‌اند. اداره ترویج کشاورزی و گزارش‌های میدانی محلی تأیید کردند که تنها ۱۰ تا ۱۵ درصد محصولات باقی مانده است.",
+    "شاه به مقامات دستور داد تا تعمیر و راه‌اندازی کارخانه‌های تصفیه آب به روش اسمز معکوس را در اولویت قرار دهند، نواقص منابع آب موجود را رفع کنند و امکان‌سنجی خط لوله انتقال آب از نوکوت به میتهی را بسنجند. وی همچنین بر تأمین فوری علوفه برای محافظت از دام‌ها به عنوان منبع اصلی معیشت مردم تأکید کرد."
+   ],
+   "title_ar": "رئيس وزراء إقليم السند يعلن ثارباركار منطقة منكوبة بالجفاف ويأمر بتدابير إغاثية",
+   "summary_ar": "أعلن رئيس وزراء إقليم السند، سيد مراد علي شاه، مقاطعة ثارباركار منطقة منكوبة بالجفاف عقب خسائر فادحة في المحاصيل في جميع نواحيها السبع. ووجه شاه الإدارات المعنية ببدء جهود الإغاثة فوراً وضمان توفير مياه الشرب والإمدادات الأساسية.",
+   "body_ar": [
+    "وكشف إيجاز عُقد في مقر رئاسة وزراء الإقليم أن ما بين 85 و90 بالمئة من المحاصيل المزروعة في المقاطعة قد دُمرت أو أصبحت غير منتجة بسبب تذبذب وضعف الأمطار الموسمية، لا سيما في شهر سبتمبر. وأكدت تقارير إدارة الإرشاد الزراعي والمسؤولين الميدانيين نجاة ما نسبته 10 إلى 15 بالمئة فقط من المحاصيل.",
+    "وأوعز شاه للسلطات بإصلاح محطات التناضح العكسي المتوقفة كأولوية، ومعالجة أعطال شبكات المياه الحالية، ودراسة جدوى مد خط أنابيب مياه من ناوكوت إلى ميثي. كما شدد على ضرورة اتخاذ تدابير عاجلة لمعالجة نقص الأعلاف وحماية الثروة الحيوانية التي تعد مصدر دخل رئيسي للسكان."
    ]
   },
   {
