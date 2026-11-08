@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:59:22Z",
+ "updated": "2026-11-08T19:05:02Z",
  "items": [
   {
    "id": "de520f20779b",
@@ -2877,6 +2877,293 @@
    ],
    "desc": "موج بارندگی‌های شدید که در روزهای اخیر بخش‌های مختلف ایران را فراگرفته است، همچنان ادامه دارد. این بارش‌ها در شماری از استان‌ها موجب جاری شدن سیلاب، بالا آمدن سطح رودخانه‌ها، و اختلال در شبکه حمل‌ونقل شده و خسارات مختلف و شماری کشته و مصدوم بر جای گذاشته است. در همین حال گزارش شده که این بارندگی باعث پر شدن برخی سدهای ایران شده است. این بارش‌ها در چند روز آینده نیز بنابر پیش‌بینی‌ها ادامه خواهد یافت.",
    "score": 3
+  },
+  {
+   "id": "1bca3ddfb038",
+   "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+   "date": "2026-11-08T18:12:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's president officially tasks the opposition leader with forming a new government.",
+   "score": 8
+  },
+  {
+   "id": "9b9296914dcf",
+   "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+   "date": "2026-11-08T17:44:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+   "score": 4
+  },
+  {
+   "id": "9f3dea014377",
+   "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+   "date": "2026-11-08T17:11:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "d64e8f1d264f",
+   "title": "Photos: Diwali celebrations light up India and its global diaspora",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+   "date": "2026-11-08T17:03:14Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+   "score": 1
+  },
+  {
+   "id": "1e68918cee5e",
+   "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
+   "date": "2026-11-08T16:59:31Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
+   "score": 3
+  },
+  {
+   "id": "523c17ea88e9",
+   "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+   "date": "2026-11-08T16:51:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
+   "score": 6
+  },
+  {
+   "id": "4963a03c5869",
+   "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
+   "date": "2026-11-08T16:37:20Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
+   "score": 3
+  },
+  {
+   "id": "9b5ca2220f15",
+   "title": "Seven killed, 112 injured in train collision in Egypt",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+   "date": "2026-11-08T16:31:54Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Seven killed, 112 injured in train collision in Egypt",
+   "score": 3,
+   "dup_of": "4963a03c5869"
+  },
+  {
+   "id": "c3a7d0e6f874",
+   "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+   "date": "2026-11-08T16:18:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
+   "score": 5
+  },
+  {
+   "id": "6b78f9763812",
+   "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+   "date": "2026-11-08T15:47:11Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
+   "score": 7
+  },
+  {
+   "id": "d531f0e12a14",
+   "title": "Heavy rain floods displaced families’ tents in Gaza – in pictures",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/gallery/2026/nov/08/heavy-rain-floods-displaced-families-tents-gaza-in-pictures",
+   "date": "2026-11-08T18:50:12Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "The first winter storm began affecting the people of Gaza this weekend with heavy rain hitting on Saturday. Reports that about 70,000 tents were flooded within 12 hours prompted warnings of a worsening humanitarian situation for hundreds of thousands of displaced people living in temporary camps lacking adequate protection from rain and cold Continue reading...",
+   "score": 4,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "6472930ee2a7",
+   "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+   "date": "2026-11-08T17:53:59Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, the leader of the Yashar party, who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from the president, Isaac Herzog, who gave him 28 days to form a government despite his bloc lacking a clear",
+   "score": 8,
+   "dup_of": "1bca3ddfb038"
+  },
+  {
+   "id": "ff406199a7cc",
+   "title": "Collision of two trains in Egypt kills at least seven",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+   "date": "2026-11-08T17:51:17Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. Continue reading...",
+   "score": 3,
+   "dup_of": "4963a03c5869"
+  },
+  {
+   "id": "3d55daa5d651",
+   "title": "Gadi Eisenkot receives mandate to form government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+   "date": "2026-11-08T16:58:11Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with potential coalition partners and secure a parliamentary majority. While an alliance with Arab Israeli parties appears to be the easiest option mathematically, it remains politically sensitive. Eisenkot must now navigate difficult negotiations to build a coalition capable of replacing Benjamin Netanyahu. Noga Tarnopolsky reports from Jerusalem.",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "a4c834776699",
+   "title": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+   "date": "2026-11-08T08:11:54Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "A skyscraper belonging to Saudi oil giant Aramco was hit by a Houthi-claimed attack on Sunday, blowing out windows across several floors but causing no casualties. The Iran-aligned group has repeatedly targeted Aramco facilities and infrastructure.",
+   "score": 8,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "b4d24ffe7a66",
+   "title": "PML-N retains Sahiwal's PP-203 as per unofficial result; counting underway in Gujranwala's NA-77",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043037/pml-n-retains-sahiwals-pp-203-as-per-unofficial-result-counting-underway-in-gujranwalas-na-77",
+   "date": "2026-11-08T17:30:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The ruling PML-N retained Sahiwal’s Punjab Assembly constituency PP-203 in Sunday’s by-election, while counting was underway in Gujranwala’s National Assembly constituency NA-77. Both seats had fallen vacant after the deaths of their respective lawmakers in September. Polling in the constituencies began at 8am and concluded at 5pm, with the Election Commission of Pakistan (ECP) reporting an uninterrupted and largely peaceful process. In PP-203 of Chichawatni, PML-N’s Muhammad Asad Hanif Jutt won with 42,114 votes, defeating his closest rival, Muhammad Awais Mahmood of Tehreek-i-Ehsas P",
+   "score": 4
+  },
+  {
+   "id": "a7c81c26346e",
+   "title": "Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043085/eisenkot-says-israel-in-devastating-diplomatic-crisis-as-he-seeks-to-form-govt",
+   "date": "2026-11-08T18:45:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s former military chief Gadi Eisenkot started the tough task on Sunday of forming a government, reaching out to Benjamin Netanyahu’s allies as he warned the veteran prime minister had brought the country to a historic crisis. Eisenkot, 66, a political novice who has vowed to bridge Israel’s deep polarisation under Netanyahu, formally received a mandate from President Isaac Herzog, giving him 28 days to form a government despite his bloc lacking a clear majority. “We are in a state of emergency, approaching a point of no return for the State of Israel,” Eisenkot said at a ceremony at the",
+   "score": 7
+  },
+  {
+   "id": "444b5ea4de07",
+   "title": "Tens of thousands march in Amsterdam, pressing Dutch government on Gaza, Israel",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/tens-of-thousands-march-in-amsterdam-pressing-dutch-government-on-gaza-israel/article71681124.ece",
+   "date": "2026-11-08T17:49:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Organisers of the “Red Line” demonstration called for stricter trade sanctions, a halt to arms sales, and an official declaration that Israel’s actions in Gaza amount to genocide",
+   "score": 4,
+   "dup_of": "9b9296914dcf"
+  },
+  {
+   "id": "83483c74d2ae",
+   "title": "Eisenkot warns of Israel crisis as he seeks to replace Netanyahu’s government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/eisenkot-warns-of-israel-crisis-as-he-seeks-to-replace-netanyahus-government/article71681159.ece",
+   "date": "2026-11-08T17:31:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "isenkot, 66, a political novice who has vowed to bridge Israel's deep polarisation under Netanyahu, formally received a mandate from President Isaac Herzog, giving him 28 days to form a government despite his bloc lacking a clear majority",
+   "score": 7,
+   "dup_of": "a7c81c26346e"
+  },
+  {
+   "id": "63419f8b590e",
+   "title": "Eisenkot says Netanyahu's party welcome to join government under him as new Israeli PM",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-gadi-eisenkot-netanyahus-party-welcome-to-join-government/article71681107.ece",
+   "date": "2026-11-08T16:27:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Gadi Eisenkot has six weeks to form a government",
+   "score": 8,
+   "dup_of": "1bca3ddfb038"
+  },
+  {
+   "id": "686f6335cdb8",
+   "title": "كيف يواجه أهل غزة فصلا جديدا من البرد القارس؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmlyk50v1v0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T17:20:23Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "اضطر عشرات الآلاف من النازحين الفلسطينيين في قطاع غزة إلى قضاء ليلتهم في العراء، بعدما تسببت الأمطار الغزيرة المصاحبة للمنخفض الجوي الذي ضرب القطاع، ليل الجمعة وصباح السبت 7 نوفمبر/تشرين الثاني، في غرق آلاف الخيام وتلف الأغطية والملابس، وسط تحذيرات أممية من تفاقم الأوضاع الإنسانية مع دخول فصل الشتاء.",
+   "score": 5
   }
  ]
 }
