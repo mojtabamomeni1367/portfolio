@@ -1,36 +1,185 @@
 {
- "updated": "2026-11-09T13:38:24Z",
- "count": 450,
+ "updated": "2026-11-09T16:34:01Z",
+ "count": 448,
  "items": [
   {
-   "id": "993d457624e9",
+   "id": "2bc34a437f94",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-unity-government-not-relying-hamas-supporters",
+   "date": "2026-11-09T15:38:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Netanyahu calls for unity government without 'Hamas supporters'",
+   "title_en": "Netanyahu calls for unity government without 'Hamas supporters'",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has called for the formation of a unity government led by Likud, while explicitly excluding any political groups he characterized as supporters of Hamas or extremist Islam.",
+   "body_en": [
+    "In a video statement released on Monday, Netanyahu described a unity government as an absolute necessity for fighting Iran and its regional affiliates. He insisted that the coalition should include all parties of the national camp, including Zionist and Haredi factions, and be led by Likud as the largest party.",
+    "Netanyahu explicitly rejected including Arab or Islamist political factions, stating that a government fighting Iran cannot rely internally on supporters of extremist Islam or Hamas."
+   ],
+   "title_fa": "دعوت نتانیاهو برای تشکیل دولت وحدت بدون «حامیان حماس»",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، خواستار تشکیل دولت وحدت به رهبری لیکود شد و در عین حال جریان‌های سیاسی متهم به حمایت از حماس یا اسلام‌گرایی افراطی را از آن استثنا کرد.",
+   "body_fa": [
+    "بنیامین نتانیاهو در یک بیانیه ویدئویی که روز دوشنبه منتشر شد، تشکیل دولت وحدت را برای مبارزه با ایران و گروه‌های وابسته به آن یک ضرورت قطعی خواند. وی تأکید کرد که این ائتلاف باید شامل تمامی احزاب جریان ملی، از جمله احزاب صهیونیستی و حریدی باشد و به عنوان بزرگ‌ترین حزب، توسط لیکود رهبری شود.",
+    "نتانیاهو پیوستن احزاب عربی یا گروه‌های اسلامی را رد کرد و گفت دولتی که با ایران می‌جنگد نمی‌تواند در داخل به حامیان اسلام‌گرایی افراطی یا حماس متکی باشد."
+   ],
+   "title_ar": "نتنياهو يدعو لتشكيل حكومة وحدة من دون «داعمي حماس»",
+   "summary_ar": "دعا رئيس الوزراء الإسرائيلي بنيامين نتنياهو إلى تشكيل حكومة وحدة برئاسة حزب الليكود، مستبعداً بشكل صريح أي قوى سياسية وصفها بأنها داعمة لحركة حماس أو الإسلام المتطرف.",
+   "body_ar": [
+    "في بيان مصور نُشر يوم الاثنين، وصف بنيامين نتنياهو حكومة الوحدة بأنها ضرورة مطلقة لمواجهة إيران وحلفائها الإقليميين. وأصر على أن الائتلاف يجب أن يضم جميع أحزاب المعسكر الوطني، بما في ذلك الأحزاب الصهيونية والحريدية، وأن يقوده حزب الليكود باعتباره الحزب الأكبر.",
+    "ورفض نتنياهو بشكل قاطع مشاركة الكتل السياسية العربية أو الإسلامية، مصرحاً بأن الحكومة التي تحارب إيران لا يمكنها الاعتماد من الداخل على داعمي الإسلام المتطرف أو حماس."
+   ]
+  },
+  {
+   "id": "1b752bc5d3f2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+   "date": "2026-11-09T15:31:37Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+   "title_en": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+   "summary_en": "US President Donald Trump claimed that Iran has been virtually cut off from the outside world following the launch of CENTCOM's Task Force Iron Gate, though defense analysts remain skeptical about the unit's ability to halt Iranian supply networks without regional cooperation.",
+   "body_en": [
+    "US Central Command announced the creation of Task Force Iron Gate, a Tampa-based intelligence fusion unit designed to target Iranian weapons and material transport across land borders and the Caspian Sea. Following the announcement, Trump asserted on Truth Social that the initiative, combined with a naval blockade in the Strait of Hormuz, effectively sealed off Iran.",
+    "However, defense experts cited by Al Jazeera noted that a small intelligence unit cannot single-handedly close thousands of kilometers of borders. Analysts highlighted that neighboring states such as Turkey, Pakistan, Turkmenistan, and Iraq are unlikely to participate openly, warning that aggressive US interdiction efforts could risk broadening the regional conflict."
+   ],
+   "title_fa": "ترامپ می‌گوید ایران محاصره شده است؛ اما آیا کارگروه جدید آمریکا می‌تواند مانع انتقال تسلیحات شود؟",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، ادعا کرد که پس از راه‌اندازی کارگروه «آیرون گیت» توسط سنتکام، ارتباط ایران با جهان خارج عملاً قطع شده است؛ با این حال، تحلیلگران دفاعی در مورد توانایی این واحد برای متوقف کردن شبکه‌های تأمین ایران بدون همکاری منطقه‌ای ابراز تردید کرده‌اند.",
+   "body_fa": [
+    "فرماندهی مرکزی آمریکا (سنتکام) از تشکیل کارگروه «آیرون گیت» خبر داد؛ یک واحد اطلاعاتی مستقر در تامپا که برای ردیابی و انهدام شبکه‌های انتقال تسلیحات و مواد دومنظوره ایران از طریق مرزهای زمینی و دریای خزر طراحی شده است. پس از این اعلام، دونالد ترامپ در شبکه اجتماعی تر Pap مدعی شد که این اقدام در کنار محاصره دریایی تنگه هرمز، ایران را کاملاً مسدود کرده است.",
+    "با این حال، کارشناسان دفاعی در گفتگو با الجزیره تأکید کردند که یک واحد اطلاعاتی کوچک نمی‌تواند هزاران کیلومتر مرز را کنترل کند. تحلیلگران اشاره کردند که کشورهایی مانند ترکیه، پاکستان، ترکمکستان و عراق بعید است در این طرح همکاری کنند و تحرکات تهاجمی آمریکا ممکن است خطر گسترش دامنه درگیری‌های منطقه‌ای را افزایش دهد."
+   ],
+   "title_ar": "ترامب يقول إن إيران معزولة تماماً.. فهل تنجح القوة الأمريكية الجديدة في وقف تدفق الأسلحة؟",
+   "summary_ar": "ادعى الرئيس الأمريكي دونالد ترامب أن إيران أصبحت معزولة تقريباً عن العالم الخارجي عقب إطلاق قوة «آيرون غيت» التابعة للقيادة المركزية الأمريكية، لكن المحللين العسكريين يشككون في قدرة القوة على إيقاف شبكات الإمداد الإيرانية دون تعاون إقليمي.",
+   "body_ar": [
+    "أعلنت القيادة المركزية الأمريكية عن تشكيل قوة «آيرون غيت»، وهي خلية استخباراتية مقرها تامبا تهدف إلى استهداف شبكات نقل الأسلحة والمواد مزدوجة الاستخدام الإيرانية عبر الحدود البرية وبحر قزوين. وعقب هذا الإعلان، صرح دونالد ترامب عبر منصة «تروث سوشيال» بأن القوة الجديدة إلى جانب الحصار البحري في مضيق هرمز قد فرضت عزلة كاملة على إيران.",
+    "ومع ذلك، أكد خبراء عسكريون للجزيرة أن وحدة استخباراتية صغيرة لا يمكنها غلق آلاف الكيلومترات من الحدود بمفردها. وأشار المحللون إلى أنه من غير المرجح أن تشارك دول الجوار مثل تركيا وباكستان وتركمانستان والعراق بشكل علني، محذرين من أن محاولات الاعتراض الأمريكية قد تؤدي إلى توسيع نطاق الصراع الإقليمي."
+   ]
+  },
+  {
+   "id": "9b97feeefbe2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+   "date": "2026-11-09T15:10:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "title_en": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "summary_en": "Iran’s Islamic Revolutionary Guard Corps said it struck three oil tankers near the Strait of Hormuz on Sunday for using unauthorized routes in coordination with the US military, causing a fire on one vessel.",
+   "body_en": [
+    "According to the IRGC, the tankers were targeted after traveling through unauthorized routes in the strategic waterway while working in coordination with US military forces. An oil tanker subsequently caught fire near the Strait of Hormuz following the strikes."
+   ],
+   "title_fa": "حمله سپاه پاسداران به سه نفتکش در نزدیکی هرمز به دلیل «ارتباط با آمریکا»",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی اعلام کرد روز یکشنبه سه نفتکش را در نزدیکی تنگه هرمز به دلیل استفاده از مسیرهای غیرمجاز در هماهنگی با ارتش آمریکا هدف قرار داده است که به آتش‌سوزی در یکی از آن‌ها منجر شد.",
+   "body_fa": [
+    "به گفته سپاه پاسداران، این نفتکش‌ها پس از عبور از مسیرهای غیرمجاز در این آبراه استراتژیک و در هماهنگی با نیروهای نظامی آمریکا هدف قرار گرفتند. در پی این حملات، یک نفتکش در نزدیکی تنگه هرمز دچار آتش‌سوزی شد."
+   ],
+   "title_ar": "الحرس الثوري يضرب ثلاث ناقلات نفط قرب هرمز لـ«ارتباطها بالولايات المتحدة»",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أنه ضرب ثلاث ناقلات نفط يوم الأحد قرب مضيق هرمز لاستخدامها مسارات غير مصرح بها بالتنسيق مع الجيش الأمريكي، ما أدى إلى اندلاع حريق في إحدى السفن.",
+   "body_ar": [
+    "وبحسب الحرس الثوري، فقد تم استهداف الناقلات بعد عبورها مسارات غير مصرح بها في الممر المائي الاستراتيجي بالتنسيق مع القوات العسكرية الأمريكية. وقد اندلع حريق في إحدى ناقلات النفط عقب الضربات قرب مضيق هرمز."
+   ]
+  },
+  {
+   "id": "2a6339547bad",
    "lang": "en",
    "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043284/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
-   "date": "2026-11-09T12:40:11Z",
+   "url": "https://www.dawn.com/news/2043269/trump-says-great-dislike-for-israel-contributed-to-republican-rout-in-midterms",
+   "date": "2026-11-09T15:03:20Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Trump says 'great dislike' for Israel contributed to Republican rout in midterms",
+   "title_en": "Trump says 'great dislike' for Israel contributed to Republican rout in midterms",
+   "summary_en": "US President Donald Trump stated that public dislike for Israel, the war on Iran, and high gasoline prices contributed to the Republican Party's defeat in the midterm elections.",
+   "body_en": [
+    "In an interview with CBS News, Trump acknowledged the factors behind the election loss, while also telling CNN that renewed fighting with Iran was \"highly unlikely\" depending on whether Tehran signs a strong agreement. Meanwhile, Iranian Foreign Minister Abbas Araghchi remarked that Americans are tired of foreign conflicts, noting that peace talks were temporarily paused while regional actors assess the political impact of the US vote.",
+    "Trump is scheduled to meet Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday, marking his first meeting with a foreign leader since losing control of Congress. Despite ongoing diplomatic efforts, tension remains high following reported strikes on Qeshm island and continued disruption around the Strait of Hormuz."
+   ],
+   "title_fa": "ترامپ می‌گوید «نفرت بزرگ» از اسرائیل در شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای نقش داشته است",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا اعلام کرد که نارضایتی عمومی از اسرائیل، جنگ علیه ایران و قیمت بالای بنزین از عوامل موثر در شکست حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای بوده است.",
+   "body_fa": [
+    "ترامپ در مصاحبه با سی‌بی‌اس نیوز به عوامل شکست در انتخابات اذعان کرد و در عین حال به سی‌ان‌ان گفت که ازسرگیری درگیری با ایران، بسته به امضای یک توافق محکم توسط تهران، «بسیار بعید» است. در همین حال، عباس عراقچی، وزیر امور خارجه ایران، اظهار داشت که آمریکایی‌ها از جنگ‌های خارجی خسته شده‌اند و اشاره کرد که گفتگوهای صلح تا ارزیابی پیامدهای سیاسی انتخابات آمریکا موقتاً متوقف شده است.",
+    "قرار است ترامپ روز دوشنبه در کاخ سفید با شیخ محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر دیدار کند که نخستین دیدار او با یک رهبر خارجی پس از از دست دادن کنترل کنگره است. با وجود تلاش‌های دیپلماتیک مداوم، تنش‌ها پس از گزارش‌ها درباره حملات به جزیره قشم و تداوم اختلالات در اطراف تنگه هرمز همچنان بالا است."
+   ],
+   "title_ar": "ترامب يقول إن \"الكراهية الكبيرة\" لإسرائيل ساهمت في هزيمة الجمهوريين في الانتخابات النصفيّة",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن السخط الشعبي من إسرائيل، والحرب على إيران، وارتفاع أسعار البنزين ساهمت في هزيمة الحزب الجمهوري في الانتخابات النصفيّة.",
+   "body_ar": [
+    "وفي مقابلة مع شبكة \"سي بي إس نيوز\"، اعترف ترامب بالأسباب وراء الخسارة الانتخابية، بينما صرح لشبكة \"سي إن إن\" بأن تجدد القتال مع إيران \"غير ارجح للغاية\" ويتوقف على توقيع طهران اتفاقاً قوياً. من جانبه، ذكر وزیر الخارجية الإيراني عباس عراقجي أن الأمريكيين تعبوا من الحروب الخارجية، مشيراً إلى أن محادثات السلام توقفت مؤقتاً لتقييم الآثار السياسية للانتخابات الأمريكية.",
+    "ومن المقرر أن يلتقي ترامب برئيس وزراء قطر الشيخ محمد بن عبد الرحمن آل ثاني في البيت الأبيض يوم الاثنين، وهو أول اجتماع له مع قائد أجنبي منذ خسارة السيطرة على الكونغرس. ورغم الجهود الدبلوماسية المستمرة، لا يزال التوتر مرتفعاً عقب تقارير عن ضربات على جزيرة قشم واستمرار الاضطرابات حول مضيق هرمز."
+   ]
+  },
+  {
+   "id": "f6c2970b507f",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+   "date": "2026-11-09T14:45:08Z",
    "countries": [
     "PAK",
-    "SAU"
+    "SAU",
+    "YEM"
    ],
-   "score": 5,
-   "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
-   "title_en": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
-   "summary_en": "A joint council of Pakistani and Saudi Arabian investors has launched a private equity fund to boost trade and investment between the two nations.",
+   "score": 7,
+   "title": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia",
+   "title_en": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia",
+   "summary_en": "Pakistan has strongly condemned a Houthi attack targeting Saudi oil company Aramco's corporate office in Riyadh and demanded an immediate end to all strikes against the kingdom.",
    "body_en": [
-    "The Saudi-Pakistan Joint Business Council announced on Monday that the fund's initial size is multi-hundred million dollars, with plans to expand based on emerging opportunities. According to the council, three-quarters of the fund will be allocated to projects in Pakistan, while the remaining quarter will target projects in Saudi Arabia.",
-    "The launch comes as part of broader efforts by Islamabad and Riyadh to deepen private-sector economic cooperation. Earlier this year, both nations discussed expanding investment in sectors such as agriculture, infrastructure, real estate, energy, and information technology."
+    "The Pakistani Foreign Office stated that targeting civilian infrastructure shows a reckless disregard for human life and security, while expressing full solidarity with Saudi Arabia's defense and sovereignty. The attack damaged an Aramco skyscraper in the King Abdullah Financial District, though no casualties were reported after Saudi air defenses intercepted two ballistic missiles.",
+    "Islamabad reaffirmed its military support under existing defense agreements, including the Makkah Joint Defence Agreement with Saudi Arabia and Turkey. Military officials reiterated that the regional alliance remains purely defensive in nature amid escalating Houthi strikes on critical infrastructure."
    ],
-   "title_fa": "سرمایه‌گذاران پاکستان و عربستان سعودی برای افزایش تجارت و سرمایه‌گذاری صندوق مشترکی راه‌اندازی کردند",
-   "summary_fa": "شورای مشترک سرمایه‌گذاران پاکستان و عربستان سعودی یک صندوق سرمایه‌گذاری خصوصی را برای افزایش تجارت و سرمایه‌گذاری میان دو کشور راه‌اندازی کرده است.",
+   "title_fa": "پاکستان هدف قرار گرفتن ساختمان آرامکو را محکوم کرد و خواستار توقف تمامی حملات حوثی‌ها به عربستان سعودی شد",
+   "summary_fa": "پاکستان حمله حوثی‌ها به دفتر شرکتی شرکت نفتی آرامکوی عربستان در ریاض را به شدت محکوم کرد و خواستار توقف فوری تمامی حملات علیه این کشور شد.",
    "body_fa": [
-    "شورای بازرگانی مشترک عربستان و پاکستان روز دوشنب اعلام کرد که اندازه اولیه این صندوق «چند صد میلیون» است و انتظار می‌رود بر اساس فرصت‌ها در بخش‌های مختلف گسترش یابد. به گفته این شورا، سه چهارم این صندوق در پاکستان و مابقی آن در پروژه‌های عربستان سعودی سرمایه‌گذاری خواهد شد.",
-    "این اقدام در راستای تلاش‌های گسترده‌تر اسلام‌آباد و ریاض برای تعمیق همکاری‌های اقتصادی بخش خصوصی انجام می‌شود. اوایل امسال، دو کشور درباره گسترش سرمایه‌گذاری در بخش‌هایی مانند کشاورزی، زیرساخت‌ها، املاک و مستغلات، انرژی و فناوری اطلاعات گفتگو کرده بودند."
+    "وزارت امور خارجه پاکستان اعلام کرد که هدف قرار دادن زیرساخت‌های غیرنظامی نشان‌دهنده بی‌توجهی به جان انسان‌ها و امنیت منطقه است و بر همبستگی کامل خود با دفاع و حاکمیت عربستان سعودی تأکید کرد. این حمله به یک آسمان‌خراش آرامکو در منطقه مالی ملک عبدالله خسارت وارد کرد، اگرچه پس از رهگیری دو موشک بالستیک توسط پدافند هوایی عربستان، تلفاتی گزارش نشد.",
+    "اسلام‌آباد بر حمایت نظامی خود در اطار توافق‌نامه‌های دفاعی موجود، از جمله توافق‌نامه دفاع مشترک مکه با عربستان سعودی و ترکیه تأکید کرد. مقامات نظامی تکرار کردند که این ائتلاف منطقه‌ای در میان افزایش حملات حوثی‌ها به زیرساخت‌های حیاتی، ماهیتی صرفاً دفاعی دارد."
    ],
-   "title_ar": "مستثمرون من پاکستان والسعودية يطلقون صندوقاً لتعزيز التجارة والاستثمار",
-   "summary_ar": "أطلق مجلس مشترك للمستثمرين الباكستانيين والسعوديين صندوق أسهم خاصة لتعزيز التجارة والاستثمار بين البلدين.",
+   "title_ar": "باكستان تدين استهداف مبنى أرامكو وتطالب الحوثيين بوقف جميع الهجمات ضد السعودية",
+   "summary_ar": "أدانت باكستان بشدة هجوماً للحوثيين استهدف المكتب المؤسسي لشركة النفط السعودية أرامكو في الرياض، وطالبت بالوقف الفوري لجميع الضربات ضد المملكة.",
    "body_ar": [
-    "أعلن مجلس الأعمال السعودي الباكستاني المشترك يوم الاثنين أن الحجم الأولي للصندوق يبلغ «عدة مئات من الملايين»، مع توقعات بتوسيعه بناءً على الفرص المتاحة عبر القطاعات مختلف. ووفقاً للمجلس، سيتم استثمار ثلاثة أرباع الصندوق في پاکستان، بينما سيُخصص الربع المتبقي لمشاريع في السعودية.",
-    "ويأتي هذا الإطلاق في إطار جهود أوسع تبذلها إسلام آباد والرياض لتعزيز التعاون الاقتصادي بين القطاعين الخاصين. وكان البلدان قد ناقشا في وقت سابق من هذا العام توسيع الاستثمار في قطاعات مثل الزراعة والبنية التحتية والعقارات والطاقة وتكنولوجيا المعلومات."
+    "وذكرت وزارة الخارجية الباكستانية أن استهداف التجهيزات الأساسية المدنية يظهر استهانة بحياة البشر والأمن الإقليمي، معربة عن تضامنها الكامل مع دفاع المملكة العربية السعودية وسيادتها. وألحق الهجوم أضراراً ببرج لأرامكو في مركز الملك عبد الله المالي، دون تسجيل إصابات بعد أن اعترضت الدفاعات الجوية السعودية صواريخ باليستية.",
+    "وأكدت إسلام آباد دعمها العسكري بموجب الاتفاقيات الدفاعية القائمة، بما في ذلك اتفاق مكة للدفاع المشترك مع السعودية وتركيا. وكرر مسؤولون عسكريون أن التحالف الإقليمي يظل ذات طابع دفاعي بحت في ظل تصاعد هجمات الحوثيين على المنشآت الحيوية."
+   ]
+  },
+  {
+   "id": "eb3e201df8e1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-denies-it-has-forces-fighting-yemen",
+   "date": "2026-11-09T13:28:36Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Syria denies it has forces fighting in Yemen",
+   "title_en": "Syria denies it has forces fighting in Yemen",
+   "summary_en": "Syria's foreign minister has denied allegations that Syrian soldiers are deployed in Yemen or Saudi Arabia, confirming that no troops have been sent and no such plans exist.",
+   "body_en": [
+    "Speaking at a press conference on Monday, Syrian Foreign Minister Asaad al-Shaibani rejected reports citing Yemeni sources that claimed Syrian military personnel were present in Yemen and Saudi Arabia. Shaibani emphasized that Syria has not deployed any troops to Yemen and has no plans for such a deployment in the near future."
+   ],
+   "title_fa": "تکذیب حضور نیروهای نظامی سوریه در یمن",
+   "summary_fa": "وزیر امور خارجه سوریه ادعاهای مطرح‌شده درباره حضور سربازان سوری در یمن یا عربستان سعودی را تکذیب و تأکید کرد هیچ نیرویی اعزام نشده و برنامه‌ای هم برای آن وجود ندارد.",
+   "body_fa": [
+    "اسعد الشیبانی، وزیر امور خارجه سوریه، روز دوشنبه در یک کنفرانس مطبوعاتی گزارش‌های منتسب به منابع یمنی مبنی بر حضور نیروهای نظامی سوری در یمن و عربستان سعودی را رد کرد. الشیبانی تأکید کرد که سوریه هیچ نیرویی به یمن اعزام نکرده و هیچ برنامه‌ای برای اعزام نیرو در آینده نزدیک ندارد."
+   ],
+   "title_ar": "سورية تنفي وجود قوات لها تقاتل في اليمن",
+   "summary_ar": "نفي وزير الخارجية السوري الأنباء التي تحدثت عن انتشار جنود سوريين في اليمن أو السعودية، مؤكداً عدم إرسال أي قوات وأنه لا توجد خطط لمثل هذا الانتشار.",
+   "body_ar": [
+    "خلال مؤتمر صحفي عقد يوم الاثنين، فند وزير الخارجية السوري أسعد الشيباني تقارير نقلت عن مصادر يمنية زعمت وجود جنود سوريين في اليمن والسعودية. وأكد الشيباني أن سورية لم تنشر أي قوات في اليمن ولا توجد لديه نية لإرسال قوات في المستقبل القريب."
    ]
   },
   {
@@ -61,61 +210,34 @@
    ]
   },
   {
-   "id": "214ce29add18",
+   "id": "a9c6dc8ad738",
    "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043274/opposition-alliance-hints-at-movement-against-govt-hopes-jui-f-chief-will-lead-the-effort",
-   "date": "2026-11-09T11:32:18Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
-   "title_en": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
-   "summary_en": "The Tehreek Tahafuz-i-Ayeen Pakistan (TTAP) opposition alliance has signaled plans to launch a anti-government movement, hoping JUI-F leader Maulana Fazlur Rehman will lead it.",
-   "body_en": [
-    "TTAP spokesperson Akhundzada Hussain Ahmed Yousufzai stated that opposition leaders and JUI-F recently agreed in principle to unite on a single platform. He added that a multiparty conference will be held soon to prepare for the anti-government campaign following rising tensions between Fazl and the federal government over issues including KP governor's rule.",
-    "The opposition alliance also condemned recent personal attacks and character assassination campaigns against Fazl by government ministers, urging the federal government to address constitutional concerns through legal arguments and political dialogue rather than pressure tactics."
-   ],
-   "title_fa": "ائتلاف اپوزیسیون از احتمال آغاز جنبشی علیه دولت خبر داد و ابراز امیدواری کرد رهبر جمعيت علمای اسلام (فصل) آن را رهبری کند",
-   "summary_fa": "ائتلاف اپوزیسیون «تحریک تحفظ آئین پاکستان» از برنامه‌ریزی برای آغاز جنبشی علیه دولت خبر داده و ابراز امیدواری کرده است که مولانا فضل‌الرحمان، رهبر جمعیت علمای اسلام (فصل)، رهبری آن را بر عهده بگیرد.",
-   "body_fa": [
-    "آخوندزاده حسین احمد یوسف‌زی، سخنگوی این ائتلاف، گفت که رهبران اپوزیسیون و جمعیت علمای اسلام اخیراً اصولا توافق کرده‌اند که در یک پلتفرم گرد هم آیند. وی افزود که به زودی یک کنفرانس چندحزبی برای آماده‌سازی جنبش علیه دولت برگزار خواهد شد.",
-    "این ائتلاف همچنین حملات شخصی و کمپین‌های تخریب شخصیت علیه فضل‌الرحمان از سوی وزرای فدرال را محکوم کرد و از دولت خواست به جای تاکتیک‌های فشار، به نگرانی‌های قانونی از طریق استدلال و گفتگو پاسخ دهد."
-   ],
-   "title_ar": "تحالف المعارضة يلمح إلى حركة ضد الحكومة ويعرب عن أمله في أن يقودها زعيم جمعية علماء الإسلام (فصل)",
-   "summary_ar": "ألمح تحالف المعارضة «تحريك تحفّظ آئين پاکستان» إلى خطط لإطلاق حركة ضد الحكومة، معرباً عن أمله في أن يقودها مولانا فضل الرحمن، زعيم جمعية علماء الإسلام (فصل).",
-   "body_ar": [
-    "وصرح المتحدث باسم التحالف، آخوندزاده حسين أحمد يوسفزي، بأن قادة المعارضة وجمعية علماء الإسلام اتفقوا مبدئياً على التجمع على منصة واحدة. وأضاف أنه سيعقد قريبًا مؤتمر لعدة أحزاب للتحضير للحملة المناهضة للحكومة.",
-    "كما أدان تحالف المعارضة الهجمات الشخصية وحملات تشويه السمعة ضد فضل الرحمن من قبل وزراء في الحكومة الاتحادية، حثاً الحكومة على معالجة المخاوف الدستورية عبر الحوار والحجج القانونية بدلاً من أساليب الضغط."
-   ]
-  },
-  {
-   "id": "0e1c50d39b82",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-   "date": "2026-11-09T10:59:06Z",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/erdogan-urges-trump-avoid-fresh-iran-strikes-turkey-pushes-deal",
+   "date": "2026-11-09T10:45:55Z",
    "countries": [
     "IRN",
-    "IRQ"
+    "TUR"
    ],
-   "score": 5,
-   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-   "title_en": "Deadly floods hit Iraq as thunderstorms sweep across region",
-   "summary_en": "Severe thunderstorms caused deadly flash flooding in northern Iraq, resulting in two fatalities and widespread destruction in the city of Erbil.",
+   "score": 8,
+   "title": "Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal",
+   "title_en": "Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal",
+   "summary_en": "Turkish President Recep Tayyip Erdogan has appealed to US President Donald Trump to refrain from launching new military strikes on Iran, as Ankara and regional mediators promote a seven-point de-escalation plan.",
    "body_en": [
-    "Torrential rain inundated streets, homes, and businesses in Erbil after rainfall exceeded forecasts, reaching an estimated 80mm compared to the expected 30mm. The severe weather also swept across parts of neighboring Iran."
+    "According to Turkish intelligence chief Ibrahim Kalin, Erdogan made the request during a phone call with Trump. The proposed agreement includes sanctions relief and access to frozen assets for Tehran in exchange for commitments not to obtain nuclear weapons, engagement with the International Atomic Energy Agency, and unblocking the Strait of Hormuz.",
+    "Kalin noted that Qatar is scheduled to host US Vice President JD Vance and Iranian official Mohsen Rezaei next week for negotiations. However, an Iranian source expressed skepticism about Washington's willingness to sign a deal, warning that Tehran is preparing to retaliate against US military bases in the region if attacks resume."
    ],
-   "title_fa": "وقوع سیلاب‌های مرگبار در عراق همزمان با وقوع طوفان‌های شدید در منطقه",
-   "summary_fa": "طوفان‌های شدید و رعد و برق باعث جاری شدن سیلاب‌های مرگبار در شمال عراق شد که به کشته شدن دو نفر و خسارات گسترده در شهر اربیل انجامید.",
+   "title_fa": "اردوغان از ترامپ خواست از حملات جدید به ایران خودداری کند؛ ترکیه برای توافق تلاش می‌کند",
+   "summary_fa": "رجب طیب اردوغان، رئیس‌جمهور ترکیه، از دونالد ترامپ، رئیس‌جمهور آمریکا خواست تا از انجام حملات نظامی جدید به ایران خودداری کند، در حالی که آنکارا و میانجی‌های منطقه‌ای یک طرح هفت ماده‌ای را برای کاهش تنش‌ها دنبال می‌کنند.",
    "body_fa": [
-    "بارش شدید باران باعث آب‌گرفتگی خیابان‌ها، خانه‌ها و کسب‌وکارها در اربیل شد؛ میزان بارش‌ها در این شهر به حدود ۸۰ میلی‌متر رسید، در حالی که پیش‌بینی‌ها ۳۰ میلی‌متر بود. این وضعیت جوی شدید بخش‌هایی از کشور همسایه، ایران، را نیز فرا گرفت."
+    "به گفته ابراهیم کالین، رئیس سازمان اطلاعات ترکیه، اردوغان این درخواست را در جریان تماس تلفنی با ترامپ مطرح کرده است. توافق پیشنهادی شامل رفع تحریم‌ها و دسترسی تهران به دارایی‌های مسدودشده در ازای تعهد به عدم دستیابی به سلاح هسته‌ای، همکاری با آژانس بین‌المللی انرژی اتمی و بازگشایی تنگه هرمز است.",
+    "کالین اشاره کرد که قطر هفته آینده میزبان جی‌دی ونس، معاون رئیس‌جمهور آمریکا و محسن رضایی، مقام ارشد امنیت ملی ایران برای انجام مذاکرات خواهد بود. با این حال، یک منبع ایرانی نسبت به تمایل واشنگتن برای امضای توافق ابراز تردید کرد و هشدار داد که در صورت ازسرگیری حملات، تهران خود را برای پاسخ تلافی‌جویانه به پایگاه‌های نظامی آمریکا در منطقه آماده می‌کند."
    ],
-   "title_ar": "فيضانات قاتلة تضرب العراق مع اجتياح العواصف الرعدية للمنطقة",
-   "summary_ar": "تسببت عواصف رعدية شديدة في حدوث فيضانات جارفة قاتلة في شمال العراق، مما أسفر عن مقتل شخصين وإلحاق أضرار واسعة النطاق بمدينة أربيل.",
+   "title_ar": "أردوغان يحث ترامب على تجنب ضربات جديدة لإيران بينما تضغط تركيا للتوصل إلى اتفاق",
+   "summary_ar": "حث الرئيس التركي رجب طيب أردوغان الرئيس الأمريكي دونالد ترامب على الامتناع عن شن ضربات عسكرية جديدة على إيران، في وقت تدفع فيه أنقرة ووسطاء إقليميون بنحو خطة لتهدئة التوتر من سبع نقاط.",
    "body_ar": [
-    "وغمرت الأمطار الغزيرة الشوارع والمنازل والمتاجر في أربيل بعد أن تجاوزت كميات الأمطار التوقعات، حيث بلغت نحو 80 ملم مقارنة بـ 30 ملم كانت متوقعة. كما اجتاحت هذه الأجواء القاسية أجزاءً من إيران المجاورة."
+    "وفقاً لرئيس الاستخبارات التركية إبراهيم قالن، قدم أردوغان هذا الطلب خلال اتصال هاتفي مع ترامب. ويتضمن الاتفاق المقترح تخفيف العقوبات وتمكين طهران من الوصول إلى الأموال المجمدة مقابل التزامها بعدم حيازة أسلحة نيوكليارية، والتفاعل مع الوكالة الدولية للطاقة الذرية، وفتح مضيق هرمز.",
+    "وأشار قالن إلى أنه من المقرر أن تستضيف قطر الأسبوع المقبل جيه دي فانس نائب الرئيس الأمريكي والمؤول الإيراني محسن رضائي لإجراء مفاوضات. ومع ذلك، أعرب مصدر إيراني عن شكوكه بشأن رغبة واشنطن في إبرام اتفاق، تحذيراً من أن طهران تستعد للرد على القواعد العسكرية الأمريكية في المنطقة إذا استؤنفت الهجمات."
    ]
   },
   {
@@ -324,36 +446,6 @@
    ]
   },
   {
-   "id": "cc92739a85ff",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043256/pm-shehbaz-directs-foreign-ministry-to-urgently-escalate-humanitarian-assistance-for-rain-hit-gaza",
-   "date": "2026-11-09T07:28:15Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 6,
-   "title": "PM Shehbaz directs foreign ministry to urgently ‘escalate humanitarian assistance’ for rain-hit Gaza",
-   "title_en": "PM Shehbaz directs foreign ministry to urgently ‘escalate humanitarian assistance’ for rain-hit Gaza",
-   "summary_en": "Pakistani Prime Minister Shehbaz Sharif has instructed his foreign ministry to use all available avenues to quickly boost humanitarian aid to Gaza following heavy rains that flooded tens of thousands of displacement tents.",
-   "body_en": [
-    "Expressing concern over images of flooded shelters and cold, hungry children in Gaza, Sharif strongly condemned Israel for disrupting basic humanitarian supplies and violating ceasefire terms and international law.",
-    "According to Gaza officials, heavy rain submerged at least 70,000 tents over a 12-hour period, injuring several people and washing away shelters. Emergency services reported receiving 1,500 distress calls, while municipal teams warned that fuel shortages and equipment destroyed during Israeli attacks have left them unable to handle the crisis."
-   ],
-   "title_fa": "شهباز شریف به وزارت خارجه دستور داد کمک‌های بشردوستانه به غزه باران‌زده را عاجلاً افزایش دهد",
-   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در پی بارندگی‌های شدید و آب‌گرفتگی ده‌ها هزار چادر آوارگان در غزه، به وزارت امور خارجه این کشور دستور داد تا از تمام راه‌های ممکن برای افزایش سریع کمک‌های بشردوستانه به این منطقه استفاده کند.",
-   "body_fa": [
-    "شهباز شریف با ابراز نگرانی شدید از تصاویر چادرهای آب‌گرفته و کودکان گرفتار در سرما و گرسنگی، ممانعت اسرائیل از ورود کمک‌های بشردوستانه و نقض آتش‌بس و قوانین بین‌المللی را به شدت محکوم کرد.",
-    "به گفته مقامات غزه، طی ۱۲ ساعت بارندگی دست‌کم ۷۰ هزار چادر دچار آب‌گرفتگی شد و برخی آوارگان مجروح شدند. نیروهای امدادی از دریافت ۱۵۰۰ تماس استمداد خبر دادند و مسئولان محلی تأکید کردند که به دلیل کمبود سوخت و تخریب تجهیزات در حملات اسرائیل، توانایی مقابله با این بحران را ندارند."
-   ],
-   "title_ar": "شهباز شريف يوجه وزارة الخارجية بزيادة المساعدات الإنسانية عاجلاً لقطاع غزة المتضرر من الأمطار",
-   "summary_ar": "وجّه رئيس الوزراء الباكستاني شهباز شريف وزارة الخارجية في بلاده بالسعي عبر كافة السبل المتاحة لتعزيز المساعدات الإنسانية بشكل عاجل إلى قطاع غزة، عقب أمطار غزيرة تسببت في غرق عشرات الآلاف من خيام النازحين.",
-   "body_ar": [
-    "وأعرب شهباز شريف عن قلقه البالغ إزاء المشاهد القادمة من غزة للخيام الغارقة والأطفال المحاصرين في الجوع والبرد، مديناً بشدة الإجراءات الإسرائيلية التي تمنع دخول المساعدات الإنسانية وتخرق التهدئة والقانون الدولي.",
-    "ووفقاً للمكتب الإعلامي الحكومي في غزة، غمرت مياه الأمطار نحو 70 ألف خيمة خلال 12 ساعة مما أسفر عن إصابات وجرف للمآوي. وأكدت طواقم الدفاع المدني تلقيها 1500 نداء استغاثة، مشيرة إلى عجزها عن التعامل مع الكارثة بسبب نقص الوقود وتدمير القوات الإسرائيلية للمعدات."
-   ]
-  },
-  {
    "id": "8b768a35f717",
    "lang": "en",
    "source": "Al Jazeera",
@@ -520,67 +612,6 @@
    ]
   },
   {
-   "id": "82a5608324e7",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-americans-are-sick-and-tired-israel-embroiling-us-forever",
-   "date": "2026-11-09T04:56:40Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
-   "title_en": "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
-   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that the American public is exhausted by Israel drawing the United States into prolonged conflicts in the Middle East.",
-   "body_en": [
-    "Araghchi made the comments on X in response to an interview given by US President Donald Trump to CBS News, in which Trump attributed Republican midterm election losses in part to voter dissatisfaction with Israel.",
-    "The Iranian foreign minister noted that Donald Trump recognized the public's negative view of Israel, adding that both the American people and the region have had enough of Israel misleading US administrations into endless wars."
-   ],
-   "title_fa": "عراقچی گفت آمریکایی‌ها از کشیده شدن کشورشان به «جنگ‌های ابدی» توسط اسرائیل «خسته و بیزارند»",
-   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که افکار عمومی آمریکا از اینکه اسرائیل ایالات متحده را به درگیری‌های طولانی‌مدت در خاورمیانه می‌کشاند، به تنگ آمده‌اند.",
-   "body_fa": [
-    "عراقچی این سخنان را در شبکه اجتماعی ایکس و در پاسخ به مصاحبه دونالد ترامپ، رئیس‌جمهور آمریکا با سی‌بی‌اس نیوز مطرح کرد؛ مصاحبه‌ای که در آن ترامپ بخشی از شکست حزب تفکیک‌طلب در انتخابات میان‌دوره‌ای را به نارضایتی مردم از اسرائیل نسبت داده بود.",
-    "وزیر امور خارجه ایران اشاره کرد که دونالد ترامپ انزجار مردم آمریکا از اسرائیل را درک کرده است و افزود که مردم آمریکا و همچنین مردم منطقه از فریبکاری‌های اسرائیل برای کشاندن دولت‌های آمریکا به جنگ‌های بی‌پایان خسته شده‌اند."
-   ],
-   "title_ar": "عراقجي يصرح بأن الأمريكيين «تعبوا وسئموا» من جر إسرائيل للولايات المتحدة إلى «حروب لا نهاية لها»",
-   "summary_ar": "صرح وزیر الخارجية الإيراني عباس عراقجي بأن الشعب الأمريكي سئم وتعب من محاولات إسرائيل جرف الولايات المتحدة إلى نزاعات طويلة الأمد في الشرق الأوسط.",
-   "body_ar": [
-    "وجاءت تصريحات عباس عراقجي عبر منصة «إكس» رداً على مقابلة أجراها الرئيس الأمريكي دونالد ترامپ مع شبكة «سي بي إس»، أرجع فيها جزئياً خسارة الحزب الجمهوري في الانتخابات النصفيّة إلى عدم رضا الناخبين عن إسرائيل.",
-    "وأشار وزير الخارجية الإيراني إلى أن دونالد ترامب يدرك بوضوح استياء غالبية الأمريكيين من إسرائيل، مضيفاً أن الشعب الأمريكي وشعوب المنطقة سئموا من تضليل إسرائيل للإدارات الأمريكية وسحبها نحو حروب دائمية."
-   ]
-  },
-  {
-   "id": "7dc30bae854a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-mocks-us-military-initiative-disrupt-supply-routes",
-   "date": "2026-11-09T03:33:34Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "Iran mocks US military initiative to disrupt supply routes",
-   "title_en": "Iran mocks US military initiative to disrupt supply routes",
-   "summary_en": "Iran's Islamic Revolutionary Guard Corps dismissed a new US military task force aimed at restricting Iranian supply routes through land borders and the Caspian Sea, calling the initiative meaningless rhetoric.",
-   "body_en": [
-    "IRGC spokesman Hossein Mohebbi told Fars news agency that Washington cannot bring about an economic collapse in Iran through its newly announced Task Force Iron Gate.",
-    "Mohebbi added that previous US predictions of an imminent Iranian economic breakdown had failed, noting that Tehran has taken measures to withstand economic pressure and maintain close ties with neighboring countries."
-   ],
-   "title_fa": "ایران طرح نظامی جدید آمریکا برای اختلال در مسیرهای مواصلاتی را مسخره کرد",
-   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران ابتکار عمل نظامی جدید آمریکا برای محدود کردن مسیرهای تجاری و مواصلاتی ایران از طریق مرزهای زمینی و دریای خزر را «بازی با کلمات» خواند و آن را بی‌ارزش دانست.",
-   "body_fa": [
-    "حسین محبی، سخنگوی سپاه پاسداران، به خبرگزاری فارس گفت که واشنگتن نمی‌تواند از طریق طرح موسوم به «دروازه آهنین» به هدف خود برای تحمیل فشار شدید اقتصادی و فروپاشی اقتصاد ایران دست یابد.",
-    "محبی افزود که پیش‌بینی‌های قبلی آمریکا مبنی بر فروپاشی دو هفته‌ای اقتصاد ایران محقق نشده است، چرا که تهران برای مقابله با فشارهای اقتصادی برنامه‌ریزی کرده و روابط نزدیک خود را با همسایگان حفظ نموده است."
-   ],
-   "title_ar": "إيران تسخر من مبادرة عسكرية أمريكية لاستهداف طرق الإمداد",
-   "summary_ar": "قلل الحرس الثوري الإيراني من أهمية مبادرة عسكرية أمريكية جديدة تهدف إلى تقييد حركة البضائع عبر الحدود البرية لإيران وبحر قزوين، واصفاً الإجراء بأنه «مجرد تلاعب بالكلام».",
-   "body_ar": [
-    "وقال المتحدث باسم الحرس الثوري حسين محبي لوكالة «فارس» إن واشنطن لن تتمكن من تحقيق أهدافها بإسقاط الاقتصاد الإيراني عبر خطة «البوابة الحديدية» التي أعلنت عنها القيادة المركزية الأمريكية.",
-    "وأضاف محبي أن التوقعات الأمريكية السابقة بانهيار اقتصاد إيران خلال أسبوعين قد فشلت، مؤكداً أن تهران اتخذت تدابير لمواجهة الضغوط الاقتصادية والحفاظ على علاقات وثيقة مع دول الجوار."
-   ]
-  },
-  {
    "id": "8de483c8a615",
    "lang": "en",
    "source": "Middle East Eye",
@@ -605,66 +636,6 @@
    "summary_ar": "جدد الرئيس الأمريكي دونالد ترامب تأكيده أنه سيتخذ قرار شن الحرب على إيران مجدداً إذا أتيحت له الفرصة.",
    "body_ar": [
     "وفي تعليقه على تصريحات جيه دي فانس بشأن انتخابات منتصف الولاية، قال دونالد ترامب إن تلك التصريحات لم تؤثر على علاقتهما، مضيفاً أنه كان ينبغي على فانس التأكيد على أن مهاجمة إيران كانت القرار الصحيح. ووصف ترامب ذلك الإجراء بالتاريخي، زاعماً أنه منع إيران من الحصول على سلاح نوي قد يدمر العالم."
-   ]
-  },
-  {
-   "id": "ce395f819f53",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043154/heatwaves-in-punjab-threaten-agriculture-food-security-un",
-   "date": "2026-11-09T02:44:54Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Heatwaves in Punjab threaten agriculture, food security: UN",
-   "title_en": "Heatwaves in Punjab threaten agriculture, food security: UN",
-   "summary_en": "A joint report by UN agencies warns that severe heatwaves in Punjab, Pakistan, are causing substantial agricultural losses, reducing rural incomes, and increasing health risks for vulnerable groups, especially women.",
-   "body_en": [
-    "The assessment by the Food and Agriculture Organisation (FAO) and World Meteorological Organization (WMO) highlights that extreme heat has reduced fruit yields by up to 50 percent in rain-fed zones of Punjab. Heat stress has also curtailed milk production in cattle and heightened disease outbreaks among livestock, worsening food spoilage and driving up prices.",
-    "The report emphasizes that rural women bear a disproportionate burden due to prolonged outdoor labor, leading to higher risks of heat-related illnesses and premature births. The UN agencies warned that these localized impacts reflect broader global trends where rising temperatures threaten overall food security and agricultural sustainability."
-   ],
-   "title_fa": "موج‌های گرما در پنجاب کشاورزی و امنیت غذایی را تهدید می‌کند: سازمان ملل",
-   "summary_fa": "گزارش مشترک آژانس‌های سازمان ملل متحد هشدار می‌دهد که موج‌های شدید گرما در پنجاب پاکستان باعث کاهش شدید تولیدات کشاورزی، افت درآمد روستاییان و افزایش خطرات بهداشتی برای گروه‌های آسیب‌پذیر به‌ویژه زنان شده است.",
-   "body_fa": [
-    "ارزیابی سازمان سازمان غذا و کشاورزی (فائو) و سازمان جهانی هواشناسی نشان می‌دهد که گرمای شدید محصول میوه را در مناطق دیمی پنجاب تا ۵۰ درصد کاهش داده است. استرس گرمایی همچنین تولید شیر را کاهش داده و شیوع بیماری‌ها در میان دام‌ها را افزایش داده است که منجر به فساد سریع‌تر مواد غذایی و گرانی قیمت‌ها می‌شود.",
-    "این گزارش تاکید می‌کند که زنان روستایی به دلیل کار طولانی‌مدت در فضای باز متحمل بیشترین فشار می‌شوند که این امر خطر ابتلا به بیماری‌های ناشی از گرما و زایمان‌های زودرس را افزایش می‌دهد. آژانس‌های سازمان ملل هشدار دادند این پیامدها بخشی از یک روند جهانی است که امنیت غذایی را به خطر می‌اندازد."
-   ],
-   "title_ar": "الأمم المتحدة: موجات الحر في البنجاب تهدد الزراعة والأمن الغذائي",
-   "summary_ar": "حذر تقرير مشترك لوكالات الأمم المتحدة من أن موجات الحر الشديدة في البنجاب بباكستان تتسبب في خسائر زراعية كبيرة، وانخفاض دخور الأسر الريفية، وتزايد المخاطر الصحية على الفئات الضعيفة ولا سيما النساء.",
-   "body_ar": [
-    "أوضح التقرير الصادر عن منظمة الأغذية والزراعة (الفاو) والمنظمة العالمية للأرصاد الجوية أن الحرارة الشديدة أدت إلى انخفاض إنتاج الفواكه بنسبة تصل إلى 50 بالمئة في مناطق البنجاب المعتمدة على الأمطار. كما أدى الإجهاد الحراري إلى تقليل إنتاج الحليب وتزايد انتشار الأمراض بين الماشية، مما يسرع تلف الأغذية ويدفع الأسعار للارتفاع.",
-    "وشدد التقرير على أن النساء في المناطق الريفية يتحملن عبئاً كبيراً جراء العمل الخارجي الطويل، ما يزيد من مخاطر الإصابة بالأمراض المرتبطة بالحرارة والولادة المبكرة. وحذرت وكالات الأمم المتحدة من أن هذه الآثار تعكس اتجاهات عالمية أوسع تهدد الأمن الغذائي واستدامة الزراعة."
-   ]
-  },
-  {
-   "id": "5b6d9e0cc502",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes",
-   "date": "2026-11-09T02:33:44Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Khyber Pakhtunkhwa, Gilgit-Baltistan agree to settle old boundary disputes",
-   "title_en": "Khyber Pakhtunkhwa, Gilgit-Baltistan agree to settle old boundary disputes",
-   "summary_en": "Leaders of Gilgit-Baltistan and Khyber Pakhtunkhwa agreed during a meeting in Islamabad to initiate talks to resolve long-standing territorial disputes along their shared boundaries.",
-   "body_en": [
-    "Gilgit-Baltistan Chief Minister Amjad Hussain and Khyber Pakhtunkhwa Governor Faisal Karim Kundi decided that chief secretaries from both regions will first address the border issues before submitting recommendations to their respective political leaderships. The disputed sites include Shandur Top, Babusar Top, and lands near the Diamer-Bhasha and Dassu dams, which have historically caused local tensions.",
-    "In addition to border resolution, the meeting addressed measures to enhance air connectivity between Gilgit and Islamabad. Talks were held with private airline operators to introduce leased weather-compliant aircraft to alleviate travel disruptions caused by limited flights and frequent cancellations."
-   ],
-   "title_fa": "خیبر پختونخوا و گلگت-بلتستان برای حل اختلافات مرزی دیرینه به توافق رسیدند",
-   "summary_fa": "مقامات عالی‌رتبه گلگت-بلتستان و خیبر پختونخوا در دیداری در اسلام‌آباد توافق کردند که مذاکراتی را برای حل اختلافات ارضی و مرزی دیرینه میان دو منطقه آغاز کنند.",
-   "body_fa": [
-    "امجد حسین، وزیر اعلای گلگت-بلتستان، و فیصل کریم کندی، استاندار خیبر پختونخوا، تصمیم گرفتند که دبیران ارشد دو منطقه ابتدا موضوعات مرزی را بررسی کرده و سپس نتایج را به رهبران سیاسی ارائه دهند. مناطق مورد اختلاف شامل شاندور تاپ، بابوسر تاپ و اراضی اطراف سدهای دیامر-باشا و داسو است که پیشتر باعث تنش شده بودند.",
-    "علاوه بر مسائل مرزی، دو طرف درباره بهبود خطوط هوایی میان گلگت و اسلام‌آباد گفتگو کردند. در این راستا مذاکراتی با شرکت‌های هواپیمایی خصوصی برای اجاره هواپیماهای مناسب و کاهش لغو پروازها انجام شد."
-   ],
-   "title_ar": "خيبر بختونخوا وغيلغيت-بلتستان تتفقان على تسوية النزاعات الحدودية القديمة",
-   "summary_ar": "اتفق قادة غيلغيت-بلتستان وخيبر بختونخوا خلال اجتماع في إسلام آباد على بدء مفاوضات لحل النزاعات الإقليمية والحدودية القديمة بين المنطقتين.",
-   "body_ar": [
-    "قرر رئيس وزراء غيلغيت-بلتستان أمجد حسين وحاكم خيبر بختونخوا فيصل كريم كندي أن يتولى رؤساء الأمانات التنفينية مناقشة النزاعات الحدودية أولاً قبل رفع التوصيات للقيادة السياسية. وتتضمن المناطق المتنازع عليها شاندور توب، وبابوسار توب، وأراضٍ قريبة من سدي ديامر-باشا وداسو.",
-    "وإلى جانب الملف الحدودي، تناول الاجتماع سبل تحسين الربط الجوي بين غيلغيت وإسلام آباد. وجرت محادثات مع شركات طيران خاصة لاستئجار طائرات ملائمة لتجنب إلغاء الرحلات المتكرر وتخفيف معانات المسافرين."
    ]
   },
   {
@@ -695,37 +666,6 @@
    "body_ar": [
     "يركز اجتماع وزراء خارجية بريطانيا وكندا وفرنسا وألمانيا وإيطاليا واليابان والولايات المتحدة على ضغوط القوى الأوروبية لضمان تسوية عادلة لأوكرانيا ورادع ضد هجمات أمريكية جديدة على إيران. وتبدي الدول الأوروبية قلقها من فرض شروط غير مجدية على كييف، كما تسعى لاستعادة حركة الملاحة الطبيعية عبر مضيق هرمز.",
     "وحضر وزير الخارجية الأمريكي ماركو روبیو الاجتماع وسط استمرار التكهنات حول احتمال تنفيذ ضربات عسكرية جديدة ضد منشآت إيرانية. ويزامن اجتماع مجموعة السبع مع مفاوضات تجري بوساطة أمريكية في أبوظبي بمشاركة أطراف من أوكرانيا وروسيا وأوروبا."
-   ]
-  },
-  {
-   "id": "7bb05f84f715",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043143/senate-opposition-leader-urges-govt-to-stay-out-of-yemen",
-   "date": "2026-11-09T01:36:07Z",
-   "countries": [
-    "PAK",
-    "YEM"
-   ],
-   "score": 6,
-   "title": "Senate opposition leader urges govt to stay out of Yemen",
-   "title_en": "Senate opposition leader urges govt to stay out of Yemen",
-   "summary_en": "Senate Opposition Leader Allama Raja Nasir Abbas urged the Pakistani government to avoid entering the Yemen conflict and instead act as a mediator, adhering to the 2015 parliamentary resolution.",
-   "body_en": [
-    "Speaking at a conference organized by Majlis Wahdat-i-Muslimeen (MWM), Allama Raja Nasir Abbas emphasized that parliament unanimously resolved in 2015 not to join the Yemen war. He stated that Yemen had offered Pakistan a mediatory role and warned that disregarding the parliamentary resolution would harm national interests and sovereignty.",
-    "Abbas also criticized US and Israeli actions against Iran and Gaza, while rejecting the government's excessive praise for US President Donald Trump. On domestic matters, he urged the state to protect constitutional rights and called for former Prime Minister Imran Khan to be involved in national reconciliation efforts."
-   ],
-   "title_fa": "رهبر اپوزیسیون مجلس سنا از دولت خواست از ورود به درگیری یمن خودداری کند",
-   "summary_fa": "علامه راجه ناصر عباس، رهبر اپوزیسیون مجلس سنای پاکستان، از دولت خواست تا با پایبندی به قطعنامه پارلمانی سال ۲۰۱۵، از ورود به درگیری یمن خودداری کرده و نقش میانجی را ایفا کند.",
-   "body_fa": [
-    "علامه راجه ناصر عباس طی سخنانی در کنفرانس مجلس وحدت مسلمین تأکید کرد که پارلمان در سال ۲۰۱۵ به طور اجماع تصمیم گرفت پاکستان وارد جنگ یمن نشود. وی اظهار داشت که یمن پیشنهاد نقش میانجی‌گری به پاکستان داده است و نادیده گرفتن تصمیم پارلمان به منافع ملی و حاکمیت کشور آسیب می‌زند.",
-    "عباس همچنین از اقدامات آمریکا و اسرائیل علیه ایران و غزه انتقاد کرد و تمجیدهای بیش از حد دولت از دونالد ترامپ را زیر سوال برد. در امور داخلی، وی خواهان حفاظت از حقوق قانونی شهروندان شد و خواستار ایفای نقش عمران خان، نخست‌وزیر سابق، در آشتی ملی گردید."
-   ],
-   "title_ar": "زعيم المعارضة في مجلس الشيوخ يحث الحكومة على البقاء بعيداً عن اليمن",
-   "summary_ar": "حث زعيم المعارضة في مجلس الشيوخ العلامة راجة ناصر عباس الحكومة الباكستانية على الامتناع عن المشاركة في صراع اليمن ولعب دور الوسيط، التزاماً بقرار البرلمان الصادر عام 2015.",
-   "body_ar": [
-    "خلال كلمة ألقاها في مؤتمر نظمه مجلس وحدة المسلمين، شدد العلامة راجة ناصر عباس على أن البرلمان قرر بالإجماع عام 2015 عدم الانخراط في حرب اليمن. وأشار إلى أن اليمن عرض على باكستان دور الوساطة، محذراً من أن تجاهل قرار البرلمان يضر بالصالح الوطني وسيادة البلاد.",
-    "كما انتقد عباس الهجمات الأمريكية والإسرائيلية على إيران وغزة، مستنكراً مبالغة الحكومة في الإشادة بالرئيس الأمريكي دونالد ترامب. وفي الشأن الداخلي، دعا إلى حماية الحقوق الدستورية للمواطنين وإتاحة الفرصة لرئيس الوزراء السابق عمران خان للمساهمة في تحقيق المصالحة الوطنية."
    ]
   },
   {

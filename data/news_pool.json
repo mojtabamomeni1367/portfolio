@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:38:24Z",
+ "updated": "2026-11-09T16:34:01Z",
  "items": [
   {
    "id": "6f06cf85fa11",
@@ -2753,6 +2753,412 @@
    ],
    "desc": "According to the CPO, a male domestic worker at the house told police that the victim's husband had claimed that the gunshot was fired accidentally.",
    "score": 3
+  },
+  {
+   "id": "1b752bc5d3f2",
+   "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+   "date": "2026-11-09T15:31:37Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+   "score": 8
+  },
+  {
+   "id": "9b97feeefbe2",
+   "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+   "date": "2026-11-09T15:10:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+   "score": 9
+  },
+  {
+   "id": "45e67a501d3f",
+   "title": "Iran stands by demands to end the war as US ramps up military pressure",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+   "date": "2026-11-09T14:39:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+   "score": 8,
+   "dup_of": "c8ab6ed0ab42"
+  },
+  {
+   "id": "cc6f296f6528",
+   "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide?traffic_source=rss",
+   "date": "2026-11-09T14:24:51Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "The number of signatures requires the British parliament to consider the topic for debate.",
+   "score": 4
+  },
+  {
+   "id": "eaaf087e9e57",
+   "title": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
+   "date": "2026-11-09T14:24:31Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
+   "score": 7
+  },
+  {
+   "id": "73acf381ec21",
+   "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+   "date": "2026-11-09T13:15:27Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+   "score": 9,
+   "dup_of": "6d7bc3c9fcd1"
+  },
+  {
+   "id": "b61202356cdf",
+   "title": "Iran 'has mistaken perception' of US midterm result, expert says",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
+   "date": "2026-11-09T13:49:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "A leading commentator on Iran says the country sees the results of the US midterm elections as giving them a golden opportunity for a sweet deal. Paymon Azmoudeh from Forward Global was speaking amid conflicting statements from the key players about whether there will be further US military action in Iran. President Donald Trump says that renewed strikes on Iran are \"highly unlikely\" if talks progress. However, Iran's foreign minister says the midterms have brought a ⁠pause to mediators' work.",
+   "score": 5
+  },
+  {
+   "id": "009429ef7e8a",
+   "title": "Saudi, Omani foreign ministers call for continued diplomacy",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-omani-foreign-ministers-call-continued-diplomacy",
+   "date": "2026-11-09T16:11:13Z",
+   "countries": [
+    "OMN",
+    "SAU"
+   ],
+   "desc": "Saudi, Omani foreign ministers call for continued diplomacy Saudi Foreign Minister Prince Faisal bin Farhan and his Omani counterpart, Badr bin Hamad Al Busaidi, stressed in a phone call on Monday the need to continue the diplomatic efforts aimed at containing the regional crisis, according to a statement issued by the Saudi Foreign Ministry. These efforts would help maintain the security of navigation and regional stability, the statement added.",
+   "score": 6
+  },
+  {
+   "id": "7ac3acd0f013",
+   "title": "Iran says no plan for US talks unless Washington meets seven conditions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-plan-us-talks-unless-washington-meets-seven-conditions",
+   "date": "2026-11-09T15:55:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says no plan for US talks unless Washington meets seven conditions Iran has no plans to negotiate with the United States unless Washington takes practical steps to meet Tehran's seven conditions, which Iran set out in a June interim agreement with the United States, a senior security official told Iranian state media. Reporting by Reuters",
+   "score": 8,
+   "dup_of": "c8ab6ed0ab42"
+  },
+  {
+   "id": "2bc34a437f94",
+   "title": "Netanyahu calls for unity government without 'Hamas supporters'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-unity-government-not-relying-hamas-supporters",
+   "date": "2026-11-09T15:38:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Netanyahu calls for unity government without 'Hamas supporters' In a video statement released on Monday, Israeli Prime Minister Benjamin Netanyahu said forming a unity government was an \"absolute necessity\". \"Two days ago I called for the formation of a unity government, and this is the need of the hour,\" Netanyahu said. \"You cannot form a government with Hamas supporters,\" he added. \"You cannot fight Iran and the rest of its followers within extremist Islam if, inside the government, you rely on supporters of extremist Islam.\" Netanyahu said the government should include all parties of the na",
+   "score": 8
+  },
+  {
+   "id": "f1c5c5149299",
+   "title": "Israeli mob attacks Palestinian citizens during Lod rally",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-mob-attacks-palestinian-citizens-israel-lod-during-provocative-march",
+   "date": "2026-11-09T14:58:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli mob attacks Palestinian citizens during Lod rally Submitted by Lubna Masarwa on Mon, 11/09/2026 - 11:28 Far-right march sparks clashes and leaves several residents injured, as Palestinians fear more attacks Right-wing Israelis activies argue with left-win protesters outside an Israeli court in the southern Israeli city of Beersheva on 15 June 2022 (AFP) Off A far-right Israeli mob marched through Palestinian neighbourhoods in the city of Lod on Sunday night, provoking and assaulting residents and sparking clashes. Palestinian citizens of Israel said that a group of Jewish Israelis had ",
+   "score": 6
+  },
+  {
+   "id": "8d006799c102",
+   "title": "More than 200,000 join Amsterdam march against Gaza genocide",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/more-200000-join-amsterdam-march-against-gaza-genocide",
+   "date": "2026-11-09T14:46:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "More than 200,000 join Amsterdam march against Gaza genocide Submitted by MEE staff on Mon, 11/09/2026 - 14:35 Protesters want the Netherlands to halt arms sales to Israel, tighten sanctions and recognise the Gaza genocide Demonstrators take part in a \"Red Line\" protest demanding \"government action to stop the genocide in Gaza\" in Amsterdam on October 5, 2025. (Koen van Weel/ANP/AFP) Off Tens of thousands of people marched through Amsterdam on Sunday, demanding that the Dutch government end arms sales to Israel and impose tougher trade sanctions over its genocide in Gaza. Many wore red for the",
+   "score": 5
+  },
+  {
+   "id": "06ea9cde4797",
+   "title": "Iran war: Will Trump's midterm defeat end or entrench the conflict with Tehran?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/iran-war-will-trumps-midterm-defeat-end-or-entrench-conflict",
+   "date": "2026-11-09T14:44:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran war: Will Trump's midterm defeat end or entrench the conflict with Tehran? Submitted by Seyed Hossein Mousavian on Fri, 11/06/2026 - 16:29 The greatest victory for both nations would be neither military triumph nor the humiliation of the other, but the achievement of a lasting peace An Iranian demonstrator holds a flag denouncing US President Donald Trump, in Tehran on 4 November 2026 (Atta Kenare/AFP) Off The US midterm elections delivered a historic defeat to President Donald Trump’s Republican Party, which lost control of both houses of Congress. Democrats achieved remarkable victories",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "eb3e201df8e1",
+   "title": "Syria denies it has forces fighting in Yemen",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-denies-it-has-forces-fighting-yemen",
+   "date": "2026-11-09T13:28:36Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "Syria denies it has forces fighting in Yemen Syria's foreign minister on Monday insisted that his country has no troops deployed in Yemen and was not planning on sending any, after Yemeni sources told AFP that Syrian soldiers were in Yemen and Saudi Arabia. \"There is no deployment of troops to Yemen nor is there a plan for such deployment in the near future,\" Asaad al-Shaibani said during a press conference. Reporting by AFP",
+   "score": 8
+  },
+  {
+   "id": "190589099bfb",
+   "title": "Nearly 80 percent of Britons see Israel as a threat to world peace",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/nearly-80-percent-britons-see-israel-threat-world-peace-gaza-iran",
+   "date": "2026-11-09T13:21:20Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Nearly 80 percent of Britons see Israel as a threat to world peace Submitted by Elis Gjevori on Mon, 11/09/2026 - 13:01 Israel’s genocide in Gaza and the war on Iran have driven a sharp shift in British public opinion Pro-Palestinian supporters hold placards and wave flags in central London, on 11 October 2025 (Henry Nicholls/AFP) Off Nearly four in five Britons see Israel as a serious threat to world peace, according to a survey published last week by the National Centre for Social Research (NatCen). The figure rose from 48 percent in 2005 to 78 percent this spring, two-and-a-half years into ",
+   "score": 4
+  },
+  {
+   "id": "b853c65a16f5",
+   "title": "Iranian press review: Newspapers warn of war reaching 'heart of Europe'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/iranian-press-review-newspapers-warn-war-reaching-heart-europe",
+   "date": "2026-11-09T13:17:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian press review: Newspapers warn of war reaching 'heart of Europe' Submitted by MEE correspondent on Mon, 11/09/2026 - 11:02 Meanwhile, a report says Republican losses in Congress will not stop Trump's military campaign, and China emerges as a potential player in efforts to end the war The Hamshahri daily published a map of Europe on its front page on 3 November 2026, marking US bases in the UK, Germany, France, Italy, Romania, Greece, Albania and Portugal as the 'target bank of the Iranian armed forces' (screengrab) Off IRGC-linked outlets publish list of potential targets in Europe Dail",
+   "score": 5
+  },
+  {
+   "id": "297bead880d4",
+   "title": "US rabbi blames Netanyahu's 'right wing messianism' for the end of 'Jewish Golden Age'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/us-rabbi-blames-netanyahus-right-wing-messianism-end-jewish-golden-age",
+   "date": "2026-11-09T13:09:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US rabbi blames Netanyahu's 'right wing messianism' for the end of 'Jewish Golden Age' Submitted by MEE staff on Mon, 11/09/2026 - 10:49 Rabbi Ammiel Hirsch said anti-Zionism had become normalised in American public life and urged Jewish leaders to reassess their political alliances Israelis seen during a raid at Al-Aqsa Mosque in occupied East Jerusalem on 23 July 2026 (Ilia Yefimovich/AFP) Off A leading US Reform rabbi has blamed Israeli Prime Minister Benjamin Netanyahu's “right-wing messianism and West Bank lawlessness” for fuelling opposition to Israel and rising settler violence in the W",
+   "score": 3
+  },
+  {
+   "id": "3e097d1e42b7",
+   "title": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/turkey-says-new-israeli-government-will-test-whether-hostility-outlasts-netanyahu",
+   "date": "2026-11-09T12:46:10Z",
+   "countries": [
+    "ISR",
+    "TUR"
+   ],
+   "desc": "Turkey says new Israeli government will test whether hostility outlasts Netanyahu Submitted by Ragip Soylu on Mon, 11/09/2026 - 11:38 Turkish intelligence chief says Ankara does not seek a conflict with Israel but new government should seek to defuse tensions A protester wears a mask depicting Israeli Prime Minister Benjamin Netanyahu during a pro-Palestinian march in Ankara on 7 October 2026 (Adem Altan/AFP) Off A new Israeli government would be a litmus test of whether tensions with Turkey reflect the policy of the Israeli state or that of Prime Minister Benjamin Netanyahu’s administration, ",
+   "score": 6
+  },
+  {
+   "id": "9c5dcc7730d1",
+   "title": "Petition for inquiry into UK 'complicity' in Gaza genocide passes 100,000 threshold",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/petition-inquiry-uks-complicity-gaza-genocide-passes-100000-threshold-parliament-debate",
+   "date": "2026-11-09T12:45:09Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Petition for inquiry into UK 'complicity' in Gaza genocide passes 100,000 threshold Submitted by Imran Mulla on Mon, 11/09/2026 - 11:13 The petition launched by Your Party will now be considered for debate in parliament Jeremy Corbyn, Your Party's parliamentary leader, said 'the Palestinian people deserve justice'. Off A petition by Your Party calling for a public inquiry into \" British complicity in Israel 's genocide in Gaza\" has received more than 100,000 signatures, passing the threshold for it to be considered for a debate in parliament. The petition was launched by Your Party chair Jenn ",
+   "score": 4,
+   "dup_of": "cc6f296f6528"
+  },
+  {
+   "id": "b5e59abe9fb7",
+   "title": "Labour's message to UK voters: Israel is more important than your needs",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/labours-message-britons-israel-more-important-your-needs",
+   "date": "2026-11-09T12:18:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Labour's message to UK voters: Israel is more important than your needs Submitted by Tom Blackburn on Fri, 11/06/2026 - 19:26 In response to 'Zionism is racism' motion, Burnham's party is set to break local cooperation deals with the Greens British Prime Minister Andy Burnham speaks to the media in St. John’s, Antigua and Barbuda, on 4 November 2026 (Kin Cheung/AFP) Off The UK Labour Party has signalled its intention to break local co-operation deals with the Green Party over the latter’s “Zionism is racism” motion, passed at the Greens’ conference last month. Eleven power-sharing agreements w",
+   "score": 3
+  },
+  {
+   "id": "a9c6dc8ad738",
+   "title": "Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/erdogan-urges-trump-avoid-fresh-iran-strikes-turkey-pushes-deal",
+   "date": "2026-11-09T10:45:55Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "desc": "Erdogan urges Trump to avoid fresh Iran strikes as Turkey pushes for deal Submitted by Ragip Soylu on Mon, 11/09/2026 - 09:58 Turkish intelligence chief says a seven-point deal could avert further US attacks, but warns even a small incident could reignite regional conflict US President Donald Trump and Turkey's President Recep Tayyip Erdogan at the Nato Summit in Ankara on 8 July 2026 (Ludovic Marin/AFP) Off Turkish President Recep Tayyip Erdogan urged US President Donald Trump over the weekend not to launch another round of strikes on Iran , as regional countries stepped up efforts to de-esca",
+   "score": 8
+  },
+  {
+   "id": "1f7feee74043",
+   "title": "Erdogan warns Trump against further attacks on Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-warns-trump-against-further-attacks-iran",
+   "date": "2026-11-09T10:31:34Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "desc": "Erdogan warns Trump against further attacks on Iran President Tayyip Erdogan said he told US President Donald Trump that he was opposed to further strikes on Iran. \"We emphasise at every opportunity that it is possible to resolve these issues through dialogue and diplomacy,\" Erdogan told reporters on a return flight from Azerbaijan. \"Unfortunately, we see a negative shift once again. We are doing our utmost to prevent this.\"",
+   "score": 8,
+   "dup_of": "a9c6dc8ad738"
+  },
+  {
+   "id": "f6c2970b507f",
+   "title": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+   "date": "2026-11-09T14:45:08Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Pakistan on Monday condemned the Houthi attack on Saudi oil giant Aramco’s corporate office in Riyadh, demanding that the rebel group “immediately and unconditionally” cease all attacks against Saudi Arabia, the Foreign Office (FO) said. On Sunday, an Aramco building in Riyadh was tar­geted in an “attempted attack”, the Saudi energy ministry said, which damaged the skyscraper. The Houthis claimed responsibility for the attack. Aramco facilities and infrastructure have been repeatedly targeted by the rebels in Yemen in recent months, including tankers, refineries, storage areas and the company’",
+   "score": 7
+  },
+  {
+   "id": "f42db06b1e37",
+   "title": "Team formed to probe suspected targeted killing of Karachi inspector Javed Abro",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043292/team-formed-to-probe-suspected-targeted-killing-of-karachi-inspector-javed-abro",
+   "date": "2026-11-09T15:04:49Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A high-level police team has been formed to probe the suspected targeted killing of inspector Javed Abro, who was gunned down by armed pillion riders in Karachi’s Steel Town a day earlier, officials said on Monday. The 55-year-old inspector was shot dead, while his wife was wounded in the Sunday evening attack. Officials said the two were having tea in the front lawn of their house when two assailants arrived on a motorbike and opened fire. Karachi Additional Inspector General (AIG) Azad Khan told Dawn that an investigation team headed by the Malir senior superintendent of police (SSP",
+   "score": 3
+  },
+  {
+   "id": "2a6339547bad",
+   "title": "Trump says 'great dislike' for Israel contributed to Republican rout in midterms",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043269/trump-says-great-dislike-for-israel-contributed-to-republican-rout-in-midterms",
+   "date": "2026-11-09T15:03:20Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "US President Donald Trump has said that a “great dislike” for Israel was one of the contributing factors for the Republicans suffering a defeat in the midterm elections, alongside the war on Iran and gasoline prices. “I think if I was on the ballot, it would’ve been a much different situation because you saw the level of popularity and love,” he said on CBS News’ ‘60 minutes’ on Sunday. “They didn’t like the war … there’s a great dislike, incredibly, for Israel. There seems to be a dislike for Israel. So you have that. You have the war itself. You have the gas prices. And I think those are the",
+   "score": 7
+  },
+  {
+   "id": "14f07378d5d4",
+   "title": "Houthi rebels say at least 44 killed in airstrike near Yemeni capital",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/houthi-rebels-say-at-least-44-killed-in-airstrike-near-yemeni-capital/article71683574.ece",
+   "date": "2026-11-09T15:57:20Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Al-Asbahi said rescue teams were still searching the area for missing people, raising fears that the death toll could rise.",
+   "score": 8,
+   "dup_of": "b3534df0c874"
+  },
+  {
+   "id": "69d3b8c1ee9b",
+   "title": "PM Modi speaks to Ukrainian President Zelenskyy on Kyiv-Moscow conflict, bilateral relations",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pm-modi-speaks-to-ukrainian-president-zelenskyy-on-kyiv-moscow-conflict-bilateral-relations/article71683116.ece",
+   "date": "2026-11-09T14:47:08Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "PM Modi conveyed India’s readiness to contribute to all efforts aimed at peaceful resolution of the conflict.",
+   "score": 6
+  },
+  {
+   "id": "b9e913bdce3f",
+   "title": "Syrian FM says country has no troops in Yemen, won't send any",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/article71683136.ece",
+   "date": "2026-11-09T14:41:32Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "He said the accord with Riyadh, a key backer of Damascus as it seeks to rebuild after more than a decade of civil war, was vital for Syria to rebuild its institutions, including the military",
+   "score": 8,
+   "dup_of": "eb3e201df8e1"
+  },
+  {
+   "id": "52bc6f74b7ba",
+   "title": "وزير خارجية سوريا ينفي نشر قوات سورية في اليمن وسط تقارير عن تعاون عسكري مع السعودية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm15j5qkj5j4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T14:57:53Z",
+   "countries": [
+    "SAU",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "نفى وزير الخارجية السوري أسعد الشيباني وجود قوات سورية في اليمن أو خطط قريبة لإرسالها، بعد تقارير تحدثت عن اتفاق مع السعودية لنشر آلاف الجنود السوريين لمواجهة الحوثيين.",
+   "score": 8,
+   "dup_of": "eb3e201df8e1"
   }
  ]
 }
