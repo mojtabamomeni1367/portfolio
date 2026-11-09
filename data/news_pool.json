@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:26:57Z",
+ "updated": "2026-11-09T13:38:24Z",
  "items": [
   {
    "id": "6f06cf85fa11",
@@ -2491,6 +2491,268 @@
    ],
    "desc": "لقي سبعة أشخاص حتفهم، وأصيب 112 بانقلاب عربات من قطار في العياط بمحافظة الجيزة المصرية، وقدّم الرئيس المصري تعازيه لأسر الضحايا، متعهداً بتوفير الرعاية الطبية للمصابين، وموجهاً بإجراء تحقيق عاجل.",
    "score": 4
+  },
+  {
+   "id": "57d958e39e66",
+   "title": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
+   "date": "2026-11-09T12:16:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "A protective barrier collapsed at the partially-constructed Tarbela Dam T-5 hydropower project in Pakistan.",
+   "score": 6
+  },
+  {
+   "id": "408a5794c868",
+   "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
+   "date": "2026-11-09T10:50:49Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+   "score": 6,
+   "dup_of": "c119943acb80"
+  },
+  {
+   "id": "8ad63691b781",
+   "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
+   "date": "2026-11-09T10:35:53Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "US Secretary of State Marco Rubio has ordered Ibrahim Charara, Lebanon’s consul general in Detroit, to leave the country",
+   "score": 6
+  },
+  {
+   "id": "1c4a6515a0d5",
+   "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/09/extreme-heat-mecca-hajj-pilgrimage-this-is-climate-breakdown-saudi-arabia",
+   "date": "2026-11-09T12:00:08Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "desc": "He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came. This is Zirrar Ali’s story Location: Mecca, Saudi Arabia Disaster: Heatwave, 2024 After a transformative experience in Iran, Zirrar Ali quit his corporate 9-5 job and began travel writing . Seven years later, he and his elderly father were participating in the sacred five-day Muslim pilgrimage, the hajj, when temperatures soared to more than 51 C. The c limate crisis has already made peak temperatures in Mecca about 2 C hotter than in pre industrial times. Continue reading...",
+   "score": 3
+  },
+  {
+   "id": "0e1c50d39b82",
+   "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
+   "date": "2026-11-09T10:59:06Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Violent storms lash northern Iraq and parts of Iran, while Portugal faces strong winds and Japan braces for further snowfall Deadly flash floods hit northern Iraq on Saturday as severe thunderstorms swept across the region, including in neighbouring Iran. The city of Erbil, in Iraq, was particularly badly hit, with extensive damage to homes and businesses. Streets were inundated as torrential rain fell over a short period. Rainfall exceeded forecasts, with an estimated 80mm falling in the city, compared with expectations of 30mm. Two people were killed in the floods. Continue reading...",
+   "score": 5
+  },
+  {
+   "id": "2eb59544055d",
+   "title": "Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged",
+   "date": "2026-11-09T10:41:55Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia intercepted incoming missiles from Yemen's Houthi rebels targeting the kingdom's capital and other regions on Sunday, November 8, with falling debris damaging a building belonging to the state-owned oil giant Aramco in Riyadh’s financial district.",
+   "score": 8,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "aeb3abb6633d",
+   "title": "Israel's opposition leader Gadi Eisenkot has six weeks to form a government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261109-israel-s-opposition-leader-gadi-eisenkot-has-six-weeks-to-form-a-government",
+   "date": "2026-11-09T10:36:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli President Isaac Herzog formally gave opposition politician Gadi Eisenkot the first chance to form the next government Sunday evening, leaving Eisenkot six weeks to try to put together a coalition to oust Prime Minister Benjamin Netanyahu. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
+   "score": 7,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "993d457624e9",
+   "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043284/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
+   "date": "2026-11-09T12:40:11Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "desc": "A joint council of Saudi Arabian and Pakistani investors launched a private equity fund on Monday as part of the countries’ wider push to deepen two-way private sector trade and investment. The Saudi-Pakistan Joint Business Council, formed by the governments of both countries, said the fund’s initial size is “multi-hundred million”, which is expected to expand based on opportunities across sectors. In a statement, it said three-quarters of the fund will be invested in Pakistan, while the rest will go to Saudi Arabian projects. Islamabad and Riyadh share robust bilateral cooperation, with frequ",
+   "score": 5
+  },
+  {
+   "id": "7760aec35bed",
+   "title": "Pakistan post 281-5 to punish Sri Lanka in first Test",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043268/pakistan-post-281-5-to-punish-sri-lanka-in-first-test",
+   "date": "2026-11-09T12:34:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Captain Babar Azam and two debutants were among four batters to hit half-centuries as Pakistan reached 281-5 on day one of the first Test against Sri Lanka on Monday. Opener Tayyab Arif scored an impressive 57 and Mohammad Taha a patient 51 — both playing their first Test — while Azam hit 50, with Sri Lanka’s decision to bowl on what appeared to be a green pitch in Rawalpindi seemed to backfire. Saud Shakeel was unbeaten on 57 when bad light stopped play 15 minutes before schedule, with Ghazi Ghori seven not out. Sri Lanka’s decision to go with a pace quartet and without a frontline spinner co",
+   "score": 1
+  },
+  {
+   "id": "214ce29add18",
+   "title": "Opposition alliance hints at movement against govt, hopes JUI-F chief will lead the effort",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043274/opposition-alliance-hints-at-movement-against-govt-hopes-jui-f-chief-will-lead-the-effort",
+   "date": "2026-11-09T11:32:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Tehreek Tahafuz-i-Ayeen Pakistan (TTAP) on Monday hinted at starting a movement against the incumbent government, with hopes that Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman may lead it. Last week, opposition leaders and JUI-F agreed to strengthen their alliance and parliamentary coordination amid recent tensions between the latter and the federal government. Fazl has been critical of the federal government over the imposition of governor’s rule in Khyber Pakhtunkhwa. He has accused the Centre of reneging on its commitments amid his efforts to mediate between t",
+   "score": 5
+  },
+  {
+   "id": "5fa13ee9d07c",
+   "title": "Bangladesh challenges ousted PM Hasina to seek extradition as she requests new passport",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043265/bangladesh-challenges-ousted-pm-hasina-to-seek-extradition-as-she-requests-new-passport",
+   "date": "2026-11-09T12:51:09Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Bangladesh challenged on Monday ousted leader Sheikh Hasina to seek extradition from India if she was serious about returning home, while reviewing an application to renew her passport. Hasina, whose 15-year rule was ended by a mass uprising she tried to crush, has vowed to return in December to Bangladesh, where she was sentenced to death for crimes against humanity over the 2024 crackdown on protesters. Home Minister Salahuddin Ahmed told reporters on Monday that authorities were looking into Hasina’s request for a new passport, adding that she was a convicted offender who had taken refuge a",
+   "score": 7,
+   "dup_of": "8b768a35f717"
+  },
+  {
+   "id": "09fa9bab60c2",
+   "title": "Drap urges public to verify authenticity and prices of medicines via new app",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+   "date": "2026-11-09T10:19:47Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Drug Regulatory Authority of Pakistan (Drap) has urged consumers to use its Mehfooz Dawa application to verify the authenticity and prices of medicines as part of its efforts to curb the sale of counterfeit drugs. About 800 pharmaceutical companies and more than 90,000 medicines were registered with Drap, Sajid Shah, a spokesperson for the Ministry of National Health Services, told Dawn . Shah said Drap had set up a 2D barcode system that allows consumers to scan medicine packs and ensure they receive safe, high-quality and effective products. The centralised track-and-trace sys",
+   "score": 2
+  },
+  {
+   "id": "8a982129098e",
+   "title": "Pakistani farmers in long fight to make German firms pay for 2022 flood damage",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043283/pakistani-farmers-in-long-fight-to-make-german-firms-pay-for-2022-flood-damage",
+   "date": "2026-11-09T12:20:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "In a village nestled in rice fields, Abdul Hafeez Khoso remembers the vast industrial zones he saw in Germany when he visited to file a pioneering climate legal case. “They’re spreading pollution: up in the sky there are no borders, it can affect anywhere,” the 43-year-old said, describing areas far larger than his village of 800 people. “This is a problem for the whole world — that is why it should be resolved at the global level.” Khoso and 38 other farmers from Sindh who were devastated by “apocalyptic” flooding in 2022 are suing German energy firm RWE and cement maker Heidelberg Materials ",
+   "score": 4
+  },
+  {
+   "id": "822de0434457",
+   "title": "Rabid Modi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043205/rabid-modi",
+   "date": "2026-11-09T11:44:37Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "IN Prime Minister Narendra Modi’s India, minorities are cast as either infiltrators or in-house enemies. In Kolkata, hundreds of Christians marched against the organised attacks on their faith on Thursday. India Hate Lab has recorded 60 incidents of vandalism and assaults on pastors and prayer congregations on the pretext of illegal conversions since the BJP took power in West Bengal. Last month, a set pattern of vilification and persecution played out in central Delhi: 700 Muslim homes in three colonies were demolished, and 717 families forcibly moved to the outskirts. Saved by advocacy, the ",
+   "score": 3
+  },
+  {
+   "id": "b0499d63c065",
+   "title": "Four killed in Gaza as sand embankment collapses on tents",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/four-killed-in-gaza-as-sand-embankment-collapses-on-tents/article71682791.ece",
+   "date": "2026-11-09T13:19:39Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Medics ​said heavy rain late on November 8 washed away a rocky sand ⁠bank abutting a camp for displaced families south of Deir al-Balah, in central Gaza",
+   "score": 6,
+   "dup_of": "c119943acb80"
+  },
+  {
+   "id": "dd3b35a79e6a",
+   "title": "Trump says likely to meet Putin, Xi at China APEC summit",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-china-russia-leaders-to-meet-next-week-says-trump-beijing-says-in-communication-with-parties/article71682111.ece",
+   "date": "2026-11-09T13:07:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "U.S. President Donald Trump indicated to reporters that a deal on the Russia-Ukraine war, the Iran issue and nuclear arms control would be on the agenda",
+   "score": 6,
+   "dup_of": "21e47872cc22"
+  },
+  {
+   "id": "2406ce30b317",
+   "title": "Six dead in blast at steel factory near Turkiye’s Izmir: officials",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/blast-at-steel-factory-near-turkiyes-izmir-death-toll/article71682667.ece",
+   "date": "2026-11-09T13:05:24Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Izmir Mayor Cemil Tugay said rescue teams were \"continuing their work to remove the collapsed platform\" and that those affected were factory workers.",
+   "score": 3
+  },
+  {
+   "id": "78778234cec5",
+   "title": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end war",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece",
+   "date": "2026-11-09T12:47:09Z",
+   "countries": [
+    "IRN",
+    "QAT",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Mutual attacks continue, with the U.S. striking Iran's Qeshm island overnight, according to Iranian state media, and Iran attacking tankers in the Gulf and ‌Strait of Hormuz this month while its Yemeni Houthi allies have hit Saudi Arabia",
+   "score": 8,
+   "dup_of": "d64da89c6d87"
+  },
+  {
+   "id": "604d8aace920",
+   "title": "Pakistani TV anchorperson shot dead at home in Rawalpindi; husband held",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistani-tv-anchorperson-shot-dead-at-home-in-rawalpindi-husband-held/article71682342.ece",
+   "date": "2026-11-09T12:35:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "According to the CPO, a male domestic worker at the house told police that the victim's husband had claimed that the gunshot was fired accidentally.",
+   "score": 3
   }
  ]
 }
