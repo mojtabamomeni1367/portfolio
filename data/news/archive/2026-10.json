@@ -1,7 +1,876 @@
 {
  "month": "2026-10",
- "count": 75,
+ "count": 105,
  "items": [
+  {
+   "id": "de16177c1ec3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039748/6-terrorists-killed-2-soldiers-martyred-during-dera-ismail-khan-ibo-ispr",
+   "date": "2026-10-25T17:18:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
+   "title_en": "6 terrorists killed, 2 soldiers martyred during Dera Ismail Khan IBO: ISPR",
+   "summary_en": "Pakistani security forces killed six militants and lost two soldiers during an intelligence-based operation in Khyber Pakhtunkhwa's Dera Ismail Khan district, according to the military's media wing.",
+   "body_en": [
+    "Inter-Services Public Relations stated that the raid occurred on Saturday in the Zarkani area targeting members of the banned Tehreek-i-Taliban Pakistan, whom the military described as foreign-sponsored. The military confirmed the deaths of Naik Ghulam Murtaza and Sepoy Taseer Ahmed during the fighting, adding that weapons and ammunition were seized from the slain militants.",
+    "The military said a clearance operation was launched to track down any remaining militants in the area, emphasizing that its counterterrorism campaign will continue to eradicate terrorism. The operation follows a reported 50 percent surge in militant attacks across Khyber Pakhtunkhwa between July and August."
+   ],
+   "title_fa": "روابط عمومی ارتش پاکستان: ۶ تروریست کشته و ۲ سرباز در عملیات اطلاعات‌محور در دره اسماعیل‌خان جان باختند",
+   "summary_fa": "به گفته شاخه رسانه‌ای ارتش پاکستان، نیروهای امنیتی این کشور در یک عملیات اطلاعات‌محور در منطقه دره اسماعیل‌خان در خیبر پختونخوا، شش شبه‌نظامی را کشتند و دو سرباز نیز جان خود را از دست دادند.",
+   "body_fa": [
+    "روابط عمومی ارتش پاکستان اعلام کرد که این یورش روز شنبه در منطقه زرکانی علیه اعضای گروه ممنوعه تحریک طالبان پاکستان انجام شد که ارتش آنها را وابسته به حامیان خارجی توصیف کرد. ارتش تایید کرد که نایک غلام مرتضی و سپوی تاثیر احمد در جریان درگیری‌ها کشته شده‌اند و افزود مقادیری سلاح و مهمات از شبه‌نظامیان کشته‌شده به دست آمده است.",
+    "ارتش اعلام کرد برای پاکسازی منطقه از سایر شبه‌نظامیان احتمالی، عملیاتی در حال انجام است و تاکید کرد کارزار مبارزه با تروریسم برای نابودی این تهدیدات ادامه خواهد داشت. این عملیات در پی گزارش‌هایی مبنی بر افزایش ۵۰ درصدی حملات شبه‌نظامیان در خیبر پختونخوا میان ماه‌های ژوئیه و اوت صورت گرفته است."
+   ],
+   "title_ar": "مقتل 6 إرهابيين واستشهاد جنديين خلال عملية استخباراتية في ديرا إسماعيل خان: العلاقات العامة للجيش الباكستاني",
+   "summary_ar": "أفادت شعبة العلاقات العامة بالجيش الباكستاني بمقتل ستة مسلحين واستشهاد جنديين اثنين خلال عملية استخباراتية نفذتها القوات الأمنية في مقاطعة ديرا إسماعيل خان بإقليم خيبر بختونخوا.",
+   "body_ar": [
+    "وأوضحت العلاقات العامة للجيش الباكستاني أن العملية نُفذت يوم السبت في منطقة زركاني واستهدفت عناصر من حركة طالبان باكستان المحظورة، والذين وصفهم الجيش بأنهم مدعومون من الخارج. وأكد الجيش مقتل العريف غلام مرتضى والجندي تيسير أحمد خلال الاشتباكات، مشيراً إلى ضبط أسلحة وذخائر كانت بحوزة المسلحين القتلى.",
+    "وذكر الجيش أن عمليات تمشيط تجري للقضاء على أي عناصر مسلحة متبقية في المنطقة، مؤكداً استمرار حملته لمكافحة الإرهاب واستئصاله. وتأتي هذه العملية في أعقاب ارتفاع الهجمات المسلحة في إقليم خيبر بختونخوا بنسبة 50 في المئة بين شهري يوليو وأغسطس."
+   ]
+  },
+  {
+   "id": "d6a5a4caab6d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039736/israeli-strike-on-university-in-gaza-city-kills-3-another-4-palestinians-killed-in-separate-airstrikes",
+   "date": "2026-10-25T14:48:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+   "title_en": "Israeli strike on university in Gaza City kills 3; another 4 Palestinians killed in separate airstrikes",
+   "summary_en": "An Israeli drone strike on the Islamic University in Gaza City killed three administrative staff members and injured eight students, while four other Palestinians were killed in separate strikes across the territory.",
+   "body_en": [
+    "According to Gaza City's Al Shifa Hospital and university sources, the strike hit the Islamic University while students were attending classes. Gaza's education ministry condemned the attack, stating that 95 percent of higher education buildings in the territory have been damaged during the war. Reached for comment, the Israeli military stated it was looking into the reports.",
+    "Elsewhere in the Gaza Strip, civil defence officials reported four additional fatalities on Sunday, including two people killed in Khan Younis, one in Deir al Balah, and one in northern Gaza. Despite a ceasefire being in effect for over a year, officials report that Israeli strikes have continued, resulting in over 1,500 Palestinian deaths since the truce began."
+   ],
+   "title_fa": "حمله اسرائیل به دانشگاهی در شهر غزه ۳ کشته بر جای گذاشت؛ ۴ فلسطینی دیگر در حملات هوایی جداگانه کشته شدند",
+   "summary_fa": "حمله پهپادی اسرائیل به دانشگاه اسلامی در شهر غزه به کشته شدن سه تن از کارکنان اداری و زخمی شدن هشت دانشجو انجامید، در حالی که چهار فلسطینی دیگر در حملات جداگانه در سراسر این باریکه کشته شدند.",
+   "body_fa": [
+    "به گفته بیمارستان الشفاء و منابع دانشگاهی در شهر غزه، این حمله در حالی به دانشگاه اسلامی اصابت کرد که دانشجویان در کلاس‌های درس حضور داشتند. وزارت آموزش غزه با محکوم کردن این حمله اعلام کرد که ۹۵ درصد از ساختمان‌های آموزش عالی در این منطقه در طول جنگ آسیب دیده‌اند. ارتش اسرائیل در پاسخ به درخواست برای اظهار نظر اعلام کرد که در حال بررسی این گزارش‌ها است.",
+    "در سایر نقاط نوار غزه، مقامات دفاع مدنی روز یکشنبه از کشته شدن چهار نفر دیگر خبر دادند، از جمله دو نفر در خان یونس، یک نفر در دیرالبلح و یک نفر در شمال غزه. با وجود برقراری آتش‌بس برای بیش از یک سال، مقامات گزارش می‌دهند که حملات اسرائیل همچنان ادامه داشته و از زمان آغاز آتش‌بس به کشته شدن بیش از ۱۵۰۰ فلسطینی منجر شده است."
+   ],
+   "title_ar": "غارة إسرائيلية على جامعة في مدينة غزة تسفر عن مقتل 3؛ ومقتل 4 فلسطينيين آخرين في غارات جوية منفصلة",
+   "summary_ar": "أسفرت غارة بطائرة مسيرة إسرائيلية على الجامعة الإسلامية في مدينة غزة عن مقتل ثلاثة من الموظفين الإداريين وإصابة ثمانية طلاب، بينما قُتل أربعة فلسطينيين آخرين في غارات منفصلة في جميع أنحاء القطاع.",
+   "body_ar": [
+    "وفقاً لمستشفى الشفاء في مدينة غزة ومصادر جامعية، أصابت الغارة الجامعة الإسلامية أثناء تواجد الطلاب داخل القاعات الدراسية. وأدانت وزارة التربية والتعليم في غزة الهجوم، مشيرة إلى أن 95 في المائة من مباني التعليم العالي في القطاع تضررت خلال الحرب. ورداً على طلب للتعليق، قال الجيش الإسرائيلي إنه يتحقق من التقارير.",
+    "وفي مناطق أخرى من قطاع غزة، أفاد مسؤولون في الدفاع المدني بمقتل أربعة آخرين يوم الأحد، من بينهم شخصان في خان يونس، وشخص في دير البلح، وآخر في شمال غزة. ورغم سريان هدنة منذ أكثر من عام، يفيد المسؤولون بأن الغارات الإسرائيلية استمرت، مما أسفر عن مقتل أكثر من 1500 فلسطيني منذ بدء التهدئة."
+   ]
+  },
+  {
+   "id": "3a41108eb6c7",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+   "date": "2026-10-25T14:47:55Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "title_en": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "summary_en": "Rising global oil prices and living costs driven by the US-Israeli conflict with Iran have prompted several Western European nations to express opposition to potential renewed military escalation.",
+   "body_en": [
+    "Surging energy prices ahead of winter have exacerbated domestic protests across European capitals, leading leaders in nations like Britain, France, Germany, and Italy to advocate for diplomatic restraint over further military campaigns. European officials have expressed concern that an expanding conflict would worsen economic conditions and create serious fallout for energy markets.",
+    "The war has also exposed rifts regarding military access, as European countries adopted divergent policies toward US operations. While Germany and Britain offered base access under certain conditions, France restricted its involvement, and Spain closed its airspace and barred the use of joint bases for attacks, sparking threats of trade retaliation from US President Donald Trump."
+   ],
+   "title_fa": "جنگ آمریکا و اسرائیل علیه ایران چگونه در اروپا بحران ایجاد می‌کند؟",
+   "summary_fa": "افزایش بهای جهانی نفت و هزینه‌های زندگی ناشی از درگیری آمریکا و اسرائیل با ایران، سبب شده است تا چندین کشور اروپای غربی مخالفت خود را با تشدید دوباره تنش‌های نظامی ابراز کنند.",
+   "body_fa": [
+    "افزایش هزینه‌های انرژی در آستانه فصل زمستان به اعتراضات معیشتی در پایتخت‌های اروپایی دامن زده و رهبران کشورهایی چون بریتانیا، فرانسه، آلمان و ایتالیا را بر آن داشته است تا به جای پیگیری اقدامات نظامی بیشتر، خواستار خویشتنداری و مسیر دیپلماتیک شوند. مقامات اروپایی نگرانند که گسترش دامنه جنگ وضعیت اقتصادی و بهای سوخت را وخیم‌تر کند.",
+    "این جنگ همچنین شکاف‌هایی را بر سر دسترسی به پایگاه‌های نظامی نمایان کرده است؛ زیرا کشورهای اروپایی رویکردهای متفاوتی در برابر عملیات‌های آمریکا در پیش گرفته‌اند. در حالی که آلمان و بریتانیا دسترسی به پایگاه‌ها را تحت شرایطی مجاز دانستند، فرانسه مشارکت خود را محدود کرد و اسپانیا با ممنوعیت استفاده از پایگاه‌ها و بستن حریم هوایی خود، واکنش تند دونالد ترامپ و تهدید به قطع روابط تجاری را برانگیخت."
+   ],
+   "title_ar": "كيف تتسبب الحرب الأمريكية الإسرائيلية على إيران في إحداث فوضى في أوروبا؟",
+   "summary_ar": "أدى ارتفاع أسعار النفط العالمية وتكاليف المعيشة الناجم عن الصراع الأمريكي الإسرائيلي مع إيران إلى إعلان عدة دول في أوروبا الغربية معارضتها لأي تصعيد عسكري محتمل.",
+   "body_ar": [
+    "أدى ارتفاع أسعار الطاقة قبيل فصل الشتاء إلى تأجيج الاحتجاجات المعيشية في العواصم الأوروبية، مما دفع قادة دول مثل بريطانيا وفرنسا وألمانيا وإيطاليا إلى الدعوة لضبط النفس واللجوء للدبلوماسية بدلاً من شن حملات عسكرية جديدة. وأعرب مسؤولون أوروبيون عن قلقهم من أن يؤدي أي تصعيد إضافي إلى تدهور الأوضاع الاقتصادية وإلحاق أضرار بالغة بأسواق المحروقات.",
+    "كما كشفت الحرب عن انقسامات بشأن استخدام القواعد العسكرية، حيث تبنت الدول الأوروبية سياسات متباينة تجاه العمليات الأمريكية؛ فبينما سمحت ألمانيا وبريطانيا باستخدام قواعدهما ضمن شروط معينة، قيدت فرنسا مشاركتها، ومضت إسبانيا أبعد بإغلاق مجالها الجوي ومنع استخدام قواعدها المشتركة في الهجمات، مما أثار غضب الرئيس الأمريكي دونالد ترامب وتهديده بقطع التجارة مع مدريد."
+   ]
+  },
+  {
+   "id": "7166215c8918",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-killed-least-five-palestinians-gaza",
+   "date": "2026-10-25T12:46:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli attacks killed at least five Palestinians in Gaza",
+   "title_en": "Israeli attacks killed at least five Palestinians in Gaza",
+   "summary_en": "Israeli air and drone strikes across the Gaza Strip have killed at least five Palestinians and injured several others, according to local reports.",
+   "body_en": [
+    "In Khan Younis, an air strike on a group of people in the al-Sinaa area killed at least two Palestinians and wounded four, while a drone attack wounded several others in nearby al-Mawasi. Additionally, ambulance service sources reported that an Israeli air strike on the Islamic University Campus in northern Gaza City killed three people."
+   ],
+   "title_fa": "حملات اسرائیل دست‌کم پنج فلسطینی را در غزه کشت",
+   "summary_fa": "بر اساس گزارش‌های محلی، حملات هوایی و پهپادی اسرائیل در بخش‌های مختلف نوار غزه دست‌کم پنج فلسطینی را به شهادت رساند و چند نفر دیگر را مجروح کرد.",
+   "body_fa": [
+    "در خان یونس، حمله هوایی به تجمع مردم در منطقه الصناعه دست‌کم دو کشته و چهار مجروح برجای گذاشت و حمله پهپادی در نزدیکی المواصی نیز به زخمی شدن چند نفر دیگر انجامید. همچنین منابع امدادی گزارش دادند که حمله هوایی اسرائیل به محوطه دانشگاه اسلامی در شمال شهر غزه موجب کشته شدن سه نفر شد."
+   ],
+   "title_ar": "هجمات إسرائيلية تسفر عن مقتل خمسة فلسطينيين على الأقل في غزة",
+   "summary_ar": "أسفرت غارات جوية وهجمات بمسيرات إسرائيلية على مناطق متفرقة في قطاع غزة عن مقتل ما لا يقل عن خمسة فلسطينيين وإصابة آخرين، وفقاً لتقارير محلية.",
+   "body_ar": [
+    "في خان يونس، أدت غارة جوية استهدفت تجمعاً للمواطنين في منطقة الصناعة إلى مقتل فلسطينيين اثنين وإصابة أربعة آخرين، في حين أسفر هجوم بمسيرة عن جرح عدة أشخاص في منطقة المواصي المجاورة. كما أفادت مصادر الإسعاف بمقتل ثلاثة أشخاص إثر قصف جوي إسرائيلي استهدف الحرم الجامعي للجامعة الإسلامية شمال مدينة غزة."
+   ]
+  },
+  {
+   "id": "b4ee5aaf963a",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T12:36:08Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 8,
+   "title": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+   "title_en": "Two Israeli strikes target Islamic University in Gaza, causing casualties",
+   "summary_en": "Seven Palestinians were killed on Sunday in Israeli attacks across the Gaza Strip, including three university staff members killed when two separate Israeli strikes hit the Islamic University in Gaza City.",
+   "body_en": [
+    "The strikes on the Islamic University hit during class hours, killing three staff members and injuring several students, according to medical and university sources. The university suspended academic and administrative operations, while Hamas condemned the attack as a war crime. The Israeli military stated it targeted \"terrorist operatives\" and was looking into the details.",
+    "Elsewhere in the territory, strikes and gunfire killed two brothers in Khan Younis and two other Palestinians in Deir al Balah and northern Gaza. Despite a October 2025 ceasefire agreement mediated by the US, Egypt, and Qatar, localized strikes and military actions have continued across Gaza."
+   ],
+   "title_fa": "دو حمله هوایی اسرائیل دانشگاه اسلامی غزه را هدف قرار داد و کشته و زخمی بر جای گذاشت",
+   "summary_fa": "روز یکشنبه هفت فلسطینی در حملات اسرائیل در نقاط مختلف نوار غزه کشته شدند، از جمله سه تن از کارکنان دانشگاه که در پی دو حمله هوایی جداگانه اسرائیل به دانشگاه اسلامی در شهر غزه جان باختند.",
+   "body_fa": [
+    "به گفته منابع پزشکی و دانشگاهی، حملات به دانشگاه اسلامی در ساعات کلاس‌های درس رخ داد و باعث کشته شدن سه تن از کارکنان و زخمی شدن چند دانشجو شد. مدیریت دانشگاه فعالیت‌های آموزشی و اداری را به حالت تعلیق درآورد و حماس این حمله را به عنوان جنایت جنگی محکوم کرد. ارتش اسرائیل اعلام کرد که «عناصر تروریستی» را هدف قرار داده و در حال بررسی جزئیات است.",
+    "در دیگر نقاط این باریکه، حملات هوایی و تیراندازی به کشته شدن دو برادر در خان یونس و دو فلسطینی دیگر در دیرالبلح و شمال غزه انجامید. با وجود اتفاق وقف آتش‌بس در اکتبر ۲۰۲۵ با میانجی‌گری آمریکا، مصر و قطر، حملات هوایی و اقدامات نظامی محدود در سراسر غزه همچنان ادامه داشته است."
+   ],
+   "title_ar": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+   "summary_ar": "قتل سبعة فلسطينيين يوم الأحد في هجمات إسرائيلية متفرقة بقطاع غزة، من بينهم ثلاثة من موظفي الجامعة الإسلامية في مدينة غزة إثر غارتين إسرائيليتين منفصلتين استهدفتا الجامعة.",
+   "body_ar": [
+    "وقع القصف على الجامعة الإسلامية أثناء تواجد الطلاب في المحاضرات، مما أسفر عن مقتل ثلاثة من العاملين وإصابة عدد من الطلاب، وفقاً لمصادر طبية وجامعية. وأعلنت إدارة الجامعة تعليق الدوام، في حين أدانت حركة حماس الهجوم واعتبرته جريمة حرب. وأفاد الجيش الإسرائيلي بأنه استهدف \"عناصر إرهابية\" وأنه يتحقق من التفاصيل.",
+    "وفي مناطق أخرى من القطاع، أسفرت الغارات وإطلاق النار عن مقتل شقيقين في خان يونس وفلسطينيَيْن آخرَيْن في دير البلح وشمال غزة. ورغم استمرار اتفاق وقف إطلاق النار المبرم في أكتوبر/تشرين الأول 2025 بوساطة أمريكية ومصرية وقطرية، لم تتوقف الغارات وإطلاق النار بشكل كامل."
+   ]
+  },
+  {
+   "id": "83d9e574cdce",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+   "date": "2026-10-25T11:39:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "title_en": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "summary_en": "US Central Command has drawn up military options for potential renewed strikes against Iran, leaving the final decision on authorization to President Donald Trump.",
+   "body_en": [
+    "Reports from The Hill and Axios indicate that CENTCOM and military planners have prepared potential options targeting Iranian energy facilities, infrastructure, and nuclear sites, particularly following the November 3 US midterm elections. While President Trump hinted a strike could happen rapidly or lead to a new agreement, he has not issued an order to attack, and the US is deploying additional naval and troop forces to the region.",
+    "In response, Iranian President Masoud Pezeshkian accused Washington of derailing negotiations while calling for continued diplomatic efforts. Simultaneously, Iranian military officials warned of a shift to an offensive doctrine, targeting US-aligned nations and maritime interests if attacked, alongside claims of shooting down a US-developed drone near Bandar Abbas."
+   ],
+   "title_fa": "طبق گزارش‌ها، سنتکام طرح‌هایی برای حمله به ایران دارد: آیا ترامپ آن‌ها را تأیید خواهد کرد؟",
+   "summary_fa": "فرماندهی مرکزی ایالات متحده (سنتکام) گزینه‌های نظامی را برای حملات جدید احتمالی علیه ایران آماده کرده است و تصمیم‌گیری نهایی را به دونالد ترامپ، رئیس‌جمهور آمریکا واگذار کرده است.",
+   "body_fa": [
+    "گزارش‌های نشریات هیل و آکسیوس نشان می‌دهد که سنتکام و طراحان نظامی گزینه‌هایی را برای هدف قرار دادن تأسیسات انرژی، زیرساخت‌ها و سایت‌های هسته‌ای ایران، به‌ویژه پس از انتخابات میان‌دوره‌ای ۳ نوامبر آمریکا آماده کرده‌اند. در حالی که پرزیدنت ترامپ اشاره کرده که حمله می‌تواند به سرعت رخ دهد یا به یک توافق جدید منجر شود، او هنوز دستور حمله‌ای صادر نکرده است، هرچند ایالات متحده در حال اعزام نیروها و ناوهای جنگی بیشتری به منطقه است.",
+    "در پاسخ، مسعود پزشکیان، رئیس‌جمهور ایران، واشنگتن را به برهم زدن مذاکرات متهم کرد و در عین حال خواهان ادامه تلاش‌های دیپلماتیک شد. هم‌زمان، مقامات نظامی ایران در مورد تغییر دکترین نظامی به حالت تهاجمی و هدف قرار دادن کشورهای هم‌پیمان آمریکا و منافع دریایی در صورت وقوع حمله هشدار دادند و هم‌زمان از سرنگونی یک پهپاد ساخت آمریکا در نزدیکی بندرعباس خبر دادند."
+   ],
+   "title_ar": "تقارير تفيد بأن سنتكوم لديها خطط لضربات ضد إيران: هل سيوافق عليها ترامب؟",
+   "summary_ar": "أعدت القيادة المركزية الأمريكية خيارات عسكرية لضربات جديدة محتملة ضد إيران، مع ترك القرار النهائي للتفويض للرئيس دونالد ترامپ.",
+   "body_ar": [
+    "تعد تقارير موقعي \"ذا هيل\" و\"أكسيوس\" إشارة إلى أن سنتكوم والمخططين العسكريين أعدوا خيارات تستهدف المنشآت النفطية والبنية التحتية والمواقع النووية الإيرانية، لاسيما بعد انتخابات منتصف الولاية الأمريكية في 3 نوفمبر. ورغم إشارة الرئيس ترامب إلى أن الضربة قد تحدث سريباً أو تؤدي إلى اتفاق جديد، فإنه لم يصدر أمراً بالهجوم، بينما تنشر الولايات المتحدة قوات ومجموعات حاملات طائرات إضافية في المنطقة.",
+    "ورداً على ذلك، اتهم الرئيس الإيراني مسعود پزشکیان واشنطن بتعطيل المفاوضات مع التأكيد على ضرورة استمرار الجهود الدبلوماسية. في الوقت نفسه، حذر مسؤولون عسكريون إيرانيون من تحول إلى عقيدة هجومية تستهدف الدول المحالفة للولايات المتحدة والمصالح البحرية في حال تعرضها للهجوم، إلى جانب الإعلان عن إسقاط طائرة مسيرة أمريكية الصنع قرب بندر عباس."
+   ]
+  },
+  {
+   "id": "cf3a2b462f4b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood",
+   "date": "2026-10-25T11:03:05Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+   "title_en": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+   "summary_en": "An Israeli settler movement has filed an application to construct a new 122-unit Jewish neighbourhood in East Jerusalem's Sheikh Jarrah area. The project is planned at the former site of the Shepherd Hotel.",
+   "body_en": [
+    "The proposal, submitted by the Amara movement to the planning association, is set for an initial review by Jerusalem's Local Planning and Building Committee on 11 November. If approved, the project will mark the first settlement development by the group in Sheikh Jarrah, despite its longstanding role in settlement expansion across the occupied Palestinian territories since the 1970s.",
+    "The construction is slated for the location of the historic Shepherd Hotel, also known as the \"Mufti's House,\" which was built in the 1930s for Haj Amin al-Husseini and demolished in 2009."
+   ],
+   "title_fa": "ارائه پیشنهاد یک گروه شهرک‌نشین اسرائیلی برای ساخت شهرک یهودی جدید در محله شیخ جراح",
+   "summary_fa": "یک جنبش شهرک‌نشین اسرائیلی درخواستی را برای ساخت یک محله یهودی جدید شامل ۱۲۲ واحد مسکونی در منطقه شیخ جراح در قدس شرقی ارائه داده است. این پروژه برای محل سابق هتل شپرد برنامه‌ریزی شده است.",
+   "body_fa": [
+    "این پیشنهاد که توسط جنبش عماره به انجمن برنامه‌ریزی ارائه شده، قرار است در ۱۱ نوامبر در کمیته محلی برنامه‌ریزی و ساخت‌وساز اورشلیم مورد بررسی اولیه قرار گیرد. در صورت تصویب، با وجود پیشینه طولانی این گروه از دهه ۱۹۷۰ در توسعه شهرک‌سازی در اراضی اشغالی فلسطین، این پروژه نخستین شهرک‌سازی آن در محله شیخ جراح خواهد بود.",
+    "محل در نظر گرفته‌شده برای این ساخت‌وساز، موقعیت هتل تاریخی شپرد است که به «خانه مفتی» نیز شهرت دارد؛ ساختمانی که در دهه ۱۹۳۰ برای حاج امین الحسینی ساخته و در سال ۲۰۰۹ تخریب شد."
+   ],
+   "title_ar": "جماعة استيطانية إسرائيلية تقدم مقترحات لإنشاء مستوطنة يهودية جديدة في حي الشيخ جراح",
+   "summary_ar": "قدمت حركة استيطانية إسرائيلية طلباً لبناء حي يهودي جديد يضم 122 وحدة سكنية في منطقة الشيخ جراح بالقدس الشرقية. ومن المقرر إقامة المشروع في الموقع السابق لفندق شيبرد.",
+   "body_ar": [
+    "من المقرر أن تعقد اللجنة المحلية للتخطيط والبناء في القدس جلسة استماع أولية بشأن المقترح، الذي قدمته حركة \"عمارة\" لجمعية التخطيط، في 11 نوفمبر. وفي حال الموافقة عليه، سيمثل هذا المشروع أول مستوطنة تنشئها هذه الجماعة في حي الشيخ جراح، على الرغم من دورها البارز في توسيع المستوطنات في الأراضي الفلسطينية المحتلة منذ سبعينيات القرن الماضي.",
+    "ومن المزمع تنفيذ أعمال البناء في موقع فندق شيبرد التاريخي، المعروف أيضاً باسم \"منزل المفتي\"، والذي شُيد في ثلاثينيات القرن العشرين للوزير الأسبق للقدس الحاج أمين الحسيني، قبل أن يُهدم في عام 2009."
+   ]
+  },
+  {
+   "id": "9b10c6634fe1",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+   "date": "2026-10-25T10:50:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+   "title_en": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+   "summary_en": "Iranian authorities are expanding a nationwide public mobilisation campaign called \"Janfada\" to train and arm civilians amid fears of renewed military conflict with the United States and Israel. The effort involves public street booths and military exercises organised by state bodies and the Basij militia across numerous provinces.",
+   "body_en": [
+    "Launched in late March during the height of the conflict, the campaign offers training on weapons handling to volunteers of all ages, with a particular focus on youth and children in schools. The Revolutionary Guard aims to set up training stations in multiple public squares in Tehran and every provincial capital, holding armed drills, motorcades, and events in major urban centers.",
+    "While the government claims 33 million citizens have registered on the campaign's website, overseas activists who inspected the platform's source code reported fewer than four million sign-ups. Officials state the enlistees could assist in rescue missions, civil services, and economic resilience, though rights groups have described the armed displays as intimidation following the state's crackdown on nationwide protests."
+   ],
+   "title_fa": "گسترش سراسری کارزار بسیج «جان‌فدا» توسط مقامات ایران",
+   "summary_fa": "مقامات ایرانی هم‌زمان با تشدید نگرانی‌ها از احتمال ازسرگیری درگیری نظامی با ایالات متحده و اسرائیل، در حال گسترش کارزار سراسری بسیج مردمی موسوم به «جان‌فدا» برای آموزش و تسلیح غیرنظامیان هستند. این طرح شامل برپایی غرفه‌های خیابانی و تمرین‌های نظامی توسط نهادهای دولتی و نیروی مقاومت بسیج در استان‌های مختلف است.",
+   "body_fa": [
+    "این کارزار که در اواخر ماه مارس و در اوج جنگ آغاز شد، آموزش به‌کارگیری سلاح را به داوطلبان در تمامی گروه‌های سنی با تمرکز ویژه بر جوانان و دانش‌آموزان در مدارس ارائه می‌دهد. سپاه پاسداران قصد دارد در چندین میدان اصلی تهران و مراکز همه استان‌ها ایستگاه‌های آموزشی برپا کند، و هم‌اکنون نیز رزمایش‌های مسلحانه و برنامه‌هایی را در شهرهای بزرگ و کوچک اجرا کرده است.",
+    "در حالی که دولت مدعی ثبت‌نام ۳۳ میلیون نفر در سامانه این کارزار شده، فعالان خارج از کشور پس از بررسی کدهای منبع این سامانه اعلام کردند شمار ثبت‌نام‌شدگان کمتر از چهار میلیون نفر است. مقامات می‌گویند ثبت‌نام‌کنندگان می‌توانند در امدادرسانی، خدمات اجتماعی و تاب‌آوری اقتصادی کمک کنند، اما گروه‌های حقوق بشری این مانورهای مسلحانه را تلاشی برای ارعاب پس از سرکوب اعتراضات سراسری دانسته‌اند."
+   ],
+   "title_ar": "السلطات الإيرانية توسع حملة التعبئة \"جانفدا\" لتشمل أنحاء البلاد",
+   "summary_ar": "تعمل السلطات الإيرانية على توسيع حملة تعبئة عامة في جميع أنحاء البلاد تُعرف باسم \"جانفدا\" لتدريب المدنيين وتسليحهم، وسط مخاوف من تجدد النزاع العسكري مع الولايات المتحدة وإسرائيل. وتشمل هذه المبادرة منصات في الشوارع ومناورات عسكرية تنظمها أجهزة الدولة وقوات الباسيج في عدة محافظات.",
+   "body_ar": [
+    "تقدم الحملة، التي انطلقت أواخر مارس في ذروة الحرب، تدريبات على استخدام الأسلحة للمتطوعين من جميع الفئات العمرية، مع التركيز على فئتي الشباب وطلاب المدارس. ويسعى الحرس الثوري الإيراني لإقامة نقاط تدريب في ساحات رئيسية بطهران ومراكز المحافظات، تزامناً مع إجراء مناورات مسلحة ومسيرات في مدن كبرى.",
+    "وفي حين أعلنت الحكومة عن تسجيل 33 مليون إيراني عبر الموقع الإلكتروني للحملة، ذكر نشطاء في الخارج بعد الاطلاع على الشيفرة المصدرية للموقع أن عدد المسجلين لم يتجاوز أربعة ملايين. ويؤكد المسؤولون إمكانية الاستعانة بهؤلاء المتطوعين في عمليات الإغاثة والخدمات الاجتماعية والدعم الاقتصادي، بينما اعتبرت منظمات حقوقية هذه العروض المسلحة مساعي للترهيب عقب قمع الاحتجاجات التي عمت البلاد."
+   ]
+  },
+  {
+   "id": "51dc08895767",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-second-holocaust-if-he-loses-israeli-elections",
+   "date": "2026-10-25T10:33:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+   "title_en": "Netanyahu warns of second Holocaust if he loses Israeli elections",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu warned of a \"second Holocaust\" if he loses the upcoming elections, posting the remark on social media alongside an AI-generated image of a nuclear blast. He shared text arguing that political opposition against him would leave Israel vulnerable to the Iranian nuclear threat.",
+   "body_en": [
+    "In a post on X, Netanyahu shared a text by Yuval Bloomberg urging voters not to let political opposition to the prime minister determine their vote. The text asserted that failing to keep Netanyahu in power to complete the mission against Iran's nuclear threat would condemn Israeli families to existential catastrophe."
+   ],
+   "title_fa": "نتانیاهو درباره وقوع «هولوکاست دوم» در صورت شکست در انتخابات اسرائیل هشدار داد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با انتشار تصویری تولیدشده توسط هوش مصنوعی از یک انفجار هسته‌ای در شبکه‌های اجتماعی، هشدار داد که شکست او در انتخابات آتی به یک «هولوکاست دوم» منجر خواهد شد. او متنی را به اشتراک گذاشت که بر اساس آن، مخالفت‌های سیاسی با وی می‌تواند اسرائیل را در برابر تهدید هسته‌ای ایران آسیب‌پذیر کند.",
+   "body_fa": [
+    "نتانیاهو در پستی در شبکه اجتماعی ایکس، متنی به قلم یووال بلومبرگ را منتشر کرد که از رای‌دهندگان می‌خواست اجازه ندهند مخالفت‌های سیاسی با او مسیر رأی آنها را مشخص کند. در این متن ادعا شده بود که کنار رفتن نتانیاهو از قدرت پیش از اتمام ماموریت در برابر تهدید هسته‌ای ایران، خانواده‌های اسرائیلی را با خطر نابودی مواجه خواهد کرد."
+   ],
+   "title_ar": "نتنياهو يحذر من \"محرقة ثانية\" إذا خسر الانتخابات الإسرائيلية",
+   "summary_ar": "حذر رئيس الوزراء الإسرائيلي بنيامين نتنياهو من وقوع \"محرقة ثانية\" إذا خسر الانتخابات المقبلة، ناشراً ذلك على منصات التواصل الاجتماعي مع صورة تم إنشاؤها بالذكاء الاصطناعي لانفجار نووي. وشارك نتنياهو نصاً اعتبر فيه أن معارضته سياسياً ستجعل إسرائيل عاجزة أمام التهديد النووي الإيراني.",
+   "body_ar": [
+    "وفي منشور عبر منصة إكس، شارك نتنياهو نصاً للكاتب يوفال بلومبرغ يدعو فيه الناخبين إلى عدم جعل الخصومة السياسية لنتنياهو هي الموجه لأصواتهم. وأكد النص أن عدم بقاء نتنياهو في السلطة لإنجاز المهمة ضد الخطر النووي الإيراني سيعرض عائلات الإسرائيليين لخطر كارثة وجودية."
+   ]
+  },
+  {
+   "id": "5e29cdb0aa63",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+   "date": "2026-10-25T10:14:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+   "title_en": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+   "summary_en": "US President Donald Trump used sarcasm to deflect a reporter's question regarding possible renewed strikes on Iran, remarking that economic inflation could drive Tehran into an agreement. Meanwhile, Iranian President Masoud Pezeshkian blamed the United States for undermining negotiations aimed at resolving the conflict.",
+   "body_en": [],
+   "title_fa": "تمسخر خبرنگار توسط ترامپ در پاسخ به پرسشی درباره حمله به ایران هم‌زمان با انتقاد تهران از واشینگتن در برهم‌زدن مذاکرات",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در پاسخ به پرسش یک خبرنگار درباره احتمال حملات تازه علیه ایران پاسخی کنایه‌آمیز داد و بیان کرد که تورم اقتصادی ممکن است تهران را ناچار به توافق کند. در همین حال، مسعود پزشکیان، رئیس‌جمهور ایران، آمریکا را به اخلال در مذاکرات برای پایان دادن به جنگ متهم کرد.",
+   "body_fa": [],
+   "title_ar": "ترامب يسخر من صحفي سأل عن توجيه ضربات لإيران، وطهران تتهم واشنطن بتعطيل المحادثات",
+   "summary_ar": "رد الرئيس الأمريكي دونالد ترامب بسخرية على سؤال وجهه صحفي حول إمكانية تجدد الهجمات على إيران، مشيراً إلى أن التضخم قد يدفع طهران إلى إبرام اتفاق. وفي غضون ذلك، اتهم الرئيس الإيراني مسعود بزشكيان الولايات المتحدة بتعطيل المحادثات الرامية لإنهاء الحرب.",
+   "body_ar": []
+  },
+  {
+   "id": "5ba887372715",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039716/resumption-of-war-with-with-israel-us-will-not-change-irans-positions-araghchi",
+   "date": "2026-10-25T09:44:40Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Resumption of war with with Israel, US will not change Iran's positions: Araghchi",
+   "title_en": "Resumption of war with with Israel, US will not change Iran's positions: Araghchi",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that a potential restart of the war with the United States and Israel would not alter Iran's positions. He remarked that any renewed conflict would yield the same outcomes as past confrontations.",
+   "body_en": [
+    "Speaking during a televised event in Tehran, Araghchi addressed rising threats from Washington and Israel, asserting that Iranian policies remain unchanged regardless of whether war breaks out. He also noted that regional peace requires the total departure of foreign forces, adding that shipping conditions and governance of the Strait of Hormuz will no longer operate as they did in the past.",
+    "An April ceasefire had paused the most severe hostilities, though periodic fire has persisted around the Strait of Hormuz, where Iran claims control and has struck unauthorised vessels amid a counter-blockade by the US Navy. While both parties agreed to a resolution framework in Islamabad in June, the arrangement subsequently broke down over mutual accusations of violations."
+   ],
+   "title_fa": "عراقچی: ازسرگیری جنگ با اسرائیل و آمریکا مواضع ایران را تغییر نخواهد داد",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که ازسرگیری احتمالی جنگ با ایالات متحده و اسرائیل مواضع تهران را تغییر نخواهد داد. وی تاکید کرد که هرگونه درگیری مجدد همان نتایج گذشته را در پی خواهد داشت.",
+   "body_fa": [
+    "عراقچی طی مراسمی تلویزیونی در تهران با اشاره به افزایش تهدیدهای واشنگتن و اسرائیل اظهار داشت که سیاست‌های ایران با وقوع یا عدم وقوع جنگ تغییر نخواهد کرد. وی همچنین تأکید کرد که دستیابی به صلح نیازمند خروج کامل نیروهای خارجی است و شرایط کشتیرانی و مدیریت تنگه هرمز دیگر همانند گذشته نخواهد بود.",
+    "آتش‌بس فروردین‌ماه به شدیدترین درگیری‌ها پایان داد، هرچند تبادل پراکنده آتش در اطراف تنگه هرمز همچنان ادامه داشته است؛ جایی که ایران مدعی کنترل بر آن بوده و شناورهای فاقد مجوز را هدف قرار داده، در حالی که نیروی دریایی آمریکا نیز بنادر ایران را تحت محاصره متقابل قرار داده است. دو طرف در خردادماه به تفاهم‌نامه‌ای در اسلام‌آباد دست یافتند، اما این توافق در پی اتهامات متقابل مبنی بر نقض آن بی‌نتیجه ماند."
+   ],
+   "title_ar": "عراقجي: استئناف الحرب مع إسرائيل والولايات المتحدة لن يغير مواقف إيران",
+   "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن أي استئناف محتمل للحرب مع الولايات المتحدة وإسرائيل لن يغير مواقف بلاده. وأكد أن أي مواجهة جديدة لن تسفر عن نتائج مختلفة عما سبق.",
+   "body_ar": [
+    "وخلال فعالية متلفزة في طهران، تطرق عراقجي إلى التهديدات المتزايدة من واشنطن وإسرائيل، مؤكداً أن سياسات بلاده لن تتغير سواء اندلعت الحرب أم لم تندلع. وأوضح أن تحقيق السلام يستدعي الغياب التام للقوات الأجنبية، مشيراً إلى أن الملاحة وإدارة مضيق هرمز لن تعودا إلى ما كانتا عليه في السابق.",
+    "وكان وقف إطلاق النار المبرم في أبريل قد أنهى أعنف المواجهات، رغم استمرار تبادل إطلاق النار المتقطع حول مضيق هرمز، حيث تفرض إيران سيطرتها وتستهدف السفن غير المصرح بها في ظل حصار بحري أمريكي مضاد لموانئها. ورغم توصل الطرفين إلى تفاهم في إسلام آباد في يونيو، فإن الاتفاق تعثر لاحقاً إثر تبادل الاتهامات بخرقه."
+   ]
+  },
+  {
+   "id": "a95a10bc1d3a",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T09:30:05Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 8,
+   "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
+   "title_en": "Saudi Arabia announces interception and destruction of 10 Ansar Allah missiles as flights resume at Riyadh airport",
+   "summary_en": "Saudi authorities reported intercepting and destroying ballistic and cruise missiles launched by the Houthi Ansar Allah movement toward the kingdom, as Riyadh's King Khalid International Airport resumed operations following a two-week suspension.",
+   "body_en": [
+    "According to the Saudi Press Agency, coalition forces intercepted 10 ballistic missiles and a cruise missile directed toward the southern region, as well as another ballistic missile aimed at Riyadh. Three explosions were heard in the capital, where residents received alert messages advising them to seek shelter.",
+    "The military escalation coincided with King Khalid International Airport resuming flights after a closure caused by an earlier Houthi attack, even as the group renewed warnings against using the facility, declaring it a military target."
+   ],
+   "title_fa": "عربستان سعودی از رهگیری و انهدام ۱۰ موشک انصارالله هم‌زمان با ازسرگیری پروازها در فرودگاه ریاض خبر داد",
+   "summary_fa": "مقامات عربستان سعودی از رهگیری و انهدام چندین موشک بالستیک و کروز شلیک‌شده توسط حوثی‌های انصارالله به سوی این کشور، هم‌زمان با بازگشایی فرودگاه بین‌المللی ملک خالد ریاض پس از دو هفته تعلیق، خبر دادند.",
+   "body_fa": [
+    "به گزارش خبرگزاری رسمی عربستان، نیروهای ائتلاف ۱۰ موشک بالستیک و یک موشک کروز شلیک‌شده به سوی مناطق جنوبی و همچنین یک موشک بالستیک را به مقصد ریاض رهگیری و منهدم کردند. در پی این حملات، صدای سه انفجار در پایتخت شنیده شد و هشدارهایی برای پناه گرفتن شهروندان ارسال گردید.",
+    "این تنش هم‌زمان با ازسرگیری پروازها در فرودگاه ملک خالد پس از تعطیلی ناشی از حمله پیشین حوثی‌ها صورت گرفت، در حالی که این گروه بار دیگر با «هدف نظامی» خواندن این فرودگاه، درباره استفاده از آن هشدار داد."
+   ],
+   "title_ar": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
+   "summary_ar": "أعلنت السلطات السعودية اعتراض وتدمير عدد من الصواريخ الباليستية والمجنحة أطلقتها جماعة أنصار الله الحوثية باتجاه المملكة، وذلك تزامناً مع إعادة تشغيل مطار الملك خالد الدولي بالرياض بعد توقف دام أسبوعين.",
+   "body_ar": [
+    "أفادت وكالة الأنباء السعودية باعتراض قوات التحالف لعشرة صواريخ باليستية وآخر مجنح أُطلقت نحو جنوب المملكة، إضافة إلى إسقاط صاروخ باليستي استهدف الرياض. وتزامن ذلك مع سماع ثلاثة انفجارات في العاصمة وتوجيه رسائل تحذيرية للسكان للاحتماء.",
+    "وجاء هذا التصعيد مع استئناف مطار الملك خالد لرحلاته بعد إغلاقه إثر هجوم سابق تبناه الحوثيون، في حين جددت الجماعة تحذيرها من استخدام المطار معتبرة إياه هدفاً عسكرياً."
+   ]
+  },
+  {
+   "id": "4790f35f69aa",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-as-airport-prepares-to-reopen/article71622928.ece",
+   "date": "2026-10-25T09:29:46Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Explosions heard in Saudi capital as airport prepares to reopen",
+   "title_en": "Explosions heard in Saudi capital as airport prepares to reopen",
+   "summary_en": "Explosions were heard in Riyadh as Saudi Arabia prepared to reopen its international airport after a two-week closure triggered by Houthi strikes. The Saudi-led coalition said it intercepted a ballistic missile and drones targeted at the capital, as well as a cruise missile aimed at Khamis Mushait.",
+   "body_en": [
+    "Residents in the Saudi capital received mobile alerts about an aerial threat following the morning blasts, as the coalition confirmed downing projectiles launched by the Houthis. Meanwhile, the Houthi military spokesman warned airlines and passengers against using Riyadh's King Khalid Airport, reiterating that it remains a military target.",
+    "The latest strikes follow earlier barrages against airports, an air base, and energy infrastructure, along with attacks claimed in southern Yemen. The escalations disrupted business and travel across the kingdom, while the Houthis denied Saudi assertions that missiles had targeted the holy cities of Mecca and Medina."
+   ],
+   "title_fa": "شنیده شدن صدای انفجار در پایتخت عربستان هم‌زمان با آماده‌سازی فرودگاه برای بازگشایی",
+   "summary_fa": "هم‌زمان با آماده‌سازی عربستان سعودی برای بازگشایی فرودگاه بین‌المللی ریاض پس از دو هفته تعطیلی ناشی از حملات حوثی‌ها، صدای انفجارهایی در پایتخت شنیده شد. ائتلاف تحت رهبری عربستان اعلام کرد که یک موشک بالستیک و پهپادهایی را به مقصد پایتخت و همچنین یک موشک کروز شلیک‌شده به سوی خمیس مشیط را رهگیری کرده است.",
+   "body_fa": [
+    "به دنبال انفجارهای صبحگاهی، ساکنان پایتخت عربستان پیام‌های هشداری مبنی بر تهدید هوایی دریافت کردند، در حالی که ائتلاف سرنگونی پرتابه‌های شلیک‌شده توسط حوثی‌ها را تأیید کرد. هم‌زمان، سخنگوی نظامی حوثی‌ها مجدداً به شرکت‌های هواپیمایی و مسافران هشدار داد که از فرودگاه ملک خالد ریاض استفاده نکنند زیرا همچنان یک هدف نظامی است.",
+    "این حملات پس از آن رخ داد که تأسیسات انرژی، پایگاه‌های هوایی و فرودگاه‌ها هدف قرار گرفتند. این تنش‌ها فعالیت‌های تجاری و پروازها را در سراسر عربستان با اختلال مواجه کرده است، در حالی که حوثی‌ها ادعای مقامات سعودی مبنی بر هدف‌گیری شهرهای مکه و مدینه را تکذیب کردند."
+   ],
+   "title_ar": "سماع دوي انفجارات في العاصمة السعودية بالتزامن مع استعداد المطار لإعادة الفتح",
+   "summary_ar": "سُمع دوي انفجارات في الرياض بينما تستعد السعودية لإعادة فتح مطارها الدولي بعد إغلاق دام أسبوعين جراء ضربات الحوثيين. وأعلن التحالف الذي تقوده الرياض اعتراض صاروخ باليستي وطائرات مسيرة وُجهت للعاصمة، بالإضافة إلى صاروخ مجنح استهدف خميس مشيط.",
+   "body_ar": [
+    "تلقى سكان العاصمة السعودية رسائل تحذيرية عبر هواتفهم من تهديد جوي عقب الانفجارات الصباحية، في وقت أكد فيه التحالف إسقاط مقذوفات أطلقها الحوثيون. في المقابل، جدد المتحدث العسكري للحوثيين تحذير شركات الطيران والمسافرين من استخدام مطار الملك خالد، واصفاً إياه بأنه هدف عسكري.",
+    "وتأتي هذه الهجمات بعد استهدافات طالت مطارات ومنشآت طاقة وقاعدة جوية، في حين نفت الجماعة مزاعم سعودية باستهداف مدينتي مكة والمدينة، مؤكدة أنها لم تستهدفهما."
+   ]
+  },
+  {
+   "id": "06b46e09ee3a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039710/terrorist-commander-killed-during-ibo-in-balochistans-qila-saifullah-state-media",
+   "date": "2026-10-25T09:03:13Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+   "title_en": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+   "summary_en": "Pakistani security forces killed a commander belonging to the banned Tehreek-i-Taliban Pakistan during an intelligence-based operation in Balochistan's Qila Saifullah district, state media reported. The slain operative, identified as Adil Shah, managed the group's finances and carried a bounty on his head.",
+   "body_en": [
+    "According to security sources cited by Radio Pakistan, Shah had been linked to the group since December 2020 and took charge of its financial network in 2024. He was accused of organizing lodging for foreign fighters, orchestrating attacks on security personnel, and involvement in ransom kidnappings, leading to 19 cases filed against him and a Rs2.5 million bounty.",
+    "Balochistan Chief Minister Sarfraz Bugti praised the forces' expertise following the raid. The operation comes as the province faces a surge in militant violence, representing the majority of nationwide attacks reported during a recent rise in fatalities."
+   ],
+   "title_fa": "رسانه‌های دولتی: کشته شدن یکی از فرماندهان تروریست در عملیات اطلاعات‌محور در قلعه سیف‌الله بلوچستان",
+   "summary_fa": "به گزارش رسانه‌های دولتی، نیروهای امنیتی پاکستان در جریان یک عملیات مبتنی بر داده‌های اطلاعاتی در منطقه قلعه سیف‌الله بلوچستان، یکی از فرماندهان گروه ممنوعه تحریک طالبان پاکستان را کشتند. این فرد که عادل شاه نام دارد، مسئولیت امور مالی این گروه را بر عهده داشت و برای دستگیری‌اش جایزه تعیین شده بود.",
+   "body_fa": [
+    "بر اساس گزارش رادیو پاکستان به نقل از منابع امنیتی، عادل شاه از دسامبر ۲۰۲۰ با این گروه همکاری داشته و از سال ۲۰۲۴ امور مالی آن را اداره می‌کرده است. وی متهم به اسکان جنگجویان خارجی، انجام حملات علیه نیروهای امنیتی و آدم‌ربایی برای باج‌گیری بود؛ اتهاماتی که به ثبت ۱۹ پرونده و تعیین جایزه ۲.۵ میلیون روپیه‌ای برای او انجامیده بود.",
+    "سرفراز بوگتی، سروزیر بلوچستان، از مهارت نیروهای امنیتی پس از این عملیات قدردانی کرد. این درگیری در شرایطی رخ می‌دهد که این استان شاهد افزایش حملات شبه‌نظامیان بوده و بیشترین سهم از حملات و تلفات اخیر در سراسر کشور را به خود اختصاص داده است."
+   ],
+   "title_ar": "وسائل إعلام رسمية: مقتل قيادي إرهابي خلال عملية أمنية استخباراتية في قلعة سيف الله ببلوشستان",
+   "summary_ar": "ذكرت وسائل إعلام رسمية أن قوات الأمن الباكستانية قتلت قيادياً ينتمي إلى حركة طالبان باكستان المحظورة خلال عملية استخباراتية في منطقة قلعة سيف الله بإقليم بلوشستان. وتولى القتيل، الذي يدعى عادل شاه، إدارة الشؤون المالية للجماعة وكانت هناك مكافأة مقابل رأسه.",
+   "body_ar": [
+    "ونقلت إذاعة باكستان عن مصادر أمنية أن عادل شاه كان مرتبطاً بالحركة منذ ديسمبر 2020 وتولى إدارة شؤونها المالية منذ عام 2024. واتُهم بتوفير الملاذات لعناصر أجنبية وشن هجمات على القوات الأمنية والخطف مقابل فدية، وكانت مقيدة ضده 19 قضية ومكافأة قدرها 2.5 مليون روبية.",
+    "وأشاد رئيس وزراء إقليم بلوشستان، سرفراز بوغتي، بكفاءة القوات الأمنية عقب العملية. وتأتي هذه الخطوة في وقت يشهد فيه الإقليم تصاعداً ملحوظاً في هجمات المسلحين، حيث سجل النسبة الأكبر من الهجمات والضحايا على مستوى البلاد مؤخراً."
+   ]
+  },
+  {
+   "id": "39d85814d543",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+   "date": "2026-10-25T07:20:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "title_en": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "summary_en": "Israel has announced the closure of all crossings with the occupied West Bank on its general election day, alongside banning Palestinian workers from entering most areas ahead of the vote. The measure follows a lockdown and extensive military raids in Hebron that have displaced roughly 2,000 residents.",
+   "body_en": [
+    "The military restrictions in Hebron were imposed after a Friday shooting at an army reserve base that left two Israeli soldiers and two Palestinian gunmen dead. Israeli Prime Minister Benjamin Netanyahu ordered a full lockdown of the territory and suggested a broader military operation is being planned.",
+    "Officials confirmed that around 2,000 to 2,200 people have been forcibly displaced during the raids, with residents evacuated at night under loudspeaker orders. The Palestinian Authority condemned the blockade and displacement as collective punishment, while Netanyahu faces a tightly contested election."
+   ],
+   "title_fa": "اسرائیل گذرگاه‌های کرانه باختری اشغالی را هم‌زمان با قرنطینه الخلیل می‌بندد",
+   "summary_fa": "اسرائیل اعلام کرد که در روز انتخابات سراسری تمامی گذرگاه‌های کرانه باختری اشغالی را خواهد بست و ورود کارگران فلسطینی به بیشتر مناطق را پیش از رأی‌گیری ممنوع می‌کند. این اقدام در پی قرنطینه نظامی الخلیل و حملات گسترده‌ای صورت می‌گیرد که به آوارگی حدود ۲ هزار تن از ساکنان انجامیده است.",
+   "body_fa": [
+    "محدودیت‌های نظامی در الخلیل پس از تیراندازی روز جمعه به یک پایگاه نیروهای ذخیره ارتش، که به کشته شدن دو سرباز اسرائیلی و دو فرد مسلح فلسطینی انجامید، اعمال شد. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دستور قرنطینه کامل منطقه را صادر کرد و از برنامه‌ریزی برای عملیاتی گسترده‌تر سخن گفت.",
+    "مقامات تأیید کردند که حدود ۲ هزار تا ۲ هزار و ۲۰۰ نفر در جریان این حملات و با دستورات شبانه از طریق بلندگوها مجبور به ترک خانه‌های خود شده‌اند. تشکیلات خودگردان فلسطین این محاصره و آوارگی اجباری را مجازات دسته‌جمعی خواند، در حالی که نتانیاهو با رقابتی فشرده در انتخابات مواجه است."
+   ],
+   "title_ar": "إسرائيل تقرر إغلاق معابر الضفة الغربية المحتلة بالتزامن مع فرض إغلاق تام على الخليل",
+   "summary_ar": "أعلنت إسرائيل أنها ستغلق كافة المعابر مع الضفة الغربية المحتلة في يوم انتخاباتها العامة، إلى جانب منع العمال الفلسطينيين من دخول معظم المناطق قبل التصويت. ويأتي هذا الإجراء عقب فرض حصار عسكري واقتحامات مكثفة في مدينة الخليل أدت إلى نزوح نحو ألفي ساكن.",
+   "body_ar": [
+    "فُرضت القيود العسكرية في الخليل عقب هجوم بإطلاق نار وقع يوم الجمعة على قاعدة لقوات الاحتياط، أسفر عن مقتل جنديين إسرائيليين ومسلحَين فلسطينيَين. وأمر رئيس الوزراء الإسرائيلي بنيامين نتنياهو بفرض إغلاق كامل، ملمحاً إلى التخطيط لعملية عسكرية أوسع نطاقاً.",
+    "وأكدت مصادر رسمية تهجير ما بين ألفين و2200 شخص قسراً خلال الاقتحامات بعد أوامر إخلاء ليلية بمكبرات الصوت. ووصفت السلطة الفلسطينية الحصار والإخلاء بأنهما عقاب جماعي، في وقت يخوض فيه نتنياهو سباقاً انتخابياً محتدماً."
+   ]
+  },
+  {
+   "id": "1954a2e5c702",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes?traffic_source=rss",
+   "date": "2026-10-25T07:10:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israeli elections: What are the possible outcomes?",
+   "title_en": "Israeli elections: What are the possible outcomes?",
+   "summary_en": "Israel is scheduled to hold parliamentary elections on October 27, with polls projecting a tight contest between Benjamin Netanyahu's religious-nationalist bloc and an opposition alliance.",
+   "body_en": [
+    "Recent opinion polls show the opposition alliance leading slightly with 52 projected Knesset seats against 50 for Netanyahu's bloc, leaving both well short of a 61-seat majority. Potential outcomes to form a government include assembling new coalitions, securing outside backing from Arab-led parties, negotiating a national unity government with a rotating premiership, or appointing an alternative lawmaker if talks stall.",
+    "If no leader can build a viable coalition, Israel could face renewed political deadlock and be forced into another general election, during which Netanyahu would remain as caretaker prime minister."
+   ],
+   "title_fa": "انتخابات اسرائیل: نتایج احتمالی کدامند؟",
+   "summary_fa": "اسرائیل قرار است در ۲۷ اکتبر انتخابات پارلمانی برگزار کند، در حالی که نظرسنجی‌ها از رقابتی نزدیک میان بلوک مذهبی-ملی‌گرای بنیامین نتانیاهو و ائتلاف مخالفان خبر می‌دهند.",
+   "body_fa": [
+    "نظرسنجی‌های اخیر نشان می‌دهند که ائتلاف مخالفان با کسب احتمالی ۵۲ کرسی کنست در برابر ۵۰ کرسی بلوک نتانیاهو پیشتاز است، که این امر هر دو جریان را از کسب اکثریت ۶۱ کرسی بازمی‌دارد. سناریوهای احتمالی برای تشکیل دولت شامل ایجاد ائتلاف‌های جدید، کسب حمایت خارجی از سوی احزاب عربی، توافق بر سر دولت وحدت ملی با نخست‌وزیری چرخشی، یا انتخاب نماینده‌ای دیگر در صورت به بن‌بست رسیدن مذاکرات است.",
+    "اگر هیچ رهبری نتواند ائتلافی پایدار ایجاد کند، اسرائیل ممکن است بار دیگر با بن‌بست سیاسی مواجه شده و به سوی انتخاباتی جدید حرکت کند که در این صورت نتانیاهو تا زمان تشکیل دولت جدید در مقام نخست‌وزیر موقت باقی خواهد ماند."
+   ],
+   "title_ar": "الانتخابات الإسرائيلية: ما هي النتائج المحتملة؟",
+   "summary_ar": "من المقرر أن تجري إسرائيل انتخابات برلمانية في 27 أكتوبر، حيث تشير استطلاعات الرأي إلى منافسة متقاربة بين تكتل بنيامين نتنياهو الديني القومي وتحالف المعارضة.",
+   "body_ar": [
+    "تُظهر استطلاعات الرأي الأخيرة تقدم تحالف المعارضة بفارق ضئيل بحصوله على 52 مقعداً متوقعاً في الكنيست مقابل 50 مقعداً لتكتل نتنياهو، مما يترك الطرفين دون تحقيق أغلبية الـ 61 مقعداً. وتشمل السيناريوهات المحتملة لتشكيل الحكومة بناء تحالفات جديدة، أو تأمين دعم خارجي من الأحزاب العربية، أو التفاوض على حكومة وحدة وطنية مع تناوب رئاسة الوزراء، أو اختيار عضو برلماني بديل إذا تعثرت المحادثات.",
+    "وإذا عجز أي زعيم عن تشكيل ائتلاف، فقد تواجه إسرائيل جولة أخرى من عدم الاستقرار السياسي وتتجه نحو انتخابات جديدة، يظل نتنياهو خلالها رئيساً لحكومة تصريف الأعمال."
+   ]
+  },
+  {
+   "id": "2bc10b54246c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-strikes-iranian-kurdish-base-iraq-drones-report-says",
+   "date": "2026-10-25T06:45:18Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 8,
+   "title": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "title_en": "Tehran strikes Iranian Kurdish base in Iraq with drones, report says",
+   "summary_en": "Iran's Revolutionary Guards launched a drone attack targeting the headquarters of the Iranian Kurdish opposition group Komala in the Iraqi Kurdistan region.",
+   "body_en": [
+    "According to Iran's Mehr news agency, ground forces from the Revolutionary Guards targeted the headquarters of Komala in the Balisan region overnight. Earlier reports from Reuters also noted an explosive drone strike on an Iranian Kurdish opposition camp located northeast of Erbil."
+   ],
+   "title_fa": "طبق گزارش‌ها، تهران با پهپاد به پایگاه کرد‌های ایرانی در عراق حمله کرد",
+   "summary_fa": "نیروی زمینی سپاه پاسداران انقلاب اسلامی در یک عملیات پهپادی، مقر گروه اپوزیسیون کرد ایرانی کومله را در اقلیم کردستان عراق هدف قرار داد.",
+   "body_fa": [
+    "به گزارش خبرگزاری مهر ایران، نیروهای زمینی سپاه پاسداران مقر گروه کومله در منطقه بالیسان را دیشب هدف قرار دادند. پیش از این، خبرگزاری رویترز نیز از حمله یک پهپاد حامل مواد منفجره به اردوگاه اپوزیسیون کرد ایرانی در شمال شرقی اربیل خبر داده بود."
+   ],
+   "title_ar": "طهران تضرب قاعدة للكرد الإيرانيين في العراق بطائرات مسيرة، وفقاً لتقرير",
+   "summary_ar": "شن الحرس الثوري الإيراني هجوماً بطائرات مسيرة استهدف مقر مجموعة كوماته المعارضة لكرد إيران في إقليم كردستان العراق.",
+   "body_ar": [
+    "وفقاً لوكالة مهر الإيرانية للأنباء، استهدفت القوات البرية التابعة للحرس الثوري مقر حركة كوملة في منطقة باليسان الليلة الماضية. وكانت وكالة رويترز قد أفادت في وقت سابق بأن طائرة مسيرة محملة بمتفجرات استهدفت مخيماً للمعارضة الكردية الإيرانية شمال شرق أربيل."
+   ]
+  },
+  {
+   "id": "952299fc343f",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+   "date": "2026-10-25T06:00:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "title_en": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "summary_en": "As Israel prepares for elections, displaced Palestinians in Gaza express deep pessimism, fearing that candidate competition will worsen their plight regardless of who wins.",
+   "body_en": [
+    "Palestinians in Gaza report that the ongoing humanitarian crisis has been largely ignored in the Israeli election campaign. Both Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot have focused their platforms on destroying Hamas and support Donald Trump's peace plan, while pledging to end Hamas rule without presenting clear plans for Gaza's post-war future.",
+    "Residents surviving in dire conditions in areas like al-Mawasi fear that candidates are competing over who can take the toughest stance against Gaza. With aid deliveries severely restricted and basic supplies running out, many displaced Palestinians feel that any incoming government will offer no meaningful change to their daily struggle for survival."
+   ],
+   "title_fa": "«رنج غزه به خوراک تبلیغات انتخاباتی تبدیل شده است»: هراس فلسطینی‌ها از بدترین سناریو در انتخابات اسرائیل",
+   "summary_fa": "در حالی که اسرائیل برای برگزاری انتخابات آماده می‌شود، فلسطینیان آواره در غزه ابراز ناامیدی کرده و بیم آن دارند که رقابت‌های انتخاباتی بدون توجه به برنده آن، وضعیت آن‌ها را وخیم‌تر کند.",
+   "body_fa": [
+    "فلسطینیان در غزه می‌گویند بحران انسانی جاری تا حد زیادی در مبارزات انتخاباتی اسرائیل نادیده گرفته شده است. هم بنیامین نتانیاهو، نخست‌وزیر، و هم گادی آیزنکوت، رهبر اپوزیسیون، تمرکز برنامه‌های خود را بر نابودی حماس و حمایت از طرح صلح دونالد ترامپ قرار داده‌اند و وعده داده‌اند به حکومت حماس پایان دهند، بدون آنکه طرح روشنی برای آینده غزه ارائه کنند.",
+    "ساکنانی که در شرایطی سخت در مناطقی مانند المواصی زندگی می‌کنند، بیم دارند که نامزدها در گرفتن سخت‌گیرانه‌ترین مواضع علیه غزه با یکدیگر رقابت کنند. با محدودیت‌های شدید در ورود کمک‌های بشردوستانه و نایاب شدن کالاهای اساسی، بسیاری از آوارگان فلسطینی بر این باورند که هر دولتی روی کار بیاید، تغییری واقعی در تلاش روزمره آن‌ها برای زنده ماندن ایجاد نخواهد کرد."
+   ],
+   "title_ar": "«معاناة غزة أصبحت مادة للمزايدات الانتخابية»: الفلسطينيون يخشون الأยوأ من الانتخابات الإسرائيلية",
+   "summary_ar": "مع استعداد إسرائيل للانتخابات، يعرب الفلسطينيون النازحون في غزة عن خيبة أمل عميقة، متخوفين من أن المزايدات الانتخابية ستزيد من معاناتهم بغض النظر عن الفائز.",
+   "body_ar": [
+    "أفاد الفلسطينيون في غزة بأن الكارثة الإنسانية المستمرة تم تجاهلها بشكل كبير في الحملات الانتخابية الإسرائيلية. وركز كل من رئيس الوزراء بنيامين نتنياهو وزعيم المعارضة غادي آيزنكوت برنامجهما على تدمير حماس ودعم خطة دونالد ترامب للسلام، مع التعهد بإنهائه حكم حماس دون تقديم خطط واضحة لمستقبل غزة.",
+    "ويخشى السكان الذين يعيشون في ظروف قاسية في مناطق مثل المواصي من أن المرشحين يتنافسون على اتخاذ المواقف الأكثر صرامة ضد غزة. ومع فرض قيود شديدة على دخول المساعدات ونفاد المواد الأساسية، يشعر العديد من النازحين أن أي حكومة قادمة لن تحدث أي تغيير حقيقي في معاناتهم اليومية من أجل البقاء."
+   ]
+  },
+  {
+   "id": "60fb5bb5bec8",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/russia-denies-plans-evacuate-staff-working-irans-bushehr-nuclear-plant",
+   "date": "2026-10-25T05:50:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+   "title_en": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+   "summary_en": "Russia's embassy in Tehran has dismissed reports that its diplomats and specialists at the Bushehr nuclear power plant are preparing to evacuate. The diplomatic mission stated that work is proceeding normally and labeled the claims as false.",
+   "body_en": [
+    "The Bushehr facility, which is Iran's sole operating nuclear plant, has faced multiple strikes during the ongoing conflict involving the US and Israel. Satellite images released in July revealed visible damage on the site."
+   ],
+   "title_fa": "روسیه برنامه‌ریزی برای تخلیه کارکنان نیروگاه اتمی بوشهر در ایران را تکذیب کرد",
+   "summary_fa": "سفارت روسیه در تهران گزارش‌های مربوط به آماده شدن دیپلمات‌ها و متخصصان روس در نیروگاه اتمی بوشهر برای خروج از کشور را تکذیب کرد. این نمایندگی دیپلماتیک اعلام کرد که فعالیت‌ها طبق روال عادی ادامه دارد و این گزارش‌ها را جعلی خواند.",
+   "body_fa": [
+    "نیروگاه بوشهر، که تنها تأسیسات هسته‌ای فعال ایران به شمار می‌رود، در جریان جنگ جاری میان آمریکا، اسرائیل و ایران بارها هدف حمله قرار گرفته است. تصاویر ماهواره‌ای منتشرشده در تیرماه آسیب‌هایی را در داخل این مجموعه نشان می‌داد."
+   ],
+   "title_ar": "روسيا تنفي وجود خطط لإجلاء موظفيها في محطة بوشهر النووية في إيران",
+   "summary_ar": "نفت السفارة الروسية في طهران صحة تقارير أفادت باستعداد دبلوماسييها والخبراء الروس في محطة بوشهر النووية للإجلاء. وأكدت البعثة الدبلوماسية أن الأعمال تسير بشكل طبيعي ووصفت تلك الأنباء بأنها كاذبة.",
+   "body_ar": [
+    "وتعرضت محطة بوشهر، وهي المحطة النووية الوحيدة العاملة في إيران، لضربات متكررة خلال الحرب الحالية بمشاركة الولايات المتحدة وإسرائيل. وأظهرت صور أقمار اصطناعية نُشرت في يوليو وقوع أضرار داخل المجمع."
+   ]
+  },
+  {
+   "id": "cbb27e15628a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-renew-warning-against-using-king-khalid-airport",
+   "date": "2026-10-25T04:10:58Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis renew warning against using King Khalid airport",
+   "title_en": "Houthis renew warning against using King Khalid airport",
+   "summary_en": "The Houthis have repeated their warning advising airlines, airport staff, and passengers to avoid King Khalid International Airport in Riyadh. A spokesman for the group reiterated that the facility is unsafe and continues to be considered a military target.",
+   "body_en": [
+    "The statement followed an announcement by the airport that Terminal 1 would handle domestic operations and Terminal 2 would manage international routes by national carriers starting Sunday. Operations had been halted on 10 October after a Houthi strike resulted in 13 deaths and over 300 injuries."
+   ],
+   "title_fa": "حوثی‌ها هشدار خود را درباره استفاده از فرودگاه ملک خالد تکرار کردند",
+   "summary_fa": "حوثی‌ها بار دیگر به خطوط هوایی، کارکنان فرودگاه و مسافران هشدار دادند که از تردد در فرودگاه بین‌المللی ملک خالد در ریاض خودداری کنند. سخنگوی این گروه اعلام کرد که این فرودگاه ناامن بوده و همچنان یک هدف نظامی به شمار می‌رود.",
+   "body_fa": [
+    "این موضع‌گیری پس از آن صورت گرفت که فرودگاه اعلام کرد از روز یکشنبه ترمینال ۱ به پروازهای داخلی و ترمینال ۲ به پروازهای بین‌المللی خطوط هوایی ملی اختصاص می‌یابد. فعالیت‌های فرودگاه از ۱۹ مهرماه و در پی حمله حوثی‌ها که ۱۳ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت، متوقف شده بود."
+   ],
+   "title_ar": "الحوثيون يجددون تحذيرهم من استخدام مطار الملك خالد",
+   "summary_ar": "جدد الحوثيون تحذيرهم لشركات الطيران وموظفي المطارات والمسافرين من استخدام مطار الملك خالد الدولي في الرياض. ووصف المتحدث باسم الجماعة المطار بأنه «غير آمن» وأكد أنه لا يزال «هدفاً عسكرياً».",
+   "body_ar": [
+    "وجاء هذا الموقف عقب إعلان إدارة المطار تخصيص الصالة رقم 1 للرحلات الداخلية والصالة رقم 2 للرحلات الدولية للناقلات الوطنية بدءاً من الأحد. وكانت حركة الملاحة قد عُلقت في 10 أكتوبر إثر هجوم للحوثيين أسفر عن مقتل 13 شخصاً وإصابة أكثر من 300 آخرين."
+   ]
+  },
+  {
+   "id": "c1428068d52f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+   "date": "2026-10-25T03:47:56Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "title_en": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "summary_en": "Thousands of people have protested across Turkey against the imprisonment of journalists and government restrictions placed on independent media outlets.",
+   "body_en": [
+    "Protesters demonstrated against actions by Turkish authorities, who have jailed reporters, taken control of the opposition broadcaster Halk TV, and blocked access to various news websites. The Turkish government has denied allegations that it is targeting journalists because of their work."
+   ],
+   "title_fa": "تظاهرات هزاران نفر در ترکیه در اعتراض به بازداشت خبرنگاران و تعطیلی رسانه‌ها",
+   "summary_fa": "هزاران نفر در سراسر ترکیه در اعتراض به زندانی کردن خبرنگاران و محدودیت‌های دولتی اعمال‌شده بر رسانه‌های مستقل دست به تظاهرات زدند.",
+   "body_fa": [
+    "معترضان نسبت به اقدامات مقامات ترکیه که اقدام به بازداشت خبرنگاران، تصرف کنترل شبکه اپوزیسیون «هالک تی‌وی» و مسدود کردن وب‌سایت‌های خبری کرده‌اند، اعتراض کردند. دولت ترکیه اتهامات مربوط به هدف قرار دادن روزنامه‌نگاران به دلیل فعالیت حرفه‌ای‌شان را رد کرده است."
+   ],
+   "title_ar": "آلاف يتظاهرون في تركيا احتجاجاً على اعتقال الصحفيين وإغلاق وسائل الإعلام",
+   "summary_ar": "تظاهر آلاف الأشخاص في جميع أنحاء تركيا احتجاجاً على سجن الصحفيين والقيود الحكومية المفروضة على وسائل الإعلام المستقلة.",
+   "body_ar": [
+    "وتظاهر المحتجون ضد إجراءات السلطات التركية التي سجنت صحفيين وسيطرت على قناة \"هالك تي في\" المعارضة وحجبت مواقع إخبارية. ومن جانبها، نفت الحكومة التركية استهداف الصحفيين بسبب عملهم."
+   ]
+  },
+  {
+   "id": "2617a6d3e912",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039610/gabd-border-crossing-with-iran-reopened",
+   "date": "2026-10-25T02:25:29Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Gabd border crossing with Iran reopened",
+   "title_en": "Gabd border crossing with Iran reopened",
+   "summary_en": "Pakistan resumed trade operations at the Gabd-Rimdan crossing with Iran on Saturday, ending a weeklong suspension. The move allows stranded trucks carrying LPG and food supplies to cross the border.",
+   "body_en": [
+    "Border officials allowed commercial consignments documented on or before October 16 to pass through Gate 250 in Gwadar. Mir Naveed Jan Kalmati, president of the Gwadar Chamber of Commerce and Industry, confirmed the reopening, noting that the resumed traffic will help ease a nationwide LPG shortage and bring relief to stranded transporters and traders.",
+    "The border had been shut since October 17, when the Ministry of Commerce halted trade without providing a reason. The decision to reopen followed a security review and the deployment of extra forces, prompted by a Thursday attack in which unidentified gunmen burned dozens of parked freight vehicles near the crossing."
+   ],
+   "title_fa": "گذرگاه مرزی گبد با ایران بازگشایی شد",
+   "summary_fa": "پاکستان روز شنبه فعالیت‌های تجاری در گذرگاه مرزی گبد-ریمدان با ایران را پس از توقفی یک‌هفته‌ای از سر گرفت. این اقدام به کامیون‌های حامل گاز مایع و مواد غذایی که معطل مانده بودند اجازه عبور داد.",
+   "body_fa": [
+    "مأموران مرزی به محموله‌های تجاری دارای بارنامه ۱۶ اکتبر یا پیش از آن اجازه دادند از دروازه ۲۵۰ در گوادر عبور کنند. میر نوید جان کلمتی، رئیس اتاق بازرگانی و صنایع گوادر، این بازگشایی را تأیید کرد و اشاره داشت که این اقدام به کاهش کمبود گاز مایع در سراسر کشور و امدادرسانی به رانندگان و تجار گرفتار در مرز کمک می‌کند.",
+    "این گذرگاه از ۱۷ اکتبر، پس از لغو بدون توضیح دستور تجارت از سوی وزارت بازرگانی پاکستان، بسته شده بود. بازگشایی پس از ارزیابی امنیتی و استقرار نیروهای اضافی صورت گرفت؛ اقدامی که پس از حمله افراد مسلح ناشناس در روز پنج‌شنبه و به آتش کشیدن ده‌ها کامیون باری متوقف‌شده در نزدیکی مرز انجام شد."
+   ],
+   "title_ar": "إعادة فتح معبر غبد الحدودي مع إيران",
+   "summary_ar": "استأنفت باكستان العمليات التجارية في معبر غبد-ريمدان الحدودي مع إيران يوم السبت، منهيةً تعليقاً استمر أسبوعاً. وتتيح هذه الخطوة للشاحنات العالقة المحملة بغاز البترول المسال والمواد الغذائية عبور الحدود.",
+   "body_ar": [
+    "سمح مسؤولو الحدود للشحنات التجارية المسجلة في 16 أكتوبر أو قبل ذلك بالعبور عبر البوابة 250 في جوادر. وأكد مير نويد جان كالماتي، رئيس غرفة تجارة وصناعة جوادر، استئناف العمليات، مشيراً إلى أن هذه الخطوة ستخفف من نقص غاز البترول المسال في البلاد وتوفر الإغاثة للتجار والسائقين العالقين.",
+    "وكان المعبر مغلقاً منذ 17 أكتوبر إثر تعليق وزارة التجارة للعمليات دون تقديم أسباب. وجاء قرار إعادة الفتح بعد مراجعة أمنية ونشر قوات إضافية لحماية القوافل، عقب هجوم شنه مسلحون مجهولون يوم الخميس أدى إلى إحراق عشرات الشاحنات المتوقفة بالقرب من المعبر."
+   ]
+  },
+  {
+   "id": "c2f1350c5dd5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+   "date": "2026-10-25T02:07:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "title_en": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "summary_en": "Thousands of Israelis staged a demonstration opposing Prime Minister Benjamin Netanyahu, calling for a new administration and an investigation into the October 7 attacks.",
+   "body_en": [
+    "The demonstrators pushed for an independent inquiry into the security lapses associated with the Hamas-led attacks. The protest took place ahead of the election scheduled for Tuesday, October 27."
+   ],
+   "title_fa": "تظاهرات گسترده علیه نتانیاهو در آستانه انتخابات سرنوشت‌ساز اسرائیل",
+   "summary_fa": "هزاران اسرائیلی با برپایی تظاهراتی علیه بنیامین نتانیاهو نخست‌وزیر، خواستار تغییر حکومت و تحقیق درباره حملات ۷ اکتبر شدند.",
+   "body_fa": [
+    "تظاهرکنندگان خواستار انجام تحقیقاتی مستقل درباره قصورهای امنیتی مرتبط با حملات به رهبری حماس شدند. این اعتراضات پیش از انتخاباتی برگزار شد که قرار است در روز سه‌شنبه، ۲۷ اکتبر برگزار شود."
+   ],
+   "title_ar": "مظاهرة حاشدة ضد نتنياهو قبل الانتخابات الإسرائيلية الحاسمة",
+   "summary_ar": "تظاهر آلاف الإسرائيليين ضد رئيس الوزراء بنيامين نتنياهو، مطالبين بتغيير الحكومة وإجراء تحقيق في هجمات 7 أكتوبر.",
+   "body_ar": [
+    "وطالب المتظاهرون بإجراء تحقيق مستقل في الإخفاقات الأمنية المحيطة بالهجمات التي قادتها حماس. وجاء هذا الاحتجاج قبل الانتخابات المقرر إجراؤها يوم الثلاثاء، 27 أكتوبر."
+   ]
+  },
+  {
+   "id": "d14b7bf63cc7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-restricts-entry-palestinian-labourers-west-bank-areas",
+   "date": "2026-10-25T00:40:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel restricts entry of Palestinian labourers to West Bank areas",
+   "title_en": "Israel restricts entry of Palestinian labourers to West Bank areas",
+   "summary_en": "The Israeli military announced that Palestinian permit holders will be prohibited from entering settlements in the occupied West Bank on Sunday and Monday, excluding industrial zones and specific authorised sectors.",
+   "body_en": [
+    "In a statement on X, the army detailed that a comprehensive ban on the movement of Palestinian workers across the entire West Bank and Jordan Valley, including industrial parks, will be enforced alongside the closure of all land crossings during election day on 27 October 2026."
+   ],
+   "title_fa": "اسرائیل ورود کارگران فلسطینی به مناطقی از کرانه باختری را محدود کرد",
+   "summary_fa": "ارتش اسرائیل اعلام کرد که ورود فلسطینیان دارای مجوز کار به شهرک‌های کرانه باختری اشغالی در روزهای یکشنبه و دوشنبه ممنوع خواهد بود، هرچند مناطق صنعتی و برخی بخش‌های مجاز مستثنی شده‌اند.",
+   "body_fa": [
+    "ارتش در پیامی در شبکه اجتماعی اکس تصریح کرد که در طول روز انتخابات در ۲۷ اکتبر ۲۰۲۶، ممنوعیت کاملی برای ورود و خروج کارگران فلسطینی در سراسر کرانه باختری و دره اردن، از جمله مناطق صنعتی، اعمال شده و تمامی گذرگاه‌های زمینی مسدود خواهند شد."
+   ],
+   "title_ar": "إسرائيل تقيد دخول العمال الفلسطينيين إلى مناطق بالضفة الغربية",
+   "summary_ar": "أعلن الجيش الإسرائيلي منع الفلسطينيين الحاملين لتصاريح عمل من دخول المستوطنات في الضفة الغربية المحتلة يومي الأحد والاثنين، باستثناء المناطق الصناعية ومناطق محددة أخرى.",
+   "body_ar": [
+    "وأوضح الجيش في منشور على منصة «إكس» أنه سيتم فرض حظر كامل على «دخول وخروج العمال الفلسطينيين إلى كامل [الضفة الغربية المحتلة] وغور الأردن، بما في ذلك المناطق الصناعية»، إلى جانب إغلاق كافة المعابر البرية طوال يوم الانتخابات في 27 أكتوبر 2026."
+   ]
+  },
+  {
+   "id": "f74f6a68c133",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cwr7ym1mjxymo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-25T00:35:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "بنیامین نتانیاهو؛ آیا «آقای امنیت» اسرائیل می‌تواند برای هفتمین بار نخست‌وزیر شود؟",
+   "title_en": "Benjamin Netanyahu: Can Israel's 'Mr Security' become prime minister for the seventh time?",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu is seeking a seventh term in the upcoming 27 October elections, facing political fallout from the 7 October 2023 Hamas-led attacks alongside an ongoing corruption trial.",
+   "body_en": [
+    "Opinion polls indicate a tight race between Netanyahu's right-wing bloc and an opposition coalition featuring figures such as Naftali Bennett and Gadi Eisenkot. The 77-year-old leader, who has led Israel's most right-wing government since 2022, faces scrutiny over security failures preceding the 2023 assault, though he maintains that senior security officials share responsibility for failing to alert him.",
+    "Netanyahu, who served as a commando captain and first became premier in 1996, also faces international pressure, including an International Criminal Court arrest warrant issued in November 2024 over the conduct of the war in Gaza. While he maintains solid support among religious and right-wing voters, allegations that he was warned in advance of the Hamas attack have fueled domestic criticism."
+   ],
+   "title_fa": "بنیامین نتانیاهو؛ آیا «آقای امنیت» اسرائیل می‌تواند برای هفتمین بار نخست‌وزیر شود؟",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در انتخابات پارلمانی ۲۷ اکتبر به دنبال رسیدن به قدرت برای هفتمین بار است، در حالی که با پیامدهای حملات ۷ اکتبر ۲۰۲۳ و محاکمه جاری خود به اتهام فساد روبه‌روست.",
+   "body_fa": [
+    "نظرسنجی‌ها از رقابتی فشرده میان بلوک راست‌گرای نتانیاهو و ائتلافی از احزاب مخالف به رهبری چهره‌هایی چون نفتالی بنت و گادی آیزنکوت حکایت دارد. این رهبر ۷۷ ساله که از سال ۲۰۲۲ سکان راست‌گراترین دولت اسرائیل را در دست دارد، درباره ناکامی‌های امنیتی منتهی به حمله ۲۰۲۳ با انتقاد مواجه است، هرچند ادعا می‌کند مقام‌های ارشد امنیتی در بیدار نکردن او در ساعات پیش از حمله مقصرند.",
+    "نتانیاهو که پیشینه خدمت در کماندوهای ارتش را دارد و نخستین بار در سال ۱۹۹۶ نخست‌وزیر شد، با فشارهای بین‌المللی از جمله حکم بازداشت دیوان کیفری بین‌المللی در نوامبر ۲۰۲۴ بر سر جنگ غزه روبه‌رو است. هرچند او همچنان میان حامیان مذهبی و جناح راست محبوبیت دارد، گزارش‌ها مبنی بر دریافت هشدارهای پیشین درباره حمله حماس بر چالش‌های سیاسی او افزوده است."
+   ],
+   "title_ar": "بنيامين نتنياهو: هل يستطيع «رجل الأمن» في إسرائيل تولي رئاسة الوزراء للمرة السابعة؟",
+   "summary_ar": "يسعى رئيس الوزراء الإسرائيلي بنيامين نتنياهو للفوز بولاية سابعة في انتخابات 27 أكتوبر، وسط تداعيات هجمات 7 أكتوبر 2023 ومحاكمته الجارية بتهم الفساد.",
+   "body_ar": [
+    "تشير استطلاعات الرأي إلى منافسة محتدمة بين كتلة نتنياهو اليمينية وتحالف معارض يضم شخصيات مثل نفتالي بينيت وغادي آيزنكوت. ويواجه رئيس الوزراء البالغ من العمر 77 عاماً، والذي يقود أكثر الحكومات يمينية في تاريخ إسرائيل منذ 2022، تدقيقاً كبيراً في الإخفاقات الأمنية السابقة لهجوم 2023، رغم تأكيده أن مسؤولين أمنيين كباراً يتحملون المسؤولية أيضاً.",
+    "كما يواجه نتنياهو، الذي خدم سابقاً كقائد في وحدة كوماندوز وأصبح رئيساً للوزراء لأول مرة عام 1996، ضغوطاً دولية تشمل مذكرة توقيف من المحكمة الجنائية الدولية صدرت في نوفمبر 2024 مرتبطة بالحرب على غزة. ورغم احتفاظه بقاعدة دعم بين التيارات اليمينية والدينية، إلا أن التقارير التي تفيد بتلقيه تحذيرات مسبقة تزيد من الانتقادات الموجهة إليه."
+   ]
+  },
+  {
+   "id": "dcab83100042",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+   "date": "2026-10-25T00:00:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "title_en": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+   "summary_en": "US President Donald Trump stated that Washington is considering a potential strike against Iran as early as Sunday, or alternatively reaching a major agreement with Tehran.",
+   "body_en": [],
+   "title_fa": "پوشش زنده جنگ ایران: ترامپ به احتمال حمله به ایران در روز یکشنبه یا دستیابی به توافق اشاره کرد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که واشینگتن در حال بررسی حمله احتمالی به ایران در روز یکشنبه است، هرچند احتمال دستیابی به یک توافق بزرگ با تهران نیز وجود دارد.",
+   "body_fa": [],
+   "title_ar": "مباشر حرب إيران: ترامب يلمح إلى هجوم محتمل على إيران يوم الأحد أو التوصل إلى اتفاق",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن واشنطن تدرس شن هجوم محتمل على إيران في أقرب وقت يوم الأحد، أو التوصل إلى اتفاق كبير مع طهران.",
+   "body_ar": []
+  },
+  {
+   "id": "03007b478cf1",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqn06gp7g5leo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T23:12:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل کیست؟",
+   "title_en": "Who is Gadi Eisenkot, Netanyahu's main rival in the Israeli elections?",
+   "summary_en": "Former military chief Gadi Eisenkot has emerged as Benjamin Netanyahu's primary challenger ahead of Israel's 27 October elections, leading the centrist Yashar party.",
+   "body_en": [
+    "Eisenkot, who entered politics in 2022 and resigned from Netanyahu's war cabinet in June 2024 over the handling of the hostage crisis, has been shaped by the loss of his youngest son and two nephews in the Gaza conflict. He has campaigned on ending Hamas rule within 18 months, opposed a Palestinian state, and advocated redefining ties with the Palestinian Authority while expelling Jewish terrorists from the West Bank.",
+    "His 10-point platform includes launching an inquiry into government failures surrounding the 7 October attacks, ending military service exemptions for Ultra-Orthodox Jews and Arab citizens, and addressing the emigration of highly skilled Israelis. Polls suggest his candidacy poses a significant obstacle to Netanyahu's coalition securing a parliamentary majority."
+   ],
+   "title_fa": "گادی آیزنکوت رقیب اصلی نتانیاهو در انتخابات اسرائیل کیست؟",
+   "summary_fa": "گادی آیزنکوت، رئیس پیشین ستاد ارتش اسرائیل، با رهبری حزب میانه‌روی «یاشار» به عنوان رقیب اصلی بنیامین نتانیاهو در انتخابات ۲۷ اکتبر مطرح شده است.",
+   "body_fa": [
+    "آیزنکوت که در سال ۲۰۲۲ وارد سیاست شد و در ژوئن ۲۰۲۴ در اعتراض به عملکرد نتانیاهو در پرونده گروگان‌ها از کابینه جنگ استعفا داد، تحت تأثیر کشته شدن کوچک‌ترین پسر و دو برادرزاده‌اش در جنگ غزه قرار دارد. او وعده داده ظرف ۱۸ ماه به حکومت حماس پایان دهد، با تشکیل کشور فلسطین مخالفت کرده و بر بازتعریف روابط با تشکیلات خودگردان و بیرون راندن تروریست‌های یهودی از کرانه باختری تأکید دارد.",
+    "برنامه ۱۰ ماده‌ای او شامل آغاز تحقیقات درباره ناکامی‌های دولت در حملات ۷ اکتبر، لغو معافیت‌های خدمت سربازی برای یهودیان فوق‌ارتدوکس و شهروندان عرب، و مقابله با مهاجرت نخبگان است. نظرسنجی‌ها نشان می‌دهند که حضور او مانع عمده‌ای برای کسب اکثریت پارلمانی توسط ائتلاف نتانیاهو به شمار می‌رود."
+   ],
+   "title_ar": "من هو غادي آيزنكوت المنافس الرئيسي لنتنياهو في الانتخابات الإسرائيلية؟",
+   "summary_ar": "برز رئيس الأركان الإسرائيلي السابق غادي آيزنكوت كمنافس رئيسي لبنيامين نتنياهو قبل انتخابات 27 أكتوبر، متصدراً حزب «ياشار» الوسطي.",
+   "body_ar": [
+    "تأثر آيزنكوت، الذي دخل العمل السياسي عام 2022 واستقال من مجلس الحرب في يونيو 2024 احتجاجاً على إدارة ملف الرهائن، بمقتل ابنه الأصغر واثنين من أبناء إخوته في معارك غزة. وتعهد بإنهاء حكم حماس خلال 18 شهراً، معلناً رفضه لإقامة دولة فلسطينية ومطالباً بإعادة صياغة العلاقات مع السلطة الفلسطينية وطرد المتطرفين اليهود من الضفة الغربية.",
+    "يتضمن برنامجه المؤلف من عشر نقاط فتح تحقيق رسمي في إخفاقات هجمات 7 أكتوبر، وإنهاء الإعفاء من الخدمة العسكرية لليهود المتشددين والمواطنين العرب، والحد من هجرة الكفاءات. وتشير استطلاعات الرأي إلى أن ترشحه يضع صعوبات حقيقية أمام حصول ائتلاف نتنياهو على الأغلبية البرلمانية."
+   ]
+  },
+  {
+   "id": "32151483ad18",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-24T23:02:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "summary_en": "Israeli forces have launched a widespread crackdown in Hebron, demolishing homes and businesses and displacing hundreds of Palestinian residents following a deadly attack on a checkpoint.",
+   "body_en": [
+    "The military operation was ordered by Prime Minister Benjamin Netanyahu after two Palestinian gunmen killed two Israeli soldiers at a checkpoint before being killed themselves. Israeli Defence Minister Israel Katz stated that around 2,000 residents were displaced in the targeted neighbourhoods, while local officials reported that at least 200 families were forced from their homes as bulldozers flattened streets and infrastructure.",
+    "The operation comes just days ahead of Israel's general election. Local leaders, including Hebron Mayor Youssef al-Jaabari, accused Netanyahu of using the campaign to secure votes from far-right groups, while the Palestinian Authority has called for urgent international action to prevent further forced displacement."
+   ],
+   "title_fa": "آوارگی خانواده‌های فلسطینی در پی تخریب منازل هبرون توسط نیروهای اسرائیلی",
+   "summary_fa": "نیروهای اسرائیلی در پی یک حمله مرگبار به یک پاسگاه بازرسی، سرکوب گسترده‌ای را در هبرون آغاز کرده و با تخریب منازل و واحدهای تجاری، صدها ساکن فلسطینی را آواره کرده‌اند.",
+   "body_fa": [
+    "این عملیات نظامی پس از کشته شدن دو سرباز اسرائیلی توسط دو افراد مسلح فلسطینی در یک پاسگاه بازرسی — که خود نیز کشته شدند — به دستور بنیامین نتانیاهو نخست‌وزیر اسرائیل آغاز شد. اسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد که حدود ۲۰۰۰ تن از ساکنان محله‌های هدف آواره شده‌اند، در حالی که مقامات محلی گزارش دادند حداقل ۲۰۰ خانواده پس از تسطیح خیابان‌ها و زیرساخت‌ها توسط بولدوزرها از منازل خود بیرون رانده شده‌اند.",
+    "این عملیات تنها چند روز پیش از انتخابات سراسری اسرائیل صورت می‌گیرد. رهبران محلی، از جمله یوسف الجعبری شهردار هبرون، نتانیاهو را متهم کردند که از این کارزار برای جلب آرای گروه‌های راست افراطی استفاده می‌کند، در حالی که تشکیلات خودگردان فلسطین خواستار اقدام فوری بین‌المللی برای جلوگیری از آوارگی اجباری بیشتر شده است."
+   ],
+   "title_ar": "نزوح عائلات فلسطينية مع هدم القوات الإسرائيلية لمنازل في الخليل",
+   "summary_ar": "شنت القوات الإسرائيلية حملة قمع واسعة النطاق في الخليل، حيث هدمت منازل ومحال تجارية وشردت مئات السكان الفلسطينيين في أعقاب هجوم مميت على حاجز تفتيش.",
+   "body_ar": [
+    "أمر رئيس الوزراء بنيامين نتنياهو بالعملية العسكرية بعد أن قتل مسلحان فلسطينيان جنديين إسرائيليين عند حاجز تفتيش قبل أن يُقتلا. وذكر وزير الدفاع الإسرائيلي يسرائيل كاتس أن نحو 2000 من السكان نزحوا في الأحياء المستهدفة، بينما أفاد مسؤولون محليون بأن 200 عائلة على الأقل أُجبرت على ترك منازلها بينما قامت الجرافات بتسوية شوارع وبنية تحتية بالأرض.",
+    "تأتي هذه العملية قبل أيام قليلة من الانتخابات العامة في إسرائيل. وأتهم قادة محليون، من بينهم رئيس بلدية الخليل يوسف الجعبري، نتنياهو باستغلال الحملة لتأمين أصوات أقصى اليمين، بينما دعت السلطة الفلسطينية إلى تحرك دولي عاجل لمنع المزيد من التهجير القسري."
+   ]
+  },
+  {
+   "id": "42d3f00a8fa6",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+   "date": "2026-10-24T21:30:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+   "title_en": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+   "summary_en": "Iranian President Masoud Pezeshkian has blamed Washington for the collapse of an interim deal intended to end the war with the US and Israel, while calling on both sides to conclude the agreement.",
+   "body_en": [
+    "Pezeshkian's remarks came as fears rise that hostilities could resume, following remarks by US President Donald Trump hinting at possible renewed military action. In response, the IRGC warned that even limited attacks would draw a far stronger retaliation, and Armed Forces Chief of Staff Ali Abdollahi said the US military would never be permitted into the Gulf.",
+    "Iranian government spokesperson Fatemeh Mohajerani affirmed that Tehran will not seek permission to defend itself and will deliver severe consequences for any aggression. Meanwhile, Judiciary Chief Gholamhossein Mohseni Ejei met Supreme Leader Mojtaba Khamenei to discuss corruption and securing compensation for Iranians impacted by the conflict."
+   ],
+   "title_fa": "ایران آمریکا را مقصر شکست توافق دانست و در میان بیم از حملات تازه، خواستار تلاش دوباره شد",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، واشینگتن را مقصر فروپاشی توافق موقت برای پایان دادن به جنگ با آمریکا و اسرائیل دانست و هم‌زمان خواستار بازگشت هر دو طرف و نهایی کردن آن شد.",
+   "body_fa": [
+    "سخنان پزشکیان در میان نگرانی‌ها از احتمال ازسرگیری اقدامات نظامی مطرح شد؛ پس از آنکه دونالد ترامپ به احتمال اقدام نظامی مجدد اشاره کرد. در واکنش، سپاه پاسداران هشدار داد که حتی حملات محدود پاسخی چندین برابر به دنبال خواهد داشت و علی عبداللهی، رئیس ستاد کل نیروهای مسلح، نیز گفت نیروهای آمریکایی تحت هیچ شرایطی اجازه ورود به خلیج فارس را نخواهند داشت.",
+    "فاطمه مهاجرانی، سخنگوی دولت ایران، تأکید کرد که تهران برای دفاع از خود منتظر اجازه نخواهد ماند و هرگونه تجاوز را با پیامدهای سخت پاسخ خواهد داد. در همین حال، غلامحسین محسنی اژه‌ای، رئیس قوه قضاییه، با مجتبی خامنه‌ای، رهبر جمهوری اسلامی، دیدار و درباره مبارزه با فساد و پیگیری غرامت برای آسیب‌دیدگان جنگ گفتگو کرد."
+   ],
+   "title_ar": "إيران تحمّل واشنطن مسؤولية فشل الاتفاق وتدعو لمحاولة جديدة وسط مخاوف من ضربات جديدة",
+   "summary_ar": "حمّل الرئيس الإيراني مسعود بزشكيان واشنطن مسؤولية انهيار اتفاق مؤقت يهدف لإنهاء الحرب مع الولايات المتحدة وإسرائيل، داعياً الجانبين في الوقت ذاته إلى إتمامه.",
+   "body_ar": [
+    "جاءت تصريحات بزشكيان وسط مخاوف من استئناف العمليات العسكرية، بعدما ألمح الرئيس الأمريكي دونالد ترامب إلى احتمال تجديد الهجمات. ورداً على ذلك، حذر الحرس الثوري الإيراني من أن أي ضربة محدودة ستُقابل برد أكبر بأضعاف، فيما أكد رئيس أركان القوات المسلحة علي عبد اللهي أنه لن يُسمح للقوات الأمريكية بدخول الخليج تحت أي ظرف.",
+    "من جانبها، صرحت المتحدثة باسم الحكومة الإيرانية فاطمة مهاجراني بأن طهران لن تنتظر الإذن للدفاع عن نفسها وسترد بعواقب وخيمة على أي عدوان. وتزامن ذلك مع لقاء جمع رئيس السلطة القضائية غلام حسين محسني إجئي بالمرشد الأعلى مجتبى خامنئي لمناقشة مكافحة الفساد ومتابعة التعويضات للمتضررين من الحرب."
+   ]
+  },
+  {
+   "id": "15ae93625646",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/riyadh-airport-resume-flights-sunday-following-closure-after-houthi",
+   "date": "2026-10-24T21:14:13Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "title_en": "Riyadh airport to resume flights Sunday following closure after Houthi attacks",
+   "summary_en": "Riyadh's international airport announced that it will reopen for flights on Sunday following a two-week closure triggered by deadly attacks from Yemen's Houthis. The resumption comes as Houthi strikes against Saudi Arabia have continued.",
+   "body_en": [
+    "In a statement on X, King Khalid International Airport stated that Terminal 1 will handle domestic flights, while Terminal 2 will be dedicated to international flights run by national carriers, starting Sunday, October 25, 2026."
+   ],
+   "title_fa": "فرودگاه ریاض پس از تعطیلی ناشی از حملات حوثی‌ها پروازها را در روز یکشنبه از سر می‌گیرد",
+   "summary_fa": "فرودگاه بین‌المللی ریاض اعلام کرد که پروازهای خود را در روز یکشنبه پس از دو هفته تعطیلی ناشی از حملات مرگبار حوثی‌های یمن، از سر می‌گیرد. این بازگشایی در شرایطی صورت می‌گیرد که حملات حوثی‌ها علیه عربستان ادامه داشته است.",
+   "body_fa": [
+    "فرودگاه بین‌المللی ملک خالد در بیانیه‌ای در شبکه اجتماعی اکس اعلام کرد که از روز یکشنبه، ۲۵ اکتبر ۲۰۲۶، ترمینال ۱ برای پروازهای داخلی و ترمینال ۲ برای پروازهای بین‌المللی شرکت‌های هواپیمایی ملی اختصاص داده می‌شود."
+   ],
+   "title_ar": "مطار الرياض يستأنف الرحلات الجوية الأحد عقب إغلاقه إثر هجمات الحوثيين",
+   "summary_ar": "أعلن مطار الرياض الدولي عن استئناف الرحلات الجوية يوم الأحد بعد إغلاق استمر أسبوعين عقب هجمات دامية شنها الحوثيون في اليمن. وتأتي هذه العودة في ظل استمرار الضربات الحوثية على المملكة.",
+   "body_ar": [
+    "وأفاد مطار الملك خالد الدولي في منشور عبر منصة إكس بأن الصالة رقم (1) ستُخصص للرحلات الداخلية، بينما ستُخصص الصالة رقم (2) للرحلات الدولية التي تسيرها الناقلات الوطنية، وذلك اعتباراً من يوم الأحد 25 أكتوبر 2026."
+   ]
+  },
   {
    "id": "96caef3f8ec6",
    "lang": "en",
