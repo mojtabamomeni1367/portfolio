@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:15:26Z",
+ "updated": "2026-11-09T07:48:48Z",
  "items": [
   {
    "id": "6f06cf85fa11",
@@ -1583,6 +1583,684 @@
    "desc": "الرئيس الإسرائيلي إسحق هرتسوغ يعلن تكليف غادي آيزنكوت، رئيس التكتل المعارض الذي حقق أفضلية في الانتخابات التشريعية، بتشكيل حكومة جديدة.",
    "score": 8,
    "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "fd082421c347",
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T19:58:02Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+   "score": 3
+  },
+  {
+   "id": "f17511fbf627",
+   "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T21:37:36Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+   "score": 9,
+   "dup_of": "7da1e4d18a9a"
+  },
+  {
+   "id": "221e80597e10",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T13:37:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "score": 7,
+   "dup_of": "4213c33f66b8"
+  },
+  {
+   "id": "1d829d59cfa2",
+   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T16:05:57Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+   "score": 2,
+   "dup_of": "fd082421c347"
+  },
+  {
+   "id": "8b768a35f717",
+   "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+   "date": "2026-11-09T07:12:09Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+   "score": 8
+  },
+  {
+   "id": "597a3b496bcb",
+   "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+   "date": "2026-11-09T07:07:26Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+   "score": 5
+  },
+  {
+   "id": "d02ce445f338",
+   "title": "What is next for Israel?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
+   "date": "2026-11-09T06:42:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.",
+   "score": 4
+  },
+  {
+   "id": "7c85b6afb37c",
+   "title": "How Israel’s separation wall compares with the Berlin Wall",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+   "date": "2026-11-09T06:32:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
+   "score": 4
+  },
+  {
+   "id": "e85b76b006b9",
+   "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+   "date": "2026-11-09T05:20:08Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+   "score": 3
+  },
+  {
+   "id": "05b114b61672",
+   "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+   "date": "2026-11-09T05:18:39Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+   "score": 7,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "d37704b654a8",
+   "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+   "date": "2026-11-09T05:02:19Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+   "score": 3
+  },
+  {
+   "id": "fb1cc5cfdfc7",
+   "title": "New Delhi blanketed in toxic smog after Diwali fireworks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
+   "date": "2026-11-09T04:35:34Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "New Delhi woke up to thick smog after Diwali celebrations saw fireworks light up the city overnight.",
+   "score": 3,
+   "dup_of": "e85b76b006b9"
+  },
+  {
+   "id": "d37bdd9c471b",
+   "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+   "date": "2026-11-09T04:02:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
+   "score": 8,
+   "dup_of": "5e2c23db415a"
+  },
+  {
+   "id": "21e47872cc22",
+   "title": "Trump says he thinks he will meet with Xi, Putin, set to discuss ending war on iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-he-thinks-he-will-meet-xi-putin-set-discuss-ending-war-iran",
+   "date": "2026-11-09T07:29:25Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says he thinks he will meet with Xi, Putin, set to discuss ending war on iran US president Donald Trump said that he thinks he will meet with his Chinese and Russian counterparts at the Asia-Pacific ‌Economic Cooperation (APEC) summit in China’s Shenzhen next week. \"One of the meetings, I think, will be with President [Vladimir] Putin and President Xi [Jinping]. And that’ll be interesting,\" he told reporters in Florida. \"We’ll talk a lot of things, including denuclearisation. But we’ll be talking a lot of things. We’re trying to end the war in Iran, and we’re doing well because, you know",
+   "score": 9
+  },
+  {
+   "id": "e3b8ae564d2b",
+   "title": "China says it is willing to promote fresh progress in bilateral relations with Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/china-says-it-willing-promote-fresh-progress-bilateral-relations-iran",
+   "date": "2026-11-09T07:04:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "China says it is willing to promote fresh progress in bilateral relations with Iran Chinese special envoy to the Middle East Zhai Jun said that China is willing to promote new progress in bilateral relations with Iran. Zhai added that the expanding conflict in the Middle East cannot be resolved by force. The comments follow Zhai's visit to Iran where he met with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council.",
+   "score": 7
+  },
+  {
+   "id": "d64da89c6d87",
+   "title": "Trump set to meet Qatar’s prime minister at the White House",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-set-meet-qatars-prime-minister-white-house",
+   "date": "2026-11-09T06:48:52Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Trump set to meet Qatar’s prime minister at the White House US president Donald Trump is expected to meet Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani behind closed doors at the White House on Monday. According to a US official speaking to Reuters, the prime minister is also scheduled to have talks with Vice President JD Vance.",
+   "score": 8
+  },
+  {
+   "id": "75c707828abf",
+   "title": "IRGC says 'oil smuggling' through Hormuz Strait has been completely halted",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-oil-smuggling-through-hormuz-strait-has-been-completely-halted",
+   "date": "2026-11-09T05:52:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IRGC says 'oil smuggling' through Hormuz Strait has been completely halted An Islamic Revolutionary Guard Corps (IRGC) navy official said that the \"oil smuggling\" through the southern route in the Strait of Hormuz has been fully halted. \"Following the destruction of enemy navigational aid systems on the southern rocks of the Strait of Hormuz, no offending vessel was able to enter the illegal passage last night, and the flow of oil smuggling through this passage was completely stopped,\" the unnamed official said according to local media.",
+   "score": 8
+  },
+  {
+   "id": "59e73399ae50",
+   "title": "Iranian official says no vital infrastructure damaged in US attack on Qeshm island",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-official-says-no-vital-infrastructure-damaged-us-attack-qeshm",
+   "date": "2026-11-09T05:34:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian official says no vital infrastructure damaged in US attack on Qeshm island A provincial official indicated that no vital infrastructure or services were impacted by a US attack on Iran's Qeshm island overnight. The Iranian official added that the targeted sites were away from residential and commercial areas.",
+   "score": 8
+  },
+  {
+   "id": "998ae9413f24",
+   "title": "Watch: Iranian Foreign Minister comments on paused US-Iran mediation following midterms",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iranian-foreign-minister-comments-paused-us-iran-mediation",
+   "date": "2026-11-09T05:19:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Watch: Iranian Foreign Minister comments on paused US-Iran mediation following midterms Iranian Foreign Minister Abbas Araghchi noted that negotiations between the US and Iran have paused in frequency in the aftermath of the US midterm elections. He said it will take time \"for the mediators to resume their back-and-forth visits,\" emphasising that more patience would be needed to see diplomatic outcomes. Iranian Foreign Minister Abbas Araghchi noted that negotiations between the US and Iran have paused in frequency in the aftermath of the US midterm elections, saying it will take time \"for the ",
+   "score": 7
+  },
+  {
+   "id": "82a5608324e7",
+   "title": "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-americans-are-sick-and-tired-israel-embroiling-us-forever",
+   "date": "2026-11-09T04:56:40Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Araghchi says Americans are 'sick and tired' of Israel embroiling US into 'Forever Wars' Iranian foreign minister Abbas Araghchi said that Americans are \"sick and tired\" of Israel dragging the US into several conflicts. Araghchi's comments came in response to a CBS News interview with Donald Trump, where the US president attributed the Republican Party’s midterm election defeat in part to voters' dislike of Israel. \"POTUS clearly recognizes that the vast majority of Americans are disgusted with Israel. Strikingly, he seems confused about why that's the case,\" the Iranian foreign minister said ",
+   "score": 6
+  },
+  {
+   "id": "7dc30bae854a",
+   "title": "Iran mocks US military initiative to disrupt supply routes",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-mocks-us-military-initiative-disrupt-supply-routes",
+   "date": "2026-11-09T03:33:34Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran mocks US military initiative to disrupt supply routes Iran's Islamic Revolutionary Guard Corps (IRGC) has dismissed a new US military initiative to restrict the movement of goods through Iran's land borders and the Caspian Sea as “merely wordplay”, as tensions over shipping routes and Washington's blockade continue. “The Iron Gate plan is merely wordplay. The Americans cannot achieve their objectives of imposing severe economic pressure to cause economic collapse in Iran through this approach,” IRGC spokesman Hossein Mohebbi told the semi-official Fars news agency on Sunday, according to ",
+   "score": 6
+  },
+  {
+   "id": "8de483c8a615",
+   "title": "Trump doubles down on choice to start war on Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-doubles-down-choice-start-war-iran",
+   "date": "2026-11-09T03:02:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump doubles down on choice to start war on Iran US president Donald Trump has reiterated remarks that he would begin the war on Iran once again if he had a second chance. Trump was asked about whether comments from Vice President JD Vance blaming the war as the reason why the Republican Party lost in last week’s midterm elections had affected their relationship, Trump said: \"No, not at all, but a lot of people didn’t like his comments. But not me.\" \"He was right, other than one thing, he should have made one other statement that I think is very important: if you had to do it again [attack Ir",
+   "score": 8
+  },
+  {
+   "id": "172fe445a368",
+   "title": "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-flooding-brings-gazas-civil-defence-declare-maximum-state",
+   "date": "2026-11-09T02:08:15Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Watch: Flooding brings Gaza's Civil Defence to declare maximum state of emergency Heavy rainfall and strong winds have flooded tens of thousands of displacement tents across Gaza, leaving families exposed to rising floodwaters, freezing conditions and worsening humanitarian needs. Gaza's civil defence declared a maximum state of emergency as overwhelmed rescue teams struggled to respond to thousands of distress calls amid limited resources and inadequate shelter. Rescue teams received over 2000 distress calls since the storm began, while only having capacity to respond to a tenth of the calls ",
+   "score": 7,
+   "dup_of": "05b114b61672"
+  },
+  {
+   "id": "25aa277279d1",
+   "title": "Rubio says no 'breakthrough' in US-Iran talks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-no-breakthrough-us-iran-talks",
+   "date": "2026-11-09T00:49:03Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Rubio says no 'breakthrough' in US-Iran talks US Secretary of State Marco Rubio suggested that there has been no progress regarding truce talks with Iran, accusing the country of making \"unacceptable\" demands. \"I don’t have any progress to report to you,\" Rubio told reporters at the Homestead Air Reserve Base in Florida. \"You have a number of countries that continue to engage them with different ideas, but I wouldn’t say we’re on the verge of a breakthrough.\" \"The president would always prefer to solve this and every problem diplomatically. Sometimes that’s not possible, unfortunately,\" he add",
+   "score": 7
+  },
+  {
+   "id": "3cf3016ad720",
+   "title": "Yemeni government forces claim attacks against Houthi positions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-attacks-against-houthi-positions",
+   "date": "2026-11-08T23:05:33Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemeni government forces claim attacks against Houthi positions Military spokesperson for the Saudi-backed Yemeni government forces, Majid Al-Nazili, said on Sunday that approximately 267 Houthi fighters have been either killed, wounded, or forced to flee the battlefield as part of its “Dawn of Yemen” operation. Al-Nazili stated that combat aircraft conducted 19 airstrikes across the Marib, Taiz, and Tur al-Bahah fronts, while unmanned aerial vehicles carried out 29 targeted attacks. He added that 944 artillery and rocket-launcher strikes were launched against Houthi gatherings, reinforcements",
+   "score": 7,
+   "dup_of": "b552424f341c"
+  },
+  {
+   "id": "2d1f493c6885",
+   "title": "Child shot by Israeli forces during West Bank raid into Jenin-area town",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/child-shot-israeli-forces-during-west-bank-raid-jenin-area-town",
+   "date": "2026-11-08T22:44:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Child shot by Israeli forces during West Bank raid into Jenin-area town A thirteen-year-old Palestinian child was injured by Israeli forces' live fire on Sunday during a military raid into the town of Zababdeh, south of Jenin in the occupied West Bank, Wafa news agency reported, citing the Palestine Red Crescent Society (PRCS). The PRCS reported that its emergency crews provided first aid to a child who sustained a live-fire wound to the chest before transporting him to the hospital.",
+   "score": 7
+  },
+  {
+   "id": "929a4838ff10",
+   "title": "US launches task force to disrupt land transit routes into Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-launches-task-force-disrupt-land-transit-routes-iran",
+   "date": "2026-11-08T22:12:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US launches task force to disrupt land transit routes into Iran US President Donald Trump said Sunday that a new task force is now in “in full force and effect” in Iran. \"Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history’s greatest Naval Blockade, very little gets into, or out of, Iran!\" he posted on his Truth Social platform. US Central Command (Centcom) announced on Saturday that it had established a new task force “to prevent Iran from using ground routes to transport advanced weapons and other materials”.",
+   "score": 8,
+   "dup_of": "caefb1b5006f"
+  },
+  {
+   "id": "7a9ff97b3add",
+   "title": "Explosions heard on Iran's Qeshm Island, state media reports",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports",
+   "date": "2026-11-08T21:42:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Explosions heard on Iran's Qeshm Island, state media reports Iran's IRNA news reported on Sunday the US military fired ‘projectiles’ on Qeshm Island in the Strait of Hormuz on Sunday. This comes after the agency earlier reported four explosions on the island, with several locations struck.",
+   "score": 8,
+   "dup_of": "59e73399ae50"
+  },
+  {
+   "id": "7466fb778cc7",
+   "title": "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/drone-attack-hits-khor-mor-gas-field-iraqs-kurdistan-region",
+   "date": "2026-11-08T20:55:34Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Drone attack hits Khor Mor gas field in Iraq’s Kurdistan region A drone attack targeted the Khor Mor gas field, one of the largest in the Kurdistan region, on Sunday, according to Kurdish security forces. The security sources said that smoke was seen rising from the field located in Iraq’s Sulaymaniyah Governorate. According to the Kurdistan region's electricity ministry, nearly 2.8GW of power generation was lost in the attack, which hit a gas facility in the field. Reporting by Reuters",
+   "score": 8,
+   "dup_of": "4147127ddb68"
+  },
+  {
+   "id": "52f09d37ed39",
+   "title": "Iranian delegation meet president of Kurdish region in northern Iraq",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
+   "date": "2026-11-08T20:52:38Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Iranian delegation meet president of Kurdish region in northern Iraq The president of Iraq’s semi-autonomous Kurdistan Regional Government has met with a delegation from Iran on Sunday and reviewed security agreements between Iran and Iraq, including the Kurdish region of northern Iraq, according to a statement from the president's office. Both sides discussed improving security cooperation and mechanisms to help preserve stability in the region, emphasising the “necessity of relying on dialogue, peaceful solutions, and diplomacy to address disputes and challenges”.",
+   "score": 7
+  },
+  {
+   "id": "c119943acb80",
+   "title": "Gaza sandbank collapse kills five amid heavy rains",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-sandbank-collapse-kills-5-amid-heavy-rains",
+   "date": "2026-11-08T19:53:24Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Gaza sandbank collapse kills five amid heavy rains At least five people have been killed, including three children, after heavy rains caused a sandbank to collapse in central Gaza's Deir al-Balah, Wafa news reported on Sunday. A civil defence spokesman added that five wounded people had been pulled out of the rubble after their tents were hit, and teams are continuing to search for survivors. The incident comes amid worsening conditions faced by displaced Palestinians in Gaza, as national and internation institutions warned heavy rainfall and bad weather require urgent intervention and the pro",
+   "score": 6
+  },
+  {
+   "id": "b86112cda111",
+   "title": "Iraq has agreed with the US to allow oil exports through Hormuz, minister says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-has-agreed-us-allow-oil-exports-through-hormuz-minister-says",
+   "date": "2026-11-08T19:47:20Z",
+   "countries": [
+    "IRQ",
+    "OMN"
+   ],
+   "desc": "Iraq has agreed with the US to allow oil exports through Hormuz, minister says Iraq has reached understandings with the US to allow Iraqi oil exports through the Strait of Hormuz via a shipping lane near Oman, Foreign Minister Fuad Hussein said in an interview with Al Jazeera. He added that Iraq's losses from the Iran war and disruptions to oil exports had reached $60 billion. Hussein also told Al Jazeera that the US Treasury has asked Iraq to close all border crossings with Iran except for two as part of Washington's policy of increasing economic pressure on Tehran, with one of the exceptions",
+   "score": 8
+  },
+  {
+   "id": "77c058411923",
+   "title": "Iran says no progress on US negotiations since midterm results",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-progress-us-negotiations-midterm-results",
+   "date": "2026-11-08T19:42:40Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says no progress on US negotiations since midterm results Iran's Foreign Minister Abbas Araghchi said on Sunday that there has been no progress in mediators' work regarding peace talks between Tehran and Washington to end hostilities in the region since the results of the US midterm elections. “The main reason is the US election results, which have obviously come as a shock to everyone,” Araghchi told reporters. “It will take some time for things to settle down and for the atmosphere to become conducive to the mediators resuming their visits. We have to wait,” he added.",
+   "score": 7,
+   "dup_of": "998ae9413f24"
+  },
+  {
+   "id": "cc92739a85ff",
+   "title": "PM Shehbaz directs foreign ministry to urgently ‘escalate humanitarian assistance’ for rain-hit Gaza",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043256/pm-shehbaz-directs-foreign-ministry-to-urgently-escalate-humanitarian-assistance-for-rain-hit-gaza",
+   "date": "2026-11-09T07:28:15Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif said on Monday he had directed the foreign ministry to pursue all possible means to urgently “escalate humanitarian assistance” to Gaza, where heavy rains have flooded tens of thousands of tents housing displaced Palestinians. The Gaza government media office said on Sunday that at least 70,000 tents had been flooded in the past 12 hours, affecting tens of thousands of displaced people and causing injuries, although no fatalities had been reported. The rains and subsequent flooding has also washed away shelters, according to authorities. Gaza’s civil defence servi",
+   "score": 6
+  },
+  {
+   "id": "d03b3b24e47a",
+   "title": "Lahore remains world’s most polluted major city as AQI crosses 600",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
+   "date": "2026-11-09T07:12:39Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Lahore was ranked the world’s most polluted major city on Monday as its Air Quality Index (AQI) reached 590, according to IQAir. A separate historical reading on the platform, however, showed an hourly index of 647, placing the city in the hazardous category. The IQAir live global major city ranking for 9am to 10am on Nov 9 placed Lahore at the top, followed by Ulaanbaatar with an AQI of 177, Delhi with 174, Kolkata with 173 and Sarajevo with 170. The ranking showed Lahore’s pollution level to be more than three times that of the second-ranked city. The platform’s historical air qualit",
+   "score": 4
+  },
+  {
+   "id": "ebe4ce179c38",
+   "title": "PM raises youth loan amount, lowers minimum age limit",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043142/pm-raises-youth-loan-amount-lowers-minimum-age-limit",
+   "date": "2026-11-09T01:36:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Prime Minister Shehbaz Sharif has increased the limit of personal loans available under the Youth Business and Agriculture Loan schemes, and reduced the minimum age limit to allow 18-year-olds to avail the scheme as well. Chairing a meeting to review progress and implementation of the PM’s Youth Business and Agriculture Loan schemes on Sunday, the prime minister directed that the personal loan limit be enhanced from Rs7.5 million to Rs25m, which would be provided in easy installments. According to the PM’s Office, an amount of Rs 292 billion has been allocated this year for disbursemen",
+   "score": 3
+  },
+  {
+   "id": "4852a1467190",
+   "title": "Historical gurdwara on Lahore's Temple Road reopens first time since Partition",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043123/historical-gurdwara-on-lahores-temple-road-reopens-first-time-since-partition",
+   "date": "2026-11-09T04:59:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The historical Gurdwara Chhevin Patshahi Sri Guru Hargobind Sahib on Temple Road, Mozang, which had been closed since the Partition, was reopened here on Sunday after completion of its restoration. The Evacuee Trust Property Board, Pakistan Sikh Gurdwara Parbandhak Committee (PSGPC) and the Punjab government held a joint ceremony to mark its reopening after 79 years. A good number of members of the Sikh community, Punjab minorities minister and PSGPC president Sardar Ramesh Singh Arora, Evacuee Trust Property Board (ETPB) Secretary Nasir Mushtaq, Nasir Mushtaq, Deputy Secretary Shrines",
+   "score": 4
+  },
+  {
+   "id": "4c63a6ef408d",
+   "title": "Bangladesh's external debt increases almost threefold in decade",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043178/bangladeshs-external-debt-increases-almost-threefold-in-decade",
+   "date": "2026-11-09T05:37:50Z",
+   "countries": [
+    "BGD",
+    "PAK"
+   ],
+   "desc": "Bangladesh’s foreign debt has almost tripled in 10 years, a steeper rise than in any other South Asian country except the Maldives, according to the World Bank. Even so, the country has a lower debt burden relative to export earnings than Pakistan, Sri Lanka and Bhutan. However, its burden is higher than that of India and Nepal. According to the World Bank’s International Debt Report 2026, Bangladesh’s total foreign debt stood at $113 billion at the end of 2025, up from about $38 billion in 2015. That is the third-largest stock in South Asia.For every $100 in annual earnings, Bangladesh carrie",
+   "score": 5
+  },
+  {
+   "id": "8123c48e4b4c",
+   "title": "High cost of crumbling infrastructure in Karachi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043198/high-cost-of-crumbling-infrastructure-in-karachi",
+   "date": "2026-11-09T01:34:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "For thousands of Karachi’s industrial workers, the daily commute is less about distance and more about endurance. Muhammad Ali leaves his Baloch Colony home an hour before his 8am shift at a SITE area pharmaceutical plant. While he can zip 14 kilometres to Nazimabad in 15 minutes via the Karsaz corridor, the final 6km crawl to his factory takes twice as long, choked by potholes and gridlock. Across town in the Korangi Industrial Area, refinery worker Ishtiaq Ali loses four hours a day to public transport navigating endless construction and broken roads. In Pakistan’s largest industrial city, c",
+   "score": 3
+  },
+  {
+   "id": "7bb05f84f715",
+   "title": "Senate opposition leader urges govt to stay out of Yemen",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043143/senate-opposition-leader-urges-govt-to-stay-out-of-yemen",
+   "date": "2026-11-09T01:36:07Z",
+   "countries": [
+    "PAK",
+    "YEM"
+   ],
+   "desc": "ISLAMABAD: Senate Opposition Leader Allama Raja Nasir Abbas on Sunday urged the government to keep Pakistan out of the conflict in Yemen and instead pursue a mediatory role, warning that violating the unanimous parliamentary resolution of 2015 would damage national interests. Addressing the Shuhada-i-Muqawamat and Tajdeed-i-Ahd Conference organised by the Majlis Wahdat-i-Muslimeen (MWM), the party chief reminded attendees that parliament had unanimously decided in 2015 that Pakistan would not become part of the Yemen conflict or send its troops there. “On whose authority is Pakistan being made",
+   "score": 6
+  },
+  {
+   "id": "0b85c5129a8c",
+   "title": "Rawalpindi’s historic buildings crumble amid official apathy",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043220/rawalpindis-historic-buildings-crumble-amid-official-apathy",
+   "date": "2026-11-09T01:36:47Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Old buildings, temples and Gurdwaras in Rawalpindi tell the story of the garrison city’s majestic past, when Hindus and Sikhs made up a dominant share of its population before the partition of the Indian subcontinent. However, these buildings are now in a state of disrepair, as little has been done to preserve them over the past 79 years. Jamia Masjid in Rawalpindi stands tall but is in need of repairs. Though the history of Rawalpindi dates back to the arrival of Alexander in India, its architecturally splendid buildings provide ample opportunities for history lovers to explore the city’s pas",
+   "score": 2
+  },
+  {
+   "id": "40db183b1485",
+   "title": "Maritime Trade: Cashing on shifting trade routes, ME conflict",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043193/maritime-trade-cashing-on-shifting-trade-routes-me-conflict",
+   "date": "2026-11-09T01:34:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "With sufficient capacity, agile policy responses and unusually effective public-private collaboration, Pakistan is well-positioned to capitalise on shifting trade routes amid Middle East turmoil, turning short-term gains into lasting economic advantage. Building on March 2025’s tariff cuts and cargo discounts, the government introduced transshipment incentives in August 2026 under a unified regulatory framework for all ports, announced by Federal Minister for Maritime Affairs Junaid Anwar Chaudhry, to simplify operations. It activated slab-based concessions, with 20-80pc discounts on wet cargo",
+   "score": 5
+  },
+  {
+   "id": "7d76a396cfd9",
+   "title": "Iqbal and the Pakistani dream: fact or fiction?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043237/iqbal-and-the-pakistani-dream-fact-or-fiction",
+   "date": "2026-11-09T07:30:59Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Visiting Srinagar once, Indian essayist Pankaj Mishra found Iqbal in a rather unexpected place. Or, at least, in an unlikely heart. For most Indians, Mishra notes, Iqbal was simply the “misguided instigator of the movement for Pakistan.” But then Mishra met Mohammad Ishaq Khan, a historian of Islam in Kashmir. By his very nature, Dr. Khan held politics at arm’s length; his writing focused on faith’s quieter, more contemplative hues. And yet when this gentle scholar found himself at Iqbal’s tomb in Lahore, he was overcome. “I couldn’t control myself. Tears started pouring from my eyes.” Conclud",
+   "score": 2
+  },
+  {
+   "id": "840a6142a1f0",
+   "title": "Firecrackers, earthen lamps and sweets — Hindu community shares colours of Diwali",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043164/firecrackers-earthen-lamps-and-sweets-hindu-community-shares-colours-of-diwali",
+   "date": "2026-11-09T01:41:14Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "A woman holds an ignited sparkler as people watch the fireworks during a Diwali celebration, while (right) another woman decorates a rangoli pattern with earthen lamps at Shri Swami Narayan Temple on M.A. Jinnah Road.—Shakil Adil/ White Star / PPI KARACHI: Firecrackers went off, sparks flew, and earthen lamps glowed as the Hindu community in Pakistan celebrated Diwali, the festival of lights, on Sunday. Diwali is celebrated on the new-moon night, known as Amavas during the Hindu month of Kartika. Since the sky is dark at the time, the fireworks triumph over the darkness. The festival also serv",
+   "score": 2
+  },
+  {
+   "id": "d8c83b556917",
+   "title": "Turning gaming talent into export earnings",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043199/turning-gaming-talent-into-export-earnings",
+   "date": "2026-11-09T01:34:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan’s game development industry earns an estimated $400-480 million a year. But a large part of that money never makes it home. Faced with rules that require half of export proceeds to be converted into rupees, caps on incoming transactions, slow remittance screening and a 27pc tax on top-ups used to buy ads on platforms such as Google and Unity, many companies have registered abroad and run their finances from there. This means the industry is far bigger than the official figures suggest.Industry insiders say virtually every studio has also registered a company outside Pakistan. The reas",
+   "score": 2
+  },
+  {
+   "id": "86e7e59588f5",
+   "title": "A shifting cycle",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043202/a-shifting-cycle",
+   "date": "2026-11-09T04:43:33Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PAKISTAN’S 2024 election results marked the end of a political cycle that began in the early 2000s. Less often noted is that this cycle expired at roughly the same moment as the global order which framed it. Signs of political and cultural realignment are now fully emergent, and their trajectory passes through events of the past 25 years — the ‘war on terror’ and its effects on Muslim societies, the financial crisis alongside growth in Asian economies, and increased migration to Western countries. The Pakistani domestic cycle is best characterised as an unsuccessful attempt to achieve a politi",
+   "score": 2
+  },
+  {
+   "id": "3cfa5567e4e1",
+   "title": "Bangladesh Foreign Ministry examining Sheikh Hasina’s request for new passport",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-sheikh-hasina-appeals-for-a-new-passport-to-return-from-exile/article71681436.ece",
+   "date": "2026-11-09T07:03:22Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Ms. Hasina’s passport was cancelled soon after she fled to India in August 2024 following the uprising that toppled her government",
+   "score": 7,
+   "dup_of": "8b768a35f717"
+  },
+  {
+   "id": "af36d78ee32d",
+   "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece",
+   "date": "2026-11-09T06:45:15Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "The upcoming Abu Dhabi talks focus on security guarantees amid stalled peace efforts and ongoing fighting",
+   "score": 3
+  },
+  {
+   "id": "7efdba611fc4",
+   "title": "إيران تنفي تضرر بنيتها التحتية إثر هجوم أمريكي، وروبيو يقول إن المفاوضات لم تحرز سوى ‌\"تقدماً ⁠ضئيلاً\"",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cw98z810nv68o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:15:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "نفت شركة الكهرباء الايرانية \"توانير\" وقوع أي هجوم إلكتروني أو انقطاع في شبكة الكهرباء بالعاصمة طهران",
+   "score": 8,
+   "dup_of": "59e73399ae50"
+  },
+  {
+   "id": "f3068a3d3881",
+   "title": "ما سر الهندسة المعمارية التي \"لا مثيل لها\" في مدن اليمن القديمة؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c9gkvl2np5e2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T04:21:38Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "بنيت من الطين قبل حوالي 300 و500 عام. ويمكن أن يصل ارتفاع بعض هذه المباني في اليمن إلى حوالي 30 متراً، في حين أن أول ناطحات سحاب حديثة في شيكاغو كانت أعلى من ذلك بقليل!",
+   "score": 3
   }
  ]
 }
