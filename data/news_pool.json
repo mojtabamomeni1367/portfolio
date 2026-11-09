@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:34:01Z",
+ "updated": "2026-11-09T19:14:01Z",
  "items": [
   {
    "id": "6f06cf85fa11",
@@ -3159,6 +3159,252 @@
    "desc": "نفى وزير الخارجية السوري أسعد الشيباني وجود قوات سورية في اليمن أو خطط قريبة لإرسالها، بعد تقارير تحدثت عن اتفاق مع السعودية لنشر آلاف الجنود السوريين لمواجهة الحوثيين.",
    "score": 8,
    "dup_of": "eb3e201df8e1"
+  },
+  {
+   "id": "87181a6313bc",
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:55:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+   "score": 4
+  },
+  {
+   "id": "f47f2c083c04",
+   "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
+   "date": "2026-11-09T18:50:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
+   "score": 2
+  },
+  {
+   "id": "ca7c41fb3361",
+   "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+   "date": "2026-11-09T18:48:00Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
+   "score": 8,
+   "dup_of": "d64da89c6d87"
+  },
+  {
+   "id": "36c99229d851",
+   "title": "Yemen government forces claim new advances as Houthi border attacks resume",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+   "date": "2026-11-09T18:37:03Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
+   "score": 7
+  },
+  {
+   "id": "6c486a4acb32",
+   "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+   "date": "2026-11-09T17:55:47Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
+   "score": 6,
+   "dup_of": "c119943acb80"
+  },
+  {
+   "id": "34591b7b6c76",
+   "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+   "date": "2026-11-09T17:17:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
+   "score": 2
+  },
+  {
+   "id": "b4ded612646d",
+   "title": "France accuses Iran of cyberattack on supermarket fridges",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+   "date": "2026-11-09T16:33:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.",
+   "score": 4,
+   "dup_of": "87181a6313bc"
+  },
+  {
+   "id": "6e108d8440b5",
+   "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+   "date": "2026-11-09T16:18:28Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
+   "score": 5
+  },
+  {
+   "id": "ba693569e882",
+   "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+   "date": "2026-11-09T18:27:51Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "High winds and heavy train triggered collapse of sand bank overlooking camp for displaced families Witnesses have described the frantic struggle to save three members of a family buried by a landslide triggered by high winds and heavy rain in Gaza. A sand bank overlooking a camp for displaced families south of Deir al-Balah collapsed on Sunday, killing five people and crushing at least three tents. Continue reading...",
+   "score": 6,
+   "dup_of": "c119943acb80"
+  },
+  {
+   "id": "3d340ed72500",
+   "title": "Displaced families suffer in Gaza floods as 70,000 tents wrecked – video",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/video/2026/nov/09/displaced-families-suffer-in-gaza-floods-as-70000-tents-wrecked-video",
+   "date": "2026-11-09T18:04:55Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Gaza's civil defence authorities declared a state of maximum emergency on Saturday as a rainstorm flooded about 70,000 tents housing displaced Palestinians and overwhelmed rescue services. The flooding has made daily life increasingly difficult for displaced families in the camps, now facing a third winter there after Israel's assault on Gaza. The authorities called on the international community to pressure Israel to allow the entry of specialised rescue equipment and vehicles, as well as tents, plastic sheeting and mobile homes to provide emergency shelter Heavy rain floods displaced familie",
+   "score": 6,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "c557d34e0b17",
+   "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+   "date": "2026-11-09T17:54:40Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scale and unprecedented aggression”. Jean-Noël Barrot said “Europe-wide sanctions” would be imposed against those responsible, adding that the attacks – which took control of digital thermostats to push temperatures up to above 50C – constituted “a major violation of the nation’s interests”. Continue reading...",
+   "score": 4,
+   "dup_of": "87181a6313bc"
+  },
+  {
+   "id": "ed1c71a21e19",
+   "title": "'Life in Gaza simply miserable': Amid flooding, lack of aid, conditions 'worsen' for Palestinians",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/life-in-gaza-simply-miserable-amid-flooding-lack-of-aid-conditions-worsen-for-palestinians",
+   "date": "2026-11-09T17:26:51Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Erin Ogunkeye is pleased to welcome Shaina Low, Communication Adviser for the Norwegian Refugee Council (NRC). Thirteen months into what she describes as a \"so-called ceasefire,\" the humanitarian crisis in Gaza continues to deepen, exposing the profound gap between diplomatic commitments and the lived realities of Palestinian civilians. In an interview with France 24, Shayna Low, communications adviser in Palestine for the Norwegian Refugee Council (NRC), describes a population confronting winter flooding, repeated displacement, deteriorating shelter conditions and persistent restrictions on h",
+   "score": 6,
+   "dup_of": "14699685e135"
+  },
+  {
+   "id": "e028ca78e1ed",
+   "title": "Trump's 'Board of Peace' says Israel too slow as floods ravage Gaza",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043318/trumps-board-of-peace-says-israel-too-slow-as-floods-ravage-gaza",
+   "date": "2026-11-09T18:53:14Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "United States President Donald Trump’s “Board of Peace” said on Monday that Israel needed to act immediately to help war-battered Gaza cope with impending winter, saying measures ahead of deadly floods had been insufficient. “The situation no longer represents simply a threat posed by the approaching winter, but an immediate humanitarian emergency,” the Board of Peace said in a statement. Heavy rain over the past two days has swept away tens of thousands of tents in the territory, where virtually the entire population has been displaced at least once, and killed at least five people, according",
+   "score": 7
+  },
+  {
+   "id": "ba91c2e27201",
+   "title": "Turkiye steel factory blast kills 16, probe launched",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043324/turkiye-steel-factory-blast-kills-16-probe-launched",
+   "date": "2026-11-09T19:00:57Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "An explosion ripped through a steel plant in western Turkiye on Monday, killing 16 people and injuring 13, President Recep Tayyip Erdogan said, announcing investigations into the tragedy. Eight workers were trapped at the HABAS steel factory about 60 kilometres north of the port city of Izmir, where the blast struck around midday (2pm PKT), governor Suleyman Elban said. Footage posted online showed a huge cloud of thick smoke pouring into the sky as flames appeared to engulf a tall structure within the HABAS Demir Celik plant in Aliaga. “The circumstances surrounding this tragic incident, whic",
+   "score": 4
+  },
+  {
+   "id": "40a313dd1978",
+   "title": "Trump says resumption of war with Iran 'highly unlikely'",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-resumption-of-war-with-iran-highly-unlikely/article71683793.ece",
+   "date": "2026-11-09T16:46:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran continues to at least partly block traffic through the strategic Strait of Hormuz, which has dented oil supplies out of the Gulf.",
+   "score": 8,
+   "dup_of": "5dbb87056321"
+  },
+  {
+   "id": "691a185bb7f1",
+   "title": "فرانسه سپاه را به دست داشتن در حمله سایبری به یخچال فروشگاه‌ها متهم کرد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cv62y265036ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T16:59:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "وزیر خارجه فرانسه سپاه پاسداران را به دست داشتن در حمله سایبری به یخچال فروشگاه‌های فرانسوی متهم کرد. ژان نوئل بارو وعده داد که در واکنش به این حمله سایبری تحریم‌هایی «در سطح اروپایی» علیه ایران وضع خواهد شد. ایران تاکنون به اتهام‌های آقای بارو پاسخی نداده است.",
+   "score": 4,
+   "dup_of": "87181a6313bc"
+  },
+  {
+   "id": "798b1cfd9f54",
+   "title": "فرنسا تتهم إيران باختراق أنظمة التبريد في عدد من المتاجر الكبرى",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c54g1g2gylx9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T18:52:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "شهد الهجوم الإلكتروني الذي وقع الشهر الماضي رفع درجات حرارة الثلاجات والمجمدات في مئات المتاجر الكبرى بجميع أنحاء فرنسا.",
+   "score": 4,
+   "dup_of": "87181a6313bc"
+  },
+  {
+   "id": "4be97d8c2c7b",
+   "title": "كيف تفاعل رواد مواقع التواصل مع تعيين علي ماهر مديراً فنياً للمنتخب المصري؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq1kdkmx1xlmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T17:01:08Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "تم تعيين علي ماهر مديراً فنياً لمنتخب مصر خلفاً لحسام حسن، فما هي أبرز إنجازاته في الدوري المصري؟ وما دوره في اكتشاف المواهب الشابة؟",
+   "score": 2
   }
  ]
 }
