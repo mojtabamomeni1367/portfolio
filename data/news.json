@@ -1,7 +1,128 @@
 {
- "updated": "2026-11-09T07:48:48Z",
- "count": 439,
+ "updated": "2026-11-09T10:26:57Z",
+ "count": 443,
  "items": [
+  {
+   "id": "d4eb737886b2",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/09/sudan-child-war-refugees-cairo-egypt-spiral-of-despair",
+   "date": "2026-11-09T10:00:06Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 7,
+   "title": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
+   "title_en": "Abandoned and traumatised: child refugees at ‘violent’ breaking point in Egypt after fleeing Sudan war",
+   "summary_en": "Hundreds of thousands of Sudanese child refugees in Egypt face severe trauma, poverty, and isolation following their flight from the civil war, aid workers report. Many are unable to attend school and live in unsafe conditions that put them at risk of exploitation, self-harm, and violence.",
+   "body_en": [
+    "Support workers estimate that between half and 70 percent of roughly 400,000 Sudanese child refugees in Egypt do not attend school, largely due to lack of resources and funding cuts. Left without supervision while their parents work extended hours, numerous children encounter street gangs, drug abuse, and the constant fear of deportation raids by authorities.",
+    "Mental health professionals note sharp increases in depression and suicide attempts among youth carrying memories of conflict and displacement. Families also struggle with dangerous housing situations, including gang harassment and economic desperation, leaving few avenues for assistance."
+   ],
+   "title_fa": "رهاشده و آسیب‌دیده: کودکان پناهجوی سودانی پس از فرار از جنگ در مصر به نقطه بحرانی خشونت رسیده‌اند",
+   "summary_fa": "به گفته مددکاران، صدها هزار کودک پناهجوی سودانی در مصر پس از فرار از جنگ داخلی کشورشان، با آسیب‌های روحی عمیق، فقر و انزوا دست‌وپنجه نرم می‌کنند. بسیاری از آنها امکان رفتن به مدرسه را ندارند و در شرایط ناامنی به سر می‌برند که آنان را در معرض سوءاستفاده، خودآسیبی و خشونت قرار می‌دهد.",
+   "body_fa": [
+    "امدادگران تخمین می‌زنند که بین ۵۰ تا ۷۰ درصد از حدود ۴۰۰ هزار کودک پناهجوی سودانی در مصر، عمدتاً به دلیل کمبود منابع و کاهش کمک‌های بشردوستانه، از تحصیل بازمانده‌اند. بسیاری از این کودکان به دلیل ساعات کاری طولانی والدین خود بدون مراقبت رها شده و با خطراتی نظیر باندهای خیابانی، مصرف مواد مخدر و ترس مداوم از بازداشت و اخراج توسط پلیس روبرو هستند.",
+    "متخصصان بهداشت روان از افزایش چشمگیر موارد افسردگی و اقدام به خودکشی در میان نوجوانانی خبر می‌دهند که بار روحی ناشی از جنگ و آوارگی را به دوش می‌کشند. علاوه بر این، خانواده‌ها با ناامنی شدید در محل زندگی خود، آزار و اذیت از سوی باندهای خیابانی و تنگنای شدید مالی دست‌به‌گریبان هستند."
+   ],
+   "title_ar": "متروكون ومصدومون: الأطفال اللاجئون يصلون إلى حافة الانهيار العنيف في مصر بعد فرارهم من حرب السودان",
+   "summary_ar": "أفاد عمال إغاثة بأن مئات الآلاف من الأطفال اللاجئين السودانيين في مصر يواجهون صدمات نفسية حادة وفقراً وعزلة إثر فرارهم من الحرب الأهلية. ويعاني الكثير منهم من الانقطاع عن التعليم والعيش في ظروف غير آمنة تعرضهم لمخاطر الاستغلال وإيذاء النفس والعنف.",
+   "body_ar": [
+    "يقدر عمال الدعم أن ما بين 50 إلى 70 بالمئة من نحو 400 ألف طفل لاجئ سوداني في مصر لا يذهبون إلى المدارس، وذلك نتيجة لقلة الموارد وتخفيضات التمويل الإنساني. ومع غياب الرقابة لانشغال أولياء الأمور بالعمل لساعات طويلة، يتعرض العديد من الأطفال لمخاطر عصابات الشوارع وتعاطي المخدرات، فضلاً عن الخوف الدائم من حملات الترحيل الشرطية.",
+    "ويشير متخصصون نفسيون إلى ارتفاع حاد في حالات الإحباط وإيذاء النفس بين اليافعين المتأثرين بمشاهد النزاع واللجوء. كما تعاني العائلات من تدهور الأوضاع السكنية وتعرض أفرادها لتهديدات العصابات وسط فقر مدقع وغياب المساعدات الكافية."
+   ]
+  },
+  {
+   "id": "64bd8139fd85",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+   "date": "2026-11-09T09:56:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran’s authorities harden domestic security controls amid US strike threats",
+   "title_en": "Iran’s authorities harden domestic security controls amid US strike threats",
+   "summary_en": "Iranian authorities are tightening internal security measures and public-space enforcement amid ongoing conflict and the risk of further US strikes. The government has issued warnings against anti-state protests and stepped up pressure regarding public lifestyle restrictions.",
+   "body_en": [
+    "Officials and the judiciary have pursued stringent punishments to counter domestic opposition, including executing three individuals accused of attacking public properties during earlier demonstrations. Meanwhile, state backers and Basij members have been mobilized to conduct ideological campaigns and street presence in key urban centers.",
+    "Security personnel have also intervened in areas frequented by youth in Tehran, shutting businesses and breaking up events such as Halloween celebrations. In addition, figures aligned with the establishment have pushed for renewed enforcement of mandatory hijab rules, framing social resistance as an element of broader foreign pressure."
+   ],
+   "title_fa": "تشدید تدابیر امنیتی داخلی توسط مقامات ایران همزمان با تهدید حملات آمریکا",
+   "summary_fa": "مقامات ایرانی در بحبوحه جنگ جاری و خطر حملات بیشتر ایالات متحده، تدابیر امنیتی داخلی و نظارت بر فضاهای عمومی را تشدید کرده‌اند. حکومت هشدارهایی در خصوص مجازات اعتراضات صادر نموده و سخت‌گیری‌ها در زمینه محدودیت‌های اجتماعی را افزایش داده است.",
+   "body_fa": [
+    "دستگاه‌های حکومتی و قضایی برای مهار هرگونه مخالفت به مجازات‌های سنگینی متوسل شده‌اند که از جمله آنها اجرای حکم اعدام سه نفر از بازداشت‌شدگان اعتراضات گذشته به اتهام حمله به مراکز دولتی بوده است. در همین حال، حامیان حکومت و نیروهای بسیج برای اجرای برنامه‌های تبلیغاتی و حضور میدانی در نقاط مختلف شهری بسیج شده‌اند.",
+    "نیروهای امنیتی همچنین با حضور در معابر پرتردد جوانان در تهران، به تعطیلی اصناف و برهم زدن تجمعاتی چون جشن‌های هالووین پرداخته‌اند. از سوی دیگر، چهره‌های نزدیک به حکومت خواستار تشدید برخورد با پوشش اختیاری شده و آن را بخشی از فشارهای خارجی در شرایط جنگی توصیف کرده‌اند."
+   ],
+   "title_ar": "السلطات الإيرانية تشدد الإجراءات الأمنية الداخلية وسط تهديدات بضربات أمريكية",
+   "summary_ar": "تعمل السلطات الإيرانية على تشديد الإجراءات الأمنية الداخلية وفرض رقابة أوسع على الأماكن العامة تزامناً مع استمرار الحرب ومخاطر تجدد الضربات الأمريكية. ووجهت الحكومة تحذيرات ضد أي احتجاجات مع تصعيد القيود المرتبطة بالانضباط الاجتماعي.",
+   "body_ar": [
+    "لجأت السلطات القضائية والأمنية إلى تدابير عقابية حازمة للحد من أي معارضة داخلية، بما في ذلك تنفيذ أحكام إعدام بحق ثلاثة أشخاص على خلفية احتجاجات سابقة بتهمة استهداف منشآت عامة. وفي غضون ذلك، جرى حشد المؤيدين وعناصر الباسيج لإقامة فعاليات داعمة للدولة وتعزيز الانتشار الميداني.",
+    "كما تدخّلت قوات الأمن لفض تجمعات شبابية في شوارع حيوية بطهران وإغلاق عدد من المقاهي إثر إقامة احتفالات بالهالوين. وبالتوازي مع ذلك، دعا شخصيات مقربة من النظام إلى التشدد مجدداً في فرض قواعد الحجاب الإلزامي واعتبار التساهل فيه جزءاً من المواجهة مع الضغوط الخارجية."
+   ]
+  },
+  {
+   "id": "c8ab6ed0ab42",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions",
+   "date": "2026-11-09T09:47:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran defends two-day proposal for peace talks after US rejects conditions",
+   "title_en": "Iran defends two-day proposal for peace talks after US rejects conditions",
+   "summary_en": "Iran has defended its proposal to restart peace talks within two days as a reasonable offer, following US Secretary of State Marco Rubio's dismissal of Tehran's preconditions. Tehran demands the lifting of US sanctions and the naval blockade, alongside an end to fighting on all fronts, before talks can resume.",
+   "body_en": [
+    "Foreign Ministry spokesman Esmaeil Baghaei presented the shortened timeline down from an earlier seven-day proposal, questioning whether it was unreasonable to seek an end to hostilities and blockades prior to negotiations. He also rejected a US military initiative aimed at curbing Iranian overland commerce.",
+    "Baghaei added that reported pressure from Washington on Baghdad to close most of Iraq's border crossings with Iran should not harm relations between the two neighbors."
+   ],
+   "title_fa": "دفاع ایران از پیشنهاد دو روزه برای مذاکرات صلح پس از رد شرایط از سوی آمریکا",
+   "summary_fa": "ایران پس از آنکه مارکو روبیو، وزیر امور خارجه آمریکا، پیش‌شرط‌های تهران را رد کرد، از پیشنهاد خود برای ازسرگیری مذاکرات صلح ظرف دو روز به عنوان پیشنهادی معقول دفاع نمود. تهران خواهان لغو تحریم‌ها و محاصره دریایی آمریکا و همچنین پایان جنگ در تمامی جبهه‌ها پیش از آغاز گفتگوها است.",
+   "body_fa": [
+    "اسماعیل بقایی، سخنگوی وزارت امور خارجه، این بازه زمانی کوتاه‌شده را که پیش‌تر هفت روز اعلام شده بود مطرح کرد و درخواست پایان خصومت‌ها و رفع محاصره را پیش از آغاز مذاکرات منطقی دانست. وی همچنین اقدام نظامی آمریکا برای محدود کردن تجارت زمینی ایران را رد کرد.",
+    "بقایی علاوه بر این تأکید کرد فشارهای گزارش‌شده واشنگتن بر بغداد جهت مسدود ساختن اغلب گذرگاه‌های مرزی با ایران، نباید بر روابط دوجانبه تهران و بغداد تأثیر بگذارد."
+   ],
+   "title_ar": "إيران تدافع عن مقترح اليومين لمحادثات السلام بعد رفض واشنطن شروطها",
+   "summary_ar": "دافعت إيران عن مقترحها لاستئناف محادثات السلام في غضون يومين ووصفته بأنه عرض منطقي، وذلك عقب رفض وزير الخارجية الأمريكي ماركو روبيو لشروط طهران المسبقة. وتشترط طهران رفع العقوبات الأمريكية والحصار البحري وإنهاء الحرب على كافة الجبهات قبل بدء التفاوض.",
+   "body_ar": [
+    "طرح المتحدث باسم وزارة الخارجية إسماعيل بقائي هذا الجدول الزمني المختصر بعد أن كان المقترح السابق يحدد مهلة سبعة أيام، متسائلاً عن مدى غرابة المطالبة بإنهاء القتال ورفع الحصار قبل انطلاق المفاوضات. كما اعتبر تشكيل قوة عمل عسكرية أمريكية لتقييد تجارة إيران البرية خطوة لصرف الانتباه.",
+    "وأضاف بقائي أن الضغوط الأمريكية الممارسة على بغداد لإغلاق معظم حدود العراق مع إيران يجب ألا تؤثر على العلاقات الثنائية القائمة بين البلدين."
+   ]
+  },
+  {
+   "id": "5dbb87056321",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043269/iran-war-highly-unlikely-to-resume-but-decision-depends-on-whether-tehran-signs-very-strong-deal-trump",
+   "date": "2026-11-09T09:08:25Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 9,
+   "title": "Iran war 'highly unlikely' to resume but decision depends on whether Tehran signs 'very strong' deal: Trump",
+   "title_en": "Iran war 'highly unlikely' to resume but decision depends on whether Tehran signs 'very strong' deal: Trump",
+   "summary_en": "US President Donald Trump said that a resumption of war with Iran is \"highly unlikely,\" though he noted that any decision depends on Tehran agreeing to a \"very strong\" deal. His remarks came ahead of White House talks with Qatar's prime minister amid ongoing regional mediation efforts.",
+   "body_en": [
+    "In an interview with CNN, Donald Trump indicated that economic pressure and previous strikes would compel Iran to accept terms set by the United States. Meanwhile, Iranian Foreign Minister Abbas Araghchi stated that peace talks had been temporarily paused while regional parties assess the political consequences of the US midterm elections.",
+    "While active fighting between the two sides has largely diminished, Iran continues to blockade the Strait of Hormuz, and the US Navy maintains a counterblockade targeting Iranian ports. Efforts by mediator countries, including Qatar and Pakistan, have not yet yielded a permanent resolution to the war."
+   ],
+   "title_fa": "ترامپ: ازسرگیری جنگ با ایران «بسیار بعید» است اما تصمیم به امضای توافقی «بسیار قوی» توسط تهران بستگی دارد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که ازسرگیری جنگ با ایران «بسیار بعید» است، هرچند تأکید کرد هر تصمیمی به پذیرش یک توافق «بسیار قوی» از سوی تهران بستگی دارد. این سخنان پیش از دیدار او با نخست‌وزیر قطر در کاخ سفید و در بحبوحه تلاش‌های میانجی‌گرانه منطقه‌ای بیان شد.",
+   "body_fa": [
+    "دونالد ترامپ در مصاحبه‌ای با سی‌ان‌ان مدعی شد که فشارهای اقتصادی و حملات گذشته، رهبران ایران را ناچار به پذیرش شروط ایالات متحده خواهد کرد. در همین حال، عباس عراقچی، وزیر امور خارجه ایران، اظهار داشت که گفتگوهای صلح تا زمان ارزیابی پیامدهای سیاسی انتخابات میان‌دوره‌ای آمریکا با وقفه مواجه شده است.",
+    "اگرچه درگیری‌های نظامی مستقیم تا حد زیادی فروکش کرده است، اما ایران همچنان به تلاش‌ها برای بستن تنگه هرمز ادامه می‌دهد و نیروی دریایی آمریکا نیز بنادر ایران را در محاصره متقابل نگه داشته است. تلاش‌های میانجی‌های منطقه‌ای از جمله قطر و پاکستان تا کنون نتوانسته است به جنگ پایان قطعی دهد."
+   ],
+   "title_ar": "ترامب: استئناف الحرب مع إيران «غير مرجح للغاية» لكن القرار يعتمد على توقيع طهران اتفاقاً «قوياً للغاية»",
+   "summary_ar": "قال الرئيس الأمريكي دونالد ترامب إن استئناف الحرب مع إيران «غير مرجح للغاية»، لكنه شدد على أن أي قرار يعتمد على توقيع طهران لاتفاق «قوي للغاية». وجاءت تصريحاته قبيل محادثات في البيت الأبيض مع رئيس وزراء قطر وسط جهود وساطة إقليمية جارية.",
+   "body_ar": [
+    "أوضح دونالد ترامب في مقابلة مع شبكة سي إن إن أن الضغوط الاقتصادية والضربات العسكرية السابقة ستدفع إيران للقبول بالشروط الأمريكية. وفي المقابل، ذكر وزير الخارجية الإيراني عباس عراقجي أن محادثات السلام عُلقت مؤقتاً لمتابعة تداعيات نتائج انتخابات التجديد النصفي في الولايات المتحدة.",
+    "ورغم تراجع حدة القتال المباشر بشكل كبير، لا تزال إيران تواصل مساعيها لفرض حصار على مضيق هرمز، بينما تفرض البحرية الأمريكية حصاراً مضاداً على الموانئ الإيرانية. ولم تتمكن مساعي دول وسيطة، منها قطر وباكستان، حتى الآن من إحلال وقف نهائي للقتال."
+   ]
+  },
   {
    "id": "21e47872cc22",
    "lang": "en",
