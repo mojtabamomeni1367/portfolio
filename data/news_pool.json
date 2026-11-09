@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:24:33Z",
+ "updated": "2026-11-09T04:15:26Z",
  "items": [
   {
    "id": "6f06cf85fa11",
@@ -1447,6 +1447,142 @@
    ],
    "desc": "تشدید کنونی در یمن و حملات حوثی‌ها به زیرساخت‌های حیاتی عربستان سعودی، آزمونی مهم برای رهبری این کشور ایجاد کرده است.",
    "score": 6
+  },
+  {
+   "id": "5f1f35e39458",
+   "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+   "date": "2026-11-09T02:23:11Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
+   "score": 8,
+   "dup_of": "4147127ddb68"
+  },
+  {
+   "id": "2b3dc2d2a90b",
+   "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+   "date": "2026-11-09T01:19:09Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+   "score": 8,
+   "dup_of": "4147127ddb68"
+  },
+  {
+   "id": "c58085b689f6",
+   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+   "date": "2026-11-08T14:26:14Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man ⁠with a clear path to power. Isaac Herzog’s office said he had informed Eisenkot, the leader of the Yashar party, on Saturday night “of his intention to task him with forming a government”. Continue reading...",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "ce395f819f53",
+   "title": "Heatwaves in Punjab threaten agriculture, food security: UN",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043154/heatwaves-in-punjab-threaten-agriculture-food-security-un",
+   "date": "2026-11-09T02:44:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Report says fruit yields plunge 50pc; heat stress spreads livestock disease, cuts milk output • Shrinking incomes, food spoilage limit rural families’ healthy diets • Women bear brunt of crisis due to heavy outdoor labour; preterm birth risk jumps 26pc in severe weather ISLAMABAD: Increasingly frequent and severe heatwaves in Punjab’s rain-fed rural areas are disrupting agricultural production, reducing household incomes and worsening food insecurity, particularly among women and vulnerable communities, according to a report by United Nations (UN) agencies. The assessment “Extreme Heat and A",
+   "score": 5
+  },
+  {
+   "id": "5b6d9e0cc502",
+   "title": "Khyber Pakhtunkhwa, Gilgit-Baltistan agree to settle old boundary disputes",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043155/khyber-pakhtunkhwa-gilgit-baltistan-agree-to-settle-old-boundary-disputes",
+   "date": "2026-11-09T02:33:44Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KP Governor Faisal Karim Kundi and GB Chief Minister Amjad Hussain meet in Islamabad.—Dawn GILGIT/MANSEHRA: In a move towards resolving decades-old territorial issues, Gilgit-Baltistan Chief Minister Amjad Hussain and Khyber Pakhtunkhwa Governor Faisal Karim Kundi have agreed to initiate negotiations to settle boundary disputes between the two regions, including those involving Shandur Top, Babusar Top and areas surrounding the Diamer-Bhasha and Dassu dams. The agreement came during a meeting between the two leaders in Islamabad on Sunday, where they discussed matters of mutual interest, inclu",
+   "score": 5
+  },
+  {
+   "id": "341892d8b51d",
+   "title": "G7 Ministers meet on efforts to end Ukraine conflict, halt new Iran war",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/g7-ministers-meeting-in-paris-russia-ukraine-conflict-us-israel-strikes-on-iran/article71681281.ece",
+   "date": "2026-11-09T02:12:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Ministers from the leading industrialised nations of Britain, Canada, France, Germany, Italy, Japan and the United States will be gathering with preoccupations strikingly similar to those of the last such meeting in March",
+   "score": 8
+  },
+  {
+   "id": "5e2c23db415a",
+   "title": "Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece",
+   "date": "2026-11-09T01:22:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "America's top diplomat offered a robust defence of the more than eight-month-old war even as voters blamed Mr. Trump's policies for the hit to their pocketbooks, including higher energy prices that stemmed from disruptions to shipments in the Strait of Hormuz",
+   "score": 8
+  },
+  {
+   "id": "5e1b0dbbda3c",
+   "title": "Israeli President picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece",
+   "date": "2026-11-08T05:40:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Mr. Eisenkot, a former military chief, has declined to join forces with Arab parties, with whose support he ‌would have a majority of seats in parliament",
+   "score": 8,
+   "dup_of": "4a32102f2942"
+  },
+  {
+   "id": "ae5be8501e26",
+   "title": "آنچه گذشت؛ سنتکام: نیروهای آمریکایی یک کشتی تجاری را در دریای عمان هدف قرار دادند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cjg477wl2dg2t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T04:06:54Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "سنتکام اعلام کرد که یک کشتی تجاری را به دلیل تلاش برای نقض محاصره دریایی ایران در دریای عمان هدف قرار داد و از حرکت بازداشت. به گفته این فرماندهی، یک هواپیمای نظامی آمریکا پس از هشدار به خدمه کشتی «هودا»، با شلیک مهمات هدایت‌شونده به بخش انتهایی آن، کشتی را از حرکت انداخت. سنتکام پیش‌تر نیز از تشکیل کارگروهی ویژه برای محدود کردن جابه‌جایی تسلیحات پیشرفته و دیگر اقلام تحریمی ایران از طریق مرزهای زمینی و دریای خزر خبر داده بود. این فرماندهی می‌گوید از ماه ژوئیه تاکنون ۱۴۷ کشتی تجاری را وادار به تغییر مسیر کرده و پنج کشتی دیگر را از حرکت بازداشته است.",
+   "score": 7,
+   "dup_of": "13dbab3bc36a"
+  },
+  {
+   "id": "98d444d170fa",
+   "title": "الرئيس الإسرائيلي يكلف غادي آيزنكوت بتشكيل الحكومة وسط خلافات بشأن تجنيد الحريديم",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm62ypx3wj64o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T16:09:20Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "الرئيس الإسرائيلي إسحق هرتسوغ يعلن تكليف غادي آيزنكوت، رئيس التكتل المعارض الذي حقق أفضلية في الانتخابات التشريعية، بتشكيل حكومة جديدة.",
+   "score": 8,
+   "dup_of": "4a32102f2942"
   }
  ]
 }
