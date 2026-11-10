@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:25:34Z",
+ "updated": "2026-11-10T16:04:03Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -3422,6 +3422,259 @@
    ],
    "desc": "The Iraqi government closed the Al-Sheeb crossing in Missan province in October",
    "score": 6
+  },
+  {
+   "id": "81b80a14301a",
+   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T15:21:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+   "score": 6,
+   "dup_of": "e028ca78e1ed"
+  },
+  {
+   "id": "1af921259329",
+   "title": "Deadly Egypt train collision prompts calls for political accountability",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
+   "date": "2026-11-10T15:22:17Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
+   "score": 4
+  },
+  {
+   "id": "ee2fbbcd8f1f",
+   "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+   "date": "2026-11-10T15:21:11Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+   "score": 3
+  },
+  {
+   "id": "e5eb01cfdb56",
+   "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+   "date": "2026-11-10T15:18:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+   "score": 8
+  },
+  {
+   "id": "8ae0a884a0b8",
+   "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
+   "date": "2026-11-10T15:04:30Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
+   "score": 6
+  },
+  {
+   "id": "dfdd54041a2c",
+   "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+   "date": "2026-11-10T14:45:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+   "score": 6,
+   "dup_of": "bbc521794146"
+  },
+  {
+   "id": "e98e6ad7f6d8",
+   "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
+   "date": "2026-11-10T14:27:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
+   "score": 6,
+   "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "bf7fb4382211",
+   "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
+   "date": "2026-11-10T14:03:31Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
+   "score": 3
+  },
+  {
+   "id": "bba6ef90d654",
+   "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
+   "date": "2026-11-10T14:01:09Z",
+   "countries": [
+    "ARE",
+    "IRN",
+    "ISR",
+    "QAT",
+    "SAU"
+   ],
+   "desc": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
+   "score": 3
+  },
+  {
+   "id": "b49fb99b26f3",
+   "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
+   "date": "2026-11-10T13:39:22Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
+   "score": 8
+  },
+  {
+   "id": "d4d15f28e58a",
+   "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
+   "date": "2026-11-10T13:34:33Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
+   "score": 7
+  },
+  {
+   "id": "87cfd790eced",
+   "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+   "date": "2026-11-10T15:39:26Z",
+   "countries": [
+    "EGY",
+    "PSE"
+   ],
+   "desc": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently posted on social media about children killed in Israeli airstrikes in Gaza and called for a ceasefire. Continue reading...",
+   "score": 3,
+   "dup_of": "ee2fbbcd8f1f"
+  },
+  {
+   "id": "f7a45b2b3a1e",
+   "title": "Israel live: Eisenkot party submits bill to new parliament to investigate October 7 failures",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset",
+   "date": "2026-11-10T14:40:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel's new parliament was sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. Eisenkot's party moved to immediately set up a commission to investigate failures that allowed Hamas's October 7, 2023 attack, a move long resisted by caretaker Prime Minister Benjamin Netanyahu. Follow our live coverage for the latest updates.",
+   "score": 4
+  },
+  {
+   "id": "238fcd72a611",
+   "title": "JI says 'basic outline' of proposal for petroleum levy relief agreed upon during talks with govt",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043556/ji-says-basic-outline-of-proposal-for-petroleum-levy-relief-agreed-upon-during-talks-with-govt",
+   "date": "2026-11-10T15:51:42Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Jamaat-i-Islami (JI) Vice Emir Liaqat Baloch said on Tuesday that the government and the party had agreed on the “basic outlines” of a proposed agreement as the two sides held their 10th round of negotiations on petroleum levy relief. After a meeting with Prime Minister Shehbaz Sharif last month, both sides agreed to form a bipartisan committee to expand the government’s ongoing fuel relief scheme in response to JI’s demands for the abolition of the petroleum levy. The JI also warned of resuming its postponed march to Islamabad by mid-November if no relief was announced. Speaking to",
+   "score": 4
+  },
+  {
+   "id": "ee2ee24c156a",
+   "title": "Britain says its bases are safe after US refuelling planes evacuated",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043541/britain-says-its-bases-are-safe-after-us-refuelling-planes-evacuated",
+   "date": "2026-11-10T13:49:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Britain said on Tuesday that its military bases were safe, after the US removed huge refuelling aircraft from a British airbase following what the Wall Street Journal said was a threat from Iran, the second such apparent evacuation in three months. Commercially available flight tracking data showed at least 10 Boeing KC-135R Stratotanker refuelling planes left the Royal Air Force base in Mildenhall, eastern England, on Monday. One flew to a base in Germany, one to Scotland and two to Spain, while the destinations of the other six were not reported. At least three Osprey multipurpose aircraft a",
+   "score": 6,
+   "dup_of": "89d2f9d5e48d"
+  },
+  {
+   "id": "e257bccfb76c",
+   "title": "Imran's hospital transfer: Uzma seeks early fixation of contempt plea against govt for third time",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043527/imrans-hospital-transfer-uzma-seeks-early-fixation-of-contempt-plea-against-govt-for-third-time",
+   "date": "2026-11-10T14:11:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Dr Uzma Khan, sister of incarcerated PTI founder Imran Khan, on Tuesday again approached the Supreme Court (SC) seeking an early fixation of the contempt plea against the federal government over alleged flouting of the court’s order to shift the ex-premier to Shifa International Hospital (SIH) for medical treatment. On Aug 18 , a three-member SC bench had directed the government to shift Imran to Islamabad’s SIH within the next two days as it heard several petitions concerning his health. However, the government took the PTI founder to the government-run Pakistan Institute of Medica",
+   "score": 4,
+   "dup_of": "c43e8639edeb"
+  },
+  {
+   "id": "9841da69f76a",
+   "title": "Iran rejects France’s ‘baseless accusations’ on cyberattack",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
+   "date": "2026-11-10T14:58:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Hundreds of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the temperatures in their refrigerators and freezers, forcing many to throw away entire inventories of perishable food",
+   "score": 6,
+   "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "3b4a847bc086",
+   "title": "فرانسه در واکنش به «حمله سایبری سپاه» سفیر ایران را احضار کرد؛ ایران اتهام‌های «بی‌اساس» را محکوم کرد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cm4g1gy13558o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T13:35:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "فرانسه می‌گوید که در واکنش به «حمله سایبری سپاه پاسداران» سفیر ایران را صبح سه‌شنبه را احضار کرده است. ایران این اتهام را «فرافکنی» برای «انحراف افکار عمومی» فرانسه توصیف کرد.",
+   "score": 6,
+   "dup_of": "3cbc32ffad21"
   }
  ]
 }
