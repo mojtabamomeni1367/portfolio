@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T19:12:15Z",
+ "updated": "2026-11-10T21:57:45Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -2520,7 +2520,8 @@
     "PSE"
    ],
    "desc": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
-   "score": 6
+   "score": 6,
+   "dup_of": "e9fab194082d"
   },
   {
    "id": "326f2d169f65",
@@ -3980,8 +3981,7 @@
     "PSE"
    ],
    "desc": "UK awards deals worth millions to firms linked to illegal Israeli settlements The British government has awarded £10.7m ($14.4m) in public contracts to firms linked to illegal Israeli settlements in the occupied West Bank, it has emerged. The contracts were published after Foreign Secretary Ed Miliband announced comprehensive sanctions on the settlements on 8 September in parliament, according to an Al Jazeera investigation. \"To those who finance or facilitate illegal settlements, let me say this: you will face the full force of UK sanctions,\" Miliband said. \"Settlements are illegal.\" But the ",
-   "score": 7,
-   "dup_of": "f3b35d58b5b4"
+   "score": 7
   },
   {
    "id": "f0d933f7cc46",
@@ -4078,6 +4078,267 @@
    "desc": "President Isaac Herzog, ceremonially opening the session, called on all sides to work together and avoid a fresh election in a deeply polarised country weary from three years of war.",
    "score": 7,
    "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "58032ebc9a06",
+   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T19:26:42Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Supporters of Sheikh Hasina want her to return from exile in India.",
+   "score": 7
+  },
+  {
+   "id": "68932bc1231a",
+   "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+   "date": "2026-11-10T20:39:46Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "score": 7
+  },
+  {
+   "id": "a25156387904",
+   "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+   "date": "2026-11-10T20:23:03Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
+   "score": 5
+  },
+  {
+   "id": "599182ceb8d5",
+   "title": "F1 champion Lewis Hamilton visits Gaza border",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+   "date": "2026-11-10T20:14:34Z",
+   "countries": [
+    "EGY",
+    "PSE"
+   ],
+   "desc": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
+   "score": 3
+  },
+  {
+   "id": "4d72459b2cef",
+   "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+   "date": "2026-11-10T20:07:01Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
+   "score": 4
+  },
+  {
+   "id": "679554b7246b",
+   "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
+   "date": "2026-11-10T19:54:46Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
+   "score": 3
+  },
+  {
+   "id": "6bc481b81826",
+   "title": "Rubio says no need for major combat operations against Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+   "date": "2026-11-10T19:34:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
+   "score": 8
+  },
+  {
+   "id": "cf27878220f2",
+   "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+   "date": "2026-11-10T19:59:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails Opposition lawmakers have wasted no time after Israel’s new Knesset was sworn in, deploying their majority to seize control of the legislature from Benjamin Netanyhau and his allies. Although they are still too divided to form a government, the opposition requested a vote for a new speaker, who sets the Knesset’s agenda. Once Netanyahu loyalist Amir Ohana has been replaced, the six opposition parties will be able to work on key legislation even if they broker a coalition. Continue r",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "146fa5ff5a82",
+   "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+   "date": "2026-11-09T22:58:31Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed Donald Trump has said that the war in Iran is “effectively over” as he played down concerns that the US would escalate its military campaign against Tehran after the midterm elections. During a White House press conference, Trump said that Israel and Gulf allies in the region were well protected from Iran and that an escalation was not needed. Continue reading...",
+   "score": 9,
+   "dup_of": "ee6742e73a89"
+  },
+  {
+   "id": "ae8afbac63ec",
+   "title": "US charges three 'Iranian operatives' over UK air base plot",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-charges-three-iranian-operatives-over-uk-air-base-plot",
+   "date": "2026-11-10T21:13:56Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US charges three 'Iranian operatives' over UK air base plot The US Justice Department on Tuesday announced charges against three men described as \"Iranian operatives\" over their role in an alleged plot to attack Britain's RAF Fairford air base. Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani were charged in relation to the September incident at the base, which has been used by the US military in its operations against Iran.",
+   "score": 7,
+   "dup_of": "89d2f9d5e48d"
+  },
+  {
+   "id": "9e442ecebe20",
+   "title": "US says no need for new attacks but calls Iran's peace terms 'absurd'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-no-need-new-attacks-calls-irans-peace-terms-absurd",
+   "date": "2026-11-10T20:59:09Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "US says no need for new attacks but calls Iran's peace terms 'absurd' The US is downplaying the chances of a fresh attack against Iran even as it characterises Tehran’s conditions for a political settlement as “absurd”. US President Donald Trump said on Monday after meeting Qatar’s prime minister at the White House that the war was “effectively over” and that there was “momentum” to end the conflict. Trump has used deescalatory language since the Republican Party was badly defeated in US midterm elections on 3 November by the Democrats, who campaigned against the war and rising energy prices. ",
+   "score": 8
+  },
+  {
+   "id": "249b12595cb4",
+   "title": "UN peacekeepers say came they under fire in southern Lebanon",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-came-under-fire-southern-lebanon",
+   "date": "2026-11-10T20:56:16Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "UN peacekeepers say came they under fire in southern Lebanon The United Nations peacekeeping force in Lebanon (Unifil) said on Tuesday that one of its patrols came under fire in the country's south, without saying who was responsible. The force, whose mandate in Lebanon expires at the end of this year, said the patrol \"was fired upon with about a dozen rounds\" near Wadi Jilu and returned fire, after which the shooting stopped. It reported no casualties and called for an investigation. \"We reiterate the obligation under international law for all actors to ensure the safety and security of UN pe",
+   "score": 7
+  },
+  {
+   "id": "e47be1f9aaf9",
+   "title": "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-shifting-blame-cyberattack-supermarket-fridges-iran-says",
+   "date": "2026-11-10T19:51:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says Iran’s Foreign Minister Abbas Araghchi said France is “shifting blame for its failures” by accusing an IRGC-affiliated cyber unit of hacking supermarket fridges earlier in October. “Unable to manage fridges let alone addressing grievances of its people, French government is shifting blame for its failures onto others,\" Araghchi said in a post on X. “Yes, Iran is powerful. But unlike France, we do not exercise power via support for massacres in Gaza or bombings of schools and hospitals,\" he said. Unable to manage fridg",
+   "score": 3
+  },
+  {
+   "id": "a3fd267c21ad",
+   "title": "F1 star Lewis Hamilton visits Gaza border",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/f1-star-lewis-hamilton-visits-gaza-border",
+   "date": "2026-11-10T19:35:15Z",
+   "countries": [
+    "EGY",
+    "PSE"
+   ],
+   "desc": "F1 star Lewis Hamilton visits Gaza border Formula One star Lewis Hamilton visited Egypt's Rafah border crossing on Tuesday and met aid workers delivering assistance to the war-battered Gaza Strip, according to an Egyptian government statement. North Sinai governor \"Khaled Megawer took Lewis Hamilton on a visit to the Rafah land crossing to learn about the Egyptian efforts to support the Palestinian brothers in the Gaza Strip\", the statement read. Video shared by Megawer's office showed the seven-time world champion greeting aid workers and learning about their efforts to get supplies into Gaza",
+   "score": 3,
+   "dup_of": "599182ceb8d5"
+  },
+  {
+   "id": "368b9b96ecf5",
+   "title": "PM Shehbaz arrives in Turkiye to address COP31 summit",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-summit",
+   "date": "2026-11-10T20:49:06Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif arrived in Antalya, Turkiye, on Tuesday for a three-day visit to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). Upon arrival, the prime minister was received by Turkiye’s Deputy Culture and Tourism Minister Gökhan Yazgı, Pakistan’s Ambassador-designate Amna Baloch and senior Turkish officials, the Prime Minister’s Office (PMO) said. The premier is accompanied by PPP Senator and former climate minister Sherry Rehman, Information Minister Attaullah Tarar, and his advise",
+   "score": 3
+  },
+  {
+   "id": "69a77c6b7689",
+   "title": "US calls for new Europe security framework as Russia, Ukraine hold first peace talks in 9 months",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043580/us-calls-for-new-europe-security-framework-as-russia-ukraine-hold-first-peace-talks-in-9-months",
+   "date": "2026-11-10T19:47:28Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "A first day of US-led talks between Ukraine and Russia in Abu Dhabi ended on Tuesday, with Washington calling for a “new” security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent’s future. Trump’s envoys Jared Kushner and Steve Witkoff brought together the warring sides for several hours of negotiations — the first since February — that are set to continue on Wednesday. Kushner told delegates the United States had “narrowed the gaps” between the sides — without providing details — and hoped to move towards a “solution” to Europe’s worst conflict s",
+   "score": 5
+  },
+  {
+   "id": "05e35ed3ea1d",
+   "title": "تنش میان نتانیاهو و مخالفانش در جلسه سوگند پارلمان جدید اسرائیل",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqlyeykp0z9do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:02:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "گادی آیزنکوت که از سوی رئیس‌جمهور اسرائیل مسئول تشکیل دولت شده است، در جلسه سوگند پارلمان جدید به تندی از اظهارات بنیامین نتانیاهو انتقاد کرد و یک تنش لفظی میان دو طرف درگرفت. بنیامین نتانیاهو در سخنرانی امروزش با تمرکز بر تهدید ایران خواستار تشکیل یک «دولت وحدت ملی» شد.",
+   "score": 7,
+   "dup_of": "cf27878220f2"
+  },
+  {
+   "id": "a44c069dfc30",
+   "title": "إيران ترفض الاتهامات الفرنسية بالوقوف وراء اختراق ثلاجات متاجر السوبرماركت",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cje3633p0e7eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:43:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "تلففت كميات ضخمة من الأغذية المبردة والمجمدة الشهر الماضي، بعد أن ارتفعت درجات الحرارة داخل ثلاجات ومجمدات في مئات المتاجر الكبرى.",
+   "score": 3,
+   "dup_of": "e47be1f9aaf9"
+  },
+  {
+   "id": "da5f9a9d87db",
+   "title": "مجلس السلام: استجابة إسرائيل بشأن المساعدات بعد الفيضانات في غزة \"غير كافية\"",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckvg6g25l65vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T20:19:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "مجلس السلام انتقد إسرائيل للمرة الأولى وحمل حماس مسؤولية الفشل في نزع السلاح ونقل السلطة",
+   "score": 6,
+   "dup_of": "e028ca78e1ed"
   }
  ]
 }
