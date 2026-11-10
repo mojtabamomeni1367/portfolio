@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:04:03Z",
+ "updated": "2026-11-10T19:12:15Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -2943,7 +2943,8 @@
     "PAK"
    ],
    "desc": "US President Donald Trump has nominated Natalie Baker, the current charge d’affaires at the US embassy in Islamabad, to be the ambassador to Pakistan, according to a statement by the White House. The nomination has been submitted to the US Senate, whose foreign relations committee will review it. If approved by the committee, the nomination will proceed to a vote by the full Senate. Baker would be appointed as the US ambassador to Pakistan following the Senate’s confirmation. She assumed the role of charge d’affaires at the US embassy in Islamabad in January 2025, following the departure of th",
-   "score": 5
+   "score": 5,
+   "dup_of": "b2043d59f839"
   },
   {
    "id": "5d39c1a2d368",
@@ -3391,8 +3392,7 @@
     "PAK"
    ],
    "desc": "Ms. Baker is currently serving as charge d’affaires at the U.S. Embassy in Islamabad. She assumed the role in January 2025, following the departure of then-ambassador Donald Armin Blome",
-   "score": 6,
-   "dup_of": "21f59d1eebbe"
+   "score": 6
   },
   {
    "id": "5c9e47cfb87d",
@@ -3675,6 +3675,409 @@
    "desc": "فرانسه می‌گوید که در واکنش به «حمله سایبری سپاه پاسداران» سفیر ایران را صبح سه‌شنبه را احضار کرده است. ایران این اتهام را «فرافکنی» برای «انحراف افکار عمومی» فرانسه توصیف کرد.",
    "score": 6,
    "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "d157261b629a",
+   "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
+   "date": "2026-11-10T18:58:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+   "score": 6
+  },
+  {
+   "id": "171a9e50802d",
+   "title": "US petrol prices are down, but elevated inflation continues",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
+   "date": "2026-11-10T17:40:35Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
+   "score": 3
+  },
+  {
+   "id": "34eba12618a8",
+   "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+   "date": "2026-11-10T17:35:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
+   "score": 9
+  },
+  {
+   "id": "656e4de6b34e",
+   "title": "Israeli president warns against repeat election in new Knesset session",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+   "date": "2026-11-10T17:16:15Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+   "score": 7
+  },
+  {
+   "id": "af9a823ea00c",
+   "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
+   "date": "2026-11-10T16:39:25Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
+   "score": 8,
+   "dup_of": "d64da89c6d87"
+  },
+  {
+   "id": "9f595a95456e",
+   "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+   "date": "2026-11-10T15:49:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
+   "score": 7
+  },
+  {
+   "id": "f5383672c59b",
+   "title": "Michigan election: How Abdul El-Sayed's critics smeared his defence of Palestinians as 'hate'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/michigan-election-how-abdul-el-sayeds-critics-smeared-his-defence-palestinians-hate",
+   "date": "2026-11-10T18:59:51Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Michigan election: How Abdul El-Sayed's critics smeared his defence of Palestinians as 'hate' Submitted by Murad Idris on Fri, 11/06/2026 - 20:51 By attacking his motives, the senator-elect's opponents turned a debate over US funding for Israel's genocide in Gaza into a trial of his character Abdul El-Sayed (left) won Michigan’s US Senate seat on 3 November, two days after Haley Stevens (centre), the Democrat he beat in the primary, endorsed his Republican opponent Mike Rogers (right) (Jeff Kowalsky, Jim Watson and Blake Fagan/AFP) Off In his victory speech last week, Abdulrahman El-Sayed , th",
+   "score": 3
+  },
+  {
+   "id": "875f0be38a8e",
+   "title": "Israeli fire kills seven, including a father and son, in Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say",
+   "date": "2026-11-10T18:31:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli fire kills seven, including a father and son, in Gaza Israeli forces killed at least seven Palestinians, including a father and his 13-year-old son, in the Gaza Strip on Tuesday, local health officials said. Medics said Fadi Rajab and his son Abubakr were killed in an air strike that hit the roof of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third Palestinian was killed in an Israeli air strike near a school in Gaza City's Daraj neighbourhood, health officials added. In Khan Younis, in southern Gaza, Israeli gunfire killed a man, medics said. Later on Tuesday, ",
+   "score": 7,
+   "dup_of": "9f595a95456e"
+  },
+  {
+   "id": "57549c99ef88",
+   "title": "GCC to establish joint forward-command centre in Kuwait",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/gcc-establish-joint-forward-command-center-kuwait",
+   "date": "2026-11-10T17:48:55Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "KWT"
+   ],
+   "desc": "GCC to establish joint forward-command centre in Kuwait Submitted by Sean Mathews on Tue, 11/10/2026 - 16:47 Given the intense attacks Kuwait has faced from Iran and its allies in Iraq, questions remain about how the new centre could be defended Gulf Cooperation Council secretary general Jasem Mohamed al-Budaiwi gives a press conference with Russia's foreign minister and Bahrain's foreign minister after the 9th joint ministerial meeting of the strategic dialogue between the GCC and the Russian Federation in Manama, on 18 October 2026 (Fadhel Madan/AFP) Off The Gulf Cooperation Council (GCC) ha",
+   "score": 8,
+   "dup_of": "fe03fc111db6"
+  },
+  {
+   "id": "655b1eef6c85",
+   "title": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-catches-fire-after-hitting-naval-mine-hormuz-iran-says",
+   "date": "2026-11-10T17:45:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says An oil tanker caught fire after hitting a naval mine in the Strait of Hormuz, Iran's Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, according to state broadcaster IRIB. Two other tankers had caught fire earlier on Tuesday after hitting naval mines in the strait, according to the IRGC.",
+   "score": 9
+  },
+  {
+   "id": "d5a8cdcd4188",
+   "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-parliament-sworn-eisenkot-tries-forge-government",
+   "date": "2026-11-10T16:40:18Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's parliament sworn in as Eisenkot tries to forge a government Israel's parliament was sworn in on Tuesday without a new government, after a deadlocked general election stripped Prime Minister Benjamin Netanyahu of his parliamentary majority but left his main rivals with no clear path to power. Lawmakers elected in the 27 October vote took their oaths of office as Gadi Eisenkot, a former general, sought to forge a coalition after Israel's president tasked him on Sunday with forming a government. Eisenkot and his allies also lack a majority and he has yet to strike deals with parties that",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "b7588f06f1aa",
+   "title": "G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/g7-agrees-need-avoid-security-void-lebanon-after-un-force-mandate-ends",
+   "date": "2026-11-10T16:13:10Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends G7 foreign ministers agreed on \"the need to avoid a security void\" in Lebanon after UN peacekeepers pull out, French Foreign Minister Jean-Noel Barrot said on Tuesday after a meeting of the group in Paris. They also backed \"the need to move quickly toward a new security architecture\" after the mandate of United Nations peacekeeping forces expires at the end of the year, he said. But Barrot acknowledged there had been no breakthrough on what should replace the United Nations Interim Force in Lebanon, which has bee",
+   "score": 7
+  },
+  {
+   "id": "866b02979421",
+   "title": "Burnham's plan to 'end neoliberalism' includes hiring US firm linked to Gaza aid site massacres",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid",
+   "date": "2026-11-10T16:03:17Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Burnham's plan to 'end neoliberalism' includes hiring US firm linked to Gaza aid site massacres British Prime Minister Andy Burnham has turned to an American consulting group that worked with the US and Israeli -backed Gaza Humanitarian Foundation to help draft a plan that was supposed to “end neoliberalism” in the UK . Boston Consulting Group (BCG), whose former employees include Israeli Prime Minister Benjamin Netanyahu and Burnham’s chief of staff, James Purnell, has been hired to help shape the prime minister’s 10-year plan. One of the “big three” management consultancy firms, BCG has been",
+   "score": 3
+  },
+  {
+   "id": "384d2144166e",
+   "title": "Iran denies reports of Rezaei meeting with US Vice President JD Vance",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-reports-rezaei-meeting-us-vice-president-jd-vance",
+   "date": "2026-11-10T16:01:10Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran denies reports of Rezaei meeting with US Vice President JD Vance Iranian Foreign Minister Abbas Araghchi has dismissed as “completely unfounded” reports that Mohsen Rezaei, who heads Iran’s Supreme National Security Council, would meet US Vice President JD Vance. Araghchi said “there are no plans to hold such a meeting.”",
+   "score": 7
+  },
+  {
+   "id": "f62d174ba246",
+   "title": "Burnham's plan to 'end neoliberalism' includes involvement of US firm linked to Gaza aid site massacres",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid-site-massacres",
+   "date": "2026-11-10T15:55:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Burnham's plan to 'end neoliberalism' includes involvement of US firm linked to Gaza aid site massacres Submitted by Oscar Rickett on Tue, 11/10/2026 - 14:44 Boston Consulting Group, whose former employees include Benjamin Netanyahu and James Purnell, to consult on UK prime minister's 10-year plan A GHF aid site pictured on 8 June 2025, as smoke bombs are fired by Israeli troops (Eyad Baba/AFP) Off British Prime Minister Andy Burnham has turned to an American consulting group that worked with the US and Israeli -backed Gaza Humanitarian Foundation to help draft a plan that was supposed to “end",
+   "score": 3,
+   "dup_of": "866b02979421"
+  },
+  {
+   "id": "17a309d8cd15",
+   "title": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-riyadh-airport-and-saudi-oil-infrastructure",
+   "date": "2026-11-10T14:53:01Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure Houthi military spokesperson Yahya Saree says the group targeted King Khalid International Airport in Riyadh and several pumping stations on Saudi Arabia’s East-West oil pipeline. Writing on X, Saree also said the Houthis struck Riyadh’s financial centre and an Aramco site in Abqaiq. The attack, said Saree were in \"response to the brutal Saudi aggression against our country and its ongoing crimes against our beloved people the latest of which was its heinous crime against vendors and shoppers at Al-Hadara Market in Taiz, car",
+   "score": 9,
+   "dup_of": "1e8eade9d411"
+  },
+  {
+   "id": "976330782719",
+   "title": "Israeli settlers torch machinery in attack on Palestinian industrial zone",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-settlers-torch-machinery-attack-palestinian-industrial-zone",
+   "date": "2026-11-10T14:25:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers torch machinery in attack on Palestinian industrial zone Submitted by Muhammad Ateeq on Tue, 11/10/2026 - 13:58 The assault destroys machinery worth more than $1m and threatens the livelihoods of hundreds of Palestinian workers and their families Settlers torched excavators, vehicles and pieces of equipment belonging to local stone-cutting workshops in Beita, near Nablus, in the occupied West Bank, 10 November 2026 (Muhammad Ateeq/MEE) Off Israeli settlers attacked an industrial zone in the Palestinian town of Beita, south of Nablus in the occupied West Bank, on Monday, settin",
+   "score": 6
+  },
+  {
+   "id": "249689f0d78c",
+   "title": "‘We woke up soaking wet’: Gaza’s displaced face another winter of floods and collapsed shelters",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-woke-soaking-wet-gazas-displaced-face-another-winter-floods-and",
+   "date": "2026-11-10T14:20:29Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "‘We woke up soaking wet’: Gaza’s displaced face another winter of floods and collapsed shelters For the past four days, Nahla al-Majdoub, 48, and her family of eight have been staying with neighbours in the west of Gaza City after their tent was destroyed by the latest heavy rainfall. Majdoub and her family had been sheltering in a makeshift tent at the port of Gaza for nearly two years after their home in the northern Gaza Strip was destroyed during Israel’s ground invasion. But when heavy rain and strong winds swept across the besieged enclave last week, their fragile shelter could no longer",
+   "score": 7,
+   "dup_of": "e028ca78e1ed"
+  },
+  {
+   "id": "99c8d1b49732",
+   "title": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-claims-strait-hormuz-oil-flows-near-pre-war-levels-some-nights",
+   "date": "2026-11-10T13:58:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights US Secretary of State Marco Rubio says oil shipments through the Strait of Hormuz have recovered to more than four-fifths of their pre-war volume on some nights. He attributed the remaining shortfall to Iranian exports. “Oil is getting out – on some nights it’s 80-85 percent of what was getting out pre-conflict. “The only reason why it isn’t 100 percent is because Iranian oil isn’t getting out. “The only oil that isn’t getting out consistently through the strait of Hormuz is the Iranian oil,” he told reporters at a G7 f",
+   "score": 8,
+   "dup_of": "75c707828abf"
+  },
+  {
+   "id": "5e4b12e4cd49",
+   "title": "Iran military chief warns of retaliation beyond the region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-chief-warns-retaliation-beyond-region",
+   "date": "2026-11-10T13:11:34Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran military chief warns of retaliation beyond the region Iran’s armed forces chief Ali Abdollahi has warned that the military will “respond without restrictions and beyond the region” if the “enemy” takes action against Iran. “We will have many surprises for the enemy during the future war. If the Zionist entity makes any mistake against us, we will destroy it,” he said. The warning follows US President Donald Trump’s declaration on Monday that the war was “effectively over”.",
+   "score": 9
+  },
+  {
+   "id": "08efd16d4f34",
+   "title": "The changing face of Israel’s ultra-Orthodox politics",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/changing-face-israels-ultra-orthodox-politics",
+   "date": "2026-11-10T12:55:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The changing face of Israel’s ultra-Orthodox politics Submitted by Rikki Sprinzak on Tue, 11/10/2026 - 10:35 Election results expose growing divisions within Haredi society and raise questions about the future of its longstanding alliance with Netanyahu One of the most significant developments in the aftermath of the Israeli elections was the decision by United Torah Judaism (UTJ), the main ultra-Orthodox Jewish party, not to recommend Benjamin Netanyahu to form the next government. This marks a departure from years of close alliance between Netanyahu and the ultra-Orthodox, or Haredi, parties",
+   "score": 5
+  },
+  {
+   "id": "e9fab194082d",
+   "title": "UK awards deals worth millions to firms linked to illegal Israeli settlements",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-awards-deals-worth-millions-firms-linked-illegal-israeli-settlements",
+   "date": "2026-11-10T12:47:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UK awards deals worth millions to firms linked to illegal Israeli settlements The British government has awarded £10.7m ($14.4m) in public contracts to firms linked to illegal Israeli settlements in the occupied West Bank, it has emerged. The contracts were published after Foreign Secretary Ed Miliband announced comprehensive sanctions on the settlements on 8 September in parliament, according to an Al Jazeera investigation. \"To those who finance or facilitate illegal settlements, let me say this: you will face the full force of UK sanctions,\" Miliband said. \"Settlements are illegal.\" But the ",
+   "score": 7,
+   "dup_of": "f3b35d58b5b4"
+  },
+  {
+   "id": "f0d933f7cc46",
+   "title": "Govt slashes petrol price by Rs8 per litre, high-speed diesel by Rs7 in another reduction",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043557/govt-slashes-petrol-price-by-rs8-per-litre-high-speed-diesel-by-rs7-in-another-reduction",
+   "date": "2026-11-10T18:29:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 2
+  },
+  {
+   "id": "d22b80f7dc6d",
+   "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event",
+   "date": "2026-11-10T19:04:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif on Tuesday emphasised that Chashma-5 (C-5) Nuclear Power Plant represents clean electricity and energy security for the people of Pakistan. The premier was addressing a ceremony marking the dome placement of the C-5 plant near Mianwali. The placement of a nuclear plant’s dome, which is weather-sealed, signifies the end of civil works and the beginning of internal construction and installation. A government press release hailed the progress as a “major milestone” for the Pakistan Atomic Energy Commission (PAEC). It noted that the C-5 project will have a generation ",
+   "score": 4
+  },
+  {
+   "id": "4c6eb92534bc",
+   "title": "PM Shehbaz arrives in Turkiye, to address COP31 tomorrow",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-tomorrow",
+   "date": "2026-11-10T17:40:47Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif arrived in Antalya, Turkiye, on Tuesday for a three-day visit to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). Upon arrival, the prime minister was received by Turkiye’s Deputy Culture and Tourism Minister Gökhan Yazgı, Pakistan’s Ambassador-designate Amna Baloch and senior Turkish officials, the Prime Minister’s Office (PMO) said. The premier is accompanied by PPP Senator and former climate minister Sherry Rehman, Information Minister Attaullah Tarar, and his advise",
+   "score": 3
+  },
+  {
+   "id": "6860b9d4d177",
+   "title": "Second Pakistan-Sri Lanka Test shifted from Lahore to Rawalpindi over smog",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043576/second-pakistan-sri-lanka-test-shifted-from-lahore-to-rawalpindi-over-smog",
+   "date": "2026-11-10T18:42:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Pakistan Cricket Board (PCB) on Tuesday shifted the second Test between Pakistan and Sri Lanka from Lahore to Rawalpindi amid worsening smog conditions in the Punjab capital. According to an official announcement issued by the PCB, the match, originally scheduled to be played in Lahore from November 17 to 21, will now take place at Rawalpindi Cricket Stadium on the same dates. “The second Test match between Pakistan and Sri Lanka, originally scheduled to be played in Lahore from November 17 to 21, has been relocated to Rawalpindi due to prevailing weather conditions,” PCB spokesperson Amir",
+   "score": 1
+  },
+  {
+   "id": "7a203a7568d2",
+   "title": "Pakistan beat Nepal to set up U-19 Asia Cup semi-final against Bangladesh",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043568/pakistan-beat-nepal-to-set-up-u-19-asia-cup-semi-final-against-bangladesh",
+   "date": "2026-11-10T17:02:11Z",
+   "countries": [
+    "BGD",
+    "OMN",
+    "PAK"
+   ],
+   "desc": "Defending champions Pakistan maintained their unbeaten run in the ACC Men’s U-19 Asia Cup 2026 with a convincing 101-run victory over Nepal at the Al Amerat Cricket Ground in Muscat on Tuesday. With three wins from as many matches, Pakistan finished top of Group A to qualify for the semi-finals, where they will take on Bangladesh in the first semi-final on Thursday. Batting first, Pakistan posted 275-7 in their allotted 50 overs, with half-centuries from Ahmed Hussain and captain Farhan Yousaf laying the foundation for the total. Ahmed top-scored with a brisk 89 off 73 balls, hitting seven fou",
+   "score": 1
+  },
+  {
+   "id": "d3a6cf30a8cd",
+   "title": "Gulf Arab states approve military command headquarters in Kuwait, GCC chief says",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/gulf-arab-states-approve-military-command-headquarters-in-kuwait-gcc-chief-says/article71687293.ece",
+   "date": "2026-11-10T17:29:06Z",
+   "countries": [
+    "BHR",
+    "KWT"
+   ],
+   "desc": "The announcement followed the 23rd meeting ​of the ‌GCC’s Joint Defence Council, attended by Defence Ministers from the bloc’s member states, in Bahrain",
+   "score": 8,
+   "dup_of": "fe03fc111db6"
+  },
+  {
+   "id": "8c8a2773b581",
+   "title": "New Israeli parliament to take aim at Netanyahu as Eisenkot seeks government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece",
+   "date": "2026-11-10T16:14:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "President Isaac Herzog, ceremonially opening the session, called on all sides to work together and avoid a fresh election in a deeply polarised country weary from three years of war.",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
   }
  ]
 }
