@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:15:32Z",
+ "updated": "2026-11-10T13:25:34Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -3096,6 +3096,332 @@
    "desc": "أعاد هجومان في الكرك وعمان، نفذهما أشخاص سبق أن أُدينوا بقضايا إرهابية، ملف مكافحة الإرهاب إلى الواجهة في الأردن، وسط تحرك حكومي لتشديد العقوبات ومنع تكرار الهجمات.",
    "score": 6,
    "skip": true
+  },
+  {
+   "id": "71ab83aa7760",
+   "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T12:25:48Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+   "score": 7
+  },
+  {
+   "id": "ff6c707d6d50",
+   "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T11:23:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+   "score": 7,
+   "dup_of": "2d1f493c6885"
+  },
+  {
+   "id": "877e460c394a",
+   "title": "Bangladesh prosecutor warns Hasina faces execution if she returns",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/bangladesh-prosecutor-warns-hasina-faces-execution-if-she-returns?traffic_source=rss",
+   "date": "2026-11-10T13:10:41Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Bangladesh’s International Crimes Tribunal has said ousted PM Sheikh Hasina will be executed if she returns home.",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "134bdafbb02c",
+   "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
+   "date": "2026-11-10T12:56:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Experts ask whether longer-range missiles are intended to hit targets beyond the Middle East.",
+   "score": 9
+  },
+  {
+   "id": "fe03fc111db6",
+   "title": "Why the GCC is setting up an advanced military command base in Kuwait",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+   "date": "2026-11-10T12:09:54Z",
+   "countries": [
+    "KWT"
+   ],
+   "desc": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
+   "score": 8
+  },
+  {
+   "id": "401b87e56588",
+   "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+   "date": "2026-11-10T11:52:34Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
+   "score": 8
+  },
+  {
+   "id": "d4b8503cedb2",
+   "title": "Who moves first in Iran-US diplomacy?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
+   "date": "2026-11-10T11:14:16Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
+   "score": 7
+  },
+  {
+   "id": "167e633aeec1",
+   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
+   "date": "2026-11-10T10:51:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
+   "score": 5,
+   "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "270465836b00",
+   "title": "Pakistan TV anchor allegedly shot dead at home by her husband",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pakistan-tv-anchor-allegedly-shot-dead-at-home-by-her-husband?traffic_source=rss",
+   "date": "2026-11-10T10:10:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan TV anchor Rabiya Ahsan was shot dead at home. Police are probing her husband's claim of accidental firing.",
+   "score": 3
+  },
+  {
+   "id": "02a67351f25b",
+   "title": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
+   "date": "2026-11-10T09:46:43Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising.",
+   "score": 6,
+   "dup_of": "8b768a35f717"
+  },
+  {
+   "id": "1484d695cddb",
+   "title": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
+   "date": "2026-11-10T11:22:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's new parliament will be sworn on Tuesday, November 10, with Prime Minister Benjamin Netanyahu set to lose his majority as rival Gadi Eisenkot works to form a new government. The opposition hopes to use its newfound legislative power to move quickly on key priorities, including a commission to investigate security failures under Netanyahu that allowed the October 7, 2023 attack by Hamas. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "87b1cb5cadcf",
+   "title": "Israel's new parliament to be sworn in as Eisenkot prepares government",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government",
+   "date": "2026-11-10T09:17:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's new parliament is set to be sworn in Tuesday with neither Prime Minister Benjamin Netanyahu's bloc nor opposition leader Gadi Eisenkot's camp holding a majority. Eisenkot seeks to build a coalition after receiving a mandate to form a government.",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "95eda427d9f7",
+   "title": "Lawyer says Shah Mahmood Qureshi taken to hospital days after suffering fall",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
+   "date": "2026-11-10T13:03:42Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The lawyer representing Shah Mahmood Qureshi said on Tuesday that the senior PTI leader, who is currently incarcerated at Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology (PIC) days after suffering a fall. Qureshi has been indicted in multiple cases pertaining to the May 9, 2023 riots and has remained behind bars since August 2023. In July 2024, the PTI leader was indicted by a Lahore anti-terrorism court in a case registered by the Shadman police over allegedly attacking and burning the police station. Speaking to Dawn , his counsel Rana Mudassar Umar said: “[Qureshi]",
+   "score": 4
+  },
+  {
+   "id": "e15c0527aa25",
+   "title": "Pakistan tighten grip on first Test as Sri Lanka struggle at 114-3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
+   "date": "2026-11-10T11:59:50Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan strengthened their hold on the opening Test against Sri Lanka on Tuesday, declaring their first innings at 434 for nine before reducing the visitors to 114 for three at the close of the second day at the Rawalpindi Cricket Stadium. Sri Lanka, who still trail by 320 runs, will resume their innings on the third day with Kamindu Mendis unbeaten on 40 and captain Dhananjaya de Silva on 22. Their resistance came after Pakistan’s pace attack made early inroads, although bad light brought an end to play after 27.1 overs. Resuming at 281 for five, Pakistan built on their overnight position th",
+   "score": 1
+  },
+  {
+   "id": "8b3d73dee4ec",
+   "title": "Centre spent Rs5tr on devolved subjects in violation of Constitution, Senate panel head says",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043521/centre-spent-rs5tr-on-devolved-subjects-in-violation-of-constitution-senate-panel-head-says",
+   "date": "2026-11-10T12:46:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The federal government spent more than Rs5 trillion on devolved provincial subjects and on ministries created on Council of Common Interests (CCI) matters in violation of the Constitution, the head of a Senate panel claimed on Tuesday. Citing data from the report of the Auditor General of Pakistan, Senator Barrister Zamir Hussain Ghumro, chairing a sub-committee of the Senate Functional Committee on Devolution, said the figure was equivalent to more than $18 billion. The convener said the country was facing twin issues of exorbitant federal expenditure and heavy borrowing totalling ",
+   "score": 4
+  },
+  {
+   "id": "82cd07c00acd",
+   "title": "BHC hands ex-MPA Abdul Majeed Achakzai 10-year sentence in traffic cop hit-and-run case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043512/bhc-hands-ex-mpa-abdul-majeed-achakzai-10-year-sentence-in-traffic-cop-hit-and-run-case",
+   "date": "2026-11-10T10:55:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "QUETTA: The Balochistan High Court on Tuesday handed former MPA Abdul Majeed Achakzai a ten-year sentence in a case regarding the death of a traffic policeman in a hit-and-run incident . A division bench comprising Justice Muhammad Amir Nawaz Rana and Justice Abdul Qayyum Lehr allowed an appeal filed by the provincial government against Achakzai’s acquittal and set aside the local court decision dated September 4, 2020. Achakzai was convicted under Section 320 (punishment for qatl-i-khata by rash or negligent driving) of the Pakistan Penal Code (PPC) for causing the death of Traffic Sub-Inspec",
+   "score": 3
+  },
+  {
+   "id": "546379d05491",
+   "title": "Lahore’s PM2.5 level eight times WHO guideline, report says",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+   "date": "2026-11-10T11:55:47Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Satellite data detected 16,714 likely crop-residue fires in Punjab between Oct 1 and Nov 9, while Lahore’s average PM2.5 concentration was eight times the World Health Organisation’s (WHO) guideline value, according to a report by the Pakistan Air Quality Initiative (PAQI) that questioned the link between Diwali fireworks in India and the city’s pollution. The report, released on Tuesday, said the number of likely crop-residue fires in Punjab, Pakistan, remained almost unchanged from the corresponding period last year. Lahore’s average PM2.5 concentration stood at 126 micrograms per cu",
+   "score": 4
+  },
+  {
+   "id": "5902fa4933d1",
+   "title": "New Israel parliament to be sworn in as Gadi Eisenkot seeks government",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043517/new-israel-parliament-to-be-sworn-in-as-gadi-eisenkot-seeks-government",
+   "date": "2026-11-10T11:17:19Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s new parliament will be sworn in on Tuesday, with Prime Minister Benjamin Netanyahu set to lose his majority even as rival Gadi Eisenkot still works to form a new government. President Isaac Herzog will deliver a speech at 4pm (7pm PKT) for the swearing-in of the 120-seat parliament, in which neither Netanyahu’s right-wing bloc nor Eisenkot’s opposition will hold a majority. The opposition hopes to use its newfound legislative power to move quickly on key priorities, including a commission to investigate security failures under Netanyahu that allowed the October 7, 2023 attack by Hamas",
+   "score": 7,
+   "dup_of": "71ab83aa7760"
+  },
+  {
+   "id": "29da81dfa33f",
+   "title": "Bangladesh prosecutor says ex-PM Sheikh Hasina will be executed if she returns",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043510/bangladesh-prosecutor-says-ex-pm-sheikh-hasina-will-be-executed-if-she-returns",
+   "date": "2026-11-10T10:12:53Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The Bangladeshi prosecutor who secured the death sentence against ousted leader Sheikh Hasina said on Tuesday she will be executed if she returns home. Hasina, whose 15-year rule was ended by a mass uprising she tried to crush, has vowed to return in December to Bangladesh, where she was convicted of crimes against humanity over the 2024 crackdown on protesters. “Sheikh Hasina has no option but to face the execution of the verdict,” Md Aminul Islam told reporters, responding to reports she planned to return from self-imposed exile in neighbouring India. He added that the 79-year-old fugitive h",
+   "score": 7,
+   "dup_of": "877e460c394a"
+  },
+  {
+   "id": "59c440600c90",
+   "title": "Extreme heat",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043437/extreme-heat",
+   "date": "2026-11-10T11:29:41Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "CLIMATE change is already taking its toll on Pakistan’s farm sector. Crop yields are falling, livestock productivity is declining, fertile land is becoming uncultivable, and food insecurity is rising. Alongside, rural incomes are shrinking, and both cash and food poverty are increasing. It is against this backdrop that a new UN assessment — Extreme Heat and Agriculture — by the Food and Agriculture Organisation and the World Meteorological Organisation has sought to underscore the rapid erosion of farm productivity, especially in rain-fed regions, and its impact on rural households owing to ri",
+   "score": 1
+  },
+  {
+   "id": "4265101cad7a",
+   "title": "Missing discussion",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043439/missing-discussion",
+   "date": "2026-11-10T11:12:20Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "IN contrast to official claims of economic stability, a series of recently released reports provide disturbing evidence of deepening poverty and a human development crisis in Pakistan. According to the World Bank’s Pakistan Poverty and Equity brief , the national poverty rate spiralled from 22 per cent in 2018-19 to 29pc in 2024-25 — meaning that about 70 million poor people across the country live below the national poverty line. The Gini index, a measure of economic inequality, has increased from 28.4pc to 32.7pc, the highest in 25 years. The World Bank’s regional economic outlook reported t",
+   "score": 1
+  },
+  {
+   "id": "b2043d59f839",
+   "title": "U.S. President Donald Trump nominates Natalie Baker as next Ambassador to Pakistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-president-donald-trump-nominates-natalie-baker-as-next-ambassador-to-pakistan/article71686165.ece",
+   "date": "2026-11-10T12:58:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Ms. Baker is currently serving as charge d’affaires at the U.S. Embassy in Islamabad. She assumed the role in January 2025, following the departure of then-ambassador Donald Armin Blome",
+   "score": 6,
+   "dup_of": "21f59d1eebbe"
+  },
+  {
+   "id": "5c9e47cfb87d",
+   "title": "Bangladesh prosecutor says ex-PM Hasina will be executed if she returns",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-prosecutor-says-ex-pm-hasina-will-be-executed-if-she-returns/article71686077.ece",
+   "date": "2026-11-10T12:24:43Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "‘Sheikh Hasina has no option but to face the execution of the verdict,’ Md Aminul Islam told reporters, responding to reports she planned to return from self-imposed exile in neighbouring India.",
+   "score": 7,
+   "dup_of": "877e460c394a"
+  },
+  {
+   "id": "70a27d498707",
+   "title": "Iraq reopens border crossing with Iran",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iraq-reopens-border-crossing-with-iran/article71685697.ece",
+   "date": "2026-11-10T10:24:41Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "The Iraqi government closed the Al-Sheeb crossing in Missan province in October",
+   "score": 6
   }
  ]
 }
