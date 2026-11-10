@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:07:51Z",
+ "updated": "2026-11-10T07:33:25Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -2481,6 +2481,316 @@
    "desc": "تستأنف روسيا وأوكرانيا مفاوضاتهما في أبوظبي برعاية أمريكية، بمشاركة مبعوثين أمريكيين ومحادثات منفصلة مع ممثلين أوروبيين، وسط آمال محدودة بتحقيق اختراق دبلوماسي. وتتركز المخاوف الأوروبية على احتمال فرض واشنطن تسوية بشروط غير مواتية لكييف، في وقت تشكك فيه أوكرانيا بجدية موسكو في التفاوض.",
    "score": 7,
    "dup_of": "eaaf087e9e57"
+  },
+  {
+   "id": "f91bbf340495",
+   "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+   "date": "2026-11-10T06:37:13Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
+   "score": 4
+  },
+  {
+   "id": "df306a5985c9",
+   "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
+   "date": "2026-11-10T06:22:00Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups.",
+   "score": 7,
+   "dup_of": "4147127ddb68"
+  },
+  {
+   "id": "f3b35d58b5b4",
+   "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+   "date": "2026-11-10T05:39:50Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
+   "score": 6
+  },
+  {
+   "id": "326f2d169f65",
+   "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+   "date": "2026-11-10T05:23:57Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
+   "score": 6,
+   "dup_of": "2d1f493c6885"
+  },
+  {
+   "id": "546347761b78",
+   "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+   "date": "2026-11-10T05:02:33Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
+   "score": 6
+  },
+  {
+   "id": "d301c20d9868",
+   "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+   "date": "2026-11-10T06:00:31Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form government Israel’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a new government to unseat Benjamin Netanyahu. High on the agenda will be replacing the speaker, who wields immense influence by controlling the legislature’s agenda. The role is currently held by Amir Ohana, a close ally of Netanyahu. Continue reading...",
+   "score": 7
+  },
+  {
+   "id": "63a6e3eb65c4",
+   "title": "How a Jordan mosque is recycling ritual water to create a green oasis",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/10/mosque-jordan-valley-ablution-water-irrigation",
+   "date": "2026-11-10T05:00:29Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "In a country of severe water scarcity, the Abu Obeida mosque in Deir Alla captures ablution wastewater before it reaches the sewers to use for irrigation The Abu Obeida mosque in Deir Alla, Balqa, to the west of Amman, stands in one of the hottest and most arid stretches of the Jordan valley. Yet an oasis of trees and flowerbeds surrounds it, improbably green against a landscape of bare ochre hills, watered by drip irrigation lines that run along the ground between the roots. The water does not come from the municipal network, but from the taps where worshippers wash their hands, faces and fee",
+   "score": 3
+  },
+  {
+   "id": "750aac584c2f",
+   "title": "The Arab vote in the Israeli elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-vote-israeli-elections",
+   "date": "2026-11-10T07:03:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Arab vote in the Israeli elections Two weeks after Israel held its first general elections since October 2023, opposition leader Gadi Eisenkot has been tasked with forming a government. The election saw a historic voter turnout for Palestinian citizens of Israel, who headed to the ballot for one reason: to oust Benjamin Netanyahu. On this One on One, Balad party leader Sami Abou Shehadeh tells Middle East Eye that although the Arab vote has prevented Netanyahu from forming another far-right government, racism against Palestinians is still prevalent across the Israeli political board. \"The ",
+   "score": 5
+  },
+  {
+   "id": "e55011facd2c",
+   "title": "Trump says hits on Iran could be 'five times bigger' than previous US attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-hits-iran-could-be-five-times-bigger-previous-us-attacks",
+   "date": "2026-11-10T06:42:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says hits on Iran could be 'five times bigger' than previous US attacks US president Donald Trump said that renewed attacks on Iran could be \"five times bigger\" than previous strikes on the country. He made the remarks during a phone interview with C-SPAN’s Washington Journal Primetime, where he also boasted about having \"wiped out\" Iran's navy, air force, anti-aircraft and their leaders. \"They want to make a deal. They don’t say that, you know, publicly,\" Trump said. \"In speaking with Qatar – as you know, the prime minister was in the Oval Office today – in speaking to Saudi Arabia, UAE",
+   "score": 9
+  },
+  {
+   "id": "e0239803aa58",
+   "title": "US issues warnings against travel to six countries in the Middle East",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-warnings-against-travel-six-countries-middle-east",
+   "date": "2026-11-10T05:58:07Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN",
+    "SYR",
+    "YEM"
+   ],
+   "desc": "US issues warnings against travel to six countries in the Middle East The US State Department has warned its citizen against travelling to six Middle Eastern countries, including Iran, Iraq, Lebanon, Libya, Syria and Yemen. In a post on X, the department said all six countries remained under its highest travel advisory, Level 4, which instructs Americans not to travel for any reason. \"We assign Level 4 based on local conditions and/or our limited ability to help Americans there,\" it said. \"These places are dangerous. Do not go for any reason.\"",
+   "score": 4
+  },
+  {
+   "id": "89d2f9d5e48d",
+   "title": "US aircraft evacuated from second UK base due to alleged Iran threat: Report",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-aircraft-evacuated-second-uk-base-due-alleged-iran-threat-report",
+   "date": "2026-11-10T05:48:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US aircraft evacuated from second UK base due to alleged Iran threat: Report The US military evacuated aircraft from an airbase in the UK after an alleged threat from Iran, according to a report by the Wall Street Journal.",
+   "score": 7
+  },
+  {
+   "id": "8ede32a32948",
+   "title": "Watch: German Chancellor Merz links criticism of Israel to antisemitism",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-german-chancellor-merz-links-criticism-israel-antisemitism",
+   "date": "2026-11-10T04:49:10Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Watch: German Chancellor Merz links criticism of Israel to antisemitism German Chancellor Friedrich Merz said that the country \"stands steadfastly by Israel’s side\". Speaking during a ceremony marking the 20th anniversary of the opening of the Ohel Jakob Synagogue, Merz told the audience that much of \"the language of anti-colonial liberation struggles or criticism of Israel\" qualifies as \"antisemitism', which he said \"is once again omnipresent today\", German Chancellor Friedrich Merz linked some anti-colonial and anti-Israel rhetoric to antisemitism during a speech at Munich’s Ohel Jakob Synag",
+   "score": 4
+  },
+  {
+   "id": "f22ed3527de2",
+   "title": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-could-be-ending-fairly-soon-warned-us-locked-and",
+   "date": "2026-11-10T04:26:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded' US President Donald Trump suggested that the war on Iran could end \"fairly soon\", but warned that the US is militarily \"locked and loaded\". \"We’re seeing momentum toward the end of this conflict. I think it’s going to be ending fairly soon,\" he said during a news conference. Trump expressed that Tehran was \"talking very politely\", but reiterated that its forces are ready to strike. \"I don’t guarantee anything. But if we do have to go back in, we are locked and loaded and ready to go,\" the US preside",
+   "score": 9
+  },
+  {
+   "id": "927fad1ae7bb",
+   "title": "PM Shehbaz to leave for Turkiye today, will address COP31 tomorrow",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-to-leave-for-turkiye-today-will-address-cop31-tomorrow",
+   "date": "2026-11-10T06:49:59Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif will be undertaking a visit to Antalya in Turkiye from Nov 10-12 to participate in the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). According to the Foreign Office (FO), the premier will address the summit on Nov 11, during which he will urge the global community to take concrete actions to address the threat posed by climate change to the planet. He will highlight “Pakistan’s steps towards rapid solarisation and expansion of its renewable energy capacity, as part of its trans",
+   "score": 3
+  },
+  {
+   "id": "b3c6cdbc1014",
+   "title": "LPG strike postponed after talks",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043371/lpg-strike-postponed-after-talks",
+   "date": "2026-11-10T02:03:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Pakistan LPG Marketers Association has postponed its planned strike after a meeting with Sindh Governor Syed Nehal Hashmi on Monday. The PLPGMA had annou­nced a strike for Nov 16 over the lack of consultation on the LPG policy. The meeting discussed LPG supply and related policy matters in the context of the evolving Middle East situation and prevailing energy challenges. The Sindh governor emphasised that ensuring an uninterrupted supply of LPG was essential given the current energy challenges, a press release from the Governor House said. PLPGMA Senior Vice President Ali Haider ",
+   "score": 2
+  },
+  {
+   "id": "20c9d3661eda",
+   "title": "High returns lure foreign investors",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043374/high-returns-lure-foreign-investors",
+   "date": "2026-11-10T02:03:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Foreign investment in Pakistan Investment Bonds (PIBs) exceeded $500 million in the first four months of 2026-27, reflecting growing interest in the higher returns offered by domestic bonds. Additionally, inflows in the treasury bills (T-bills) totalled $238 million in the July-October period of FY27. Returns on domestic bonds were already the highest in the region when the State Bank of Pakistan (SBP) raised its policy rate by 50 basis points to 12 per cent on Oct 26. The financial sector believes the attraction is too strong to ignore, not only for foreign investors but also for dom",
+   "score": 3
+  },
+  {
+   "id": "391cefa13b29",
+   "title": "Hegseth likely to face impeachment vote this week",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week",
+   "date": "2026-11-10T02:38:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "WASHINGTON: Repres­­­entative Thomas Massie, a Kentucky Republican, introduced articles of impeachment against US Defence Secretary Pete Hegseth on Monday, setting off a two-day clock for an expected House vote on Wednesday on charges including waging war against Iran without congressional approval and other abuses of power. Hegseth, who calls himself the “secretary of war” as part of his effort to rebrand a military he says was too weak and “woke” when he took office last year, could share something in common with an actual secretary of war. William Belknap, who held that title in 1876, becam",
+   "score": 7,
+   "dup_of": "bbc521794146"
+  },
+  {
+   "id": "c3b2077430cc",
+   "title": "Lahore's Government College forms committee to probe charges against teacher",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043393/lahores-government-college-forms-committee-to-probe-charges-against-teacher",
+   "date": "2026-11-10T05:51:45Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Government College (GC) has constituted a committee to investigate harassment and blackmail allegations against a faculty member after two women attacked him during a conference here Nov 7. The incident took place during tea break at Thaap Conference, when two women allegedly attacked an assistant professor of English at the GC, with punches, according to witnesses, who intervened and later spoke to Dawn . They say three women were present at the conference, where two of them attacked the teacher, while the third filmed the episode on her mobile phone. The video went viral on social me",
+   "score": 1
+  },
+  {
+   "id": "c687437a9498",
+   "title": "Repatriation of illegal Afghan nationals slows down in Khyber",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043350/repatriation-of-illegal-afghan-nationals-slows-down-in-khyber",
+   "date": "2026-11-10T05:43:31Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "KHYBER: Repatriation of undocumented Afghan nationals has considerably slowed down in recent weeks due to poor living conditions coupled with the impending harsh winter in most parts of Afghanistan, officials say. Sources in Landi Kotal and Torkham told Dawn that 10-15 families were returning to Afghanistan daily, compared to hundreds recorded last September and August. An official at the Hamza Baba registration centre said that the return process had slowed down over the last few weeks, with a mere 100 individuals, mostly children, going back compared to over 1,000 daily until the last week o",
+   "score": 6
+  },
+  {
+   "id": "b8f50234611b",
+   "title": "Used car imports under gift scheme persist despite tough restrictions, say vendors",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043373/used-car-imports-under-gift-scheme-persist-despite-tough-restrictions-say-vendors",
+   "date": "2026-11-10T02:03:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Imports of used cars under the gift scheme have continued, with more than 2,000 units arriving in the country during October despite tough import restrictions by the government, according to auto vendors. While used car imports continue, vendors are also unhappy with the new auto policy announced by the government last week, which they believe will damage local component manufacturing by 1,200 engineering enterprises. “All these vehicles are imported through payments to Japanese auction houses via hawala channels and unregulated domestic sales through cash transactions,” former chairm",
+   "score": 2
+  },
+  {
+   "id": "86fdbe97be53",
+   "title": "Fossil fuel emissions fall due to Iran war, renewables: research",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research",
+   "date": "2026-11-10T06:28:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Global fossil fuel emissions are projected to fall slightly in 2026 due to the expansion of renewable energy and the oil price shock sparked by the Iran war, researchers said Tuesday. Emissions from the burning of oil, gas and coal — the main drivers of climate change —rose by 0.9 per cent per year on average in the past decade, hitting a record high in 2025, according to the Global Carbon Budget report. But they are expected to drop by 0.4pc in 2026, according to the research, published as nations meet at the UN’s COP31 climate summit in Antalya, Turkiye. It would be the first annual drop sin",
+   "score": 6
+  },
+  {
+   "id": "975a3a13a3cf",
+   "title": "G7 attention in Paris turns to Ukraine while U.S.-mediated talks get underway in Abu Dhabi",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/g7-attention-in-paris-turns-to-ukraine-while-us-mediated-talks-get-underway-in-abu-dhabi/article71685297.ece",
+   "date": "2026-11-10T07:12:42Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "It was not immediately clear if the U.S. or any of its G7 partners would announce any new assistance for Ukraine",
+   "score": 7,
+   "dup_of": "eaaf087e9e57"
+  },
+  {
+   "id": "b999cf83e4bc",
+   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
+   "date": "2026-11-10T06:45:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The gunmen took the three workers from Khyber Pakhtunkhwa’s Tank district to an undisclosed location after abducting them. The abducted workers were identified as Mir Janan, Ikram and Khanzala, says police",
+   "score": 6
   }
  ]
 }

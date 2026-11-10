@@ -1,7 +1,303 @@
 {
- "updated": "2026-11-10T04:07:51Z",
- "count": 428,
+ "updated": "2026-11-10T07:33:25Z",
+ "count": 438,
  "items": [
+  {
+   "id": "750aac584c2f",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-vote-israeli-elections",
+   "date": "2026-11-10T07:03:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "The Arab vote in the Israeli elections",
+   "title_en": "The Arab vote in the Israeli elections",
+   "summary_en": "Following high voter turnout among Palestinian citizens of Israel to prevent Benjamin Netanyahu from forming a government, opposition leader Gadi Eisenkot has been tasked with forming a new administration.",
+   "body_en": [
+    "In an interview with Middle East Eye, Balad party leader Sami Abu Shehadeh noted that while the Arab vote stopped Netanyahu from establishing another far-right government, systemic racism against Palestinians remains prevalent across the Israeli political spectrum.",
+    "Abu Shehadeh described the choices for the Palestinian minority as limited to bad and worse, warning that Netanyahu is operating in a dangerous phase as he attempts to challenge the election results and force a new vote."
+   ],
+   "title_fa": "رأی اعراب در انتخابات اسرائیل",
+   "summary_fa": "به دنبال مشارکت چشمگیر شهروندان فلسطینی‌تبار اسرائیل در انتخابات برای جلوگیری از تشکیل دولت توسط بنیامین نتانیاهو، گادی آیزنکوت، رهبر اپوزیسیون، مأمور تشکیل کابینه شد.",
+   "body_fa": [
+    "سامی ابوشحاده، رهبر حزب بلد، در گفتگو با میدل ایست آیه خاطرنشان کرد که اگرچه رأی اعراب مانع از تشکیل دولت راست افراطی دیگری توسط نتانیاهو شد، اما نژادپرستی ساختاری علیه فلسطینیان همچنان در سراسر طیف سیاسی اسرائیل رایج است.",
+    "ابوشحاده گزینه‌های پیش روی اقلیت فلسطینی را محدود به بد و بدتر توصیف کرد و هشدار داد که نتانیاهو در فاز خطرناکی به سر می‌برد و تلاش می‌کند نتایج انتخابات را نامعتبر جلوه داده و برگزاری انتخابات مجدد را مطالبه کند."
+   ],
+   "title_ar": "الصوت العربي في الانتخابات الإسرائيلية",
+   "summary_ar": "في أعقاب الإقبال القياسي للناخبين الفلسطينيين في إسرائيل لمنع بنيامين نتنياهو من تشكيل الحكومة، كُلف زعيم المعارضة غادي آيزنكوت بتشكيل الحكومة.",
+   "body_ar": [
+    "وفي مقابلة مع موقع \"ميدل إيست آي\"، أشار سامي أبو شحادة، زعيم حزب التجمع الوطني الديمقراطي، إلى أنه على الرغم من أن الصوت العربي منع نتنياهو من تشكيل حكومة يمينية متطرفة أخرى، إلا أن العنصرية ضد الفلسطينيين لا تزال سائدة في مختلف الأطياف السياسية الإسرائيلية.",
+    "ووصف أبو شحادة الخيارات المتاحة للأقلية الفلسطينية بأنها محصورة بين السيء الأسوأ، محذراً من أن نتنياهو يمر بمرحلة خطيرة للغاية مع تكثيف جهوده لتشكيك في نتائج الانتخابات والدفع نحو إجادة انتخابات جديدة."
+   ]
+  },
+  {
+   "id": "b999cf83e4bc",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
+   "date": "2026-11-10T06:45:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "title_en": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "summary_en": "Police reported that three polio vaccination workers were abducted by unidentified armed men in the Tank district of northwestern Pakistan's Khyber Pakhtunkhwa province.",
+   "body_en": [
+    "The victims were taken from the Sorghar area to an undisclosed location, according to local authorities. This incident is part of a recent wave of attacks and abductions targeting immunisation teams in the region, raising serious concerns over the safety of frontline health workers."
+   ],
+   "title_fa": "ربوده شدن سه تن از کارکنان واکسیناسیون فلج اطفال در شمال غرب پاکستان",
+   "summary_fa": "پلیس اعلام کرد که سه تن از کارکنان واکسیناسیون فلج اطفال توسط مردان مسلح ناشناس در منطقه تنک واقع در استان خیبر پختونخوا در شمال غرب پاکستان ربوده شدند.",
+   "body_fa": [
+    "به گفته مقام‌های محلی، قربانیان از منطقه سورغار به مکان نامعلومی منتقل شدند. این رویداد بخشی از موج اخیر حملات و ربایش‌ها با هدف قرار دادن تیم‌های ایمن‌سازی در این منطقه است که نگرانی‌های جدی را درباره امنیت کارکنان خط مقدم بهداشت ایجاد کرده است."
+   ],
+   "title_ar": "اختطاف ثلاثة من عمال تطعيم شلل الأطفال خلال حملة في شمال غرب باكستان",
+   "summary_ar": "أفادت الشرطة بأن ثلاثة من عمال تطعيم شلل الأطفال اختُطفوا على يد مسلحين مجهولين في منطقة تانك بمحافطة خيبر بختونخوا في شمال غرب باكستان.",
+   "body_ar": [
+    "وبحسب السلطات المحلية، جرى اقتياد الضحايا من منطقة سورغار إلى جهة مجهولة. وتأتي هذه الحادثة في إطار موجة أحدث من الهجمات وعمليات الاختطاف التي تستهدف فرق التطعيم في المنطقة، مما أثار مخاوف جدية بشأن سلامة العاملين الصحيين في الخطوط الأمامية."
+   ]
+  },
+  {
+   "id": "e55011facd2c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-hits-iran-could-be-five-times-bigger-previous-us-attacks",
+   "date": "2026-11-10T06:42:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Trump says hits on Iran could be 'five times bigger' than previous US attacks",
+   "title_en": "Trump says hits on Iran could be 'five times bigger' than previous US attacks",
+   "summary_en": "US President Donald Trump stated that potential new strikes on Iran could be roughly five times larger than previous US military operations.",
+   "body_en": [
+    "Trump made the comments during a phone interview with C-SPAN's Washington Journal Primetime, where he also claimed to have destroyed Iran's military capabilities and leadership.",
+    "He added that regional partners including Qatar, Saudi Arabia, the UAE, Bahrain, and Kuwait would prefer a deal over a renewed and massive military strike."
+   ],
+   "title_fa": "ترامپ: حملات به ایران ممکن است «پنج برابر بزرگ‌تر» از هجوم‌های پیشین آمریکا باشد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اظهار داشت که حملات جدید احتمالی به ایران می‌تواند حدود پنج برابر بزرگ‌تر از عملیات‌های نظامی پیشین ایالات متحده باشد.",
+   "body_fa": [
+    "ترامپ این سخنان را در جریان یک مصاحبه تلفنی با برنامه «واشینگتن ژورنال پرایم‌تایم» شبکه سی-اسپان مطرح کرد و در آنجا همچنین مدعی شد که توانمندی‌های نظامی و رهبری ایران را از بین برده است.",
+    "وی افزود که شرکای منطقه‌ای از جمله قطر، عربستان سعودی، امارات متحده عربی، بحرین و کویت توافق را به یک حمله نظامی مجدد و گسترده ترجیح می‌دهند."
+   ],
+   "title_ar": "ترامپ يقول إن الضربات على إيران قد تكون \"أكبر بخمس مرات\" من الهجمات الأمريكية السابقة",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن الضربات الجديدة المحتملة على إيران قد تكون أكبر بنحو خمس مرات من العمليات العسكرية الأمريكية السابقة.",
+   "body_ar": [
+    "أدلى ترامب بهذه التصريحات خلال مقابلة هاتفيّة مع برنامج \"واشنطن جورنال برايم تايم\" على شبكة سي-سبان، حيث ادعى أيضاً أنه قضى على القدرات العسكرية والقيادة الإيرانية.",
+    "وأضاف أن الشركاء الإقليميين بما في ذلك قطر، السعودية، الإمارات، البحرين، والكويت يفضلون التوصل إلى اتفاق على شن ضربة عسكرية جديدة وواسعة النطاق."
+   ]
+  },
+  {
+   "id": "86fdbe97be53",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research",
+   "date": "2026-11-10T06:28:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Fossil fuel emissions fall due to Iran war, renewables: research",
+   "title_en": "Fossil fuel emissions fall due to Iran war, renewables: research",
+   "summary_en": "Researchers reported that global fossil fuel emissions are expected to decline slightly in 2026, driven by the growth of renewable energy and an oil price shock resulting from the war involving Iran.",
+   "body_en": [
+    "According to the Global Carbon Budget report, emissions are projected to drop by 0.4 percent this year, marking the first annual decrease since pandemic-related lockdowns in 2020. The US-led war in Iran and the closure of the Strait of Hormuz contributed to reduced oil consumption amid surging crude prices.",
+    "Scientists cautioned that while the decline is encouraging, a reduction sparked by geopolitical shocks is not a sustainable climate solution. Meanwhile, total carbon dioxide emissions are still expected to rise when factoring in land-use changes such as deforestation."
+   ],
+   "title_fa": "پژوهش: کاهش انتشار سوخت‌های فسیلی به دلیل جنگ ایران و انرژی‌های تجدیدپذیر",
+   "summary_fa": "پژوهشگران گزارش دادند که انتظار می‌رود انتشار جهانی سوخت‌های فسیلی در سال ۲۰۲۶ به دلیل رشد انرژی‌های تجدیدپذیر و شوک قیمت نفت ناشی از جنگ مرتبط با ایران اندکی کاهش یابد.",
+   "body_fa": [
+    "بر اساس گزارش بودجه کربن جهانی، پیش‌بینی می‌شود که انتشار گازهای گلخانه‌ای در سال جاری 0.4 درصد کاهش یابد که این نخستین کاهش سالانه از زمان قرنطینه‌های همه‌گیری در سال 2020 است. جنگ به رهبری ایالات متحده در ایران و مسدود شدن تنگه هرمز در پی افزایش قیمت نفت به کاهش مصرف نفت کمک کرد.",
+    "دانشمندان هشدار دادند که اگرچه این افت دلگرم‌کننده است، اما کاهشی که ناشی از شوک‌های ژئوپلیتیک باشد، یک راه‌حل پایدار برای اقلیم نیست. در همین حال، انتظار می‌رود که با در نظر گرفتن تغییرات کاربری اراضی مانند جنگل‌زدایی، کل انتشار دی‌اکسید کربن همچنان افزایش یابد."
+   ],
+   "title_ar": "بحث: انخفاض انبعاثات الوقود الأحفوري بسبب حرب إيران والطاقة المتجددة",
+   "summary_ar": "أفاد باحثون بأن الانبعاثات العالمية للوقود الأحفوري من المتوقع أن تنخفض قليلاً في عام 2026، مدفوعة بنمو الطاقة المتجددة وصدمة أسعار النفط الناتجة عن الحرب المرتبطة بإيران.",
+   "body_ar": [
+    "وفقاً لتقرير ميزانية الكربون العالمية، من المتوقع أن تنخفض الانبعاثات بنسبة 0.4 بالمئة هذا العام، في أول تراجع سنوي منذ عمليات الإغلاق المرتبطة بالوباء في عام 2020. وساهمت الحرب التي تقودها الولايات المتحدة في إيران وإغلاق مضيق هرمز في انخفاض استهلاك النفط وسط ارتفاع أسعار الخام.",
+    "وحذر علماء من أنه رغم تشجيع هذا الانخفاض، فإن التراجع المدفوع بصدمات جيوسياسية ليس حلاً مناخياً مستداماً. وفي الوقت نفسه، لا يزال من المتوقع أن ترتفع إجمالي انبعاثات ثاني أكسيد الكربون عند احتساب تغيرات استخدام الأراضي مثل إزالة الغابات."
+   ]
+  },
+  {
+   "id": "d301c20d9868",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
+   "date": "2026-11-10T06:00:31Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+   "title_en": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
+   "summary_en": "As Israel's new Knesset prepares to be sworn in, opposition politicians aim to replace the speaker, currently held by a close ally of Benjamin Netanyahu, as a crucial step toward unseating the prime minister.",
+   "body_en": [
+    "The speaker's role controls the legislature's agenda, and opposition figures like Gadi Eisenkot are reportedly being considered for the position. Security officials have warned of potential disruptions and violent protests surrounding the swearing-in ceremony as the opposition works to form a government.",
+    "While the opposition holds enough seats to install a consensus speaker, forming a coalition remains complicated due to divisions over including Palestinian-led parties and negotiating with ultra-Orthodox factions."
+   ],
+   "title_fa": "رئیس جدید کنست می‌تواند کلید برکناری بنیامین نتانیاهو از نخست‌وزیری اسرائیل باشد",
+   "summary_fa": "در حالی که کنست جدید اسرائیل آماده تحوبل سوگند می‌شود، سیاستمداران اپوزیسیون قصد دارند رئیس کنست را که در حال حاضر از متحدان نزدیک بنیامین نتانیاهو است، تغییر دهند تا گامی حیاتی در جهت برکناری نخست‌وزیر بردارند.",
+   "body_fa": [
+    "نقش ریاست کنست دستور کار قوه مقننه را کنترل می‌کند و گزارش شده است که چهره‌های اپوزیسیون مانند گادی آیزنکوت برای این سمت در نظر گرفته شده‌اند. مقامات امنیتی درباره احتمال بروز اختلال و اعتراضات خشونت‌آمیز همزمان با مراسم تحوّیل سوگند هشدار داده‌اند.",
+    "در حالی که اپوزیسیون کرسی‌های کافی برای تعیین یک رئیس اجماعی را در اختیار دارد، تشکیل ائتلاف به دلیل اختلاف نظر بر سر گنجاندن حزب‌های عربی و مذاکره با جریان‌های حریدی همچنان پیچیده است."
+   ],
+   "title_ar": "رئيس الكنيست الجديد قد يكون المفتاح للإطاحة ببنيامين نتنياهو من رئاسة وزراء إسرائيل",
+   "summary_ar": "بينما يستعد الكنيست الإسرائيلي الجديد لأداء اليمين، يهدف سياسيو المعارضة إلى استبدال رئيس الكنيست، الذي يشغله حالياً حليف مقرب لبنيامين نتانياهو، كخطوة حاسمة نحو إزاحة رئيس الوزراء.",
+   "body_ar": [
+    "يتحكم منصب رئيس الكنيست في جدول أعمال الهيئة التشريعية، وتُشير التقارير إلى احتمال ترشيح شخصيات معارضة مثل غادي آيزنکوت لهذا المنصب. وقد حذرت شخصيات أمنية من اضطرابات محتملة واحتجاجات عنيفة تحيط بمراسيم أداء اليمين بينما تسعى المعارضة لتشكيل حكومة.",
+    "وفي حين تمتلك المعارضة المقاعد الكافية لتعيين رئيس توافقي، يظل تشكيل ائتلاف أمراً معقداً بسبب الانقسامات حول إشراك الأحزاب التي تقودها شخصيات فلسطينية والتفاوض مع الفصائل المتشددة دينياً."
+   ]
+  },
+  {
+   "id": "89d2f9d5e48d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-aircraft-evacuated-second-uk-base-due-alleged-iran-threat-report",
+   "date": "2026-11-10T05:48:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "US aircraft evacuated from second UK base due to alleged Iran threat: Report",
+   "title_en": "US aircraft evacuated from second UK base due to alleged Iran threat: Report",
+   "summary_en": "According to a Wall Street Journal report, the US military evacuated aircraft from a second airbase in the UK following an alleged threat from Iran.",
+   "body_en": [
+    "The US military undertook the evacuation of aircraft from a British airbase amidst reported security concerns regarding Iran."
+   ],
+   "title_fa": "گزارش: هواپیماهای آمریکایی از دومین پایگاه بریتانیا به دلیل تهدید ادعایی ایران تخلیه شدند",
+   "summary_fa": "بر اساس گزارش روزنامه وال استریت ژورنال، ارتش ایالات متحده به دنبال تهدید ادعایی ایران، هواپیماهای خود را از دومین پایگاه هوایی در بریتانیا تخلیه کرد.",
+   "body_fa": [
+    "ارتش ایالات متحده در پی نگرانی‌های امنیتی گزارش‌شده در رابطه با ایران، اقدام به تخلیه هواپیماها از یک پایگاه هوایی بریتانیایی کرد."
+   ],
+   "title_ar": "تقرير: إجلاء طائرات أمريكية من قاعدة بريطانية ثانية بسبب تهديد إيراني مزعوم",
+   "summary_ar": "وفقاً لتقرير صحيفة وول ستريت جورنال، قامت القوات الجوية الأمريكية بإجلاء طائرات من قاعدة جوية ثانية في بريطانيا إثر تهديد إيراني مزعوم.",
+   "body_ar": [
+    "قامت القوات العسكرية الأمريكية بإجلاء الطائرات من قاعدة جوية بريطانية وسط مخاوف أمنية مُبلغ عنها بشأن إيران."
+   ]
+  },
+  {
+   "id": "c687437a9498",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043350/repatriation-of-illegal-afghan-nationals-slows-down-in-khyber",
+   "date": "2026-11-10T05:43:31Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Repatriation of illegal Afghan nationals slows down in Khyber",
+   "title_en": "Repatriation of illegal Afghan nationals slows down in Khyber",
+   "summary_en": "Officials reported that the repatriation of undocumented Afghan nationals in Pakistan's Khyber district has significantly slowed down in recent weeks due to poor living conditions and the approaching harsh winter.",
+   "body_en": [
+    "Landi Kotal and Torkham sources indicated that only 10 to 15 families are returning daily, a sharp drop compared to hundreds per day in previous months. The remaining undocumented Afghans are predominantly labourers facing severe economic challenges and a lack of proper shelter in Afghanistan.",
+    "In addition, agents and transporters have raised complaints regarding lengthy customs verification processes and alleged issues concerning the theft or confiscation of personal items belonging to returning families at the border."
+   ],
+   "title_fa": "کند شدن روند بازگرداندن اتباع غیرقانونی افغان در خیبر",
+   "summary_fa": "مقام‌ها گزارش دادند که روند بازگرداندن اتباع بدون مدرک افغان در منطقه خیبر پاکستان به دلیل شرایط نامناسب زندگی و فرا رسیدن زمستان سخت در هفته‌های اخیر به طور قابل توجهی کند شده است.",
+   "body_fa": [
+    "منابع در لندی کوتال و تورخم اعلام کردند که روزانه تنها ۱۰ تا ۱۵ خانواده بازمی‌گردند که در مقایسه با صدها خانواده در روز طی ماه‌های گذشته، کاهشی چشمگیر دارد. افغان‌های بدون مدرک باقی‌مانده عمدتاً کارگرانی هستند که با چالش‌های شدید اقتصادی و کمبود سرپناه مناسب در افغانستان روبرو هستند.",
+    "علاوه بر این، کارگزاران و ناقلان بار شکایت‌هایی را در خصوص فرآیندهای طولانی بررسی گمرکی و مسائل ادعایی مربوط به سرقت یا ضبط وسایل شخصی خانواده‌های بازگشتی در مرز مطرح کرده‌اند."
+   ],
+   "title_ar": "تباطؤ إعادة الرعايا الأفغان غير القانونيين في خيبر",
+   "summary_ar": "أفاد مسؤولون بأن عملية إعادة الرعايا الأفغان غير المرخصين في منطقة خيبر بباكستان قد تباطأت بشكل ملحوظ في الأسابيع الأخيرة بسبب سوء ظروف المعيشة واقتراب فصل الشتاء القاسي.",
+   "body_ar": [
+    "وأشارت مصادر في لاندي كوتال وتورخم إلى أن ما بين 10 إلى 15 عائلة فقط تعود يومياً، بانخفاض حاد مقارنة بمئات العائلات يومياً في الأشهر السابقة. والأفغان غير المرخصين الباقون هم في الغالب عمال يواجهون تحديات اقتصادية قاسية ونقداً في المأوى المناسب بأفغانستان.",
+    "بالإضافة إلى ذلك، أثار وسطاء وناقلون شكاوى بشأن عمليات التحقق الجمركي الطويلة والمسائل المزعومة المتعلقة سرقة أو مصادرة المتعلقات الشخصية للعائلات العائدة عند الحدود."
+   ]
+  },
+  {
+   "id": "f3b35d58b5b4",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+   "date": "2026-11-10T05:39:50Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+   "title_en": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+   "summary_en": "An Al Jazeera investigation revealed that British public bodies awarded millions in new contracts to companies linked to illegal Israeli settlements, despite government pledges to penalise such businesses.",
+   "body_en": [
+    "Procurement data showed that subsidiaries of firms listed by the United Nations for their involvement in West Bank settlements secured multiple public sector contracts since the UK announced new sanction powers in September. These include roadworks deals awarded to subsidiaries of the German building materials firm Heidelberg Materials, as well as ongoing communications contracts involving Motorola Solutions.",
+    "Critics and legal experts told Al Jazeera that awarding these contracts directly undermines official British sanctions policy and international humanitarian law regarding the occupied territories."
+   ],
+   "title_fa": "شرکت‌های مرتبط با شهرک‌های کرانه باختری با وجود تحریم‌ها قراردادهای ۱۵ میلیون دلاری بریتانیا را بردند",
+   "summary_fa": "یک تحقیق شبکه الجزیره نشان داد که نهادهای عمومی بریتانیا با وجود تعهدات دولت برای جریمه کردن این‌گونه کسب‌وکارها، میلیون‌ها قرارداد جدید به شرکت‌های مرتبط با شهرک‌های غیرقانونی اسرائیلی اعطا کرده‌اند.",
+   "body_fa": [
+    "داده‌های تدارکاتی نشان داد که شرکت‌های تابعه شرکت‌هایی که توسط سازمان ملل متحد به دلیل دست داشتن در شهرک‌های کرانه باختری در فهرست سیاه قرار گرفته‌اند، از زمان اعلام اختیارات جدید تحریمی بریتانیا در سپتامبر، چندین قرارداد بخش عمومی را به دست آورده‌اند. این موارد شامل قراردادهای راه‌سازی اعطا شده به شرکت‌های تابعه شرکت مصالح ساختمانی آلمانی هایدلبرگ ماتریالز و همچنین قراردادهای ارتباطی جاری مربوط به موتورولا سلوشنز است.",
+    "منتقدان و کارشناسان حقوقی به الجزیره گفتند که اعطای این قراردادها مستقیماً سیاست تحریم رسمی بریتانیا و حقوق بین‌الملل بشردوستانه را در رابطه با اراضی اشغالی تضعیف می‌کند."
+   ],
+   "title_ar": "شركات مرتبطة بمستوطنات الضفة الغربية تفوز بعقود بريطانية بقيمة 15 مليون دولار رغم العقوبات",
+   "summary_ar": "كشف تحقيق لـ الجزيرة أن الهيئات العامة البريطانية منحت ملايين الجنيهات في عقود جديدة لشركات مرتبطة بالمستوطنات الإسرائيلية غير القانونية، رغم تعهدات الحكومة بمعاقبة هذه الشركات.",
+   "body_ar": [
+    "أظهرت بيانات المشتريات أن الشركات التابعة لشركات أدرجتها الأمم المتحدة بسبب تورطها في مستوطنات الضفة الغربية قد حصلت على عقود متعددة في القطاع العام منذ أن أعلنت بريطانيا عن صلاحيات عقوبات جديدة في سبتمبر. ويشمل ذلك صفقات أعمال طرق مُنحت لشركات تابعة لشركة مواد البناء الألمانية هايدلبرگ ماتيريالز، فضلاً عن عقود الاتصالات المستمرة التي تشمل موتورولا سلوشنز.",
+    "وقال منتقدون وخبراء قانونيون لـ الجزيرة إن منح هذه العقود يقوض بشكل مباشر سياسة العقوبات الرسمية البريطانية والقانون الدولي الإنساني فيما يتعلق الأراضي المحتلة."
+   ]
+  },
+  {
+   "id": "546347761b78",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+   "date": "2026-11-10T05:02:33Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 6,
+   "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+   "title_en": "European diplomats press Rubio for a role in Russia-Ukraine talks",
+   "summary_en": "European foreign ministers urged US Secretary of State Marco Rubio in Paris that Europe must participate in any settlement to end the war in Ukraine.",
+   "body_en": [
+    "During a Group of Seven meeting in Paris, European officials expressed concerns to Rubio following recent US midterm elections and amid ongoing peace talks in Abu Dhabi. German Foreign Minister Johann Wadephul stated that Europe's security architecture should not be fundamentally changed and emphasized that solutions require European inclusion.",
+    "Ukrainian Foreign Minister Andrii Sybiha is scheduled to join the Paris talks, asserting that no one has the right to decide Ukraine's fate without its participation. The discussions also encompass broader concerns regarding US foreign policy shifts, alongside scheduled sessions addressing Middle Eastern instability."
+   ],
+   "title_fa": "دیپلمات‌های اروپایی خواستار نقش‌آفرینی در مذاکرات روسیه و اوکراین از روبیو شدند",
+   "summary_fa": "وزيران خارجه اروپا در پاریس از مارکو روبیو، وزیر خارجه ایالات متحده، خواستند که اروپا باید در هرگونه توافق برای پایان دادن به جنگ اوکراین مشارکت داشته باشد.",
+   "body_fa": [
+    "طی نشست وزیران خارجه گروه هفت در پاریس، مقام‌های اروپایی نگرانی‌های خود را پس از انتخابات میان‌دوره‌ای اخیر ایالات متحده و در جریان مذاکرات صلح ابوظبی به روبیو ابراز کردند. یوهان وادفول، وزیر خارجه آلمان، اظهار داشت که نباید تغییرات بنیادی در ساختار امنیتی اروپا ایجاد شود و تأکید کرد که دستیابی به راه‌حل نیازمند حضور اروپاست.",
+    "قرار است آندری سیبیها، وزیر خارجه اوکراین، به نشست پاریس بپیوندد و تأکید کرده است که هیچ‌کس حق ندارد سرنوشت اوکراین را بدون حضور این کشور رقم بزند. این گفت‌وگوها همچنین شامل نگرانی‌های گسترده‌تر درباره تغییرات سیاست خارجی ایالات متحده و نشست‌های برنامه‌ریزی‌شده پیرامون ناآرامی‌های خاورمیانه است."
+   ],
+   "title_ar": "دبلوماسيون أوروبيون يضغطون على روبيو من أجل دور في محادثات روسيا وأوکراانيا",
+   "summary_ar": "حث وزراء الخارجية الأوروبيون وزير الخارجية الأمريكي ماركو روبيو في باريس على ضرورة مشاركة أوروبا في أي تسوية لإنهاء الحرب في أوکراانيا.",
+   "body_ar": [
+    "خلال اجتماع لوزراء خارجية مجموعة الدول الصناعية السبع الكبرى في باريس، أعرب المسؤولون الأوروبيون عن مخاوفهم لروبيو في أعقاب انتخابات التجديد النصفي الأمريكية الأخيرة وفي ظل محادثات السلام الجارية في أبوظبي. وذكر وزير الخارجية الألماني يوهان فادفول أنه يجب عدم إجراء تغيير أساسي في الهيكل الأمن الأوروبي، مؤكداً أن الحلول تتطلب مشاركة أوروبية.",
+    "ومن المقرر أن ينضم وزير الخارجية الأيوراني أندري سيبيها إلى محادثات باريس، مؤكداً أنه لا يحق لأحد تقرير مصير بلاده بمعزل عنها. وتتضمن المناقشات أيضاً مخاوف أوسع نطاقاً بشأن تحولات السياسة الخارجية الأمريكية، إلى جانب جلسات مقررة تتناول عدم الاستقرار في الشرق الأوسط."
+   ]
+  },
+  {
+   "id": "f22ed3527de2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-could-be-ending-fairly-soon-warned-us-locked-and",
+   "date": "2026-11-10T04:26:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
+   "title_en": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
+   "summary_en": "US President Donald Trump suggested that the conflict with Iran might conclude soon, while cautioning that American forces remain fully prepared for further action.",
+   "body_en": [
+    "During a news conference, Trump noted a momentum toward the end of the conflict and mentioned that Tehran was speaking very politely.",
+    "However, he stated he could not guarantee anything and warned that if the US must re-engage, the military is locked and loaded."
+   ],
+   "title_fa": "ترامپ: جنگ با ایران ممکن است «به زودی» پایان یابد، اما هشدار داد که آمریکا «آماده رزم» است",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، ابراز امیدواری کرد که درگیری با ایران ممکن است به زودی پایان یابد، در حالی که هشدار داد نیروهای آمریکایی کاملاً برای اقدامات بیشتر آماده هستند.",
+   "body_fa": [
+    "ترامپ در جریان یک کنفرانس مطبوعاتی به وجود تحرکاتی toward پایان این درگیری اشاره کرد و گفت که تهران بسیار مؤدبانه صحبت می‌کند.",
+    "با این حال، او اظهار داشت که هیچ چیزی را تضمین نمی‌کند و هشدار داد که اگر ایالات متحده مجبور به بازگشت شود، ارتش کاملاً آماده و مسلح است."
+   ],
+   "title_ar": "ترامپ يقول إن الحرب على إيران قد \"تنتهي قريباً جداً\"، لكنه يحذر من أن الولايات المتحدة \"جاهزة تماماً\"",
+   "summary_ar": "ألمح الرئيس الأمريكي دونالد ترامب إلى أن الصراع مع إيران قد ينتهي قريباً، مع تحذيره من أن القوات الأمريكية تظل مستعدة بالكامل لأي تحرك إضافي.",
+   "body_ar": [
+    "خلال مؤتمر صحفي، أشار ترامب إلى وجود زخم نحو نهاية هذا الصراع وذكر أن طهران تتحدث بأدب شديد.",
+    "مع ذلك، ذكر أنه لا يضمن شيئاً وحذر من أنه إذا اضطرت الولايات المتحدة للعودة، فإن الجيش جاهز تماماً ومسلح."
+   ]
+  },
   {
    "id": "371c7742f45b",
    "lang": "en",
