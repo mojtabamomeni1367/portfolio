@@ -1,6 +1,77 @@
 {
- "count": 17,
+ "count": 19,
  "items": [
+  {
+   "id": "gaza-flooding-safe-shelter-2026",
+   "date": "2026-11-10",
+   "countries": [
+    "PSE"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Flooding in Gaza: Why Are Thousands of Families Still Without Safe Shelter?",
+     "summary": "Flooding in Gaza exposed gaps from aid approvals to delivery. Follow the path to safe shelter through drainage, transport and access to essential services.",
+     "focus_keyword": "Flooding in Gaza",
+     "image": "/assets/uploads/gaza-flooding-safe-shelter-2026.jpg",
+     "url": "analysis/gaza-flooding-safe-shelter-2026-en.html"
+    },
+    "fa": {
+     "title": "سیل در غزه؛ چرا هزاران خانواده هنوز به سرپناه امن دسترسی ندارند؟",
+     "summary": "سیل در غزه مسیر امداد را از مجوز ورود تا تحویل کمک به خانواده ها در معرض آزمون گذاشت. این تحلیل به موانع تامین سرپناه امن و راه سنجش پاسخ می پردازد.",
+     "focus_keyword": "سیل در غزه",
+     "image": "/assets/uploads/gaza-flooding-safe-shelter-2026.jpg",
+     "url": "analysis/gaza-flooding-safe-shelter-2026-fa.html"
+    },
+    "ar": {
+     "title": "فيضانات غزة؛ لماذا لا تجد آلاف الأسر مأوى آمنا؟",
+     "summary": "كشفت فيضانات غزة الفجوة بين الموافقة على دخول المساعدات ووصولها إلى الأسر. يتتبع التحليل مسار الإمدادات والتصريف والنقل حتى توفير مأوى آمن.",
+     "focus_keyword": "فيضانات غزة",
+     "image": "/assets/uploads/gaza-flooding-safe-shelter-2026.jpg",
+     "url": "analysis/gaza-flooding-safe-shelter-2026-ar.html"
+    }
+   },
+   "added": "2026-11-10T10:31:38Z"
+  },
+  {
+   "id": "israel-after-netanyahu-gaza-2026",
+   "date": "2026-11-10",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Israel After Netanyahu: What Could an Eisenkot Government Change in Gaza?",
+     "summary": "Assess Israel after Netanyahu through three policy choices for Gaza: troop withdrawal, verification of Hamas disarmament and Palestinian civilian administration.",
+     "focus_keyword": "Israel after Netanyahu",
+     "image": "/assets/uploads/israel-after-netanyahu-gaza-2026.jpg",
+     "url": "analysis/israel-after-netanyahu-gaza-2026-en.html"
+    },
+    "fa": {
+     "title": "اسرائیل پس از نتانیاهو؛ دولت احتمالی آیزنکوت چه چیزی را در غزه تغییر می دهد؟",
+     "summary": "اسرائیل پس از نتانیاهو را با سه معیار بررسی می کنیم: زمان خروج نیروها، سازوکار بررسی خلع سلاح حماس و اختیار عملی یک اداره فلسطینی برای ارائه خدمات.",
+     "focus_keyword": "اسرائیل پس از نتانیاهو",
+     "image": "/assets/uploads/israel-after-netanyahu-gaza-2026.jpg",
+     "url": "analysis/israel-after-netanyahu-gaza-2026-fa.html"
+    },
+    "ar": {
+     "title": "إسرائيل بعد نتنياهو؛ ما الذي قد تغيره حكومة آيزنكوت في غزة؟",
+     "summary": "كيف يمكن أن تتغير سياسة إسرائيل بعد نتنياهو في غزة؟ يقارن التحليل بين شروط الانسحاب والتحقق من نزع سلاح حماس وصلاحيات الإدارة المدنية الفلسطينية.",
+     "focus_keyword": "إسرائيل بعد نتنياهو",
+     "image": "/assets/uploads/israel-after-netanyahu-gaza-2026.jpg",
+     "url": "analysis/israel-after-netanyahu-gaza-2026-ar.html"
+    }
+   },
+   "added": "2026-11-10T10:31:38Z"
+  },
   {
    "id": "china-energy-security-diplomacy-2026",
    "date": "2026-11-09",
