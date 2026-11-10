@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:21:02Z",
+ "updated": "2026-11-10T04:07:51Z",
  "items": [
   {
    "id": "34f7acf760dc",
@@ -2093,6 +2093,394 @@
    "desc": "دونالد ترامپ گفته است که از سرگیری حملات ایالات متحده علیه ایران «بسیار بعید و غیرضروری» است. آقای ترامپ پس از شکست سنگین حزبش در انتخابات میان‌دوره‌ای در کاخ سفید گفت که ایران «از نظر نظامی عملاً از پا درآمده است» و روندی مثبت به سوی دستیابی به توافقی برای پایان دادن به جنگ شکل گرفته است. او پس از دیدار با نخست‌وزیر قطر گفت قدرت‌های منطقه خواهان حفظ وضعیت موجود هستند.",
    "score": 8,
    "dup_of": "5dbb87056321"
+  },
+  {
+   "id": "9b6cbbc69269",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T01:55:22Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+   "score": 2
+  },
+  {
+   "id": "1e8eade9d411",
+   "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+   "date": "2026-11-10T03:17:51Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
+   "score": 8
+  },
+  {
+   "id": "68b9aafc5a8c",
+   "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+   "date": "2026-11-10T01:59:59Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
+   "score": 5
+  },
+  {
+   "id": "b8309b7ae717",
+   "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+   "date": "2026-11-10T01:56:47Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
+   "score": 5
+  },
+  {
+   "id": "3cbc32ffad21",
+   "title": "France blames Iran for October supermarket cyberattack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+   "date": "2026-11-10T01:01:47Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+   "score": 6
+  },
+  {
+   "id": "a976a69a6b3e",
+   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+   "date": "2026-11-10T01:00:00Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+   "score": 8,
+   "dup_of": "ee6742e73a89"
+  },
+  {
+   "id": "371c7742f45b",
+   "title": "Saudi-led coalition intercepts drone Eastern Province",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-drone-eastern-province",
+   "date": "2026-11-10T03:58:13Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi-led coalition intercepts drone Eastern Province The Saudi-led coalition said intercepted and destroyed a drone over Saudi Arabia's oil-rich Eastern Province. The Eastern Region, which is the economic powerhouse of Saudi Arabia, contains the majority of the kingdom's oil and gas reserves and is home to oil giant Saudi Aramco's 2222.SE headquarters.",
+   "score": 7
+  },
+  {
+   "id": "83faaa0d361d",
+   "title": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-missiles-launched-towards-riyadh-destroyed-saudi-led",
+   "date": "2026-11-10T01:10:05Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says The Saudi-led coalition said that it intercepted and destroyed two missiles launched by Yemen's Houthis towards Riyadh. Earlier, Saudi Arabia's civil defence authorities warned of a potential threat in the capital, later lifting the alert after the danger was assessed to have passed.",
+   "score": 8,
+   "dup_of": "1e8eade9d411"
+  },
+  {
+   "id": "3bb5a416a03a",
+   "title": "Saudi-led coalition says it intercepted Houthi missile",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile-1",
+   "date": "2026-11-10T00:31:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says it intercepted Houthi missile The Saudi-led coalition said that air defences have intercepted and destroyed a ballistic missile launched by Yemen’s Houthis towards southern Saudi Arabia.",
+   "score": 7,
+   "dup_of": "1e8eade9d411"
+  },
+  {
+   "id": "eed40c7f22be",
+   "title": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-senior-official-stop-manufacturing-fake-news-about-imaginary",
+   "date": "2026-11-09T22:36:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks' Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said in a post on X late on Monday that the US government is \"wrecked\" by the war on Iran. \"The war on Iran has already wrecked the US government. But Washington flails like a desperate gambler,\" Rezaei said. \"FOLD YOUR HAND. STOP manufacturing FAKE NEWS about imaginary talks,\" he added. He also called on the US to recognise the \"West Asian NEW ORDER\" and \"SURRENDER\" to Iran's seven conditions, which Iran set out in a June interim agreement with th",
+   "score": 7
+  },
+  {
+   "id": "8e96d04174b7",
+   "title": "Qatari prime minister says discussions with Trump were 'positive'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-prime-minister-says-discussions-trump-were-positive",
+   "date": "2026-11-09T22:05:42Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Qatari prime minister says discussions with Trump were 'positive' In a post on X, Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani said his discussions with US President Donald Trump and Vice President JD Vance were \"positive.\" \"It was great meeting President Donald Trump and Vice President JD Vance in Washington,\" Sheikh Mohammed said. \"Grateful for the positive discussions on reaching a deal and bringing peace to the region,\" he added.",
+   "score": 8,
+   "dup_of": "a976a69a6b3e"
+  },
+  {
+   "id": "2888a47a4736",
+   "title": "Trump: 'We are seeing positive momentum toward an end to this conflict'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-we-are-seeing-positive-momentum-toward-end-conflict",
+   "date": "2026-11-09T21:45:08Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Trump: 'We are seeing positive momentum toward an end to this conflict' In a post on Truth Social following his meeting with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani, US President Donald Trump said there was \"positive momentum toward an end to this conflict\". \"I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, the Prime Minister of Qatar, wherein much was discussed with respect to the Islamic Republic of Iran,\" Trump said. \"Should there be any change with respect to developments in the Middle East, the United States of America is 'lo",
+   "score": 8,
+   "dup_of": "a976a69a6b3e"
+  },
+  {
+   "id": "6e0a7d685c29",
+   "title": "US, Qatar talks on Iran negotiations were 'positive': Reports",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-qatar-talks-iran-negotiations-were-positive-reports",
+   "date": "2026-11-09T21:00:31Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "US, Qatar talks on Iran negotiations were 'positive': Reports The talks between US President Donald Trump and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday were \"positive\", a source familiar with the matter told Axios. Sheikh Mohammed held separate meetings with Trump and Vice President JD Vance, both of which saw \"good progress\", an informed source told Al Jazeera.",
+   "score": 8,
+   "dup_of": "a976a69a6b3e"
+  },
+  {
+   "id": "58831fbf04ef",
+   "title": "Trump says US ready to strike Iran 'if necessary', Reuters reports",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-ready-strike-iran-if-necessary-reuters-reports",
+   "date": "2026-11-09T20:32:47Z",
+   "countries": [
+    "IRN",
+    "QAT",
+    "SAU"
+   ],
+   "desc": "Trump says US ready to strike Iran 'if necessary', Reuters reports US President Donald Trump told Reuters in a brief phone interview on Monday that Qatar and Saudi Arabia are eager for a peaceful solution on the Iran conflict but the US is ready to resume military strikes if necessary. Trump, who met Qatar's prime minister earlier on Monday, said \"Qatar would rather see a peaceful solution\" but \"we're ready to go anytime we want\" with strikes. Reporting by Reuters",
+   "score": 8
+  },
+  {
+   "id": "eb8fdc8bb572",
+   "title": "Saudi-led coalition says it destroyed Houthi missile facilities",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-missile-facilities",
+   "date": "2026-11-09T19:00:46Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says it destroyed Houthi missile facilities In an official statement, the Saudi-led coalition said it destroyed several facilities used by the Houthis in producing ballistic missile components. \"We destroyed a factory belonging to the terrorist Houthi militia that was used to assemble and produce ballistic missile components,\" the statement said. \"We destroyed a chemical factory belonging to the terrorist Houthi militia used to produce ballistic missile fuel... and an electronics lab used to assemble the ballistic missiles' electronic systems,\" the statement added.",
+   "score": 7
+  },
+  {
+   "id": "6ef437f09479",
+   "title": "Trump, Qatari prime minister discuss Iran negotiations in 45-minute meeting: Report",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-qatari-prime-minister-discuss-iran-negotiations-45-minute",
+   "date": "2026-11-09T18:30:45Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Trump, Qatari prime minister discuss Iran negotiations in 45-minute meeting: Report The meeting between US President Donald Trump and Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday lasted 45 minutes and focused mainly on the negotiations with Iran, a source familiar with the meeting told Axios.",
+   "score": 8,
+   "dup_of": "a976a69a6b3e"
+  },
+  {
+   "id": "6a337bb15e25",
+   "title": "Senior UAE official says Gulf faces 'prolonged uncertainty' with no settlement to Iran war",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/senior-uae-official-says-gulf-faces-prolonged-uncertainty-no-settlement",
+   "date": "2026-11-09T17:53:27Z",
+   "countries": [
+    "ARE",
+    "IRN"
+   ],
+   "desc": "Senior UAE official says Gulf faces 'prolonged uncertainty' with no settlement to Iran war A senior UAE official warned that the Gulf must be prepared for a “long period of uncertainty” in which the US and Iran are not able to come to a political settlement to end their war , leaving the region in a state of limbo. \"We should... prepare for a long period of uncertainty in which neither a decisive resolution nor stable regional order can be taken for granted,” Anwar Gargash, the diplomatic advisor to UAE President Mohamed bin Zayed, said on Monday at a forum in Abu Dhabi. Gargash’s remarks come",
+   "score": 7
+  },
+  {
+   "id": "f0ab3b5975db",
+   "title": "Three injured as wall collapses on displaced family's tent in Gaza, Al Jazeera reports",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-injured-wall-collapses-displaced-familys-tent-gaza-al-jazeera",
+   "date": "2026-11-09T17:18:43Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Three injured as wall collapses on displaced family's tent in Gaza, Al Jazeera reports Three Palestinians were injured when a wall collapsed on a tent sheltering displaced people in the Nuseirat refugee camp in central Gaza, a source at al-Awda hospital told Al Jazeera.",
+   "score": 5
+  },
+  {
+   "id": "1c2fad2dc247",
+   "title": "Iranian ambassador summoned over alleged cyberattacks on French supermarket fridges",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-ambassador-summoned-over-alleged-cyberattacks-french-supermarket",
+   "date": "2026-11-09T17:10:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian ambassador summoned over alleged cyberattacks on French supermarket fridges French Foreign Minister Jean-Noel Barrot said on Monday that Iran's Islamic Revolutionary Guard Corps was responsible for the cyberattacks on the refrigeration systems of French supermarkets that took place last month. France summoned the Iranian ambassador to the foreign ministry over the attacks. Barrot said that Iran would face consequences, which could include further EU sanctions.",
+   "score": 6,
+   "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "25f5d7ef77c1",
+   "title": "Anti-Muslim influence campaign targeting UK traced back to Israel",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/major-anti-muslim-influence-campaign-targeting-uk-elections-and-riots-traced-israel",
+   "date": "2026-11-09T16:41:08Z",
+   "countries": [
+    "ISR",
+    "QAT"
+   ],
+   "desc": "Anti-Muslim influence campaign targeting UK traced back to Israel Submitted by Imran Mulla on Mon, 11/09/2026 - 14:11 Large numbers of paid advertisements warned of a Qatar-backed Islamic takeover of Britain in run-up to 2024 election and riots Far-right rioters hurl projectiles at police in Bristol, UK, on 3 August 2024 (Justin Tallis/AFP) Off A new investigation has traced a major anti-Muslim propaganda campaign targeting Britain back to Israel . The campaign, uncovered by academics Marc Owen Jones and Sohan Dsouza, was at its height before the UK's 2024 general election and the anti-Muslim ",
+   "score": 6
+  },
+  {
+   "id": "bf7fdee04ddb",
+   "title": "Saudi energy ministry: East-West Pipeline hit in Madinah region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-energy-ministry-east-west-pipeline-hit-madinah-region",
+   "date": "2026-11-09T16:35:06Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi energy ministry: East-West Pipeline hit in Madinah region In an official statement, the Saudi Ministry of Energy said the East-West Pipeline in the Madinah region was targeted on Monday. \"Emergency teams extinguished the fires resulting from the strike without any injuries, death, or disruption to operations, praise be to God,\" the statement said.",
+   "score": 8,
+   "dup_of": "49d1109f6c1a"
+  },
+  {
+   "id": "bbd89624ee12",
+   "title": "Opposition demands ‘return to talks’ in AJK",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043421/opposition-demands-return-to-talks-in-ajk",
+   "date": "2026-11-10T02:02:51Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Calling for immediate talks with the Joint Awami Action Committee, the main opposition alliance claimed on Monday that a delegation of the Tehreek-i-Tahafuz Ayin-i-Pakistan (TTAP) was stopped from travelling to Azad Jammu and Kashmir. The delegation was travelling to AJK to meet protesters, express solidarity, and assess the situation, but was stopped at Kahuta and not permitted to proceed further, TTAP spokesperson Hussein Ahmed Yousafzai said. There is no justification for stopping a peaceful political delegation from accessing protesters, and the government ought to have provided",
+   "score": 4
+  },
+  {
+   "id": "30cb78543283",
+   "title": "Rs3.2m recovered in online scams; child exploiter held",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held",
+   "date": "2026-11-10T03:38:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Continuing its zero-tolerance policy against cybercrime, the National Cyber Crime Investigation Agency (NCCIA) recovered Rs3.2 million in two separate online investment and trading fraud cases and arrested a suspect involved in child exploitation and blackmailing of a minor during an intensified crackdown in Rawalpindi. In the first case, the NCCIA recovered Rs1.8m from suspects involved in an online investment fraud in which a citizen was defrauded of over Rs2.9m through Facebook and WhatsApp. According to the agency, the complainant was initially contacted on Facebook through an a",
+   "score": 1
+  },
+  {
+   "id": "8301ce36481f",
+   "title": "France blames Iran for cyberattack on supermarket fridges",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
+   "date": "2026-11-10T03:31:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The October 12 attack sent refrigerator temperatures soaring, affecting about 700 of France’s supermarkets",
+   "score": 6,
+   "dup_of": "3cbc32ffad21"
+  },
+  {
+   "id": "1902c81446f8",
+   "title": "Heat-trapping carbon pollution drops, but scientists cite Iran war rather than energy progress",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece",
+   "date": "2026-11-10T02:16:59Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "In 2026, the world emitted 42.2 billion tonne of heat-trapping carbon dioxide from the burning of fossil fuels such as coal, oil and gas. It's a 0.4% decrease from last year, according to the scientists of the Global Carbon Project",
+   "score": 4
+  },
+  {
+   "id": "6e615f7bd5f5",
+   "title": "Egypt train collision kills 7, injures 125: Health Ministry",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
+   "date": "2026-11-09T00:58:35Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "The crash happened in the Al-Ayyat district in Giza province, about 52 km south of Cairo, when a train travelling to southwestern Fayoum province crashed into the rear of a train heading to the southern province of Aswan",
+   "score": 4
+  },
+  {
+   "id": "cb7b49f500ca",
+   "title": "آنچه گذشت؛ ترامپ:‌ در صورت پیشرفت مذاکرات، حملات جدید به ایران بسیار بعید است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c9x28erk2yv0t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T03:59:23Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید در صورت پیشرفت مذاکرات درباره برنامه هسته‌ای ایران و بازگشایی تنگه هرمز، احتمال این که ناچار شود دستور ازسرگیری جنگ با ایران را صادر کند، «بسیار بعید» است. عباس عراقچی، وزیر خارجه ایران هم پیش‌تر گفته بود که «پیشنهاد دو روزه» ایران برای باز شدن تنگه هرمز در صورت برآورده شدن شرایطش همچنان روی میز است و افزود کاخ سفید باید در این باره تصمیم بگیرد.",
+   "score": 3,
+   "dup_of": "5dbb87056321"
+  },
+  {
+   "id": "6cac79bdf1e8",
+   "title": "روسيا وأوكرانيا تستأنفان مفاوضاتهما اليوم في أبوظبي برعاية أمريكية بعد انقطاع ثمانية أشهر",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cxnv0vgz14jno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T03:36:04Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "تستأنف روسيا وأوكرانيا مفاوضاتهما في أبوظبي برعاية أمريكية، بمشاركة مبعوثين أمريكيين ومحادثات منفصلة مع ممثلين أوروبيين، وسط آمال محدودة بتحقيق اختراق دبلوماسي. وتتركز المخاوف الأوروبية على احتمال فرض واشنطن تسوية بشروط غير مواتية لكييف، في وقت تشكك فيه أوكرانيا بجدية موسكو في التفاوض.",
+   "score": 7,
+   "dup_of": "eaaf087e9e57"
   }
  ]
 }
