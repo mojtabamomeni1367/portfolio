@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-11T13:34:36Z",
+ "updated": "2026-11-11T16:11:41Z",
  "count": 450,
  "items": [
+  {
+   "id": "56a7ce14571d",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+   "date": "2026-11-11T15:40:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+   "title_en": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+   "summary_en": "The Iranian government is preparing for potential 'zero oil' revenues as the United States maintains its naval blockade and economic pressure on the country.",
+   "body_en": [
+    "According to US Secretary of State Marco Rubio, Washington's naval blockade, stringent sanctions, and border disruptions could continue without a clear end date. In response, Iranian officials are planning for next year's budget under a contingency scenario where oil revenue reaches zero, while President Masoud Pezeshkian's administration considers spending reviews, tax reforms, and potential reductions in energy subsidies.",
+    "The US military imposed its second ongoing blockade on July 14, which the US Treasury says has prevented Iran from loading crude onto vessels since August 25. Despite severe economic challenges, including an annual inflation rate near 89 percent in October, Iranian authorities maintain that an economic collapse is not on the horizon."
+   ],
+   "title_fa": "آیا تهران می‌تواند در صورت تداوم محاصره آمریکا، با بودجه «بدون نفت» دوام آورد؟",
+   "summary_fa": "دولت ایران در پی تداوم محاصره دریایی و فشارهای اقتصادی ایالات متحده، خود را برای احتمال رسیدن درآمدهای نفتی به «صفر» آماده می‌کند.",
+   "body_fa": [
+    "به گفته مارکو روبیو، وزیر امور خارجه آمریکا، محاصره دریایی، تحریم‌های شدید و اختلالات مرزی واشنگتن ممکن است بدون زمان‌بندی مشخصی ادامه یابد. در پاسخ، مقامات ایرانی در حال برنامه‌ریزی برای بودجه سال آینده تحت سناریویی هستند که در آن درآمد نفتی به صفر می‌رسد، در حالی که دولت مسعود پزشکیان بازنگری در هزینه‌ها، اصلاحات مالیاتی و کاهش احتمالی یارانه انرژی را بررسی می‌کند.",
+    "ارتش آمریکا دومین محاصره فعال خود را از ۱۴ ژوئیه آغاز کرد که به گفته وزارت خزانه‌داری آمریکا موجب شده ایران از ۲۵ اوت هیچ نفتی بارگیری نکند. با وجود چالش‌های شدید اقتصادی از جمله تورم سالانه نزدیک به ۸۹ درصد در ماه اکتبر، مقامات ایرانی تاکید می‌کنند که فروپاشی اقتصادی رخ نخواهد داد."
+   ],
+   "title_ar": "هل تستطيع تهران البقاء مع ميزانية «صفر نفط» إذا استمر الحظر الأمريكي على إيران؟",
+   "summary_ar": "تستعد الحكومة الإيرانية لاحتمال وصول الإيرادات النفطية إلى «الصفر» مع استمرار الولايات المتحدة في فرض حظرها البحري وضغوطها الاقتصادية على البلاد.",
+   "body_ar": [
+    "وفقاً لوزير الخارجية الأمريكي ماركو روبيو، فإن الحظر البحري والعقوبات الصارمة والاضطرابات الحدودية التي تفرضها واشنطن قد تستمر دون موعد محدد لنهايتها. ورداً على ذلك، يخطط المسؤولون الإيرانيون لميزانية العام المقبل وفق سناريو احتمال وصول الإيرادات النفطية إلى الصفر، بينما تدرس حكومة مسعود بزشكيان مراجعة الإنفاق والإصلاحات الضريبية وخفض خفوضات دعم الطاقة.",
+    "فرض الجيش الأمريكي حظره البحري الثاني في ۱۴ يوليو، والذي تقول وزارة الخزانة الأمريكية إنه منع إيران من تحميل النفط الخام على السفن منذ ۲۵ أغسطس. ورغم التحديات الاقتصادية الشديدة، بما في ذلك وصول معدل التورم السنوي إلى نحو ۸۹ بالمئة في أكتوبر، يؤكد المسؤولون الإيرانيون أن انهيار الاقتصاد ليس واردًا."
+   ]
+  },
+  {
+   "id": "1210327ea4b0",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+   "date": "2026-11-11T14:10:47Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+   "title_en": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+   "summary_en": "US Secretary of State Marco Rubio stated that Washington's economic pressure campaign against Iran makes major military strikes unnecessary, reflecting the administration's current focus on sanctions and blockades.",
+   "body_en": [
+    "Speaking after a G7 meeting in Paris, Rubio said the economic pressure on Tehran is devastating enough to avoid further major combat operations. President Donald Trump similarly indicated that new strikes are unlikely, preferring to maintain the blockade, while reports suggest Vice President JD Vance favours pursuing a deal with Iran following the Republican Party's midterm election losses.",
+    "In response to the shift in Washington's rhetoric, Iranian Foreign Minister Abbas Araghchi stated that the war will not be ended through military force or increased sanctions, maintaining that the US must address Iran's specific conditions and demands."
+   ],
+   "title_fa": "روبیو از محاصره حمایت می‌کند، ونس خواستار توافق است: آیا تیم ترامپ درباره جنگ ایران دچار شکاف شده است؟",
+   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا اعلام کرد که کارزار فشار اقتصادی واشنگتن علیه ایران، حملات نظامی بزرگ را غیرضروری کرده است؛ موضوعی که نشان‌دهنده تمرکز فعلی دولت بر تحریم‌ها و محاصره است.",
+   "body_fa": [
+    "روبیو پس از نشست جی۷ در پاریس گفت فشار اقتصادی بر تهران به اندازه‌ای مخرب است که نیازی به عملیات رزمی بزرگتر نیست. دونالد ترامپ نیز احتمال حملات جدید را بعید دانست و تداوم محاصره را ترجیح داد، در حالی که گزارش‌ها نشان می‌دهد جی‌دی ونس، معاون رئیس‌جمهور، پس از شکست حزب تفکیک‌طلب در انتخابات میان‌دوره‌ای، موافق تلاش برای دستیابی به توافق با ایران است.",
+    "در پاسخ به تغییر لحن واشنگتن، عباس عراقچی، وزیر امور خارجه ایران تاکید کرد که این جنگ از طریق اقدام نظامی یا افزایش تحریم‌ها پایان نخواهد یافت و آمریکا باید به شروط و خواسته های ایران پاسخ دهد."
+   ],
+   "title_ar": "روبيو يدعم الحظر، وفانس يريد اتفاقاً: هل فريق ترامب منقسم بشأن الحرب مع إيران؟",
+   "summary_ar": "صرح وزير الخارجية الأمريكي ماركو روبيو بأن حملة الضغط الاقتصادي التي تمارسها واشنطن ضد إيران تجعل الضربات العسكرية الكبيرة غير ضرورية، مما يعكس تركيز الإدارة الحالي على العقوبات والحظر.",
+   "body_ar": [
+    "وفي حديثه عقب اجتماع لمجموعة السبع في باريس، قال روبيو إن الضغط الاقتصادي على طهران مدمر بدرجة كافية لتجنب تنفيذ عمليات قتالية كبيرة أخرى. كما أشار الرئيس دونالد ترامب إلى أن شن ضربات جديدة أمر غير مرجح، مفضلاً استمرار الحظر، بينما تشير تقارير إلى أن نائب الرئيس جيه دي فانس يؤيد التوصل إلى اتفاق مع إيران عقب خسارة الحزب الجمهوري في الانتخابات النصفيّة.",
+    "ورداً على تغير الخطاب في واشنطن، أكد وزير الخارجية الإيراني عباس عراقجي أن الحرب لن تنتهي بالوسائل العسكرية أو بزيادة العقوبات، مشدداً على أنه يتوجب على الولايات المتحدة الاستجابة لشروط إيران ومطالبها."
+   ]
+  },
   {
    "id": "10e446141416",
    "lang": "en",
@@ -477,37 +537,6 @@
    ]
   },
   {
-   "id": "06a09136c46a",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
-   "date": "2026-11-11T05:00:29Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
-   "title_en": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
-   "summary_en": "An independent Israeli medical specialist has warned that the life of detained Gaza hospital director Hussam Abu Safiya is at risk due to severe weight loss, untreated injuries, and inadequate medical care after nearly 23 months in Israeli custody without charges.",
-   "body_en": [
-    "Abu Safiya, the director of Kamal Adwan hospital in northern Gaza, was detained on 27 December 2024 and classified as an unlawful combatant. A district court recently rejected a petition to allow him an independent medical examination, despite a 14kg weight loss and concerning drops in haemoglobin levels noted in medical records.",
-    "An independent specialist who reviewed the files warned that continuous food deprivation, alleged beatings by prison guards, and lack of urgent evaluation for serious symptoms could prove fatal. The Israeli prison service stated that the allegations aim to discredit the state and that it operates in accordance with the law."
-   ],
-   "title_fa": "نگرانی‌های تازه درباره پزشک اهل غزه که ۲۳ ماه بدون اتهام در بازداشت اسرائیل است",
-   "summary_fa": "یک متخصص پزشکی مستقل اسرائیلی هشدار داد که جان حسام ابوسفییا، مدیر زندانی بیمارستان در غزه، به دلیل کاهش شدید وزن، درمان نشدن جراحات و مراقبت‌های پزشکی ناکافی پس از حدود ۲۳ ماه بازداشت بدون اتهام در زندان‌های اسرائیل در خطر است.",
-   "body_fa": [
-    "حسام ابوسفییا، مدیر بیمارستان کمال عدوان در شمال غزه، در ۲۷ دسامبر ۲۰۲۴ بازداشت و به عنوان جنگجوی غیرقانونی طبقه‌بندی شد. دادگاه منطقه‌ای اخیراً تقاضا برای انجام معاینات پزشکی مستقل از سوی پزشکان حقوق بشر اسرائیل را با وجود کاهش وزن ۱۴ کیلوگرمی و افت نگران‌کننده سطح هموگلوبین رد کرد.",
-    "یک متخصص مستقل که پرونده‌های پزشکی را بررسی کرده است، هشدار داد که محرومیت مداوم از غذا، ادعای ضرب و شتم توسط نگهبانان زندان و عدم ارزیابی فوری علائم جدی می‌تواند مهلک باشد. سازمان زندان‌های اسرائیل اعلام کرد که این اراضی با هدف بی‌اعتبار کردن دولت مطرح شده و این سازمان مطابق با قانون عمل می‌کند."
-   ],
-   "title_ar": "تصاعد المخاوف بشأن طبيب من غزة تحتجزه إسرائيل منذ 23 شهراً دون توجيه تهمة",
-   "summary_ar": "حذر أخصائي طبي إسرائيلي مستقل من أن حياة حسام أبو صفية، مدير المستشفى المحتجز في غزة، معرضة للخطر بسبب فقدان الوزن الحاد، والإصابات غير العلاجية، والرعاية الطبية غير الكافية بعد نحو 23 شهراً في السجون الإسرائيلية دون توجيه تهم.",
-   "body_ar": [
-    "أُعتقل أبو صفية، مدير مستشفى كمال عدوان في شمال غزة، في 27 ديسمبر 2024 وصُنف كمقاتل غير قانوني. ورفضت محكمة مركزية مؤخراً التماساً للسماح له بفحص طبي مستقل، على الرغم من فقدان 14 كيلوغراماً من وزنه والانخفاض المقلق في مستويات الهيموجلوبين المذكورة في السجلات الطبية.",
-    "وحذر أخصائي مستقل راجع الملفات من أن حرمان الطعام المستمر، والزعم بتعرضه للضرب على يد حراس السجن، وغياب التقييم العاجل للأعراض الخطيرة قد يكون مميتاً. وذكرت مصلحة السجون الإسرائيلية أن المزاعم تهدف إلى تشويه سمعة الدولة وأنها تعمل وفقاً للقانون."
-   ]
-  },
-  {
    "id": "b40ea2bb0acf",
    "lang": "en",
    "source": "The Hindu",
@@ -589,36 +618,6 @@
    "summary_ar": "افتتحت إيران أول معسكر تدريب عسكري مخصص بالكامل للنساء وسط مخاوف من تجدد الهجمات الأمريكية.",
    "body_ar": [
     "وشاركت عشرات المتطوعات من \"جانفدايان\"، المستعدات للتضحية بأرواحهن من أجل إيران، في تدريبات عسكرية أقيمت في ساحة آزادي بطهران."
-   ]
-  },
-  {
-   "id": "72245bf68ae1",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/analysis-changing-face-israels-ultra-orthodox-politics",
-   "date": "2026-11-11T02:48:51Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 5,
-   "title": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
-   "title_en": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
-   "summary_en": "United Torah Judaism decided not to recommend Benjamin Netanyahu to form Israel's next government, marking a significant break in their long-standing political alliance. The move reflects shifting dynamics within Haredi society, including declining veteran leadership and growing impacts from the 7 October attacks.",
-   "body_en": [
-    "The decision signals mounting tension within the ultra-Orthodox camp, where the authority of veteran leaders is facing erosion alongside leadership struggles and internal challenges to traditional political norms. A deepening crisis also surrounds the established 'society of learners' model.",
-    "The broader Haredi public, particularly younger generations and conservative Lithuanian segments, increasingly recognizes the profound consequences of the 7 October attacks, even as veteran politicians and spiritual figures have appeared distanced from the fallout."
-   ],
-   "title_fa": "تحلیل: دگرگونی در چهره سیاست ارتدوکس افراطی در اسرائیل",
-   "summary_fa": "حزب یهودیت تورات متحد تصمیم گرفت بنیامین نتانیاهو را برای تشکیل دولت بعدی اسرائیل پیشنهاد نکند، که نشانه‌ای از شکاف در ائتلاف دیرینه آنهاست. این اقدام بازتابی از تغییرات درونی در جامعه حریدی، از جمله تضعیف جایگاه رهبران قدیمی و پیامدهای ناشی از حملات ۷ اکتبر است.",
-   "body_fa": [
-    "این تصمیم نشانه بروز تنش در جامعه ارتدوکس افراطی است، جایی که اقتدار رهبران سنتی با چالش مواجه شده و اختلافات بر سر رهبری آینده و هنجارهای سیاسی دیرینه افزایش یافته است. بحران فزاینده پیرامون الگوی «جامعه اهل یادگیری» نیز این روند را تقویت می‌کند.",
-    "با وجود فاصله گرفتن رهبران مذهبی کهنه‌کار از تبعات رویدادهای ۷ اکتبر، بدنه جامعه حریدی، به ویژه نسل جوان و اعضای محافظه‌کار جامعه لیتوانیایی، به ابعاد عمیق تحولات رخ‌داده در اسرائیل واقف شده‌اند."
-   ],
-   "title_ar": "تحليل: الوجه المتغير للسياسة الحريدية في إسرائيل",
-   "summary_ar": "قرر حزب «يهوديت هتوراه» عدم التوصية بتكليف بنيامين نتنياهو لتشكيل الحكومة الإسرائيلية المقبلة، ما يعد تحولاً بارزاً في تحالفهما السياسي التاريخي. وتأتي هذه الخطوة لتعكس تغيرات داخل المجتمع الحريدي، شملت تراجع نفوذ القيادات التقليدية وتأثيرات أحداث السابع من أكتوبر.",
-   "body_ar": [
-    "تعكس هذه الخطوة تحولات جوهرية داخل الوسط الحريدي، في ظل تراجع مكانة السياسيين التقليديين والصراع على مستقبل القيادة وظهور قوى تتحدى الأعراف السائدة، إلى جانب تعمق أزمة نموذج «مجتمع الدارسين».",
-    "ورغم تجاوز القيادة الروحية والبرلمانية التقليدية لتداعيات هجوم السابع من أكتوبر، فإن عموم الجمهور الحريدي، لا سيما الأجيال الشابة والتيار الليتواني المحافظ، بات يدرك الحجم الاستثنائي لما شهدته إسرائيل."
    ]
   },
   {
