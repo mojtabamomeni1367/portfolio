@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:11:41Z",
+ "updated": "2026-11-11T19:21:17Z",
  "items": [
   {
    "id": "e73608bde593",
@@ -2780,7 +2780,8 @@
     "PSE"
    ],
    "desc": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment An independent professor who reviewed the medical records of a prominent Gaza doctor held in an Israeli prison without charge for nearly 23 months has raised serious concerns about his health. Hussam Abu Safiya was detained at work on 27 December 2024 and later held in solitary confinement at Rakefet, a notorious underground prison. Continue reading...",
-   "score": 5
+   "score": 5,
+   "dup_of": "01eabd65288e"
   },
   {
    "id": "624e8d2f4bf2",
@@ -3236,8 +3237,7 @@
     "PSE"
    ],
    "desc": "PHRI says the arbitrary detention of Gaza doctors violates individual rights and undermines healthcare system.",
-   "score": 6,
-   "dup_of": "06a09136c46a"
+   "score": 6
   },
   {
    "id": "691865690117",
@@ -3603,6 +3603,219 @@
    "desc": "وزارت دادگستری ایالات متحده علیه سه فرد تحت حمایت ایران اعلام جرم کرده است. به گفته آمریکا این افراد در مجموعه‌ای از توطئه‌ها در آمریکا و اروپا دست داشته‌اند.",
    "score": 8,
    "dup_of": "404ff2c25cfe"
+  },
+  {
+   "id": "5913babbd770",
+   "title": "More than one million people in Lebanon face acute food shortages, UN says",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
+   "date": "2026-11-11T18:43:40Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "UN warns hunger crisis affecting almost quarter of Lebanon's population could escalate without 'urgent action'.",
+   "score": 8
+  },
+  {
+   "id": "0e5f5ac7fbc0",
+   "title": "Will Sheikh Hasina return to Bangladesh?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
+   "date": "2026-11-11T18:43:21Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The former Bangladeshi PM says she is planning to go back, despite a death sentence.",
+   "score": 6
+  },
+  {
+   "id": "6caa14892c69",
+   "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+   "date": "2026-11-11T16:58:32Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
+   "score": 7,
+   "dup_of": "3970882a984a"
+  },
+  {
+   "id": "ba272f0fc57b",
+   "title": "Palestinian American activist refused UK entry for Gaza fundraiser",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/palestinian-american-activist-refused-uk-entry-for-gaza-fundraiser?traffic_source=rss",
+   "date": "2026-11-11T16:52:59Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+   "score": 4
+  },
+  {
+   "id": "48cbc287b0c9",
+   "title": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/11/israeli-army-kills-palestinian-footballer-mahmoud-kamal-abdel-malek-in-gaza?traffic_source=rss",
+   "date": "2026-11-11T16:48:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Abdel-Malek, the captain and goalkeeper of Gaza Sports Club, recently played in the Thousand Martyrs Cup final.",
+   "score": 6
+  },
+  {
+   "id": "e2eacfb44139",
+   "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+   "date": "2026-11-11T15:48:39Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+   "score": 6
+  },
+  {
+   "id": "750189664e3d",
+   "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
+   "date": "2026-11-11T18:47:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Regime adviser says Tehran could be forced into pre-emptive strikes if stalemate continues Senior Iranian officials believe the US is planning either further military strikes or an ever-tightening economic stranglehold that will push Tehran into retaliatory action. The assessment comes from Mehdi Mohammadi, an adviser to Iran’s chief negotiator in talks with the US, Mohammad Bagher Ghalibaf. Continue reading...",
+   "score": 8
+  },
+  {
+   "id": "117452324c3b",
+   "title": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043793/10-cops-martyred-18-terrorists-killed-as-police-party-comes-under-attack-in-kps-kohat",
+   "date": "2026-11-11T18:28:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: Eighteen terrorists were killed while 10 cops were martyred on Wednesday when the police team came under attack on its way back after completing an operation against elements involved in illegal gold mining, police said. In a statement, the Khyber Pakhtunkhwa Police public relations director said the personnel were conducting a joint operation with the local civil administration in the Darabukach locality near Kohat city. “When the police party was returning after completing the operation, Fitna al Khawarij attacked the police party at the behest of criminal elements,” the statement ",
+   "score": 8
+  },
+  {
+   "id": "9ac037e0c0e0",
+   "title": "Fuel prices slashed once again; high-speed diesel cut by Rs7 per litre, petrol by Rs3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043820/fuel-prices-slashed-once-again-high-speed-diesel-cut-by-rs7-per-litre-petrol-by-rs3",
+   "date": "2026-11-11T18:02:48Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "c33d90e9eb65",
+   "title": "PTI lawyers meet Imran, Bushra 'for 3 hours' at Adiala jail following IHC orders",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043779/pti-lawyers-meet-imran-bushra-for-3-hours-at-adiala-jail-following-ihc-orders",
+   "date": "2026-11-11T18:51:27Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Lawyers representing the PTI met party founder and former prime minister Imran Khan on Wednesday, a day after the Islamabad High Court (IHC) issued orders allowing the meeting. On Tuesday, the IHC, while hearing appeals filed by Imran and his wife, Bushra Bibi, against their convictions in the £190 million reference , directed authorities to facilitate meetings between Imran and his legal team. Subsequently, Barrister Salman Safdar and Advocate Latif Khosa met the incarcerated couple at Rawalpindi’s Adiala jail, both confirmed in separate statements. Barrister Safdar said on X that ",
+   "score": 6,
+   "dup_of": "77b4bfd91a78"
+  },
+  {
+   "id": "0e5c092ddbb3",
+   "title": "‘I stand by it’: Chaudhry Salik sticks to Punjab corruption claims despite Maryam's ire",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043827/i-stand-by-it-chaudhry-salik-sticks-to-punjab-corruption-claims-despite-maryams-ire",
+   "date": "2026-11-11T18:49:39Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Minister for Overseas Pakistanis and PML-Q leader Chaudhry Salik Hussain on Wednesday asserted that he stood by his claims regarding corruption in Punjab. Last week, Punjab Chief Minister Maryam Nawaz sent a Rs5 billion defamation notice to Hussain for levelling allegations of corruption against her government and demanded that he retract his remarks. “Reality is reality. I stand by it and will continue to,” he said on Geo News programme ‘Capital Talk’ while responding to a question about his brother Shafay Hussain being a minister in the same Punjab government he had criticised. Salik said he",
+   "score": 4
+  },
+  {
+   "id": "0a81214e16aa",
+   "title": "World urged to tackle fossil fuels but big names skip COP31",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043837/world-urged-to-tackle-fossil-fuels-but-big-names-skip-cop31",
+   "date": "2026-11-11T18:45:09Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "UN Secretary-General Antonio Guterres railed against the oil and gas lobby on Wednesday, telling world leaders fossil fuels “must go the way of the dinosaurs” at a climate summit missing several prominent figures. The two-week COP31 talks kicked off in Turkiye this week with governments under pressure to tackle climate change after a year of searing heatwaves and wildfires in Europe, and deadly floods in Nepal. “The brutal truth is that the climate crisis is outrunning us,” Guterres told dozens of world leaders assembled in the Mediterranean city of Antalya for two days of speeches by heads of",
+   "score": 3
+  },
+  {
+   "id": "eef68312cbc3",
+   "title": "US envoys to meet Putin, Zelensky after war talks in Abu Dhabi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-war-talks-in-abu-dhabi",
+   "date": "2026-11-11T18:55:37Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "United States envoys will separately meet Russia’s Vladimir Putin and Ukraine’s Volodymyr Zelensky on Thursday as they seek to seize “openings” from two days of talks in Abu Dhabi on ending the Ukraine war. Steve Witkoff and Jared Kushner will travel first to Moscow to meet the Russian president, before flying to Dublin — where Zelensky will attend European meetings — to debrief the Ukrainian leader. The countries agreed in Abu Dhabi to a major prisoner exchange — the “biggest” ever, according to Kushner — though no side gave any figures. But the talks — the first since February , when the US ",
+   "score": 7
+  },
+  {
+   "id": "e0aee224cdfc",
+   "title": "Militants ambush police vehicles in northwestern Pakistan, killing at least 10 officers",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/militants-ambush-police-vehicles-in-northwestern-pakistan-killing-at-least-10-officers/article71691044.ece",
+   "date": "2026-11-11T17:33:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Police say militants have ambushed vehicles carrying police officers in northwestern Pakistan, triggering a gunbattle that killed at least 10 officers",
+   "score": 8,
+   "dup_of": "117452324c3b"
+  },
+  {
+   "id": "dd0a47d3ea49",
+   "title": "COP31 leaders urge focus on climate action despite global conflicts",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece",
+   "date": "2026-11-11T17:15:57Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Negotiators from nearly 200 countries are seeking agreement at COP31 on a proposal from Turkey to increase the share of electricity in global ‌energy use and revive stalled efforts to move away from fossil fuels",
+   "score": 4
+  },
+  {
+   "id": "c72ddfe69ac2",
+   "title": "‘Iran will not allow enriched nuclear material to leave the country’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-will-not-allow-enriched-nuclear-material-to-leave-the-country/article71690943.ece",
+   "date": "2026-11-11T16:38:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Rezaei has ‌said ⁠there are currently no negotiations taking place between Tehran ⁠and Washington",
+   "score": 9
   }
  ]
 }
