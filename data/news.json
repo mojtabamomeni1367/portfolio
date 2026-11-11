@@ -1,7 +1,156 @@
 {
- "updated": "2026-11-10T21:57:45Z",
- "count": 450,
+ "updated": "2026-11-11T01:23:09Z",
+ "count": 425,
  "items": [
+  {
+   "id": "b576f5730f2a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+   "date": "2026-11-10T23:38:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Fire contained on platform in Iran’s South Pars gas field",
+   "title_en": "Fire contained on platform in Iran’s South Pars gas field",
+   "summary_en": "Iranian authorities have extinguished a fire that erupted on a platform in Phase 14 of the South Pars gas field. All 17 workers on board jumped into the sea to escape and were safely rescued.",
+   "body_en": [
+    "According to the Pars Oil and Gas Company and local emergency officials in Bushehr Province, the fire was put out immediately, and three heavy vessels were dispatched to retrieve the workers from lifeboats. Officials cited a gas leak or an operational error as the suspected cause of the incident.",
+    "The affected platform accounts for 14.5 million cubic meters of South Pars's overall daily output of over 700 million cubic meters. Iran shares the offshore natural gas reservoir with Qatar, where it is known as the North Dome."
+   ],
+   "title_fa": "مهار آتش‌سوزی در سکوی میدان گازی پارس جنوبی در ایران",
+   "summary_fa": "مقامات ایرانی از مهار و خاموش شدن آتش‌سوزی در سکوی فاز ۱۴ میدان گازی پارس جنوبی خبر دادند. تمام ۱۷ کارگر حاضر در این سکو برای نجات جان خود به دریا پریدند و سپس به سلامت نجات یافتند.",
+   "body_fa": [
+    "به گفته شرکت نفت و گاز پارس و مدیریت بحران استان بوشهر، این آتش‌سوزی به سرعت مهار شد و سه شناور سنگین امدادی برای بازگرداندن کارگران از قایق‌های نجات به محل اعزام شدند. مقامات نشتی گاز یا نقص عملیاتی را از دلایل احتمالی وقوع این حادثه عنوان کرده‌اند.",
+    "این سکو روزانه ۱۴٫۵ میلیون متر مکعب گاز تولید می‌کند، در حالی که مجموع تولید روزانه پارس جنوبی به بیش از ۷۰۰ میلیون متر مکعب می‌رسد. ایران این میدان گازی مشترک را با قطر شریک است که در آن کشور با نام گنبد شمالی شناخته می‌شود."
+   ],
+   "title_ar": "إخماد حريق على منصة في حقل بارس الجنوبي للغاز في إيران",
+   "summary_ar": "أعلنت السلطات الإيرانية السيطرة على حريق اندلع على منصة غاز في المرحلة 14 من حقل بارس الجنوبي. وقفز 17 عاملاً إلى البحر للنجاة بأرواحهم وجرى إنقاذهم جميعاً وهم بحالة جيدة.",
+   "body_ar": [
+    "وذكرت شركة بارس للنفط والغاز وإدارة الأزمات في محافظة بوشهر أن النيران أُخمدت فوراً، وأُرسلت ثلاث سفن إنقاذ لنقل العمال من قوارب النجاة بعد التأكد من سلامتهم. ورجح المسؤولون أن يكون تسرب غازي أو خلل تشغيلي وراء الحادث.",
+    "وتنتج المنصة المتضررة نحو 14.5 مليون متر مكعب يومياً من إجمالي إنتاج بارس الجنوبي الذي يتجاوز 700 مليون متر مكعب. وتشترك إيران في هذا الحقل البحري الضخم مع قطر التي تطلق على حصتها اسم «حقل الشمال»."
+   ]
+  },
+  {
+   "id": "51ed04411cf0",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+   "date": "2026-11-10T23:33:43Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Massive fire as Israeli settlers burn down business near Nablus",
+   "title_en": "Massive fire as Israeli settlers burn down business near Nablus",
+   "summary_en": "Israeli settlers set fire to Palestinian property in the West Bank village of Luban ash-Sharqiya near Nablus.",
+   "body_en": [
+    "Local residents filmed firefighters working to extinguish a large blaze that tore through a mechanic workshop and a vehicle scrapyard in the village."
+   ],
+   "title_fa": "آتش‌سوزی گسترده در پی به آتش کشیده شدن یک محل کسب‌وکار توسط شهرک‌نشینان اسرائیلی در نزدیکی نابلس",
+   "summary_fa": "شهرک‌نشینان اسرائیلی اموال فلسطینیان را در روستای اللبن الشرقیه در نزدیکی نابلس به آتش کشیدند.",
+   "body_fa": [
+    "ساکنان محلی ویدیوهایی از تلاش آتش‌نشانان برای خاموش کردن آتش‌سوزی بزرگی که یک تعمیرگاه مکانیکی و مرکز اوراقی خودرو را در این روستا فرا گرفته بود، ضبط کردند."
+   ],
+   "title_ar": "حريق ضخم عقب إحراق مستوطنين إسرائيليين لمنشأة تجارية قرب نابلس",
+   "summary_ar": "أضرم مستوطنون إسرائيليون النار في ممتلكات فلسطينية بقرية اللبن الشرقية بالقرب من نابلس.",
+   "body_ar": [
+    "وثق سكان محليون مقاطع فيديو لفرق الإطفاء وهي تحاول السيطرة على حريق هائل التهم ورشة صيانة سيارات ومقبرة للسيارات في القرية."
+   ]
+  },
+  {
+   "id": "404ff2c25cfe",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
+   "date": "2026-11-10T23:09:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
+   "title_en": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
+   "summary_en": "The U.S. Justice Department has filed charges against three men described as Iranian operatives over an alleged terrorist plot targeting the RAF Fairford airbase in Britain. The suspects allegedly planned and coordinated the September incident at the base, which the American military has used in operations against Iran.",
+   "body_en": [
+    "According to U.S. charging documents, Iraqi national Mohammad Ali al-Hassani directed individuals to drive fuel-laden white vans disguised as delivery vehicles to the site, having also paid for metal objects intended to serve as shrapnel. Mohammad Baqer Saad Dawood al-Saadi, an Iranian-Iraqi national already imprisoned in New York on terrorism charges, allegedly communicated coded messages to coordinate the plot alongside Iranian national Mohsen Mohajeri. Following the incident, the U.S. military pulled all its B-1 bombers from the installation.",
+    "The eight-count indictment accuses the three of conspiring to provide material support to the IRGC and Kataeb Hezbollah, among other terrorism-related offenses. U.S. authorities previously accused al-Saadi of organizing dozens of attacks against American, Israeli, and Jewish targets across Europe and Canada, while British police have separately charged two local men in connection with the Fairford case."
+   ],
+   "title_fa": "آمریکا سه «عامل ایرانی» را در ارتباط با توطئه علیه یک پایگاه هوایی در بریتانیا متهم کرد",
+   "summary_fa": "وزارت دادگستری آمریکا سه مرد را که «عوامل ایرانی» توصیف شده‌اند، به اتهام دست داشتن در یک توطئه تروریستی علیه پایگاه هوایی «راف فیرفورد» در بریتانیا تحت پیگرد قانونی قرار داد. این افراد متهم شده‌اند که به برنامه‌ریزی و هدایت حادثه ماه سپتامبر در این پایگاه—که ارتش آمریکا در عملیات‌های خود علیه ایران استفاده می‌کرد—کمک کرده‌اند.",
+   "body_fa": [
+    "بر اساس کیفرخواست دادستانی آمریکا، محمد علی الحسنی، تبعه عراق، افرادی را هدایت کرده بود تا با ون‌های سفید حامل سوخت و تغییرشکل‌یافته به عنوان خودروهای توزیع سوخت به این پایگاه بروند و مبالغی نیز برای خرید اشیای فلزی به منظور استفاده به عنوان ترکش پرداخت کرده بود. همچنین محمد باقر سعد داود السعدی، تبعه دوتابعیتی ایرانی-عراقی که پیش‌تر به اتهامات تروریستی در نیویورک زندانی است، به همراه محسن مهاجری، تبعه ایران، پیام‌های رمزگذاری‌شده‌ای را برای هماهنگی این عملیات رد و بدل کرده بودند. آمریکا چند روز پس از این واقعه تمام بمب‌افکن‌های بی-۱ خود را از این پایگاه خارج کرد.",
+    "این سه نفر در کیفرخواستی با هشت فقره اتهام، از جمله توطئه برای ارائه حمایت مادی به سپاه پاسداران و گردان‌های حزب‌الله و اقدام تروریستی، متهم شده‌اند. مقامات آمریکایی پیش‌تر السعدی را به هماهنگی ده‌ها حمله علیه منافع آمریکا و اسرائیل در اروپا و کانادا متهم کرده بودند؛ هم‌زمان پلیس بریتانیا نیز ماه گذشته دو شهروند این کشور را در ارتباط با ماجرای پایگاه فیرفورد متهم کرد."
+   ],
+   "title_ar": "الولايات المتحدة توجه اتهامات لثلاثة «عملاء إيرانيين» بشأن مخطط لاستهداف قاعدة جوية في بريطانيا",
+   "summary_ar": "وجهت وزارة العدل الأمريكية اتهامات إلى ثلاثة رجال وصفتهم بأنهم «عملاء إيرانيون» لضلوعهم في مخطط إرهابي مزعوم استهدف قاعدة «راف فيرفورد» الجوية في بريطانيا. ووفقاً للادعاء، ساعد المشتبه بهم في التخطيط لحادثة وقعت في سبتمبر الماضي وتوجيهها في القاعدة التي استخدمها الجيش الأمريكي لعملياته ضد إيران.",
+   "body_ar": [
+    "وفقاً لوثائق الاتهام الأمريكية، وجّه المواطن العراقي محمد علي الحسني أفراداً للتوجه إلى القاعدة بشاحنات بيضاء محملة بالوقود ومموهة كسيارات توصيل، ودفع أموالاً لشراء قطع معدنية لاستخدامها كشظايا. كما اتُّهم محمد باقر سعد داود السعدي، وهو مواطن يحمل الجنسيتين الإيرانية والعراقية ومسجون حالياً في نيويورك بتهم إرهاب، بتمرير رسائل مشفرة للتنسيق مع الحسني والمواطن الإيراني محسن مهاجري. وعقب الحادثة، سحبت الولايات المتحدة جميع قاذفاتها من طراز «بي-1» من القاعدة.",
+    "وتشمل لائحة الاتهام ثماني تهم، من بينها التآمر لتقديم دعم مادي للحرس الثوري الإيراني وكتائب حزب الله وارتكاب أعمال إرهابية. وكانت السلطات الأمريكية قد اتهمت السعدي سابقاً بالمسؤولية عن عشرات الهجمات التي استهدفت مصالح أمريكية وإسرائيلية في أوروبا وكندا، في حين وجهت الشرطة البريطانية الشهر الماضي اتهامات لشخصين بريطانيين على خلفية القضية نفسها."
+   ]
+  },
+  {
+   "id": "a0a5f902d6ab",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+   "date": "2026-11-10T22:36:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "US House Republicans block Pete Hegseth impeachment effort",
+   "title_en": "US House Republicans block Pete Hegseth impeachment effort",
+   "summary_en": "Republicans in the U.S. House of Representatives have blocked a push to impeach Defense Secretary Pete Hegseth by voting to refer the resolution to the Judiciary Committee. The procedural vote, which passed 211 to 204, effectively halts the removal effort launched by Republican Representative Thomas Massie following midterm elections shaped by discontent over the Iran war.",
+   "body_en": [
+    "The vote fell largely along party lines, with Massie acting as the sole Republican to oppose the procedural motion alongside Democrats. Sending the measure to the Republican-led committee prevents a direct vote on the eight articles of impeachment, which accused the Pentagon chief of conducting an unauthorized war against Iran and overseeing controversial anti-narcotics strikes.",
+    "President Donald Trump praised the outcome and reaffirmed his backing for Hegseth, dismissing the push as a failed Democratic initiative. Despite Hegseth's denunciations of the impeachment effort, his standing has faced scrutiny after midterm defeats and voter frustration over inflation linked to the ongoing war."
+   ],
+   "title_fa": "جمهوری‌خواهان مجلس نمایندگان آمریکا تلاش برای استیضاح پیت هگست را متوقف کردند",
+   "summary_fa": "جمهوری‌خواهان مجلس نمایندگان آمریکا با تصویب ارجاع طرح استیضاح پیت هگست، وزیر دفاع، به کمیته قضایی، تلاش‌ها برای برکناری او را متوقف کردند. این رأی‌گیری آیین‌نامه‌ای که با ۲۱۱ رأی موافق در برابر ۲۰۴ رأی مخالف به تصویب رسید، ابتکار توماس ماسی، نماینده جمهوری‌خواه، را که پس از نارضایتی عمومی از جنگ با ایران در انتخابات میان‌دوره‌ای مطرح شده بود، ناکام گذاشت.",
+   "body_fa": [
+    "این رأی‌گیری عمدتاً بر اساس خطوط حزبی پیش رفت و ماسی تنها جمهوری‌خواهی بود که همگام با دموکرات‌ها علیه این تصمیم آیین‌نامه‌ای رأی داد. ارجاع طرح به کمیته قضایی—که ریاست آن بر عهده جمهوری‌خواهان است—مانع از رأی‌گیری مستقیم درباره هشت بند استیضاح شد که هگست را به پیشبرد جنگ بدون مجوز با ایران و نظارت بر حملات مرگبار علیه قایق‌های قاچاق متهم می‌کردند.",
+    "دونالد ترامپ، رئیس‌جمهور آمریکا، از این نتیجه استقبال و بر حمایت قاطع خود از هگست تأکید کرد و این اقدام را تلاش شکست‌خورده دموکرات‌ها خواند. با وجود رد این اتهامات توسط هگست، شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای و نارضایتی شهروندان از افزایش قیمت‌های ناشی از جنگ، جایگاه او را در دولت با ابهاماتی مواجه کرده است."
+   ],
+   "title_ar": "الجمهوريون في مجلس النواب الأمريكي يعرقلون مسعى لعزل بيت هيغسيث",
+   "summary_ar": "عرقل الجمهوريون في مجلس النواب الأمريكي مسعى لعزل وزير الدفاع بيت هيغسيث عبر التصويت لصالح إحالة لائحة الاتهامات إلى اللجنة القضائية. وأنهى هذا التصويت الإجرائي، الذي أُقر بأغلبية 211 صوتاً مقابل 204 أصوات، جهوداً قادها النائب الجمهوري توماس ماسي لإقالة هيغسيث في أعقاب انتخابات نصفية شهدت استياءً واسعاً من الحرب على إيران.",
+   "body_ar": [
+    "وجاء التصويت وفقاً للانتماء الحزبي بصورة شبه كاملة، وكان ماسي الجمهوري الوحيد الذي صوت ضد الإجراء الإجرائي إلى جانب الديمقراطيين. وتتيح إحالة القرار إلى اللجنة القضائية، التي يقودها الجمهوريون، تجنب التصويت المباشر على بنود العزل الثمانية التي اتهمت وزير الدفاع بشن حرب غير قانونية على إيران وإدارة ضربات ضد سفن تهريب مخدرات اعتبرها خبراء قانونيون عمليات قتل خارج نطاق القضاء.",
+    "وأشاد الرئيس دونالد ترامب بنتيجة التصويت مجدداً دعمه لهيغسيث، ووصف المسعى بأنه محاولة فاشلة من الديمقراطيين. وعلى الرغم من تنديد هيغسيث بالقرار واعتباره «مهزلة»، إلا أن التكهنات حول موقعه تزايدت بعد خسائر الجمهوريين في الانتخابات النصفية وغضب الناخبين من ارتفاع الأسعار الناجم عن الحرب."
+   ]
+  },
+  {
+   "id": "7984346b657b",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cxp80nnpr0g9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T22:29:44Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "العثور على جثة النائب العراقي السابق أحمد العلواني مقتولاً في بيروت",
+   "title_en": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+   "summary_en": "Former Iraqi lawmaker Ahmed al-Alwani has been found dead inside an apartment in Beirut, four days after he was kidnapped in the Lebanese capital. The Lebanese judiciary and security forces have opened an investigation to determine the circumstances of the killing.",
+   "body_en": [
+    "According to Iraqi and Lebanese sources, Alwani's body was discovered in Beirut's Tariq al-Jadida district and transferred to a hospital in the Bekaa, where family members confirmed his identity while judicial authorities requested a DNA test. Preliminary reports suggest that he may have been lured to the apartment after leaving a hotel in the Raouche area, and an Iraqi security team is expected in Beirut to take part in the investigation.",
+    "Alwani was a prominent Sunni political figure from Anbar province and an outspoken supporter of the 2012–2013 protests against former Prime Minister Nouri al-Maliki. Arrested in late 2013 during a raid on his home and later sentenced to death, he was released in April 2025 under a general amnesty after more than eleven years in detention."
+   ],
+   "title_fa": "جسد احمد العلوانی، نماینده پیشین پارلمان عراق، کشته‌شده در بیروت پیدا شد",
+   "summary_fa": "جسد احمد العلوانی، نماینده پیشین پارلمان عراق، چهار روز پس از ربوده شدن، درون آپارتمانی در بیروت کشف شد. دستگاه قضایی و نهادهای امنیتی لبنان تحقیقاتی را برای روشن شدن ابعاد و جزئیات قتل او آغاز کرده‌اند.",
+   "body_fa": [
+    "بر اساس گزارش‌ها، جسد العلوانی در منطقه «طریق الجدیده» بیروت کشف و به بیمارستانی در بقاع منتقل شد، جایی که بستگانش هویت او را به طور قطعی شناسایی کردند و دادستانی نیز دستور انجام آزمایش دی‌ان‌ای را صادر کرد. اطلاعات اولیه رسانه‌های محلی حاکی از آن است که وی پس از خروج از هتل محل اقامتش در منطقه روشه، به این آپارتمان کشانده شده و به قتل رسیده است؛ همچنین قرار است یک هیئت امنیتی عراقی برای مشارکت در تحقیقات به بیروت سفر کند.",
+    "العلوانی از چهره‌های سیاسی شاخص استان انبار و از حامیان اصلی اعتراضات سال‌های ۲۰۱۲ و ۲۰۱۳ علیه دولت نوری المالکی بود. او در دسامبر ۲۰۱۳ طی یورش به خانه‌اش در رمادی بازداشت و در سال ۲۰۱۴ به اعدام محکوم شد، اما سرانجام در آوریل ۲۰۲۵ پس از بیش از ۱۱ سال زندان، در چارچوب قانون عفو عمومی آزاد شده بود."
+   ],
+   "title_ar": "العثور على جثة النائب العراقي السابق أحمد العلواني مقتولاً في بيروت",
+   "summary_ar": "أعلن السفير العراقي في بيروت أن القضاء اللبناني فتح تحقيقاً في ملابسات مقتل النائب العراقي السابق أحمد العلواني، الذي عُثر على جثته داخل شقة في بيروت بعد أربعة أيام من اختطافه.",
+   "body_ar": [
+    "وأفادت مصادر أمنية بأنه عُثر على جثة العلواني في منطقة طريق الجديدة ونُقلت إلى مستشفى في البقاع، حيث أكد أفراد من عائلته هويته بينما طلب المدعي العام التمييزي إجراء فحص الحمض النووي (DNA). وأشارت معلومات أولية إلى شبهات حول استدراجه إلى الشقة عقب مغادرته فندقاً في منطقة الروشة، وسط ترقب لوصول وفد أمني عراقي إلى بيروت للمشاركة في التحقيقات التي تشرف عليها شعبة المعلومات.",
+    "وكان العلواني من أبرز الوجوه السياسية في محافظة الأنبار ونائباً سابقاً عن القائمة العراقية، حيث عُرف بتأييده للاحتجاجات المناهضة لحكومة نوري المالكي. واعتُقل أواخر عام 2013 إثر مداهمة لمنزله في الرمادی وصدر بحقه حكم بالإعدام في 2014، قبل أن يُفرج عنه في أبريل/نيسان 2025 بموجب قانون العفو العام بعد أكثر من 11 عاماً في السجن."
+   ]
+  },
   {
    "id": "9e442ecebe20",
    "lang": "en",
@@ -12387,907 +12536,6 @@
    "summary_ar": "صرح الرئيس الإيراني مسعود پزشکیان خلال قمة في روسيا بأن الشرق الأوسط قادر على حل مشاكله الخاصة دون الحاجة إلى الولايات المتحدة.",
    "body_ar": [
     "جاءت تصريحات الرئيس الإيراني خلال قمة الدول المصدرة للغاز التي عقدت في روسيا."
-   ]
-  },
-  {
-   "id": "0e96da27290f",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
-   "date": "2026-10-27T20:18:18Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 8,
-   "title": "Exit polls following Israeli elections indicate no clear winner",
-   "title_en": "Exit polls following Israeli elections indicate no clear winner",
-   "summary_en": "Israeli exit polls indicate no clear winner following a historic election, leaving neither Prime Minister Benjamin Netanyahu nor his main rival with a path to a majority.",
-   "body_en": [
-    "Major Israeli television networks released exit polls from Tuesday's election, projecting that the bloc led by former military chief of staff Gadi Eisenkot would secure 52 or 53 seats in the 120-seat Knesset. Forming a majority government requires 61 seats, and preliminary results are expected soon.",
-    "The vote experienced a record turnout of 74.3 percent as citizens cast ballots in the first election since the October 7, 2023 attacks and subsequent conflicts. Opposition figures claimed the results show a defeat for Netanyahu, while the incumbent could remain in power as a caretaker during coalition negotiations."
-   ],
-   "title_fa": "نظرسنجی‌های پس از انتخابات اسرائیل هیچ برنده مشخصی را نشان نمی‌دهند",
-   "summary_fa": "نظرسنجی‌های خروج از حوزه رای‌گیری در اسرائیل نشان می‌دهد که پس از یک انتخابات تاریخی هیچ برنده مشخصی وجود ندارد و نه بنیامین نتانیاهو و نه رقیب اصلی او راهی برای کسب اکثریت ندارند.",
-   "body_fa": [
-    "شبکه‌های اصلی تلویزیون اسرائیل نظرسنجی‌های خروج از حوزه رای‌گیری مربوط به انتخابات روز سه‌شنبه را منتشر کردند که بر اساس آن، ائتلاف به رهبری گادی آیزنکوت، رئیس پیشین ستاد کل ارتش، ۵۲ یا ۵۳ کرسی در کنست ۱۲۰ کرسی به دست خواهد آورد. تشکیل دولت ائتلافی نیازمند ۶۱ کرسی است و نتایج اولیه به زودی اعلام می‌شود.",
-    "این رای‌گیری با مشارکت بی‌سابقه ۷۴.۳ درصدی شهروندان در اولین انتخابات از زمان حملات ۷ اکتبر ۲۰۲۳ و درگیری‌های پس از آن برگزار شد. چهره‌های اپوزیسیون مدعی شدند که این نتایج شکستی برای نتانیاهو محسوب می‌شود، در حالی که نخست‌وزیر فعلی ممکن است در جریان مذاکرات ائتلافی به عنوان سرپرست در قدرت باقی بماند."
-   ],
-   "title_ar": "استطلاعات الرأي بعد الانتخابات الإسرائيلية تشير إلى عدم وجود فائز واضح",
-   "summary_ar": "تشير استطلاعات الرأي بعد التصويت في إسرائيل إلى عدم وجود فائز واضح في أعقاب انتخابات تاريخية، حيث لا يملك رئيس الوزراء بنيامين نتنياهو ولا منافسه الرئيسي سبيلاً لتحقيق الأغلبية.",
-   "body_ar": [
-    "أصدرت شبكات التلفزيون الإسرائيلية الرئيسية استطلاعات الرأي الخروج من صناديق الاقتراع لانتخابات يوم الثلاثاء، والتي توقعت أن يحصل التكتل بقيادة رئيس الأركان السابق جادي آيزنكوت على 52 أو 53 مقعداً في الكنيست المكون من 120 مقعداً. ويتطلب تشكيل حكومة أغلبية الحصول على 61 مقعداً، ومن المتوقع صدور النتائج الأولية قريباً.",
-    "شهد التصويت إقبالاً قياسياً بلغ 74.3 بالمئة حيث أدلى المواطنون بأصواتهم في أول انتخابات منذ هجمات 7 أكتوبر 2023 والصراعات التي تلتها. واعتبر شخصيات المعارضة أن النتائج تُظهر هزيمة لنتانياهو، بينما قد يبقى رئيس الوزراء الحالي في السلطة بصفة تصريف أعمال أثناء مفاوضات الائتلاف."
-   ]
-  },
-  {
-   "id": "f9a0ae76cf96",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-   "date": "2026-10-27T19:36:01Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "score": 8,
-   "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-   "title_en": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-   "summary_en": "Russian President Vladimir Putin and Qatar's Emir Sheikh Tamim bin Hamad Al Thani met in Moscow to discuss bilateral relations and regional stability.",
-   "body_en": [
-    "The leaders held their meeting on the sidelines of the Gas Exporting Countries Forum in Moscow. Their discussions focused on bilateral ties alongside the impact of US-Iran tensions on regional stability and energy markets."
-   ],
-   "title_fa": "امیر قطر و پوتین در میان درگیری آمریکا و ایران خواستار دیپلماسی شدند",
-   "summary_fa": "ولادیمیر پوتین، رئیس‌جمهور روسیه و شیخ تمیم بن حمد آل ثانی، امیر قطر، در مسکو دیدار و درباره روابط دوجانبه و ثبات منطقه‌ای گفتگو کردند.",
-   "body_fa": [
-    "این رهبران دیدار خود را در حاشیه مجمع کشورهای صادرکننده گاز در مسکو برگزار کردند. محور گفتگوی آنها روابط دوجانبه و همچنین تأثیر تنش‌های ایالات متحده و ایران بر ثبات منطقه‌ای و بازارهای انرژی بود."
-   ],
-   "title_ar": "أمير قطر وپوتين يدعوان إلى الدبلوماسية وسط الصراع بين أمريكا وإيران",
-   "summary_ar": "التقى الرئيس الروسي فلاديمير بوتين وأمير قطر الشيخ تميم بن حمد آل ثاني في موسكو لمناقشة العلاقات الثنائية والاستقرار الإقليمي.",
-   "body_ar": [
-    "عقد الزعيمان اجتماعهما على هامش منتدى الدول المصدرة للغاز في موسكو. وتركزت نقاشاتهما حول العلاقات الثنائية إلى جانب تأثير التوترات بين الولايات المتحدة وإيران على الاستقرار الإقليمي وأسواق الطاقة."
-   ]
-  },
-  {
-   "id": "692835e18a7f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/oman-calls-gulf-iraq-and-iran-unite-under-one-security-pact",
-   "date": "2026-10-27T18:26:49Z",
-   "countries": [
-    "IRN",
-    "IRQ",
-    "OMN"
-   ],
-   "score": 8,
-   "title": "Oman calls for Gulf, Iraq and Iran to unite under one security pact",
-   "title_en": "Oman calls for Gulf, Iraq and Iran to unite under one security pact",
-   "summary_en": "Omani Foreign Minister Badr al-Busaidi has urged the six Gulf Cooperation Council states, Iraq, and Iran to form a single non-aggression security pact to manage regional security independently of external powers.",
-   "body_en": [
-    "Speaking at Cambridge University during a diplomatic visit to the UK, Busaidi argued that relying on external powers has fueled instability and prevented regional states from reaching a consensus on security. He stated that portraying Iran as the main regional security threat has been counterproductive, emphasizing that any sustainable security structure in the Gulf must include Tehran.",
-    "The proposal comes amid ongoing regional disruption caused by the US-Israeli war on Iran, which has inflicted economic damage and flight cancellations across Gulf states. Busaidi noted that future security arrangements should focus on regional dialogue and non-aggression, while external partnerships like those with the US should shift toward economic rather than military commitments."
-   ],
-   "title_fa": "عمان خواستار اتحاد کشورهای خلیج فارس، عراق و ایران در قالب یک پیمان امنیتی واحد شد",
-   "summary_fa": "بدر البوسعیدی، وزیر امور خارجه عمان، از شش کشور عضو شورای همکاری خلیج فارس، عراق و ایران خواست تا یک پیمان امنیتی عدم تجاوز مشترک برای مدیریت امنیت منطقه‌ای بدون اتکا به قدرت‌های خارجی تشکیل دهند.",
-   "body_fa": [
-    "البوسعیدی طی سخنرانی در دانشگاه کمبریج در جریان سفر دیپلماتیک خود به بریتانیا، استدلال کرد که اتکا به قدرت‌های خارجی باعث بی‌ثباتی شده و مانع از دستیابی کشورهای منطقه به توافق بر سر ترتیبات امنیتی شده است. وی تصریح کرد که معرفی ایران به عنوان تهدید امنیتی اصلی منطقه نتیجه معکوس داشته و تاکید نمود هرگونه ساختار امنیتی پایدار در خلیج فارس باید شامل تهران باشد.",
-    "این پیشنهاد در میان اختلالات منطقه‌ای ناشی از جنگ آمریکا و اسرائیل علیه ایران مطرح می‌شود که خسارات اقتصادی و لغو پروازها را در سراسر کشورهای خلیج فارس به همراه داشته است. البوسعیدی خاطرنشان کرد که ترتیبات امنیتی آینده باید بر گفتگوی منطقه‌ای و عدم تجاوز متمرکز شود، در حالی که شراکت‌های خارجی مانند رابطه با آمریکا باید به سمت تعهدات اقتصادی به جای نظامی سوق یابد."
-   ],
-   "title_ar": "عُمان تدعو دول الخليج والعراق وإيران إلى التوحد تحت ميثاق أمني واحد",
-   "summary_ar": "دعا وزير الخارجية العُماني بدر البوسعيدي دول الخليج الست والعراق وإيران إلى تشكيل ميثاق أمني مشترك لـ \"عدم الاعتداء\" لإدارة الأمن الإقليمي بشكل مستقل عن القوى الخارجية.",
-   "body_ar": [
-    "وفي كلمة ألقاها في جامعة كامبريدج خلال زيارة دبلوماسية للمملكة المتحدة، رأى البوسعيدي أن الاعتماد على القوى الخارجية يغذي عدم الاستقرار ويمنع دول المنطقة من التوصل إلى إجماع بشأن الترتيبات الأمنية. وأكد أن تصوير إيران على أنها التهديد الأمني الرئيسي في المنطقة أمر ضار، مشدداً على أن أي هيكل أمني مستدام في الخليج يجب أن يشمل تهران.",
-    "ويأتي هذا الاقتراح في ظل الاضطرابات الإقليمية المستمرة الناتجة عن الحرب الأمريكية الإسرائيلية على إيران، والتي ألحقت أضراراً اقتصادية وتسببت في إلغاء الرحلات الجوية في دول الخليج. وأشار البوسعيدي إلى أن الترتيبات الأمنية المستقبلية يجب أن تركز على الحوار الإقليمي وعدم الاعتداء، بينما ينبغي للشراكات الخارجية مع واشنطن أن تتحول نحو الالتزامات الاقتصادية بدلاً من العسكرية."
-   ]
-  },
-  {
-   "id": "1e1c78f815f6",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-   "date": "2026-10-27T18:11:57Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-   "title_en": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-   "summary_en": "Arab political leaders in Israel have accused Prime Minister Benjamin Netanyahu of using incitement and scare tactics against Arab citizens on election day to mobilize right-wing voters.",
-   "body_en": [
-    "Leading Arab politicians, including Yousef Jabareen, Mansour Abbas, and Sami Abu Shehadeh, criticized social media posts by Netanyahu that targeted Arab voters. Netanyahu shared images of long queues at Arab polling stations and urged right-wing supporters to vote for Likud to prevent what he described as Arab parties stealing the election.",
-    "Rights group Adalah reported multiple irregularities, including slow-moving or stopped lines in Arab-majority areas and a lack of Arabic-language voting slips, filing complaints with election authorities. Meanwhile, Netanyahu's main rival, Gadi Eisenkot, ruled out forming a coalition with Arab parties, citing differences in shared values."
-   ],
-   "title_fa": "احزاب عرب در اسرائیل نتانیاهو را به تحریک کینه برای ترساندن رای‌دهندگان متهم کردند",
-   "summary_fa": "رهبران سیاسی عرب در اسرائیل، بنیامین نتانیاهو نخست‌وزیر را متهم کردند که در روز انتخابات با استفاده از تاکتیک‌های ارعاب و نژادپرستانه علیه شهروندان عرب، به دنبال تحریک رای‌دهندگان راست‌گرا است.",
-   "body_fa": [
-    "سیاستمداران برجسته عرب از جمله یوسف جبارین، منصور عباس و سامی ابوشهاده از پست‌های نتانیاهو در شبکه‌های اجتماعی که رای‌دهندگان عرب را هدف قرار داده بود، انتقاد کردند. نتانیاهو با انتشار تصاویری از صف‌های طولانی در حوزه‌های رای‌گیری عربی، از حامیان راست‌گرا خواست برای جلوگیری از آنچه دزدیده شدن انتخابات خواند، به حزب لیکود رای دهند.",
-    "گروه حقوق بشری عداله از بروز اختلالاتی از جمله کندی شديد یا توقف روند رای‌گیری در مناطق عرب‌نشین و کمبود برگه‌های رای به زبان عربی خبر داد و شکایت‌هایی را به کمیته‌های انتخابات ارائه کرد. در همین حال، گادی آیزنکوت، رقیب اصلی نتانیاهو، همکاری با احزاب عربی را به دلیل عدم وجود ارزش‌های مشترک رد کرد."
-   ],
-   "title_ar": "الأحزاب العربية في إسرائيل تتهم نتنياهو بالتحريض على الكراهية لتخويف الناخبين",
-   "summary_ar": "اتهم قادة سياسيون عرب في إسرائيل رئيس الوزراء بنيامين نتنياهو بالتحريض واستخدام أساليب التخويف ضد المواطنين العرب يوم الانتخابات لحشد ناخبي اليمين.",
-   "body_ar": [
-    "انتقد سياسيون عرب بارزون، بمن فيهم يوسف جبارين ومنصور عباس وسامي أبو شحادة، منشورات نتنياهو على وسائل التواصل الاجتماعي التي استهدفت الناخبين العرب. ونشر نتنياهو صوراً لطوابير طويلة أمام مراكز الاقتراع في المناطق العربية، داعياً أنصار اليمين للتصويت لحزب الليكود لمنع ما وصفه بسرقة الانتخابات.",
-    "من جانبها، أفادت مركز \"عدالة\" الحقوقي بتلقي تقارير عن تباطؤ أو توقف عملية التصويت في بعض المناطق ذات الأغلبية العربية ونقص أوراق الاقتراع باللغة العربية، ورفعت شكاوى للجان الانتخابات. بالمقابل، استبعد غادي آيزنكوت، المنافس الرئيسي لنتنياهو، التحالف مع الأحزاب العربية لعدم وجود قيم مشتركة."
-   ]
-  },
-  {
-   "id": "e2007e4b3ac0",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/raams-abbas-calls-sustained-voting-bring-down-netanyahu",
-   "date": "2026-10-27T17:09:13Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 6,
-   "title": "Ra’am’s Abbas calls for sustained voting to ‘bring down’ Netanyahu",
-   "title_en": "Ra’am’s Abbas calls for sustained voting to ‘bring down’ Netanyahu",
-   "summary_en": "Mansour Abbas, the leader of the United Arab List (Ra'am), has urged voters to support his party to defeat Benjamin Netanyahu and his right-wing allies in the election. Abbas stated that Netanyahu was using his party as a political scarecrow to mobilize right-wing turnout.",
-   "body_en": [
-    "In a social media post, Abbas appealed for voter backing and asserted that his party would successfully bring down Netanyahu, Bezalel Smotrich, and Itamar Ben Gvir in the ongoing vote."
-   ],
-   "title_fa": "عباس، رهبر فهرست موحد عربی، خواستار تداوم رای‌دهی برای «سرنگونی» نتانیاهو شد",
-   "summary_fa": "منصور عباس، رهبر فهرست موحد عربی (رعم)، از رای‌دهندگان خواست با حمایت از حزب او، بنیامین نتانیاهو و متحدان راست‌گرایش را در انتخابات شکست دهند. عباس گفت نتانیاهو از این گروه سیاسی به عنوان «مترسک» برای بسیج رای‌دهندگان راست‌گرا استفاده می‌کند.",
-   "body_fa": [
-    "عباس در پیامی در شبکه‌های اجتماعی خواستار حمایت مردم شد و تاکید کرد که حزب او در این انتخابات بنیامین نتانیاهو، بتسلئیل اسموتریچ و ایتامار بن‌گویر را سرنگون خواهد کرد."
-   ],
-   "title_ar": "عباس رئيس القائمة الموحدة يدعو لمواصلة التصويت لـ \"إسقاط\" نتنياهو",
-   "summary_ar": "دعا منصور عباس، قائد القائمة العربية الموحدة (رعم)، الناخبين إلى دعم حزبه لإسقاط بنيامين نتنياهو وحلفائه من اليمين في الانتخابات. وقال عباس إن نتنياهو يستخدم القائمة كـ \"فزاعة\" سياسية لحشد ناخبي اليمين.",
-   "body_ar": [
-    "وفي منشور عبر مواقع التواصل الاجتماعي، طالب عباس بالدعم والتصويت لصالح حزبه، مؤكداً أن القائمة ستعمل على إسقاط بنيامين نتنياهو وسموتريتش وبن غفير في هذه الانتخابات."
-   ]
-  },
-  {
-   "id": "fb0f88c018c4",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-warns-arab-voter-surge-israels-election-arab-leaders-call",
-   "date": "2026-10-27T16:43:25Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "Netanyahu warns of Arab voter surge in Israel's election in desperate bid to woo support",
-   "title_en": "Netanyahu warns of Arab voter surge in Israel's election in desperate bid to woo support",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu and his allies launched a last-minute push on election day, warning of high Arab voter turnout, which Palestinian politicians condemned as racist incitement.",
-   "body_en": [
-    "Supporters of Netanyahu's Likud party used loudspeakers in Jerusalem playing the Islamic call to prayer to urge right-wing voting, while Netanyahu publicly warned that low right-wing turnout could result in a government backed by Arab leaders Mansour Abbas and Ahmed Tibi.",
-    "Arab politicians rejected the rhetoric, with Ahmed Tibi stating that high Arab turnout could pave the way for a new government, and Sami Abu Shehadeh welcoming the long lines at polling stations as a positive display of democracy."
-   ],
-   "title_fa": "هشدار نتانیاهو درباره افزایش رای‌دهندگان عرب در انتخابات اسرائیل در تلاشی مأیوسانه برای جلب حمایت",
-   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و متحدانش در روز انتخابات با هشدار درباره مشارکت بالای رای‌دهندگان عرب دست به تلاشی لحظه آخر زدند؛ اقدامی که سیاستمداران فلسطینی آن را تحریک نژادپرستانه خواندند.",
-   "body_fa": [
-    "حامیان حزب لیکود متعلق به نتانیاهو با پخش صدای اذان از بلندگوها در اورشلیم، خواستار رای دادن جناح راست شدند، در حالی که نتانیاهو هشدار داد عدم مشارکت راست‌گرایان می‌تواند به تشکیل دولتی با حضور رهبران عرب منجر شود.",
-    "سیاستمداران عرب این سخنان را رد کردند؛ احمد الطیبی اعلام کرد مشارکت بالای عرب‌ها می‌تواند راه را برای تغییر حکومت هموار کند و سامی ابوشهاده نیز از صف‌های طولانی به عنوان نشانه مثبتی از دمکراسی استقبال کرد."
-   ],
-   "title_ar": "نتنياهو يحذر من إقبال الناخبين العرب في الانتخابات الإسرائيلية في محاولة يائسة لكسب الدعم",
-   "summary_ar": "حذر رئيس الوزراء الإسرائيلي بنيامين نتنياهو وحلفاؤه من ارتفاع نسبة إقبال الناخبين العرب في محاولة أخيرة لكسب الدعم يوم الانتخابات، وهو ما أدانه سياسيون فلسطينيون باعتباره تحريضاً عنصرياً.",
-   "body_ar": [
-    "استخدم أنصار حزب الليكود مكبرات الصوت في القدس لإذاعة أذان الصلاة لحث ناخبي اليمين على التصويت، بينما حذر نتنياهو من أن عدم مشاركة اليمين قد تؤدي إلى حكومة يقودها القادة العرب منصور عباس وأحمد الطيبي.",
-    "ورفض السياسيون العرب هذه التصريحات، حيث أكد أحمد الطيبي أن الإقبال العربي المرتفع قد يمهد الطريق لحكومة بديلة، بينما رحب سامي أبو شحادة بالطوابير الطويلة أمام مراكز الاقتراع باعتبارها مظهرًا إيجابيًا للديمقراطية."
-   ]
-  },
-  {
-   "id": "64d6562dc56e",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/ck62y655ldrqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-27T16:36:23Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "روایت رئیس سابق موساد از جنگ روانی در ایران؛ چرا تصاویر عملیات مخفی منتشر شد؟",
-   "title_en": "Ex-Mossad chief explains psychological warfare tactics used in Iran video release",
-   "summary_en": "Former Mossad chief David Barnea revealed that Israel deliberately published footage of covert intelligence operations in Iran during the 12-day war to trigger mass arrests by Iranian authorities, making it harder to identify actual agents. Experts noted the move was aimed at controlling the war narrative and sowing paranoia within Iran's security apparatus.",
-   "body_en": [
-    "Barnea stated at the Priority Conference that the intelligence strategy led Iranian security services to detain approximately 21,000 people during the conflict, asserting that 99.9 percent of Mossad operatives remained undetected and some continue to live in Tehran. Iranian police confirmed that around 21,000 people were arrested across the 12-day period, though Barnea claimed these mass arrests occurred on the second day and that falsely accused individuals were later released or executed without having ties to Mossad.",
-    "Academic experts Aviva Guttmann and Ahmed Al-Rawi analyzed the tactic as a form of 'timeline warfare' and psychological operation designed to project power, boost domestic morale, and exploit surveillance limits. They explained that modern intelligence agencies increasingly release select operational footage to dictate the narrative and turn potential visibility into a strategic advantage."
-   ],
-   "title_fa": "روایت رئیس سابق موساد از جنگ روانی در ایران؛ چرا تصاویر عملیات مخفی منتشر شد؟",
-   "summary_fa": "داوید بارنیا، رئیس پیشین موساد، فاش کرد که اسرائیل در جریان جنگ ۱۲ روزه عامدانه تصاویری از عملیات مخفی اطلاعاتی در ایران منتشر کرد تا باعث بازداشت‌های گسترده توسط نهادهای امنیتی ایران شود و شناسایی ماموران واقعی را دشوار کند. کارشناسان اشاره کردند این اقدام برای تسلط بر روایت جنگ و ایجاد بدگمانی در دستگاه‌های امنیتی ایران انجام شده است.",
-   "body_fa": [
-    "بارنیا در «نشست پرایوریتی» ادعا کرد این استراتژی اطلاعاتی موجب شد نهادهای امنیتی ایران حدود ۲۱ هزار نفر را در طول جنگ بازداشت کنند و مدعی شد ۹۹.۹ درصد از ماموران موساد شناسایی نشدند و برخی همچنان در تهران زندگی می‌کنند. سخنگوی پلیس ایران بازداشت حدود ۲۱ هزار نفر را در طول جنگ ۱۲ روزه تایید کرده بود، اگرچه بارنیا این بازداشت‌ها را به روز دوم نسبت داد و گفت برخی افراد بازداشت یا اعدام‌شده هیچ ارتباطی با موساد نداشتند.",
-    "آویوا گاتمن و احمد الراوی، پژوهشگران ارتباطات و اطلاعات، این اقدام را در قالب «جنگ تایم‌لاین» و عملیات روانی برای نمایش قدرت، تقویت روحیه داخلی و ایجاد سردرگمی در طرف مقابل تحلیل کردند. به گفته آنان، سرویس‌های اطلاعاتی امروزه با افشای هدایت‌شده برخی اطلاعات، انتشار عمومی را به یک امتیاز استراتژیک برای کنترل روایت مبدل می‌کنند."
-   ],
-   "title_ar": "رئيس الموساد السابق يوضح تكتيكات الحرب النفسية في نشر فيديو العمليات داخل إيران",
-   "summary_ar": "كشف رئيس الموساد السابق دافيد برنيع أن إسرائيل تعمدت نشر مشاهد لعمليات استخباراتية سرية داخل إيران خلال حرب الـ 12 يوماً لإثارة موجة اعتقالات واسعة من قبل السلطات الإيرانية، مما يصعّب كشف العملاء الحقيقيين. وأشار خبراء إلى أن الهدف كان السيطرة على رواية الحرب وإثارة الشكوك داخل الأجهزة الأمنية الإيرانية.",
-   "body_ar": [
-    "وذكر برنيع في \"مؤتمر برايريتي\" أن هذه الاستراتيجية الاستخباراتية دفعت الأجهزة الأمنية الإيرانية لاعتقال نحو 21 ألف شخص خلال الحرب، معتبراً أن 99.9 بالمئة من عناصر الموساد لم يتم كشفهم وأن بعضهم لا يزال يعيش في تهران. وكانت الشرطة الإيرانية قد أكدت اعتقال نحو 21 ألف شخص خلال حرب الـ 12 يوماً، رغم أن برنيع نسب الاعتقالات لليوم الثاني وذكر أن بعض المعتقلين أو الموقوفين لم تكن لهم أي صلة بالموساد.",
-    "وحسب الباحثين أفيفا غوت his والباحث أحمد الراوي، فإن هذا التكتيك يأتي في إطار \"حرب التايم لاين\" والحرب النفسية بهدف فرض السيطرة على الرواية وإظهار القوة وزرع الشكوك لدى الطرف الآخر. وأوضح الخبراء أن أجهزة الاستخبارات باتت تستغل النشر العلني لبعض العمليات لتحويله إلى ميزة استراتيجية للتحكم في انطباعات الجمهور."
-   ]
-  },
-  {
-   "id": "d4f7e9b77ec2",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/explainers/who-is-lana-nusseibeh-uae-diplomat-un-secretary-general",
-   "date": "2026-10-27T16:27:55Z",
-   "countries": [
-    "ARE",
-    "ISR",
-    "PSE",
-    "YEM"
-   ],
-   "score": 6,
-   "title": "Who is Lana Nusseibeh, the UAE diplomat in the race to become next UN secretary-general?",
-   "title_en": "Who is Lana Nusseibeh, the UAE diplomat in the race to become next UN secretary-general?",
-   "summary_en": "UAE Minister of State Lana Nusseibeh has emerged as a late candidate for the next UN secretary-general amid a deadlock in the Security Council. Her candidacy has drawn criticism regarding the UAE's foreign policies and human rights record.",
-   "body_en": [
-    "The UAE announced Nusseibeh's candidacy earlier this month as the 10-year term of current UN Secretary-General Antonio Guterres concludes at the end of the year. The UN Security Council has failed to reach a consensus after six anonymous straw polls, with all candidates facing opposition from veto-wielding permanent members.",
-    "Critics have raised concerns over Nusseibeh's record, pointing to the UAE's foreign policy in conflicts such as Sudan and Libya, as well as accusations regarding the country's human rights practices and treatment of migrant workers. Nusseibeh has previously denied allegations of Emirati involvement in Sudan's civil war and defended the UAE's positions in international forums."
-   ],
-   "title_fa": "لانا حبیبه، دیپلمات اماراتی در رقابت برای احراز پست دبیرکلی سازمان ملل متحد کیست؟",
-   "summary_fa": "لانا نسیبه، وزیر مشاور امارات متحده عربی در امور خارجه، به عنوان نامزدی تازه در رقابت برای دبیرکلی آینده سازمان ملل متحد ظاهر شده است. نامزدی او با انتقاداتی در خصوص سیاست‌های خارجی و پرونده حقوق بشری امارات مواجه شده است.",
-   "body_fa": [
-    "امارات متحده عربی اوایل ماه جاری میلادی و در پی بن‌بست ایجاد شده در انتخاب جانشین آنتونیو گوترش، دبیرکل کنونی سازمان ملل که دوره ۱۰ ساله او در پایان دسامبر به پایان می‌رسد، نامزدی نسیبه را اعلام کرد. شورای امنیت سازمان ملل پس از شش دور رأی‌گیری آزمایشی نتوانسته است به اجماع برسد و تمامی نامزدها با مخالفت اعضای دائم دارای حق وتو روبرو شده‌اند.",
-    "منتقدان با اشاره به سیاست خارجی امارات در درگیری‌هایی مانند سودان و لیبی و همچنین اتهامات مربوط به وضعیت حقوق بشر و کارگران مهاجر در این کشور، نسبت به سوابق نسیبه ابراز نگرانی کرده‌اند. نسیبه پیش‌تر اتهامات مربوط به دخالت امارات در جنگ داخلی سودان را رد کرده و از مواضع این کشور در مجامع بین‌المللی دفاع کرده است."
-   ],
-   "title_ar": "من هي لانا نسيبة، الدبلوماسية الإماراتية في السباق لتصبح الأمينة العامة القادمة للأمم المتحدة؟",
-   "summary_ar": "برزت وزيرة الدولة الإماراتية لشؤون التعاون الدولي لانا نسيبة كمرشحة متأخرة لمنصب الأمين العام القادم للأمم المتحدة وسط جمود في مجلس الأمن. وقد واجه ترشيحها انتقادات تتعلق بسياسات الإمارات الخارجية وسجلها الحقوقي.",
-   "body_ar": [
-    "أعلنت الإمارات عن ترشيح نسيبة في وقت سابق من هذا الشهر وسط جمود في اختيار خلف للأمين العام الحالي للأمم المتحدة أنطونيو غوتيريش، الذي تنتهي ولايته التي استمرت 10 سنوات في 31 ديسمبر. ولم يتوصل مجلس الأمن التابع للأمم المتحدة إلى توافق في الآراء بعد ستة اقتراعات سرية استطلاعية، حيث واجه جميع المرشحين معوضة من الأعضاء الدائمين الذين يمتلكون حق النقض (الفيتو).",
-    "أثار المنتقدون مخاوف بشأن سجل نسيبة، مشيرين إلى السياسة الخارجية للإمارات في صراعات مثل السودان وليبي، فضلاً عن الاتهامات المتعلقة بممارسات حقوق الإنسان في البلاد ومعاملة العمال المهاجرين. وكانت نسيبة قد نفت سابقاً مزاعم تورط الإمارات في الحرب الأهلية بالسودان ودفاعت عن مواقف بلادها في المحافل الدولية."
-   ]
-  },
-  {
-   "id": "1829847356e9",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/egypts-mada-masr-editor-lina-attalah-jailed-court-orders-outlet-shut",
-   "date": "2026-10-27T15:39:47Z",
-   "countries": [
-    "EGY"
-   ],
-   "score": 7,
-   "title": "Egypt jails Mada Masr editor and orders outlet closed",
-   "title_en": "Egypt jails Mada Masr editor and orders outlet closed",
-   "summary_en": "An Egyptian court convicted Mada Masr editor-in-chief Lina Attalah of operating an unlicensed website, sentencing her to custody, fining her, and ordering the closure of the independent outlet.",
-   "body_en": [
-    "Judge Mohamed Mubarak of the New Cairo Misdemeanour Court imposed a 3 million Egyptian pound fine, ordered the site's closure, and directed the confiscation of its property. Attalah's legal team denounced procedural violations during the trial, including the judge appointing an unwanted attorney and rejecting defense requests.",
-    "Rights groups, including the Committee to Protect Journalists, condemned the ruling as a devastating blow to press freedom in Egypt, demanding Attalah's immediate release and the reopening of Mada Masr."
-   ],
-   "title_fa": "مصر سردبیر مادا مصر را بازداشت و دستور تعطیلی این رسانه را صادر کرد",
-   "summary_fa": "دادگاهی در مصر لینا عطالله، سردبیر مادا مصر را به اتهام اداره یک وب‌سایت بدون مجوز محکوم کرد؛ او را بازداشت، جریمه و دستور تعطیلی این رسانه مستقل را صادر نمود.",
-   "body_fa": [
-    "قاضی محمد مبارک در دادگاه جنحه القاهرة الجديدة، جریمه‌ای ۳ میلیون پوندی، تعطیلی وب‌سایت و مصادره اموال مادا مصر را حکم داد. تیم حقوقی عطالله به نقض روندهای قانونی در طول دادگاه، از جمله انتصاب وکیل تحمیلی توسط قاضی و رد درخواست‌های دفاع، اعتراض کرد.",
-    "گروه‌های حقوق بشری از جمله کمیته دفاع از روزنامه‌نگاران این حکم را ضربه‌ای مهلک به آزادی مطبوعات در مصر خوانده و خواستار آزادی فوری عطالله و فعالیت مجدد مادا مصر شدند."
-   ],
-   "title_ar": "مصر تحبس محررة مدى مصر وتأمر بفرضه وإغلاق الموقع",
-   "summary_ar": "أدانت محكمة مصرية لينا عطاء الله، رئيسة تحرير موقع \"مدى مصر\"، بتهمة إدارته بدون ترخيص، وقضت بحبسها وتغريمها وأمرت بإغلاق الوسيلة الإعلامية المستقلة.",
-   "body_ar": [
-    "فرض القاضي محمد مبارك في محكمة جنح القاهرة الجديدة غرامة قدرها 3 ملايين جنيه مصري، وأمر بإغلاق الموقع ومصادرة ممتلكاته. واستنكر الدفاع انتهاك الإجراءات القانونية أثناء المحاكمة، بما في ذلك تعيين القاضي لمحامٍ رغماً عن عطاء الله ورفض طلبات الدفاع.",
-    "ونددت منظمات حقوقية، من بينها لجنة حماية الصحفيين، بالحكم واعتبرته ضربة قاسية لحرية الصحافة في مصر، مطالبة بالإفراج الفوري عن لينا عطاء الله والسماح لـ \"مدى مصر\" بمواصلة عملها."
-   ]
-  },
-  {
-   "id": "0f209266069b",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
-   "date": "2026-10-27T15:26:59Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 8,
-   "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-   "title_en": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-   "summary_en": "Tehran is maintaining a firm stance on its core demands amidst diplomatic efforts to end the eight-month war between the US, Israel, and Iran, using its control over the Strait of Hormuz to demand lasting guarantees and sanctions relief.",
-   "body_en": [
-    "Iran is demanding an end to the US naval blockade, sanctions relief, unfreezing of assets, and durable assurances against future strikes in exchange for reopening the Strait of Hormuz. Deep distrust of Washington, fueled by previous strikes during ongoing peace negotiations, has hardened Iran's position as it seeks long-term deterrence rather than a temporary ceasefire.",
-    "Analysts and reports indicate Tehran's strategy is also shaped by political timetables in the US, where upcoming midterm elections and rising energy costs are creating domestic pressures for President Donald Trump. Meanwhile, regional powers including China, Saudi Arabia, Pakistan, and Turkey are continuing diplomatic initiatives to avert further military escalation."
-   ],
-   "title_fa": "محاسبات ایران در آستانه تشدید تنش با آمریکا: اعتماد، انتخابات میان‌دوره‌ای، هرمز",
-   "summary_fa": "در میان تلاش‌های دیپلماتیک برای پایان دادن به جنگ هشت ماهه بین آمریکا، اسرائیل و ایران، تهران بر مواضع و خطوط قرمز خود ایستادگی می‌کند و با بهره‌گیری از اهرم کنترل بر تنگه هرمز، خواستار لغو تحریم‌ها و دریافت ضمانت‌های پایدار است.",
-   "body_fa": [
-    "ایران در ازای بازگشایی تنگه هرمز، خواستار پایان دادن به محاصره دریایی آمریکا، لغو تحریم‌ها، آزادکردن دارایی‌ها و دریافت تضمین‌های معتبر عدم حمله مجدد است. بی‌اعتمادی عمیق به واشنطن که به دلیل حملات گذشته در حین مذاکرات ایجاد شده، باعث شده ایران به جای آتش‌بس موقت، به دنبال بازدارندگی بلندمدت باشد.",
-    "تحلیلگران و گزارش‌ها نشان می‌دهند که محاسبات تهران تحت تاثیر زمان‌بندی سیاسی در آمریکا و انتخابات میان‌دوره‌ای آن کشور نیز قرار دارد، جایی که افزایش هزینه‌های انرژی فشارهای داخلی بر دونالد ترامپ را افزایش داده است. در همین حال، قدرت‌های منطقه‌ای از جمله چین، عربستان سعودی، پاکستان و ترکیه به تلاش‌های دیپلماتیک خود برای جلوگیری از تصدید بیشتر تنش‌های نظامی ادامه می‌دهند."
-   ],
-   "title_ar": "حسابات إيران مع تزايد التصعيد الأمريكي: الثقة، الانتخابات النصفيّة، وهرمز",
-   "summary_ar": "تتمسك تهران بموقفها وتطالب بشروطها الأساسية وسط جهود دبلوماسية لوقف الحرب المستمرة منذ ثمانية أشهر بين الولايات المتحدة وإسرائيل وإيران، مستغلة نفوذها على مضيق هرمز للمطالبة بضمانات دائمة ورفع العقوبات.",
-   "body_ar": [
-    "تطالب إيران بإنهاء الحصار البحري الأمريكي ورفع العقوبات وإلغاء تجميد الأصول وتقديم ضمانات قاطعة بعدم شن هجمات جديدة مقابل إعادة فتح مضيق هرمز. وقد أدى انعدام الثقة العميق بوالواشنطن، بسبب الضربات السابقة أثناء المحادثات، إلى تصلب موقف تهران التي تسعى إلى تحقيق ردع طويل الأمد بدلاً من مجرد هدنة مؤقتة.",
-    "وتشير التقارير إلى أن حسابات تهران تتأثر أيضاً بالتوقيت السياسي في الولايات المتحدة، حيث تضغط الانتخابات النصفيّة المقبلة وارتفاع أسعار الطاقة على إدارة الرئيس دونالد ترامب. في غضون ذلك، تواصل قوى إقليمية ودولية مثل الصين والسعودية وباكستان وتركيا تحركاتها الدبلوماسية لتجنب المزيد من التصعيد العسكري."
-   ]
-  },
-  {
-   "id": "4d4c4c86eddc",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-turnout-highest-in-50-years-as-voting-continues?traffic_source=rss",
-   "date": "2026-10-27T15:20:48Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Israel election turnout highest in 50 years as voting continues",
-   "title_en": "Israel election turnout highest in 50 years as voting continues",
-   "summary_en": "Voter turnout in Israel's general election reached 66.7 percent by early evening, exceeding figures from the previous election and putting participation on track to hit historic levels. The high turnout has prompted urgent calls to voters from both right-wing leaders and Arab-led lists.",
-   "body_en": [
-    "According to the Central Elections Committee, two-thirds of eligible voters had cast ballots by 6pm, up from 57.7 percent at the same point in 2022, while military turnout surpassed 68 percent. Officials reported long lines at polling stations despite stormy weather and flood warnings, while the election commission rejected a request from Likud to extend voting past the 10pm closing time.",
-    "The high participation follows warnings from Prime Minister Benjamin Netanyahu and far-right Finance Minister Bezalel Smotrich regarding strong turnout among Arab citizens, who make up 20 percent of the population. Arab candidates and political groups, including Ahmed Tibi, confirmed high turnout among Palestinian citizens of Israel, while Arab-led lists accused right-wing politicians of incitement and questioning their voting legitimacy."
-   ],
-   "title_fa": "مشارکت در انتخابات اسرائیل در حال برگزاری به بالاترین میزان در ۵۰ سال گذشته رسید",
-   "summary_fa": "میزان مشارکت در انتخابات عمومی اسرائیل تا اوایل غروب به ۶۶.۷ درصد رسید که از آمار انتخابات قبلی فراتر رفته و در مسیر رسیدن به سطوح تاریخی قرار گرفته است. این مشارکت بالا واکنش‌ها و فراخوان‌های فوری رهبران جناح راست و فهرست‌های وابسته به اعراب را به همراه داشته است.",
-   "body_fa": [
-    "به گفته کمیته مرکزی انتخابات، دو سوم واجدین شرایط تا ساعت ۶ بعدازظهر رای خود را به صندوق‌ها انداختند که در مقایسه با ۵۷.۷ درصد در زمان مشابه در سال ۲۰۲۲ افزایش یافته است، در حالی که میزان مشارکت نظامیان از ۶۸ درصد گذشت. مقامات از صف‌های طولانی در شعب رای‌گیری با وجود هوای طوفانی خبر دادند، در حالی که کمیسیون انتخابات درخواست حزب لیکود برای تمدید زمان رای‌گیری پس از ساعت ۱۰ شب را رد کرد.",
-    "این مشارکت بالا پس از هشدارهای بنیامین نتانیاهو، نخست‌وزیر، و بتسلئیل اسموتریچ، وزیر دارایی افراطی، در مورد حضور گسترده شهروندان عرب مطرح می‌شود. نامزدها و گروه‌های سیاسی عرب، از جمله احمد الطیبی، مشارکت بالای شهروندان فلسطینی اسرائیل را تایید کردند، در حالی که فهرست‌های وابسته به اعراب، سیاستمداران راست‌گرا را به تحریف و زیر سوال بردن مشروعیت رای‌دهی خود متهم کردند."
-   ],
-   "title_ar": "نسبة الإقبال في الانتخابات الإسرائيلية هي الأعلى منذ 50 عاماً مع استمرار التصويت",
-   "summary_ar": "بلغت نسبة إقبال الناخبين في الانتخابات العامة الإسرائيلية 66.7 بالمئة بحلول أوائل المساء، متجاوزة أرقام الانتخابات السابقة ومتجهة نحو تسجيل مستويات تاريخية. وقد أدى هذا الإقبال المرتفع إلى إطلاق دعوات عاجلة للناخبين من كل من قادة اليمين والقوائم العربية.",
-   "body_ar": [
-    "وفقاً للجنة الانتخابات المركزية، أدلى ثلثا الناخبين المؤهلين بأصواتهم بحلول الساعة السادسة مساءً، ارتفاعاً من 57.7 بالمئة في الوقت نفسه من عام 2022، بينما تجاوزت نسبة مشاركة الجنود 68 بالمئة. وأفاد مسؤولون بوجود طوابير طويلة في مراكز الاقتراع رغم الطقس العاصف وتحذيرات الفيضانات، بينما رفضت لجنة الانتخابات طلباً من حزب الليكود لتمديد ساعات التصويت إلى ما بعد الساعة العاشرة مساءً.",
-    "وتأتي هذه المشاركة العالية عقب تحذيرات من رئيس الوزراء بنيامين نتنياهو وزير المالية المتطرف بتسلئيل سموتريتش بشأن الإقبال الكثيف بين المواطنين العرب الذين يشكلون 20 بالمئة من السكان. وأكد مرشحون وقوائم عربية، من بينهم أحمد الطيبي، الإقبال غير المسبوق بين المواطنين الفلسطينيين في إسرائيل، في حين اتهمت القوائم العربية سياسيي اليمين بالتحريض والتشكيك في شرعية تصويتهم."
-   ]
-  },
-  {
-   "id": "b3680ec23fd4",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/houthis-hit-saudi-oil-refinery-iran-warns-more-devastating-response-further-us-israeli",
-   "date": "2026-10-27T13:48:20Z",
-   "countries": [
-    "IRN",
-    "ISR",
-    "SAU",
-    "YEM"
-   ],
-   "score": 9,
-   "title": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
-   "title_en": "Houthis hit Saudi refinery as Iran warns of ‘devastating’ response to further US-Israeli attacks",
-   "summary_en": "Yemen's Houthis claimed a missile strike on Saudi Arabia's Ras Tanura oil refinery, while an Iranian official warned of a devastating response to any further US attacks.",
-   "body_en": [
-    "Military spokesperson Yahya Saree stated that a ballistic missile started a fire at the Ras Tanura facility, Saudi Arabia's largest refinery. While Saudi authorities have not confirmed a direct strike, Bloomberg reported that a fire near the oil terminal was contained.",
-    "Meanwhile, Abdollah Haji Sadeghi, a representative of Iran's supreme leader to the IRGC, warned that additional US attacks would face a harsher and more devastating response. Tensions remain high as regional powers discuss security and peace initiatives."
-   ],
-   "title_fa": "حمله حوثی‌ها به پالایشگاه عربستان همزمان با هشدار ایران درباره پاسخ «ویرانگر» به حملات بعدی آمریکا و اسرائیل",
-   "summary_fa": "حوثی‌های یمن از حمله موشکی به پالایشگاه نفتی رأس تنوره در عربستان سعودی خبر دادند، در حالی که یک مقام ایرانی نسبت به پاسخ ویرانگر به هرگونه حمله بعدی آمریکا هشدار داد.",
-   "body_fa": [
-    "یحیی سریع، سخنگوی نظامی حوثی‌ها، اعلام کرد که یک موشک بالستیک باعث آتش‌سوزی در تأسیسات رأس تنوره، بزرگ‌ترین پالایشگاه عربستان سعودی شده است. اگرچه مقامات سعودی وقوع حمله مستقیم را تأیید نکرده‌اند، بلومبرگ گزارش داد که آتش‌سوزی در نزدیکی این پایانه نفتی مهار شده است.",
-    "در همین حال، عبدالله حاجی صادقی، نماینده ولی فقیه در سپاه پاسداران، هشدار داد که حملات بیشتر آمریکا با پاسخی شدیدتر و ویرانگرتر مواجه خواهد شد. تنش‌ها در حالی ادامه دارد که قدرت‌های منطقه‌ای درباره امنیت و طرح‌های صلح گفتگو می‌کنند."
-   ],
-   "title_ar": "الحوثيون يضربون مصفاة سعودية وإيران تحذر من رد \"مدمر\" على أي هجمات أمريكية إسرائيلية جديدة",
-   "summary_ar": "أعلنت جماعة الحوثي في اليمن استهداف مصفاة رأس تنورة النفطية في السعودية بصاروخ، بينما حذر مسؤول إيراني من رد مدمر على أي هجمات أمريكية إضافية.",
-   "body_ar": [
-    "صرح المتحدث العسكري باسم الحوثيين يحيى سريع بأن صاروخًا باليستيًا تسبب في اندلاع حريق في مصفاة رأس تنورة، وهي الأكبر في السعودية. ورغم عدم تأكيد السلطات السعودية للهجوم، أفادت بلومبرغ بتمكن المملكة منسيطرة على حريق بالقرب من المرفأ النفطي.",
-    "من جهته، حذر عبد الله حاجي صادقي، ممثل المرشد الأعلى الإيراني لدى الحرس الثوري، من أن أي هجمات أمريكية جديدة ستواجه براد أكثر قسوة وتدميرًا. وتأتي هذه التطورات وسط محادثات إقليمية لبحث الأمن ومبادرات السلام."
-   ]
-  },
-  {
-   "id": "ececb58684b9",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
-   "date": "2026-10-27T13:15:32Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 7,
-   "title": "India-China border face-offs test Modi six years after deadly clash",
-   "title_en": "India-China border face-offs test Modi six years after deadly clash",
-   "summary_en": "Ongoing face-offs between Indian and Chinese troops along the border in Arunachal Pradesh are challenging Prime Minister Narendra Modi's national security record amid broader efforts to improve bilateral relations.",
-   "body_en": [
-    "Shatrujeet Kapur, head of the Indo-Tibetan Border Police, confirmed that commandos remain engaged in persistent standoffs along the frontier. The developments come six years after the fatal 2020 Galwan Valley clash and follow recent talks between Modi and Chinese President Xi Jinping.",
-    "While both countries attempt a cautious diplomatic thaw, unresolved territorial disputes along the Line of Actual Control continue to generate military tensions and political pressure on the Indian government."
-   ],
-   "title_fa": "رویارویی‌های مرزی هند و چین مودی را شش سال پس از درگیری مرگبار به چالش می‌کشد",
-   "summary_fa": "رویارویی‌های مداوم بین نیروهای هندی و چینی در امتداد مرز ایالت آروناچال پرادش، کارنامه امنیت ملی نارندرا مودی، نخست‌وزیر هند را در میان تلاش‌ها برای بهبود روابط دو‌جانبه به چالش کشیده است.",
-   "body_fa": [
-    "شاتروجیت کاپور، رئیس پلیس مرزی هند و تبت، تأیید کرد که تکاوران همچنان درگیر رویارویی‌های مداوم در امتداد مرز هستند. این تحولات شش سال پس از درگیری مرگبار سال ۲۰۲۰ در دره گالوان و پس از گفتگوهای اخیر مودی و شی جین‌پینگ، رئیس‌جمهور چین صورت می‌گیرد.",
-    "در حالی که هر دو کشور برای کاهش محتاطانه تنش‌های دیپلماتیک تلاش می‌کنند، اختلافات ارضی حل‌نشده در امتداد خط کنترل واقعی همچنان باعث تنش‌های نظامی و فشارهای سیاسی بر دولت هند می‌شود."
-   ],
-   "title_ar": "المواجهات الحدودية بين الهند والصين تختبر مودي بعد ست سنوات من اشتباك دامٍ",
-   "summary_ar": "تواصل المواجهات المستمرة بين القوات الهندية والصينية على طول الحدود في ولاية أروناتشال براديش اختبار سجل رئيس الوزراء ناريندرا مودي في الأمن القومي وسط جهود تحسين العلاقات الثنائية.",
-   "body_ar": [
-    "أكد شاتروجيت كابور، قائد شرطة الحدود الهندية التبتية، أن القوات لا تزال منخرطة في مواجهات مستمرة على طول الحدود. وتأتي هذه التطورات بعد ست سنوات من اشتباك وادي غالوان الدامي عام 2020 وعقب محادثات أخير بين مودي والرئيس الصيني شي جين بينغ.",
-    "وفي حين يسعى البلدان إلى تحسين حذر في العلاقات الدبلوماسية، تستمر النزاعات الإقليمية غير المحسومة على طول خط التحكم الفعلي في إثارة التوترات العسكرية والضغوط السياسية على الحكومة الهندية."
-   ]
-  },
-  {
-   "id": "b25194607af3",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/israeli-forces-kill-14-gaza-un-commission-says-genocide-continues",
-   "date": "2026-10-27T12:55:07Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 9,
-   "title": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
-   "title_en": "Israeli forces kill 14 in Gaza as UN commission says genocide continues",
-   "summary_en": "Israeli military actions have killed 14 Palestinians in Gaza over two days, as a UN commission reported that Israel is continuing to commit genocide despite the ongoing ceasefire.",
-   "body_en": [
-    "Recent victims of the strikes and shelling across Gaza include a six-year-old girl and two security officers. According to Gaza's health ministry, total fatalities since October 2023 have risen to 74,561.",
-    "A report by the UN Independent International Commission of Inquiry accused Israel of persistent war crimes, crimes against humanity, and acts of genocide across the occupied territory even after the ceasefire agreement."
-   ],
-   "title_fa": "کشته شدن ۱۴ نفر در غزه توسط نیروهای اسرائیلی همزمان با تأکید کمیسیون سازمان ملل بر ادامه نسل‌کشی",
-   "summary_fa": "اقدامات نظامی اسرائیل طی دو روز گذشته به کشته شدن ۱۴ فلسطینی در غزه انجامید، در حالی که کمیسیون سازمان ملل گزارش داد اسرائیل با وجود آتش‌بس همچنان به ارتکاب نسل‌کشی ادامه می‌دهد.",
-   "body_fa": [
-    "قربانیان اخیر حملات و گلوله‌باران‌ها در سراسر غزه شامل یک دختر شش ساله و دو نیروی امنیتی می‌شوند. به گفته وزارت بهداشت غزه، آمار کل جان‌باختگان از اکتبر ۲۰۲۳ به ۷۴,۵۶۱ نفر رسیده است.",
-    "گزارش کمیسیون مستقل تحقیقات سازمان ملل متحد اسرائیل را متهم کرد که حتی پس از اتفاق آتش‌سوزی، همچنان مرتکب جنایات جنگی، جنایات علیه بشریت و اقدامات نسل‌کشی در سرزمین‌های اشغالی می‌شود."
-   ],
-   "title_ar": "القوات الإسرائيلية تقتل 14 في غزة ولجنة أممية تؤكد استمرار الإبادة الجماعية",
-   "summary_ar": "أسفرت العمليات العسكرية الإسرائيلية عن مقتل 14 فلسطينيًا في قطاع غزة خلال يومين، في وقت أكدت فيه لجنة أممية أن إسرائيل تواصل ارتكاب الإبادة الجماعية رغم اتفاق وقف إطلاق النار.",
-   "body_ar": [
-    "وشملت الضحايا الأخيرون للقصف والعمليات الإسرائيلية طفلة تبلغ من العمر ست سنوات ورجلي أمن. وبحسب وزارة الصحة الفلسطينية، ارتفعت حصيلة الشهداء منذ أكتوبر 2023 إلى 74,561 شخصًا.",
-    "واتهم تقرير صادر عن لجنة التحقيق الدولية المستقلة التابعة للأمم المتحدة إسرائيل بمواصلة ارتكاب جرائم حرب وجرائم ضد الإنسانية وأعمال إبادة جماعية في الأراضي المحتلة حتى بعد اتفاق وقف إطلاق النار."
-   ]
-  },
-  {
-   "id": "6b6124c5a830",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040214/ji-says-it-will-no-longer-postpone-islamabad-march-will-resume-it-in-mid-november",
-   "date": "2026-10-27T12:43:58Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "JI says it will 'no longer' postpone Islamabad march, will resume it in mid-November",
-   "title_en": "JI says it will 'no longer' postpone Islamabad march, will resume it in mid-November",
-   "summary_en": "Jamaat-i-Islami (JI) chief Hafiz Naeemur Rehman announced that his party will hold its march to Islamabad against the petroleum levy in mid-November after talks with Prime Minister Shehbaz Sharif.",
-   "body_en": [
-    "Rehman stated that while the party met with PM Shehbaz Sharif to discuss abolishing the levy, JI will no longer postpone its protest march. Although both sides agreed on expanding relief, disagreements remain over the modalities, as JI demands the total elimination of the levy while the government proposes a phased reduction.",
-    "JI will form a committee for further negotiations with the government, but will simultaneously begin nationwide mobilization for the mid-November march."
-   ],
-   "title_fa": "جماعت اسلامی می‌گوید راهپیمایی اسلام‌آباد را «دیگر» به تعویق نمی‌اندازد و آن را در اواسط نوامبر از سر می‌گیرد",
-   "summary_fa": "حافظ نعیم‌الرحمن، رهبر جماعت اسلامی، پس از گفتگو با شهباز شریف، نخست‌وزیر پاکستان، اعلام کرد که این حزب راهپیمایی خود به سمت اسلام‌آباد را در اعتراض به مالیات مواد سوختی در اواسط نوامبر برگزار خواهد کرد.",
-   "body_fa": [
-    "نعیم‌الرحمن اظهار داشت که اگرچه حزب با نخست‌وزیر شهباز شریف درباره لغو مالیات سوخت دیدار کرد، اما جماعت اسلامی دیگر راهپیمایی اعتراضی خود را به تعویق نخواهد انداخت. اگرچه دو طرف در مورد گسترش معافیت‌ها توافق داشتند، اما در مورد روش‌ها اختلاف نظر وجود دارد؛ زیرا جماعت اسلامی خواستار لغو کامل مالیات است، در حالی که دولت پیشنهاد کاهش مرحله‌ای را داده است.",
-    "جماعت اسلامی کمیته‌ای را برای ادامه مذاکرات با دولت تشکیل خواهد داد، اما هم‌زمان بسیج سراسری خود را برای راهپیمایی اواسط نوامبر آغاز خواهد کرد."
-   ],
-   "title_ar": "الجماعة الإسلامية تقول إنها \"لن تؤجل بعد الآن\" مسيرة إسلام آباد وستستأنفها في منتصف نوفمبر",
-   "summary_ar": "أعلن أمير الجماعة الإسلامية حافظ نعيم الرحمن أن حزبه سيجري مسيرته إلى إسلام آباد احتجاجاً على ضريبة البترول في منتصف نوفمبر بعد محادثات مع رئيس الوزراء شهباز شريف.",
-   "body_ar": [
-    "وصرح نعيم الرحمن أنه على الرغم من اجتماع الحزب مع رئيس الوزراء شهباز شريف لمناقشة إلغاء الضريبة، فإن الجماعة الإسلامية لن تؤجل مسيرتها الاحتجاجية بعد الآن. وعلى الرغم من اتفاق الطرفين على توسيع نطاق تخفيف الأعباء، إلا أن الخلافات لا تزال قائمة حول الآليات، حيث تطالب الجماعة بإلغاء الضريبة بالكامل بينما تقترح الحكومة خفضها تدريجياً.",
-    "وستشكل الجماعة الإسلامية لجنة لإجراء المزيد من المفاوضات مع الحكومة، ولكنها ستبدأ في الوقت نفسه تحريك القواعد على مستوى البلاد لمسيرة منتصف نوفمبر."
-   ]
-  },
-  {
-   "id": "dd70e227b4b0",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2040183/at-unga-debate-pakistan-warns-against-adding-more-permanent-members-to-security-council-extending-veto-privileges",
-   "date": "2026-10-27T11:27:08Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 7,
-   "title": "At UNGA debate, Pakistan warns against adding more permanent members to Security Council, extending veto privileges",
-   "title_en": "At UNGA debate, Pakistan warns against adding more permanent members to Security Council, extending veto privileges",
-   "summary_en": "Speaking at a UN General Assembly debate on the veto, Pakistani delegate Gul Qaiser Sarwani warned that adding permanent members to the UN Security Council or expanding veto power would deepen inequalities and paralyse the body. Pakistan called for democratic reforms of the Security Council and supported restricting or abolishing the veto.",
-   "body_en": [
-    "Sarwani stated that strategic rivalries among permanent members have repeatedly blocked action on international peace, emphasizing the UN General Assembly's role in responding when the Security Council fails to act. He reaffirmed Pakistan's opposition to new permanent seats and urged severe restrictions on or the complete abolition of the veto power in line with the UN Charter.",
-    "The statement highlighted the need to combine veto restraints with better representation for elected members to make decision-making more democratic. The debate comes alongside findings from the UN 'World Social Report 2026', which noted that veto use by permanent members contributes to the paralysis of multilateral mechanisms during state-based conflicts."
-   ],
-   "title_fa": "در نشست مجمع عمومی سازمان ملل، پاکستان درباره افزودن اعضای دائمی جدید به شورای امنیت و گسترش حق وتو هشدار داد",
-   "summary_fa": "گل قیصر سروانی، نماینده پاکستان در مجمع عمومی سازمان ملل، طی سخنرانی در نشست بررسی حق وتو هشدار داد که افزودن اعضای دائمی جدید به شورای امنیت یا گسترش حق وتو موجب عمیق‌تر شدن نابرابری‌ها و فلج شدن این شورا می‌شود. پاکستان خواستار اصلاحات دمکراتیک در شورای امنیت شد و از محدود کردن یا لغو حق وتو حمایت کرد.",
-   "body_fa": [
-    "سروانی اظهار داشت که رقابت‌های راهبردی میان اعضای دائمی بارها مانع اقدام در زمینه صلح و امنیت بین‌المللی شده است و بر نقش مجمع عمومی سازمان ملل برای اقدام در زمان ناکارآمدی شورای امنیت تاکید کرد. او بار دیگر مخالفت پاکستان را با ایجاد کرسی‌های دائمی جدید اعلام نمود و خواستار محدودیت‌های شدید یا لغو کامل حق وتو بر اساس منشور سازمان ملل شد.",
-    "این نماینده بر لزوم همراهی محدودیت‌های وتو با نمایندگی بهتر اعضای انتخابی برای دمکراتیک‌تر شدن تصمیم‌گیری‌ها تاکید کرد. این مباحث هم‌زمان با گزارش «وضعیت اجتماعی جهان ۲۰۲۶» سازمان ملل مطرح می‌شود که اشاره دارد استفاده اعضای دائمی از حق وتو به فلج شدن سازوکارهای چندجانبه در مناقشات منجر شده است."
-   ],
-   "title_ar": "في مناقشة بالجمعية العامة للأمم المتحدة، پاکستان تحذر من إضافة أعضاء دائمين جدد إلى مجلس الأمن وتوسيع امتيازات الفيتو",
-   "summary_ar": "حذر الدبلوماسي الباكستاني غول قيصر سارواني خلال مناقشة بالجمعية العامة للأمم المتحدة حول الفيتو، من أن إضافة أعضاء دائمين جدد إلى مجلس الأمن أو توسيع حق الفيتو من شأنه تعميق انعدام المساواة وشلل المجلس. ودعت پاکستان إلى إجراء إصلاحات ديمقراطية في مجلس الأمن وأيدت تقييد حق الفيتو أو إلغاءه.",
-   "body_ar": [
-    "وصرح سارواني بأن التنافس الاستراتيجي بين الأعضاء الدائمين أعاق مراراً العمل الجماعي بشأن السلم والأمن الدوليين، مشدداً على دور الجمعية العامة للأمم المتحدة للتحرك عندما يعجز مجلس الأمن. وأكد مجدداً معارضة باكستان لإيجاد مقاعد دائمة جديدة، داعياً إلى فرض قيود صارمة على استخدام الفيتو أو إلغائه تماماً بما يتوافق مع ميثاق الأمم المتحدة.",
-    "وأكد البيان على ضرورة الجمع بين تقييد الفيتو وزيادة تمثيل الأعضاء المنتخبين لجعل اتخاذ القرار أكثر ديمقراطية. وتأتي هذه المناقشة بالتزامن مع ما ورد في تقرير الأمم المتحدة للمجلس الاجتماعي العالمي 2026 والذي أشار إلى أن استخدام الفيتو من قبل الأعضاء الدائمين يسهم في شلل الآليات متعددة الأطراف أثناء النزاعات."
-   ]
-  },
-  {
-   "id": "69122e2a167a",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
-   "date": "2026-10-27T11:19:46Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-   "title_en": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-   "summary_en": "Former PLO official Xavier Abu Eid suggested that Benjamin Netanyahu and Gadi Eisenkot could potentially form a national unity government despite Israel's uncertain election outlook.",
-   "body_en": [
-    "According to former PLO official Xavier Abu Eid, the outcome of Israel's election remains uncertain with polls divided between Benjamin Netanyahu and Gadi Eisenkot. He noted that the two rivals could form a national unity government despite their political differences."
-   ],
-   "title_fa": "مقام سابق سازمان آزادی‌بخش فلسطین: ائتلاف نتانیاهو-آیزنکوت می‌تواند امکان‌پذیر باشد",
-   "summary_fa": "خاویر ابو عید، مقام سابق سازمان آزادی‌بخش فلسطین، پیشنهاد کرد که بنیامین نتانیاهو و گادی آیزنکوت با وجود چشم‌انداز نامشخص انتخابات اسرائیل، می‌توانند یک دولت وحدت ملی تشکیل دهند.",
-   "body_fa": [
-    "به گفته خاویر ابو عید، مقام سابق سازمان آزادی‌بخش فلسطین، نتایج انتخابات اسرائیل همچنان نامشخص است و نظرسنجی‌ها میان بنیامین نتانیاهو و گادی آیزنکوت تقسیم شده‌اند. وی اشاره کرد که این دو رقیب می‌توانند با وجود اختلاف‌نظرهای سیاسی، دولت وحدت ملی تشکیل دهند."
-   ],
-   "title_ar": "مسؤول سابق في منظمة التحرير الفلسطينية يقول إن تحالف نتنياهو-آيزنكوت قد يكون ممكناً",
-   "summary_ar": "إقترح المسؤول السابق في منظمة التحرير الفلسطينية خافيير أبو عيد أن بنيامين نتنياهو وغادي آيزنكوت قد يشكلان حكومة وحدة وطنية رغم عدم يقين نتائج الانتخابات الإسرائيلية.",
-   "body_ar": [
-    "وفقاً للمسؤول السابق في منظمة التحرير الفلسطينية خافيير أبو عيد، فإن نتائج الانتخابات الإسرائيلية لا تزال غير مؤكدة مع انقسام استطلاعات رأي بين بنيامين نتنياهو وغادي آيزنكوت. وأشار إلى أن المنافسين قد يشكلان حكومة وحدة وطنية رغم خلافاتهما السياسية."
-   ]
-  },
-  {
-   "id": "6a09c28b0dce",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261027-iraqi-court-sentences-six-french-nationals-to-life-for-is-group-membership",
-   "date": "2026-10-27T11:16:38Z",
-   "countries": [
-    "IRQ",
-    "SYR"
-   ],
-   "score": 7,
-   "title": "Iraqi court sentences six French nationals to life for IS group membership",
-   "title_en": "Iraqi court sentences six French nationals to life for IS group membership",
-   "summary_en": "An Iraqi court has sentenced six French men to life imprisonment for membership in the Islamic State (IS) group.",
-   "body_en": [
-    "According to a source, six French nationals were sentenced to life in prison on Tuesday by an Iraqi court. They were among 47 French IS suspects transferred from Syrian detention facilities to Iraq last year under a US-Iraqi coordinated arrangement."
-   ],
-   "title_fa": "دادگاه عراق شش تبعه فرانسه را به اتهام عضویت در گروه داعش به حبس ابد محکوم کرد",
-   "summary_fa": "یک دادگاه عراقی شش مرد فرانسوی را به اتهام عضویت در گروه داعش به حبس ابد محکوم کرده است.",
-   "body_fa": [
-    "به گفته یک منبع، شش تبعه فرانسه روز سه‌شنبه توسط دادگاه عراق به حبس ابد محکوم شدند. این افراد جزو ۴۷ مظنون فرانسوی عضویت در داعش بودند که سال گذشته طبق توافقی با هماهنگی نیروهای آمریکایی و مقامات عراقی از بازداشتگاه‌های سوریه به عراق منتقل شدند."
-   ],
-   "title_ar": "محكمة عراقية تحكم على ستة مواطنين فرنسيين بالسجن مدى الحياة للانتماء لتنظيم داعش",
-   "summary_ar": "قضت محكمة عراقية بالسجن مدى الحياة على ستة فرنسيين بتهمة الانتماء إلى تنظيم الدولة الإسلامية (داعش).",
-   "body_ar": [
-    "وفقاً لمصدر، صُدرت أحكام بالسجن مدى الحياة على ستة فرنسيين يوم الثلاثاء من قبل محكمة عراقية. وكان هؤلاء من بين 47 مشتبهاً فرنسياً بالانتماء لداعش نُقلوا من مراكز احتجاز في سوريا إلى العراق العام الماضي بموجب ترتيب نسقته القوات الأمريكية والسلطات العراقية."
-   ]
-  },
-  {
-   "id": "ca90ab01f948",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
-   "date": "2026-10-27T10:50:46Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
-   "title_en": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
-   "summary_en": "Residents of Ramallah in the West Bank fear further violence and tension if Israeli Prime Minister Benjamin Netanyahu remains in power.",
-   "body_en": [
-    "Ramallah residents stated they hope to see Netanyahu lose power in upcoming elections, warning that his retention of office would lead to a regional explosion and buildup of tension.",
-    "Meanwhile, United Nations-mandated investigators stated Monday that Israel has committed the crime against humanity of extermination in the West Bank alongside ongoing genocide in Gaza."
-   ],
-   "title_fa": "نگرانی فلسطینیان کرانه باختری از تشدید تنش در صورت باقی ماندن نتانیاهو",
-   "summary_fa": "ساکنان رامالله در کرانه باختری ابراز امیدواری کردند که بنیامین نتانیاهو از قدرت کنار برود و هشدار دادند که بقای او به معنای تنش و درگیری بیشتر در منطقه است.",
-   "body_fa": [
-    "شهروندان رام‌الله ابراز امیدواری کردند که نخست‌وزیر اسرائیل در انتخابات قدرت را از دست بدهد و تأکید کردند که ادامه حضور او به معنای درگیری و انفجار تنش‌ها در منطقه خواهد بود.",
-    "از سوی دیگر، محققان منصوب سازمان ملل روز دوشنبه اعلام کردند که اسرائیل مرتکب جنایت علیه بشریت از طریق «پاکسازی» در کرانه باختری و «نسل‌کشی» در غزه شده است."
-   ],
-   "title_ar": "الفلسطينيون في الضفة الغربية يخشون التصعيد إذا بقي نتنياهو في السلطة",
-   "summary_ar": "يعرب سكان رام الله في الضفة الغربية عن أملهم في إطاحة بنيامين نتانياهو، محذرين من أن بقاءه في السلطة يعني المزيد من الصراع والتصعيد في المنطقة.",
-   "body_ar": [
-    "ذكر سكان رام الله أنهم يملكون أملاً في خسارة نتنياهو للسلطة خلال الانتخابات، مؤكدين أن بقاءه يعني وقوع مواجهات وتصعيد خطير في المنطقة.",
-    "في السياق ذاته، أفاد محققون مكلفون من الأمم المتحدة يوم الإثنين بأن إسرائيل ارتكبت جريمة ضد الإنسانية تتمثل في «الإبادة» بالضفة الغربية، إلى جانب استمرار «الإبادة الجماعية» في قطاع غزة."
-   ]
-  },
-  {
-   "id": "6c4d57ddbbae",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/ecosystem-of-terrorism-must-be-firmly-and-collectively-dismantled-rajnath-singh-at-sco-meet/article71604143.ece",
-   "date": "2026-10-27T10:46:19Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
-   "title_en": "At SCO meet, Rajnath calls for dismantling the entire ecosystem of terrorism",
-   "summary_en": "Indian Defence Minister Rajnath Singh called on Shanghai Cooperation Organisation (SCO) member states to dismantle the entire ecosystem of terrorism during a meeting in Tajikistan.",
-   "body_en": [
-    "Speaking at the 25th meeting of the SCO Council of Heads of Government in Dushanbe, Singh stressed that there can be no justification for terrorism or double standards in combating it. He emphasized that those who fund, support, or shelter terrorists must not be tolerated, noting that terrorism destabilizes investment and radicalizes youth.",
-    "The minister also urged strengthening supply chains and trade among member states and highlighted regional connectivity projects like the International North-South Transport Corridor and Chabahar Port, while stressing that such initiatives must respect national sovereignty."
-   ],
-   "title_fa": "در نشست شانگهای، راجنات سینگ خواستار برچیده شدن کامل زیست‌بوم تروریسم شد",
-   "summary_fa": "راجنات سینگ، وزیر دفاع هند، در نشستی در تاجیکستان از کشورهای عضو سازمان همکاری شانگهای خواست تا کل زیست‌بوم تروریسم را برچینند.",
-   "body_fa": [
-    "سینگ در بیست و پنجمین نشست شورای رؤسای حکومت‌های سازمان همکاری شانگهای در دوشنبه تاکید کرد که هیچ توجیهی برای تروریسم یا استانداردهای دوگانه در مقابله با آن وجود ندارد. وی تصریح کرد افرادی که از تروریست‌ها پشتیبانی مالی کرده یا به آن‌ها پناه می‌دهند نباید تحمل شوند، زیرا تروریسم موجب اختلال در سرمایه‌گذاری و افراطی‌شدن جوانان می‌شود.",
-    "وزیر دفاع هند همچنین خواستار تقویت زنجیره‌های تأمین و تجارت میان کشورهای عضو شد و به پروژه‌های اتصال منطقه‌ای مانند کریدور شمال-جنوب و بندر چابهار اشاره کرد، در حالی که تأکید نمود این طرح‌ها باید به حاکمیت ملی کشورها احترام بگذارند."
-   ],
-   "title_ar": "في اجتماع منظمة شانغهاي للتعاون، راجناث سينغ يدعو إلى تفكيك منظومة الإرهاب بأكملها",
-   "summary_ar": "دعا وزير الدفاع الهندي راجناث سينغ الدول الأعضاء في منظمة شانغهاي للتعاون، خلال اجتماع في طاجيكستان، إلى تفكيك منظومة الإرهاب بأكملها.",
-   "body_ar": [
-    "وفي كلمته خلال الاجتماع الخامس والعشرين لمجلس رؤساء حكومات دول منظمة شانغهاي للتعاون في دوشانبي، شدد سينغ على أنه لا يوجد أي مبرر للإرهاب ولا معايير مزدوجة في مواجهته. وأكد أنه لا مكان لمن يمولون الإرهابيين أو يدعمونهم أو يوفرون لهم ملاذات آمنة، مشيراً إلى أن الإرهاب يعطل الاستثمار ويدفع الشباب نحو التطرف.",
-    "كما دعا وزير الدفاع إلى تعزيز سلاسل التوريد والتجارة بين الدول الأعضاء، وسلط الضوء على مشاريع الربط الإقليمي مثل ممر النقل الدولي بين الشمال والجنوب وميناء شابهتار، مع التأكيد على ضرورة احترام هذه المشاريع لسيادة الدول."
-   ]
-  },
-  {
-   "id": "a383183b4c79",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
-   "date": "2026-10-27T10:45:31Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-   "title_en": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-   "summary_en": "A senior Indian diplomat attended a three-day SCO preparatory meeting in Islamabad, representing the first official Indian delegation to visit Pakistan since last year's Operation Sindoor.",
-   "body_en": [
-    "Joint Secretary Alok Dimri led the Indian delegation at the SCO National Coordinators meeting as Pakistan prepares to host the SCO Summit in August 2027. Indian officials clarified that participation in the multilateral event does not alter bilateral relations, which recently saw diplomatic clashes at the UN General Assembly over terrorism and Kashmir.",
-    "Separately, India rejected recent remarks on Kashmir made by Turkish President Recep Tayyip Erdogan at the UN, maintaining that the region is an internal matter. New Delhi also noted that any potential SCO membership expansion for Turkey would be decided collectively by all member states."
-   ],
-   "title_fa": "چند روز پس از مناقشه هند و پاکستان در سازمان ملل، مقام ارشد هندی برای نشست برنامه‌ریزی شانگهای به اسلام‌آباد سفر کرد",
-   "summary_fa": "یک دیپلمات ارشد هندی در نشست سه روزه مقدماتی سازمان همکاری شانگهای در اسلام‌آباد شرکت کرد که نخستین حضور هیئت رسمی هند در پاکستان پس از عملیات سندور در سال گذشته است.",
-   "body_fa": [
-    "آلوک دیمری، مدیرکل وزارت امور خارجه هند، هدایت هیئت هندی را در نشست هماهنگ‌کنندگان ملی شانگهای بر عهده داشت، در حالی که پاکستان برای میزبانی اجلاس سران در اوت ۲۰۲۷ آماده می‌شود. مقامات هندی تصریح کردند شرکت در این رویداد چندجانبه تغییری در روابط دوجانبه ایجاد نمی‌کند؛ روابطی که اخیراً شاهد تنش‌های دیپلماتیک در مجمع عمومی سازمان ملل بر سر تروریسم و کشمیر بوده است.",
-    "به طور جداگانه، هند اظهارات اخیر رجب طیب اردوغان، رئیس‌جمهور ترکیه، درباره کشمیر در سازمان ملل را رد کرد و این موضوع را مسئله‌ای داخلی دانست. دهلی نو همچنین اعلام کرد هرگونه تصمیم‌گیری درباره عضویت احتمالی ترکیه در سازمان شانگهای بر عهده تمامی اعضا خواهد بود."
-   ],
-   "title_ar": "بعد أيام من السجال الهندي الباكستاني في الأمم المتحدة، مسؤول هندي رفيع يزور إسلام آباد لحضور اجتماع تخطيطي لمنظمة شانغهاي",
-   "summary_ar": "حضر دبلوماسي هندي رفيع اجتماعاً تحضيرياً لمنظمة شانغهاي للتعاون استمر ثلاثة أيام في إسلام آباد، مدمثلاً أول وفد هندي رسمي يزور پاکستان منذ عملية سندور العام الماضي.",
-   "body_ar": [
-    "ترأس السكرتير المشترك ألوك ديمري الوفد الهندي في اجتماع المنسقين الوطنيين لمنظمة شانغهاي للتعاون، في وقت تستعد فيه پاکستان لاستضافة قمة المنظمة في أغسطس 2027. وأوضح مسؤولون هنديون أن المشاركة في هذا الحدث متعدد الأطراف لا تغير من طبيعة العلاقات الثنائية، والتي شهدت مؤخراً سجالات دبلوماسية في الجمعية العامة للأمم المتحدة بشأن الإرهاب وكشمير.",
-    "وعلى صعيد آخر، رفضت الهند التصريحات الأخيرة التي أدلى بها الرئيس التركي رجب طيب أردوغان بشأن كشمير في الأمم المتحدة، مؤكدة أن المنطقة شأن داخلي. كما أشارت نيودلهي إلى أن أي توسع محتمل في عضوية المنظمة لضم تركيا سيتطلب قراراً جماعياً من جميع الدول الأعضاء."
-   ]
-  },
-  {
-   "id": "8fb6baef2f0e",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
-   "date": "2026-10-27T10:36:54Z",
-   "countries": [
-    "IRN",
-    "PAK",
-    "SAU",
-    "TUR"
-   ],
-   "score": 8,
-   "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-   "title_en": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-   "summary_en": "Officials from Iran, Pakistan, Turkiye, and Saudi Arabia met in Tehran to discuss preventing further escalation.",
-   "body_en": [
-    "Officials from Iran, Pakistan, Turkiye, and Saudi Arabia held talks in Tehran on Monday in an effort to stop further escalation."
-   ],
-   "title_fa": "ایران در میان جلسه تهران می‌گوید آمریکا در مورد گفتگوها «جدی نیست»",
-   "summary_fa": "مقامات ایران، پاکستان، ترکیه و عربستان سعودی برای جلوگیری از تشدید بیشتر تنش‌ها در تهران گفتگو کردند.",
-   "body_fa": [
-    "مقامات ایران، پاکستان، ترکیه و عربستان سعودی روز دوشنبه در تهران گفتگوهایی را با هدف جلوگیری از تشدید بیشتر تنش‌ها برگزار کردند."
-   ],
-   "title_ar": "إيران تقول إن الولايات المتحدة \"ليست جادة\" بشأن المحادثات وسط اجتماع في تهران",
-   "summary_ar": "عقد مسؤولون من إيران وباكستان وتركيا والسعودية محادثات في تهران بهدف منع المزيد من التصعيد.",
-   "body_ar": [
-    "أجرى مسؤولون من إيران وباكستان وتركيا والسعودية محادثات في تهران يوم الاثنين في محاولة لوقف المزيد من التصعيد."
-   ]
-  },
-  {
-   "id": "d1a7a95242cf",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.co.uk/persian/live/cm2d615p163gt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-27T09:51:06Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 7,
-   "title": "اولین انتخابات اسرائیل پس از هفتم اکتبر؛ پزشکیان در مسکو",
-   "title_en": "Israel's First Election Since October 7; Pezeshkian in Moscow",
-   "summary_en": "Voting has begun in Israel's first general election since the October 7 attacks, with Benjamin Netanyahu running against Gadi Eisenkot. Meanwhile, Iranian President Masoud Pezeshkian is in Moscow to meet with Vladimir Putin.",
-   "body_en": [
-    "Polling stations in Israel opened at 7 a.m. local time and will remain open until 10 p.m. as Netanyahu fights for his political survival. Polls show a tight race between Netanyahu's Likud party and a rival coalition led by Gadi Eisenkot, a former military chief of staff. Netanyahu has focused his campaign on his wartime performance and his alliance with US President Donald Trump, while Eisenkot accused him of relying on intimidation and lies.",
-    "Meanwhile, Iranian President Masoud Pezeshkian arrived in Moscow to hold talks with Russian President Vladimir Putin, just one day after a four-way security meeting was held in Tehran."
-   ],
-   "title_fa": "اولین انتخابات اسرائیل پس از هفتم اکتبر؛ پزشکیان در مسکو",
-   "summary_fa": "رأی‌گیری در اولین انتخابات سراسری اسرائیل پس از حملات هفتم اکتبر آغاز شده و بنیامین نتانیاهو با گادی آیزنکوت رقابت می‌کند. هم‌زمان، مسعود پزشکیان، رئیس‌جمهور ایران، برای دیدار با ولادیمیر پوتین در مسکو به سر می‌برد.",
-   "body_fa": [
-    "حوزه‌های رأی‌گیری در اسرائیل از ساعت ۷ صبح تا ۱۰ شب به وقت محلی باز هستند و نتانیاهو برای بقای سیاسی خود تلاش می‌کند. نظرسنجی‌ها رقابتی نزدیک را میان حزب لیکود و ائتلاف تحت رهبری گادی آیزنکوت، رئیس پیشین ستاد کل ارتش، نشان می‌دهند. نتانیاهو بر کارنامه جنگی و تحکیم اتحاد با دونالد ترامپ تأکید دارد، در حالی که آیزنکوت او را به اتهام‌زنی و دروغ‌پراکنی متهم کرده است.",
-    "در همین حال، مسعود پزشکیان یک روز پس از برگزاری نشست امنیتی چهارجانبه در تهران، به مسکو سفر کرده است تا با ولادیمیر پوتین، رئیس‌جمهور روسیه، دیدار کند."
-   ],
-   "title_ar": "أول انتخابات في إسرائيل منذ السابع من أكتوبر؛ بزشكيان في موسكو",
-   "summary_ar": "بدأ الاقتراع في أول انتخابات عامة في إسرائيل منذ هجمات السابع من أكتوبر، حيث يتنافس بنيامين نتنياهو مع غادي آيزنكوت. في غضون ذلك، يتواجد الرئيس الإيراني مسعود بزشكيان في موسكو للقاء فلاديمير بوتين.",
-   "body_ar": [
-    "فتحت مراكز الاقتراع في إسرائيل أبوابها من الساعة السابعة صباحاً حتى العاشرة مساءً بالتوقيت المحلي، حيث يقاتل نتنياهو من أجل بقائه السياسي. وتظهر استطلاعات الرأي منافسة محتدمة بين حزب ليكود وتحالف منافس بقيادة غادي أيزنكوت، رئيس أركان الجيش السابق. ويركز نتنياهو في حملته على أدائه خلال الحرب وتحالفه مع الرئيس الأمريكي دونالد ترامب، بينما اتهمه آيزنكوت بالاعتماد على الترهيب والأكاذيب.",
-    "وفي الوقت نفسه، وصل الرئيس الإيراني مسعود بزشكيان إلى موسكو لإجراء محادثات مع الرئيس الروسي فلاديمير بوتين، بعد يوم واحد من انعقاد اجتماع أمني رباعي في تهران."
-   ]
-  },
-  {
-   "id": "c3071901a667",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-   "date": "2026-10-27T09:30:30Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "title_en": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "summary_en": "Human rights advocates are warning of a rising number of Iranian athletes facing execution following the recent hanging of mountain climber Ali-Sina Mostafavi.",
-   "body_en": [
-    "The Oslo-based group Human Rights for Sport reported that Mostafavi was executed on October 14 after being arrested in April following anti-government protests. His execution follows the deaths of taekwondo athlete Siavash Jamshidi Kheirabadi in October and MMA fighter Gholamreza Khani Shakarab in May, bringing the total to six athletes executed in connection with political charges or protests.",
-    "At least six additional athletes, including swimmer Ali Pishevarzadeh and footballer Ehsan Hosseinpour, currently face execution after Iran's supreme court upheld their sentences. Activists allege the Iranian regime is intentionally targeting prominent sports figures to intimidate the broader public."
-   ],
-   "title_fa": "افزایش نگرانی‌ها در مورد ورزشکاران ایرانی محکوم به اعدام در پی حلق‌آویز شدن یک کوهنورد",
-   "summary_fa": "مدافعان حقوق بشر پس از اعدام اخیر علی‌سینا مصطفوی، کوهنورد ایرانی، در مورد افزایش تعداد ورزشکاران ایرانی در معرض اعدام هشدار می‌دهند.",
-   "body_fa": [
-    "گروه «حقوق بشر برای ورزش» مستقر در اسلو گزارش داد که مصطفوی در ۱۴ اکتبر، پس از بازداشت در آوریل به دنبال اعتراضات ضد دولتی، اعدام شد. اعدام او پس از کشته شدن سیاوش جمشیدی خیرآبادی، ورزشکار تکواندو در اکتبر و غلامرضا خانی شکرآب، مبارز هنرهای رزمی ترکیبی در مه صورت می‌گیرد و شمار ورزشکاران اعدام‌شده در ارتباط با اتهامات سیاسی یا اعتراضات را به شش نفر می‌رساند.",
-    "حداقل شش ورزشکار دیگر، از جمله علی پیشورزاده، شناگر، و احسان حسین‌پور، فوتبالیست، پس از تأیید احکام در دیوان عالی ایران، با خطر اعدام روبرو هستند. فعالان می‌گویند حکومت ایران عمداً چهره‌های برجسته ورزشی را هدف قرار می‌دهد تا جامعه را بترساند."
-   ],
-   "title_ar": "تزايد المخاوف على الرياضيين الإيرانيين المحكوم عليهم بالإعدام بعد شنق متسلق جبال مؤخراً",
-   "summary_ar": "يحذر مدافعون عن حقوق الإنسان من تزايد عدد الرياضيين الإيرانيين الذين يواجهون الإعدام عقب شنق متسلق الجبال علي سينا مصطفوي مؤخراً.",
-   "body_ar": [
-    "أفادت منظمة \"حقوق الإنسان للرياضة\" ومقرها أوسلو بأن مصطفوي أُعدم في 14 أكتوبر بعد اعتقاله في أبريل عقب احتجاجات مناهضة للحكومة. وتأتي عملية إعدامه بعد مقتل لاعب التايكوندو سياوش جمشيدي خير آبادي في أكتوبر ومقاتل الفنون القتالية المختلطة غلام رضا خاني شكر آب في مايو، ليبلغ إجمالي الرياضيين المُعدمين على خلفية اتهامات سياسية أو احتجاجات ستة رياضيين.",
-    "ويواجه ستة رياضيين آخرين على الأقل، بمن فيهم السباح علي بيشورزاده ولاعب كرة القدم إحسان حسين بور، خطر الإعدام بعد أن أيدت المحكمة العليا الإيرانية أحكامهم. ويزعم ناشطون أن النظام الإيراني يستهدف عمدًا الشخصيات الرياضية البارزة لتخويف عامة الشعب."
-   ]
-  },
-  {
-   "id": "9bf9a3f7336a",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
-   "date": "2026-10-27T08:38:44Z",
-   "countries": [
-    "IRN",
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "Israelis begin voting as Netanyahu fights for political survival",
-   "title_en": "Israelis begin voting as Netanyahu fights for political survival",
-   "summary_en": "Israelis have started voting in a high-stakes national election where Prime Minister Benjamin Netanyahu faces a political challenge from former military chief Gadi Eisenkot.",
-   "body_en": [
-    "The vote takes place amid deep divisions regarding the war in Gaza, the conflict with Iran, and Israel's growing international isolation."
-   ],
-   "title_fa": "آغاز رأی‌گیری در اسرائیل در پی تلاش نتانیاهو برای بقای سیاسی",
-   "summary_fa": "شهروندان اسرائیل رأی‌گیری در یک انتخابات سرنوشت‌ساز را آغاز کرده‌اند، جایی که بنیامین نتانیاهو با چالش سیاسی از سوی گادی آیزنکوت، رئیس پیشین ارتش، مواجه است.",
-   "body_fa": [
-    "این رای‌گیری در میان شکاف‌های عمیق در مورد جنگ در غزه، مناقشه با ایران و انزوای فزاینده بین‌المللی اسرائیل برگزار می‌شود."
-   ],
-   "title_ar": "الإسرائيليون يبدأون التصويت وسط صراع نتنياهو من أجل البقاء السياسي",
-   "summary_ar": "بدأ الإسرائيليون التصويت في انتخابات عامة حاسمة يواجه فيها رئيس الوزراء بنيامين نتنياهو تحدياً سياسياً من رئيس أركان الجيش السابق غادي آيزنكوت.",
-   "body_ar": [
-    "ويأتي هذا التصويت وسط انقسامات حادة بشأن الحرب في غزة، والنزاع مع إيران، والعزلة الدولية المتزايدة التي تواجهها إسرائيل."
-   ]
-  },
-  {
-   "id": "c8ef30e34d74",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-iran-started-war-us",
-   "date": "2026-10-27T06:30:50Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Trump claims Iran 'started' war with US",
-   "title_en": "Trump claims Iran 'started' war with US",
-   "summary_en": "US President Donald Trump claimed at a rally in Mississippi that Iran started the war with the United States and described a recent ceasefire between the two nations as a \"waste of time\".",
-   "body_en": [
-    "Speaking in Corinth, Mississippi, Trump rejected the idea that Washington initiated the conflict with Tehran. He also expressed dissatisfaction with a previous ceasefire agreement, stating he never favoured it and deemed it ineffective.",
-    "Additionally, Trump alleged that Iran possesses missile capabilities capable of striking targets across Europe and major American cities, specifically mentioning Los Angeles and San Diego."
-   ],
-   "title_fa": "ترامپ مدعی شد ایران جنگ با آمریکا را «آغاز کرد»",
-   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در یک تجمع در می‌سی‌سی‌پی مدعی شد که ایران جنگ با ایالات متحده را آغاز کرده و آتش‌بس اخیر میان دو کشور را «تلف کردن وقت» خواند.",
-   "body_fa": [
-    "ترامپ در سخنرانی خود در کورینثِ می‌سی‌سی‌پی، این موضوع را که واشنگتن آغازگر درگیری با تهران بوده رد کرد. او همچنین با ابراز نارضایتی از توافق آتش‌بس قبلی گفت که هرگز تمایل زیادی به آن نداشته و آن را بی‌افایده می‌داند.",
-    "علاوه بر این، ترامپ ادعا کرد که ایران دارای توانمندی‌های موشکی است که به آن اجازه می‌دهد اهدافی را در اروپا و شهرهای بزرگ آمریکا، به‌ویژه لوس‌آنجلس و سن‌دیگو، هدف قرار دهد."
-   ],
-   "title_ar": "ترامب يزعم أن إيران \"بدأت\" الحرب مع الولايات المتحدة",
-   "summary_ar": "زعم الرئيس الأمريكي دونالد ترامب في تجمع انتخابي في ميسيسيبي أن إيران هي من بدأت الحرب مع الولايات المتحدة، ووصف التهدئة الأخيرة بين البلدين بأنها \"هدر للوقت\".",
-   "body_ar": [
-    "وفي كلمة ألقاها في كورينث بميسيسيبي، نفى ترامب أن تكون واشنطن هي من بدأ النزاع مع تهران. كما أعرب عن عدم رضاه عن اتفاق التهدئة السابق، مشيراً إلى أنه لم يكن يحبذه أبداً واعتبره غير فعال.",
-    "بالإضافة إلى ذلك، ادعى ترامب أن إيران تمتلك قدرات صاروخية تمكنها من ضرب أهداف في أوروبا ومدن أمريكية رئيسية، ممثلاً بمدينتي لوس أنجلوس وسان دييغو."
-   ]
-  },
-  {
-   "id": "98ebb6ca13ef",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
-   "date": "2026-10-27T06:28:13Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-   "title_en": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-   "summary_en": "As Israel held elections, Israeli forces imposed a strict lockdown and forced displacement operations in Hebron following a deadly checkpoint shooting, alongside widespread settler attacks across the West Bank.",
-   "body_en": [
-    "Following a Friday attack at a checkpoint that killed two Israeli soldiers, Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz ordered the isolation of Hebron. According to local officials and humanitarian groups, Israeli forces searched over 500 homes, detained scores of people, and forcibly displaced over 3,100 Palestinians while demolishing several buildings and businesses.",
-    "Concurrently, illegal settler attacks spiked during the olive harvest, with hundreds of incidents recorded. Human rights group B'Tselem warned that the military measures in Hebron amount to collective punishment that could constitute war crimes."
-   ],
-   "title_fa": "گزارش هفتگی فلسطین: کرانه باختری در محاصره هم‌زمان با برگزاری انتخابات در اسرائیل",
-   "summary_fa": "هم‌زمان با برگزاری انتخابات در اسرائیل، نیروهای اسرائیلی در پی تیراندازی مرگبار در یک پاسگاه بازرسی، محاصره شدید و عملیات آوارگی اجباری را در الخلیل اجرا کرده و حملات شهرک‌نشینان در سراسر کرانه باختری شدت یافته است.",
-   "body_fa": [
-    "در پی حمله روز جمعه به یک پاسگاه بازرسی که به کشته شدن دو سرباز اسرائیلی انجامید، بنیامین نتانیاهو و یسرائيل کاتس دستور قرنطینه و محاصره الخلیل را صادر کردند. به گفته مقامات محلی و نهادهای حقوق بشری، نیروهای اسرائیلی بیش از ۵۰۰ خانه را بازرسی، ده‌ها نفر را بازداشت و بیش از ۳۱۰۰ فلسطینی را به‌اجبار آواره کرده و چندین ساختمان و واحد تجاری را تخریب نمودند.",
-    "هم‌زمان، حملات شهرک‌نشینان در فصل برداشت زیتون شدت یافته و صدها مورد حمله به ثبت رسیده است. گروه حقوق بشری بتسیلم هشدار داد که اقدامات نظامی در الخلیل مصداق مجازات دسته‌جمعی است و می‌تواند جنایت جنگی محسوب شود."
-   ],
-   "title_ar": "حصاد فلسطين الأسبوعي: الضفة الغربية تحت الحصار مع توجه الإسرائيليين إلى صناديق الاقتراع",
-   "summary_ar": "مع توجه الإسرائيليين للاقتراع، فرضت القوات الإسرائيلية إغلاقاً مشدداً وعمليات تهجير قسري في الخليل عقب حادثة إطلاق نار مميتة عند حاجز عسكري، بالتزامن مع تصاعد هجمات المستوطنين في الضفة الغربية.",
-   "body_ar": [
-    "عقب هجوم استهدف حاجزا عسكرياً يوم الجمعة أسفر عن مقتل جنديين إسرائيليين، أمر بنيامين نتنياهو ووزير الدفاع إسرائيل كاتس بعزل الخليل. ووفقاً لمسؤولين محليين ومنظمات حقوقية، فتشت القوات الإسرائيلية أكثر من 500 منزل، واعتقلت العشرات، وهجرت قسراً أكثر من 3100 فلسطيني مع هدم عدة مبانٍ ومنشآت تجارية.",
-    "بالتزامن مع ذلك، تصاعدت هجمات المستوطنين خلال موسم قطاف الزيتون حيث تم تسجيل مئات الاعتداءات. وحذرت منظمة \"بتسيلم\" الحقوقية من أن الإجراءات العسكرية في الخليل ترقى إلى مستوى العقاب الجماعي وقد تشكل جرائم حرب."
-   ]
-  },
-  {
-   "id": "b9b2cad45d3b",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-defences-destroy-four-houthi-drones-targeting-saudi-arabias-southern",
-   "date": "2026-10-27T02:08:58Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Air defences destroy four Houthi drones targeting Saudi Arabia's southern region, Saudi-coalition says",
-   "title_en": "Air defences destroy four Houthi drones targeting Saudi Arabia's southern region, Saudi-coalition says",
-   "summary_en": "Air defence systems intercepted and destroyed four drones launched by Houthi forces toward the southern region of Saudi Arabia, according to the Saudi-led coalition.",
-   "body_en": [
-    "The Saudi-led coalition announced that the four incoming Houthi drones targeting Saudi Arabia's southern region were successfully destroyed prior to reaching their targets."
-   ],
-   "title_fa": "ائتلاف به رهبری عربستان: پدافند هوایی چهار پهپاد حوثی‌ها را که منطقه جنوبی عربستان را هدف قرار داده بودند منهدم کرد",
-   "summary_fa": "به گفته ائتلاف به رهبری عربستان سعودی، سامانه پدافند هوایی چهار فروند پهپاد پرتاب‌شده توسط نیروهای حوثی به سمت مناطق جنوبی عربستان را رهگیری و منهدم کرده است.",
-   "body_fa": [
-    "ائتلاف به رهبری عربستان اعلام کرد که چهار پهپاد حوثی‌ها که منطقه جنوبی عربستان سعودی را هدف قرار داده بودند، پیش از رسیدن به هدف با موفقیت منهدم شدند."
-   ],
-   "title_ar": "التحالف بقيادة السعودية: الدفاع الجوي يدمر أربع طائرات مسيرة للحوثيين استهدفت المنطقة الجنوبية للسعودية",
-   "summary_ar": "أعلن التحالف بقيادة السعودية أن الدفاعات الجوية اعترضت ودمرت أربع طائرات مسيرة أطلقها الحوثيون باتجاه المنطقة الجنوبية في السعودية.",
-   "body_ar": [
-    "وأكد التحالف الذي تقوده السعودية أن الدفاعات الجوية تمكنت من اعتراض وتدمير المسيرات الأربع التي أطلقت صوب جنوب المملكة."
-   ]
-  },
-  {
-   "id": "1b4246c80d8e",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missiles-launched-towards",
-   "date": "2026-10-27T01:20:40Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Saudi-led coalition says it intercepted Houthi missiles launched towards Eastern Region",
-   "title_en": "Saudi-led coalition says it intercepted Houthi missiles launched towards Eastern Region",
-   "summary_en": "The Saudi-led coalition in Yemen announced it intercepted and destroyed three ballistic missiles fired by Houthi forces toward Saudi Arabia's Eastern Region early Tuesday.",
-   "body_en": [
-    "Prior to the interception, the Saudi Civil Defense issued warnings about a potential hostile threat in the Eastern Region and the Kharj governorate. It later reported that the danger in both areas had passed."
-   ],
-   "title_fa": "ائتلاف به رهبری عربستان: موشک‌های پرتاب‌شده حوثی‌ها به سمت منطقه شرقی رهگیری شد",
-   "summary_fa": "ائتلاف به رهبری عربستان در یمن اعلام کرد که بامداد سه‌شنبه سه فروند موشک بالستیک پرتاب‌شده توسط نیروهای حوثی به سمت منطقه شرقی عربستان را رهگیری و منهدم کرده است.",
-   "body_fa": [
-    "پیش از رهگیری موشک‌ها، سازمان دفاع مدنی عربستان سعودی هشدارهایی درباره احتمال تهدید خصمانه در منطقه شرقی و استان الخرج صادر کرده بود، اما بعداً اعلام کرد که خطر در هر دو منطقه برطرف شده است."
-   ],
-   "title_ar": "التحالف بقيادة السعودية يعلن اعتراض صواريخ للحوثيين أطلقت نحو المنطقة الشرقية",
-   "summary_ar": "أعلن التحالف بقيادة السعودية في اليمن اعتراض وتدمير ثلاثة صواريخ باليستية أطلقتها قوات الحوثيين باتجاه المنطقة الشرقية في السعودية فجر الثلاثاء.",
-   "body_ar": [
-    "وكان الدفاع المدني السعودي قد أصدر في وقت سابق تحذيرات من تهدید محتمل في المنطقة الشرقية ومحافظة الخرج، قبل أن يعلن لاحقًا زوال الخطر في كلا المنطقتين."
-   ]
-  },
-  {
-   "id": "25cfbc19dbf6",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-   "date": "2026-10-26T23:50:11Z",
-   "countries": [
-    "JOR",
-    "SYR"
-   ],
-   "score": 8,
-   "title": "Jordan strikes Syria after church attack, killing at least seven people",
-   "title_en": "Jordan strikes Syria after church attack, killing at least seven people",
-   "summary_en": "Jordan launched retaliatory air strikes in Syria following a deadly church shooting in Karak, resulting in the deaths of at least seven people according to Syrian authorities. Following the raids, Syria closed its primary border crossing with Jordan.",
-   "body_en": [
-    "The Jordanian military stated that its strikes targeted armed group hideouts in southeastern Syria in coordination with Syrian authorities, killing and wounding numerous group members. However, the Syrian government denied any prior coordination, stating the military operation took place without notification and announcing an investigation. Syrian civil defense reported seven fatalities, including three children and a woman, across multiple strikes in Deraa and Suweyda provinces.",
-    "The air strikes followed the arrest of three suspects in Jordan linked to Friday's funeral shooting at a Greek Orthodox church in Karak, which left nine people dead. In response to the strikes, Syrian authorities halted traffic at the Nassib crossing, the sole passenger and commercial trade border point between the two countries, while Syria's foreign ministry condemned the raids as a violation of sovereignty."
-   ],
-   "title_fa": "حمله اردن به سوریه پس از حمله به کلیسا حداقل هفت کشته بر جای گذاشت",
-   "summary_fa": "اردن در پاسخ به تیراندازی مرگبار در کلیسایی در کرک، حملات هوایی تلافی‌جویانه‌ای در سوریه انجام داد که به گفته مقامات سوری حداقل هفت کشته برجای گذاشت. در پی این حملات، سوریه گذرگاه مرزی اصلی خود با اردن را مسدود کرد.",
-   "body_fa": [
-    "ارتش اردن اعلام کرد که حملاتش مواضع گروه‌های مسلح را در جنوب شرقی سوریه و با هماهنگی مقامات سوری هدف قرار داده و باعث کشته و زخمی شدن تعداد زیادی از اعضای این گروه‌ها شده است. با این حال، دولت سوریه هرگونه هماهنگی قبلی را تکذیب کرد و اعلام نمود که این عملیات بدون اطلاع‌رسانی انجام شده و تحقیقاتی در این زمینه آغاز شده است. دفاع مدنی سوریه از کشته شدن هفت نفر از جمله سه کودک و یک زن در چند حمله در استان‌های درعا و سویداء خبر داد.",
-    "این حملات هوایی پس از دستگیری سه مظنون در اردن مرتبط با تیراندازی روز جمعه در مراسم تشییع جنازه‌ای در کلیسای ارتدوکس یونانی در کرک که نه کشته بر جای گذاشت، صورت گرفت. در پاسخ به این حملات، مقامات سوری حرکت در گذرگاه نصیب را که تنها نقطه مرزی مسافری و تجاری بین دو کشور است معلق کردند، در حالی که وزارت امور خارجه سوریه این حملات را نقض حاکمیت خود خواند و محکوم کرد."
-   ],
-   "title_ar": "الأردن يشن ضربات على سوريا بعد هجوم على كنيسة، مما أسفر عن مقتل سبعة أشخاص على الأقل",
-   "summary_ar": "شن الأردن ضربات جوية انتقامية في سوريا عقب حادث إطلاق نار مميت في كنيسة بالكرك، مما أسفر عن مقتل سبعة أشخاص على الأقل وفقاً للسلطات السورية. وعقب الغارات، أغلقت سوريا معبرها الحدودي الرئيسي مع الأردن.",
-   "body_ar": [
-    "وذكر الجيش الأردني أن ضرباته استهدفت مخابئ لمجموعات مسلحة في جنوب شرق سوريا بالتنسيق مع السلطات السورية، مما أدى إلى مقتل وإصابة العديد من عناصر تلك المجموعات. ومع ذلك، نفى الحكومة السورية وجود أي تنسيق مسبق، مؤكدة أن العملية العسكرية تمت دون إخطار وأعلنت فتح تحقيق. وأفاد الدفاع المدني السوري بمقتل سبعة أشخاص، بينهم ثلاثة أطفال وامرأة، جراء ضربات متعددة في محافظتي درعا والسويداء.",
-    "وجاءت الضربات الجوية عقب اعتقال ثلاثة مشتبه بهم في الأردن لصلتهم بحادث إطلاق النار يوم الجمعة في جنازة بكنيسة للروم الأرثوذكس في الكرك أسفر عن مقتل تسعة أشخاص. ورداً على الضربات، أوقفت السلطات السورية الحركة في معبر نصيب، وهو المنفذ الحدودي الوحيد للركاب والبضائع التجارية بين البلدين، بينما دانت وزارة الخارجية السورية الغارات واعتبرتها انتهاكاً للسيادة."
    ]
   }
  ]
