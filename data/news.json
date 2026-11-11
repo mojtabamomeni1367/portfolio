@@ -1,7 +1,273 @@
 {
- "updated": "2026-11-11T04:12:29Z",
- "count": 432,
+ "updated": "2026-11-11T07:34:22Z",
+ "count": 441,
  "items": [
+  {
+   "id": "7b9288d1a4f3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-designates-argentinas-navy-air-force-terrorist-organisations",
+   "date": "2026-11-11T07:16:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Iran designates Argentina’s navy, air force as 'terrorist' organisations",
+   "title_en": "Iran designates Argentina’s navy, air force as 'terrorist' organisations",
+   "summary_en": "Iran has designated the navy and air force of Argentina as terrorist organisations after the South American nation blacklisted the Islamic Revolutionary Guard Corps.",
+   "body_en": [
+    "In a Telegram statement, the Iranian foreign ministry declared that Argentina breached international law principles by listing the IRGC as a terrorist entity. Tehran stated that the government of Argentina bears full responsibility for the consequences of its decision."
+   ],
+   "title_fa": "ایران نیروی دریایی و هوایی آرژانتین را در فهرست سازمان‌های تروریستی قرار داد",
+   "summary_fa": "ایران در پاسخ به اقدام آرژانتین در تروریستی اعلام کردن سپاه پاسداران انقلاب اسلامی، نیروی دریایی و هوایی این کشور را به‌عنوان سازمان‌های تروریستی شناسایی کرد.",
+   "body_fa": [
+    "وزارت امور خارجه ایران در بیانیه‌ای در تلگرام اعلام کرد که اقدام بوينس آيرس در تروریستی خواندن سپاه پاسداران نقض اصول بنیادین حقوق بین‌الملل و اقدامی خصمانه است. این وزارتخانه تأکید کرد که مسئولیت تمام پیامدهای این اقدام بر عهده دولت آرژانتین خواهد بود."
+   ],
+   "title_ar": "إيران تصنف القوات البحرية والجوية الأرجنتينية كـ«منظمات إرهابية»",
+   "summary_ar": "صنّفت إيران القوات البحرية والجوية الأرجنتينية كـ«منظمات إرهابية» رداً على إدراج بوينس آيرس للحرس الثوري الإيراني على قائمة الإرهاب.",
+   "body_ar": [
+    "وذكرت وزارة الخارجية الإيرانية في بيان عبر تلغرام أن بوينس آيرس انتهكت مبادئ القانون الدولي باتخاذها إجراءً خصائياً ضد الحرس الثوري. وأضاف البيان أن الحكومة الأرجنتينية تتحمل المسؤولية الكاملة عن التبعات المترتبة على هذا القرار."
+   ]
+  },
+  {
+   "id": "90b3e9adf1ad",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-unicef-says-israel-blocking-gaza-basin-repairs-warns-risk-sewage",
+   "date": "2026-11-11T06:46:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Watch: Unicef says Israel blocking Gaza basin repairs warns of risk of sewage overflow",
+   "title_en": "Watch: Unicef says Israel blocking Gaza basin repairs warns of risk of sewage overflow",
+   "summary_en": "Unicef has announced that Israel rejected necessary equipment for repairing a critical rainwater basin in Gaza, raising concerns over potential flooding and disease outbreaks from a sewage overflow.",
+   "body_en": [
+    "Speaking to reporters on Tuesday, Unicef spokesperson James Elder stated that project plans had been finalized, funds secured, and equipment prepared in cooperation with local engineers. However, Cogat recently rejected the project, leaving the facility vulnerable to overflowing and threatening nearby residents."
+   ],
+   "title_fa": "یونیسف: اسرائیل مانع از تعمیر حوضچه آب‌های سطحی غزه شده و درباره خطر سرریز فاضلاب هشدار داد",
+   "summary_fa": "یونیسف اعلام کرد که اسرائیل از ورود تجهیزات لازم برای تعمیر یک حوضچه کلیدی آب باران در غزه جلوگیری کرده و نسبت به خطر سرریز شدن فاضلاب و به خطر افتادن جان ساکنان محلی هشدار داد.",
+   "body_fa": [
+    "جیمز الدر، سخنگوی یونیسف، روز سه‌شنبه به خبرنگاران گفت که برنامه‌های این پروژه آماده شده، بودجه آن تأمین گشته و تجهیزات با همکاری مهندسان آماده است. با این حال، او افزود که واحد هماهنگی فعالیت‌های دولت اسرائیل در اراضي (کوگات) اخیراً این پروژه را رد کرده است.",
+    "وی هشدار داد که این تأسیسات ممکن است سرریز شده و ساکنان اطراف را با خطر آب‌گرفتگی و بیماری روبه‌رو کند."
+   ],
+   "title_ar": "اليونيسف تقول إن إسرائيل تعرقل إصلاح حوض في غزة وتحذر من خطر طفح مياه الصرف الصحي",
+   "summary_ar": "أعلنت منظمة اليونيسف أن إسرائيل رفضت دخول المعدات اللازمة لإصلاح حوض رئيسي لمياه الأمطار في غزة، محذرة من مخاطر فيضانات وانتشار الأمراض بسبب احتمال طفح المرافق.",
+   "body_ar": [
+    "قال متحدث اليونيسف جيمس أيلدر للصحفيين يوم الثلاثاء إن خطط المشروع قد وضعت وتم جمع الأموال وتجهيز المعدات بالتعاون مع المهندسين، لكن وحدة تنسيق أعمال الحكومة في المناطق (كوغات) رفضت المشروع مؤخراً.",
+    "وحذر أيلدر من أن المنشأة قد تفيض وتعرض السكان القريبين للخطر من جراء الفيضانات والأمراض."
+   ]
+  },
+  {
+   "id": "afc6b7663349",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-saudi-arabia-urges-americans-exercise-heightened-vigilance",
+   "date": "2026-11-11T06:40:26Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 6,
+   "title": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
+   "title_en": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
+   "summary_en": "The United States embassy in Riyadh has issued a warning advising American citizens in Saudi Arabia and the broader Middle East to remain highly vigilant against potential threats from Iran and Yemen's Houthis.",
+   "body_en": [
+    "In a post on X, the embassy cited growing risks of armed attacks by Iranian-backed Houthis as well as efforts by Tehran to target US government personnel in the region. It noted that previous Houthi hostilities against Saudi Arabia have targeted civilian airports and critical infrastructure, causing casualties and travel disruptions.",
+    "The advisory cautioned that these hostile actions carry the potential to escalate swiftly beyond their immediate zone. Washington continues to monitor the security environment amid ongoing regional tensions."
+   ],
+   "title_fa": "سفارت آمریکا در عربستان از آمریکایی‌ها خواست نسبت به «تهدیدهای» ایران و حوثی‌ها هوشیار باشند",
+   "summary_fa": "سفارت ایالات متحده در ریاض با انتشار اطلاعیه‌ای از شهروندان آمریکایی در عربستان و سراسر خاورمیانه خواست به دلیل خطرات ناشی از سوی ایران و حوثی‌های یمن، هوشیاری خود را افزایش دهند.",
+   "body_fa": [
+    "این سفارت‌خانه در پیامی در شبکه اجتماعی اکس اعلام کرد که آمریکایی‌ها به دلیل افزایش خطر حملات مسلحانه حوثی‌های تحت حمایت ایران و تلاش‌های تهران برای هدف قرار دادن مقامات دولتی ایالات متحده در منطقه، باید هوشیاری خود را بالا ببرند.",
+    "در این اطلاعیه اشاره شده است که حوثی‌های تحت حمایت ایران پیش‌تر دست به اقداماتی علیه عربستان از جمله حمله به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی زده‌اند که به تلفات غیرنظامی و اختلال شدید در سفرها منجر شده است. این هشدار همچنین می‌افزاید که چنین اقداماتی پتانسیل تشدید سریع فراتر از منطقه فوری را دارد."
+   ],
+   "title_ar": "السفارة الأمريكية في السعودية تحث الأمريكيين على توخي \"اليقظة الشديدة\" إزاء \"تهديدات\" إيران والحوثيين",
+   "summary_ar": "أصدرت السفارة الأمريكية في الرياض تحذيراً نصحت فيه المواطنين الأمريكيين في السعودية وعموم الشرق الأوسط بالبقاء على درجة عالية من اليقظة في مواجهة التهديدات المحتملة من إيران والحوثيين في اليمن.",
+   "body_ar": [
+    "أشارت السفارة في منشور على منصة إكس إلى تزايد مخاطر الهجمات المسلحة من قبل الحوثيين المدعومين من إيران، فضلاً عن مساعي طهران استهداف مسؤولي الحكومة الأمريكية في المنطقة.",
+    "ولفتت إلى أن الأعمال العدائية السابقة للحوثيين ضد السعودية استهدفت مطارات مدنية وبنى تحتية حيوية، مما أدى إلى وقوع إصابات مدنية وتعطيل حاد في حركة السفر، محذرة من أن هذه الأعمال قد تصعّد بسرعة خارج تلك المنطقة المباشرة."
+   ]
+  },
+  {
+   "id": "5f9750ce9b48",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+   "date": "2026-11-11T06:23:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+   "title_en": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu is making calls for a broad unity government as President Isaac Herzog tasked opposition figure Gadi Eisenkot with forming a coalition.",
+   "body_en": [
+    "Following October elections, President Isaac Herzog charged former Chief of Staff Gadi Eisenkot of the Yashar party with forming a government. Netanyahu released video messages warning of civil war risks if a government is formed with Arab party support, while urging leaders of the opposition to join a unified government under his leadership alongside his far-right allies Bezalel Smotrich and Itamar Ben-Gvir.",
+    "The opposition faces crucial coalition negotiations with ultra-Orthodox parties like United Torah Judaism to reach the 61-seat threshold in the 120-seat Knesset. Meanwhile, opposition members are aiming to appoint Matan Kahana to head a state inquiry into government failings surrounding the October 7 attacks."
+   ],
+   "title_fa": "تلاش نتانیاهو برای بقای سیاسی هم‌زمان با نزدیک شدن اپوزیسیون اسرائیل",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در حالی خواستار تشکیل حکومت وحدت ملی شده است که اسحاق هرتزوگ، رئیس‌جمهور این کشور، ماموریت تشکیل کابینه را به گادی آیزنکوت واگذار کرده است.",
+   "body_fa": [
+    "پس از انتخابات اکتبر، اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، گادی آیزنکوت، رئیس سابق ستاد کل و از رهبران حزب یاشار را مامور تشکیل کابینه کرد. نتانیاهو با انتشار پیام‌های ویدئویی نسبت به خطر جنگ داخلی در صورت تشکیل حکومت با حمایت احزاب عربی هشدار داده و از اپوزیسیون خواسته تا به حکومت وحدت ملی به رهبری او و با حضور بزالل اسموتریچ و ایتمار بن‌گویر بپیوندند.",
+    "اپوزیسیون در حال رایزنی با احزاب حریدی مانند «یهدوت هتورا» برای دستیابی به حد نصاب در کنست ۱۲۰ کرسی است. در همین حال، نمایندگان اپوزیسیون قصد دارند متان کاهانا را برای رهبری کمیته تحقیق درباره کوتاهی‌های حکومت در قبال حملات ۷ اکتبر منصوب کنند."
+   ],
+   "title_ar": "نتنياهو يقاتل للبقاء في المشهد مع تضييق المعارضة الإسرائيلية الخناق عليه",
+   "summary_ar": "دعا رئيس الوزراء الإسرائيلي بنيامين نتنياهو إلى تشكيل حكومة وحدة وطنية، في وقت كلف فيه الرئيس يتسحاق هرتسوغ قيادي المعارضة غادي آيزنكوت بتشكيل الحكومة.",
+   "body_ar": [
+    "عقب انتخابات أكتوبر، كلف الرئيس يتسحاق هرتسوغ رئيس الأركان السابق غادي آيزنكوت من حزب يشار بتشكيل الحكومة. ونشر بنيامين نتنياهو مقاطع فيديو تحذر من خطر حرب أهلية إذا تشكّلت حكومة بدعم من الأحزاب العربية، داعياً المعارضة للانضمام إلى حكومة وحدة تحت قيادته وبمشاركة حلفائه بتسلئيل سموتريتش وإيتمار بن غفير.",
+    "وتجري المعارضة مفاوضات مع الأحزاب الحريدية لتأمين الأغلبية في الكنيست المكون من 120 مقعداً. في الوقت نفسه، يسعى أعضاء المعارضة لتكليف متان كاهانا بقدادة لجنة تحقيق رسمية بشأن إخفاقات الحكومة المتعلقة بهجمات 7 أكتوبر."
+   ]
+  },
+  {
+   "id": "3e82b0687803",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-cop31-will-be-good-opportunity-bring-us-israeli-damage",
+   "date": "2026-11-11T06:18:58Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "TUR"
+   ],
+   "score": 5,
+   "title": "Pezeshkian says COP31 will be 'good opportunity' to bring up US-Israeli 'damage' to the environment",
+   "title_en": "Pezeshkian says COP31 will be 'good opportunity' to bring up US-Israeli 'damage' to the environment",
+   "summary_en": "Iranian President Masoud Pezeshkian stated that the upcoming COP31 UN climate summit in Turkey will provide a favorable platform to address environmental damage caused by US and Israeli actions in Iran and the broader region.",
+   "body_en": [
+    "Speaking on the matter, Pezeshkian emphasized that the summit would allow Tehran to discuss the legitimate positions of the Islamic Republic alongside the actions and crimes committed by the US and Israel in the region."
+   ],
+   "title_fa": "پزشکیان: اجلاس COP31 فرصت مناسبی برای طرح «آسیب‌های» آمریکا و اسرائیل به محیط زیست است",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که نشست آتی تغییرات اقلیمی سازمان ملل (COP31) در ترکیه فرصتی مناسب برای مطرح کردن تأثیرات منفی حملات ایالات متحده و اسرائیل بر محیط زیست ایران و منطقه است.",
+   "body_fa": [
+    "پزشکیان اظهار داشت که در این اجلاس، مواضع برحق جمهوری اسلامی ایران و همچنین جنایات انجام‌شده توسط ایالات متحده و اسرائیل در منطقه مورد بحث قرار خواهد گرفت."
+   ],
+   "title_ar": "بزشكيان يقول إن مؤتمر المناخ (COP31) سيكون «فرصة جيدة» لطرح «الأضرار» الأمريكية الإسرائيلية على البيئة",
+   "summary_ar": "صرح الرئيس الإيراني مسعود بزشكيان بأن قمة الأمم ستكون فرصة جيدة لمناقشة تداعيات الهجمات الأمريكية والإسرائيلية على بيئة إيران والمنطقة.",
+   "body_ar": [
+    "وأكد بزشكيان أن القمة ستتيح مناقشة المواقف المشروعة للجمهورية الإسلامية والجرائم التي ارتكبتها الولايات المتحدة وإسرائيل في المنطقة."
+   ]
+  },
+  {
+   "id": "81c38962384c",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+   "date": "2026-11-11T05:39:26Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+   "title_en": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+   "summary_en": "Yemeni government forces and Houthi fighters launched heavy air, missile, and artillery attacks against each other across several governorates, with both sides claiming to inflict casualties.",
+   "body_en": [
+    "Yemeni government spokesman Majed Abdullah al-Nuzaili stated that forces conducted air strikes, drone attacks, and artillery shelling targeting Houthi positions in Lahij, Taiz, Marib, al-Jawf, Hajjah, and al-Bayda. He reported that around 190 Houthi commanders and fighters were killed or injured, and up to 130 combat vehicles were damaged.",
+    "Houthi spokesman Yahya Saree reported 109 air and missile strikes by Saudi-backed forces on Sanaa and other governorates, asserting they caused casualties among civilians. Saree also claimed Houthi attacks inflicted heavy casualties on government troops in Lahij and al-Jawf, while targeting Riyadh and an Aramco facility in Abqaiq, Saudi Arabia."
+   ],
+   "title_fa": "تبادل حملات میان نیروهای دولتی یمن و حوثی‌ها با ادعای تلفات سنگین دو طرف",
+   "summary_fa": "نیروهای حکومت یمن و رزمندگان حوثی حملات گسترده هوایی، موشکی و توپخانه‌ای علیه مواضع یکدیگر در استان‌های مختلف انجام دادند و هر دو طرف مدعی وارد کردن تلفات سنگین شدند.",
+   "body_fa": [
+    "ماجد عبدالله النذیلی، سخنگوی نیروهای دولتی یمن، اعلام کرد که این نیروها حملات هوایی، پهپادی و توپخانه‌ای را علیه مواضع حوثی‌ها در لحج، تعز، مأرب، الجوف، حجه و البيضاء انجام داده‌اند. وی مدعی شد حدود ۱۹۰ فرمانده و رزمنده حوثی کشته یا زخمی شده و ۱۳۰ خودروی رزمی منهدم یا آسیب دیده‌اند.",
+    "در مقابل، یحیی سریع، سخنگوی حوثی‌ها، از ۱۰۹ حمله هوایی و موشکی به صنعا و چند استان دیگر خبر داد. وی همچنین مدعی شد که حوثی‌ها تلفاتی به نیروهای دولتی در لحج و الجوف وارد کرده و اهدافی در ریاض و تأسیسات آرامکو در بقیق عربستان را هدف قرار داده‌اند."
+   ],
+   "title_ar": "القوات اليمنية والحوثيون يتبادلون الهجمات ويعلنون تكبيد الطرف الآخر خسائر فادحة",
+   "summary_ar": "تبادلت القوات الحكومية اليمنية ومقاتلو الحوثيين ضربات جوية وصاروخية ومدفعية مكثفة في عدة محافظات، حيث أعلن كلاً الجانبين تكبيد الآخر خسائر كبيرة.",
+   "body_ar": [
+    "صرح ماجد عبد الله النزيلي، المتحدث باسم القوات الحكومية اليمنية، أن القوات نفذت ضربات جوية وبطائرات مسيرة ومدفعية استهدفت مواقع الحوثيين في لحج وتعز ومأرب والجوف وحجة والبيضاء، مشيراً إلى مقتل وإصابة نحو 190 قيادياً ومقاتلاً حوثياً وتدمير 130 آلية قتالية.",
+    "من جانبه، أفاد المتحدث باسم الحوثيين يحيى سريع بتعرض صنعاء ومحافظات أخرى لـ 109 ضربات جوية وصاروخية. وأعلن سريع أن هجمات الحوثيين أوقعت قتلى وجرحى في صفوف القوات الحكومية في لحج والجوف، إلى جانب استهداف الرياض ومرفق أرامكو في أبقيق بالمملكة العربية السعودية."
+   ]
+  },
+  {
+   "id": "06a09136c46a",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+   "date": "2026-11-11T05:00:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+   "title_en": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+   "summary_en": "An independent Israeli medical specialist has warned that the life of detained Gaza hospital director Hussam Abu Safiya is at risk due to severe weight loss, untreated injuries, and inadequate medical care after nearly 23 months in Israeli custody without charges.",
+   "body_en": [
+    "Abu Safiya, the director of Kamal Adwan hospital in northern Gaza, was detained on 27 December 2024 and classified as an unlawful combatant. A district court recently rejected a petition to allow him an independent medical examination, despite a 14kg weight loss and concerning drops in haemoglobin levels noted in medical records.",
+    "An independent specialist who reviewed the files warned that continuous food deprivation, alleged beatings by prison guards, and lack of urgent evaluation for serious symptoms could prove fatal. The Israeli prison service stated that the allegations aim to discredit the state and that it operates in accordance with the law."
+   ],
+   "title_fa": "نگرانی‌های تازه درباره پزشک اهل غزه که ۲۳ ماه بدون اتهام در بازداشت اسرائیل است",
+   "summary_fa": "یک متخصص پزشکی مستقل اسرائیلی هشدار داد که جان حسام ابوسفییا، مدیر زندانی بیمارستان در غزه، به دلیل کاهش شدید وزن، درمان نشدن جراحات و مراقبت‌های پزشکی ناکافی پس از حدود ۲۳ ماه بازداشت بدون اتهام در زندان‌های اسرائیل در خطر است.",
+   "body_fa": [
+    "حسام ابوسفییا، مدیر بیمارستان کمال عدوان در شمال غزه، در ۲۷ دسامبر ۲۰۲۴ بازداشت و به عنوان جنگجوی غیرقانونی طبقه‌بندی شد. دادگاه منطقه‌ای اخیراً تقاضا برای انجام معاینات پزشکی مستقل از سوی پزشکان حقوق بشر اسرائیل را با وجود کاهش وزن ۱۴ کیلوگرمی و افت نگران‌کننده سطح هموگلوبین رد کرد.",
+    "یک متخصص مستقل که پرونده‌های پزشکی را بررسی کرده است، هشدار داد که محرومیت مداوم از غذا، ادعای ضرب و شتم توسط نگهبانان زندان و عدم ارزیابی فوری علائم جدی می‌تواند مهلک باشد. سازمان زندان‌های اسرائیل اعلام کرد که این اراضی با هدف بی‌اعتبار کردن دولت مطرح شده و این سازمان مطابق با قانون عمل می‌کند."
+   ],
+   "title_ar": "تصاعد المخاوف بشأن طبيب من غزة تحتجزه إسرائيل منذ 23 شهراً دون توجيه تهمة",
+   "summary_ar": "حذر أخصائي طبي إسرائيلي مستقل من أن حياة حسام أبو صفية، مدير المستشفى المحتجز في غزة، معرضة للخطر بسبب فقدان الوزن الحاد، والإصابات غير العلاجية، والرعاية الطبية غير الكافية بعد نحو 23 شهراً في السجون الإسرائيلية دون توجيه تهم.",
+   "body_ar": [
+    "أُعتقل أبو صفية، مدير مستشفى كمال عدوان في شمال غزة، في 27 ديسمبر 2024 وصُنف كمقاتل غير قانوني. ورفضت محكمة مركزية مؤخراً التماساً للسماح له بفحص طبي مستقل، على الرغم من فقدان 14 كيلوغراماً من وزنه والانخفاض المقلق في مستويات الهيموجلوبين المذكورة في السجلات الطبية.",
+    "وحذر أخصائي مستقل راجع الملفات من أن حرمان الطعام المستمر، والزعم بتعرضه للضرب على يد حراس السجن، وغياب التقييم العاجل للأعراض الخطيرة قد يكون مميتاً. وذكرت مصلحة السجون الإسرائيلية أن المزاعم تهدف إلى تشويه سمعة الدولة وأنها تعمل وفقاً للقانون."
+   ]
+  },
+  {
+   "id": "b40ea2bb0acf",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/liberia-flagged-vlcc-hit-in-persian-gulf-six-indian-seafarers-aboard-sarbananda-sonowal/article71688307.ece",
+   "date": "2026-11-11T04:55:47Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 8,
+   "title": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
+   "title_en": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
+   "summary_en": "A Liberia-flagged crude carrier was struck by a projectile in the Persian Gulf while traveling from Al Ruwais to Dubai, injuring four crew members including one Indian national.",
+   "body_en": [
+    "According to Indian Shipping Minister Sarbananda Sonowal, the MT Fujairah Energy was struck on November 10 while transiting the Persian Gulf. Four crew members sustained injuries in the attack, including an Indian national who suffered minor injuries and was taken ashore for medical evaluation.",
+    "The remaining 18 crew members, which include five other Indian seafarers, are safe. The minister stated that authorities are monitoring the situation and remaining in contact with the ship's management company."
+   ],
+   "title_fa": "حمله به سوپرتانکر با پرچم لیبریا در خلیج فارس با شش دریانورد هندی",
+   "summary_fa": "یک نفت‌کش غول‌پیکر با پرچم لیبریا هنگام عبور از خلیج فارس از الرویس به دبی هدف پرتابه قرار گرفت و چهار خدمه از جمله یک شهروند هند زخمی شدند.",
+   "body_fa": [
+    "به گفته سارباناندا سونووال، وزیر کشتیرانی هند، نفت‌کش «ام‌تی فجیره انرژی» در تاریخ ۱۰ نوامبر هنگام عبور از خلیج فارس هدف قرار گرفت. در این حادثه چهار عضو خدمه آسیب دیدند که یک شهروند هندی با جراحات جزئی برای معاینات پزشکی به ساحل منتقل شده است.",
+    "۱۸ عضو دیگر خدمه، از جمله پنج دریانورد هندی دیگر، سالم هستند. وزیر کشتیرانی هند اعلام کرد که وضعیت به طور مداوم زیر نظر است و ارتباط با شرکت مدیریت کشتی برای حفظ امنیت و سلامت دریانوردان ادامه دارد."
+   ],
+   "title_ar": "استهداف ناقة نفط عملاقة ترفع علم ليبيريا في الخليج العربي وعلى متنها ستة بحارة هنود",
+   "summary_ar": "تعرضت ناقلة نفط عملاقة ترفع علم ليبيريا لإصابة بمقذوف في الخليج العربي أثناء انتقالها من الرويس إلى دبي، مما أسفر عن إصابة أربعة من طاقمها، بينهم مواطن هندي.",
+   "body_ar": [
+    "وفقاً لوزير الملاحة البحرية الهندي سارباناندا سونووال، أصيبت الناقلة «إم تي فجيرة إنرجي» بمقذوف في 10 نوفمبر خلال عبورها الخليج العربي. وأدى الهجوم إلى إصابة أربعة من أفراد الطاقم، من بينهم مواطن هندي تعرض لإصابات طفيفة ونُقل إلى البر لتلقي الفحص الطبي.",
+    "وأضاف الوزير أن بقية أفراد الطاقم البالغ عددهم 18 شخصاً، بمن فيهم 5 بحارة هنود آخرين، بأمان، مؤكداً أن السلطات تتابع الوضع عن كثب وتتواصل مع شركة إدارة السفينة لضمان سلامة البحارة."
+   ]
+  },
+  {
+   "id": "ca0cadf1ec7e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+   "date": "2026-11-11T04:04:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Netanyahu heckled by Bennett at Knesset opening session",
+   "title_en": "Netanyahu heckled by Bennett at Knesset opening session",
+   "summary_en": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker Prime Minister Benjamin Netanyahu during the opening session of a new Knesset.",
+   "body_en": [
+    "The disruption occurred as Netanyahu was delivering remarks to mark the beginning of the new parliamentary session following national elections."
+   ],
+   "title_fa": "نفتالی بنت در جلسه افتتاحیه کنست بنیامین نتانیاهو را هو کرد",
+   "summary_fa": "نفتالی بنت، نخست‌وزیر پیشین اسرائیل، در جریان جلسه افتتاحیه کنست جدید مکرراً بنیامین نتانیاهو، نخست‌وزیر موقت را هو کرد.",
+   "body_fa": [
+    "این رویداد هنگامی رخ داد که نتانیاهو در حال سخنرانی برای آغاز به کار دوره جدید مجلس پس از برگزاری انتخابات سراسری بود."
+   ],
+   "title_ar": "بنت يقاطع نتنياهو بصيحات الاستهجان في الجلسة الافتتاحية للكنيست",
+   "summary_ar": "قاطع رئيس الوزراء الإسرائيلي الأسبق نفتالي بينيت مراراً وتكراراً رئيس الوزراء المتبعي أعماله بنيامين نتنياهو أثناء الجلسة الافتتاحية للكنيست الجديد.",
+   "body_ar": [
+    "حدثت المقاطعة بينما كان نتنياهو يلقي كلمة بمناسبة بدء دورة البرلمان الجديدة في أعقاب الانتخابات الوطنية."
+   ]
+  },
   {
    "id": "4e22e3f1ddbe",
    "lang": "en",

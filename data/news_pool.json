@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:12:29Z",
+ "updated": "2026-11-11T07:34:22Z",
  "items": [
   {
    "id": "e73608bde593",
@@ -2674,6 +2674,316 @@
    ],
    "desc": "Without peace, Israel risks descending into chaos",
    "score": 5
+  },
+  {
+   "id": "5f9750ce9b48",
+   "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+   "date": "2026-11-11T06:23:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+   "score": 7
+  },
+  {
+   "id": "81c38962384c",
+   "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+   "date": "2026-11-11T05:39:26Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
+   "score": 7
+  },
+  {
+   "id": "ba2e02794cff",
+   "title": "Russia claims interception of 146 drones in Leningrad region",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+   "date": "2026-11-11T04:34:47Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
+   "score": 3
+  },
+  {
+   "id": "ca0cadf1ec7e",
+   "title": "Netanyahu heckled by Bennett at Knesset opening session",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+   "date": "2026-11-11T04:04:56Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
+   "score": 6
+  },
+  {
+   "id": "a7dce117f838",
+   "title": "Section 219: the future of US-Israeli defence partnership",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
+   "date": "2026-11-11T03:48:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "e0fd4668b4a9",
+   "title": "Woman in Saudi Arabia sentenced to 100 lashes for giving birth outside marriage",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
+   "date": "2026-11-11T06:00:33Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Rights groups condemn reported punishment of Kenyan migrant worker as an ‘act of violence’ A Kenyan mother in Saudi Arabia has reportedly been sentenced to 100 lashes after giving birth outside marriage. Under the Saudi sharia law system, sex outside marriage is a criminal offence. But it is women who are disproportionately targeted, say rights groups, which have condemned the punishment as an “act of violence”. Continue reading...",
+   "score": 4
+  },
+  {
+   "id": "2eab93aff5e2",
+   "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+   "date": "2026-11-11T05:00:32Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outside Gaza awaiting Israeli approval to enter, aid agencies have said. At least four Palestinian children and woman were killed as heavy rains and wind battered fragile, leaky tents. Thousands have been left without shelter and sanitation infrastructure has been destroyed, with sewage spewing into people’s tents. Continu",
+   "score": 7,
+   "dup_of": "ca1191f7ce63"
+  },
+  {
+   "id": "06a09136c46a",
+   "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+   "date": "2026-11-11T05:00:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Independent Israeli professor says Hussam Abu Safiya’s life will be at risk until he receives proper medical treatment An independent professor who reviewed the medical records of a prominent Gaza doctor held in an Israeli prison without charge for nearly 23 months has raised serious concerns about his health. Hussam Abu Safiya was detained at work on 27 December 2024 and later held in solitary confinement at Rakefet, a notorious underground prison. Continue reading...",
+   "score": 5
+  },
+  {
+   "id": "624e8d2f4bf2",
+   "title": "Iranian army says oil tanker ablaze in Hormuz Strait after hitting mine",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-says-oil-tanker-ablaze-hormuz-strait-after-hitting-mine",
+   "date": "2026-11-11T07:19:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iranian army says oil tanker ablaze in Hormuz Strait after hitting mine Iran's Army said that an oil tanker caught fire on Wednesday in the eastern part of the Strait of Hormuz after hitting a naval mine in an \"unsafe and restricted area\". \"Emphasising that the Navy's sailors are monitoring and controlling the eastern part of the Strait of Hormuz with great force, the Navy's Public Relations Department advised ship owners for the umpteenth time that safe passage through the Strait of Hormuz requires coordination with the armed forces and compliance with maritime laws,\" the army added.",
+   "score": 8,
+   "dup_of": "655b1eef6c85"
+  },
+  {
+   "id": "7b9288d1a4f3",
+   "title": "Iran designates Argentina’s navy, air force as 'terrorist' organisations",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-designates-argentinas-navy-air-force-terrorist-organisations",
+   "date": "2026-11-11T07:16:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran designates Argentina’s navy, air force as 'terrorist' organisations Iran has designated Argentina's navy and air force as \"terrorist organisations\" in response to the Latin American country's blacklisting of Tehran's Islamic Revolutionary Guard Corps (IRGC). The Iranian foreign ministry said in a statement posted on Telegram that Buenos Aires acted \"in violation of the fundamental principles of international law\" and committed a \"hostile act\" by deeming the IRGC as a \"terrorist\" entity. \"It is self-evident that responsibility for all consequences arising from this matter will rest with th",
+   "score": 6
+  },
+  {
+   "id": "90b3e9adf1ad",
+   "title": "Watch: Unicef says Israel blocking Gaza basin repairs warns of risk of sewage overflow",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-unicef-says-israel-blocking-gaza-basin-repairs-warns-risk-sewage",
+   "date": "2026-11-11T06:46:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Watch: Unicef says Israel blocking Gaza basin repairs warns of risk of sewage overflow Unicef spokesperson James Elder told reporters on Tuesday that Israel had rejected equipment needed to repair a key Gaza rainwater basin. \"Plans are drawn, money’s raised, equipment is ready. We’ve worked with their engineers, but just recently, Cogat rejected the project,\" Elder said, warning that the facility could overflow and endanger nearby residents through flooding and disease. Unicef spokesperson James Elder told reporters on Tuesday that Israel had rejected equipment needed to repair a key Gaza rain",
+   "score": 5
+  },
+  {
+   "id": "afc6b7663349",
+   "title": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-saudi-arabia-urges-americans-exercise-heightened-vigilance",
+   "date": "2026-11-11T06:40:26Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats' The US embassy in Riyadh has warned Americans in Saudi Arabia and across the Middle East about potential \"threats\" from Iran and Yemen's Houthis. \"Americans currently in the Middle East should exercise heightened vigilance due to the increased threat of armed attacks by Iranian-supported Houthis and Iranian efforts to target U.S. government officials in the region,\" it said in its latest advisory posted on X. \"Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, i",
+   "score": 6
+  },
+  {
+   "id": "3e82b0687803",
+   "title": "Pezeshkian says COP31 will be 'good opportunity' to bring up US-Israeli 'damage' to the environment",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-cop31-will-be-good-opportunity-bring-us-israeli-damage",
+   "date": "2026-11-11T06:18:58Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "TUR"
+   ],
+   "desc": "Pezeshkian says COP31 will be 'good opportunity' to bring up US-Israeli 'damage' to the environment Iranian President Masoud Pezeshkian said that the upcoming COP31 UN climate summit in Turkiye would be a \"good opportunity\" to bring up the impact of US and Israeli attacks against Iran’s environment and the region. \"The UN climate summit is a good opportunity to discuss the actions the US and Israel have taken to damage the environment in Iran and the region,\" Pezeshkian said. \"We will discuss the legitimate positions of the Islamic Republic and the crimes the US and Israel have committed in th",
+   "score": 5
+  },
+  {
+   "id": "9a2df080a252",
+   "title": "PTI founder Imran Khan brought to Pims, undergoes eye procedure",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043744/pti-founder-imran-khan-brought-to-pims-undergoes-eye-procedure",
+   "date": "2026-11-11T05:55:21Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Former prime minister and PTI founder Imran Khan was again taken to the Pakistan Institute of Medical Sciences (Pims) for tests and follow-up treatment for his eye condition, a hospital official told Dawn on Wednesday. “Imran Khan was brought from the Adiala jail in Rawalpindi to Pims in Islamabad during the night between Nov 10 and 11 for a medical check-up and follow-up eye treatment on the advice of the ophthalmologist treating him,” the official said. The hospital official added that, prior to the procedure, the former premier underwent a medical examination, including an ocular",
+   "score": 4
+  },
+  {
+   "id": "78f13202e331",
+   "title": "PM Shehbaz to join other world leaders at COP31 today, will outline Pakistan’s climate priorities",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+   "date": "2026-11-11T07:19:08Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif is set to highlight Pakistan’s climate priorities at the COP31 Antalya Leaders’ Summit in Turkiye today, with other world leaders joining him in setting out their climate priorities. Delegates from nearly 200 countries are meeting in the Mediterranean resort city of Antalya as global greenhouse gas emissions show little sign of falling and wars, inflation and other crises compete for political attention. The world leaders will begin their speeches in the afternoon and continue through the day on Thursday, according to the COP31 schedule. Wednesday’s speakers are a",
+   "score": 3
+  },
+  {
+   "id": "940062a89854",
+   "title": "India pollution monitors overwhelmed by toxic smog",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043757/india-pollution-monitors-overwhelmed-by-toxic-smog",
+   "date": "2026-11-11T07:16:51Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India’s air pollution monitors were overwhelmed this week by toxic smog so severe that concentrations exceeded their upper measurement limit, equivalent to 66 times the World Health Organisation’s recommended daily maximum, regulators said. The admission comes after opposition politicians accused authorities of deliberately allowing gaps in official readings for several hours overnight Sunday into Monday, just as pollution surged with a barrage of fireworks for Diwali, the Hindu festival of lights. New Delhi is one of the world’s most polluted capitals, where winter smog from vehicle emissions",
+   "score": 2
+  },
+  {
+   "id": "485ab441ffe6",
+   "title": "Eight indicted in foreign women’s rape case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043610/eight-indicted-in-foreign-womens-rape-case",
+   "date": "2026-11-11T01:28:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: A sessions court on Tuesday indicted eight suspects, including one reportedly linked to a senior minister, in a case of alleged gang rape of two foreign women. All the suspects, presently in judicial custody, were produced before the trial court for the indictment proceedings. Additional District & Sessions Judge (AD&SJ) Rafaqat Ali Gondal framed the charges against the suspects, who pleaded not guilty. The judge directed the prosecution to present its witnesses on Dec 9 so the formal trial proceedings could be commenced. Separately, the judge gave the last opportunity to the prosecuti",
+   "score": 1
+  },
+  {
+   "id": "bd036292c225",
+   "title": "India garment makers rethink reliance on US after tariff shock",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043755/india-garment-makers-rethink-reliance-on-us-after-tariff-shock",
+   "date": "2026-11-11T06:50:52Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "At Orient Craft’s factory in Ranchi, hundreds of women stitch dresses, shirts and children’s clothing for British retailers ​Next and Marks & Spencer. Not long ago, most of Orient Craft’s output would have gone to the US. But founder Sudhir Dhingra, 77, has cut shipments there since ‌the US hiked tariffs, which rose to as much as 50 per cent last year, hitting orders from customers including American Eagle and Gap. Even with duties now lower and the possibility of a trade pact , Dhingra has decided it is too much of a risk to depend so heavily on one market. Workers stitch clothes using sewing",
+   "score": 3
+  },
+  {
+   "id": "08b2630ab08e",
+   "title": "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043754/behind-bangladeshs-garment-boom-workers-cut-food-healthcare-as-wages-fall-short",
+   "date": "2026-11-11T06:50:01Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "GAZIPUR: Before dawn ​each day, garment worker Shilpi Khatun cooks over a wood-fired clay stove because her family cannot afford gas, before ‌heading to a factory in Gazipur, an industrial hub on the outskirts of Dhaka. The 27-year-old is the sole breadwinner in a household where her husband is unemployed and her parents and in-laws depend on her wages. Rising prices have left Khatun struggling to afford basic necessities despite five years in the garment industry, a frustration ​shared by thousands of Bangladesh’s garment workers who staged protests last week demanding the minimum monthly wag",
+   "score": 3
+  },
+  {
+   "id": "43ed08b6b981",
+   "title": "Former Pakistan PM Imran Khan back in jail after medical treatment, sources say",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/former-pakistan-pm-imran-khan-back-in-jail-after-medical-treatment-sources-say/article71688472.ece",
+   "date": "2026-11-11T06:04:21Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Imran Khan had an eye check-up at the Pakistan Institute of Medical ‌Sciences, one of the officials said",
+   "score": 4,
+   "dup_of": "9a2df080a252"
+  },
+  {
+   "id": "b40ea2bb0acf",
+   "title": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/liberia-flagged-vlcc-hit-in-persian-gulf-six-indian-seafarers-aboard-sarbananda-sonowal/article71688307.ece",
+   "date": "2026-11-11T04:55:47Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Mr. Sonowal said four crew members sustained injuries in the attack, including one Indian national, who suffered minor injuries and has been safely taken ashore",
+   "score": 8
+  },
+  {
+   "id": "e9d4d43ab8f4",
+   "title": "از کارتر تا بایدن؛ آیا پیروزی دموکرات‌ها در آمریکا خبر خوبی برای حکومت ایران است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c607378x71v2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T06:26:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای کنگره این پرسش را دوباره مطرح کرده است که قدرت‌گیری این حزب چه تاثیری بر سیاست آمریکا در قبال ایران خواهد داشت. مروری بر کارنامه دموکرات‌ها از جیمی کارتر تا جو بایدن نشان می‌دهد که سابقه این حزب در قبال تهران، ترکیبی از تحریم، فشار، مذاکره و توافق بوده است.",
+   "score": 4
+  },
+  {
+   "id": "c784aa9efbc7",
+   "title": "لماذا تتقاتل الأطراف المتحاربة في اليمن للسيطرة على تعز؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6jdmdv004mgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T05:08:51Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "يعيش سكان أهل تعز حصاراً فرضته جماعة أنصار الله تحت وطأة اشتداد القتال بين الأطراف المتحاربة للسيطرة على المحافظة",
+   "score": 4
   }
  ]
 }
