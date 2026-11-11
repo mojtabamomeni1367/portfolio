@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:23:09Z",
+ "updated": "2026-11-11T04:12:29Z",
  "items": [
   {
    "id": "e73608bde593",
@@ -2310,6 +2310,370 @@
    ],
    "desc": "أفادت معلومات أمنية عراقية ولبنانية بالعثور على جثة للنائب العراقي السابق أحمد العلواني داخل شقة في بيروت، بعد أربعة أيام من اختفائه. وأعلن السفير العراقي في بيروت محمد رضا الحسيني أن القضاء اللبناني فتح تحقيقاً في قضية مقتله.",
    "score": 7
+  },
+  {
+   "id": "87181a6313bc",
+   "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T13:45:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+   "score": 4
+  },
+  {
+   "id": "4e22e3f1ddbe",
+   "title": "Iran opens training camp for women in readiness for war",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
+   "date": "2026-11-11T03:21:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
+   "score": 7
+  },
+  {
+   "id": "860cf1862783",
+   "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+   "date": "2026-11-11T02:12:22Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+   "score": 1
+  },
+  {
+   "id": "8e882e417485",
+   "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+   "date": "2026-11-11T02:07:15Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Lebanese authorities investigate the killing after al-Alwani's body is found in an apartment in Beirut.",
+   "score": 6,
+   "dup_of": "7984346b657b"
+  },
+  {
+   "id": "145a77caf8dd",
+   "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+   "date": "2026-11-11T01:44:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+   "score": 8,
+   "dup_of": "404ff2c25cfe"
+  },
+  {
+   "id": "e37e52fdf84b",
+   "title": "Republicans block Hegseth impeachment motion",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+   "date": "2026-11-11T01:43:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+   "score": 3,
+   "dup_of": "a0a5f902d6ab"
+  },
+  {
+   "id": "d68c04ddaab4",
+   "title": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
+   "date": "2026-11-11T01:53:51Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Egyptian journalist Lina Attalah, head of independent news outlet Mada Masr, faces a criminal court retrial Wednesday over charges of operating without a licence and publishing false news. The UN criticised Egypt’s “widening assaults on press freedom” Tuesday. Attalah was previously handed a one-year prison sentence in absentia in 2024.",
+   "score": 6
+  },
+  {
+   "id": "72245bf68ae1",
+   "title": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/analysis-changing-face-israels-ultra-orthodox-politics",
+   "date": "2026-11-11T02:48:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Analysis: The changing face of Israel’s ultra-Orthodox politics ne of the most significant developments in the aftermath of the Israeli elections was the decision by United Torah Judaism (UTJ), the main ultra-Orthodox Jewish party, not to recommend Benjamin Netanyahu to form the next government. This marks a departure from years of close alliance between Netanyahu and the ultra-Orthodox, or Haredi, parties, long considered a pillar of Israeli politics. Even if the move was tactical, intended to strengthen the Haredi parties’ bargaining position, it sends an important signal, as last month’s vo",
+   "score": 5
+  },
+  {
+   "id": "cc91c368a40e",
+   "title": "US Treasury chief moved to military base after alleged Iranian threats: Report",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-chief-moved-military-base-after-alleged-iranian-threats",
+   "date": "2026-11-11T01:46:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Treasury chief moved to military base after alleged Iranian threats: Report US Treasury Secretary Scott Bessent has been recently moved out of his home and onto a ​military base after alleged Iranian threats against his ‌life, according to a report by the the New York Times. In a memo seen by Reuters, a senior intelligence official in the ​Trump administration warned that Tehran has increased efforts to target US personnel. The official claimed that Iranian plots against American citizens have reached \"advanced stages\".",
+   "score": 8
+  },
+  {
+   "id": "ca1191f7ce63",
+   "title": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/all-i-can-do-hug-my-children-and-cry-palestinians-gaza-face-deadly",
+   "date": "2026-11-11T00:53:04Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods On MEE Live, Palestinian journalist Nada Nabil spoke to MEE journalist James Schneider about how heavy rains and flooding are worsening conditions for displaced families in Gaza, where many are living in tents and damaged homes. Nabil said people who would normally welcome the rain are now afraid of it. She recounted how one mother told her that all she could do was hug her children, cry and promise them better days when the sun returned. The flooding comes as Palestinians in Gaza continue to face the con",
+   "score": 7
+  },
+  {
+   "id": "d67ee0fb586f",
+   "title": "US Republicans derail bid to impeach Pentagon chief",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-house-votes-derail-impeachment-defense-secretary-hegseth",
+   "date": "2026-11-10T23:51:30Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Republicans derail bid to impeach Pentagon chief Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defense Secretary Pete Hegseth over the Iran war, handing President Donald Trump a victory days after his party's crushing midterm election defeat. The House voted 211 to 204 to send the impeachment resolution to the Judiciary Committee, effectively derailing a planned vote Wednesday on whether to bring formal charges against the embattled Pentagon chief. The resolution was introduced by Republican Thomas Massie, a Trump critic who was the only member of hi",
+   "score": 3,
+   "dup_of": "a0a5f902d6ab"
+  },
+  {
+   "id": "0ddd8c92b4bd",
+   "title": "Japan pledges $1.97m to support Gaza health response",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/japan-pledges-197m-support-gaza-health-response",
+   "date": "2026-11-10T23:05:46Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Japan pledges $1.97m to support Gaza health response Japan signed an agreement with the World Health Organisation on Tuesday to provide approximately $1.97 million to support the health response in Gaza, Wafa reported, citing Japan’s representative office to Palestine. The agreement was signed in Ramallah by Japan’s representative to Palestine, Katsuhiko Araike, and WHO representative in the occupied Palestinian territory, Reinhilde Van De Weerdt. A key component of the grant is the establishment of an Emergency Medical Team (EMT) coordination cell within the Ministry’s Emergency Operations Ce",
+   "score": 5
+  },
+  {
+   "id": "87983a48493a",
+   "title": "Fire breaks out on platform in Iran’s South Pars field",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fire-breaks-out-platform-irans-south-pars-field",
+   "date": "2026-11-10T22:23:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Fire breaks out on platform in Iran’s South Pars field A fire has broken out on a platform in Iran’s South Pars gas field, but the situation is fully under control, Iran’s Fars news agency reported, citing the deputy oil minister. The platform accounts for only 14.5 million cubic metres of South Pars’s total daily production of over 700 million cubic metres of gas, the news agency said. Officials are considering either a gas leak or an operational accident as the cause, but the investigation is ongoing, according to the report.",
+   "score": 6,
+   "dup_of": "b576f5730f2a"
+  },
+  {
+   "id": "54bd772fe679",
+   "title": "Development spending stalls despite surplus",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043633/development-spending-stalls-despite-surplus",
+   "date": "2026-11-11T01:28:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The country’s Public Sector Development Programme (PSDP) spending in the first four months of the current fiscal year struggled at only 10 per cent of the annual allocation. Total PSDP spending in the first four months (July-October) of 2026-27 amounted to Rs103.87bn — 10.4pc of the Rs1trillion allocation, according to the Ministry of Planning and Development. Actual utilisation was far lower than the Rs412.3bn authorised by the Planning Commission. This alarming spending pattern on public-interest projects, which is affecting living standards and economic growth, has emerged despit",
+   "score": 2
+  },
+  {
+   "id": "fe04c1c577ec",
+   "title": "Rain, snow in northern parts of the country from today",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043674/rain-snow-in-northern-parts-of-the-country-from-today",
+   "date": "2026-11-11T02:27:10Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "RAWALPINDI: The Pakistan Meteorological Department (PMD) has forecast rain, wind and thunderstorms, with snowfall over the hills, in the upper parts of the country over the next two to three days, urging the authorities concerned to take precautionary measures to prevent any untoward incident, particularly in hilly areas. According to the Met Off­ice, a shallow westerly wave is approaching the western and northern par­ts of the country. The system is likely to intensify on Nov 12 and may persist over the upper regions until the morning of Nov 14. In Khyber Pakhtu­nk­hwa, under the influence of",
+   "score": 1
+  },
+  {
+   "id": "ce327ea3ea91",
+   "title": "Fazlur Rehman’s son skips NAB summons",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043660/fazlur-rehmans-son-skips-nab-summons",
+   "date": "2026-11-11T03:07:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Defying a summons from the Na­­tional Accountability Bu­­reau (NAB), Asad Meh­m­ood, son of Jamiat Ulema-i-Islam (JUI-F) chief Mau­lana Fazlur Rahman, fai­­led to appear before the anti-graft watchdog on Monday in a case concerning alle­ged irregularities in appoi­ntments at Pakistan Post. NAB, meanwhile, remained tight-lipped about its next course of action. In such cases, the bureau usually issues second and third notices before taking punitive action, including arrest, if the accused continues to ignore the summons. Mr Mehmood had been directed to appear before the investigation ",
+   "score": 4
+  },
+  {
+   "id": "c94683017107",
+   "title": "Health minister denies vaccine scam allegations",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043658/health-minister-denies-vaccine-scam-allegations",
+   "date": "2026-11-11T01:25:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Says no public money lost in procurement controversy • Claims Rs183 million collected from applicants remains in Nadra’s account ISLAMABAD: Amid allegations of irregularities in vaccine procurement, Federal Health Minister Mustafa Kamal on Tuesday claimed that not a single rupee of public money had been lost in the controversy surrounding the procurement of vaccines for Umrah pilgrims. He said a private company had purchased the vaccines, while the entire amount collected for the purpose, amounting to Rs183 million, remained deposited in a National Database and Registration Authority (Nadra)",
+   "score": 2
+  },
+  {
+   "id": "2f9811eececd",
+   "title": "Public Accounts Committee seeks to delay power firms’ sell-off until asset valuation",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043675/public-accounts-committee-seeks-to-delay-power-firms-sell-off-until-asset-valuation",
+   "date": "2026-11-11T02:21:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Pub­lic Accounts Committee (PAC) on Tuesday propo­sed deferring the privatisation of power companies, expected to take place in January, until their assets, machinery, land and other properties are properly assessed and revalued to prevent potential losses to the national exchequer. The proposal came after Auditor General of Paki­stan Maqbool Ahmad Gon­dal raised concerns that the government was relying on outdated valuations of public assets during a meeting of the PAC to examine the audit reports of the Power Division and its attached entities for 2024-25. The committee observ",
+   "score": 3
+  },
+  {
+   "id": "f56de373bb17",
+   "title": "Pakistan pushing for diplomacy amid global tensions",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043672/pakistan-pushing-for-diplomacy-amid-global-tensions",
+   "date": "2026-11-11T01:25:18Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "PSE"
+   ],
+   "desc": "• Strength at home and effective diplomacy abroad key to confronting emerging world order, Dar tells Margalla Dialogue • University of Chicago scholar says US can’t win Iran war; claims Washington complicit in Palestinian ‘genocide’ by Israel • Urges Pakistan to capitalise on ties with both US and China, shore up its ‘middle power’ status ISLAMABAD: Calling for stronger diplomacy, dialogue and multilateral cooperation to address growing global tensions, Deputy Prime Minister and Foreign Minister Ishaq Dar here on Tuesday stressed that Pakistan would continue to work for regional peace, while s",
+   "score": 6
+  },
+  {
+   "id": "126057c9a36d",
+   "title": "What money bought",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043717/what-money-bought",
+   "date": "2026-11-11T03:24:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "SLEAZE, bribery, and secret alliances allegedly marked Trump’s Middle East policy in his first term, and set him on the road to an illegal and unwinnable war against Iran in his second. The central characters in that sordid set of machinations were his own son-in-law and senior adviser Jared Kushner, a few Gulf rulers, and Israel’s prime minister Benjamin Netanyahu — all working towards a plan to redraw the political map of West Asia. Iran was the adversary to be contained, and it was on this that they converged: a plan to “blow up Obama’s Iran nuclear deal”. Billions of dollars were allegedly",
+   "score": 1
+  },
+  {
+   "id": "d7216b9cd9c6",
+   "title": "Rubio says 'no need' to attack Iran as diplomacy gathers pace",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/rubio-says-no-need-to-attack-iran-as-diplomacy-gathers-pace/article71688168.ece",
+   "date": "2026-11-11T03:33:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran said its offer to reopen Hormuz within two days — if Washington agreed to a raft of conditions — remained on the table",
+   "score": 8,
+   "dup_of": "6bc481b81826"
+  },
+  {
+   "id": "2272b76aae71",
+   "title": "World leaders take stage at COP31 but big names missing",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
+   "date": "2026-11-11T03:20:36Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "COP31 host Turkiye is championing a voluntary initiative to accelerate the electrification of transport, buildings and industry, with a target of raising electricity’s share of global energy consumption to 35% by 2035",
+   "score": 2
+  },
+  {
+   "id": "ac9e84a171da",
+   "title": "Is right-wing populism set to retreat?",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/is-right-wing-populism-set-to-retreat/article71687301.ece",
+   "date": "2026-11-11T03:02:52Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Does the Republicans’ historic defeat in the midterm elections in the United States signal a waning of right-wing populism? Does the right’s emphasis on immigration and foreigners as political issues have an impact on voters? How will the anger of young protesters in India, France and other countries find political expression?",
+   "score": 2
+  },
+  {
+   "id": "8afd662f307a",
+   "title": "No talks underway with U.S., says Iran top security official",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece",
+   "date": "2026-11-11T02:54:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran ‌has insisted ‌the ⁠U.S. must meet ⁠seven conditions set out in a June interim agreement ​before the ‌Strait of Hormuz can reopen and negotiations resume",
+   "score": 8,
+   "dup_of": "eed40c7f22be"
+  },
+  {
+   "id": "b0b2188c9461",
+   "title": "U.S. Treasury chief Bessent moved to military base after Iranian threats, reports say",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-reports-say/article71688103.ece",
+   "date": "2026-11-11T02:52:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran has previously denied plotting to attack ‌officials and people on U.S. soil",
+   "score": 8,
+   "dup_of": "cc91c368a40e"
+  },
+  {
+   "id": "23a91faa1b6a",
+   "title": "Trump ally Jim Jordan elected U.S. House Republican leader after midterm election rout",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-ally-jim-jordan-elected-us-house-republican-leader-after-midterm-election-rout/article71688105.ece",
+   "date": "2026-11-11T02:45:26Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "The Ohio Congressman will replace House Speaker Mike Johnson, who announced he was stepping down from leadership after Republicans lost control of both chambers of Congress",
+   "score": 3
+  },
+  {
+   "id": "0cc9c0747d03",
+   "title": "Point of no return: On Israel’s next government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/point-of-no-return-on-israels-next-government/article71683836.ece",
+   "date": "2026-11-10T04:03:38Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Without peace, Israel risks descending into chaos",
+   "score": 5
   }
  ]
 }

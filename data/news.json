@@ -1,7 +1,181 @@
 {
- "updated": "2026-11-11T01:23:09Z",
- "count": 425,
+ "updated": "2026-11-11T04:12:29Z",
+ "count": 432,
  "items": [
+  {
+   "id": "4e22e3f1ddbe",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
+   "date": "2026-11-11T03:21:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran opens training camp for women in readiness for war",
+   "title_en": "Iran opens training camp for women in readiness for war",
+   "summary_en": "Iran has launched its first all-women military training camp amid concerns over potential renewed US attacks.",
+   "body_en": [
+    "Dozens of female volunteers known as \"Janfadayan\", who are prepared to sacrifice their lives for the country, participated in military exercises held at Tehran's Azadi Square."
+   ],
+   "title_fa": "ایران در راستای آمادگی برای جنگ، اردوگاه آموزشی نظامی زنان را راه‌اندازی کرد",
+   "summary_fa": "ایران در میان نگرانی‌ها از احتمال حملات مجدد آمریکا، نخستین اردوگاه آموزش نظامی تماماً زنانه خود را افتتاح کرد.",
+   "body_fa": [
+    "ده‌ها تن از داوطلبان زن موسوم به «جان‌فدایان» که آماده فدا کردن جان خود برای ایران هستند، در مانورهای نظامی برگزارشده در میدان آزادی تهران شرکت کردند."
+   ],
+   "title_ar": "إيران تفتتح معسكراً لتدريب النساء استعداداً للحرب",
+   "summary_ar": "افتتحت إيران أول معسكر تدريب عسكري مخصص بالكامل للنساء وسط مخاوف من تجدد الهجمات الأمريكية.",
+   "body_ar": [
+    "وشاركت عشرات المتطوعات من \"جانفدايان\"، المستعدات للتضحية بأرواحهن من أجل إيران، في تدريبات عسكرية أقيمت في ساحة آزادي بطهران."
+   ]
+  },
+  {
+   "id": "72245bf68ae1",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/analysis-changing-face-israels-ultra-orthodox-politics",
+   "date": "2026-11-11T02:48:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
+   "title_en": "Analysis: The changing face of Israel’s ultra-Orthodox politics",
+   "summary_en": "United Torah Judaism decided not to recommend Benjamin Netanyahu to form Israel's next government, marking a significant break in their long-standing political alliance. The move reflects shifting dynamics within Haredi society, including declining veteran leadership and growing impacts from the 7 October attacks.",
+   "body_en": [
+    "The decision signals mounting tension within the ultra-Orthodox camp, where the authority of veteran leaders is facing erosion alongside leadership struggles and internal challenges to traditional political norms. A deepening crisis also surrounds the established 'society of learners' model.",
+    "The broader Haredi public, particularly younger generations and conservative Lithuanian segments, increasingly recognizes the profound consequences of the 7 October attacks, even as veteran politicians and spiritual figures have appeared distanced from the fallout."
+   ],
+   "title_fa": "تحلیل: دگرگونی در چهره سیاست ارتدوکس افراطی در اسرائیل",
+   "summary_fa": "حزب یهودیت تورات متحد تصمیم گرفت بنیامین نتانیاهو را برای تشکیل دولت بعدی اسرائیل پیشنهاد نکند، که نشانه‌ای از شکاف در ائتلاف دیرینه آنهاست. این اقدام بازتابی از تغییرات درونی در جامعه حریدی، از جمله تضعیف جایگاه رهبران قدیمی و پیامدهای ناشی از حملات ۷ اکتبر است.",
+   "body_fa": [
+    "این تصمیم نشانه بروز تنش در جامعه ارتدوکس افراطی است، جایی که اقتدار رهبران سنتی با چالش مواجه شده و اختلافات بر سر رهبری آینده و هنجارهای سیاسی دیرینه افزایش یافته است. بحران فزاینده پیرامون الگوی «جامعه اهل یادگیری» نیز این روند را تقویت می‌کند.",
+    "با وجود فاصله گرفتن رهبران مذهبی کهنه‌کار از تبعات رویدادهای ۷ اکتبر، بدنه جامعه حریدی، به ویژه نسل جوان و اعضای محافظه‌کار جامعه لیتوانیایی، به ابعاد عمیق تحولات رخ‌داده در اسرائیل واقف شده‌اند."
+   ],
+   "title_ar": "تحليل: الوجه المتغير للسياسة الحريدية في إسرائيل",
+   "summary_ar": "قرر حزب «يهوديت هتوراه» عدم التوصية بتكليف بنيامين نتنياهو لتشكيل الحكومة الإسرائيلية المقبلة، ما يعد تحولاً بارزاً في تحالفهما السياسي التاريخي. وتأتي هذه الخطوة لتعكس تغيرات داخل المجتمع الحريدي، شملت تراجع نفوذ القيادات التقليدية وتأثيرات أحداث السابع من أكتوبر.",
+   "body_ar": [
+    "تعكس هذه الخطوة تحولات جوهرية داخل الوسط الحريدي، في ظل تراجع مكانة السياسيين التقليديين والصراع على مستقبل القيادة وظهور قوى تتحدى الأعراف السائدة، إلى جانب تعمق أزمة نموذج «مجتمع الدارسين».",
+    "ورغم تجاوز القيادة الروحية والبرلمانية التقليدية لتداعيات هجوم السابع من أكتوبر، فإن عموم الجمهور الحريدي، لا سيما الأجيال الشابة والتيار الليتواني المحافظ، بات يدرك الحجم الاستثنائي لما شهدته إسرائيل."
+   ]
+  },
+  {
+   "id": "d68c04ddaab4",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
+   "date": "2026-11-11T01:53:51Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 6,
+   "title": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
+   "title_en": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
+   "summary_en": "Lina Attalah, the head of Egyptian independent media outlet Mada Masr, faces a retrial in criminal court over accusations of operating without a licence and spreading false news.",
+   "body_en": [
+    "Attalah was previously sentenced in absentia to one year in prison in 2024. Ahead of the proceedings, the United Nations condemned Egypt's expanding crackdown on press freedom."
+   ],
+   "title_fa": "احتمال زندانی شدن لینا عطاالله، روزنامه‌نگار مصری، در پی آغاز دادگاهی که اعتراضات بین‌المللی برانگیخته است",
+   "summary_fa": "لینا عطاالله، مدیر رسانه مستقل «مدی مصر»، در ارتباط با اتهامات فعالیت بدون مجوز و نشر اکاذیب در یک دادگاه کیفری محاکمه مجدد می‌شود.",
+   "body_fa": [
+    "عطاالله پیش‌تر در سال ۲۰۲۴ به صورت غیابی به یک سال حبس محکوم شده بود. سازمان ملل متحد با انتقاد از اقدامات قاهره، نسبت به آنچه گسترش سرکوب آزادی مطبوعات در مصر خواند، اعتراض کرده است."
+   ],
+   "title_ar": "الصحفية المصرية لينا عطا الله تواجه خطر السجن وسط إدانات دولية لمحاكمتها",
+   "summary_ar": "تواجه الصحفية المصرية لينا عطا الله، مديرة موقع \"مدى مصر\" المستقل، إعادة محاكمة أمام محكمة الجنايات بتهمتي العمل دون ترخيص ونشر أخبار كاذبة.",
+   "body_ar": [
+    "وكان قد صدر ضد عطا الله حكم غيابي بالسجن لمدة عام في عام 2024. وانتقدت الأمم المتحدة الإجراءات القضائية، محذرة من تصاعد الانتهاكات ضد حرية الصحافة في مصر."
+   ]
+  },
+  {
+   "id": "cc91c368a40e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-chief-moved-military-base-after-alleged-iranian-threats",
+   "date": "2026-11-11T01:46:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US Treasury chief moved to military base after alleged Iranian threats: Report",
+   "title_en": "US Treasury chief moved to military base after alleged Iranian threats: Report",
+   "summary_en": "US Treasury Secretary Scott Bessent has been relocated from his residence to a military base following alleged threats to his life from Iran, according to The New York Times.",
+   "body_en": [
+    "A memo reviewed by Reuters revealed that a senior intelligence official in Donald Trump's administration warned of intensified Iranian efforts to target American personnel. The official stated that Tehran's plots against US citizens have progressed to advanced stages."
+   ],
+   "title_fa": "گزارش: انتقال وزیر خزانه‌داری آمریکا به یک پایگاه نظامی در پی تهدیدهای ادعایی ایران",
+   "summary_fa": "به گزارش نیویورک تایمز، اسکات بنت، وزیر خزانه‌داری آمریکا، در پی تهدیدهای ادعایی ایران علیه جانش از منزل خود به یک پایگاه نظامی منتقل شده است.",
+   "body_fa": [
+    "بر اساس یادداشتی که خبرگزاری رویترز آن را مشاهده کرده، یکی از مقامات ارشد اطلاعاتی در دولت دونالد ترامپ هشدار داده است که تهران تلاش‌های خود را برای هدف قرار دادن پرسنل آمریکایی افزایش داده است. این مقام مدعی شد که طرح‌های ایران علیه شهروندان آمریکایی به «مراحل پیشرفته‌ای» رسیده است."
+   ],
+   "title_ar": "تقرير: نقل وزير الخزانة الأمريكي إلى قاعدة عسكرية إثر تهديدات إيرانية مزعومة",
+   "summary_ar": "نُقل وزير الخزانة الأمريكي سكوت بيسنت من منزله إلى قاعدة عسكرية إثر تهديدات إيرانية مزعومة استهدفت حياته، وفقاً لما أوردته صحيفة نيويورك تايمز.",
+   "body_ar": [
+    "وأظهرت مذكرة اطلعت عليها وكالة رويترز أن مسؤولاً استخباراتياً بارزاً في إدارة دونالد ترامب حذر من تكثيف طهران لجهودها الرامية لاستهداف أفراد أمريكيين. وادعى المسؤول أن المخططات الإيرانية ضد مواطنين أمريكيين بلغت \"مراحل متقدمة\"."
+   ]
+  },
+  {
+   "id": "f56de373bb17",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043672/pakistan-pushing-for-diplomacy-amid-global-tensions",
+   "date": "2026-11-11T01:25:18Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Pakistan pushing for diplomacy amid global tensions",
+   "title_en": "Pakistan pushing for diplomacy amid global tensions",
+   "summary_en": "Speaking at the Margalla Dialogue, Pakistani Deputy Prime Minister Ishaq Dar emphasized that domestic strength and effective diplomacy are vital for navigating an uncertain global order. He reiterated Pakistan's pursuit of regional peace and dialogue, while international scholars addressed broader geopolitical shifts and conflicts involving the US, Iran, and Israel.",
+   "body_en": [
+    "Addressing the Margalla Dialogue 2026, Dar highlighted rising pressures on international security due to great-power rivalries and the erosion of arms control agreements. He affirmed that Pakistan remains focused on constructive diplomatic engagement with major partners, including China and the United States, as well as regional ties with countries such as Saudi Arabia, Turkey, and Iran. He also stated that Pakistan's hosting of US-Iran talks in April reflected its commitment to peaceful conflict resolution, while warning of regional issues like cross-border Afghan terrorism and disputes with India.",
+    "During the panel sessions, international scholar John Mearsheimer argued that the emerging multipolar world features three great powers: the US, China, and Russia. Criticizing Washington's foreign policy under Donald Trump, Mearsheimer asserted that the US cannot defeat Iran and termed Israel's military campaign in Gaza a US-backed genocide. Middle East scholar Vali Nasr added that Iranian resilience had undermined American and Israeli objectives, while noting that lingering tensions still present strategic risks across the region."
+   ],
+   "title_fa": "تأکید پاکستان بر دیپلماسی در بحبوحه تنش‌های جهانی",
+   "summary_fa": "اسحاق دار، معاون نخست‌وزیر پاکستان، در سخنرانی خود در همایش گفت‌وگوی مارگالا تأکید کرد که توانمندی داخلی و دیپلماسی مؤثر برای مواجهه با نظم نامشخص جهانی حیاتی است. وی بر تعهد پاکستان به صلح منطقه‌ای و گفتگو تأکید کرد، در حالی که پژوهشگران بین‌المللی به بررسی تحولات ژئوپلیتیکی و درگیری‌های مربوط به آمریکا، ایران و اسرائیل پرداختند.",
+   "body_fa": [
+    "اسحاق دار در جریان سخنرانی در همایش مارگالا ۲۰۲۶ به فشارهای فزاینده بر ساختار امنیتی جهان به سبب رقابت قدرت‌های بزرگ و تضعیف توافق‌های کنترل تسلیحات اشاره کرد. او تأکید کرد که پاکستان رویکرد تعامل دیپلماتیک سازنده با شرکای بزرگ از جمله چین و ایالات متحده، و نیز گسترش همکاری با عربستان سعودی، ترکیه و ایران را دنبال می‌کند. وی همچنین با اشاره به میزبانی اسلام‌آباد از مذاکرات فروردین‌ماه میان آمریکا و ایران، آن را نمادی از تلاش برای حل مسالمت‌آمیز مناقشات خواند و درباره چالش‌های امنیتی منطقه مانند تروریسم برخاسته از خاک افغانستان هشدار داد.",
+    "در دیگر بخش‌های این نشست، جان مرشایمر، پژوهشگر دانشگاه شیکاگو، اظهار داشت که نظام بین‌الملل چندقطبی کنونی بر پایه سه قدرت بزرگ یعنی آمریکا، چین و روسیه شکل گرفته است. او با انتقاد از سیاست‌های واشینگتن در دوران دونالد ترامپ، تأکید کرد که آمریکا در جنگ با ایران به پیروزی نخواهد رسید و اقدامات اسرائیل در غزه را مصداق نسل‌کشی با حمایت واشینگتن خواند. همچنین ولی نصر، دیگر پژوهشگر حاضر، مقاومت و تدابیر ایران را عاملی در ناکامی برنامه‌های آمریکا و اسرائیل ارزیابی کرد."
+   ],
+   "title_ar": "باكستان تدعو إلى الدبلوماسية وسط التوترات العالمية",
+   "summary_ar": "أكد نائب رئيس الوزراء الباكستاني إسحاق دار خلال مؤتمر «حوار مارغالا» أن القوة الداخلية والدبلوماسية الفعالة ضروريتان للتعامل مع النظام العالمي غير المستقر. وشدد على سعي باكستان لتحقيق السلام الإقليمي والحلول الدبلوماسية، بينما ناقش باحثون دوليون التحولات الجيوسياسية والصراعات المرتبطة بالولايات المتحدة وإيران وإسرائيل.",
+   "body_ar": [
+    "أشار إسحاق دار خلال كلمته في «حوار مارغالا ٢٠٢٦» إلى الضغوط المتصاعدة على الأمن الدولي نتيجة تنافس القوى الكبرى وتراجع اتفاقيات الحد من التسلح. وأوضح أن باكستان تركز على الانخراط الدبلوماسي البناء مع شركائها الأساسيين كالصين والولايات المتحدة، وتوسيع التعاون مع السعودية وتركيا وإيران. كما اعتبر أن رعاية باكستان لمحادثات إسلام آباد بين واشنطن وطهران في أبريل تعكس التزامها بحل النزاعات عبر الحوار، محذراً في الوقت نفسه من التحديات الأمنية مثل الإرهاب القادم من الأراضي الأفغانية.",
+    "وشهدت جلسات الحوار مداخلة للأكاديمي جون ميرشايمر، الذي اعتبر أن العالم بات متعدد الأقطاب بقيادة الولايات المتحدة والصين وروسيا. وانتقد ميرشايمر سياسات دونالد ترامب، مؤكداً أن واشنطن عاجزة عن هزيمة إيران، ووصف العمليات الإسرائيلية في غزة بالإبادة الجماعية المدعومة أميركياً. من جهته، لفت الباحث في شؤون الشرق الأوسط ولي نصر إلى أن صمود إيران أفشل مخططات واشنطن وإسرائيل، محذراً من استمرار المخاطر الأمنية في المنطقة."
+   ]
+  },
+  {
+   "id": "ca1191f7ce63",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/all-i-can-do-hug-my-children-and-cry-palestinians-gaza-face-deadly",
+   "date": "2026-11-11T00:53:04Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 7,
+   "title": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods",
+   "title_en": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods",
+   "summary_en": "Severe rainfall and winter flooding are exacerbating humanitarian conditions for displaced families in Gaza, who are largely sheltering in tents and damaged houses.",
+   "body_en": [
+    "Speaking to Middle East Eye, Palestinian journalist Nada Nabil stated that residents who previously welcomed the rains now fear them. She described how displaced mothers have been left with no choice but to weep with their children while hoping for better weather.",
+    "The floods take place while Israel continues to restrict the entry of humanitarian supplies into Gaza despite a ceasefire. Obstructions have affected the delivery of vital goods such as tents, blankets, and materials required to fix damaged infrastructure."
+   ],
+   "title_fa": "«تنها کاری که می‌توانم بکنم در آغوش گرفتن فرزندانم و گریستن است»: فلسطینی‌ها در غزه با سیلاب‌های مرگبار زمستانی روبه‌رو هستند",
+   "summary_fa": "بارش‌های سنگین و سیلاب‌های زمستانی شرایط زیستی خانواده‌های آواره در غزه را که عمدتاً در چادرها و خانه‌های آسیب‌دیده زندگی می‌کنند، به شدت وخیم‌تر کرده است.",
+   "body_fa": [
+    "ندا نبیل، روزنامه‌نگار فلسطینی، در گفتگو با میدل ایست آی گفت مردمی که پیش از این از بارش باران استقبال می‌کردند، اکنون از آن وحشت دارند. او روایتی از مادرانی نقل کرد که در مواجهه با سیل تنها فرزندانشان را در آغوش گرفته و اشک می‌ریزند و به بازگشت آفتاب امید می‌بندند.",
+    "این سیلاب‌ها در شرایطی جاری شده‌اند که اسرائیل با وجود برقراری آتش‌بس، همچنان مانع ورود کمک‌های بشردوستانه ضروری به نوار غزه می‌شود. اقلام مسدودشده شامل چادر، پتو و مصالح لازم برای تعمیر زیرساخت‌های تخریب‌شده است."
+   ],
+   "title_ar": "«كل ما يمكنني فعله هو معانقة أطفالي والبكاء»: الفلسطينيون في غزة يواجهون فيضانات شتوية مميتة",
+   "summary_ar": "أدت الأمطار الغزيرة وفيضانات الشتاء إلى تفاقم الأوضاع الصعبة للعائلات النازحة في قطاع غزة، حيث يقيم معظمهم في الخيام والمنازل المتضررة.",
+   "body_ar": [
+    "وقالت الصحفية الفلسطينية ندى نبيل، في حديث لموقع \"ميدل إيست آي\"، إن السكان الذين كانوا يرحبون بالأمطار في السابق باتوا يخشونها اليوم، وروت كيف تلجأ أمهات نازحات إلى معانقة أطفالهن والبكاء على أمل تحسن الأحوال الجوية.",
+    "وتأتي هذه الفيضانات في وقت تواصل فيه إسرائيل عرقلة دخول المساعدات الإنسانية الحيوية إلى قطاع غزة رغم وقف إطلاق النار، بما في ذلك الخيام والبطانيات والمواد اللازمة لإصلاح البنية التحتية المتضررة."
+   ]
+  },
   {
    "id": "b576f5730f2a",
    "lang": "en",
@@ -88,6 +262,33 @@
    "body_ar": [
     "وفقاً لوثائق الاتهام الأمريكية، وجّه المواطن العراقي محمد علي الحسني أفراداً للتوجه إلى القاعدة بشاحنات بيضاء محملة بالوقود ومموهة كسيارات توصيل، ودفع أموالاً لشراء قطع معدنية لاستخدامها كشظايا. كما اتُّهم محمد باقر سعد داود السعدي، وهو مواطن يحمل الجنسيتين الإيرانية والعراقية ومسجون حالياً في نيويورك بتهم إرهاب، بتمرير رسائل مشفرة للتنسيق مع الحسني والمواطن الإيراني محسن مهاجري. وعقب الحادثة، سحبت الولايات المتحدة جميع قاذفاتها من طراز «بي-1» من القاعدة.",
     "وتشمل لائحة الاتهام ثماني تهم، من بينها التآمر لتقديم دعم مادي للحرس الثوري الإيراني وكتائب حزب الله وارتكاب أعمال إرهابية. وكانت السلطات الأمريكية قد اتهمت السعدي سابقاً بالمسؤولية عن عشرات الهجمات التي استهدفت مصالح أمريكية وإسرائيلية في أوروبا وكندا، في حين وجهت الشرطة البريطانية الشهر الماضي اتهامات لشخصين بريطانيين على خلفية القضية نفسها."
+   ]
+  },
+  {
+   "id": "0ddd8c92b4bd",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/japan-pledges-197m-support-gaza-health-response",
+   "date": "2026-11-10T23:05:46Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Japan pledges $1.97m to support Gaza health response",
+   "title_en": "Japan pledges $1.97m to support Gaza health response",
+   "summary_en": "Japan has signed an agreement with the World Health Organization to contribute approximately $1.97 million to aid the health response in Gaza.",
+   "body_en": [
+    "The agreement was signed in Ramallah between Katsuhiko Araike, Japan’s representative to Palestine, and Reinhilde Van De Weerdt, the WHO representative in the occupied Palestinian territory. The funding includes the establishment of an Emergency Medical Team coordination cell within the health ministry's Emergency Operations Centre in Gaza City."
+   ],
+   "title_fa": "کمک ۱.۹۷ میلیون دلاری ژاپن برای حمایت از بخش بهداشت و درمان غزه",
+   "summary_fa": "ژاپن توافق‌نامه‌ای با سازمان جهانی بهداشت به منظور ارائه حدود ۱.۹۷ میلیون دلار کمک برای حمایت از بخش بهداشت و درمان غزه امضا کرد.",
+   "body_fa": [
+    "این توافق‌نامه در رام‌الله میان کاتسوهیکو آرایکه، نماینده ژاپن در فلسطین، و رینهیلده فان دی ویرت، نماینده سازمان جهانی بهداشت در اراضی اشغالی فلسطین به امضا رسید. بخشی از این کمک مالی به ایجاد یک واحد هماهنگی تیم‌های پزشکی اضطراری در مرکز عملیات اضطراری وزارت بهداشت در شهر غزه اختصاص دارد."
+   ],
+   "title_ar": "اليابان تتعهد بتقديم 1.97 مليون دولار لدعم الاستجابة الصحية في غزة",
+   "summary_ar": "وقعت اليابان اتفاقية مع منظمة الصحة العالمية لتقديم نحو 1.97 مليون دولار لدعم الاستجابة الصحية في قطاع غزة.",
+   "body_ar": [
+    "وقع الاتفاقية في رام الله ممثل اليابان لدى فلسطين، كاتسوهيكو أرايكي، وممثلة منظمة الصحة العالمية في الأراضي الفلسطينية المحتلة، راينهيلد فان دي ويردت. وتشمل المنحة إنشاء خلية لتنسيق فرق الطوارئ الطبية داخل مركز عمليات الطوارئ التابع لوزارة الصحة في مدينة غزة."
    ]
   },
   {
