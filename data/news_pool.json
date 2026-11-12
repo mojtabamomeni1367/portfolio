@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:21:08Z",
+ "updated": "2026-11-12T19:17:51Z",
  "items": [
   {
    "id": "61c8704b89d7",
@@ -3185,7 +3185,8 @@
     "SYR"
    ],
    "desc": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
-   "score": 7
+   "score": 7,
+   "skip": true
   },
   {
    "id": "5216b2800c98",
@@ -3227,6 +3228,256 @@
    ],
    "desc": "Modi is also set to join Australian Prime Minister Anthony Albanese, U.S. President Donald Trump, and Japanese Prime Minister Sanae Takaichi for the annual Quad summit in Manila. There is, however, no official word on the Quad summit.",
    "score": 5
+  },
+  {
+   "id": "13bc8e32359a",
+   "title": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T16:56:31Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Authorities say the driver lost control and collided with 23 vehicles including five trucks in the traffic.",
+   "score": 2
+  },
+  {
+   "id": "097549300596",
+   "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
+   "date": "2026-11-12T18:41:40Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+   "score": 4
+  },
+  {
+   "id": "80aabde9b327",
+   "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+   "date": "2026-11-12T18:03:02Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+   "score": 8,
+   "dup_of": "83ea9ec09a01"
+  },
+  {
+   "id": "4717fd30c3c9",
+   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+   "date": "2026-11-12T17:18:13Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+   "score": 6,
+   "dup_of": "ca1191f7ce63"
+  },
+  {
+   "id": "6d7a7fcb4733",
+   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "date": "2026-11-12T16:55:10Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+   "score": 8,
+   "dup_of": "7cf80c14f947"
+  },
+  {
+   "id": "fe9c35182c21",
+   "title": "Prominent Israeli settler denied entry into France",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+   "date": "2026-11-12T16:44:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
+   "score": 4
+  },
+  {
+   "id": "ba5051daf5e0",
+   "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+   "date": "2026-11-12T16:23:29Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
+   "score": 2,
+   "dup_of": "13bc8e32359a"
+  },
+  {
+   "id": "9f4ce0f61e18",
+   "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+   "date": "2026-11-12T16:07:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
+   "score": 6
+  },
+  {
+   "id": "b7bc394f2cf5",
+   "title": "The Guardian view on Gaza’s misery: don’t let Palestinian deaths mount in this bleak winter | Editorial",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
+   "date": "2026-11-12T18:54:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The formation of a new Israeli government won’t stop the killing, but sustained international pressure must be applied What do you call a ceasefire when the firing has not ceased? The killings in Gaza decreased when the truce was announced last October, but they did not end. Israel’s strike on Thursday morning on one of the few remaining functioning hospitals , which killed six people and wounded 28 more, was the first on a healthcare facility since then. But it was not an anomaly. About four Palestinians a day have died on average since the ceasefire was declared. The Israeli military said th",
+   "score": 4
+  },
+  {
+   "id": "ea6dde997f9d",
+   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+   "date": "2026-11-12T18:00:50Z",
+   "countries": [
+    "EGY",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt. Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses. Continue reading...",
+   "score": 3
+  },
+  {
+   "id": "4d8ff38b773e",
+   "title": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
+   "date": "2026-11-12T17:43:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. The announcement comes a day after France confirmed it had refused entry to the head of a body representing settlements in the occupied West Bank.",
+   "score": 4
+  },
+  {
+   "id": "45408cecfc14",
+   "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
+   "date": "2026-11-12T16:18:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
+   "score": 8,
+   "dup_of": "7cf80c14f947"
+  },
+  {
+   "id": "a4efeb19bb8d",
+   "title": "Military helicopter crashes in southern Turkey, killing 4",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/turkiye-samankoy-army-helicopter-crash-personnel-killed/article71695300.ece",
+   "date": "2026-11-12T18:15:01Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The aircraft crashed for unknown reasons in Samankoy, a neighbourhood on the southern outskirts of the provincial capital Malatya in the evening",
+   "score": 4
+  },
+  {
+   "id": "bfd398f827b5",
+   "title": "No need for Opposition approval to launch strikes, says Israel’s Katz",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/no-need-for-opposition-approval-to-launch-strikes-says-israels-katz/article71695100.ece",
+   "date": "2026-11-12T17:37:55Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Opposition leader Gadi Eisenkot urged caretaker PM Netanyahu to show restraint, warning that force without a “direct and immediate threat” could have “disastrous consequences for Israeli democracy and citizens’ trust”",
+   "score": 7
+  },
+  {
+   "id": "a0b8d5b0efd5",
+   "title": "Trump says U.S. does not ‘need a deal with Iran’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
+   "date": "2026-11-12T17:32:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official",
+   "score": 8,
+   "dup_of": "9e442ecebe20"
+  },
+  {
+   "id": "d178d24dc219",
+   "title": "Amidst simmering tensions, India-Bangladesh consular dialogue postponed",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/amidst-simmering-tensions-india-bangladesh-consular-dialogue-postponed/article71694931.ece",
+   "date": "2026-11-12T16:43:35Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "This would have been the fifth such consular dialogue and the first after the August 2024 uprising; postponement due to tensions over former PM Hasina’s plan to return to Bangladesh next month",
+   "score": 6
+  },
+  {
+   "id": "dce6972036a6",
+   "title": "دو مرد ایرانی در بریتانیا در پرونده نقشه حمله به روزنامه‌نگاران، به جاسوسی برای ایران مجرم شناخته شدند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6x2wylr30vro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T16:35:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "دو مرد ایرانی در بریتانیا به اتهام جاسوسی برای یکی از نهادهای اطلاعاتی ایران از طریق زیر نظر گرفتن روزنامه‌نگاران و یک وکیل، در دادگاه مجرم شناخته شدند.",
+   "score": 6
+  },
+  {
+   "id": "70bf7425b0b6",
+   "title": "ترامب يقول إنه ليس بحاجة لاتفاق مع إيران، وبريطانيا تدين إيرانيين بالتجسس",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3greyy5nvq0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T16:59:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "ترامب يشير مجدداً إلى عدم وجود نية لشن حرب جديدة مع إيران وبريطانيا تدين رجلين إيرانيين بالتجسس لصالح الحرس الثوري",
+   "score": 8,
+   "dup_of": "a0b8d5b0efd5"
   }
  ]
 }
