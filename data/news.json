@@ -1,7 +1,185 @@
 {
- "updated": "2026-11-12T04:12:37Z",
- "count": 437,
+ "updated": "2026-11-12T07:36:58Z",
+ "count": 444,
  "items": [
+  {
+   "id": "82f162b978d0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/palestinian-families-brace-expulsion-settlers-erect-outpost-near-west-bank-village",
+   "date": "2026-11-12T07:08:36Z",
+   "countries": [
+    "ISR",
+    "JOR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinian families brace for expulsion as settlers erect outpost near West Bank village",
+   "title_en": "Palestinian families brace for expulsion as settlers erect outpost near West Bank village",
+   "summary_en": "Palestinian residents in the Jordan Valley are facing heightened intimidation and threats of displacement after Israeli settlers erected a new outpost nearby.",
+   "body_en": [
+    "Around 80 Palestinian families living on a remote hillside in the al-Shuneh cluster near Jiftlik report escalating attacks, constant monitoring by drones, and direct threats from settlers. According to residents, masked settlers encircled homes and told them they would be forced out.",
+    "The Colonisation and Wall Resistance Commission stated that settlers attempted to establish 28 new outposts and carried out 1,369 attacks across the West Bank in October alone. Outposts of this nature are considered illegal under both domestic Israeli law and international law."
+   ],
+   "title_fa": "آمادگی خانواده‌های فلسطینی برای اخراج همزمان با ایجاد پاسگاه شهرک‌نشینان در نزدیکی روستایی در کرانه باختری",
+   "summary_fa": "روستاییان فلسطینی در دره اردن پس از برپایی یک پاسگاه جدید توسط شهرک‌نشینان اسرائیلی در نزدیکی مناطق مسکونی خود، با تشدید ارعاب و تهدید به جابجایی روبرو هستند.",
+   "body_fa": [
+    "حدود ۸۰ خانواده فلسطینی ساکن در یک تپه دورافتاده در منطقه الشونه در نزدیکی جفتلیک از تشدید حملات، پایش مداوم با پهپادها و تهدید مستقیم توسط شهرک‌نشینان خبر می‌دهند. به گفته ساکنان، شهرک‌نشینان نقاب‌دار خانه‌ها را محاصره کرده و به آن‌ها گفته‌اند که مجبور به ترک منطقه خواهند شد.",
+    "کمیسیون مقاومت در برابر دیوار و شهرک‌سازی اعلام کرد که شهرک‌نشینان تنها در ماه اکتبر تلاش کرده‌اند ۲۸ پاسگاه جدید ایجاد کنند و ۱,۳۶۹ حمله در سراسر کرانه باختری انجام داده‌اند. این‌گونه پاسگاه‌ها هم بر اساس قوانین داخلی اسرائیل و هم حقوق بین‌الملل غیرقانونی به شمار می‌روند."
+   ],
+   "title_ar": "عائلات فلسطينية تستعد للتهجير مع إقامة المستوطنين بؤرة قرب قرية بالضفة الغربية",
+   "summary_ar": "يواجه السكان الفلسطينيون في غور الأردن تصاعداً في أعمال الترهيب والتهجير بعد أن أقام مستوطنون إسرائيليون بؤرة جديدة بالقرب من منازلهم.",
+   "body_ar": [
+    "تقريباً تعيش 80 عائلة فلسطينية على تل ناءٍ في تجمع الشونة قرب جفتلك، وتشتكي من تصاعد الاعتداءات والمراقبة المستمرة بواسطة الطائرات المسيرة والتهديدات المباشرة من قبل المستوطنين. ووفقاً للسكان، فقد حاصر مستوطنون ملثمون المنازل وأبلغوهم أنه سيتم تهجيرهم قسراً.",
+    "وذكرت هيئة مقاومة الجدار والاستيطان أن المستوطنين حاولوا إنشاء 28 بؤرة جديدة وارتكبوا 1369 اعتداءً في جميع أنحاء الضفة الغربية خلال شهر أكتوبر وحده. وتُعد هذه البؤر غير قانونية بموجب كل من القانون الإسرائيلي الداخلي والقانون الدولي."
+   ]
+  },
+  {
+   "id": "874dbd35e902",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
+   "date": "2026-11-12T06:37:06Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "score": 7,
+   "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
+   "title_en": "Sheikh Hasina must return to Bangladesh to face her sentence",
+   "summary_en": "A year after Bangladesh's International Crimes Tribunal sentenced ousted prime minister Sheikh Hasina in absentia to death, analysts and victims' families continue to demand her extradition from India.",
+   "body_en": [
+    "In November 2025, Bangladesh's International Crimes Tribunal found Hasina guilty of crimes against humanity and incitement of lethal force during the 2024 uprising, sentencing her in absentia. The UN HumanR ights Office previously estimated that about 1,400 people were killed and thousands injured during the unrest.",
+    "While Bangladesh has officially requested her extradition, Hasina remains in India, where she has continued political activities. Observers note that her continued presence and political commentary abroad complicate Bangladesh's democratic transition and efforts to restore the rule of law."
+   ],
+   "title_fa": "شیخ حسینه باید برای تحمل محکومیت خود به بنگلادش بازگردد",
+   "summary_fa": "یک سال پس از صدور حکم اعدام غیابی برای شیخ حسینه، نخست‌وزیر برکنارشده بنگلادش، توسط دادگاه جرایم بین‌المللی این کشور، تحلیلگران و خانواده‌های قربانیان همچنان خواستار استرداد وی از هند هستند.",
+   "body_fa": [
+    "در نوامبر ۲۰۲۵، دادگاه جرایم بین‌المللی بنگلادش شیخ حسینه را به جرم جنایات علیه بشریت و تحریک به استفاده از زور مرگبار در جریان اعتراضات سال ۲۰۲۴ گناهکار شناخت و به صورت غیابی محکوم کرد. دفتر حقوق بشر سازمان ملل پیش‌تر تخمین زده بود که حدود ۱۴۰۰ نفر در جریان آن ناآرامی‌ها کشته و هزاران تن زخمی شدند.",
+    "در حالی که بنگلادش رسماً درخواست استرداد وی را داده است، حسینه همچنان در هند باقی مانده و به فعالیت‌های سیاسی خود ادامه می‌دهد. ناظران خاطرنشان می‌کنند که حضور مداوم و اظهارات سیاسی وی در خارج از کشور، گذار دموکراتیک بنگلادش و تلاش‌ها برای بازگرداندن حاکمیت قانون را پیچیده می‌کند."
+   ],
+   "title_ar": "يجب على شيخة حسينة العودة إلى بنغلاديش لتنفيذ حكمها",
+   "summary_ar": "بعد مرور عام على إصدار المحكمة الجنائية الدولية في بنغلاديش حكماً غيابياً بالإعدام بحق رئيسة الوزراء المخلوعة شيخة حسينة، يواصل المحللون وعائلات الضحايا المطالبة بتسليمها من الهند.",
+   "body_ar": [
+    "في نوفمبر 2025، أدانت المحكمة الجنائية الدولية في بنغلاديش شيخة حسينة بارتكاب جرائم ضد الإنسانية والتحريض على استخدام القوة المميتة خلال انتفاضة عام 2024، وحكمت عليها غيابياً. وكانت مفوضية حقوق الإنسان التابعة للأمم المتحدة قد قدرت سابقاً مقتل نحو 1400 شخص وإصابة الآلاف خلال الاضطرابات.",
+    "وفي الوقت الذي طالبت فيه بنغلاديش رسمياً بتسليمها، لا تزال حسينة تقيم في الهند حيث تواصل نشاطاتها السياسية. ويشير المراقبون إلى أن استمرار وجودها وتعليقاتها السياسية من الخارج يعقّدان الانتقال الديمقراطي في بنغلاديش والجهود الرامية إلى استعادة سيادة القانون."
+   ]
+  },
+  {
+   "id": "73ec8026b3fd",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044008/war-poverty-repression-stalk-yemens-ancient-capital",
+   "date": "2026-11-12T06:06:20Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 6,
+   "title": "War, poverty, repression stalk Yemen's ancient capital",
+   "title_en": "War, poverty, repression stalk Yemen's ancient capital",
+   "summary_en": "Residents in the Houthi-controlled Yemeni capital of Sanaa face severe economic hardship, collapsed public services, and intense political repression.",
+   "body_en": [
+    "Since the Houthi movement seized Sanaa in 2014, residents have suffered from severe inflation, irregular salary payments, and chronic power and water shortages. The collapse of the education system and rising living costs have forced many youths to drop out of school, while recent airstrikes have further worsened living conditions.",
+    "Inhabitants also report an atmosphere of intense fear and a lack of freedom of expression under Houthi rule. Former academics note that the city's diverse cultural identity is being systematically altered through ideological changes and strict censorship."
+   ],
+   "title_fa": "جنگ، فقر و سرکوب در پایتخت باستانی یمن",
+   "summary_fa": "ساکنان صنعا، پایتخت یمن که تحت کنترل حوثی‌هاست، با سختی‌های شدید اقتصادی، فروپاشی خدمات عمومی و سرکوب شدید سیاسی روبرو هستند.",
+   "body_fa": [
+    "از زمان تصرف صنعا توسط جنبش حوثی‌ها در سال ۲۰۱۴، ساکنان از تورم شدید، پرداخت نامنظم حقوق و کمبود مزمن برق و آب رنج برده‌اند. فروپاشی سیستم آموزشی و افزایش هزینه‌های زندگی بسیاری از جوانان را مجبور به ترک تحصیل کرده است، در حالی که حملات هوایی اخیر شرایط زندگی را بیشتر وخیم‌تر کرده است.",
+    "ساکنان همچنین از فضای شدید ترس و عدم آزادی بیان تحت حکومت حوثی‌ها گزارش می‌دهند. آکادمیسین‌های سابق خاطرنشان می‌کنند که هویت فرهنگی و متنوع شهر به طور سیستماتیک از طریق تغییرات ایدئولوژیک و سانسور شدید در حال دگرگونی است."
+   ],
+   "title_ar": "الحرب والفقر والقمع تلاحق عاصمة اليمن التاريخية",
+   "summary_ar": "يواجه سكان العاصمة اليمنية صنعاء، الخاضعة لسيطرة الحوثيين، صعوبات اقتصادية حادة وانهياراً في الخدمات العامة وقمعاً سياسياً شديداً.",
+   "body_ar": [
+    "منذ سيطرة الحوثيين على صنعاء في عام 2014، عانى السكان من التضخم الشديد وعدم انتظام صرف الرواتب ونقص حاد في الكهرباء والمياه. وقد أدى انهيار منظومة التعليم وارتفاع تكاليف المعيشة إلى تسرب العديد من الشباب من المدارس، بينما أدت الغارات الجوية الأخيرة إلى تفاقم الظروف المعيشية سوءاً.",
+    "كما يشير السكان إلى أجواء من الخوف الشديد وغياب حرية التعبير في ظل حكم الحوثيين. ويشير أكاديميون سابقون إلى أن الهوية الثقافية المتنوعة للمدينة يتم تغييرها بشكل ممنهج عبر التعديلات الأيديولوجية والرقابة الصارمة."
+   ]
+  },
+  {
+   "id": "7e400eb14727",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uaes-ras-al-khaimah-reopens-number-beaches-after-oil-spill-tanker",
+   "date": "2026-11-12T05:53:29Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 5,
+   "title": "UAE's Ras Al Khaimah reopens a number of beaches after oil spill from tanker",
+   "title_en": "UAE's Ras Al Khaimah reopens a number of beaches after oil spill from tanker",
+   "summary_en": "Authorities in Ras Al Khaimah have reopened several beaches following closures caused by an oil spill from a tanker damaged in the Gulf last month.",
+   "body_en": [
+    "The beaches were initially closed after the tanker suffered damage in a suspected attack in the Gulf during the previous month, leading to the oil spill."
+   ],
+   "title_fa": "امارت راس‌الخیمه در امارات متحده عربی پس از نشت نفت از یک نفتکش، تعدادی از سواحل را بازگشایی کرد",
+   "summary_fa": "مقامات امارت راس‌الخیمه در امارات متحده عربی از بازگشایی چندین ساحل خبر دادند که پیش‌تر به دلیل نشت نفت از یک نفتکش آسیب‌دیده در خلیج فارس بسته شده بودند.",
+   "body_fa": [
+    "این سواحل پس از آن بسته شده بودند که یک نفتکش ماه گذشته در پی یک حمله احتمالی در خلیج فارس آسیب دید و نشت نفت رخ داد."
+   ],
+   "title_ar": "إمارة رأس الخيمة في الإمارات تعيد فتح عدد من الشواطئ بعد تسرب نفطي من ناقلة",
+   "summary_ar": "أعلنت السلطات في إمارة رأس الخيمة بالإمارات العربية المتحدة إعادة فتح عدة شواطئ بعد إغلاقها إثر تسرب نفطي من ناقلة تضررت جراء هجوم مشتبه به في الخليج الشهر الماضي.",
+   "body_ar": [
+    "وكانت الشواطئ قد أُغلقت في البداية بعد تعرض الناقلة لأضرار نتيجة هجوم مشتبه به في الخليج خلال الشهر الماضي، مما أدى إلى حدوث التسرب النفطي."
+   ]
+  },
+  {
+   "id": "1eb769e4a8be",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043859/ppp-has-no-objection-to-creation-of-new-provinces-except-in-sindh-cm-murad",
+   "date": "2026-11-12T04:58:45Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "PPP has no objection to creation of new provinces, except in Sindh: CM Murad",
+   "title_en": "PPP has no objection to creation of new provinces, except in Sindh: CM Murad",
+   "summary_en": "Sindh Chief Minister Syed Murad Ali Shah stated that the Pakistan Peoples Party has no objection to creating new provinces outside Sindh, but firmly rejected the division of Sindh.",
+   "body_en": [
+    "Speaking in Makli, Syed Murad Ali Shah emphasized that the division of Sindh is neither legally nor politically acceptable and that the province's boundaries cannot be altered against the will of its people.",
+    "He also addressed water-sharing concerns, stating that Sindh's water distribution case is before the Council of Common Interests and rejecting claims that the province is responsible for water shortages."
+   ],
+   "title_fa": "حزب مردم پاکستان مخالفتی با ایجاد استان‌های جدید به جز در سند ندارد؛ سلب‌کننده مراد",
+   "summary_fa": "سید مراد علی شاه، سلب‌کننده ایالت سند، اعلام کرد که حزب مردم پاکستان هیچ مخالفتی با ایجاد استان‌های جدید در سایر نقاط کشور ندارد، اما تقسیم سند را قاطعانه رد کرد.",
+   "body_fa": [
+    "سید مراد علی شاه در مکلی تأکید کرد که تقسیم سند از نظر قانونی و سیاسی قابل قبول نیست و مرزهای این استان را نمی‌توان بر خلاف اراده مردم تغییر داد.",
+    "وی همچنین به مسئله تقسیم آب اشاره کرد و گفت که پرونده توزیع آب سند در شورای منافع مشترک مطرح است و اتهامات وارده مبنی بر مسئولیت این استان در کمبود آب را رد کرد."
+   ],
+   "title_ar": "حزب الشعب ليس لديه اعتراض على إنشاء مقاطعات جديدة باستثناء سند، وفقاً لرئيس الوزراء مراد",
+   "summary_ar": "صرح رئيس وزراء إقليم سند سيد مراد علي شاه بأن حزب الشعب الباكستاني ليس لديه أي اعتراض على إنشاء مقاطعات جديدة في أجزاء أخرى من البلاد، لكنه رفض بشدة تقسيم إقليم سند.",
+   "body_ar": [
+    "وأكد سيد مراد علي شاه، خلال حديثه في مكتلي، أن تقسيم سند ليس مقبولاً لا قانونياً ولا سياسياً، مشدداً على عدم جواز تعديل حدود المقاطعة رغماً عن إرادة شعبها.",
+    "وتناول أيضاً قضية تقاسم المياه، مشيراً إلى أن قضية توزيع المياه الخاصة بسند مطروحة أمام مجلس المصالح المشتركة، رافضا الاتهامات الموجهة للمقاطعة بأنها مسؤولة عن نقص المياه."
+   ]
+  },
+  {
+   "id": "9b276c882dfe",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-pezeshkian-says-iran-wants-compensation-environmental-damage-us",
+   "date": "2026-11-12T04:52:53Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Watch: Pezeshkian says Iran wants compensation for environmental damage from US-Israeli attacks",
+   "title_en": "Watch: Pezeshkian says Iran wants compensation for environmental damage from US-Israeli attacks",
+   "summary_en": "Iranian President Masoud Pezeshkian stated that Tehran is seeking compensation for environmental damage resulting from US and Israeli strikes.",
+   "body_en": [
+    "Speaking at the COP31 climate conference on Wednesday, Iranian President Masoud Pezeshkian noted that this demand is connected to broader global efforts to address climate change."
+   ],
+   "title_fa": "تماشا: پزشکیان می‌گوید ایران خواهان غرامت برای آسیب‌های زیست‌محیطی ناشی از حملات آمریکا و اسرائیل است",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد که تهران خواهان دریافت غرامت برای آسیب‌های زیست‌محیطی ناشی از حملات ایالات متحده و اسرائیل است.",
+   "body_fa": [
+    "مسعود پزشکیان، رئیس‌جمهور ایران، روز چهارشنبه در کنفرانس اقلیمی کوپ۳۱ اظهار داشت که این مطالبه با تلاش‌های جهانی برای مبارزه با تغییرات اقلیمی مرتبط است."
+   ],
+   "title_ar": "شاهد: بزشكيان يقول إن إيران تطالب بتعويضات عن الأضرار البيئية الناتجة عن الهجمات الأمريكية والإسرائيلية",
+   "summary_ar": "صرح الرئيس الإيراني مسعود بزشكيان بأن طهران تسعى للحصول على تعويضات عن الأضرار البيئية الناجمة عن الضربات الأمريكية والإسرائيلية.",
+   "body_ar": [
+    "وأشار الرئيس الإيراني مسعود بزشكيان، خلال حديثه في مؤتمر المناخ \"كوب 31\" يوم الأربعاء، إلى أن هذه المسألة ترتبط بالجهود العالمية المبذولة لمكافحة تغير المناخ."
+   ]
+  },
   {
    "id": "e5bcbb9d6d15",
    "lang": "en",
@@ -471,6 +649,36 @@
    "body_ar": [
     "وفقاً لوثائق مكتب الأمم المتحدة للشؤون الإنسانية (أوتشا) وبتسيلم، مقسمة الضفة الغربية بأكثر من 900 عائق للحركة، بما في ذلك الحواجز العسكرية والبوابات الحديدية والسواتر الترابية. وتعطل هذه الإجراءات روتینياً التنقلات اليومية لملايين الفلسطينيين، لا سيما حول رام الله والبيرة.",
     "يتم إغلاق الحواجز الرئيسية مثل بيت أيل بشكل منهجي خلال ساعات الذروة بعد الظهر لتطهير الطرق للمستوطنين الإسرائيليين. ويشير المحللون إلى أن هذه القيود لا تعمل كتدابير أمنية، بل كجهاز متعمد للسيطرة المكانية والعقاب الجماعي."
+   ]
+  },
+  {
+   "id": "923f1b3867c7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-taxpayer-group-calls-icc-investigate-trump-rubio-aiding-gaza-genocide",
+   "date": "2026-11-11T22:37:45Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 5,
+   "title": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+   "title_en": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+   "summary_en": "A coalition of US taxpayers and international human rights lawyers has urged the International Criminal Court to investigate President Donald Trump and Marco Rubio for allegedly aiding Israeli war crimes in Gaza.",
+   "body_en": [
+    "The submission, organized by the Taxpayer Alliance Against Genocide, includes sworn affidavits, eyewitness accounts, and extensive documentation regarding US military and diplomatic support for Israel.",
+    "Organizers stated that the evidence demonstrates Israel's military actions in Gaza could not have occurred without continuous backing from the United States."
+   ],
+   "title_fa": "گروه مالیاتی آمریکا از دیوان کیفری بین‌المللی خواست ترامپ و روبیو را به اتهام «کمک به نسل‌کشی» غزه بازجویی کند",
+   "summary_fa": "گروهی از مالیات‌دهندگان آمریکایی و وکلای بین‌المللی حقوق بشر از دیوان کیفری بین‌المللی خواسته‌اند تا دونالد ترامپ و مارکو روبیو را به اتهام کمک به جنایات جنگی اسرائیل در غزه مورد تحقیق قرار دهد.",
+   "body_fa": [
+    "این درخواست که توسط ائتلاف مالیات‌دهندگان علیه نسل‌کشی سازماندهی شده، شامل شهادت‌نامه‌های سوگندخورده، روایات شاهدان عینی و مستندات گسترده‌ای درباره حمایت‌های نظامی و دیپلماتیک ایالات متحده از اسرائیل است.",
+    "برگزارکنندگان اعلام کردند که این شواهد نشان می‌دهد اقدامات نظامی اسرائیل در غزه بدون پشتیبانی مستمر ایالات متحده امکان‌پذیر نبوده است."
+   ],
+   "title_ar": "مجموعة دافعي ضرائب أمريكيين تطالب الجنائية الدولية التحقيق مع ترامب وروبيو بتهمة \"المساعدة في إبادة\" غزة",
+   "summary_ar": "حثت مجموعة من دافعي الضرائب الأمريكيين ومحامي حقوق الإنسان الدوليين المحكمة الجنائية الدولية على التحقيق مع الرئيس دونالد ترامب وماركو روبيو بتهمة المساعدة في جرائم الحرب الإسرائيلية في غزة.",
+   "body_ar": [
+    "تتضمن الشكوى، التي نظمها تحالف دافعي الضرائب ضد الإبادة الجماعية، إفادات خطية مشفوعةبالقسم وشهادات شهود عيان وثائق واسعة النطاق بشأن الدعم العسكري والدبلوماسي الأمريكي لإسرائيل.",
+    "وذكر المنظمون أن الأدلة تثبت أن العمليات العسكرية الإسرائيلية في غزة ما كانت لتحدث لولا الدعم المستمر من الولايات المتحدة."
    ]
   },
   {
