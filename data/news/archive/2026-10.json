@@ -1,7 +1,885 @@
 {
  "month": "2026-10",
- "count": 165,
+ "count": 195,
  "items": [
+  {
+   "id": "4ec4098a07d9",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040402/netanyahu-set-to-remain-caretaker-prime-minister-after-inconclusive-israeli-election",
+   "date": "2026-10-28T18:57:35Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Netanyahu set to remain caretaker prime minister after inconclusive Israeli election",
+   "title_en": "Netanyahu set to remain caretaker prime minister after inconclusive Israeli election",
+   "summary_en": "Benjamin Netanyahu is poised to remain Israel's caretaker prime minister after his right-wing bloc secured 53 seats, leaving his opponents without a clear path to form a government.",
+   "body_en": [
+    "With nearly 86 percent of votes tallied, broadcasters projected that Netanyahu's bloc of right-wing and ultra-Orthodox parties would win 53 seats in the 120-seat Knesset, ahead of rival Gadi Eisenkot's opposition bloc with 48 seats. Meanwhile, Arab Israeli parties were projected to win an unprecedented 19 seats.",
+    "Netanyahu called for a strong right-wing national government and highlighted potential joint military action with US President Donald Trump against Iran. Meanwhile, the political uncertainty caused the shekel to weaken and Tel Aviv stock indexes to fall."
+   ],
+   "title_fa": "نتانیاهو پس از انتخابات بی‌نتیجه اسرائیل در مقام نخست‌وزیر موقت می‌ماند",
+   "summary_fa": "بنیامین نتانیاهو در پی کسب ۵۳ کرسی توسط ائتلاف راست‌گرایش آماده می‌شود تا در مقام نخست‌وزیر موقت اسرائیل باقی بماند، در حالی که مخالفان او مسیر روشنی برای تشکیل دولت ندارند.",
+   "body_fa": [
+    "با شمارش نزدیک به ۸۶ درصد آرا، شبکه‌های اصلی پیش‌بینی کردند که ائتلاف نتانیاهو ۵۳ کرسی در کنست ۱۲۰ کرسی به دست آورد و ائتلاف رقیب به رهبری گادی آیزنکوت ۴۸ کرسی کسب کند. در همین حال، پیش‌بینی شد که احزاب عرب اسرائیلی ۱۹ کرسی بی‌سابقه به دست آورند.",
+    "نتانیاهو خواستار تشکیل یک دولت ملی قدرتمند راست‌گرا شد و بر احتمال اقدام نظامی مشترک با دونالد ترامپ، رئیس‌جمهور آمریکا، علیه ایران تأکید کرد. در همین حال، بلاتکلیفی سیاسی باعث تضعیف ارزش شکل و سقوط شاخص‌های بورس تل‌آویو شد."
+   ],
+   "title_ar": "نتنياهو يستعد للبقاء رئيساً وزراء تسييراً للأعمال بعد انتخابات إسرائيلية غير حاسمة",
+   "summary_ar": "يستعد بنيامين نتنياهو للبقاء في منصب رئيس وزراء تسيير الأعمال في إسرائيل بعد أن حصل تكتله اليميني على 53 مقعداً، مما يترك معارضيه دون مسار واضح لتشكيل الحكومة.",
+   "body_ar": [
+    "مع فرز نحو 86 بالمائة من الأصوات، توقعت المحطات الإسرائيلية أن يفوز تكتل نتنياهو المؤلف من أحزاب يميناً ويهودية متشددة بـ 53 مقعداً في الكنيست المؤلف من 120 مقعداً، متقدماً على تكتل المعارضة المنافس بقيادة غادي آيزنكوت الذي حصل على 48 مقعداً. وفي الوقت نفسه، توقعت التوقعات فوز الأحزاب العربية الإسرائيلية بـ 19 مقعداً غير مسبوق.",
+    "دعا نتنياهو إلى تشكيل حكومة وطنية يميناً قوية، مسلطاً الضوء على احتمال القيام بعمل عسكري مشترك مع الرئيس الأمريكي دونالد ترامب ضد إيران. وفي الوقت نفسه، أدى عدم اليقين السياسي إلى تراجع العملة الإسرائيلية وهبوط مؤشرات الأسهم في تل أبيب."
+   ]
+  },
+  {
+   "id": "b370e6a7a3e8",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cw3djlk8deg9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T18:45:23Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "انتخابات اسرائیل؛ چشم‌ها به انتخاب هرتزوگ: نتانیاهو یا آیزنکوت؟",
+   "title_en": "Israeli elections; Eyes on Herzog: Netanyahu or Eisenkot?",
+   "summary_en": "Following an inconclusive Israeli election where Netanyahu's bloc secured 53 seats and Eisenkot's bloc won 48, attention has turned to President Isaac Herzog to decide who will be tasked with forming a government.",
+   "body_en": [
+    "With nearly 90 percent of votes counted, Netanyahu's right-wing and ultra-Orthodox bloc fell short of a majority with 53 seats, while Eisenkot's opposition bloc secured 48 seats. Meanwhile, Arab parties achieved an unprecedented 19 seats in the Knesset.",
+    "President Herzog must now consult party representatives and appoint a candidate to form a government, holding broad discretionary powers under Israeli law as he seeks to avoid repeating the elections."
+   ],
+   "title_fa": "انتخابات اسرائیل؛ چشم‌ها به انتخاب هرتزوگ: نتانیاهو یا آیزنکوت؟",
+   "summary_fa": "به دنبال یک انتخابات بی‌نتیجه در اسرائیل که در آن ائتلاف نتانیاهو ۵۳ کرسی و ائتلاف آیزنکوت ۴۸ کرسی به دست آوردند، توجه‌ها به اسحاق هرتسوگ، رئیس‌جمهور، دوخته شده است تا تصمیم بگیرد چه کسی مامور تشکیل دولت شود.",
+   "body_fa": [
+    "با شمارش نزدیک به ۹۰ درصد آرا، ائتلاف راست‌گرا و یهودیان بنیادگرا به رهبری نتانیاهو با ۵۳ کرسی از کسب اکثریت بازماندند و ائتلاف مخالف به رهبری آیزنکوت ۴۸ کرسی به دست آورد. در همین حال، احزاب عرب به ۱۹ کرسی بی‌سابقه در کنست دست یافتند.",
+    "رئیس‌جمهور هرتزوگ اکنون باید با نمایندگان احزاب مشورت کرده و نامزدی را برای تشکیل دولت معرفی کند و بر اساس قانون اسرائیل از اختیارات گسترده‌ای برخوردار است تا از تکرار انتخابات جلوگیری کند."
+   ],
+   "title_ar": "الانتخابات الإسرائيلية؛ الأنظار تتجه نحو هرتسوغ: نتنياهو أم آيزنكوت؟",
+   "summary_ar": "في أعقاب انتخابات إسرائيلية غير حاسمة حصل فيها تكتل نتنياهو على 53 مقعداً وتكتل آيزنكوت على 48 مقعداً، تحولت الأنظار إلى الرئيس إسحاق هرتسوغ لتحديد من سيتم تكليفه بتشكيل الحكومة.",
+   "body_ar": [
+    "مع فرز نحو 90 بالمائة من الأصوات، أخفق تكتل نتنياهو اليميني والمتشدد في تحقيق الأغلبية بحصوله على 53 مقعداً، بينما حصل تكتل المعارضة بقيادة آيزنكوت على 48 مقعداً. وفي الوقت نفسه، حققت الأحزاب العربية 19 مقعداً غير مسبوق في الكنيست.",
+    "يتعين على الرئيس هرتسوغ الآن التشاور مع ممثلي الأحزاب وتعيين مرشح لتشكيل الحكومة، مستنداً إلى صلاحيات تقديرية واسعة بموجب القانون الإسرائيلي بينما يسعى لتجنب تكرار الانتخابات."
+   ]
+  },
+  {
+   "id": "35aa35fd0861",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-palestinians-killed-israeli-drone-strikes-southern-gaza",
+   "date": "2026-10-28T18:01:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Three Palestinians killed in Israeli drone strikes in southern Gaza",
+   "title_en": "Three Palestinians killed in Israeli drone strikes in southern Gaza",
+   "summary_en": "Three Palestinians were killed and 10 others injured when Israeli warplanes struck a government facility in al-Mawasi in Rafah.",
+   "body_en": [
+    "Local sources reported that the strike on the Ministry of Economy facility occurred while employees and trader representatives were processing commercial transactions. An additional three people were wounded in a separate Israeli strike on the Nuseirat refugee camp in central Gaza."
+   ],
+   "title_fa": "سه فلسطینی در حملات پهپادی اسرائیل در جنوب غزه کشته شدند",
+   "summary_fa": "بر اثر حمله جنگنده‌های اسرائیلی به یک تأسیسات دولتی در المواسی واقع در رفح، سه فلسطینی کشته و ۱۰ نفر دیگر زخمی شدند.",
+   "body_fa": [
+    "منابع محلی گزارش دادند که حمله به تأسیسات وزارت اقتصاد در حالی رخ داد که کارمندان و نمایندگان بازرگانان در حال انجام تراکنش‌های تجاری بودند. در همین حال، سه نفر دیگر نیز در حمله جداگانه اسرائیل به اردوگاه آوارگان نصیرات در مرکز غزه زخمی شدند."
+   ],
+   "title_ar": "مقتل ثلاثة فلسطينيين في غارات مسيرات إسرائيلية جنوب غزة",
+   "summary_ar": "قُتل ثلاثة فلسطينيين وأُصيب 10 آخرون عندما استهدفت طائرات حربيه إسرائيلية منشأة حكومية في المواسي برفح.",
+   "body_ar": [
+    "أفادت مصادر محلية بأن الغارة على منشأة وزارة الاقتصاد وقعت أثناء تواجد الموظفين وممثلي التجار لإنجاز المعاملات التجارية. وأُصيب ثلاثة أشخاص آخرين في غارة إسرائيلية منفصلة استهدفت مخيم النصيرات للاجئين وسط قطاع غزة."
+   ]
+  },
+  {
+   "id": "3463dcd376be",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-warns-of-devastating-economic-fallout-from-any-new-israeli-attack/article71637747.ece",
+   "date": "2026-10-28T17:47:44Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Iran warns of 'devastating' economic fallout from any new Israeli attack",
+   "title_en": "Iran warns of 'devastating' economic fallout from any new Israeli attack",
+   "summary_en": "Iran warned of a devastating economic impact from any new Israeli military action as votes were counted in an Israeli election.",
+   "body_en": [
+    "Iranian Foreign Minister Abbas Araghchi stated that any military misadventure instigated by Israel in the Persian Gulf region would severely affect international markets, gas suppliers, and consumers. Since the outbreak of the war, energy shipments from Gulf countries have faced major disruptions due to Iranian blockades in the Strait of Hormuz, countered by a U.S. naval blockade of Iranian ports.",
+    "Meanwhile, Israeli Prime Minister Benjamin Netanyahu and his main political rival, Gadi Eisenkot, vied in a closely contested election without a clear immediate winner. The Iranian military warned of broader retaliation against any renewed attacks, including potential strikes on U.S.-related infrastructure and artificial intelligence targets."
+   ],
+   "title_fa": "ایران نسبت به پیامدهای اقتصادی «ویرانگر» هرگونه حمله جدید اسرائیل هشدار داد",
+   "summary_fa": "ایران همزمان با شمارش آرای انتخابات اسرائیل، نسبت به تأثیر اقتصادی ویرانگر هرگونه اقدام نظامی جدید اسرائیل هشدار داد.",
+   "body_fa": [
+    "عباس عراقچی، وزیر امور خارجه ایران، اظهار داشت که هرگونه ماجراجویی نظامی تحریک‌شده توسط اسرائیل در منطقه خلیج فارس، بازارهای بین‌المللی، تأمین‌کنندگان و مصرف‌کنندگان گاز را به شدت تحت تأثیر قرار خواهد داد. از زمان آغاز جنگ، محموله‌های انرژی از کشورهای خلیج فارس به دلیل مسدودسازی تنگه هرمز توسط ایران با اختلالات عمده‌ای روبرو شده‌اند که در مقابل با محاصره دریایی بندرهای ایران توسط ایالات متحده همراه بوده است.",
+    "در همین حال، بنیامین نخست‌وزیر اسرائیل و رقیب اصلی سیاسی او، گادی آيزنكوت، در انتخاباتی رقابتی که برنده روشنی نداشت به رقابت پرداختند. ارتش ایران هشدار داد که در صورت حملات مجدد، تلافی گسترده‌تری از جمله ضربه به زیرساخت‌های مرتبط با ایالات متحده و اهداف هوش مصنوعی انجام خواهد داد."
+   ],
+   "title_ar": "إيران تحذر من تداعيات اقتصادية \"مدمرة\" لأي هجوم إسرائيلي جديد",
+   "summary_ar": "حذرت إيران من تأثير اقتصادي مدمر لأي تحرك عسكري إسرائيلي جديد مع فرز الأصوات في الانتخابات الإسرائيلية.",
+   "body_ar": [
+    "صرح وزير الخارجية الإيراني عباس عراقچی بأن أي مغامرة عسكرية تثيرها إسرائيل في منطقة الخليج الفارسي ستؤثر بشدة على الأسواق الدولية وموردي الغاز والمستهلكين. ومنذ اندلاع الحرب، واجهت شحنات الطاقة من دول الخليج اضطرابات كبيرة بسبب الإغلاقات الإيرانية لمضيق هرمز، والتي قابلها حصار بحري أمريكي للموانئ الإيرانية.",
+    "وفي الوقت نفسه، تنافس رئيس الوزراء الإسرائيلي بنيامين نتنياهو ومنافسه السياسي الرئيسي غادي آيزنكوت في انتخابات متقاربة لم تفرز فائزاً واضحاً فورياً. وحذر الجيش الإيراني من ردود فعل انتقامية أوسع نطاقاً ضد أي هجمات متجددة، بما في ذلك الضربات المحتملة على البنية التحتية المرتبطة بالولايات المتحدة وأهداف الذكاء الاصطناعي."
+   ]
+  },
+  {
+   "id": "d29966d1b430",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cj75pkzgkq33o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T17:34:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "نتنياهو وآيزنكوت يواجهان طرقاً صعبة للوصول إلى السلطة في إسرائيل",
+   "title_en": "Netanyahu and Eisenkot face difficult paths to power in Israel",
+   "summary_en": "As Israeli election results are tallied, both Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot vie to form the next government amid deep societal divisions.",
+   "body_en": [
+    "Preliminary results showed Netanyahu's Likud party emerging as the largest, with his current alliance nearing a majority in the 120-seat parliament. However, analysts noted that final outcomes remain uncertain pending the counting of absentee and soldier ballots.",
+    "Meanwhile, opposition figures like Gadi Eisenkot claimed the public voted for change, while Arab parties, representing a fifth of the population, could potentially play a decisive role despite historical reluctance from Jewish opposition parties to ally with them."
+   ],
+   "title_fa": "نتانیاهو و آیزنکوت با مسیرهای دشواری برای رسیدن به قدرت در اسرائیل مواجه هستند",
+   "summary_fa": "با شمارش آرای انتخابات اسرائیل، بنیامین نتانیاهو، نخست‌وزیر، و رقیبش گادی آیزنکوت در حال رقابت برای تشکیل دولت آینده در میان شکاف‌های عمیق اجتماعی هستند.",
+   "body_fa": [
+    "نتایج اولیه نشان داد که حزب لیکود به رهبری نتانیاهو به عنوان بزرگ‌ترین حزب ظاهر شده و ائتلاف فعلی او به اکثریت نزدیک شده است. با این حال، تحلیلگران خاطرنشان کردند که نتایج نهایی تا پیش از شمارش آرای غیابی و سربازان نامشخص است.",
+    "در همین حال، چهر‌ه‌های اپوزیسیون مانند گادی آیزنکوت ادعا کردند که مردم به تغییر رای داده‌اند، در حالی که احزاب عربی که یک پنجم جمعیت را تشکیل می‌دهند، با وجود اکراه تاریخی احزاب مخالف یهودی برای ائتلاف با آن‌ها، می‌توانند نقش تعیین‌کننده‌ای ایفا کنند."
+   ],
+   "title_ar": "نتنياهو وآيزنكوت يواجهان طرقاً صعبة للوصول إلى السلطة في إسرائيل",
+   "summary_ar": "مع فرز نتائج الانتخابات الإسرائيلية، يتنافس رئيس الوزراء بنيامين نتنياهو ومنافسه غادي آيزنكوت لتشكيل الحكومة المقبلة وسط انقسامات مجتمعية عميقة.",
+   "body_ar": [
+    "أظهرت النتائج الأولية بروز حزب الليكود بزعامة نتنياهو كأكبر حزب، مع اقتراب تحالفه الحالي من تحقيق أغلبية. ومع ذلك، أشار المحللون إلى أن النتائج النهائية تظل غير مؤكدة بانتظار فرز أصوات الغياب والجنود.",
+    "وفي الوقت نفسه، ادعت شخصيات المعارضة مثل غادي آيزنكوت أن الجمهور صوت لصالح التغيير، بينما يمكن للأحزاب العربية، التي تمثل خُمس السكان، أن تلعب دوراً حاسماً على الرغم من تردد أحزاب المعارضة اليهودية التاريخي في التحالف معها."
+   ]
+  },
+  {
+   "id": "f96242c0fc70",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/afghan-pakistan-border-clash-kills-one-injures-five/article71637670.ece",
+   "date": "2026-10-28T17:16:25Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 8,
+   "title": "Afghan-Pakistan border clash kills one, injures five",
+   "title_en": "Afghan-Pakistan border clash kills one, injures five",
+   "summary_en": "A cross-border clash along the Afghanistan-Pakistan frontier resulted in one death and five injuries, according to Pakistani officials.",
+   "body_en": [
+    "The incident in the market town of Angoor Adda targeted homes and shops through mortar fire originating from Afghanistan, according to the deputy commissioner's office in South Waziristan. Pakistani forces responded with a brief artillery operation targeting an Afghan checkpoint, though casualties on the Afghan side could not be confirmed.",
+    "The governor of Khyber Pakhtunkhwa Province condemned the attack, while local officials blamed Afghan authorities. The two countries have experienced sporadic fighting and tensions following a March truce, amid ongoing Pakistani accusations that Afghanistan harbours militants."
+   ],
+   "title_fa": "درگیری در مرز افغانستان و پاکستان یک کشته و پنج زخمی برجای گذاشت",
+   "summary_fa": "به گفته مقامات پاکستانی، یک درگیری مرزی در امتداد مرز افغانستان و پاکستان یک کشته و پنج زخمی برجای گذاشت.",
+   "body_fa": [
+    "به گفته دفتر کمیسر معاون در وزیرستان جنوبی، در این حادثه که در شهر بازار انگور اده رخ داد، خانه‌ها و مغازه‌ها هدف آتش خمپاره‌ای که از افغانستان شلیک شده بود، قرار گرفتند. نیروهای پاکستانی در پاسخ به این حمله، عملیات توپخانه‌ای کوتاهی را علیه یک پاسگاه افغان انجام دادند، اما تلفات در سمت افغانستان تایید نشد.",
+    "فرماندار استان خیبر پختونخوا این حمله را محکوم کرد و مقامات محلی مقام‌های افغان را مقصر دانستند. دو کشور پس از آتش‌بس ماه مارس شاهد درگیری‌های پراکنده و تنش بوده‌اند و پاکستان همواره افغانستان را به پناه دادن به شبه‌نظامیان متهم می‌کند."
+   ],
+   "title_ar": "مقتل شخص وإصابة خمسة في اشتباك على الحدود بين أفغانستان وباكستان",
+   "summary_ar": "أسفر اشتباك عبر الحدود على طول الحدود بين أفغانستان وباكستان عن مقتل شخص وإصابة خمسة آخرين، وفقاً لمسؤولين باكستانيين.",
+   "body_ar": [
+    "استهدف الحادث، الذي وقع في بلدة أنگور أدا السوقية، المنازل والمتاجر بنيران قذائف الهاون القادمة من أفغانستان، وفقاً لمكتب مفوض نائب وزيرستان الجنوبية. وقد ردت القوات الباكستانية بعملية مدفعية قصيرة استهدفت نقطة تفتيش أفغانية، رغم تعذر تأكيد وقوع إصابات في الجانب الأفغاني.",
+    "أدان حاكم إقليم خيبر بختونخوا الهجوم، بينما حمّل المسؤولون المحليون السلطات الأفغانية المسؤولية. وشهد البلدان اشتباكات متفرقة وتوترات في أعقاب هدنة مارس، وسط اتهامات باكستانية مستمرة لأفغانستان بإيواء مسلحين."
+   ]
+  },
+  {
+   "id": "066ab2051e99",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T16:59:47Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "title_en": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+   "summary_en": "Partial results from Israel's general election indicate that Prime Minister Benjamin Netanyahu's right-wing bloc is leading, though it remains short of a parliamentary majority.",
+   "body_en": [
+    "With 85% of the ballots counted, Netanyahu's Likud party and its allies were on track to secure 53 seats in the 120-seat Knesset, while the opposition bloc led by Gadi Eisenkot was set for 48 seats. Arab-led parties are on course for an unprecedented 19 seats, potentially making them kingmakers in the formation of a governing coalition.",
+    "President Isaac Herzog praised the 77.7% voter turnout and stated he would begin consultations with political factions once final results are confirmed to avoid another election. Meanwhile, Likud lodged unproven claims alleging fraud and bribery, while the Central Elections Committee announced it would review the complaints."
+   ],
+   "title_fa": "نتایج جزئی انتخابات اسرائیل: بلوک نتانیاهو پیشتاز است اما به اکثریت نرسیده است",
+   "summary_fa": "نتایج جزئی انتخابات سراسری اسرائیل نشان می دهد که بلوک راست گرای به رهبری بنیامین نتانیاهو پیشتاز است، هرچند همچنان تا کسب اکثریت پارلمانی فاصله دارد.",
+   "body_fa": [
+    "با شمارش ۸۵ درصد آرا، حزب لیکود به رهبری نتانیاهو و متحدانش در مسیر کسب ۵۳ کرسی از پارلمان ۱۲۰ کرسی اسرائیل قرار دارند و بلوک مخالف به رهبری گادی آیزنکوت ۴۸ کرسی را به دست خواهد آورد. حزب های عربی نیز در مسیر کسب ۱۹ کرسی بی‌سابقه هستند که می تواند آنها را به مهره‌های کلیدی در تشکیل ائتلاف دولتی تبدیل کند.",
+    "اسحاق هرتزوگ، رئیس جمهور اسرائیل، ضمن ستایش مشارکت ۷۷.۷ درصدی رای‌دهندگان اعلام کرد که پس از تایید نتایج نهایی برای جلوگیری از برگزاری انتخابات مجدد با جناح‌های سیاسی رایزنی خواهد کرد. در همین حال، حزب لیکود ادعاهایی بدون مدرک مبنی بر تقلب و رشوه مطرح کرد و کمیته مرکزی انتخابات اعلام کرد که این شکایات را بررسی خواهد کرد."
+   ],
+   "title_ar": "النتائج الجزئية لانتخابات إسرائيل: كتلة نتنياهو متقدمة لكنها دون الأغلبية",
+   "summary_ar": "تظهر النتائج الجزئية للانتخابات العامة في إسرائيل أن تكتل رئيس الوزراء بنيامين نتنياهو متقدم، لكنه لا يزال دون الأغلبية البرلمانية.",
+   "body_ar": [
+    "مع فرز 85% من الأصوات، كان حزب اليكود بزعامة نتنياهو وحلفاؤه في طريقهم للفوز بـ 53 مقعداً في الكنيست المكون من 120 مقعداً، بينما حصل تكتل المعارضة بقيادة جادي آيزنکوت على 48 مقعداً. وتتجه الأحزاب التي تقودها الأقلية العربية للفوز بـ 19 مقعداً غير مسبوقة، مما قد يجعلها صانعة قرار في تشكيل ائتلاف حكومي.",
+    "وأشاد الرئيس الإسرائيلي إسحاق هرتسوغ بنسبة المشاركة التي بلغت 77.7%، مشيراً إلى أنه سيبدأ المشاورات مع الأطراف السياسية فور تأكيد النتائج النهائية لتجنب جولة جديدة من الانتخابات. وفي الوقت نفسه، قدم حزب اليكود مزاعم غير مدعومة بشأن التزوير، بينما أعلنت لجنة الانتخابات المركزية أنها ستراجع هذه الشكاوى."
+   ]
+  },
+  {
+   "id": "610e0521d6ab",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
+   "date": "2026-10-28T16:54:33Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Israel election: What impact on Iran as the war in the Middle East continues?",
+   "title_en": "Israel election: What impact on Iran as the war in the Middle East continues?",
+   "summary_en": "Benjamin Netanyahu faces greater constraints as Israel's caretaker prime minister, though experts note his government may retain significant powers, including waging war against Iran.",
+   "body_en": [
+    "Following Tuesday's election, questions remain regarding how the political outcome will shape Israel's military and strategic approach toward Iran amidst ongoing regional conflicts."
+   ],
+   "title_fa": "انتخابات اسرائیل: چه تأثیری بر ایران همزمان با ادامه جنگ در خاورمیانه خواهد داشت؟",
+   "summary_fa": "بنیامین نتانیاهو به عنوان نخست‌وزیر موقت اسرائیل با محدودیت‌های بیشتری روبروست، هرچند کارشناسان خاطرنشان می‌کنند که دولت او ممکن است قدرت‌های قابل توجهی از جمله جنگ با ایران را حفظ کند.",
+   "body_fa": [
+    "پس از انتخابات سه‌شنبه، همچنان این پرسش باقی است که پیامد سیاسی آن چگونه رویکرد نظامی و استراتژیک اسرائیل در قبال ایران را در میان درگیری‌های منطقه‌ای شکل خواهد داد."
+   ],
+   "title_ar": "انتخابات إسرائيل: ما التأثير على إيران مع استمرار الحرب في الشرق الأوسط؟",
+   "summary_ar": "يواجه بنيامين نتنياهو قيوداً أكبر بصفته رئيس وزراء تصريف الأعمال في إسرائيل، رغم أن الخبراء يشيرون إلى أن حكومته قد تحتفظ بصلاحيات كبيرة، بما في ذلك شن حرب ضد إيران.",
+   "body_ar": [
+    "عقب انتخابات الثلاثاء، تظل التساؤلات قائمة حول كيف ستشكل النتيجة السياسية نهج إسرائيل العسكري والاستراتيجي تجاه إيران وسط الصراعات الإقليمية المستمرة."
+   ]
+  },
+  {
+   "id": "4097deee4e69",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-warns-gulf-intense-strikes-iran-after-midterms-report",
+   "date": "2026-10-28T16:47:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "US warns Gulf of intense strikes on Iran after midterms: Report",
+   "title_en": "US warns Gulf of intense strikes on Iran after midterms: Report",
+   "summary_en": "The US has reportedly warned several Gulf Arab countries to prepare for a short, intense military offensive against Iran following the US midterm elections.",
+   "body_en": [
+    "According to sources cited by The Wall Street Journal, the warning indicates that the US and Israel are preparing further attacks to weaken Tehran and force it to negotiations. US forces have been restocking regional munitions and preparing bomber and fighter aircraft.",
+    "Additionally, the US military is moving a Patriot missile defense system to Israel, while an aircraft carrier strike group and a Marine expeditionary unit are scheduled to join other warships in the Middle East next month."
+   ],
+   "title_fa": "آسوشیتدپرس/گزارش: هشدار آمریکا به کشورهای خلیج فارس درباره حملات شدید به ایران پس از انتخابات میان‌دوره‌ای",
+   "summary_fa": "گزارش‌ها حاکی از آن است که ایالات متحده به چندین کشور عربی خلیج فارس هشدار داده است که خود را برای یک تهاجم نظامی کوتاه و شدید علیه ایران پس از انتخابات میان‌دوره‌ای آمریکا آماده کنند.",
+   "body_fa": [
+    "بر اساس منابع نقل شده توسط وال استریت ژورنال، این هشدار نشان می‌دهد که ایالات متحده و اسرائیل در حال آماده‌سازی حملات دیگری برای تضعیف تهران و وادار کردن آن به مذاکرات هستند. نیروهای آمریکایی در حال ذخیره‌سازی مهمات در منطقه و آماده‌سازی بمب‌افکن‌ها و جنگنده‌ها هستند.",
+    "علاوه بر این، ارتش آمریکا در حال انتقال یک سامانه دفاع موشکی پاتریوت به اسرائیل است، در حالی که قرار است ماه آینده یک گروه ضربت ناو هواپیمابر و یک یگان اعزامی تفنگداران دریایی به سایر ناوهای جنگی در خاورمیانه بپیوندند."
+   ],
+   "title_ar": "الولايات المتحدة تحذر الخليج من ضربات مكثفة على إيران بعد الانتخابات النصفية: تقرير",
+   "summary_ar": "أفادت تقارير بأن الولايات المتحدة حذرت عدة دول عربية خليجية الاستعداد لهجوم عسكري قصير ومكثف ضد إيران في أعقاب الانتخابات النصفية الأمريكية.",
+   "body_ar": [
+    "وفقاً لمصادر نقلتها صحيفة \"وول ستريت جورنال\"، يشير التحذير إلى أن الولايات المتحدة وإسرائيل تستعدان لشن جولة أخرى من الهجمات لإضعاف طهران وإجبارها على الدخول في مفاهضات. وكانت القوات الأمريكية تعيد تخزين الذخائر في المنطقة وتستعد طائرات القاذفات والمقاتلات.",
+    "بالإضافة إلى ذلك، ينقل الجيش الأمريكي نظام دفاع صاروخي من طراز \"باتريوت\" إلى إسرائيل، بينما من المقرر أن تنضم مجموعة ضاربة لحاملة طائرات ووحدة مشاة بحرية الشهر المقبل إلى نحو 20 سفينة حربية أخرى تعمل في الشرق الأوسط."
+   ]
+  },
+  {
+   "id": "6162849d74c8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-defence-minister-slams-eisenkots-call-for-military-to-resist-pm/article71637161.ece",
+   "date": "2026-10-28T15:36:33Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "title_en": "Israel defence minister slams Eisenkot's call for military to resist PM",
+   "summary_en": "Israeli Defence Minister Israel Katz strongly criticized opposition politician Gadi Eisenkot for urging military officials to disobey directives from Prime Minister Benjamin Netanyahu.",
+   "body_en": [
+    "Katz described Eisenkot's remarks on social media as an anti-democratic statement detached from reality. Eisenkot had earlier told supporters that Netanyahu, as a caretaker prime minister lacking a mandate, should not use security for political needs and that the military serves the state rather than the premier."
+   ],
+   "title_fa": "وزیر دفاع اسرائیل فراخوان آیزنکوت به ارتش برای مقاومت در برابر نخست‌وزیر را محکوم کرد",
+   "summary_fa": "اسرائیل کاتز، وزیر دفاع اسرائیل، گادی آیزنکوت، سیاستمدار اپوزیسیون را به دلیل فراخوان مقامات نظامی به سرپیچی از دستورات بنیامین نتانیاهو، نخست‌وزیر، به‌شدت مورد انتقاد قرار داد.",
+   "body_fa": [
+    "کاتز اظهارات آیزنکوت در رسانه‌های اجتماعی را بیانیه‌ای ضددموکراتیک و به دور از واقعیت توصیف کرد. آیزنکوت پیش‌تر به هواداران خود گفته بود که نتانیاهو به عنوان نخست‌وزیر موقت فاقد مأموریت است، نباید از امنیت برای اهداف سیاسی استفاده کند و ارتش باید به جای نخست‌وزیر به دولت خدمت کند."
+   ],
+   "title_ar": "وزير الدفاع الإسرائيلي يندد بدعوة آيزنكوت للجيش لمقاومة رئيس الوزراء",
+   "summary_ar": "انتقد وزير الدفاع الإسرائيلي يسرائيل كاتس بشدة المعارض غادي آيزنكوت لحضه المسؤولين العسكريين على عدم الانصياع لتوجيهات رئيس الوزراء بنيامين نتنياهو.",
+   "body_ar": [
+    "وصف كاتس تصريحات آيزنكوت على منصات التواصل الاجتماعي بأنها بيان مناهض للديمقراطية ومنفصل عن الواقع. وكان آيزنكوت قد صرح لأنصاره سابقاً بأن نتنياهو، بصفته رئيس وزراء تسيير أعمال يفتقر إلى تفويض، يجب ألا يستخدم الأمن لمصالحه السياسية وأن الجيش يجب أن يخدم الدولة لا رئيس الوزراء."
+   ]
+  },
+  {
+   "id": "0be77a5b7e09",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040469/god-will-surely-provide-afghans-compete-for-jobs-homes-as-millions-return-from-neighbouring-countries",
+   "date": "2026-10-28T14:14:42Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "‘God will surely provide’: Afghans compete for jobs, homes as millions return from neighbouring countries",
+   "title_en": "‘God will surely provide’: Afghans compete for jobs, homes as millions return from neighbouring countries",
+   "summary_en": "Millions of Afghans returning from Iran and Pakistan over the past three years are intensifying competition for scarce jobs and housing in local communities.",
+   "body_en": [
+    "The influx has led to severe economic strains, rising food insecurity, and dramatic rent surges amid a prolonged drought in regions like Jawzjan province. While the United Nations and local residents warn of growing grievances and scarce resources, some local officials maintain that employment issues are minimal and that government committees are monitoring housing costs."
+   ],
+   "title_fa": "«خداوند قطعاً روزی می‌رساند»: با بازگشت میلیون‌ها نفر از کشورهای همسایه، افغان‌ها برای شغل و مسکن رقابت می‌کنند",
+   "summary_fa": "بازگشت میلیون‌ها افغانستانی از ایران و پاکستان طی سه سال گذشته، رقابت برای کسب مشاغل کمیاب و مسکن را در جوامع محلی تشدید کرده است.",
+   "body_fa": [
+    "این موج بازگشت، فشار شدید اقتصادی، افزایش ناامنی غذایی و جهش چشمگیر اجاره‌بها را در پی داشته است که با خشکسالی طولانی‌مدت در استان‌هایی مانند جوزجان تشدید شده است. در حالی که سازمان ملل و ساکنان محلی نسبت به نارضایتی‌های فزاینده و کمبود منابع هشدار می‌دهند، برخی مقامات محلی ادعا می‌کنند که مشکلات اشتغال بسیار کم است و کمیته‌های دولتی هزینه‌های مسکن را کنترل می‌کنند."
+   ],
+   "title_ar": "«الله هو الرزاق»: أفغان يتنافسون على الوظائف والمنازل مع عودة ملايين اللاجئين من الدول المجاورة",
+   "summary_ar": "أدت عودة ملايين الأفغان من إيران和 باكستان خلال السنوات الثلاث الماضية إلى حدوث ضغوط شديدة واشتداد المنافسة على فرص العمل والسكن في المجتمعات المحلية.",
+   "body_ar": [
+    "وقد أدى هذا التدفق إلى أزمات اقتصادية حادة، وارتفاع مستويات انعدام الأمن الغذائي، وقفزات هائلة في قيمة الإيجارات وسط جفاف مستمر في مناطق مثل ولاية جوزجان. وبينما تحذر الأمم المتحدة والسكان المحليون من تصاعد المظالم وشح الموارد، يؤكد بعض المسؤولين المحليين أن مشاكل البطالة محدودة وأن لجان حكومية تراقب أسعار الإيجارات."
+   ]
+  },
+  {
+   "id": "b3401056cb69",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+   "date": "2026-10-28T13:47:39Z",
+   "countries": [
+    "IRQ",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "title_en": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+   "summary_en": "Iraqi Prime Minister Ali al-Zaidi arrived in Damascus to meet Syrian President Ahmed al-Sharaa, marking the first visit by an Iraqi prime minister since the fall of Bashar al-Assad.",
+   "body_en": [
+    "The visit aims to strengthen bilateral ties and boost economic, oil, and agricultural cooperation between the two neighbouring countries. According to the official Iraqi News Agency, the leaders discussed exporting Iraqi oil through the Baniyas line, increasing trade, and achieving food and economic integration."
+   ],
+   "title_fa": "نخست‌وزیر عراق در سفری تاریخی به سوریه با احمد الشرع دیدار کرد",
+   "summary_fa": "علی الزیدی، نخست‌وزیر عراق، برای دیدار با احمد الشریع، رئیس‌جمهور سوریه، وارد دمشق شد که این نخستین سفر یک نخست‌وزیر عراق به سوریه پس از سقوط بشار اسد است.",
+   "body_fa": [
+    "هدف از این سفر تقویت روابط دوجانبه و گسترش همکاری‌های اقتصادی، نفتی و کشاورزی میان دو کشور همسایه است. به گزارش خبرگزاری رسمی عراق (INA)، رهبران دو کشور درباره صادرات نفت عراق از طریق خط بانیاس، افزایش حجم تجارت و دستیابی به یکپارچگی اقتصادی و غذایی گفتگو کردند."
+   ],
+   "title_ar": "رئيس الوزراء العراقي علي الزيدي يلتقي أحمد الشرح في زيارة تاريخية لسوريا",
+   "summary_ar": "وصل رئيس الوزراء العراقي علي الزيدي إلى دمشق للاجتماع مع الرئيس السوري أحمد الشرح، في أول زيارة لرئيس وزراء عراقي إلى سوريا منذ سقوط بشار الأسد.",
+   "body_ar": [
+    "تهدف الزيارة إلى تعزيز العلاقات الثنائية وتطوير التعاون الاقتصادي والنفطي والزراعي بين البلدين الجارين. ووفقاً وكالة الأنباء العراقية الرسمية (واع)، ناقش الزعيمان تصدير النفط العراقي عبر خط بانياس، وزيادة حجم التجارة البينية، وتحقيق التكامل الاقتصادي والغذائي."
+   ]
+  },
+  {
+   "id": "2846da61e1b4",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cw4g1vz4dxgzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T12:26:19Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "الحوثيون يدعون إلى إخلاء مطار عدن، ومقتل 14 شخصاً في \"غارات سعودية\" على مدينة الحزم",
+   "title_en": "Houthis call for evacuation of Aden airport; 14 killed in 'Saudi strikes' on Al-Hazm",
+   "summary_en": "The Houthi movement called for the immediate evacuation of Aden airport, alleging the presence of a Saudi military plane transporting weapons, while a reported Saudi airstrike killed at least 14 people in Al-Hazm.",
+   "body_en": [
+    "A Houthi military spokesman urged people at Aden airport to leave due to a Saudi military cargo plane allegedly carrying arms. However, local police sources reported that a Houthi missile had struck the airport prior to the evacuation request.",
+    "Meanwhile, Houthi-aligned Al-Masirah TV reported that a Saudi airstrike hit a market in Al-Hazm, killing 14 people and injuring 10 others. In response to ongoing Houthi attacks on Saudi targets, the Saudi-led coalition stated it intercepted several missiles and drones."
+   ],
+   "title_fa": "حوثی‌ها خواستار تخلیه فرودگاه عدن شدند؛ ۱۴ کشته در «حملات عربستان» به شهر الحزم",
+   "summary_fa": "جنبش حوثی‌ها به ادعای حضور یک هواپیمای باری نظامی عربستان حامل سلاح، خواستار تخلیه فوری فرودگاه عدن شد، در حالی که گزارش‌ها از کشته شدن دست‌کم ۱۴ نفر در حمله هوایی عربستان به بازاری در الحزم خبر می‌دهند.",
+   "body_fa": [
+    "سخنگوی نظامی حوثی‌ها از افراد حاضر در فرودگاه عدن خواست به دلیل حضور یک هواپیمای نظامی عربستانی حامل سلاح آنجا را تخلیه کنند. با این حال، منابع پلیس عدن گزارش دادند که پیش از صدور این هشدار، یک موشک حوثی به فرودگاه اصابت کرده بود.",
+    "در همین حال، شبکه المسیره وابسته به حوثی‌ها اعلام کرد که در حمله هوایی عربستان به بازاری در شهر الحزم ۱۴ نفر کشته و ۱۰ نفر زخمی شدند. در مقابل، ائتلاف به رهبری عربستان از رهگیری و انهدام چند موشک و پهپاد خبر داد."
+   ],
+   "title_ar": "الحوثيون يدعون إلى إخلاء مطار عدن، ومقتل 14 شخصاً في \"غارات سعودية\" على مدينة الحزم",
+   "summary_ar": "دعت جماعة أنصار الله الحوثية إلى إخلاء مطار عدن فوراً بدعوى وجود طائرة شحن عسكرية سعودية تنقل أسلحة، في حين قُتل 14 شخصاً على الأقل في غارة سعودية استهدفت سوقاً بمدينة الحزم.",
+   "body_ar": [
+    "دعا المتحدث العسكري باسم الحوثيين المتواجدين في مطار عدن للإخلاء الفوري بسب وجود طائرة عسكرية سعودية تنقل أسلحة. إلا أن مصادر في شرطة عدن أفادت بسقوط صاروخ حوثي في المطار قبل صدور هذه الدعوة.",
+    "في غضون ذلك، اتهمت قناة المسيرة التابعة للحوثيين السعودية بشن غارة على سوق في مدينة الحزم أسفرت عن مقتل 14 شخصاً وإصابة 10 آخرين. وبالمقابل، أعلن التحالف بقيادة السعودية اعتراض وتدمير صواريخ وطائرات مسيرة."
+   ]
+  },
+  {
+   "id": "a6b09d5ac230",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261028-israeli-election-pm-loses-a-significant-number-of-seats-since-2022-election",
+   "date": "2026-10-28T11:56:00Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israeli election: PM loses a significant number of seats since 2022 election",
+   "title_en": "Israeli election: PM loses a significant number of seats since 2022 election",
+   "summary_en": "Exit polls show no clear winner in Israel's elections as vote counting proceeds on Wednesday, with Prime Minister Benjamin Netanyahu's bloc expected to lose a significant number of seats compared to 2022.",
+   "body_en": [
+    "Israel began counting votes on Wednesday following pivotal elections where initial exit polls indicated no decisive victor.",
+    "According to initial projections, Prime Minister Benjamin Netanyahu's coalition bloc appears to have suffered a substantial loss of parliamentary seats compared with the previous election held in 2022."
+   ],
+   "title_fa": "انتخابات اسرائیل: نخست‌وزیر تعداد قابل توجهی از کرسی‌های خود را نسبت به انتخابات ۲۰۲۲ از دست می‌دهد",
+   "summary_fa": "با ادامه شمارش آرا در روز چهارشنبه، نظرسنجی‌های پای صندوق رأی هیچ برنده مشخصی را در انتخابات اسرائیل نشان نمی‌دهند و به نظر می‌رسد بلوک بنیامین نتانیاهو تعداد قابل توجهی از کرسی‌ها را نسبت به سال ۲۰۲۲ از دست داده است.",
+   "body_fa": [
+    "اسرائیل روز چهارشنبه در پی انتخابات کلیدی که نظرسنجی‌های اولیه هیچ پیروز قاطعی را نشان نمی‌دادند، شمارش آرا را آغاز کرد.",
+    "طبق پیش‌بینی‌های اولیه، به نظر می‌رسد بلوک ائتلافی بنیامین نتانیاهو، نخست‌وزیر، با کاهش قابل توجهی در تعداد کرسی‌های پارلمانی نسبت به انتخابات قبلی در سال ۲۰۲۲ مواجه شده است."
+   ],
+   "title_ar": "الانتخابات الإسرائيلية: رئيس الوزراء يفقد عدداً كبيراً من المقاعد مقارنة بانتخابات 2022",
+   "summary_ar": "أظهرت استطلاعات الرأي عند خروج الناخبين عدم وجود فائز واضح في الانتخابات الإسرائيلية مع استمرار فرز الأصوات يوم الأربعاء، بينما يبدو أن تكتل رئيس الوزراء بنيامين نتنياهو خسر عدداً كبيراً من المقاعد مقارنة بانتخابات 2022.",
+   "body_ar": [
+    "بدأت إسرائيل فرز الأصوات يوم الأربعاء عقب انتخابات مفصلية أظهرت استطلاعات الرأي الأولى عدم وجود فائز حاسم فيها.",
+    "وفقاً للتقديرات الأولية، يبدو أن تكتل رئيس الوزراء بنيامين نتنياهو فقد عدداً كبيراً من المقاعد البرلمانية مقارنة بالانتخابات السابقة التي جرت في عام 2022."
+   ]
+  },
+  {
+   "id": "3ef6b8bd4261",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+   "date": "2026-10-28T11:33:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+   "title_en": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+   "summary_en": "Palestinian citizens of Israel turned out in unprecedented numbers during the parliamentary elections, threatening to prevent Prime Minister Benjamin Netanyahu from securing a governing majority. Turnout in some Arab towns exceeded 70 percent, fueled by hostility from the current right-wing government and settler actions.",
+   "body_en": [
+    "Palestinian voters responded to campaigns by right-wing ministers and actions like settler outpost attempts in Galilee by mobilizing for Arab parties. Preliminary reports indicate the Joint List and Ra'am could win up to 17 seats combined, which could prevent Netanyahu's bloc from reaching the required 61-seat majority.",
+    "Arab party leaders like Ahmad Tibi expressed readiness to cooperate with opposition parties to unseat the government, despite obstacles and alleged voter suppression attempts at polling stations. Meanwhile, analysts noted that the high turnout reflects a desire to block a coalition that has promoted hostile and discriminatory policies."
+   ],
+   "title_fa": "مشارکت بالای شهروندان فلسطینی اسرائیل، نتانیاهو را تهدید می‌کند",
+   "summary_fa": "شهروندان فلسطینی اسرائیل با مشارکتی بی‌سابقه در انتخابات پارلمانی حضور یافتند که این امر اکثریت حکومتی بنیامین نتانیاهو را با تهدید مواجه کرده است. میزان مشارکت در برخی شهرهای عربی به بیش از ۷۰ درصد رسید که ناشی از انگیزه مقابله با اقدامات و مواضع دولت راست‌گرای فعلی بود.",
+   "body_fa": [
+    "شهروندان فلسطینی در پاسخ به کارزار تبلیغاتی وزرای راست‌گرا و اقداماتی نظیر تلاش شهرک‌نشینان برای ایجاد پایگاه در گلیل، برای حمایت از احزاب عربی بسیج شدند. گزارش‌های اولیه نشان می‌دهد که فهرست مشترک و فهرست متحد عربی (رعم) می‌توانند در مجموع تا ۱۷ کرسی به دست آورند که برای جلوگیری از دستیابی نتانیاهو به اکثریت ۶۱ کرسی کافی است.",
+    "رهبران احزاب عربی از جمله احمد الطیبی آمادگی خود را برای همکاری با اپوزیسیون جهت سرنگونی دولت اعلام کردند، هرچند از تلاش‌ها برای کارشکنی و ایجاد صف‌های طولانی در حوزه‌های رأی‌گیری خبر دادند. کارشناسان معتقدند این مشارکت بالا نشان‌دهنده انگیزه برای جلوگیری از بازگشت دولتی است که سیاست‌های خصمانه علیه اعراب اتخاذ کرده است."
+   ],
+   "title_ar": "نسبة المشاركة العالية بين المواطنين الفلسطينيين في إسرائيل تهدد نتنياهو",
+   "summary_ar": "شارك المواطنون الفلسطينيون في إسرائيل بأعداد غير سبوقة في الانتخابات البرلمانية، مما يهدد بمنع رئيس الوزراء بنيامين نتنياهو من تحقيق الأغلبية. وتجاوزت نسبة المشاركة في بعض البلدات العربية 70 بالمئة نتيجة الرفض للسياسات الحكومية اليمينية الحالية.",
+   "body_ar": [
+    "استجاب الناخبون الفلسطينيون لحملات الوزراء اليمينيين ومحاولات المستوطنين إقامة بؤر استيطانية في الجليل بالإقبال على التصويت للأحزاب العربية. وتشير التقارير الأولية إلى أن القائمة المشتركة والقائمة العربية الموحدة قد تحصلان معاً على ما يصل إلى 17 مقعداً، وهو ما يكفي لمنع تكتل نتنياهو من الوصول إلى أغلبية 61 مقعداً.",
+    "وأبدى قادة الأحزاب العربية مثل أحمد الطيبي استعدادهم للتعاون مع المعارضة لإسقاط الحكومة، رغم العقبات ومحاولات تعطيل العملية الانتخابية في مراكز الاقتراع. وأشار محللون إلى أن هذه المشاركة المرتفعة تعكس رغبة في منع عودة حكومة تنتهج سياسات عدائية ضد العرب."
+   ]
+  },
+  {
+   "id": "344c86d4c750",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040427/9-india-sponsored-terrorists-killed-in-balochistan-ibos-ispr",
+   "date": "2026-10-28T09:44:13Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 8,
+   "title": "9 India-sponsored terrorists killed in Balochistan IBOs: ISPR",
+   "title_en": "9 India-sponsored terrorists killed in Balochistan IBOs: ISPR",
+   "summary_en": "Pakistani security forces killed nine terrorists affiliated with 'Fitna al-Hindustan' during two separate intelligence-based operations in Balochistan's Kachhi and Wadh districts.",
+   "body_en": [
+    "According to the military's media wing (ISPR), seven terrorists were killed in Kachhi after a hideout was destroyed, and two others were eliminated during an exchange of fire in Wadh. Weapons and ammunition were recovered from both sites.",
+    "Pakistani leaders, including President Asif Ali Zardari and Prime Minister Shehbaz Sharif, commended the security forces and reaffirmed their commitment to eliminating foreign-sponsored terrorism under the 'Azm e Istehkam' campaign."
+   ],
+   "title_fa": "کشته شدن ۹ تروریست تحت حمایت هند در عملیات‌های اطلاعات‌محور در بلوچستان: ارتش پاکستان",
+   "summary_fa": "نیروهای امنیتی پاکستان در جریان دو عملیات اطلاعات‌محور جداگانه در مناطق کچی و واضه در ایالت بلوچستان، نه تروریست وابسته به «فتنه الهندوستان» را به قتل رساندند.",
+   "body_fa": [
+    "به گفته دفتر روابط عمومی ارتش پاکستان (ISPR)، هفت تروریست در منطقه کچی پس از انهدام مخفیگاهشان کشته شدند و دو تن دیگر در تبادل آتش در واضه از پا درآمدند. مقادیری سلاح و مهمات نیز از این دو منطقه ضبط شد.",
+    "مقامات ارشد پاکستان از جمله رئیس‌جمهور آصف‌علی زرداری و نخست‌وزیر شهباز شریف از اقدامات نیروهای امنیتی تمجید کرده و بر عزم کشور برای نابودی تروریسم تحت حمایت خارجی در قالب کارزار «عزم استحکام» تأکید کردند."
+   ],
+   "title_ar": "الجيش الباكستاني: مقتل 9 إرهابيين مدعومين من الهند في عمليات أمنية ببلوشستان",
+   "summary_ar": "قتلت قوات الأمن الباكستانية تسعة إرهابيين ينتمون لجماعة \"فتنة الهندوستان\" خلال عمليتين أمنيتين مستندتين إلى معلومات استخباراتية في مقاطعتي كتشي وواذ ببلوشستان.",
+   "body_ar": [
+    "ووفقاً للبيان الصادر عن الجناح الإعلامي للجيش الباكستاني، تم القضاء على سبعة إرهابيين في كتشي بعد تدمير مخبأ لهم، بينما قُتل اثنان آخران في تبادل لإطلاق النار في واذ، وتم ضبط أسلحة وذخائر في الموقعين.",
+    "وأشاد الرئيس الباكستاني آصف علي زرداري ورئيس الوزراء شهباز شریف بجهود القوات الأمنية، مؤكدين الالتزام بالقضاء على الإرهاب المدعوم من الخارج ضمن استراتيجية \"عزم استحكام\"."
+   ]
+  },
+  {
+   "id": "3cafcf4b2aed",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-two-southern-gaza-election-count-continues",
+   "date": "2026-10-28T09:32:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli attack wounds two in southern Gaza as election count continues",
+   "title_en": "Israeli attack wounds two in southern Gaza as election count continues",
+   "summary_en": "An Israeli military attack in Khan Younis, southern Gaza, injured two people while ballot counting was underway for Israel's parliamentary elections.",
+   "body_en": [
+    "The strike hit Khan Younis during the vote counting for Israel's parliamentary election, which is the first election held since Israel launched its military campaign in Gaza in October 2023."
+   ],
+   "title_fa": "حمله اسرائیل دو نفر را در جنوب غزه همزمان با ادامه شمارش آراء انتخابات مجروح کرد",
+   "summary_fa": "حمله نظامی اسرائیل در خان یونس واقع در جنوب غزه، دو نفر را مجروح کرد؛ این حادثه همزمان با جریان داشتن شمارش آرا برای انتخابات پارلمانی اسرائیل رخ داد.",
+   "body_fa": [
+    "این حمله خان یونس را در زمان شمارش آراء انتخابات پارلمانی اسرائیل هدف قرار داد، که اولین انتخابات برگزارشده پس از آغاز کارزار نظامی در غزه در اکتبر ۲۰۲۳ محسوب می‌شود."
+   ],
+   "title_ar": "هجوم إسرائيلي يصيب شخصين في جنوب غزة مع استمرار فرز أصوات الانتخابات",
+   "summary_ar": "أسفر هجوم عسكري إسرائيلي في خان يونس بجدوب غزة عن إصابة شخصين بينما كانت عملية فرز الأصوات جارية للانتخابات البرلمانية الإسرائيلية.",
+   "body_ar": [
+    "واستهدف الهجوم خان يونس أثناء فرز الأصوات للانتخابات البرلمانية الإسرائيلية، وهي أول انتخابات تجرى منذ بدء الحملة العسكرية الإسرائيلية في غزة في أكتوبر 2023."
+   ]
+  },
+  {
+   "id": "458e88d10518",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040428/conscience-does-not-permit-lhcs-justice-kayani-resigns-cites-executives-growing-control-over-judiciary",
+   "date": "2026-10-28T09:31:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "'Conscience does not permit': LHC's Justice Kayani resigns, cites 'executive's growing control' over judiciary",
+   "title_en": "'Conscience does not permit': LHC's Justice Kayani resigns, cites 'executive's growing control' over judiciary",
+   "summary_en": "Justice Mohsin Akhtar Kayani has resigned from the Lahore High Court, stating in his resignation letter that the executive's increasing influence over the judiciary compromised his conscience.",
+   "body_en": [
+    "In his letter to Pakistan's president, Justice Kayani stated that constitutional amendments and executive control over judicial appointments and transfers have severely eroded judicial independence and public trust. He noted that despite health reasons following a recent surgery, his decision was primarily driven by matters of conscience, leading him to return to legal practice.",
+    "Justice Kayani previously served as the senior puisne judge at the Islamabad High Court and was one of six judges who accused intelligence agencies of interfering in judicial affairs in March 2024. Following a transfer to the Lahore High Court, he was demoted in seniority and reassigned strictly to a single bench prior to his resignation."
+   ],
+   "title_fa": "«وجدانم اجازه نمی‌دهد»: استعفای قاضی کیانی از دادگاه عالی لاهور با استناد به «افزایش کنترل قوه مجریه» بر دستگاه قضایی",
+   "summary_fa": "قاضی محسن اختر کیانی با ارسال نامه استعفای خود، از دادگاه عالی لاهور استعفا داد و اعلام کرد که افزایش نفوذ قوه مجریه بر دستگاه قضایی با وجدان او مغایرت دارد.",
+   "body_fa": [
+    "قاضی کیانی در نامه خود به رئیس‌جمهور پاکستان اعلام کرد که اصلاحات قانون اساسی و کنترل قوه مجریه بر انتصابات و انتقال قضات، استقلال قضایی و اعتماد عمومی را به‌شدت تضعیف کرده است. وی اشاره کرد که با وجود مسائل مربوط به سلامتی پس از یک عمل جراحی، دلیل اصلی تصمیم او وجدان کاری بوده و قصد دارد به وکالت بازگردد.",
+    "قاضی کیانی پیش از این به عنوان قاضی ارشد در دادگاه عالی اسلام‌آباد خدمت می‌کرد و یکی از شش قاضی بود که در مارس ۲۰۲۴ دستگاه‌های اطلاعاتی را به مداخله در امور قضایی متهم کردند. وی پس از انتقال به دادگاه عالی لاهور، ارقدی تنزل درجه یافت و پیش از استعفا تنها به یک شعبه منفرد اختصاص داده شده بود."
+   ],
+   "title_ar": "الضمير لا يسمح: استقالة القاضي كياني من محكمة لاهور العليا مشيراً إلى \"سيطرة السلطة التنفيذية المتزايدة\" على القضاء",
+   "summary_ar": "قدم القاضي محسن اختر كياني استقالته من محكمة لاهور العليا، موضحاً في كتاب استقالته أن نفوذ السلطة التنفيذية المتزايد على القضاء يتنافى مع ضميره.",
+   "body_ar": [
+    "وذكر القاضي كياني في خطابه إلى رئيس باكستان أن التعديلات الدستورية وهيمنة السلطة التنفيذية على تعيين القضاة ونقلهم قد أضرت بشدة باستقلال القضاء وثقة الجمهور. وأشار إلى أنه رغم وجود أسباب صحية إثر جراحة أجراها مؤخراً، فإن قراره نابع بالأساس من دواعي الضمير، مما دفعه للعودة إلى ممارسة مهنة المحاماة.",
+    "وكان القاضي كياني قد شغل سابقاً منصب القاضي الأقدم في محكمة اسلام آباد العليا، وكان أحد القضاة الستة الذين اتهموا أجهزة الاستخبارات بالتدخل في الشؤون القضائية في مارس 2024. وعقب نقله إلى محكمة لاهور العليا، تراجعت أقدميته وتم تعيينه في دائرة فردية فقط قبل تقديم استقالته."
+   ]
+  },
+  {
+   "id": "1ad733ce394d",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss",
+   "date": "2026-10-28T09:30:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israeli right makes provocative statements as election votes are counted",
+   "title_en": "Israeli right makes provocative statements as election votes are counted",
+   "summary_en": "As votes are counted in Israel's election, right-wing figures including Prime Minister Benjamin Netanyahu and Finance Minister Bezalel Smotrich have drawn criticism for making provocative comments about Arab voters and election integrity.",
+   "body_en": [
+    "Following exit polls indicating a setback for Netanyahu's governing bloc, right-wing leaders made several controversial claims. Finance Minister Smotrich warned of high Arab turnout and vowed to expand West Bank settlements and establish Jewish settlements in Gaza. Netanyahu and Transportation Minister Miri Regev raised unsubstantiated claims of election theft, with Netanyahu warning that Arab participation threatened Israel's Jewish character.",
+    "Arab political leaders condemned the remarks as racist and inflammatory. With partial counts showing Netanyahu's right-wing bloc short of the 61 seats needed for a parliamentary majority, Arab-led parties could play a crucial role, with Ra'am leader Mansour Abbas claiming contact from both Netanyahu's party and the opposition."
+   ],
+   "title_fa": "اظهارات جنجالی راست‌گرایان اسرائیلی هم‌زمان با شمارش آرای انتخابات",
+   "summary_fa": "هم‌زمان با شمارش آرای انتخابات در اسرائیل، چهره‌های راست‌گرا از جمله بنیامین نتانیاهو، نخست‌وزیر، و بتسلئیل اسموتریچ، وزیر دارایی، به دلیل ایراد سخنان جنجالی درباره رأی‌دهندگان عرب و سلامت انتخابات مورد انتقاد قرار گرفته‌اند.",
+   "body_fa": [
+    "در پی نظرسنجی‌های پای صندوق که نشان‌دهنده افت آرای ائتلاف حاکم نتانیاهو بود، رهبران راست‌گرا ادعاهای جنجالی متعددی مطرح کردند. اسموتریچ، وزیر دارایی، درباره حضور بالای عرب‌ها در انتخابات هشدار داد و وعده گسترش شهرک‌ها در کرانه باختری و ایجاد شهرک‌های یهودی در غزه را داد. نتانیاهو و میری رگو، وزیر حمل‌ونقل، ادعاهای اثبات‌نشده‌ای درباره سرقت انتخابات مطرح کردند و نتانیاهو هشدار داد که مشارکت عرب‌ها هویت یهودی اسرائیل را تهدید می‌کند.",
+    "رهبران سیاسی عرب این سخنان را نژادپرستانه و تحریک‌آمیز خوانده و آن را محکوم کردند. در حالی که نتایج اولیه نشان می‌دهد ائتلاف راست‌گرای نتانیاهو از کسب ۶۱ کرسی لازم برای اکثریت پارلمانی بازمانده است، احزاب عرب می‌توانند نقشی کلیدی ایفا کنند؛ چنان‌که منصور عباس، رهبر حزب راعم، مدعی شده از سوی حزب نتانیاهو و ائتلاف اپوزیسیون با او تماس گرفته شده است."
+   ],
+   "title_ar": "اليمين الإسرائيلي يدلي بتصريحات مستفزة مع فرز أصوات الانتخابات",
+   "summary_ar": "مع استمرار فرز الأصوات في الانتخابات الإسرائيلية، أثار كبار الشخصيات اليمينية، بمن فيهم رئيس الوزراء بنيامين نتنياهو ووزير المالية بتسلئيل سموتريتش، انتقادات بسبب تصريحات مستفزة حول الناخبين العرب ونزاهة الانتخابات.",
+   "body_ar": [
+    "عقب استطلاعات رأي أظهرت تراجعاً لكتلة نتنياهو الحاكمة، أطلق أقطاب اليمين تصريحات مثيرة للجدل؛ حيث حذر وزير المالية سموتريتش من نسبة إقبال مرتفعة بين الناخبين العرب وتعهد بتوسيع الاستيطان في الضفة الغربية وإقامة مستوطنات في غزة. كما اتهم نتنياهو ووزيرة النقل ميري ريجيف جهات بـ\"سرقة الانتخابات\" دون تقديم أدلة، وحذر نتنياهو من أن مشاركة العرب تهدد الطابع اليهودي لإسرائيل.",
+    "وندد القادة السياسيون العرب بهذه التصريحات واصفين إياها بالعنصرية والتحريضية. ومع إظهار النتائج الجزئية عدم حصول كتلة اليمين بزعامة نتنياهو على أغلبية الـ61 مقعداً المطلوبة، قد تلعب الأحزاب العربية دوراً حاسماً، حيث صرح منصور عباس، قائد قائمة القائمة العربية الموحدة (رعام)، بتلقيه اتصالات من حزب نتنياهو والمعارضة على حد سواء."
+   ]
+  },
+  {
+   "id": "921cd12e5799",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261028-israel-netanyahu-and-eisenkot-both-pledge-to-form-government",
+   "date": "2026-10-28T09:06:44Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel: Netanyahu and Eisenkot both pledge to form government",
+   "title_en": "Israel: Netanyahu and Eisenkot both pledge to form government",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu and opposition figure Gadi Eisenkot have both promised to form the next government following close election exit polls.",
+   "body_en": [
+    "Exit projections indicate a tight race between Netanyahu and Eisenkot, with neither side expected to secure a clear parliamentary majority."
+   ],
+   "title_fa": "اسرائیل: نتانیاهو و آیزنکوت هر دو وعده تشکیل دولت دادند",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و گادی آیزنکوت، از چهره‌های اپوزیسیون، در پی اعلام نتایج پیش‌بینی‌شده نزدیک به هم در نظرسنجی‌های پای صندوق، هر دو وعده تشکیل دولت بعدی را دادند.",
+   "body_fa": [
+    "پیش‌بینی‌های پای صندوق نشان‌دهنده رقابت بسیار نزدیک میان نتانیاهو و آیزنکوت است و انتظار نمی‌رود هیچ‌یک از دو جناح اکثریت مطلق پارلمانی را به دست آورد."
+   ],
+   "title_ar": "إسرائيل: نتنياهو وآيزنكوت يتعهدان بتشكيل الحكومة",
+   "summary_ar": "تعهد كل من رئيس الوزراء الإسرائيلي بنيامين نتنياهو ومنافسه غادي آيزنكوت بتشكيل الحكومة المقبلة عقب إظهار استطلاعات الرأي منافسة محتدمة بينهما.",
+   "body_ar": [
+    "وتشير استطلاعات الخروج إلى تقارب شديد في النتائج بين نتنياهو وآيزنكوت، مع عدم تمكن أي من الكتلتين من الحصول على أغلبية برلمانية."
+   ]
+  },
+  {
+   "id": "b990531a1de7",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/crq8nw25j2e5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T08:41:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "آمادگی برای حمله‌ای دیگر؟ گزارش‌ها از تحرکات تازه نظامی آمریکا در برابر ایران",
+   "title_en": "Preparing for another attack? Reports of new U.S. military moves against Iran",
+   "summary_en": "U.S. officials have informed several Gulf states to prepare for a short and intense round of strikes against Iran following the American midterm elections, according to media reports detailing shifting U.S. military deployments.",
+   "body_en": [
+    "Reports indicate that the U.S. is moving a Patriot missile system to Israel, repositioning troops from vulnerable bases, and preparing aircraft carriers and Marines in the region. U.S. officials noted that President Trump leans toward a broad attack on Iranian infrastructure and nuclear facilities after the midterms.",
+    "Meanwhile, CENTCOM reports delivered to Congress show the war's cost has surpassed $47 billion. Analysts and intelligence assessments warn that further strikes may not alter Tehran's strategy and could instead incentivize Iran to expand its nuclear and missile programs."
+   ],
+   "title_fa": "آمادگی برای حمله‌ای دیگر؟ گزارش‌ها از تحرکات تازه نظامی آمریکا در برابر ایران",
+   "summary_fa": "بر اساس گزارش‌های رسانه‌ای درباره تغییر آرایش نظامی آمریکا، مقامات آمریکایی به چند کشور حاشیه خلیج فارس اطلاع داده‌اند که پس از انتخابات میان‌دوره‌ای برای دور دیگری از حملات کوتاه و شدید علیه ایران آماده باشند.",
+   "body_fa": [
+    "گزارش‌ها نشان می‌دهد آمریکا در حال انتقال یک سامانه پاتریوت به اسرائیل، جابه‌جایی نیروها از پایگاه‌های آسیب‌پذیر و آماده‌سازی ناوهای هواپیمابر و تفنگداران دریایی در منطقه است. مقام‌های آمریکایی اشاره کرده‌اند که ترامپ به حمله‌ای گسترده علیه زیرساخت‌ها و تأسیسات هسته‌ای ایران پس از انتخابات تمایل دارد.",
+    "در همین حال، گزارش‌های سنتکام به کنگره نشان می‌دهد هزینه جنگ از ۴۷ میلیارد دلار فراتر رفته است. کارشناسان و ارزیابی‌های اطلاعاتی هشدار می‌دهند که حملات بیشتر ممکن است رفتار تهران را تغییر نداده و برعکس انگیزه‌اش را برای توسعه برنامه‌های موشکی و هسته‌ای افزایش دهد."
+   ],
+   "title_ar": "استعدادات لهجوم آخر؟ تقارير عن تحركات عسكرية أمريكية جديدة ضد إيران",
+   "summary_ar": "أفادت تقارير إعلامية بأن مسئولين أمريكيين أبلغوا دولاً خاليجية بالاستعداد لجولة جديدة من الضربات القصيرة والمكثفة ضد إيران بعد الانتخابات النصفية الأمريكية، وسط إعادة تموضع عسكري أمريكي.",
+   "body_ar": [
+    "تشير التقارير إلى أن الولايات المتحدة تنقل نظام دفاع صاروخي من طراز باتريوت إلى إسرائيل، وتعيد تموضع قواتها من القواعد العرضة للهجمات، وتجهز حاملات طائرات ومشاة البحرية. وأشار مسؤولون أمريكيون إلى ترامب يميل لشن هجوم واسع على البنية التحتية والمنشآت النووية الإيرانية بعد الانتخابات.",
+    "في الوقت نفسه، أظهرت تقارير القيادة المركزية الأمريكية المقدمة للكونغرس أن تكلفة الحرب تجاوزت 47 مليار دولار. وحذر خبراء وتقييمات استخباراتية من أن الضربات الإضافية قد لا تغير سلوك طهران بل قد تحفزها على توسيع برنامجيها النووي والصاروخي."
+   ]
+  },
+  {
+   "id": "166dfc0891d5",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-iaea-chief/article71634749.ece",
+   "date": "2026-10-28T07:56:27Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Iran hasn't tried to repair nuclear facilities damaged in Israeli-U.S. strikes: IAEA chief",
+   "title_en": "Iran hasn't tried to repair nuclear facilities damaged in Israeli-U.S. strikes: IAEA chief",
+   "summary_en": "The head of the UN nuclear agency stated that there is no indication Iran has attempted to repair or rebuild nuclear facilities damaged in military strikes by the U.S. and Israel.",
+   "body_en": [
+    "Speaking at a UN Security Council meeting, IAEA chief Rafael Grossi urged Iran to allow inspectors access to all nuclear sites, including those damaged in attacks. He noted that the agency has been unable to verify Iran's stockpile of near weapons-grade uranium since U.S. bombings last year.",
+    "Iran's UN deputy ambassador Gholamhossein Darzi denounced the U.S. and Israel for their aggressions and criticized the council's silence. He did not address the IAEA's access demands, pointing instead to Israel's unconfirmed nuclear arsenal."
+   ],
+   "title_fa": "مدیرکل آژانس: ایران برای بازسازی تاسیسات هسته‌ای آسیب‌دیده در حملات آمریکا و اسرائیل تلاش نکرده است",
+   "summary_fa": "مدیرکل آژانس بین‌المللی انرژی اتمی اعلام کرد هیچ نشانه‌ای مبنی بر تلاش ایران برای ترميم یا بازسازی تأسیسات هسته‌ای آسیب‌دیده در حملات نظامی آمریکا و اسرائیل وجود ندارد.",
+   "body_fa": [
+    "رافائل گروسی، مدیرکل آژانس، در نشست شورای امنیت سازمان ملل از ایران خواست به بازرسان اجازه دسترسی به همه سایت‌های هسته‌ای، از جمله موارد آسیب‌دیده را بدهد. وی خاطرنشان کرد که آژانس از زمان بمباران سایت‌های ایران در سال گذشته توسط آمریکا، قادر به تأیید وضعیت ذخایر اورانیوم نزدیک به درجه تسلیحاتی ایران نبوده است.",
+    "غلامحسین درزی، معاون نماینده ایران در سازمان ملل، حملات آمریکا و اسرائیل را محکوم کرد و از سکوت شورای امنیت انتقاد نمود. وی به درخواست‌های آژانس برای دسترسی بازرسان اشاره‌ای نکرد و در مقابل به تسلیحات هسته‌ای تأییدنشده اسرائیل اشاره نمود."
+   ],
+   "title_ar": "مدير الوكالة الدولية للتقاقة الذرية: إيران لم تحاول إصلاح المنشآت النووية المتضررة من الضربات الأمريكية والإسرائيلية",
+   "summary_ar": "صرح رئيس وكالة الطاقة الذرية التابعة للأمم المتحدة بأنه لا توجد مؤشرات على محاولة إيران إصلاح أو إعادة بناء منشآتها النووية التي تضررت جراء الضربات العسكرية الأمريكية والإسرائيلية.",
+   "body_ar": [
+    "حث رئيس الوكالة الدولية للطاقة الذرية رافائيل غروسي، خلال اجتماع لمجلس الأمن الدولي، إيران على السماح للمفتشين بالوصول إلى جميع الموقع النووية، بما فيها تلك التي تضررت في الهجمات. وأشار إلى أن الوكالة لم تتمكن من التحقق من مخزون إيران من اليورانيوم القريب من الدرجة التسليحية منذ القصف الأمريكي العام الماضي.",
+    "من جانبه، ندد نائب السفير الإيراني لدى الأمم المتحدة غلام حسين درزي بالهجمات الأمريكية والإسرائيلية وانتقد صمت المجلس. ولم يتطرق إلى مطالبات الوكالة بدخول المفتشين، مشيراً بدلاً من ذلك إلى الترسانة النووية غير المعلنة لإسرائيل."
+   ]
+  },
+  {
+   "id": "f9ca68e3f3be",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-66-percent-ballots-counted-netanyahus-bloc-56-seats",
+   "date": "2026-10-28T07:38:07Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "More than 66 percent of ballots counted, Netanyahu's bloc at 56 seats",
+   "title_en": "More than 66 percent of ballots counted, Netanyahu's bloc at 56 seats",
+   "summary_en": "With over two-thirds of the votes counted in Israel's election, Prime Minister Benjamin Netanyahu's bloc leads with 56 seats, which remains short of a parliamentary majority.",
+   "body_en": [
+    "According to partial figures released by the Central Elections Committee after counting more than 66 percent of ballot boxes, Netanyahu's bloc leads the count but lacks the 61 seats needed to form a majority. The bloc led by Yashar's Gadi Eisenkot follows with 48 seats, while Palestinian-led parties hold 16 seats."
+   ],
+   "title_fa": "شمارش بیش از ۶۶ درصد آرا؛ ائتلاف نتانیاهو ۵۶ کرسی به دست آورده است",
+   "summary_fa": "با شمارش بیش از دو سوم آرای انتخابات اسرائیل، ائتلاف بنیامین نتانیاهو، نخست‌وزیر، با ۵۶ کرسی پیشتاز است اما هنوز تا کسب اکثریت پارلمانی فاصله دارد.",
+   "body_fa": [
+    "طبق نتایج جزئی اعلام‌شده از سوی کمیته مرکزی انتخابات پس از شمارش بیش از ۶۶ درصد صندوق‌ها، ائتلاف نتانیاهو پیشتاز است اما ۶۱ کرسی لازم برای تشکیل اکثریت را ندارد. ائتلاف تحت رهبری گادی آیزنکوت از حزب یاشار با ۴۸ کرسی در رتبه بعدی قرار دارد و احزاب فلسطینی ۱۶ کرسی به دست آورده‌اند."
+   ],
+   "title_ar": "فرز أكثر من 66 بالمئة من الأصوات: كتلة نتنياهو تحصل على 56 مقعداً",
+   "summary_ar": "مع فرز أكثر من ثلثي الأصوات في الانتخابات الإسرائيلية، تتصدر كتلة رئيس الوزراء بنيامين نتنياهو النتائج بـ 56 مقعداً، وهي نسبة لا تصل إلى الأغلبية البرلمانية.",
+   "body_ar": [
+    "وفقاً لنتائج جزئية نشرتها لجنة الانتخابات المركزية بعد فرز أكثر من 66 بالمئة من الصناديق، تتصدر كتلة نتنياهو النتائج لكنها تفتقر إلى 61 مقعداً اللازمة لتشكيل الأغلبية. وتليها الكتلة التي يقودها غادي آيزنكوت بـ 48 مقعداً، بينما حصلت الأحزاب ذات الأغلبية العربية على 16 مقعداً."
+   ]
+  },
+  {
+   "id": "795e392f598c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040402/netanyahu-rival-eisenkot-both-vow-to-form-government-after-inconclusive-israeli-election",
+   "date": "2026-10-28T05:46:35Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Netanyahu, rival Eisenkot both vow to form government after inconclusive Israeli election",
+   "title_en": "Netanyahu, rival Eisenkot both vow to form government after inconclusive Israeli election",
+   "summary_en": "Following an inconclusive Israeli election, both caretaker Prime Minister Benjamin Netanyahu and opposition rival Gadi Eisenkot have vowed to form a new government.",
+   "body_en": [
+    "With nearly 86 percent of votes tallied, broadcasters projected Netanyahu's right-wing bloc would win 53 seats and Eisenkot's bloc 48 seats in the 120-seat Knesset. Arab-Israeli parties were projected to win an unprecedented 19 seats, complicating paths to a parliamentary majority.",
+    "Netanyahu called for a strong right-wing national government and raised the prospect of joint action with the United States against Iran. Meanwhile, Eisenkot warned Netanyahu against using security for political ends, as the inconclusive results weighed on Israeli markets and weakened the shekel."
+   ],
+   "title_fa": "نتانیاهو و رقیبش آیزنکوت پس از انتخابات بی‌نتیجه اسرائیل هر دو بر تشکیل دولت تأکید کردند",
+   "summary_fa": "به دنبال برگزاری انتخابات بی‌نتیجه در اسرائیل، بنیامین نتانیاهو، نخست‌وزیر موقت، و گادی آیزنکوت، رقیب اپوزیسیون، هر دو متعهد شدند که دولت جدیدی تشکیل دهند.",
+   "body_fa": [
+    "با شمارش نزدیک به ۸۶ درصد آرا، شبکه‌های تلویزیونی پیش‌بینی کردند که بلوک راست‌گرای نتانیاهو ۵۳ کرسی و بلوک آیزنکوت ۴۸ کرسی در کنست ۱۲۰ کرسی به دست خواهند آورد. پیش‌بینی می‌شود حزب‌های عربی اسرائیل ۱۹ کرسی بی‌سابقه کسب کنند که مسیر دستیابی به اکثریت پارلمانی را پیچیده می‌کند.",
+    "نتانیاهو خواستار تشکیل یک دولت ملی قوی راست‌گرا شد و احتمال اقدام مشترک با ایالات متحده علیه ایران را مطرح کرد. در همین حال، آیزنکوت به نتانیاهو هشدار داد که از مسائل امنیتی برای اهداف سیاسی استفاده نکند، چرا که نتایج بی‌نتیجه بر بازارهای اسرائیل تأثیر گذاشته و ارزش شِکل را کاهش داده است."
+   ],
+   "title_ar": "نتنياهو ومنافسه آيزنكوت يتعهدان بتشكيل الحكومة بعد انتخابات إسرائيلية غير حاسمة",
+   "summary_ar": "في أعقاب انتخابات إسرائيلية غير حاسمة، تعهد كل من رئيس الوزراء المؤقت بنيامين نتنياهو ومنافسه المعارض غادي آيزنكوت بتشكيل حكومة جديدة.",
+   "body_ar": [
+    "مع فرز نحو 86 بالمائة من الأصوات، توقعت محطات البث أن يفوز كتلة نتنياهو اليمينية بـ 53 مقعداً وكتلة آيزنكوت بـ 48 مقعداً في الكنيست المكون من 120 مقعداً. ومن المتوقع أن تفوز الأحزاب العربية الإسرائيلية بـ 19 مقعداً غير مسبوقة، مما يعقّد الطرق نحو الأغلبية البرلمانية.",
+    "دعا نتنياهو إلى تشكيل حكومة وطنية قوية اليمين وأثار احتمال العمل المشترك مع الولايات المتحدة ضد إيران. وفي الوقت نفسه، حذر آيزنكوت نتنياهو من استخدام الأمن لأغراض سياسية، في الوقت الذي أثرت فيه النتائج غير الحاسمة على الأسواق الإسرائيلية وأضعفت الشيكل."
+   ]
+  },
+  {
+   "id": "43314cd9c666",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2040407/us-costs-of-iran-war-rise-to-over-47bn-according-to-pentagon-estimate",
+   "date": "2026-10-28T05:16:03Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "title_en": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "summary_en": "The US military has spent over $47 billion on the war in Iran, marking a significant increase over previous Defense Department estimates, according to Pentagon data.",
+   "body_en": [
+    "The latest estimate includes operational costs such as a projected expenditure of over $29 billion to replace expended munitions and more than $6 billion for military equipment and platform losses, including drones. The conflict, launched jointly with Israel by President Donald Trump in February, has impacted global energy costs and weighed on political support for Republican candidates ahead of the midterm elections."
+   ],
+   "title_fa": "بر اساس برآورد پنتاگون، هزینه‌های ایالات متحده در جنگ با ایران به بیش از ۴۷ میلیارد دلار رسید",
+   "summary_fa": "بر اساس داده‌های پنتاگون، ارتش ایالات متحده بیش از ۴۷ میلیارد دلار برای جنگ در ایران هزینه کرده است که نشان‌دهنده افزایشی چشمگیر نسبت به برآوردهای قبلی وزارت دفاع است.",
+   "body_fa": [
+    "آخرین برآورد شامل هزینه‌های عملیاتی مانند بیش از ۲۹ میلیارد دلار برای جایگزینی مهمات مصرف‌شده و بیش از ۶ میلیارد دلار برای تجهیزات نظامی و خسارت‌های پلتفرمی از جمله پهپادها است. این درگیری که در ماه فوریه توسط دونالد ترامپ و به‌طور مشترک با اسرائیل آغاز شد، بر هزینه‌های جهانی انرژی تأثیر گذاشته و حمایت سیاسی از نامزدهای جمهوری‌خواه را در آستانه انتخابات میادوره‌ای تحت‌الشعاع قرار داده است."
+   ],
+   "title_ar": "تكاليف الحرب الأمريكية على إيران ترتفع إلى أكثر من 47 مليار دولار وفقاً لتقديرات البنتاغون",
+   "summary_ar": "أنفق الجيش الأمريكي أكثر من 47 مليار دولار حتى الآن في خوض الحرب على إيران، وهو ما يمثل زيادة ملحوظة عن تقديرات وزارة الدفاع السابقة، وفقاً لبيانات البنتاغون.",
+   "body_ar": [
+    "يشمل التقدير الأخير تكاليف تشغيلية مثل تخصيص أكثر من 29 مليار دلار لاستبدال الذخائر المستخدمة، وأكثر من 6 مليار دلار للمعدات العسكرية وخسائر المنصات بما في ذلك الطائرات بدون طيار. وقد أثر الصراع، الذي أشنه الرئيس دونالد ترامب بالاشتراك مع إسرائيل في فبراير، على تكاليف الطاقة العالمية وألقى بظلاله على الدعم السياسي للمرشحين الجمهوريين عشية انتخابات الكونغرس."
+   ]
+  },
+  {
+   "id": "93600541ed20",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+   "date": "2026-10-28T05:00:55Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+   "title_en": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+   "summary_en": "Gulf states are pursuing a multipart peace plan aimed at reopening the Strait of Hormuz and securing a Houthi troop withdrawal in Yemen to prevent a conflict between the US and Iran.",
+   "body_en": [
+    "Under the proposal, Iran would reduce its timeline to reopen the Strait of Hormuz to four days after economic sanctions are lifted. In exchange for mediating a Houthi withdrawal in Yemen, the Houthis are requesting that Saudi Arabia lift its air and naval blockade on Houthi-controlled territory.",
+    "While Western and European diplomats are urging Iran to readmit UN weapons inspectors to its bombed nuclear sites, Iranian officials remain focused on security guarantees, a regional non-aggression pact, and long-term security arrangements that reduce the US presence in the Middle East."
+   ],
+   "title_fa": "تلاش کشورهای حوزه خلیج فارس برای دستیابی به توافق صلح چندجانبه جهت جلوگیری از تجدید جنگ آمریکا و ایران",
+   "summary_fa": "کشورهای حوزه خلیج فارس در حال پیگیری طرح صلح چندجانبه‌ای هستند که هدف آن بازگشایی تنگه هرمز و عقب‌نشینی نیروهای حوثی در یمن به منظور جلوگیری از درگیری میان آمریکا و ایران است.",
+   "body_fa": [
+    "بر اساس این پیشنهاد، ایران بازه زمانی بازگشایی تنگه هرمز را به چهار روز پس از لغو تحریم‌های اقتصادی کاهش می‌دهد. در مقابل میانجی‌گری برای عقب‌نشینی حوثی‌ها در یمن، حوثی‌ها خواستار رفع محاصره هوایی و دریایی مناطق تحت کنترل خود از سوی عربستان سعودی هستند.",
+    "در حالی که دیپلمات‌های غربی و اروپایی از ایران می‌خواهند به بازرسان تسلیحاتی سازمان ملل اجازه بازگشت به سایت‌های هسته‌ای بمباران‌شده را بدهد، مقامات ایرانی همچنان بر تضمین‌های امنیتی، پیمان عدم تجاوز منطقه‌ای و ترتیبات امنیتی بلندمدت برای کاهش حضور آمریکا در خاورمیانه تمرکز دارند."
+   ],
+   "title_ar": "دول الخليج تعمل على اتفاق سلام متعدد الأطراف لتجنب تجدد الحرب بين الولايات المتحدة وإيران",
+   "summary_ar": "تسعى دول الخليج إلى تنفيذ خطة سلام متعددة الأطراف تهدف إلى إعادة فتح مضيق هرمز وسحب قوات الحوثيين في اليمن لمنع نشوب صراع بين الولايات المتحدة وإيران.",
+   "body_ar": [
+    "بموجب المقترح، ستخفض إيران الجدول الزمني لإعادة فتح مضيق هرمز إلى أربعة أيام بعد رفع العقوبات الاقتصادية. وفي مقابل الوساطة لانسحاب الحوثيين في اليمن، يطالب الحوثيون السعودية برفع الحظر الجوي والبحري عن المناطق الخاضعة لسيطرتهم.",
+    "وبينما يحث ديپلوماسيون غربيون وأوروبيون إيران على السماح لمفتشي الأسلحة التابعين للأمم المتحدة بالعودة إلى مواقعها النووية التي تعرضت للقصف، يركز المسؤولون الإيرانيون على الضمانات الأمنية، ومعاهدة عدم اعتداء إقليمية، وترتيبات أمنية طويلة الأجل تقلل من الوجود الأمريكي في الشرق الأوسط."
+   ]
+  },
+  {
+   "id": "9ee0cb8bd646",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-claims-israel-has-unprecedented-chance-remove-iranian-threat",
+   "date": "2026-10-28T04:10:23Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Netanyahu claims Israel has 'unprecedented' chance to remove Iranian threat",
+   "title_en": "Netanyahu claims Israel has 'unprecedented' chance to remove Iranian threat",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu stated during a speech that Israel faces an unprecedented opportunity to eliminate what he described as an existential threat from Iran.",
+   "body_en": [
+    "Speaking during an address, Netanyahu claimed that Israel is standing before a unique opportunity to permanently remove the existential threat posed by Iran."
+   ],
+   "title_fa": "نتانیاهو مدعی شد اسرائیل فرصتی «بی‌سابقه» برای رفع تهدید ایران دارد",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، طی سخنرانی خود گفت که اسرائیل با فرصتی بی‌سابقه برای از بین بردن آنچه تهدید وجودی از سوی ایران خواند، مواجه است.",
+   "body_fa": [
+    "نتانیاهو در طول سخنرانی خود ادعا کرد که اسرائیل در برابر یک فرصت استثنایی برای حذف همیشگی تهدید وجودی ناشی از ایران قرار گرفته است."
+   ],
+   "title_ar": "نتنياهو يدعي أن إسرائيل لديها فرصة \"غيرسبوقة\" لإزالة التهديد الإيراني",
+   "summary_ar": "صرح رئيس الوزراء الإسرائيلي بنيامين نتنياهو خلال كلمة ألقاها بأن إسرائيل تواجه فرصة غير سبوقة للقضاء على ما وصفه بالتهديد الوجودي الذي تشكله إيران.",
+   "body_ar": [
+    "وادعى نتنياهو خلال كلمته أن إسرائيل تقف أمام فرصة فريدة للقضاء نهائياً على التهديد الوجودي المتمثل في إيران."
+   ]
+  },
+  {
+   "id": "97e43c08066e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-28T01:10:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم",
+   "title_en": "Trump: Attacking Iran is one of the best things I've done",
+   "summary_en": "Donald Trump stated at a political rally that he would not change his decision to attack Iran, calling it one of the best things he has ever done.",
+   "body_en": [
+    "Speaking to supporters in Texas, Trump answered in the affirmative when asked if he would attack Iran again, describing it as one of the greatest actions of his life.",
+    "According to Reuters data from the Pentagon, the US military has spent over $47 billion on the war with Iran so far, a figure 25 percent higher than the July estimate."
+   ],
+   "title_fa": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم",
+   "summary_fa": "دونالد ترامپ در یک میتینگ انتخاباتی گفت که اگر به عقب بازگردد تصمیمش را عوض نخواهد کرد و جنگ با ایران را یکی از بهترین کارهای خود خواند.",
+   "body_fa": [
+    "ترامپ در جمع هواداران خود در تگزاس در پاسخ به این پرسش که آیا باز هم به ایران حمله می‌کرد، گفت که این کار قطعاً یکی از بزرگ‌ترین اقدامات زندگی‌اش بوده است.",
+    "بر اساس داده‌های رویترز به نقل از پنتاگون، ارتش آمریکا تاکنون بیش از ۴۷ میلیارد دلار برای این جنگ هزینه کرده که این رقم ۲۵ درصد بیشتر از برآورد ماه ژوئیه است."
+   ],
+   "title_ar": "ترامپ: الهجوم على إيران هو أحد أفضل الأمور التي فعلتها",
+   "summary_ar": "صرح دونالد ترامپ في تجمع انتخابي بأنه لن يغير قراره بشأن مهاجمة إيران، معتبرًا إياه أحد أفضل الأمور التي قام بها.",
+   "body_ar": [
+    "خلال حديثه أمام مؤيديه في تكساس، أكد ترامپ أنه كان سيهاجم إيران مرة أخرى إذا أتيحت له الفرصة، واصفاً ذلك بأنه أحد أعظم الإنجازات في حياته.",
+    "وبحسب بيانات رويترز المستمدة من البنتاغون، أنفق الجيش الأمريكي أكثر من 47 مليار دلار على الحرب مع إيران حتى الآن، وهو رقم يترفع بنسبة 25 بالمئة عن تقديرات شهر يوليو."
+   ]
+  },
+  {
+   "id": "f2b4bcff75cd",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahus-bloc-overtakes-eisenkots-palestinian-led-parties-rise-19",
+   "date": "2026-10-28T00:42:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Netanyahu's bloc overtakes Eisenkot's, as Palestinian-led parties rise to 19 seats",
+   "title_en": "Netanyahu's bloc overtakes Eisenkot's, as Palestinian-led parties rise to 19 seats",
+   "summary_en": "According to Israel's Channel 12, Prime Minister Benjamin Netanyahu's bloc has risen to 52 seats, surpassing the bloc led by Eisenkot. Meanwhile, Palestinian-led parties have increased their representation to 19 seats.",
+   "body_en": [
+    "Netanyahu's bloc has reportedly risen to 52 seats, overtaking Eisenkot's bloc, according to Israel's Channel 12. Concurrently, Palestinian-led parties have seen their total rise to 19 seats."
+   ],
+   "title_fa": "پیشی گرفتن ائتلاف نتانیاهو از ائتلاف آیزنکوت و افزایش کرسی‌های احزاب عربی به ۱۹ کرسی",
+   "summary_fa": "بر اساس گزارش شبکه ۱۲ اسرائیل، ائتلاف بنیامین نتانیاهو با رسیدن به ۵۲ کرسی از ائتلاف آیزنکوت پیشی گرفته است. در همین حال، کرسی‌های احزاب فلسطینی به ۱۹ کرسی افزایش یافته است.",
+   "body_fa": [
+    "به گزارش شبکه ۱۲ اسرائیل، ائتلاف نتانیاهو به ۵۲ کرسی دست یافته و از ائتلاف آیزنکوت جلو زده است. همزمان، شمار کرسی‌های احزاب فلسطینی به ۱۹ کرسی رسیده است."
+   ],
+   "title_ar": "كتلة نتنياهو تتجاوز كتلة آيزنوت مع ارتفاع الأحزاب العربية إلى 19 مقعداً",
+   "summary_ar": "وفقاً للقناة 12 الإسرائيلية، ارتفعت كتلة رئيس الوزراء بنيامين نتنياهو إلى 52 مقعداً متجاوزة كتلة آيزنوت، بينما زادت الأحزاب التي تقودها شخصيات فلسطينية مقاعدها إلى 19 مقعداً.",
+   "body_ar": [
+    "وبحسب القناة 12 الإسرائيلية، فقد ارتفعت كتلة نتنياهو إلى 52 مقعداً متجاوزة كتلة آيزنوت. وفي الوقت نفسه، ارتفعت حصة الأحزاب التي تقودها شخصيات فلسطينية إلى 19 مقعداً."
+   ]
+  },
+  {
+   "id": "db2d0b0d604a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+   "date": "2026-10-27T22:29:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "title_en": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "summary_en": "Iranian President Masoud Pezeshkian stated at a summit in Russia that the Middle East can resolve its own issues without the United States.",
+   "body_en": [
+    "The remarks were made by the Iranian president during the summit for gas exporting countries held in Russia."
+   ],
+   "title_fa": "پزشکیان: خاورمیانه می‌تواند مسائل خود را بدون آمریکا حل کند",
+   "summary_fa": "مسعود پزشکیان در اجلاسی در روسیه اظهار داشت که خاورمیانه می‌تواند مسائل خود را بدون دخالت ایالات متحده حل و فصل کند.",
+   "body_fa": [
+    "این سخنان در جریان اجلاس کشورهای صادرکننده گاز در روسیه از سوی رئیس‌جمهور ایران مطرح شد."
+   ],
+   "title_ar": "پزشکیان: يمكن الشرق الأوسط حل مشاكله بدون أمريكا",
+   "summary_ar": "صرح الرئيس الإيراني مسعود پزشکیان خلال قمة في روسيا بأن الشرق الأوسط قادر على حل مشاكله الخاصة دون الحاجة إلى الولايات المتحدة.",
+   "body_ar": [
+    "جاءت تصريحات الرئيس الإيراني خلال قمة الدول المصدرة للغاز التي عقدت في روسيا."
+   ]
+  },
   {
    "id": "0e96da27290f",
    "lang": "en",

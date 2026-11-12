@@ -1,2181 +1,6 @@
 {
- "updated": "2026-11-11T19:21:17Z",
+ "updated": "2026-11-12T01:28:53Z",
  "items": [
-  {
-   "id": "e73608bde593",
-   "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-   "date": "2026-11-09T23:55:23Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "US President Donald Trump made the remarks after meeting Qatar's prime minister in Washington, DC.",
-   "score": 8,
-   "dup_of": "5dbb87056321"
-  },
-  {
-   "id": "7aa169913aa7",
-   "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-   "date": "2026-11-09T23:47:11Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
-   "score": 6,
-   "dup_of": "bbc521794146"
-  },
-  {
-   "id": "ee6742e73a89",
-   "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-   "date": "2026-11-09T22:31:19Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
-   "score": 9
-  },
-  {
-   "id": "49d1109f6c1a",
-   "title": "Saudi Arabia reports new attack on key East-West pipeline",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-   "date": "2026-11-09T22:10:52Z",
-   "countries": [
-    "SAU"
-   ],
-   "desc": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
-   "score": 9
-  },
-  {
-   "id": "40e7f7810c67",
-   "title": "Trump says U.S. military action against Iran not necessary ‘at this point’",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-president-donald-trump-military-action-on-iran/article71684117.ece",
-   "date": "2026-11-09T22:14:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "“At this point ... taking ​the military ‌action doesn’t seem to be a very necessary ‌thing. But ​we’re locked and loaded, ⁠ready to go for any ‌reason that changes,” Mr. Trump said",
-   "score": 8,
-   "dup_of": "ee6742e73a89"
-  },
-  {
-   "id": "99782a265043",
-   "title": "ترامپ: از سرگیری حملات به ایران بسیار بعید است",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.co.uk/persian/live/cmx2d20qnl88t?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T01:13:40Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "دونالد ترامپ گفته است که از سرگیری حملات ایالات متحده علیه ایران «بسیار بعید و غیرضروری» است. آقای ترامپ پس از شکست سنگین حزبش در انتخابات میان‌دوره‌ای در کاخ سفید گفت که ایران «از نظر نظامی عملاً از پا درآمده است» و روندی مثبت به سوی دستیابی به توافقی برای پایان دادن به جنگ شکل گرفته است. او پس از دیدار با نخست‌وزیر قطر گفت قدرت‌های منطقه خواهان حفظ وضعیت موجود هستند.",
-   "score": 8,
-   "dup_of": "5dbb87056321"
-  },
-  {
-   "id": "9b6cbbc69269",
-   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T01:55:22Z",
-   "countries": [
-    "IND"
-   ],
-   "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-   "score": 2
-  },
-  {
-   "id": "1e8eade9d411",
-   "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-   "date": "2026-11-10T03:17:51Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "desc": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-   "score": 8
-  },
-  {
-   "id": "68b9aafc5a8c",
-   "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
-   "date": "2026-11-10T01:59:59Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
-   "score": 5
-  },
-  {
-   "id": "b8309b7ae717",
-   "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-   "date": "2026-11-10T01:56:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
-   "score": 5
-  },
-  {
-   "id": "3cbc32ffad21",
-   "title": "France blames Iran for October supermarket cyberattack",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
-   "date": "2026-11-10T01:01:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
-   "score": 6
-  },
-  {
-   "id": "a976a69a6b3e",
-   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-   "date": "2026-11-10T01:00:00Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
-   "score": 8,
-   "dup_of": "ee6742e73a89"
-  },
-  {
-   "id": "371c7742f45b",
-   "title": "Saudi-led coalition intercepts drone Eastern Province",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-drone-eastern-province",
-   "date": "2026-11-10T03:58:13Z",
-   "countries": [
-    "SAU"
-   ],
-   "desc": "Saudi-led coalition intercepts drone Eastern Province The Saudi-led coalition said intercepted and destroyed a drone over Saudi Arabia's oil-rich Eastern Province. The Eastern Region, which is the economic powerhouse of Saudi Arabia, contains the majority of the kingdom's oil and gas reserves and is home to oil giant Saudi Aramco's 2222.SE headquarters.",
-   "score": 7
-  },
-  {
-   "id": "83faaa0d361d",
-   "title": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-missiles-launched-towards-riyadh-destroyed-saudi-led",
-   "date": "2026-11-10T01:10:05Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "desc": "Two Houthi missiles launched towards Riyadh destroyed, Saudi-led coalition says The Saudi-led coalition said that it intercepted and destroyed two missiles launched by Yemen's Houthis towards Riyadh. Earlier, Saudi Arabia's civil defence authorities warned of a potential threat in the capital, later lifting the alert after the danger was assessed to have passed.",
-   "score": 8,
-   "dup_of": "1e8eade9d411"
-  },
-  {
-   "id": "3bb5a416a03a",
-   "title": "Saudi-led coalition says it intercepted Houthi missile",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-missile-1",
-   "date": "2026-11-10T00:31:27Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "desc": "Saudi-led coalition says it intercepted Houthi missile The Saudi-led coalition said that air defences have intercepted and destroyed a ballistic missile launched by Yemen’s Houthis towards southern Saudi Arabia.",
-   "score": 7,
-   "dup_of": "1e8eade9d411"
-  },
-  {
-   "id": "eed40c7f22be",
-   "title": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks'",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-senior-official-stop-manufacturing-fake-news-about-imaginary",
-   "date": "2026-11-09T22:36:42Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Iranian senior official: 'STOP manufacturing FAKE NEWS about imaginary talks' Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said in a post on X late on Monday that the US government is \"wrecked\" by the war on Iran. \"The war on Iran has already wrecked the US government. But Washington flails like a desperate gambler,\" Rezaei said. \"FOLD YOUR HAND. STOP manufacturing FAKE NEWS about imaginary talks,\" he added. He also called on the US to recognise the \"West Asian NEW ORDER\" and \"SURRENDER\" to Iran's seven conditions, which Iran set out in a June interim agreement with th",
-   "score": 7
-  },
-  {
-   "id": "8e96d04174b7",
-   "title": "Qatari prime minister says discussions with Trump were 'positive'",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-prime-minister-says-discussions-trump-were-positive",
-   "date": "2026-11-09T22:05:42Z",
-   "countries": [
-    "QAT"
-   ],
-   "desc": "Qatari prime minister says discussions with Trump were 'positive' In a post on X, Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani said his discussions with US President Donald Trump and Vice President JD Vance were \"positive.\" \"It was great meeting President Donald Trump and Vice President JD Vance in Washington,\" Sheikh Mohammed said. \"Grateful for the positive discussions on reaching a deal and bringing peace to the region,\" he added.",
-   "score": 8,
-   "dup_of": "a976a69a6b3e"
-  },
-  {
-   "id": "bbd89624ee12",
-   "title": "Opposition demands ‘return to talks’ in AJK",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043421/opposition-demands-return-to-talks-in-ajk",
-   "date": "2026-11-10T02:02:51Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: Calling for immediate talks with the Joint Awami Action Committee, the main opposition alliance claimed on Monday that a delegation of the Tehreek-i-Tahafuz Ayin-i-Pakistan (TTAP) was stopped from travelling to Azad Jammu and Kashmir. The delegation was travelling to AJK to meet protesters, express solidarity, and assess the situation, but was stopped at Kahuta and not permitted to proceed further, TTAP spokesperson Hussein Ahmed Yousafzai said. There is no justification for stopping a peaceful political delegation from accessing protesters, and the government ought to have provided",
-   "score": 4
-  },
-  {
-   "id": "30cb78543283",
-   "title": "Rs3.2m recovered in online scams; child exploiter held",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043386/rs32m-recovered-in-online-scams-child-exploiter-held",
-   "date": "2026-11-10T03:38:06Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: Continuing its zero-tolerance policy against cybercrime, the National Cyber Crime Investigation Agency (NCCIA) recovered Rs3.2 million in two separate online investment and trading fraud cases and arrested a suspect involved in child exploitation and blackmailing of a minor during an intensified crackdown in Rawalpindi. In the first case, the NCCIA recovered Rs1.8m from suspects involved in an online investment fraud in which a citizen was defrauded of over Rs2.9m through Facebook and WhatsApp. According to the agency, the complainant was initially contacted on Facebook through an a",
-   "score": 1
-  },
-  {
-   "id": "8301ce36481f",
-   "title": "France blames Iran for cyberattack on supermarket fridges",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
-   "date": "2026-11-10T03:31:36Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "The October 12 attack sent refrigerator temperatures soaring, affecting about 700 of France’s supermarkets",
-   "score": 6,
-   "dup_of": "3cbc32ffad21"
-  },
-  {
-   "id": "1902c81446f8",
-   "title": "Heat-trapping carbon pollution drops, but scientists cite Iran war rather than energy progress",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece",
-   "date": "2026-11-10T02:16:59Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "In 2026, the world emitted 42.2 billion tonne of heat-trapping carbon dioxide from the burning of fossil fuels such as coal, oil and gas. It's a 0.4% decrease from last year, according to the scientists of the Global Carbon Project",
-   "score": 4
-  },
-  {
-   "id": "cb7b49f500ca",
-   "title": "آنچه گذشت؛ ترامپ:‌ در صورت پیشرفت مذاکرات، حملات جدید به ایران بسیار بعید است",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.co.uk/persian/live/c9x28erk2yv0t?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T03:59:23Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "دونالد ترامپ، رئیس‌جمهور آمریکا، می‌گوید در صورت پیشرفت مذاکرات درباره برنامه هسته‌ای ایران و بازگشایی تنگه هرمز، احتمال این که ناچار شود دستور ازسرگیری جنگ با ایران را صادر کند، «بسیار بعید» است. عباس عراقچی، وزیر خارجه ایران هم پیش‌تر گفته بود که «پیشنهاد دو روزه» ایران برای باز شدن تنگه هرمز در صورت برآورده شدن شرایطش همچنان روی میز است و افزود کاخ سفید باید در این باره تصمیم بگیرد.",
-   "score": 3,
-   "dup_of": "5dbb87056321"
-  },
-  {
-   "id": "6cac79bdf1e8",
-   "title": "روسيا وأوكرانيا تستأنفان مفاوضاتهما اليوم في أبوظبي برعاية أمريكية بعد انقطاع ثمانية أشهر",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cxnv0vgz14jno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T03:36:04Z",
-   "countries": [
-    "ARE"
-   ],
-   "desc": "تستأنف روسيا وأوكرانيا مفاوضاتهما في أبوظبي برعاية أمريكية، بمشاركة مبعوثين أمريكيين ومحادثات منفصلة مع ممثلين أوروبيين، وسط آمال محدودة بتحقيق اختراق دبلوماسي. وتتركز المخاوف الأوروبية على احتمال فرض واشنطن تسوية بشروط غير مواتية لكييف، في وقت تشكك فيه أوكرانيا بجدية موسكو في التفاوض.",
-   "score": 7,
-   "dup_of": "eaaf087e9e57"
-  },
-  {
-   "id": "f91bbf340495",
-   "title": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-   "date": "2026-11-10T06:37:13Z",
-   "countries": [
-    "PSE"
-   ],
-   "desc": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
-   "score": 4
-  },
-  {
-   "id": "df306a5985c9",
-   "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-   "date": "2026-11-10T06:22:00Z",
-   "countries": [
-    "IRQ"
-   ],
-   "desc": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups.",
-   "score": 7,
-   "dup_of": "4147127ddb68"
-  },
-  {
-   "id": "f3b35d58b5b4",
-   "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
-   "date": "2026-11-10T05:39:50Z",
-   "countries": [
-    "PSE"
-   ],
-   "desc": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
-   "score": 6,
-   "dup_of": "e9fab194082d"
-  },
-  {
-   "id": "326f2d169f65",
-   "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
-   "date": "2026-11-10T05:23:57Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
-   "score": 6,
-   "dup_of": "2d1f493c6885"
-  },
-  {
-   "id": "546347761b78",
-   "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-   "date": "2026-11-10T05:02:33Z",
-   "countries": [
-    "ARE"
-   ],
-   "desc": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
-   "score": 6
-  },
-  {
-   "id": "d301c20d9868",
-   "title": "New Knesset speaker could be key to ousting Netanyahu as Israel’s PM",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-   "date": "2026-11-10T06:00:31Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Opposition politicians get first chance to take control of levers of power, even as they struggle to form government Israel’s new Knesset will be sworn in on Tuesday, giving opposition politicians their first chance to take control of some levers of power, even as they struggle to form a new government to unseat Benjamin Netanyahu. High on the agenda will be replacing the speaker, who wields immense influence by controlling the legislature’s agenda. The role is currently held by Amir Ohana, a close ally of Netanyahu. Continue reading...",
-   "score": 7
-  },
-  {
-   "id": "63a6e3eb65c4",
-   "title": "How a Jordan mosque is recycling ritual water to create a green oasis",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/10/mosque-jordan-valley-ablution-water-irrigation",
-   "date": "2026-11-10T05:00:29Z",
-   "countries": [
-    "JOR"
-   ],
-   "desc": "In a country of severe water scarcity, the Abu Obeida mosque in Deir Alla captures ablution wastewater before it reaches the sewers to use for irrigation The Abu Obeida mosque in Deir Alla, Balqa, to the west of Amman, stands in one of the hottest and most arid stretches of the Jordan valley. Yet an oasis of trees and flowerbeds surrounds it, improbably green against a landscape of bare ochre hills, watered by drip irrigation lines that run along the ground between the roots. The water does not come from the municipal network, but from the taps where worshippers wash their hands, faces and fee",
-   "score": 3
-  },
-  {
-   "id": "750aac584c2f",
-   "title": "The Arab vote in the Israeli elections",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arab-vote-israeli-elections",
-   "date": "2026-11-10T07:03:34Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "The Arab vote in the Israeli elections Two weeks after Israel held its first general elections since October 2023, opposition leader Gadi Eisenkot has been tasked with forming a government. The election saw a historic voter turnout for Palestinian citizens of Israel, who headed to the ballot for one reason: to oust Benjamin Netanyahu. On this One on One, Balad party leader Sami Abou Shehadeh tells Middle East Eye that although the Arab vote has prevented Netanyahu from forming another far-right government, racism against Palestinians is still prevalent across the Israeli political board. \"The ",
-   "score": 5
-  },
-  {
-   "id": "e55011facd2c",
-   "title": "Trump says hits on Iran could be 'five times bigger' than previous US attacks",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-hits-iran-could-be-five-times-bigger-previous-us-attacks",
-   "date": "2026-11-10T06:42:12Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Trump says hits on Iran could be 'five times bigger' than previous US attacks US president Donald Trump said that renewed attacks on Iran could be \"five times bigger\" than previous strikes on the country. He made the remarks during a phone interview with C-SPAN’s Washington Journal Primetime, where he also boasted about having \"wiped out\" Iran's navy, air force, anti-aircraft and their leaders. \"They want to make a deal. They don’t say that, you know, publicly,\" Trump said. \"In speaking with Qatar – as you know, the prime minister was in the Oval Office today – in speaking to Saudi Arabia, UAE",
-   "score": 9
-  },
-  {
-   "id": "e0239803aa58",
-   "title": "US issues warnings against travel to six countries in the Middle East",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-issues-warnings-against-travel-six-countries-middle-east",
-   "date": "2026-11-10T05:58:07Z",
-   "countries": [
-    "IRN",
-    "IRQ",
-    "LBN",
-    "SYR",
-    "YEM"
-   ],
-   "desc": "US issues warnings against travel to six countries in the Middle East The US State Department has warned its citizen against travelling to six Middle Eastern countries, including Iran, Iraq, Lebanon, Libya, Syria and Yemen. In a post on X, the department said all six countries remained under its highest travel advisory, Level 4, which instructs Americans not to travel for any reason. \"We assign Level 4 based on local conditions and/or our limited ability to help Americans there,\" it said. \"These places are dangerous. Do not go for any reason.\"",
-   "score": 4
-  },
-  {
-   "id": "89d2f9d5e48d",
-   "title": "US aircraft evacuated from second UK base due to alleged Iran threat: Report",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-aircraft-evacuated-second-uk-base-due-alleged-iran-threat-report",
-   "date": "2026-11-10T05:48:58Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "US aircraft evacuated from second UK base due to alleged Iran threat: Report The US military evacuated aircraft from an airbase in the UK after an alleged threat from Iran, according to a report by the Wall Street Journal.",
-   "score": 7
-  },
-  {
-   "id": "8ede32a32948",
-   "title": "Watch: German Chancellor Merz links criticism of Israel to antisemitism",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-german-chancellor-merz-links-criticism-israel-antisemitism",
-   "date": "2026-11-10T04:49:10Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Watch: German Chancellor Merz links criticism of Israel to antisemitism German Chancellor Friedrich Merz said that the country \"stands steadfastly by Israel’s side\". Speaking during a ceremony marking the 20th anniversary of the opening of the Ohel Jakob Synagogue, Merz told the audience that much of \"the language of anti-colonial liberation struggles or criticism of Israel\" qualifies as \"antisemitism', which he said \"is once again omnipresent today\", German Chancellor Friedrich Merz linked some anti-colonial and anti-Israel rhetoric to antisemitism during a speech at Munich’s Ohel Jakob Synag",
-   "score": 4
-  },
-  {
-   "id": "f22ed3527de2",
-   "title": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded'",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-war-iran-could-be-ending-fairly-soon-warned-us-locked-and",
-   "date": "2026-11-10T04:26:38Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Trump says war on Iran could be 'ending fairly soon', but warned that US is 'locked and loaded' US President Donald Trump suggested that the war on Iran could end \"fairly soon\", but warned that the US is militarily \"locked and loaded\". \"We’re seeing momentum toward the end of this conflict. I think it’s going to be ending fairly soon,\" he said during a news conference. Trump expressed that Tehran was \"talking very politely\", but reiterated that its forces are ready to strike. \"I don’t guarantee anything. But if we do have to go back in, we are locked and loaded and ready to go,\" the US preside",
-   "score": 9
-  },
-  {
-   "id": "927fad1ae7bb",
-   "title": "PM Shehbaz to leave for Turkiye today, will address COP31 tomorrow",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-to-leave-for-turkiye-today-will-address-cop31-tomorrow",
-   "date": "2026-11-10T06:49:59Z",
-   "countries": [
-    "TUR"
-   ],
-   "desc": "Prime Minister Shehbaz Sharif will be undertaking a visit to Antalya in Turkiye from Nov 10-12 to participate in the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). According to the Foreign Office (FO), the premier will address the summit on Nov 11, during which he will urge the global community to take concrete actions to address the threat posed by climate change to the planet. He will highlight “Pakistan’s steps towards rapid solarisation and expansion of its renewable energy capacity, as part of its trans",
-   "score": 3
-  },
-  {
-   "id": "b3c6cdbc1014",
-   "title": "LPG strike postponed after talks",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043371/lpg-strike-postponed-after-talks",
-   "date": "2026-11-10T02:03:58Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "KARACHI: The Pakistan LPG Marketers Association has postponed its planned strike after a meeting with Sindh Governor Syed Nehal Hashmi on Monday. The PLPGMA had annou­nced a strike for Nov 16 over the lack of consultation on the LPG policy. The meeting discussed LPG supply and related policy matters in the context of the evolving Middle East situation and prevailing energy challenges. The Sindh governor emphasised that ensuring an uninterrupted supply of LPG was essential given the current energy challenges, a press release from the Governor House said. PLPGMA Senior Vice President Ali Haider ",
-   "score": 2
-  },
-  {
-   "id": "20c9d3661eda",
-   "title": "High returns lure foreign investors",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043374/high-returns-lure-foreign-investors",
-   "date": "2026-11-10T02:03:58Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "KARACHI: Foreign investment in Pakistan Investment Bonds (PIBs) exceeded $500 million in the first four months of 2026-27, reflecting growing interest in the higher returns offered by domestic bonds. Additionally, inflows in the treasury bills (T-bills) totalled $238 million in the July-October period of FY27. Returns on domestic bonds were already the highest in the region when the State Bank of Pakistan (SBP) raised its policy rate by 50 basis points to 12 per cent on Oct 26. The financial sector believes the attraction is too strong to ignore, not only for foreign investors but also for dom",
-   "score": 3
-  },
-  {
-   "id": "391cefa13b29",
-   "title": "Hegseth likely to face impeachment vote this week",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week",
-   "date": "2026-11-10T02:38:21Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "WASHINGTON: Repres­­­entative Thomas Massie, a Kentucky Republican, introduced articles of impeachment against US Defence Secretary Pete Hegseth on Monday, setting off a two-day clock for an expected House vote on Wednesday on charges including waging war against Iran without congressional approval and other abuses of power. Hegseth, who calls himself the “secretary of war” as part of his effort to rebrand a military he says was too weak and “woke” when he took office last year, could share something in common with an actual secretary of war. William Belknap, who held that title in 1876, becam",
-   "score": 7,
-   "dup_of": "bbc521794146"
-  },
-  {
-   "id": "c3b2077430cc",
-   "title": "Lahore's Government College forms committee to probe charges against teacher",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043393/lahores-government-college-forms-committee-to-probe-charges-against-teacher",
-   "date": "2026-11-10T05:51:45Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "LAHORE: Government College (GC) has constituted a committee to investigate harassment and blackmail allegations against a faculty member after two women attacked him during a conference here Nov 7. The incident took place during tea break at Thaap Conference, when two women allegedly attacked an assistant professor of English at the GC, with punches, according to witnesses, who intervened and later spoke to Dawn . They say three women were present at the conference, where two of them attacked the teacher, while the third filmed the episode on her mobile phone. The video went viral on social me",
-   "score": 1
-  },
-  {
-   "id": "c687437a9498",
-   "title": "Repatriation of illegal Afghan nationals slows down in Khyber",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043350/repatriation-of-illegal-afghan-nationals-slows-down-in-khyber",
-   "date": "2026-11-10T05:43:31Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "desc": "KHYBER: Repatriation of undocumented Afghan nationals has considerably slowed down in recent weeks due to poor living conditions coupled with the impending harsh winter in most parts of Afghanistan, officials say. Sources in Landi Kotal and Torkham told Dawn that 10-15 families were returning to Afghanistan daily, compared to hundreds recorded last September and August. An official at the Hamza Baba registration centre said that the return process had slowed down over the last few weeks, with a mere 100 individuals, mostly children, going back compared to over 1,000 daily until the last week o",
-   "score": 6
-  },
-  {
-   "id": "b8f50234611b",
-   "title": "Used car imports under gift scheme persist despite tough restrictions, say vendors",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043373/used-car-imports-under-gift-scheme-persist-despite-tough-restrictions-say-vendors",
-   "date": "2026-11-10T02:03:58Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "KARACHI: Imports of used cars under the gift scheme have continued, with more than 2,000 units arriving in the country during October despite tough import restrictions by the government, according to auto vendors. While used car imports continue, vendors are also unhappy with the new auto policy announced by the government last week, which they believe will damage local component manufacturing by 1,200 engineering enterprises. “All these vehicles are imported through payments to Japanese auction houses via hawala channels and unregulated domestic sales through cash transactions,” former chairm",
-   "score": 2
-  },
-  {
-   "id": "86fdbe97be53",
-   "title": "Fossil fuel emissions fall due to Iran war, renewables: research",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043484/fossil-fuel-emissions-fall-due-to-iran-war-renewables-research",
-   "date": "2026-11-10T06:28:17Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Global fossil fuel emissions are projected to fall slightly in 2026 due to the expansion of renewable energy and the oil price shock sparked by the Iran war, researchers said Tuesday. Emissions from the burning of oil, gas and coal — the main drivers of climate change —rose by 0.9 per cent per year on average in the past decade, hitting a record high in 2025, according to the Global Carbon Budget report. But they are expected to drop by 0.4pc in 2026, according to the research, published as nations meet at the UN’s COP31 climate summit in Antalya, Turkiye. It would be the first annual drop sin",
-   "score": 6
-  },
-  {
-   "id": "975a3a13a3cf",
-   "title": "G7 attention in Paris turns to Ukraine while U.S.-mediated talks get underway in Abu Dhabi",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/g7-attention-in-paris-turns-to-ukraine-while-us-mediated-talks-get-underway-in-abu-dhabi/article71685297.ece",
-   "date": "2026-11-10T07:12:42Z",
-   "countries": [
-    "ARE"
-   ],
-   "desc": "It was not immediately clear if the U.S. or any of its G7 partners would announce any new assistance for Ukraine",
-   "score": 7,
-   "dup_of": "eaaf087e9e57"
-  },
-  {
-   "id": "b999cf83e4bc",
-   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
-   "date": "2026-11-10T06:45:19Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "The gunmen took the three workers from Khyber Pakhtunkhwa’s Tank district to an undisclosed location after abducting them. The abducted workers were identified as Mir Janan, Ikram and Khanzala, says police",
-   "score": 6
-  },
-  {
-   "id": "3ac6d44b8143",
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T09:40:31Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-   "score": 9,
-   "dup_of": "f22ed3527de2"
-  },
-  {
-   "id": "6a4fa27f4fb7",
-   "title": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
-   "date": "2026-11-10T09:29:54Z",
-   "countries": [
-    "IND"
-   ],
-   "desc": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
-   "score": 2
-  },
-  {
-   "id": "29de32f274e6",
-   "title": "What powers does Netanyahu have as Israel’s interim PM?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/what-powers-does-netanyahu-have-as-israels-interim-pm?traffic_source=rss",
-   "date": "2026-11-10T08:38:11Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "As Israel faces political gridlock, Netanyahu wields caretaker powers to manage security and disrupt his rivals.",
-   "score": 6
-  },
-  {
-   "id": "3085af022d58",
-   "title": "US moves aircraft from second UK base over ‘threat from Iran’",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
-   "date": "2026-11-10T08:08:24Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
-   "score": 8,
-   "dup_of": "89d2f9d5e48d"
-  },
-  {
-   "id": "b96799e35002",
-   "title": "Netanyahu pressed Qatar to continue funding Gaza despite security warnings, report finds",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/netanyahu-pressed-qatar-continue-funding-gaza-despite-security-warnings-report-finds",
-   "date": "2026-11-10T09:53:04Z",
-   "countries": [
-    "ISR",
-    "PSE",
-    "QAT"
-   ],
-   "desc": "Netanyahu pressed Qatar to continue funding Gaza despite security warnings, report finds Submitted by Nadav Rapaport on Mon, 11/09/2026 - 14:49 Channel 12 investigation says Doha gave Israeli military and security officials gifts worth tens of thousands of shekels Palestinians walk along a street lined with destroyed buildings at the Jabalia refugee camp in the northern Gaza Strip on 5 October 2026 (AFP) Off An Israeli Channel 12 News investigation has revealed that the Israeli government sought to ensure that Qatar continued transferring funds to the occupied Gaza Strip before 7 October 2023,",
-   "score": 7
-  },
-  {
-   "id": "0bc75d417a69",
-   "title": "Qatar PM to brief G7 and Saudi Arabia on Iran war after Trump talks",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-pm-brief-g7-and-saudi-arabia-iran-war-after-trump-talks",
-   "date": "2026-11-10T09:45:40Z",
-   "countries": [
-    "IRN",
-    "QAT",
-    "SAU"
-   ],
-   "desc": "Qatar PM to brief G7 and Saudi Arabia on Iran war after Trump talks Qatar’s prime minister will make an unscheduled appearance at a meeting of G7 foreign ministers in Paris to brief the group and Saudi Arabia on his talks in Washington. Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, who also serves as Qatar’s foreign minister, met US President Donald Trump and Vice President JD Vance on Monday to discuss the US war on Iran. He described the talks as “positive discussions on reaching a deal and bringing peace to the region”. France’s foreign ministry said the war would be high on the agen",
-   "score": 8,
-   "dup_of": "ee6742e73a89"
-  },
-  {
-   "id": "5aa349203da6",
-   "title": "Why are the UAE, Sudan and Egypt fighting for influence inside Ethiopia’s Tigray state?",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/explainers/tigray-ethiopia-conflict-uae-sudan-egypt",
-   "date": "2026-11-10T09:43:08Z",
-   "countries": [
-    "ARE",
-    "EGY"
-   ],
-   "desc": "Why are the UAE, Sudan and Egypt fighting for influence inside Ethiopia’s Tigray state? Submitted by Daniel Tester on Mon, 11/09/2026 - 10:50 Gulf kingdoms and neighbouring countries are transforming the crisis into a wider battle for the Horn of Africa An Ethiopian Federal Police patrol on 9 October 2026 after forces pushed back the Tigray People's Liberation Front (TPLF) in Mekelle (AFP) On Fighting has continued across the Tigray region of northern Ethiopia, after a coalition of rebel groups seized territory in September. The government, which the insurgents have vowed to overthrow, has man",
-   "score": 7
-  },
-  {
-   "id": "461ed526cf2b",
-   "title": "As heavy rains swamp Gaza's tents, Israel must face sanctions",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/opinion/heavy-rains-swamp-gazas-tents-israel-must-face-sanctions",
-   "date": "2026-11-10T09:30:03Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "As heavy rains swamp Gaza's tents, Israel must face sanctions Submitted by Chris Doyle on Mon, 11/09/2026 - 20:03 The world cannot sit idly by as the Netanyahu regime, withholding vital supplies, imposes mass collective punishment A displaced Palestinian boy stands at the entrance to his flooded tent as he looks at a water puddle after heavy rainfall in Gaza City's Al-Remal neighbourhood on 7 November, 2026 (AFP) Off It took a mere dozen hours of the first winter storm to flood around 70,000 tents in Gaza. Even 1,000 would be worthy of major humanitarian action, but just imagine that multiplie",
-   "score": 5,
-   "dup_of": "e028ca78e1ed"
-  },
-  {
-   "id": "dbb92335a0dd",
-   "title": "Morning update",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-665",
-   "date": "2026-11-10T07:56:53Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Morning update Good morning Middle East Eye readers, Here are the latest developments: A senior adviser to the command of Iran’s Islamic Revolutionary Guard Corps (IRGC) Aerospace Force indicated that Tehran's missile industry is self-sufficient and is able to rely on its own domestic production and resources. Ali Bilali said the missile industry was now \"more homegrown than Persian carpets\". US president Donald Trump said that renewed attacks on Iran could be \"five times bigger\" than previous strikes on the country. He made the remarks during a phone interview with C-SPAN’s Washington Journal",
-   "score": 1
-  },
-  {
-   "id": "89ce9e595f14",
-   "title": "Iran's missile industry 'more homegrown than Persian carpets', IRGC adviser says",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-missile-industry-more-homegrown-persian-carpets-irgc-adviser-says",
-   "date": "2026-11-10T07:29:59Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Iran's missile industry 'more homegrown than Persian carpets', IRGC adviser says A senior adviser to the command of Iran’s Islamic Revolutionary Guard Corps (IRGC) Aerospace Force indicated that Tehran's missile industry is self-sufficient and is able to rely on its own domestic production and resources. Brigadier General Ali Bilali said the missile industry was now \"more homegrown than Persian carpets\", adding that the industry had reached a level of maturity where it can continue based on domestic capabilities.",
-   "score": 7
-  },
-  {
-   "id": "21f59d1eebbe",
-   "title": "Trump nominates Natalie Baker for US ambassador to Pakistan",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan",
-   "date": "2026-11-10T07:59:13Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "US President Donald Trump has nominated Natalie Baker, the current charge d’affaires at the US embassy in Islamabad, to be the ambassador to Pakistan, according to a statement by the White House. The nomination has been submitted to the US Senate, whose foreign relations committee will review it. If approved by the committee, the nomination will proceed to a vote by the full Senate. Baker would be appointed as the US ambassador to Pakistan following the Senate’s confirmation. She assumed the role of charge d’affaires at the US embassy in Islamabad in January 2025, following the departure of th",
-   "score": 5,
-   "dup_of": "b2043d59f839"
-  },
-  {
-   "id": "5d39c1a2d368",
-   "title": "PM Shehbaz departs for Turkiye, to address COP31 tomorrow",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-departs-for-turkiye-to-address-cop31-tomorrow",
-   "date": "2026-11-10T09:51:00Z",
-   "countries": [
-    "TUR"
-   ],
-   "desc": "Prime Minister Shehbaz Sharif left for Antalya, Turkiye, on Tuesday for a visit from Nov 10-12 to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). The premier is accompanied by PPP leader Sherry Rehman, Information Minister Ataullah Tarar, and the PM’s adviser Tariq Fatemi, a statement by the Prime Minister’s Office (PMO) said. The premier will address the summit on Nov 11, during which he will urge the global community to take concrete actions to address the threat posed by climate change to the pl",
-   "score": 3
-  },
-  {
-   "id": "c43e8639edeb",
-   "title": "£190m corruption case: IHC adjourns hearing for 10 days, orders meeting between Imran and legal team",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043503/ps190m-corruption-case-ihc-adjourns-hearing-for-10-days-orders-meeting-between-imran-and-legal-team",
-   "date": "2026-11-10T10:00:57Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: The Islamabad High Court (IHC) on Tuesday adjourned for 10 days the hearing of appeals filed by PTI founder and former prime minister Imran Khan and his wife, Bushra Bibi, against their convictions in the £190 million reference . The couple is serving prison sentences in the £190m corruption case, also known as the Al-Qadir Trust case. An accountability court had sentenced Imran to 14 years in prison and Bushra to seven years. The IHC also directed the authorities to facilitate meetings between Imran and his legal team. At the outset of the proceedings on Tuesday, Chief Justice Sard",
-   "score": 5
-  },
-  {
-   "id": "a9c6be7c5776",
-   "title": "Pakistan declare at 434-9 as Saud Shakeel falls short of century in first Sri Lanka Test",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
-   "date": "2026-11-10T09:43:55Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Pakistan declared their first innings at 434 for nine on the second day of the opening Test against Sri Lanka at the Rawalpindi Cricket Stadium on Tuesday, with Saud Shakeel falling agonisingly short of a century and debutant Arafat Minhas adding a valuable half-century. Resuming the day on 281 for five, with Saud unbeaten on 57 and Ghazi Ghori on seven, Pakistan added 153 runs for the loss of four more wickets before declaring in the afternoon session. The hosts had ended the opening day in a position of relative strength after four batters, including two debutants, had registered half-centur",
-   "score": 1
-  },
-  {
-   "id": "05760c884a12",
-   "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials",
-   "date": "2026-11-10T08:19:20Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israeli forces shot dead a 14-year-old in the occupied West Bank, Palestinian officials said, with Israel claiming it was responding to stone-throwing. Moutaz Eyad Daghlas was killed in Burqa, northwest of Nablus, late on Monday, the Palestinian health ministry said. The Palestine Red Crescent Society said its teams treated two people with gunshot wounds and took them to hospital, but that Israeli forces blocked access to a third wounded person and detained three volunteer paramedics. The Israeli military, asked by AFP about the incident, alleged Tuesday it had acted to “thwart stone-hurling” ",
-   "score": 7,
-   "dup_of": "2d1f493c6885"
-  },
-  {
-   "id": "04912d4d4f0d",
-   "title": "Explosions heard in Saudi capital Riyadh: AFP journalists",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/explosions-heard-in-saudi-capital-riyadh-afp-journalists/article71685514.ece",
-   "date": "2026-11-10T09:25:28Z",
-   "countries": [
-    "SAU"
-   ],
-   "desc": "AFP journalists heard the blasts, and residents received an alert on their mobile phones instructing them to take shelter due to an aerial threat",
-   "score": 9,
-   "dup_of": "1e8eade9d411"
-  },
-  {
-   "id": "10346400940c",
-   "title": "Pannun’s civil lawsuit: U.S. State Department formally serves notice on India",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece",
-   "date": "2026-11-10T09:24:57Z",
-   "countries": [
-    "IND"
-   ],
-   "desc": "The U.S. State Department said it was legally obliged to do so and is not taking a position on the case",
-   "score": 6
-  },
-  {
-   "id": "a4887da31d9f",
-   "title": "Sheikh Hasina’s return to Bangladesh: the hurdles, the risks and the politics | Explained",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece",
-   "date": "2026-11-10T08:08:41Z",
-   "countries": [
-    "BGD"
-   ],
-   "desc": "Sheikh Hasina faces a dilemma. She wants to return as a political leader and reclaim her party, the Awami League. But she stands accused of ordering the police crackdown of July-August 2024, and the International Crimes Tribunal (ICT) in Dhaka has sentenced her to death for it",
-   "score": 7,
-   "dup_of": "8b768a35f717"
-  },
-  {
-   "id": "d934113f56cf",
-   "title": "U.S.-brokered talks are set to start in Abu Dhabi to discuss Ukraine-Russia peace deal",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece",
-   "date": "2026-11-10T08:04:42Z",
-   "countries": [
-    "ARE"
-   ],
-   "desc": "The two-day session in Abu Dhabi, the first such meeting since February, will focus on security guarantees",
-   "score": 6,
-   "dup_of": "eaaf087e9e57"
-  },
-  {
-   "id": "d49780368e75",
-   "title": "ترامب: إيران \"انتهت عسكرياً\" والمفاوضات تشهد زخماً إيجابياً",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/c6kglgwm8nnwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T07:47:00Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "تطورات متسارعة في مسار الأزمة بين واشنطن وطهران، وسط مؤشرات على تقدم المفاوضات الرامية إلى إنهاء الصراع في الشرق الأوسط.",
-   "score": 9,
-   "dup_of": "ee6742e73a89"
-  },
-  {
-   "id": "3b4dfd5bb508",
-   "title": "التحالف يعترض صاروخين نحو الرياض، و\"غارات سعودية\" على صنعاء",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/crwydyx4ww2wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T08:53:05Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "desc": "يأتي هذا وسط احتدام القتال بين الحوثيين والتحالف بعد تقدم الحوثيين في سبتمبر/أيلول نحو مضيق باب المندب، وهو ممر ملاحي استراتيجي عند المدخل الجنوبي للبحر الأحمر.",
-   "score": 9,
-   "dup_of": "1e8eade9d411"
-  },
-  {
-   "id": "cb96ee16bac8",
-   "title": "بعد 21 عاماً على تفجيرات عمّان، لماذا لا يزال الأردن هدفاً للإرهاب؟",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cm0rlr991kqpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T07:49:02Z",
-   "countries": [
-    "JOR"
-   ],
-   "desc": "أعاد هجومان في الكرك وعمان، نفذهما أشخاص سبق أن أُدينوا بقضايا إرهابية، ملف مكافحة الإرهاب إلى الواجهة في الأردن، وسط تحرك حكومي لتشديد العقوبات ومنع تكرار الهجمات.",
-   "score": 6,
-   "skip": true
-  },
-  {
-   "id": "71ab83aa7760",
-   "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T12:25:48Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-   "score": 7
-  },
-  {
-   "id": "ff6c707d6d50",
-   "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T11:23:18Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-   "score": 7,
-   "dup_of": "2d1f493c6885"
-  },
-  {
-   "id": "877e460c394a",
-   "title": "Bangladesh prosecutor warns Hasina faces execution if she returns",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/bangladesh-prosecutor-warns-hasina-faces-execution-if-she-returns?traffic_source=rss",
-   "date": "2026-11-10T13:10:41Z",
-   "countries": [
-    "BGD"
-   ],
-   "desc": "Bangladesh’s International Crimes Tribunal has said ousted PM Sheikh Hasina will be executed if she returns home.",
-   "score": 7,
-   "skip": true
-  },
-  {
-   "id": "134bdafbb02c",
-   "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
-   "date": "2026-11-10T12:56:41Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Experts ask whether longer-range missiles are intended to hit targets beyond the Middle East.",
-   "score": 9
-  },
-  {
-   "id": "fe03fc111db6",
-   "title": "Why the GCC is setting up an advanced military command base in Kuwait",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-   "date": "2026-11-10T12:09:54Z",
-   "countries": [
-    "KWT"
-   ],
-   "desc": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
-   "score": 8
-  },
-  {
-   "id": "401b87e56588",
-   "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-   "date": "2026-11-10T11:52:34Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "desc": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-   "score": 8
-  },
-  {
-   "id": "d4b8503cedb2",
-   "title": "Who moves first in Iran-US diplomacy?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
-   "date": "2026-11-10T11:14:16Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-   "score": 7
-  },
-  {
-   "id": "167e633aeec1",
-   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-   "date": "2026-11-10T10:51:02Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
-   "score": 5,
-   "dup_of": "3cbc32ffad21"
-  },
-  {
-   "id": "270465836b00",
-   "title": "Pakistan TV anchor allegedly shot dead at home by her husband",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pakistan-tv-anchor-allegedly-shot-dead-at-home-by-her-husband?traffic_source=rss",
-   "date": "2026-11-10T10:10:32Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Pakistan TV anchor Rabiya Ahsan was shot dead at home. Police are probing her husband's claim of accidental firing.",
-   "score": 3
-  },
-  {
-   "id": "02a67351f25b",
-   "title": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
-   "date": "2026-11-10T09:46:43Z",
-   "countries": [
-    "BGD"
-   ],
-   "desc": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising.",
-   "score": 6,
-   "dup_of": "8b768a35f717"
-  },
-  {
-   "id": "1484d695cddb",
-   "title": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
-   "date": "2026-11-10T11:22:39Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Israel's new parliament will be sworn on Tuesday, November 10, with Prime Minister Benjamin Netanyahu set to lose his majority as rival Gadi Eisenkot works to form a new government. The opposition hopes to use its newfound legislative power to move quickly on key priorities, including a commission to investigate security failures under Netanyahu that allowed the October 7, 2023 attack by Hamas. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky has more.",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "87b1cb5cadcf",
-   "title": "Israel's new parliament to be sworn in as Eisenkot prepares government",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261110-israel-s-new-parliament-to-be-sworn-in-as-eisenkot-forms-government",
-   "date": "2026-11-10T09:17:56Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Israel's new parliament is set to be sworn in Tuesday with neither Prime Minister Benjamin Netanyahu's bloc nor opposition leader Gadi Eisenkot's camp holding a majority. Eisenkot seeks to build a coalition after receiving a mandate to form a government.",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "95eda427d9f7",
-   "title": "Lawyer says Shah Mahmood Qureshi taken to hospital days after suffering fall",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
-   "date": "2026-11-10T13:03:42Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "LAHORE: The lawyer representing Shah Mahmood Qureshi said on Tuesday that the senior PTI leader, who is currently incarcerated at Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology (PIC) days after suffering a fall. Qureshi has been indicted in multiple cases pertaining to the May 9, 2023 riots and has remained behind bars since August 2023. In July 2024, the PTI leader was indicted by a Lahore anti-terrorism court in a case registered by the Shadman police over allegedly attacking and burning the police station. Speaking to Dawn , his counsel Rana Mudassar Umar said: “[Qureshi]",
-   "score": 4
-  },
-  {
-   "id": "e15c0527aa25",
-   "title": "Pakistan tighten grip on first Test as Sri Lanka struggle at 114-3",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
-   "date": "2026-11-10T11:59:50Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Pakistan strengthened their hold on the opening Test against Sri Lanka on Tuesday, declaring their first innings at 434 for nine before reducing the visitors to 114 for three at the close of the second day at the Rawalpindi Cricket Stadium. Sri Lanka, who still trail by 320 runs, will resume their innings on the third day with Kamindu Mendis unbeaten on 40 and captain Dhananjaya de Silva on 22. Their resistance came after Pakistan’s pace attack made early inroads, although bad light brought an end to play after 27.1 overs. Resuming at 281 for five, Pakistan built on their overnight position th",
-   "score": 1
-  },
-  {
-   "id": "8b3d73dee4ec",
-   "title": "Centre spent Rs5tr on devolved subjects in violation of Constitution, Senate panel head says",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043521/centre-spent-rs5tr-on-devolved-subjects-in-violation-of-constitution-senate-panel-head-says",
-   "date": "2026-11-10T12:46:40Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: The federal government spent more than Rs5 trillion on devolved provincial subjects and on ministries created on Council of Common Interests (CCI) matters in violation of the Constitution, the head of a Senate panel claimed on Tuesday. Citing data from the report of the Auditor General of Pakistan, Senator Barrister Zamir Hussain Ghumro, chairing a sub-committee of the Senate Functional Committee on Devolution, said the figure was equivalent to more than $18 billion. The convener said the country was facing twin issues of exorbitant federal expenditure and heavy borrowing totalling ",
-   "score": 4
-  },
-  {
-   "id": "82cd07c00acd",
-   "title": "BHC hands ex-MPA Abdul Majeed Achakzai 10-year sentence in traffic cop hit-and-run case",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043512/bhc-hands-ex-mpa-abdul-majeed-achakzai-10-year-sentence-in-traffic-cop-hit-and-run-case",
-   "date": "2026-11-10T10:55:23Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "QUETTA: The Balochistan High Court on Tuesday handed former MPA Abdul Majeed Achakzai a ten-year sentence in a case regarding the death of a traffic policeman in a hit-and-run incident . A division bench comprising Justice Muhammad Amir Nawaz Rana and Justice Abdul Qayyum Lehr allowed an appeal filed by the provincial government against Achakzai’s acquittal and set aside the local court decision dated September 4, 2020. Achakzai was convicted under Section 320 (punishment for qatl-i-khata by rash or negligent driving) of the Pakistan Penal Code (PPC) for causing the death of Traffic Sub-Inspec",
-   "score": 3
-  },
-  {
-   "id": "546379d05491",
-   "title": "Lahore’s PM2.5 level eight times WHO guideline, report says",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
-   "date": "2026-11-10T11:55:47Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "LAHORE: Satellite data detected 16,714 likely crop-residue fires in Punjab between Oct 1 and Nov 9, while Lahore’s average PM2.5 concentration was eight times the World Health Organisation’s (WHO) guideline value, according to a report by the Pakistan Air Quality Initiative (PAQI) that questioned the link between Diwali fireworks in India and the city’s pollution. The report, released on Tuesday, said the number of likely crop-residue fires in Punjab, Pakistan, remained almost unchanged from the corresponding period last year. Lahore’s average PM2.5 concentration stood at 126 micrograms per cu",
-   "score": 4
-  },
-  {
-   "id": "5902fa4933d1",
-   "title": "New Israel parliament to be sworn in as Gadi Eisenkot seeks government",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043517/new-israel-parliament-to-be-sworn-in-as-gadi-eisenkot-seeks-government",
-   "date": "2026-11-10T11:17:19Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Israel’s new parliament will be sworn in on Tuesday, with Prime Minister Benjamin Netanyahu set to lose his majority even as rival Gadi Eisenkot still works to form a new government. President Isaac Herzog will deliver a speech at 4pm (7pm PKT) for the swearing-in of the 120-seat parliament, in which neither Netanyahu’s right-wing bloc nor Eisenkot’s opposition will hold a majority. The opposition hopes to use its newfound legislative power to move quickly on key priorities, including a commission to investigate security failures under Netanyahu that allowed the October 7, 2023 attack by Hamas",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "29da81dfa33f",
-   "title": "Bangladesh prosecutor says ex-PM Sheikh Hasina will be executed if she returns",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043510/bangladesh-prosecutor-says-ex-pm-sheikh-hasina-will-be-executed-if-she-returns",
-   "date": "2026-11-10T10:12:53Z",
-   "countries": [
-    "BGD"
-   ],
-   "desc": "The Bangladeshi prosecutor who secured the death sentence against ousted leader Sheikh Hasina said on Tuesday she will be executed if she returns home. Hasina, whose 15-year rule was ended by a mass uprising she tried to crush, has vowed to return in December to Bangladesh, where she was convicted of crimes against humanity over the 2024 crackdown on protesters. “Sheikh Hasina has no option but to face the execution of the verdict,” Md Aminul Islam told reporters, responding to reports she planned to return from self-imposed exile in neighbouring India. He added that the 79-year-old fugitive h",
-   "score": 7,
-   "dup_of": "877e460c394a"
-  },
-  {
-   "id": "59c440600c90",
-   "title": "Extreme heat",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043437/extreme-heat",
-   "date": "2026-11-10T11:29:41Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "CLIMATE change is already taking its toll on Pakistan’s farm sector. Crop yields are falling, livestock productivity is declining, fertile land is becoming uncultivable, and food insecurity is rising. Alongside, rural incomes are shrinking, and both cash and food poverty are increasing. It is against this backdrop that a new UN assessment — Extreme Heat and Agriculture — by the Food and Agriculture Organisation and the World Meteorological Organisation has sought to underscore the rapid erosion of farm productivity, especially in rain-fed regions, and its impact on rural households owing to ri",
-   "score": 1
-  },
-  {
-   "id": "4265101cad7a",
-   "title": "Missing discussion",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043439/missing-discussion",
-   "date": "2026-11-10T11:12:20Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "IN contrast to official claims of economic stability, a series of recently released reports provide disturbing evidence of deepening poverty and a human development crisis in Pakistan. According to the World Bank’s Pakistan Poverty and Equity brief , the national poverty rate spiralled from 22 per cent in 2018-19 to 29pc in 2024-25 — meaning that about 70 million poor people across the country live below the national poverty line. The Gini index, a measure of economic inequality, has increased from 28.4pc to 32.7pc, the highest in 25 years. The World Bank’s regional economic outlook reported t",
-   "score": 1
-  },
-  {
-   "id": "b2043d59f839",
-   "title": "U.S. President Donald Trump nominates Natalie Baker as next Ambassador to Pakistan",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-president-donald-trump-nominates-natalie-baker-as-next-ambassador-to-pakistan/article71686165.ece",
-   "date": "2026-11-10T12:58:30Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Ms. Baker is currently serving as charge d’affaires at the U.S. Embassy in Islamabad. She assumed the role in January 2025, following the departure of then-ambassador Donald Armin Blome",
-   "score": 6
-  },
-  {
-   "id": "5c9e47cfb87d",
-   "title": "Bangladesh prosecutor says ex-PM Hasina will be executed if she returns",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/bangladesh-prosecutor-says-ex-pm-hasina-will-be-executed-if-she-returns/article71686077.ece",
-   "date": "2026-11-10T12:24:43Z",
-   "countries": [
-    "BGD",
-    "IND"
-   ],
-   "desc": "‘Sheikh Hasina has no option but to face the execution of the verdict,’ Md Aminul Islam told reporters, responding to reports she planned to return from self-imposed exile in neighbouring India.",
-   "score": 7,
-   "dup_of": "877e460c394a"
-  },
-  {
-   "id": "70a27d498707",
-   "title": "Iraq reopens border crossing with Iran",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iraq-reopens-border-crossing-with-iran/article71685697.ece",
-   "date": "2026-11-10T10:24:41Z",
-   "countries": [
-    "IRN",
-    "IRQ"
-   ],
-   "desc": "The Iraqi government closed the Al-Sheeb crossing in Missan province in October",
-   "score": 6
-  },
-  {
-   "id": "81b80a14301a",
-   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T15:21:18Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-   "score": 6,
-   "dup_of": "e028ca78e1ed"
-  },
-  {
-   "id": "1af921259329",
-   "title": "Deadly Egypt train collision prompts calls for political accountability",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
-   "date": "2026-11-10T15:22:17Z",
-   "countries": [
-    "EGY"
-   ],
-   "desc": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
-   "score": 4
-  },
-  {
-   "id": "ee2fbbcd8f1f",
-   "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
-   "date": "2026-11-10T15:21:11Z",
-   "countries": [
-    "PSE"
-   ],
-   "desc": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
-   "score": 3
-  },
-  {
-   "id": "e5eb01cfdb56",
-   "title": "‘Positive momentum’: Is the US war on Iran about to end?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
-   "date": "2026-11-10T15:18:32Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
-   "score": 8
-  },
-  {
-   "id": "8ae0a884a0b8",
-   "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
-   "date": "2026-11-10T15:04:30Z",
-   "countries": [
-    "IND"
-   ],
-   "desc": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
-   "score": 6
-  },
-  {
-   "id": "dfdd54041a2c",
-   "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
-   "date": "2026-11-10T14:45:22Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
-   "score": 6,
-   "dup_of": "bbc521794146"
-  },
-  {
-   "id": "e98e6ad7f6d8",
-   "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
-   "date": "2026-11-10T14:27:45Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "IRGC-linked unit operates through front groups posing as vigilante hackers to hit adversaries, says French intelligence.",
-   "score": 6,
-   "dup_of": "3cbc32ffad21"
-  },
-  {
-   "id": "bf7fb4382211",
-   "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-   "date": "2026-11-10T14:03:31Z",
-   "countries": [
-    "IRN",
-    "IRQ"
-   ],
-   "desc": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
-   "score": 3
-  },
-  {
-   "id": "bba6ef90d654",
-   "title": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
-   "date": "2026-11-10T14:01:09Z",
-   "countries": [
-    "ARE",
-    "IRN",
-    "ISR",
-    "QAT",
-    "SAU"
-   ],
-   "desc": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
-   "score": 3
-  },
-  {
-   "id": "b49fb99b26f3",
-   "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
-   "date": "2026-11-10T13:39:22Z",
-   "countries": [
-    "IRN",
-    "SAU",
-    "YEM"
-   ],
-   "desc": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
-   "score": 8
-  },
-  {
-   "id": "d4d15f28e58a",
-   "title": "Israeli soldiers are also settlers in West Bank: Al Jazeera investigation",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-soldiers-are-also-settlers-in-west-bank-al-jazeera-investigation?traffic_source=rss",
-   "date": "2026-11-10T13:34:33Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Blurred lines between Israeli soldiers and settlers fuel systematic West Bank violence and mass displacement.",
-   "score": 7
-  },
-  {
-   "id": "87cfd790eced",
-   "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-   "date": "2026-11-10T15:39:26Z",
-   "countries": [
-    "EGY",
-    "PSE"
-   ],
-   "desc": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequently posted on social media about children killed in Israeli airstrikes in Gaza and called for a ceasefire. Continue reading...",
-   "score": 3,
-   "dup_of": "ee2fbbcd8f1f"
-  },
-  {
-   "id": "f7a45b2b3a1e",
-   "title": "Israel live: Eisenkot party submits bill to new parliament to investigate October 7 failures",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset",
-   "date": "2026-11-10T14:40:16Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israel's new parliament was sworn in Tuesday with opposition leader Gadi Eisenkot aiming to build a coalition after receiving a mandate to form a government. Eisenkot's party moved to immediately set up a commission to investigate failures that allowed Hamas's October 7, 2023 attack, a move long resisted by caretaker Prime Minister Benjamin Netanyahu. Follow our live coverage for the latest updates.",
-   "score": 4
-  },
-  {
-   "id": "238fcd72a611",
-   "title": "JI says 'basic outline' of proposal for petroleum levy relief agreed upon during talks with govt",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043556/ji-says-basic-outline-of-proposal-for-petroleum-levy-relief-agreed-upon-during-talks-with-govt",
-   "date": "2026-11-10T15:51:42Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: Jamaat-i-Islami (JI) Vice Emir Liaqat Baloch said on Tuesday that the government and the party had agreed on the “basic outlines” of a proposed agreement as the two sides held their 10th round of negotiations on petroleum levy relief. After a meeting with Prime Minister Shehbaz Sharif last month, both sides agreed to form a bipartisan committee to expand the government’s ongoing fuel relief scheme in response to JI’s demands for the abolition of the petroleum levy. The JI also warned of resuming its postponed march to Islamabad by mid-November if no relief was announced. Speaking to",
-   "score": 4
-  },
-  {
-   "id": "ee2ee24c156a",
-   "title": "Britain says its bases are safe after US refuelling planes evacuated",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043541/britain-says-its-bases-are-safe-after-us-refuelling-planes-evacuated",
-   "date": "2026-11-10T13:49:09Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Britain said on Tuesday that its military bases were safe, after the US removed huge refuelling aircraft from a British airbase following what the Wall Street Journal said was a threat from Iran, the second such apparent evacuation in three months. Commercially available flight tracking data showed at least 10 Boeing KC-135R Stratotanker refuelling planes left the Royal Air Force base in Mildenhall, eastern England, on Monday. One flew to a base in Germany, one to Scotland and two to Spain, while the destinations of the other six were not reported. At least three Osprey multipurpose aircraft a",
-   "score": 6,
-   "dup_of": "89d2f9d5e48d"
-  },
-  {
-   "id": "e257bccfb76c",
-   "title": "Imran's hospital transfer: Uzma seeks early fixation of contempt plea against govt for third time",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043527/imrans-hospital-transfer-uzma-seeks-early-fixation-of-contempt-plea-against-govt-for-third-time",
-   "date": "2026-11-10T14:11:28Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "ISLAMABAD: Dr Uzma Khan, sister of incarcerated PTI founder Imran Khan, on Tuesday again approached the Supreme Court (SC) seeking an early fixation of the contempt plea against the federal government over alleged flouting of the court’s order to shift the ex-premier to Shifa International Hospital (SIH) for medical treatment. On Aug 18 , a three-member SC bench had directed the government to shift Imran to Islamabad’s SIH within the next two days as it heard several petitions concerning his health. However, the government took the PTI founder to the government-run Pakistan Institute of Medica",
-   "score": 4,
-   "dup_of": "c43e8639edeb"
-  },
-  {
-   "id": "9841da69f76a",
-   "title": "Iran rejects France’s ‘baseless accusations’ on cyberattack",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
-   "date": "2026-11-10T14:58:32Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Hundreds of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the temperatures in their refrigerators and freezers, forcing many to throw away entire inventories of perishable food",
-   "score": 6,
-   "dup_of": "3cbc32ffad21"
-  },
-  {
-   "id": "3b4a847bc086",
-   "title": "فرانسه در واکنش به «حمله سایبری سپاه» سفیر ایران را احضار کرد؛ ایران اتهام‌های «بی‌اساس» را محکوم کرد",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cm4g1gy13558o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T13:35:57Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "فرانسه می‌گوید که در واکنش به «حمله سایبری سپاه پاسداران» سفیر ایران را صبح سه‌شنبه را احضار کرده است. ایران این اتهام را «فرافکنی» برای «انحراف افکار عمومی» فرانسه توصیف کرد.",
-   "score": 6,
-   "dup_of": "3cbc32ffad21"
-  },
-  {
-   "id": "d157261b629a",
-   "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
-   "date": "2026-11-10T18:58:05Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
-   "score": 6
-  },
-  {
-   "id": "171a9e50802d",
-   "title": "US petrol prices are down, but elevated inflation continues",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-   "date": "2026-11-10T17:40:35Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
-   "score": 3
-  },
-  {
-   "id": "34eba12618a8",
-   "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-   "date": "2026-11-10T17:35:07Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
-   "score": 9
-  },
-  {
-   "id": "656e4de6b34e",
-   "title": "Israeli president warns against repeat election in new Knesset session",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
-   "date": "2026-11-10T17:16:15Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-   "score": 7
-  },
-  {
-   "id": "af9a823ea00c",
-   "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-   "date": "2026-11-10T16:39:25Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-   "score": 8,
-   "dup_of": "d64da89c6d87"
-  },
-  {
-   "id": "9f595a95456e",
-   "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-   "date": "2026-11-10T15:49:36Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
-   "score": 7
-  },
-  {
-   "id": "f5383672c59b",
-   "title": "Michigan election: How Abdul El-Sayed's critics smeared his defence of Palestinians as 'hate'",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/opinion/michigan-election-how-abdul-el-sayeds-critics-smeared-his-defence-palestinians-hate",
-   "date": "2026-11-10T18:59:51Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Michigan election: How Abdul El-Sayed's critics smeared his defence of Palestinians as 'hate' Submitted by Murad Idris on Fri, 11/06/2026 - 20:51 By attacking his motives, the senator-elect's opponents turned a debate over US funding for Israel's genocide in Gaza into a trial of his character Abdul El-Sayed (left) won Michigan’s US Senate seat on 3 November, two days after Haley Stevens (centre), the Democrat he beat in the primary, endorsed his Republican opponent Mike Rogers (right) (Jeff Kowalsky, Jim Watson and Blake Fagan/AFP) Off In his victory speech last week, Abdulrahman El-Sayed , th",
-   "score": 3
-  },
-  {
-   "id": "875f0be38a8e",
-   "title": "Israeli fire kills seven, including a father and son, in Gaza",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-fire-kills-seven-including-father-and-son-gaza-medics-say",
-   "date": "2026-11-10T18:31:30Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israeli fire kills seven, including a father and son, in Gaza Israeli forces killed at least seven Palestinians, including a father and his 13-year-old son, in the Gaza Strip on Tuesday, local health officials said. Medics said Fadi Rajab and his son Abubakr were killed in an air strike that hit the roof of a displacement shelter in the Zeitoun neighbourhood in Gaza City. A third Palestinian was killed in an Israeli air strike near a school in Gaza City's Daraj neighbourhood, health officials added. In Khan Younis, in southern Gaza, Israeli gunfire killed a man, medics said. Later on Tuesday, ",
-   "score": 7,
-   "dup_of": "9f595a95456e"
-  },
-  {
-   "id": "57549c99ef88",
-   "title": "GCC to establish joint forward-command centre in Kuwait",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/gcc-establish-joint-forward-command-center-kuwait",
-   "date": "2026-11-10T17:48:55Z",
-   "countries": [
-    "IRN",
-    "IRQ",
-    "KWT"
-   ],
-   "desc": "GCC to establish joint forward-command centre in Kuwait Submitted by Sean Mathews on Tue, 11/10/2026 - 16:47 Given the intense attacks Kuwait has faced from Iran and its allies in Iraq, questions remain about how the new centre could be defended Gulf Cooperation Council secretary general Jasem Mohamed al-Budaiwi gives a press conference with Russia's foreign minister and Bahrain's foreign minister after the 9th joint ministerial meeting of the strategic dialogue between the GCC and the Russian Federation in Manama, on 18 October 2026 (Fadhel Madan/AFP) Off The Gulf Cooperation Council (GCC) ha",
-   "score": 8,
-   "dup_of": "fe03fc111db6"
-  },
-  {
-   "id": "655b1eef6c85",
-   "title": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-catches-fire-after-hitting-naval-mine-hormuz-iran-says",
-   "date": "2026-11-10T17:45:31Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Oil tanker catches fire after hitting naval mine in Hormuz, Iran says An oil tanker caught fire after hitting a naval mine in the Strait of Hormuz, Iran's Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, according to state broadcaster IRIB. Two other tankers had caught fire earlier on Tuesday after hitting naval mines in the strait, according to the IRGC.",
-   "score": 9
-  },
-  {
-   "id": "d5a8cdcd4188",
-   "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-parliament-sworn-eisenkot-tries-forge-government",
-   "date": "2026-11-10T16:40:18Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Israel's parliament sworn in as Eisenkot tries to forge a government Israel's parliament was sworn in on Tuesday without a new government, after a deadlocked general election stripped Prime Minister Benjamin Netanyahu of his parliamentary majority but left his main rivals with no clear path to power. Lawmakers elected in the 27 October vote took their oaths of office as Gadi Eisenkot, a former general, sought to forge a coalition after Israel's president tasked him on Sunday with forming a government. Eisenkot and his allies also lack a majority and he has yet to strike deals with parties that",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "b7588f06f1aa",
-   "title": "G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/g7-agrees-need-avoid-security-void-lebanon-after-un-force-mandate-ends",
-   "date": "2026-11-10T16:13:10Z",
-   "countries": [
-    "LBN"
-   ],
-   "desc": "G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends G7 foreign ministers agreed on \"the need to avoid a security void\" in Lebanon after UN peacekeepers pull out, French Foreign Minister Jean-Noel Barrot said on Tuesday after a meeting of the group in Paris. They also backed \"the need to move quickly toward a new security architecture\" after the mandate of United Nations peacekeeping forces expires at the end of the year, he said. But Barrot acknowledged there had been no breakthrough on what should replace the United Nations Interim Force in Lebanon, which has bee",
-   "score": 7
-  },
-  {
-   "id": "866b02979421",
-   "title": "Burnham's plan to 'end neoliberalism' includes hiring US firm linked to Gaza aid site massacres",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid",
-   "date": "2026-11-10T16:03:17Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Burnham's plan to 'end neoliberalism' includes hiring US firm linked to Gaza aid site massacres British Prime Minister Andy Burnham has turned to an American consulting group that worked with the US and Israeli -backed Gaza Humanitarian Foundation to help draft a plan that was supposed to “end neoliberalism” in the UK . Boston Consulting Group (BCG), whose former employees include Israeli Prime Minister Benjamin Netanyahu and Burnham’s chief of staff, James Purnell, has been hired to help shape the prime minister’s 10-year plan. One of the “big three” management consultancy firms, BCG has been",
-   "score": 3
-  },
-  {
-   "id": "384d2144166e",
-   "title": "Iran denies reports of Rezaei meeting with US Vice President JD Vance",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-reports-rezaei-meeting-us-vice-president-jd-vance",
-   "date": "2026-11-10T16:01:10Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Iran denies reports of Rezaei meeting with US Vice President JD Vance Iranian Foreign Minister Abbas Araghchi has dismissed as “completely unfounded” reports that Mohsen Rezaei, who heads Iran’s Supreme National Security Council, would meet US Vice President JD Vance. Araghchi said “there are no plans to hold such a meeting.”",
-   "score": 7
-  },
-  {
-   "id": "f62d174ba246",
-   "title": "Burnham's plan to 'end neoliberalism' includes involvement of US firm linked to Gaza aid site massacres",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/burnhams-plan-end-neoliberalism-includes-hiring-us-firm-linked-gaza-aid-site-massacres",
-   "date": "2026-11-10T15:55:26Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Burnham's plan to 'end neoliberalism' includes involvement of US firm linked to Gaza aid site massacres Submitted by Oscar Rickett on Tue, 11/10/2026 - 14:44 Boston Consulting Group, whose former employees include Benjamin Netanyahu and James Purnell, to consult on UK prime minister's 10-year plan A GHF aid site pictured on 8 June 2025, as smoke bombs are fired by Israeli troops (Eyad Baba/AFP) Off British Prime Minister Andy Burnham has turned to an American consulting group that worked with the US and Israeli -backed Gaza Humanitarian Foundation to help draft a plan that was supposed to “end",
-   "score": 3,
-   "dup_of": "866b02979421"
-  },
-  {
-   "id": "17a309d8cd15",
-   "title": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-riyadh-airport-and-saudi-oil-infrastructure",
-   "date": "2026-11-10T14:53:01Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "desc": "Houthis say they targeted Riyadh airport and Saudi oil infrastructure Houthi military spokesperson Yahya Saree says the group targeted King Khalid International Airport in Riyadh and several pumping stations on Saudi Arabia’s East-West oil pipeline. Writing on X, Saree also said the Houthis struck Riyadh’s financial centre and an Aramco site in Abqaiq. The attack, said Saree were in \"response to the brutal Saudi aggression against our country and its ongoing crimes against our beloved people the latest of which was its heinous crime against vendors and shoppers at Al-Hadara Market in Taiz, car",
-   "score": 9,
-   "dup_of": "1e8eade9d411"
-  },
-  {
-   "id": "976330782719",
-   "title": "Israeli settlers torch machinery in attack on Palestinian industrial zone",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/israeli-settlers-torch-machinery-attack-palestinian-industrial-zone",
-   "date": "2026-11-10T14:25:13Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Israeli settlers torch machinery in attack on Palestinian industrial zone Submitted by Muhammad Ateeq on Tue, 11/10/2026 - 13:58 The assault destroys machinery worth more than $1m and threatens the livelihoods of hundreds of Palestinian workers and their families Settlers torched excavators, vehicles and pieces of equipment belonging to local stone-cutting workshops in Beita, near Nablus, in the occupied West Bank, 10 November 2026 (Muhammad Ateeq/MEE) Off Israeli settlers attacked an industrial zone in the Palestinian town of Beita, south of Nablus in the occupied West Bank, on Monday, settin",
-   "score": 6
-  },
-  {
-   "id": "249689f0d78c",
-   "title": "‘We woke up soaking wet’: Gaza’s displaced face another winter of floods and collapsed shelters",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-woke-soaking-wet-gazas-displaced-face-another-winter-floods-and",
-   "date": "2026-11-10T14:20:29Z",
-   "countries": [
-    "PSE"
-   ],
-   "desc": "‘We woke up soaking wet’: Gaza’s displaced face another winter of floods and collapsed shelters For the past four days, Nahla al-Majdoub, 48, and her family of eight have been staying with neighbours in the west of Gaza City after their tent was destroyed by the latest heavy rainfall. Majdoub and her family had been sheltering in a makeshift tent at the port of Gaza for nearly two years after their home in the northern Gaza Strip was destroyed during Israel’s ground invasion. But when heavy rain and strong winds swept across the besieged enclave last week, their fragile shelter could no longer",
-   "score": 7,
-   "dup_of": "e028ca78e1ed"
-  },
-  {
-   "id": "99c8d1b49732",
-   "title": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-claims-strait-hormuz-oil-flows-near-pre-war-levels-some-nights",
-   "date": "2026-11-10T13:58:42Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Rubio claims Strait of Hormuz oil flows near pre-war levels on some nights US Secretary of State Marco Rubio says oil shipments through the Strait of Hormuz have recovered to more than four-fifths of their pre-war volume on some nights. He attributed the remaining shortfall to Iranian exports. “Oil is getting out – on some nights it’s 80-85 percent of what was getting out pre-conflict. “The only reason why it isn’t 100 percent is because Iranian oil isn’t getting out. “The only oil that isn’t getting out consistently through the strait of Hormuz is the Iranian oil,” he told reporters at a G7 f",
-   "score": 8,
-   "dup_of": "75c707828abf"
-  },
-  {
-   "id": "5e4b12e4cd49",
-   "title": "Iran military chief warns of retaliation beyond the region",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-military-chief-warns-retaliation-beyond-region",
-   "date": "2026-11-10T13:11:34Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Iran military chief warns of retaliation beyond the region Iran’s armed forces chief Ali Abdollahi has warned that the military will “respond without restrictions and beyond the region” if the “enemy” takes action against Iran. “We will have many surprises for the enemy during the future war. If the Zionist entity makes any mistake against us, we will destroy it,” he said. The warning follows US President Donald Trump’s declaration on Monday that the war was “effectively over”.",
-   "score": 9
-  },
-  {
-   "id": "08efd16d4f34",
-   "title": "The changing face of Israel’s ultra-Orthodox politics",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/changing-face-israels-ultra-orthodox-politics",
-   "date": "2026-11-10T12:55:54Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "The changing face of Israel’s ultra-Orthodox politics Submitted by Rikki Sprinzak on Tue, 11/10/2026 - 10:35 Election results expose growing divisions within Haredi society and raise questions about the future of its longstanding alliance with Netanyahu One of the most significant developments in the aftermath of the Israeli elections was the decision by United Torah Judaism (UTJ), the main ultra-Orthodox Jewish party, not to recommend Benjamin Netanyahu to form the next government. This marks a departure from years of close alliance between Netanyahu and the ultra-Orthodox, or Haredi, parties",
-   "score": 5
-  },
-  {
-   "id": "e9fab194082d",
-   "title": "UK awards deals worth millions to firms linked to illegal Israeli settlements",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-awards-deals-worth-millions-firms-linked-illegal-israeli-settlements",
-   "date": "2026-11-10T12:47:25Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "UK awards deals worth millions to firms linked to illegal Israeli settlements The British government has awarded £10.7m ($14.4m) in public contracts to firms linked to illegal Israeli settlements in the occupied West Bank, it has emerged. The contracts were published after Foreign Secretary Ed Miliband announced comprehensive sanctions on the settlements on 8 September in parliament, according to an Al Jazeera investigation. \"To those who finance or facilitate illegal settlements, let me say this: you will face the full force of UK sanctions,\" Miliband said. \"Settlements are illegal.\" But the ",
-   "score": 7
-  },
-  {
-   "id": "f0d933f7cc46",
-   "title": "Govt slashes petrol price by Rs8 per litre, high-speed diesel by Rs7 in another reduction",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043557/govt-slashes-petrol-price-by-rs8-per-litre-high-speed-diesel-by-rs7-in-another-reduction",
-   "date": "2026-11-10T18:29:55Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
-   "score": 2
-  },
-  {
-   "id": "d22b80f7dc6d",
-   "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event",
-   "date": "2026-11-10T19:04:01Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "Prime Minister Shehbaz Sharif on Tuesday emphasised that Chashma-5 (C-5) Nuclear Power Plant represents clean electricity and energy security for the people of Pakistan. The premier was addressing a ceremony marking the dome placement of the C-5 plant near Mianwali. The placement of a nuclear plant’s dome, which is weather-sealed, signifies the end of civil works and the beginning of internal construction and installation. A government press release hailed the progress as a “major milestone” for the Pakistan Atomic Energy Commission (PAEC). It noted that the C-5 project will have a generation ",
-   "score": 4
-  },
-  {
-   "id": "4c6eb92534bc",
-   "title": "PM Shehbaz arrives in Turkiye, to address COP31 tomorrow",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-tomorrow",
-   "date": "2026-11-10T17:40:47Z",
-   "countries": [
-    "TUR"
-   ],
-   "desc": "Prime Minister Shehbaz Sharif arrived in Antalya, Turkiye, on Tuesday for a three-day visit to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). Upon arrival, the prime minister was received by Turkiye’s Deputy Culture and Tourism Minister Gökhan Yazgı, Pakistan’s Ambassador-designate Amna Baloch and senior Turkish officials, the Prime Minister’s Office (PMO) said. The premier is accompanied by PPP Senator and former climate minister Sherry Rehman, Information Minister Attaullah Tarar, and his advise",
-   "score": 3
-  },
-  {
-   "id": "6860b9d4d177",
-   "title": "Second Pakistan-Sri Lanka Test shifted from Lahore to Rawalpindi over smog",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043576/second-pakistan-sri-lanka-test-shifted-from-lahore-to-rawalpindi-over-smog",
-   "date": "2026-11-10T18:42:04Z",
-   "countries": [
-    "PAK"
-   ],
-   "desc": "The Pakistan Cricket Board (PCB) on Tuesday shifted the second Test between Pakistan and Sri Lanka from Lahore to Rawalpindi amid worsening smog conditions in the Punjab capital. According to an official announcement issued by the PCB, the match, originally scheduled to be played in Lahore from November 17 to 21, will now take place at Rawalpindi Cricket Stadium on the same dates. “The second Test match between Pakistan and Sri Lanka, originally scheduled to be played in Lahore from November 17 to 21, has been relocated to Rawalpindi due to prevailing weather conditions,” PCB spokesperson Amir",
-   "score": 1
-  },
-  {
-   "id": "7a203a7568d2",
-   "title": "Pakistan beat Nepal to set up U-19 Asia Cup semi-final against Bangladesh",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043568/pakistan-beat-nepal-to-set-up-u-19-asia-cup-semi-final-against-bangladesh",
-   "date": "2026-11-10T17:02:11Z",
-   "countries": [
-    "BGD",
-    "OMN",
-    "PAK"
-   ],
-   "desc": "Defending champions Pakistan maintained their unbeaten run in the ACC Men’s U-19 Asia Cup 2026 with a convincing 101-run victory over Nepal at the Al Amerat Cricket Ground in Muscat on Tuesday. With three wins from as many matches, Pakistan finished top of Group A to qualify for the semi-finals, where they will take on Bangladesh in the first semi-final on Thursday. Batting first, Pakistan posted 275-7 in their allotted 50 overs, with half-centuries from Ahmed Hussain and captain Farhan Yousaf laying the foundation for the total. Ahmed top-scored with a brisk 89 off 73 balls, hitting seven fou",
-   "score": 1
-  },
-  {
-   "id": "d3a6cf30a8cd",
-   "title": "Gulf Arab states approve military command headquarters in Kuwait, GCC chief says",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/gulf-arab-states-approve-military-command-headquarters-in-kuwait-gcc-chief-says/article71687293.ece",
-   "date": "2026-11-10T17:29:06Z",
-   "countries": [
-    "BHR",
-    "KWT"
-   ],
-   "desc": "The announcement followed the 23rd meeting ​of the ‌GCC’s Joint Defence Council, attended by Defence Ministers from the bloc’s member states, in Bahrain",
-   "score": 8,
-   "dup_of": "fe03fc111db6"
-  },
-  {
-   "id": "8c8a2773b581",
-   "title": "New Israeli parliament to take aim at Netanyahu as Eisenkot seeks government",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece",
-   "date": "2026-11-10T16:14:01Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "President Isaac Herzog, ceremonially opening the session, called on all sides to work together and avoid a fresh election in a deeply polarised country weary from three years of war.",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "58032ebc9a06",
-   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T19:26:42Z",
-   "countries": [
-    "BGD",
-    "IND"
-   ],
-   "desc": "Supporters of Sheikh Hasina want her to return from exile in India.",
-   "score": 7
-  },
-  {
-   "id": "68932bc1231a",
-   "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-   "date": "2026-11-10T20:39:46Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Netanyahu and Eisenkot push for new government after election deadlock",
-   "score": 7
-  },
-  {
-   "id": "a25156387904",
-   "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-   "date": "2026-11-10T20:23:03Z",
-   "countries": [
-    "IRN",
-    "IRQ"
-   ],
-   "desc": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
-   "score": 5
-  },
-  {
-   "id": "599182ceb8d5",
-   "title": "F1 champion Lewis Hamilton visits Gaza border",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-   "date": "2026-11-10T20:14:34Z",
-   "countries": [
-    "EGY",
-    "PSE"
-   ],
-   "desc": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-   "score": 3
-  },
-  {
-   "id": "4d72459b2cef",
-   "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-   "date": "2026-11-10T20:07:01Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-   "score": 4
-  },
-  {
-   "id": "679554b7246b",
-   "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-   "date": "2026-11-10T19:54:46Z",
-   "countries": [
-    "JOR"
-   ],
-   "desc": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-   "score": 3
-  },
-  {
-   "id": "6bc481b81826",
-   "title": "Rubio says no need for major combat operations against Iran",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-   "date": "2026-11-10T19:34:13Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-   "score": 8
-  },
-  {
-   "id": "cf27878220f2",
-   "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
-   "date": "2026-11-10T19:59:33Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Former military chief Gadi Eisenkot has mandate to try to form a government – with Netanyahu waiting if he fails Opposition lawmakers have wasted no time after Israel’s new Knesset was sworn in, deploying their majority to seize control of the legislature from Benjamin Netanyhau and his allies. Although they are still too divided to form a government, the opposition requested a vote for a new speaker, who sets the Knesset’s agenda. Once Netanyahu loyalist Amir Ohana has been replaced, the six opposition parties will be able to work on key legislation even if they broker a coalition. Continue r",
-   "score": 7,
-   "dup_of": "71ab83aa7760"
-  },
-  {
-   "id": "146fa5ff5a82",
-   "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
-   "date": "2026-11-09T22:58:31Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed Donald Trump has said that the war in Iran is “effectively over” as he played down concerns that the US would escalate its military campaign against Tehran after the midterm elections. During a White House press conference, Trump said that Israel and Gulf allies in the region were well protected from Iran and that an escalation was not needed. Continue reading...",
-   "score": 9,
-   "dup_of": "ee6742e73a89"
-  },
-  {
-   "id": "ae8afbac63ec",
-   "title": "US charges three 'Iranian operatives' over UK air base plot",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-charges-three-iranian-operatives-over-uk-air-base-plot",
-   "date": "2026-11-10T21:13:56Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "US charges three 'Iranian operatives' over UK air base plot The US Justice Department on Tuesday announced charges against three men described as \"Iranian operatives\" over their role in an alleged plot to attack Britain's RAF Fairford air base. Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani were charged in relation to the September incident at the base, which has been used by the US military in its operations against Iran.",
-   "score": 7,
-   "dup_of": "89d2f9d5e48d"
-  },
-  {
-   "id": "9e442ecebe20",
-   "title": "US says no need for new attacks but calls Iran's peace terms 'absurd'",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-says-no-need-new-attacks-calls-irans-peace-terms-absurd",
-   "date": "2026-11-10T20:59:09Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "desc": "US says no need for new attacks but calls Iran's peace terms 'absurd' The US is downplaying the chances of a fresh attack against Iran even as it characterises Tehran’s conditions for a political settlement as “absurd”. US President Donald Trump said on Monday after meeting Qatar’s prime minister at the White House that the war was “effectively over” and that there was “momentum” to end the conflict. Trump has used deescalatory language since the Republican Party was badly defeated in US midterm elections on 3 November by the Democrats, who campaigned against the war and rising energy prices. ",
-   "score": 8
-  },
-  {
-   "id": "249b12595cb4",
-   "title": "UN peacekeepers say came they under fire in southern Lebanon",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-peacekeepers-say-came-under-fire-southern-lebanon",
-   "date": "2026-11-10T20:56:16Z",
-   "countries": [
-    "LBN"
-   ],
-   "desc": "UN peacekeepers say came they under fire in southern Lebanon The United Nations peacekeeping force in Lebanon (Unifil) said on Tuesday that one of its patrols came under fire in the country's south, without saying who was responsible. The force, whose mandate in Lebanon expires at the end of this year, said the patrol \"was fired upon with about a dozen rounds\" near Wadi Jilu and returned fire, after which the shooting stopped. It reported no casualties and called for an investigation. \"We reiterate the obligation under international law for all actors to ensure the safety and security of UN pe",
-   "score": 7
-  },
-  {
-   "id": "e47be1f9aaf9",
-   "title": "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-shifting-blame-cyberattack-supermarket-fridges-iran-says",
-   "date": "2026-11-10T19:51:22Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "France is ‘shifting blame’ for cyberattack on supermarket fridges, Iran says Iran’s Foreign Minister Abbas Araghchi said France is “shifting blame for its failures” by accusing an IRGC-affiliated cyber unit of hacking supermarket fridges earlier in October. “Unable to manage fridges let alone addressing grievances of its people, French government is shifting blame for its failures onto others,\" Araghchi said in a post on X. “Yes, Iran is powerful. But unlike France, we do not exercise power via support for massacres in Gaza or bombings of schools and hospitals,\" he said. Unable to manage fridg",
-   "score": 3
-  },
-  {
-   "id": "a3fd267c21ad",
-   "title": "F1 star Lewis Hamilton visits Gaza border",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/f1-star-lewis-hamilton-visits-gaza-border",
-   "date": "2026-11-10T19:35:15Z",
-   "countries": [
-    "EGY",
-    "PSE"
-   ],
-   "desc": "F1 star Lewis Hamilton visits Gaza border Formula One star Lewis Hamilton visited Egypt's Rafah border crossing on Tuesday and met aid workers delivering assistance to the war-battered Gaza Strip, according to an Egyptian government statement. North Sinai governor \"Khaled Megawer took Lewis Hamilton on a visit to the Rafah land crossing to learn about the Egyptian efforts to support the Palestinian brothers in the Gaza Strip\", the statement read. Video shared by Megawer's office showed the seven-time world champion greeting aid workers and learning about their efforts to get supplies into Gaza",
-   "score": 3,
-   "dup_of": "599182ceb8d5"
-  },
-  {
-   "id": "368b9b96ecf5",
-   "title": "PM Shehbaz arrives in Turkiye to address COP31 summit",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-summit",
-   "date": "2026-11-10T20:49:06Z",
-   "countries": [
-    "TUR"
-   ],
-   "desc": "Prime Minister Shehbaz Sharif arrived in Antalya, Turkiye, on Tuesday for a three-day visit to attend the Leaders’ Summit of the 31st Conference of the Parties (COP 31) to the United Nations Framework Convention on Climate Change (UNFCCC). Upon arrival, the prime minister was received by Turkiye’s Deputy Culture and Tourism Minister Gökhan Yazgı, Pakistan’s Ambassador-designate Amna Baloch and senior Turkish officials, the Prime Minister’s Office (PMO) said. The premier is accompanied by PPP Senator and former climate minister Sherry Rehman, Information Minister Attaullah Tarar, and his advise",
-   "score": 3
-  },
-  {
-   "id": "69a77c6b7689",
-   "title": "US calls for new Europe security framework as Russia, Ukraine hold first peace talks in 9 months",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043580/us-calls-for-new-europe-security-framework-as-russia-ukraine-hold-first-peace-talks-in-9-months",
-   "date": "2026-11-10T19:47:28Z",
-   "countries": [
-    "ARE"
-   ],
-   "desc": "A first day of US-led talks between Ukraine and Russia in Abu Dhabi ended on Tuesday, with Washington calling for a “new” security framework, as Europe fears US President Donald Trump plans a deal with Moscow on the continent’s future. Trump’s envoys Jared Kushner and Steve Witkoff brought together the warring sides for several hours of negotiations — the first since February — that are set to continue on Wednesday. Kushner told delegates the United States had “narrowed the gaps” between the sides — without providing details — and hoped to move towards a “solution” to Europe’s worst conflict s",
-   "score": 5
-  },
-  {
-   "id": "05e35ed3ea1d",
-   "title": "تنش میان نتانیاهو و مخالفانش در جلسه سوگند پارلمان جدید اسرائیل",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cqlyeykp0z9do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T20:02:52Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "گادی آیزنکوت که از سوی رئیس‌جمهور اسرائیل مسئول تشکیل دولت شده است، در جلسه سوگند پارلمان جدید به تندی از اظهارات بنیامین نتانیاهو انتقاد کرد و یک تنش لفظی میان دو طرف درگرفت. بنیامین نتانیاهو در سخنرانی امروزش با تمرکز بر تهدید ایران خواستار تشکیل یک «دولت وحدت ملی» شد.",
-   "score": 7,
-   "dup_of": "cf27878220f2"
-  },
-  {
-   "id": "a44c069dfc30",
-   "title": "إيران ترفض الاتهامات الفرنسية بالوقوف وراء اختراق ثلاجات متاجر السوبرماركت",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cje3633p0e7eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T20:43:45Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "تلففت كميات ضخمة من الأغذية المبردة والمجمدة الشهر الماضي، بعد أن ارتفعت درجات الحرارة داخل ثلاجات ومجمدات في مئات المتاجر الكبرى.",
-   "score": 3,
-   "dup_of": "e47be1f9aaf9"
-  },
-  {
-   "id": "da5f9a9d87db",
-   "title": "مجلس السلام: استجابة إسرائيل بشأن المساعدات بعد الفيضانات في غزة \"غير كافية\"",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/ckvg6g25l65vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T20:19:19Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "مجلس السلام انتقد إسرائيل للمرة الأولى وحمل حماس مسؤولية الفشل في نزع السلاح ونقل السلطة",
-   "score": 6,
-   "dup_of": "e028ca78e1ed"
-  },
   {
    "id": "61c8704b89d7",
    "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
@@ -2257,20 +82,6 @@
    "dup_of": "249b12595cb4"
   },
   {
-   "id": "aa0538915b96",
-   "title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
-   "date": "2026-11-10T21:53:40Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "desc": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many of Prime Minister Benjamin Netanyahu's policies as the new parliament was sworn in a tense opening session that saw rival parties trade barbs over the possibility of forming a government with the support of Arab lists.",
-   "score": 7
-  },
-  {
    "id": "404ff2c25cfe",
    "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
    "lang": "en",
@@ -2310,19 +121,6 @@
    ],
    "desc": "أفادت معلومات أمنية عراقية ولبنانية بالعثور على جثة للنائب العراقي السابق أحمد العلواني داخل شقة في بيروت، بعد أربعة أيام من اختفائه. وأعلن السفير العراقي في بيروت محمد رضا الحسيني أن القضاء اللبناني فتح تحقيقاً في قضية مقتله.",
    "score": 7
-  },
-  {
-   "id": "87181a6313bc",
-   "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T13:45:13Z",
-   "countries": [
-    "IRN"
-   ],
-   "desc": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "score": 4
   },
   {
    "id": "4e22e3f1ddbe",
@@ -2663,19 +461,6 @@
    "score": 3
   },
   {
-   "id": "0cc9c0747d03",
-   "title": "Point of no return: On Israel’s next government",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/editorial/point-of-no-return-on-israels-next-government/article71683836.ece",
-   "date": "2026-11-10T04:03:38Z",
-   "countries": [
-    "ISR"
-   ],
-   "desc": "Without peace, Israel risks descending into chaos",
-   "score": 5
-  },
-  {
    "id": "5f9750ce9b48",
    "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
    "lang": "en",
@@ -2822,7 +607,8 @@
     "PSE"
    ],
    "desc": "Watch: Unicef says Israel blocking Gaza basin repairs warns of risk of sewage overflow Unicef spokesperson James Elder told reporters on Tuesday that Israel had rejected equipment needed to repair a key Gaza rainwater basin. \"Plans are drawn, money’s raised, equipment is ready. We’ve worked with their engineers, but just recently, Cogat rejected the project,\" Elder said, warning that the facility could overflow and endanger nearby residents through flooding and disease. Unicef spokesperson James Elder told reporters on Tuesday that Israel had rejected equipment needed to repair a key Gaza rain",
-   "score": 5
+   "score": 5,
+   "dup_of": "a8839636f15f"
   },
   {
    "id": "afc6b7663349",
@@ -3587,8 +1373,7 @@
     "PSE"
    ],
    "desc": "Benjamin Netanyahu said the Palestinian militant group Hamas is to blame because it continues to refuse to disarm, a condition of the deal announced by Donald Trump, and seizes humanitarian aid in order to use it for military purposes",
-   "score": 7,
-   "dup_of": "90b3e9adf1ad"
+   "score": 7
   },
   {
    "id": "a60c96ee7a98",
@@ -3816,6 +1601,255 @@
    ],
    "desc": "Rezaei has ‌said ⁠there are currently no negotiations taking place between Tehran ⁠and Washington",
    "score": 9
+  },
+  {
+   "id": "b0b00dc134b0",
+   "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T11:33:24Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+   "score": 2
+  },
+  {
+   "id": "3d378b613dbd",
+   "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+   "date": "2026-11-12T00:06:50Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
+   "score": 7
+  },
+  {
+   "id": "daf37166e74f",
+   "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+   "date": "2026-11-12T00:00:44Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
+   "score": 4
+  },
+  {
+   "id": "487f359ed546",
+   "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+   "date": "2026-11-11T22:55:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+   "score": 8
+  },
+  {
+   "id": "b82478859e8a",
+   "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+   "date": "2026-11-11T22:34:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
+   "score": 6,
+   "dup_of": "7b9288d1a4f3"
+  },
+  {
+   "id": "2ddd21430297",
+   "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+   "date": "2026-11-11T21:03:40Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+   "score": 8
+  },
+  {
+   "id": "ed3e67598ede",
+   "title": "Oil production nears pre-Iran war levels, OPEC says",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+   "date": "2026-11-11T20:45:30Z",
+   "countries": [
+    "IRN",
+    "SAU"
+   ],
+   "desc": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+   "score": 7
+  },
+  {
+   "id": "bf2ebd214a82",
+   "title": "Gaza goalkeeper killed in Israeli attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+   "date": "2026-11-11T20:44:34Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
+   "score": 4
+  },
+  {
+   "id": "2bb00d07749c",
+   "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
+   "date": "2026-11-11T20:33:35Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian families have returned to the Sabra neighbourhood of Gaza City after an Israeli strike killed three people.",
+   "score": 4
+  },
+  {
+   "id": "d69184e718d9",
+   "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
+   "date": "2026-11-11T20:24:51Z",
+   "countries": [
+    "EGY",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Hamilton visited the Egypt-Gaza border as conditions worsened for Palestinians in Gaza after heavy rains.",
+   "score": 3
+  },
+  {
+   "id": "ca93965e5368",
+   "title": "First Palestinian American elected in New York talks to Al Jazeera",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/first-palestinian-american-elected-in-new-york-talks-to-al-jazeera?traffic_source=rss",
+   "date": "2026-11-11T20:24:01Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Palestinian American senator-elect Aber Kawas says Gaza and affordability in New York drove her into politics.",
+   "score": 3
+  },
+  {
+   "id": "c226bc44ecd6",
+   "title": "Uzbekistan: the crossroads of Central Asian cultures",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/uzbekistan-the-crossroads-of-central-asian-cultures?traffic_source=rss",
+   "date": "2026-11-11T20:07:31Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "Showcased in Qatar’s Museum of Islamic Art lies an exhibition that expands on Uzbekistan’s intercultural artifacts.",
+   "score": 2
+  },
+  {
+   "id": "5ace36b22d95",
+   "title": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/how-much-did-pro-israel-groups-spend-against-hasan-piker-at-midterms?traffic_source=rss",
+   "date": "2026-11-11T19:51:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "How much did pro-Israel groups spend against Hasan Piker at midterms?",
+   "score": 3
+  },
+  {
+   "id": "278d12273c00",
+   "title": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
+   "date": "2026-11-11T22:13:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The bloc of Israeli prime ministerial hopeful Gadi Eisenkot introduced a series of bills at the start of the legislative session that target Benjamin Netanyahu and his policies. They include launching an official government-led inquiry into the Hamas-led Oct. 7, 2023, attacks, setting term limits on the position of prime minister and overturning changes the outgoing Netanyahu-led government made to limit the powers of the judiciary. FRANCE 24's Sharon Gaffney speaks with Rina Bassist, Editor at Al-Monitor.",
+   "score": 7,
+   "dup_of": "c1accc149e40"
+  },
+  {
+   "id": "7870aeaa92e6",
+   "title": "US envoys to meet Putin, Zelensky after Russia-Ukraine war talks in Abu Dhabi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-russia-ukraine-war-talks-in-abu-dhabi",
+   "date": "2026-11-11T20:24:03Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "United States envoys will separately meet Russia’s Vladimir Putin and Ukraine’s Volodymyr Zelensky on Thursday as they seek to seize “openings” from two days of talks in Abu Dhabi on ending the Ukraine war. Steve Witkoff and Jared Kushner will travel first to Moscow to meet the Russian president, before flying to Dublin — where Zelensky will attend European meetings — to debrief the Ukrainian leader. The countries agreed in Abu Dhabi to a major prisoner exchange — the “biggest” ever, according to Kushner — though no side gave any figures. But the talks — the first since February , when the US ",
+   "score": 8,
+   "dup_of": "eef68312cbc3"
+  },
+  {
+   "id": "4618a22232de",
+   "title": "Trump defends Iran war in Veterans Day address",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
+   "date": "2026-11-11T22:37:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Mr. Trump said in his remarks that the conflict was started not by Washington but by Tehran, which “has been waging war on America since 1979”",
+   "score": 6
+  },
+  {
+   "id": "d717b47e74fa",
+   "title": "وزیر دارایی آمریکا پس از تهدیدهای منتسب به ایران به یک پایگاه نظامی منتقل شد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cw074ej7r3y4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T23:55:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "اسکات بسنت، وزیر دارایی آمریکا، پس از دریافت تهدیدهایی علیه جانش که گفته شده از سوی «عوامل مرتبط با ایران» بوپده است، از محل سکونتش در واشنگتن دی‌سی به یک پایگاه نظامی منتقل شده است. این خبر را نخست روز گذشته نیویورک تایمز و سپس دیگر رسانه‌های آمریکایی گزارش داده‌اند.",
+   "score": 7,
+   "dup_of": "cc91c368a40e"
+  },
+  {
+   "id": "66e8633a0ece",
+   "title": "اعتراض وتدمير صاروخين باليستيين ومسيرتين أطلقتها جماعة أنصار الله باتجاه السعودية وانفجارات في عدن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crgj3vw6jq4xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T00:46:08Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "اعترض التحالف بقيادة السعودية مسيّرتين أطلقهما الحوثيون باتجاه مكة المكرمة والمنطقة الجنوبية، وثلاثة صواريخ كروز باتجاه الرياض، فيما دوّت انفجارات في عدن إثر استهداف معسكرات بصواريخ. ويأتي ذلك وسط تصاعد المواجهات في اليمن، بعد غارات دامية في صنعاء أسفرت عن مقتل أكثر من 40 شخصاً، بينهم نحو 20 طفلاً، وفقاً للمعلومات الواردة في النص.",
+   "score": 8
   }
  ]
 }
