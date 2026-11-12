@@ -1,7 +1,65 @@
 {
- "updated": "2026-11-12T07:36:58Z",
- "count": 444,
+ "updated": "2026-11-12T10:21:51Z",
+ "count": 446,
  "items": [
+  {
+   "id": "504deffe05e7",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+   "date": "2026-11-12T08:40:08Z",
+   "countries": [
+    "IND",
+    "ISR"
+   ],
+   "score": 5,
+   "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+   "title_en": "India bypasses own rules to buy Israeli phone-hacking tech",
+   "summary_en": "India exempted foreign surveillance vendors, including Israeli firm Cellebrite, from its domestic procurement rules to allow government agencies to buy phone-hacking technology.",
+   "body_en": [
+    "An investigation by the Internet Freedom Foundation revealed that Home Minister Amit Shah approved waivers to \"Make in India\" procurement regulations. This enabled Indian federal and state agencies, including those in states governed by opposition parties, to purchase phone-extraction tools and foreign forensic technology.",
+    "The exempted technologies allow access to extracted phone data, cloud-based information from platforms such as Instagram and X, and smart home devices. Rights experts warned that India's surveillance capabilities are expanding without adequate legal safeguards against intrusive monitoring."
+   ],
+   "title_fa": "هند با دور زدن قوانین خود، فناوری هک تلفن از اسرائیل خریداری کرد",
+   "summary_fa": "هند با اعطای معافیت به شرکت‌های خارجی از جمله شرکت اسرائیلی سلبرایت از قوانین خریدهای داخلی، به نهادهای دولتی اجازه داد فناوری‌های هک تلفن تهیه کنند.",
+   "body_fa": [
+    "بر اساس بررسی‌های بنیاد آزادی اینترنت، امیت شاه، وزیر کشور هند، معافیت‌هایی را از قوانین خریدهای عمومی «ساخت هند» امضا کرده است. این اقدام به نهادهای دولتی هند در سطح فدرال و ایالتی، از جمله ایالت‌های تحت مدیریت احزاب مخالف، اجازه داده است ابزارهای استخراج داده از تلفن و فناوری‌های جرم‌پزشکی خارجی را خریداری کنند.",
+    "فناوری‌های معاف‌شده امکان دسترسی به داده‌های استخراج‌شده تلفن‌ها، اطلاعات ابری شبکه‌های اجتماعی نظیر اینستاگرام و ایکس، و دستگاه‌های هوشمند خانگی را فراهم می‌کنند. کارشناسان حقوقی هشدار داده‌اند که توانمندی‌های نظارتی هند در غیاب چارچوب‌های قانونی مشخص برای جلوگیری از نظارت‌های فراگیر در حال گسترش است."
+   ],
+   "title_ar": "الهند تتجاوز قواعدها لشراء تقنيات إسرائيلية لاختراق الهواتف",
+   "summary_ar": "منحت الهند إعفاءات لشركات أجنبية بينها شركة \"سيلبريت\" الإسرائيلية من قواعد الشراء المحلي للسماح للوكالات الحكومية بشراء تقنيات اختراق الهواتف.",
+   "body_ar": [
+    "كشف تحقيق أجرته \"مؤسسة حرية الإنترنت\" أن وزير الداخلية الهندي أميت شاه وافق على إعفاءات من قواعد \"صنع في الهند\". وسمحت هذه الإعفاءات للوكالات الحكومية الهندية على المستويين الاتحادي والولائي، بما في ذلك الولايات التي تحكمها أحزاب المعارضة، بشراء أدوات استخراج بيانات الهواتف وتقنيات جنائية أجنبية.",
+    "وتتيح التقنيات المعفاة الوصول إلى بيانات الهواتف، والبيانات السحابية من منصات مثل إنستغرام وإكس، والأجهزة الذكية المنزلية. وحذر خبراء حقوقيون من أن قدرات المراقبة في الهند تتوسع دون وجود ضمانات قانونية كافية لمنع التجسس المفرط."
+   ]
+  },
+  {
+   "id": "e0bbca7e5c9a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+   "date": "2026-11-12T07:38:05Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+   "title_en": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+   "summary_en": "Iranian negotiator Mohammad Bagher Ghalibaf said Iran is open to a deal if the U.S. refrains from creating distrust and making excessive demands.",
+   "body_en": [
+    "In an interview with Al Jazeera, Ghalibaf stated that Iran would not yield to unreasonable demands or actions that generate distrust on the part of Washington."
+   ],
+   "title_fa": "قالیباف: ایران در صورت «خودداری آمریکا از زیاده‌خواهی» آماده توافق است",
+   "summary_fa": "محمدباقر قالیباف، مذاکره‌کننده ارشد ایران، گفت در صورتی که آمریکا از ایجاد بی‌اعتمادی و طرح زیاده‌خواهی بپرهیزد، ایران آماده دستیابی به توافق است.",
+   "body_fa": [
+    "قالیباف در مصاحبه‌ای با الجزیره تأکید کرد که ایران در برابر زیاده‌خواهی‌ها و اقداماتی که موجب بی‌اعتمادی از سوی آمریکا می‌شود تسلیم نخواهد شد."
+   ],
+   "title_ar": "قاليباف: إيران مستعدة للتوصل إلى اتفاق إذا \"امتنعت واشنطن عن المطالب المبالغ فيها\"",
+   "summary_ar": "صرح الموفد الإيراني محمد باقر قاليباف بأن إيران مستعدة للتوصل إلى اتفاق إذا امتنعت الولايات المتحدة عن خلق الشكوك وتقديم مطالب مبالغ فيها.",
+   "body_ar": [
+    "وأكد قاليباف في مقابلة مع الجزيرة أن إيران لن تخضع للمطالب المبالغ فيها أو التصرفات التي تثير عدم الثقة من جانب واشنطن."
+   ]
+  },
   {
    "id": "82f162b978d0",
    "lang": "en",
