@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:37:49Z",
+ "updated": "2026-11-12T16:21:08Z",
  "items": [
   {
    "id": "61c8704b89d7",
@@ -3059,6 +3059,174 @@
    ],
    "desc": "The Pakistani social media influencer’s campaign to establish fear and clout in India has spread to 14 States, leading the Home Ministry to designate his network as a terror group",
    "score": 2
+  },
+  {
+   "id": "4c62fb8a886e",
+   "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:06:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service.",
+   "score": 7
+  },
+  {
+   "id": "9e192a2ac325",
+   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T16:45:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+   "score": 7,
+   "dup_of": "cc91c368a40e"
+  },
+  {
+   "id": "fd25624fd8f9",
+   "title": "UK court finds two Iranian men guilty of spying for Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+   "date": "2026-11-12T15:15:48Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+   "score": 7,
+   "dup_of": "4c62fb8a886e"
+  },
+  {
+   "id": "9c5241c171e5",
+   "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+   "date": "2026-11-12T14:27:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
+   "score": 7
+  },
+  {
+   "id": "4420fcaedbd4",
+   "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+   "date": "2026-11-12T14:23:01Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
+   "score": 8,
+   "dup_of": "7cf80c14f947"
+  },
+  {
+   "id": "efb9d7817b0d",
+   "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+   "date": "2026-11-12T14:23:50Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians • NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch it Continue reading...",
+   "score": 3
+  },
+  {
+   "id": "1c0977f736c9",
+   "title": "Israeli strike on Gaza hospital kills surgeon and five others – video",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video",
+   "date": "2026-11-12T14:23:47Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Doctors were on shift at Nasser hospital in Khan Younis early on Thursday when an Israeli airstrike hit rooms where they were tending to patients, as well as those used for sleeping. Dr Ayman Abu Ubaid recounts the terrifying moment the hospital was hit and pays tribute to a colleague who died. The strike destroyed part of the hospital, killed six people and injured more than 20 Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others Continue reading...",
+   "score": 8,
+   "dup_of": "7cf80c14f947"
+  },
+  {
+   "id": "79bed9046316",
+   "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+   "date": "2026-11-12T14:07:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been found guilty of assisting Tehran’s intelligence services. Mostafa Sepahvand, 41, and Farhad Javadi Manesh, 46, carried out surveillance and reconnaissance between August 2024 and March last year in an attempt to inflict violence on “subjects” in the UK. Continue reading...",
+   "score": 7,
+   "dup_of": "4c62fb8a886e"
+  },
+  {
+   "id": "7ad447040192",
+   "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+   "date": "2026-11-12T16:03:26Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "SYR"
+   ],
+   "desc": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
+   "score": 7
+  },
+  {
+   "id": "5216b2800c98",
+   "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+   "date": "2026-11-11T12:00:00Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
+   "score": 8
+  },
+  {
+   "id": "1070d47a6e54",
+   "title": "U.S. envoys meet Putin at Kremlin following Ukraine talks in Abu Dhabi",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-envoys-meet-putin-at-kremlin-following-ukraine-talks-in-abu-dhabi/article71694418.ece",
+   "date": "2026-11-12T15:48:13Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "The talks produced no visible breakthrough in ending the nearly five years of large-scale hostilities, which began on February 24, 2022, after the fighting initially started in 2014 in eastern Ukraine",
+   "score": 7,
+   "dup_of": "eef68312cbc3"
+  },
+  {
+   "id": "b38b02f111cc",
+   "title": "Modi to visit Manila for ASEAN Summit; maritime security, trade on agenda",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda/article71694308.ece",
+   "date": "2026-11-12T15:29:10Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Modi is also set to join Australian Prime Minister Anthony Albanese, U.S. President Donald Trump, and Japanese Prime Minister Sanae Takaichi for the annual Quad summit in Manila. There is, however, no official word on the Quad summit.",
+   "score": 5
   }
  ]
 }
