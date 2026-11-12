@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:28:53Z",
+ "updated": "2026-11-12T04:12:37Z",
  "items": [
   {
    "id": "61c8704b89d7",
@@ -1850,6 +1850,434 @@
    ],
    "desc": "اعترض التحالف بقيادة السعودية مسيّرتين أطلقهما الحوثيون باتجاه مكة المكرمة والمنطقة الجنوبية، وثلاثة صواريخ كروز باتجاه الرياض، فيما دوّت انفجارات في عدن إثر استهداف معسكرات بصواريخ. ويأتي ذلك وسط تصاعد المواجهات في اليمن، بعد غارات دامية في صنعاء أسفرت عن مقتل أكثر من 40 شخصاً، بينهم نحو 20 طفلاً، وفقاً للمعلومات الواردة في النص.",
    "score": 8
+  },
+  {
+   "id": "e5bcbb9d6d15",
+   "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+   "date": "2026-11-12T03:50:42Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+   "score": 9
+  },
+  {
+   "id": "755f3c5ece24",
+   "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+   "date": "2026-11-12T01:20:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+   "score": 8
+  },
+  {
+   "id": "afea22f92600",
+   "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "date": "2026-11-12T03:00:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless species of fish. Eight months into the war between the US and Iran, one of the world’s busiest oil shippi",
+   "score": 5
+  },
+  {
+   "id": "95fca813c0a5",
+   "title": "Watch: At least six Palestinians killed in Israeli attack on Nasser hospital",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-least-six-palestinians-killed-israeli-attack-nasser-hospital",
+   "date": "2026-11-12T03:38:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Watch: At least six Palestinians killed in Israeli attack on Nasser hospital Footage shows the aftermath of Israeli air strike on the Nasser Hospital in southern Gaza’s Khan Younis early on Thursday. According to Gaza’s civil defence, at least six Palestinians were killed in the attack, leaving more than 20 others wounded. An Israeli air strike on a building at Nasser Hospital in Gaza’s Khan Younis early on Thursday killed at least five Palestinians, including a doctor, and wounded 20 others, according to Gaza’s civil defence. https://t.co/0Ab44RFOdW — Middle East Eye (@MiddleEastEye) November",
+   "score": 8,
+   "dup_of": "755f3c5ece24"
+  },
+  {
+   "id": "5e70cc927dcb",
+   "title": "Top Iranian official warns military bases from 'West Asia to Europe' would be targeted if US renews attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/top-iranian-official-warns-military-bases-west-asia-europe-would-be",
+   "date": "2026-11-12T02:56:54Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Top Iranian official warns military bases from 'West Asia to Europe' would be targeted if US renews attacks Iran’s top security official Mohsen Rezaei warned that Tehran could strike military bases involved in any renewed US attacks against Iran. \"If the US launches another war against Iran, every military base involved in the aggression - from West Asia to Europe - will be a legitimate target for Iran’s lethal strikes,\" Rezaei, the secretary of Iran’s Supreme National Security Council, said in a post on X. \"NO SAFE DISTANCE. NO SAFE HAVEN. NO IMMUNITY,\" he added. If the US launches another wa",
+   "score": 9,
+   "dup_of": "5e4b12e4cd49"
+  },
+  {
+   "id": "4b3d7890e6cb",
+   "title": "Trump thanks US troops for war on Iran and defends Pete Hegseth",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-thanks-us-troops-war-iran-and-defends-pete-hegseth",
+   "date": "2026-11-12T02:23:18Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump thanks US troops for war on Iran and defends Pete Hegseth US President Donald Trump thanked members of the armed forces involved in the war on Iran during a Veterans Day ceremony and expressed support for US Defense Secretary Pete Hegseth after Republicans in the US House of Representatives blocked an effort to impeach him. \"He’s done a fantastic job,\" Trump said of the Pentagon chief. US President Donald Trump thanked troops involved in the war with Iran during a Veterans Day ceremony and defended US Defense Secretary Pete Hegseth after House Republicans blocked an impeachment effort, s",
+   "score": 6,
+   "dup_of": "4618a22232de"
+  },
+  {
+   "id": "e7554d4f3c8a",
+   "title": "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-south-gazas-nasser-hospital-kills-least-six-palestinians",
+   "date": "2026-11-12T01:26:10Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians An Israeli air strike targeting the Nasser Medical Complex in southern Gaza early on Thursday has killed at least six Palestinians and injured more than 20 others. The strike hit the second floor of al-Yasin building within the medical complex, with the hospital’s director indicating that it caused extensive damage to the intensive care and surgical wards. While Israeli Army Radio claimed that the strike was an \"assassination operation\", the casualties were staff and patients, including some people who were schedule",
+   "score": 8,
+   "dup_of": "755f3c5ece24"
+  },
+  {
+   "id": "47f5804d082e",
+   "title": "Saudi Arabia says debris from missile interception falls in Mecca region",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-debris-missile-interception-falls-mecca-region",
+   "date": "2026-11-12T00:41:26Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia says debris from missile interception falls in Mecca region Saudi Arabia's civil defence said in a statement that debris from two ballistic missiles intercepted and destroyed after being launched by Yemen's Houthis towards the kingdom's Mecca region fell in the area.",
+   "score": 8
+  },
+  {
+   "id": "f532c40326c4",
+   "title": "Iran accuses US of spreading disinformation about Iranian terrorism",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-spreading-disinformation-about-iranian-terrorism",
+   "date": "2026-11-11T23:24:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran accuses US of spreading disinformation about Iranian terrorism Iranian Foreign Ministry spokesperson Esmaeil Baghaei accused the US on Wednesday of conducting a “coordinated disinformation campaign” to portray itself as a victim of “terrorism”. In a post on X, Baghaei said Washington committed \"acts of state terrorism\" by assassinating Iranian leaders and meanwhile \"expects the world to ignore its own long record of aggression and terrorism, and to accept unsubstantiated claims of a 'terror plot'.\" \"However, no amount of media frenzy can rewrite history, erase responsibility, or conceal t",
+   "score": 6
+  },
+  {
+   "id": "92eaad29583d",
+   "title": "Houthis claim attack on Saudi command centre in Yemen",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attack-saudi-command-centre-yemen",
+   "date": "2026-11-11T23:03:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis claim attack on Saudi command centre in Yemen Yemen’s Houthi military spokesperson, Yahya Saree, says the group hit a Saudi military command centre and operations room in the al-Buraiqa area of Yemen's Aden with several ballistic missiles on Wednesday. In a post on Telegram, Saree said the facility was responsible for directing and overseeing Saudi military reinforcements across active fronts in Lahij, al-Dhale, Taiz and other governorates. The Saudi-backed Yemeni government condemned the attack, saying it “reflects the militia’s established pattern of targeting civilians and terrorisi",
+   "score": 8
+  },
+  {
+   "id": "f6061a2f9080",
+   "title": "UN committee votes for resolution on Palestinian sovereignty over natural resources",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-second-committee-votes-resolution-palestinian-sovereignty-over",
+   "date": "2026-11-11T22:55:59Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "UN committee votes for resolution on Palestinian sovereignty over natural resources The Second Committee, the United Nations General Assembly's Economic and Financial Committee, adopted a draft resolution establishing the \"Permanent sovereignty of the Palestinian people in the Occupied Palestinian Territory, including East Jerusalem, and of the Arab population in the occupied Syrian Golan over their natural resources\" on Wednesday, Wafa news reported. The motion was put forward by the Group of 77 and China, and a total of 151 countries voted in favour of it, including all member states of the ",
+   "score": 6
+  },
+  {
+   "id": "e497808966fd",
+   "title": "How Israel has engineered a system of apartheid on West Bank roads",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/how-israel-has-engineered-system-apartheid-west-bank-roads",
+   "date": "2026-11-11T22:50:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "How Israel has engineered a system of apartheid on West Bank roads Submitted by Fareed Taamallah on Wed, 11/11/2026 - 21:13 Every afternoon, Palestinian commuters sit behind military gates while Israeli settlers drive on. The system is built to exhaust them and make staying on their land harder Israeli forces close a military checkpoint near the Palestinian town of Taybeh, east of Ramallah in the occupied West Bank, on 23 August 2026, after shooting and wounding a Palestinian man from the nearby village of Burqa (Zain Jaafar/AFP) Off Every afternoon at exactly 4pm, a calculated military decisi",
+   "score": 6
+  },
+  {
+   "id": "923f1b3867c7",
+   "title": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-taxpayer-group-calls-icc-investigate-trump-rubio-aiding-gaza-genocide",
+   "date": "2026-11-11T22:37:45Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide A group of US taxpayers and international human rights lawyers have officially called on the International Criminal Court (ICC) to investigate President Donald Trump and his top diplomat Marco Rubio for \"aiding and abetting genocide, war crimes, and crimes against humanity committed by Israel in Gaza\". They announced it at a press conference at the court's home in The Hague, in the Netherlands, on Wednesday. The submission to the court was organised by the Taxpayer Alliance Against Genocide (Taag), and includ",
+   "score": 5
+  },
+  {
+   "id": "fdaef05f6b3d",
+   "title": "Iran's security chief warns western bases will be targets for retaliation",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-security-chief-warns-western-bases-will-be-targets-retaliation",
+   "date": "2026-11-11T22:35:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's security chief warns western bases will be targets for retaliation Iranian security chief Mohsen Rezaei warned on Wednesday that military bases “from West Asia to Europe” taking part in attacks against Iran will be “legitimate” targets for retaliation if the US restarts the war. “If the US launches another war against Iran, every military base involved in the aggression, from West Asia to Europe, will be a legitimate target for Iran’s lethal strikes,” Rezaei said in a post on X. “No safe distance. No safe haven. No immunity,” he added. If the US launches another war against Iran, every ",
+   "score": 9,
+   "dup_of": "5e70cc927dcb"
+  },
+  {
+   "id": "0eb57c873cbc",
+   "title": "Hezbollah chief says Trump's midterm defeat is 'an opportunity'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-chief-says-trumps-midterm-defeat-opportunity",
+   "date": "2026-11-11T22:12:39Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "Hezbollah chief says Trump's midterm defeat is 'an opportunity' Hezbollah chief Naim Qassem described US President Donald Trump's recent midterm defeats as \"an opportunity\" for his movement and other opponents of the US in the region. \"Today, we have a good opportunity. Trump was defeated in the elections... an earthquake has occurred in America,\" Qassem said in a speech broadcast live to supporters. \"His defeat has ramifications for us that are in a way positive,\" he added.",
+   "score": 7,
+   "dup_of": "3d378b613dbd"
+  },
+  {
+   "id": "4ebec35332fa",
+   "title": "Netanyahu orders Israeli army to prepare for possible attack on Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran",
+   "date": "2026-11-11T21:48:29Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Netanyahu orders Israeli army to prepare for possible attack on Iran Israeli Prime Minister Benjamin Netanyahu's security cabinet ordered the military to step up preparations for a possible attack on Iran, Israeli media reported on Wednesday. The reports come after Israeli opposition leader Gadi Eisenkot, who has been given the opportunity to form a new government after his bloc's successes in the recent elections, issued a statement urging Netanyahu to refrain from deploying the military “without a direct and immediate threat”, until the next government is formed.",
+   "score": 9
+  },
+  {
+   "id": "21a3334c7766",
+   "title": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-faces-liquidity-crunch-even-oil-exports-rebound-pre-war",
+   "date": "2026-11-11T21:44:56Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU"
+   ],
+   "desc": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels Saudi Arabia is feeling the pinch of a liquidity crisis as bank deposits slow and the economy comes under pressure from the US-Israeli war on Iran, a new report from Bank of America says. In a note to clients, Bank of America said Saudi Arabia is grappling with “contagion” caused by liquidity tightness in the UAE and a rapid slowdown in the kingdom’s own economy, according to an article published on Bloomberg on Tuesday. The report said Saudi banks are feeling the pain in the UAE, which is also grappling with fal",
+   "score": 7
+  },
+  {
+   "id": "4054c914c931",
+   "title": "Pakistan, Iran leaders reaffirm ties in COP31 meeting",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-iran-leaders-reaffirm-ties-cop31-meeting",
+   "date": "2026-11-11T21:16:21Z",
+   "countries": [
+    "IRN",
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Pakistan, Iran leaders reaffirm ties in COP31 meeting Pakistan’s Prime Minister Shehbaz Sharif and Iran’s President Masoud Pezeshkian met on the sidelines of the COP31 UN climate summit in Turkey's Antalya on Wednesday, reaffirming the \"deep and enduring bonds between Pakistan and Iran\". “Dialogue, restraint, de-escalation and sustained diplomacy are the only path to lasting peace,” Sharif said in a post on X, adding that “building on the understandings reached under the Islamabad MoU, Pakistan continues to play a sincere and constructive role for peace and stability in the region and beyond.”",
+   "score": 6
+  },
+  {
+   "id": "1853241a9216",
+   "title": "Iranian president accuses US, Israel of causing environmental damage during war",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-president-accuses-us-israel-causing-environmental-damage-during",
+   "date": "2026-11-11T20:30:07Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "TUR"
+   ],
+   "desc": "Iranian president accuses US, Israel of causing environmental damage during war Iranian President Masoud Pezeshkian accused the US and Israel of inflicting severe environmental damage during attacks on the country in his speech at the UN Climate Change Conference in Turkey on Wednesday, calling for mechanisms to hold them accountable. \"The recent criminal and illegal aggression against Iran by America and the Zionist regime... has inflicted severe damage on the environment, releasing massive quantities of pollutants and greenhouse gases into the atmosphere,\" Pezeshkian said. He told COP31 that",
+   "score": 6
+  },
+  {
+   "id": "57458f550e2c",
+   "title": "Punjab govt insists smog ‘not a political issue’ as Lahore, New Delhi gasp for air",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043912/punjab-govt-insists-smog-not-a-political-issue-as-lahore-new-delhi-gasp-for-air",
+   "date": "2026-11-12T02:31:16Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "• Marriyum says situation much better than previous years, thanks to concerted efforts • Indian monitors criticised for ‘under-reporting’ pollution over Diwali; authority claims toxicity levels ‘too high’ to record LAHORE: The Punjab government insisted on Wednesday that there should be no politics over smog, environmental protection and public health, as these issues concern the lives, health and future of millions of people. “Smog is not a political issue. It is a scientific, environmental and public health challenge,” senior minister Marriyum Aurangzeb told a press conference on Wedne­sday,",
+   "score": 4
+  },
+  {
+   "id": "0049b4aface8",
+   "title": "FBR deploys AI to detect discrepancies in tax returns",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns",
+   "date": "2026-11-12T01:48:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Federal Board of Revenue (FBR) has expanded the use of artificial intelligence to scrutinise individual tax returns, enabling its automated system to detect factual and legal errors and discrepancies before initiating legal or penal action. Under the mechanism, taxpayers will first be informed electronically about discrepancies detected in their income tax returns and allowed to clarify or rectify them through a prescribed mechanism. The new procedures were notified through SRO 2098 of 2026, released on Wednesday. The new procedures are titled “38B. Procedure for electronic scru",
+   "score": 3
+  },
+  {
+   "id": "2d71723eb500",
+   "title": "Govt pays $3.23bn in interest on foreign debt",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043898/govt-pays-323bn-in-interest-on-foreign-debt",
+   "date": "2026-11-12T01:48:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Retires $14.44bn in FY26 • Total external public debt stands at $98.07bn ISLAMABAD: Pakistan repaid around $14.44 billion in external loans against $16.16bn it received, mostly for budget support, to shore up foreign exchange reserves, and to strengthen the local currency in 2025-26. In its annual report on Foreign Economic Assistance (FEA), the Ministry of Economic Affairs (MEA) on Wednesday reported Pakistan’s total external public debt at $98.075bn as of June 30, as it secured fresh commitments of $8.951bn in FY26. As such, the government missed its $19.923bn target set in the budget for ",
+   "score": 5
+  },
+  {
+   "id": "41ca8e16797e",
+   "title": "Amid spat with Maryam, Azma challenges Salik to quit ministry",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043909/amid-spat-with-maryam-azma-challenges-salik-to-quit-ministry",
+   "date": "2026-11-12T02:40:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Punjab info minister accuses PML-Q leader of ‘hypocrisy’; asks how he can demand more funds from the same regime he accuses of corruption • Salik blames Azma for ‘derailing’ his attempt at rapprochement through a cabinet colleague; vows to fight defamation suit in court LAHORE: The raging war of words between PML-N and PML-Q leaders took another turn on Wednesday when the Punjab information minister called on Federal Minister for Overseas Pakistanis Chaudhry Salik Hussain to relinquish his ministerial portfolio, rather than criticising Maryam Nawaz’s provincial government, while being a part",
+   "score": 3
+  },
+  {
+   "id": "c00abd11e8d7",
+   "title": "AJK leaders urge restraint, peace after recent unrest",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043911/ajk-leaders-urge-restraint-peace-after-recent-unrest",
+   "date": "2026-11-12T01:46:39Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "MUZAFFARABAD: Azad Jammu and Kashmir (AJK) President Dr Muh­ammad Najeeb and Prime Minister Iftikhar Gillani on Wednesday called for restraint, peace and grea­ter awareness of the region’s history, with the latter warning that provocative discourse and prevailing unrest were disrupting the lives of ordinary people. Addressing a seminar organised by the Sudhan Educational Conference in connection with the anniversary of Col Khan Muhammad Khan, popularly known as Baba-i-Poonch, and Captain Muh­ammad Hussain Shaheed, the AJK leadership also paid tribute to their contributions to the freedom movem",
+   "score": 5
+  },
+  {
+   "id": "6603843fb829",
+   "title": "Parliament must protect judicial independence, says Justice Mandokhail",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043902/parliament-must-protect-judicial-independence-says-justice-mandokhail",
+   "date": "2026-11-12T03:00:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Justice Jamal Khan Mandokhail on Wednesday said parliament, which represents the sovereign will of the people, must never undermine judicial independence, as only an independent judiciary can protect citizens’ fundamental rights. “Compromising or disregarding judicial independence has serious consequences for the state, parliamentarians and society,” Justice Mandokhail said in his address at a full court reference held in his honour on his retirement at the Supreme Court. He warned that when courts became subservient to political or executive pressure, the law was replaced by the wi",
+   "score": 5
+  },
+  {
+   "id": "18e53eca0469",
+   "title": "Iran status quo",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043940/iran-status-quo",
+   "date": "2026-11-12T03:05:19Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "THE current ‘no war, no peace’ situation in the US-Iran conflict is unsustainable. While the immediate fear of a new US-Israeli strike on Iran — and a greater regional conflagration — may have passed, thanks mainly to the drubbing the Republicans received in the American midterm elections, the Gulf will not return to normal unless there is stable long-term peace. True to form, President Donald Trump has been oscillating between claiming that more attacks are not needed and issuing new threats. After talking to the Qatari prime minister, he said that the US would maintain the “status quo” vis-à",
+   "score": 4
+  },
+  {
+   "id": "f147db112db6",
+   "title": "US midterms put pro-Israel AIPAC on defensive",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043963/us-midterms-put-pro-israel-aipac-on-defensive",
+   "date": "2026-11-12T03:28:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "WASHINGTON: For years, the pro-Israel lobbying group AIPAC was a US political juggernaut, but deepening voter disillusion over US-Israeli ties and wins by openly Israel-sceptic candidates in last week’s midterm elections have left it reeling. Candidates of all stripes long courted the American Israel Public Affairs Committee’s support. But what was once an asset has become a liability in many races, as favourable opinions of Israel plummet over civilian deaths in Gaza and the costly Iran war. In the Michigan Senate race, AIPAC’s once irresistible force ran into an immovable object. Demo­crat A",
+   "score": 6
+  },
+  {
+   "id": "bb4d78cd7fba",
+   "title": "Israeli strike on southern Gaza hospital kills five, Gaza civil defence says",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece",
+   "date": "2026-11-12T03:11:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel, which has stepped up its attacks ⁠on the enclave, says Hamas is trying to regroup and refill its arsenal. ‌Hamas says it is committed to a year-old ceasefire agreement and accuses Israel of trying to undermine it",
+   "score": 8,
+   "dup_of": "755f3c5ece24"
+  },
+  {
+   "id": "61cf848aba7e",
+   "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
+   "date": "2026-11-12T03:11:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli military, asked by AFP about the incident, said on Tuesday (November 10, 2026) it had acted to \"thwart stone-hurling and terrorist attacks\" in the area.",
+   "score": 7
+  },
+  {
+   "id": "b999cf83e4bc",
+   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
+   "date": "2026-11-11T04:54:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The gunmen took the three workers from Khyber Pakhtunkhwa’s Tank district to an undisclosed location after abducting them. The abducted workers were identified as Mir Janan, Ikram and Khanzala, says police",
+   "score": 7
+  },
+  {
+   "id": "a4887da31d9f",
+   "title": "Sheikh Hasina’s return to Bangladesh: the hurdles, the risks and the politics | Explained",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece",
+   "date": "2026-11-11T04:23:27Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Sheikh Hasina faces a dilemma. She wants to return as a political leader and reclaim her party, the Awami League. But she stands accused of ordering the police crackdown of July-August 2024, and the International Crimes Tribunal (ICT) in Dhaka has sentenced her to death for it",
+   "score": 6
   }
  ]
 }

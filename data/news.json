@@ -1,7 +1,247 @@
 {
- "updated": "2026-11-12T01:28:53Z",
- "count": 424,
+ "updated": "2026-11-12T04:12:37Z",
+ "count": 437,
  "items": [
+  {
+   "id": "e5bcbb9d6d15",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+   "date": "2026-11-12T03:50:42Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+   "title_en": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+   "summary_en": "Israel’s security cabinet has reportedly ordered the military to heighten readiness for potential strikes on Iran, prompting Tehran to warn of expanding retaliatory attacks beyond the region if targeted.",
+   "body_en": [
+    "According to Israeli broadcaster KAN, Prime Minister Benjamin Netanyahu's security cabinet issued directives that could lead to military actions triggering a war. The orders followed a statement by opposition leader Gadi Eisenkot—who was tasked by President Isaac Herzog with forming a new government after Netanyahu lost his parliamentary majority—urging Netanyahu not to deploy the military without an immediate threat.",
+    "In response to the escalation, Iranian security chief Mohsen Rezaei stated that any military base involved in aggression against Iran, from West Asia to Europe, would become a legitimate target. Meanwhile, diplomatic efforts continue, with US President Donald Trump expressing a willingness to pursue a Qatari diplomatic track while maintaining economic pressure and a naval blockade in the Strait of Hormuz."
+   ],
+   "title_fa": "هشدار ایران درباره پاسخ گسترده‌تر همزمان با گزارش‌ها از آمادگی اسرائیل برای حمله",
+   "summary_fa": "بر اساس گزارش‌ها، کابینه امنیتی اسرائیل به ارتش دستور داده است آمادگی خود را برای حملات احتمالی به ایران افزایش دهد؛ امری که با هشدار تهران مبنی بر گسترش حملات تلافی‌جویانه به خارج از منطقه در صورت مورد حمله قرار گرفتن مواجه شده است.",
+   "body_fa": [
+    "به گزارش شبکه کان اسرائیل، کابینه امنیتی به ریاست بنیامین نتانیاهو دستورالعمل‌هایی صادر کرده که می‌تواند به اقدامات نظامی منجر به جنگ بیانجامد. این دستورات پس از بیانیه گادی آیزنکوت، رهبر اپوزیسیون صادر شد که از نتانیاهو خواسته بود بدون تهدید فوری اقدام نظامی نکند. آیزنکوت پس از از دست رفتن اکثریت پارلمانی نتانیاهو در انتخابات، از سوی اسحاق هرتزوگ مأمور تشکیل دولت شده است.",
+    "در پاسخ به این تحرکات، محسن رضایی، مقام امنیتی ایران، اعلام کرد که در صورت حمله به ایران، هر پایگاه نظامی درگیر از غرب آسیا تا اروپا هدف مشروع خواهد بود. در همین حال، تلاش‌های دیپلماتیک ادامه دارد و دونالد ترامپ، رئیس‌جمهور آمریکا، از مسیر دیپلماتیک قطر استقبال کرده اما محاصره دریایی و فشارهای اقتصادی علیه ایران همچنان ادامه دارد."
+   ],
+   "title_ar": "إيران تحذر من رد واسع النطاق مع تقارير عن استعداد إسرائيل للهجوم",
+   "summary_ar": "أفادت تقارير بأن المجلس الوزاري المصغر للشؤون الأمنية في إسرائيل أمر الجيش برفع مستوى الجاهزية لضربات محتملة على إيران، مما دفع تهران إلى التحذير من توسيع نطاق ردها الانتقامي إلى خارج المنطقة إذا تعرضت للهجوم.",
+   "body_ar": [
+    "وبحسب هيئة البث الإسرائيلية (كان)، أصدر المجلس الوزاري المصغر برئاسة بنيامين نتنياهو توجيهات قد تؤدي إلى أعمال عسكرية تشعل حرباً. وجاءت هذه الأوامر بعد بيان لزعيم المعارضة غادي آيزنكوت، الذي كلفه الرئيس يتسحاق هرتسوغ بتشكيل الحكومة بعد فقدان نتنياهو للأغلبية البرلمانية، حث فيه نتنياهو على عدم تحريك الجيش دون تهديد مباشر.",
+    "ورداً على ذلك، صرح المسؤول الأمني الإيراني محسن رضائي بأن أي قاعدة عسكرية تشارك في العدوان على إيران، من غرب آسیا إلى أوروبا، ستكون هدفاً مشروعاً. وفي غضون ذلك، تستمر الجهود الدبلوماسية حيث أعرب الرئيس الأمريكي دونالد ترامب عن استعداده لاتباع المسار الدبلوماسي القطري مع استمرار فرض الحصار البحري والضغوط الاقتصادية."
+   ]
+  },
+  {
+   "id": "f147db112db6",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043963/us-midterms-put-pro-israel-aipac-on-defensive",
+   "date": "2026-11-12T03:28:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "US midterms put pro-Israel AIPAC on defensive",
+   "title_en": "US midterms put pro-Israel AIPAC on defensive",
+   "summary_en": "Deepening voter disillusionment and the success of candidates critical of Israel in the US midterm elections have left the pro-Israel lobbying group AIPAC facing severe challenges.",
+   "body_en": [
+    "What was once a powerful asset in US politics has become a liability for many candidates amid plummeting public favourability toward Israel over civilian deaths in Gaza and the war with Iran. In the Michigan Senate race, Democrat Abdul El-Sayed overcame millions of dollars in opposition spending by an AIPAC-affiliated group to secure a historic victory.",
+    "Official figures from the Chicago Council on Global Affairs showed American favourability toward Israel dropped to a record low average score of 44, down significantly from 2022. Amid shifting political dynamics, prominent figures across the political spectrum have also begun questioning traditional US-Israeli ties and annual aid packages."
+   ],
+   "title_fa": "انتخابات میان‌دوره‌ای آمریکا لابی حامی اسرائیل «آیپک» را در موضع تدافعی قرار داد",
+   "summary_fa": "سرخوردگی فزاینده رأی‌دهندگان و پیروزی نامزدهای منتقد اسرائیل در انتخابات میان‌دوره‌ای آمریکا، گروه لابی‌گری طرفدار اسرائیل «آیپک» را با چالش‌های جدی روبه‌رو کرده است.",
+   "body_fa": [
+    "آنچه زمانی یک اهرم قدرتمند در سیاست آمریکا محسوب می‌شد، در پی کاهش محبوبیت اسرائیل در میان افکار عمومی به دلیل تلفات غیرنظامیان در غزه و جنگ با ایران، به یک بار سنگین برای بسیاری از نامزدها تبدیل شده است. در رقابت سنای میشیگان، عبدالسید، نامزد دموکرات، با غلبه بر ده‌ها میلیون دلار هزینه تبلیغاتی یک گروه وابسته به آیپک، به پیروزی تاریخی دست یافت.",
+    "آمارهای رسمی شورای امور جهانی شیکاگو نشان داد که میزان محبوبیت اسرائیل در میان آمریکایی‌ها به میانگین رکوردشکنی ۴۴ سقوط کرده که نسبت به سال ۲۰۲۲ کاهش چشمگیری داشته است. در میان تحولات پویای سیاسی، چهره‌های برجسته در سراسر طیف سیاسی نیز شروع به زیر سؤال بردن روابط سنتی ایالات متحده و اسرائیل و بسته‌های کمک سالانه کرده‌اند."
+   ],
+   "title_ar": "انتخابات التجديد النصفي الأمريكية تضع منظمة \"آيباك\" المؤيدة لإسرائيل في موقف دفاعي",
+   "summary_ar": "أدت خيبة أمل الناخبين المتزايدة نجاح المرشحين المنتقدين لإسرائيل في انتخابات التجديد النصفي الأمريكية إلى ترك مجموعة الضغط المؤيدة لإسرائيل \"آيباك\" تواجه تحديات حادة.",
+   "body_ar": [
+    "ما كان يوماً رصيداً قوياً في السياسة الأمريكية أصبح عبئاً على العديد من المرشحين وسط تراجع التأييد الشعبي لإسرائيل بسبب سقوط ضحايا مدنيين في غزة والحرب مع إيران. وفي سباق مجلس الشيوخ في ميشيغان، تغلب الديمقراطي عبد السيد على ملايين الدولارات من إنفاق المعارضة من قبل مجموعة مرتبطة بآيباك لتحقيق فوز تاريخي.",
+    "أظهرت الأرقام الرسمية الصادرة عن مجلس شیکاغو للشؤون العالمية أن تأييد الأميركيين لإسرائيل انخفض إلى مستوى قياسي منخفض بلغ متوسطه 44، بانخفاض كبير عن عام 2022. وسط الديناميكيات السياسية المتغيرة، بدأت شخصيات بارزة عبر الطيف السياسي أيضاً في التشكيك في العلاقات الأمريكية الإسرائيلية التقليدية وحزم المساعدات السنوية."
+   ]
+  },
+  {
+   "id": "61cf848aba7e",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
+   "date": "2026-11-12T03:11:36Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+   "title_en": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+   "summary_en": "Israeli forces shot and killed a 14-year-old Palestinian in the occupied West Bank, according to Palestinian officials. The Israeli military stated it fired to remove a stone-throwing threat.",
+   "body_en": [
+    "The Palestinian health ministry identified the victim as Moutaz Eyad Daghlas, who was killed in Burqa, northwest of Nablus, late on Monday. The Palestine Red Crescent Society reported treating two other gunshot victims and taking them to the hospital, while stating that Israeli forces prevented access to a third wounded person and detained three volunteer paramedics.",
+    "The Israeli military said its forces acted to prevent stone-hurling at a highway used by Israeli vehicles, stating that soldiers identified several individuals intending to throw stones and fired at them to remove the threat."
+   ],
+   "title_fa": "مقام‌های فلسطینی: نیروهای اسرائیلی یک نوجوان ۱۴ ساله را در کرانه باختری به ضرب گلوله کشتند",
+   "summary_fa": "به گفته مقام‌های فلسطینی، نیروهای اسرائیلی یک نوجوان ۱۴ ساله فلسطینی را در کرانه باختری اشغالی به ضرب گلوله کشتند. ارتش اسرائیل اعلام کرد که برای رفع تهدید پرتاب سنگ شلیک کرده است.",
+   "body_fa": [
+    "وزارت بهداشت فلسطین هویت فرد کشته‌شده را معتز ایاد دغلس اعلام کرد که در شهرک برقه در شمال غربی نابلس جان باخت. جمعیت هلال احمر فلسطین گزارش داد که نیروهایش دو مجروح دیگر ناشی از تیراندازی را درمان و به بیمارستان منتقل کردند، اما نیروهای اسرائیلی مانع از دسترسی به مجروح سوم شده و سه امدادگر داوطلب را بازداشت کردند.",
+    "ارتش اسرائیل اعلام کرد که نیروهایش برای جلوگیری از پرتاب سنگ به سمت بزرگراه مورد استفاده خودروهای اسرائیلی اقدام کرده‌اند و افزود که سربازان چند نفر را که قصد پرتاب سنگ داشتند شناسایی کرده و برای رفع تهدید به سمت آن‌ها شلیک کردند."
+   ],
+   "title_ar": "مسؤولون فلسطينيون: القوات الإسرائيلية تقتل طفلاً يبلغ من العمر 14 عاماً في الضفة الغربية",
+   "summary_ar": "أفاد مسؤولون فلسطينيون بأن القوات الإسرائيلية قتلت فتى فلسطينياً يبلغ من العمر 14 عاماً في الضفة الغربية المحتلة. وأعلن الجيش الإسرائيلي أنه أطلق النار لإزالة تهديد رشق الحجارة.",
+   "body_ar": [
+    "ذكرت وزارة الصحة الفلسطينية أن الضحية هو معتز إياد دغلس، الذي قُتل في قرية برقة شمال غرب نابلس في وقت متأخر من مساء الاثنين. وأفادت جمعية الهلال الأحمر الفلسطيني بأن طواقمها عالجت شخصين آخرين أصيبا بأعيرة نارية ونقلتهما إلى المستشفى، مشيرة إلى أن القوات الإسرائيلية منعت الوصول إلى مصاب ثالث واعتقلت ثلاثة مسعفين متطوعين.",
+    "وقال الجيش الإسرائيلي إن قواته تصرفت لإحباط عمليات رشق الحجارة على طريق يستخدمه سائقون إسرائيليون، مضيفاً أن الجنود رصدوا عدة أشخاص كانوا يعتزمون رشق الحجارة وأطلقوا النار نحوهم لإزالة التهديد."
+   ]
+  },
+  {
+   "id": "6603843fb829",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043902/parliament-must-protect-judicial-independence-says-justice-mandokhail",
+   "date": "2026-11-12T03:00:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Parliament must protect judicial independence, says Justice Mandokhail",
+   "title_en": "Parliament must protect judicial independence, says Justice Mandokhail",
+   "summary_en": "Outgoing Supreme Court Justice Jamal Khan Mandokhail stated on Wednesday that parliament must not undermine judicial independence, warning of serious consequences and potential anarchy if citizens lose faith in the justice system.",
+   "body_en": [
+    "Speaking at a full court reference held in his honour, Justice Mandokhail warned that subordinating courts to political or executive pressure replaces the law with the will of the powerful. He emphasized that safeguarding judicial independence is the collective responsibility of Parliament, the judiciary, and the executive.",
+    "Chief Justice of Pakistan Yahya Afridi and other legal leaders paid tribute to Justice Mandokhail's career during the reference. CJP Afridi highlighted the importance of maintaining harmony between the bench and the bar and outlined institutional measures to ensure fairness and accountability."
+   ],
+   "title_fa": "پارلمان باید از استقلال قوه قضاییه محافظت کند، قاضی مندوخیل گفت",
+   "summary_fa": "جمال خان مندوخیل، قاضی رو به بازنشستگی دیوان عالی، روز چهارشنبه اظهار داشت که پارلمان نباید استقلال قوه قضاییه را تضعیف کند و هشدار داد که در صورت از دست رفتن اعتماد شهروندان به نظام دادگستری، پیامدهای جدی و احتمال هرج‌ومرج وجود خواهد داشت.",
+   "body_fa": [
+    "قاضی مندوخیل در سخنرانی خود در نشست کامل دادگاه به افتخار او، هشدار داد که تابع کردن دادگاه‌ها به فشارهای سیاسی یا اجرایی، قانون را با اراده قدرتمندان جایگزین می‌کند. او تأکید کرد که حراست از استقلال قضایی مسئولیت جمعی پارلمان، قوه قضاییه و قوه مجریه است.",
+    "یحیی آفریدی، قاضی‌القضات پاکستان، و سایر رهبران حقوقی در این مراسم از کارنامه قاضی مندوخیل تقدیر کردند. قاضی‌القضات آفریدی بر اهمیت حفظ هماهنگی میان هیئت قضایی و وکلا تأکید کرد و اقدامات نهادی برای تضمین انصاف و پاسخگویی را برشمرد."
+   ],
+   "title_ar": "البرلمان يجب أن يحمي استقلال القضاء، يقول القاضي مندوخيل",
+   "summary_ar": "صرح قاضي المحكمة العليا المغادر جمال خان مندوخيل يوم الأربعاء بأن البرلمان يجب ألا يتقويض استقلال القضاء، محذراً من عواقب وخيمة وفوضى محتملة إذا فقد المواطنون الثقة في نظام العدالة.",
+   "body_ar": [
+    "وفي كلمة ألقاها في جلسة محكمة كاملة أقيمت تكريماً له، حذر القاضي مندوخيل من أن إخضاع المحاكم للضغوط السياسية أو التنفيذية يستبدل القانون بإرادة الأقوياء. وأكد أن حماية استقلال القضاء هي المسؤولية الجماعية للبرلمان والقضاء والسلطة التنفيذية.",
+    "أشاد رئيس المحكمة العليا في باكستان يحيى أفريدي وقادة قانونيون آخرون مسيرة القاضي مندوخيل خلال الجلسة. وأبرز أفريدي أهمية الحفاظ على التناغم بين هيئة المحكمة ونقابة المحامين، مشيراً إلى التدابير المؤسسية لضمان العدالة والمساءلة."
+   ]
+  },
+  {
+   "id": "afea22f92600",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "date": "2026-11-12T03:00:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "title_en": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "summary_en": "Hundreds of oil spills resulting from vessel attacks during the US-Iran conflict have caused a major environmental disaster across the Gulf and the Strait of Hormuz, threatening fragile marine ecosystems.",
+   "body_en": [
+    "Since the conflict began in February, Greenpeace has identified over 500 instances of oil spills, covering a cumulative total of approximately 20,000 square kilometres. Attacks on tankers, such as the supertanker Gem No 2, have left massive slicks contaminating coastlines and harming marine life including coral reefs, mangroves, and sea turtles.",
+    "The naval blockade has hindered on-the-ground investigations, while local authorities in some areas have restricted public discussion on the environmental damage. Environmental experts warn that the shallow waters and summer heat of the Gulf exacerbate the crisis, leaving little capacity to buffer the impacts."
+   ],
+   "title_fa": "لکه‌های نفتی دیده شده از فضا: تأثیر ویرانگر حملات به قایق‌ها بر اکوسیستم‌های شکننده خلیج [فارس]",
+   "summary_fa": "صدها نشت نفت ناشی از حملات به کشتی‌ها در جریان درگیری ایالات متحده و ایران، فاجعه زیست‌محیطی بزرگی را در سراسر خلیج [فارس] و تنگه هرمز ایجاد کرده و اکوسیستم‌های شکننده دریایی را تهدید می‌کند.",
+   "body_fa": [
+    "از زمان آغاز درگیری در ماه فوریه، سازمان صلح سبز بیش از ۵۰۰ مورد نشت نفت را با مساحتی در مجموع حدود ۲۰ هزار کیلومتر مربع شناسایی کرده است. حملات به نفت‌کش‌ها، از جمله نفت‌کش غول‌پیکر «جم شماره ۲»، لکه‌های عظیمی بر جای گذاشته که خطوط ساحلی را آلوده کرده و به حیات دریایی از جمله صخره‌های مرجانی، جنگل‌های حرا و لاک‌پشت‌های دریایی آسیب رسانده است.",
+    "محاصره دریایی تحقیقات زمینی را با مانع مواجه کرده و مقامات محلی در برخی مناطق بحث عمومی درباره آسیب‌های زیست‌محیطی را محدود کرده‌اند. کارشناسان محیط زیست هشدار می‌دهند که آب‌های کم‌عمق و گرمای تابستانی خلیج [فارس] بحران را تشدید کرده و ظرفیت کمی برای تعدیل اثرات باقی گذاشته است."
+   ],
+   "title_ar": "بقع النفط مرئية من الفضاء: التأثير المدمر للهجمات على القوارب على النظم البيئية الهشة في الخليج",
+   "summary_ar": "تسببت مئات التسربات النفطية الناتجة عن الهجمات على السفن خلال الصراع بين الولايات المتحدة وإيران في كارثة بيئية كبرى عبر الخليج ومضيق هرمز، مما تهدد النظم البيئية البحرية الهشة.",
+   "body_ar": [
+    "منذ بدء الصراع في فبراير/شباط، رصدت منظمة السلام الأخضر أكثر من 500 حالة تسرب نفتي، تغطي مساحة تراكمية تبلغ حوالي 20 ألف كيلومتر مربع. وأدت الهجمات على الناقلات، مثل الناقلة العملاقة \"جيم رقم 2\"، إلى ترك بقع ضخمة تلوث السواحل وتضر بالحياة البحرية بما في ذلك الشعاب المرجانية وأشجار المانغروف والسلاحف البحرية.",
+    "وقد أعاق الحصار البحري التحقيقات على الأرض، بينما فرضت السلطات المحلية في بعض المناطق قيوداً على النقاش العام حول الأضرار البيئية. يحذر خراء البيئة من أن المياه الضحلة وحرارة الصيف في الخليج تفاقم الأزمة، مما يترك القليل من القدرة على تخفيف الآثار."
+   ]
+  },
+  {
+   "id": "2d71723eb500",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043898/govt-pays-323bn-in-interest-on-foreign-debt",
+   "date": "2026-11-12T01:48:18Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Govt pays $3.23bn in interest on foreign debt",
+   "title_en": "Govt pays $3.23bn in interest on foreign debt",
+   "summary_en": "Pakistan repaid $14.44 billion in external loans during the 2025-26 fiscal year, including $3.23 billion in interest payments, according to the Ministry of Economic Affairs.",
+   "body_en": [
+    "In its annual report on Foreign Economic Assistance, the ministry reported that total external public debt stood at $98.075 billion as of June 30. Total disbursements amounted to $16.16 billion, missing the budget target of $19.923 billion.",
+    "The report noted that $9.375 billion was obtained for budgetary support and balance of payments, with contributions from Naya Pakistan Certificates, friendly countries, commercial banks, bonds, and the International Monetary Fund."
+   ],
+   "title_fa": "دولت ۳.۲۳ میلیارد دلار بابت بهره بدهی خارجی پرداخت کرد",
+   "summary_fa": "بر اساس اعلام وزارت امور اقتصادی پاکستان، این کشور در سال مالی ۲۰۲۵-۲۰۲۶ مبلغ ۱۴.۴۴ میلیارد دلار وام خارجی از جمله ۳.۲۳ میلیارد دلار بابت پرداخت بهره را بازپرداخت کرد.",
+   "body_fa": [
+    "این وزارتخانه در گزارش سالانه خود درباره کمک‌های اقتصادی خارجی اعلام کرد که کل بدهی عمومی خارجی تا ۳۰ ژوئن به ۹۸.۰۷۵ میلیارد دلار رسیده است. کل پرداختی‌ها به ۱۶.۱۶ میلیارد دلار رسید و هدف بودجه‌ای ۱۹.۹۲۳ میلیارد دلاری محقق نشد.",
+    "این گزارش خاطرنشان کرد که ۹.۳۷۵ میلیارد دلار برای حمایت از بودجه و تراز پرداخت‌ها به دست آمده است که شامل کمک‌های گواهی‌های «نایا پاکستان»، کشورهای دوست، بانک‌های تجاری، اوراق قرضه و صندوق بین‌المللی پول می‌شود."
+   ],
+   "title_ar": "الحكومة تدفع 3.23 مليارات دولار فوائد على الدين الخارجى",
+   "summary_ar": "وفقاً لوزارة الشؤون الاقتصادية، سددت باكستان 14.44 مليار دولار من القروض الخارجية خلال السنة المالية 2025-2026، بما في ذلك 3.23 مليارات دولار كمدفوعات فوائد.",
+   "body_ar": [
+    "أفادت الوزارة في تقريرها السنوي عن المساعدة الاقتصادية الخارجية بأن إجمالي الدين العام الخارجى بلغ 98.075 مليار دولار حتى 30 يونيو/حزيران. وبلغ إجمالي المدفوعات 16.16 مليار دولار، متخلفة عن هدف الميزانية البالغ 19.923 مليار دولار.",
+    "وأشار التقرير إلى حصول الحكومة على 9.375 مليارات دولار لدعم الميزانية وميزان المدفوعات، بمساهمات من شهادات \"نايا باكستان\" والدول الصديقة والبنوك التجارية والسندات وصندوق النقد الدولي."
+   ]
+  },
+  {
+   "id": "c00abd11e8d7",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043911/ajk-leaders-urge-restraint-peace-after-recent-unrest",
+   "date": "2026-11-12T01:46:39Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "AJK leaders urge restraint, peace after recent unrest",
+   "title_en": "AJK leaders urge restraint, peace after recent unrest",
+   "summary_en": "Azad Jammu and Kashmir President Dr Muhammad Najeeb and Prime Minister Iftikhar Gillani called for peace and restraint on Wednesday, warning that provocative discourse and unrest are disrupting ordinary life.",
+   "body_en": [
+    "Speaking at a seminar in Muzaffarabad, the AJK leaders criticised irresponsible social media discourse and stressed that chaos is not the answer to governance shortcomings. PM Gillani emphasised that maintaining the writ of the state is essential for regional development and stability.",
+    "President Najeeb highlighted the importance of educating younger generations about the region's history and freedom movement. Other officials at the event also called for addressing the root causes of public grievances instead of confrontation."
+   ],
+   "title_fa": "رهبران کشمیر آزاد پس از ناآرامی‌های اخیر خواستار خویشتن‌داری و صلح شدند",
+   "summary_fa": "دکتر محمد نجیب، رئیس‌جمهور آزاد جمو و کشمیر، و افتخار گیلانی، نخست‌وزیر آن، روز چهارشنبه خواستار صلح و خویشتن‌داری شدند و هشدار دادند که گفتمان تحریک‌آمیز و ناآرامی‌ها زندگی عادی مردم را مختل می‌کند.",
+   "body_fa": [
+    "رهبران کشمیر آزاد در سخنرانی در همایشی در مظف‌آباد، گفتمان غیرمسئولانه در شبکه‌های اجتماعی را محکوم کرده و تأکید نمودند که آشوب پاسخگوی نواقص حکمرانی نیست. نخست‌وزیر گیلانی تأکید کرد که حفظ اقتدار دولت برای توسعه و ثبات منطقه‌ای ضروری است.",
+    "رئیس‌جمهور نجیب بر اهمیت آموزش نسل‌های جوان درباره تاریخ منطقه و جنبش آزادی‌بخش تأکید کرد. سایر مقام‌های حاضر در این رویداد نیز خواستار پرداختن به ریشه‌های نارضایتی‌های عمومی به جای تقابل شدند."
+   ],
+   "title_ar": "قادة كشمير الحرة يحثون على ضبط النفس والسلام بعد الاضطرابات الأخيرة",
+   "summary_ar": "دعا رئيس كشمير الحرة الدكتور محمد نجيب ورئيس الوزراء افتخار جيلاني يوم الأربعاء إلى السلام وضبط النفس، محذرين من أن الخطاب الاستفزازي والاضطرابات يعطلان الحياة اليومية.",
+   "body_ar": [
+    "وفي كلمة لهما خلال ندورة في مظفرباد، انتقد قادة كشمير الحرة الخطاب غير المسؤول على وسائل التواصل الاجتماعي، وأكدوا أن الفوضى ليست حلاً لأوجه القصور في الحل. وأكد رئيس الوزراء جيلاني أن الحفاظ على هيبة الدولة أمر ضروري للتنمية والاستقرار الإقليمي.",
+    "سلط الرئيس نجيب الضوء على أهمية تثقيف الأجيال الشابة حول تاريخ المنطقة وحركة التحرر. كما دعا مسؤولو في الفعالية إلى معالجة الأسباب الجذرية للمظالم العامة بدلاً من المواجهة."
+   ]
+  },
+  {
+   "id": "755f3c5ece24",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+   "date": "2026-11-12T01:20:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+   "title_en": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+   "summary_en": "An Israeli strike targeting Nasser Hospital in Khan Younis has killed at least six people and injured at least 20 others, according to Gaza's Civil Defence.",
+   "body_en": [
+    "Gaza's Civil Defence reported that the strike hit the hospital in Khan Younis, with the wounded including members of the medical staff."
+   ],
+   "title_fa": "حمله اسرائیل به بخش مراقبت‌های ویژه بیمارستان ناصر در غزه",
+   "summary_fa": "به گفته سازمان دفاع مدنی غزه، در پی حمله اسرائیل به بیمارستان ناصر در خان‌یوونس، دست‌کم شش نفر کشته و حداقل ۲۰ نفر دیگر زخمی شدند.",
+   "body_fa": [
+    "دفاع مدنی غزه گزارش داد که این حمله به بیمارستانی در خان‌یوونس اصابت کرده و در میان مجروحان، اعضای کادر درمان نیز حضور دارند."
+   ],
+   "title_ar": "إسرائيل تقصف قسم العناية المركزة في مجمع ناصر الطبي بغزة",
+   "summary_ar": "ذكرت دفاع مدني غزة أن قصفاً إسرائيلياً استهدف مجمع ناصر الطبي في خان يونس أسفر عن مقتل ستة أشخاص على الأقل وإصابة 20 آخرين على الأقل.",
+   "body_ar": [
+    "وأفاد الدفاع المدني في غزة بأن الضربة استهدفت المستشفى الواقع في خان يونس، وأن من بين المصابين أفراداً من الطاقم الطبي."
+   ]
+  },
   {
    "id": "66e8633a0ece",
    "lang": "ar",
@@ -34,6 +274,28 @@
    ]
   },
   {
+   "id": "47f5804d082e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-debris-missile-interception-falls-mecca-region",
+   "date": "2026-11-12T00:41:26Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi Arabia says debris from missile interception falls in Mecca region",
+   "title_en": "Saudi Arabia says debris from missile interception falls in Mecca region",
+   "summary_en": "Saudi Arabia's civil defence announced that debris fell in the Mecca region after two ballistic missiles launched by Yemen's Houthis were intercepted and destroyed.",
+   "body_en": [],
+   "title_fa": "عربستان سعودی: بقایای موشک‌های رهگیری‌شده در منطقه مکه سقوط کرد",
+   "summary_fa": "پدافند مدنی عربستان سعودی اعلام کرد که پس از رهگیری و انهدام دو موشک بالستیک شلیک‌شده توسط حوثی‌های یمن به سمت منطقه مکه، بقایای آن‌ها در این منطقه سقوط کرده است.",
+   "body_fa": [],
+   "title_ar": "السعودية تعلن سقوط شظايا اعتراض صاروخي في منطقة مكة",
+   "summary_ar": "أفادت الدفاع المدني السعودي بأن شظايا سقطت في منطقة مكة المكرمة إثر اعتراض وتدمير صاروخين باليستيين أطلقهما الحوثيون من اليمن باتجاه المنطقة.",
+   "body_ar": []
+  },
+  {
    "id": "3d378b613dbd",
    "lang": "en",
    "source": "Al Jazeera",
@@ -62,6 +324,91 @@
    "body_ar": [
     "وصف نعيم قاسم في كلمة متلفزة الانتخابات الأمريكية بـ \"الزلزال\"، وتكتل رئيس الوزراء بنيامين نتنياهو بـ \"الهزيمة\". وجدد رفض حزب الله التخلي عن سلاحه طالما استمرت القوات الإسرائيلية في احتلال أجزاء من جنوب لبنان.",
     "كما أشاد قاسم بإغلاق إيران لمضيق هرمز لكونه أضعف النفوذ الأمريكي والإسرائيلي من خلال رفع أسعار النفط العالمية. ودعا السلطات اللبنانية إلى التركيز على الملفات الداخلية بدلاً من الالتزام باتفاقات تخدم المشاريع الإسرائيلية."
+   ]
+  },
+  {
+   "id": "f532c40326c4",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-accuses-us-spreading-disinformation-about-iranian-terrorism",
+   "date": "2026-11-11T23:24:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Iran accuses US of spreading disinformation about Iranian terrorism",
+   "title_en": "Iran accuses US of spreading disinformation about Iranian terrorism",
+   "summary_en": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei accused the United States of orchestrating a disinformation campaign to portray itself as a victim of terrorism.",
+   "body_en": [
+    "In a post on social media, Baghaei stated that Washington has a long record of aggression and state terrorism, citing the assassination of Iranian leaders and officials. He emphasized that no media frenzy can erase responsibility for war crimes committed jointly with the Israeli regime."
+   ],
+   "title_fa": "ایران ایالات متحده را به انتشار اطلاعات نادرست درباره تروریسم ایران متهم کرد",
+   "summary_fa": "اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، ایالات متحده را به سازماندهی کارزار انتشار اطلاعات نادرست برای نشان دادن خود به عنوان قربانی تروریسم متهم کرد.",
+   "body_fa": [
+    "بقایی در پیامی در رسانه‌های اجتماعی اظهار داشت که واشنگتن سابقه طولانی در تجاوز و تروریسم دولتی دارد و به ترور رهبران و مقامات ایرانی اشاره کرد. وی تأکید کرد که هیچ هیاهوی رسانه‌ای نمی‌تواند مسئولیت جنایات جنگی ارتکاب‌یافته به همراه رژیم اسرائیل را پاک کند."
+   ],
+   "title_ar": "إيران تتهم الولايات المتحدة بنشر معلومات مضللة حول الإرهاب الإيراني",
+   "summary_ar": "اتهم المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي الولايات المتحدة بتنظيم حملة تضليل لتصوير نفسها ضحية \"للإرهاب\".",
+   "body_ar": [
+    "وفي منشور على وسائل التواصل الاجتماعي، ذكر بقائي أن واشنطن لها سجل طويل من العدوان والإرهاب الدولة، مشيراً إلى اغتيال القادة والمسؤولين الإيرانيين. وأكد أنه لا يمكن لأي ضجة إعلامية أن تمحوي المسؤولية عن جرائم الحرب المرتكبة بالاشتراك مع النظام الإسرائيلي."
+   ]
+  },
+  {
+   "id": "92eaad29583d",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attack-saudi-command-centre-yemen",
+   "date": "2026-11-11T23:03:27Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis claim attack on Saudi command centre in Yemen",
+   "title_en": "Houthis claim attack on Saudi command centre in Yemen",
+   "summary_en": "Yemen's Houthis claimed responsibility for a ballistic missile attack targeting a Saudi military command centre in Aden. The Saudi-backed Yemeni government condemned the strike.",
+   "body_en": [
+    "Houthi military spokesperson Yahya Saree stated on Telegram that several ballistic missiles struck a Saudi military command centre and operations room in the al-Buraiqa area of Aden on Wednesday. Saree said the facility directed and supervised Saudi military reinforcements across active fronts in Lahij, al-Dhale, Taiz, and other governorates.",
+    "In response, the Saudi-backed Yemeni government denounced the operation. Information Minister Salem al-Awalqi posted on social media that the attack reflects the group's established pattern of targeting civilians and terrorising innocent people."
+   ],
+   "title_fa": "حوثی‌ها مسئولیت حمله به مرکز فرماندهی عربستان در یمن را بر عهده گرفتند",
+   "summary_fa": "حوثی‌های یمن مسئولیت حمله با موشک‌های بالستیک به یک مرکز فرماندهی نظامی عربستان در عدن را بر عهده گرفتند. دولت یمن مورد حمایت عربستان این حمله را محکوم کرد.",
+   "body_fa": [
+    "یحیی سریع، سخنگوی نظامی حوثی‌ها، در کانال تلگرام خود اعلام کرد که چند موشک بالستیک روز چهارشنبه به یک مرکز فرماندهی نظامی و اتاق عملیات عربستان در منطقه البرَیقه عدن اصابت کرده است. به گفته سریع، این مرکز مسئولیت هدایت و نظارت بر تجهیزات و نیروهای کمکی نظامی عربستان در جبهه‌های فعال در لحج، الضالع، تعز و دیگر استان‌ها را بر عهده داشته است.",
+    "در مقابل، دولت یمن مورد حمایت عربستان این عملیات را محکوم کرد. سالم العولقی، وزیر اطلاع‌رسانی یمن، در شبکه‌های اجتماعی نوشت که این حمله نشان‌دهنده الگوی همیشگی این شبه‌نظامیان در هدف قرار دادن غیرنظامیان و ایجاد رعب و وحشت میان مردم بی‌گناه است."
+   ],
+   "title_ar": "الحوثيون يعلنون مسؤوليتهم عن هجوم على مركز قيادة سعودي في اليمن",
+   "summary_ar": "أعلن الحوثيون في اليمن مسؤوليتهم عن هجوم بصواريخ باليستية استهدف مركز قيادة عسكرياً سعودياً في عدن. ومن جانبها، دانت الحكومة اليمنية المدعومة من السعودية الهجوم.",
+   "body_ar": [
+    "صرح المتحدث العسكري باسم الحوثيين، يحيى سريع، عبر تليغرام بأن عدة صواريخ باليستية أصابت مركز قيادة عسكرياً وغرفة عمليات سعودية في منطقة البريقة بعدن يوم الأربعاء. وقال سريع إن المنشأة كانت مسؤولة عن توجيه والإشراف على التعزيزات العسكرية السعودية عبر الجبهات النشطة في لحج والضالع وتعز ومحافظات أخرى.",
+    "وفي المقابل، دانت الحكومة اليمنية المدعومة من السعودية هذه العملية. وذكر وزير الإعلام سالم العولقي في منشور على مواقع التواصل الاجتماعي أن الهجوم يعكس النهج المعتاد للميليشيا في استهداف المدنيين وترويع الأبرياء."
+   ]
+  },
+  {
+   "id": "f6061a2f9080",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-second-committee-votes-resolution-palestinian-sovereignty-over",
+   "date": "2026-11-11T22:55:59Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "UN committee votes for resolution on Palestinian sovereignty over natural resources",
+   "title_en": "UN committee votes for resolution on Palestinian sovereignty over natural resources",
+   "summary_en": "The UN General Assembly's Economic and Financial Committee adopted a draft resolution affirming the permanent sovereignty of the Palestinian people and the Arab population in the occupied Syrian Golan over their natural resources.",
+   "body_en": [
+    "The motion, put forward by the Group of 77 and China, received 151 votes in favour, including from all EU member states and Canada. Only seven countries opposed the resolution, while 11 nations abstained."
+   ],
+   "title_fa": "کمیته سازمان ملل به قطعنامه حاکمیت فلسطین بر منابع طبیعی رای داد",
+   "summary_fa": "کمیته اقتصادی و مالی مجمع عمومی سازمان ملل پیش‌نویس قطعنامه‌ای را تصویب کرد که بر حاکمیت دائمی مردم فلسطین و جمعیت عرب در جولان اشغالی سوریه بر منابع طبیعی تأکید می‌کند.",
+   "body_fa": [
+    "این طرح که توسط گروه ۷۷ و چین ارائه شده بود، ۱۵۱ رأی موافق از جمله از سوی تمامی کشورهای عضو اتحادیه اروپا و کانادا دریافت کرد. تنها هفت کشور با این قطعنامه مخالفت کردند و ۱۱ کشور رای ممتنع دادند."
+   ],
+   "title_ar": "لجنة أممية تصوت لصالح قرار بشأن السيادة الفلسطينية على الموارد الطبيعية",
+   "summary_ar": "اعتمدت اللجنة الاقتصادية والمالية للجمعية العامة للأمم المتحدة مشروع قرار يؤكد السيادة الدائمة للشعب الفلسطيني والسكان العرب في الجولان السوري المحتل على مواردها الطبيعية.",
+   "body_ar": [
+    "حصل الاقتراح، الذي تقدمت به مجموعة الـ 77 والصين، على 151 صوتاً مؤيداً، بما في ذلك جميع الدول الأعضاء في الاتحاد الأوروبي وكندا. وعارضت القرار سبع دول فقط، بينما امتنعت 11 دولة عن التصويت."
    ]
   },
   {
@@ -96,6 +443,37 @@
    ]
   },
   {
+   "id": "e497808966fd",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/how-israel-has-engineered-system-apartheid-west-bank-roads",
+   "date": "2026-11-11T22:50:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "How Israel has engineered a system of apartheid on West Bank roads",
+   "title_en": "How Israel has engineered a system of apartheid on West Bank roads",
+   "summary_en": "Israeli military closures, checkpoints, and barriers across the occupied West Bank have created a system of spatial segregation and restricted Palestinian movement while prioritizing settlers.",
+   "body_en": [
+    "According to documentation from the UN humanitarian office Ocha and B'Tselem, the West Bank is divided by over 900 movement obstacles, including checkpoints, iron gates, and earth mounds. These measures routinely choke daily commutes for millions of Palestinians, particularly around Ramallah and al-Bireh.",
+    "Key checkpoints like Beit El are systematically closed during afternoon rush hours to clear roads for Israeli settlers. Analysts note that these restrictions function not as security measures, but as a deliberate apparatus of spatial control and collective punishment."
+   ],
+   "title_fa": "چگونه اسرائیل سیستمی از آپارتاید را در جاده‌های کرانه باختری ایجاد کرده است",
+   "summary_fa": "بستن راه‌ها، ایست‌های بازرسی و موانع نظامی اسرائیل در سراسر کرانه باختری اشغالی، سیستمی از جداسازی مکانی ایجاد کرده و در حالی که به شهرک‌نشینان اولویت می‌دهد، تردد فلسطینیان را محدود کرده است.",
+   "body_fa": [
+    "بر اساس مستندات دفتر امور بشردوستانه سازمان ملل (اوچا) و بتسلیم، کرانه باختری با بیش از ۹۰۰ مانع حرکتی از جمله ایست‌های بازرسی، درهای آهنی و تپه‌های خاکی تقسیم شده است. این اقدامات به‌طور معمول رفت‌وآمدهای روزانه میلیون‌ها فلسطینی، به‌ویژه در اطراف رام‌الله و البیره را با مشکل مواجه می‌کند.",
+    "ایست‌های بازرسی کلیدی مانند بیت‌ال به طور سیستماتیک در ساعات اوج ترافیک بعدازظهر بسته می‌شوند تا جاده‌ها برای شهرک‌نشینان اسرائیلی باز شود. تحلیلگران خاطرنشان می‌کنند که این محدودیت‌ها نه به عنوان اقدامات امنیتی، بلکه به عنوان ابزاری عمدی برای کنترل مکانی و مجازات دسته‌جمعی عمل می‌کنند."
+   ],
+   "title_ar": "كيف هندست إسرائيل نظام فصل عنصري على طرق الضفة الغربية",
+   "summary_ar": "أدت الإغلاقات العسكرية الإسرائيلية والحواجز والعوائق في جميع أنحاء الضفة الغربية المحتلة إلى إنشاء نظام من الفصل المكاني وتقييد حركة الفلسطينيين مع إعطاء الأولوية للمستوطنين.",
+   "body_ar": [
+    "وفقاً لوثائق مكتب الأمم المتحدة للشؤون الإنسانية (أوتشا) وبتسيلم، مقسمة الضفة الغربية بأكثر من 900 عائق للحركة، بما في ذلك الحواجز العسكرية والبوابات الحديدية والسواتر الترابية. وتعطل هذه الإجراءات روتینياً التنقلات اليومية لملايين الفلسطينيين، لا سيما حول رام الله والبيرة.",
+    "يتم إغلاق الحواجز الرئيسية مثل بيت أيل بشكل منهجي خلال ساعات الذروة بعد الظهر لتطهير الطرق للمستوطنين الإسرائيليين. ويشير المحللون إلى أن هذه القيود لا تعمل كتدابير أمنية، بل كجهاز متعمد للسيطرة المكانية والعقاب الجماعي."
+   ]
+  },
+  {
    "id": "4618a22232de",
    "lang": "en",
    "source": "The Hindu",
@@ -123,6 +501,66 @@
    "body_ar": [
     "وفي خطابه أمام الجنود والقدامى والمسؤولين، أشاد ترامب بالقوات الأمريكية وأثنى على وزير الدفاع بيت هيغسيث الذي عرقل الجمهوريون محاولة لإقالته في مجلس النواب. ووفقاً للبنتاغون، أسفر الصراع الذي بدأ في فبراير بضربات أمريكية إسرائيلية عن مقتل 23 جندياً أمريكياً.",
     "وشهدت المراسم توبيخاً من حارس مقبرة الجندي المجهول لمجموعة تضم هيغسيث بسبب الضحك في الموقع المقدس. كما تطرق ترامب إلى خطته لبناء قوس النصر قرب المقبرة، وهو المشروع الذي يواجه دعاوى قضائية من عائلة كينيدي ومجموعات من المحاربين القدامى."
+   ]
+  },
+  {
+   "id": "4ebec35332fa",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran",
+   "date": "2026-11-11T21:48:29Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 9,
+   "title": "Netanyahu orders Israeli army to prepare for possible attack on Iran",
+   "title_en": "Netanyahu orders Israeli army to prepare for possible attack on Iran",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu's security cabinet has instructed the military to intensify preparations for a potential strike on Iran, according to Israeli media.",
+   "body_en": [
+    "The directive comes after opposition leader Gadi Eisenkot urged Netanyahu not to deploy forces without an immediate threat until a new government is formed, following Eisenkot's election successes and mandate to form a cabinet."
+   ],
+   "title_fa": "نتانیاهو به ارتش اسرائیل دستور داد برای حمله احتمالی به ایران آماده شود",
+   "summary_fa": "به گزارش رسانه‌های اسرائیلی، کابینه امنیتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به ارتش دستور داده است تا آمادگی‌ها را برای حمله احتمالی به ایران افزایش دهد.",
+   "body_fa": [
+    "این دستور پس از آن صادر شد که گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در پی موفقیت در انتخابات و دادن فرصت به او برای تشکیل کابینه، از نتانیاهو خواست تا زمان تشکیل دولت جدید، از به‌کارگیری نیروهای نظامی بدون وجود تهدید مستقیم و فوری خودداری کند."
+   ],
+   "title_ar": "نتنياهو يأمر الجيش الإسرائيلي بالاستعداد لهجوم محتمل على إيران",
+   "summary_ar": "ذكرت وسائل إعلام إسرائيلية أن المجلس الوزاري المصغر للشؤون الأمنية برئاسة رئيس الوزراء بنيامين نتنياهو أمر الجيش بتكثيف الاستعدادات لضربة محتملة على إيران.",
+   "body_ar": [
+    "وتأتي هذه التوجيهات بعد أن حث قائد المعارضة غادي آيزنكوت نتنياهو على الامتناع عن نشر القوات دون وجود تهديد مباشر وفوري حتى تشكيل الحكومة المقبلة، وذلك عقب النجاحات الانتخابية التي حققها كتلته وتكليفه بتشكيل الحكومة."
+   ]
+  },
+  {
+   "id": "21a3334c7766",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-faces-liquidity-crunch-even-oil-exports-rebound-pre-war",
+   "date": "2026-11-11T21:44:56Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU"
+   ],
+   "score": 7,
+   "title": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels",
+   "title_en": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels",
+   "summary_en": "Saudi Arabia is experiencing a liquidity crisis as bank deposit growth slows and economic pressures rise from the US-Israeli war on Iran, according to a Bank of America report.",
+   "body_en": [
+    "According to a client note from Bank of America cited by Bloomberg, Saudi Arabia is dealing with spillover effects from liquidity tightness in the United Arab Emirates as well as a rapid slowdown in its own economy. The interconnected nature of Saudi and Emirati banks, alongside interbank transactions, has compounded the pressure on Saudi bank deposits.",
+    "The report noted that while government entities are withdrawing funds from Saudi banks, demand for loans remains high, effectively increasing the cost of money in the kingdom. This strain is particularly significant given that Saudi Arabia, like several other Gulf nations, pegs its currency directly to the US dollar."
+   ],
+   "title_fa": "عربستان سعودی با وجود بازگشت صادرات نفت به سطح پیش از جنگ، با بحران نقدینگی مواجه است",
+   "summary_fa": "طبق گزارش بانک آمریکا، عربستان سعودی به دلیل کاهش رشد سپرده‌های بانکی و فشارهای اقتصادی ناشی از جنگ آمریکا و اسرائیل علیه ایران، با بحران نقدینگی مواجه شده است.",
+   "body_fa": [
+    "بر اساس یادداشت بانک آمریکا برای مشتریان خود که بلومبرگ آن را منتشر کرده، عربستان سعودی با پیامدهای ناشی از کمبود نقدینگی در امارات متحده عربی و همچنین کاهش سریع رشد اقتصادی خود روبرو است. ارتباط نزدیک میان بانک‌های سعودی و اماراتی و مبادلات بین‌بانکی فراوان، فشار بر سپرده‌های بانکی عربستان را تشدید کرده است.",
+    "این گزارش اشاره می‌کند که هم‌زمان با برداشت مالی نهادهای دولتی از بانک‌های سعودی، تقاضا برای وام همچنان بالا است که این امر هزینه‌های تامین مالی در این کشور را افزایش داده است. این فشار نقدینگی به ویژه از آن رو اهمیت دارد که ارزش currency عربستان، همانند چند کشور دیگر حوزه خلیج فارس، به طور مستقیم به دلار آمریکا متصل است."
+   ],
+   "title_ar": "السعودية تواجه أزمة سيولة رغم تعافي صادرات النفط إلى مستويات ما قبل الحرب",
+   "summary_ar": "تواجه السعودية أزمة سيولة مع تباطؤ نمو الودائع المصرفية وتزايد الضغوط الاقتصادية الناجمة عن الحرب الأمريكية الإسرائيلية على إيران، وفقاً لتقرير صادر عن بنك أوف أمريكا.",
+   "body_ar": [
+    "وفقاً لمذكرة أرسلها بنك أوف أمريكا للعملاء ونشرتها بلومبرغ، تتعامل السعودية مع تداعيات انتقال العدوى الناتجة عن شح السيولة في الإمارات العربية المتحدة، إلى جانب التباطؤ السريع في اقتصادها. وقد أدت العلاقة وثيقة الصلة بين البنوك السعودية والإماراتية والمعاملات المعاملات بين البنوك إلى زيادة الضغط على الودائع في البنوك السعودية.",
+    "وأشار التقرير إلى أنه في الوقت الذي تقوم فيه الجهات الحكومية بسحب أموال من البنوك السعودية، يظل الطلب على القروض مرتفعاً، مما يرفع عملياً تكلفة الأموال في المملكة. وتكتسب أزمة السيولة هذه أهمية خاصة نظراً لأن العملة السعودية، على غرار دول خليجية أخرى، مربوطة مباشرة بالدولار الأمريكي."
    ]
   },
   {
@@ -660,38 +1098,6 @@
    ]
   },
   {
-   "id": "afc6b7663349",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-embassy-saudi-arabia-urges-americans-exercise-heightened-vigilance",
-   "date": "2026-11-11T06:40:26Z",
-   "countries": [
-    "IRN",
-    "SAU",
-    "YEM"
-   ],
-   "score": 6,
-   "title": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
-   "title_en": "US embassy in Saudi Arabia urges Americans to 'exercise heightened vigilance' from Iranian, Houthi 'threats'",
-   "summary_en": "The United States embassy in Riyadh has issued a warning advising American citizens in Saudi Arabia and the broader Middle East to remain highly vigilant against potential threats from Iran and Yemen's Houthis.",
-   "body_en": [
-    "In a post on X, the embassy cited growing risks of armed attacks by Iranian-backed Houthis as well as efforts by Tehran to target US government personnel in the region. It noted that previous Houthi hostilities against Saudi Arabia have targeted civilian airports and critical infrastructure, causing casualties and travel disruptions.",
-    "The advisory cautioned that these hostile actions carry the potential to escalate swiftly beyond their immediate zone. Washington continues to monitor the security environment amid ongoing regional tensions."
-   ],
-   "title_fa": "سفارت آمریکا در عربستان از آمریکایی‌ها خواست نسبت به «تهدیدهای» ایران و حوثی‌ها هوشیار باشند",
-   "summary_fa": "سفارت ایالات متحده در ریاض با انتشار اطلاعیه‌ای از شهروندان آمریکایی در عربستان و سراسر خاورمیانه خواست به دلیل خطرات ناشی از سوی ایران و حوثی‌های یمن، هوشیاری خود را افزایش دهند.",
-   "body_fa": [
-    "این سفارت‌خانه در پیامی در شبکه اجتماعی اکس اعلام کرد که آمریکایی‌ها به دلیل افزایش خطر حملات مسلحانه حوثی‌های تحت حمایت ایران و تلاش‌های تهران برای هدف قرار دادن مقامات دولتی ایالات متحده در منطقه، باید هوشیاری خود را بالا ببرند.",
-    "در این اطلاعیه اشاره شده است که حوثی‌های تحت حمایت ایران پیش‌تر دست به اقداماتی علیه عربستان از جمله حمله به فرودگاه‌های غیرنظامی و زیرساخت‌های حیاتی زده‌اند که به تلفات غیرنظامی و اختلال شدید در سفرها منجر شده است. این هشدار همچنین می‌افزاید که چنین اقداماتی پتانسیل تشدید سریع فراتر از منطقه فوری را دارد."
-   ],
-   "title_ar": "السفارة الأمريكية في السعودية تحث الأمريكيين على توخي \"اليقظة الشديدة\" إزاء \"تهديدات\" إيران والحوثيين",
-   "summary_ar": "أصدرت السفارة الأمريكية في الرياض تحذيراً نصحت فيه المواطنين الأمريكيين في السعودية وعموم الشرق الأوسط بالبقاء على درجة عالية من اليقظة في مواجهة التهديدات المحتملة من إيران والحوثيين في اليمن.",
-   "body_ar": [
-    "أشارت السفارة في منشور على منصة إكس إلى تزايد مخاطر الهجمات المسلحة من قبل الحوثيين المدعومين من إيران، فضلاً عن مساعي طهران استهداف مسؤولي الحكومة الأمريكية في المنطقة.",
-    "ولفتت إلى أن الأعمال العدائية السابقة للحوثيين ضد السعودية استهدفت مطارات مدنية وبنى تحتية حيوية، مما أدى إلى وقوع إصابات مدنية وتعطيل حاد في حركة السفر، محذرة من أن هذه الأعمال قد تصعّد بسرعة خارج تلك المنطقة المباشرة."
-   ]
-  },
-  {
    "id": "5f9750ce9b48",
    "lang": "en",
    "source": "Al Jazeera",
@@ -782,30 +1188,33 @@
    ]
   },
   {
-   "id": "ca0cadf1ec7e",
+   "id": "b999cf83e4bc",
    "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
-   "date": "2026-11-11T04:04:56Z",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
+   "date": "2026-11-11T04:54:04Z",
    "countries": [
-    "ISR"
+    "PAK"
    ],
-   "score": 6,
-   "title": "Netanyahu heckled by Bennett at Knesset opening session",
-   "title_en": "Netanyahu heckled by Bennett at Knesset opening session",
-   "summary_en": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker Prime Minister Benjamin Netanyahu during the opening session of a new Knesset.",
+   "score": 7,
+   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "title_en": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
+   "summary_en": "Unidentified armed men abducted three polio vaccination workers in northwestern Pakistan's Tank district during an ongoing immunisation drive.",
    "body_en": [
-    "The disruption occurred as Netanyahu was delivering remarks to mark the beginning of the new parliamentary session following national elections."
+    "Police reported on Tuesday that gunmen took the three workers—identified as Mir Janan, Ikram, and Khanzala—from the Sorghar area of Tank district in Khyber Pakhtunkhwa to an undisclosed location. District administrators confirmed the abductions.",
+    "The incident follows a string of recent abductions and attacks targeting health workers in the region, including the kidnapping of four workers in Tank and a campaign supervisor in Khyber district earlier in November, as well as an attack in Mohmand district that left two police escorts dead."
    ],
-   "title_fa": "نفتالی بنت در جلسه افتتاحیه کنست بنیامین نتانیاهو را هو کرد",
-   "summary_fa": "نفتالی بنت، نخست‌وزیر پیشین اسرائیل، در جریان جلسه افتتاحیه کنست جدید مکرراً بنیامین نتانیاهو، نخست‌وزیر موقت را هو کرد.",
+   "title_fa": "سه عامل واکسیناسیون فلج اطفال در جریان کارزار واکسیناسیون در شمال غربی پاکستان ربوده شدند",
+   "summary_fa": "افراد مسلح ناشناس سه عامل واکسیناسیون فلج اطفال را در جریان کارزار سراسری واکسیناسیون در شهرستان تانک در شمال غربی پاکستان ربودند.",
    "body_fa": [
-    "این رویداد هنگامی رخ داد که نتانیاهو در حال سخنرانی برای آغاز به کار دوره جدید مجلس پس از برگزاری انتخابات سراسری بود."
+    "پلیس روز سه‌شنبه گزارش داد که افراد مسلح سه عامل واکسیناسیون به نام‌های میرجانان، اکرام و خنظله را از منطقه سورغر در شهرستان تانک در ایالت خیبر پختونخوا به نقطه‌ای نامعلوم منتقل کردند. مقامات محلی شهرستان نیز این ربوده شدن را تایید کردند.",
+    "این حادثه در پی موجی از ربوده شدن‌ها و حملات اخیر علیه تیم‌های واکسیناسیون در منطقه رخ می‌دهد؛ از جمله ربوده شدن چهار عامل واکسیناسیون در تانک و یک ناظر کارزار در شهرستان خیبر در اوایل ماه نوامبر، و همچنین حمله‌ای در شهرستان مهمند که به کشته شدن دو مامور پلیس محافظ منجر شد."
    ],
-   "title_ar": "بنت يقاطع نتنياهو بصيحات الاستهجان في الجلسة الافتتاحية للكنيست",
-   "summary_ar": "قاطع رئيس الوزراء الإسرائيلي الأسبق نفتالي بينيت مراراً وتكراراً رئيس الوزراء المتبعي أعماله بنيامين نتنياهو أثناء الجلسة الافتتاحية للكنيست الجديد.",
+   "title_ar": "اختطاف ثلاثة من عمال شلل الأطفال خلال حملة تطعيم في شمال غرب باكستان",
+   "summary_ar": "اختطف مسلحون مجهولون ثلاثة من عمال التطعيم ضد شلل الأطفال في منطقة تانك بشمال غرب باكستان أثناء حملة تطعيم جارية.",
    "body_ar": [
-    "حدثت المقاطعة بينما كان نتنياهو يلقي كلمة بمناسبة بدء دورة البرلمان الجديدة في أعقاب الانتخابات الوطنية."
+    "أفادت الشرطة يوم الثلاثاء بأن مسلحين اقتادوا العمال الثلاثة — الذين تم تحديد هوياتهم وهم میر جانان وإكرام وخنظلة — من منطقة سورغار في مديرية تانك بإقليم خيبر بختونخوا إلى مكان مجهول. وأكدت إدارة المديرية وقوع حادثة الاختطاف.",
+    "ويأتي هذا الحادث وسط سلسلة من عمليات الاختطاف والهجمات الأخيرة التي تستهدف طواقم التطعيم في المنطقة، بما في ذلك اختطاف أربعة عمال في تانك ومشرف حملة في مديرية خيبر في أوائل نوفمبر، بالإضافة إلى هجوم في مديرية مومند أسفر عن مقتل شرطيين من أفراد الحراسة."
    ]
   },
   {
@@ -833,33 +1242,6 @@
    "summary_ar": "افتتحت إيران أول معسكر تدريب عسكري مخصص بالكامل للنساء وسط مخاوف من تجدد الهجمات الأمريكية.",
    "body_ar": [
     "وشاركت عشرات المتطوعات من \"جانفدايان\"، المستعدات للتضحية بأرواحهن من أجل إيران، في تدريبات عسكرية أقيمت في ساحة آزادي بطهران."
-   ]
-  },
-  {
-   "id": "d68c04ddaab4",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/middle-east/20261111-lina-attalah-egypt-trial-prison",
-   "date": "2026-11-11T01:53:51Z",
-   "countries": [
-    "EGY"
-   ],
-   "score": 6,
-   "title": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
-   "title_en": "Egyptian journalist Lina Attalah faces prison as trial sparks international outcry",
-   "summary_en": "Lina Attalah, the head of Egyptian independent media outlet Mada Masr, faces a retrial in criminal court over accusations of operating without a licence and spreading false news.",
-   "body_en": [
-    "Attalah was previously sentenced in absentia to one year in prison in 2024. Ahead of the proceedings, the United Nations condemned Egypt's expanding crackdown on press freedom."
-   ],
-   "title_fa": "احتمال زندانی شدن لینا عطاالله، روزنامه‌نگار مصری، در پی آغاز دادگاهی که اعتراضات بین‌المللی برانگیخته است",
-   "summary_fa": "لینا عطاالله، مدیر رسانه مستقل «مدی مصر»، در ارتباط با اتهامات فعالیت بدون مجوز و نشر اکاذیب در یک دادگاه کیفری محاکمه مجدد می‌شود.",
-   "body_fa": [
-    "عطاالله پیش‌تر در سال ۲۰۲۴ به صورت غیابی به یک سال حبس محکوم شده بود. سازمان ملل متحد با انتقاد از اقدامات قاهره، نسبت به آنچه گسترش سرکوب آزادی مطبوعات در مصر خواند، اعتراض کرده است."
-   ],
-   "title_ar": "الصحفية المصرية لينا عطا الله تواجه خطر السجن وسط إدانات دولية لمحاكمتها",
-   "summary_ar": "تواجه الصحفية المصرية لينا عطا الله، مديرة موقع \"مدى مصر\" المستقل، إعادة محاكمة أمام محكمة الجنايات بتهمتي العمل دون ترخيص ونشر أخبار كاذبة.",
-   "body_ar": [
-    "وكان قد صدر ضد عطا الله حكم غيابي بالسجن لمدة عام في عام 2024. وانتقدت الأمم المتحدة الإجراءات القضائية، محذرة من تصاعد الانتهاكات ضد حرية الصحافة في مصر."
    ]
   },
   {
