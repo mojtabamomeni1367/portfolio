@@ -1,7 +1,129 @@
 {
- "updated": "2026-11-13T10:24:20Z",
- "count": 433,
+ "updated": "2026-11-13T13:30:55Z",
+ "count": 437,
  "items": [
+  {
+   "id": "7ed19effff53",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:28:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+   "title_en": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+   "summary_en": "The International Atomic Energy Agency has expressed growing concern over a planned uranium enrichment facility near Isfahan, warning that it lacks access to verify Iran's nuclear material and facilities.",
+   "body_en": [
+    "According to a report seen by news agencies, the IAEA lacks precise information on the location and contents of the Isfahan Fuel Enrichment Plant, which Iran announced on 12 June 2025. Planned inspections of the facility were cancelled after Israel launched strikes on Iranian nuclear sites the following day, later joined by the US.",
+    "The UN watchdog stated that its lack of access prevents it from verifying Iran's enriched uranium stockpile, creating a serious proliferation concern. Satellite imagery also indicates ongoing construction near Iranian missile bases, while Washington has offered a reward for information regarding Iran's nuclear programme."
+   ],
+   "title_fa": "«نگرانی فزاینده» دیده‌بان سازمان ملل درباره سایت هسته‌ای ایران",
+   "summary_fa": "آژانس بین‌المللی انرژی اتمی نگرانی فزاینده خود را در مورد تأسیسات برنامه‌ریزی‌شده غنی‌سازی اورانیوم در نزدیکی اصفهان ابراز کرده و هشدار داده است که به اطلاعات و دسترسی لازم برای راستی‌آزمایی مواد هسته‌ای ایران دسترسی ندارد.",
+   "body_fa": [
+    "بر اساس گزارشی که به رؤیت آژانس‌های خبری رسیده، آژانس بین‌المللی انرژی اتمی اطلاعات دقیقی از مکان و محتویات تأسیسات غنی‌سازی سوخت اصفهان ندارد؛ تأسیساتی که ایران در ۱۲ ژوئن ۲۰۲۵ خبر از ساخت آن داد. بازرسی‌های برنامه‌ریزی‌شده پس از حملات اسرائیل و سپس آمریکا به سایت‌های هسته‌ای ایران در روز بعد لغو شد.",
+    "دیده‌بان هسته‌ای سازمان ملل اعلام کرد که عدم دسترسی، مانع راستی‌آزمایی ذخایر اورانیوم غنی‌شده ایران می‌شود و این امر نگرانی‌های جدی عدم اشاعه ایجاد کرده است. همچنین تصاویر ماهواره‌ای نشان‌دهنده ساخت‌وسازهای گسترده در نزدیکی پایگاه‌های موشکی ایران است، در حالی که واشنگتن پاداشی برای اطلاعات مربوط به برنامه هسته‌ای ایران تعیین کرده است."
+   ],
+   "title_ar": "الوكالة الدولية للطاقة الذرية تشعر بـ\"قلق متزايد\" بشأن موقع نووي في إيران",
+   "summary_ar": "أعربت الوكالة الدولية للطاقة الذرية عن \"قلق فزايد\" بشأن منشأة لتخصيب اليورانيوم من المخطط إقامتها قرب إصفهان، محذرة من أنها تفتقر إلى الوصول للتحقق من المواد والمنشآت النووية الإيرانية.",
+   "body_ar": [
+    "وفقاً لتقرير اطلعت عليه وكالات الأنباء، تفتقر الوكالة الدولية للطاقة الذرية إلى معلومات دقيقة حول موقع ومحتويات منشأة إصفهان لتخصيب الوقود، التي أعلنت عنها إيران في 12 يونيو 2025. وألغيت الزيارات التفتيشية المخطط لها بعد شن إسرائيل والولايات المتحدة ضربات على المواقع النووية الإيرانية في اليوم التالي.",
+    "وأكدت الوكالة أن غياب الوصول يمنعها من التحقق من مخزون اليورانيوم المخصب لدى إيران، مما يشكل قلقاً جاداً بشأن انتشار الأسلحة النووية. وتظهر صور الأقمار الصناعية استمرار أعمال بناء كبيرة قرب قواعد الصواريخ الإيرانية، بينما عرضت واشنطن مكافأة للحصول على معلومات حول البرنامج النووي الإيراني."
+   ]
+  },
+  {
+   "id": "6167e8a3fcb4",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+   "date": "2026-11-13T10:54:25Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+   "title_en": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps claims it destroyed an American early-warning radar in Bahrain following a US strike on an Iranian telecommunications centre.",
+   "body_en": [
+    "Iran's Islamic Revolutionary Guard Corps announced that it targeted and destroyed a US early-warning radar facility located in Bahrain. The strike was launched in retaliation for an earlier American attack against a telecommunications centre inside Iran.",
+    "Tehran has threatened an unlimited response across the Strait of Hormuz following the confrontation with US forces."
+   ],
+   "title_fa": "تهدید ایران به پاسخ نامحدود در تنگه هرمز پس از حمله آمریکا",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران ادعا می‌کند که در پاسخ به حمله آمریکا به یک مرکز مخابراتی در ایران، یک رادار هشدار زودهنگام آمریکایی را در بحرین منهدم کرده است.",
+   "body_fa": [
+    "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که یک تأسیسات راداری هشدار زودهنگام متعلق به ایالات متحده را در بحرین هدف قرار داده و منهدم کرده است. این اقدام در تلافی حمله قبلی آمریکا به یک مرکز ارتباطات و مخابرات در داخل خاک ایران انجام شد.",
+    "تهران در پی این درگیری با نیروهای آمریکایی، به پاسخ نامحدود در تنگه هرمز تهدید کرده است."
+   ],
+   "title_ar": "إيران تهدد برد غير محدود في مضيق هرمز بعد هجوم أميركي",
+   "summary_ar": "يعلن الحرس الثوري الإيراني أنه دمر رادار إنذار مبكر أميركياً في البحرين رداً على هجوم أميركي استهدف مركز اتصالات في إيران.",
+   "body_ar": [
+    "أعلن الحرس الثوري الإيراني أنه استهدف ودمر منشأة رادار إنذار مبكر تابعة للولايات المتحدة في البحرين. وجاءت هذه الضربة رداً على هجوم أميركي سابق استهدف مركز اتصالات داخل إيران.",
+    "وهددت تهران برد غير محدود عبر مضيق هرمز عقب هذا المواجهة مع القوات الأميركية."
+   ]
+  },
+  {
+   "id": "3876f894a504",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
+   "date": "2026-11-13T10:28:30Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 7,
+   "title": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+   "title_en": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+   "summary_en": "Iraqi Foreign Minister Fuad Hussein stated that the current \"no war and no peace\" situation between the US and Iran is unsustainable.",
+   "body_en": [
+    "Speaking in an interview with France 24, Fuad Hussein addressed the ongoing regional tensions, stressing that the political and military standoff between Washington and Tehran cannot persist. He also commented on border management, noting that complying with US demands to close all but two border crossings with Iran is not feasible for Iraq.",
+    "Hussein additionally confirmed that Iraqi oil exports are currently transiting through the Strait of Hormuz under US naval protection."
+   ],
+   "title_fa": "وزیر خارجه عراق: وضعیت «نه جنگ و نه صلح» میان آمریکا و ایران «نمی‌تواند ادامه یابد»",
+   "summary_fa": "فؤاد حسین، وزیر امور خارجه عراق، اعلام کرد که وضعیت «نه جنگ و نه صلح» میان آمریکا و ایران قابل ادامه نیست.",
+   "body_fa": [
+    "فؤاد حسین در گفت‌وگو با شبکه فرانس ۲۴ با اشاره به تنش‌های منطقه‌ای تاکید کرد که بن‌بست سیاسی و نظامی میان واشنگتن و تهران نمی‌تواند ادامه یابد. وی همچنین درباره مدیریت مرزی گفت که بستن همه گذرگاه‌های مرزی با ایران به جز دو مورد، آن‌طور که آمریکا درخواست کرده، امکان‌پذیر نیست.",
+    "وزیر خارجه عراق در بخش دیگری از سخنانش تأیید کرد که صادرات نفت عراق در حال حاضر تحت حمایت نیروهای آمریکایی از تنگه هرمز عبور می‌کند."
+   ],
+   "title_ar": "وزير الخارجية العراقي: حالة \"لا حرب ولا سلم\" بين أميركا وإيران \"لا يمكن أن تستمر\"",
+   "summary_ar": "صرح وزير الخارجية العراقي فؤاد حسين بأن حالة \"لا حرب ولا سلم\" القائمة بين الولايات المتحدة وإيران \"لا يمكن أن تستمر\".",
+   "body_ar": [
+    "وفي مقابلة مع فرانس 24، تطرق فؤاد حسين إلى التوترات الإقليمية المستمرة، مؤكداً أن المأزق السياسي والعسكري بين واشنطن وتل أبيب ولا يمكن أن يستمر. وأوضح أن إغلاق جميع المعابر الحدودية مع إيران باستثناء اثنين، كما تطالب واشنطن، هو أمر \"غير ممکن\".",
+    "كما أكد حسين أن النفط العراقي يمر حالياً عبر مضيق هرمز تحت حماية أميركية."
+   ]
+  },
+  {
+   "id": "7f164ba0a7d0",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
+   "date": "2026-11-13T09:43:30Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "With every rainfall, Gaza risks losing access to power and healthcare",
+   "title_en": "With every rainfall, Gaza risks losing access to power and healthcare",
+   "summary_en": "Recent heavy rainfall in the Gaza Strip has severely disrupted daily life, worsening energy shortages and posing major risks to healthcare infrastructure.",
+   "body_en": [
+    "Heavy rains have flooded temporary shelters and damaged small-scale solar power systems relied upon by displaced residents for light and phone charging. The damage has added to the severe electricity crisis in Gaza, where an estimated 80 percent of power generation and distribution assets have been destroyed or rendered inoperable during the conflict.",
+    "Power distribution companies are struggling to protect equipment, while energy experts warn that water damage to solar inverters and batteries could further impair emergency systems. Health officials and specialists also expressed concern that water seeping into temporary medical facilities could damage critical equipment like oxygen generators and vital-signs monitors."
+   ],
+   "title_fa": "با هر بارندگی، غزه در معرض خطر از دست دادن دسترسی به برق و خدمات درمانی قرار می‌گیرد",
+   "summary_fa": "بارندگی‌های شدید اخیر در نوار غزه زندگی روزمره را به شدت مختل کرده، کمبود انرژی را تشدید نموده و خطرات جدی برای زیرساخت‌های درمانی ایجاد کرده است.",
+   "body_fa": [
+    "بارش‌های سنگین باعث آب‌گرفتگی پناهگاه‌های موقت و آسیب به سیستم‌های برق خورشیدی خانگی شده است که آوارگان برای روشنایی و شارژ تلفن به آن‌ها وابسته هستند. این خسارت‌ها بحران شدید برق در غزه را تشدید کرده است؛ جایی که بر اساس برآوردها ۸۰ درصد از دارایی‌های تولید و توزیع برق در طول جنگ تخریب یا غیرقابل استفاده شده‌اند.",
+    "شرکت‌های توزیع برق برای محافظت از تجهیزات دچار مشکل شده‌اند و کارشناسان انرژی هشدار می‌دهند آسیب آب به اینورترها و باتری‌ها می‌تواند سیستم‌های اضطراری را متوقف کند. متخصصان و مسئولان بهداشتی نیز ابراز نگرانی کرده‌اند که نفوذ آب به مراکز درمانی موقت می‌تواند به تجهیزات حیاتی مانند دستگاه‌های اکسیژن‌ساز و مانیتورهای علائم حیاتی آسیب بزند."
+   ],
+   "title_ar": "مع كل هطول للأمطار، يواجه قطاع غزة خطر فقدان الكهرباء والرعاية الصحية",
+   "summary_ar": "تسببت الأمطار الغزيرة الأخيرة في قطاع غزة في تفاقم أزمة الطاقة وتعريض البنية التحتية للرعاية الصحية لمخاطر كبيرة.",
+   "body_ar": [
+    "تسببت مياه الأمطار الغزيرة في غمر الملاجئ المؤقتة وإتلاف أنظمة الطاقة الشمسية الصغيرة التي يعتمد عليها النازحون للإضاءة وشحن الهواتف. وترافق هذا الأثر مع أزمة الكهرباء الحادة في غزة، حيث تشير التقديرات إلى تدمير أو تعطيل 80% من أصول توليد وتوزيع الكهرباء خلال الحرب.",
+    "وتواجه شركات توزیع الكهرباء صعوبات كبيرة في حماية المعدات، بينما يحذر خبراء الطاقة من أن تسرب المياه إلى المحولات والبطاريات يهدد بتعطيل الأنظمة البديلة. كما أعرب متخصصون عن قلقهم من وصول الأمطار إلى المنشآت الطبية المؤقتة مما قد يضر بأجهزة حيوية مثل مولدات الأكسجين ومراقبة العلامات الحيوية."
+   ]
+  },
   {
    "id": "f66f88957d04",
    "lang": "fa",
