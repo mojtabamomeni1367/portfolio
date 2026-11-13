@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:30:55Z",
+ "updated": "2026-11-13T16:04:02Z",
  "items": [
   {
    "id": "3d378b613dbd",
@@ -2993,6 +2993,169 @@
    "desc": "The International Atomic Energy Agency has not had access to key nuclear facilities in Iran since Israel and the U.S. launched a 12-day conflict in June 2025 that included strikes on nuclear sites",
    "score": 8,
    "dup_of": "7ed19effff53"
+  },
+  {
+   "id": "39353f83996a",
+   "title": "Turkiye and Qatar sign mutual defence agreement",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+   "date": "2026-11-13T15:49:51Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "This is a breaking news story.",
+   "score": 8
+  },
+  {
+   "id": "92071404f33b",
+   "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+   "date": "2026-11-13T15:02:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+   "score": 4
+  },
+  {
+   "id": "d751c02347a5",
+   "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+   "date": "2026-11-13T14:16:20Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+   "score": 7,
+   "dup_of": "8bfccb963bbe"
+  },
+  {
+   "id": "cff8f7ebc8d8",
+   "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
+   "date": "2026-11-13T13:19:26Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+   "score": 4
+  },
+  {
+   "id": "faa821699101",
+   "title": "Delhi overtakes Lahore as world’s most polluted city",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
+   "date": "2026-11-13T13:11:08Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
+   "score": 3
+  },
+  {
+   "id": "849a1d2fc534",
+   "title": "The truth about Douma: How Syria covered up a chemical attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
+   "date": "2026-11-13T14:24:39Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, and eyewitnesses went silent. Eight years later, FRANCE 24's Jenna Le Bras tracked down survivors and witnesses of the deadly attack. She also met representatives of some of the world's most powerful institutions to understand how a massive cover-up campaign had been orchestrated by the regime, with Russian support.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "1dda20c99f3a",
+   "title": "Barrick Mining expresses interest in mineral processing industries in Karachi, Gwadar",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044302/barrick-mining-expresses-interest-in-mineral-processing-industries-in-karachi-gwadar",
+   "date": "2026-11-13T15:00:31Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The delegation from the Barrick Mining Corporation on Friday expressed strong interest in investing in the establishment of mineral processing industries in Karachi and Gwadar. The development came as the delegation, led by Chairman John Thornton, held a meeting with Prime Minister Shehbaz Sharif in Islamabad, a statement by the Prime Minister’s Office (PMO) said on X. According to the PMO, the visiting delegation described the decision by the prime minister and the government to hold a minerals conference as an important step towards mineral development in Pakistan. “The delegation expressed ",
+   "score": 4
+  },
+  {
+   "id": "4d1457a4f221",
+   "title": "ECP gives federal govt 2 weeks to submit formal request for cantonment board polls",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044299/ecp-gives-federal-govt-2-weeks-to-submit-formal-request-for-cantonment-board-polls",
+   "date": "2026-11-13T13:27:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Election Commission of Pakistan (ECP) has given the Prime Minister’s Office (PMO) a fortnight to submit the federal government’s formal written request for local government elections in cantonment boards, warning that it would be constrained to pass appropriate orders if no response was received, it emerged on Friday. Cantonment boards last held LG elections in 2015 and 2021. Previously, the ECP said delimitation in all cantonments had been completed, but it was awaiting formal request and response from the Ministry of Defence, to which it had written several letters and also se",
+   "score": 3
+  },
+  {
+   "id": "bfd016366adc",
+   "title": "COP has a guest-list problem",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044280/cop-has-a-guest-list-problem",
+   "date": "2026-11-13T14:18:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "“The entire conversation around climate change was, ‘Pakistan…it’s Pakistan now, but the world next,’ 23-year-old Maryam Jamali recalls. “But no one from those communities was present at COP.” Co-founder of Madat Balochistan, a women and indigenous-led grassroots organisation dedicated to rehabilitating communities affected by climate change, Jamali became a climate activist during the catastrophic floods of 2022. As her family and community members faced its devastation, Jamali used phone calls to coordinate relief efforts in Sindh and Balochistan. It soon became apparent to her, however, tha",
+   "score": 3
+  },
+  {
+   "id": "2bd0163a2ae5",
+   "title": "از چیتگر تا سرخه‌حصار؛ زنگ خطر خشکیدگی جنگل‌های تهران",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cry493q37ye0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T14:59:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "خشک‌شدن درختان پارک‌های جنگلی تهران در ماه‌های اخیر بارها خبرساز شده است؛ از چیتگر در غرب پایتخت تا سرخه‌حصار در شرق. اکنون یکی از مقام‌های سازمان بوستان‌های تهران می‌گوید که حدود ۴۰ تا ۴۵ درصد درختان سرخه‌حصار خشک شده‌اند؛ آماری که بار دیگر نگرانی‌ها درباره وضعیت جنگل‌کاری‌های قدیمی پایتخت و نحوه نگهداری از آنها را افزایش داده است.",
+   "score": 2
+  },
+  {
+   "id": "706bd2ffac7c",
+   "title": "آژانس بین‌المللی انرژی اتمی: نگرانی‌ها درباره تاسیسات هسته‌ای ایران در اصفهان افزایش یافته است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cvglrk6k1wl5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T13:33:53Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "آژانس بین المللی انرژی اتمی می‌گوید نگرانی‌هایش درباره تاسیسات غنی‌سازی اورانیوم ایران در اصفهان به‌طور فزاینده‌ای بیشتر یافته است. به گفته این نهاد ناظر هسته‌ای سازمان ملل مشخص نیست که آیا این تاسیسات حاوی مواد هسته‌ای هست یا نه و یا حتی محل دقیق آن کجاست.",
+   "score": 9,
+   "dup_of": "7ed19effff53"
+  },
+  {
+   "id": "501ca08ab008",
+   "title": "رويترز: تركيا وقطر توقعان اتفاقية دفاع مشترك",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cvn0d3e5d5lwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:32:58Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "وقّعت تركيا وقطر اتفاقية للدفاع المشترك بين البلدين، حسبما نقلت وكالة رويترز للأنباء عن مكتب الرئيس التركي رجب طيب أردوغان.",
+   "score": 8,
+   "dup_of": "39353f83996a"
   }
  ]
 }
