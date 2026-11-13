@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:08:02Z",
+ "updated": "2026-11-13T22:00:15Z",
  "items": [
   {
    "id": "3d378b613dbd",
@@ -3616,6 +3616,67 @@
    ],
    "desc": "مُنح محمد الفاتح اللجوء في بريطانيا عام 2015 قبل أن يحصل على الجنسية البريطانية عام 2020.",
    "score": 5
+  },
+  {
+   "id": "00376a232e9b",
+   "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+   "date": "2026-11-13T20:48:02Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
+   "score": 7,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "54e2f457fa64",
+   "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-11-13T19:23:05Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+   "score": 8,
+   "dup_of": "19657c345a8f"
+  },
+  {
+   "id": "fe5a1dee854c",
+   "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+   "date": "2026-11-13T20:06:40Z",
+   "countries": [
+    "PAK",
+    "QAT",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan and Saudi Arabia in August.",
+   "score": 7,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "4f4614b39abc",
+   "title": "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece",
+   "date": "2026-11-13T19:02:34Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying",
+   "score": 7,
+   "dup_of": "39353f83996a"
   }
  ]
 }
