@@ -1,7 +1,101 @@
 {
- "updated": "2026-11-13T01:29:03Z",
- "count": 422,
+ "updated": "2026-11-13T04:13:26Z",
+ "count": 425,
  "items": [
+  {
+   "id": "1aac2beac604",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+   "date": "2026-11-13T03:17:27Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran says it targeted US radar site in Bahrain",
+   "title_en": "Iran says it targeted US radar site in Bahrain",
+   "summary_en": "Iran’s Islamic Revolutionary Guard Corps announced it targeted a US early-warning radar in Bahrain following an alleged strike on an Iranian telecommunications tower.",
+   "body_en": [
+    "According to statements carried by Iranian state and semi-official media, the IRGC's Aerospace Force destroyed the US radar installation in response to an attack on a telecommunications tower in the port city of Sirik. The IRGC characterized the strike as a warning against aerial provocations and fuel smuggling in the Strait of Hormuz, warning of further actions if aggressions continue.",
+    "The claim marks the first reported Iranian strike on US military assets in a Gulf country since early September. The development coincides with reports that Israel's security cabinet has instructed its military to step up preparations for potential operations against Iran."
+   ],
+   "title_fa": "ایران می‌گوید یک سایت راداری آمریکا را در بحرین هدف قرار داده است",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که در پاسخ به حمله به یک دکل ارتباطاتی در جنوب ایران، یک رادار هشدار زودهنگام آمریکا را در بحرین هدف قرار داده است.",
+   "body_fa": [
+    "بر اساس بیانیه‌های منتشر شده در رسانه‌های رسمی و نیمه‌رسمی ایران، نیروی هوافضای سپاه پاسداران تأسیسات راداری آمریکا را در پاسخ به حمله به یک دکل ارتباطاتی در شهر بندری سیریک منهدم کرده است. سپاه این اقدام را حشداری به طرف مقابل برای توقف تحریکات هوایی و قاچاق سوخت در تنگه هرمز خواند و نسبت به پاسخ‌های بعدی در صورت تکرار تجاوزات هشدار داد.",
+    "این گزارش نخستین ادعای ایران مبنی بر حمله به تجهیزات نظامی آمریکا در کشورهای خلیج فارس از اوایل سپتامبر تاکنون است. این رویداد هم‌زمان با انتشار گزارش‌هایی مبنی بر دستور کابینه امنیتی اسرائیل به ارتش برای افزایش آمادگی‌ها جهت اقدام احتمالی علیه ایران رخ می‌دهد."
+   ],
+   "title_ar": "إيران تقول إنها استهدفت موقع رادار أمريكي في البحرين",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أنه استهدف رادار إنذار مبكر أمريكي في البحرين رداً على ما قيل إنه ضربة استهدفت برج اتصالات في جنوب إيران.",
+   "body_ar": [
+    "وفقاً لبيانات نقلتها وسائل إعلام إيرانية رسمية وشبه رسمية، دمرت القوة الجو-فضائية التابعة للحرس الثوري منشأة الرادار الأمريكية رداً على هجوم استهدف برج اتصالات في مدينة سيريك الساحلية. ووصف الحرس الثوري الضربة بأنها تحذير ضد ما سماه الاستفزازات الجوية وتهريب النفط في مضيق هرمز، محذراً من إجراءات إضافية في حال تكرار الاعتداءات.",
+    "وتعد هذه التطورات أول إعلان إيراني عن استهداف أصول عسكرية أمريكية في دولة خليجية منذ أوائل سبتمبر. وتأتي هذه الأنباء بالتزامن مع تقارير تفيد بأن المجلس الوزاري المصغر للشؤون الأمنية في إسرائيل أوعز للجيش بتكثيف الاستعدادات لهجوم محتمل على إيران."
+   ]
+  },
+  {
+   "id": "ba7f2f80fa5d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044196/after-igniting-new-provinces-debate-naqvi-floats-option-of-referendum",
+   "date": "2026-11-13T01:58:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "After igniting new provinces debate, Naqvi floats option of referendum",
+   "title_en": "After igniting new provinces debate, Naqvi floats option of referendum",
+   "summary_en": "Pakistan's Interior Minister Mohsin Naqvi proposed holding a referendum to resolve the ongoing political debate surrounding the creation of new administrative units and provinces in the country.",
+   "body_en": [
+    "Speaking to reporters in Lahore, Naqvi stated that public surveys favor new administrative divisions for better governance and suggested that a referendum would settle the issue while assuring that political parties would be consulted. He also addressed broader political matters, expressing agreement with calls for political stability and addressing systemic corruption.",
+    "In response to questions regarding former Prime Minister Imran Khan, Naqvi dismissed speculation of any non-judicial deals, stating that legal matters would be handled strictly through the court system."
+   ],
+   "title_fa": "پس از داغ شدن بحث استان‌های جدید، نقوی پیشنهاد برگزاری همه‌پرسی را مطرح کرد",
+   "summary_fa": "محسن نقوی، وزیر کشور پاکستان، پیشنهاد کرد برای پایان دادن به مباحثات سیاسی درباره ایجاد استان‌ها و واحدهای اداری جدید در این کشور، همه‌پرسی برگزار شود.",
+   "body_fa": [
+    "نقوی در گفتگو با خبرنگاران در لاهور گفت که نظرسنجی‌ها نشان‌دهنده تمایل مردم به ایجاد تقسیمات اداری جدید برای حکمرانی بهتر است و همه‌پرسی می‌تواند این بحث را نهایی کند. وی همچنین تأکید کرد که هیچ تصمیمی بدون مشورت با احزاب سیاسی اتخاذ نخواهد شد.",
+    "وزیر کشور پاکستان در پاسخ به پرسشی درباره عمران خان، گمانه‌زنی‌ها در مورد هرگونه توافق پشت پرده را رد کرد و گفت کلیه حقوق و مقررات طبق تصمیمات دادگاه‌ها پیگیری می‌شود."
+   ],
+   "title_ar": "بعد إشعال النقاش حول المحافظات الجديدة، نقوي يطرح خيار الاستفتاء",
+   "summary_ar": "اقترح وزير الداخلية الباكستاني محسن نقوي إجراء استفتاء الشعبي لحسم الجدل السياسي المستمر حول إنشاء محافظات ووحدات إدارية جديدة في البلاد.",
+   "body_ar": [
+    "وفي حديثه للصحفيين في لاهور، قال نقوي إن استطلاعات رأي أظهرت تأييداً لإنشاء تقسيمات إدارية جديدة لتحسين إدارة البلاد، مشيراً إلى أن الاستفتاء هو الخيار الأفضل لحسم النقاش مع تأكيده أخذ رأي الأحزاب السياسية بعين الاعتبار.",
+    "ورداً على سؤال يتعلق برئيس الوزراء السابق عمران خان، نفى نقوي الشائعات حول وجود أي صفقة كواليس، مؤكداً أن الإجراءات القانونية ستأخذ مجراها عبر المحاكم فقط."
+   ]
+  },
+  {
+   "id": "b1f9bb88b0aa",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+   "date": "2026-11-13T01:44:55Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN",
+    "SYR"
+   ],
+   "score": 6,
+   "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+   "title_en": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+   "summary_en": "Lebanese authorities have requested that Syria arrest and extradite two Syrian nationals suspected of involvement in the strangulation death of former Iraqi lawmaker Ahmed al-Alwani in Beirut.",
+   "body_en": [
+    "The body of al-Alwani, a Sunni politician known for criticizing Iranian influence in Iraq, was discovered in a Beirut apartment earlier this week. Lebanese judicial sources indicated that preliminary inquiries suggest a financial motive, while a Lebanese national has been detained for questioning in connection with the case.",
+    "Al-Alwani had recently arrived in Lebanon from Erbil before missing scheduled contacts. Iraqi President Nizar Amedi and the Iraqi embassy in Beirut have called for a comprehensive investigation into the circumstances surrounding the killing."
+   ],
+   "title_fa": "پس از قتل نماینده سابق پارلمان عراق، لبنان از سوریه خواست مظنونان را تحویل دهد",
+   "summary_fa": "مقامات لبنانی از سوریه خواسته‌اند دو شهروند سوری را که مظنون به دست داشتن در خفه کردن و قتل احمد العلوانی، نماینده سابق پارلمان عراق در بیروت هستند، بازداشت کرده و تحویل دهند.",
+   "body_fa": [
+    "جسد العلوانی، سیاستمدار اهل سنت که به انتقاد از نفوذ ایران در عراق معروف بود، اوایل این هفته در آپارتمانی در بیروت پیدا شد. منابع قضایی لبنان اعلام کردند که تحقیقات اولیه نشان‌دهنده انگیزه‌های مالی است و یک شهروند لبنانی نیز در ارتباط با این پرونده بازداشت شده و تحت بازجویی قرار دارد.",
+    "العلوانی اندکی پیش از قطع ارتباط با نزدیکانش، از اربیل وارد بیروت شده بود. نزار آمدی، رئیس‌جمهور عراق، و سفارت عراق در بیروت خواستار تحقیقات سریع و کامل برای روشن شدن ابعاد این جنایت شده‌اند."
+   ],
+   "title_ar": "بعد مقتل برلماني عراقي سابق، لبنان يطلب من سوريا تسليم مشتبه بهما",
+   "summary_ar": "طلبت السلطات اللبنانية من سوريا توقيف وتسليم مواطنين سوريين اثنين يُشتبه بتورطهما في خنق ومقتل البرلماني العراقي السابق أحمد العلواني في بيروت.",
+   "body_ar": [
+    "عُثر على جثة العلواني، وهو سياسي سني عرف بPlatform انتقاده للنفوذ الإيراني في العراق، في شقة ببيروت في وقت سابق من هذا الأسبوع. وأفادت مصادر قضائية لبنانية بأن التحقيقات الأولية تشير إلى وجود دافع مالي، في حين تم احتجاز مواطن لبناني للاستجواب في القضية.",
+    "وكان العلواني قد وصل إلى بيروت قادماً من أربيل قبل انقطاع الاتصال به. وقد دعا الرئيس العراقي نزار آميدي والسفارة العراقية في بيروت إلى إجراء تحقيق سريع وشامل لكشف ملابسات الجريمة."
+   ]
+  },
   {
    "id": "61a30fca0d35",
    "lang": "fa",
