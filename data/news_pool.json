@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:04:02Z",
+ "updated": "2026-11-13T19:08:02Z",
  "items": [
   {
    "id": "3d378b613dbd",
@@ -3156,6 +3156,466 @@
    "desc": "وقّعت تركيا وقطر اتفاقية للدفاع المشترك بين البلدين، حسبما نقلت وكالة رويترز للأنباء عن مكتب الرئيس التركي رجب طيب أردوغان.",
    "score": 8,
    "dup_of": "39353f83996a"
+  },
+  {
+   "id": "19358d9764ad",
+   "title": "At least 24 killed after bus collides with truck in north-east India",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:16:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+   "score": 2
+  },
+  {
+   "id": "cbe9c64b77cb",
+   "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+   "date": "2026-11-13T18:28:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+   "score": 6,
+   "skip": true
+  },
+  {
+   "id": "882b360e7391",
+   "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+   "date": "2026-11-13T18:09:05Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
+   "score": 5
+  },
+  {
+   "id": "2d49a6ce3971",
+   "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+   "date": "2026-11-13T18:04:22Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
+   "score": 6
+  },
+  {
+   "id": "0f901aaa6b25",
+   "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza?traffic_source=rss",
+   "date": "2026-11-13T16:34:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
+   "score": 7,
+   "dup_of": "6479e698a3c1"
+  },
+  {
+   "id": "79a491aa37c6",
+   "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+   "date": "2026-11-13T16:22:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
+   "score": 7
+  },
+  {
+   "id": "9fdfc1088b36",
+   "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+   "date": "2026-11-13T16:01:45Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+   "score": 2,
+   "dup_of": "19358d9764ad"
+  },
+  {
+   "id": "37ba6d071f77",
+   "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+   "date": "2026-11-13T18:01:46Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction. In 2024, a court issued her a one-year sentence for “spreading false news” and running a website without a licence – which she had repeatedly sought to obtain – after trying her in absentia, even though she was in the country. Ms Attalah learned of the case only after she was separately tried in October , resulting in a large fine and an order for t",
+   "score": 3
+  },
+  {
+   "id": "37d91c10f927",
+   "title": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
+   "date": "2026-11-13T16:15:44Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "France is considering legislation to restrict trade with Israeli settlements in the occupied Palestinian territories, namely the West Bank. Ivar Ekeland, Professor Emeritus at Paris Dauphine-PSL University and Chair of the Organization of Academics for the Respect of International Law in Palestine, discusses the proposed measures with Alison Sargent. He calls for restrictions to cover n ot only goods but also services, including financial services, insurance and tourism. \"Without the support of financial entities, of insurance, of providing goods and so on, settlements, big settlements, would ",
+   "score": 5
+  },
+  {
+   "id": "6b40401b6d84",
+   "title": "Why is Erdogan's son meeting Lebanon’s top leaders?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/why-erdogan-son-meeting-lebanons-top-leaders",
+   "date": "2026-11-13T18:53:04Z",
+   "countries": [
+    "LBN",
+    "TUR"
+   ],
+   "desc": "Why is Erdogan's son meeting Lebanon’s top leaders? Submitted by Ragip Soylu on Fri, 11/13/2026 - 17:38 As Turkey seeks a larger role in Lebanon, Bilal Erdogan’s meetings with political and religious leaders has put his growing international profile in focus Son of Turkish President Recep Tayyip Erdogan and member of the Turkey Youth Foundation High Advisory Board, Bilal Erdogan, at a press conference ahead of a pro-Palestine rally in Istanbul, Turkey, on 22 December 2025 (Yasin Akgul/AFP) Off Necmettin Bilal Erdogan, the son of Turkish President Recep Tayyip Erdogan, has raised eyebrows in th",
+   "score": 6
+  },
+  {
+   "id": "868c95d851a7",
+   "title": "Lebanese army says it seized arms depot in Beirut's southern suburbs",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-it-seized-arms-depot-beiruts-southern-suburbs",
+   "date": "2026-11-13T18:12:09Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "Lebanese army says it seized arms depot in Beirut's southern suburbs The Lebanese army said on Friday it had raided an arms depot in Beirut's southern suburbs and arrested one person. The army carried out \"a special security operation after close monitoring of the transportation and trade of weapons\", targeting an \"arms depot in the Msharrafieh area of the southern suburbs\", it said in a statement. It said troops seized a \"large number of war arms and munitions\", and that the person arrested is under investigation. The statement did not say who the weapons belonged to. In June, Lebanon and Isr",
+   "score": 7
+  },
+  {
+   "id": "2d616628dcc4",
+   "title": "Trump says Saudi Arabia is 'disintegrating'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-arabia-disintegrating",
+   "date": "2026-11-13T18:02:57Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Trump says Saudi Arabia is 'disintegrating' Saudi Arabia is “disintegrating”, US President Donald Trump said in an interview released on Friday, which is likely to offend the kingdom, as it suffers missile and drone strikes from Yemen’s Houthis. Trump passed judgment on Saudi Arabia, one of the US’s closest allies, in an interview with Stephen A Smith, boasting he could destroy Iran in three days by attacking civilian infrastructure but that Saudi Arabia and other Gulf states have asked him not to because of their own weaknesses. “If I want to take them out, I hit their [energy] in one day. Th",
+   "score": 7
+  },
+  {
+   "id": "8df4dabc54f9",
+   "title": "Fergie Chambers tells Spanish court Gaza is 'moral question of our time'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/fergie-chambers-tells-spanish-court-gaza-moral-question-our-time",
+   "date": "2026-11-13T17:43:14Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Fergie Chambers tells Spanish court Gaza is 'moral question of our time' Submitted by Amandla Thomas-Johnson on Fri, 11/13/2026 - 16:27 American activist defends himself in court for the first time since being detained in July following a US extradition request Fergie Chambers appeared in court in Madrid on Friday 13 November (Screengrab) Off American activist Fergie Chambers told a Spanish court on Friday that he supported humanitarian relief efforts in Gaza because Israel's genocidal war in the Palestinian territory had become “the prevailing moral question of our time”. Chambers appeared be",
+   "score": 3
+  },
+  {
+   "id": "258db78b219b",
+   "title": "UN rights chief demands Houthis return body of staff member who died in custody",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-rights-chief-demands-houthis-return-body-staff-member-who-died",
+   "date": "2026-11-13T17:34:32Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "UN rights chief demands Houthis return body of staff member who died in custody The UN's human rights chief on Friday demanded the return of the body of a Yemeni staff member who died of unknown causes weeks ago, after more than two years in Houthi custody. Mohammed al-Shami's family learned of his death on 30 October, more than a month after it happened, and has received no explanation of the cause or circumstances. The Houthis had held Shami since 6 June 2024. \"Our colleague must be laid to rest in a dignified manner, in accordance with the wishes of his family - which was denied contact wit",
+   "score": 6
+  },
+  {
+   "id": "a3d5a690121e",
+   "title": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uk-charity-regulator-opens-case-centre-whose-event-promoted-illegal-israeli-settlements",
+   "date": "2026-11-13T17:06:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "UK: Charity regulator opens case into community centre for promoting illegal Israeli settlements Submitted by Imran Mulla on Fri, 11/13/2026 - 12:18 Charity regulator confirms probe after leaflets at JW3 event promoted medical clinics in settlements in occupied Palestinian territory The MedEx event, which was held at JW3 in Camden on 25 October, was primarily organised by the Israeli government (Screengrab/X) Off Britain 's charity regulator has opened a compliance case into the Jewish Community Centre London (JW3) after it hosted an event which promoted medical clinics in illegal Israeli sett",
+   "score": 3
+  },
+  {
+   "id": "85c92fa0bde9",
+   "title": "France calls for more pressure on Houthis to end attacks on Saudi Arabia",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/france-calls-more-pressure-houthis-end-attacks-saudi-arabia",
+   "date": "2026-11-13T16:54:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "France calls for more pressure on Houthis to end attacks on Saudi Arabia France called for greater pressure on Yemen 's Houthis to end their attacks in the region, particularly against Saudi Arabia . \"Our position is that it is necessary to increase pressure on the Houthis so that they put an end to their unacceptable attacks and provocations, particularly against Saudi territory, but not only there,\" spokesperson for the French foreign ministry Pascal Confavreux told a news conference on Friday. He was responding to a question on whether Paris backed the idea of the European Union designating",
+   "score": 7
+  },
+  {
+   "id": "21ba9c8b95c3",
+   "title": "Palestinian parties must not help Eisenkot rescue Israel from collapse",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/israel-elections-palestinian-parties-must-not-help-eisenkot-rescue-jewish-settler-colony",
+   "date": "2026-11-13T16:49:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian parties must not help Eisenkot rescue Israel from collapse Submitted by Joseph Massad on Fri, 11/13/2026 - 15:14 Eisenkot sat in Netanyahu's war cabinet and promises a 'Zionist' government. The parties of Palestinian citizens of Israel have nothing to gain by handing him power Yousef Jabareen (right), leader of the Joint List, and Ahmad Tibi (centre), head of its parliamentary bloc, sit in the Israeli parliament in Jerusalem on 10 November 2026, the day it was sworn in (Ilia Yefimovich/AFP) Off Israeli Prime Minister Benjamin Netanyahu and Gadi Eisenkot, leader of the \"opposition\" ",
+   "score": 3
+  },
+  {
+   "id": "ebbeb9b9df80",
+   "title": "Baby dies of hypothermia, as Israeli attacks across Gaza surge",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/gaza-baby-dies-hypothermia-israeli-attacks-across-enclave-surge",
+   "date": "2026-11-13T15:59:44Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Baby dies of hypothermia, as Israeli attacks across Gaza surge Submitted by MEE staff on Fri, 11/13/2026 - 14:15 As temperatures plummet amid ongoing Israeli restrictions on aid, the vulnerable suffer; while 11 people were killed in a series of attacks across Gaza, including one on a hospital Mourners carry the body of Dr Rezik Abushira, who was killed in an Israeli strike at Nasser Hospital in Khan Younis, on 12 November (Reuters/Ramadan Abed) Off A baby has died of hypothermia in southern Gaza, amid plummeting temperatures and continuing Israeli restrictions on aid, AFP reported, citing medi",
+   "score": 7,
+   "dup_of": "6479e698a3c1"
+  },
+  {
+   "id": "74aa0343c915",
+   "title": "Turkey and Qatar sign mutual defence agreement",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/turkey-and-qatar-sign-mutual-defence-agreement",
+   "date": "2026-11-13T15:56:32Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Turkey and Qatar sign mutual defence agreement Submitted by MEE staff on Fri, 11/13/2026 - 15:49 Announcement by Turkish presidency is the latest in a series of defence agreements amongst Middle Eastern and Islamic states Turkish President Recep Tayyip Erdogan pictured with Qatar's Emir Sheikh Tamim bin Hamad al-Thani during a welcoming ceremony at the presidential complex in Ankara, 8 August 2024 (Murat Cetin Muhurdar/Turkish presidential press office/AFP) Off Turkey and Qatar have signed a mutual defence agreement in Istanbul on Friday, in what is the latest military pact between Ankara and ",
+   "score": 8,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "967b53fd9c94",
+   "title": "Turkey and Qatar sign mutual defence pact, Erdogan’s office says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-and-qatar-sign-mutual-defence-pact-erdogans-office-says",
+   "date": "2026-11-13T15:51:35Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Turkey and Qatar sign mutual defence pact, Erdogan’s office says Turkey and Qatar have signed a mutual defence agreement, Turkish President Recep Tayyip Erdogan’s office said on Friday. Erdogan said Ankara and Doha would continue working together to prevent a resurgence of war in the region. His office said the agreement would “add a new dimension to relations between Turkiye and Qatar”. Erdogan met Qatar’s Emir Sheikh Tamim bin Hamad Al Thani in Istanbul, where the two leaders co-chaired a meeting of the countries’ Supreme Strategic Committee. Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan, Kata",
+   "score": 8,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "396fc44a812f",
+   "title": "Art against erasure: A Palestinian sculptor and a Lebanese painter on war, exile and memory",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/discover/art-against-erasure-palestinian-sculptor-lebanese-painter-war-exile-memory",
+   "date": "2026-11-13T15:42:23Z",
+   "countries": [
+    "LBN",
+    "PSE"
+   ],
+   "desc": "Art against erasure: A Palestinian sculptor and a Lebanese painter on war, exile and memory Submitted by Victoria Brittain on Fri, 11/13/2026 - 12:11 Abdul Rahman Katanani and Ayman Baalbaki, close as brothers, have spent decades turning the violence of their youth into work shown in museums and collections worldwide Abdul Rahman Katanani in his studio outside Beirut (Victoria Brittain/MEE) Off The large studios of Abdul Rahman Katanani and Ayman Baalbaki are filled with canvases and installations about memory and destruction, drawn from the Israeli wars that shaped both artists’ youth. These ",
+   "score": 2
+  },
+  {
+   "id": "bd497ea5f277",
+   "title": "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-central-gaza-hospital-sources-say",
+   "date": "2026-11-13T15:35:20Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Two Palestinians killed by Israeli fire in central Gaza, hospital sources say Two Palestinians were killed by Israeli fire east of Deir el-Balah in central Gaza, according to sources at Al-Aqsa Martyrs Hospital, Al Jazeera reported. The killings come as Gaza’s death toll since 7 October 2023 has risen to at least 74,653, according to Palestinian medical sources cited by Wafa news agency on Wednesday. The humanitarian crisis has worsened because of Israeli restrictions on aid. The UN’s humanitarian country team said on Friday that Israel continues to obstruct the entry of essential supplies, in",
+   "score": 6
+  },
+  {
+   "id": "f5d4454e2f86",
+   "title": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/uae-remains-main-destination-gold-smuggled-out-sudan-and-other-war-zones",
+   "date": "2026-11-13T15:31:03Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones Submitted by Oscar Rickett on Fri, 11/13/2026 - 14:04 United Arab Emirates 'imported at least 591 tonnes of illicit gold into the country in 2024', new report from Swissaid finds Bars of gold in a shop in the Dubai Gold Souk on 13 April 2026 (Fadel Senna/AFP) Off The United Arab Emirates remains the key trading hub for smuggled gold and conflict gold, a new report from Switzerland’s Swissaid foundation has found. Despite the introduction in 2023 of legislation intended to curb illegal flows, the UAE, which is now",
+   "score": 6
+  },
+  {
+   "id": "f0566b6bc5be",
+   "title": "Greta Thunberg at COP: Turkish energy shipments 'directly fuelling the genocide of Palestine'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/greta-thunberg-cop-turkish-energy-shipments-directly-fuelling-genocide-palestine",
+   "date": "2026-11-13T15:22:03Z",
+   "countries": [
+    "ISR",
+    "PSE",
+    "TUR"
+   ],
+   "desc": "Greta Thunberg at COP: Turkish energy shipments 'directly fuelling the genocide of Palestine' Submitted by Katherine Hearst on Fri, 11/13/2026 - 13:08 Activists point to an 'uncomfortable contradiction' as report finds 77 oil shipments left Turkish ports for Israel during Ankara's embargo Activist Greta Thunberg attends a press conference at the UN Climate Change Conference (COP31) in Antalya, Turkey, on 12 November 2026 (Umit Bektas/Reuters) Off Activist Greta Thunberg has called for an end to Turkish fuel shipments to Israel at the Cop 31 climate conference in Turkey’s Antalya, as a new repo",
+   "score": 3
+  },
+  {
+   "id": "f9935d714a94",
+   "title": "Palestinian rights group says Israel barred its director from travelling abroad",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-rights-group-says-israel-barred-its-director-travelling",
+   "date": "2026-11-13T14:57:15Z",
+   "countries": [
+    "ISR",
+    "JOR",
+    "PSE"
+   ],
+   "desc": "Palestinian rights group says Israel barred its director from travelling abroad Israel barred Shawan Jabarin, the general director of Palestinian human rights group Al-Haq, from travelling to Jordan after stopping him at the Allenby Bridge crossing on Friday, the organisation said. In a statement, Al-Haq said Israeli forces questioned Jabarin about the purpose of his journey before informing him that he was banned from travelling. The organisation said the restriction were politically motivated and linked to his human rights advocacy. Al-Haq said Jabarin had previously faced travel restriction",
+   "score": 4
+  },
+  {
+   "id": "3d9ce282e27e",
+   "title": "Petrol price cut by by Rs2; high-speed diesel price remains unchanged",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044318/petrol-price-cut-by-by-rs2-high-speed-diesel-price-remains-unchanged",
+   "date": "2026-11-13T17:51:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 2
+  },
+  {
+   "id": "028ae392983e",
+   "title": "Turkiye, Qatar sign defence agreement: Turkish presidency",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044322/turkiye-qatar-sign-defence-agreement-turkish-presidency",
+   "date": "2026-11-13T18:42:10Z",
+   "countries": [
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Turkiye and Qatar signed a defence agreement on Friday that President Recep Tayyip Erdogan said would further strengthen ties between the regional allies, his office said. The announcement came after Erdogan met Qatari Emir Sheikh Tamim bin Hamad Al Thani in Istanbul. Qatar’s ruler travelled to Istanbul after attending the United Nations COP31 climate summit in southern Turkiye. “A mutual defence agreement signed by Turkiye and Qatar today will add a new dimension to the brotherly ties between the two countries,” Erdogan said during the meeting, according to a statement from his office. The st",
+   "score": 8,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "364814d2b327",
+   "title": "Pakistan set to host FIH Hockey Nations Cup in Lahore next year",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044320/pakistan-set-to-host-fih-hockey-nations-cup-in-lahore-next-year",
+   "date": "2026-11-13T17:30:43Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan will host a major International Hockey Federation (FIH) event after a gap of 24 years, with the fifth edition of the FIH Hockey Men’s Nations Cup scheduled to be held in Lahore from February 19 to 28, 2027. FIH President Tayyab Ikram and interim Pakistan Hockey Federation (PHF) President Mohyuddin Ahmad Wani announced the decision at a ceremony in Islamabad on Friday, where they also formally signed an agreement for the hosting of the 10-team tournament. The ceremony was attended by Federal Minister for Inter-Provincial Coordination Rana Sanaullah Khan, Federal Minister for Informatio",
+   "score": 1
+  },
+  {
+   "id": "f1ae5bbf60c0",
+   "title": "Syria removes visa restrictions on U.S. travellers after backlash",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/syria-removes-visa-restrictions-on-us-travellers-after-backlash/article71699285.ece",
+   "date": "2026-11-13T17:12:24Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "The current Syrian government, in place since Islamist-led fighters overthrew Bashar al-Assad in December 2024, has allowed Westerners to obtain entry visas at Damascus airport or border crossings",
+   "score": 5
+  },
+  {
+   "id": "ffee45cba4ba",
+   "title": "Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece",
+   "date": "2026-11-13T17:09:51Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government",
+   "score": 6,
+   "dup_of": "2d49a6ce3971"
+  },
+  {
+   "id": "bdbbf7cba9c8",
+   "title": "Pakistan calls for 'immediate' end to Houthi attacks on Saudi Arabia at UN",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-at-un/article71699212.ece",
+   "date": "2026-11-13T16:58:15Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "UN Security Council renewed targeted sanctions under its Yemen sanctions regime for another year",
+   "score": 7,
+   "dup_of": "454372dfd7d1"
+  },
+  {
+   "id": "733abfe57af8",
+   "title": "بين الإصلاحات القضائية وتطبيق الحدود: ماذا تكشف قضية جلد عاملة كينية في السعودية؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq0k6j2v74xro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T18:57:22Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "الحكم أثار تساؤلات عما سبق من قرار قضائي بشأن إلغاء عقوبة الجلد. ولكن بحسب خبراء، تميّز السعودية في تشريعاتها ونظامها القضائي بين نوعين من الجلد: الجلد التعزيري والجلد في قضايا الحدود.",
+   "score": 4
+  },
+  {
+   "id": "9749654b401b",
+   "title": "إدانة حارس شخصي سابق لأحد قادة حماس أمام محكمة بريطانية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6jd7595xyl3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:59:20Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "مُنح محمد الفاتح اللجوء في بريطانيا عام 2015 قبل أن يحصل على الجنسية البريطانية عام 2020.",
+   "score": 5
   }
  ]
 }
