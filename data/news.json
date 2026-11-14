@@ -1,33 +1,108 @@
 {
- "updated": "2026-11-14T19:07:02Z",
- "count": 448,
+ "updated": "2026-11-14T21:50:10Z",
+ "count": 450,
  "items": [
   {
-   "id": "c5c97682f131",
+   "id": "22c97f639549",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+   "date": "2026-11-14T20:35:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+   "title_en": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+   "summary_en": "Israeli caretaker Prime Minister Benjamin Netanyahu has renewed his call for a national unity government with Gadi Eisenkot, who rejected the offer as a political maneuver. The exchange takes place as the incoming prime minister is negotiating the formation of a new administration.",
+   "body_en": [],
+   "title_fa": "تجدید دعوت نتانیاهو برای تشکیل دولت وحدت ملی و رد آن از سوی آیزنکوت به عنوان «ترفند»",
+   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر موقت اسرائیل، دعوت خود را از گادی آیزنکوت برای تشکیل یک دولت وحدت ملی تجدید کرد، اما آیزنکوت این درخواست را یک ترفند سیاسی دانست و آن را رد کرد. این موضوع در شرایطی مطرح می‌شود که نخست‌وزیر مکلف در حال مذاکره برای تشکیل کابینه جدید است.",
+   "body_fa": [],
+   "title_ar": "نتنياهو يجدد دعوته لتشكيل حكومة وحدة إسرائيلية وآيزنكوت يصفها بـ\"الحيل\"",
+   "summary_ar": "جدد رئيس حكومة تصريف الأعمال الإسرائيلية بنيامين نتنياهو دعوته لتشكيل حكومة وحدة وطنية مع غادي آيزنكوت، الذي رفض هذا الطرح واصفاً إياه بمناورة سياسية. وتأتي هذه التطورات في وقت يخوض فيه رئيس الوزراء المكلف مفاوضات لتشكيل إدارة جديدة.",
+   "body_ar": []
+  },
+  {
+   "id": "c8114e2630ba",
    "lang": "en",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-   "date": "2026-11-14T15:36:37Z",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+   "date": "2026-11-14T20:14:10Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "India’s Assam state demolishes homes of 132 Muslim families",
+   "title_en": "India’s Assam state demolishes homes of 132 Muslim families",
+   "summary_en": "Authorities in the Indian state of Assam have demolished the homes of 132 Muslim families, alleging illegal encroachment on government land. Residents stated they settled in the area after fleeing anti-Muslim violence in 1983, while researchers note the evictions have disproportionately impacted Bengali-origin Muslims.",
+   "body_en": [],
+   "title_fa": "تخریب خانه‌های ۱۳۲ خانواده مسلمان در ایالت آسام هند",
+   "summary_fa": "مقامات ایالت آسام در هند خانه‌های ۱۳۲ خانواده مسلمان را به دلیل آنچه تصرف غیرقانونی زمین‌های دولتی خوانده‌اند، تخریب کردند. ساکنان می‌گویند پس از فرار از شورش‌های ضد مسلمانان در سال ۱۹۸۳ در این منطقه مستقر شده بودند، و پژوهشگران نیز می‌گویند این اخراج‌ها عمدتاً مسلمانان بنگالی‌تبار را هدف قرار داده است.",
+   "body_fa": [],
+   "title_ar": "ولاية آسام الهندية تهدم منازل 132 عائلة مسلمة",
+   "summary_ar": "هدمت السلطات في ولاية آسام الهندية منازل 132 عائلة مسلمة بدعوى التعدي غير القانوني على أراضٍ تابعة للحكومة. وقال السكان إنهم استقروا هناك بعد فرارهم من أعمال عنف استهدفت المسلمين عام 1983، في حين أشار باحثون إلى أن عمليات الإخلاء استهدفت المسلمين من أصول بنغالية بشكل غير متناسب.",
+   "body_ar": []
+  },
+  {
+   "id": "efc20fcbae8b",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c39w9rpn0wyno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T17:18:52Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "بازگشت ناوشکن آمریکایی پس از ۳۵۷ روز ماموریت و شلیک ده‌ها موشک به ایران",
+   "title_en": "US Destroyer Returns After 357-Day Deployment and Firing Dozens of Missiles at Iran",
+   "summary_en": "The American destroyer USS Spruance has returned to its base in San Diego after a 357-day deployment during which it fired dozens of Tomahawk cruise missiles at military targets in the war against Iran. The US Navy stated that this was the longest deployment for one of its destroyers since World War II.",
+   "body_en": [
+    "During its mission, the warship sailed more than 88,000 nautical miles, downed 12 drones and four anti-ship cruise missiles, and participated in the naval blockade of Iranian ports. The Spruance took part in missile strikes on the first day of the war on February 28, the same day a primary school in Minab was struck, killing more than 175 people according to Iranian officials. While a UN fact-finding mission reported reasonable grounds linking the school strike to US forces, American officials have rejected its conclusions.",
+    "Initially scheduled for roughly seven months, the destroyer's mission was extended once the conflict began, marking one of the longest US naval deployments in decades. Its prolonged presence in the Middle East has also raised concerns regarding crew strain, equipment wear, and fleet maintenance challenges."
+   ],
+   "title_fa": "بازگشت ناوشکن آمریکایی پس از ۳۵۷ روز ماموریت و شلیک ده‌ها موشک به ایران",
+   "summary_fa": "ناوشکن آمریکایی «یو‌اس‌اس اسپروئنس» پس از ۳۵۷ روز ماموریت و شلیک ده‌ها موشک کروز تاماهاک به اهداف نظامی در جریان جنگ علیه ایران، به پایگاه خود در سن‌دیگو بازگشت. نیروی دریایی آمریکا این ماموریت را طولانی‌ترین ماموریت یک ناوشکن این کشور از زمان جنگ جهانی دوم اعلام کرده است.",
+   "body_fa": [
+    "این ناوشکن در جریان عملیات خود بیش از ۸۸ هزار مایل دریایی را طی کرد و علاوه بر سرنگونی ۱۲ پهپاد و چهار موشک کروز ضدکشتی، در محاصره دریایی بنادر ایران شرکت داشت. اسپروئنس در نخستین روز جنگ در ۲۸ فوریه نیز در حملات موشکی مشارکت داشت؛ روزی که یک مدرسه ابتدایی در میناب مورد اصابت قرار گرفت و به گفته مقام‌های ایرانی بیش از ۱۷۵ نفر کشته شدند. اگرچه هیئت حقیقت‌یاب سازمان ملل متحد اعلام کرد شواهدی مبنی بر انتساب این حمله به نیروهای آمریکایی وجود دارد، مقام‌های آمریکایی یافته‌های این هیئت را رد کرده‌اند.",
+    "ماموریت این شناور در ابتدا برای حدود هفت ماه برنامه‌ریزی شده بود، اما با آغاز درگیری‌ها تمدید شد و آن را به یکی از طولانی‌ترین ماموریت‌های دهه‌های اخیر تبدیل کرد. طولانی شدن این استقرار همچنین نگرانی‌هایی را درباره فشار بر خدمه، فرسودگی تجهیزات و دشواری‌های نگهداری ناوهای آمریکایی در خاورمیانه به همراه داشته است."
+   ],
+   "title_ar": "عودة مدمرة أمريكية بعد مهمة استمرت 357 يوماً وإطلاق عشرات الصواريخ على إيران",
+   "summary_ar": "عادت المدمرة الأمريكية \"يو إس إس سبروانس\" إلى قاعدتها في سان دييغو بعد مهمة استمرت 357 يوماً أطلقت خلالها عشرات من صواريخ كروز توماهوك على أهداف عسكرية في سياق الحرب ضد إيران. وذكرت البحرية الأمريكية أن هذه المهمة هي الأطول لإحدى مدمراتها منذ الحرب العالمية الثانية.",
+   "body_ar": [
+    "قطعت المدمرة أكثر من 88 ألف ميل بحري خلال مهمتها، وأسقطت 12 طائرة مسيرة وأربعة صواريخ كروز مضادة للسفن، وشاركت في الحصار البحري للموانئ الإيرانية. كما شاركت \"سبروانس\" في الضربات الصاروخية في اليوم الأول للحرب في 28 فبراير، وهو اليوم الذي قُصفت فيه مدرسة ابتدائية في ميناب ما أسفر عن مقتل أكثر من 175 شخصاً بحسب مسؤولين إيرانيين. ورغم تأكيد بعثة تقصي الحقائق التابعة للأمم المتحدة وجود أسباب معقولة لنسب الضربة إلى القوات الأمريكية، نفى المسؤولون الأمريكيون نتائج تلك البعثة.",
+    "وكانت مهمة السفينة الحربية مقررة في البداية لنحو سبعة أشهر قبل تمديدها مع اندلاع الحرب، لتصبح واحدة من أطول المهام البحرية الأمريكية في العقود الأخيرة. وأثار طول فترة هذا الانتشار مخاوف بشأن الضغوط على أفراد الطاقم واستهلاك المعدات وصعوبات صيانة السفن الحربية في الشرق الأوسط."
+   ]
+  },
+  {
+   "id": "aba212013333",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "date": "2026-11-14T15:57:22Z",
    "countries": [
     "ISR",
     "PSE"
    ],
-   "score": 5,
-   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-   "title_en": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-   "summary_en": "Israeli forces occupied the home of a Palestinian-American in the occupied West Bank for 17 days. Additionally, Israeli troops raided a Palestinian wedding, arresting the groom, amid ongoing deadly attacks throughout Gaza.",
+   "score": 7,
+   "title": "EU calls for immediate humanitarian access to Gaza",
+   "title_en": "EU calls for immediate humanitarian access to Gaza",
+   "summary_en": "The European Union has called on Israel to reopen all Gaza border crossings and allow immediate, unhindered access for humanitarian relief following destructive floods this week. The 27-nation bloc also stressed that civilian infrastructure and medical facilities must be protected at all times under international law.",
    "body_en": [
-    "According to Al Jazeera's Mohamad Saleh, Israeli military forces maintained an occupation of a Palestinian-American's residence in the West Bank over a 17-day period. In a separate incident, soldiers raided a wedding ceremony to detain the groom, while deadly military operations continued across the Gaza Strip."
+    "The appeal by EU foreign policy chief Kaja Kallas's office came alongside Israeli military strikes, including a drone attack that killed two Palestinians in Jabaliya and an earlier raid on Nasser Medical Complex that left at least six people dead. The European Union reiterated its demand for Israel to adhere to international humanitarian law and expressed deep alarm over the hospital bombing.",
+    "Local authorities and the UN noted that Israeli destruction of infrastructure has worsened flooding from heavy rains, with more than 700 kilometers of the sewage network damaged and over 106,000 people directly affected. Reaffirming support for a two-state solution, the EU also called for the full withdrawal of Israeli forces from Gaza alongside sustained humanitarian relief."
    ],
-   "title_fa": "گزارش روزانه اورشلیم: نیروهای اسرائیلی خانه یک فلسطینی-آمریکایی را اشغال کردند",
-   "summary_fa": "نیروهای اسرائیلی خانه یک شهروند فلسطینی-آمریکایی را در کرانه باختری اشغالی به مدت ۱۷ روز اشغال کردند. همچنین، هم‌زمان با ادامه حملات مرگبار در سراسر غزه، سربازان اسرائیلی به یک مراسم عروسی فلسطینی یورش برده و داماد را بازداشت کردند.",
+   "title_fa": "درخواست اتحادیه اروپا برای دسترسی فوری بشردوستانه به غزه",
+   "summary_fa": "اتحادیه اروپا در پی وقوع سیل‌های ویرانگر در هفته جاری، از اسرائیل خواست تمامی گذرگاه‌های مرزی غزه را بازگشایی کرده و اجازه دسترسی فوری و بدون مانع را برای ارسال کمک‌های بشردوستانه فراهم کند. این اتحادیه ۲۷ عضوی همچنین تاکید کرد که زیرساخت‌های غیرنظامی و مراکز درمانی باید بر اساس قوانین بین‌المللی همواره محافظت شوند.",
    "body_fa": [
-    "به گزارش محمد صالح، خبرنگار الجزیره، نیروهای نظامی اسرائیل مسکن یک فلسطینی-آمریکایی را در کرانه باختری به مدت ۱۷ روز در اشغال خود داشتند. در رویدادی دیگر، سربازان به یک مراسم عروسی یورش برده و داماد را بازداشت کردند، در حالی که عملیات‌های نظامی مرگبار در سراسر نوار غزه همچنان ادامه دارد."
+    "این درخواست از سوی دفتر کایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، هم‌زمان با حملات ارتش اسرائیل مطرح شد؛ از جمله حمله پهپادی به جبالیا که دو کشته برجای گذاشت و حمله پیشین به مجتمع پزشکی ناصر که به کشته شدن دست‌کم شش تن انجامید. اتحادیه اروپا با ابراز نگرانی شدید از حمله به این بیمارستان، بر ضرورت پایبندی اسرائیل به حقوق بین‌الملل بشردوستانه تاکید کرد.",
+    "به گفته مقامات محلی و سازمان ملل متحد، آسیب‌های واردشده از سوی اسرائیل به زیرساخت‌ها پیامدهای سیل ناشی از باران‌های شدید را وخیم‌تر کرده است، به‌طوری که بیش از ۷۰۰ کیلومتر از شبکه فاضلاب تخریب شده و بیش از ۱۰۶ هزار نفر مستقیماً آسیب دیده‌اند. اتحادیه اروپا ضمن تاکید مجدد بر راهکار دو کشوری، خواستار خروج کامل نیروهای اسرائیلی از غزه و توزیع پایدار کمک‌های بشردوستانه شد."
    ],
-   "title_ar": "يوميات القدس: القوات الإسرائيلية تحتل منزل فلسطيني يحمل الجنسية الأمريكية",
-   "summary_ar": "احتلت القوات الإسرائيلية منزل فلسطيني يحمل الجنسية الأمريكية في الضفة الغربية المحتلة لمدة 17 يوماً. في غضون ذلك، داهم جنود إسرائيليون حفل زفاف فلسطيني واعتقلوا العريس، وسط استمرار الهجمات الإسرائيلية الفتاكة في جميع أنحاء قطاع غزة.",
+   "title_ar": "الاتحاد الأوروبي يدعو إلى وصول فوري للمساعدات الإنسانية إلى غزة",
+   "summary_ar": "دعا الاتحاد الأوروبي إسرائيل إلى إعادة فتح جميع المعابر الحدودية لقطاع غزة والسماح بوصول المساعدات الإنسانية فوراً ودون عوائق في أعقاب الفيضانات المدمرة التي شهدها القطاع هذا الأسبوع. وشدد التكتل المكون من 27 دولة على ضرورة حماية البنية التحتية المدنية والمنشآت الطبية في جميع الأوقات بموجب القانون الدولي.",
    "body_ar": [
-    "وفقاً لمراسل الجزيرة محمد صالح، استمرت القوات العسكرية الإسرائيلية في احتلال منزل يعود لفلسطيني يحمل الجنسية الأمريكية في الضفة الغربية على مدار 17 يوماً. وفي حادث آخر، اقتحم الجنود حفل زفاف لاعتقال العريس، تزامناً مع استمرار العمليات العسكرية الفتاكة في قطاع غزة."
+    "جاءت هذه الدعوة الصادرة عن مكتب مسؤولة السياسة الخارجية بالاتحاد الأوروبي كايا كالاس بالتزامن مع ضربات إسرائيلية أسفرت إحداها عن مقتل فلسطينيين اثنين في جباليا عبر طائرة مسيرة، إلى جانب هجوم سابق على مجمع ناصر الطبي خلف ستة قتلى على الأقل. وجدد الاتحاد مطالبته لإسرائيل بالالتزام بالقانون الإنساني الدولي، معرباً عن قلقه البالغ إزاء استهداف المستشفى.",
+    "وأفاد مسؤولون محليون والأمم المتحدة بأن الأضرار التي لحقت بالبنية التحتية جراء الهجمات الإسرائيلية فاقمت أزمة الفيضانات الناجمة عن الأمطار الغزيرة، حيث دُمرت شبكات صرف صحي بطول يتجاوز 700 كيلومتر وتضرر أكثر من 106 آلاف شخص بصورة مباشرة. وأكد التكتل دعمه لحل الدولتين، مطالباً بالانسحاب الكامل للقوات الإسرائيلية من غزة وتقديم إغاثة إنسانية مستمرة على نطاق واسع."
    ]
   },
   {
@@ -183,36 +258,6 @@
    "body_ar": [
     "وفقاً لوزارة الخارجية الباكستانية، سيمثل ملك بلاده في منتدى منظمة شانغهاي للتعاون المقرر عقده في الفترة من 20 إلى 22 نوفمبر 2026. وأكدت الوزارة التزام إسلام آباد بتركيز الحوار وتعزيز التواصل بين الشعوب في إطار المنظمة.",
     "وكانت آخر زيارة رفيعة المستوى من پاکستان إلى الهند قد جرت في مايو 2023، عندما شارك وزير الخارجية آنذاك بلاول بوتو زرداري في اجتماع وزاري للمنظمة في غوا. وتشهد العلاقات بين البلدين توتراً مستمراً عقب إجراءات عسكرية في مايو 2025."
-   ]
-  },
-  {
-   "id": "5416c9f2a8af",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky/article71701653.ece",
-   "date": "2026-11-14T12:37:48Z",
-   "countries": [
-    "ARE"
-   ],
-   "score": 5,
-   "title": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
-   "title_en": "U.S. proposes Ukraine cede territory in exchange for joining NATO: Zelensky",
-   "summary_en": "Ukrainian President Volodymyr Zelensky stated that the United States suggested for the first time that Ukraine could cede land to Russia in exchange for NATO membership. He also noted that Russia rejected an energy target ceasefire proposal during recent U.S.-brokered talks in Abu Dhabi.",
-   "body_en": [
-    "Speaking to reporters following talks in Abu Dhabi, Zelensky disclosed that U.S. representatives raised the possibility of Ukraine withdrawing from Donbas in exchange for joining NATO. He emphasized that any decision regarding Western security guarantees and territorial trade-offs would be put to Ukrainian society rather than decided by him alone. The Abu Dhabi negotiations included U.S. envoys Jared Kushner and Steve Witkoff, who also held separate discussions with Russian President Vladimir Putin.",
-    "Zelensky warned that Russia is focusing heavily on its winter campaign and described Moscow's security demands for Europe as dangerous. He rejected a proposal by Putin for a humanitarian mission to Kostiantynivka, characterizing it as a scheme to gain control of the city and advance further into the Donetsk region."
-   ],
-   "title_fa": "آمریکا پیشنهاد داده که اوکراین در ازای الحاق به ناتو از سرزمین‌هایش بگذرد: زلنسکی",
-   "summary_fa": "ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، اعلام کرد که ایالات متحده برای نخستین بار پیشنهاد داده است که اوکراین در ازای عضویت در ناتو از بخشی از سرزمین‌های خود به نفع روسیه صرف‌نظر کند. وی همچنین اشاره کرد که روسیه در مذاکرات اخیر در ابوظبی با میانجی‌گری آمریکا، پیشنهاد آتش‌بس در حملات به تأسیسات انرژی را رد کرده است.",
-   "body_fa": [
-    "زلنسکی در گفتگو با خبرنگاران پس از مذاکرات ابوظبی فاش کرد که نمایندگان آمریکا احتمال عقب‌نشینی اوکراین از دونباس را در ازای پیوستن به ناتو مطرح کرده‌اند. وی تأکید کرد که هرگونه تصمیم‌گیری درباره تضمین‌های امنیتی غرب و معامله بر سر سرزمین‌ها به رأی جامعه اوکراین گذاشته خواهد شد و او به‌تنهایی تصمیم‌گیرنده نیست. در مذاکرات ابوظبی، جرد کوشنر و استیو ویتکوف، فرستادگان آمریکا، حضور داشتند و دیدارهای جداگانه‌ای نیز با ولادیمیر پوتین، رئیس‌جمهور روسیه، برگزار کردند.",
-    "زلنسکی هشدار داد که روسیه تمرکز زیادی بر نبرد زمستانی خود دارد و خواسته‌های امنیتی مسکو برای اروپا را خطرناک خواند. وی همچنین پیشنهاد پوتین برای اعزام «هیئت بشردوستانه» به کوستیانتینیوکا را رد کرد و آن را حیله‌ای برای تصرف کامل این شهر و پیشروی بیشتر در منطقه دونتسک دانست."
-   ],
-   "title_ar": "الولايات المتحدة تقترح تنازل أوكرانيا عن أراضٍ مقابل الانضمام إلى الناتو: زيلينسكي",
-   "summary_ar": "صرح الرئيس الأوكراني فولوديمير زيلينسكي بأن الولايات المتحدة اقترحت لأول مرة تنازل أوكرانيا عن أراضٍ لروسيا مقابل الانضمام إلى حلف شمال الأطلسي (الناتو). وأشار أيضاً إلى أن روسيا رفضت مقترحاً لوقف إطلاق النار يستهدف مرافق الطاقة خلال المحادثات الأخيرة في أبوظبي برعاية أمريكية.",
-   "body_ar": [
-    "وفي حديثه للصحفيين عقب محادثات أبوظبي، كشف زيلينسكي أن المبعوثين الأمريكيين طرحوا إمكانية انسحاب أوكرانيا من دونباس مقابل الانضمام إلى الناتو. وأكد أن أي قرار بشأن الضمانات الأمنية الغربية والتنازلات الإقليمية سيُعرض على المجتمع الأوكراني ولن يتخذه بمفرده. وشارك في مفاوضات أبوظبي المبعوثان الأمريكيان جاريد كوشنر وستيف ويتكوف، اللذان عقدا أيضاً محادثات منفصلة مع الرئيس الروسي فلاديمير بوتين.",
-    "وحذر زيلينسكي من أن روسيا تراهن بشكل كبير على حملتها الشتوية، واصفاً مطالب موسكو الأمنية في أوروبا بأنها خطيرة. كما رفض مقترحاً قدمه بوتين لإرسال \"بعثة إنسانية\" إلى كوستيانتينيفكا، معتبراً إياه حيلة للسيطرة على المدينة والتقدم أكثر في منطقة دونيتسك."
    ]
   },
   {
