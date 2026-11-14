@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-14T07:22:19Z",
- "count": 429,
+ "updated": "2026-11-14T10:08:00Z",
+ "count": 432,
  "items": [
+  {
+   "id": "21ec9233c16d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044488/2-soldiers-martyred-14-terrorists-killed-in-north-waziristan-operation-ispr",
+   "date": "2026-11-14T09:53:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "2 soldiers martyred, 14 terrorists killed in North Waziristan operation: ISPR",
+   "title_en": "2 soldiers martyred, 14 terrorists killed in North Waziristan operation: ISPR",
+   "summary_en": "Two Pakistani soldiers were killed and 14 militants were neutralised during counterterrorism operations in North Waziristan district, the military's media wing announced.",
+   "body_en": [
+    "According to the Inter-Services Public Relations (ISPR), security forces engaged multiple militant locations in Mir Ali, Datta Khel, and surrounding areas. The dead militants included Afghan nationals linked to Fitna al Khwarij, the official designation for the banned Tehreek-i-Taliban Pakistan (TTP).",
+    "President Asif Ali Zardari praised the security forces for the operation and stated that counterterrorism actions under the Azm-i-Istehkam campaign would continue until foreign-sponsored terrorism is eradicated."
+   ],
+   "title_fa": "روابط عمومی ارتش پاکستان: ۲ سرباز شهید و ۱۴ تروریست در عملیات وزیرستان شمالی کشته شدند",
+   "summary_fa": "روابط عمومی ارتش پاکستان اعلام کرد که طی عملیات‌های ضدتروریستی در شهرستان وزیرستان شمالی، دو سرباز کشته و ۱۴ شبه‌نظامی از پا درآمدند.",
+   "body_fa": [
+    "به گفته روابط عمومی ارتش (ISPR)، نیروهای امنیتی با مواضع متعدد شبه‌نظامیان در میرعلی، دته‌خیل و مناطق اطراف درگیر شدند. شبه‌نظامیان کشته‌شده شامل اتباع افغان مرتبط با فتنه الخوارج، نام رسمی گروه ممنوعه تحریک طالبان پاکستان (TTP)، بودند.",
+    "آصف‌علی زرداری، رئیس‌جمهور پاکستان، از نیروهای امنیتی برای این عملیات قدردانی کرد و گفت اقدامات ضدتروریستی در قالب کارزار «عزم استحکام» تا نابودی کامل تروریسم تحت حمایت خارجی ادامه خواهد داشت."
+   ],
+   "title_ar": "جناح الإعلام العسكري الباكستاني: مقتل جنديين و14 إرهابياً في عملية بوزيرستان الشمالية",
+   "summary_ar": "أعلن جناح الإعلام العسكري الباكستاني مقتل جنديين باكستانيين وتحييد 14 مسلماً خلال عمليات لمكافحة الإرهاب في منطقة وزيرستان الشمالية.",
+   "body_ar": [
+    "وبحسب العلاقات العامة بين الخدمات (ISPR)، اشتبكت القوات الأمنية مع مواقع متعددة للمسلحين في میر علي ودته خيل والمناطق المحيطة بها. وكان من بين المسلحين القتلى رعايا أفغان على صلة بـ \"فتنة الخوارج\"، وهو الوصف الرسمي لحركة طالبان پاکستان الحظورة.",
+    "وأشاد الرئيس آصف علي زرداري بالقوات الأمنية لنجاح العملية، مؤكداً أن عمليات مكافحة الإرهاب ضمن حملة \"عزم الاستحكام\" ستستمر حتى القضاء على الإرهاب المدعوم من الخارج."
+   ]
+  },
+  {
+   "id": "1ff1864b46f8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "date": "2026-11-14T07:46:36Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "title_en": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "summary_en": "At least 25 seafarers have been killed in and around the Strait of Hormuz since the outbreak of the US-Israeli war on Iran, according to a UN official.",
+   "body_en": [
+    "Khaled Khiari, UN assistant secretary-general for the Middle East, Asia and the Pacific, presented the casualty figures up to November 11 during a Security Council briefing. He urged the full restoration of maritime navigation, noting that security incidents involving commercial vessels in the area peaked in October.",
+    "The statement coincided with Iranian reports that three oil tankers caught fire after striking naval mines in restricted areas of the strait. Tehran has warned that unauthorised vessels crossing the waterway will be targeted, while the US military maintains that it has cleared main routes and that the strait is open for shipping."
+   ],
+   "title_fa": "سازمان ملل: ۲۵ دریانورد در هرمز و اطراف آن از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران کشته شده‌اند",
+   "summary_fa": "به گفته یک مقام سازمان ملل متحد، از زمان آغاز جنگ آمریکا و اسرائیل علیه ایران، دست‌کم ۲۵ دریانورد در تنگه هرمز و مناطق اطراف آن کشته شده‌اند.",
+   "body_fa": [
+    "خالد خیاری، دستیار دبیرکل سازمان ملل متحد در امور خاورمیانه، آسیا و اقیانوسیه، در نشستی در شورای امنیت آمار تلفات را تا ۱۱ نوامبر ارائه داد. او خواستار احیای کامل دریانوردی شد و اشاره کرد که حوادث امنیتی مربوط به کشتی‌های تجاری در منطقه در ماه اکتبر به اوج خود رسید.",
+    "این اظهارات هم‌زمان با گزارش‌های ایران مبنی بر آتش گرفتن سه نفت‌کش پس از برخورد با مین‌های دریایی در مناطق ممنوعه تنگه منتشر شد. تهران هشدار داده است که به کشتی‌های بدون مجوز حمله خواهد کرد، در حالی که ارتش آمریکا مدعی است مسیرهای اصلی را پاک‌سازی کرده و تنگه برای کشتیرانی باز است."
+   ],
+   "title_ar": "الأمم المتحدة تقول إن 25 بحاراً قتلوا في مضيق هرمز وحوله منذ الحرب الأمريكية الإسرائيلية على إيران",
+   "summary_ar": "وفقاً لمسؤول في الأمم المتحدة، قُتل 25 بحاراً على الأقل في مضيق هرمز والمناطق المحيطة به منذ اندلاع الحرب الأمريكية الإسرائيلية على إيران.",
+   "body_ar": [
+    "قدم خالد خياري، الأمثل المساعد للأمين العام للأمم المتحدة لشؤون الشرق الأوسط وآسيا والمحيط الهادئ، أرقام الضحايا حتى 11 نوفمبر خلال إحاطة لمجلس الأمن. وحث على الإعادة الكاملة للملاحة البحرية، مشيراً إلى أن الحوادث الأمنية التي تستهدف السفن التجارية في المنطقة بلغت ذروتها في أكتوبر.",
+    "وتأتي هذه تصريحات بالتزامن مع تقارير إيرانية أفادت باشتعال النيران في ثلاث ناقلات نفط إثر اصطدامها بألغام بحرية في مناطق حظر في المضيق. وحذرت تهران من أن السفن غير المصرح لها ستتعرض للاستهداف، بينما يؤكد الجيش الأمريكي أنه طهر الطرق الرئيسية وأن المضيق مفتوح أمام الملاحة."
+   ]
+  },
+  {
+   "id": "2e421813110e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmd9395pepd8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T07:42:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "ایران بعد از دو جنگ تا چه حد توان نظامی خود را احیا کرده است؟",
+   "title_en": "ایران بعد از دو جنگ تا چه حد توان نظامی خود را احیا کرده است؟",
+   "summary_en": "Satellite images and intelligence assessments show that Iran is rebuilding its damaged military sites and maintains a significant portion of its missile and drone capabilities eight months after the 40-day war with the US and Israel.",
+   "body_en": [
+    "Recent satellite analysis reveals construction work at Iranian missile complexes and repair signs at over a dozen military sites. Iranian media also reported the unveiling of a new Aerospace Force missile city, while officials announced the removal of previous missile range restrictions.",
+    "Although US officials previously claimed Iran could no longer produce missiles or drones, intelligence estimates suggest Tehran retains up to 70 percent of its missile stockpile and thousands of drones. Reports indicate that Iran is working to resume production, potentially achieving an output of around 50 missiles per month using underground facilities and stored parts."
+   ],
+   "title_fa": "ایران بعد از دو جنگ تا چه حد توان نظامی خود را احیا کرده است؟",
+   "summary_fa": "تصاویر ماهواره‌ای و ارزیابی‌های اطلاعاتی نشان می‌دهند که هشت ماه پس از جنگ ۴۰ روزه با آمریکا و اسرائیل، ایران در حال بازسازی مراکز نظامی آسیب‌دیده خود است و بخش قابل توجهی از توان موشکی و پهپادی خود را حفظ کرده است.",
+   "body_fa": [
+    "بررسی‌های اخیر ماهواره‌ای از ساخت‌وساز در مجموعه‌های موشکی ایران و نشانه‌های تعمیر در بیش از ۱۲ مرکز نظامی خبر می‌دهند. رسانه‌های ایران نیز از رونمایی شهر موشکی جدید نیروی هوافضای سپاه خبر داده‌اند و مقام‌های نظامی از برداشتن محدودیت‌های قبلی برد موشک‌ها سخن گفته‌اند.",
+    "اگرچه مقام‌های آمریکایی پیشتر مدعی شده بودند ایران دیگر قادر به تولید موشک یا پهپاد نیست، ارزیابی‌های اطلاعاتی نشان می‌دهند که تهران تا ۷۰ درصد از ذخایر موشکی و هزاران پهپاد خود را حفظ کرده است. گزارش‌ها حاکی از آن است که ایران با استفاده از تاسیسات زیرزمینی و قطعات ذخیره‌شده، در تلاش برای ازسرگیری تولید است و توان تولید حدود ۵۰ موشک در ماه را دارد."
+   ],
+   "title_ar": "إلى أي مدى استعادت إيران قدراتها العسكرية بعد حربين؟",
+   "summary_ar": "تظهر الصور الفضائية والتقييمات الاستخباراتية أن إيران تقوم بإعادة بناء مواقعها العسكرية المتضررة وتحتفظ بجزء كبير من قدراتها الصاروخية والطائرات المسيرة بعد ثمانية أشهر من الحرب التي استمرت 40 يوماً مع الولايات المتحدة وإسرائيل.",
+   "body_ar": [
+    "تكشف تحليلات الصور الفضائية الأخيرة عن أعمال بناء في مجمعات صاروخية إيرانية وعلامات إصلاح في أكثر من 12 موقعاً عسكرياً. كما أفادت وسائل الإعلام الإيرانية بالكشف عن مدينة صاروخية جديدة تابعة للقوة الجوية الفضائية بالحرس الثوري، بينما أعلن مسؤولون رفع القيود السابقة على مدى الصواريخ.",
+    "ورغم ادعاء المسؤولين الأمريكيين سابقاً أن إيران لم تعد قادرة على إنتاج الصواريخ أو المسيرات، تشير التقييمات الاستخباراتية إلى أن تهران تحتفظ بنحو 70 بالمئة من مخزونها الصاروخي وآلاف المسيرات. وتفيد التقارير بأن إيران تعمل على استئناف الإنتاج، مع امكانية الوصول لإنتاج نحو 50 صاروخاً شهرياً باستخدام المنشآت تحت الأرض والقطع المخزنة."
+   ]
+  },
   {
    "id": "34e476fefa9b",
    "lang": "en",

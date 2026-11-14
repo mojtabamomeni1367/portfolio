@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:22:19Z",
+ "updated": "2026-11-14T10:08:00Z",
  "items": [
   {
    "id": "5d21b1e6d150",
@@ -2026,6 +2026,101 @@
    ],
    "desc": "U.S. Commission on International Religious Freedom (USCIRF) shared Sharjeel Imam’s profile on X, describing him as “a Muslim man detained in India for his religious freedom advocacy”",
    "score": 4
+  },
+  {
+   "id": "345e727de947",
+   "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
+   "date": "2026-11-14T09:43:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
+   "score": 4
+  },
+  {
+   "id": "77bc0d5b3703",
+   "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+   "date": "2026-11-14T09:19:43Z",
+   "countries": [
+    "IRN",
+    "QAT",
+    "TUR"
+   ],
+   "desc": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+   "score": 4,
+   "dup_of": "39353f83996a"
+  },
+  {
+   "id": "e6c82f337c45",
+   "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+   "date": "2026-11-14T08:01:23Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+   "score": 1
+  },
+  {
+   "id": "1ff1864b46f8",
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "date": "2026-11-14T07:46:36Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+   "score": 8
+  },
+  {
+   "id": "21ec9233c16d",
+   "title": "2 soldiers martyred, 14 terrorists killed in North Waziristan operation: ISPR",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044488/2-soldiers-martyred-14-terrorists-killed-in-north-waziristan-operation-ispr",
+   "date": "2026-11-14T09:53:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Two soldiers were martyred and 14 terrorists were killed during an intelligence-based operation (IBO) in North Waziristan district of Khyber Pakhtunkhwa, the military’s media wing said on Saturday. According to a statement issued by Inter-Services Public Relations (ISPR), in continuation of a series of IBOs being conducted by security forces, multiple khwarij locations were engaged in the general areas of Mir Ali, Datta Khel and surrounding areas in North Waziristan. “Following fierce fire exchanges, in last twelve hours, 12 khwarij , including two Afghan nationals belonging to Indian-sponsore",
+   "score": 7
+  },
+  {
+   "id": "4086486783ed",
+   "title": "KP Governor Kundi announces suspension of gold mining across province",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044485/kp-governor-kundi-announces-suspension-of-gold-mining-across-province",
+   "date": "2026-11-14T09:52:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi on Saturday announced a ban on gold mining across the province and the revocation of all mining leases as part of measures to curb illegal mining. Addressing a press conference in Peshawar, Governor Kundi condemned the attack in Kohat that claimed the lives of 10 police personnel returning from an operation against illegal mining in the region. He said an exemplary operation would be launched against those responsible for the attack, as well as their facilitators, as part of the government’s future strategy. “There will be zero tolerance for those",
+   "score": 3
+  },
+  {
+   "id": "2e421813110e",
+   "title": "ایران بعد از دو جنگ تا چه حد توان نظامی خود را احیا کرده است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmd9395pepd8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T07:42:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "گزارش‌ها و تصاویر ماهواره‌ای از بازسازی مراکز نظامی و بازیابی بخشی از توان موشکی و پهپادی ایران خبر می‌دهند. ایران تا چه حد توان نظامی خود را احیا کرده است؟",
+   "score": 5
   }
  ]
 }
