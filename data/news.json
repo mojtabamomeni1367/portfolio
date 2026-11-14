@@ -1,7 +1,159 @@
 {
- "updated": "2026-11-14T13:15:03Z",
- "count": 437,
+ "updated": "2026-11-14T16:03:20Z",
+ "count": 450,
  "items": [
+  {
+   "id": "c5c97682f131",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "date": "2026-11-14T15:36:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "title_en": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "summary_en": "Israeli forces occupied the home of a Palestinian-American in the occupied West Bank for 17 days. Additionally, Israeli troops raided a Palestinian wedding, arresting the groom, amid ongoing deadly attacks throughout Gaza.",
+   "body_en": [
+    "According to Al Jazeera's Mohamad Saleh, Israeli military forces maintained an occupation of a Palestinian-American's residence in the West Bank over a 17-day period. In a separate incident, soldiers raided a wedding ceremony to detain the groom, while deadly military operations continued across the Gaza Strip."
+   ],
+   "title_fa": "گزارش روزانه اورشلیم: نیروهای اسرائیلی خانه یک فلسطینی-آمریکایی را اشغال کردند",
+   "summary_fa": "نیروهای اسرائیلی خانه یک شهروند فلسطینی-آمریکایی را در کرانه باختری اشغالی به مدت ۱۷ روز اشغال کردند. همچنین، هم‌زمان با ادامه حملات مرگبار در سراسر غزه، سربازان اسرائیلی به یک مراسم عروسی فلسطینی یورش برده و داماد را بازداشت کردند.",
+   "body_fa": [
+    "به گزارش محمد صالح، خبرنگار الجزیره، نیروهای نظامی اسرائیل مسکن یک فلسطینی-آمریکایی را در کرانه باختری به مدت ۱۷ روز در اشغال خود داشتند. در رویدادی دیگر، سربازان به یک مراسم عروسی یورش برده و داماد را بازداشت کردند، در حالی که عملیات‌های نظامی مرگبار در سراسر نوار غزه همچنان ادامه دارد."
+   ],
+   "title_ar": "يوميات القدس: القوات الإسرائيلية تحتل منزل فلسطيني يحمل الجنسية الأمريكية",
+   "summary_ar": "احتلت القوات الإسرائيلية منزل فلسطيني يحمل الجنسية الأمريكية في الضفة الغربية المحتلة لمدة 17 يوماً. في غضون ذلك، داهم جنود إسرائيليون حفل زفاف فلسطيني واعتقلوا العريس، وسط استمرار الهجمات الإسرائيلية الفتاكة في جميع أنحاء قطاع غزة.",
+   "body_ar": [
+    "وفقاً لمراسل الجزيرة محمد صالح، استمرت القوات العسكرية الإسرائيلية في احتلال منزل يعود لفلسطيني يحمل الجنسية الأمريكية في الضفة الغربية على مدار 17 يوماً. وفي حادث آخر، اقتحم الجنود حفل زفاف لاعتقال العريس، تزامناً مع استمرار العمليات العسكرية الفتاكة في قطاع غزة."
+   ]
+  },
+  {
+   "id": "415d44d20e60",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
+   "date": "2026-11-14T15:18:18Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "Quad Summit likely to be held in Manila on November 17, sources say",
+   "title_en": "Quad Summit likely to be held in Manila on November 17, sources say",
+   "summary_en": "Leaders of the Quad security dialogue—India, the US, Japan, and Australia—are expected to meet in Manila on November 17 on the sidelines of ASEAN meetings, according to sources in New Delhi.",
+   "body_en": [
+    "Indian Prime Minister Narendra Modi, US President Donald Trump, Japanese Prime Minister Sanae Takaichi, and Australian Prime Minister Anthony Albanese will participate in the summit. According to US officials cited by Reuters, the agenda will focus on critical mineral supply chains, the protection of commercial shipping routes for energy, and recent attacks on merchant vessels.",
+    "This will be the first Quad Summit held in a non-member country. Scheduling delays for holding the event in India occurred due to domestic US politics, including the midterm elections and the US President's calendar."
+   ],
+   "title_fa": "منابع می‌گویند نشست سران کواد احتمالاً ۱۷ نوامبر در مانیل برگزار می‌شود",
+   "summary_fa": "به گفته منابعی در دهلی نو، انتظار می‌رود رهبران گروه کواد (هند، آمریکا، ژاپن و استرالیا) در تاریخ ۱۷ نوامبر در حاشیه نشست‌های آسیان در مانیل دیدار کنند.",
+   "body_fa": [
+    "نارندرا مودی نخست‌وزیر هند، دونالد ترامپ رئیس‌جمهور آمریکا، سانائه تاکایچی نخست‌وزیر ژاپن و آنتونی آلبانیزی نخست‌وزیر استرالیا در این نشست شرکت خواهند کرد. به گفته مقامات آمریکایی به نقل از رویترز، دستور کار این جلسه شامل زنجیره‌های تأمین مواد معدنی حیاتی، ایمن‌سازی خطوط کشتیرانی تجاری برای انرژی و بررسی حملات به کشتی‌های تجاری خواهد بود.",
+    "این نخستین نشست سران کواد است که در کشوری خارج از اعضای این گروه برگزار می‌شود. تأخیر در میزبانی هند برای این نشست عمدتاً ناشی از برنامه‌های زمانی رئیس‌جمهور آمریکا و تحولات سیاسی داخلی مانند انتخابات میان‌دوره‌ای بوده است."
+   ],
+   "title_ar": "مصادر ترجح انعقاد قمة \"كواد\" في مانيلا في 17 نوفمبر",
+   "summary_ar": "من المتوقع أن يلتقي قادة مجموعة \"كواد\" (الهند والولايات المتحدة واليابان وأستراليا) في مانيلا في 17 نوفمبر على هامش اجتماعات آسيان، وفقاً لمصادر في نيودلهي.",
+   "body_ar": [
+    "وسيشارك في القمة رئيس الوزراء الهندي ناريندرا مودي والرئيس الأمريكي دونالد ترامب ورئيسة الوزراء اليابانية ساناي تاكايتشي ورئيس الوزراء الأسترالي ألبانيز. ووفقاً لمسؤولين أمريكيين نقلت عنهم وكالة رويترز، سيمثل تأمين سلاسل التوريد للمعادن الحيوية وطرق الشحن التجاري لإمدادات الطاقة ومناقشة الهجمات على السفن التجارية جزءاً رئيسياً من جدول الأعمال.",
+    "وتعد هذه أول قمة لمجموعة \"كواد\" تعقد في دولة غير عضوة فيها. وقد تعذر عقد القمة في الهند في وقت سابق بسبب عدم تفرغ الرئيس الأمريكي وظروف الانتخابات النصفيّة الأمريكية."
+   ]
+  },
+  {
+   "id": "386160beddef",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044488/major-among-4-troops-martyred-24-terrorists-killed-during-operations-in-kp-and-balochistan-ispr",
+   "date": "2026-11-14T15:04:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR",
+   "title_en": "Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR",
+   "summary_en": "Pakistan's military reported that four security personnel, including a major, were killed and 24 terrorists were neutralized during intelligence-based operations in Balochistan and Khyber Pakhtunkhwa.",
+   "body_en": [
+    "According to Inter-Services Public Relations (ISPR), security forces conducted multiple operations in areas including Kolpur, Kardagap, Nushki, and North Waziristan. In Kolpur, eight terrorists were killed, while a quadcopter attack on a military convoy in Kirdgap killed Major Omer Minhas Nasir and Havildar Muhammad Adnan Khan. In North Waziristan, operations resulted in the deaths of 16 terrorists and two soldiers, Havildar Asmat Ali and Naik Aftab Ali.",
+    "Pakistani leaders, including President Asif Ali Zardari and Prime Minister Shehbaz Sharif, praised the operations and paid tribute to the fallen soldiers. ISPR reiterated its resolve to continue counterterrorism operations under the vision 'Azm-i-Istehkam' to completely eradicate terrorism from the country."
+   ],
+   "title_fa": "شهادت ۴ نظامی از جمله یک سرگرد و کشته شدن ۲۴ تروریست در جریان عملیات‌ها در خیبر پختونخوا و بلوچستان: روابط عمومی ارتش پاکستان",
+   "summary_fa": "ارتش پاکستان گزارش داد که چهار نیروی امنیتی از جمله یک سرگرد در جریان عملیات‌های مبتنی بر اطلاعات در بلوچستان و خیبر پختونخوا کشته شده و ۲۴ تروریست کشته شدند.",
+   "body_fa": [
+    "به گفته روابط عمومی ارتش پاکستان (ISPR)، نیروهای امنیتی چند عملیات در مناطقی از جمله کلپور، کردگاپ، نوشکی و وزیرستان شمالی انجام دادند. در کلپور هشت تروریست کشته شدند، در حالی که حمله یک کوادکوپتر به کاروان نظامی در کردگاپ به شهادت سرگرد عمر منهاس ناصر و گروهبان محمد عدنان خان منجر شد. در وزیرستان شمالی نیز ۱۶ تروریست و دو سرباز به نام‌های گروهبان عصمت علی و سرجوخه آفتاب علی کشته شدند.",
+    "رهبران پاکستان از جمله آصف‌علی زرداری، رئیس‌جمهور، و شهباز شریف، نخست‌وزیر، از این عملیات‌ها تمجید کرده و به سربازان کشته‌شده ادای احترام کردند. روابط عمومی ارتش بر عزم خود برای ادامه عملیات‌های ضدتروریسم تحت چارچوب «عزم استحکام» جهت محو کامل تروریسم تاکید کرد."
+   ],
+   "title_ar": "مقتل 4 جنود بينهم ضابط برتبة رائد ومقتل 24 إرهابياً خلال عمليات في خيبر بختونخوا وبلوشستان: العلاقات العامة للجيش الباكستاني",
+   "summary_ar": "أفاد الجيش الباكستاني بمقتل أربعة من عناصر الأمن، بينهم ضابط برتبة رائد، والقضاء على 24 إرهابياً خلال عمليات استخباراتية في بلوشستان وخيبر بختونخوا.",
+   "body_ar": [
+    "وفقاً لإدارة العلاقات العامة في الجيش الباكستاني، نفذت القوات الأمنية عمليات متعددة في مناطق شملت كولبور وكردغاب ونوشكي وشمال وزيرستان. ففي كولبور، قُتل ثمانية إرهابيين، بينما أسفر هجوم بطائرة مسيرة على موكب عسكري في كردغاب عن مقتل الرائد عمر منهاس ناصر والرقيب محمد عدنان خان. وفي شمال وزيرستان، أسفرت العمليات عن مقتل 16 إرهابياً وجنديين هما الرقيب عصمت علي والعريف آفتاب علي.",
+    "وأشاد القادة الباكستانيون، بمن فيهم الرئيس آصف علي زرداري ورئيس الوزراء شهباز شريف، بالعمليات وعزوا شهداء الجيش. وأكدت إدارة العلاقات العامة عزمها على مواصلة عمليات مكافحة الإرهاب تحت رؤية \"عزم الاستحكام\" للقضاء على الإرهاب تماماً."
+   ]
+  },
+  {
+   "id": "c5c777b1c89f",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cwp9dznjmpllo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T13:31:52Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "ترامب يدرس تعليق الضربات على إيران وسط ضغوط سعودية وتركية وتحركات عسكرية أمريكية جديدة",
+   "title_en": "ترامب يدرس تعليق الضربات على إيران وسط ضغوط سعودية وتركية وتحركات عسكرية أمريكية جديدة",
+   "summary_en": "U.S. President Donald Trump is considering pausing new military strikes against Iran if Tehran and the Houthis refrain from further attacks, amid diplomatic pressure from Saudi Arabia and Turkey.",
+   "body_en": [
+    "Sources told Reuters that Saudi Crown Prince Mohammed bin Salman and Turkish President Recep Tayyip Erdoğan urged Trump to hold off on military action, advocating for economic pressure and de-escalation instead. Meanwhile, Israeli officials continue to press Washington to resume strikes.",
+    "Despite potential pause plans, the U.S. is preparing military options, including deploying a third aircraft carrier to the Middle East. Meanwhile, Iranian forces reported that four oil tankers caught fire in the Strait of Hormuz after hitting mines."
+   ],
+   "title_fa": "ترامپ در میان فشارهای عربستان و ترکیه و تحرکات جدید نظامی آمریکا، تعلیق حملات به ایران را بررسی می‌کند",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در میان فشارهای دیپلماتیک عربستان سعودی و ترکیه، در حال بررسی تعلیق حملات نظامی جدید علیه ایران است، مشروط بر اینکه تهران و حوثی‌ها از هجمه‌ها یا اقدامات تحريك‌آمیز جدید خودداری کنند.",
+   "body_fa": [
+    "منابع آگاه به رویتز گفتند که شاهزاده محمد بن سلمان، ولیعهد عربستان و رجب طیب اردوغان، رئیس‌جمهور ترکیه، از ترامپ خواسته‌اند از اقدام نظامی مجدد خودداری کند و بر فشارهای اقتصادی و کاهش تنش‌ها تأکید کرده‌اند. این در حالی است که مقام‌های اسرائیلی همچنان واشنگتن را برای ازسرگیری حملات تحت فشار قرار می‌دهند.",
+    "با وجود طرح‌های احتمالی برای وقفه‌ی عملیات، ایالات متحده در حال آماده‌سازی گزینه‌های نظامی بیشتری از جمله اعزام سومین ناو هواپیمابر به خاورمیانه است. در همین حال، نیروهای ایرانی اعلام کردند چهار نفت‌کش در تنگه هرمز پس از برخورد با مین دچار آتش‌سوزی شده‌اند."
+   ],
+   "title_ar": "ترامب يدرس تعليق الضربات على إيران وسط ضغوط سعودية وتركية وتحركات عسكرية أمريكية جديدة",
+   "summary_ar": "بدرس الرئيس الأمريكي دونالد ترامب التراجع عن شن ضربات عسكرية جديدة ضد إيران في حال امتناع طهران والحوثيين عن تنفيذ هجمات جديدة، وسط ضغوط من السعودية وتركيا.",
+   "body_ar": [
+    "ونقلت رويترز أن ولي العهد السعودي الأمير محمد بن سلمان والرئيس التركي رجب طيب أردوغان حثا ترامب على تجنب استئناف الضربات والاعتماد على الضغوط الاقتصادية، في حين يواصل مسؤولون إسرائيليون الضغط لاستئناف الحملة العسكرية.",
+    "ورغم مؤشرات التهدئة، تستعد واشنطن لخيارات عسكرية إضافية بفرز حاملة طائرات ثالثة إلى الشرق الأوسط. میدانیًا، أعلنت القوات الإيرانية تعرض أربع ناقلات نفط لانفجارات وحرائق إثر اصطدامها بألغام في مضيق هرمز."
+   ]
+  },
+  {
+   "id": "801be96fcadf",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomats-18-muslim-majority-countries-condemn-israeli-strike-nasser",
+   "date": "2026-11-14T13:16:37Z",
+   "countries": [
+    "ARE",
+    "EGY",
+    "ISR",
+    "QAT",
+    "SAU"
+   ],
+   "score": 7,
+   "title": "Diplomats from 18 Muslim-majority countries condemn Israeli strike on Nasser hospital",
+   "title_en": "Diplomats from 18 Muslim-majority countries condemn Israeli strike on Nasser hospital",
+   "summary_en": "Top diplomats from 18 Muslim-majority countries released a joint declaration condemning an Israeli strike on the Nasser Medical Complex in Khan Younis that killed at least six people.",
+   "body_en": [
+    "The signatories, including Saudi Arabia, the UAE, Qatar, Egypt, Turkey, and Pakistan, stated that the attack violated international humanitarian law and endangered the Gaza ceasefire. The strike killed a surgeon and a child among its victims.",
+    "The joint statement also accused Israel of blocking essential medical shipments and winter supplies, urging immediate compliance with the truce and unhindered aid access to Gaza."
+   ],
+   "title_fa": "دیپلمات‌های ۱۸ کشور مسلمان حمله اسرائیل به بیمارستان ناصر را محکوم کردند",
+   "summary_fa": "دیپلمات‌های ارشد ۱۸ کشور مسلمان با صدور بیانیه‌ای مشترک، حمله اسرائیل به مجتمع پزشکی ناصر در خان یونس را که به کشته شدن دست‌کم شش نفر انجامید، محکوم کردند.",
+   "body_fa": [
+    "امضاکنندگان از جمله عربستان سعودی، امارات، قطر، مصر، ترکیه و پاکستان اعلام کردند که این حمله ناقض قوانین بین‌المللی بشردوستانه است و آتش‌بس غزه را به خطر می‌اندازد. در میان قربانیان این حمله یک جراح و یک کودک حضور داشتند.",
+    "در این بیانیه مشترک همچنین اسرائیل به جلویگیری از ورود محموله‌های ضروری پزشکی و اقلام زمستانی متهم شده و بر لزوم پایبندی فوری به آتش‌بس و تسهیل ارسال کمک‌ها به غزه تاکید شده است."
+   ],
+   "title_ar": "دبلوماسيون من 18 دولة ذات غالبية مسلمة يدينون الهجوم الإسرائيلي على مستشفى الناصر",
+   "summary_ar": "أصدر كبار الدبلوماسيين من 18 دولة ذات غالبية مسلمة بياناً مشتركاً ينددون فيه بالضربة الإسرائيلية على مجمع الناصر الطبي في خان يونس والتي أسفرت عن مقتل ستة أشخاص على الأقل.",
+   "body_ar": [
+    "وأكد الموقعون، ومن بينهم السعودية والإمارات وقطر ومصر وتركيا وباكستان، أن الهجوم ينتهك القانون الدولي الإنساني ويهدد وقف إطلاق النار في غزة. وكان من بين الضحايا جراح وطفل.",
+    "كما اتهم البيان المشترك إسرائيل بحظر الشحنات الطبية الضرورية والمستلزمات الشتوية، داعياً إلى الالتزام الفوري بالهدنة وتسهيل وصول المساعدات دون عوائق إلى غزة."
+   ]
+  },
   {
    "id": "783b01203d20",
    "lang": "en",
@@ -64,6 +216,33 @@
    ]
   },
   {
+   "id": "cdb636a1467e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-said-it-intercepted-us-mq-1-predator-drone-over-qeshm-island",
+   "date": "2026-11-14T12:33:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran says it intercepted US MQ-1 Predator drone over Qeshm Island",
+   "title_en": "Iran says it intercepted US MQ-1 Predator drone over Qeshm Island",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps announced that it intercepted and destroyed an American MQ-1 Predator drone over Qeshm Island in the Strait of Hormuz.",
+   "body_en": [
+    "According to a statement carried by state media, the IRGC Aerospace Force used a new advanced air defence system to shoot down the drone. The IRGC stated that the action thwarted a reconnaissance mission by US forces."
+   ],
+   "title_fa": "ایران می‌گوید یک پهپاد ام‌کیو-۱ پرداتور آمریکایی را بر فراز جزیره قشم رهگیری کرده است",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد یک پهپاد آمریکایی ام‌کیو-۱ پرداتور را بر فراز جزیره قشم در تنگه هرمز رهگیری و منهدم کرده است.",
+   "body_fa": [
+    "بر اساس بیانیه‌ای که در رسانه‌های دولتی منتشر شده، نیروی هوافضای سپاه پاسداران با استفاده از یک سامانه پدافند هوایی پیشرفته جدید این پهپاد را سرنگون کرده است. سپاه پاسداران اعلام کرد که این اقدام مانع از انجام یک ماموریت شناسایی توسط نیروهای آمریکایی شده است."
+   ],
+   "title_ar": "إيران تعلن اعتراض طائرة أسراب من طراز إم كيو-1 بريداتور الأمريكية فوق جزيرة قشم",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أنه اعترض ودمر طائرة مسيرة أمريكية من طراز إم كيو-1 بريداتور فوق جزيرة قشم في مضيق هرمز.",
+   "body_ar": [
+    "وبحسب بيان نقلته وسائل إعلام رسمية، استخدمت القوة الجوفضائية التابعة للحرس الثوري نظام دفاع جوي متطوراً جديداً لإسقاط الطائرة المسيرة. وذكر الحرس الثوري أن العملية أحبطت مهمة استطلاع للقوات الأمريكية."
+   ]
+  },
+  {
    "id": "7d22ef75523a",
    "lang": "en",
    "source": "Al Jazeera",
@@ -88,6 +267,36 @@
    "summary_ar": "اتهمت إثيوبيا إريتريا بقيادة هجوم عسكري تشنه جبهة تحرير شعب تيغراي في إقليم تيغراي، بمساعدة لوجستية من مصر. وأكد قائد الجيش الإثيوبي أن قواته تمكنت من صد الهجمات.",
    "body_ar": [
     "وبحسب قائد الجيش الإثيوبي، فإن القوات الحكومية ردت الهجوم في تيغراي، مما أجبر قادة جبهة تحرير شعب تيغراي المنسحبين على الفرار إلى إريتريا المجاورة."
+   ]
+  },
+  {
+   "id": "7b023b0fd867",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-fire-strait-hormuz-iran-navy",
+   "date": "2026-11-14T12:27:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Oil tanker on fire in Strait of Hormuz: Iran's navy",
+   "title_en": "Oil tanker on fire in Strait of Hormuz: Iran's navy",
+   "summary_en": "Iran's navy reported that a second oil tanker caught fire on Saturday morning after striking a naval mine in the Strait of Hormuz.",
+   "body_en": [
+    "According to Iranian state media citing the semi-official Tasnim news agency, the navy stated that tankers engaged in illegal activities with turned-off tracking systems in restricted areas face fire and explosions.",
+    "The vessel's identity was not disclosed, but it marks the fifth oil tanker reported on fire within 24 hours following strikes by Iranian forces or naval mines in the strait."
+   ],
+   "title_fa": "آتش‌سوزی نفت‌کش در تنگه هرمز به گفته نیروی دریایی ایران",
+   "summary_fa": "نیروی دریایی ایران گزارش داد که صبح روز شنبه، دومین نفت‌کش پس از برخورد با مین دریایی در تنگه هرمز دچار آتش‌سوزی شد.",
+   "body_fa": [
+    "به گزارش رسانه‌های دولتی ایران به نقل از خبرگزاری نیمه‌رسمی تسنیم، نیروی دریایی اعلام کرد سرنوشت نفت‌کش‌هایی که با خاموش کردن سیستم‌های ردیابی در مناطق ممنوعه فعالیت‌های غیرقانونی می‌کنند، آتش‌سوزی و انفجار است.",
+    "هویت این شناور فاش نشده است، اما این پنجمین نفت‌کشی است که طی ۲۴ ساعت گذشته پس از گزارش‌ها مبنی بر برخورد با مین‌های دریایی یا حمله نیروهای ایرانی در این تنگه دچار آتش‌سوزی می‌شود."
+   ],
+   "title_ar": "انشغال النار في ناقلة نفط بمضيق هرمز وفقاً للبحرية الإيرانية",
+   "summary_ar": "أعلنت البحرية الإيرانية أن ناقلة نفط ثانية اشتعلت فيها النيران صباح السبت بعد اصطدامها بلغم بحري في مضيق هرمز.",
+   "body_ar": [
+    "وفقاً لوسائل إعلام رسمية إيرانية نقلاً عن وكالة تسنيم، أكدت البحرية أن الحريق والانفجارات هي مصير الناقلات التي تمارس نشاطات غير قانونية وتغلق أجهزة التتبع في المناطق المحظورة.",
+    "لم يتم الكشف عن هوية السفينة، وتعد هذه خامس ناقلة نفط يبلغ عن اشتعال النيران فيها خلال 24 ساعة بعد تعرضها لضربات من القوات الإيرانية أو اصطدامها بألغام بحرية في المضيق."
    ]
   },
   {
@@ -178,6 +387,34 @@
    "body_ar": [
     "وبحسب العلاقات العامة بين الخدمات (ISPR)، اشتبكت القوات الأمنية مع مواقع متعددة للمسلحين في میر علي ودته خيل والمناطق المحيطة بها. وكان من بين المسلحين القتلى رعايا أفغان على صلة بـ \"فتنة الخوارج\"، وهو الوصف الرسمي لحركة طالبان پاکستان الحظورة.",
     "وأشاد الرئيس آصف علي زرداري بالقوات الأمنية لنجاح العملية، مؤكداً أن عمليات مكافحة الإرهاب ضمن حملة \"عزم الاستحكام\" ستستمر حتى القضاء على الإرهاب المدعوم من الخارج."
+   ]
+  },
+  {
+   "id": "06cbcca5df71",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-saudi-led-coalition-forces-target-saada-razih-yemen",
+   "date": "2026-11-14T07:56:57Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis say Saudi-led coalition forces target Saada, Razih in Yemen",
+   "title_en": "Houthis say Saudi-led coalition forces target Saada, Razih in Yemen",
+   "summary_en": "Houthi media reported air strikes by the Saudi-led coalition in southern Saada and artillery shelling in the Razih district of Yemen.",
+   "body_en": [
+    "According to Houthi-run Al Masirah TV, as cited by Al Jazeera, the strikes targeted southern areas of Saada city while artillery hit populated villages in Razih. Meanwhile, Yemen's government military spokesperson Colonel Majed Al-Nuzaili stated that government forces carried out 943 targeting operations against Houthi positions under Operation Dawn of Yemen."
+   ],
+   "title_fa": "حوثی‌ها می‌گویند نیروهای ائتلاف به رهبری عربستان صعده و رازح در یمن را هدف قرار دادند",
+   "summary_fa": "رسانه‌های حوثی از حملات هوایی ائتلاف به رهبری عربستان به مناطق جنوبی شهر صعده و حملات توپخانه‌ای به شهرستان رازح در یمن خبر دادند.",
+   "body_fa": [
+    "به گزارش شبکه المسیره متعلق به حوثی‌ها به نقل از الجزیره، این حملات مناطق جنوبی شهر صعده را هدف قرار داده و توپخانه‌ها روستاهای مسکونی را در شهرستان مرزی رازح زیر آتش گرفتند. در همین حال، سرهنگ مجد النذیلی، سخنگوی نظامی دولت یمن، گفت نیروهای دولتی ۹۴۳ عملیات هدف‌گیری علیه مواضع حوثی‌ها در قالب عملیات «فجر یمن» انجام داده‌اند."
+   ],
+   "title_ar": "الحوثيون يقولون إن قوات التحالف بقيادة السعودية استهدفت صعدة ورازح في اليمن",
+   "summary_ar": "فادت وسائل إعلام تابعة للحوثيين بوقوع غارات جوية للتحالف بقيادة السعودية على جنوب مدينة صعدة وقصف مدفعي على مديرية رازح في اليمن.",
+   "body_ar": [
+    "وبحسب قناة المسيرة التابعة للحوثيين ونقلاً عن الجزيرة، استهدفت الغارات مناطق جنوب مدينة صعدة بينما طال القصف المدفعي قرى مأهولة في مديرية رازح الحدودية. في غضون ذلك، صرح المتحدث العسكري باسم الحكومة اليمنية العقيد ماجد النزيلي بأن القوات الحكومية نفذت 943 ضربة استهدفت مواقع الحوثيين ضمن عملية \"فجر اليمن\"."
    ]
   },
   {
@@ -275,6 +512,36 @@
    ]
   },
   {
+   "id": "7affb42888dc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire",
+   "date": "2026-11-14T07:07:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran says three tankers hit by mines in Hormuz catch fire",
+   "title_en": "Iran says three tankers hit by mines in Hormuz catch fire",
+   "summary_en": "Iranian military forces reported that three oil tankers caught fire after striking naval mines while attempting to navigate the Strait of Hormuz.",
+   "body_en": [
+    "The IRGC navy stated that two tankers carrying out a secret transit through an unauthorised southern route with switched-off positioning systems exploded after hitting a mine, with one being identified as a supertanker.",
+    "Separately, the Iranian conventional navy announced that a third tanker caught fire and stopped in a prohibited zone east of the strait under similar circumstances, following earlier IRGC footage showing a struck liquefied gas carrier."
+   ],
+   "title_fa": "ایران می‌گوید سه نفت‌کش پس از برخورد با مین در هرمز دچار آتش‌سوزی شدند",
+   "summary_fa": "نیروهای نظامی ایران گزارش دادند که سه نفت‌کش پس از برخورد با مین‌های دریایی هنگام عبور از تنگه هرمز دچار آتش‌سوزی شدند.",
+   "body_fa": [
+    "نیروی دریایی سپاه پاسداران اعلام کرد که دو نفت‌کش در حال عبور مخفیانه از یک مسیر غیرمجاز در جنوب تنگه با سیستم‌های موقعیت‌یاب خاموش، پس از برخورد با مین منفجر شدند که یکی از آن‌ها یک سوپرتانکر بوده است.",
+    "به طور جداگانه، نیروی دریایی ارتش ایران اعلام کرد که سومین نفت‌کش نیز در شرایطی مشابه در منطقه ممنوعه شرق تنگه دچار آتش‌سوزی و متوقف شد؛ این اخبار پس از انتشار تصاویری از سوی سپاه از یک حامل گاز مایع آسیب‌دیده منتشر شد."
+   ],
+   "title_ar": "إيران تعلن اشتعال النيران في ثلاث ناقلات نفط إثر اصطدامها بألغام في هرمز",
+   "summary_ar": "أعلنت القوات العسكرية الإيرانية أن نيراناً اندلعت في ثلاث ناقلات نفط بعد اصطدامها بألغام بحرية أثناء محاولتها عبور مضيق هرمز.",
+   "body_ar": [
+    "وذكرت بحرية الحرس الثوري أن ناقلتين كانتا تحاولان العبور سراً عبر مسار غير مصرح به في جنوب المضيق مع إيقاف أجهزة التتبع انفجرتا بعد اصطدامهما بلغم، مشيرة إلى أن إحداهما ناقلة عملاقة.",
+    "من جانبها، أعلنت البحرية الإيرانية أن ناقلة ثالثة اشتعلت فيها النيران وتوقفت في منطقة محظورة شرق المضيق في ظروف مشابهة، بعد أن بث الحرس الثوري سابقاً مشاهد لسفينة نقل غاز مسال تعرضت للغم."
+   ]
+  },
+  {
    "id": "15e79e3a2d75",
    "lang": "en",
    "source": "Al Jazeera",
@@ -302,6 +569,36 @@
    "body_ar": [
     "حذرت منظمات حقوقية وهيئات دولية، من بينها برنامج الأغذية العالمي ومكتب أوكتشا، من أن الحصار يهدد حياة مئات الآلاف ويوشك أن يؤدي إلى انهيار الخدمات الصحية. وتواجه أكثر من 12 مستشفى خطر الإغلاق أو تقليص الخدمات بسبب النقص الحاد في الوقود، بينما يفاقم تراكم النفايات والمياه غير الصالحة للشرب انتشار الأمراض.",
     "وأكد مسؤولون صحيون محليون أن إغلاق الطرق الرئيسية المؤدية إلى تعز يحول دون وصول العديد من المرضى إلى المستشفيات. وأشارت منظمة هيومن رايتس ووتش إلى أن تجويع المدنيين وحصارهم في تعز قد يرتقيان إلى مستوى جرائم الحرب."
+   ]
+  },
+  {
+   "id": "94dc6c0668bc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/what-would-be-left-international-legal-order-araghchi-us-strikes",
+   "date": "2026-11-14T06:07:01Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "'What would be left of international legal order': Araghchi on US strikes",
+   "title_en": "'What would be left of international legal order': Araghchi on US strikes",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi criticized military strikes by the US and Israel in an opinion piece, warning that unilateral attacks based on perceived future threats erode international law and sovereignty.",
+   "body_en": [
+    "Writing for Japan's Kyodo News, Araghchi stated that the military actions breached international law and the UN Charter prohibiting the use of force without Security Council authorization or a clear self-defense justification under Article 51. He emphasized that global rules governing military force must apply equally to all nations regardless of their power.",
+    "Araghchi also raised concerns regarding strikes on civilian infrastructure, schools, sports facilities, and Iranian nuclear sites subject to IAEA safeguards, asserting that such attacks must be evaluated under international humanitarian law."
+   ],
+   "title_fa": "عراقچی درباره حملات آمریکا: «چه چیزی از نظم حقوقی بین‌المللی باقی خواهد ماند»",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، در یادداشتی با انتقاد از حملات نظامی آمریکا و اسرائیل هشدار داد که اقدامات نظامی یکجانبه بر اساس ارزیابی‌های شخصی از تهدیدات آتی، قوانین بین‌المللی و حاکمیت ملی را تضعیف می‌کند.",
+   "body_fa": [
+    "عراقچی در مقاله خود برای خبرگزاری کیودو ژاپن نوشت که این اقدامات نظامی ناقض منشور سازمان ملل متحد در منع استفاده از زور بدون مجوز شورای امنیت یا استناد مشروع به دفاع از خود تحت ماده ۵۱ است. وی تأکید کرد اصول حقوق بین‌الملل باید فراتر از قدرت کشورها اجرا شوند.",
+    "وی همچنین با اشاره به حملات به زیرساخت‌های غیرنظامی، مدارس، ورزشگاه‌ها و تأسیسات هسته‌ای تحت نظارت آژانس بین‌المللی انرژی اتمی، خواستار برررسی این اقدامات بر اساس حقوق بشردوستانه بین‌المللی شد."
+   ],
+   "title_ar": "عراقجي يعلق على الضربات الأمريكية: \"ما الذي سيبقى من النظام القانوني الدولي\"",
+   "summary_ar": "انتقد وزير الخارجية الإيراني عباس عراقجي الضربات العسكرية الأمريكية والإسرائيلية في مقال رأي، حذاراً من أن الهجمات أحادية الجانب القائمة على تقديرات فردية للتهديدات المستقبلية تقوض القانون الدولي والسيادة.",
+   "body_ar": [
+    "وفضلاً عن ذلك، أوضح عراقجي في مقاله لصحيفة \"كيودو نيوز\" اليابانية أن الأعمال العسكرية انتهكت ميثاق الأمم المتحدة الذي يحظر استخدام القوة دون إذن من مجلس الأمن أو التذرع بالدفاع عن النفس بموجب المادة 51. وأكد أن قواعد القانون الدولي يجب أن تطبق على جميع الدول بغض النظر عن قوتها.",
+    "كما أثار عراقجي مخاوف بشأن استهداف البنية التحتية المدنية والمدارس والمنشآت الرياضية والمواقع النووية الإيرانية الخاضعة لضمانات الوكالة الدولية للطاقة الذرية، مشدداً على ضرورة تقييم هذه الهجمات بموجب القانون الإنساني الدولي."
    ]
   },
   {
@@ -363,6 +660,33 @@
    "body_ar": [
     "أدان المندوب الدائم لباكستان، السفير سيد حيدر شاه، الهجمات على دول الخليج والملاحة التجارية، مشيراً بشكل خاص إلى ضربات الحوثيين ضد السعودية. وأكد أن التهديدات في مضيقي هرمز وباب المندب تعرّض البحارة والتجارة الدولية وأمن الطاقة والغذاء للخطر، داعياً جميع الأطراف إلى الحفاظ على التواصل الدبلوماسي.",
     "وخلال الجلسة، اتهمت الولايات المتحدة إيران بمهاجمة السفن التجارية وتسليح وكلاء إقليميين وتحدي قرارات مجلس الأمن، بينما حمل ممثل إيران العمليات العسكرية الأمريكية والإسرائيلية مسؤولية عدم الاستقرار. من جانبه، أفاد مجلس التعاون الخليجي بتعرض دوله لأكثر من 7000 هجوم بالصواريخ والمسيرات منذ أواخر فبراير، معرباً عن تمسكه بالحلول الدبلوماسية."
+   ]
+  },
+  {
+   "id": "12b6046536a9",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lng-carrier-explodes-after-hitting-mine-hormuz-irgc-says",
+   "date": "2026-11-14T05:04:09Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "LNG carrier explodes after hitting mine in Hormuz, IRGC says",
+   "title_en": "LNG carrier explodes after hitting mine in Hormuz, IRGC says",
+   "summary_en": "An LNG carrier exploded in the eastern Strait of Hormuz after striking a mine while taking an unauthorized route, Iranian media reported citing the IRGC.",
+   "body_en": [
+    "According to IRNA citing the Islamic Revolutionary Guard Corps, the liquefied gas carrier hit the naval mine after ignoring repeated warnings and attempting to navigate a dangerous, unauthorized route."
+   ],
+   "title_fa": "سپاه پاسداران: یک کشتی حمل گاز مایع پس از برخورد با مین در هرمز منفجر شد",
+   "summary_fa": "رسانه‌های ایران به نقل از سپاه پاسداران گزارش دادند که یک کشتی حمل گاز مایع پس از برخورد با مین در مسیر غیرمجاز در شرق تنگه هرمز منفجر شد.",
+   "body_fa": [
+    "به گزارش ایرنا به نقل از سپاه پاسداران انقلاب اسلامی، این شناور حمل گاز مایع پس از بی‌توجهی به هشدارهای مکرر و تلاش برای عبور از یک مسیر خطرناک و غیرمجاز، با مین دریایی برخورد کرد."
+   ],
+   "title_ar": "الحرس الثوري: انفجار ناقلة للغاز المسال إثر اصطدامها بلغم في هرمز",
+   "summary_ar": "أفادت وسائل إعلام إيرانية نقلاً عن الحرس الثوري بانفجار ناقلة للغاز المسال في شرق مضيق هرمز إثر اصطدامها بلغم بحري أثناء سلكها مساراً غير مصرح به.",
+   "body_ar": [
+    "وذكرت وكالة إرنا نقلاً عن الحرس الثوري الإيراني أن ناقلة الغاز المسال اصطدمت باللغم البحري بعد تجاهلها تحذيرات متكررة محاولة العبور عبر مسار خطير وغير مصرح به."
    ]
   },
   {
@@ -456,6 +780,37 @@
    ]
   },
   {
+   "id": "21622e7463d0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mossad-chief-washington-talks-iran-report-says",
+   "date": "2026-11-14T03:33:46Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Mossad chief in Washington for talks on Iran, report says",
+   "title_en": "Mossad chief in Washington for talks on Iran, report says",
+   "summary_en": "Roman Gofman, the head of Israel's Mossad, visited Washington on Friday to discuss the war in Iran with senior officials in the Trump administration, according to an Axios report.",
+   "body_en": [
+    "Citing sources with knowledge of the matter, Axios reported that Gofman was scheduled to meet CIA Director John Ratcliffe before traveling to Miami to meet White House envoy Steve Witkoff. The visit comes as Israeli Prime Minister Benjamin Netanyahu is attempting to press US President Donald Trump to resume military actions against Iran.",
+    "Trump has so far resisted pressure to restart strikes, following a defeat in the midterm elections. US Secretary of State Marco Rubio also stated on Friday that further military action was unnecessary due to the heavy economic impact of US sanctions on Tehran."
+   ],
+   "title_fa": "گزارش‌ها از سفر رئیس موساد به واشنگتن برای گفتگو درباره ایران خبر می‌دهند",
+   "summary_fa": "بر اساس گزارش آکسیوس، رومان گوفمان، رئیس آژانس جاسوسی موساد اسرائیل، روز جمعه برای گفتگو درباره جنگ در ایران با مقامات ارشد دولت ترامپ به واشنگتن سفر کرده است.",
+   "body_fa": [
+    "آکسیوس به نقل از منابع آگاه گزارش داد که گوفمان قرار بود با جان رتکلیف، مدیر سیا، دیدار کند و سپس برای ملاقات با استیو ویتکوف، فرستاده کاخ سفید، به میامی برود. این سفر در حالی انجام می‌شود که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در حال فشار بر دونالد ترامپ، رئیس‌جمهور آمریکا، برای ازسرگیری اقدامات نظامی علیه ایران است.",
+    "ترامپ در پی شکست در انتخابات میان‌دوره‌ای، در برابر فشارها برای آغاز مجدد حملات مقاومت کرده است. همچنین مارکو روبیو، وزیر امور خارجه آمریکا، روز جمعه اعلام کرد که به دلیل فشار اقتصادی سنگین ناشی از تحریم‌های آمریکا بر تهران، نیازی به اقدام نظامی بیشتر نیست."
+   ],
+   "title_ar": "رئيس الموساد في واشنطن لإجراء محادثات بشأن إيران، وفقاً لتقارير",
+   "summary_ar": "أفاد تقرير لموقع \"أكسيوس\" بأن رومان غوفمان، رئيس جهاز الموساد الإسرائيلي، زار واشنطن يوم الجمعة لإجراء محادثات مع مسؤولين كبار في إدارة ترامب بشأن الحرب في إيران.",
+   "body_ar": [
+    "ونقلاً عن مصادر مطلعة، ذكر موقع \"أكسيوس\" أن غوفمان كان من المقرر أن يلتقي بمدير وكالة الاستخبارات المركزية جون راتكليف قبل السفر إلى ميامي للقاء مبعوث البيت الأبيض ستيف ويتكوف. وتأتي هذه الزيارة في وقت يضغط فيه رئيس الوزراء الإسرائيلي بنيامین نتنياهو على الرئيس الأمريكي دونالد ترامب لاستئناف العمليات العسكرية ضد إيران.",
+    "وقد قاوم ترامب، الذي تعرض لهزيمة في الانتخابات النصفيّة، الضغوط لاستئناف الضربات. كما صرح وزیر الخارجية الأمريكي ماركو روبيو يوم الجمعة بأن القيام بعمل عسكري إضافي أمر غير ضروري بسبب الضرر الاقتصادي الكبير الذي فرضته العقوبات الأمريكية على تهران."
+   ]
+  },
+  {
    "id": "9365f2307fa1",
    "lang": "en",
    "source": "Dawn",
@@ -484,6 +839,36 @@
    "body_ar": [
     "أفاد مسؤولون عسكريون بتلقي توجيهات رفيعة المستوى لإنشاء تحصينات غرب وشمال محافظة عدن، تتضمن حفر الأنفاق وضع أكياس الرمال. وتأتي هذه الخطوات مع تصاعد القتال منذ انهيار هدنة عام 2022 خلال الصيف، وفقدان الحكومة السيطرة على ساحل البحر الأحمر قرب مضيق باب المندب في سبتمبر.",
     "وتواصل قوات الحوثيين التقدم شرقاً نحو خليج عدن بعد سيطرتها على مرتفعات استراتيجية في مديرية المضاربة والعارة وسقوط منطقة المقاطرة المجاورة بأيديهم. وقد أدت هذه التطورات إلى تعقيد جهود الحكومة لاستعادة مدينة تعز المحاصرة وفتحت الطريق أمام المزيد من التقدم."
+   ]
+  },
+  {
+   "id": "1720a40d2728",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-economic-pain-inflicted-iran-makes-military-action",
+   "date": "2026-11-14T02:05:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Rubio says economic pain inflicted on Iran makes military action unnecessary",
+   "title_en": "Rubio says economic pain inflicted on Iran makes military action unnecessary",
+   "summary_en": "US Secretary of State Marco Rubio stated that additional military strikes on Iran are unnecessary because severe economic sanctions have sufficiently weakened the Iranian government.",
+   "body_en": [
+    "Speaking at the Federalist Society National Lawyers Convention in Washington, Rubio argued that the economic damage caused by US measures has significantly weakened Tehran, making military intervention redundant. However, he emphasized that achieving ultimate victory requires ensuring Iran never develops a nuclear weapon.",
+    "Rubio also acknowledged that the ongoing war has caused economic strain for Americans by increasing fuel costs and affecting global markets."
+   ],
+   "title_fa": "روبیو: فشار اقتصادی وارد شده بر ایران، اقدام نظامی را غیرضروری می‌کند",
+   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که به دلیل ضعیف شدن حکومت ایران تحت فشار شدید تحریم‌های اقتصادی، نیازی به حملات نظامی بیشتر علیه این کشور نیست.",
+   "body_fa": [
+    "روبیو در سخنرانی خود در نشست ملی جامعه فدرالیست در واشنگتن گفت که آسیب‌های اقتصادی ناشی از اقدامات آمریکا، تهران را به شدت ضعیف کرده و مداخله نظامی را غیرضروری ساخته است. با این حال، وی تأکید کرد که پیروزی نهایی در گرو اطمینان از دستیابی نیافتن ایران به سلاح هسته‌ای است.",
+    "روبیو همچنین اذعان کرد که جنگ جاری از طریق افزایش قیمت سوخت و تأثیر بر بازارهای جهانی، فشارهای اقتصادی را برای مردم آمریکا به همراه داشته است."
+   ],
+   "title_ar": "روبيو: الضرر الاقتصادي المفروض على إيران يجعل العمل العسكري غير ضروري",
+   "summary_ar": "صرح وزير الخارجية الأمريكي ماركو روبيو بأن شن ضربات عسكرية إضافية على إيران أمر غير ضروري لأن العقوبات الاقتصادية الشديدة قد أضعفت الحكومة الإيرانية بشكل كافٍ.",
+   "body_ar": [
+    "وفضلاً عن ذلك، وفي كلمته أمام المؤتمر الوطني لجمعية الفيدراليين في واشنگتن، أوضح روبيو أن الأضرار الاقتصادية الناجمة عن الإجراءات الأمريكية قد أضعفت تهران بشكل كبير، مما يجعل التدخل العسكري غير ضروري. ومع ذلك، شدد على أن تحقيق النصر يكمن في ضمان عدم امتلاك إيران لسلاح نووي على الإطلاق.",
+    "كما اعترف روبيو بالصعوبات الاقتصادية التي واجهها الأمريكيون نتيجة للحرب، والتي أدت إلى ارتفاع تكاليف الوقود والتأثير على القطاعات الاقتصادية العالمية."
    ]
   },
   {
