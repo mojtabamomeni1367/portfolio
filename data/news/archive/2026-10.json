@@ -1,7 +1,886 @@
 {
  "month": "2026-10",
- "count": 225,
+ "count": 255,
  "items": [
+  {
+   "id": "99ad2ca3ff7b",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crkg7pkw14w0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T20:18:27Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "أنباء عن استهداف القصر الرئاسي في عدن، وجماعة أنصار الله الحوثية تنفي استهداف مكة",
+   "title_en": "Reports of target on presidential palace in Aden as Houthis deny targeting Mecca",
+   "summary_en": "According to a Yemeni police source, the Houthis targeted the presidential palace in Aden as explosions were heard in the city, while the group denied accusations by the Saudi-led coalition that it had targeted Mecca with a drone.",
+   "body_en": [
+    "The Saudi-led coalition stated that its air defenses intercepted and destroyed drones and a ballistic missile launched by the Houthis toward Riyadh, the southern region, and Mecca. In response, Houthi military spokesman Yahya Saree denied conducting any operations toward Mecca, stating that their strikes specifically target Saudi oil facilities and military bases.",
+    "This escalation follows intensified clashes, airstrikes, and missile attacks between the two sides. The Houthis have made ground advances in strategic areas, including the Bab al-Mandab Strait, alongside repeated attacks on airports and oil infrastructure inside Saudi territory."
+   ],
+   "title_fa": "گزارش‌ها از هدف قرار گرفتن کاخ ریاست‌جمهوری در عدن هم‌زمان با تکذیب هدف‌گیری مکه توسط حوثی‌ها",
+   "summary_fa": "به نقل از یک منبع پلیس یمن، حوثی‌ها هم‌زمان با شنیده شدن صدای انفجارها در عدن، کاخ ریاست‌جمهوری در این شهر را هدف قرار دادند، در حالی که این گروه اتهامات ائتلاف به رهبری عربستان مبنی بر حمله پهپادی به مکه را تکذیب کرد.",
+   "body_fa": [
+    "ائتلاف تحت رهبری عربستان اعلام کرد پدافند هوایی آن پهپادها و یک موشک بالستیک شلیک‌شده توسط حوثی‌ها به سمت ریاض، مناطق جنوبی و مکه را رهگیری و منهدم کرده است. در مقابل، یحیی سریع، سخنگوی نظامی حوثی‌ها، انجام هرگونه عملیات به سمت مکه را تکذیب کرد و گفت حملات آن‌ها تأسیسات نفتی و پایگاه‌های نظامی عربستان را هدف قرار می‌دهد.",
+    "این تشدید درگیری‌ها در پی افزایش نبردها، حملات هوایی و موشکی میان دو طرف رخ می‌دهد. حوثی‌ها پیشروی‌هایی در مناطق استراتژیک از جمله تنگه باب‌المندب داشته‌اند و حملات متعددی نیز به فرودگاه‌ها و تأسیسات نفتی در داخل خاک عربستان انجام داده‌اند."
+   ],
+   "title_ar": "أنباء عن استهداف القصر الرئاسي في عدن، وجماعة أنصار الله الحوثية تنفي استهداف مكة",
+   "summary_ar": "نقلت وكالة فرانس برس عن مصدر في الشرطة اليمنية استهداف الحوثيين للقصر الرئاسي في عدن بالتزامن مع سماع انفجارات في المدينة، بينما نفت الجماعة اتهامات التحالف بقيادة السعودية باستهداف مكة المكرمة بمسيّرة.",
+   "body_ar": [
+    "أعلن التحالف الدفاع الجوي عن اعتراض وتدمير طائرات مسيّرة وصاروخ بالستي أطلقها الحوثيون باتجاه الرياض والمنطقة الجنوبية ومكة المكرمة. في المقابل، أكد المتحدث العسكري باسم الحوثيين، يحيى سريع، أن الجماعة لم تنفذ أي عمليات باتجاه مكة، مشيراً إلى أن هجماتهم تركز على المنشآت النفطية والقواعد العسكرية السعودية.",
+    "ويأتي هذا التصعيد الميداني في ظل تصاعد المعارك والضربات الجوية والصاروخية بين الطرفين، حيث حقق الحوثيون تقدمًا على الأرض وسيطروا على مناطق استراتيجية كمنطقة مضيق باب المندب، وسط هجمات متكررة طالت مطارات ومرافق نفطية داخل الأراضي السعودية."
+   ]
+  },
+  {
+   "id": "584ff4ee191b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-exploded-using-unauthorised-hormuz-routes",
+   "date": "2026-10-30T19:15:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran says four tankers exploded using ‘unauthorised’ Hormuz routes",
+   "title_en": "Iran says four tankers exploded using ‘unauthorised’ Hormuz routes",
+   "summary_en": "Iran's IRGC reported that four oil tankers caught fire and exploded after using unauthorised routes in the Strait of Hormuz, with one vessel reportedly hitting a mine. Tehran also claimed to have seized a US aerial drone and destroyed an American unmanned surface vessel, an assertion denied by US Central Command.",
+   "body_en": [
+    "According to Iranian state media citing the IRGC Navy, one of the targeted tankers was carrying two million barrels of crude oil when it struck a mine. Iranian forces also said they shot down and recovered an American MQM-170 drone over Qeshm Island, in addition to destroying a US unmanned vessel in the eastern section of the strait.",
+    "US Central Command rejected Iran's claims regarding the maritime drone, stating on X that the claim was false. The command confirmed that all US military unmanned surface vessels operating in the Middle East, including a squadron patrolling the Strait of Hormuz, are fully accounted for."
+   ],
+   "title_fa": "ایران می‌گوید چهار نفتکش به دلیل تردد از مسیرهای «غیرمجاز» در هرمز منفجر شدند",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی اعلام کرد چهار نفتکش پس از عبور از مسیرهای غیرمجاز در تنگه هرمز آتش گرفته و منفجر شدند و گزارش داد یکی از این شناورها با مین برخورد کرده است. تهران همچنین مدعی سرنگونی و توقیف یک پهپاد و نابودی یک شناور بدون سرنشین آمریکایی شد، ادعایی که ستاد فرماندهی مرکزی آمریکا آن را تکذیب کرد.",
+   "body_fa": [
+    "به گزارش رسانه‌های دولتی ایران به نقل از نیروی دریایی سپاه پاسداران، یکی از نفتکش‌های آسیب‌دیده حامل دو میلیون بشکه نفت خام بود که با مین برخورد کرد. نیروهای ایرانی همچنین اعلام کردند که یک پهپاد ام‌کیوام-۱۷۰ آمریکایی را بر فراز جزیره قشم سرنگون کرده و به غنیمت گرفته‌اند و یک شناور بدون سرنشین آمریکایی را نیز در بخش شرقی تنگه منهدم کرده‌اند.",
+    "ستاد فرماندهی مرکزی ایالات متحده (سنتکام) ادعاهای ایران در مورد انهدام شناور بدون سرنشین را رد کرد و در بیانیه‌ای در شبکه اکس این ادعا را کذب خواند. سنتکام تأکید کرد که وضعیت تمام شناورهای سطحی بدون سرنشین ارتش آمریکا در خاورمیانه، از جمله اسکادرانی که برای گشت‌زنی در تنگه هرمز مستقر است، کاملاً مشخص است."
+   ],
+   "title_ar": "إيران تقول إن أربع ناقلات انفجرت لاستخدامها مسارات «غير مصرح بها» في هرمز",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أن أربع ناقلات نفط اشتعلت وانفجرت أثناء استخدامها مسارات غير مصرح بها في مضيق هرمز، مشيراً إلى أن إحداها اصطدمت بلغم. كما أعلنت طهران إسقاط طائرة مسيرة أمريكية واحتجازها وتدمير زورق حربي مسير، وهو ما نفته القيادة المركزية الأمريكية.",
+   "body_ar": [
+    "وفقاً لوسائل إعلام رسمية إيرانية نقلاً عن بحرية الحرس الثوري، فإن إحدى الناقلات المستهدفة كانت تحمل مليوني برميل من النفط الخام عندما اصطدمت بلغم بحري. وذكرت القوات الإيرانية أيضاً أنها أسقطت طائرة مسيرة أمريكية من طراز «إم كيو إم-170» واستولت عليها فوق جزيرة قشم، بالإضافة إلى تدمير زورق أمريكي مسير شرقي المضيق.",
+    "من جانبها، نفت القيادة المركزية الأمريكية مزاعم إيران بشأن استهداف الزورق المسير، مؤكدة في بيان عبر منصة «إكس» أن تلك الادعاءات غير صحيحة. وأوضحت القيادة أن جميع الزوارق العسكرية الأمريكية المسيرة العاملة في الشرق الأوسط، بما فيها سرب يقوم بدوريات دفاعية في مضيق هرمز، موجودة بالكامل ولم يُفقد أي منها."
+   ]
+  },
+  {
+   "id": "7d8ef33f0c6e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-10-30T18:33:29Z",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "score": 8,
+   "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+   "title_en": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+   "summary_en": "Omani maritime authorities evacuated 25 crew members from a burning crude oil tanker in the Strait of Hormuz amid escalating maritime incidents in the waterway.",
+   "body_en": [
+    "The Omani Maritime Security Centre reported that it rescued the crew of the Panamanian-flagged merchant ship RITI. The evacuation coincided with statements from Iran's Islamic Revolutionary Guard Corps claiming three tankers were stopped after attempting to navigate unauthorized routes in the Strait of Hormuz, with one supertanker catching fire following an explosion.",
+    "Iran has warned vessels against passing through the strait without its authorization, while US Central Command chief Brad Cooper stated that primary international transit routes in the waterway had been cleared of Iranian sea mines."
+   ],
+   "title_fa": "عمان ۲۵ نفر را از یک نفتکش شعله‌ور در تنگه هرمز نجات داد",
+   "summary_fa": "مقامات دریایی عمان ۲۵ خدمه یک نفتکش شعله‌ور را در تنگه هرمز هم‌زمان با افزایش حوادث دریایی در این آبراه تخلیه کردند.",
+   "body_fa": [
+    "مرکز امنیت دریایی عمان اعلام کرد که خدمه کشتی تجاری «RITI» با پرچم پاناما را نجات داده است. این تخلیه هم‌زمان با بیانیه‌های سپاه پاسداران انقلاب اسلامی مبنی بر متوقف کردن سه نفتکش به دلیل عبور از مسیرهای غیرمجاز در تنگه هرمز صورت گرفت که طی آن یک سوپرنفتکش بر اثر انفجار دچار آتش‌سوزی شد.",
+    "ایران پیش از این به شناورها درباره عبور بدون مجوز از این تنگه هشدار داده بود، در حالی که برد کوپر، فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام)، اعلام کرد که مسیرهای اصلی ترانزیت بین‌المللی در این آبراه از مین‌های دریایی ایران پاکسازی شده‌اند."
+   ],
+   "title_ar": "عُمان تنقذ 25 شخصاً من ناقلة نفط محترقة في مضيق هرمز",
+   "summary_ar": "أخلت السلطات البحرية العُمانية 25 فرداً من طاقم ناقلة نفط خام محترقة في مضيق هرمز، وسط تصاعد الحوادث البحرية في الممر المائي.",
+   "body_ar": [
+    "أفاد مرکز الأمن البحري العُماني بإخلاء طاقم السفينة التجارية \"RITI\" التي تحمل علم بنما. وجاءت عملية الإخلاء بالتزامن مع تصريحات للحرس الثوري الإيراني قال فيها إنه أوقف ثلاث ناقلات نفط حاولت العبور عبر مسارات غير مصرح بها في مضيق هرمز، مشيراً إلى أن إحدى الناقلات الكبرى تعرضت لانفجار واشتعلت فيها النيران.",
+    "وكانت إيران قد حذرت مراراً السفن من المرور عبر المضيق دون موافقتها، في حين ذكر قائد القيادة المركزية الأمريكية براد كوبر أنه تم تطهير ممرات الترانزيت الدولية الرئيسية في الممر المائي من الألغام البحرية الإيرانية."
+   ]
+  },
+  {
+   "id": "bbe396ac5b83",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
+   "date": "2026-10-30T18:21:49Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "DG ISPR says Pakistan 'cautiously optimistic' on US-Iran mediation",
+   "title_en": "DG ISPR says Pakistan 'cautiously optimistic' on US-Iran mediation",
+   "summary_en": "Pakistan's military spokesman stated that the country is \"cautiously optimistic\" regarding its mediation efforts between Iran and the United States following high-level visits to Tehran.",
+   "body_en": [
+    "Lieutenant General Ahmed Sharif Chaudhry, Director General of Inter-Services Public Relations, pointed to Chief of Army Staff Field Marshal Asim Munir's two trips to Tehran this month as a positive sign. Munir's most recent visit on Monday included Saudi Defence Minister Prince Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin, marking the first high-level contact between Iran and members of the Makkah Defence Alliance.",
+    "Lt Gen Chaudhry noted that powerful detractors who benefit from conflict still exist. He also mentioned that the Makkah pact does not explicitly bar new members if regional countries share a vision of collective deterrence, though any decision on Iran joining would rest with the political leadership of the founding states."
+   ],
+   "title_fa": "مدیرکل روابط عمومی بین‌المللی ارتش پاکستان: اسلام‌آباد به میانجی‌گری میان آمریکا و ایران «خوش‌بینِ محتاط» است",
+   "summary_fa": "سخنگوی ارتش پاکستان اعلام کرد که این کشور پس از دیدارهای سطح بالا در تهران، نسبت به تلاش‌های میانجی‌گرانه خود میان ایران و ایالات متحده «محتاطانه خوش‌بین» است.",
+   "body_fa": [
+    "سپهبد احمد شریف Chaudhry، مدیرکل روابط عمومی بین‌المللی ارتش پاکستان، به دو سفر فیلد مارشال عاصم منیر، فرمانده ارتش پاکستان، به تهران در ماه جاری به عنوان نشانه‌ای مثبت اشاره کرد. آخرین سفر منیر در روز دوشنبه به همراه شاهزاده خالد بن سلمان، وزیر دفاع عربستان، و ابراهیم قالین، رئیس سازمان اطلاعات ترکیه انجام شد که نخستین تماس سطح بالا میان ایران و اعضای پیمان دفاعی مکه محسوب می‌شود.",
+    "سپهبد Chaudhry خاطرنشان کرد که همچنان کارشکنان قدرتمندی وجود دارند که منافع خود را در درگیری می‌بینند. وی همچنین افزود که پیمان مکه مانع صریحی برای عضویت اعضای جدید ندارد، مشروط بر اینکه دیدگاه مشترکی در مورد بازدارندگی جمعی داشته باشند، هرچند تصمیم‌گیری درباره پیوستن ایران بر عهده رهبری سیاسی کشورهای بنیان‌گذار خواهد بود."
+   ],
+   "title_ar": "مدير العلاقات العامة للجيش الباكستاني: إسلام آباد \"متفائلة بحذر\" بشأن الوساطة بين أمريكا وإيران",
+   "summary_ar": "صرح المتحدث باسم الجيش الباكستاني بأن بلاده \"متفائلة بحذر\" بشأن جهود الوساطة التي تبذلها بين إيران والولايات المتحدة عقب زيارات رفيعة المستوى إلى تهران.",
+   "body_ar": [
+    "وأشار الفريق أحمد شریف تشودري، مدير العلاقات العامة للجيش الباكستاني، إلى زيارتي قائد الجيش المشير عاصم منیر إلى طهران هذا الشهر كعلامة إيجابية. وشملت زيارة منير الأخيرة يوم الاثنين مشاركة وزير الدفاع السعودي الأمير خالد بن سلمان ورئيس الاستخبارات التركية إبراهيم قالين، وهو ما يمثل أول تواصل رفيع المستوى بين إيران وأعضاء تحالف مكة الدفاعي.",
+    "ولفت الفريق تشودري إلى وجود أطراف معرقلة قوية تستفيد من الصراع. وأضاف أن ميثاق مكة لا يمنع صراحة انضمام أعضاء جدد إذا كانت هناك رؤية مشتركة للردع الجماعي، مشيراً إلى أن أي قرار بشأن انضمام إيران يعود إلى القيادة السياسية للدول المؤسسة."
+   ]
+  },
+  {
+   "id": "15f6b3a5100e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq98zre0j9d1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T17:39:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "امام جمعه موقت تهران: تغییر دکترین هسته‌ای «مطالبه ملی» است",
+   "title_en": "Tehran's temporary Friday prayer leader: Changing nuclear doctrine is a 'national demand'",
+   "summary_en": "Mohammad-Javad Haj-Ali-Akbari, Tehran's temporary Friday prayer leader, called for a revision of Iran's nuclear doctrine, describing it as a \"national demand.\"",
+   "body_en": [
+    "In his Friday prayer sermon, Haj-Ali-Akbari stated that revising security calculations is not a hasty reaction but stems from the Iranian nation's historical experience with American breach of commitments. Citing unspecified polls, he claimed that over 70 percent of the public supports changing the nuclear doctrine and urged experts to submit proposals to Mojtaba Khamenei for a final decision.",
+    "The remarks come after the death of Ali Khamenei, who had previously issued a religious decree forbidding the production and use of nuclear weapons, during Israeli and American strikes. His successor, Mojtaba Khamenei, has not yet publicly declared a clear stance on the matter."
+   ],
+   "title_fa": "امام جمعه موقت تهران: تغییر دکترین هسته‌ای «مطالبه ملی» است",
+   "summary_fa": "محمدجواد حاج‌علی‌اکبری، امام جمعه موقت تهران، خواستار تجدیدنظر در دکترین هسته‌ای ایران شد و آن را یک «مطالبه ملی» خواند.",
+   "body_fa": [
+    "آقای حاج‌علی‌اکبری در خطبه‌های نماز جمعه با اشاره به آنچه بدعهدی‌های آمریکا و عبور طرف مقابل از خطوط قرمز خواند، اعلام کرد تجدیدنظر در محاسبات امنیتی واکنشی شتاب‌زده نیست بلکه برآمده از تجربه تاریخی ملت ایران است. او ادعا کرد بر اساس برخی نظرسنجی‌ها بیش از ۷۰ درصد مردم از تغییر دکترین هسته‌ای حمایت می‌کنند و از کارشناسان خواست پیشنهادهای خود را برای تصمیم‌گیری نهایی به مجتبی خامنه‌ای ارائه دهند.",
+    "این اظهارات در حالی مطرح می‌شود که پیش از این، علی خامنه‌ای با صدور فتوایی ساخت و استفاده از سلاح اتمی را حرام اعلام کرده بود، اما پس از کشته‌شدن او در حملات اسرائیل و آمریکا، مجتبی خامنه‌ای به جانشینی او انتخاب شده و هنوز موضع صریحی در این خصوص نگرفته است."
+   ],
+   "title_ar": "إمام جمعة طهران المؤقت: تغيير العقيدة النووية \"مطالبة وطنية\"",
+   "summary_ar": "دعا محمد جواد حاج علي أكبري، إمام جمعة طهران المؤقت، إلى مراجعة العقيدة النووية الإيرانية، واصفاً ذلك بأنه \"مطالبة وطنية\".",
+   "body_ar": [
+    "وقال حاج علي أكبري في خطبة الجمعة إن مراجعة الحسابات الأمنية ليست رد فعل متسرعاً، بل تنبع من التجربة التاريخية للشعب الإيراني مع نكث الولايات المتحدة لعهودها. وادعى، نقلاً عن استطلاعات رأي لم يحدد مصدرها، أن أكثر من 70 بالمئة من المواطنين يؤيدون تغيير العقيدة النووية، داعياً الخبراء إلى تقديم مقترحاتهم إلى مجتبى خامنئي لاتخاذ القرار النهائي.",
+    "تأتي هذه التصريحات بعد مقتل علي خامنئي، الذي كان قد أصدر فتوى تحرم إنتاج واستخدام الأسلحة النووية، خلال ضربات إسرائيلية وأمريكية. ولم يعلن خليفته، مجتبى خامنئي، بعد موقفاً صريحاً علنياً بشأن هذه المسألة."
+   ]
+  },
+  {
+   "id": "c44adc298b42",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-court-charges-13-over-hezbollah-explosives-shipment",
+   "date": "2026-10-30T16:55:22Z",
+   "countries": [
+    "LBN"
+   ],
+   "score": 7,
+   "title": "Lebanese court charges 13 over Hezbollah explosives shipment",
+   "title_en": "Lebanese court charges 13 over Hezbollah explosives shipment",
+   "summary_en": "A Lebanese military court has charged 13 people over their suspected involvement in transporting explosives for Hezbollah. The move follows the seizure of a half-tonne cargo earlier this month amid state efforts to disarm the group's military wing.",
+   "body_en": [
+    "According to a judicial source cited by AFP, the proceedings target 12 Hezbollah members and the spouse of one member, though only two individuals have been detained so far. The case has been referred to a military judge who holds the power to issue arrest warrants. Two suspected members had been apprehended on 8 October inside a vehicle travelling from eastern Lebanon toward Beirut.",
+    "Hezbollah acknowledged that the vehicle and its seized cargo belonged to its resistance apparatus against Israel and urged authorities to return them. A lawmaker from the group, Hussein Hajj Hassan, rejected the charges as unjust, arguing that the defendants were confronting Israeli threats rather than undermining state security. Lebanon and Israel had previously signed a framework agreement in June that included disarming Hezbollah alongside an Israeli withdrawal from southern areas."
+   ],
+   "title_fa": "دادگاه لبنانی ۱۳ نفر را در ارتباط با محموله مواد منفجره حزب‌الله متهم کرد",
+   "summary_fa": "یک دادگاه نظامی در لبنان ۱۳ نفر را به اتهام دست داشتن در انتقال مواد منفجره برای حزب‌الله متهم کرده است. این اقدام پس از توقیف یک محموله نیم‌تنی در اوایل ماه جاری و هم‌زمان با تلاش مقام‌های بیروت برای خلع سلاح شاخه نظامی این گروه صورت می‌گیرد.",
+   "body_fa": [
+    "به گزارش خبرگزاری فرانسه به نقل از یک منبع قضایی، این پرونده علیه ۱۲ عضو حزب‌الله و همسر یکی از آن‌ها تشکیل شده است، هرچند تاکنون تنها دو نفر بازداشت شده‌اند. این پرونده به یک قاضی نظامی با اختیارات صدور حکم بازداشت ارجاع داده شده است. دو مظنون عضویت در حزب‌الله در ۸ اکتبر درون خودرویی که از شرق لبنان به سوی بیروت در حرکت بود، دستگیر شدند.",
+    "حزب‌الله تأیید کرده بود که این خودرو و محموله توقیف‌شده متعلق به تشکیلات مقاومت علیه اسرائیل است و خواستار بازگرداندن آن شد. حسین حاج حسن، نماینده پارلمان از حزب‌الله، با غیرمنصفانه خواندن این اتهامات گفت افراد متهم در حال مقابله با تهدیدات اسرائیل بودند و امنیت کشور را هدف نگرفته‌اند. لبنان و اسرائیل در ماه ژوئن توافق‌نامه‌ای را امضا کرده بودند که شامل خلع سلاح حزب‌الله و عقب‌نشینی تدریجی اسرائیل از جنوب لبنان بود."
+   ],
+   "title_ar": "محكمة لبنانية توجه اتهامات لـ 13 شخصاً بشأن شحنة متفجرات لحزب الله",
+   "summary_ar": "وجهت محكمة عسكرية لبنانية اتهامات إلى 13 شخصاً للاشتباه في تورطهم بنقل متفجرات لصالح حزب الله. وتأتي هذه الخطوة عقب مصادرة شحنة تزن نصف طن في وقت سابق من هذا الشهر، وسط مساعٍ رسمية في بيروت لنزع سلاح الجناح العسكري للحزب.",
+   "body_ar": [
+    "وفقاً لمصدر قضائي نقلت عنه وكالة فرانس برس، فإن الإجراءات تستهدف 12 عضواً في حزب الله وزوجة أحدهم، بينما لم يُحتجز سوى شخصين حتى الآن. وقد أُحيلت القضية إلى قاضٍ عسكري مخول بإصدار مذكرات التوقيف. وكان اثنان من المشتبه بانتمائهم للحزب قد اعتُقلا في 8 أكتوبر داخل مركبة كانت متجهة من شرق لبنان نحو بيروت.",
+    "وكان حزب الله قد أقر بأن المركبة وشحنتها المصادرة تابعتان للمقاومة ضد إسرائيل، مطالباً باستعادتهما. من جانبه، رفض النائب عن حزب الله حسين الحاج حسن هذه الاتهامات ووصفها بأنها جائرة، معتبراً أن المتهمين كانوا يواجهون التهديدات الإسرائيلية ولم يمسوا أمن الدولة. يُذكر أن لبنان وإسرائيل كانا قد وقعا في يونيو اتفاقاً إطارياً يتضمن نزع سلاح حزب الله وانسحاباً إسرائيلياً تدريجياً من الجنوب."
+   ]
+  },
+  {
+   "id": "47b1a47c3172",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+   "date": "2026-10-30T15:26:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+   "title_en": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+   "summary_en": "A wave of missile and drone attacks by the Houthis on Aden has shattered years of relative calm, prompting residents to stockpile supplies and prepare evacuation plans.",
+   "body_en": [
+    "Recent Houthi strikes have targeted key locations in Aden, including its international airport, military camps, port, and the presidential palace. The attacks have disrupted daily life, interrupted air travel, and caused severe anxiety among residents, particularly children living near targeted areas.",
+    "The escalation follows a major Houthi offensive launched in September that captured strategic areas in western Yemen. Residents and experts have expressed concern over the city's vulnerability, urging the Yemeni government to strengthen air defenses to protect the temporary capital."
+   ],
+   "title_fa": "«نیازمند طرح جایگزین»: با سقوط موشک‌ها، یمنی‌ها در عدن برای جنگی دیگر آماده می‌شوند",
+   "summary_fa": "موجی از حملات موشکی و پهپادی حوثی‌ها به عدن، آرامش نسبی چند ساله این شهر را برهم زده و ساکنان را مجبور به ذخیره‌سازی آذوقه و آماده‌سازی طرح‌های تخلیه کرده است.",
+   "body_fa": [
+    "حملات اخیر حوثی‌ها نقاط کلیدی عدن از جمله فرودگاه بین‌المللی، پادگان‌های نظامی، بندر و کاخ ریاست‌جمهوری را هدف قرار داده است. این حملات زندگی روزمره را مختل کرده، پروازها را برهم زده و موجب نگرانی شدید ساکنان، به‌ویژه کودکان ساکن در نزدیکی مناطق هدف شده است.",
+    "این تصاعد بحران پس از پیشروی بزرگ حوثی‌ها در ماه سپتامبر رخ می‌دهد که طی آن مناطقی استراتژیک در غرب یمن به تصرف آن‌ها درآمد. ساکنان و کارشناسان با ابراز نگرانی از آسیب‌پذیری شهر، از دولت یمن خواسته‌اند پدافند هوایی را برای محافظت از این پایتخت موقت تقویت کند."
+   ],
+   "title_ar": "«بحاجة إلى خطة ب»: اليمنيون في عدن يستعدون لحرب أخرى مع تساقط الصواريخ",
+   "summary_ar": "أدت موجة من الهجمات بالصواريخ والطائرات المسيرة شنها الحوثيون على عدن إلى إرتجاج الهدوء النسبي الذي استمر لسنوات، مما دفع السكان إلى تخزين المؤن وإعداد خطط للإخلاء.",
+   "body_ar": [
+    "استهدفت الضربات الأخيرة للحوثيين مواقع رئيسية في عدن، بما في ذلك مطارها الدولي ومعسكرات وپادگان‌های عسكرية وميناءها والقصر الرئاسي. وأدت الهجمات إلى تعطيل الحياة اليومية وحركة الطيران، وإثارة قلق بالغ بين السكان، ولا سيما الأطفال المقيمين بالقرب من المناطق المستهدفة.",
+    "ويأتي هذا التصعيد أعقاب هجوم واسع شنّه الحوثيون في سبتمبر واستولوا خلاله على مناطق إستراتيجية في غرب اليمن. وعبر سكان وخبراء عن قلقهم من ضعف حماية المدينة، مطالبين الحكومة اليمنية بتعزيز الدفاعات الجوية لحماية العاصمة المؤقتة."
+   ]
+  },
+  {
+   "id": "6e4fb3b4a22f",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T15:17:11Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 7,
+   "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+   "title_en": "Democratic senator blames Egypt press crackdown on US military aid decision",
+   "summary_en": "US Senator Chris Murphy stated that a recent crackdown on independent journalism in Egypt was triggered by the Trump administration's decision to waive human rights conditions on over $300m in military aid. Murphy accused the US government of abandoning the Egyptian people, linking the release of funds directly to a wave of arrests and news outlet closures in Cairo.",
+   "body_en": [
+    "Speaking at the Middle East Institute, Murphy argued that independent speech in Egypt eroded rapidly once the funding was released. The senator's remarks follow a Cairo court order closing the news website Mada Masr, the fining of its editor-in-chief Lina Attalah, and the arrest of six journalists from the fact-checking platform Matsda2sh on Muslim Brotherhood-related charges.",
+    "The State Department defended the waiver granted by Secretary of State Marco Rubio in September, citing Egypt's role in US national security interests and regional security cooperation following Operation Epic Fury and US-Iran negotiations. Human rights advocates and researchers supported Murphy's stance, noting that signals from Washington and Europe prioritizing strategic ties over rights have fostered a sense of impunity among Egyptian authorities."
+   ],
+   "title_fa": "سناتور دموکرات سرکوب مطبوعات در مصر را به تصمیم مربوط به کمک‌های نظامی آمریکا مرتبط دانست",
+   "summary_fa": "کریس مورفی، سناتور آمریکایی، لغو شرایط حقوق بشری برای اعطای بیش از ۳۰۰ میلیون دلار کمک نظامی به مصر توسط دولت ترامپ را عامل موج اخیر سرکوب روزنامه‌نگاری مستقل در این کشور دانست. مورفی دولت آمریکا را به رها کردن مردم مصر متهم کرد و آزادسازی این بودجه را مستقیماً با بازداشت‌ها و تعطیلی رسانه‌ها در قاهره مرتبط ساخت.",
+   "body_fa": [
+    "مورفی در سخنرانی خود در موسسه خاورمیانه تاکید کرد که پس از آزاد شدن این بودجه، باقی‌مانده آزادی بیان سیاسی در مصر از بین رفت. این اظهارات پس از حکم دادگاه قاهره مبنی بر تعطیلی وب‌سایت خبری مدی مصر، جریمه مدیرمسئول آن لینا عطالله، و بازداشت شش روزنامه‌نگار رسانه درستی‌سنجی «صدق» به اتهام ارتباط با اخوان‌المسلمین مطرح می‌شود.",
+    "وزارت امور خارجه آمریکا از تصمیم مارکو روبیو، وزیر امور خارجه، برای لغو این شرایط دفاع کرد و نقش مصر در منافع امنیت ملی آمریکا و همکاری‌های منطقه‌ای پس از عملیات «خشم حماسی» و مذاکرات ایران و آمریکا را علت آن دانست. در مقابل، فعالان و پژوهشگران حقوق بشر با تایید دیدگاه مورفی اعلام کردند پیام‌های واشنگتن و اروپا مبنی بر ترجیح روابط استراتژیک بر حقوق بشر، حس مصونیت از مجازات را در میان مقامات مصری تقویت کرده است."
+   ],
+   "title_ar": "سناتور ديمقراطي يربط القمع الصحفي في مصر بقرار المساعدات العسكرية الأمريكية",
+   "summary_ar": "صرح السناتور الأمريكي كريس ميرفي بأن الحملة الأخيرة ضد الصحافة المستقلة في مصر جاءت نتيجة لقرار إدارة ترامب بالتنازل عن شروط حقوق الإنسان المتعلقة بمساعدات عسكرية تتجاوز 300 مليون دولار. واتهم ميرفي الحكومة الأمريكية بالتخلي عن الشعب المصري، رابطًا الإفراج عن الأموال مباشرة بموجة الاعتقالات وإغلاق وسائل الإعلام في القاهرة.",
+   "body_ar": [
+    "وأكد ميرفي في كلمة ألقاها في معهد الشرق الأوسط أن ما تبقى من حرية التعبير السياسي في مصر قد تلاشى فور الإفراج عن الأموال. وتأتي تصريحات السناتور عقب صدور حكم قضائي في القاهرة بإغلاق موقع \"مدى مصر\" وإدانة رئيسة تحريره لينا عطالله، بالإضافة إلى اعتقال ستة صحفيين في منصة \"متصدقش\" لتدقيق الحقائق بتهم تتعلق بجماعة الإخوان المسلمين.",
+    "من جانبها، دفعت وزارة الخارجية الأمريكية عن قرار وزير الخارجية ماركو روبيو بالتنازل عن الشروط في سبتمبر، مشيرة إلى أهمية مصر لمصالح الأمن القومي الأمريكي والتعاون الأمني الإقليمي عقب عملية \"الغضب العارم\" والمفاوضات الأمريكية الإيرانية. في المقابل، أيد مراقبون وحقوقيون موقف ميرفي، موضحين أن الرسائل الغربية التي تقدم العلاقات الاستراتيجية على حقوق الإنسان عززت شعور السلطات المصرية بالإفلات من العقاب."
+   ]
+  },
+  {
+   "id": "acc46978d3e5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+   "date": "2026-10-30T15:06:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+   "title_en": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+   "summary_en": "Israeli forces demolished the homes of two Palestinians accused of a shooting that killed two Israeli soldiers and injured three others in the occupied West Bank. The military has also imposed a siege on Hebron, forcibly displacing more than 4,000 residents.",
+   "body_en": [],
+   "title_fa": "نیروهای اسرائیلی منازل فلسطینیان متهم به کشته شدن سربازان را تخریب کردند",
+   "summary_fa": "نیروهای اسرائیلی منازل دو فلسطینی متهم به تیراندازی و کشته شدن دو سرباز و زخمی شدن سه تن دیگر در کرانه باختری اشغالی را تخریب کردند. محاصره نظامی الخلیل پس از این تیراندازی موجب آوارگی اجباری بیش از ۴۰۰۰ ساکن شده است.",
+   "body_fa": [],
+   "title_ar": "قوات إسرائيلية تفجر منازل فلسطينيين متهمين بقتل جنود",
+   "summary_ar": "فجرت القوات الإسرائيلية منزلي فلسطينيين مُتهمين بتنفيذ عملية إطلاق نار أسفرت عن مقتل جنديين إسرائيليين وإصابة ثلاثة آخرين في الضفة الغربية المحتلة. كما أدى الحصار العسكري المفرض على الخليل منذ حادثة إطلاق النار إلى تهجير أكثر من 4000 من سكانها قسرًا.",
+   "body_ar": []
+  },
+  {
+   "id": "1ce78d6012f8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+   "date": "2026-10-30T14:18:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+   "title_en": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+   "summary_en": "The UN Human Rights Office warned that Israeli forces are continually displacing Palestinians into shrinking areas of Gaza, raising serious concerns of ethnic cleansing.",
+   "body_en": [
+    "According to the OHCHR, Israeli troops are advancing beyond their deployment line, known as the \"Yellow Line,\" treating it as a kill zone and destroying remaining civilian infrastructure. Recent military expansions have triggered new displacements in Shujayea and eastern parts of central Gaza.",
+    "Despite an ongoing ceasefire established in October 2025, Israeli attacks have continued, resulting in over 1,500 deaths since the agreement. The agency highlighted that displaced Palestinians face little prospect of returning to their inaccessible homes."
+   ],
+   "title_fa": "افزایش نگرانی‌ها از پاکسازی قومی همزمان با محدودتر شدن فضا در غزه توسط اسرائیل: سازمان ملل",
+   "summary_fa": "دفتر حقوق بشر سازمان ملل هشدار داد که نیروهای اسرائیلی به‌طور مداوم در حال آواره‌کردن فلسطینیان به بخش‌های کوچک‌تری از غزه هستند، امر که نگرانی‌های جدی درباره پاکسازی قومی ایجاد کرده است.",
+   "body_fa": [
+    "به گفته دفتر عالی حقوق بشر سازمان ملل، نظامیان اسرائیلی در حال پیشروی به فراتر از خط استقرار خود موسوم به «خط زرد» هستند، با آن مانند منطقه کشتار رفتار می‌کنند و زیرساخت‌های غیرنظامی باقی‌مانده را از بین می‌برند. پیشروی‌های اخیر نظامی باعث آوارگی‌های جدیدی در شجاعیه و مناطق شرقی مرکز غزه شده است.",
+    "با وجود آتش‌بس جاری که در اکتبر ۲۰۲۵ برقرار شد، حملات اسرائیل ادامه یافته و به کشته‌شدن بیش از ۱۵۰۰ نفر از زمان توافق انجامیده است. این نهاد تأکید کرد که آوارگان فلسطینی امید چندانی برای بازگشت به خانه‌های غیرقابل دسترس خود ندارند."
+   ],
+   "title_ar": "تزايد المخاوف من التطهير العرقي مع تضييق إسرائيل المساحة في غزة: الأمم المتحدة",
+   "summary_ar": "حذر مكتب الأمم المتحدة لحقوق الإنسان من أن القوات الإسرائيلية تواصل تهجير الفلسطينيين إلى مساحات متقلصة في غزة، مما يثير مخاوف جدیة من حدوث تطهير عرقي.",
+   "body_ar": [
+    "وفقاً لمكتب المفوض السامي لحقوق الإنسان، تتغول القوات الإسرائيلية إلى ما بعد خط انتشارها المعروف بـ \"الخط الأصفر\"، وتتعامل معه كمنطقة قتل مع تدمير البنية التحتية المدنية المتبقية. وقد أدى التوسع العسكري اخیر إلى موجات نزوح جديدة في الشجاعية والمناطق الشرقية من وسط غزة.",
+    "وعلى الرغم من وقف إطلاق النار المستمر الذي تم التوصل إليه في أكتوبر 2025، استمرت الهجمات الإسرائيلية، مما أسفر عن مقتل أكثر من 1500 شخص منذ بدء الاتفاق. وأبرزت المنظمة الأممية أن النازحين الفلسطينيين يواجهون فرصاً ضئيلة للعودة إلى منازلهم التي تعذر الوصول إليها."
+   ]
+  },
+  {
+   "id": "f607aeccd829",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-chief-says-hormuz-routes-remain-clear-iran-reports-interceptions",
+   "date": "2026-10-30T13:00:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Centcom chief says Hormuz routes remain clear as Iran reports interceptions",
+   "title_en": "Centcom chief says Hormuz routes remain clear as Iran reports interceptions",
+   "summary_en": "US Centcom commander Admiral Brad Cooper stated that international shipping routes through the Strait of Hormuz are clear of Iranian sea mines, while Iran claimed to have stopped two tankers in the waterway.",
+   "body_en": [
+    "In a video update, Cooper said he flew over the strait and observed commercial vessels transiting freely without any presence of IRGC naval forces. He claimed the Iranian navy had been heavily damaged.",
+    "In contrast, the IRGC reported stopping two tankers in the southern Strait of Hormuz for using unauthorized routes with alleged US military support, asserting that Iran maintains control over the strategic waterway."
+   ],
+   "title_fa": "فرمانده سنتکام می‌گوید مسیرهای هرمز باز است؛ همزمان ایران از توقیف شناورها خبر می‌دهد",
+   "summary_fa": "دریاسالار برد کوپر، فرمانده سنتکام آمریکا اعلام کرد که مسیرهای بین‌المللی کشتیرانی در تنگه هرمز از مین‌های دریایی ایران پاک است، در حالی که ایران از توقیف دو نفتکش در این آبراه خبر داده است.",
+   "body_fa": [
+    "کوپر در ویدئویی گفت که بر فراز تنگه پرواز کرده و شاهد عبور آزادانه شناورهای تجاری بدون حضور نیروهای دریایی سپاه پاسداران بوده است. وی مدعی شد که نیروی دریایی ایران آسیب شدیدی دیده است.",
+    "در مقابل، سپاه پاسداران انقلاب اسلامی گزارش داد که دو نفتکش را در بخش جنوبی تنگه هرمز به دلیل استفاده از «مسیرهای غیرمجاز» با پشتیبانی نظامی آمریکا توقیف کرده است و تأکید نمود که کنترل این آبراه راهبردی را در دست دارد."
+   ],
+   "title_ar": "قائد سنتكوم يقول إن طرق هرمز لا تزال سالكة بينما تعلن إيران عن اعتراض سفن",
+   "summary_ar": "صرح قائد القيادة المركزية الأمريكية (سنتكوم) الأدميرال براد كوبر بأن طرق الملاحة الدولية عبر مضيق هرمز خالية من الألغام البحرية الإيرانية، بينما أعلنت إيران اعتراض ناقلتين في الممر المائي.",
+   "body_ar": [
+    "وقال كوبر في مقطع فيديو إنه حلق فوق المضيق وشاهد سفناً تجارية تعبر بحرية دون أي وجود للقوات البحرية التابعة للحرس الثوري الإيراني، مدعياً أن البحرية الإيرانية قد تعرضت لضربة كبيرة.",
+    "في المقابل، أفاد الحرس الثوري الإيراني بأنه اعترض ناقلتين في الجزء الجنوبي من مضيق هرمز لاتخاذهما \"مسارات غير مصرح بها\" بدعم عسكري أمريكي، مؤكداً استمرار سيطرته على الممر المائي الإستراتيجي."
+   ]
+  },
+  {
+   "id": "143f07743178",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cm4g1988g1q9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T12:43:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "دادستان تهران با هشدار به مدیران دولتی، خواستار ورود سپاه به موضوع حجاب شد",
+   "title_en": "Tehran Prosecutor warns government officials and demands IRGC involvement in hijab enforcement",
+   "summary_en": "Tehran Prosecutor Ali Salehi warned government officials against negligence regarding compulsory hijab rules and called on intelligence agencies and the IRGC to crack down on organized networks promoting corruption. Salehi announced that failure to enforce rules in public venues would result in legal action against both organizers and offenders.",
+   "body_en": [
+    "Speaking at a meeting on hijab policies, Salehi stated that 28 executive bodies have legal responsibilities and gave the General Inspection Organization one month to review their compliance. His remarks follow legal action against the organizers of the Tehran Art Fair and the FitEx fitness exhibition over the presence of unveiled women, alongside earlier prosecution of a marathon organizer at Velayat Park.",
+    "Despite strict demands from judicial authorities and government supporters for a crackdown, many Iranian women continue to appear in public without headscarves. Meanwhile, the implementation of the new \"Chastity and Hijab\" law remains suspended by the Supreme National Security Council after President Masoud Pezeshkian stated his administration was not prepared to execute it due to ambiguities."
+   ],
+   "title_fa": "دادستان تهران با هشدار به مدیران دولتی، خواستار ورود سپاه به موضوع حجاب شد",
+   "summary_fa": "علی صالحی، دادستان عمومی و انقلاب تهران، با هشدار درباره «کوتاهی» مدیران دولتی در قبال مقررات حجاب، خواستار مداخله نهادهای اطلاعاتی و سپاه پاسداران برای برخورد با «باندهای سازمان‌یافته ترویج فساد» شد. صالحی اعلام کرد در صورت بروز «هنجارشکنی» در اماکن عمومی، با مسئولان مجوزدهنده و افراد خاطی برخورد قانونی خواهد شد.",
+   "body_fa": [
+    "دادستان تهران در جلسه «کارگروه عفاف و حجاب» گفت که ۲۸ دستگاه اجرایی در این زمینه وظایف قانونی دارند و به سازمان بازرسی یک ماه مهلت داد تا عملکرد آن‌ها را بررسی کند. این سخنان پس از اعلام جرم علیه برگزارکنندگان نمایشگاه هنری «آرت‌فِر تهران» و رویداد ورزشی «فیتکس» به دلیل حضور زنان بدون حجاب، و نیز پیگیری قضایی ماراتن بوستان ولایت مطرح می‌شود.",
+    "با وجود فشارهای مقامات قضایی و طرفداران حکومت برای برخورد با «ناهنجاری‌ها»، پوشش اختیاری توسط بسیاری از زنان در شهرهای ایران ادامه دارد. در همین حال، اجرای قانون جدید «عفاف و حجاب» پس از ابراز تردید دولت مسعود پزشکیان، با تصمیم شورای عالی امنیت ملی به تعویق افتاده و هنوز به مرحله اجرا نرسیده است."
+   ],
+   "title_ar": "مدعي عام تهران يحذر المسؤولين الحكوميين ويطالب بالحرس الثوري بالتدخل في قضية الحجاب",
+   "summary_ar": "حذر مدعي عام تهران علي صالحي المسؤولين الحكوميين من \"التقصير\" في تطبيق قوانين الحجاب، داعيًا الأجهزة الأمنية والحرس الثوري للتدخل ومواجهة ما وصفه بـ \"العصابات المنظمة لترويج الفساد\". وأعلن صالحي أنه سيتم اتخاذ إجراءات قانونية ضد الجهات المانحة للتراخيص والأفراد المخالفين في حال حدوث أي خرقت للضوابط في الأماکن العامة.",
+   "body_ar": [
+    "وأوضح مدعي عام تهران خلال اجتماع لـ \"لجنة العفاف والحجاب\" أن 28 جهازًا تنفيذيًا لديهم مسؤوليات قانونية في هذا الصدد، منحًا منظمة التفتيش مهلة شهر لتقييم أدائها. وتأتي هذه التصريحات عقب اتخاذ إجراءات قانونية ضد منظمی معرض \"تلقائي آرت فير\" وفعالية \"فيتكس\" الرياضية بسبب ظهور نساء بلا حجاب، بالإضافة إلى ملاحقة قضائية سابقة لمنظمي ماراثون حديقة \"ولايت\".",
+    "ورغم ضغوط السلطات القضائية ومؤيدي النظام للمطالبة بتشديد الإجراءات، تستمر العديد من النساء في إیران بالظهور في الأماكن العامة دون حجاب. في غضون ذلك، لا يزال تنفيذ قانون \"الحجاب والعفاف\" الجديد معلقًا بقرار من المجلس الأعلى للأمن القومي بعد أن صرح الرئيس مسعود بزشكيان بعدم جاهزية حكومته لتطبيقه وجود غموض في بنوده."
+   ]
+  },
+  {
+   "id": "7756bf1e5263",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-forces-committed-war-crimes-genocide-even-after-gaza-ceasefire-un-commission/article71644883.ece",
+   "date": "2026-10-30T12:38:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission",
+   "title_en": "Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission",
+   "summary_en": "A UN Commission of Inquiry reported that Israeli authorities and forces have continued committing war crimes, crimes against humanity, and genocide in occupied Palestinian territory despite the ceasefire agreement.",
+   "body_en": [
+    "Chaired by Justice Srinivasan Muralidhar, the commission reported that over 75,000 Palestinians have been killed since October 2023, with deaths continuing after the October 2025 ceasefire. The report detailed military operations and settler violence in the West Bank aimed at expanding control, displacment, and annexation.",
+    "Israel's UN representative rejected the findings as historical fiction. The commission defended its evidence-based methodology and urged member states to stop assisting the occupation and support international legal actions."
+   ],
+   "title_fa": "کمیسیون سازمان ملل: نیروهای اسرائیلی حتی پس از آتش‌بس غزه مرتکب جنایات جنگی و نسل‌کشی شده‌اند",
+   "summary_fa": "یک کمیسیون تحقیق سازمان ملل گزارش داد که مقامات و نیروهای اسرائیلی با وجود توافق آتش‌بس، به ارتکاب جنایات جنگی، جنایات علیه بشریت و نسل‌کشی در سرزمین‌های اشغالی فلسطین ادامه داده‌اند.",
+   "body_fa": [
+    "این کمیسیون به ریاست قاضی سرینیواسان مورالیدار گزارش داد که از اکتبر ۲۰۲۳ تاکنون بیش از ۷۵,۰۰۰ فلسطینی کشته شده‌اند و این تلفات پس از آتش‌بس اکتبر ۲۰۲۵ نیز ادامه یافته است. این گزارش عملیات نظامی و خشونت شهرک‌نشینان در کرانه باختری را که با هدف گسترش کنترل، آوارگی و الحاق صورت می‌گیرد، تشریح کرد.",
+    "نماینده اسرائیل در سازمان ملل این یافته‌ها را رد کرده و آن را داستان‌پردازی تاریخی خواند. کمیسیون از روش‌شناسی مستند خود دفاع کرده و از کشورهای عضو خواست تا از کمک به اشغالگری دست بردارند و از اقدامات حقوقی بین‌المللی حمایت کنند."
+   ],
+   "title_ar": "لجنة أممية: القوات الإسرائيلية ارتكبت جرائم حرب وإبادة جماعية حتى بعد وقف إطلاق النار في غزة",
+   "summary_ar": "أفادت لجنة تحقيق تابعة للأمم المتحدة بأن السلطات والقوات الإسرائيلية واصلت ارتكاب جرائم حرب وجرائم ضد الإنسانية وإبادة جماعية في الأراضي الفلسطينية المحتلة رغم اتفاق وقف إطلاق النار.",
+   "body_ar": [
+    "وذكرت اللجنة برئاسة القاضي سرينيفاسان موراليدار أن أكثر من 75,000 فلسطيني قُتلوا منذ أكتوبر 2023، مع استمرار ارتفاع عدد القتلى بعد وقف إطلاق النار في أكتوبر 2025. ووفّق التقرير العمليات العسكرية وعنف المستوطنين في الضفة الغربية بهدف توسيع السيطرة والتهجير والضم.",
+    "ورفض مندوب إسرائيل لدى الأمم المتحدة نتائج التقرير واصفاً إياها بالخيالية. ودفاعت اللجنة عن منهجيتها القائمة على الأدلة، داعية الدول الأعضاء إلى التوقف عن تقديم المساعدات التي تدعم الاحتلال ودعم الإجراءات القانونية الدولية."
+   ]
+  },
+  {
+   "id": "7eb60cb784d1",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+   "date": "2026-10-30T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen war makes reaching assistance too dangerous for many",
+   "title_en": "Yemen war makes reaching assistance too dangerous for many",
+   "summary_en": "The UN refugee agency (UNHCR) warned that fighting in Yemen has displaced over 280,000 people and made reaching lifesaving humanitarian relief too dangerous for many vulnerable refugees and asylum seekers.",
+   "body_en": [
+    "UNHCR reported that intensifying fighting between Houthi fighters and government forces, alongside economic collapse and severe access restrictions, is severely affecting more than 65,000 refugees and asylum seekers. In the Kharaz refugee camp in Lahj governorate, nearby shelling has disrupted essential services and restricted movement, forcing schools to suspend classes and interrupting legal services.",
+    "The humanitarian crisis is further compounded by severe supply chain shocks in the Strait of Hormuz and the Bab El-Mandeb Strait related to the US-Iran war, while the agency's funding appeal for Yemen remains at just 19 percent. Despite logistics constraints, UNHCR secured transport support to deliver 11 containers carrying 3,000 relief kits to Yemen."
+   ],
+   "title_fa": "جنگ یمن دسترسی به کمک‌ها را برای بسیاری بسیار خطرناک کرده است",
+   "summary_fa": "کمیساریای عالی سازمان ملل متحد در امور پناهندگان (UNHCR) هشدار داد که درگیری‌ها در یمن بیش از ۲۸۰ هزار نفر را آواره کرده و دسترسی به کمک‌های بشردوستانه حیاتی را برای بسیاری از پناهندگان و پناهجویان آسیب‌پذیر بسیار خطرناک کرده است.",
+   "body_fa": [
+    "کمیساریای عالی پناهندگان گزارش داد که تشدید درگیری‌ها میان مبارزان حوثی‌ها و نیروهای دولتی، در کنار فروپاشی اقتصادی و محدودیت‌های شدید دسترسی، بیش از ۶۵ هزار پناهنده و پناهجو را به شدت تحت تأثیر قرار داده است. در اردوگاه پناهندگان خرز در استان لحج، گلوله‌باران در نزدیکی اردوگاه خدمات ضروری را مختل کرده و رفت‌وآمد را محدود ساخته که منجر به تعطیلی مدارس و توقف خدمات حقوقی شده است.",
+    "بحران بشردوستانه با اختلالات شدید در زنجیره تأمین در تنگه هرمز و باب‌المندب مرتبط با جنگ آمریکا و ایران تشدید شده است، در حالی که بودجه درخواستی این آژانس برای یمن تنها ۱۹ درصد تأمین شده است. با وجود موانع لوجستیکی، کمیساریا حمایت حمل‌ونقلی برای ارسال ۱۱ کانتینر حاوی ۳۰۰۰ بسته کمک‌رسانی به یمن را جلب کرده است."
+   ],
+   "title_ar": "حرب اليمن تجعل الوصول إلى المساعدات خطيراً للغاية بالنسبة للعديد من السكان",
+   "summary_ar": "حذرت مفوضية الأمم المتحدة لشؤون اللاجئين من أن القتال في اليمن أدى إلى نزوح أكثر من 280 ألف شخص وجعل الوصول إلى المساعدات الإنسانية المنقذة للحياة خطيراً للغاية بالنسبة للعديد من اللاجئين وطالبي اللجوء الأكثر ضعفاً.",
+   "body_ar": [
+    "وأفادت المفوضية بأن تصاعد القتال بين مقاتلي الحوثيين والقوات الحكومية، إلى جانب الانهيار الاقتصادي والقيود الشديدة على الوصول، يؤثر بشكل حاد على أكثر من 65 ألف لاجئ وطالب لجوء. وفي مخيم خرز للاجئين بمحافظة لحج، أدى القصف القريب إلى تعطيل الخدمات الأساسية وفرض قيود على الحركة، مما تسبب في تعليق الدراسة وتوقف الخدمات القانونية.",
+    "وتتفاقم الأزمة الإنسانية بسبب صدمات سلاسل التوريد في مضيق هرمز ومضيق باب المندب المرتبطة بالحرب بين الولايات المتحدة وإيران، بينما لم تتلقَ المفوضية سوى 19 بالمئة من تمويل ندائها الخاص باليمن. ورغم العوائق اللوجستية، تمكنت المفوضية من تأمين دعم بنقل 11 حاوية تحتوي على 3000 حزمة relief إلى اليمن."
+   ]
+  },
+  {
+   "id": "7529c86539a6",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-says-two-vessels-intercepted-southern-waters-strait-hormuz",
+   "date": "2026-10-30T11:49:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "IRGC Navy intercepts two vessels in southern waters of Hormuz",
+   "title_en": "IRGC Navy intercepts two vessels in southern waters of Hormuz",
+   "summary_en": "The IRGC Navy stopped two tankers in the southern Strait of Hormuz for attempting to use an unauthorized route after switching off navigation systems and ignoring radio warnings. The Iranian military blamed hostile US actions for the incidents and fires aboard the vessels, while reporting another ship sank nearby.",
+   "body_en": [
+    "According to a statement from the IRGC Navy, the two tankers were halted in the eastern and western sections of the Strait of Hormuz. The military accused the US military of supporting their movement and cited US hostile actions alongside the vessels' non-compliance with Iranian rules as the cause of the incidents and fires on board.",
+    "The IRGC Navy also stated that a separate vessel, which caught fire on Thursday night in the southern waters of the strait, has sunk."
+   ],
+   "title_fa": "توقیف دو شناور توسط نیروی دریایی سپاه در آب‌های جنوبی هرمز",
+   "summary_fa": "نیروی دریایی سپاه پاسداران دو نفتکش را در جنوب تنگه هرمز به دلیل تلاش برای عبور از مسیر غیرمجاز، خاموش کردن سیستم‌های ناوبری و بی‌توجهی به اخطارهای رادیویی توقیف کرد. نظامیان ایران اقدامات خصمانه آمریکا را عامل این حادثه و آتش‌سوزی در شناورها دانستند و از غرق شدن یک کشتی دیگر در همان منطقه خبر دادند.",
+   "body_fa": [
+    "بر اساس بیانیه نیروی دریایی سپاه پاسداران، این دو نفتکش در بخش‌های شرقی و غربی تنگه هرمز متوقف شدند. این نهاد نظامی، ارتش آمریکا را به پشتیبانی از این اقدام متهم کرد و اقدامات خصمانه ایالات متحده را در کنار عدم رعایت مقررات ایران توسط شناورها، علت وقوع حادثه و آتش‌سوزی در آن‌ها دانست.",
+    "نیروی دریایی سپاه همچنین اعلام کرد شناور دیگری که پنجشنبه‌شب در آب‌های جنوبی تنگه دچار آتش‌سوزی شده بود، غرق شده است."
+   ],
+   "title_ar": "القوة البحرية للحرس الثوري تعترض سفينتين في المياه الجنوبية لهرمز",
+   "summary_ar": "أعلنت القوة البحرية للحرس الثوري الإيراني توقيف ناقلتين في جنوب مضيق هرمز لمحاولتهما المرور عبر مسار غير مصرح به وإغلاق أجهزة الملاحة وتجاهل التحذيرات اللاسلكية. وحملت البحرية الإيرانية التصرفات الأمريكية المعادية المسؤولية عن الحوادث والحرائق على متن السفن، مشيرة إلى غرق سفينة أخرى في المنطقة.",
+   "body_ar": [
+    "وفقًا لبيان صادر عن القوة البحرية للحرس الثوري، تم توقيف الناقلتين في الجزءين الشرقي والغربي من مضيق هرمز. واتهم الجيش الإيراني القوات الأمريكية بدعم محاولة المرور، معتبرًا أن الأعمال الأمريكية المعادية إلى جانب عدم التزام السفن بالقوانين الإيرانية تسببت في الحوادث والحرائق على متنها.",
+    "كما ذكرت البحرية التابعة للحرس الثوري أن سفينة أخرى اندلعت فيها النيران ليلة الخميس في المياه الجنوبية للمضيق قد غرقت."
+   ]
+  },
+  {
+   "id": "7012abf6071a",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/-uk-miliband-determined-sanction-settlements-regardless-israeli-election-outcome",
+   "date": "2026-10-30T11:00:23Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures",
+   "title_en": "Exclusive: Miliband set on sanctions regardless of Israel election outcome as officials try to weaken measures",
+   "summary_en": "Senior UK government figures have privately insisted that Britain will proceed with sanctions on Israeli settlements regardless of the election results in Israel. However, civil servants within the Foreign Office are reportedly attempting to weaken the proposed measures.",
+   "body_en": [
+    "According to government and Labour sources, Foreign Secretary Ed Miliband remains determined to implement comprehensive sanctions on companies supporting settlement expansion, even if Benjamin Netanyahu loses power. However, some civil servants are reportedly causing delays and arguing that the restrictions should exclude British companies and only target entities operating primarily within illegal settlements rather than Israel itself. Fears of legal challenges from pro-Israel groups have added to the caution among officials.",
+    "Tensions between the two countries have escalated, with the UK freezing cooperation under a strategic roadmap and Israel downgrading Britain's consulate in East Jerusalem. The proposed sanctions, which could take nine months to enforce, were partly prompted by Israel's controversial E1 settlement plan between Jerusalem and Maale Adumim."
+   ],
+   "title_fa": "اختصاصی: میلیبند بدون توجه به نتیجه انتخابات اسرائیل بر اعمال تحریم‌ها پافشاری می‌کند، هم‌زمان با تلاش مقامات برای تضعیف این اقدامات",
+   "summary_fa": "مقامات ارشد دولت بریتانیا در محافل خصوصی تأکید کرده‌اند که این کشور بدون در نظر گرفتن نتایج انتخابات اسرائیل، تحریم‌ها علیه شهرک‌های اسرائیلی را پیش خواهد برد. با این حال، گزارش‌ها حاکی از آن است که برخی از کارمندان وزارت امور خارجه در تلاشند تا این اقدامات پیشنهادی را تضعیف کنند.",
+   "body_fa": [
+    "به گفته منابع دولتی و حزب کارگر، اد میلیبند، وزیر امور خارجه، مصمم است تحریم‌های جامعی را علیه شرکت‌های حامی گسترش شهرک‌سازی‌ها اعمال کند، حتی اگر بنیامین نتانیاهو از قدرت کنار برود. با این حال، گزارش شده است که برخی از مقامات اداری با ایجاد موانع، استدلال می‌کنند که این محدودیت‌ها نباید شامل شرکت‌های بریتانیایی شود و تنها باید شرکت‌هایی را هدف قرار دهد که فعالیت اصلی آن‌ها در شهرک‌های غیرقانونی است، نه در خود اسرائیل. نگرانی از چالش‌های حقوقی از سوی گروه‌های حامی اسرائیل به این احتیاط دامن زده است.",
+    "روابط میان دو کشور رو به وخامت گذاشته است، به طوری که بریتانیا همکاری‌ها در چارچوب نقشه راه راهبردی را به حالت تعلیق درآورده و اسرائیل نیز جایگاه کنسولگری بریتانیا در قدس شرقی را کاهش داده است. این تحریم‌های پیشنهادی که ممکن است اجرای آن‌ها نه ماه زمان ببرد، تا حدی ناشی از طرح بحث‌برانگیز شهرک‌سازی E1 میان اورشلیم و معاله آدومیم بوده است."
+   ],
+   "title_ar": "خاص: ميليباند عازم على فرض عقوبات بغض النظر عن نتائج الانتخابات الإسرائيلية وسط مساعٍ من مسؤولين لتخفيفها",
+   "summary_ar": "أكدت شخصيات بارزة في الحكومة البريطانية في تصريحات غير معلنة أن لندن ستمضي قدماً في فرض عقوبات على المستوطنات الإسرائيلية بغض النظر عن نتائج الانتخابات في إسرائيل. ومع ذلك، أفادت تقارير بأن مسؤولين داخل وزارة الخارجية يسعون إلى تخفيف الإجراءات المقترحة.",
+   "body_ar": [
+    "وفقاً لمصادر حكومية ومن حزب العمال، لا يزال وزير الخارجية إد ميليباند مصمماً على تطبيق عقوبات شاملة على الشركات التي تدعم التوسع الاستيطاني، حتى لو خسر بنيامين نتنياهو السلطة. ومع ذلك، تشير تقارير إلى أن بعض المسؤولين يضعون عراقيل ويطالبون باستثناء الشركات البريطانية وقصر العقوبات على الكيانات التي تعمل بشكل أساسي في المستوطنات غير القانونية وليس داخل إسرائيل نفسها. كما ساهم الخوف من دعاوى قضائية ترفعها جماعات مؤيدة لإسرائيل في تبني المسؤولين موقفاً حذراً.",
+    "وقد تصاعد التوتر بين البلدين؛ حيث علقت المملكة المتحدة التعاون بموجب خارطة طريق استراتيجية، في حين خفضت إسرائيل تمثيل القنصلية البريطانية في القدس الشرقية. وكانت العقوبات المقترحة، التي قد يستغرق تنفيذها تسعة أشهر، مدفوعة جزئياً بخطة الاستيطان المثيرة للجدل المعروفة باسم E1 بين القدس ومعاليه أدوميم."
+   ]
+  },
+  {
+   "id": "2111dc20bd58",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nato-chief-holds-talks-saudi-defence-minister-amid-middle-east-tensions",
+   "date": "2026-10-30T10:20:37Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 7,
+   "title": "Nato chief holds talks with Saudi defence minister amid Middle East tensions",
+   "title_en": "Nato chief holds talks with Saudi defence minister amid Middle East tensions",
+   "summary_en": "Nato Secretary General Mark Rutte held a phone call with Saudi Defence Minister Khalid bin Salman Al Saud to discuss security matters. The discussion focused on the security situation in the Middle East, regional stability, and freedom of navigation.",
+   "body_en": [
+    "According to Nato spokesperson Allison Hart, the talks addressed the broader security environment across the Middle East. The two officials also reviewed regional stability concerns and the preservation of navigation freedoms."
+   ],
+   "title_fa": "مذاکرات دبیرکل ناتو با وزیر دفاع عربستان در بحبوحه تنش‌های خاورمیانه",
+   "summary_fa": "مارک روته، دبیرکل ناتو، در تماسی تلفنی با خالد بن سلمان آل سعود، وزیر دفاع عربستان سعودی، درباره مسائل امنیتی گفتگو کرد. محورهای این گفتگو وضعیت امنیتی در خاورمیانه، ثبات منطقه‌ای و آزادی دریانوردی بوده است.",
+   "body_fa": [
+    "به گفته آلیسون هارت، سخنگوی ناتو، در این گفتگوها وضعیت امنیتی کلی در خاورمیانه مورد بررسی قرار گرفت. دو طرف همچنین پیرامون مسائل مربوط به ثبات منطقه‌ای و حفظ آزادی دریانوردی تبادل نظر کردند."
+   ],
+   "title_ar": "محادثات بين أمين عام الناتو ووزير الدفاع السعودي وسط توترات الشرق الأوسط",
+   "summary_ar": "أجرى الأمين العام لحلف شمال الأطلسي مارك روته اتصالاً هاتفياً مع وزير الدفاع السعودي خالد بن سلمان آل سعود لبحث قضايا أمنية. وتركزت المحادثات على الوضع الأمني في الشرق الأوسط، والاستقرار الإقليمي، وحرية الملاحة.",
+   "body_ar": [
+    "ووفقاً للمتحدثة باسم حلف الناتو أليسون هارت، تناولت المحادثات الأوضاع الأمنية الشاملة في الشرق الأوسط. كما بحث الجانبان المخاوف المتعلقة بالاستقرار الإقليمي وضمان حرية الملاحة."
+   ]
+  },
+  {
+   "id": "3fe50fd126e7",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c3qjnp42dwj9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T09:56:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "پشت درهای بسته کاخ سفید؛ مذاکره با تهران یا حمله‌ای تازه؟",
+   "title_en": "Behind closed doors at the White House: negotiations with Tehran or a new attack?",
+   "summary_en": "U.S. media reports indicate the Trump administration is simultaneously exploring military options against Iran and seeking diplomatic engagement with Tehran. Top officials have discussed potential military actions following the midterms, while Vice President JD Vance has reportedly reached out to Iran's top security official.",
+   "body_en": [
+    "According to The Wall Street Journal and Axios, Admiral Brad Cooper, head of U.S. Central Command, met President Donald Trump alongside Defense Secretary Pete Hegseth and other top officials to outline potential military options, including the naval blockade of Iran and readiness for broader operations. The Pentagon has bolstered its regional posture and repositioned forces, while Trump evaluates further action after the congressional midterm elections.",
+    "Concurrently, The Washington Post reported that Vice President JD Vance sent a letter to Mohsen Rezaei, secretary of Iran's Supreme National Security Council, proposing a personal meeting to negotiate an end to tensions. U.S. officials view Rezaei's standing and ties within the leadership as key to facilitating talks, though little evidence suggests shifts in Tehran's nuclear stance."
+   ],
+   "title_fa": "پشت درهای بسته کاخ سفید؛ مذاکره با تهران یا حمله‌ای تازه؟",
+   "summary_fa": "گزارش‌های رسانه‌های آمریکایی نشان می‌دهد دولت دونالد ترامپ هم‌زمان با بررسی گزینه‌های نظامی علیه ایران، در تلاش برای گشودن کانال‌های دیپلماتیک با تهران است. در حالی که مقامات ارشد در نشستی گزینه‌های اقدام نظامی پس از انتخابات میان‌دوره‌ای را بررسی کرده‌اند، گزارش شده که جی‌دی ونس، معاون رئیس‌جمهور، برای دیدار و گفت‌وگو به دبیر شورای عالی امنیت ملی ایران پیام فرستاده است.",
+   "body_fa": [
+    "به گزارش وال استریت ژورنال و اکسیوس، دریاسالار برد کوپر، فرمانده سنتکام، در نشستی با حضور دونالد ترامپ، پیت هگست وزیر دفاع و دیگر مقامات ارشد، گزینه‌های نظامی احتمالی از جمله ادامه محاصره دریایی و آمادگی برای عملیات گسترده‌تر را تشریح کرده است. در همین حال، پنتاگون مواضع دفاعی خود را در منطقه تقویت کرده و نیروهایش را جابه‌جا نموده، در حالی که دولت ترامپ احتمال اقدام نظامی پس از انتخابات میان‌دوره‌ای کنگره را در دست بررسی دارد.",
+    "به موازات این اقدامات، واشنگتن‌پست گزارش داده است که جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در نامه‌ای به محسن رضایی، دبیر شورای عالی امنیت ملی ایران، پیشنهاد دیدار شخصی برای پایان دادن به تنش‌ها را مطرح کرده است. مقامات آمریکایی بر این باورند که نفوذ و ارتباطات رضایی در ساختار قدرت می‌تواند به پیشبرد مذاکرات کمک کند، هرچند شواهد اندکی از تغییر موضع هسته‌ای تهران دیده می‌شود."
+   ],
+   "title_ar": "خلف الأبواب المغلقة في البيت الأبيض: مفاوضات مع طهران أم هجوم جديد؟",
+   "summary_ar": "تشير تقارير إعلامية أمريكية إلى أن إدارة دونالد ترامب تدرس خيارات عسكرية ضد إيران وتسعى في الوقت نفسه لفتح قنوات دبلوماسية مع طهران. وقد ناقش كبار المسؤولين تحركات عسكرية محتملة بعد انتخابات التجديد النصفي، بينما أفادت تقارير بأن نائب الرئيس جيه دي فانس عرض التواصل مع مسؤول الأمن القومي الإيراني.",
+   "body_ar": [
+    "وفقاً لصحيفة وول ستريت جورنال وموقع أكسيوس، التقى الأدميرال براد كوبر، قائد القيادة المركزية الأمريكية، بالرئيس دونالد ترامب بحضور وزير الدفاع بيت هيغسيث ومسؤولين آخرين لعرض خيارات عسكرية محتملة، شملت الحصار البحري لإيران والاستعداد لعمليات أوسع. وقد عززت وزارة الدفاع الأمريكية انتشارها في المنطقة وأعادت تموضع قواتها، بينما تدرس إدارة ترامب عملاً عسكرياً محتملاً بعد انتخابات التجديد النصفي للكونغرس.",
+    "في الوقت نفسه، ذكرت صحيفة واشنطن بوست أن نائب الرئيس جيه دي فانس اقترح في رسالة إلى محسن رضائي، أمين المجلس الأعلى للأمن القومي الإيراني، عقد لقاء شخصي لبحث إنهاء التوترات. ويرى مسؤولون أمريكيون أن مكانة رضائي وعلاقاته داخل بنية الحكم قد تجعل منه وسيطاً فعالاً، رغم غياب مؤشرات واضحة على تغير في موقف طهران النووي."
+   ]
+  },
+  {
+   "id": "d6bdff54c628",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+   "date": "2026-10-30T08:36:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+   "title_en": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+   "summary_en": "Crude oil exports from the Gulf have risen significantly, but global prices remain elevated as benchmark Brent crude trades near post-April highs. Analysts attribute the high prices to ongoing anxiety over the war on Iran, depleted global stockpiles, and sharply higher shipping costs.",
+   "body_en": [
+    "Data from Kpler indicates that Gulf crude exports averaged 24.6 million barrels per day in the week to October 18, surpassing pre-war levels as shippers used ship-to-ship transfers and pipeline routes bypassing the Strait of Hormuz. Despite the supply rebound, Brent futures topped $117 a barrel, driven by threats to commercial navigation, surging insurance premiums, and freight costs reaching up to $40 per barrel.",
+    "Market analysts warn that the underlying disruptions remain unresolved without a permanent end to the conflict. According to the International Energy Agency, global inventories dropped by 10 million barrels in September, leaving stockpiles 509 million barrels below pre-war figures, while long-term futures suggest markets anticipate prolonged disruption."
+   ],
+   "title_fa": "افزایش جریان نفت با فروکش کردن التهاب جنگ ایران؛ چرا قیمت‌ها همچنان بالا می‌رود؟",
+   "summary_fa": "صادرات نفت خام از خلیج فارس رشد چشمگیری داشته است، با این حال بهای جهانی نفت برنت همچنان در بالاترین سطوح خود از ماه آوریل معامله می‌شود. کارشناسان این گرانی را ناشی از نگرانی بابت تداوم جنگ علیه ایران، کاهش ذخایر جهانی و جهش شدید هزینه‌های حمل‌ونقل دریایی می‌دانند.",
+   "body_fa": [
+    "بر اساس داده‌های شرکت کپلر، صادرات نفت خام خلیج فارس در هفته منتهی به ۱۸ اکتبر به طور میانگین به ۲۴٫۶ میلیون بشکه در روز رسید که فراتر از سطح پیش از جنگ است، زیرا شرکت‌های کشتیرانی از روش انتقال کشتی‌به‌کشتی و خطوط لوله‌ای که تنگه هرمز را دور می‌زنند استفاده می‌کنند. با وجود این، قیمت قراردادهای آتی برنت به دلیل خطرات علیه کشتی‌ها، افزایش نرخ بیمه و رسیدن هزینه حمل‌ونقل به حدود ۴۰ دلار به ازای هر بشکه، برای مدتی از ۱۱۷ دلار فراتر رفت.",
+    "کارشناسان بازار هشدار می‌دهند که بدون پایان پایدار این درگیری، اختلالات اصلی همچنان پابرجا خواهند بود. طبق گزارش آژانس بین‌المللی انرژی، ذخایر جهانی نفت در ماه سپتامبر ۱۰ میلیون بشکه کاهش یافته و به ۵۰۹ میلیون بشکه کمتر از سطح پیش از جنگ رسیده است، و بهای معاملات آتی بلندمدت نیز نشان می‌دهد بازار انتظار بازگشت زودهنگام به شرایط عادی را ندارد."
+   ],
+   "title_ar": "تدفقات النفط ترتفع مع هدوء اضطرابات حرب إيران.. فلماذا تستمر الأسعار في الصعود؟",
+   "summary_ar": "ارتفعت صادرات النفط الخام من الخليج بشكل كبير، غير أن الأسعار العالمية تواصل الصعود مع تداول خام برنت بالقرب من أعلى مستوياته منذ أبريل. ويعزو محللون استمرار ارتفاع الأسعار إلى القلق من تجدد الحرب على إيران، وتراجع المخزونات العالمية، والقفزة الكبيرة في تكاليف الشحن.",
+   "body_ar": [
+    "أظهرت بيانات شركة كبلر أن صادرات الخام من الخليج بلغت في المتوسط 24.6 مليون برميل يومياً في الأسبوع المنتهي في 18 أكتوبر متجاوزة مستويات ما قبل الحرب، في ظل لجوء شركات الشحن إلى عمليات النقل من سفينة لأخرى وخطوط الأنابيب البديلة لمضيق هرمز. ورغم زيادة الإمدادات، تجاوزت عقود برنت الآجلة 117 دولاراً للبرميل بفعل الهجمات على السفن، وارتفاع أقساط التأمين، وبلوغ تكاليف الشحن نحو 40 دولاراً للبرميل.",
+    "ويحذر محللون من أن الاضطرابات ستبقى مستمرة ما لم يتوقف النزاع بشكل دائم. وطبقاً لوكالة الطاقة الدولية، تراجعت المخزونات العالمية بمقدار 10 ملايين برميل في سبتمبر لتصبح أقل من مستويات ما قبل الحرب بنحو 509 ملايين برميل، في حين تشير العقود الآجلة طويلة الأجل إلى أن الأسواق لا تتوقع عودة قريبة للاستقرار."
+   ]
+  },
+  {
+   "id": "15efa6e59dfc",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece",
+   "date": "2026-10-30T07:58:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
+   "title_en": "Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members",
+   "summary_en": "U.S. Secretary of State Marco Rubio is hosting G20 foreign ministers in Atlanta ahead of the U.S. midterm elections, amid sharp disagreements over the conflicts in Ukraine and Iran. The gathering is expected to yield a chair's summary rather than a joint declaration as member states clash over security issues and fuel costs.",
+   "body_en": [
+    "The Atlanta talks serve as preparation for the G20 leaders' summit scheduled for December at President Donald Trump's Doral resort in Miami. Russian Foreign Minister Sergei Lavrov's attendance has heightened tensions with European officials, though Washington has engaged Moscow to help address rising fuel prices ahead of the election.",
+    "The United States plans to emphasize economic growth, supply chain stability, and freedom of navigation through critical waterways such as the Strait of Hormuz, where tanker passage has been disrupted following U.S.-Israel strikes on Iran. However, consensus remains unlikely, with diplomats noting deep divisions and China previously resisting proposed language on maritime navigation."
+   ],
+   "title_fa": "میزبانی مارکو روبیو از وزیران امور خارجه گروه ۲۰ هم‌زمان با اختلاف اعضا بر سر جنگ‌های ایران و اوکراین",
+   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا، در آستانه انتخابات میان‌دوره‌ای این کشور میزبان وزیران امور خارجه گروه ۲۰ در آتلانتا است، در حالی که اختلافات شدیدی بر سر درگیری‌ها در اوکراین و ایران میان اعضا وجود دارد. انتظار می‌رود این نشست به جای بیانیه مشترک، با انتشار جمع‌بندی ریاست از سوی واشنگتن پایان یابد.",
+   "body_fa": [
+    "گفت‌وگوهای آتلانتا مقدمه‌ای برای اجلاس سران گروه ۲۰ است که قرار است در ماه دسامبر در اقامتگاه دورال دونالد ترامپ در میامی برگزار شود. حضور سرگئی لاوروف، وزیر امور خارجه روسیه، تنش‌ها با مقامات اروپایی را افزایش داده است، هرچند واشنگتن هم‌زمان با افزایش بهای سوخت پیش از انتخابات، همکاری مسکو برای مهار قیمت‌ها را دنبال کرده است.",
+    "ایالات متحده قصد دارد بر رشد اقتصادی، زنجیره‌های تأمین و آزادی دریانوردی در آبراه‌های حیاتی نظیر تنگه هرمز—که پس از حملات آمریکا و اسرائیل به ایران دچار اختلال شد—تأکید کند. با این حال، به دلیل شکاف‌های عمیق و مخالفت قبلی چین با ادبیات مربوط به آزادی دریانوردی، دستیابی به یک توافق بعید به نظر می‌رسد."
+   ],
+   "title_ar": "ماركو روبيو يستضيف وزراء خارجية مجموعة العشرين وسط انقسام الأعضاء بشأن حربي إيران وأوكرانيا",
+   "summary_ar": "يستضيف وزير الخارجية الأمريكي ماركو روبيو نظراءه في مجموعة العشرين في أتلانتا قبيل انتخابات التجديد النصفي الأمريكية، في ظل خلافات حادة حول النزاعين في أوكرانيا وإيران. ومن المتوقع أن يختتم الاجتماع بإصدار ملخص من رئاسة المؤتمر بدلاً من بيان ختامي مشترك بسبب تباين المواقف حول القضايا الأمنية وأسعار الوقود.",
+   "body_ar": [
+    "يمهد اجتماع أتلانتا لقمة قادة مجموعة العشرين المزمع عقدها في ديسمبر بمنتجع دورال التابع للرئيس دونالد ترامب في ميامي. وقد أثار حضور وزير الخارجية الروسي سيرغي لافروف توتراً مع الوزراء الأوروبيين، في وقت تسعى فيه واشنطن للتعاون مع موسكو لكبح أسعار الوقود المرتفعة قبيل الانتخابات.",
+    "وتسعى الولايات المتحدة للتركيز على النمو الاقتصادي، وسلاسل الإمداد، وحرية الملاحة في الممرات المائية الحيوية مثل مضيق هرمز الذي تعطلت فيه حركة الملاحة إثر الضربات الأمريكية الإسرائيلية على إيران. ورغم ذلك، يستبعد التوصل إلى توافق في الآراء في ظل انقسامات حادة واعتراضات سابقة من الصين على صياغات حرية الملاحة."
+   ]
+  },
+  {
+   "id": "2bb6732eb72f",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-mediators-head-back-tehran-push-us-iran-deal",
+   "date": "2026-10-30T06:37:01Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Qatari mediators head back to Tehran to push for US-Iran deal",
+   "title_en": "Qatari mediators head back to Tehran to push for US-Iran deal",
+   "summary_en": "Qatari mediators returned to Tehran on Friday in a push to facilitate an agreement between the United States and Iran, according to an official who spoke to Reuters.",
+   "body_en": [
+    "The official stated that the mediation efforts and discussions have been carried out in coordination with Washington."
+   ],
+   "title_fa": "میانجی‌های قطری برای پیشبرد توافق میان آمریکا و ایران به تهران بازگشتند",
+   "summary_fa": "به گفته یک مقام مسئول در گفتگو با رویترز، میانجی‌های قطری روز جمعه در راستای تلاش‌ها برای دستیابی به توافقی میان ایالات متحده و ایران به تهران بازگشتند.",
+   "body_fa": [
+    "این مقام مسئول افزود که گفتگوهای میانجیگری با هماهنگی واشنگتن صورت گرفته است."
+   ],
+   "title_ar": "وسطاء قطريون يعودون إلى طهران للدفع نحو اتفاق بين الولايات المتحدة وإيران",
+   "summary_ar": "عاد وسطاء قطريون إلى طهران يوم الجمعة في إطار جهود تهدف إلى التوصل لاتفاق بين الولايات المتحدة وإيران، بحسب ما أفاد به مسؤول لوكالة رويترز.",
+   "body_ar": [
+    "وذكر المسؤول أن محادثات الوساطة جرت بالتنسيق مع واشنطن."
+   ]
+  },
+  {
+   "id": "f1d1ce3d9d32",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-30T06:02:23Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+   "title_en": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+   "summary_en": "Syrians are grappling with a deepening cost-of-living crisis driven by subsidy cuts and rampant price increases under President Ahmed al-Sharaa, triggering protests that challenge post-war recovery efforts.",
+   "body_en": [
+    "Widespread demonstrations broke out across Syria last month after the government announced further hikes to fuel prices, an unpopular move that authorities were forced to revoke days later. Since Ahmed al-Sharaa took office following Bashar al-Assad's overthrow, his administration's austerity measures—including ending subsidies that caused bread prices to rise tenfold alongside heavy surges in electricity and transport costs—have severely deteriorated households' purchasing power. The United Nations Development Programme noted that 90% of Syrians were in poverty last year.",
+    "While public sector wages were adjusted, residents report that pay remains far too low to cover basic food and medicine, forcing many to sell possessions or cut back to single meals. The government attributed recent fuel price pressures to global market strains linked to the US-Iran conflict, while economic analysts also point to the rushed adoption of free-market policies alongside a lack of funds and the previous regime's lingering damage."
+   ],
+   "title_fa": "چالش‌های بازسازی پس از اسد؛ شهروندان سوری با افزایش سرسام‌آور قیمت‌ها دست‌وپنجه نرم می‌کنند",
+   "summary_fa": "شهروندان سوری در دوران ریاست‌جمهوری احمد الشرع با بحران فزاینده هزینه‌های زندگی ناشی از حذف یارانه‌ها و جهش قیمت‌ها دست‌وپنجه نرم می‌کنند، وضعیتی که به اعتراضاتی انجامیده و تلاش‌ها برای بازسازی پس از جنگ را با چالش روبه‌رو کرده است.",
+   "body_fa": [
+    "ماه گذشته، پس از تصمیم دولت برای افزایش دوباره بهای سوخت، تظاهرات گسترده‌ای در شهرهای سوریه رخ داد که مقامات را وادار به عقب‌نشینی و لغو این مصوبه پس از چند روز کرد. از زمانی که احمد الشرع در پی سرنگونی بشار اسد به ریاست‌جمهوری رسید، سیاست‌های ریاضتی او از جمله حذف یارانه‌های بلندمدت به ده‌برابر شدن قیمت نان و جهش شدید هزینه‌های برق و حمل‌ونقل انجامیده است. برنامه توسعه سازمان ملل اعلام کرده است که ۹۰ درصد مردم سوریه سال گذشته در فقر به‌سر می‌بردند.",
+    "اگرچه حقوق بخش دولتی بازنگری شده، اما ساکنان می‌گویند درآمدها پاسخگوی خوراک و داروی اولیه نیست و بسیاری ناچار به فروش وسایل خانه یا کاهش وعده‌های غذایی شده‌اند. دولت گرانی سوخت را تا حدی متأثر از فشارهای بازار انرژی در نتیجه جنگ آمریکا و ایران دانسته است، در حالی که کارشناسان اقتصادی سرعت‌بخشیدن به سیاست‌های آزادسازی بازار را در کنار کمبود منابع مالی و میراث حکومت سابق از عوامل تشدید این بحران می‌دانند."
+   ],
+   "title_ar": "السوريون يكابدون الغلاء بينما تهدد الأزمة الاقتصادية التعافي بعد سقوط الأسد",
+   "summary_ar": "يعاني السوريون من تفاقم أزمة تكاليف المعيشة الناجمة عن رفع الدعم والارتفاع الحاد في الأسعار تحت حكم الرئيس أحمد الشرع، ما أشعل احتجاجات تضع جهود التعافي الاقتصادي بعد الحرب أمام تحديات كبيرة.",
+   "body_ar": [
+    "اندلعت احتجاجات واسعة في أنحاء سوريا الشهر الماضي إثر قرار حكومي بزيادة أسعار الوقود مجدداً، وهو إجراء اضطرت السلطات إلى التراجع عنه بعد أيام وسط تصاعد الغضب الشعبي. ومنذ وصول أحمد الشرع إلى الرئاسة عقب الإطاحة ببشار الأسد، تسببت إجراءات التقشف وإلغاء الدعم الحكومي في ارتفاع سعر الخبز إلى عشرة أضعاف، فضلاً عن قفزات هائلة في كلفة الكهرباء والنقل، في ظل تقديرات برنامج الأمم المتحدة الإنمائي بأن 90% من السوريين كانوا تحت خط الفقر العام الماضي.",
+    "ورغم زيادة رواتب موظفي القطاع العام، يؤكد الأهالي أنها لم تعد تكفي لشراء الأساسيات كالدواء والطعام، مما دفع كثيرين لبيع أثاث منازلهم والاكتفاء بوجبة واحدة يومياً. وعزت الحكومة أزمة الوقود جزئياً إلى اضطراب أسواق الطاقة بفعل النزاع الأمريكي الإيراني، بينما يرى محللون اقتصاديون أن التحول غير المدروس نحو سياسات السوق المفتوحة ساهم في تعميق الأزمة بجانب شح الموارد وتركة النظام السابق."
+   ]
+  },
+  {
+   "id": "bc72e631acf5",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-call-out-engineered-famine-gaza",
+   "date": "2026-10-30T05:15:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinians call out ‘engineered famine’ in Gaza",
+   "title_en": "Palestinians call out ‘engineered famine’ in Gaza",
+   "summary_en": "Palestinians in Gaza have accused Israeli forces and merchants of orchestrating an \"engineered famine\" by admitting junk food and soda while blocking nutritious staples.",
+   "body_en": [
+    "Residents stated that the Israeli military allows products like cola and chocolates through crossings but refuses entry to flour, chicken, and fresh vegetables, alleging that this starvation tactic is meant to sow internal conflict.",
+    "The accusations come as the World Food Programme reports that most people in Gaza face acute food insecurity, warning that impending cuts in aid due to funding shortfalls will further aggravate conditions."
+   ],
+   "title_fa": "اعتراض فلسطینی‌ها به «قحطی مهندسی‌شده» در غزه",
+   "summary_fa": "فلسطینیان در غزه نیروهای اسرائیلی و بازرگانان را متهم کرده‌اند که با جلوگیری از ورود مواد غذایی مقوی و در مقابل، مجوز دادن به ورود تنقلات و نوشابه‌ها، «قحطی مهندسی‌شده» به راه انداخته‌اند.",
+   "body_fa": [
+    "ساکنان اعلام کرده‌اند که ارتش اسرائیل اجازه ورود اقلامی مانند شکلات و نوشابه را می‌دهد اما مانع ورود آرد، مرغ و سبزیجات تازه می‌شود، و اظهار داشتند این سیاست گرسنگی‌دادن با هدف ایجاد درگیری داخلی میان مردم طراحی شده است.",
+    "این اتهامات در حالی مطرح می‌شود که طبق اعلام برنامه جهانی غذا، بیشتر جمعیت غزه با ناامنی شدید غذایی روبه‌رو هستند و کاهش کمک‌ها به دلیل کمبود بودجه می‌تواند این بحران را وخیم‌تر کند."
+   ],
+   "title_ar": "فلسطينيون ينددون بـ«مجاعة مدبرة» في قطاع غزة",
+   "summary_ar": "اتهم فلسطينيون في قطاع غزة القوات الإسرائيلية وتجاراً بافتعال «مجاعة مدبرة» عبر السماح فقط بدخول الأطعمة غير الصحية والمشروبات الغازية مع منع المواد الغذائية الأساسية.",
+   "body_ar": [
+    "وأوضح سكان في القطاع أن الجيش الإسرائيلي يسمح بمرور الشوكولاتة والمشروبات الغازية، بينما يمنع الطحين والدجاج والخضراوات الطازجة، معتبرين أن سياسة التجويع هذه تهدف إلى خلق نزاعات داخلية بين المواطنين.",
+    "وتتزامن هذه الاتهامات مع تقارير لبرنامج الأغذية العالمي تفيد بأن أغلب سكان غزة يعانون من انعدام حاد في الأمن الغذائي، محذراً من تفاقم الوضع نتيجة تقليص المساعدات بسبب نقص التمويل."
+   ]
+  },
+  {
+   "id": "2d9a15092e45",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-houthi-drone-over-mecca",
+   "date": "2026-10-30T04:06:38Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition says Houthi drone destroyed over Mecca",
+   "title_en": "Saudi-led coalition says Houthi drone destroyed over Mecca",
+   "summary_en": "The Saudi-led coalition announced that it intercepted and destroyed an uncrewed aerial vehicle launched by Yemen's Houthis in the Mecca region.",
+   "body_en": [],
+   "title_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام پهپاد حوثی‌ها بر فراز مکه خبر داد",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد که یک فروند پهپاد شلیک‌شده توسط حوثی‌های یمن را در منطقه مکه رهگیری و منهدم کرده است.",
+   "body_fa": [],
+   "title_ar": "التحالف بقيادة السعودية يعلن تدمير طائرة مسيرة للحوثيين فوق منطقة مكة",
+   "summary_ar": "أعلن التحالف بقيادة السعودية أنه اعترض ودمر طائرة مسيرة أطلقها الحوثيون في اليمن باتجاه منطقة مكة.",
+   "body_ar": []
+  },
+  {
+   "id": "6d2fb51682a7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-chief-claims-iran-running-out-economic-lifelines",
+   "date": "2026-10-30T03:56:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "US Treasury chief claims Iran 'running out of' economic lifelines",
+   "title_en": "US Treasury chief claims Iran 'running out of' economic lifelines",
+   "summary_en": "US Treasury Secretary Scott Bessent claimed that Iran is running out of economic lifelines under Washington's sanctions and is struggling to move funds.",
+   "body_en": [
+    "In a post on X, Bessent stated that under Operation Economic Outcast, Tehran's proxies are feeling the pressure and the Islamic Revolutionary Guard Corps is reportedly failing to pay its forces. He added that the US is restricting Tehran's ability to finance Hamas, the Houthis, and Hezbollah."
+   ],
+   "title_fa": "وزیر خزانه‌داری آمریکا مدعی شد راه‌های تنفس اقتصادی ایران در حال پایان است",
+   "summary_fa": "اسکات بست، وزیر خزانه‌داری آمریکا، مدعی شد در پی تحریم‌های واشینگتن، راه‌های نجات اقتصادی ایران رو به اتمام است و این کشور در انتقال پول با دشواری مواجه شده است.",
+   "body_fa": [
+    "بست در پیامی در شبکه ایکس اعلام کرد تحت «عملیات طرد اقتصادی»، گروه‌های وابسته به تهران تحت فشار قرار گرفته‌اند و طبق گزارش‌ها، سپاه پاسداران حتی قادر به پرداخت حقوق نیروهای خود نیست. او افزود که ایالات متحده در حال قطع توانایی تهران برای تأمین مالی حوثی‌ها، حماس و حزب‌الله است."
+   ],
+   "title_ar": "وزير الخزانة الأمريكي يزعم أن شريان الحياة الاقتصادي لإيران «يوشك على النفاد»",
+   "summary_ar": "زعم وزير الخزانة الأمريكي سكوت بيسنت أن شريان الحياة الاقتصادي لإيران يوشك على النفاد في ظل عقوبات واشنطن، وأن طهران تواجه صعوبات في تحويل الأموال.",
+   "body_ar": [
+    "وفي منشور عبر منصة إكس، صرح بيسنت بأنه في إطار «عملية المنبوذ الاقتصادي»، تشعر الجماعات الموالية لطهران بالضغوط، فيما تفيد التقارير بأن الحرس الثوري يعجز عن دفع رواتب قواته. وأضاف أن الولايات المتحدة تقطع قدرة النظام على تمويل الحوثيين وحماس وحزب الله."
+   ]
+  },
+  {
+   "id": "a71980d5de0d",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+   "date": "2026-10-30T03:41:42Z",
+   "countries": [
+    "ISR",
+    "PSE",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "title_en": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+   "summary_en": "Benjamin Netanyahu's Likud party claimed that the Israeli election had been stolen, as official results showed his religious and nationalist bloc falling short of a parliamentary majority with 53 seats in the 120-member Knesset. Opposition leaders and Arab politicians condemned the rhetoric, accusing Netanyahu of attempting to delegitimize the election after Arab-led parties secured 19 seats.",
+   "body_en": [
+    "Likud intensified its unsubstantiated allegations after Supreme Court Justice Noam Sohlberg, head of the election committee, asked the Shin Bet to investigate unverified suspicions of foreign interference, which Israeli media reported were aimed at Qatar. The election commission clarified that the probe relied on classified intelligence and would not alter the final results submitted to the president, while the Shin Bet emphasized the inquiry was not aimed at casting aspersions on voters.",
+    "Opposition figures strongly pushed back against the claims. Former military chief Gadi Eisenkot, whose main opposition bloc took 48 seats, said Likud was attacking the results simply because it lost, while Yair Golan and Arab party leaders Mansour Abbas and the Joint List accused Netanyahu of inciting against the public. President Isaac Herzog urged a thorough investigation, warning against tarnishing any community that participated in the democratic process."
+   ],
+   "title_fa": "حزب نتانیاهو هم‌زمان با نتایج حاکی از از دست رفتن اکثریت مدعی «دزدیده شدن» انتخابات اسرائیل شد",
+   "summary_fa": "حزب لیکود به رهبری بنیامین نتانیاهو در حالی مدعی شد انتخابات اسرائیل «دزدیده شده» که نتایج رسمی نشان داد بلوک مذهبی و ملی‌گرای او با کسب ۵۳ کرسی از ۱۲۰ کرسی کنست اکثریت پارلمانی را از دست داده است. رهبران مخالفان و سیاستمداران عرب این اظهارات را محکوم کرده و نتانیاهو را متهم کردند که پس از دستیابی احزاب عرب به ۱۹ کرسی، در تلاش است مشروعیت انتخابات را زیر سؤال ببرد.",
+   "body_fa": [
+    "حزب لیکود ادعاهای تاییدنشده خود را پس از آن تشدید کرد که قاضی نوآم سولبرگ، رئیس کمیته انتخابات، از شین‌بت خواست تا درباره سوءظن‌های اثبات‌نشده مداخله خارجی که به گزارش رسانه‌های اسرائیلی قطر را هدف گرفته بود، تحقیق کند. کمیته انتخابات اعلام کرد که این تحقیقات مبتنی بر اطلاعات طبقه‌بندی‌شده است و تأثیری بر نتایج نهایی ارائه‌شده به رئیس‌جمهور نخواهد داشت، و شین‌بت نیز تأکید کرد که هدف این بررسی‌ها متهم کردن هیچ بخشی از جامعه نیست.",
+    "چهره‌های اپوزیسیون به تندی به این ادعاها واکنش نشان دادند. گادی آیزنکوت، رئیس پیشین ستاد ارتش که بلوک اصلی مخالفان او ۴۸ کرسی کسب کرده است، گفت لیکود این اقدامات را صرفاً به دلیل شکست خود انجام می‌دهد؛ در حالی که یائیر گولان و رهبران احزاب عرب از جمله منصور عباس و فهرست مشترک، نتانیاهو را به تحریک علیه جامعه متهم کردند. اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، ضمن درخواست برای انجام تحقیقات کامل، هشدار داد که نباید جامعه‌ای را که از حق رأی خود استفاده کرده خدشه‌دار کرد."
+   ],
+   "title_ar": "حزب نتنياهو يزعم أن انتخابات إسرائيل «سُرقت» بالتزامن مع نتائج تظهر خسارته للأغلبية",
+   "summary_ar": "زعم حزب الليكود بقيادة بنيامين نتنياهو أن الانتخابات الإسرائيلية قد «سُرقت»، بعدما أظهرت النتائج الرسمية خسارة كتلته الدينية والقومية للأغلبية البرلمانية بحصولها على 53 مقعداً في الكنيست المكون من 120 عضواً. وندد قادة المعارضة والسياسيون العرب بهذا الخطاب، متهمين نتنياهو بمحاولة نزع الشرعية عن الانتخابات بعدما حققت الأحزاب العربية 19 مقعداً.",
+   "body_ar": [
+    "صعد حزب الليكود مزاعمه غير المستندة إلى أدلة بعدما طلب رئيس لجنة الانتخابات، قاضي المحكمة العليا نوعام سولبرغ، من جهاز الشاباك التحقيق في شبهات غير مؤكدة بوجود تدخل أجنبي، أشارت وسائل إعلام إسرائيلية إلى أنها استهدفت قطر. وأوضحت لجنة الانتخابات أن التحقيق استند إلى معلومات استخباراتية سرية ولن يؤثر في النتائج النهائية التي ستُقدم إلى الرئيس، بينما شدد الشاباك على أن التحقيق لا يهدف إلى التشكيك في أي فئة من الناخبين.",
+    "ورفضت قيادات المعارضة هذه المزاعم بشدة؛ إذ قال رئيس الأركان السابق غادي آيزنكوت، الذي حصدت كتلته المعارضة الرئيسية 48 مقعداً، إن الليكود يتصرف على هذا النحو بسبب خسارته، بينما اتهم يائير غولان وقادة الأحزاب العربية، ومنهم منصور عباس والقائمة المشتركة، نتنياهو بالتحريض ضد المواطنين. من جانبه، دعا الرئيس يتسحاق هرتسوغ إلى تحقيق كامل، محذراً من تشويه سمعة أي مجتمع مارس حقه الديمقراطي في التصويت."
+   ]
+  },
+  {
+   "id": "12473ec8a84c",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-says-trump-will-not-allow-us-conflict-iran-turn-forever-war",
+   "date": "2026-10-30T02:56:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Vance says Trump will not allow US conflict in Iran to turn into a 'forever war'",
+   "title_en": "Vance says Trump will not allow US conflict in Iran to turn into a 'forever war'",
+   "summary_en": "US Vice President JD Vance stated that President Donald Trump will prevent the conflict with Iran from turning into a \"forever war\".",
+   "body_en": [
+    "Addressing concerns over foreign interventions in the Middle East, Vance noted that the US has had some form of involvement in Iran for seven months and has dealt with the country for 47 years. He pledged that the Trump administration would avoid entering a prolonged military engagement."
+   ],
+   "title_fa": "ونس می‌گوید ترامپ اجازه نخواهد داد درگیری آمریکا با ایران به «جنگی بی‌پایان» تبدیل شود",
+   "summary_fa": "جی‌دی ونس، معاون رئیس‌جمهور ایالات متحده، اعلام کرد که دونالد ترامپ اجازه نخواهد داد درگیری با ایران به یک «جنگ بی‌پایان» تبدیل شود.",
+   "body_fa": [
+    "ونس با اشاره به نگرانی‌ها درباره ماجراجویی‌های خارجی در خاورمیانه یادآور شد که آمریکا در هفت ماه گذشته به شکلی درگیر مسئله ایران بوده و در طول ۴۷ سال گذشته با این کشور سر و کار داشته است. وی تعهد داد که دولت ترامپ از تبدیل این درگیری به جنگی فرسایشی جلوگیری خواهد کرد.",
+    "وفي معرض حديثه عن الإحباط تجاه التدخلات الخارجية في الشرق الأوسط، أشار فانس إلى أن الولايات المتحدة منخرطة بشكل أو بآخر في إيران منذ سبعة أشهر وتتعامل معها منذ 47 عاماً. وتعهد بأن إدارة ترامب لن تسمح بانجرار واشنطن إلى حرب مفتوحة."
+   ],
+   "title_ar": "فانس يقول إن ترامب لن يسمح بتحول الصراع الأمريكي مع إيران إلى \"حرب لا نهاية لها\"",
+   "summary_ar": "صرح نائب الرئيس الأمريكي جيه دي فانس بأن الرئيس دونالد ترامب لن يسمح بتحول الصراع مع إيران إلى \"حرب لا نهاية لها\".",
+   "body_ar": []
+  },
+  {
+   "id": "e13a203d3372",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+   "date": "2026-10-30T00:11:20Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+   "title_en": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+   "summary_en": "Yemen's Houthi forces claimed to have launched six missile and drone attacks against airports and oil infrastructure across Saudi Arabia. The claims follow high-level diplomatic talks in Tehran between Iranian, Saudi, Turkish, and Pakistani officials aimed at reducing regional escalation.",
+   "body_en": [
+    "Houthi spokesperson Yahya Saree stated on X that the group targeted key sites, including oil refineries in Ras Tanura and Rabigh, an Aramco facility in Abqaiq, and international airports in Riyadh and Dammam, as well as a military headquarters in Najran. While there was no independent verification of all the strikes, the Saudi-led coalition reported intercepting two Houthi ballistic missiles over Riyadh, with Saudi Civil Defence stating that falling shrapnel injured one citizen and damaged property.",
+    "The military escalation comes despite a recent meeting in Tehran hosted by Iranian security chief Mohsen Rezaei and attended by Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir, and Turkish intelligence chief Ibrahim Kalin. Following the summit, participants had agreed to maintain dialogue to foster regional security and prevent further military escalation."
+   ],
+   "title_fa": "نیروهای حوثی‌ها مدعی ۶ حمله به فرودگاه‌ها و تأسیسات نفتی عربستان شدند",
+   "summary_fa": "نیروهای حوثی‌ها مدعی شده‌اند که شش حمله موشکی و پهپادی به فرودگاه‌ها و تأسیسات نفتی در سراسر عربستان سعودی انجام داده‌اند. این ادعاها پس از گفتگوهای دیپلماتیک سطح بالا در تهران میان مقامات ایرانی، سعودی، ترکیه‌ای و پاکستانی برای کاهش تنش‌های منطقه‌ای مطرح می‌شود.",
+   "body_fa": [
+    "یحیی سریع، سخنگوی حوثی‌ها، در ایکس اعلام کرد که این گروه سایت‌های کلیدی از جمله پالایشگاه‌های نفت در رأس تنوره و رابغ، تأسیسات آرامکو در ابقیق، فرودگاه‌های بین‌المللی در ریاض و دمام و یک مقر نظامی در نجران را هدف قرار داده است. اگرچه تأیید مستقلی برای همه این حملات وجود ندارد، ائتلاف تحت رهبری عربستان از رهگیری دو موشک بالستیک حوثی‌ها بر فراز ریاض خبر داد و دفاع مدنی عربستان نیز اعلام کرد بر اثر سقوط ترکش‌ها یک شهروند زخمی شده و خساراتی وارد آمده است.",
+    "این تصاعد نظامی با وجود نشست اخیر در تهران به میزبانی محسن رضایی، مقام امنیتی ایران، و با حضور خالد بن سلمان وزیر دفاع عربستان، عاصم منیر فرمانده ارتش پاکستان و ابراهیم قالین رئیس اطلاعات ترکیه رخ می‌دهد. پس از این نشست، شرکت‌کنندگان توافق کرده بودند که گفتگوها را برای تقویت امنیت منطقه‌ای و جلوگیری از تصاعد نظامی ادامه دهند."
+   ],
+   "title_ar": "قوات الحوثيين تعلن تنفيذ ستة هجمات على مطارات ومطارات ومنشآت نفطية سعودية",
+   "summary_ar": "أعلنت قوات الحوثيين في اليمن تنفيذ ست هجمات بالصواريخ والمسيرات استهدفت مطارات وبنية تحتية نفطية في مناطق مختلفة من السعودية. وتأتي هذه الإعلانات عقب محادثات دبلوماسية رفيعة المستوى في تهران جمعت مسؤولين من إيران والسعودية وتركيا وباكستان بهدف خفض التصعيد الإقليمي.",
+   "body_ar": [
+    "وذكر المتحدث باسم الحوثيين يحيى سريع في بيان على منصة إكس أن الجماعة استهدفت مواقـع حيوية شملت مصفاتي النفط في رأس تنورة ورابغ، ومرفقاً لشركة آرامكو في بقيق، ومطارين دوليين في الرياض والدمام، إضافة إلى مقر عسكري في نجران. وفي حين لم يتم التحقق بشكل مستقل من جميع هذه الهجمات، أعلن التحالف بقيادة السعودية اعتراض صاروخين باليستيين أطلقهما الحوثيون باتجاه الرياض، وذكر الدفاع المدني السعودي أن شظايا الاعتراض أدت إلى إصابة مواطن وإلحاق أضرار مادية.",
+    "ويأتي هذا التصعيد العسكري رغم الاجتماع الأخير الذي عقد في تهران برئاسة المسؤول الأمني الإيراني محسن رضائي، وبحضور وزير الدفاع السعودي خالد بن سلمان، وقائد الجيش الباكستاني عاصم منير، ورئيس الاستخبارات التركية إبراهيم قالين. وكان المشاركون قد اتفقوا عقب اللقاء على مواصلة المحادثات لتعزيز الأمن الإقليمي ومنع العودة إلى التصعيد العسكري."
+   ]
+  },
+  {
+   "id": "877c7c82aa62",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-qalibaf-says-progress-only-possible-when-tehrans-seven-conditions",
+   "date": "2026-10-29T23:34:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran's Qalibaf says progress only possible when Tehran's seven conditions are met",
+   "title_en": "Iran's Qalibaf says progress only possible when Tehran's seven conditions are met",
+   "summary_en": "Iranian Parliament Speaker Mohammad Baqer Qalibaf said that progress can only be achieved if Tehran's seven conditions are met, noting that these terms have been clearly conveyed to mediators.",
+   "body_en": [
+    "Qalibaf also stated on Thursday that a carrot-and-stick approach has no effect on Iran."
+   ],
+   "title_fa": "قالیباف: پیشرفت تنها در صورت تحقق شروط هفت‌گانه تهران ممکن است",
+   "summary_fa": "محمدباقر قالیباف، رئیس مجلس ایران، اعلام کرد پیشرفت تنها در صورتی حاصل می‌شود که شروط هفت‌گانه تهران محقق شود و تأکید کرد این شروط به صورت شفاف به میانجی‌ها ابلاغ شده است.",
+   "body_fa": [
+    "قالیباف روز پنجشنبه همچنین تأکید کرد که رویکرد «چماق و هویج» هیچ تأثیری بر ایران ندارد."
+   ],
+   "title_ar": "قاليباف: تحقيق التقدم مرهون بتلبية شروط طهران السبعة",
+   "summary_ar": "أعلن رئيس البرلمان الإيراني محمد باقر قاليباف أن تحقيق التقدم لا يمكن أن يتم إلا بتلبية شروط طهران السبعة، مشيراً إلى أنه تم إبلاغ الوسطاء بها بوضوح وبشكل متكرر.",
+   "body_ar": [
+    "وأضاف قاليباف يوم الخميس أن سياسة «العصا والجزرة» لا تجدي نفعاً مع إيران."
+   ]
+  },
+  {
+   "id": "73e88b0293c0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-envoy-says-iran-talks-very-close-agreement-de-escalation-process",
+   "date": "2026-10-29T22:52:16Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "score": 8,
+   "title": "US envoy says Iran talks ‘very close’ to agreement on de-escalation process",
+   "title_en": "US envoy says Iran talks ‘very close’ to agreement on de-escalation process",
+   "summary_en": "The US ambassador to Turkey, Tom Barrack, said negotiations to de-escalate tensions with Iran are \"very close\" to an agreement on pausing hostilities, though potential military options remain under consideration.",
+   "body_en": [
+    "Speaking to CNN, Barrack credited mediation efforts by Qatar, Pakistan, and other US allies with bringing the parties near an agreement to reduce tensions, noting that significant progress could occur within two weeks while acknowledging that a comprehensive resolution would not be reached immediately.",
+    "When asked about the possibility of a targeted military operation against Iran, Barrack stated that President Donald Trump and his administration were giving serious consideration to kinetic action."
+   ],
+   "title_fa": "فرستاده آمریکا می‌گوید مذاکرات با ایران به توافق درباره روند تنش‌زدایی «بسیار نزدیک» است",
+   "summary_fa": "تام باراک، سفیر ایالات متحده در ترکیه، گفت مذاکرات برای کاهش تنش‌ها با ایران به دستیابی به توافقی پیرامون توقف موقت درگیری‌ها «بسیار نزدیک» شده است، هرچند گزینه‌های نظامی آمریکا همچنان روی میز است.",
+   "body_fa": [
+    "باراک در گفتگو با سی‌ان‌ان، تلاش‌های میانجیگرانه قطر، پاکستان و سایر متحدان واشنگتن را عامل نزدیک شدن دو طرف به توافقی برای کاهش تنش دانست و اظهار داشت که گام‌های چشمگیری ممکن است طی دو هفته آینده برداشته شود، هرچند دستیابی فوری به راه‌حلی جامع ممکن نخواهد بود.",
+    "باراک در پاسخ به سؤالی درباره احتمال اجرای یک عملیات نظامی کوتاه و شدید علیه ایران تأیید کرد که دونالد ترامپ و دولت او اقدام نظامی مستقیم را به شکلی جدی مد نظر دارند."
+   ],
+   "title_ar": "مبعوث أمريكي يقول إن المحادثات مع إيران \"قريبة جداً\" من اتفاق بشأن مسار خفض التصعيد",
+   "summary_ar": "قال السفير الأمريكي لدى تركيا، توم باراك، إن المفاوضات الرامية إلى تهدئة التوترات مع إيران باتت \"قريبة جداً\" من التوصل إلى اتفاق حول وقف مؤقت للأعمال العدائية، رغم بقاء الخيارات العسكرية مطروحة.",
+   "body_ar": [
+    "وفي تصريحات لشبكة سي إن إن، عزا باراك هذا التقدم إلى جهود الوساطة التي بذلتها قطر وباكستان وحلفاء آخرون للولايات المتحدة، مشيراً إلى إمكانية اتخاذ خطوات ملموسة خلال أسبوعين، مع تأكيده أن الحل الشامل لن يتحقق على الفور.",
+    "ورداً على سؤال حول احتمال تنفيذ ضربة عسكرية سريعة ومكثفة ضد إيران، أوضح باراك أن الرئيس دونالد ترامب وإدارته يدرسون بجدية خيار العمليات العسكرية."
+   ]
+  },
   {
    "id": "387bfdb20dd6",
    "lang": "en",
