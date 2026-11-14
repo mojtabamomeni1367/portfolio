@@ -1,7 +1,68 @@
 {
- "updated": "2026-11-14T01:24:14Z",
- "count": 421,
+ "updated": "2026-11-14T04:01:50Z",
+ "count": 423,
  "items": [
+  {
+   "id": "a6a72e321c07",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/ckn90dnql70et?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T04:00:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "یک مقام آمریکایی: ترامپ با شی و پوتین درباره ایران گفتگو خواهد کرد",
+   "title_en": "US Official: Trump to Discuss Iran with Xi and Putin",
+   "summary_en": "The White House confirmed that Donald Trump will hold a trilateral meeting with Xi Jinping and Vladimir Putin during his visit to China next week, with a US official stating he plans to discuss Iran.",
+   "body_en": [
+    "The US President's trip to China is scheduled for the Asia-Pacific summit. White House spokesperson Olivia Wells stated that global nuclear arms reduction will be among the topics discussed during the trilateral meeting.",
+    "According to a senior US official, the meeting is not expected to address Russia's war against Ukraine. The official emphasized that Washington maintains a separate negotiating track with Kyiv and Moscow, making it inappropriate to raise the Ukraine issue with China present."
+   ],
+   "title_fa": "یک مقام آمریکایی: ترامپ با شی و پوتین درباره ایران گفتگو خواهد کرد",
+   "summary_fa": "کاخ سفید تأیید کرده است که دونالد ترامپ در جریان سفر هفته آینده خود به چین، دیداری سه‌جانبه با شی جین‌پینگ و ولادیمیر پوتین خواهد داشت و یک مقام آمریکایی گفت او قصد دارد درباره ایران گفتگو کند.",
+   "body_fa": [
+    "سفر رئیس‌جمهور آمریکا به چین به منظور شرکت در اجلاس کشورهای حوزه آسیا و اقیانوس آرام انجام می‌شود. اولیویا ولز، سخنگوی کاخ سفید، اعلام کرد کاهش تسلیحات هسته‌ای در جهان از موضوعات مورد بحث در این نشست خواهد بود.",
+    "به گفته یک مقام ارشد آمریکایی، انتظار نمی‌رود در این دیدار سه‌جانبه درباره جنگ روسیه علیه اوکراین صحبتی به میان آید. وی تأکید کرد واشنگتن مسیر مذاکراتی جداگانه‌ای با کی‌یف و مسکو دارد و طرح موضوع اوکراین در حضور چین مناسب نیست."
+   ],
+   "title_ar": "مسؤول أمريكي: ترامب سيبحث موضوع إيران مع شي وبوتين",
+   "summary_ar": "أكد البيت الأبيض أن دونالد ترامب سيعقد اجتماعاً ثلاثياً مع شي جين بينغ وولاديمير بوتين خلال زيارته إلى الصين الأسبوع المقبل، وذكر مسؤول أمريكي أنه يعتزم مناقشة ملف إيران.",
+   "body_ar": [
+    "تأتي زيارة الرئيس الأمريكي إلى الصين للمشاركة في قمة دول آسيا والمحيط الهادئ. وأوضحت المتحدثة باسم البيت الأبيض، أوليفيا ويلز، أن الحد من الأسلحة النبوية في العالم سيكون من بين المواضيع المطروحة للنقاش.",
+    "وفقاً لمسؤول أمريكي كبير، فإنه من غير المتوقع مناقشة الحرب الروسية ضد أوكرانيا خلال الاجتماع الثلاثي. وأكد المسؤول أن واشنطن تسلك مساراً تفاوضياً منفصلاً تماماً مع كييف وموسكو، مما يجعل طرح موضوع أوكرانيا غير مناسب في وجود الصين."
+   ]
+  },
+  {
+   "id": "9365f2307fa1",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044365/yemeni-govt-forces-fortify-defences-in-aden",
+   "date": "2026-11-14T02:24:01Z",
+   "countries": [
+    "ARE",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni govt forces fortify defences in Aden",
+   "title_en": "Yemeni govt forces fortify defences in Aden",
+   "summary_en": "Yemen's internationally recognized government is constructing military fortifications on the outskirts of Aden province as Houthi forces capture strategic high ground in nearby areas.",
+   "body_en": [
+    "Military officials reported receiving high-level directives to build defenses west and north of Aden Governorate, including digging tunnels and stacking sandbags. The moves come as fighting has intensified since a 2022 truce collapsed over the summer, followed by the government losing control of the Red Sea coastline near the Bab al-Mandab strait in September.",
+    "Houthi forces are advancing eastward toward the Gulf of Aden after taking strategic hilltops in Al-Madaribah wal Ara district and capturing the neighboring Al-Maqatirah region. These advances have disrupted government efforts to retake the besieged city of Taiz while opening routes for further Houthi progress."
+   ],
+   "title_fa": "نیروهای حکومت یمن استحکامات دفاعی خود در عدن را تقویت می‌کنند",
+   "summary_fa": "دولت شناخته‌شده بین‌المللی یمن در پی تصرف ارتفاعات استراتژیک اطراف استان عدن توسط حوثی‌ها، در حال ساخت استحکامات نظامی در حومه این استان است.",
+   "body_fa": [
+    "مقامات نظامی گزارش دادند که دستورالعمل‌های عالی برای ایجاد استحکامات در غرب و شمال استان عدن، از جمله حفر تونل و چیدن کیسه‌های شن، دریافت کرده‌اند. این اقدامات پس از تشدید درگیری‌ها ناشی از فروپاشی آتش‌بس ۲۰۲۲ در تابستان و از دست رفتن کنترل سواحل البحر الاحمر در نزدیکی تنگه باب‌المندب در سپتامبر صورت می‌گیرد.",
+    "پیشروی نیروهای حوثی‌ها به سمت شرق و خلیج عدن پس از تصرف ارتفاعات استراتژیک در منطقه المضاربة و العارة و تصرف منطقه المقاطرة ادامه دارد. این پیشروی‌ها تلاش‌های حکومت برای بازپس‌گیری شهر تحت محاصره تعز را پیچیده کرده و راه را برای پیشروی‌های بیشتر باز گذاشته است."
+   ],
+   "title_ar": "القوات الحكومية اليمنية تعزز دفاعاتها في عدن",
+   "summary_ar": "بدأت الحكومة اليمنية المعترف بها دولياً في إنشاء تحصينات عسكرية على أطراف محافظة عدن مع سيطرة الحوثيين على مرتفعات استراتيجية في المناطق المحيطة بها.",
+   "body_ar": [
+    "أفاد مسؤولون عسكريون بتلقي توجيهات رفيعة المستوى لإنشاء تحصينات غرب وشمال محافظة عدن، تتضمن حفر الأنفاق وضع أكياس الرمال. وتأتي هذه الخطوات مع تصاعد القتال منذ انهيار هدنة عام 2022 خلال الصيف، وفقدان الحكومة السيطرة على ساحل البحر الأحمر قرب مضيق باب المندب في سبتمبر.",
+    "وتواصل قوات الحوثيين التقدم شرقاً نحو خليج عدن بعد سيطرتها على مرتفعات استراتيجية في مديرية المضاربة والعارة وسقوط منطقة المقاطرة المجاورة بأيديهم. وقد أدت هذه التطورات إلى تعقيد جهود الحكومة لاستعادة مدينة تعز المحاصرة وفتحت الطريق أمام المزيد من التقدم."
+   ]
+  },
   {
    "id": "a34a30b3f745",
    "lang": "en",
