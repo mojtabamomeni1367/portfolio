@@ -1,7 +1,69 @@
 {
- "updated": "2026-11-15T10:03:40Z",
- "count": 432,
+ "updated": "2026-11-15T13:11:06Z",
+ "count": 434,
  "items": [
+  {
+   "id": "884b96312ced",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
+   "date": "2026-11-15T12:02:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+   "title_en": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+   "summary_en": "Israeli forces have blockaded the Beit Ula industrial zone near Hebron since November 4, isolating around 60 Palestinian businesses and endangering 2,500 jobs.",
+   "body_en": [
+    "Israeli military operations sealed the entrances to the Beit Ula industrial complex with earthen berms and stone barriers, blocking raw materials from entering and finished goods from leaving. Local business owners and officials say the measure threatens the livelihoods of thousands of workers and risks forcing major factories to shut down.",
+    "Israel claimed the restrictions were imposed because workers enter Israel from the area without permits, a charge denied by local business owners who describe the blockade as collective punishment. Palestinian Minister of National Economy Mohammad al-Amour said the measures targeting West Bank economic facilities amount to a war on the Palestinian economy."
+   ],
+   "title_fa": "محاصره منطقه صنعتی بیت اولای الخلیل اقتصاد فلسطین را تهدید می‌کند",
+   "summary_fa": "نیروهای اسرائیلی از ۴ نوامبر منطقه صنعتی بیت اولا در نزدیکی الخلیل را محاصره کرده‌اند که این امر حدود ۶۰ کسب‌وکار فلسطینی را منزوی کرده و ۲۵۰۰ شغل را به خطر انداخته است.",
+   "body_fa": [
+    "ورودی‌های شهرک صنعتی بیت اولا با سدهای خاکی و موانع سنگی توسط نیروهای نظامی اسرائیل مسدود شده است، امر مانع از ورود مواد اولیه و خروج کالاهای تولیدشده می‌شود. صاحبان کسب‌وکارهای محلی و مقامات می‌گویند این اقدام معیشت هزاران کارگر را تهدید کرده و خطر تعطیلی کارخانه‌های بزرگ را به همراه دارد.",
+    "اسرائیل ادعا کرده است که این محدودیت‌ها به دلیل ورود بدون مجوز کارگران از این منطقه به داخل اسرائیل اعمال شده است؛ اتهامی که توسط صاحبان کسب‌وکار محلی رد شده و این محاصره را مجازات دسته‌جمعی می‌دانند. محمد العمور، وزیر اقتصاد ملی فلسطین، گفت که این اقدامات علیه مراکز اقتصادی کرانه باختری به منزله جنگ علیه اقتصاد فلسطین است."
+   ],
+   "title_ar": "حصار منطقة بيت أولا الصناعية في الخليل يهدد الاقتصاد الفلسطيني",
+   "summary_ar": "فرضت القوات الإسرائيلية حصاراً على منطقة بيت أولا الصناعية قرب الخليل منذ 4 تشرين الثاني/نوفمبر، ما أدى إلى عزل نحو 60 منشأة اقتصادية فلسطينية وتهديد 2500 وظيفة.",
+   "body_ar": [
+    "أغلقت القوات الإسرائيلية مداخل مجمع بيت أولا الصناعي بالسواتر الترابية والحواجز الحجرية، ما منع دخول المواد الخام وخروج المنتجات. وأفاد أصحاب أعمال ومسؤولون محليون بأن هذا الإجراء يهدد مصادر رزق آلاف العمال ويخاطر بإغلاق مصانع رئيسية.",
+    "وزعمت إسرائيل أن القيود فرضت بسبب دخول عمال إلى إسرائيل من المنطقة دون تصاريع العمل، وهو ما نفاه أصحاب الأعمال المحليون معتبرين الحصار عقاباً جماعياً. وقال وزير الاقتصاد الوطني الفلسطيني محمد العمور إن الإجراءات التي تستهدف المنشآت الاقتصادية في الضفة الغربية ترقى إلى حرب على الاقتصاد الفلسطيني."
+   ]
+  },
+  {
+   "id": "dedd224b91da",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
+   "date": "2026-11-15T11:56:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
+   "title_en": "Israel coalition talks put Arab party leader under pressure over Hamas",
+   "summary_en": "United Arab List leader Mansour Abbas is facing pressure to designate Hamas a terrorist organization and recognize Israel as a Jewish state as conditions for joining a prospective ruling coalition led by Gadi Eisenkot.",
+   "body_en": [
+    "Gadi Eisenkot, who has been tasked with forming Israel's next government, has demanded that Mansour Abbas recognize Hamas as a terrorist group and define Israel as a Jewish and democratic state in exchange for joining the coalition. Abbas has denied agreeing to the Hamas designation, emphasizing the need for political space to act as a bridge between Jews and Palestinians while protecting his community.",
+    "The coalition negotiations remain complicated as opposition leader Benjamin Netanyahu attempts to increase the political cost of partnering with Ra'am, while Yisrael Beiteinu leader Avigdor Liberman maintains his refusal to participate in a minority government reliant on Arab-led parties."
+   ],
+   "title_fa": "مذاکرات ائتلافی در اسرائیل رهبر حزب عربی را بر سر حماس تحت فشار قرار داده است",
+   "summary_fa": "منصور عباس، رهبر فهرست متحد عربی، با فشار برای تروریستی اعلام کردن حماس و به رسمیت شناختن اسرائیل به عنوان کشوری یهودی به عنوان شروط پیوستن به ائتلاف حاکم احتمالی به رهبری گادی آیزنکوت مواجه است.",
+   "body_fa": [
+    "گادی آیزنکوت که مامور تشکیل کابینه بعدی اسرائیل شده است، شرط کرده که منصور عباس حماس را به عنوان یک گروه تروریستی بشناسد و اسرائیل را کشوری یهودی و دمکراتیک تعریف کند تا بتواند وارد ائتلاف شود. عباس موافقت با تروریستی خواندن حماس را تکذیب کرده و بر نیاز به فضای سیاسی برای ایفا کردن نقش پل میان یهودیان و فلسطینی‌ها تاکید کرده است.",
+    "مذاکرات ائتلافی همچنان پیچیده است، زیرا بنیامین نتانیاهو تلاش می‌کند هزینه سیاسی شراکت با راعم را افزایش دهد، در حالی که آویگدور لیبرمن، رهبر حزب اسرائیل خانه ما، بر مخالفت خود با مشارکت در یک دولت اقلیت متکی بر حزب‌های عربی تاکید دارد."
+   ],
+   "title_ar": "محادثات الائتلاف في إسرائيل تضع زعيم الحزب العربي تحت الضغط بشأن حماس",
+   "summary_ar": "يواجه منصور عباس، زعيم القائمة العربية الموحدة، ضغوطاً لتصنيف حركة حماس منظمة \"إرهابية\" والاعتراف بإسرائيل كدولة يهودية كشرطين للانضمام إلى ائتلاف حكومي محتمل برئاسة غادي آيزنكوت.",
+   "body_ar": [
+    "طالب غادي آيزنكوت، المكلف بتشكيل الحكومة الإسرائيلية المقبلة، منصور عباس بالاعتراف بحماس كجماعة إرهابية وتعريف إسرائيل كدولة يهودية وديمقراطية مقابل الانضمام إلى الائتلاف. ونفى عباس موافقته على تصنيف حماس، مؤكداً حاجته إلى مساحة سیاسیة للعمل كجسر بين اليهود والفلسطينيين.",
+    "وتستمر تعقيدات مفاوضات الائتلاف مع محاولة بنيامين نتنياهو زيادة التكلفة السياسية للشراكة مع القائمة الموحدة، في حين يواصل زعيم حزب \"إسرائيل بيتنا\" أفيغدور ليبرمان رفضه المشاركة في حكومة أقلية تعتمد على الأحزاب العربية."
+   ]
+  },
   {
    "id": "5b2ee69eb6c5",
    "lang": "en",
