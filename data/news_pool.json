@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:03:56Z",
+ "updated": "2026-11-15T19:08:56Z",
  "items": [
   {
    "id": "64d4544b04eb",
@@ -2722,6 +2722,215 @@
    ],
    "desc": "اتفق الاتحادان الأسترالي والأردني على نقل اللقاء المقرر في 17 نوفمبر/ تشرين الثاني الجاري، استجابة لمخاوف اللاعبين الأستراليين بشأن الأوضاع الأمنية فيما قال الاتحاد الأردني إن السبب هو \"رغبة لاعبي المنتخب الأسترالي في تجنب عناء السفر\"",
    "score": 3
+  },
+  {
+   "id": "64178a3da0a5",
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T16:15:20Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "score": 3
+  },
+  {
+   "id": "5e8dc33dfba2",
+   "title": "Christian priest says US denied him a visa for being Palestinian",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
+   "date": "2026-11-15T18:07:32Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
+   "score": 3
+  },
+  {
+   "id": "380758cb22f0",
+   "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+   "date": "2026-11-15T17:33:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb.",
+   "score": 7,
+   "dup_of": "9365f2307fa1"
+  },
+  {
+   "id": "311e9be033ea",
+   "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+   "date": "2026-11-15T15:32:43Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "score": 7,
+   "dup_of": "786d24ee2827"
+  },
+  {
+   "id": "2b743f026fc3",
+   "title": "Iran launches drone attacks against US military base in Bahrain",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+   "date": "2026-11-15T18:03:56Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "1502c73f362f",
+   "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
+   "date": "2026-11-15T16:41:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli military said on Sunday its forces had killed a senior member of Hamas's military wing in Gaza. The militant group confirmed the death of Samir Abu Younis, the commander of its Rafah brigade, adding that he played a prominent role in planning the October 7, 2023 attacks.",
+   "score": 8,
+   "dup_of": "02c39fc80528"
+  },
+  {
+   "id": "74fd339f4076",
+   "title": "Asif hopeful of consensus on new provinces, says it will bring 'progressive' change in political landscape",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044732/asif-hopeful-of-consensus-on-new-provinces-says-it-will-bring-progressive-change-in-political-landscape",
+   "date": "2026-11-15T17:56:49Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Defence Minister Khawaja Asif on Sunday said the country’s political landscape would change in a progressive way if a consensus was reached on the matter of creating new provinces. The defence minister made the remarks in an interview on Geo News programme ‘Naya Pakistan’ with Shahzad Iqbal. He was asked about reports that discussions were taking place on generating a broader consensus for creating new provinces, referring to two recent high-level meetings involving the president. Asif replied that he had no inside information on the matter and “even if there was, obviously I cannot spill it o",
+   "score": 5
+  },
+  {
+   "id": "0b3d7085c070",
+   "title": "FIA books 8 Pakistanis deported from Turkiye for violating immigration laws",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044721/fia-books-8-pakistanis-deported-from-turkiye-for-violating-immigration-laws",
+   "date": "2026-11-15T18:22:28Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "ISLAMABAD: The Federal Investigation Agency (FIA) said on Sunday it has registered a case against eight Pakistanis deported from Turkiye for allegedly violating immigration laws. FIA Islamabad registered the case against the eight deportees, who had travelled to Turkiye on work visas but allegedly started working elsewhere illegally instead of joining the companies concerned. Turkish police arrested them, took them to jail and later deported them to Pakistan. The case has been registered under Sections 3 and 4 of the Passport Act, 1974. The involvement of other individuals or agents, if any, w",
+   "score": 3
+  },
+  {
+   "id": "2ec0e9a02e9e",
+   "title": "GB police register case as PPP protests alleged malpractice in Diamer repolling",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044693/gb-police-register-case-as-ppp-protests-alleged-malpractice-in-diamer-repolling",
+   "date": "2026-11-15T16:38:10Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "GILGIT: Re-polling was held at three polling stations in Gilgit-Baltistan’s GBA-16 (Diamer-II) on Sunday, with PPP staging protests in Diamer’s Chilas, as well as Gilgit, against alleged electoral malpractice by the Istehkam-i-Pakistan Party (IPP). PPP’s Attaullah Shah and IPP’s Imam Malik are the main contenders vying for the seat in the partial repolling, held after an election tribunal accepted Malik’s plea and suspended Shah’s assembly membership. The electoral process began at 8am and continued until 5pm, with voters present within the polling station premises at that time allowed to cast",
+   "score": 4,
+   "dup_of": "2fda9f4c99e1"
+  },
+  {
+   "id": "1811491437f2",
+   "title": "Taliban authorities ban cricket on Kandahar radio",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/taliban-authorities-ban-cricket-on-kandahar-radio/article71705728.ece",
+   "date": "2026-11-15T17:47:31Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "The government has shown support for the game, hosting cricket matches during the August anniversary of its return to power",
+   "score": 5
+  },
+  {
+   "id": "9b27a54d8476",
+   "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who-says/article71705676.ece",
+   "date": "2026-11-15T17:21:47Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Respiratory infections currently make up 11% of all consultations, with the WHO ‌expecting cold weather, flooding, overcrowded shelters and poor ventilation to push these numbers higher",
+   "score": 7
+  },
+  {
+   "id": "d9dac5abe7bc",
+   "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
+   "date": "2026-11-15T16:42:37Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
+   "score": 8,
+   "dup_of": "380758cb22f0"
+  },
+  {
+   "id": "65a70837f9d0",
+   "title": "پخش مطالب مرتبط با کریکت در رسانه‌های محلی قندهار ممنوع شد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmlyjrln87njo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T17:22:11Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "مقام‌های حکومت طالبان پخش هرگونه محتوای مرتبط با کریکت را از رادیوهای قندهار در جنوب افغانستان ممنوع کرده‌اند. تصمیمی که رسانه‌های محلی و یک منبع در اداره اطلاعات و فرهنگ این ولایت تایید کرده‌اند. به گزارش خبرگزاری فرانسه، ریاست اطلاعات و فرهنگ قندهار روز شنبه به رادیوهای محلی اطلاع داده است که از این پس نشر هرگونه مطالب مرتبط به کریکت مجاز نیست.",
+   "score": 5,
+   "dup_of": "1811491437f2"
+  },
+  {
+   "id": "015defebdfa3",
+   "title": "سه مرد برای حمله مرگبار به کلیسا در اردن به اعدام محکوم شدند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqvg27xd9rvvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T16:21:41Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "سه مرد در اردن به جرم دست داشتن در تیراندازی مرگبار به یک کلیسا در حدود سه هفته پیش، به اعدام محکوم شدند. این حمله ۲۳ اکتبر رخ داد و ۹ نفر کشته و ۳۴ نفر زخمی شدند. قربانیان در مراسم تشییع یک مسیحی در یک کلیسای ارتدوکس یونانی در استان کرک حضور داشتند.",
+   "score": 6,
+   "dup_of": "0eca7d7612cb"
+  },
+  {
+   "id": "825b9a6a5bb3",
+   "title": "جماعة أنصار الله تستهدف مطار الملك خالد والمركز المالي في الرياض، واعتراض مسيرات فوق مكة والمدينة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c8zx9vqx3w22o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T18:18:41Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "أعلن الحوثيون استهداف مطار الملك خالد والمركز المالي في الرياض، فيما أفاد التحالف الذي تقوده السعودية باعتراضه 3 طائرات مسيرة في منطقتي مكة المكرمة والمدنية المنورة.",
+   "score": 9
   }
  ]
 }
