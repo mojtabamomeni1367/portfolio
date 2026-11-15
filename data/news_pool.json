@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:11:06Z",
+ "updated": "2026-11-15T16:03:56Z",
  "items": [
   {
    "id": "64d4544b04eb",
@@ -2293,6 +2293,435 @@
    "desc": "حماس کشته شدن یکی از فرماندهان ارشد نظامش را تایید کرد. ارتش اسرائیل ساعاتی پیش گفته بود که سمیر ابویونس را در حمله هوایی کشته است.",
    "score": 8,
    "dup_of": "02c39fc80528"
+  },
+  {
+   "id": "e6c7e401883d",
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "date": "2026-11-15T15:21:21Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+   "score": 6
+  },
+  {
+   "id": "6e8034a1bd74",
+   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+   "date": "2026-11-15T15:01:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+   "score": 4
+  },
+  {
+   "id": "9bd6c4b431f5",
+   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+   "date": "2026-11-15T14:55:40Z",
+   "countries": [
+    "LBN",
+    "SYR"
+   ],
+   "desc": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+   "score": 6
+  },
+  {
+   "id": "22b6b64a17a3",
+   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+   "date": "2026-11-15T14:02:08Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+   "score": 5,
+   "dup_of": "22c97f639549"
+  },
+  {
+   "id": "786d24ee2827",
+   "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+   "date": "2026-11-15T13:45:02Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
+   "score": 6
+  },
+  {
+   "id": "283284338380",
+   "title": "Iran claims drone attack on US military base in Bahrain",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+   "date": "2026-11-15T15:29:22Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the conflict remain at a stalemate, with the US maintaining its naval blockade and Iran its stranglehold over the strait of Hormuz. Story by Rachael Griffiths.",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "3429464ec80f",
+   "title": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+   "date": "2026-11-15T13:55:32Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September. The second Iranian drone attack in three days, ending a long lull in strikes during the Middle East war. Diplomatic efforts to end the almost nine-month conflict have yet to produce a breakthrough, with ​sporadic attacks continuing. Details from the ground by FRANCE 24 correspondent in Tehran, Reza Sayah.",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "28d11092eb48",
+   "title": "Two oil tankers ablaze after striking naval mines in the Strait of Hormuz",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-oil-tankers-ablaze-after-striking-naval-mines-strait-hormuz",
+   "date": "2026-11-15T15:30:14Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Two oil tankers ablaze after striking naval mines in the Strait of Hormuz The Iranian Revolutionary Guard Corps said two oil tankers crossing the Strait of Hormuz had struck naval mines. In a statement to the ISNA news agency, the IRGC said: \"two oil tankers travelling in the southern no-go zone of the Strait of Hormuz suffered a massive explosion after hitting sea mines.\" Both tankers were reportedly set ablaze after the blast. ISNA added that one of the supertankers carried more than two million barrels of crude oil, whcih sank in the southern waters of the Gulf.",
+   "score": 9,
+   "dup_of": "7affb42888dc"
+  },
+  {
+   "id": "af2b663cb13f",
+   "title": "Israel's data shows it allowed half of the promised aid trucks into Gaza",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israels-data-shows-allowed-half-promised-aid-trucks-gaza",
+   "date": "2026-11-15T15:01:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel's data shows it allowed half of the promised aid trucks into Gaza Submitted by MEE staff on Sun, 11/15/2026 - 14:15 Israeli military data shows deliveries to Gaza have fallen well short of the 4,200 trucks a week promised under the ceasefire deal in most months A boy eats from a pot as displaced Palestinians gather for hot meals distributed by a charity kitchen in Nuseirat refugee camp in the central Gaza Strip on 12 June 2026 (Eyad Baba/AFP) Off Israel has failed to meet its commitments under the Gaza ceasefire deal, allowing in only around half the agreed volume of humanitarian and co",
+   "score": 7
+  },
+  {
+   "id": "1a0809580502",
+   "title": "Did Trump's Pakistan pivot cost him support in the US midterms?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/did-trump-pakistan-pivot-cost-him-support-us-midterms",
+   "date": "2026-11-15T12:01:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Did Trump's Pakistan pivot cost him support in the US midterms? Submitted by Ali Jaswal on Sun, 11/15/2026 - 11:01 Pakistani Americans who backed Trump in 2024 say they switched to the Democrats after the US president abandoned Imran Khan and embraced Pakistan’s military leadership Supporters celebrate at a midterm election night watch party for Democratic Senate candidate Abdul El-Sayed in Detroit on 4 November 2026 (Salwan Georges/Getty Images via AFP) Off Several Pakistani Americans who helped Donald Trump return to the White House in 2024 have told Middle East Eye that the diaspora communi",
+   "score": 4
+  },
+  {
+   "id": "e9b7875d5f8c",
+   "title": "Iran warns France against Israeli ‘false flag’ over supermarket cyberattack",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-blames-israel-cyber-attack-supermarket-fridges",
+   "date": "2026-11-15T11:50:59Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran warns France against Israeli ‘false flag’ over supermarket cyberattack Iran's Islamic Revolutionary Guard Corps (IRGC) has warned France against falling into an Israeli “false flag” trap after Paris accused an Iranian cyber unit of attacking refrigeration systems at hundreds of supermarkets. IRGC spokesman Hossein Mohebbi dismissed the French allegations as “ridiculous”, accusing Israel of seeking to turn European countries against Tehran and secure their support. “Paris should beware of the Zionist regime's false flag trap,” Mohebbi wrote on X on Saturday. Read more: Iran warns France ov",
+   "score": 6
+  },
+  {
+   "id": "1483a85075b1",
+   "title": "Saudi Arabia joins condemnation of Iranian attacks on Bahrain",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-joins-condemnation-iranian-attacks-bahrain",
+   "date": "2026-11-15T11:46:46Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "SAU"
+   ],
+   "desc": "Saudi Arabia joins condemnation of Iranian attacks on Bahrain Saudi Arabia expressed its “full solidarity” with Bahrain and condemned the Iranian attack on the kingdom. The Saudi foreign ministry called for an “immediate cessation of the blatant Iranian attacks on the countries of the region”. Riyadh said the “Iranian attacks constitute a violation of international law and the principles of good neighbourliness”. The statement echoed similar condemnations of the Iranian strikes on Bahrain by Egypt and Jordan.",
+   "score": 7
+  },
+  {
+   "id": "384ebdcb7b03",
+   "title": "'Zionist regime's false flag': Iran warns France over supermarket cyberattack",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/zionist-regimes-false-flag-iran-warns-france-over-supermarket-cyberattack",
+   "date": "2026-11-15T11:39:05Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "'Zionist regime's false flag': Iran warns France over supermarket cyberattack Submitted by MEE staff on Sun, 11/15/2026 - 08:59 Paris has accused an IRGC-linked cyber unit of targeting refrigeration systems at hundreds of supermarkets A woman walks past empty refrigerators at an Intermarche supermarket in Nevez, western France, after a cyberattack disrupted refrigeration systems on 12 October 2026 (Fred Tanneau/AFP) Off Iran's Islamic Revolutionary Guard Corps (IRGC) has warned France against falling into an Israeli “false flag” trap after Paris accused an Iranian cyber unit of attacking refri",
+   "score": 6,
+   "dup_of": "e9b7875d5f8c"
+  },
+  {
+   "id": "d4ca26809432",
+   "title": "Jordan condemns Iranian drone strike on Bahrain",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-condemns-irans-drone-strike-bahrain",
+   "date": "2026-11-15T11:16:50Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "ISR",
+    "JOR"
+   ],
+   "desc": "Jordan condemns Iranian drone strike on Bahrain Jordan joined other regional partners in condemning Iran’s targeting of Bahrain amid uncertainty over whether the war involving Iran, the United States and Israel would continue. A Jordanian foreign ministry spokesperson described the attacks as a “dangerous escalation and a blatant breach of international law”. The spokesperson condemned “Iran’s brutal attacks on the sister kingdom of Bahrain” as a violation of its sovereignty and a threat to its security, stability and territorial integrity.",
+   "score": 7
+  },
+  {
+   "id": "87a0be99fa47",
+   "title": "IRGC says Bahrain drone strike responded to ‘US aggression’ in southern Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-said-bahrain-drone-strike-response-us-aggression-southern-iran",
+   "date": "2026-11-15T11:12:57Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "IRGC says Bahrain drone strike responded to ‘US aggression’ in southern Iran Iran’s Islamic Revolutionary Guard Corps (IRGC) said it had launched a drone strike on a US airbase in Bahrain in response to an American attack on a telecommunications tower in southern Iran. Speaking to Sepah News, an IRGC spokesperson said the force had used “six drones” to target “the radar of the US defence site at the al-Riffa helicopter base in Bahrain”. “Expensive American drones are being shot down one after another, and a greater number of IRGC drones are heading towards American targets at this stage than i",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "1748e3a18fbe",
+   "title": "‘Looking away was never a choice for me’: How Hollywood’s love affair with Israel turned sour",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/looking-away-never-a-choice-for-me-hollywoods-love-affair-israel-turned-sour",
+   "date": "2026-11-15T09:41:40Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "‘Looking away was never a choice for me’: How Hollywood’s love affair with Israel turned sour Submitted by Fleur Hargreaves on Mon, 11/02/2026 - 10:59 A growing number of actors and film workers have been challenging their industry’s ‘deep complicity’ with Israel to end the toxic relationship US actress Hannah Einbinder wears an 'Artists4Ceasefire' pin as she attends the 83rd annual Golden Globe Awards at the Beverly Hilton hotel in Beverly Hills, California, on 11 January 2026 (Frederic J Brown/AFP) Off Once Israel could rely on Hollywood to have its reputation laundered, performing the role ",
+   "score": 3
+  },
+  {
+   "id": "c9aa492635f1",
+   "title": "Bahraini defence forces say several Iranian aerial attacks intercepted",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahraini-defence-forces-say-several-iranian-aerial-attacks-neutralised",
+   "date": "2026-11-15T07:27:15Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Bahraini defence forces say several Iranian aerial attacks intercepted Bahraini air defence systems intercepted several Iran aerial attacks on Sunday, Bahrain Defence Force said in a statement, accusing Iran of continuing its \"systematic hostile approach through its malicious attacks\" on the kingdom. \"The General Command of the Bahrain Defence Force affirms that all its branches and units remain at the highest state of readiness and on full defensive alert to protect the Kingdom,\" the statement said. تعلن القيادة العامة لقوة دفاع البحرين أن إيران تواصل نهجها العدائي الممنهج عبر اعتداءاتها الآث",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "c3b8d26e98eb",
+   "title": "West Bank: Israeli settlers attack Palestinian home, olive harvesters",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-attack-palestinian-home-olive-harvesters",
+   "date": "2026-11-15T07:08:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "West Bank: Israeli settlers attack Palestinian home, olive harvesters Israeli settlers stormed the al-Harayeq area of the town of Beita, south of Nablus in the occupied West Bank, and attacked the home of Palestinian citizen Mutie Salim Qutish. They also smashed two vehicles belonging to another resident in the vicinity, Wafa reported, adding the area has been subjected to repeated, almost daily attacks by Israeli settlers. Another group comprising dozens of masked Israeli settlers, riding on the back of a pickup truck and in another car, one of them stolen, attacked Palestinians harvesting ol",
+   "score": 6
+  },
+  {
+   "id": "43276dedf993",
+   "title": "Iraq sacks nine officials over oil smuggling in pro-Iran group's bastion",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-sacks-nine-officials-over-oil-smuggling-pro-iran-groups-bastion",
+   "date": "2026-11-15T06:32:16Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Iraq sacks nine officials over oil smuggling in pro-Iran group's bastion Iraqi Prime Minister Ali al-Zaidi dismissed nine officials on Saturday, following an investigation into allegations of oil smuggling in the Jurf al-Sakher area, a stronghold of the Iran-backed Kataeb Hezbollah group. \"In light of the investigation's findings,\" Zaidi \"ordered that all individuals accused of involvement in oil smuggling operations be referred to the judiciary,\" his military spokesman Sabah al-Numan said, without identifying the suspects. The premier \"also ordered the dismissal\" of nine officials, including ",
+   "score": 7,
+   "dup_of": "1da17fe41f94"
+  },
+  {
+   "id": "08703ce08ea9",
+   "title": "WSJ: Iran still has 1,500-2,500 missiles, influencing US plans for renewed war",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-iran-still-has-1500-2500-missiles-impact-us-decision-resuming-war",
+   "date": "2026-11-15T06:06:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "WSJ: Iran still has 1,500-2,500 missiles, influencing US plans for renewed war American intelligence believes that Iran has some 1,500-2,500 missiles, and the apparent size of the arsenal has impacted Trump administration's decision on whether to resume strikes on the Islamic Republic, The Wall Street Journal reported, citing officials. The officials told the newspaper that it is a “low confidence assessment” given the difficulties in tracking Tehran’s munitions, but that it was clear that the regime still possessed a large number of missiles. The report says Israeli officials believe Tehran h",
+   "score": 8
+  },
+  {
+   "id": "a31d369dce09",
+   "title": "US radar facility at Bahrain base attacked with six drones, IRGC claims",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-radar-facility-bahrain-base-attacked-six-drones-irgc-claims",
+   "date": "2026-11-15T05:05:33Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "US radar facility at Bahrain base attacked with six drones, IRGC claims Iran's Islamic Revolutionary Guard Corps (IRGC) said their forces carried out a drone attack on a US radar system at a base in Bahrain, according to a statement carried by the Iranian state broadcaster on Sunday. \"The U.S. air defence radar system at the Al-Riffa helicopter base in Bahrain was targeted by six drones belonging to the IRGC Aerospace Force,\" the Guards said in a statement posted by the state broadcaster on Telegram. Earlier, Bahrain issued two danger alerts within a span of more than two hours, urging citizen",
+   "score": 9,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "b335db2007f1",
+   "title": "Bahrain's ministry of interior issues second alert of potential danger",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrains-ministry-interior-issues-second-alert-potential-danger",
+   "date": "2026-11-15T04:42:16Z",
+   "countries": [
+    "BHR"
+   ],
+   "desc": "Bahrain's ministry of interior issues second alert of potential danger Bahrain’s Ministry of Interior has issued a second alert of a potential threat and again urged citizens to stay calm, head to a safe location and follow official channels for news. A similar alert was issued earlier, without specifying the nature of the threat.",
+   "score": 8,
+   "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "cf5acc2f5a13",
+   "title": "West Bank: Israeli forces detain Palestinian journalist, conduct raids",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-forces-detain-palestinian-journalist-conduct-raids",
+   "date": "2026-11-15T04:09:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "West Bank: Israeli forces detain Palestinian journalist, conduct raids Israeli forces have detained Palestinian journalist Mohammed Ateeq after raiding his home in the town of Burqin, west of Jenin in the occupied West Bank, Quds News Network said. The Palestinian news agency, Wafa, reported that Israeli forces imposed curfew on Beit Ummar, north of Hebron, forced shop owners to close their businesses, fired stun grenades and tear gas at Palestinians, and deployed military vehicles and infantry troops throughout the town's streets. They also sealed off all entrances and exits to the town with ",
+   "score": 6
+  },
+  {
+   "id": "a318fef055b0",
+   "title": "Car bomb in Damascus suburb kills two, including child",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child",
+   "date": "2026-11-15T03:45:46Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Car bomb in Damascus suburb kills two, including child A car bomb killed two people, including a child, and wounded another, in a suburb of Damascus on Saturday, Syrian Arab News Agency (Sana) said. Authorities had \"established a security perimeter at the scene and opened an investigation\", it cited security forces as saying. Syria has frequently been hit by explosions or attacks against civilians or security forces since the fall of former president Bashar al-Assad in December 2024. In August another blast struck Jaramana, with the attack on a bus wounding 14 people, according to Sana. In the",
+   "score": 7,
+   "dup_of": "2e3019a6a5b0"
+  },
+  {
+   "id": "25f88ca4a467",
+   "title": "Saudi-led coalition intercepts third drone as Houthis claim downing aircraft",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-intercepts-third-drone-houthis-claim-downing",
+   "date": "2026-11-15T03:20:34Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition intercepts third drone as Houthis claim downing aircraft Saudi-led coalition forces have shot down yet another Houthi drone in Saudi Arabia's Eastern Region, according to Colonel Turki al-Malki, spokesman for the coalition. It’s the third drone the coalition says it has shot down over the region in the last three hours, along with two ballistic missiles that were headed for Riyadh. Meanwhile, Houthi military spokesman Yahya Saree said on X that they have shot down a Saudi Arabian armed reconnaissance aircraft in the airspace of al-Jawf. Saree said this is the fifth aircraft",
+   "score": 8,
+   "dup_of": "2fc9f2942f99"
+  },
+  {
+   "id": "5e986bd2d588",
+   "title": "Trump may not attack Iran as long as it doesn't provoke US, report says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-may-not-attack-iran-long-it-doesnt-provoke-us",
+   "date": "2026-11-15T03:04:00Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "desc": "Trump may not attack Iran as long as it doesn't provoke US, report says President Donald Trump has told senior advisers in recent days that he may hold off on attacking Iran if the US faces no new provocations from Tehran or the Iran-backed Houthis in Yemen, according to three people familiar with the matter. Trump has alternated between threats of escalating the war with new strikes and winding down hostilities, and current and former officials say he does not appear to have made up his mind about how to resolve the unpopular conflict, which he launched in February with Israel. But in meeting",
+   "score": 8,
+   "dup_of": "c5c777b1c89f"
+  },
+  {
+   "id": "efbebcb8f73e",
+   "title": "Gatherings in KP's Bajaur, Lakki Marwat, Swabi, Tank banned for 30 days",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044702/gatherings-in-kps-bajaur-lakki-marwat-swabi-tank-banned-for-30-days",
+   "date": "2026-11-15T14:25:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "BAJAUR/LAKKI MARWAT/SWABI: The district administrations of Khyber Pakhtunkhwa’s Bajaur, Lakki Marwat, Swabi and Tank on Sunday imposed Section 144 of the Code of Criminal Procedure (CrPC) for a month, banning public gatherings and several other activities amid the prevailing law and order situation. In Bajaur, the district administration prohibited all kinds of political gatherings, “hate speech” against the state and the display of arms and weapons for 30 days. The notification formalising the restriction, seen by Dawn , said Bajaur Deputy Commissioner (DC) Adnan Farid Afridi approved the res",
+   "score": 6,
+   "dup_of": "5b2ee69eb6c5"
+  },
+  {
+   "id": "2fda9f4c99e1",
+   "title": "Re-polling held at 3 stations in GB's Diamer as PPP, IPP candidates vie for seat",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044693/re-polling-held-at-3-stations-in-gbs-diamer-as-ppp-ipp-candidates-vie-for-seat",
+   "date": "2026-11-15T15:06:30Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "GILGIT: Voting at three stations in Gilgit-Baltistan’s GBA-16 (Diamer-II) concluded on Sunday, with PPP’s Attaullah Shah and Istehkam-i-Pakistan Party’s (IPP) Imam Malik again vying for the seat in the repolling. The electoral process began at 8am and continued until 5pm, with voters present within the polling station premises at that time allowed to cast their votes. A total of 2,780 registered voters were eligible. Polling officer Dr Maria told Dawn that IPP’s Malik had allegedly slapped a female polling officer at the Sarai polling station. She said some minor unpleasant incidents had also ",
+   "score": 5
+  },
+  {
+   "id": "2373ddac7367",
+   "title": "Islamabad hosts foreign dignitaries for two-day ECO ministerial meeting",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044691/islamabad-hosts-foreign-dignitaries-for-two-day-eco-ministerial-meeting",
+   "date": "2026-11-15T15:33:35Z",
+   "countries": [
+    "AFG",
+    "IRN",
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Foreign dignitaries arrived in Islamabad on Sunday as Pakistan hosts the two-day 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers, starting today . Currently, Pakistan, Afghanistan, Azerbaijan, Tajikistan, Iran, Turkiye, Kazakhstan, Turkmenistan, Kyrgyz Republic and Uzbekistan are part of the ECO. Shanghai Cooperation Organisation Deputy Secretary General Ahmad Saidmurodzoda, Organisation of Islamic Cooperation (OIC) Secretary General Ismail Ould Cheikh Ahmed, Turkish Deputy Foreign Minister Musa Kulaklikaya, and Kyrgyz Republic’s Deputy FM Kairat Erkinovich Tur",
+   "score": 6,
+   "dup_of": "4db206f60d13"
+  },
+  {
+   "id": "ae0bd2f8563a",
+   "title": "\"يُظهرنا كدولة هشة أمنياً\": انتقادات في الأردن بعد نقل مباراته أمام أستراليا إلى الدوحة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6y8072pzy28o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T14:31:52Z",
+   "countries": [
+    "JOR",
+    "QAT"
+   ],
+   "desc": "اتفق الاتحادان الأسترالي والأردني على نقل اللقاء المقرر في 17 نوفمبر/ تشرين الثاني الجاري، استجابة لمخاوف اللاعبين الأستراليين بشأن الأوضاع الأمنية فيما قال الاتحاد الأردني إن السبب هو \"رغبة لاعبي المنتخب الأسترالي في تجنب عناء السفر\"",
+   "score": 3
   }
  ]
 }
