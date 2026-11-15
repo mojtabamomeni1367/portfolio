@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:08:56Z",
+ "updated": "2026-11-15T21:50:54Z",
  "items": [
   {
    "id": "64d4544b04eb",
@@ -2931,6 +2931,172 @@
    ],
    "desc": "أعلن الحوثيون استهداف مطار الملك خالد والمركز المالي في الرياض، فيما أفاد التحالف الذي تقوده السعودية باعتراضه 3 طائرات مسيرة في منطقتي مكة المكرمة والمدنية المنورة.",
    "score": 9
+  },
+  {
+   "id": "fa08c44f5565",
+   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "date": "2026-11-15T21:19:08Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+   "score": 7
+  },
+  {
+   "id": "6bea95d6aacc",
+   "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+   "date": "2026-11-15T20:50:15Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+   "score": 3
+  },
+  {
+   "id": "5b6c76598929",
+   "title": "Who can force Israel to implement Gaza ceasefire deal?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+   "date": "2026-11-15T20:37:43Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+   "score": 4
+  },
+  {
+   "id": "7b78ef33dea0",
+   "title": "Jordan sentences three men to death over deadly church attack in Karak",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+   "date": "2026-11-15T20:12:38Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Jordan sentences three men to death over deadly church attack in Karak",
+   "score": 6,
+   "dup_of": "0eca7d7612cb"
+  },
+  {
+   "id": "b51e7d4c47d1",
+   "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+   "date": "2026-11-15T19:02:21Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+   "score": 5
+  },
+  {
+   "id": "585f28a76967",
+   "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "date": "2026-11-15T19:28:54Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mandeb Strait to defend its temporary capital on the southern coast of Yemen.",
+   "score": 8,
+   "dup_of": "9365f2307fa1"
+  },
+  {
+   "id": "ad0e6052da6e",
+   "title": "Iran’s Pezeshkian warns against wartime misinformation",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-warns-against-wartime-misinformation",
+   "date": "2026-11-15T20:04:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran’s Pezeshkian warns against wartime misinformation Iranian President Masoud Pezeshkian told ministers the government would keep backing the military “around the clock and with all its capacity”, the Fars news agency reports. Pezeshkian warned against “misinformation and creating a negative atmosphere against the government”. He added that “we are in a state of war and the enemy is trying with all its capacity to create problems in the country”. He told the cabinet that “propaganda, accusations, and distractions will not undermine the government’s resolve”.",
+   "score": 6
+  },
+  {
+   "id": "abb78060a6de",
+   "title": "Houthis say they fired missiles at Riyadh airport and financial district",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-fired-missiles-riyadh-airport-and-financial-district",
+   "date": "2026-11-15T18:44:54Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis say they fired missiles at Riyadh airport and financial district The Houthis say they fired two ballistic missiles at targets in the Saudi capital, naming the financial district and King Khalid International Airport. Houthi military spokesman Yahya Saree said the group launched six more ballistic missiles at Saudi troops in Yemen’s southern Lahj governorate, targeting Qa’wa camp and nearby positions. Saudi Arabia has yet to respond. Al Jazeera reports that two explosions rang out in the Yemeni city of Aden.",
+   "score": 8,
+   "dup_of": "825b9a6a5bb3"
+  },
+  {
+   "id": "69a4c359d3ef",
+   "title": "Houthis deny targeting Mecca or Medina in Saudi drone attacks",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-targeting-mecca-or-medina-saudi-drone-attacks",
+   "date": "2026-11-15T18:24:02Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis deny targeting Mecca or Medina in Saudi drone attacks Houthi spokesman Yahya Saree has dismissed Saudi Arabia’s accusation that the group aimed drones at Mecca or Medina today as “a blatant lie and fabrication”. Writing on Telegram, Saree said the group directs its operations exclusively at oil installations and military bases in Saudi Arabia.",
+   "score": 7,
+   "dup_of": "825b9a6a5bb3"
+  },
+  {
+   "id": "06c5b682c167",
+   "title": "Israeli drone strike kills one in Gaza’s al-Mawasi",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-gazas-al-mawasi",
+   "date": "2026-11-15T17:31:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli drone strike kills one in Gaza’s al-Mawasi Gaza’s Civil Defence says an Israeli drone struck al-Mawasi in the south of the Strip, killing one person and wounding many others.",
+   "score": 6
+  },
+  {
+   "id": "f1fcd8ba4531",
+   "title": "Exclusive: Toyota reviewing use of forklifts by Israeli military after MEE investigation",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exclusive-toyota-reviewing-use-forklifts-israeli-military-after-mee",
+   "date": "2026-11-15T17:14:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Exclusive: Toyota reviewing use of forklifts by Israeli military after MEE investigation Toyota has said it is investigating the use of its forklifts by the Israeli military after Middle East Eye found photos and videos of the vehicles at weapons and munitions storage sites, serving supply lines for frontline units, and being used by the army’s Logistics Corps. It comes after MEE uncovered details of a previously unreported 158m-shekel ($49.8m) contract between Toyota and Israel’s Ministry of Defense for the supply of forklifts that was signed in 2024 – the first full year of the Gaza war . To",
+   "score": 4
+  },
+  {
+   "id": "0d97e1098c2b",
+   "title": "Authorities ban gatherings in five districts of KP for 30 days, citing law and order situation",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044702/authorities-ban-gatherings-in-five-districts-of-kp-for-30-days-citing-law-and-order-situation",
+   "date": "2026-11-15T19:19:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "BANNU/BAJAUR/LAKKI MARWAT/SWABI: The district administrations of Khyber Pakhtunkhwa’s Bannu, Bajaur, Lakki Marwat, Swabi and Tank on Sunday imposed Section 144 of the Code of Criminal Procedure (CrPC) for a month, banning public gatherings and several other activities amid the prevailing law and order situation. Three of the five districts — Bannu, Bajaur and Tank — are among the 12 districts that were deemed to face intense security challenges and special emergency measures were imposed there. In Bajaur, the district administration prohibited all kinds of political gatherings, “hate speech” a",
+   "score": 6,
+   "dup_of": "5b2ee69eb6c5"
   }
  ]
 }

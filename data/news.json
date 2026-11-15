@@ -1,7 +1,61 @@
 {
- "updated": "2026-11-15T19:08:56Z",
- "count": 449,
+ "updated": "2026-11-15T21:50:53Z",
+ "count": 450,
  "items": [
+  {
+   "id": "fa08c44f5565",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "date": "2026-11-15T21:19:08Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "title_en": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "summary_en": "Yemen's Houthis have released 600 individuals detained during the civil war in a unilateral initiative.",
+   "body_en": [
+    "According to the group, this step raises the overall count of detainees freed through its unilateral amnesties to 2,612. The International Committee of the Red Cross stated that this release was distinct from negotiated prisoner-swap agreements."
+   ],
+   "title_fa": "حوثی‌های یمن ۶۰۰ بازداشتی جنگ را به طور یکجانبه آزاد کردند",
+   "summary_fa": "حوثی‌های یمن طی اقدامی یکجانبه، ۶۰۰ تن از افراد بازداشت‌شده در جریان جنگ داخلی این کشور را آزاد کردند.",
+   "body_fa": [
+    "به گفته این گروه، این اقدام شمار کل افراد آزادشده از طریق ابتکارات عفو یکجانبه آن را به ۲۶۱۲ تن رساند. کمیته بین‌المللی صلیب سرخ اعلام کرد که این عملیات جدا از توافق‌های مذاکره‌شده برای تبادل اسرا انجام شده است."
+   ],
+   "title_ar": "الحوثيون في اليمن يفرجون من جانب واحد عن 600 معتقل حرب",
+   "summary_ar": "أفرج الحوثيون في اليمن عن 600 شخص كانوا محتجزين خلال الحرب الأهلية في البلاد، وذلك في إجراء أحادي الجانب.",
+   "body_ar": [
+    "وبحسب الجماعة، فإن هذه الخطوة ترفع إجمالي عدد المفرج عنهم بموجب مبادرات العفو الأحادية إلى 2612 شخصاً. وأفادت اللجنة الدولية للصليب الأحمر بأن هذه العملية كانت منفصلة عن اتفاقات تبادل الأسرى التي جرى التفاوض بشأنها."
+   ]
+  },
+  {
+   "id": "ad0e6052da6e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-pezeshkian-warns-against-wartime-misinformation",
+   "date": "2026-11-15T20:04:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Iran’s Pezeshkian warns against wartime misinformation",
+   "title_en": "Iran’s Pezeshkian warns against wartime misinformation",
+   "summary_en": "Iranian President Masoud Pezeshkian has warned against misinformation and attempts to create a negative atmosphere against the government during a state of war.",
+   "body_en": [
+    "Speaking to his cabinet, Pezeshkian stated that the government would continue to support the armed forces around the clock and with its full capacity. He warned that the enemy is using all its resources to cause problems for Iran, adding that propaganda, accusations, and distractions would not weaken the administration's determination."
+   ],
+   "title_fa": "هشدار مسعود پزشکیان در مورد اطلاعات نادرست در زمان جنگ",
+   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، در خصوص انتشار اطلاعات نادرست و تلاش‌ها برای ایجاد فضای منفی علیه دولت در شرایط جنگی هشدار داد.",
+   "body_fa": [
+    "پزشکیان در جلسه هیئت دولت اعلام کرد که دولت به حمایت شبانه‌روزی و با تمام توان از نیروهای نظامی ادامه خواهد داد. او هشدار داد که دشمن با تمام توان خود درصدد ایجاد مشکل در کشور است و تأکید کرد که تبلیغات، اتهامات و تلاش‌ها برای انحراف توجه، خللی در عزم دولت ایجاد نخواهد کرد."
+   ],
+   "title_ar": "مسعود بزشكيان يحذر من المعلومات المضللة في زمن الحرب",
+   "summary_ar": "حذر الرئيس الإيراني مسعود بزشكيان من المعلومات المضللة ومحاولات خلق أجواء سلبية ضد الحكومة في ظل حالة الحرب.",
+   "body_ar": [
+    "وخلال اجتماع لمجلس الوزراء، صرح بزشكيان بأن الحكومة ستواصل دعم القوات المسلحة على مدار الساعة وبكامل طاقتها. وحذر من أن العدو يبذل قصارى جهده لإثارة المشكلات في البلاد، مؤكداً أن الدعاية والاتهامات ومحاولات تشتيت الانتباه لن تثني من عزيمة الحكومة."
+   ]
+  },
   {
    "id": "825b9a6a5bb3",
    "lang": "ar",
@@ -90,6 +144,34 @@
    "body_ar": [
     "أكد مسؤولون في محطات إذاعية ومصادر محلية في قندهار تلقي توجيهات من إدارة الإعلام والثقافة في المحافظة تقضي بإيقاف جميع البرامج المتعلقة بالكريكيت. ویشمل الحظر الأخبار والتعليقات المباشرة ونتائج المباريات.",
     "ورغم أن حكومة طالبان تسمح للرجال بممارسة لعبة الكريكيت وسبق أن دعمت بعض المباريات، إلا أنها تمنع النساء من ممارسة الرياضة وتصادر أنشطة رياضية أخرى مثل الفنون القتالية المختلطة."
+   ]
+  },
+  {
+   "id": "06c5b682c167",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-drone-strike-kills-one-gazas-al-mawasi",
+   "date": "2026-11-15T17:31:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israeli drone strike kills one in Gaza’s al-Mawasi",
+   "title_en": "Israeli drone strike kills one in Gaza’s al-Mawasi",
+   "summary_en": "An Israeli drone strike in the al-Mawasi area in southern Gaza has killed one person and injured several others, according to local officials.",
+   "body_en": [
+    "Gaza’s Civil Defence reported that the strike targeted the southern district, leaving one person dead and wounding many more."
+   ],
+   "title_fa": "حمله پهپادی اسرائیل یک کشته در المواصی غزه بر جای گذاشت",
+   "summary_fa": "به گفته مقامات محلی، در پی حمله پهپادی اسرائیل به منطقه المواصی در جنوب نوار غزه، یک نفر کشته و چندین نفر زخمی شدند.",
+   "body_fa": [
+    "سازمان دفاع مدنی غزه گزارش داد که این حمله پهپادی، المواصی واقع در جنوب نوار غزه را هدف قرار داده که به کشته شدن یک تن و جراحت شمار زیادی منجر شده است."
+   ],
+   "title_ar": "غارة إسرائيلية بمسيرة تسفر عن مقتل شخص في المواصي بغزة",
+   "summary_ar": "أسفرت غارة شنّتها مسيّرة إسرائيلية على منطقة المواصي جنوب قطاع غزة عن مقتل شخص وإصابة عدة أشخاص آخرين، وفقاً لمسؤولين محليين.",
+   "body_ar": [
+    "وأفاد الدفاع المدني في غزة بأن مسيّرة إسرائيلية استهدفت منطقة المواصي في جنوب القطاع، ما أدى إلى مقتل شخص وإصابة عدد كبير من الأشخاص."
    ]
   },
   {
@@ -542,37 +624,6 @@
    ]
   },
   {
-   "id": "4db206f60d13",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044691/turkish-azeri-sco-officials-arrive-in-islamabad-for-eco-ministerial",
-   "date": "2026-11-15T06:13:29Z",
-   "countries": [
-    "PAK",
-    "TUR"
-   ],
-   "score": 5,
-   "title": "Turkish, Azeri, SCO officials arrive in Islamabad for ECO ministerial",
-   "title_en": "Turkish, Azeri, SCO officials arrive in Islamabad for ECO ministerial",
-   "summary_en": "Foreign dignitaries from Turkey, Azerbaijan, the Shanghai Cooperation Organisation, and Northern Cyprus have arrived in Islamabad for the 30th meeting of the Economic Cooperation Organisation Council of Ministers.",
-   "body_en": [
-    "Pakistan's Foreign Office announced the arrival of Turkish Deputy Foreign Minister Musa Kulaklikaya, Azeri Deputy Foreign Minister Elnur Mammadov, and SCO Deputy Secretary General Ahmad Saidmurodzoda. Foreign Minister Tahsin Ertugruloglu of the Turkish Republic of Northern Cyprus had also arrived ahead of the two-day gathering.",
-    "The ministerial meeting, chaired by Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar, is preceded by senior official talks to finalize the agenda and review programs. As chair for 2026-27 under the theme \"Reviving Regionalism for a Resilient ECO\", Pakistan aims to promote regional trade, logistics, and connectivity among the organization's member states."
-   ],
-   "title_fa": "ورود مقامات ترکیه، آذربایجان و سازمان شانگهای به اسلام‌آباد برای نشست وزیران اکو",
-   "summary_fa": "مقامات ارشد ترکیه، جمهوری آذربایجان، سازمان همکاری شانگهای و قبرس شمالی به منظور شرکت در سی‌امین نشست شورای وزیران سازمان همکاری اقتصادی (اکو) وارد اسلام‌آباد شدند.",
-   "body_fa": [
-    "وزارت امور خارجه پاکستان از ورود موسی کولاکلی‌کایا معاون وزیر امور خارجه ترکیه، النور ممدوف معاون وزیر امور خارجه آذربایجان، و احمد سعیدمرادزاده معاون دبیرکل سازمان همکاری شانگهای خبر داد. تحسین ارطغرل‌اوغلو، وزیر امور خارجه جمهوری ترک قبرس شمالی نیز برای حضور در این نشست دو روزه وارد پایتخت پاکستان شد.",
-    "پیش از آغاز نشست وزیران به ریاست اسحاق دار، معاون نخست‌وزیر و وزیر امور خارجه پاکستان، مقام‌های ارشد کشورهای عضو برنامه‌ها را بررسی و پیش‌نویس اسناد را نهایی می‌کنند. پاکستان که ریاست دوره‌ای اکو را برای سال‌های ۲۰۲۶-۲۰۲۷ با محوریت تقویت منطقه‌گرایی بر عهده دارد، در پی گسترش تجارت منطقه‌ای و بهبود ارتباطات و زنجیره‌های تأمین میان کشورهای عضو است."
-   ],
-   "title_ar": "وصول مسؤولين أتراك وأذربيجانيين ومن منظمة شنغهاي إلى إسلام آباد لحضور وزاري إيكو",
-   "summary_ar": "وصل مسؤولون من تركيا وأذربيجان ومنظمة شنغهاي للتعاون وقبرص الشمالية إلى إسلام آباد للمشاركة في الاجتماع الثلاثين لمجلس وزراء منظمة التعاون الاقتصادي (إيكو).",
-   "body_ar": [
-    "أعلنت وزارة الخارجية الباكستانية وصول نائب وزير الخارجية التركي موسى كولاكليكايا، ونائب وزير الخارجية الأذربيجاني إلنور محمدوف، ونائب الأمين العام لمنظمة شنغهاي للتعاون أحمد سعيد مرادزاده. كما وصل وزير خارجية جمهورية شمال قبرص التركية تحسين إرتغرل أوغلو قبيل الاجتماع الذي يستمر يومين.",
-    "يترأس الاجتماع الوزاري إسحاق دار، نائب رئيس الوزراء ووزير الخارجية الباكستاني، وتسبقه جلسات لكبار المسؤولين لإقرار جدول الأعمال واستعراض البرامج المشتركة. وتسعى باكستان، التي تتولى رئاسة المنظمة لعامي 2026-2027 تحت شعار تعزيز الإقليمية، إلى دعم الربط الإقليمي وسلاسل الإمداد والتجارة بين الدول الأعضاء."
-   ]
-  },
-  {
    "id": "08703ce08ea9",
    "lang": "en",
    "source": "Middle East Eye",
@@ -631,36 +682,6 @@
    "body_ar": [
     "وفقاً لوسائل إعلام رسمية إيرانية، أعلن الحرس الثوري أن القوة الجوفضائية التابعة له استهدفت بست طائرات مسيرة منظومة رادار للدفاع الجوي الأمريكي في قاعدة الرفاع للمروحيات بالبحرين. ومع دوي صفارات الإنذار، حثت وزارة الداخلية البحرينية السكان على التزام الهدوء والتوجه إلى أقرب مكان آمن، دون أن تحدد طبيعة التهديد أو مصدره.",
     "وتأتي هذه التطورات بعد يومين من إعلان الحرس الثوري استهداف منظومة رادار إنذار مبكر أمريكية في البحرين، بينما أفاد الجيش الأمريكي حينها بإسقاط طائرتين مسيرتين إيرانيتين استهدفتا الدولة الخليجية."
-   ]
-  },
-  {
-   "id": "ce512050be3d",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/cm62p32wjgqdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T05:35:06Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "«دروازه آهنین»؛ آمریکا تا چه اندازه می‌تواند مسیرهای تامین ایران را مختل کند؟",
-   "title_en": "“Iron Gate”; how much can the US disrupt Iran’s supply routes?",
-   "summary_en": "U.S. Central Command has established an inter-agency task force named \"Iron Gate\" aimed at disrupting the flow of weapons, dual-use technology, and revenue to Iran through overland borders and the Caspian Sea.",
-   "body_en": [
-    "According to CENTCOM, the Florida-based group of around twenty personnel coordinates with other American agencies to target specific procurement networks rather than enforcing a full border blockade. Experts note that identifying dual-use goods and tracking complex intermediary supply chains remains challenging, with satellite and intelligence tools primarily focusing on sensitive missile and air defense components.",
-    "The initiative's success faces substantial obstacles due to the economic and political priorities of Iran's neighbors. Iraqi officials have already expressed reluctance regarding American requests to shut several border crossings, citing economic harm, while maritime operations in the Caspian Sea remain limited by the absence of a direct U.S. naval presence."
-   ],
-   "title_fa": "«دروازه آهنین»؛ آمریکا تا چه اندازه می‌تواند مسیرهای تامین ایران را مختل کند؟",
-   "summary_fa": "فرماندهی مرکزی ارتش آمریکا (سنتکام) با تشکیل کارگروهی به نام «دروازه آهنین» تلاش می‌کند مسیرهای انتقال سلاح، فناوری‌های دوکاربردی و منابع درآمدی ایران را در مرزهای زمینی و دریای خزر مختل کند.",
-   "body_fa": [
-    "به گفته سنتکام، این گروه حدوداً بیست‌نفره در فلوریدا با نهادهای آمریکایی برای هدف گرفتن شبکه‌های تامین مشخص همکاری می‌کند و هدف آن محاصره کامل مرزها نیست. با این حال، تحلیلگران معتقدند تفکیک کاربرد کالاهای دوگانه و شناسایی واسطه‌ها دشوار است و تمرکز اطلاعاتی و ماهواره‌ای بیشتر روی محموله‌های حساسی نظیر قطعات موشکی و پدافندی خواهد بود.",
-    "اجرای این راهبرد با موانع جدی ناشی از ملاحظات اقتصادی و سیاسی همسایگان ایران روبه‌رو است. مقامات عراقی با اشاره به آسیب‌های اقتصادی اعلام کرده‌اند که پذیرش خواسته آمریکا برای بستن گذرگاه‌های مرزی دشوار است، و از سوی دیگر نبود حضور نظامی مستقیم ایالات متحده در دریای خزر دامنه اقدامات واشنگتن را در این پهنه آبی محدود می‌کند."
-   ],
-   "title_ar": "\"البوابة الحديدية\"؛ إلى أي مدى تستطيع الولايات المتحدة تعطيل طرق إمداد إيران؟",
-   "summary_ar": "شكلت القيادة المركزية الأمريكية فريق عمل مشتركاً باسم \"البوابة الحديدية\" يهدف إلى عرقلة تدفق الأسلحة والتقنيات مزدوجة الاستخدام والموارد المالية إلى إيران عبر الحدود البرية وبحر قزوين.",
-   "body_ar": [
-    "بحسب القيادة المركزية الأمريكية، يركز فريق العمل المكون من نحو عشرين شخصاً في فلوريدا على جمع المعلومات الاستخبارية والتنسيق لاستهداف شبكات إمداد محددة وليس فرض حصار شامل. وأشار محللون إلى أن رصد السلع مزدوجة الاستخدام والشركات الوسيطة يمثل تحدياً معقداً، حيث ينصب التركيز التقني على شحنات دقيقة تشمل أجزاء الصواريخ والدفاع الجوي.",
-    "وتواجه هذه المساعي عقبات تتعلق بالمصالح السياسية والاقتصادية للدول المجاورة لإيران؛ إذ أبدى مسؤولون عراقيون صعوبة تنفيذ مطالب إغلاق المنافذ البرية لتفادي التداعيات الاقتصادية، فضلاً عن غياب الوجود العسكري المباشر لواشنطن في بحر قزوين مما يحد من فاعلية الرقابة هناك."
    ]
   },
   {
