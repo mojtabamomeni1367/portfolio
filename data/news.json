@@ -1,7 +1,124 @@
 {
- "updated": "2026-11-14T21:50:10Z",
- "count": 450,
+ "updated": "2026-11-15T01:23:50Z",
+ "count": 424,
  "items": [
+  {
+   "id": "2fc9f2942f99",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-forces-intercept-another-drone-over-saudi-arabias-eastern",
+   "date": "2026-11-15T01:02:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Coalition forces intercept another drone over Saudi Arabia's Eastern Region",
+   "title_en": "Coalition forces intercept another drone over Saudi Arabia's Eastern Region",
+   "summary_en": "Coalition forces supporting Yemen's government intercepted and destroyed a drone launched by Houthis toward Saudi Arabia's Eastern Region.",
+   "body_en": [
+    "Coalition spokesman Colonel Turki al-Malki announced on X that the forces successfully shot down the drone targeted at the Eastern Region."
+   ],
+   "title_fa": "نیروهای ائتلاف پهپاد دیگری را بر فراز منطقه شرقی عربستان سعودی رهگیری کردند",
+   "summary_fa": "نیروهای ائتلاف حامی دولت یمن یک فروند پهپاد شلیک‌شده توسط حوثی‌ها به سمت منطقه شرقی عربستان سعودی را رهگیری و منهدم کردند.",
+   "body_fa": [
+    "سرهنگ ترکی المالکی، سخنگوی ائتلاف، در شبکه اجتماعی ایکس اعلام کرد که نیروهای ائتلاف این پهپاد را که به سمت منطقه شرقی هدف‌گیری شده بود سرنگون کرده‌اند."
+   ],
+   "title_ar": "قوات التحالف تعترض طائرة مسيرة أخرى فوق المنطقة الشرقية بالسعودية",
+   "summary_ar": "اعتلاضت قوات التحالف الداعم للحكومة اليمنية طائرة مسيرة أطلقها الحوثيون باتجاه المنطقة الشرقية في المملكة العربية السعودية ودمرتها.",
+   "body_ar": [
+    "وأعلن المتحدث باسم التحالف العقيد تركي المالكي عبر منصة «إكس» أن قوات التحالف تمكنت من إسقاط الطائرة المسيرة التي تم توجيهها نحو المنطقة الشرقية."
+   ]
+  },
+  {
+   "id": "02c39fc80528",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+   "date": "2026-11-15T01:00:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli air strike kills senior Hamas commander in Gaza",
+   "title_en": "Israeli air strike kills senior Hamas commander in Gaza",
+   "summary_en": "Hamas and the Israeli military confirmed that a drone strike in Khan Younis killed Rafah brigade commander Samir Abu Younis.",
+   "body_en": [
+    "The attack targeted a tent sheltering displaced Palestinians in the al-Mawasi area of Khan Younis in southern Gaza, killing Abu Younis and wounding two others. According to medical personnel at the Nasser Medical Complex, the casualties were brought to the facility following the strike.",
+    "Israel's military and the Shin Bet security agency said in a joint statement that they had targeted a senior Hamas military commander in the area. Al-Mawasi remains crowded with displaced residents living in tents despite being previously designated by Israel as a humanitarian zone."
+   ],
+   "title_fa": "حمله هوایی اسرائیل به کشته شدن یک فرمانده ارشد حماس در غزه انجامید",
+   "summary_fa": "حماس و ارتش اسرائیل تأیید کردند که در پی یک حمله پهپادی در خان یونس، سمیر ابو یونس، فرمانده تیپ رفح کشته شده است.",
+   "body_fa": [
+    "این حمله چادری را که محل اسکان آوارگان فلسطینی در منطقه المواصی در خان یونس، واقع در جنوب غزه بود، هدف قرار داد که علاوه بر کشته شدن ابو یونس، به زخمی شدن دو تن دیگر انجامید. به گفته کادر پزشکی مجتمع پزشکی ناصر، مصدومان پس از این حمله به این مرکز منتقل شدند.",
+    "ارتش اسرائیل و سازمان اطلاعات و امنیت داخلی (شاباک) در بیانیه‌ای مشترک اعلام کردند که یک فرمانده ارشد نظامی حماس را در این منطقه هدف قرار داده‌اند. منطقه المواصی با وجود آنکه پیشتر از سوی اسرائیل به عنوان منطقه بشردوستانه تعیین شده بود، همچنان پر از آوارگانی است که در چادرها زندگی می‌کنند."
+   ],
+   "title_ar": "غارة جوية إسرائيلية تقتل قيادياً بارزاً في حماس بغزة",
+   "summary_ar": "أكدت حركة حماس والجيش الإسرائيلي مقتل قائد لواء رفح سمير أبو يونس في ضربة بطائرة مسيرة استهدفت خان يونس.",
+   "body_ar": [
+    "استهدفت الضربة خيمة تؤوي نازحين فلسطينيين في منطقة المواصي بخان يونس جنوب قطاع غزة، مما أسفر عن مقتل أبو يونس وإصابة اثنين آخرين. ووفقاً للكوادر الطبية في مجمع ناصر الطبي، فقد تم نقل المصابين والضحايا إلى المستشفى عقب الهجوم.",
+    "وذكر بيان مشترك صادر عن الجيش الإسرائيلي وجهاز الأمن العام (شاباك) أنهما استهدفا قيادياً عسكرياً بارزاً في حماس بالمنطقة. وتكتظ منطقة المواصي بالنازحين الذين يعيشون في خيام، رغم أن إسرائيل كانت قد صنفتها سابقاً كمنطقة إنسانية."
+   ]
+  },
+  {
+   "id": "5cff3e87c6aa",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-palestinian-man-wounds-two-others-gaza",
+   "date": "2026-11-15T00:05:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israeli strike kills Palestinian man, wounds two others in Gaza",
+   "title_en": "Israeli strike kills Palestinian man, wounds two others in Gaza",
+   "summary_en": "An Israeli drone strike on the al-Mawasi area in southern Gaza has killed one Palestinian man and wounded two others.",
+   "body_en": [
+    "According to Al Jazeera, citing sources at the Nasser Medical Complex, Israeli forces launched a drone strike targeting the al-Mawasi area of Khan Younis in the southern Gaza Strip. The attack resulted in one fatality and left two additional people injured."
+   ],
+   "title_fa": "حمله اسرائیل به کشته شدن یک مرد فلسطینی و زخمی شدن دو تن دیگر در غزه انجامید",
+   "summary_fa": "حمله پهپادی اسرائیل به منطقه المواصی در جنوب غزه به کشته شدن یک مرد فلسطینی و مجروح شدن دو تن دیگر منجر شد.",
+   "body_fa": [
+    "به گزارش شبکه الجزیره به نقل از منابع پزشکی در مجتمع پزشکی ناصر، نیروهای اسرائیلی حمله‌ای پهپادی را به منطقه المواصی در خان یونس واقع در جنوب نوار غزه انجام دادند. این حمله منجر به کشته شدن یک تن و زخمی شدن دو نفر دیگر شد."
+   ],
+   "title_ar": "ضربة إسرائيلية تقتل فلسطينياً وتصيب اثنين آخرين في غزة",
+   "summary_ar": "أسفرت غارة جوية إسرائيلية بطائرة مسيرة على منطقة المواصي جنوبي غزة عن مقتل رجل فلسطيني وإصابة اثنين آخرين.",
+   "body_ar": [
+    "نقلت شبكة الجزيرة عن مصادر في مجمع ناصر الطبي أن القوات الإسرائيلية نفذت غارة بطائرة مسيرة استهدفت منطقة المواصي في خان يونس جنوبي قطاع غزة. وأسفر الهجوم عن مقتل شخص وإصابة اثنين آخرين."
+   ]
+  },
+  {
+   "id": "2e3019a6a5b0",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+   "date": "2026-11-14T22:43:12Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 6,
+   "title": "Explosion near Syria’s capital kills father and child",
+   "title_en": "Explosion near Syria’s capital kills father and child",
+   "summary_en": "A suspected explosive device planted inside a vehicle exploded in a Damascus suburb, killing a man and his daughter and injuring his wife.",
+   "body_en": [
+    "The blast occurred in Jaramana, a suburb on the southeastern edge of Damascus. Syria's Internal Security Forces cordoned off the scene and opened an investigation into the incident.",
+    "The explosion took place in a residential area of Jaramana, which has recently experienced tensions between some members of its Druze community and the Sunni majority supporting the government of President Ahmed al-Sharaa."
+   ],
+   "title_fa": "انفجار در نزدیکی پایتخت سوریه به کشته شدن یک پدر و فرزندش انجامید",
+   "summary_fa": "انفجار یک شیء منفجره احتمالی کارگذاشته‌شده در خودرویی در حومه دمشق، به کشته شدن یک مرد و دخترش و مصدومیت شدید همسر وی منجر شد.",
+   "body_fa": [
+    "این انفجار در جرمانا، از حومه‌های واقع در حاشیه جنوب شرقی دمشق رخ داد. نیروهای امنیت داخلی سوریه منطقه را مسدود کرده و تحقیقات خود را درباره جزئیات این حادثه آغاز کردند.",
+    "این حادثه در یک منطقه مسکونی در جرمانا اتفاق افتاد؛ منطقه‌ای که شاهد تنش‌هایی میان برخی اعضای اقلیت دروزی و اکثریت سنی حامی دولت احمد الشرع بوده است."
+   ],
+   "title_ar": "انفجار قرب العاصمة السورية يودي بحياة والد وطفلته",
+   "summary_ar": "أسفر انفجار عبوة ناسفة يُشتبه بإنها كانت زرعت داخل سيارة في ضاحية بجنوب شرق دمشق عن مقتل رجل وابنته وإصابة زوجته بجروح بالغة.",
+   "body_ar": [
+    "وقع الانفجار في جرمانا، وهي ضاحية تقع على أطراف دمشق الشرقية الجنوبية. وفرضت قوى الأمن الداخلي السورية طوقاً أمنياً حول الموقع وبدأت تحقيقاً في ملابسات الحادث.",
+    "وجرى الانفجار في منطقة سكنية في جرمانا، والتي شهدت توترات بين بعض أبناء الطائفة الدرزية والأغلبية السنية الداعمة لحكومة الرئيس أحمد الشرع."
+   ]
+  },
   {
    "id": "22c97f639549",
    "lang": "en",
@@ -72,6 +189,36 @@
    "body_ar": [
     "قطعت المدمرة أكثر من 88 ألف ميل بحري خلال مهمتها، وأسقطت 12 طائرة مسيرة وأربعة صواريخ كروز مضادة للسفن، وشاركت في الحصار البحري للموانئ الإيرانية. كما شاركت \"سبروانس\" في الضربات الصاروخية في اليوم الأول للحرب في 28 فبراير، وهو اليوم الذي قُصفت فيه مدرسة ابتدائية في ميناب ما أسفر عن مقتل أكثر من 175 شخصاً بحسب مسؤولين إيرانيين. ورغم تأكيد بعثة تقصي الحقائق التابعة للأمم المتحدة وجود أسباب معقولة لنسب الضربة إلى القوات الأمريكية، نفى المسؤولون الأمريكيون نتائج تلك البعثة.",
     "وكانت مهمة السفينة الحربية مقررة في البداية لنحو سبعة أشهر قبل تمديدها مع اندلاع الحرب، لتصبح واحدة من أطول المهام البحرية الأمريكية في العقود الأخيرة. وأثار طول فترة هذا الانتشار مخاوف بشأن الضغوط على أفراد الطاقم واستهلاك المعدات وصعوبات صيانة السفن الحربية في الشرق الأوسط."
+   ]
+  },
+  {
+   "id": "9f85c4b4bd92",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/loss-confidence-us-navy-fires-commanders-warships-deployed-against-iran",
+   "date": "2026-11-14T16:34:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "‘Loss of confidence’: US Navy fires commanders of warships deployed against Iran",
+   "title_en": "‘Loss of confidence’: US Navy fires commanders of warships deployed against Iran",
+   "summary_en": "The US Navy has quietly relieved several high-ranking officers of their duties, drawing criticism from Democratic lawmakers over a lack of transparency.",
+   "body_en": [
+    "Among those dismissed were the command team of the nuclear submarine USS South Dakota, following a grounding incident in October, and Commander Caitlin Cunningham of the destroyer USS Michael Murphy, which was deployed in operations involving Iran. A defense official cited a \"loss of confidence\" for Cunningham's removal.",
+    "Democratic Representatives Joe Courtney and Adam Smith expressed frustration in a letter to acting Navy Secretary Hung Cao and Admiral Daryl Caudle, stating that the failure to notify Congress undermined transparency and raised questions about the Navy's working relationship with lawmakers."
+   ],
+   "title_fa": "«سلب اعتماد»: نیروی دریایی آمریکا فرماندهان ناوهای جنگی اعزامی علیه ایران را برکنار کرد",
+   "summary_fa": "نیروی دریایی ایالات متحده چند افسر ارشد خود را بدون اعلام عمومی برکنار کرده است، اقدامی که با انتقاد قانون‌گذاران دمکرات به دلیل عدم شفافیت مواجه شده است.",
+   "body_fa": [
+    "از جمله افراد برکنارشده می‌توان به تیم فرماندهی زیردریایی هسته‌ای «یواس‌اس ساوت داکوتا» پس از برخورد آن با کف دریا در ماه اکتبر، و همچنین کاماندر کیتلین کانینگهام، فرمانده ناوشکن «یواس‌اس مایکل مورفی» که در عملیات مربوط به ایران شرکت داشت، اشاره کرد. یک مقام دفاعی علت برکناری کانینگهام را «سلب اعتماد» عنوان کرد.",
+    "جو کورتنی و آدام اسمیت، نمایندگان دمکرات، در نامه‌ای به هنگ کائو، سرپرست وزارت نیروی دریایی، و دریادار داریل کاودل از عدم اطلاع‌رسانی به کنگره ابراز نارضایتی کردند و نوشتند که عدم ارتباط نیروی دریایی، شفافیت و رابطه کاری با قانون‌گذاران را زیر سؤال برده است."
+   ],
+   "title_ar": "«فقدان الثقة»: البحرية الأمريكية تعزل قادة سفن حربية مُنتشرة ضد إيران",
+   "summary_ar": "أقالت البحرية الأمريكية العديد من كبار الضباط من مناصبهم دون إعلانات رسمية، ما أثار انتقادات من أعضاء بالكونغرس من الحزب الديمقراطي بسبب نقص الشفافية.",
+   "body_ar": [
+    "ومن بين المعزولين القيادة الثلاثية للغواصة النووية «يو إس إس ساوث داكوتا» عقب اصطدامها بقاع البحر في أكتوبر، والقائدة كيتلين كونينغهام من المدمرة «يو إس إس مايكل ميرفي» التي شاركت في عمليات مرتبطة بإيران. وأرجع مسؤول دفاعي سبب عزل كونينغهام إلى «فقدان الثقة».",
+    "وأعرب النائبان الديمقراطيان جو كورتني وآدم سميث في رسالة إلى القائم بأعمال وزير البحرية هونغ كاو والأدميرال داريل كودل عن استيائهما من عدم إبلاغ الكونغرس، مشيرين إلى أن هذا الصمت يثير التساؤلات حول شفافية البحرية وعلاقتها مع أعضاء المجلس."
    ]
   },
   {
@@ -854,37 +1001,6 @@
    "body_ar": [
     "وفضلاً عن ذلك، وفي كلمته أمام المؤتمر الوطني لجمعية الفيدراليين في واشنگتن، أوضح روبيو أن الأضرار الاقتصادية الناجمة عن الإجراءات الأمريكية قد أضعفت تهران بشكل كبير، مما يجعل التدخل العسكري غير ضروري. ومع ذلك، شدد على أن تحقيق النصر يكمن في ضمان عدم امتلاك إيران لسلاح نووي على الإطلاق.",
     "كما اعترف روبيو بالصعوبات الاقتصادية التي واجهها الأمريكيون نتيجة للحرب، والتي أدت إلى ارتفاع تكاليف الوقود والتأثير على القطاعات الاقتصادية العالمية."
-   ]
-  },
-  {
-   "id": "a34a30b3f745",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-   "date": "2026-11-14T00:06:43Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Afghanistan’s new road to China ends at a closed border",
-   "title_en": "Afghanistan’s new road to China ends at a closed border",
-   "summary_en": "The Taliban-led government in Afghanistan has completed a road through the Wakhan Corridor to the Chinese border, but the crossing remains closed as Beijing cites security concerns.",
-   "body_en": [
-    "The unpaved road through Badakhshan province was built in two phases at a cost of 365 million afghanis ($5.5 million) using Afghan government funds. However, there are no Chinese customs facilities on the other side of the Wakhjir Pass, and China has not announced when or if it will allow commercial traffic across the border.",
-    "While Kabul aims to transform the remote corridor into a trade gateway connecting Afghanistan to Chinese and Central Asian markets, Beijing views the border primarily as a security matter. Chinese officials have conditioned opening the route on security guarantees, particularly regarding the prevention of Uighur militant activity near Xinjiang."
-   ],
-   "title_fa": "جاده جدید افغانستان به چین به مرز بسته ختم می‌شود",
-   "summary_fa": "حکومت طالبان در افغانستان ساخت جاده‌ای را از طریق دالان واخان به مرز چین به پایان رسانده است، اما این گذرگاه به دلیل نگرانی‌های امنیتی پکن همچنان بسته است.",
-   "body_fa": [
-    "این جاده خاکی در ولایت بدخشان در دو مرحله و با بودجه ۳۶۵ میلیون افغانی (۵.۵ میلیون دلار) از منابع حکومت افغانستان ساخته شده است. با این حال، هیچ تأسیسات گمرکی در آن سوی گردنه واخجیر وجود ندارد و چین زمان یا امکانی برای بازگشایی مرز به روی ترافیک تجاری اعلام نکرده است.",
-    "در حالی که کابل می‌کوشد این دالان دورافتاده را به یک مسیر تجاری برای اتصال افغانستان به بازارهای چین و آسیای مرکزی تبدیل کند، پکن این منطقه مرزی را عمدتاً موضوعی امنیتی می‌داند. مقام‌های چینی بازگشایی این مسیر را به ارائه تضمین‌های امنیتی مؤثر، به ویژه مهار فعالیت‌های شبه‌نظامیان اویغور در نزدیک سین‌کیانگ، مشروط کرده‌اند."
-   ],
-   "title_ar": "الطريق الجديد من أفغانستان إلى الصين ينتهي عند حدود مغلقة",
-   "summary_ar": "أنجزت الحكومة التي تقودها طالبان في أفغانستان بناء طريق عبر ممر واخان يصل إلى الحدود الصينية، لكن المعبر يظل مغلقاً بسبب مخاوف أمنية لدى بكين.",
-   "body_ar": [
-    "بُني هذا الطريق الترابي في ولاية بدخشان على مرحلتين بتكلفة بلغت 365 مليون أفغاني (5.5 مليون دولار) من تمويل الحكومة الأفغانية. ومع ذلك، لا توجد أي مرافق جمركية صينية على الجانب الآخر من ممر واخان، ولم تعلن الصين ما إذا كانت ستسمح بحركة التجارة عبر الحدود أو متى سيتم ذلك.",
-    "وفي حين تسعى كابل إلى تحويل هذا الممر النائي إلى بوابة تجارية تربط أفغانستان بالأسواق الصينية وأسواق آسيا الوسطى، ترى بكين أن الحدود قضية أمنية بالدرجة الأولى. وقد ربط المسؤولون الصينيون فتح الطريق بتقديم ضمانات أمنية فعالة، ولا سيما منع نشاط المسلحين الإيغور بالقرب من إقليم سينكيانغ."
    ]
   },
   {
@@ -12429,883 +12545,6 @@
    "title_ar": "مباشر حرب إيران: عراقجي يعلن عن محادثات بشأن خطة لمدة يومين لإعادة فتح مضيق هرمز",
    "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن هناك محادثات جارية بشأن خطة تم التوصل إليها مع قطر لإعادة فتح مضيق هرمز خلال يومين. وأوضح أن تنفيذ هذه الخطة مرهون باستجابة الولايات المتحدة لشروط طهران.",
    "body_ar": []
-  },
-  {
-   "id": "b2ee5fc6f61c",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041221/pakistan-slams-afghan-taliban-for-shifting-blame-persistent-refusal-to-address-terrorism-issues",
-   "date": "2026-10-31T19:46:41Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 7,
-   "title": "Pakistan slams Afghan Taliban for 'shifting blame', 'persistent refusal' to address terrorism issues",
-   "title_en": "Pakistan slams Afghan Taliban for 'shifting blame', 'persistent refusal' to address terrorism issues",
-   "summary_en": "Pakistan's information ministry has condemned the Afghan Taliban's stance on bilateral tensions, accusing the administration of deflecting responsibility and consistently failing to curb cross-border terrorism.",
-   "body_en": [
-    "The ministry's statement responded to remarks by Afghan Taliban spokesperson Zabihullah Mujahid, who accused Islamabad's policies of hindering conflict resolution. Islamabad dismissed the claims, stating that the Taliban's refusal to dismantle militant sanctuaries—particularly those used by Tehreek-i-Taliban Pakistan—remains the primary obstacle to improving bilateral ties.",
-    "Reiterating that citizen security is a non-negotiable red line, Pakistan asserted its right under international law to counter national security threats. The diplomatic dispute comes amid repeated border clashes in September and October, involving Pakistani airstrikes, drone intrusions, and cross-border firing by Afghan forces that recently caused casualties in Angoor Adda."
-   ],
-   "title_fa": "انتقاد شدید پاکستان از طالبان افغانستان به دلیل «فرافکنی» و «امتناع مداوم» از حل مسائل تروریسم",
-   "summary_fa": "وزارت اطلاعات پاکستان با انتقاد از موضع طالبان افغانستان در قبال درگیری‌های میان دو کشور، این گروه را به فرافکنی و امتناع مداوم از مقابله با تروریسم برخاسته از خاک افغانستان متهم کرد.",
-   "body_fa": [
-    "بیانیه این وزارتخانه در واکنش به اظهارات ذبیح‌الله مجاهد، سخنگوی طالبان افغانستان، صادر شد که سیاست‌های اسلام‌آباد را مانع حل درگیری دانسته بود. اسلام‌آباد این موضع‌گیری را نشانه رویکرد نادرست طالبان خواند و تأکید کرد که امتناع آنها از برخورد با پناهگاه‌های تروریستی، به ویژه پناهگاه‌های تحریک طالبان پاکستان، مانع اصلی عادی‌سازی روابط است.",
-    "پاکستان با تأکید بر اینکه امنیت شهروندانش قابل مذاکره نیست، اعلام کرد حق انجام اقدامات لازم بر اساس حقوق بین‌الملل را برای دفع تهدیدات محفوظ می‌دارد. به گزارش منابع امنیتی، این موضع‌گیری پس از درگیری‌های مرزی متوالی در ماه‌های سپتامبر و اکتبر، از جمله حملات هوایی پاکستان و تیراندازی نیروهای امنیتی افغان به مناطق مرزی، اتخاذ شده است."
-   ],
-   "title_ar": "باكستان تندد بحركة طالبان الأفغانية لـ«إلقاء اللوم» و«الرفض المستمر» لمعالجة قضايا الإرهاب",
-   "summary_ar": "نددت وزارة الإعلام الباكستانية بموقف حركة طالبان الأفغانية إزاء التوترات بين البلدين، متهمة إياها بإلقاء اللوم على إسلام آباد والرفض المستمر لمواجهة الإرهاب المنطلق من الأراضي الأفغانية.",
-   "body_ar": [
-    "جاء بيان الوزارة رداً على تصريحات المتحدث باسم طالبان أفغانستان ذبيح الله مجاهد، الذي اتهم سياسات إسلام آباد بعرقلة حل النزاع. ووصفت إسلام آباد هذا الموقف بأنه نهج مضلل، مؤكدة أن امتناع طالبان عن تفكيك الملاذات الإرهابية داخل أراضيها، لا سيما المرتبطة بحركة طالبان باكستان، يمثل العقبة الأساسية أمام تطبيع العلاقات.",
-    "وشددت باكستان على أن أمن مواطنيها خط أحمر غير قابل للتفاوض، مؤكدة احتفاظها بحق اتخاذ الإجراءات اللازمة وفقاً للقانون الدولي لدرء التهديدات. وتأتي هذه التطورات في أعقاب اشتباكات حدودية متبادلة خلال شهري سبتمبر وأكتوبر تضمنت ضربات جوية باكستانية وإطلاق نار من القوات الأفغانية أدى مؤخراً إلى سقوط ضحايا."
-   ]
-  },
-  {
-   "id": "671c16bf5ef5",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/crz65vj255vjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T18:56:07Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "رضایی: حکومت برای تغییر دکترین هسته‌ای تصمیم جدیدی نگرفته‌ اما ملت ایران مطالباتی دارد",
-   "title_en": "Rezaei: The Government Has Made No New Decision to Change Nuclear Doctrine, but the Iranian Nation Has Demands",
-   "summary_en": "The secretary of Iran's Supreme National Security Council stated that no official decision has been made to alter the country's nuclear doctrine, though the Iranian public has demands regarding the matter.",
-   "body_en": [
-    "Speaking to Iranian state television, Mohsen Rezaei said discussions exist over whether to maintain the previous doctrine if war erupts again, but no formal decision has been made by the government. He argued that after Iran complied with inspections by the International Atomic Energy Agency, its nuclear facilities were nevertheless attacked, prompting citizens to question why the current approach should continue.",
-    "Rezaei also labeled IAEA Director General Rafael Grossi a \"mercenary of the Zionist regime\" and blamed him for the onset of Iran's issues with the agency. His remarks followed calls a day earlier by Tehran's temporary Friday prayer leader for a revision of the country's nuclear doctrine."
-   ],
-   "title_fa": "رضایی: حکومت برای تغییر دکترین هسته‌ای تصمیم جدیدی نگرفته‌ اما ملت ایران مطالباتی دارد",
-   "summary_fa": "دبیر شورای عالی امنیت ملی ایران اعلام کرد که هنوز تصمیمی رسمی برای تغییر دکترین هسته‌ای کشور اتخاذ نشده است، اما مردم ایران در این خصوص مطالباتی دارند.",
-   "body_fa": [
-    "محسن رضایی در گفتگو با تلویزیون دولتی گفت بحث‌هایی درباره حفظ دکترین قبلی در صورت وقوع جنگ مجدد مطرح است، اما در سطح حکومت تصمیمی گرفته نشده است. او اظهار داشت در حالی که ایران به بازرسی‌های آژانس بین‌المللی انرژی اتمی پاسخ مثبت داده بود، دشمن به مراکز هسته‌ای حمله کرد و همین موضوع باعث شده مردم مطالبه بازنگری در این وضعیت را داشته باشند.",
-    "رضایی همچنین رافائل گروسی، مدیرکل آژانس، را «مزدور رژیم صهیونی» خواند و آغاز مشکلات را از زمان تصدی او دانست. این اظهارات در پی سخنان امام جمعه موقت تهران مطرح شد که خواستار تجدیدنظر در دکترین هسته‌ای ایران شده بود."
-   ],
-   "title_ar": "رضائي: الحكومة لم تتخذ قراراً جديداً لتغيير العقيدة النووية لكن الشعب الإيراني لديه مطالب",
-   "summary_ar": "أعلن أمين المجلس الأعلى للأمن القومي الإيراني أنه لم يُتخذ أي قرار رسمي حتى الآن لتغيير العقيدة النووية للبلاد، غير أن الشعب الإيراني لديه مطالب بهذا الشأن.",
-   "body_ar": [
-    "قال محسن رضائي في تصريحات للتلفزيون الإيراني إن هناك نقاشات قائمة حول الإبقاء على العقيدة النووية السابقة من عدمه في حال اندلاع حرب مجدداً، مشيراً إلى عدم اتخاذ أي قرار رسمي على مستوى الدولة. وأوضح أنه بالرغم من استجابة إيران لعمليات التفتيش التي تجريها الوكالة الدولية للطاقة الذرية، فقد استُهدفت منشآتها النووية، وهو ما يدفع المواطنين للتساؤل حول جدوى الاستمرار في هذا النهج.",
-    "كما وصف رضائي المدير العام للوكالة الدولية للطاقة الذرية رافائيل غروسي بأنه «عميل للنظام الصهيوني»، معتبراً أن المشاكل بدأت منذ توليه منصبه. وجاءت هذه التصريحات عقب دعوة خطيب الجمعة المؤقت في طهران إلى مراجعة العقيدة النووية لإيران."
-   ]
-  },
-  {
-   "id": "0173bb76d68f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-could-revisit-nuclear-weapons-ban-if-war-resumes-security-chief",
-   "date": "2026-10-31T18:40:18Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "Iran could revisit nuclear weapons ban if war resumes, security chief says",
-   "title_en": "Iran could revisit nuclear weapons ban if war resumes, security chief says",
-   "summary_en": "Iranian Security Council chief Mohsen Rezaei said Iran is debating whether to keep its ban on nuclear weapons if fighting resumes, though no decision has been taken. He also noted that Washington has altered its tone, pointing to a recent letter from US Vice President JD Vance proposing direct negotiations.",
-   "body_en": [
-    "Rezaei stated that the letter from Vance, delivered via Qatari mediators, proposed direct discussions with Iran's nuclear programme on the table from the beginning. While describing Washington's altered approach as a positive sign, Rezaei said he had not yet responded and insisted that negotiations on the nuclear file could only happen after the United States meets Tehran's demands.",
-    "His remarks come amid continued indirect mediation conducted through Qatar, although Iranian authorities maintained earlier that they have no intention of holding meetings with US representatives."
-   ],
-   "title_fa": "دبیر شورای عالی امنیت ملی: در صورت ازسرگیری جنگ، ایران ممکن است در ممنوعیت سلاح هسته‌ای تجدیدنظر کند",
-   "summary_fa": "محسن رضایی، دبیر شورای امنیت ایران، اعلام کرد که کشورش در حال بحث درباره حفظ ممنوعیت سلاح‌های هسته‌ای در صورت ازسرگیری درگیری‌ها است، هرچند تصمیمی در این باره اتخاذ نشده است. او همچنین گفت لحن واشینگتن تغییر کرده و به نامه‌ای از سوی جی‌دی ونس، معاون رئیس‌جمهور آمریکا، برای پیشنهاد مذاکره مستقیم اشاره کرد.",
-   "body_fa": [
-    "رضایی گفت نامه‌ای که از سوی جی‌دی ونس و از طریق میانجی‌های قطری تحویل داده شده، پیشنهاد مذاکرات مستقیم با محوریت برنامه هسته‌ای ایران از همان ابتدا را مطرح کرده است. رضایی با وجود آنکه تغییر لحن واشینگتن را نشانه‌ای مثبت دانست، گفت هنوز پاسخی نداده و تأکید کرد بررسی موضوع هسته‌ای تنها پس از برآورده شدن خواسته‌های تهران از سوی آمریکا امکان‌پذیر خواهد بود.",
-    "این اظهارات هم‌زمان با تداوم میانجی‌گری‌های غیرمستقیم از طریق قطر بیان شد، هرچند مقام‌های ایرانی پیش‌تر اعلام کرده بودند که برنامه‌ای برای دیدار با مسئولان آمریکایی ندارند."
-   ],
-   "title_ar": "إيران قد تعيد النظر في حظر الأسلحة النووية إذا استؤنفت الحرب، وفقاً لمسؤول أمني",
-   "summary_ar": "صرح رئيس مجلس الأمن الإيراني محسن رضائي بأن طهران تناقش ما إذا كانت ستبقي على حظر الأسلحة النووية في حال تجدد القتال، مؤكداً عدم اتخاذ أي قرار بعد. وأشار أيضاً إلى أن واشنطن غيرت نبرتها، مستشهداً برسالة من نائب الرئيس الأمريكي جيه دي فانس تقترح إجراء محادثات مباشرة.",
-   "body_ar": [
-    "وأوضح رضائي أن الرسالة التي بعث بها جيه دي فانس عبر وسطاء قطريين تضمنت اقتراحاً بإجراء محادثات مباشرة يكون برنامج إيران النووي مطروحاً للنقاش فيها منذ البداية. واعتبر تغير الموقف الأمريكي مؤشراً إيجابياً، لكنه ذكر أنه لم يرد عليها بعد، مؤكداً أن مناقشة الملف النووي مشروطة باستجابة الولايات المتحدة لمطالب طهران.",
-    "وجاءت تصريحاته في ظل استمرار جهود الوساطة غير المباشرة التي تقودها قطر، رغم تأكيد مسؤولين إيرانيين في وقت سابق عدم وجود أي خطط لعقد لقاءات مع مسؤولين أمريكيين."
-   ]
-  },
-  {
-   "id": "ddb37395c1da",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-has-not-decided-whether-resume-strikes-iran-rubio-says",
-   "date": "2026-10-31T17:08:44Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Trump has not decided whether to resume strikes on Iran, Rubio says",
-   "title_en": "Trump has not decided whether to resume strikes on Iran, Rubio says",
-   "summary_en": "US Secretary of State Marco Rubio said President Donald Trump has not yet made a decision on whether to restart military strikes against Iran. Rubio also stated that he was unaware of any specific timeline for mediation led by Qatar to resolve the war.",
-   "body_en": [
-    "According to Reuters, Iranian negotiators held discussions in Doha with Qatari officials to explore ways to end the conflict, following extensive meetings lasting over 12 hours between envoys from both countries in Tehran the previous day."
-   ],
-   "title_fa": "روبیو: ترامپ هنوز تصمیمی درباره ازسرگیری حملات به ایران نگرفته است",
-   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد دونالد ترامپ هنوز در مورد ازسرگیری حملات نظامی علیه ایران تصمیمی نگرفته است. روبیو همچنین گفت که از وجود جدول زمانی مشخصی برای مذاکرات به میانجی‌گری قطر آگاه نیست.",
-   "body_fa": [
-    "به گزارش رویترز، مذاکره‌کنندگان ایرانی در دوحه با میانجی‌های قطری درباره راه‌های پایان دادن به جنگ گفتگو کردند؛ این مذاکرات پس از بیش از ۱۲ ساعت گفتگوی روز قبل میان نمایندگان دو کشور در تهران صورت گرفت."
-   ],
-   "title_ar": "روبيو: ترامب لم يقرر بعد استئناف الضربات على إيران",
-   "summary_ar": "صرح وزير الخارجية الأمريكي ماركو روبيو بأن الرئيس دونالد ترامب لم يقرر بعد ما إذا كان سيستأنف الضربات العسكرية ضد إيران. وأضاف روبيو أنه لا يعلم بوجود جدول زمني محدد للمحادثات التي تقودها قطر لإنهاء الحرب.",
-   "body_ar": [
-    "ووفقاً لما نقلته رويترز، أجرى مفاوضون إيرانيون مباحثات في الدوحة مع وسطاء قطريين لبحث سبل الخروج من الحرب، وذلك عقب محادثات استمرت أكثر من 12 ساعة في طهران بين مبعوثين إيرانيين وقطريين في اليوم السابق."
-   ]
-  },
-  {
-   "id": "361ebeaa309d",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iran-has-no-plans-for-talks-with-us-foreign-minister/article71650486.ece",
-   "date": "2026-10-31T16:24:44Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Iran has no plans for talks with U.S.: Foreign Minister",
-   "title_en": "Iran has no plans for talks with U.S.: Foreign Minister",
-   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that Iran has no intention of holding meetings with US officials, dismissing speculation of dialogue as media conjecture. He acknowledged that Tehran received a letter from US Vice President JD Vance and noted that mediators are continuing consultations over Iran's demands.",
-   "body_en": [
-    "Araghchi told Al Jazeera that the message from Vance was examined in high-level meetings, describing the US initiative to engage in dialogue as a positive step. However, he warned that any attempt by Washington to use the communication to create division would be seen as another misstep."
-   ],
-   "title_fa": "وزیر امور خارجه: ایران برنامه‌ای برای مذاکره با آمریکا ندارد",
-   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، با رد گمانه‌زنی‌ها درباره گفتگو به عنوان حدس و گمان رسانه‌ای، اعلام کرد کشورش برنامه‌ای برای دیدار با مقامات آمریکایی ندارد. او دریافت نامه‌ای از سوی جی‌دی ونس، معاون رئیس‌جمهور آمریکا، را تأیید کرد و افزود رایزنی میانجی‌ها بر سر شروط ایران ادامه دارد.",
-   "body_fa": [
-    "عراقچی در مصاحبه با الجزیره گفت پیام ونس در جلسات عالی‌رتبه بررسی شد و تلاش طرف آمریکایی برای باز کردن مسیر گفتگو را اقدامی مثبت دانست. با این حال، او هشدار داد که اگر هدف واشینگتن از ارسال پیام ایجاد اختلاف باشد، این رویکرد اشتباه دیگری به شمار خواهد آمد."
-   ],
-   "title_ar": "وزير الخارجية: إيران لا تخطط لإجراء محادثات مع الولايات المتحدة",
-   "summary_ar": "أعلن وزير الخارجية الإيراني عباس عراقجي أن بلاده ليس لديها أي خطط لعقد لقاءات مع مسؤولين أمريكيين، واصفاً الحديث عن ذلك بأنه مجرد تكهنات إعلامية. وأكد تلقي طهران رسالة من نائب الرئيس الأمريكي جيه دي فانس، مشيراً إلى استمرار المشاورات عبر الوسطاء بشأن شروط إيران.",
-   "body_ar": [
-    "وقال عراقجي في مقابلة مع قناة الجزيرة إن رسالة فانس تمت دراستها ومناقشتها في اجتماعات رفيعة المستوى، واصفاً مساعي الجانب الأمريكي لفتح حوار بأنها خطوة إيجابية. لكنه حذر من أنه إذا كانت واشنطن تهدف من الرسالة إلى زرع الخلاف، فسيمثل ذلك خطأً جديداً يُضاف إلى أخطائها السابقة."
-   ]
-  },
-  {
-   "id": "631b22c26981",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
-   "date": "2026-10-31T14:31:37Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "score": 9,
-   "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-   "title_en": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-   "summary_en": "Iranian Foreign Minister Abbas Araghchi has described a US effort to open dialogue as a positive step, noting that an Iranian delegation is currently in Qatar for consultations.",
-   "body_en": [
-    "Speaking to Al Jazeera, Araghchi said Iran had studied a letter from US Vice President JD Vance and outlined Tehran's conditions for reopening the Strait of Hormuz. He emphasized that any direct or indirect talks depend on these conditions being met, including the lifting of certain sanctions and the release of frozen funds.",
-    "Araghchi downplayed expectations of immediate meetings with US officials, stating that current consultations are being handled through Qatari and Pakistani mediators. Meanwhile, Iranian armed forces remain on high alert, with military officials warning of an overwhelming response to any potential attacks."
-   ],
-   "title_fa": "وزیر خارجه ایران: رویکرد ایالات متحده گامی مثبت است و هیئتی در قطر حضور دارد",
-   "summary_fa": "عباس عراقچی، وزیر خارجه ایران، تلاش ایالات متحده برای گشودن دالانی برای گفت‌وگو را گامی مثبت توصیف کرد و از حضور یک هیئت ایرانی در قطر خبر داد.",
-   "body_fa": [
-    "عراقچی در گفت‌وگو با الجزیره اعلام کرد که ایران نامه‌ای از سوی جی‌دی ونس، معاون رئیس‌جمهور آمریکا، را بررسی کرده و شرایط تهران برای بازگشایی تنگه هرمز را مطرح ساخته است. وی تأکید کرد که انجام مذاکرات به برآورده شدن این شرط‌ها، از جمله رفع تحریم‌ها و آزادی منابع مالی مسدود شده، بستگی دارد.",
-    "وی گمانه‌زنی‌ها درباره دیدارهای قریب‌الوقوع با مقام‌های آمریکایی را کم‌اهمیت خواند و افزود که رایزنی‌ها از طریق میانجیگران قاتری و پاکستانی جریان دارد. در همین حال، نیروهای مسلح ایران در بالاترین سطح آمادگی قرار دارند و مقام‌های نظامی هشدار داده‌اند که به هرگونه حمله پاسخی قاطع داده خواهد شد."
-   ],
-   "title_ar": "وزیر الخارجية الإيراني: الانفتاح الأمريكي خطوة إيجابية بينما توجد وفد في قطر للمحادثات",
-   "summary_ar": "وصف وزير الخارجية الإيراني عباس عراقجي محاولة الولايات المتحدة فتح باب الحوار بأنها خطوة إيجابية، مشيراً إلى وجود وفد إيراني في قطر للمشاورات.",
-   "body_ar": [
-    "قال عراقجي في تصريحات للجزيرة إن إيران درست رسالة من نائب الرئيس الأمريكي جيه دي فانس، وحددت شروط طهران لإعادة فتح مضيق هرمز. وأكد أن أي محادثات تعتمد على تلبية هذه الشروط، بما في ذلك رفع العقوبات والإفراج عن الأموال المجمدة.",
-    "وقلل الوزير من شأن التكهنات حول اجتماعات قريبة مع المسؤولين الأمريكيين، مشيراً إلى أن المشاورات مستمرة عبر وسطاء قطريين وباكستانيين. وفي السياق ذاته، تظل القوات المسلحة الإيرانية في أعلى درجات الاستعداد، محذرة من رد حاسم على أي هجوم محتمل."
-   ]
-  },
-  {
-   "id": "49acb1b2e242",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
-   "date": "2026-10-31T12:45:49Z",
-   "countries": [
-    "YEM"
-   ],
-   "score": 8,
-   "title": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
-   "title_en": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
-   "summary_en": "The United Nations reports that at least 290,000 people have been displaced in Yemen since fighting re-erupted in August, posing severe risks to vulnerable groups including pregnant women.",
-   "body_en": [
-    "According to OCHA, escalating clashes between forces loyal to Yemen's internationally recognized government and the Houthis have severely disrupted services and driven up food and fuel prices. The displaced population includes thousands of pregnant women facing critical health risks amid ongoing violence across multiple fronts.",
-    "Concurrently, regional tensions have spiked as the Saudi-led coalition reported intercepting drones over Saudi territory, while Houthi attacks targeted locations in Aden and other areas. Government forces have also launched offensives to reclaim lost territory as diplomatic efforts continue internationally."
-   ],
-   "title_fa": "سازمان ملل: درگیری‌های جدید در یمن ۲۹۰ هزار آواره برجای گذاشته و زنان باردار در خطرند",
-   "summary_fa": "سازمان ملل متحد گزارش داد که از زمان ازسرگیری درگیری‌ها در یمن در ماه اوت، دست‌کم ۲۹۰ هزار نفر آواره شده‌اند و خطرات جدی گروه‌های آسیب‌پذیر از جمله زنان باردار را تهدید می‌کند.",
-   "body_fa": [
-    "به گفته دفتر هماهنگی امور کمک‌های بشردوستانه سازمان ملل (اوچا)، شدت گرفتن درگیری‌ها میان نیروهای دولت به رسمیت شناخته شده یمن و حوثی‌ها به اختلال شدید در خدمات و افزایش بهای مواد غذایی و سوخت منجر شده است. هزاران زن باردار در میان آوارگان حضور دارند که به دلیل استمرار خشونت‌ها در جبهه‌های مختلف با خطرات جدی بهداشتی روبه‌رو هستند.",
-    "همزمان، تنش‌های منطقه‌ای با رهگیری پهپادها در آسمان عربستان سعودی توسط ائتلاف تحت رهبری این کشور و حملات پهپادی و موشکی به عدن و سایر مناطق افزایش یافته است. نیروهای دولتی یمن نیز در پی بازپس‌گیری مناطق از دست‌رفته هستند."
-   ],
-   "title_ar": "الأمم المتحدة: القتال الجديد في اليمن يشرد 290 ألف شخص ويشكل خطراً على الحوامل",
-   "summary_ar": "أفادت الأمم المتحدة بتشريد ما لا يقل عن 290 ألف شخص في اليمن منذ تجدد القتال في أغسطس، مما يفرض مخاطر جسيمة على الفئات الضعيفة بما في ذلك النساء الحوامل.",
-   "body_ar": [
-    "وفقاً لمكتب الأمم المتحدة للشؤون الإنسانية (أوتشا)، أدت الاشتباكات المتصاعدة بين القوات الحكومية المعترف بها دولياً والحوثيين إلى تعطيل الخدمات الأساسية وارتفاع أسعار الغذاء والوقود. وتضم أعداد الناشطين آلاف النساء الحوامل اللواتي يواجهن مخاطر صحية حرجة وسط استمرار العنف على جبهات عدة.",
-    "في غضون ذلك، تصاعدت التوترات الإقليمية مع إعلان التحالف بقيادة السعودية اعتراض طائرات مسيّرة فوق الأراضي السعودية، بينما استهدفت هجمات حوثية مواقع في عدن ومدن أخرى. وأعلنت القوات الحكومية عن عمليات عسكرية لاستعادة الأراضي السيطرة عليها."
-   ]
-  },
-  {
-   "id": "4aab7b4f0358",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iran-says-fishermen-found-after-accusing-us-of-attack-in-hormuz/article71649330.ece",
-   "date": "2026-10-31T12:29:32Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "Iran says fishermen found after accusing U.S. of attack in Hormuz",
-   "title_en": "Iran says fishermen found after accusing U.S. of attack in Hormuz",
-   "summary_en": "Iranian state media reported that two fishermen who went missing following an alleged U.S. attack on their boat in the Strait of Hormuz have been found.",
-   "body_en": [
-    "State television quoted a provincial official as saying the two fishermen from Qeshm went missing on Saturday morning after a U.S. attack on their vessel in the Strait of Hormuz, which also wounded two other fishermen. State media later confirmed that both missing fishermen had been located."
-   ],
-   "title_fa": "ایران می‌گوید صیادان پس از اتهام حمله آمریکا در هرمز پیدا شدند",
-   "summary_fa": "رسانه‌های دولتی ایران گزارش دادند دو صیادی که در پی حمله ادعایی آمریکا به قایقشان در تنگه هرمز مفقود شده بودند، پیدا شده‌اند.",
-   "body_fa": [
-    "تلویزیون دولتی به نقل از یک مقام استانی اعلام کرد این دو صیاد اهل قشم صبح روز شنبه در پی حمله آمریکا به قایقشان در تنگه هرمز مفقود شده بودند؛ حادثه‌ای که به زخمی شدن دو صیاد دیگر نیز انجامید. رسانه‌های دولتی بعداً تأیید کردند که هر دو صیاد مفقودشده پیدا شده‌اند."
-   ],
-   "title_ar": "إيران تعلن العثور على صيادين بعد اتهام واشنطن بشن هجوم في مضيق هرمز",
-   "summary_ar": "أفادت وسائل إعلام إيرانية رسمية بأنه تم العثور على صيادين اثنين كانا قد فقدا عقب هجوم أمريكي مزعوم على قاربهما في مضيق هرمز.",
-   "body_ar": [
-    "ونقل التلفزيون الرسمي عن مسؤول محلي أن الصيادين القادمين من قشم فقدا صباح يوم السبت إثر هجوم أمريكي على قاربهما في مضيق هرمز، أسفر أيضاً عن إصابة صيادين آخرين. وأكدت وسائل الإعلام الرسمية لاحقاً أنه تم العثور على الصيادين المفقودين."
-   ]
-  },
-  {
-   "id": "69a67642e85c",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
-   "date": "2026-10-31T12:22:45Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-   "title_en": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-   "summary_en": "Several Iranian lawmakers and public figures have called for the country to withdraw from the Nuclear Non-Proliferation Treaty amid ongoing tensions and indirect talks mediated by Qatar.",
-   "body_en": [
-    "Lawmaker Mahmoud Nabavian and members of Iran's parliamentary committees stated that withdrawing from the NPT should be considered following the heavy costs of war and sanctions. State-linked figures and hardline factions have echoed these demands, criticizing the International Atomic Energy Agency over its recent resolutions.",
-    "While Iranian leaders have not yet made a final decision on the matter, the Ministry of Foreign Affairs previously noted that a parliamentary bill regarding the withdrawal is under preparation."
-   ],
-   "title_fa": "نمایندگان مجلس ایران خواستار خروج از ان‌پی‌تی شدند: جنگ یا صلح؟",
-   "summary_fa": "چند تن از نمایندگان مجلس و چهره‌های عمومی ایران در سایه تنش‌های جاری و میانجیگری قطر، خواستار خروج کشور از معاهده عدم اشاعه هسته‌ای (ان‌پی‌تی) شدند.",
-   "body_fa": [
-    "محمود نبویان، نماینده مجلس، و شماری از اعضای کمیسیون‌های پارلمانی اعلام کردند که پس از تحمیل هزینه‌های سنگین جنگ و تحریم‌ها، خروج از ان‌پی‌تی باید در دستور کار قرار گیرد. شخصیت‌های وابسته به نهادهای حکومتی و جناح‌های تندرو نیز با انتقاد از قطعنامه‌های اخیر آژانس بین‌المللی انرژی اتمی، از این خواسته حمایت کرده‌اند.",
-    "اگرچه مقام‌های ارشد ایران هنوز تصمیم نهایی خود را در این زمینه اتخاذ نکرده‌اند، وزارت امور خارجه پیش‌تر اعلام کرده بود که طرحی پارلمانی در خصوص خروج از این معاهده در حال آماده‌سازی است."
-   ],
-   "title_ar": "نواب إيرانيون يدعون إلى الانسحاب من معاهدة عدم انتشار السلاح النووي: حرب أم سلام؟",
-   "summary_ar": "دعا عدد من النواب والشخصيات العامة في إيران إلى انسحاب البلاد من معاهدة عدم انتشار الأسلحة النووية وسط التوترات المستمرة والمحادثات غير المباشرة بوساطة قطرية.",
-   "body_ar": [
-    "صرح النائب محمود نبويان وأعضاء في لجان برلمانية بأن الانسحاب من المعاهدة يجب أن يُدرس في ظل التكاليف الباهظة للحرب والعقوبات. وقد رددت شخصيات محسوبة على التيار المتشدد هذه المطالب، منتقدة الوكالة الدولية للطاقة الذرية بسبب قراراتها الأخيرة.",
-    "وعلى الرغم من أن القيادة الإيرانية لم تتخذ قراراً نهائياً بعد بشأن هذه الدعوات، فقد أشارت وزارة الخارجية سابقاً إلى أن مشروع قانون برلماني يتعلق بالانسحاب قيد الإعداد."
-   ]
-  },
-  {
-   "id": "fe39229a0f59",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
-   "date": "2026-10-31T12:13:42Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-   "title_en": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-   "summary_en": "Iran's Supreme Leader Mojtaba Khamenei has directed the armed forces to prepare an immediate and geographically unrestricted response in the event of new attacks. The warning comes as Qatari diplomats conduct negotiations in Tehran aimed at preventing a wider conflict between Iran and the United States.",
-   "body_en": [
-    "In his first reported directive to military leadership since taking office, Khamenei called for maximum deterrence amid fears of renewed strikes by the United States and Israel. Iranian officials reinforced the message, with the army warning that hostilities would spread across the region if Washington launches fresh strikes.",
-    "The military warnings coincide with mediated diplomatic efforts, including a recent letter from US Vice President JD Vance reportedly seeking nuclear commitments. Tehran has maintained its demands for a return to a June memorandum of understanding, demanding the lifting of the US maritime blockade on its ports, sanctions waivers, and regional ceasefires."
-   ],
-   "title_fa": "هشدار ایران درباره پاسخ تلافی‌جویانه بدون محدودیت در صورت حمله هم‌زمان با تلاش‌های میانجی‌ها برای صلح",
-   "summary_fa": "مجتبی خامنه‌ای، رهبر جمهوری اسلامی ایران، به نیروهای مسلح دستور داده است تا در صورت بروز هرگونه حمله تازه، برای پاسخی فوری و بدون محدودیت جغرافیایی آماده باشند. این هشدار در حالی صادر می‌شود که دیپلمات‌های قطری در تهران مشغول مذاکره برای جلوگیری از گسترش درگیری میان ایران و ایالات متحده هستند.",
-   "body_fa": [
-    "در نخستین دستور گزارش‌شده از سوی مجتبی خامنه‌ای به فرماندهان نظامی پس از آغاز دوران رهبری وی، او هم‌زمان با نگرانی‌ها از حملات دوباره ایالات متحده و اسرائیل، بر ایجاد «حداکثر بازدارندگی» تأکید کرد. مقامات نظامی ایران نیز بر این موضوع پافشاری کردند؛ از جمله سخنگوی ارتش هشدار داد که در صورت هرگونه ماجراجویی تازه واشینگتن، دامنه آتش جنگ گسترده‌تر خواهد شد.",
-    "این هشدارهای نظامی هم‌زمان با تلاش‌های دیپلماتیک با میانجی‌گری قطر و پس از نامه‌ای از سوی جی‌دی ونس، معاون رئیس‌جمهور آمریکا، مطرح می‌شود که گفته می‌شود شامل درخواست تعهدات هسته‌ای بوده است. تهران همچنان بر بازگشت به یادداشت تفاهم ژوئن، لغو محاصره دریایی بنادر خود توسط آمریکا، معافیت‌های تحریمی نفتی و برقراری آتش‌بس منطقه‌ای اصرار دارد."
-   ],
-   "title_ar": "إيران تحذر من رد انتقامي بلا قيود إذا تعرضت لهجوم بينما يسعى الوسطاء للسلام",
-   "summary_ar": "وجّه المرشد الأعلى الإيراني مجتبى خامنئي القوات المسلحة بالاستعداد لرد فوري وغير مقيد جغرافياً في حال وقوع هجمات جديدة. ويأتي هذا التحذير في وقت يجري فيه دبلوماسيون قطريون مفاوضات في طهران تهدف إلى منع اندلاع صراع أوسع بين إيران والولايات المتحدة.",
-   "body_ar": [
-    "في أول توجيه يُعلن عنه للقادة العسكريين منذ توليه منصبه، دعا خامنئي إلى تحقيق «أقصى درجات الردع» وسط مخاوف من ضربات جديدة قد تشنها الولايات المتحدة وإسرائيل. وعزز مسؤولون إيرانيون هذا الخطاب، حيث حذر متحدث باسم الجيش من أن الحرب ستمتد إقليمياً إذا أقدمت واشنطن على شن هجمات جديدة.",
-    "تتزامن هذه التحذيرات العسكرية مع مساعٍ دبلوماسية عبر وسطاء، عقب رسالة بعث بها نائب الرئيس الأمريكي جيه دي فانس قيل إنها طلبت التزامات نووية من إيران. وتتمسك طهران بالعودة إلى مذكرة تفاهم يونيو، مشترطةً رفع الحصار البحري الأمريكي عن موانئها، وتقديم إعفاءات من العقوبات النفطية، ووقف إطلاق النار في النزاعات الإقليمية."
-   ]
-  },
-  {
-   "id": "042105d1ca89",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041187/irans-supreme-leader-warns-us-israel-of-unrestricted-geographical-response-to-new-attacks",
-   "date": "2026-10-31T12:09:29Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 8,
-   "title": "Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks",
-   "title_en": "Iran's supreme leader warns US, Israel of 'unrestricted geographical response' to new attacks",
-   "summary_en": "Iran's Supreme Leader Mojtaba Khamenei has warned the United States and Israel that any new aggression will be met with an immediate and geographically unrestricted response. The remarks were published following a meeting between the leader and his top military commanders.",
-   "body_en": [
-    "A statement on Khamenei's website indicated that he instructed the commanders to expand Iran's targeting list to encompass both tangible and intangible assets of the US and Israel. The session included the armed forces chief of staff, the army chief, and the head of the Revolutionary Guards.",
-    "The announcement comes amid ongoing diplomatic initiatives to avert further clashes, including the arrival of a Qatari delegation in Tehran following a letter sent to Iran by US Vice President JD Vance."
-   ],
-   "title_fa": "هشدار رهبر ایران به آمریکا و اسرائیل درباره «پاسخ بدون محدودیت جغرافیایی» به حملات جدید",
-   "summary_fa": "مجتبی خامنه‌ای، رهبر جمهوری اسلامی ایران، به ایالات متحده و اسرائیل هشدار داد که هرگونه تجاوز جدید با پاسخی فوری و بدون محدودیت جغرافیایی مواجه خواهد شد. این اظهارات در پی نشستی میان او و فرماندهان ارشد نظامی ایران منتشر شده است.",
-   "body_fa": [
-    "بر اساس بیانیه‌ای در وب‌سایت خامنه‌ای، وی به فرماندهان دستور داده است تا فهرست اهداف ایران را برای در برگرفتن انواع دارایی‌های ملموس و ناملموس ایالات متحده و اسرائیل به‌روزرسانی کنند. در این نشست، رئیس ستاد کل نیروهای مسلح، فرمانده ارتش و فرمانده سپاه پاسداران حضور داشتند.",
-    "این بیانیه در بحبوحه تحرکات دیپلماتیک تازه برای جلوگیری از بازگشت درگیری‌ها صادر شده است؛ از جمله سفر یک هیئت قطری به تهران پس از دریافت نامه‌ای از سوی جی‌دی ونس، معاون رئیس‌جمهور آمریکا."
-   ],
-   "title_ar": "المرشد الأعلى الإيراني يحذر الولايات المتحدة وإسرائيل من «رد غير مقيد جغرافياً» على أي هجمات جديدة",
-   "summary_ar": "حذر المرشد الأعلى الإيراني مجتبى خامنئي الولايات المتحدة وإسرائيل من أن أي هجوم جديد سيُقابل برد فوري وغير مقيد جغرافياً. وجاءت هذه التصريحات عقب اجتماع عُقد بينه وبين كبار القادة العسكريين في إيران.",
-   "body_ar": [
-    "أفاد بيان نُشر على موقع خامنئي بأنه أصدر أوامر للقادة بتحديث قائمة الأهداف الإيرانية لتشمل كافة الأصول الملموسة وغير الملموسة التابعة للولايات المتحدة وإسرائيل. وضم الاجتماع كلاً من رئیس أركان القوات المسلحة، وقائد الجيش، وقائد الحرس الثوري.",
-    "تأتي هذه التصريحات تزامناً مع جهود دبلوماسية جديدة لمنع استئناف القتال، شملت وصول وفد قطري إلى طهران بعد تلقي إيران رسالة من نائب الرئيس الأمريكي جيه دي فانس."
-   ]
-  },
-  {
-   "id": "0908bc7611e3",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041182/syria-weighing-whether-to-join-makkah-pact-foreign-minister",
-   "date": "2026-10-31T12:01:15Z",
-   "countries": [
-    "PAK",
-    "SAU",
-    "SYR",
-    "TUR"
-   ],
-   "score": 7,
-   "title": "Syria weighing whether to join Makkah pact: foreign minister",
-   "title_en": "Syria weighing whether to join Makkah pact: foreign minister",
-   "summary_en": "Syrian Foreign Minister Asaad al-Shaibani announced that Damascus is evaluating whether to join the Makkah Joint Defence Agreement with Pakistan, Saudi Arabia, and Turkey. Speaking at the Manama Dialogue, he voiced Syria's support for Gulf nations and affirmed that Syrian territory would not be used to threaten neighbours.",
-   "body_en": [
-    "The Makkah agreement, signed in August, provides for collective defense by establishing that an armed assault on any single signatory constitutes an attack on all members. Saudi Arabia has sought broader backing under the pact amid an escalation in drone and missile attacks launched by Yemen's Houthis.",
-    "Pakistani military officials previously indicated that the alliance's charter does not restrict prospective membership for countries aligned with regional peace and collective deterrence. Shaibani's comments follow his August meetings in Pakistan with Chief of Defence Forces and Chief of Army Staff Field Marshal Asim Munir to discuss regional defense cooperation."
-   ],
-   "title_fa": "وزیر خارجه سوریه: دمشق در حال بررسی پیوستن به پیمان مکه است",
-   "summary_fa": "اسعد الشیبانی، وزیر امور خارجه سوریه، اعلام کرد که دمشق در حال ارزیابی پیوستن به توافقنامه دفاع مشترک مکه متشکل از پاکستان، عربستان سعودی و ترکیه است. او در سخنرانی خود در نشست «گفت‌وگوی منامه»، ضمن اعلام حمایت سوریه از کشورهای عرب خلیج فارس، تأکید کرد که خاک این کشور پایگاهی برای تهدید همسایگان نخواهد بود.",
-   "body_fa": [
-    "پیمان مکه که در ماه اوت به امضا رسید، اصل دفاع جمعی را برقرار می‌کند و حمله مسلحانه به یک عضو را حمله به تمامی اعضا تلقی می‌نماید. عربستان سعودی در بحبوحه تشدید حملات پهپادی و موشکی حوثی‌های یمن، در پی جلب حمایت‌های بیشتر در چارچوب این معاهده بوده است.",
-    "مقامات نظامی پاکستان پیش‌تر تصریح کرده بودند که مفاد این پیمان مانع عضویت کشورهای جدیدی که دارای دیدگاه مشترک در زمینه بازدارندگی جمعی و صلح منطقه‌ای هستند نمی‌شود. این اظهارات پس از سفر ماه اوت الشیبانی به پاکستان و دیدارش با فیلد مارشال عاصم منیر، فرمانده کل ارتش این کشور، مطرح می‌شود."
-   ],
-   "title_ar": "وزير الخارجية: سوريا تدرس الانضمام إلى ميثاق مكة",
-   "summary_ar": "أعلن وزير الخارجية السوري أسعد الشيباني أن دمشق تدرس مسألة انضمامها إلى اتفاقية مكة للدفاع المشترك الموقعة بين باكستان والسعودية وتركيا. وأكد الشيباني خلال مشاركته في مؤتمر حوار المنامة دعم سوريا لدول الخليج، مشدداً على رفض تحويل أراضيها إلى منطلق لتهديد دول الجوار.",
-   "body_ar": [
-    "تنص اتفاقية مكة الموقعة في أغسطس على مبدأ الدفاع المشترك، باعتبار أي اعتداء مسلح على دولة عضو بمثابة اعتداء على الجميع. وتسعى السعودية إلى حشد التأييد في إطار الاتفاقية لمواجهة تصاعد هجمات الطائرات المسيرة والصواريخ التي يشنها الحوثيون من اليمن.",
-    "وكانت قيادة الجيش الباكستاني قد أوضحت سابقاً أن نصوص الميثاق لا تمنع انضمام أعضاء جدد يتبنون رؤية الردع المشترك والسلام الإقليمي. وتأتي تصريحات الشيباني بعد زيارة أجراها لباكستان في أغسطس، التقى خلالها برئيس أركان الجيش المشير عاصم منير لبحث التعاون الدفاعي المشترك."
-   ]
-  },
-  {
-   "id": "b7802bf38fc0",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/mojtaba-khamenei-issues-important-and-strategic-orders-irans-military",
-   "date": "2026-10-31T10:28:25Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "Mojtaba Khamenei issues ‘important and strategic orders’ to Iran’s military",
-   "title_en": "Mojtaba Khamenei issues ‘important and strategic orders’ to Iran’s military",
-   "summary_en": "Iran's Supreme Leader Mojtaba Khamenei met with senior military commanders and issued what his office termed \"important and strategic orders.\" In a separate development, Iran's judiciary chief called for rapid legal proceedings against people suspected of collaborating with enemy states.",
-   "body_en": [
-    "A post on Khamenei's official X account noted that specifics regarding the military directives would be disclosed shortly. Meanwhile, judiciary head Gholam-Hossein Mohseni-Ejei urged precision and justice in trying cases related to alleged betrayal and espionage amid a broad crackdown following the start of the US-Israeli war on Iran in February."
-   ],
-   "title_fa": "مجتبی خامنه‌ای «دستورات مهم و راهبردی» به نیروهای مسلح ایران صادر کرد",
-   "summary_fa": "مجتبی خامنه‌ای، رهبر جمهوری اسلامی ایران، در دیدار با فرماندهان ارشد نیروهای مسلح کشور «دستورات مهم و راهبردی» صادر کرد. هم‌زمان، رئیس قوه قضاییه خواستار رسیدگی سریع به پرونده‌های متهمان به همکاری با دشمن شد.",
-   "body_fa": [
-    "حساب کاربری رسمی مجتبی خامنه‌ای در شبکه ایکس اعلام کرد که جزئیات این دستورالعمل‌های نظامی به زودی منتشر خواهد شد. از سوی دیگر، غلامحسین محسنی اژه‌ای، رئیس قوه قضاییه، در بحبوحه سرکوب‌های گسترده پس از آغاز جنگ آمریکا و اسرائیل علیه ایران در فوریه، خواستار رسیدگی دقیق و عادلانه به اتهامات مربوط به خیانت و جاسوسی شد."
-   ],
-   "title_ar": "مجتبى خامنئي يصدر «أوامر مهمة واستراتيجية» للقوات المسلحة الإيرانية",
-   "summary_ar": "التقى المرشد الإيراني مجتبى خامنئي بكبار قادة القوات المسلحة في البلاد وأصدر ما وصفه مكتبه بـ«أوامر مهمة واستراتيجية». وفي سياق منفصل، دعا رئيس السلطة القضائية الإيرانية إلى اتخاذ إجراءات قانونية سريعة بحق المتهمين بالتعاون مع جهات معادية.",
-   "body_ar": [
-    "وأفاد منشور على الحساب الرسمي لخامنئي عبر منصة إكس بأن تفاصيل هذه التوجيهات العسكرية ستُنشر قريباً. وفي الوقت نفسه، شدد رئيس القضاء غلام حسين محسني إجئي على ضرورة معالجة القضايا المتعلقة بالخيانة ونقل المعلومات بدقة وعدالة، وذلك وسط حملة أمنية واسعة أعقبت اندلاع الحرب الأمريكية الإسرائيلية ضد إيران في فبراير."
-   ]
-  },
-  {
-   "id": "31d2f9349bd3",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
-   "date": "2026-10-31T10:00:17Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Education under fire: Gaza’s children face death on their way to school",
-   "title_en": "Education under fire: Gaza’s children face death on their way to school",
-   "summary_en": "Palestinian children in Gaza face severe dangers from Israeli air strikes and sniper fire while travelling to and attending schools.",
-   "body_en": [
-    "Despite a ceasefire agreement reached last October, Israeli military attacks have continued across Gaza, killing at least 1,574 Palestinians according to the enclave's Ministry of Health. Educational activities resumed in September, but multiple students and teachers have since been killed or injured in strikes and gunfire, including near makeshift school tents in Jabalia and Deir el-Balah.",
-    "The Gaza Ministry of Education has called for urgent international action to protect pupils and educational facilities, noting that risks are especially severe for those near the \"Yellow Line\" dividing military control."
-   ],
-   "title_fa": "آموزش زیر آتش؛ کودکان غزه در راه مدرسه با خطر مرگ مواجه هستند",
-   "summary_fa": "کودکان فلسطینی در غزه هنگام رفتن به مدرسه و حضور در کلاس‌های درس با خطرات جدی ناشی از حملات هوایی و تیراندازی تک‌تیراندازان اسرائیلی مواجه هستند.",
-   "body_fa": [
-    "با وجود توافق آتش‌بس در اکتبر گذشته، حملات نظامی اسرائیل در سراسر غزه ادامه یافته و بنا بر اعلام وزارت بهداشت این باریکه، به کشته شدن دست‌کم ۱۵۷۴ فلسطینی انجامیده است. سال تحصیلی از سپتامبر از سر گرفته شد، اما از آن زمان چندین دانش‌آموز و معلم در حملات و تیراندازی‌ها، از جمله در نزدیکی چادرهای آموزشی در جبالیا و دیرالبلاح، کشته یا زخمی شده‌اند.",
-    "وزارت آموزش و پرورش غزه خواستار اقدام فوری بین‌المللی برای حمایت از دانش‌آموزان و مراکز آموزشی شده و اشاره کرده است که خطرات به ویژه برای افراد نزدیک به «خط زرد» که مناطق کنترل نظامی را جدا می‌کند، بسیار بالا است."
-   ],
-   "title_ar": "التعليم تحت النار: أطفال غزة يواجهون الموت في طريقهم إلى المدارس",
-   "summary_ar": "يواجه الأطفال الفلسطينيون في غزة مخاطر جسيمة جراء الغارات الجوية الإسرائيلية ونيران القناصة أثناء توجهم إلى المدارس وحضور الفصول الدراسية.",
-   "body_ar": [
-    "على الرغم من اتفاق وقف إطلاق النار المبرم في أكتوبر الماضي، استمرت الهجمات العسكرية الإسرائيلية في جميع أنحاء غزة، مما أسفر عن مقتل 1574 فلسطينياً على الأقل وفقاً لوزارة الصحة في القطاع. واستؤنف العام الدراسي في سبتمبر، لكن العديد من الطلاب والمعلمين تعرضوا للمقتل أو الإصابة منذ ذلك الحين جراء الغارات وإطلاق النار، بما في ذلك بالقرب من خيام التعليم في جباليا ودير البلح.",
-    "ودعت وزارة التربية والتعليم في غزة إلى تحرك دولي عاجل لحماية الطلاب والمؤسسات التعليمية، مشيرة إلى أن المخاطر تشتد بشكل خاص على المقربين من \"الخط الأصفر\" الذي يفصل مناطق السيطرة العسكرية."
-   ]
-  },
-  {
-   "id": "94121860f369",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
-   "date": "2026-10-31T08:08:30Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-   "title_en": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-   "summary_en": "An investigation by private intelligence firm AURORAH GeoSignal Intelligence has found that Russian military and government satellites consistently tracked targeted sites before and after Houthi strikes on Saudi Arabia. Officials from Saudi Arabia and the Houthis also confirmed to reporters that the rebel group has received intelligence linked to Russia and China.",
-   "body_en": [
-    "The firm's review of 40 attacks between July and October correlated the orbital passes of diverse Russian reconnaissance and radar satellites with operations against Saudi energy and military targets, such as the strikes on the East-West pipeline pumping stations. Analysts noted that integrated Russian geospatial and electronic data appears to have bolstered an Iranian-led intelligence network assisting Houthi ground and cross-border efforts.",
-    "While regional and rebel officials affirmed the receipt of Russian and Chinese intelligence, independent specialists stressed that existing data demonstrates a broader intelligence-sharing structure rather than direct proof that a single Russian satellite transmitted targeting coordinates for specific missile launches."
-   ],
-   "title_fa": "آیا حوثی‌ها هم‌زمان با دفع حملات توسط عربستان سعودی از ماهواره‌های روسی استفاده می‌کنند؟",
-   "summary_fa": "تحقیقات شرکت اطلاعاتی اورورا ژئوسیگنال نشان داده است که ماهواره‌های نظامی و دولتی روسیه پیش و پس از حملات حوثی‌ها به عربستان سعودی، به‌طور مستمر مناطق هدف را رصد کرده‌اند. مقام‌هایی از عربستان و حوثی‌ها نیز در گفت‌وگو با رسانه‌ها تأیید کرده‌اند که این گروه از اطلاعات منتسب به روسیه و چین بهره‌مند شده است.",
-   "body_fa": [
-    "بررسی ۴۰ حمله بین ماه‌های ژوئیه و اکتبر توسط این شرکت، مدار حرکت ماهواره‌های شناسایی و راداری روسیه را با عملیات‌ها علیه تأسیسات نظامی و انرژی عربستان، از جمله خط لوله شرق به غرب، مرتبط دانسته است. تحلیلگران معتقدند داده‌های مکانی و الکترونیکی روسیه شبکه اطلاعاتی تحت هدایت ایران را در پشتیبانی از عملیات‌های حوثی‌ها تقویت کرده است.",
-    "با وجود تأیید مقام‌های منطقه‌ای و حوثی مبنی بر بهره‌گیری از اطلاعات روسیه و چین، کارشناسان مستقل تأکید می‌کنند که داده‌های موجود صرفاً یک ارتباط ساختاری اطلاعاتی را نشان می‌دهد و اثبات‌کننده هدایت مستقیم موشک‌های شلیک‌شده توسط یک ماهواره خاص نیست."
-   ],
-   "title_ar": "هل يستخدم الحوثيون أقماراً صناعية روسية بينما تتصدى السعودية للضربات؟",
-   "summary_ar": "كشف تحقيق أجرته شركة «أورورا جيو سيغنال إنتليجنس» أن أقماراً صناعية عسكرية وحكومية روسية قامت بمسح مواقع مستهدفة قبل وبعد ضربات شنها الحوثيون على السعودية. كما أكد مسؤولون سعوديون ومن جماعة الحوثيين لوسائل الإعلام استفادة الجماعة من معلومات استخباراتية روسية وصينية.",
-   "body_ar": [
-    "ربطت مراجعة الشركة لـ 40 هجوماً بين يوليو وأكتوبر بين مسارات أقمار الاستطلاع والرادار الروسية والعمليات التي استهدفت منشآت الطاقة والمواقع العسكرية السعودية، بما فيها خط أنابيب «شرق-غرب». ورأى محللون أن هذه البيانات المكانية والإلكترونية عززت شبكة استخباراتية تقودها إيران لدعم الحوثيين ميدانياً.",
-    "ورغم تأكيد مسؤولين إقليميين ومن الحوثيين استخدام معلومات استخباراتية روسية وصينية، أوضح محللون مستقلون أن المؤشرات المتاحة تعكس تعاوناً استخباراتياً أوسع نطاقاً، دون أن تقدم دليلاً حاسماً على تزويد قمر صناعي بعينه بيانات التهديف لكل عملية إطلاق صاروخي."
-   ]
-  },
-  {
-   "id": "65e5d7ad51ed",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-spills-tankers-attacked-iran-hormuz-reach-uae-coastline-report-says",
-   "date": "2026-10-31T07:58:00Z",
-   "countries": [
-    "ARE",
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says",
-   "title_en": "Oil spills from tankers attacked by Iran in Hormuz reach UAE coastline, report says",
-   "summary_en": "Oil spills from tankers attacked by Iran near the Strait of Hormuz have reached the coastline of the United Arab Emirates, according to a report by the Financial Times. The pollution has led to the closure of beaches across three emirates and raised concerns for local marine life.",
-   "body_en": [
-    "Dark slicks have washed ashore, prompting authorities to close affected beaches in Umm Al Quwain, Ras Al Khaimah, and Sharjah. The UAE environment ministry stated that cleanup operations are underway and advised fishermen to stay away from polluted areas. Marine experts warned that turtles, dolphins, seabirds, and other species could be harmed by the spills.",
-    "Data from marine monitor Windward identified 12 spills between July and September, including one spanning 2,000 square kilometres off Oman. While official sources have not named the leaking ship, maritime security experts cited in the report identified it as the Chinese-owned supertanker Gem No. 2, which was struck off Sharjah more than two weeks ago."
-   ],
-   "title_fa": "گزارش‌ها: نشت نفت از نفتکش‌های مورد حمله ایران در هرمز به سواحل امارات رسید",
-   "summary_fa": "بر اساس گزارش فایننشال تایمز، نشت نفت از نفتکش‌هایی که در نزدیکی تنگه هرمز مورد حمله ایران قرار گرفتند، به سواحل امارات متحده عربی رسیده است. این آلودگی باعث تعطیلی سواحل در سه امارت و بروز نگرانی‌هایی درباره حیات وحش دریایی شده است.",
-   "body_fa": [
-    "لکه‌های سیاه نفت در امتداد سواحل دیده شده و مقامات را وادار کرده است تا سواحل آسیب‌دیده را در ام‌القوین، رأس‌الخیمه و شارجه تعطیل کنند. وزارت محیط زیست امارات اعلام کرد که در حال هماهنگی عملیات پاکسازی است و از صیادان خواست از مناطق آلوده دوری کنند. کارشناسان نسبت به خطرات احتمالی برای لاک‌پشت‌ها، دلفین‌ها، پرندگان دریایی و سایر گونه‌ها هشدار داده‌اند.",
-    "داده‌های موسسه رصد دریایی ویندوارد ۱۲ مورد نشت نفت را بین ژوئیه و سپتامبر ثبت کرده است، از جمله موردی که وسعت آن به ۲۰۰۰ کیلومتر مربع در مقابل سواحل عمان رسید. اگرچه مقامات سفینه نشت‌کننده را معرفی نکرده‌اند، کارشناسان امنیت دریایی نقل‌شده در این گزارش اعلام کردند که این سوپرتانکر متعلق به چین با نام Gem No. 2 بوده که بیش از دو هفته پیش در مقابل سواحل شارجه هدف قرار گرفت."
-   ],
-   "title_ar": "تقارير: تسرب نفطي من ناقلات هاجمتها إيران في هرمز يصل إلى سواحل الإمارات",
-   "summary_ar": "وصلت تسربات نفطية من ناقلات هاجمتها إيران بالقرب من مضيق هرمز إلى سواحل دولة الإمارات العربية المتحدة، وفقاً لتقرير نشرته صحيفة فاينانشال تايمز. وقد أدى هذا التلوث إلى إغلاق شواطئ في ثلاث إمارات وإثارة المخاوف على الحياة البحرية.",
-   "body_ar": [
-    "ووصلت بقع نفطية داكنة إلى الشواطئ، مما دفع السلطات إلى إغلاق المناطق المتضررة في أم القيوين ورأس الخيمة والشارقة. وذكرت وزارة البيئة الإماراتية أنها تنسق عمليات التنظيف ودعت الصيادين إلى تجنب المناطق الملوثة. وحذر خبراء من أن السلاحف والدلافين والطيور البحرية والكائنات الأخرى قد تتأثر بالتلوث.",
-    "وسجلت منصة الرصد البحري \"ويندوارد\" 12 تسرباً بين يوليو وستمبر، بما في ذلك تسرب امتد على مساحة 2000 كيلومتر مربع قبالة عمان. وفي حين لم تحدد السلطات السفينة المتسببة بالتسرب، قال خبراء أمن بحري استشهد بهم التقرير إنها الناقلة العملاقة \"جيم نمبر 2\" المملوكة لشركة صينية، والتي تعرضت للهجوم قبالة الشارقة قبل أكثر من أسبوعين."
-   ]
-  },
-  {
-   "id": "206bf9312d3a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-nuseirat-refugee-camp-central-gaza-kills-palestinian",
-   "date": "2026-10-31T06:45:52Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Israeli strike on Nuseirat refugee camp in central Gaza kills Palestinian",
-   "title_en": "Israeli strike on Nuseirat refugee camp in central Gaza kills Palestinian",
-   "summary_en": "An Israeli air strike on the Nuseirat refugee camp in central Gaza killed a Palestinian man, while another Palestinian died from injuries sustained in an earlier strike, according to the Quds News Network.",
-   "body_en": [
-    "The network reported that Diaa Abu al-Rous was killed in the Nuseirat strike, while Arafat al-Ar'eer succumbed to wounds suffered during an Israeli bombardment on the Tal al-Hawa neighbourhood south of Gaza City."
-   ],
-   "title_fa": "کشته شدن یک فلسطینی در حمله اسرائیل به اردوگاه النصیرات در مرکز غزه",
-   "summary_fa": "به گزارش شبکه قدس (QNN)، حمله هوایی اسرائیل به اردوگاه آوارگان النصیرات در مرکز غزه به کشته شدن یک مرد فلسطینی انجامید، در حالی که یک فلسطینی دیگر نیز بر اثر جراحات ناشی از حمله‌ای پیشین جان باخت.",
-   "body_fa": [
-    "بر اساس این گزارش، ضیاء ابو الروس در حمله به النصیرات جان باخت و عرفات العرعیر بر اثر جراحات ناشی از بمباران محله تل الهوا در جنوب شهر غزه جان خود را از دست داد."
-   ],
-   "title_ar": "مقتل فلسطيني في قصف إسرائيلي على مخيم النصيرات وسط غزة",
-   "summary_ar": "أفادت شبكة قدس الإخبارية بمقتل فلسطيني إثر غارة جوية إسرائيلية على مخيم النصيرات للاجئين وسط غزة، في حين توفي فلسطيني آخر متأثراً بجراح أصيب بها في قصف سابق.",
-   "body_ar": [
-    "وأوضحت الشبكة أن ضياء أبو الروس قُتل في قصف مخيم النصيرات، بينما توفي عرفات العرعير متأثراً بإصابته جراء غارة جوية إسرائيلية استهدفت حي تل الهوى جنوب مدينة غزة."
-   ]
-  },
-  {
-   "id": "7c560921efb9",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-force-intercepts-houthi-drone-over-riyadh-region",
-   "date": "2026-10-31T06:11:16Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 8,
-   "title": "Saudi-led coalition forces intercept Houthi drone over Riyadh region",
-   "title_en": "Saudi-led coalition forces intercept Houthi drone over Riyadh region",
-   "summary_en": "Saudi-led coalition forces intercepted and destroyed a drone over the Riyadh region, according to coalition spokesperson Major General Turki al-Maliki.",
-   "body_en": [
-    "Major General al-Maliki stated that hours prior to this incident, coalition forces had also downed two other drones, with one intercepted in Saudi Arabia's Eastern Province and another in the country's southern region."
-   ],
-   "title_fa": "رهگیری پهپاد حوثی‌ها بر فراز منطقه ریاض توسط نیروهای ائتلاف به رهبری عربستان",
-   "summary_fa": "به گفته سرلشکر ترکی المالکی، سخنگوی ائتلاف به رهبری عربستان، نیروهای این ائتلاف یک پهپاد را بر فراز منطقه ریاض رهگیری و منهدم کردند.",
-   "body_fa": [
-    "سرلشکر المالکی اعلام کرد که ساعاتی پیش از این رویداد، دو پهپاد دیگر نیز توسط نیروهای ائتلاف سرنگون شده بودند که یکی در استان شرقی عربستان سعودی و دیگری در منطقه جنوبی این کشور رهگیری شدند."
-   ],
-   "title_ar": "قوات التحالف بقيادة السعودية تعترض طائرة مسيرة للحوثيين فوق منطقة الرياض",
-   "summary_ar": "اعترضت قوات التحالف بقيادة السعودية طائرة مسيرة ودمرتها فوق منطقة الرياض، وفقاً للمتحدث باسم التحالف اللواء تركي المالكي.",
-   "body_ar": [
-    "وذكر اللواء المالكي أنه قبل ساعات من ذلك، تم إسقاط طائرتين مسيرتين أخريين، حيث جرى اعتراض إحداهما في المنطقة الشرقية بالمملكة العربية السعودية والأخرى في منطقتها الجنوبية."
-   ]
-  },
-  {
-   "id": "356dc675ecf0",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strikes-target-southern-lebanese-town-kfar-tebnit",
-   "date": "2026-10-31T05:59:55Z",
-   "countries": [
-    "ISR",
-    "LBN"
-   ],
-   "score": 7,
-   "title": "Israeli air strikes target southern Lebanese town of Kfar Tebnit",
-   "title_en": "Israeli air strikes target southern Lebanese town of Kfar Tebnit",
-   "summary_en": "An Israeli air strike has targeted the southern Lebanese town of Kfar Tebnit in the Nabatieh district, according to Al Jazeera.",
-   "body_en": [
-    "The report added that Israeli forces also proceeded with artillery shelling and demolitions across towns in the southern districts of Bint Jbeil and Tyre, noting that substantial areas there remain occupied by the Israeli military."
-   ],
-   "title_fa": "حملات هوایی اسرائیل شهرک کفر تبنیت در جنوب لبنان را هدف قرار داد",
-   "summary_fa": "به گزارش الجزیره، یک حمله هوایی اسرائیل شهرک کفر تبنیت در منطقه نبطیه در جنوب لبنان را هدف قرار داده است.",
-   "body_fa": [
-    "این گزارش افزود که ارتش اسرائیل همچنین به عملیات تخریب و گلوله‌باران توپخانه‌ای شهرک‌ها در مناطق بنت جبیل و صور در جنوب ادامه داد و اشاره کرد که بخش‌های وسیعی از این مناطق همچنان در اشغال نیروهای اسرائیلی است."
-   ],
-   "title_ar": "غارات جوية إسرائيلية تستهدف بلدة كفر تبنيت جنوبي لبنان",
-   "summary_ar": "استهدفت غارة جوية إسرائيلية بلدة كفر تبنيت في قضاء النبطية جنوبي لبنان، بحسب ما أفادت به قناة الجزيرة.",
-   "body_ar": [
-    "وأضاف التقرير أن الجيش الإسرائيلي واصل أيضاً عمليات الهدم والقصف المدفعي في بلدات بقضائي بنت جبيل وصور في الجنوب، مشيراً إلى أن أجزاء واسعة من تلك المناطق لا تزال تحت احتلال القوات الإسرائيلية."
-   ]
-  },
-  {
-   "id": "8bc757758005",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/we-must-be-so-strong-no-dares-covet-our-land-pezeshkian-says",
-   "date": "2026-10-31T04:26:13Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "'We must be so strong that no dares covet our land', Pezeshkian says",
-   "title_en": "'We must be so strong that no dares covet our land', Pezeshkian says",
-   "summary_en": "Iranian President Masoud Pezeshkian said the country must build sufficient strength to prevent anyone from coveting its territory and identity.",
-   "body_en": [
-    "In a social media post marking the upcoming National Youth Day, Pezeshkian cited the courage of Mohammad Hossein Fahmideh, a 13-year-old killed in the Iran-Iraq war, and honoured child victims from Minab, Lamerd, and other regions.",
-    "The president stressed that the memory and names of these children shape Iran's collective historical awareness and reinforce the imperative for national strength."
-   ],
-   "title_fa": "پزشکیان: باید آن‌قدر قوی باشیم که کسی جرأت نکند به خاک ما طمع کند",
-   "summary_fa": "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد این کشور باید آن‌قدر قوی باشد که هیچ‌کس جرأت طمع‌ورزی به خاک و هویت آن را پیدا نکند.",
-   "body_fa": [
-    "پزشکیان در پیامی در شبکه اجتماعی اکس به مناسبت فرارسیدن روز نوجوان در ۸ آبان، با یادآوری شجاعت محمدحسین فهمیده، نوجوان ۱۳ ساله‌ای که در جنگ ایران و عراق کشته شد، از نوجوانان شهید در میناب، لامرد و دیگر نقاط کشور تجلیل کرد.",
-    "رئیس‌جمهور ایران تأکید کرد که نام و یاد این فرزندان حافظه تاریخی جامعه را می‌سازد و یادآور لزوم حفظ اقتدار کشور در برابر طمع‌ورزی به خاک و هویت ملی است."
-   ],
-   "title_ar": "بزشكيان: يجب أن نكون أقوياء لدرجة ألا يجرؤ أحد على الطمع في أرضنا",
-   "summary_ar": "صرح الرئيس الإيراني مسعود بزشكيان بأنه يجب على بلاده أن تكون قوية للغاية حتى لا يجرؤ أحد على الطمع في أرضها وهويتها.",
-   "body_ar": [
-    "وفي منشور له على منصة إكس بمناسبة يوم الفتيان القادم في 8 نوفمبر، استذكر بزشكيان شجاعة محمد حسين فهميدة، وهو فتى يبلغ من العمر 13 عاماً قُتل خلال الحرب العراقية الإيرانية، مشيداً بالأطفال الذين قُتلوا في ميناب ولامرد ومناطق أخرى من البلاد.",
-    "وأكد الرئيس الإيراني أن أسماء وذكرى هؤلاء الأطفال تظل راسخة في الأذهان وتشكل الذاكرة التاريخية للبلاد، لتعزز الحاجة إلى بناء قوة رادعة تحمي الوطن وهويته."
-   ]
-  },
-  {
-   "id": "433f565e54ad",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-nominates-osce-chief-sinirlioglu-uns-top-job",
-   "date": "2026-10-31T02:25:42Z",
-   "countries": [
-    "TUR"
-   ],
-   "score": 6,
-   "title": "Turkey nominates OSCE chief Sinirlioglu for UN's top job",
-   "title_en": "Turkey nominates OSCE chief Sinirlioglu for UN's top job",
-   "summary_en": "Turkey has nominated Feridun Hadi Sinirlioglu, head of the OSCE, to serve as the next secretary-general of the United Nations.",
-   "body_en": [
-    "Turkish President Recep Tayyip Erdoğan submitted a nomination letter to the leadership of the UN General Assembly and the Security Council following an inconclusive straw poll in the Security Council, according to Turkish foreign ministry sources cited by Anadolu agency.",
-    "The current secretary-general, Antonio Guterres, will complete his second term on December 31. To secure the post, a candidate must receive at least nine votes in the Security Council without being vetoed by any of its five permanent members, before going to the General Assembly for final confirmation."
-   ],
-   "title_fa": "ترکیه سینیرلی‌اوغلو، رئیس سازمان امنیت و همکاری اروپا را برای بالاترین پست سازمان ملل نامزد کرد",
-   "summary_fa": "ترکیه فریدون هادی سینیرلی‌اوغلو، رئیس سازمان امنیت و همکاری در اروپا را برای جانشینی دبیرکل سازمان ملل متحد نامزد کرده است.",
-   "body_fa": [
-    "به گفته منابع وزارت امور خارجه ترکیه که خبرگزاری آناتولی به آنها استناد کرده است، رجب طیب اردوغان، رئیس‌جمهور ترکیه، پس از به نتیجه نرسیدن نظرسنجی مقدماتی در شورای امنیت، نامه نامزدی او را به رؤسای مجمع عمومی و شورای امنیت سازمان ملل ارائه کرده است.",
-    "دوره دوم پنج‌ساله آنتونیو گوترش، دبیرکل فعلی سازمان ملل، در ۳۱ دسامبر به پایان می‌رسد. هر نامزد برای کسب این پست باید دست‌کم ۹ رای از ۱۵ رای شورای امنیت را بدون مخالفت و وتوی پنج عضو دائمی به دست آورد و سپس برای تایید نهایی به مجمع عمومی معرفی شود."
-   ],
-   "title_ar": "تركيا ترشح سينيرلي أوغلو رئيس رئيس منظمة الأمن والتعاون في أوروبا لأعلى منصب في الأمم المتحدة",
-   "summary_ar": "رشحت تركيا فريدون هادي سينيرلي أوغلو، رئيس منظمة الأمن والتعاون في أوروبا، ليكون الأمين العام القادم للأمم المتحدة.",
-   "body_ar": [
-    "أرسل الرئيس التركي رجب طيب أردوغان رسالة ترشيح إلى رئيسي الجمعية العامة ومجلس الأمن الدوليين عقب اقتراع غير حاسم في مجلس الأمن، وفقاً لما نقلته وكالة الأناضول عن مصادر في الخارجية التركية.",
-    "وينتهي التفويض الثاني للأمين العام الحالي أنطونيو غوتيريش في 31 ديسمبر. ويحتاج أي مرشح للحصول على تسعة أصوات على الأقل في مجلس الأمن وتجنب استخدام حق النقض (الفيتو) من الأعضاء الخمسة الدائمين قبل تقديم اسمه للجمعية العامة للتأكيد."
-   ]
-  },
-  {
-   "id": "db0f73103f9e",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/merz-says-germany-working-end-iran-war-has-cost-europe-112bn",
-   "date": "2026-10-31T02:06:23Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Merz says Germany working to end Iran war that has cost Europe $112bn",
-   "title_en": "Merz says Germany working to end Iran war that has cost Europe $112bn",
-   "summary_en": "German Chancellor Friedrich Merz announced that Germany is stepping up diplomatic efforts to rapidly end the war with Iran, which has driven up European energy costs by over 100 billion euros ($112 billion).",
-   "body_en": [
-    "Speaking to reporters in Seoul, Merz stated that Germany has an economic interest in ending the conflict swiftly due to the financial burden placed on European businesses and consumers. He emphasized that the conflict cannot be resolved through military means."
-   ],
-   "title_fa": "مرتس می‌گوید آلمان در تلاش برای پایان دادن به جنگ ایران است که ۱۱۲ میلیارد دلار برای اروپا هزینه داشته است",
-   "summary_fa": "فریدریش مرتس، صدراعظم آلمان، اعلام کرد که کشورش تلاش‌های دیپلماتیک خود را برای پایان دادن سریع به جنگ ایران افزایش می‌دهد؛ جنگی که بیش از ۱۰۰ میلیارد یورو (۱۱۲ میلیارد دلار) به هزینه‌های انرژی اروپا افزوده است.",
-   "body_fa": [
-    "مرتس در گفتگو با خبرنگاران در سئول اظهار داشت که آلمان به دلیل بار مالی وارد شده بر کسب‌وکارها و مصرف‌کنندگان اروپایی، منافع اقتصادی در پایان دادن سریع به این درگیری دارد. وی تأکید کرد که این مناقشه از راه نظامی قابل حل نیست."
-   ],
-   "title_ar": "ميرتس يقول إن ألمانيا تعمل على إنهاء حرب إيران التي كلفة أوروبا 112 مليار دولار",
-   "summary_ar": "أعلن المستشار الألماني فريدريش ميرتس أن بلاده تكثف جهودها الدبلوماسية لإنهائها الحرب مع إيران في أسرع وقت ممكن، بعدما رفعت الصراع تكاليف الطاقة على أوروبا بأكثر من 100 مليار يورو (112 مليار دولار).",
-   "body_ar": [
-    "وقال ميرتس للصحفيين في سيول إن ألمانيا لديها مصلحة اقتصادية في إنهاء النزاع بسرعة بسبب الأعباء المالية الملقاة على عاتق الشركات والمستهلكين في أوروبا. وأكد أن الصراع لا يمكن حله عسكرياً."
-   ]
-  },
-  {
-   "id": "5095ce47a215",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-slams-canada-supporting-uae-claim-over-three-gulf-islands",
-   "date": "2026-10-31T01:37:21Z",
-   "countries": [
-    "ARE",
-    "IRN"
-   ],
-   "score": 6,
-   "title": "Iran slams Canada for supporting UAE claim over three Gulf islands",
-   "title_en": "Iran slams Canada for supporting UAE claim over three Gulf islands",
-   "summary_en": "Iranian Foreign Ministry spokesman Esmaeil Baqaei has condemned Canada's support for the UAE's claim over Abu Musa, Greater Tunb, and Lesser Tunb, reiterating Iran's historical sovereignty over the islands.",
-   "body_en": [
-    "In a post on X, Baqaei criticized Canada's prime minister for endorsing the UAE's position on the three islands, which he stated have belonged to Iran for millennia, long preceding the formation of the UAE in 1971.",
-    "The spokesman referenced Canada's own history of defending its sovereignty, including the 1812 War, the 1849 Montreal Annexation Manifesto, and statements by Donald Trump, questioning how Ottawa could support an unfounded territorial claim while claiming to respect territorial integrity."
-   ],
-   "title_fa": "انتقاد شدید ایران از کانادا به دلیل حمایت از ادعای امارات در مورد سه جزیره خلیج فارس",
-   "summary_fa": "اسماعیل بقائی، سخنگوی وزارت امور خارجه ایران، از حمایت کانادا از ادعای امارات متحده عربی در مورد جزایر ابوموسی، تنب بزرگ و تنب کوچک انتقاد کرد و بر حاکمیت تاریخی ایران بر این جزایر تاکید نمود.",
-   "body_fa": [
-    "بقائی در پیامی در شبکه ایکس از نخست‌وزیر کانادا به دلیل تکرار ادعای امارات درباره این سه جزیره انتقاد کرد و گفت که مدارک و شواهد تاریخی مالکیت ایران بر آنها را که هزاران سال پیش از تشکیل امارات در سال ۱۹۷۱ وجود داشته‌اند، به اثبات می‌رساند.",
-    "سخنگوی وزارت خارجه با اشاره به تاریخ خود کانادا در دفاع از تمامیت ارضی‌اش، از جمله جنگ ۱۸۱۲ و اظهارات دونالد ترامپ درباره این کشور، تمکین اوتاوا از ادعای ارضی بی‌اساس امارات را مورد پرسش قرار داد."
-   ],
-   "title_ar": "إيران تنتقد كندا لدعمها مطالبة الإمارات بالجزائر الثلاث في الخليج",
-   "summary_ar": "انتقد المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي دعم كندا لمطالبة الإمارات بأبي موسى وطنب الكبرى وطنب الصغرى، مؤكداً سيادة إيران التاريخية على هذه الجزيرة.",
-   "body_ar": [
-    "وفي منشور على منصة إكس، انتقد بقائي رئيس الوزراء الكندي لتأييده موقف الإمارات بشأن الجزائر الثلاث، مشيراً إلى أنها جزء من إيران منذ آلاف السنين وقبل تأسيس دولة الإمارات عام 1971.",
-    "وأشار المتحدث إلى تاريخ كندا نفسه في الدفاع عن سيادتها، بما في ذلك حرب عام 1812 وتصريحات دونالد ترامب، متسائلاً كيف يمكن لأوتاوا دعم ادعاء إقليمي لا أساس له في وقت تدعي فيه احترام تمامية الأراضي."
-   ]
-  },
-  {
-   "id": "1cc712eba9f4",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-and-russian-foreign-ministers-discuss-hormuz-yemen-g20",
-   "date": "2026-10-31T01:13:30Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Saudi and Russian foreign ministers discuss Hormuz, Yemen at G20",
-   "title_en": "Saudi and Russian foreign ministers discuss Hormuz, Yemen at G20",
-   "summary_en": "Saudi Foreign Minister Faisal bin Farhan met with Russian Foreign Minister Sergey Lavrov at the G20 meeting in the US to discuss developments in Yemen and maritime navigation in the Straits of Hormuz and Bab al-Mandeb.",
-   "body_en": [
-    "The bilateral talks focused on regional issues amid broader G20 sessions in Atlanta that were marked by deep divisions over ongoing conflicts in Ukraine and the Middle East. US Secretary of State Marco Rubio urged foreign ministers at the gathering to address crises threatening the global economic order."
-   ],
-   "title_fa": "وزیران امور خارجه عربستان و روسیه در اجلاس جی۲۰ درباره هرمز و یمن گفتگو کردند",
-   "summary_fa": "فیصل بن فرحان، وزیر امور خارجه عربستان سعودی، در حاشیه نشست وزرای خارجه جی۲۰ در آمریکا با همتای روسی خود سرگئی لاوروف دیدار و درباره تحولات یمن و کشتیرانی در تنگه‌های هرمز و باب‌المندب گفتگو کرد.",
-   "body_fa": [
-    "این گفتگوهای دوجانبه بر مسائل منطقه‌ای در حاشیه نشست‌های گسترده‌تر جی۲۰ در آتلانتا تمرکز داشت؛ نشست‌هایی که تحت تأثیر شکاف‌های عمیق درباره جنگ‌های اوکراین و خاورمیانه قرار گرفت. مارکو روبیو، وزیر امور خارجه آمریکا، در این اجلاس از وزرای خارجه خواست برای مقابله با بحران‌هایی که نظام اقتصادی جهان را تهدید می‌کنند، همکاری کنند."
-   ],
-   "title_ar": "وزيرا خارجية السعودية وروسيا يناقشان هرمز واليمن في قمة مجموعة العشرين",
-   "summary_ar": "التقى وزير الخارجية السعودي فیصل بن فرحان بنظيره الروسي سيرغي لافروف على هامش اجتماع وزراء خارجية مجموعة العشرين في الولايات المتحدة لمناقشة التطورات في اليمن والملاحة البحرية في مضيقي هرمز وباب المندب.",
-   "body_ar": [
-    "وركزت المباحثات الثنائية على القضايا الإقليمية وسط اجتماعات أوسع لمجموعة العشرين في أتلانتا شهدت انقسامات حادة بشأن الحربين في أوكرانيا والشرق الأوسط. وحث وزير الخارجية الأمريكي ماركو روبيو الوزراء المشاركين على العمل معاً لمواجهة الأزمات التي تهدد النظام الاقتصادي العالمي."
-   ]
-  },
-  {
-   "id": "9f22edd822c1",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece",
-   "date": "2026-10-31T01:04:55Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "India slams global energy disruptions through sanctions, chokepoints",
-   "title_en": "India slams global energy disruptions through sanctions, chokepoints",
-   "summary_en": "Indian External Affairs Minister S. Jaishankar has strongly criticised global energy supply disruptions caused by sanctions and chokepoints, warning that deliberate targeting of trade and infrastructure is holding prices hostage. Speaking at a G20 foreign ministers' meeting in Atlanta, he urged the group to keep energy markets predictable and open.",
-   "body_en": [
-    "Jaishankar stated that the international community is facing an energy crisis defined by unpredictability, disruptions, rising costs, and access hurdles rather than production shortfalls. He argued that continuous market distortions disproportionately harm low-income countries and criticised what he termed selective distinctions and carve-outs made between oil and gas supplies.",
-    "The minister also stressed India's domestic need for reliable liquefied petroleum gas for clean cooking and highlighted its domestic mission on critical minerals. In addition, he noted that India has proposed a circularity initiative for critical minerals within the G20, while urging greater financing for alternatives such as green hydrogen, biofuels, and small modular reactors."
-   ],
-   "title_fa": "انتقاد شدید هند از اختلال در انرژی جهانی از طریق تحریم‌ها و گلوگاه‌ها",
-   "summary_fa": "اس. جایشانکار، وزیر امور خارجه هند، با انتقاد شدید از اختلال در عرضه جهانی انرژی به دلیل تحریم‌ها و ایجاد گلوگاه‌ها، هشدار داد که حملات عمدی به تجارت و زیرساخت‌ها، قیمت‌ها را به گروگان گرفته است. او در نشست وزیران امور خارجه گروه ۲۰ در آتلانتا از این گروه خواست بازارهای انرژی را شفاف و باز نگه دارند.",
-   "body_fa": [
-    "جایشانکار اظهار داشت که جهان با بحران انرژی روبه‌رو است که ناشی از غیرقابل پیش‌بینی بودن، اختلال، هزینه‌های سنگین و چالش‌های دسترسی است، نه کاهش تولید. او تأکید کرد که دستکاری‌های پیاپی در بازار بیش از همه به کشورهای کم‌درآمد آسیب می‌زند و از تمایزهای گزینشی میان نفت و گاز انتقاد کرد.",
-    "وزیر امور خارجه هند بر نیاز کشورش به تأمین مطمئن گاز مایع برای پخت‌وپز پاک و همچنین برنامه ملی هند در زمینه مواد معدنی حیاتی تأکید کرد. وی همچنین یادآور شد که هند طرحی را برای چرخه مواد معدنی حیاتی در گروه ۲۰ پیشنهاد داده و خواهان افزایش دسترسی به منابع مالی برای طرح‌هایی چون هیدروژن سبز، سوخت‌های زیستی و راکتورهای کوچک مدولار شد."
-   ],
-   "title_ar": "الهند تنتقد بشدة اضطرابات الطاقة العالمية الناتجة عن العقوبات والمضائق",
-   "summary_ar": "انتقد وزير الشؤون الخارجية الهندي إس. جايشانكار بشدة اضطرابات إمدادات الطاقة العالمية الناجمة عن العقوبات والمضائق، محذراً من أن استهداف التجارة والبنية التحتية عمداً يمثل استراتيجية لاحتجاز الأسعار. وخلال اجتماع وزراء خارجية مجموعة العشرين في أتلانتا، دعا المجموعة للحفاظ على انفتاح أسواق الطاقة والقدرة على التنبؤ بها.",
-   "body_ar": [
-    "وأوضح جايشانكار أن العالم يواجه أزمة طاقة لا ترتبط بنقص الإنتاج، بل بعدم القدرة على التنبؤ والاضطرابات والتكاليف الباهظة وصعوبة الوصول. وأشار إلى أن التشوهات المتواصلة في الأسواق لا تراعي وضع الدول منخفضة الدخل، منتقداً الاستثناءات والتمايزات الانتقائية بين إمدادات النفط والغاز.",
-    "كما شدد الوزير على حاجة الهند لإمدادات موثوقة من الغاز النفطي المسال لأغراض الطهو النظيف، مسلطاً الضوء على مبادرة بلاده الوطنية للمعادن الحيوية. وأشار أيضاً إلى أن الهند اقترحت مبادرة لمجموعة العشرين حول تدوير المعادن الحيوية، داعياً لتوسيع التمويل لدعم الهيدروجين الأخضر والوقود الحيوي والمفاعلات المعيارية الصغيرة."
-   ]
-  },
-  {
-   "id": "c62da8cf6d5d",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-there-are-talks-tehran-wants-talk",
-   "date": "2026-10-31T00:19:20Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Trump says 'there are talks', Tehran wants to talk",
-   "title_en": "Trump says 'there are talks', Tehran wants to talk",
-   "summary_en": "US President Donald Trump stated that negotiations with Iran are underway and that Tehran desires dialogue, while observing that the ongoing conflict is not a conventional war.",
-   "body_en": [
-    "Speaking to reporters in the Oval Office, Trump remarked that discussions were taking place and that both sides have time, adding that Washington is not involved in a typical war. In his recent statements, he has shifted between suggesting that a diplomatic settlement is achievable and hinting at the prospect of new military strikes on Iran."
-   ],
-   "title_fa": "ترامپ می‌گوید «مذاکراتی در جریان است» و تهران خواهان گفتگو است",
-   "summary_fa": "دونالد ترامپ رئیس‌جمهور آمریکا اعلام کرد که گفتگوها با ایران در جریان است و تهران خواهان مذاکره است، و در عین حال اشاره کرد درگیری کنونی یک جنگ متعارف نیست.",
-   "body_fa": [
-    "ترامپ در گفتگو با خبرنگاران در دفتر بیضی کاخ سفید گفت که گفتگوها در حال انجام است و طرفین زمان کافی در اختیار دارند و افزود که واشنگتن درگیر یک جنگ معمولی نیست. او در مواضع اخیر خود همواره میان اشاره به احتمال حملات تازه به ایران و بیان اینکه دستیابی به توافق امکان‌پذیر است، در رفت‌وآمد بوده است."
-   ],
-   "title_ar": "ترامب يقول «هناك محادثات» وطهران تريد الحوار",
-   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب أن المحادثات جارية مع إيران وأن طهران ترغب في الحوار، مؤكداً في الوقت ذاته أن النزاع الحالي ليس حرباً تقليدية.",
-   "body_ar": [
-    "وفي حديثه للصحفيين من المكتب البيضاوي، أوضح ترامب أن هناك محادثات جارية وأن واشنطن لديها متسع من الوقت، مشيراً إلى أن ما يجري ليس حرباً نمطية. وكان ترامب قد تأرجح مؤخراً بين التلويح بشن ضربات جديدة على إيران والحديث عن إمكانية التوصل إلى اتفاق."
-   ]
-  },
-  {
-   "id": "7116fb04b341",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-   "date": "2026-10-31T00:00:00Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
-   "title_en": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
-   "summary_en": "The IRGC stated that four tankers were struck in the Strait of Hormuz, while Donald Trump said the war on Iran would conclude soon.",
-   "body_en": [],
-   "title_fa": "پوشش زنده جنگ ایران: هدف قرار گرفتن نفتکش‌ها در هرمز؛ ترامپ می‌گوید درگیری به زودی پایان می‌یابد",
-   "summary_fa": "سپاه پاسداران اعلام کرد چهار نفتکش در تنگه هرمز هدف قرار گرفته‌اند، در حالی که دونالد ترامپ گفت جنگ علیه ایران به زودی پایان خواهد یافت.",
-   "body_fa": [],
-   "title_ar": "مباشر حرب إيران: استهداف ناقلات نفط في هرمز؛ وترامب يقول إن الصراع سينتهي قريباً",
-   "summary_ar": "أعلن الحرس الثوري الإيراني إصابة أربع ناقلات نفط في مضيق هرمز، في حين صرح دونالد ترامب بأن الحرب على إيران ستنتهي قريباً.",
-   "body_ar": []
-  },
-  {
-   "id": "816cf89dd02e",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2041096/pakistan-warns-of-taliban-repression-as-un-expert-urges-accountability",
-   "date": "2026-10-30T23:19:43Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 7,
-   "title": "Pakistan warns of Taliban repression as UN expert urges accountability",
-   "title_en": "Pakistan warns of Taliban repression as UN expert urges accountability",
-   "summary_en": "At the UN, Pakistan warned that the Taliban continue to allow terrorist groups to operate against neighbors from Afghan soil, while a UN human rights expert urged member states not to normalize relations with Kabul without human rights improvements.",
-   "body_en": [
-    "Pakistan's representative Muhammad Jawad Ajmal reported to the UN Human Rights Council that cross-border terrorist attacks originating from Afghanistan have killed over 4,700 Pakistanis in the last three years. He accused the Taliban of complicity with terrorist organizations and criticized their restrictions on women and girls as violating Islamic law and values.",
-    "UN Special Rapporteur Richard Bennett told the General Assembly that five years after taking power, the Taliban have deepened systematic human rights abuses, including child marriages and restrictions on women. His report detailed widespread arbitrary detentions, torture, extrajudicial killings, and severe persecution of minority groups in Afghanistan."
-   ],
-   "title_fa": "هشدار پاکستان درباره سرکوب طالبان همزمان با تاکید کارشناس سازمان ملل بر پاسخگویی",
-   "summary_fa": "در سازمان ملل متحد، پاکستان هشدار داد که طالبان همچنان به گروه‌های تروریستی اجازه می‌دهند از خاک افغانستان علیه همسایگان فعالیت کنند، همزمان یک کارشناس حقوق بشر سازمان ملل از کشورها خواست روابط خود را با کابل بدون بهبود شرایط حقوق بشر عادی‌سازی نکنند.",
-   "body_fa": [
-    "محمد جواد اجمل، نماینده پاکستان در شورای حقوق بشر سازمان ملل، گزارش داد که حملات تروریستی فرامرزی از خاک افغانستان طی سه سال گذشته به کشته شدن بیش از ۴۷۰۰ پاکسانی منجر شده است. وی طالبان را به همدستی با سازمان‌های تروریستی متهم کرد و محدودیت‌های آنان علیه زنان و دختران را مغایر با قوانین و ارزش‌های اسلامی دانست.",
-    "ریچارد بنت، گزارشگر ویژه سازمان ملل، به مجمع عمومی گفت که پنج سال پس از به دست گرفتن قدرت، طالبان نقض سیستماتیک حقوق بشر از جمله ازدواج کودکان و محدودیت‌ها علیه زنان را عمیق‌تر کرده‌اند. گزارش وی جزییات بازداشت‌های خودسرانه، شکنجه، قتل‌های فراقضایی و سرکوب اقلیت‌ها در افغانستان را مستند کرده است."
-   ],
-   "title_ar": "باكستان تحذر من قمع طالبان بينما يطالب خبير أممي بالمحاسبة",
-   "summary_ar": "حذرت باكستان في الأمم المتحدة من استمرار طالبان في السماح للجماعات الإرهابية بالعمل من الأراضي الأفغانية ضد الجيران، بينما حث خبير أممي الدول الأعضاء على عدم تطبيع العلاقات مع كابول دون تحسينات ملموسة في حقوق الإنسان.",
-   "body_ar": [
-    "وذكر ممثل باكستان محمد جواد أجمل أمام مجلس حقوق الإنسان التابع للأمم المتحدة أن الهجمات الإرهابية العابرة للحدود المنطلقة من أفغانستان أسفرت عن مقتل أكثر من 4700 باكستاني خلال السنوات الثلاث الماضية. واتهم طالبان بالتواطؤ مع التنظيمات الإرهابية وانتقد القيود الفرضة على النساء والفتيات باعتبارها تتنافى مع الشريعة والقيم الإسلامية.",
-    "من جانبه، قال المقرر الخاص للأمم المتحدة ريتشارد بينيت للجمعية العامة إنه بعد مرور خمس سنوات على استيلائهم على السلطة، عمق الحكام الجدد في طالبان الانتهاكات المنهجية لحقوق الإنسان، بما في ذلك تزويج الأطفال والقيود على النساء. ووثق تقريره حالات الاحتجاز التعسفي، والتعذيب، والإعدامات خارج نطاق القضاء، والاضطهاد ضد الأقليات في أفغانستان."
-   ]
-  },
-  {
-   "id": "4fbc75e188ba",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-530-palestinian-families-forced-hebron-during-israeli-siege",
-   "date": "2026-10-30T23:10:01Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "More than 530 Palestinian families forced from Hebron during Israeli siege",
-   "title_en": "More than 530 Palestinian families forced from Hebron during Israeli siege",
-   "summary_en": "More than 530 Palestinian families have been forced from their homes in Hebron during a citywide lockdown enforced by Israeli forces, according to Al Jazeera. The displaced residents include over 1,000 children and 200 toddlers.",
-   "body_en": [
-    "Residents stated that Israeli troops assaulted individuals who attempted to return to their properties to retrieve basic necessities or medicines. The restrictions were put in place following an attack near a military checkpoint on 23 October, in which two brothers, Ahmad and Hammouda al-Jaabeh, killed two Israeli soldiers and injured three others before being killed.",
-    "Israeli forces subsequently surrounded the homes belonging to the two brothers on Friday morning, cordoned off the surrounding area, and demolished the buildings."
-   ],
-   "title_fa": "بیش از ۵۳۰ خانواده فلسطینی در جریان محاصره الخلیل توسط اسرائیل آواره شدند",
-   "summary_fa": "به گزارش الجزیره، بیش از ۵۳۰ خانواده فلسطینی در جریان محاصره کامل شهر الخلیل توسط نیروهای اسرائیلی مجبور به ترک خانه‌های خود شده‌اند. آوارگان شامل بیش از ۱۰۰۰ کودک و ۲۰۰ نوزاد و خردسال هستند.",
-   "body_fa": [
-    "به گفته ساکنان، نظامیان اسرائیلی افرادی را که تلاش می‌کردند برای برداشتن وسایل ضروری یا داروهای خود بازگردند، مورد ضرب‌وشتم قرار داده‌اند. این قرنطینه و محاصره پس از آن آغاز شد که دو برادر به نام‌های احمد و حموده الجعبه در ۲۳ اکتبر در نزدیکی یک ایست بازرسی نظامی دو سرباز اسرائیلی را کشته و سه نفر دیگر را زخمی کردند و خود نیز کشته شدند.",
-    "نیروهای اسرائیلی روز جمعه پس از محاصره ساختمان‌های متعلق به این دو برادر از ساعات صبحگاهی و مسدود کردن منطقه، خانه‌های آن‌ها را تخریب کردند."
-   ],
-   "title_ar": "أكثر من 530 عائلة فلسطينية تُجبر على مغادرة الخليل خلال حصار إسرائيلي",
-   "summary_ar": "أُجبرت أكثر من 530 عائلة فلسطينية على ترك منازلها في الخليل خلال إغلاق وحصار شامل فرضته القوات الإسرائيلية، بحسب ما أفادت قناة الجزيرة. ويشمل النازحون أكثر من 1000 طفل و200 رضيع.",
-   "body_ar": [
-    "وذكر سكان محليون أن الجنود الإسرائيليين اعتدوا على أشخاص حاولوا العودة لمنازلهم لجلب الاحتياجات الأساسية أو الأدوية. وجاء فرض هذا الإغلاق بعد هجوم نُفذ قرب نقطة تفتيش عسكرية في 23 أكتوبر، حيث قتل الشقيقان أحمد وحمودة الجعبة جنديين إسرائيليين وأصابا ثلاثة آخرين قبل مقتلهما.",
-    "وفي وقت لاحق يوم الجمعة، حاصرت القوات الإسرائيلية منازل الشقيقين منذ ساعات الصباح، وفرضت طوقاً أمنياً على المنطقة قبل أن تقدم على هدمها."
-   ]
-  },
-  {
-   "id": "9dffebeb0f8f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-finalises-new-plan-respond-any-new-attack-official-says",
-   "date": "2026-10-30T22:16:22Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Iran finalises plan to respond to any new attack, official says",
-   "title_en": "Iran finalises plan to respond to any new attack, official says",
-   "summary_en": "Iran has finalised an updated military plan to retaliate against potential new attacks, with an official warning that the response will surprise its adversaries and their regional allies.",
-   "body_en": [
-    "According to Fars news agency, an unnamed senior Iranian political and security official stated that the armed forces are fully prepared to carry out the response. The official emphasised that Iran's adversaries and their regional partners would be caught off guard by the intensity and scope of the planned retaliation.",
-    "Separately, a spokesperson for the Iranian parliament's national security committee told state television that lawmakers have put forward at least ten proposals seeking Iran's withdrawal from the Non-Proliferation Treaty (NPT)."
-   ],
-   "title_fa": "یک مقام ایرانی می‌گوید طرح پاسخ به هرگونه حمله جدید نهایی شده است",
-   "summary_fa": "ایران یک طرح نظامی به‌روزشده را برای پاسخ به هرگونه حمله تازه نهایی کرده است و یک مقام هشدار داده که این واکنش، دشمنان و متحدان منطقه‌ای آن‌ها را غافلگیر خواهد کرد.",
-   "body_fa": [
-    "به گزارش خبرگزاری فارس، یک مقام ارشد امنیتی و سیاسی ایرانی بدون ذکر نام گفت که نیروهای مسلح آماده اجرای این طرح هستند. این مقام تأکید کرد که دشمنان ایران و متحدان منطقه‌ای آن‌ها از وسعت و شدت این اقدام تلافی‌جویانه شگفت‌زده خواهند شد.",
-    "در تحولی جداگانه، سخنگوی کمیسیون امنیت ملی مجلس ایران به صداوسیما اعلام کرد نمایندگان دست‌کم ۱۰ طرح را برای خروج این کشور از معاهده منع گسترش سلاح‌های هسته‌ای (ان‌پی‌تی) ارائه کرده‌اند."
-   ],
-   "title_ar": "مسؤول يقول إن إيران أنجزت خطة للرد على أي هجوم جديد",
-   "summary_ar": "أنجزت إيران خطة عسكرية محدثة للرد على أي هجوم جديد، حيث حذر مسؤول من أن حجم الرد سيفاجئ خصومها وحلفاءهم في المنطقة.",
-   "body_ar": [
-    "ووفقاً لوكالة أنباء «فارس»، صرح مسؤول سياسي وأمني إيراني رفيع دون الكشف عن هويته بأن القوات المسلحة مستعدة لتنفيذ الخطة. وأكد المسؤول أن خصوم إيران وشركاءهم في المنطقة سيتفاجأون باتساع نطاق الرد الانتقامي وشدته.",
-    "وفي سياق منفصل، صرح متحدث باسم لجنة الأمن القومي في البرلمان الإيراني لهيئة الإذاعة والتلفزيون الرسمية بأن نواباً قدموا ما لا يقل عن عشرة مقترحات تدعو إلى الانسحاب من معاهدة منع انتشار الأسلحة النووية."
-   ]
   }
  ]
 }
