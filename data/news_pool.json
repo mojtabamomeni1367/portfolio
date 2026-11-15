@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:19:21Z",
+ "updated": "2026-11-15T10:03:40Z",
  "items": [
   {
    "id": "64d4544b04eb",
@@ -1870,6 +1870,186 @@
    "desc": "جاء الإعلان عن التصدي للمسيرة بعد أن أصدرت وزارة الداخلية البحرينية، تحذيراً بشأن تهديد محتمل، حيث دعت المواطنين والمقيمين إلى التزام الهدوء والتوجه إلى أقرب موقع آمن.",
    "score": 9,
    "dup_of": "ad29dfa5de62"
+  },
+  {
+   "id": "3313d19f4c0a",
+   "title": "Iran says it targets US radar in Bahrain. What do we know?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
+   "date": "2026-11-15T09:41:27Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
+   "score": 4
+  },
+  {
+   "id": "cff3a2dd4925",
+   "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+   "date": "2026-11-15T08:49:47Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+   "score": 6
+  },
+  {
+   "id": "0eca7d7612cb",
+   "title": "Jordan sentences three men to death by hanging after deadly church attack",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+   "date": "2026-11-15T08:15:04Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
+   "score": 7
+  },
+  {
+   "id": "b862561d8b94",
+   "title": "ASEAN summit: Who’s attending and what’s at stake?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+   "date": "2026-11-15T07:11:24Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+   "score": 3
+  },
+  {
+   "id": "cf4a7f96091c",
+   "title": "Three sentenced to death over Jordan church attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+   "date": "2026-11-15T08:53:39Z",
+   "countries": [
+    "JOR",
+    "SYR"
+   ],
+   "desc": "A Jordian court on Sunday sentenced the three gunmen responsible for a terror attack on a church funeral procession in the village of Hamoud that killed nine and wounded others. The attack prompted retaliatory strikes on \"terrorist organisations\" in neighbouring Syria.",
+   "score": 7,
+   "dup_of": "0eca7d7612cb"
+  },
+  {
+   "id": "d04c6fbbc025",
+   "title": "PM Shehbaz, CDF Munir share top spot in list of world’s 500 most influential Muslims",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044692/pm-shehbaz-cdf-munir-share-top-spot-in-list-of-worlds-500-most-influential-muslims",
+   "date": "2026-11-15T08:43:18Z",
+   "countries": [
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Prime Minister Shehbaz Sharif and Chief of Defence Forces and Chief of the Army Staff Field Marshal Asim Munir have shared the top spot in the latest edition of the world’s 500 most influential Muslims, alongside the Saudi king and crown prince and the Turkish president. The rankings have been compiled by the Royal Islamic Strategic Studies Centre (RISSC), a research institute based in Amman, Jordan. It has been publishing an annual report titled “The 500 Most Influential Muslims” since 2009, recognising and highlighting individuals who have made significant contributions to Muslim communities",
+   "score": 3
+  },
+  {
+   "id": "6ed2fa0f2a0a",
+   "title": "Islamabad gears up for ECO moot as Turkish, Azeri, Kazakh officials arrive",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044691/islamabad-gears-up-for-eco-moot-as-turkish-azeri-kazakh-officials-arrive",
+   "date": "2026-11-15T08:38:57Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Foreign dignitaries continue to arrive in Islamabad as the capital gears up to host the two-day 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers starting today. Among the visiting dignitaries is Turkish Deputy Foreign Minister Musa Kulaklikaya, who was received by Foreign Office (FO) officials upon his arrival, the FO said on Sunday. Azeri Deputy Foreign Minister Elnur Mammadov, Shanghai Cooperation Organisation Deputy Secretary General Ahmad Saidmurodzoda, Kazakh Deputy Foreign Minister Arman Issagaliyev and Organisation of Islamic Cooperation Secretary General",
+   "score": 6,
+   "dup_of": "4db206f60d13"
+  },
+  {
+   "id": "5b2ee69eb6c5",
+   "title": "Authorities ban political gatherings in KP's Bajaur for 30 days, citing law and order situation",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044702/authorities-ban-political-gatherings-in-kps-bajaur-for-30-days-citing-law-and-order-situation",
+   "date": "2026-11-15T09:50:11Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "BAJAUR: The district administration on Sunday imposed a ban on all kinds of political gatherings, “hate speech” against the state and the display of arms and weapons in Khyber Pakhtunkhwa’s Bajaur for 30 days, invoking Section 144 of the Code of Criminal Procedure (CrPC) owing to the prevailing law and order situation. The notification formalising the restriction, seen by Dawn , said Bajaur Deputy Commissioner Adnan Farid Afridi approved the restrictions in view of the prevailing law and order situation, citing the need for additional measures to safeguard public life and property and maintain",
+   "score": 6
+  },
+  {
+   "id": "84a48f3346c1",
+   "title": "PPP’s Shah, IPP’s Malik face off again as voting under way for Diamer seat at 3 polling stations",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044693/ppps-shah-ipps-malik-face-off-again-as-voting-under-way-for-diamer-seat-at-3-polling-stations",
+   "date": "2026-11-15T08:55:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "GILGIT: PPP’s Attaullah Shah and Istehkam-i-Pakistan Party’s (IPP) Imam Malik are again vying for the GBA-16 (Diamer-II) seat in Gilgit as repolling is under way at three stations. A total of 2,780 registered voters are eligible to cast their votes. Voting will continue until 5pm, and voters present inside the polling stations at the closing time will be allowed to cast their ballots. Among the two candidates, Malik had contested the June elections in Gilgit-Baltistan as an independent candidate, but had later joined the IPP. Initially, the Election Commission had declared him the returned can",
+   "score": 3
+  },
+  {
+   "id": "2e5497e1fefc",
+   "title": "Jordan sentences three men to death over church attack",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/jordan-sentences-three-men-to-death-over-church-attack/article71704395.ece",
+   "date": "2026-11-15T09:00:51Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "Gunmen killed nine people and wounded 25 others when they stormed a funeral at a Greek Orthodox church in Hammoud village, in Jordan's Karak governorate on October 23",
+   "score": 7,
+   "dup_of": "0eca7d7612cb"
+  },
+  {
+   "id": "8dfe5c5007e7",
+   "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province/article71704331.ece",
+   "date": "2026-11-15T07:54:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia’s Eastern Province, which contains the majority of the kingdom’s oil and gas reserves, has been ⁠subject to multiple attacks by Houthis in the past ‌few weeks",
+   "score": 8,
+   "dup_of": "2fc9f2942f99"
+  },
+  {
+   "id": "d406c6842a23",
+   "title": "Indian student jailed for 30 years for online child sex abuse in U.K.",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/indian-student-jailed-for-30-years-for-online-child-sex-abuse-in-uk/article71704318.ece",
+   "date": "2026-11-15T07:44:44Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The court heard that Kazi pretended to be a teenage boy on social media and gaming platforms to build trust with girls aged between 10 and 15",
+   "score": 2
+  },
+  {
+   "id": "d2b5827bf24e",
+   "title": "محكمة أمن الدولة في الأردن تصدر قرارها بإعدام المتهمين بتنفيذ الهجوم على كنيسة الكرك",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cxyvd75zzl02o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T08:02:24Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "شملت لائحة التجريم، \"القيام بأعمال إرهابية وحيازة أسلحة وذخائر بقصد استخدامها للقيام باعمال إرهابية، والترويج لأفكار جماعة إرهابية\".",
+   "score": 7,
+   "dup_of": "0eca7d7612cb"
   }
  ]
 }
