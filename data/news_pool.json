@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:42:43Z",
+ "updated": "2026-11-16T09:11:13Z",
  "items": [
   {
    "id": "02c39fc80528",
@@ -2121,6 +2121,309 @@
    ],
    "desc": "جدل في الأوساط الرياضية المصرية حول إعلان محمد صلاح الهداف التاريخي لمنتخب مصر بدلًا من حسام حسن، والتشكيك في الأرقام التهديفية لصلاح.",
    "score": 1
+  },
+  {
+   "id": "7162fe110878",
+   "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T07:23:23Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "score": 8
+  },
+  {
+   "id": "c7e011fee4e7",
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T13:42:58Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+   "score": 9
+  },
+  {
+   "id": "cedd4c64ea04",
+   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T11:06:32Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+   "score": 6,
+   "dup_of": "0eca7d7612cb"
+  },
+  {
+   "id": "96e3b3873fda",
+   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T08:17:41Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+   "score": 8,
+   "dup_of": "02c39fc80528"
+  },
+  {
+   "id": "5686883324a3",
+   "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
+   "date": "2026-11-16T07:06:23Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
+   "score": 4
+  },
+  {
+   "id": "1b192d0ff1a1",
+   "title": "How Russia is preparing Iran for the next escalation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+   "date": "2026-11-16T06:57:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
+   "score": 5
+  },
+  {
+   "id": "a428b69557a0",
+   "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+   "date": "2026-11-16T04:53:42Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+   "score": 6,
+   "dup_of": "e6c7e401883d"
+  },
+  {
+   "id": "4d5e4b35a77a",
+   "title": "At ECO meeting, Araghchi calls for reliable, sustainable regional energy mechanism",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044898/at-eco-meeting-araghchi-calls-for-reliable-sustainable-regional-energy-mechanism",
+   "date": "2026-11-16T08:56:31Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "PAK"
+   ],
+   "desc": "Iranian Foreign Minister Abbas Araghchi stressed the need for a reliable and sustainable regional energy mechanism on Monday, as he addressed the 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers in Islamabad. He made these remarks while speaking about the US-Israeli war on Iran, which has also resulted in the choking of key fuel supply routes — the Strait of Hormuz and Bab al-Mandab. “Our region needs not only an independent security framework but also a reliable and sustainable regional energy mechanism to safeguard energy flows, ensure stable supplies, reduce ",
+   "score": 6,
+   "dup_of": "6ed2fa0f2a0a"
+  },
+  {
+   "id": "bbb618813602",
+   "title": "Lawyers submit affidavits detailing Nov 11 meeting with Imran, Bushra at Adiala jail",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044913/lawyers-submit-affidavits-detailing-nov-11-meeting-with-imran-bushra-at-adiala-jail",
+   "date": "2026-11-16T08:32:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Lawyers representing former prime minister Imran Khan and his wife, Bushra Bibi, have submitted affidavits to the Islamabad High Court (IHC), detailing their Nov 11 meeting with the incarcerated couple at Adiala jail. Meanwhile, Bushra has filed a fresh criminal miscellaneous application seeking the production of her complete medical record before the court and directions for her immediate transfer to a specialised hospital. The application, filed under Section 561-A of the Code of Criminal Procedure in Criminal Appeal No. 64 of 2025, seeks to place additional facts concerning Bushr",
+   "score": 4
+  },
+  {
+   "id": "09e8dba5bfa1",
+   "title": "13-year-old girl's murder case: Islamabad court grants police 4-day physical remand suspects",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044915/13-year-old-girls-murder-case-islamabad-court-grants-police-4-day-physical-remand-suspects",
+   "date": "2026-11-16T08:33:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: A judicial magistrate in Islamabad granted police four-day physical remand of two suspects — a woman and a seminary teacher — arrested over the death of a 13-year-old girl, who was allegedly subjected to violence at the residence of a Federal Investigation Agency (FIA) director’s residence. The suspects were presented before Judicial Magistrate Naima Iffat at the district and sessions court in Islamabad by police, who sought their eight-day physical remand. The investigating officer argued before the court the suspects’ remand was required for further interrogation to make progress ",
+   "score": 2
+  },
+  {
+   "id": "49cb0181f503",
+   "title": "India, England, Australia and New Zealand to host all ICC events from 2028-31",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044851/india-england-australia-and-new-zealand-to-host-all-icc-events-from-2028-31",
+   "date": "2026-11-16T05:24:16Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "LAHORE: Pakistan failed to get any event of the International Cricket Council (ICC) at least till 2031, as the game’s world governing body announced its activity programme for the 2028-2035 cycle on Sunday. According to a press release issued by the ICC, India, England, Australia and New Zealand swept all the events to be held from 2028 to 2031. From 2032 to 2035, the venues of the rema­ining events will be decided later. India, having a major influence in the ICC’s affairs, will host the 2029 ICC Champions Trophy and the 2031 ICC World Cup jointly with Bangladesh. Australia and New Zealand wi",
+   "score": 1
+  },
+  {
+   "id": "b2c24333ff5b",
+   "title": "KWSC completes maintenance work but water shortage persists in Karachi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044785/kwsc-completes-maintenance-work-but-water-shortage-persists-in-karachi",
+   "date": "2026-11-16T05:22:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Although the Karachi Water and Sewerage Corporation (KWSC) claimed to have restored water supply across the city after completing its annual maintenance work at the Dhabeji pumping station, many areas were still without water for a third consecutive day on Sunday. The utility had announced that the maintenance work that began on Nov 13 would cause a shortfall of around 130 million gallons per day (MGD) in water supply. On Sunday, it said in a statement that various technical and maintenance works, including the installation of valves at key locations and repairs to water pipelines, we",
+   "score": 3
+  },
+  {
+   "id": "1b293411b29e",
+   "title": "Separate legislative assembly in Islamabad on the cards",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044836/separate-legislative-assembly-in-islamabad-on-the-cards",
+   "date": "2026-11-16T04:51:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The government has intensified its efforts to set up a separate legislative assembly in Islamabad. If all goes as planned, a legislative assembly will be set up in the capital city, which will be headed by an elected mayor. Some months ago, a high-profile committee headed by Planning Minister Ahsan Iqbal had finalised recommendations, which were presented to Prime Minister Shehbaz Sharif. The recommendations proposed the devolution of powers from the federation to Islamabad Capital Territory as a federating unit, with a provincial-style government. It was stated that the proposed Is",
+   "score": 5
+  },
+  {
+   "id": "5423d697dd34",
+   "title": "Public parks, playgrounds in Karachi becoming ‘pay-to-play’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044786/public-parks-playgrounds-in-karachi-becoming-pay-to-play",
+   "date": "2026-11-16T05:15:27Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• From indoor cricket to futsal and padel courts, private operators are charging thousands of rupees for use of facilities built on public land • Residents question commercialisation of public spaces • Urge govt to bear maintenance costs instead of handing public facilities to private parties KARACHI: The growing commercialisation of public grounds by the Karachi Metropolitan Corporation (KMC) and Town Municipal Corporations (TMCs) across the metropolis for paid sporting activities has raised concerns about the affordability and accessibility of recreational spaces, particularly for children a",
+   "score": 2
+  },
+  {
+   "id": "d5f93897c311",
+   "title": "Why has the drive to verify India's billion voters put the poll body under scrutiny?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044907/why-has-the-drive-to-verify-indias-billion-voters-put-the-poll-body-under-scrutiny",
+   "date": "2026-11-16T06:47:15Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India’s drive to verify the eligibility of roughly a billion voters has put the country’s election authority under severe public scrutiny, with opposition parties alleging the manipulation of voter rolls and exclusion of millions. A report published in September by the Indian Express newspaper alleged there were internal divisions within the Election Commission of India (ECI) over the lists and registration procedures, stoking further concerns about its neutrality. Here’s an explainer on the ongoing controversy. Verifying a billion voters: the controversy India started verification of its vote",
+   "score": 5
+  },
+  {
+   "id": "cd30bd8828c6",
+   "title": "Pakistan’s participation in SCO Civilisational Forum | Explained",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece",
+   "date": "2026-11-16T08:10:03Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "The Ministry of Culture, in collaboration with the Ministry of External Affairs, will organise the first SCO Civilisational Dialogue Forum from November 20-22 at the Purana Qila (Old Fort) in New Delhi",
+   "score": 4
+  },
+  {
+   "id": "20506696aad4",
+   "title": "Ex-Bangladesh PM Hasina says if death is the price to pay for returning home, she is ready to face it",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/ex-bangladesh-pm-hasina-says-if-death-is-the-price-to-pay-for-returning-home-she-is-ready-to-face-it/article71707083.ece",
+   "date": "2026-11-16T07:48:49Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "She was sentenced to death in absentia last year after a Bangladeshi court convicted her of crimes against humanity over a deadly crackdown on protesters",
+   "score": 7,
+   "dup_of": "93e7b9f12b4a"
+  },
+  {
+   "id": "3d6dc0c0b550",
+   "title": "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
+   "date": "2026-11-16T06:24:34Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The sixth Earthshot Prize, founded by Britain’s Prince William to promote innovative climate change solutions, will be presented in Mumbai on November 17, 2026",
+   "score": 1
+  },
+  {
+   "id": "9e77fbe4a3f1",
+   "title": "India, Egypt discuss steps to boost trade, address non-tariff barriers",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
+   "date": "2026-11-16T05:58:35Z",
+   "countries": [
+    "EGY",
+    "IND"
+   ],
+   "desc": "The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both markets and promote investment linkages between the two countries",
+   "score": 5
+  },
+  {
+   "id": "a5f4fa9796f6",
+   "title": "نیویورک تایمز: موساد در جست‌وجوی رون آراد دو فرمانده سپاه را ربود و یکی را کشت",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq20xngerp5yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T08:38:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "نیویورک تایمز در گزارشی تحقیقی مدعی شده است که موساد در جریان تلاش چند دهه‌ای برای روشن کردن سرنوشت رون آراد، خلبان مفقودشده اسرائیلی، دو فرمانده سپاه پاسداران را در دو عملیات جداگانه ربوده است. این روزنامه همچنین به نقل از مقام‌های پیشین آمریکایی گزارش داده که یکی از این افراد، علیرضا عسگری، پس از هفته‌ها بازجویی کشته شد. به نوشته نیویورک تایمز، این اقدامات در حالی انجام شده که برخی ارزیابی‌های اطلاعاتی اسرائیل به شواهد قانع‌کننده‌ای درباره نقش ایران در ناپدید شدن آراد دست نیافته بودند.",
+   "score": 6,
+   "dup_of": "801455199215"
+  },
+  {
+   "id": "dcc6bf323615",
+   "title": "«راه سوم» ترامپ در برابر ایران؛ ادامه بن‌بست به نفع کدام طرف است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ckregjwqpg9eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T05:31:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "آمریکا با محاصره ایران به دنبال گرفتن امتیاز است، اما تهران مقاومت می‌کند. آیا این بن‌بست دوام می‌آورد یا فشارهای اقتصادی، تنش‌های نظامی و تصمیم‌های اسرائیل معادله را تغییر می‌دهند؟",
+   "score": 4
+  },
+  {
+   "id": "f69249200eb8",
+   "title": "الحوثيون يسيطرون على منطقة رئيسية على ساحل البحر الأحمر بعد انسحاب القوات اليمنية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm0rknqx2yyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T08:33:07Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "تقول القوات المدعومة من السعودية إنها تعيد نشر قواتها من مضيق باب المندب للدفاع عن العاصمة المؤقتة عدن.",
+   "score": 8,
+   "dup_of": "7162fe110878"
   }
  ]
 }
