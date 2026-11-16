@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:11:13Z",
+ "updated": "2026-11-16T10:59:54Z",
  "items": [
   {
    "id": "02c39fc80528",
@@ -2424,6 +2424,237 @@
    "desc": "تقول القوات المدعومة من السعودية إنها تعيد نشر قواتها من مضيق باب المندب للدفاع عن العاصمة المؤقتة عدن.",
    "score": 8,
    "dup_of": "7162fe110878"
+  },
+  {
+   "id": "a50a2c56e09e",
+   "title": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T08:56:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+   "score": 8,
+   "dup_of": "735bc3150eb4"
+  },
+  {
+   "id": "1f769fc5f645",
+   "title": "Lebanon’s second airport could provide economic and political benefits",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+   "date": "2026-11-16T10:28:22Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+   "score": 5
+  },
+  {
+   "id": "26bb3d253964",
+   "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+   "date": "2026-11-16T10:14:27Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+   "score": 8
+  },
+  {
+   "id": "44fa52e903c8",
+   "title": "Jordan bans Telegram over national security concerns",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+   "date": "2026-11-16T10:12:28Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
+   "score": 6
+  },
+  {
+   "id": "4a772042ac96",
+   "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+   "date": "2026-11-16T09:31:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+   "score": 8,
+   "dup_of": "26bb3d253964"
+  },
+  {
+   "id": "63ca5a1bc40b",
+   "title": "Ahmed Tibi elected deputy speaker of Israel’s Knesset",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+   "date": "2026-11-16T08:45:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
+   "score": 5
+  },
+  {
+   "id": "4c0fee56200b",
+   "title": "Breaking taboos: Egypt's sexual revolution takes to social media",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/tv-shows/focus/20261116-breaking-taboos-egypt-s-sexual-revolution-takes-to-social-media",
+   "date": "2026-11-16T09:50:45Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "In Egypt, a sexual revolution is quietly unfolding on social media. Accounts followed by tens of thousands of people, with posts attracting millions of views, are tackling a wide range of issues surrounding sexuality – from the widespread practice of female genital mutilation (which 93 per cent of women in rural areas have undergone) to sex education and sexual pleasure.",
+   "score": 4
+  },
+  {
+   "id": "3c84f6c83e40",
+   "title": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044922/i-may-not-return-alive-in-open-letter-to-top-judges-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+   "date": "2026-11-16T10:30:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The letter was shared on the social media platform X by Imran’s lawyer Barrister Salman Safdar, who had met the ex-premier at Adiala jail on Nov 2 and Nov 11 . The letter said that during the Nov 11 meeting, Imran had directed Safdar to “carry his words to your lordships”. “I have conveyed this letter faithfully and ",
+   "score": 6
+  },
+  {
+   "id": "0597ac1ca7fc",
+   "title": "FCC conditionally allows PHC to hear cases related to PTI workers' preventive detention",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044911/fcc-conditionally-allows-phc-to-hear-cases-related-to-pti-workers-preventive-detention",
+   "date": "2026-11-16T09:54:07Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Federal Constitutional Court (FCC) modified its earlier directives on Monday, conditionally allowing the Peshawar High Court (PHC) to hear cases related to the preventive detention of PTI workers and activists under the Maintenance of Public Order Ordinance (MPO) following the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa. A two-member FCC bench, headed by Chief Justice Aminuddin Khan and comprising Justice Aamer Farooq, barred the PHC from hearing the cases on Nov 5, following which the PHC had removed the relevant cases from its cause list. However, today, ",
+   "score": 4
+  },
+  {
+   "id": "d20dea03d30f",
+   "title": "Ex-Bangladesh PM Hasina to return home despite 'threat of death'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044925/ex-bangladesh-pm-hasina-to-return-home-despite-threat-of-death",
+   "date": "2026-11-16T10:10:02Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Ousted Bangladesh prime minister Sheikh Hasina, sentenced to capital punishment after she was toppled in 2024, told AFP on Monday she would return home in December despite “the threat of death”. Hasina fled to India in August 2024 after a student-led uprising ended her iron-fisted 15-year rule , and has remained in hiding ever since. She was sentenced to death in absentia last year after a Bangladeshi court convicted her of crimes against humanity over a deadly crackdown on protesters. “I am fully aware of the risks I face if I return,” she told AFP in an email interview. “But I have made my d",
+   "score": 7,
+   "dup_of": "93e7b9f12b4a"
+  },
+  {
+   "id": "60d5313e7f44",
+   "title": "SC grants post-arrest bail to 4 suspects in human placenta smuggling case",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044914/sc-grants-post-arrest-bail-to-4-suspects-in-human-placenta-smuggling-case",
+   "date": "2026-11-16T09:18:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Supreme Court (SC) on Monday granted post-arrest bail to four suspects arrested in a case relating to the alleged illegal purchase and sale of human placentas. A two-member bench, headed by Justice Shahzad Ahmad Khan and comprising Justice Aqeel Ahmed Abbasi, granted bail to three Chinese nationals and a Pakistani citizen arrested by the Federal Investigation Agency’s (FIA) Corporate Crime Circle (CCC) in Islamabad. The case was registered under Sections 11 and 12 of the Transplantation of Human Organs and Tissues Act, 2010, read with Sections 420, 34 and 109 of the Pakistan Pen",
+   "score": 2
+  },
+  {
+   "id": "7cbba7928f33",
+   "title": "The tragedy of recurring Rohingya refugee deaths",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/the-tragedy-of-recurring-rohingya-refugee-deaths/article70917953.ece",
+   "date": "2026-11-16T10:26:13Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The capsizing of a fishing trawler carrying refugees draws attention to the cost of protracted displacement",
+   "score": 6
+  },
+  {
+   "id": "7641c44c89cc",
+   "title": "For Rohingya, there is no place called home",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/for-rohingyas-there-is-no-place-called-home/article61476656.ece",
+   "date": "2026-11-16T10:19:42Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Rejected by the country they were born in and shunned by the neighbouring states, the Rohingya are among the the most vulnerable amongst forcibly displaced groups.",
+   "score": 5
+  },
+  {
+   "id": "c5c4da173708",
+   "title": "ICJ to rule on Rohingya ‘genocide’: Refugee crisis, timeline of the case, and more",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/icj-to-rule-on-rohingya-genocide-refugee-crisis-timeline-of-the-case-and-more/article71707225.ece",
+   "date": "2026-11-16T10:18:48Z",
+   "countries": [
+    "BGD",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The international community is closely watching the top UN court’s Rohingya verdict as an archetype for the case filed by South Africa against Israel over its campaign in Gaza.",
+   "score": 7
+  },
+  {
+   "id": "04377e7c59aa",
+   "title": "Bahrain sentences 64 Shias, mostly clerics, to life on terror charges: rights group",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bahrain-sentences-64-shias-mostly-clerics-to-life-on-terror-charges-rights-group/article71707395.ece",
+   "date": "2026-11-16T10:15:29Z",
+   "countries": [
+    "BHR"
+   ],
+   "desc": "Bahrain, a Sunni Muslim kingdom, has a large Shia population that has long complained of marginalisation",
+   "score": 7
+  },
+  {
+   "id": "7b49e7c9aec6",
+   "title": "Pakistan human rights body warns of escalating threats to democracy and fundamental freedoms",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-human-rights-body-warns-of-escalating-threats-to-democracy-and-fundamental-freedoms/article71707315.ece",
+   "date": "2026-11-16T09:50:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "According to a press release issued by HRCP, the commission's General Body expressed alarm over the systematic erosion of freedom of expression through censorship, surveillance, restrictive regulations and the misuse of criminal laws",
+   "score": 6
+  },
+  {
+   "id": "53e75d7c2028",
+   "title": "السلطات الأردنية تحجب تطبيق تلغرام لـ \"محاربة الإرهاب\"، وجدل بين مؤيد ومعارض",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm62p3x05xgwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T10:41:39Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "في خطوة أثارت جدلاً، أعلنت مديرية الأمن العام في الأردن عن حجب تطبيق تلغرام في المملكة، وقالت في بيان إن \"التطبيق أعطى مساحات لنشر التطرف والتشدد وارتكاب الجرائم الإلكترونية ما يؤثر على الأمن الوطني\".",
+   "score": 6,
+   "dup_of": "44fa52e903c8"
   }
  ]
 }
