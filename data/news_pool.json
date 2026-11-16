@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T19:16:12Z",
+ "updated": "2026-11-16T22:02:05Z",
  "items": [
   {
    "id": "02c39fc80528",
@@ -3474,6 +3474,117 @@
    ],
    "desc": "يحمل تعيين أحمد الطيبي ووليد طه مع سبعة آخرين كنواب مؤقتين لرئيس الكنيست الإسرائيلي، دلالات سياسية، خصوصاً مع اعتراض أحزاب يمينية على عودة تمثيل الأحزاب العربية في هيئة رئاسة الكنيست.",
    "score": 5
+  },
+  {
+   "id": "a7d276c4a1ca",
+   "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:40:07Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "desc": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+   "score": 8,
+   "dup_of": "3a910931f160"
+  },
+  {
+   "id": "013085a4bacd",
+   "title": "London Palestine Film Festival returns for 27th year",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+   "date": "2026-11-16T20:36:25Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+   "score": 2
+  },
+  {
+   "id": "26988bcb69c2",
+   "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+   "date": "2026-11-16T20:00:07Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+   "score": 7,
+   "dup_of": "612bc5c0dffc"
+  },
+  {
+   "id": "08ed79d7ae27",
+   "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+   "date": "2026-11-16T19:19:21Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+   "score": 8,
+   "dup_of": "938f0aefde77"
+  },
+  {
+   "id": "35ae23b3dc7f",
+   "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+   "date": "2026-11-16T19:09:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+   "score": 6,
+   "dup_of": "9d766436c2ca"
+  },
+  {
+   "id": "607d35342c8a",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+   "date": "2026-11-16T21:13:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Donald Trump keeps his options open for next steps in the Iran war. The USS Theodore Roosevelt brings thousands of additional troops to the Middle East as Trump has oscillated between threatening additional large-scale strikes on Iran and insisting that the more than eight-month-old war “militarily is effectively over”. Co",
+   "score": 8,
+   "dup_of": "5db852d31b2c"
+  },
+  {
+   "id": "8f70f0373fb4",
+   "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+   "date": "2026-11-16T12:00:00Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
+   "score": 7
+  },
+  {
+   "id": "81d09497cc61",
+   "title": "«می‌خواستم قوی و مستقل باشم»؛ روایت یک زن موتورسوار از تغییر نقش زنان در عربستان",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cx5yn25r9zjno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:39:13Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "در عربستان سعودی، جایی که تا چند سال پیش زنان حتی اجازه رانندگی نداشتند، صدف محمد شریف امروز به زنان دیگر موتورسواری آموزش می‌دهد. داستان او فراتر از یک سرگرمی یا ورزش است؛ روایتی از تغییر جایگاه زنان در کشوری که در سال‌های اخیر شاهد تحولات اجتماعی کم‌سابقه‌ای بوده است.",
+   "score": 3
   }
  ]
 }
