@@ -1,6 +1,80 @@
 {
- "count": 20,
+ "count": 22,
  "items": [
+  {
+   "id": "araghchi-oman-muscat-talks-2026",
+   "date": "2026-11-16",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Araghchi’s Visit to Oman on November 17: Can Muscat Reopen US-Iran Talks?",
+     "summary": "Araghchi’s visit to Oman on November 17 puts Muscat’s diplomatic channel in focus. Assess the prospects for US-Iran talks and what could confirm a next step.",
+     "focus_keyword": "Araghchi’s visit to Oman",
+     "image": "",
+     "url": "analysis/araghchi-oman-muscat-talks-2026-en.html"
+    },
+    "fa": {
+     "title": "سفر عراقچی به عمان در ۱۷ نوامبر؛ آیا مسقط می تواند راه گفت و گوی ایران و آمریکا را باز کند؟",
+     "summary": "سفر عراقچی به عمان در ۱۷ نوامبر فرصتی برای سنجش امکان تماس ایران و آمریکا است. نقش مسقط را در انتقال پیام، ترتیب تعهدات و تعیین گام بعدی بررسی می کنیم.",
+     "focus_keyword": "سفر عراقچی به عمان",
+     "image": "",
+     "url": "analysis/araghchi-oman-muscat-talks-2026-fa.html"
+    },
+    "ar": {
+     "title": "زيارة عراقجي إلى عمان في ١٧ نوفمبر؛ هل تفتح مسقط طريق الحوار بين إيران والولايات المتحدة؟",
+     "summary": "تضع زيارة عراقجي إلى عمان في ١٧ نوفمبر قناة مسقط الدبلوماسية في دائرة الاهتمام. يدرس التحليل فرص الحوار ومؤشرات الانتقال إلى خطوة مؤكدة.",
+     "focus_keyword": "زيارة عراقجي إلى عمان",
+     "image": "",
+     "url": "analysis/araghchi-oman-muscat-talks-2026-ar.html"
+    }
+   },
+   "added": "2026-11-16T06:27:01Z"
+  },
+  {
+   "id": "iran-war-us-cost-pentagon-november-2026",
+   "date": "2026-11-16",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT",
+    "QAT"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "The Cost of the Iran War to the US Through Mid-November 2026 and the Questions Facing the Pentagon",
+     "summary": "The cost of the Iran war to the US, the Pentagon’s October estimate and the November CBS investigation raise questions about damage and congressional oversight.",
+     "focus_keyword": "The cost of the Iran war to the US",
+     "image": "",
+     "url": "analysis/iran-war-us-cost-pentagon-november-2026-en.html"
+    },
+    "fa": {
+     "title": "هزینه جنگ با ایران برای آمریکا تا نیمه نوامبر ۲۰۲۶ و پرسش های پیش روی پنتاگون",
+     "summary": "هزینه جنگ با ایران برای آمریکا را با برآورد پنتاگون تا میانه اکتبر و تحقیق ۱۵ نوامبر سی بی اس بررسی می کنیم. خسارت، تلفات و نظارت کنگره محور تحلیل است.",
+     "focus_keyword": "هزینه جنگ با ایران برای آمریکا",
+     "image": "",
+     "url": "analysis/iran-war-us-cost-pentagon-november-2026-fa.html"
+    },
+    "ar": {
+     "title": "كلفة الحرب مع إيران على الولايات المتحدة حتى منتصف نوفمبر ٢٠٢٦ والأسئلة أمام البنتاغون",
+     "summary": "تقييم كلفة الحرب مع إيران على الولايات المتحدة بالاستناد إلى تقدير البنتاغون في أكتوبر وتحقيق سي بي إس في نوفمبر، مع بحث الأضرار والخسائر والرقابة.",
+     "focus_keyword": "كلفة الحرب مع إيران على الولايات المتحدة",
+     "image": "",
+     "url": "analysis/iran-war-us-cost-pentagon-november-2026-ar.html"
+    }
+   },
+   "added": "2026-11-16T06:27:01Z"
+  },
   {
    "id": "bab-el-mandeb-shipping-after-pullback-2026",
    "date": "2026-11-16",
