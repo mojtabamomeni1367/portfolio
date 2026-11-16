@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:50:16Z",
+ "updated": "2026-11-16T19:16:12Z",
  "items": [
   {
    "id": "02c39fc80528",
@@ -2505,7 +2505,8 @@
     "PSE"
    ],
    "desc": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
-   "score": 5
+   "score": 5,
+   "dup_of": "f865d5ad9864"
   },
   {
    "id": "4c0fee56200b",
@@ -2722,8 +2723,7 @@
     "PSE"
    ],
    "desc": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-   "score": 6,
-   "dup_of": "63ca5a1bc40b"
+   "score": 6
   },
   {
    "id": "3a41398a039c",
@@ -3170,6 +3170,310 @@
    ],
    "desc": "أثارت مبادرة طُرحت \"بتوجيه رئاسي\" لتقنين أوضاع التعدين الأهلي عن الذهب، جنوبي مصر، برعاية رئيس اتحاد القبائل والعائلات المصرية إبراهيم العرجاني، تساؤلات بشأن طبيعة دور الاتحاد والجهة التي ستتولى إدارة النشاط، في ظل وجود مؤسسات وشركات حكومية تعمل بالفعل في قطاع التعدين.",
    "score": 4
+  },
+  {
+   "id": "f67b0c2e9af6",
+   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:46:21Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+   "score": 7,
+   "dup_of": "04377e7c59aa"
+  },
+  {
+   "id": "ae09a94e8a2f",
+   "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+   "date": "2026-11-16T18:38:16Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+   "score": 3
+  },
+  {
+   "id": "fc4e8640b755",
+   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+   "date": "2026-11-16T17:49:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+   "score": 5
+  },
+  {
+   "id": "50abd88093e7",
+   "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+   "date": "2026-11-16T17:18:14Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+   "score": 8
+  },
+  {
+   "id": "1cbeb891f819",
+   "title": "Iran braces for natural gas shortages during winter energy imbalance",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+   "date": "2026-11-16T16:58:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+   "score": 6
+  },
+  {
+   "id": "cb0dec79c739",
+   "title": "Israeli forces demolish the homes of two Palestinian prisoners",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
+   "date": "2026-11-16T16:56:54Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting",
+   "score": 6
+  },
+  {
+   "id": "d42a34114fea",
+   "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+   "date": "2026-11-16T16:56:46Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
+   "score": 6,
+   "dup_of": "9d766436c2ca"
+  },
+  {
+   "id": "551c87c3b5dd",
+   "title": "Students protest as air pollution chokes New Delhi",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+   "date": "2026-11-16T15:27:07Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+   "score": 4
+  },
+  {
+   "id": "3a910931f160",
+   "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+   "date": "2026-11-16T19:04:07Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait, as well as pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority is to break the attritional siege on Taiz , Yemen’s third city and to protect Aden, the southern port city in which the Saudi-backed and UN-re",
+   "score": 8
+  },
+  {
+   "id": "29c162c960bc",
+   "title": "‘Let the aid in’: Deadly winter approaches in Gaza - The Latest",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
+   "date": "2026-11-16T18:13:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Deadly floods in Gaza have created a dire humanitarian crisis, as the governments of Australia, Canada, the UK and Italy call on Israel to allow the safe passage of critical aid to civilians before winter sets in. Tens of thousands of Palestinians in Gaza have been left in waterlogged and damaged tents, with sanitation infrastructure also destroyed by storms. Supplies including food, medicine and water and 150,000 tents are being held by Israel at the border, while the UN warns of the spread of diseases. Lucy Hough speaks to the Guardian’s chief Middle East correspondent, Emma Graham-Harrison ",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "26e67ae24c99",
+   "title": "Dar says Pakistan to host next Makkah alliance summit later this month",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044957/dar-says-pakistan-to-host-next-makkah-alliance-summit-later-this-month",
+   "date": "2026-11-16T16:18:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan will host the next meeting of the Makkah Defence Alliance’s apex committee, likely later this month, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday. He made the remarks while answering a query during a press briefing regarding a ministerial meeting of the Economic Cooperation Organisation (ECO) held in Islamabad. Asked about regional security architecture, Dar recalled the Aug 7 signing of the Makkah Joint Defence Agreement between Pakistan, Saudi Arabia and Turkiye. The pact empowers the three states to treat an attack on any one of them as an attack on all. Prov",
+   "score": 6
+  },
+  {
+   "id": "6153f3c18d5b",
+   "title": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044966/we-know-how-to-hurt-india-says-pakistan-coach-solano-ahead-of-saff-championship-final",
+   "date": "2026-11-16T17:30:11Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals prepare for a historic showdown on Tuesday. Pakistan will face defending champions India at the National Stadium in Dhaka, Bangladesh, with the Green Shirts chasing their maiden SAFF Championship title and a landmark first appearance in the tournament’s final. Speaking at the pre-match press conference on Monday, Solano acknowledged India’s",
+   "score": 1
+  },
+  {
+   "id": "7bf6bc3d75af",
+   "title": "Govt reduces petrol, diesel prices by Rs2 per litre",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044962/govt-reduces-petrol-diesel-prices-by-rs2-per-litre",
+   "date": "2026-11-16T18:01:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "718b0e300b8b",
+   "title": "I made Karachi, Lahore, Islamabad take the 10-minute park test",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044940/i-made-karachi-lahore-islamabad-take-the-10-minute-park-test",
+   "date": "2026-11-16T12:44:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The ten-minute park test asks whether people can reach a public park or playground on foot from their homes. Its purpose is to identify neighbourhoods without everyday access to recreation and help direct investment towards them. In its population-based form, the score is the proportion of residents living within that walking distance. It tells us something that the amount of green on a satellite image cannot: whether public open space is within reach of the people who need it. The international examples are instructive. In the United States, Trust for Public Land reports that 100 per cent of ",
+   "score": 2
+  },
+  {
+   "id": "2acfffbd299e",
+   "title": "Divergent positions mark draft text of COP31 under way in Turkiye",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+   "date": "2026-11-16T17:12:58Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "Developing countries call for developed nations to lead emissions cuts and climate finance efforts",
+   "score": 4
+  },
+  {
+   "id": "5db852d31b2c",
+   "title": "Third American aircraft carrier arrives in West Asia as Trump keeps options open in Iran war",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/third-american-aircraft-carrier-arrives-in-west-asia-as-trump-keeps-options-open-in-iran-war/article71709128.ece",
+   "date": "2026-11-16T17:00:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The USS Theodore Roosevelt has arrived in the Middle East, once again bringing the total number of U.S. aircraft carriers in the West Asia to three, an unusually high number",
+   "score": 8
+  },
+  {
+   "id": "9c2630b276c8",
+   "title": "After Yemen setback, Saudi Arabia replaces military commander",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece",
+   "date": "2026-11-16T16:45:13Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The Houthis have made rapid gains ⁠against the Saudi-backed Yemeni government since the U.S.-Iran conflict reignited Yemen’s frozen civil war this summer, drawing Riyadh back into confrontation with the group",
+   "score": 8,
+   "dup_of": "938f0aefde77"
+  },
+  {
+   "id": "612bc5c0dffc",
+   "title": "Israeli opposition chiefs denounce Netanyahu over ‘attempted coup’",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-opposition-chiefs-denounce-netanyahu-over-attempted-coup/article71709115.ece",
+   "date": "2026-11-16T16:35:18Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Netanyahu subsequently accused Arab parties of electoral fraud after they gained a record number of seats",
+   "score": 7
+  },
+  {
+   "id": "eb0172f8b506",
+   "title": "Former Pakistan PM Imran Khan warns he may not 'return alive', seeks medical treatment for himself, wife",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/former-pakistan-pm-imran-khan-warns-he-may-not-return-alive-seeks-medical-treatment-for-himself-wife/article71708296.ece",
+   "date": "2026-11-16T13:50:38Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Khan, the former cricketer-turned-politician and founder of the Pakistan Tehreek-e-Insaf party, has been incarcerated since 2023 and faces more than 100 cases",
+   "score": 7,
+   "dup_of": "3c84f6c83e40"
+  },
+  {
+   "id": "e9a28f109bc9",
+   "title": "ده‌ها «شهروند شیعه» متهم به ارتباط با سپاه در بحرین به حبس ابد محکوم شدند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6n90gj5rngyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T16:32:18Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "مقام‌های قضایی بحرین اعلام کرده‌اند که متهمان پرونده عضویت در یک «گروه تروریستی مرتبط با سپاه پاسداران» صادر شده است و محکومیت آنها بین ۱۵ سال تا حبس ابد است. خبرگزاری رسمی بحرین به نقل از دادستانی بدون اشاره به تعداد متهمان همچنین گزارش کرده است که بیش از هشت میلیون دینار از دارایی‌های این افراد هم «برای مقاصد خیریه» مصادره شده است. در همین حال موسسه حقوق و دموکراسی بحرین، مستقر در بریتانیا، به نقل از وکیلی که در دادگاه حضور داشت، گزارش داده است که ۶۴ مسلمان شیعه که ۵۷ نفرشان روحانی هستند، به حبس ابد و پنج نفر دیگرشان به ۱۵ سال حبس محکوم شدند.",
+   "score": 7,
+   "dup_of": "04377e7c59aa"
+  },
+  {
+   "id": "3ae5f830d191",
+   "title": "أحكام بالمؤبد والسجن 15 عاماً في أكبر محاكمة لرجال دين شيعة في البحرين",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm9q87y2xd29o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T18:11:26Z",
+   "countries": [
+    "BHR"
+   ],
+   "desc": "اعتبر الشيخ محمد المنسي، أحد رجال الدين البحرينيين الذين حوكموا غيابياً وصدر بحقه حكم بالسجن المؤبد، في حديثه لبي بي سي، المحاكمة \"مرفوضة ومستنكرة\"، ووصفها بأنها \"كيدية وباطلة، وتفتقد إلى أبسط المعايير القانونية\"، وفقاً لتعبيره.",
+   "score": 7,
+   "dup_of": "04377e7c59aa"
+  },
+  {
+   "id": "a20af1309d36",
+   "title": "تعيين تسعة نواب مؤقتين لرئيس الكنيست الإسرائيلي من بينهم أحمد الطيبي ووليد طه",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crz6ql3p5405o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T16:11:12Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "يحمل تعيين أحمد الطيبي ووليد طه مع سبعة آخرين كنواب مؤقتين لرئيس الكنيست الإسرائيلي، دلالات سياسية، خصوصاً مع اعتراض أحزاب يمينية على عودة تمثيل الأحزاب العربية في هيئة رئاسة الكنيست.",
+   "score": 5
   }
  ]
 }
