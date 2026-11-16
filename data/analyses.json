@@ -1,6 +1,42 @@
 {
- "count": 19,
+ "count": 20,
  "items": [
+  {
+   "id": "bab-el-mandeb-shipping-after-pullback-2026",
+   "date": "2026-11-16",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Bab el-Mandeb Strait After Yemen's Pullback: 3 Tests for Red Sea Shipping",
+     "summary": "After the Yemeni pullback near the Bab el-Mandeb Strait, three indicators can show how shipping responds: traffic, insurance coverage and reliable schedules.",
+     "focus_keyword": "Bab el-Mandeb Strait",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-shipping-after-pullback-2026-en.html"
+    },
+    "fa": {
+     "title": "تنگه باب المندب پس از عقب نشینی نیروهای یمنی؛ ۳ آزمون برای کشتیرانی دریای سرخ",
+     "summary": "تنگه باب المندب پس از عقب نشینی نیروهای یمنی با سه معیار بررسی می شود. تردد کشتی ها، هزینه بیمه و نظم تحویل اثر تغییر موازنه ساحلی را بر تجارت نشان می دهند.",
+     "focus_keyword": "تنگه باب المندب",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-shipping-after-pullback-2026-fa.html"
+    },
+    "ar": {
+     "title": "مضيق باب المندب بعد انسحاب القوات اليمنية؛ ٣ اختبارات للملاحة في البحر الأحمر",
+     "summary": "بعد انسحاب القوات اليمنية قرب مضيق باب المندب، تساعد حركة السفن وشروط التأمين وانتظام الجداول في قياس أثر التطورات على الملاحة في البحر الأحمر.",
+     "focus_keyword": "مضيق باب المندب",
+     "image": "",
+     "url": "analysis/bab-el-mandeb-shipping-after-pullback-2026-ar.html"
+    }
+   },
+   "added": "2026-11-16T06:21:58Z"
+  },
   {
    "id": "gaza-flooding-safe-shelter-2026",
    "date": "2026-11-10",
