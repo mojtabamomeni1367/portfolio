@@ -1,35 +1,180 @@
 {
- "updated": "2026-11-17T13:36:01Z",
- "count": 445,
+ "updated": "2026-11-17T16:30:13Z",
+ "count": 447,
  "items": [
   {
-   "id": "da15759c1f0c",
+   "id": "59af207e6b43",
    "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse",
-   "date": "2026-11-17T13:20:53Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+   "date": "2026-11-17T16:03:34Z",
    "countries": [
-    "PAK"
+    "IRN"
    ],
-   "score": 5,
-   "title": "In hard-hitting speech, Bilawal says system was ‘made to collapse’",
-   "title_en": "In hard-hitting speech, Bilawal says system was ‘made to collapse’",
-   "summary_en": "Pakistan Peoples Party (PPP) Chairman Bilawal Bhutto-Zardari stated that the country's governance system did not collapse on its own but was deliberately made to collapse, calling for a political reset initiated through Parliament.",
+   "score": 8,
+   "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+   "title_en": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+   "summary_en": "Donald Trump stated that the US is investigating whether Iran is developing plans for a dirty bomb attack in Washington, even as the White House noted a lack of credible threats.",
    "body_en": [
-    "Speaking at the Karachi Press Club, Bhutto-Zardari addressed recent debates on resetting the country's governance structure, arguing that any meaningful remedy must be political since politicians represent the public. He called for restoring the legitimacy of state institutions, putting an end to political revenge through bodies like the National Accountability Bureau (NAB), and addressing electoral rigging claims.",
-    "Bhutto-Zardari also defended opposition leader Maulana Fazlur Rehman against recent government actions and actions targeting him, emphasizing that Parliament relies on opposition criticism and calling on the federal government to build consensus on political reforms."
+    "According to reports citing US officials, intelligence suggested Iran was exploring plans involving a dirty bomb or chemical weapon targeting senior Trump administration officials, though officials debated whether such a plot would be executed. President Trump warned of severe consequences if any attack occurred.",
+    "The conflict involving the US, Israel, and Iran has continued since February, impacting global fuel costs and shipping through the Strait of Hormuz amidst ongoing international tensions."
    ],
-   "title_fa": "بلاول بوتو زرداری در سخنانی تند گفت که ساختار حکومت «دچار فروپاشی ساخته شده است»",
-   "summary_fa": "بلاول بوتو زرداری، رهبر حزب مردم پاکستان، اعلام کرد که نظام حکمرانی کشور به خودی خود فرو نپاشیده، بلکه به عمد دچار فروپاشی شده است و خواستار بازسازی سیاسی با محوریت پارلمان شد.",
+   "title_fa": "دعوای دونالد ترامپ مبنی بر «بررسی» توطئه بمب‌گذاری ایران در واشنگتن با وجود «نبود تهدیدات معتبر»",
+   "summary_fa": "دونالد ترامپ ادعا کرد که ایالات متحده در حال بررسی این موضوع است که آیا ایران در حال تهیه برنامه‌هایی برای حمله با بمب کثیف در واشنگتن است، این در حالی است که کاخ سفید اعلام کرد هیچ تهدید معتبری وجود ندارد.",
    "body_fa": [
-    "بوتو زرداری در سخنرانی خود در کلوب خبرنگاران کراچی با اشاره به بحث‌های اخیر درباره بازسازی ساختار حکمرانی، تاکید کرد که هرگونه راه‌حل واقعی باید سیاسی باشد زیرا سیاستمداران نمایندگان مردم هستند. وی خواستار بازگرداندن اعتبار به نهادهای دولتی، پایان دادن به انتقام‌جویی‌های سیاسی از طریق نهادهایی مانند اداره ملی احتساب (NAB) و رسیدگی به ادعاهای تقلب در انتخابات شد.",
-    "او همچنین از مولانا فضل الرحمن، از چهره‌های اپوزیسیون، در برابر اقدامات اخیر دولت دفاع کرد و با تأکید بر اینکه نقد دولت حق پارلمانی اپوزیسیون است، از دولت فدرال خواست تا درباره اصلاحات سیاسی توافق عمومی ایجاد کند."
+    "بر اساس گزارش‌های به نقل از مقامات آمریکایی، اطلاعات نشان می‌داد که ایران در حال بررسی برنامه‌هایی شامل بمب کثیف یا سلاح شیمیایی با هدف قرار دادن مقامات ارشد دولت ترامپ است، هرچند مقامات درباره اینکه آیا چنین توطئه‌ای اجرا خواهد شد یا خیر بحث کردند. رئیس‌جمهور ترامپ درباره پیامدهای شدید در صورت وقوع هرگونه حمله هشدار داد.",
+    "درگیری میان ایالات متحده، اسرائیل و ایران از ماه فوریه ادامه داشته و در بحبوحه تنش‌های بین‌المللی مستمر، هزینه‌های سوخت جهانی و کشتیرانی در تنگه هرمز را تحت تأثیر قرار داده است."
    ],
-   "title_ar": "بلاول يقول في خطاب حاد إن نظام الحكم \"أُريد له أن ينهار\"",
-   "summary_ar": "صرح رئيس حزب الشعب الباكستاني بلاول بوتو زرداري بأن نظام الحكم في البلاد لم ينهار من تلقاء نفسه بل \"أُريد له أن ينهار\"، داعيًا إلى إعادة ضبط سياسية تبدأ من البرلمان.",
+   "title_ar": "ترامب يزعم أن الولايات المتحدة \"تحقق\" في مؤامرة قنبلة إيرانية بواشنطن رغم \"عدم وجود تهديدات موثوقة\"",
+   "summary_ar": "صرح دونالد ترامب أن الولايات المتحدة \"تحقق\" في ما إذا كانت إيران تطور خططاً لتنفيذ هجوم بقنبلة قذرة في واشنطن، في الوقت الذي أشار فيه البيت الأبيض إلى عدم وجود تهديدات موثوقة.",
    "body_ar": [
-    "وفي كلمته أمام نادي الصحافة في كراتشي، تطرق بوتو زرداري إلى النقاشات الأخيرة حول إعادة ضبط هيكل الحكم، مؤكدًا أن أي علاج حقيقي يجب أن يكون سياسيًا لأن السياسيين هم ممثلو الشعب. ودعا إلى إعادة الشرعية لمؤسسات الدولة، وإنهاء الانتقام السياسي عبر هيئات مثل المكتب الوطني للمحاسبة (NAB)، ومعالجة ادعاءات تزوير الانتخابات.",
-    "كما دافع بوتو زرداري عن قائد المعارضة مولانا فضل الرحمن ضد الإجراءات الحكومية الأخيرة، مشددًا على أن نقد المعارضة هو حق برلماني ومظهر من مظاهر الديمقراطية، ودعا الحكومة الاتحادية إلى التوصل إلى توافق بشأن الإصلاحات السياسية."
+    "وفقاً لتقارير نقلاً عن مسؤولين أمريكيين، أشارت الاستخبارات إلى أن إيران كانت تدرس خططاً تتضمن قنبلة قذرة أو سلاحاً كيميائياً يستهدف كبار مسؤولي إدارة ترامب، رغم نقاش المسؤولين حول ما إذا كانت هذه المؤامرة ستنفذ. وحذر الرئيس ترامب من عواقب وخيمة في حال وقوع أي هجوم.",
+    "استمر النزاع بين الولايات المتحدة وإسرائيل وإيران منذ شهر فبراير، مما أثر على تكاليف الوقود العالمية والشحن عبر مضيق هرمز وسط توترات دولية مستمرة."
+   ]
+  },
+  {
+   "id": "e659d93eb84e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-migration-agency-warns-more-gaza-hypothermia-deaths-israel-bars",
+   "date": "2026-11-17T15:48:40Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "UN migration agency warns of more Gaza hypothermia deaths, as Israel bars 100,000 tents from entering territory",
+   "title_en": "UN migration agency warns of more Gaza hypothermia deaths, as Israel bars 100,000 tents from entering territory",
+   "summary_en": "The UN migration agency warned of additional hypothermia deaths in Gaza following heavy rains and freezing temperatures, while Israel continues to block the entry of thousands of tents.",
+   "body_en": [
+    "Karl Baker, head of the International Organization for Migration's Gaza programme, stated that shelter items and tent poles are blocked by Israeli authorities as \"dual use\" goods. He noted that a nine-month-old baby recently died from the cold amid flooded makeshift tents across the enclave.",
+    "Baker described the territory as turning into one of the worst internally displaced persons camps he has walked through, emphasizing that children are particularly vulnerable to hypothermia."
+   ],
+   "title_fa": "هشدار آژانس مهاجرت سازمان ملل درباره افزایش مرگ‌ومیر ناشی از سرمازدگی در غزه هم‌زمان با ممانعت اسرائیل از ورود ۱۰۰ هزار چادر",
+   "summary_fa": "آژانس مهاجرت سازمان ملل متحد درباره مرگ‌ومیر بیشتر ناشی از سرمازدگی در غزه به دنبال بارندگی‌های شدید و کاهش دما هشدار داد، در حالی که اسرائیل همچنان مانع ورود هزاران چادر می‌شود.",
+   "body_fa": [
+    "کارل بیکر، مسئول برنامه غزه در سازمان بین‌المللی مهاجرت، اظهار داشت که اقلام سرپناه و تیرهای چادر توسط مقامات اسرائیلی به عنوان اقلام «دوکاربردی» مسدود شده‌اند. وی خاطرنشان کرد که یک نوزاد نه ماهه اخیراً بر اثر سرما در میان چادرهای موقت سیل‌زده در سراسر باریکه جان خود را از دست داده است.",
+    "بیکر توصیف کرد که این منطقه در حال تبدیل شدن به یکی از بدترین اردوگاه‌های آوارگان داخلی است که او از آن عبور کرده است و تأکید کرد که کودکان به ویژه در برابر سرمازدگی آسیب‌پذیر هستند."
+   ],
+   "title_ar": "وكالة الهجرة التابعة للأمم المتحدة تحذر من المزيد من وفيات انخفاض حرارة الجسم في غزة وسط منع إسرائيل دخول 100 ألف خيمة",
+   "summary_ar": "حذرت وكالة الهجرة التابعة للأمم المتحدة من وقوع المزيد من وفيات انخفاض حرارة الجسم في غزة في أعقاب الأمطار الغزيرة وانخفاض درجات الحرارة، بينما تواصل إسرائيل منع دخول آلاف الخيام.",
+   "body_ar": [
+    "صرح كارل بيكر، رئيس برنامج غزة التابع المنظمة الدولية للهجرة، بأن السلطات الإسرائيلية تمنع دخول مواد الإيواء وأعمدة الخيام باعتبارها مواد \"مزدوجة الاستخدام\". وأشار إلى أن طفلاً يبلغ من العمر تسعة أشهر توفي مؤخراً بسبب البرد وسط خيام مؤقتة غمرتها المياه في جميع أنحاء القطاع.",
+    "وصف بيكر القطاع بأنه يتحول إلى واحد من أسوأ مخيمات النازحين داخلياً التي مشى عبرها، مؤكداً أن الأطفال معرضون بشكل خاص لخطر انخفاض حرارة الجسم."
+   ]
+  },
+  {
+   "id": "2d2d58282b65",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+   "date": "2026-11-17T15:13:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+   "title_en": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+   "summary_en": "President Donald Trump responded to a CNN report regarding Iranian plans to attack Washington, DC, with a dirty bomb, warning Tehran of unprecedented consequences.",
+   "body_en": [
+    "President Donald Trump stated that the United States takes the potential threat seriously while reiterating his stance that Iran must never obtain nuclear weapons."
+   ],
+   "title_fa": "هشدار دونالد ترامپ به ایران درباره طرح‌های ادعایی تهدید «بمب کثیف» علیه واشنگتن",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در واکنش به گزارش سی‌ان‌ان درباره برنامه‌ریزی ایران برای حمله به واشنگتن دی‌سی با یک «بمب کثیف»، به تهران درباره پیامدهای بی‌سابقه هشدار داد.",
+   "body_fa": [
+    "دونالد ترامپ اظهار داشت که ایالات متحده این تهدید بالقوه را جدی می‌گیرد و بار دیگر تکرار کرد که ایران هرگز نباید به تسلیحات هسته‌ای دست یابد."
+   ],
+   "title_ar": "دونالد ترامپ يحذر إيران بشأن خطط التهديد المزعومة بـ \"قنبلة قذرة\" ضد واشنطن",
+   "summary_ar": "رد الرئيس الأمريكي دونالد ترامب على تقرير لشبكة سي إن إن بشأن تخطيط إيران لمهاجمة واشنطن بقنبلة قذرة، محذراً طهران من عواقب غير مسبوقة.",
+   "body_ar": [
+    "ذكر الرئيس دونالد ترامب أن الولايات المتحدة تأخذ التهديد المحتمل على محمل الجد، مؤكداً مجدداً ضرورة ألا تحصل إيران أبداً على أسلحة نووية."
+   ]
+  },
+  {
+   "id": "7c29d533f5f7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/bahraini-activist-nabeel-rajab-dies-turkey",
+   "date": "2026-11-17T14:48:38Z",
+   "countries": [
+    "BHR",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "Bahraini activist Nabeel Rajab dies in Turkey",
+   "title_en": "Bahraini activist Nabeel Rajab dies in Turkey",
+   "summary_en": "Bahraini human rights activist Nabeel Rajab has died in Turkey at the age of 62 after suffering an apparent heart attack.",
+   "body_en": [
+    "Bahraini human rights activist Nabeel Rajab died on Tuesday in Turkey at the age of 62, with fellow campaigners stating he suffered a heart attack. His wife and daughter found him unresponsive at their home in Turkey, where he had fled earlier this year over fears of re-arrest following political statements.",
+    "Rajab was a prominent figure in Bahrain's pro-democracy movement and served as president of the Bahrain Centre for Human Rights, leading him to face repeated arrests, imprisonment, and travel restrictions by the authorities."
+   ],
+   "title_fa": "نبیل رجب، فعال حقوق بشر اهل بحرین، در ترکیه درگذشت",
+   "summary_fa": "نبیل رجب، فعال حقوق بشر اهل بحرین، در سن ۶۲ سالگی و بر اثر سکته قلبی در ترکیه درگذشت.",
+   "body_fa": [
+    "نبیل رجب، فعال حقوق بشر بحرینی، روز سه‌شنبه در سن ۶۲ سالگی در ترکیه درگذشت و هم‌رزمانش اعلام کردند که او بر اثر سکته قلبی جان باخته است. همسر و دخترش او را در خانه خود در ترکیه بی‌جان یافتند؛ جایی که او اوایل سال جاری از ترس دستگیری دوباره به آنجا گریخته بود.",
+    "رجب از چهره‌های سرشناس جنبش دموکراسی‌خواهی بحرین و رئیس مرکز حقوق بشر بحرین بود که به دلیل فعالیت‌هایش بارها با بازداشت، زندان و محدودیت‌های سفری از سوی مقامات مواجه شد."
+   ],
+   "title_ar": "وفاة الناشط البحريني نبيل رجب في تركيا",
+   "summary_ar": "توفي الناشط الحقوقي البحريني نبيل رجب في تركيا عن عمر ناهز 62 عاماً إثر تعرضه لنوبة قلبية.",
+   "body_ar": [
+    "توفي الناشط الحقوقي البحريني نبيل رجب يوم الثلاثاء في تركيا عن عمر يناهز 62 عاماً، وأفاد زملاؤه الناشطون بأنه توفي إثر نوبة قلبية. وكانت زوجته وابنته قد وجدتاه فاقداً للوعي في منزلهما بتركيا، حيث فر إليه في وقت سابق من هذا العام خوفاً من إعادة اعتقاله.",
+    "وكان رجب شخصية بارزة في الحركة المطالبة بالديمقراطية في البحرين ورئيساً لمركز البحرين لحقوق الإنسان، مما عرضه مراراً للاعتقال والسجن وفرض قيود على السفر من قبل السلطات."
+   ]
+  },
+  {
+   "id": "10dd8c22c754",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-kills-least-five-gaza-tuesday-including-six-year-old",
+   "date": "2026-11-17T13:59:14Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli kills at least five in Gaza on Tuesday, including six-year-old",
+   "title_en": "Israeli kills at least five in Gaza on Tuesday, including six-year-old",
+   "summary_en": "At least five Palestinians, including a six-year-old boy, were killed in Israeli attacks across the Gaza Strip on Tuesday.",
+   "body_en": [
+    "According to medical sources and reports, two individuals including six-year-old Eyas El-Nimnim were killed in Deir el-Balah, while others died in Khan Younis, Bir Al-Naja, and Jabalia. Additional strikes and wounds were reported in the Nuseirat refugee camp."
+   ],
+   "title_fa": "کشته شدن دست‌کم پنج نفر در حملات اسرائیل به غزه در روز سه‌شنبه، از جمله یک کودک شش‌ساله",
+   "summary_fa": "دست‌کم پنج فلسطینی از جمله یک پسر بچه شش‌ساله روز سه‌شنبه در حملات اسرائیل در سراسر نوار غزه کشته شدند.",
+   "body_fa": [
+    "بر اساس منابع پزشکی و گزارش‌ها، دو نفر از جمله اییاس النیم‌نیم، کودک شش‌ساله، در دیرالبلح کشته شدند و افراد دیگری در خان یونس، بئر النجا و جبالیا جان باختند. حملات و زخم‌های دیگری نیز در اردوگاه آوارگان نصیرات گزارش شد."
+   ],
+   "title_ar": "إسرائيل تقتل خمسة أشخاص على الأقل في غزة يوم الثلاثاء بينهم طفل في الخامسة من عمره",
+   "summary_ar": "قُتل خمسة فلسطينيين على الأقل، بينهم طفل يبلغ من العمر ست سنوات، في هجمات إسرائيلية بمختلف أنحاء قطاع غزة يوم الثلاثاء.",
+   "body_ar": [
+    "وفقاً لمصادر وتقارير طبية، قُتل شخصان من بينهما الطفل إياس النمنم البالغ من العمر ست سنوات في دير البلح، بينما توفي آخرون في خان يونس وبئر النجا وجباليا. كما تم الإبلاغ عن غارات وإصابات أخرى في مخيم النصيرات للاجئين."
+   ]
+  },
+  {
+   "id": "597195b6bd5b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-iafter-israeil-attack-northern-gaza",
+   "date": "2026-11-17T13:29:57Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Palestinian killed after Israeli attack in northern Gaza",
+   "title_en": "Palestinian killed after Israeli attack in northern Gaza",
+   "summary_en": "A Palestinian has died from wounds sustained in a previous Israeli strike in Jabalia, according to reports citing hospital sources.",
+   "body_en": [
+    "A Palestinian has succumbed to wounds sustained in a previous Israeli strike in Jabalia, Al Jazeera reports, citing sources at al-Shifa Hospital."
+   ],
+   "title_fa": "یک فلسطینی پس از حمله اسرائیل در شمال غزه جان باخت",
+   "summary_fa": "به گزارش منابع بیمارستانی، یک فلسطینی بر اثر جراحات ناشی از حمله پیشین اسرائیل به جبالیا جان خود را از دست داد.",
+   "body_fa": [
+    "به گزارش الجزیره به نقل از منابع بیمارستان الشفا، یک فلسطینی بر اثر جراحات ناشی از حمله پیشین اسرائیل در جبالیا جان باخت."
+   ],
+   "title_ar": "استشهاد فلسطيني إثر هجوم إسرائيلي في شمال غزة",
+   "summary_ar": "استشهد فلسطيني متأثراً بجروح أصيب بها في قصف إسرائيلي سابق جرى في جباليا، وفقاً لما أفادت به مصادر مستشفى الشفاء.",
+   "body_ar": [
+    "فارق فلسطيني الحياة متأثراً بجروح أصيب بها في غارة إسرائيلية سابقة استهدفت جباليا، بحسب ما نقلته الجزيرة عن مصادر في مستشفى الشفاء."
    ]
   },
   {
@@ -184,6 +329,67 @@
    "body_ar": [
     "أشار الرئيس الأمريكي دونالد ترامب إلى أن واشنطن ليست بعجلة للتوصل إلى اتفاق مع إيران، مع استمرار الحصار البحري على الموانئ الإيرانية وتقييد إيران للملاحة في مضيق هرمز. ويرى مراقبون أنه رغم تراجع الحملات الجوية المكثفة، فإن الصراع تحول عملياً إلى حصار اقتصادي وعسكري ممتد.",
     "من جانبهم، أكد مسؤولون إيرانيون، بمن فيهم الرئيس مسعود بزشكيان، أن إيران مستعدة للمفاوضات لكنها لن تخضع للإكراه ولن تقبل بحالة \"لا حرب ولا سلم\". في الوقت نفسه، زادت الضغوط السياسية الداخلية في الولايات المتحدة بعد انتخابات المنتصف من تعقيد فرص التصعيد البري أو التوصل إلى تسوية رسمية."
+   ]
+  },
+  {
+   "id": "da300a15a4c7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/young-palestinian-man-killed-israeli-fire-central-gaza",
+   "date": "2026-11-17T11:54:29Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Young Palestinian man killed by Israeli fire in central Gaza",
+   "title_en": "Young Palestinian man killed by Israeli fire in central Gaza",
+   "summary_en": "A young Palestinian man was killed and others were wounded by Israeli forces east of Deir el-Balah in central Gaza, local sources and Wafa reported.",
+   "body_en": [
+    "Wafa reports, citing local sources, that a young Palestinian man has been killed and others wounded in an Israeli attack east of the city of Deir el-Balah in central Gaza.",
+    "According to the sources, Israeli forces opened fire on civilians in the al-Ja'farawi area, killing one man and wounding others."
+   ],
+   "title_fa": "یک جوان فلسطینی بر اثر تیراندازی اسرائیل در مرکز غزه کشته شد",
+   "summary_fa": "به گزارش خبرگزاری وفا و منابع محلی، یک جوان فلسطینی در حمله نیروهای اسرائیلی در شرق دیرالبلح در مرکز غزه کشته و چند نفر دیگر زخمی شدند.",
+   "body_fa": [
+    "خبرگزاری وفا به نقل از منابع محلی گزارش داد که یک جوان فلسطینی در حمله نیروهای اسرائیلی در شرق شهر دیرالبلح در مرکز غزه کشته و تعدادی دیگر زخمی شدند.",
+    "بر اساس این گزارش، نیروهای اسرائیلی به روی غیرنظامیان در منطقه الجعفراوی آتش گشودند که به کشته شدن یک مرد و زخمی شدن دیگران انجامید."
+   ],
+   "title_ar": "مقتل شاب فلسطيني بنيران إسرائيلية وسط غزة",
+   "summary_ar": "أفادت وكالة الأنباء الفلسطينية (وفا) نقلاً عن مصادر محلية بمقتل شاب فلسطيني وإصابة آخرين في هجوم إسرائيلي شرق مدينة دير البلح وسط غزة.",
+   "body_ar": [
+    "ذكرت وكالة وفا نقلاً عن مصادر محلية أن شاباً فلسطينياً قُتل وأصيب آخرون في هجوم إسرائيلي شرق مدينة دير البلح وسط قطاع غزة.",
+    "وبحسب المصادر، فتحت القوات الإسرائيلية نيرانها على مدنيين في منطقة الجعفراوي، مما أسفر عن مقتل رجل وإصابة آخرين."
+   ]
+  },
+  {
+   "id": "8e1988d9f4fa",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-denies-report-alleged-iranian-plan-detonate-dirty-bomb-washington",
+   "date": "2026-11-17T11:03:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
+   "title_en": "Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
+   "summary_en": "Iran's foreign ministry spokesperson dismissed CNN reports of an alleged Iranian plan to detonate a dirty bomb in Washington as baseless, while US President Donald Trump issued a warning.",
+   "body_en": [
+    "Iran's foreign ministry spokesperson denied a CNN report that it planned to detonate a \"dirty bomb\" in Washington, saying the allegations were \"baseless\", in a post on X on Tuesday. CNN cited sources as saying that US intelligence indicates that Tehran is developing plans to potentially detonate a dirty bomb in Washington.",
+    "Following the report, US President Donald Trump warned Iran against attacks, saying that \"they will pay a price the likes of which no country has ever paid before\"."
+   ],
+   "title_fa": "تهران گزارش درباره طرح ادعایی ایران برای انفجار «بمب کثیف» در واشنگتن را رد کرد",
+   "summary_fa": "سخنگوی وزارت امور خارجه ایران گزارش شبکه سی‌ان‌ان درباره طرح ادعایی ایران برای انفجار بمب کثیف در واشنگتن را بی‌اساس خواند و رد کرد، در حالی که دونالد ترامپ هشدار داد.",
+   "body_fa": [
+    "سخنگوی وزارت امور خارجه ایران روز سه‌شنبه در پستی در شبکه اجتماعی ایکس، گزارش شبکه سی‌ان‌ان مبنی بر برنامه‌ریزی ایران برای منفجر کردن یک «بمب کثیف» در واشنگتن را رد کرد و این اتهامات را «بی‌اساس» خواند. سی‌ان‌ان به نقل از منابعی مدعی شده بود که اطلاعات ایالات متحده نشان می‌دهد تهران در حال تدوین طرح‌هایی برای انفجار احتمالی بمب کثیف در واشنگتن است.",
+    "به دنبال انتشار این گزارش، دونالد ترامپ، رئیس‌جمهور آمریکا، به ایران درباره هرگونه حمله هشدار داد و گفت که آن‌ها «بهایی خواهند پرداخت که تاکنون هیچ کشوری نپرداخته است»."
+   ],
+   "title_ar": "تهران تنفي تقريراً حول خطة إيرانية مزعومة لتفجير \"قنبلة قذرة\" في واشنگتن",
+   "summary_ar": "رفض المتحدث باسم وزارة الخارجية الإيرانية تقريراً لشبكة CNN يتحدث عن خطط إيرانية مفترضة لتفجير \"قنبلة قذرة\" في واشنگتن واصفاً المزاعم بأنها \"لا أساس لها\"، بالتزامن مع تحذير أصدره الرئيس الأمريكي دونالد ترامب.",
+   "body_ar": [
+    "نفا المتحدث باسم وزارة الخارجية الإيرانية، في منشور على منصة إكس يوم الثلاثاء، تقريراً لشبكة CNN يفيد بأن إيران تخطط لتفجير \"قنبلة قذرة\" في واشنگتن، واصفاً هذه المزاعم بأنها \"لا أساس لها\". وكانت CNN قد نقلت عن مصادر أن الاستخبارات الأمريكية تشير إلى أن طهران تطور خططاً لاحتمال تفجير قنبلة قذرة في واشنگتن.",
+    "وعقب نشر التقرير، حذر الرئيس الأمريكي دونالد ترامب إيران من شن هجمات، قائلاً إنهم \"سيدفعون ثمناً لم يدفعه أي بلد من قبل\"."
    ]
   },
   {
@@ -369,37 +575,6 @@
    ]
   },
   {
-   "id": "0bc58c58256b",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045143/west-banks-displaced-palestinians-hold-little-hope-for-post-netanyahu-era",
-   "date": "2026-11-17T06:54:59Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "West Bank’s displaced Palestinians hold little hope for post-Netanyahu era",
-   "title_en": "West Bank’s displaced Palestinians hold little hope for post-Netanyahu era",
-   "summary_en": "Displaced Palestinians from the Tulkarem camp in the West Bank remain pessimistic about returning home, even as Prime Minister Benjamin Netanyahu faces potential political defeat.",
-   "body_en": [
-    "Following an Israeli military operation last year, thousands were displaced from the Tulkarem camp, with Netanyahu vowing that residents would not be allowed to return. As Netanyahu fights for his political survival after his party lost seats in a general election, former general Gadi Eisenkot has been tasked with forming a new government.",
-    "Despite the prospect of a change in leadership, displaced residents and local committees remain sceptical, noting that underlying policies toward Palestinians are unlikely to shift. Meanwhile, many displaced families continue to rely on local solidarity groups for daily meals while living in makeshift shelters near the destroyed camp."
-   ],
-   "title_fa": "آوارگان فلسطینی در کرانه باختری امیدی به دوران پس از نتانیاهو ندارند",
-   "summary_fa": "آوارگان فلسطینی اردوگاه طولکرم در کرانه باختری، حتی با وجود چالش‌های سیاسی بنیامین نتانیاهو، نسبت به بازگشت به خانه‌های خود ابراز ناامیدی می‌کنند.",
-   "body_fa": [
-    "بهبالگرد عملیات نظامی سال گذشته اسرائیل، هزاران نفر از اردوگاه طولکرم آواره شدند و بنیامین نتانیاهو اعلام کرد که به ساکنان اجازه بازگشت داده نخواهد شد. در حالی که نتانیاهو پس از از دست دادن کرسی‌های حزبش در انتخابات عمومی برای بقای سیاسی خود می‌جنگد، گادی آیزنکوت مامور تشکیل دولت جدید شده است.",
-    "با وجود احتمال تغییر در رهبری، ساکنان آواره و کمیته‌های محلی همچنان تردید دارند و خاطرنشان می‌کنند که سیاست‌های اساسی در قبال فلسطینیان بعید است تغییر کند. در همین حال، بسیاری از خانواده‌های آوارہ برای تامین وعده‌های غذایی روزانه خود به گروه‌های همبستگی محلی وابسته هستند."
-   ],
-   "title_ar": "الفلسطينيون النازحون في الضفة الغربية لا يملكون إلا القليل من الأمل في حقبة ما بعد نتنياهو",
-   "summary_ar": "لا يزال الفلسطينيون النازحون من مخيم طولكرم في الضفة الغربية متشائمين بشأن العودة إلى ديارهم، حتى مع مواجهة رئيس الوزراء بنيامين نتنياهو لاحتمال الهزيمة السياسية.",
-   "body_ar": [
-    "عقب عملية عسكرية إسرائيلية العام الماضي، نزح الآلاف من مخيم طولكرم، وتعهد نتنياهو بعدم السماح للسكان بالعودة. وفي الوقت الذي يصارع فيه نتنياهو من أجل بقائه السياسي بعد خسارة حزبه مقاعد في الانتخابات العامة، تم تكليف غادي آيزنكوت بتشكيل حكومة جديدة.",
-    "على الرغم من احتمال تغيير القيادة، يظل السكان النازحون واللجان المحلية متشككين، مشيرين إلى أنه من غير المرجح أن تتغير السياسات الأساسية تجاه الفلسطينيين. وفي الوقت نفسه، تواصل العديد من العائلات النازحة الاعتماد على مجموعات التضامن المحلية للحصول على وجبات الطعام اليومية."
-   ]
-  },
-  {
    "id": "82cb28539487",
    "lang": "en",
    "source": "Dawn",
@@ -427,37 +602,6 @@
    "body_ar": [
     "أوضحت زهرا نادر، رئيسة تحرير منصة «زن تایمز»، أن الصحفيات في أفغانستان يواجهن قيوداً شديدة، بما في ذلك حظر التعليم والسفر دون محرم والتنقل المستقل. على الرغم من هذه المخاطر، تواصل المراسلات المحليآت توثيق الانتهاكات، مثل ارتفاع معدلات أفلات مرتكبي جرائم قتل النساء من العقاب، ونقل المعلومات إلى غرفة الأخبار في المنفى.",
     "لحماية مراسلاتها، تمنح المنصة الأولوية للأمن الرقمي، ودعم الصحة النفسية، وبروتوكولات السلامة مثل استخدام الهواتف المؤقتة والقصص البديلة. وأكدت نادر أنه يجب على وسائل الإعلام والحكومات الدولية الاعتراف بالصحفيات الأفغانيات المحليآت كزميلات أساسيات وتجنب تبييض سياسات طالبان."
-   ]
-  },
-  {
-   "id": "e4469ca7e6b8",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
-   "date": "2026-11-17T05:50:29Z",
-   "countries": [
-    "ISR",
-    "LBN"
-   ],
-   "score": 5,
-   "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-   "title_en": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-   "summary_en": "Children in southern Lebanon continue to bear the severe physical and psychological toll of ongoing Israeli attacks, facing displacement, loss of family members, and acute food insecurity.",
-   "body_en": [
-    "Months after deadly strikes hit southern Lebanese villages, child survivors are grappling with the loss of parents and siblings. According to United Nations figures, hundreds of children have been killed and thousands injured since the escalation of the conflict.",
-    "The broader crisis, marked by widespread economic collapse and ruined infrastructure, has left more than one million people in Lebanon facing acute food insecurity. Orphanages and local families in the region are struggling to cope with damaged housing and severe shortages of basic resources."
-   ],
-   "title_fa": "روایت‌های بقا و درد: کودکان در میان جنگ اسرائیل علیه جنوب لبنان",
-   "summary_fa": "کودکان در جنوب لبنان همچنان هزینه‌های سنگین روحی و جسمی ناشی از حملات مداوم اسرائیل را تحمل می‌کنند و با آوارگی، از دست دادن اعضای خانواده و ناامنی شدید غذایی روبه‌رو هستند.",
-   "body_fa": [
-    "ماه‌ها پس از حملات مرگبار به روستاهای جنوب لبنان، کودکان بازمانده با غم از دست دادن والدین و خواهران و برادران خود دست‌وپنجه نرم می‌کنند. بر اساس آمارهای سازمان ملل متحد، صدها کودک کشته و هزاران نفر زخمی شده‌اند.",
-    "برانگیخته شدن بحران گسترده‌ای که با فروپاشی اقتصادی و تخریب زیرساخت‌ها همراه است، بیش از یک میلیون نفر در لبنان را با سطح بحرانی از ناامنی غذایی روبه‌رو کرده است. یتیم‌خانه‌ها و خانواده‌های محلی در این منطقه برای مقابله با کمبودهای شدید تلاش می‌کنند."
-   ],
-   "title_ar": "قصص البقاء والألم: أطفال وسط حرب إسرائيل على جنوب لبنان",
-   "summary_ar": "يواصل الأطفال في جنوب لبنان تحمل التكاليف الجسدية والنفسية الباهظة للهجمات الإسرائيلية المستمرة، حيث يواجهون النزوح وفقدان أفراد العائلة وانعدام الأمن الغذائي الحاد.",
-   "body_ar": [
-    "بعد أشهر من الضربات المميتة التي استهدفت قرى جنوب لبنان، يعاني الأطفال الناجون من فقدان الآباء والأشقاء. ووفقاً لأمم المتحدة، قُتل مئات الأطفال وأُصيب الآلاف منذ تصعيد الصراع.",
-    "وقد أدت الأزمة الأوسع نطاقاً، التي اتسمت بانهيار اقتصادي وبنية تحتية مدمرة، إلى مواجهة أكثر من مليون شخص في لبنان مستويات حرجة من انعدام الأمن الغذائي. وتكافح دور الأيتام والعائلات المحلية للتعامل مع النقص الحاد في الموارد الأساسية."
    ]
   },
   {
@@ -645,64 +789,6 @@
    ]
   },
   {
-   "id": "bd5c8f0a3c06",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/casualties-israeli-settler-attack-rises",
-   "date": "2026-11-17T01:21:24Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Casualties in Israeli settler attack rises",
-   "title_en": "Casualties in Israeli settler attack rises",
-   "summary_en": "Following an Israeli settler shooting at Palestinians in the village of al-Duyuk al-Tahta near Jericho, a 60-year-old woman was killed and several others were wounded.",
-   "body_en": [
-    "According to reports, the total number of wounded in this attack has reached 10, including a 65-year-old man."
-   ],
-   "title_fa": "افزایش تلفات در حمله شهرک‌نشینان اسرائیلی",
-   "summary_fa": "در پی تیراندازی شهرک‌نشینان اسرائیلی به فلسطینیان در روستای الدیوک التحتا در نزدیکی اریحا، یک زن ۶۰ ساله کشته و چندین نفر دیگر زخمی شدند.",
-   "body_fa": [
-    "بر اساس گزارش‌ها، شمار کل مجروحان این حمله به ۱۰ نفر رسیده که شامل یک مرد ۶۵ ساله نیز می‌شود."
-   ],
-   "title_ar": "ارتفاع عدد الضحايا في هجوم المستوطنين الإسرائيليين",
-   "summary_ar": "إثر إطلاق نار من قبل مستوطنين إسرائيليين على فلسطينيين في قرية الديوك التحتا قرب أريحا، قتلت امرأة يبلغ عمرها 60 عاماً وأصيب آخرون.",
-   "body_ar": [
-    "وفقاً التقارير، بلغ إجمالي عدد الجرحى في هذا الهجوم 10 أشخاص، بما في ذلك رجل يبلغ من العمر 65 عاماً."
-   ]
-  },
-  {
-   "id": "4f0f9768d53a",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c6m2ly8n3nk4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T01:03:37Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 6,
-   "title": "روسیه چگونه از جنگ و محاصره ایران سود می‌برد؟",
-   "title_en": "How Russia benefits from the war and blockade of Iran",
-   "summary_en": "According to analysts, Russia benefits from the war and the US blockade of Iran through increased oil revenues, strengthening economic and political influence, and expanding trade cooperation.",
-   "body_en": [
-    "With the blockade of Iran's southern ports, Moscow has utilized increased maritime traffic in the Caspian Sea to transfer military equipment and purchase Russian grain.",
-    "Experts believe that Iran's isolation has increased its dependence on Russia, and the Kremlin is striving to expand its influence in Iran's energy projects despite financial challenges."
-   ],
-   "title_fa": "روسیه چگونه از جنگ و محاصره ایران سود می‌برد؟",
-   "summary_fa": "به گفته تحلیلگران، روسیه از جنگ و محاصره ایران توسط آمریکا از طریق افزایش درآمدهای نفتی، تقویت نفوذ اقتصادی و سیاسی و گسترش همکاری‌های تجاری سود می‌برد.",
-   "body_fa": [
-    "با اعمال محاصره بنادر جنوبی ایران، مسکو از افزایش رفت‌وآمدهای دریایی در دریای خزر برای انتقال تجهیزات نظامی و خرید غلات روسیه بهره‌برداری کرده است.",
-    "کارشناسان بر این باورند که انزوای ایران وابستگی این کشور را به روسیه افزایش داده و کرملین تلاش می‌کند تا با وجود چالش‌های مالی، نفوذ خود را در پروژه‌های انرژی ایران گسترش دهد."
-   ],
-   "title_ar": "كيف تستفيد روسيا من الحرب ومحاصرة إيران",
-   "summary_ar": "وفقاً للمحللين، تستفيد روسيا من الحرب والحصار الأمريكي على إيران من خلال زيادة عائدات النفط وتعزيز النفوذ الاقتصادي والسياسي وتوسيع التعاون التجاري.",
-   "body_ar": [
-    "مع حصار الموانئ الجنوبية لإيران، استغلت موسكو زيادة حركة المرور البحري في بحر قزوين لنقل المعدات العسكرية وشراء الحبوب الروسية.",
-    "يعتقد الخبراء أن عزلة إيران زادت من اعتمادها على روسيا، ويسعى الكريملين لتوسيع نفوذه في مشاريع الطاقة الإيرانية على الرغم من التحديات المالية."
-   ]
-  },
-  {
    "id": "bcf74afa2471",
    "lang": "en",
    "source": "Al Jazeera",
@@ -730,34 +816,6 @@
    "body_ar": [
     "وأعلنت مسؤولة السياسة الخارجية في الاتحاد الأوروبي، كايا كالاس، أن الدول الأعضاء دعت إلى المضي قدماً في الاتفاق لإيجاد إطار للتجارة والحوار السياسي والتعاون الوثيق مع دمشق. وأوضحت أن الجهاز الدبلوماسي سيعمل على التفاصيل الفنية مع وضع شروط جديدة، تشمل احترام حقوق الإنسان وعدم الاعتراف بالأراضي الأوكرانية والجورجية المحتلة.",
     "ویکشف القرار جهود التكتل لتعزيز الروابط مع القيادة السورية الجديدة برئاسة الرئيس أحمد الشرع بعد سقوط نظام الأسد في ديسمبر 2024. وكان الاتحاد الأوروبي قد رفع العقوبات الاقتصادية المفروضة على سوريا في عام 2025 وأعلن عن حزمة تمويل بقيمة 620 مليون يورو في بداية عام 2026 لدعم تعافي البلاد."
-   ]
-  },
-  {
-   "id": "ebecc93e662a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-shoot-wound-five-palestinians-near-jericho-red-0",
-   "date": "2026-11-16T22:41:17Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says",
-   "title_en": "Israeli settlers shoot, wound five Palestinians near Jericho, Red Crescent says",
-   "summary_en": "According to the Palestinian Red Crescent, five Palestinians were wounded during a shooting by Israeli settlers in the village of al-Duyuk al-Tahta near Jericho.",
-   "body_en": [
-    "The incident took place in the occupied West Bank, and the Red Crescent organization reported the news."
-   ],
-   "title_fa": "هلال احمر: شهرک‌نشینان اسرائیلی پنج فلسطینی را در نزدیکی اریحا زخمی کردند",
-   "summary_fa": "به گزارش هلال احمر فلسطین، پنج فلسطینی در جریان تیراندازی شهرک‌نشینان اسرائیلی در روستای الدیوک التحتا در نزدیکی اریحا زخمی شدند.",
-   "body_fa": [
-    "این رویداد در کرانه باختری اشغالی رخ داده است و سازمان هلال احمر این خبر را اعلام کرده است."
-   ],
-   "title_ar": "الهلال الأحمر: مستوطنون إسرائيليون يصيبون خمسة فلسطينيين قرب أريحا",
-   "summary_ar": "وفقاً للهلال الأحمر الفلسطيني، أصيب خمسة فلسطينيين خلال إطلاق نار من قبل مستوطنين إسرائيليين في قرية الديوك التحتا قرب أريحا.",
-   "body_ar": [
-    "وقعت الحادثة في الضفة الغربية المحتلة، وأعلنت منظمة الهلال الأحمر عن هذا الخبر."
    ]
   },
   {
