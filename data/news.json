@@ -1,7 +1,126 @@
 {
- "updated": "2026-11-17T16:30:13Z",
- "count": 447,
+ "updated": "2026-11-17T19:22:36Z",
+ "count": 450,
  "items": [
+  {
+   "id": "2c71fa91d104",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+   "date": "2026-11-17T17:57:20Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "score": 7,
+   "title": "Israeli forces invade Syrian village leaving homes damaged",
+   "title_en": "Israeli forces invade Syrian village leaving homes damaged",
+   "summary_en": "Israeli forces raided homes in Syria’s Daraa province, damaging residential properties and forcing local families to flee.",
+   "body_en": [
+    "Video footage showed bullet-scarred walls and burned possessions following the Israeli incursions in Daraa. Reports indicated that 23 military vehicles entered the area during the raid."
+   ],
+   "title_fa": "نیروهای اسرائیلی با یورش به روستایی در سوریه خانه‌ها را تخریب کردند",
+   "summary_fa": "نیروهای اسرائیلی با یورش به خانه‌ها در استان درعای سوریه، به املاک مسکونی خسارت وارد کردند و خانواده‌ها را ناچار به فرار ساختند.",
+   "body_fa": [
+    "تصاویر ویدئویی پس از یورش نیروهای اسرائیلی در درعا، دیوارهای گلوله‌باران‌شده و وسایل سوخته ساکنان را نشان می‌دهد. طبق گزارش‌ها، ۲۳ خودروی نظامی در جریان این حمله وارد منطقه شده بودند."
+   ],
+   "title_ar": "قوات إسرائيلية تقتحم قرية سورية وتلحق أضراراً بالمنازل",
+   "summary_ar": "داهمت قوات إسرائيلية منازل في محافظة درعا السورية، مما أسفر عن إلحاق أضرار بالممتلكات السكنية وإجبار العائلات على الفرار.",
+   "body_ar": [
+    "وأظهرت مقاطع مصورة جدراناً مليئة بآثار الرصاص ومقتنيات متفحمة في أعقاب المداهمات الإسرائيلية في درعا. وأفادت التقارير بأن 23 آلية عسكرية دخلت المنطقة أثناء الاقتحام."
+   ]
+  },
+  {
+   "id": "70192f6d7112",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
+   "date": "2026-11-17T17:44:23Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 7,
+   "title": "Bangladesh connects first nuclear power plant to national grid",
+   "title_en": "Bangladesh connects first nuclear power plant to national grid",
+   "summary_en": "Bangladesh has connected its first nuclear power plant at Rooppur to the national electricity grid on a trial basis, supplying an initial 350 MW of power.",
+   "body_en": [
+    "The 2,400 MW facility in the Pabna district was constructed with Russian assistance and comprises two 1,200 MW units. Once fully operational, the plant is expected to meet more than 10% of the country's electricity demand, making Bangladesh the 33rd nation globally to generate nuclear power.",
+    "The initial grid connection will last between eight and ten hours for turbine, generator, and stability tests, according to the Science and Technology Ministry. Under the agreement with the Russian contractor, the first unit will undergo a 10-month testing period before entering full commercial operation."
+   ],
+   "title_fa": "بنگلادش نخستین نیروگاه هسته‌ای خود را به شبکه سراسری برق متصل کرد",
+   "summary_fa": "بنگلادش نخستین نیروگاه هسته‌ای خود در روپور را به صورت آزمایشی به شبکه برق سراسری متصل کرد و در ابتدا ۳۵۰ مگاوات برق تحویل این شبکه داد.",
+   "body_fa": [
+    "این تأسیسات ۲۴۰۰ مگاواتی در ناحیه پابنا با همکاری روسیه احداث شده و شامل دو واحد ۱۲۰۰ مگاواتی است. انتظار می‌رود این نیروگاه پس از بهره‌برداری کامل بیش از ۱۰ درصد نیاز برق کشور را تأمین کند و بنگلادش را به سی‌وسومین تولیدکننده برق هسته‌ای در جهان بدل سازد.",
+    "به گفته وزارت علوم و فناوری، اتصال اولیه برای آزمایش‌های توربین، ژنراتور و پایداری شبکه بین ۸ تا ۱۰ ساعت ادامه خواهد داشت. بر اساس توافق با پیمانکار روس، واحد نخست پیش از آغاز بهره‌برداری تجاری کامل، یک دوره آزمایشی ۱۰ ماهه را پشت سر خواهد گذاشت."
+   ],
+   "title_ar": "بنغلاديش تربط أول محطة للطاقة النووية بشبكتها الوطنية",
+   "summary_ar": "ربطت بنغلاديش أول محطة للطاقة النووية في روبور بالشبكة الوطنية للكهرباء على أساس تجريبي، حيث بدأت بتزويد 350 ميغاواط من الكهرباء مبدئياً.",
+   "body_ar": [
+    "شُيدت المنشأة التي تبلغ قدرتها 2400 ميغاواط في مقاطعة بابنا بدعم روسي، وتتكون من وحدتين قدرة كل منهما 1200 ميغاواط. ومن المتوقع أن تلبي المحطة أكثر من 10% من الطلب على الكهرباء في البلاد بعد تشغيلها بالكامل، لتصبح بنغلاديش الدولة الثالثة والثلاثين عالمياً في توليد الطاقة النووية.",
+    "ووفقاً لوزارة العلوم والتكنولوجيا، سيستمر الربط الأولي بين ثماني وعشر ساعات لإجراء اختبارات التوربين والمولد واستقرار الشبكة. وبموجب الاتفاق مع المقاول الروسي، ستخضع الوحدة الأولى لعملية تشغيل تجريبي لمدة 10 أشهر قبل بدء توليد الكهرباء التجاري بكامل طاقتها."
+   ]
+  },
+  {
+   "id": "ddbe88e354f5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+   "date": "2026-11-17T17:34:27Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+   "title_en": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+   "summary_en": "Iraqi Prime Minister Ali al-Zaidi is travelling to Beirut to discuss economic cooperation and explore alternative crude export routes through Syria to northern Lebanon.",
+   "body_en": [
+    "During the visit, al-Zaidi will meet with top Lebanese officials to discuss bilateral trade and the potential reactivation of a pipeline from Kirkuk through Syria to the port of Tripoli. The initiative aims to provide an export corridor that bypasses the Strait of Hormuz, where shipments have been severely disrupted due to regional conflict.",
+    "The trip follows al-Zaidi's recent talks in Damascus with Syrian President Ahmed al-Sharaa regarding the rehabilitation of the Kirkuk-Baniyas pipeline. Experts note that extending routes to Tripoli offers deepwater port access for larger tankers, though failure to reach an agreement could leave Lebanon bypassed in favor of direct Syrian terminals."
+   ],
+   "title_fa": "نخست‌وزیر عراق در میانه تلاش برای یافتن مسیرهای صادرات نفت فراتر از هرمز به لبنان می‌رود",
+   "summary_fa": "علی الزیدی، نخست‌وزیر عراق، برای گفتگو درباره همکاری‌های اقتصادی و بررسی مسیرهای جایگزین صادرات نفت خام از طریق سوریه به شمال لبنان، راهی بیروت شده است.",
+   "body_fa": [
+    "الزیدی در این سفر با مقامات ارشد لبنانی درباره تجارت دوجانبه و احیای احتمالی خط لوله‌ای از کرکوک از طریق سوریه به بندر طرابلس گفتگو خواهد کرد. هدف از این طرح، دستیابی به مسیری برای صادرات نفت به منظور دور زدن تنگه هرمز است که حمل‌ونقل از آن به دلیل درگیری‌های منطقه‌ای با اختلال جدی مواجه شده است.",
+    "این سفر پس از دیدار اخیر الزیدی با احمد الشرع، رئیس‌جمهور سوریه، در دمشق پیرامون بازسازی خط لوله کرکوک به بانیاس صورت می‌گیرد. به گفته کارشناسان، گسترش این مسیر به طرابلس امکان پهلوگیری نفتکش‌های بزرگ‌تر در آب‌های عمیق را فراهم می‌کند، هرچند عدم توافق ممکن است باعث شود عراق صرفاً به پایانه‌های ساحلی سوریه اتکا کند."
+   ],
+   "title_ar": "رئيس الوزراء العراقي يتوجه إلى لبنان وسط مساعٍ لاستكشاف طرق نفطية خارج مضيق هرمز",
+   "summary_ar": "يتوجه رئيس الوزراء العراقي علي الزيدي إلى بيروت لبحث التعاون الاقتصادي واستكشاف مسارات بديلة لتصدير النفط الخام عبر سوريا إلى شمال لبنان.",
+   "body_ar": [
+    "خلال الزيارة، سيلتقي الزيدي كبار المسؤولين اللبنانيين لبحث التجارة الثنائية وإمكانية إعادة تشغيل خط أنابيب يمتد من كركوك عبر سوريا إلى ميناء طرابلس. ويهدف هذا المشروع إلى توفير ممر لتصدير النفط يتجاوز مضيق هرمز، الذي تعطلت فيه حركة الشحن بشدة جراء النزاع الإقليمي.",
+    "وتأتي الرحلة بعد محادثات أجراها الزيدي مؤخراً في دمشق مع الرئيس السوري أحمد الشرع بشأن إعادة تأهيل خط أنابيب كركوك-بانياس. ويشير خبراء إلى أن تمديد المسار إلى طرابلس يوفر ميزة الأرصفة العميقة لناقلات النفط الأضخم، غير أن عدم التوصل إلى اتفاق قد يدفع إلى تجاوز لبنان والاعتماد فقط على الموانئ السورية."
+   ]
+  },
+  {
+   "id": "fd43296f1cf9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+   "date": "2026-11-17T16:53:25Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+   "title_en": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+   "summary_en": "Yemen’s parliament has unanimously passed legislation designating the Houthis as a terrorist organisation and criminalising their operations and funding.",
+   "body_en": [
+    "The 55-article law, which was submitted to Presidential Leadership Council head Rashad al-Alimi to be signed, introduces stricter penalties including the death penalty for specific offences such as assaulting civilians and targeting international shipping. It also establishes mechanisms to trace and freeze assets linked to the movement.",
+    "The vote follows the resurgence of military clashes across multiple front lines after an extended period of relative calm. Analysts note the legislation formalises a harder government stance, but warn it could complicate future diplomatic negotiations and create severe challenges for humanitarian and commercial operations across divided territories."
+   ],
+   "title_fa": "پارلمان یمن قانون تروریستی اعلام کردن حوثی‌ها را تصویب کرد",
+   "summary_fa": "پارلمان یمن به اتفاق آرا قانونی را تصویب کرد که حوثی‌ها را به عنوان سازمانی تروریستی تعیین کرده و فعالیت‌ها و تأمین مالی آن‌ها را جرم‌انگاری می‌کند.",
+   "body_fa": [
+    "این قانون که شامل ۵۵ ماده است و برای توشیح به رشاد العلیمی، رئیس شورای رهبری ریاست‌جمهوری یمن ارسال شده، مجازات‌های سنگین‌تری از جمله اعدام را برای برخی جرائم نظیر حمله به غیرنظامیان و کشتیرانی بین‌المللی در نظر گرفته است. این مصوبه همچنین سازوکارهایی برای ردیابی و توقیف دارایی‌های وابسته به این گروه تعیین می‌کند.",
+    "این رأی‌گیری در پی تشدید مجدد درگیری‌های نظامی در جبهه‌های مختلف پس از دوره‌ای آرامش نسبی انجام شده است. تحلیلگران معتقدند این قانون موضع سرسختانه‌تر دولت را رسمیت می‌بخشد، اما هشدار می‌دهند که ممکن است مذاکرات سیاسی آتی را پیچیده‌تر کرده و موانعی جدی برای فعالیت‌های بشردوستانه و تجاری میان مناطق تحت کنترل دو طرف ایجاد کند."
+   ],
+   "title_ar": "البرلمان اليمني يقر قانوناً يصنف الحوثيين \"منظمة إرهابية\"",
+   "summary_ar": "أقر البرلمان اليمني بالإجماع قانوناً يصنف الحوثيين \"منظمة إرهابية\" ويجرم أنشطة الجماعة وتمويلها.",
+   "body_ar": [
+    "ويتضمن القانون المكون من 55 مادة، والذي رُفع إلى رئيس مجلس القيادة الرئاسي رشاد العليمي لإقراره، عقوبات مشددة تصل إلى الإعدام في جرائم محددة مثل مهاجمة المدنيين واستهداف الملاحة الدولية. كما يحدد آليات لتتبع وتجميد الأصول المرتبطة بالجماعة.",
+    "ويأتي هذا التصويت عقب تجدد المواجهات العسكرية على جبهات عدة بعد فترة من الهدوء النسبي. ويرى محللون أن التشريع يعكس توجهاً حكومياً أكثر تشدداً، لكنهم حذروا من أنه قد يعقد المفاوضات السياسية المستقبلية ويفرض تحديات على الأنشطة الإنسانية والتجارية بين المناطق المنقسمة."
+   ]
+  },
   {
    "id": "59af207e6b43",
    "lang": "en",
@@ -147,6 +266,36 @@
    "summary_ar": "قُتل خمسة فلسطينيين على الأقل، بينهم طفل يبلغ من العمر ست سنوات، في هجمات إسرائيلية بمختلف أنحاء قطاع غزة يوم الثلاثاء.",
    "body_ar": [
     "وفقاً لمصادر وتقارير طبية، قُتل شخصان من بينهما الطفل إياس النمنم البالغ من العمر ست سنوات في دير البلح، بينما توفي آخرون في خان يونس وبئر النجا وجباليا. كما تم الإبلاغ عن غارات وإصابات أخرى في مخيم النصيرات للاجئين."
+   ]
+  },
+  {
+   "id": "c0ee5a51b69b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-blasts-heard-qeshm-island",
+   "date": "2026-11-17T13:36:31Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iranian media reports blasts heard in Qeshm Island",
+   "title_en": "Iranian media reports blasts heard in Qeshm Island",
+   "summary_en": "Iranian state-aligned media reported that several blasts were heard from the northwest of Qeshm city, with smoke visible over the island.",
+   "body_en": [
+    "According to the Fars News Agency, several blasts were heard from the northwest of Qeshm city.",
+    "The report also noted that smoke was visible over the island."
+   ],
+   "title_fa": "رسانه‌های ایران از گزارش‌هایی درباره شنیده شدن انفجارها در جزیره قشم خبر دادند",
+   "summary_fa": "رسانه‌های ایران گزارش دادند که چندین انفجار از شمال غربی شهر قشم شنیده شده و دودی بر فراز این جزیره قابل مشاهده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری فارس، چندین انفجار از شمال غربی شهر قشم شنیده شده است.",
+    "این گزارش همچنین خاطرنشان کرد که دودی بر فراز این جزیره قابل مشاهده بوده است."
+   ],
+   "title_ar": "وسائل إعلام إيرانية تقارير عن سماع دوي انفجارات في جزيرة قشم",
+   "summary_ar": "أفادت وسائل إعلام إيرانية بسماع عدة انفجارات في شمال غرب مدينة قشم، مع ظهور دخان فوق الجزيرة.",
+   "body_ar": [
+    "وفقاً وكالة أنباء فارس، سُمعت عدة انفجارات من شمال غرب مدينة قشم.",
+    "وأشار التقرير أيضاً إلى أن دخاناً كان مرئياً فوق الجزيرة."
    ]
   },
   {
@@ -332,6 +481,36 @@
    ]
   },
   {
+   "id": "c0f996bc37a2",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+   "date": "2026-11-17T12:00:00Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+   "title_en": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+   "summary_en": "Winter rains in Gaza have flooded makeshift shelters and destroyed food supplies, worsening an already severe humanitarian crisis amid aid restrictions and funding shortfalls.",
+   "body_en": [
+    "Gaza faces a deepening shelter, sanitation, and food security crisis as winter rains damage makeshift camps, destroy scarce food supplies, and leave displaced families struggling. UN agencies warn that critical funding shortfalls and continued restrictions on humanitarian aid are severely hampering the response, leaving over 1.7 million Gazans displaced and 1.4 million facing acute hunger.",
+    "Humanitarian teams are urging the opening of additional crossing points and the entry of durable shelter equipment, noting that bureaucratic delays and strict Israeli security requirements continue to impede the delivery of essential supplies."
+   ],
+   "title_fa": "باران‌های زمستانی بحران غزه را در پی محدودیت دسترسی و کاهش کمک‌ها عمیق‌تر می‌کند",
+   "summary_fa": "باران‌های زمستانی در غزه چادرهای موقت را دچار آب‌گرفتگی کرده و ذخایر غذایی را از بین برده است که این امر بحران انسانی شدید ناشی از محدودیت کمک‌ها را وخیم‌تر می‌کند.",
+   "body_fa": [
+    "غزه با بحران عمیق سرپناه، بهداشت و امنیت غذایی مواجه است؛ زیرا باران‌های زمستانی به اردوگاه‌های موقت آسیب رسانده، ذخایر کمیاب مواد غذایی را نابود کرده و خانواده‌های آواره را در مضیقه گذاشته است. آژانس‌های سازمان ملل هشدار می‌دهند که کمبود شدید بودجه و تداوم محدودیت‌ها بر کمک‌های بشردوستانه، پاسخ‌رسانی را به شدت مختل کرده و بیش از ۱.۷ میلیون نفر را آواره و ۱.۴ میلیون نفر را با گرسنگی حاد روبه‌رو ساخته است.",
+    "تیم‌های بشردوستانه خواستار گشایش گذرگاه‌های بیشتر و ورود تجهیزات بادوام برای سرپناه هستند و خاطرنشان می‌کنند که تأخیرهای بروکراسی و الزامات سخت‌گیرانه امنیتی همچنان مانع از ارسال اقلام ضروری می‌شود."
+   ],
+   "title_ar": "الأمطار الشتوية تعمق أزمة غزة وسط قيود الوصول وتقليص المساعدات",
+   "summary_ar": "أدت الأمطار الشتوية في غزة إلى غرق الملاجئ المؤقتة وتدمير الإمدادات الغذائية، مما فاقم الأزمة الإنسانية الوخيمة وسط قيود المساعدات ونقص التمويل.",
+   "body_ar": [
+    "تُواجه غزة أزمة متفاقمة في الملاجئ والصرف الصحي والأمن الغذائي مع إغراق الأمطار الشتوية المخيمات المؤقتة وتدمير الإمدادات الغذائية الشحيحة، مما يترك العائلات النازحة تعاني. وتحذر وكالات الأمم المتحدة من أن نقص التمويل الحاد والقيود المستمرة على المساعدات الإنسانية تعيق الاستجابة بشدة.",
+    "تحض الفرق الإنسانية على فتح نقاط عبور إضافية ودخول معدات إيواء متينة، مشيرة إلى أن التأخيرات البيروقراطية والمتطلبات الأمنية الإسرائيلية الصارمة لا تزال تعرقل تسليم الإمدادات الأساسية."
+   ]
+  },
+  {
    "id": "da300a15a4c7",
    "lang": "en",
    "source": "Middle East Eye",
@@ -390,6 +569,37 @@
    "body_ar": [
     "نفا المتحدث باسم وزارة الخارجية الإيرانية، في منشور على منصة إكس يوم الثلاثاء، تقريراً لشبكة CNN يفيد بأن إيران تخطط لتفجير \"قنبلة قذرة\" في واشنگتن، واصفاً هذه المزاعم بأنها \"لا أساس لها\". وكانت CNN قد نقلت عن مصادر أن الاستخبارات الأمريكية تشير إلى أن طهران تطور خططاً لاحتمال تفجير قنبلة قذرة في واشنگتن.",
     "وعقب نشر التقرير، حذر الرئيس الأمريكي دونالد ترامب إيران من شن هجمات، قائلاً إنهم \"سيدفعون ثمناً لم يدفعه أي بلد من قبل\"."
+   ]
+  },
+  {
+   "id": "b6f91bbe3b52",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-announces-meeting-iran-says-mediation-efforts-continue",
+   "date": "2026-11-17T10:51:16Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 7,
+   "title": "Qatar announces meeting with Iran and says mediation efforts continue",
+   "title_en": "Qatar announces meeting with Iran and says mediation efforts continue",
+   "summary_en": "Qatar's foreign ministry announced a meeting with Iranian officials to discuss current proposals, insisting that mediation efforts remain ongoing.",
+   "body_en": [
+    "Foreign ministry official Majed al-Ansari told reporters that the meeting with the Iranian side is part of ongoing mediation efforts and an exchange of views on current proposals.",
+    "Al-Ansari added that the discussions aim to reconcile the positions of the parties and urged both Washington and Tehran to avoid any escalation."
+   ],
+   "title_fa": "قطر از دیدار با ایران خبر داد و اعلام کرد تلاش‌های میانجی‌گری ادامه دارد",
+   "summary_fa": "وزارت امور خارجه قطر از برگزاری دیدار با مقام‌های ایرانی برای بررسی پیشنهادهای جاری خبر داد و تأکید کرد که تلاش‌های میانجی‌گری همچنان ادامه دارد.",
+   "body_fa": [
+    "ماجد الانصاری، از مقام‌های وزارت خارجه قطر، به خبرنگاران گفت که این دیدار با طرف ایرانی بخشی از تلاش‌های جاری میانجی‌گری و تبادل نظر درباره پیشنهادهای موجود است.",
+    "وی افزود که این مذاکرات با هدف نزدیک کردن مواضع طرفین انجام می‌شود و از واشنگتن و تهران خواست از هرگونه تنش‌زایی خودداری کنند."
+   ],
+   "title_ar": "قطر تعلن عن اجتماع مع إيران وتؤكد استمرار جهود الوساطة",
+   "summary_ar": "أعلنت وزارة الخارجية القطرية عن عقد اجتماع مع مسؤولين إيرانيين لمناقشة المقترحات الحالية، مؤكدة أن جهود الوساطة لا تزال مستمرة.",
+   "body_ar": [
+    "قال المتحدث باسم وزارة الخارجية القطرية ماجد الأنصاري للصحفيين إن الاجتماع مع الجانب الإيراني يأتي في إطار جهود الوساطة المستمرة وتبادل وجهات النظر حول المقترحات الحالية.",
+    "وأضاف أن المحادثات تهدف إلى تقريب وجهات نظر الأطراف، داعياً واشنطن وطهران إلى تجنب أي تصعيد."
    ]
   },
   {
@@ -575,98 +785,6 @@
    ]
   },
   {
-   "id": "82cb28539487",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045145/afghanistans-war-on-women-how-an-exiled-newsroom-finds-ways-to-support-journalists-under-taliban-rule",
-   "date": "2026-11-17T06:31:18Z",
-   "countries": [
-    "AFG"
-   ],
-   "score": 6,
-   "title": "Afghanistan’s ‘war on women’: How an exiled newsroom finds ways to support journalists under Taliban rule",
-   "title_en": "Afghanistan’s ‘war on women’: How an exiled newsroom finds ways to support journalists under Taliban rule",
-   "summary_en": "Exiled Afghan media outlet Zan Times continues to support and collaborate with women journalists working covertly under the restrictive rule of the Taliban.",
-   "body_en": [
-    "Zahra Nader, editor-in-chief of Zan Times, explained that female journalists in Afghanistan face extreme restrictions, including bans on education, travel without a male guardian, and independent movement. Despite these dangers, local reporters continue to document abuses, such as high rates of impunity for femicide, and pass information to the exiled newsroom.",
-    "To protect its reporters, the outlet prioritizes digital security, mental health support, and safety protocols like using burner phones and cover stories. Nader emphasized that international media and governments must acknowledge local Afghan journalists as essential colleagues and avoid whitewashing the Taliban's policies."
-   ],
-   "title_fa": "«جنگ علیه زنان» در افغانستان: چگونه یک تحریریه تبعیدی راه هایی برای حمایت از روزنامه نگاران تحت حاکمیت طالبان می یابد",
-   "summary_fa": "رسانه تبعیدی افغانستانی «زن تایمز» به حمایت و همکاری با زنان روزنامه‌نگاری که به صورت مخفیانه تحت حکومت محدودکننده طالبان فعالیت می‌کنند، ادامه می‌دهد.",
-   "body_fa": [
-    "زهرا نادر، سردبیر «زن تایمز»، توضیح داد که روزنامه‌نگاران زن در افغانستان با محدودیت‌های شدیدی از جمله ممنوعیت تحصیل، سفر بدون محرم و رفت‌وآمد مستقل روبرو هستند. با وجود این خطرات، خبرنگاران محلی همچنان به مستندسازی تخلفات، از جمله نرخ بالای مصونیت از مجازات برای قتل زنان، ادامه داده و اطلاعات را به تحریریه تبعیدی منتقل می‌کنند.",
-    "این رسانه برای محافظت از خبرنگاران خود، امنیت دیجیتال، حمایت از سلامت روان و پروتکل‌های ایمنی مانند استفاده از تلفن‌های یک‌بارمصرف و داستان‌های پوششی را در اولویت قرار می‌دهد. نادر تاکید کرد که رسانه‌ها و دولت‌های بین‌المللی باید روزنامه‌نگاران محلی افغان را به عنوان همکاران ضروری بشناسند و از سفیدشویی سیاست‌های طالبان خودداری کنند."
-   ],
-   "title_ar": "«حرب ضد النساء» في أفغانستان: كيف تجد غرفة خبرات منفاية سبلًا لدعم الصحفيات في ظل حكم طالبان",
-   "summary_ar": "تواصل منصة «زن تایمز» الإعلامية الأفغانية في المنفى دعم التعاون مع الصحفيات اللائي يعملن سرّاً في ظل حكم طالبان المقيد.",
-   "body_ar": [
-    "أوضحت زهرا نادر، رئيسة تحرير منصة «زن تایمز»، أن الصحفيات في أفغانستان يواجهن قيوداً شديدة، بما في ذلك حظر التعليم والسفر دون محرم والتنقل المستقل. على الرغم من هذه المخاطر، تواصل المراسلات المحليآت توثيق الانتهاكات، مثل ارتفاع معدلات أفلات مرتكبي جرائم قتل النساء من العقاب، ونقل المعلومات إلى غرفة الأخبار في المنفى.",
-    "لحماية مراسلاتها، تمنح المنصة الأولوية للأمن الرقمي، ودعم الصحة النفسية، وبروتوكولات السلامة مثل استخدام الهواتف المؤقتة والقصص البديلة. وأكدت نادر أنه يجب على وسائل الإعلام والحكومات الدولية الاعتراف بالصحفيات الأفغانيات المحليآت كزميلات أساسيات وتجنب تبييض سياسات طالبان."
-   ]
-  },
-  {
-   "id": "fce60b53aa1a",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045137/pakistan-condemns-israeli-attacks-in-syria-calls-for-withdrawal-from-occupied-territories",
-   "date": "2026-11-17T05:31:45Z",
-   "countries": [
-    "ISR",
-    "PAK",
-    "SYR"
-   ],
-   "score": 6,
-   "title": "Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories",
-   "title_en": "Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories",
-   "summary_en": "Pakistan has strongly condemned ongoing Israeli attacks in Syria, urging an immediate end to violations and a withdrawal from occupied areas.",
-   "body_en": [
-    "Addressing the UN Security Council, Pakistan's Permanent Representative to the United Nations, Ambassador Syed Haider Shah, stated that the occupied Golan is Syrian territory under international law. He warned that Israeli violations undermine Syria's security and hinder its post-conflict recovery.",
-    "Pakistan also welcomed international measures to ease economic sanctions on Syria, supported political transition and reconstruction efforts, and called for sustained humanitarian assistance. Additionally, the UN highlighted ongoing dangers from unexploded ordnance and landmines affecting returning displaced populations."
-   ],
-   "title_fa": "پاکستان حملات اسرائیل به سوریه را محکوم کرد و خواستار خروج از اراضی اشغالی شد",
-   "summary_fa": "پاکستان حملات مداوم اسرائیل به سوریه را به شدت محکوم کرد و خواستار پایان فوری تخلفات و خروج از مناطق اشغالی شد.",
-   "body_fa": [
-    "سید حیدر شاه، نماینده دائم پاکستان در سازمان ملل متحد، در سخنرانی خود در شورای امنیت اظهار داشت که جولان اشغالی بر اساس حقوق بین‌الملل بخشی از خاک سوریه است. وی هشدار داد که تخلفات اسرائیل امنیت سوریه را تضعیف کرده و مانع از بهبود آن پس از درگیری می‌شود.",
-    "پاکستان همچنین از اقدامات بین‌المللی برای کاهش تحریم‌های اقتصادی علیه سوریه استقبال کرد، از تلاش‌های انتقال سیاسی و بازسازی حمایت نمود و خواستار کمک‌های بشردوستانه پایدار شد. علاوه بر این، سازمان ملل بر خطرات مداوم ناشی از تسلیحات منفجر نشده و مین‌های زمینی که جمعیت آواره بازگشته را تحت تاثیر قرار می‌دهند، تاکید کرد."
-   ],
-   "title_ar": "باكستان تدين الهواتف الإسرائيلية في سوريا وتطالب بالانسحاب من الأراضي المحتلة",
-   "summary_ar": "دانت باكستان بشدة الهجمات الإسرائيلية المستمرة في سوريا، داعية إلى الوقف الفوري للانتهاكات والانسحاب من المناطق المحتلة.",
-   "body_ar": [
-    "أكد سفير باكستان لدى الأمم المتحدة، سيد حيدر شاه، أمام مجلس الأمن التابع للأمم المتحدة، أن الجولان المحتل هو أراضي سورية بموجب القانون الدولي. وحذر من أن الانتهاكات الإسرائيلية تقوض أمن سوريا وتعرقل تعافيها بعد الصراع.",
-    "كما رحبت باكستان بالتدابير الدولية لتخفيف العقوبات الاقتصادية على سوريا، ودعمت جهود الانتقال السياسي وإعادة الإعمار، وطلبت تقديم المساعدة الإنسانية المستمرة. بالإضافة إلى ذلك، سلطت الأمم المتحدة الضوء على المخاطر المستمرة للذخائر غير المنفجرة والألغام الأرضية التي تؤثر على السكان النازحين العائدين."
-   ]
-  },
-  {
-   "id": "2a1cdae7c61f",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/17/lina-attalah-mada-masr-editor-egypt-independent-media-prison-censorship",
-   "date": "2026-11-17T05:00:06Z",
-   "countries": [
-    "EGY"
-   ],
-   "score": 6,
-   "title": "‘I’m not ready to go to jail’: co-founder of Egypt’s last independent media outlet faces prison",
-   "title_en": "‘I’m not ready to go to jail’: co-founder of Egypt’s last independent media outlet faces prison",
-   "summary_en": "Lina Attalah, co-founder and editor-in-chief of Egypt's Mada Masr, faces a potential prison sentence amid a renewed government crackdown on independent journalism.",
-   "body_en": [
-    "Attalah is facing charges of publishing false news and operating an unlicensed website, carrying a possible year in prison and a fine. The legal threats follow a Cairo court order to shut down Mada Masr and seize its equipment, reflecting an intensifying crackdown that has also targeted other independent outlets and journalists.",
-    "Despite the severe restrictions and the closure of their offices, Attalah and her team continue to hold online editorial meetings and refuse to abandon their journalistic mission within Egypt. International human rights organizations and UN representatives have criticized the escalating assaults on press freedom in the country."
-   ],
-   "title_fa": "«من آماده رفتن به زندان نیستم»: بنیانگذار آخرین رسانه مستقل مصر با حبس روبروست",
-   "summary_fa": "لینا عطاالله، یکی از بنیانگذاران و سردبیر رسانه «مدی مصر»، در پی سرکوب مجدد روزنامه‌نگاری مستقل توسط دولت با احتمال حبس روبرو است.",
-   "body_fa": [
-    "عطاالله با اتهام انتشار اخبار نادرست و فعالیت یک وب‌سایت بدون مجوز روبرو است که می‌تواند به یک سال زندان و جریمه نقدی منجر شود. این تهدیدات حقوقی به دنبال دستور دادگاه قاهره مبنی بر تعطیلی «مدی مصر» و ضبط تجهیزات آن صورت می‌گیرد که بازتاب‌دهنده تشدید سرکوب‌ها علیه سایر رسانه‌ها و روزنامه‌نگاران مستقل است.",
-    "علیرغم محدودیت‌های شدید و بسته شدن دفاترشان، عطاالله و تیمش به برگزاری جلسات تحریریه آنلاین ادامه داده و از رها کردن ماموریت روزنامه‌نگاری خود در مصر خودداری می‌کنند. سازمان‌های بین‌المللی حقوق بشر و نمایندگان سازمان ملل از تشدید حملات به آزادی مطبوعات در این کشور انتقاد کرده‌اند."
-   ],
-   "title_ar": "«أنا لست مستعدة لذهاب إلى السجن»: مؤسسة آخر منصة إعلامية مستقلة في مصر تواجه عقوبة السجن",
-   "summary_ar": "تواجه لينا عطاالله، المؤسسة المشاركة ورئيسة تحرير موقع «مدى مصر»، عقوبة السجن المحتملة وسط حملة قمع حكومية متجددة ضد الصحافة المستقلة.",
-   "body_ar": [
-    "تتواجه عطاالله تهماً بنشر أخبار كاذبة وتشغيل موقع إلكتروني بدون ترخيص، والتي قد توجِب عقوبة السجن لمدة عام وغرامة مالیة. وتأتي هذه التهديدات القانونية في أعقاب قرار صادر عن محكمة في القاهرة بإغلاق موقع «مدى مصر» ومصادرة معداته، مما يعكس حملة قمع متصاعدة استهدفت أيضاً وسائل إعلام وصحفيين مستقلين آخرين.",
-    "على الرغم من القيود الشديدة وإغلاق مكاتبهم، تواصل عطاالله وفريقها عقد اجتماعات تحريرية عبر الإنترنت ويرفضون التخلي عن مهمتهم الصحفية داخل مصر. وقد انتقدت منظمات حقوق الإنسان الدولية وممثلو الأمم المتحدة الاعتداءات المتصاعدة على حرية الصحافة في البلاد."
-   ]
-  },
-  {
    "id": "78f74af01219",
    "lang": "en",
    "source": "Al Jazeera",
@@ -695,37 +813,6 @@
    "body_ar": [
     "أفادت القوات البحرية الإيرانية يوم الإثنين بأن ثلاث ناقلات نفط تعطلت أو اشتعلت فيها النيران إثر اصطدامها بألغام في مياه محظورة ومسارات غير مصرح بها. وفي الوقت نفسه، أبلغت هيئة عمليات التجارة البحرية البريطانية عن تعرض ناقلتين لهجمات في المضيق، إحداهما قبالة عمان والأخرى بمقذوف مجهول، مما أدى لاندلاع حرائق بغرف المحركات دون التحقق من ذلك بشكل مستقل.",
     "وفي إقليم كردستان العراق، دوت صفارات الإنذار يوم الإثنين بعد تحليق طائرة مسيرة فوق حقل خورمور للغاز، دون ورود تقارير عن وقوع أضرار أو ضربات. وكان الإنتاج في المنشأة، التي تغذي محطات توليد الكهرباء المحلية، قد توقف بالفعل في الأسبوع السابق عقب هجوم سابق يُشتبه بأنه نُفذ بمسيرة."
-   ]
-  },
-  {
-   "id": "43496bd42b41",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045061/796-afghans-arrested-in-first-week-of-november",
-   "date": "2026-11-17T01:39:14Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 6,
-   "title": "796 Afghans arrested in first week of November",
-   "title_en": "796 Afghans arrested in first week of November",
-   "summary_en": "Pakistani law enforcement agencies arrested 796 Afghan nationals across several provinces and the capital during the first week of November, according to a report by the UN migration and refugee agencies. The vast majority of those detained were undocumented or held Afghan Citizen Cards.",
-   "body_en": [
-    "The joint UNHCR and IOM update indicated that arrests occurred in Balochistan, Khyber Pakhtunkhwa, Punjab, and Islamabad, with the highest numbers recorded in the districts of Chaghi, Peshawar, and Karachi this year. Undocumented migrants and Afghan Citizen Card holders accounted for 99 percent of the detentions.",
-    "The report added that 4,662 Afghans returned to Afghanistan during the same week, including 809 deportations, representing a decrease in returns compared to late October. Between September 15, 2023, and November 7, more than 2.75 million Afghans have returned from Pakistan."
-   ],
-   "title_fa": "بازداشت ۷۹۶ تبعه افغان در هفته اول نوامبر",
-   "summary_fa": "طبق گزارش نهادهای پناهندگان و مهاجرت سازمان ملل، نهادهای مجری قانون در پاکستان طی هفته اول ماه نوامبر ۷۹۶ تبعه افغان را در چندین ولایت و پایتخت بازداشت کردند. اکثریت قاطع بازداشت‌شدگان افراد بدون مدرک یا دارندگان کارت شهروندی افغانستان بودند.",
-   "body_fa": [
-    "گزارش مشترک کمیساریای عالی پناهندگان و سازمان بین‌المللی مهاجرت نشان می‌دهد که این بازداشت‌ها در بلوچستان، خیبر پختونخوا، پنجاب و اسلام‌آباد انجام شده و بالاترین آمار در سال جاری در مناطق چاغی، پیشاور و کراچی ثبت شده است. مهاجران فاقد مدرک و دارندگان کارت شهروندی افغانستان ۹۹ درصد این بازداشت‌ها را شامل می‌شوند.",
-    "بر اساس این گزارش، در همان هفته ۴۶۶۲ افغان به کشور خود بازگشتند که ۸۰۹ مورد آن اخراج بوده است؛ رقمی که نسبت به اواخر اکتبر کاهش یافته است. از ۱۵ سپتامبر ۲۰۲۳ تا ۷ نوامبر سال جاری، بیش از ۲.۷۵ میلیون افغان از پاکستان بازگشته‌اند."
-   ],
-   "title_ar": "توقيف 796 مواطناً أفغانياً في الأسبوع الأول من نوفمبر",
-   "summary_ar": "أوقفت الأجهزة الأمنية الباكستانية 796 مواطناً أفغانياً في عدة أقاليم والعاصمة خلال الأسبوع الأول من شهر نوفمبر، وفقاً لتقرير صادر عن وكالتي اللاجئين والهجرة التابعتين للأمم المتحدة. ومثّل المهاجرون غير النظاميين وحاملو بطاقة المواطن الأفغاني الغالبية العظمى من الموقوفين.",
-   "body_ar": [
-    "أشار التقرير المشترك لمفوضية اللاجئين ومنظمة الهجرة الدولية إلى أن التوقيفات جرت في بلوشستان وخيبر بختونخوا وبنجاب وإسلام آباد، حيث سجلت مناطق چاغي وبيشاور وكراتشي أعلى معدلات احتجاز هذا العام. وشكل غير المسجلين وحاملو بطاقات المواطن الأفغاني 99 بالمئة من المحتجزين.",
-    "وأضاف التقرير أن 4662 أفغانياً عادوا إلى بلادهم خلال الأسبوع نفسه، منهم 809 حالات ترحيل، وهو ما يعكس انخفاضاً مقارنة بأواخر أكتوبر. ومنذ 15 سبتمبر 2023 حتى 7 نوفمبر الجاري، عاد أكثر من 2.75 مليون شخص إلى أفغانستان."
    ]
   },
   {

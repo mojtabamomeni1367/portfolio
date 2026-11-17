@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:30:13Z",
+ "updated": "2026-11-17T19:22:36Z",
  "items": [
   {
    "id": "13589cb5cce5",
@@ -1803,7 +1803,8 @@
     "PSE"
    ],
    "desc": "Casualties in Israeli settler attack rises Israeli settlers opened fire on Palestinians in the village of al-Duyuk al-Tahta, near Jericho in the occupied West Bank, killing a 60 year-old woman. Meanwhile, more people have been reported as wounded, including a 65 year-old man among the 10 injured.",
-   "score": 5
+   "score": 5,
+   "dup_of": "dba39abea45c"
   },
   {
    "id": "2e62c203eca6",
@@ -2240,8 +2241,7 @@
     "PSE"
    ],
    "desc": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
-   "score": 6,
-   "dup_of": "bd5c8f0a3c06"
+   "score": 6
   },
   {
    "id": "2a1cdae7c61f",
@@ -3361,6 +3361,294 @@
    ],
    "desc": "أقال رئيس الحكومة العراقية علي الزيدي مساء السبت تسعة مسؤولين عقب تحقيق أجرته لجنة حكومية في تهريب للنفط في منطقة جرف الصخر.",
    "score": 6
+  },
+  {
+   "id": "365a55d94169",
+   "title": "Indian limbo skater breaks world record",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+   "date": "2026-11-17T18:47:59Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "An Indian skater broke her own Guinness World Record, limbo skating 50 metres beneath descending poles in 6.86 seconds.",
+   "score": 1
+  },
+  {
+   "id": "a1fc2b7a4056",
+   "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+   "date": "2026-11-17T18:43:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+   "score": 7,
+   "dup_of": "43de0c327b0e"
+  },
+  {
+   "id": "2c71fa91d104",
+   "title": "Israeli forces invade Syrian village leaving homes damaged",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+   "date": "2026-11-17T17:57:20Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "desc": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+   "score": 7
+  },
+  {
+   "id": "ddbe88e354f5",
+   "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+   "date": "2026-11-17T17:34:27Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+   "score": 7
+  },
+  {
+   "id": "6ca89969d594",
+   "title": "Religious ruling revives memories in Israel of Rabin assassination",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+   "date": "2026-11-17T17:33:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Hostility towards Palestinian participation in Israel's government fuels fears of far-right political violence.",
+   "score": 5
+  },
+  {
+   "id": "fd43296f1cf9",
+   "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+   "date": "2026-11-17T16:53:25Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
+   "score": 7
+  },
+  {
+   "id": "8b0198a228d5",
+   "title": "Jerusalem Daily: Deadly settler pogroms persist",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+   "date": "2026-11-17T15:49:11Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
+   "score": 4
+  },
+  {
+   "id": "33ff49f4c679",
+   "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+   "date": "2026-11-17T17:44:07Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu’s disproven fraud allegations Anti-Arab hate speech surged on social media in Israel around the country’s general election last month, digital monitors have said, as politicians including Benjamin Netanyahu levelled disproven allegations against Arab Israeli parties of election fraud. A new report by the Israel-based Brandeis Institute and FakeReporter recorded a deluge of anti-Arab discourse across social media platforms such as X, Facebook, Instagram and TikTok in the days surrounding Israel’s 27 Octobe",
+   "score": 5
+  },
+  {
+   "id": "0cfefa606fd8",
+   "title": "Pakistan fall to India in SAFF final after late heartbreak",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045209/pakistan-fall-to-india-in-saff-final-after-late-heartbreak",
+   "date": "2026-11-17T17:36:16Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Pakistan’s hopes of lifting their maiden SAFF Championship title ended in heartbreak on Tuesday as defending champions India came from behind to secure a 2-1 victory in the final at the National Stadium, extending their record to 10 titles and completing an unprecedented hat-trick of consecutive triumphs. The Shaheens produced an impressive first-half display and looked on course for a historic victory after taking the lead through Alamgir Ghazi in stoppage time. However, the dismissal of defender Junaid Shah early in the second half proved a turning point, allowing India to seize control and ",
+   "score": 1
+  },
+  {
+   "id": "019bf227bda2",
+   "title": "Former KP minister Jhagra among 3 PTI leaders taken into custody despite bail from PHC",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045217/former-kp-minister-jhagra-among-3-pti-leaders-taken-into-custody-despite-bail-from-phc",
+   "date": "2026-11-17T19:09:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: Former Khyber Pakhtunkhwa ministers Taimoor Saleem Jhagra and Kamran Bangash were among three PTI leaders taken into “preventative” custody by police shortly after they were granted interim bail by the high court. Jhagra, Bangash and PTI’s Peshawar president Irfan Saleem had been granted bail until Nov 17 (today) by an anti-terrorism court (ATC) in the 2023 case pertaining to vandalism and arson at the Radio Pakistan building during the May 9 riots . Earlier in the day, an ATC denied the three leaders bail, following which they evaded arrest to reach the Peshawar High Court (PHC). Ch",
+   "score": 6
+  },
+  {
+   "id": "152c1fefbd09",
+   "title": "Over 170 major websites hit by attack, including BBC, Ikea and Air France: report",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045214/over-170-major-websites-hit-by-attack-including-bbc-ikea-and-air-france-report",
+   "date": "2026-11-17T19:00:17Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Nearly 200 major websites, including those of the BBC , HSBC UAE bank, Air France and Ikea were targeted by a malicious cyber attack seeking to steal financial information and infect Apple devices, specialist media reported on Tuesday. Hackers injected corrupted JavaScript code into tools hosted by Optimizely, a digital platform used by major companies to customise users’ online experiences, Cyber News reported, with some 178 websites targeted. “The list includes some of the most visited sites in the world: Zoom, the BBC , CNN , Salesforce, GitLab, Ikea, HSBC (UAE), Equifax, Air France-KLM, Le",
+   "score": 2
+  },
+  {
+   "id": "8211bd50a090",
+   "title": "Petrol price reduced by Rs3 per litre, diesel remains unchanged",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045206/petrol-price-reduced-by-rs3-per-litre-diesel-remains-unchanged",
+   "date": "2026-11-17T16:53:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "b8e6f200e589",
+   "title": "Rs24bn additional QTA proposed by Discos draws protest from industrial consumers",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045200/rs24bn-additional-qta-proposed-by-discos-draws-protest-from-industrial-consumers",
+   "date": "2026-11-17T16:37:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Industrial consumers on Tuesday protested over a Rs24 billion additional quarterly tariff burden proposed by power companies due to higher capacity charges, variable operation and maintenance (O&M) costs and the impact of system losses, resulting in an estimated tariff impact of around Rs1.30 per unit for three months. A brief intervention from the power division, represented by the chief financial officer (CFO) of the Power Planning and Monitoring Company (PPMC), Naveed Qaisar, was the request at a public hearing that the additional quarterly tariff adjustment (QTA) be applied begi",
+   "score": 3
+  },
+  {
+   "id": "ee0e56ff6c91",
+   "title": "Pakistan’s pace trio routs Sri Lanka for 98 before hosts take control",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045154/pakistans-pace-trio-routs-sri-lanka-for-98-before-hosts-take-control",
+   "date": "2026-11-17T16:15:11Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan’s fast bowlers dismissed Sri Lanka for a paltry 98 before the home side reached 121-3 on the opening day of the second Test at the Rawalpindi Cricket Stadium on Tuesday, taking a 23-run lead into the close of play. Mohammad Abbas, Razaullah and Aamer Jamal claimed three wickets apiece as Sri Lanka were bowled out in 35.3 overs after Pakistan won the toss and elected to field on a green-tinged pitch. The visitors’ innings was the lowest total by any team at the venue, surpassing England’s 112 there last year. Pakistan’s reply was built around an 80-run opening partnership between Tayya",
+   "score": 1
+  },
+  {
+   "id": "91eeef23a4b6",
+   "title": "All-too fallible: On India’s vote against moratorium on death penalty",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
+   "date": "2026-11-17T18:26:51Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Death penalty requires a near-infallible criminal justice system",
+   "score": 4
+  },
+  {
+   "id": "17a6b40935bf",
+   "title": "U.K. sanctions Israeli companies building West Bank settlements",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/uk-sanctions-israeli-companies-building-west-bank-settlements/article71713186.ece",
+   "date": "2026-11-17T18:11:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The long-discussed E1 project would effectively cut off eastern Jerusalem from Palestinian population centres in the occupied West Bank, harming the prospects for a viable independent Palestinian state, Britain says",
+   "score": 7,
+   "dup_of": "4b6f10c89569"
+  },
+  {
+   "id": "df65ece606bd",
+   "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-at-62/article71713180.ece",
+   "date": "2026-11-17T17:57:24Z",
+   "countries": [
+    "BHR"
+   ],
+   "desc": "",
+   "score": 6,
+   "dup_of": "7c29d533f5f7"
+  },
+  {
+   "id": "eec5f88df959",
+   "title": "Iran targets Bahrain, slams 'fabricated' dirty-bomb report",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-targets-bahrain-slams-fabricated-dirty-bomb-report/article71713177.ece",
+   "date": "2026-11-17T17:46:56Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Mediator Qatar urged \"all parties\" to show restraint following an uptick in hostilities, with Bahrain targeted three times in five days after a lull in Iranian attacks on Gulf countries since September",
+   "score": 7,
+   "dup_of": "8e1988d9f4fa"
+  },
+  {
+   "id": "70192f6d7112",
+   "title": "Bangladesh connects first nuclear power plant to national grid",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece",
+   "date": "2026-11-17T17:44:23Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The development comes as the South Asian nation of 170 million people grapples with a fuel crisis triggered by the conflict in West Asia",
+   "score": 7
+  },
+  {
+   "id": "bedb55224b06",
+   "title": "ما قصة الأب المتهم بقتل طفليه في مصر؟ ومن يحمي الأطفال من عنف الآباء؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqe85y0m7r61o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:22:47Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "حالة من الجدل والغضب في مصر بعد واقعة اعتداء رجل على طفليه حتى موتهما.",
+   "score": 2
+  },
+  {
+   "id": "444402ab23f5",
+   "title": "الحوثيون يعلنون مقتل 14 على الأقل في غارات سعودية على الحديدة، والتحالف يعلن إسقاط مسيرة في منطقة الرياض",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmde1k1z4dd6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:39:43Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "أفادت وسيلتا إعلام تابعتان للحوثيين، بأن التحالف الذي تقوده السعودية شنّ غارات دامية على محافظتي الحديدة وصعدة وصنعاء.",
+   "score": 8,
+   "dup_of": "825b9a6a5bb3"
   }
  ]
 }
