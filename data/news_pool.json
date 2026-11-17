@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:41:52Z",
+ "updated": "2026-11-17T13:36:01Z",
  "items": [
   {
    "id": "13589cb5cce5",
@@ -2578,6 +2578,321 @@
    "desc": "تقول بريطانيا وأستراليا وكندا وإيطاليا إن السلطات الإسرائيلية تحتجز إمدادات حيوية عند الحدود، من بينها 150 ألف خيمة.",
    "score": 8,
    "dup_of": "735bc3150eb4"
+  },
+  {
+   "id": "43de0c327b0e",
+   "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T13:02:17Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+   "score": 7
+  },
+  {
+   "id": "4b6f10c89569",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T13:10:06Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "score": 7
+  },
+  {
+   "id": "12f0f249c161",
+   "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+   "date": "2026-11-17T12:55:07Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+   "score": 2
+  },
+  {
+   "id": "b0aab3ed9431",
+   "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+   "date": "2026-11-17T12:50:12Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
+   "score": 8
+  },
+  {
+   "id": "da13ec7e3bd6",
+   "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+   "date": "2026-11-17T12:33:51Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+   "score": 8
+  },
+  {
+   "id": "64ca17aef39e",
+   "title": "India vs Pakistan live: SAFF Championship final",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
+   "date": "2026-11-17T12:00:00Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Follow updates from the match, including the build-up, analysis and text commentary.",
+   "score": 1
+  },
+  {
+   "id": "3e64cb8bc06d",
+   "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+   "date": "2026-11-17T11:19:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Two vessels have caught fire after hitting a naval mine in the Strait of Hormuz.",
+   "score": 9,
+   "dup_of": "63f4db36a1cd"
+  },
+  {
+   "id": "6b0f5e4bf049",
+   "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
+   "date": "2026-11-17T11:17:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Talk of new provinces has gathered pace, but there is no formal proposal or agreement among governing parties.",
+   "score": 7,
+   "dup_of": "74fd339f4076"
+  },
+  {
+   "id": "49b7ae670bfb",
+   "title": "Bangladesh police clash with garment workers amid protests over wages",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+   "date": "2026-11-17T11:06:12Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+   "score": 6,
+   "dup_of": "cae1520d612f"
+  },
+  {
+   "id": "2bbd1e0c1bdc",
+   "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+   "date": "2026-11-17T10:53:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+   "score": 4
+  },
+  {
+   "id": "0a0e369d3f8b",
+   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+   "date": "2026-11-17T12:18:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent settlements that destroy the chances of a two-state solution. The UK foreign secretary also announced he was placing sanctions on a rightwing activist Israeli group involved in trying to block aid into Gaza as recently as last month. Continue reading...",
+   "score": 7,
+   "dup_of": "4b6f10c89569"
+  },
+  {
+   "id": "7e594d07229f",
+   "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
+   "date": "2026-11-17T11:00:35Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of suffering and devastation. A sliver of hope is the trio of doctors it profiles, individuals acting on their conscience. (The same can be said of director Poh Si Teng , who quit her job at ABC News and cashed in her savings to get the documentary off the ground.) It follows three American doctors who sign up to volunt",
+   "score": 3
+  },
+  {
+   "id": "da15759c1f0c",
+   "title": "In hard-hitting speech, Bilawal says system was ‘made to collapse’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045176/in-hard-hitting-speech-bilawal-says-system-was-made-to-collapse",
+   "date": "2026-11-17T13:20:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Amid debate on a “system reset” in the country, PPP Chairman Bilawal Bhutto-Zardari said on Tuesday that the governance system had not collapsed, but was rather “made to collapse”. He made the remarks while speaking at the Karachi Press Club. Over the past few months, Interior Minister Mohsin Naqvi has whipped up a political storm since he called for the formation of new administrative units in the country, saying the current “system” of governance had “collapsed” and needed a “reset”. Recalling Naqvi’s remarks, Bilawal said, “Nobody objects that the system has collapsed, but there is no discu",
+   "score": 5
+  },
+  {
+   "id": "dfc9f591f425",
+   "title": "Pakistan discusses avenues for enhancing bilateral defence cooperation with UK, Turkiye",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045178/pakistan-discusses-avenues-for-enhancing-bilateral-defence-cooperation-with-uk-turkiye",
+   "date": "2026-11-17T13:16:41Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir discussed avenues for enhancing defence cooperation with both the United Kingdom and Turkiye, in separate meetings with the British army chief and the Turkish air chief in Rawalpindi, Inter-Services Public Relations (ISPR) said on Tuesday. According to the military’s media wing, a high-level delegation from the UK, led by Chief of General Staff General Sir Charles Roland Vincent Walker, called on the CDF at General Headquarters (GHQ). The visiting official was presented with a Guard of Honour by a smartly turned",
+   "score": 6
+  },
+  {
+   "id": "a82a576d8074",
+   "title": "Autopsy reveals multiple injuries on teenage domestic worker found dead at FIA official’s residence in Islamabad",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045177/autopsy-reveals-multiple-injuries-on-teenage-domestic-worker-found-dead-at-fia-officials-residence-in-islamabad",
+   "date": "2026-11-17T11:57:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The autopsy report of a 13-year-old domestic worker, who was found dead at the official residence of a senior Federal Investigation Agency (FIA) official on Sunday night, suggests that she had been subjected to repeated physical assaults. According to the first information report (FIR), the girl, identified as Fatima Asghar, allegedly died due to physical torture and violence. The suspects are the FIA official’s dual-national wife and a Qari who worked as a servant at his Islamabad residence. The autopsy report stated that the deceased had died from repeated physical assaults that c",
+   "score": 2
+  },
+  {
+   "id": "45b5dbaf6f72",
+   "title": "FCC directs LDA to stop ‘frivolous litigation’ against family of martyred national hero Rashid Minhas",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045171/fcc-directs-lda-to-stop-frivolous-litigation-against-family-of-martyred-national-hero-rashid-minhas",
+   "date": "2026-11-17T10:47:50Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Federal Constitutional Court (FCC) has strongly rebuked the Lahore Development Authority (LDA) for prolonging the agony of the family of Pakistan Air Force (PAF) Pilot Officer Rashid Minhas Shaheed, recipient of the country’s highest military gallantry award, Nishan-i-Haider, and directed the authority not to squander its resources and public money on “frivolous, vexatious and obnoxious” litigation against individuals. The observation came in a judgment authored by Justice Ali Baqar Najafi, who regretted that the LDA had continued to drag the family of the martyred officer into ",
+   "score": 2
+  },
+  {
+   "id": "11ff7d34a416",
+   "title": "Pakistan, Sri Lanka docked WTC points for slow over-rates in first Test",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045184/pakistan-sri-lanka-docked-wtc-points-for-slow-over-rates-in-first-test",
+   "date": "2026-11-17T12:20:41Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan and Sri Lanka have been penalised for maintaining slow over-rates in the drawn first Test of their two-match ICC World Test Championship (WTC) series, with Pakistan losing five points and Sri Lanka suffering a 15-point deduction. Match referee Dean Cosker of the ICC International Panel imposed the sanctions after Pakistan were found five overs short of the required rate and Sri Lanka 15 overs behind, after time allowances were taken into account. Under the ICC Code of Conduct, players are fined five per cent of their match fees for every over their side falls short, subject to a maxim",
+   "score": 1
+  },
+  {
+   "id": "9a1d1a8c8d08",
+   "title": "Pakistan, Turkmenistan to convene steering committee for TAPI gas pipeline, stress engagement among partner countries",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045170/pakistan-turkmenistan-to-convene-steering-committee-for-tapi-gas-pipeline-stress-engagement-among-partner-countries",
+   "date": "2026-11-17T10:42:21Z",
+   "countries": [
+    "AFG",
+    "IND",
+    "PAK"
+   ],
+   "desc": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday discussed the Turkmenistan-Afghanistan-Pakistan-India (TAPI) gas pipeline with a delegation led by Turkmenistan’s Foreign Minister Rashid Meredov. The discussion took place at the 6th Session of the Pakistan–Turkmenistan Joint Intergovernmental Commission (JIC), which was held in Islamabad on Tuesday. Meredov had arrived in Pakistan ahead of the 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers , held from November 15-16. The two sides recognised “the importance of political engagement among the part",
+   "score": 6
+  },
+  {
+   "id": "fe3c80ab4762",
+   "title": "Pakistan’s pace trio routs Sri Lanka for 98 before openers take control in second Test",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045154/pakistans-pace-trio-routs-sri-lanka-for-98-before-openers-take-control-in-second-test",
+   "date": "2026-11-17T10:34:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan’s fast bowlers produced a devastating display to dismiss Sri Lanka for a paltry 98 on the opening day of the second Test at the Rawalpindi Cricket Stadium on Tuesday, before openers Tayyab Arif and Azan Awais made a confident start to the reply. Sri Lanka, who were asked to bat after Pakistan won the toss, struggled against the pace and movement on offer, losing wickets at regular intervals before being bowled out in 35.3 overs. Pakistan then reached 58 without loss by tea, with Tayyab unbeaten on 34 and Azan on 18, leaving the home side 40 runs behind. The visitors’ innings never rec",
+   "score": 1
+  },
+  {
+   "id": "5bfb58479695",
+   "title": "Fire engulfs glass factory in Karachi's Baldia Town: rescue official",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045174/fire-engulfs-glass-factory-in-karachis-baldia-town-rescue-official",
+   "date": "2026-11-17T11:17:34Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A massive fire broke out at an industrial unit in Karachi’s Baldia Town on Tuesday morning, reportedly during the refilling of an underground oil tank by a tanker, rescue officials said. Rescue-1122 spokesperson Hassaanul Haseeb Khan told Dawn that the organisation’s command and control room received a report of the fire at around 10:36am. He said two fire tenders were initially dispatched to the site, while more were called in later as the scale of the fire became apparent. The spokesperson added that the factory was housed in a two-storey building and manufactured glass products, in",
+   "score": 2
+  },
+  {
+   "id": "e25390b7f4d0",
+   "title": "Fresh unrest in Bangladesh as garment workers protest, block highways for higher wages",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/fresh-unrest-in-bangladesh-as-garment-workers-protest-block-highways-for-higher-wages/article71711657.ece",
+   "date": "2026-11-17T12:59:57Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Police and paramilitary personnel used tear gas shells, sound grenades and batons to disperse protesters who blocked the Dhaka-Aricha, Dhaka-Tangail and Dhaka-Mymensingh highways",
+   "score": 6,
+   "dup_of": "cae1520d612f"
+  },
+  {
+   "id": "d2f76ea6aa4d",
+   "title": "Pakistan, Iran stress sustained engagement, coordination for regional stability",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-iran-stress-sustained-engagement-coordination-for-regional-stability/article71711296.ece",
+   "date": "2026-11-17T11:53:44Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Field Marshal Munir made the remarks during a meeting with a high-level Iranian delegation led by Foreign Minister Abbas Araghchi in Rawalpindi",
+   "score": 7,
+   "dup_of": "3738e9029b3d"
+  },
+  {
+   "id": "7dd176256d63",
+   "title": "إسرائيل استخدمت أداة التعرف على الوجوه التابعة لأمازون لتتبع الفلسطينيين - تقرير في الغارديان",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ck9q87zeed24o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T13:00:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "عرض الصحف يتناول مراقبة جماعية للفلسطينيين من قبل إسرائيل باستخدام خدمات أمازون، وكيف يمكن أن يعيد رئيس وزراء بريطانيا آندي بيرنهام ضبط العلاقات مع الاتحاد الأوروبي، وكيف تمتد جذور فضيحة إنفيديا إلى ما هو أبعد من علاقات هوانغ العاطفية.",
+   "score": 7,
+   "dup_of": "d686c1c7ce7a"
   }
  ]
 }
