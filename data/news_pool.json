@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:33:33Z",
+ "updated": "2026-11-17T04:05:42Z",
  "items": [
   {
    "id": "13589cb5cce5",
@@ -709,7 +709,8 @@
     "PAK"
    ],
    "desc": "Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and the Islamabad High Court (IHC). The letter was shared on the social media platform X by Imran’s lawyer Barrister Salman Safdar, who had met the ex-premier at Adiala jail on Nov 2 and Nov 11 . The letter said that during the Nov 11 meeting, Imran had directed Safdar to “carry his words to your lordships”. “I have conveyed this letter faithfully and ",
-   "score": 6
+   "score": 6,
+   "dup_of": "d6a01bde7685"
   },
   {
    "id": "0597ac1ca7fc",
@@ -871,8 +872,7 @@
     "PAK"
    ],
    "desc": "The Pakistan Tehreek-e-Insaf party founder says court orders on his care were ignored and he ‘may not return alive’.",
-   "score": 7,
-   "dup_of": "3c84f6c83e40"
+   "score": 7
   },
   {
    "id": "f2f31f320b7e",
@@ -2061,6 +2061,131 @@
    ],
    "desc": "در حالی که جنگ و محاصره، گزینه‌های اقتصادی و تجاری ایران را محدودتر کرده است، برخی ناظران روس می‌گویند وابستگی فزاینده تهران به مسکو در حال تبدیل شدن به یکی از مهم‌ترین پیامدهای این بحران است. از تجارت غلات و انرژی گرفته تا مسیرهای ترانزیتی دریای خزر، روسیه در موقعیتی قرار گرفته که می‌تواند نفوذ خود را در ایران افزایش دهد.",
    "score": 6
+  },
+  {
+   "id": "fe940bb87274",
+   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T01:26:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+   "score": 7
+  },
+  {
+   "id": "64178a3da0a5",
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T01:05:44Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "score": 4
+  },
+  {
+   "id": "78f74af01219",
+   "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+   "date": "2026-11-17T03:12:54Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+   "score": 8
+  },
+  {
+   "id": "899257ebfc02",
+   "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+   "date": "2026-11-17T01:38:13Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+   "score": 7,
+   "dup_of": "c697da3e7332"
+  },
+  {
+   "id": "a3071c9e1541",
+   "title": "Flour gets costlier as imports stay insufficient",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045051/flour-gets-costlier-as-imports-stay-insufficient",
+   "date": "2026-11-17T02:26:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Amid a persistent shortfall, the arrival of imported wheat has so far failed to bring any relief to consumers, as wheat and wheat flour prices continue to rise. Retailers jacked up the rates of flour No. 2.5 and fine flour to Rs180 and Rs200 per kg, up by Rs10 per kg, citing an increase in the rates by the millers. So far, more than 100,000 tonnes of wheat have arrived in the country since the last week of October. Initially, the rate of wheat had plunged to Rs130 from Rs140 per kg after the arrival of the first ship carrying 51,000 tonnes on Oct 28. The open market, however, saw grai",
+   "score": 3
+  },
+  {
+   "id": "6ec9dfb54d87",
+   "title": "Punjab govt plans anti-rape legislation, speedy courts",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045071/punjab-govt-plans-anti-rape-legislation-speedy-courts",
+   "date": "2026-11-17T01:53:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Punjab government on Monday announced plans to introduce an anti-rape law and set up “fast-track courts” to ensure speedy trials of cases involving violence against women and children, with a clear timeframe for their disposal. The decision was taken at a meeting chaired by Chief Minister Maryam Nawaz to review measures for the protection of women and children and improve the criminal justice system. “Women and children are among the most vulnerable segments of society and their protection remains a priority. Spec­ialised investigations are essential to securing convictions, while ",
+   "score": 4
+  },
+  {
+   "id": "43496bd42b41",
+   "title": "796 Afghans arrested in first week of November",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045061/796-afghans-arrested-in-first-week-of-november",
+   "date": "2026-11-17T01:39:14Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Law-en­forcement agencies arres­ted 796 Afghan nationals during the first week of November from Balochis­tan, Khyber Pakhtun­kh­­wa, Punjab and Islamabad. According to the latest update released jointly by UNHCR and IOM, the UN Migration Agency, out of all arrests and detentions, Afghan Citizen Card (ACC) holders and undocumented Afghans represented 99 per cent of the total rate of arrest and detentions, and Proof of Registration (PoR) holders represent one per cent. Most of the arrests took place in Balochistan, follo­wed by Khyber-Pakht­u­n­khwa, Punjab and Islamabad. Across the c",
+   "score": 6
+  },
+  {
+   "id": "b728963d8e97",
+   "title": "Israeli leaders slam Netanyahu’s ‘attempted election coup’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045063/israeli-leaders-slam-netanyahus-attempted-election-coup",
+   "date": "2026-11-17T03:03:36Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "• Reports say PM’s office ‘tried to frame’ Arab-Israeli party members on eve of polls; three freed as allegations prove baseless • Attorney general blocks Shin Bet bid to wiretap Joint List leaders • Opposition calls for probe JERUSALEM: Israeli opposition leaders denou­nced on Monday what they called an “attempted coup” following reports that outgoing Prime Minis­­ter Ben­jamin Netanyahu’s office tried to frame members of an Arab-Israeli party ahead of recent elections. “As more and more details come to light, it becomes clear: this wasn’t an attempt to disrupt the elections. It was an attemp",
+   "score": 7,
+   "dup_of": "612bc5c0dffc"
+  },
+  {
+   "id": "d9dac5abe7bc",
+   "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
+   "date": "2026-11-16T00:06:23Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February",
+   "score": 8,
+   "dup_of": "c697da3e7332"
   }
  ]
 }
