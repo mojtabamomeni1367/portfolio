@@ -1,7 +1,69 @@
 {
- "updated": "2026-11-17T04:05:42Z",
- "count": 428,
+ "updated": "2026-11-17T07:43:00Z",
+ "count": 430,
  "items": [
+  {
+   "id": "0bc58c58256b",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045143/west-banks-displaced-palestinians-hold-little-hope-for-post-netanyahu-era",
+   "date": "2026-11-17T06:54:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "West Bank’s displaced Palestinians hold little hope for post-Netanyahu era",
+   "title_en": "West Bank’s displaced Palestinians hold little hope for post-Netanyahu era",
+   "summary_en": "Displaced Palestinians from the Tulkarem camp in the West Bank remain pessimistic about returning home, even as Prime Minister Benjamin Netanyahu faces potential political defeat.",
+   "body_en": [
+    "Following an Israeli military operation last year, thousands were displaced from the Tulkarem camp, with Netanyahu vowing that residents would not be allowed to return. As Netanyahu fights for his political survival after his party lost seats in a general election, former general Gadi Eisenkot has been tasked with forming a new government.",
+    "Despite the prospect of a change in leadership, displaced residents and local committees remain sceptical, noting that underlying policies toward Palestinians are unlikely to shift. Meanwhile, many displaced families continue to rely on local solidarity groups for daily meals while living in makeshift shelters near the destroyed camp."
+   ],
+   "title_fa": "آوارگان فلسطینی در کرانه باختری امیدی به دوران پس از نتانیاهو ندارند",
+   "summary_fa": "آوارگان فلسطینی اردوگاه طولکرم در کرانه باختری، حتی با وجود چالش‌های سیاسی بنیامین نتانیاهو، نسبت به بازگشت به خانه‌های خود ابراز ناامیدی می‌کنند.",
+   "body_fa": [
+    "بهبالگرد عملیات نظامی سال گذشته اسرائیل، هزاران نفر از اردوگاه طولکرم آواره شدند و بنیامین نتانیاهو اعلام کرد که به ساکنان اجازه بازگشت داده نخواهد شد. در حالی که نتانیاهو پس از از دست دادن کرسی‌های حزبش در انتخابات عمومی برای بقای سیاسی خود می‌جنگد، گادی آیزنکوت مامور تشکیل دولت جدید شده است.",
+    "با وجود احتمال تغییر در رهبری، ساکنان آواره و کمیته‌های محلی همچنان تردید دارند و خاطرنشان می‌کنند که سیاست‌های اساسی در قبال فلسطینیان بعید است تغییر کند. در همین حال، بسیاری از خانواده‌های آوارہ برای تامین وعده‌های غذایی روزانه خود به گروه‌های همبستگی محلی وابسته هستند."
+   ],
+   "title_ar": "الفلسطينيون النازحون في الضفة الغربية لا يملكون إلا القليل من الأمل في حقبة ما بعد نتنياهو",
+   "summary_ar": "لا يزال الفلسطينيون النازحون من مخيم طولكرم في الضفة الغربية متشائمين بشأن العودة إلى ديارهم، حتى مع مواجهة رئيس الوزراء بنيامين نتنياهو لاحتمال الهزيمة السياسية.",
+   "body_ar": [
+    "عقب عملية عسكرية إسرائيلية العام الماضي، نزح الآلاف من مخيم طولكرم، وتعهد نتنياهو بعدم السماح للسكان بالعودة. وفي الوقت الذي يصارع فيه نتنياهو من أجل بقائه السياسي بعد خسارة حزبه مقاعد في الانتخابات العامة، تم تكليف غادي آيزنكوت بتشكيل حكومة جديدة.",
+    "على الرغم من احتمال تغيير القيادة، يظل السكان النازحون واللجان المحلية متشككين، مشيرين إلى أنه من غير المرجح أن تتغير السياسات الأساسية تجاه الفلسطينيين. وفي الوقت نفسه، تواصل العديد من العائلات النازحة الاعتماد على مجموعات التضامن المحلية للحصول على وجبات الطعام اليومية."
+   ]
+  },
+  {
+   "id": "e4469ca7e6b8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
+   "date": "2026-11-17T05:50:29Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 5,
+   "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+   "title_en": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+   "summary_en": "Children in southern Lebanon continue to bear the severe physical and psychological toll of ongoing Israeli attacks, facing displacement, loss of family members, and acute food insecurity.",
+   "body_en": [
+    "Months after deadly strikes hit southern Lebanese villages, child survivors are grappling with the loss of parents and siblings. According to United Nations figures, hundreds of children have been killed and thousands injured since the escalation of the conflict.",
+    "The broader crisis, marked by widespread economic collapse and ruined infrastructure, has left more than one million people in Lebanon facing acute food insecurity. Orphanages and local families in the region are struggling to cope with damaged housing and severe shortages of basic resources."
+   ],
+   "title_fa": "روایت‌های بقا و درد: کودکان در میان جنگ اسرائیل علیه جنوب لبنان",
+   "summary_fa": "کودکان در جنوب لبنان همچنان هزینه‌های سنگین روحی و جسمی ناشی از حملات مداوم اسرائیل را تحمل می‌کنند و با آوارگی، از دست دادن اعضای خانواده و ناامنی شدید غذایی روبه‌رو هستند.",
+   "body_fa": [
+    "ماه‌ها پس از حملات مرگبار به روستاهای جنوب لبنان، کودکان بازمانده با غم از دست دادن والدین و خواهران و برادران خود دست‌وپنجه نرم می‌کنند. بر اساس آمارهای سازمان ملل متحد، صدها کودک کشته و هزاران نفر زخمی شده‌اند.",
+    "برانگیخته شدن بحران گسترده‌ای که با فروپاشی اقتصادی و تخریب زیرساخت‌ها همراه است، بیش از یک میلیون نفر در لبنان را با سطح بحرانی از ناامنی غذایی روبه‌رو کرده است. یتیم‌خانه‌ها و خانواده‌های محلی در این منطقه برای مقابله با کمبودهای شدید تلاش می‌کنند."
+   ],
+   "title_ar": "قصص البقاء والألم: أطفال وسط حرب إسرائيل على جنوب لبنان",
+   "summary_ar": "يواصل الأطفال في جنوب لبنان تحمل التكاليف الجسدية والنفسية الباهظة للهجمات الإسرائيلية المستمرة، حيث يواجهون النزوح وفقدان أفراد العائلة وانعدام الأمن الغذائي الحاد.",
+   "body_ar": [
+    "بعد أشهر من الضربات المميتة التي استهدفت قرى جنوب لبنان، يعاني الأطفال الناجون من فقدان الآباء والأشقاء. ووفقاً لأمم المتحدة، قُتل مئات الأطفال وأُصيب الآلاف منذ تصعيد الصراع.",
+    "وقد أدت الأزمة الأوسع نطاقاً، التي اتسمت بانهيار اقتصادي وبنية تحتية مدمرة، إلى مواجهة أكثر من مليون شخص في لبنان مستويات حرجة من انعدام الأمن الغذائي. وتكافح دور الأيتام والعائلات المحلية للتعامل مع النقص الحاد في الموارد الأساسية."
+   ]
+  },
   {
    "id": "78f74af01219",
    "lang": "en",
