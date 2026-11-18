@@ -1,7 +1,127 @@
 {
- "updated": "2026-11-18T13:49:39Z",
- "count": 450,
+ "updated": "2026-11-18T16:24:40Z",
+ "count": 448,
  "items": [
+  {
+   "id": "b9c69386e284",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+   "date": "2026-11-18T15:55:41Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "title_en": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "summary_en": "Following recent military advances, Houthi rebels have moved close to the southern port city of Aden, raising the possibility of a siege rather than a direct storming of the interim government's stronghold.",
+   "body_en": [
+    "Houthi forces advanced toward Aden, the interim capital of the internationally recognised Yemeni government, bolstered by recent successes. Territorial ambitions, regional rivalries, and internal divisions among government forces could influence how the group handles the stronghold.",
+    "The potential fall of Aden is seen as a development that could permanently alter the balance of power within Yemen."
+   ],
+   "title_fa": "یمن: چرا حوثی‌ها ممکن است به جای یورش به عدن، آن را محاصره کنند",
+   "summary_fa": "حوثی‌ها به دنبال پیشروی‌های نظامی اخیر به شهر بندری عدن در جنوب یمن نزدیک شده‌اند و این احتمال وجود دارد که به جای یورش مستقیم، این مقر دولت موقت را محاصره کنند.",
+   "body_fa": [
+    "نیروهای حوثی با پشتوانه موفقیت‌های اخیر به سمت عدن، پایتخت موقت دولت به رسمیت شناخته شده بین‌المللی یمن پیشروی کردند. جاه‌طلبی‌های سرزمینی، رقابت‌های منطقه‌ای و اختلافات داخلی در میان نیروهای دولتی می‌تواند بر نحوه برخورد این گروه با این پایگاه تأثیر بگذارد.",
+    "سقوط احتمالی عدن به عنوان تحولی دیده می‌شود که می‌تواند توازن قوا را در داخل یمن به طور دائم تغییر دهد."
+   ],
+   "title_ar": "اليمن: لماذا قد تحاصر الحوثيون عدن بدلاً من اقتحامها",
+   "summary_ar": "في أعقاب التقدم العسكري الأخير، اقترب الحوثيون من مدينة عدن الساحلية الجنوبية، مما يثيز احتمال فرض حصار عليها بدلاً من اقتحام معقل الحكومة المؤقتة مباشرة.",
+   "body_ar": [
+    "تقدمت قوات الحوثي نحو عدن، العاصمة المؤقتة للحكومة اليمنية المعترف بها دولياً، مدعومة بنجاحاتهم الأخيرة. قد تؤثر الطموحات الإقليمية والتنافسات والانقسامات الداخلية بين القوات الحكومية على كيفية تعامل الجماعة مع هذا المعقل.",
+    "يعتبر السقط المحتمل لعدن تطوراً من شأنه أن يغير ميزان القوى داخل البلاد بشكل دائم."
+   ]
+  },
+  {
+   "id": "bdaf966e025b",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+   "date": "2026-11-18T14:52:31Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "score": 8,
+   "title": "Israeli forces demolish homes in southern Lebanon",
+   "title_en": "Israeli forces demolish homes in southern Lebanon",
+   "summary_en": "Israeli excavators demolished homes in the southern Lebanese village of Zawtar al-Sharqiye, a designated pilot zone for Lebanese army deployment under a June framework agreement.",
+   "body_en": [
+    "The demolition took place in Zawtar al-Sharqiye, where the Lebanese army had previously deployed following an agreement reached with Israel in June. According to reports, ongoing Israeli occupation actions have rendered large portions of the border region uninhabitable."
+   ],
+   "title_fa": "نیروهای اسرائیلی خانه‌ها را در جنوب لبنان تخریب کردند",
+   "summary_fa": "بیل‌های مکانیکی اسرائیل خانه‌های روستای زوطر الشرقیه در جنوب لبنان را تخریب کردند؛ منطقه‌ای که به عنوان یکی از مناطق آزمایشی برای استقرار ارتش لبنان بر اساس توافق ژوئن تعیین شده بود.",
+   "body_fa": [
+    "این تخریب در زوطر الشرقیه رخ داد، جایی که ارتش لبنان پیشتر به دنبال توافق حاصل شده با اسرائیل در ماه ژوئن در آنجا مستقر شده بود. بر اساس گزارش‌ها، اقدامات مداوم اشغالگران اسرائیلی بخش‌های بزرگی از منطقه مرزی را غیرقابل سکونت کرده است."
+   ],
+   "title_ar": "القوات الإسرائيلية تهدم منازل في جنوب لبنان",
+   "summary_ar": "هدمت جرافات إسرائيلية منازل في بلدة زوطر الشرقية بجنوب لبنان، وهي إحدى المناطق التجريبية الأولى لانتشار الجيش اللبناني بموجب اتفاق إطار عمل تم التوصل إليه في يونيو.",
+   "body_ar": [
+    "حدث الهدم في زوطر الشرقية، حيث كان الجيش اللبناني قد انتشر في السابق بموجب اتفاق إطار تم التوصل إليه مع إسرائيل في يونيو. وفقاً للتقارير، جعل الاحتلال الإسرائيلي المستمر أجزاء كبيرة من المنطقة الحدودية غير صالحة للسكن."
+   ]
+  },
+  {
+   "id": "48dc592f6430",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T14:39:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+   "title_en": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+   "summary_en": "Israeli forces launched a new military operation in central Gaza, resulting in the deaths of three Palestinians and prompting families to flee the Nuseirat refugee camp.",
+   "body_en": [
+    "According to hospital officials, the operation involved Israeli tanks operating near Salah al-Din Street, accompanied by drone fire and shelling. An air strike on the town of al-Mughraqa killed one person, while separate attacks across the Gaza Strip added to the death toll.",
+    "Hamas condemned the operation as a flagrant violation of a ceasefire agreement and international humanitarian law. Meanwhile, the Israeli military stated that the operation aimed to eliminate immediate threats to its forces near the demarcated ceasefire line."
+   ],
+   "title_fa": "آوارگی فلسطینیان از اردوگاه آوارگان همزمان با آغاز عملیات اسرائیل در مرکز غزه",
+   "summary_fa": "نیروهای اسرائیلی عملیات نظامی جدیدی را در مرکز غزه آغاز کردند که به کشته شدن سه فلسطینی و فرار خانواده‌ها از اردوگاه آوارگان النصیرات منجر شد.",
+   "body_fa": [
+    "به گفته مقام‌های بیمارستانی، این عملیات شامل فعالیت تانک‌های اسرائیلی در نزدیکی جاده صلاح‌الدین همراه با آتش پهپاد و گلوله‌باران بود. یک حمله هوایی به شهر المغراقه یک نفر را به کشت و حملات دیگر در سراسر نوار غزه به افزایش تلفات انجامید.",
+    "حماس این عملیات را نقض آشکار توافق آتش‌بس و حقوق بین‌الملل بشردوستانه محکوم کرد. در همین حال، ارتش اسرائیل اعلام کرد که هدف این عملیات از بین بردن تهدیدات فوری علیه نیروهای خود در نزدیکی خط مشخص‌شده آتش‌بس بوده است."
+   ],
+   "title_ar": "فلسطينيون يفرون من مخيم للاجئين مع بدء إسرائيل عملية وسط غزه",
+   "summary_ar": "شنت القوات الإسرائيلية عملية عسكرية جديدة وسط غزة، مما أدى إلى مقتل ثلاثة فلسطينيين ودفع العائلات إلى الفرار من مخيم النصيرات للاجئين.",
+   "body_ar": [
+    "وفقاً لمسؤولين في المستشفيات، تضمنت العملية تحرك دبابات إسرائيلية بالقرب من شارع صلاح الدين وسط نيران المسيرات والقصف. وأسفر غارة جوية على بلدة المغراقة عن مقتل شخص واحد، بينما ساهمت هجمات متفرقة في قطاع غزة في ارتفاع عدد الضحايا.",
+    "دانت حماس العملية معتبرة إياها انتهاكاً صارخاً لاتفاق وقف اطلاق النار والقانون الدولي الإنساني. وفي الوقت نفسه، ذكر الجيش الإسرائيلي أن العملية تهدف إلى إزالة التهديدات الفورية لقواته بالقرب من خط وقف إطلاق النار المحدد."
+   ]
+  },
+  {
+   "id": "be3f81a89ea4",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+   "date": "2026-11-18T14:08:08Z",
+   "countries": [
+    "ISR",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+   "title_en": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+   "summary_en": "Analysts say Israel's military incursions and occupation of southern Syria are likely to persist regardless of the outcome of Israel's ongoing government formation efforts.",
+   "body_en": [
+    "Incursions and raids by Israeli forces in Quneitra and Deraa have intensified while caretaker Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot attempt to form a new government. Since the fall of Bashar al-Assad's regime, Israel has occupied key strategic points in southern Syria, increasing pressure on the government led by President Ahmed al-Sharaa.",
+    "Experts note that Israel's strategic security demands in the region remain unchanged, aiming to establish permanent control and leverage ahead of any potential political settlement."
+   ],
+   "title_fa": "«پایان بازی» در سوریه چیست، در حالی که رقبای اسرائیلی به دنبال دولت جدید هستند؟",
+   "summary_fa": "تحلیلگران می‌گویند حملات نظامی و اشغال جنوب سوریه توسط اسرائیل احتمالاً صرف‌نظر از نتیجه تلاش‌های جاری برای تشکیل دولت در اسرائیل ادامه خواهد یافت.",
+   "body_fa": [
+    "تهاجم‌ها و یورش‌های نیروهای اسرائیلی در قنیطره و درعا در حالی شدت گرفته است که بنیامین نتانیاهو، نخست‌وزیر موقت و گادی آیزنکوت، رهبر اپوزیسیون برای تشکیل دولت جدید تلاش می‌کنند. از زمان سقوط حکومت بشار اسد، اسرائیل نقاط استراتژیک کلیدی در جنوب سوریه را اشغال کرده و فشار بر دولت به ریاست احمد الشرع را افزایش داده است.",
+    "کارشناسان خاطرنشان می‌کنند که خواسته‌های امنیتی استراتژیک اسرائیل در منطقه بدون تغییر باقی مانده و هدف آن ایجاد کنترل دائمی و اهرم فشار پیش از هرگونه توافق سیاسی احتمالی است."
+   ],
+   "title_ar": "ما هي «النهاية» في سوريا بينما يبحث المنافسون الإسرائيليون عن حكومة جديدة؟",
+   "summary_ar": "يقول محللون إن التوغل العسكري الإسرائيلي واحتلال جنوب سوريا مرشحان للاستمرار بغض النظر عن نتيجة جهود تشكيل الحكومة الجارية في إسرائيل.",
+   "body_ar": [
+    "تكتسح العمليات والتوغلات التي تنفذها القوات الإسرائيلية في القنيطرة ودرعا بينما يحاول رئيس الوزراء المستقيل بنيامين نتنياهو وزعيم المعارضة غادي آيزنكوت تشكيل حكومة جديدة. ومنذ سقوط نظام بشار أسد، احتلت إسرائيل نقاطاً استراتيجية رئيسية في جنوب سوريا، مما زاد الضغط على الحكومة التي يرأسها الرئيس أحمد الشرع.",
+    "يشير الخبراء إلى أن المطالب الأمنية الاستراتيجية لإسرائيل في المنطقة تظل دون تغيير، بهدف ترسيخ السيطرة الدائمة والقدرة على التفاوض قبل أي تسوية سياسية محتملة."
+   ]
+  },
   {
    "id": "db6b1b176967",
    "lang": "en",
@@ -152,36 +272,6 @@
    "body_ar": [
     "كانت الناقلة «گاس هسکی» التي ترفع علم ليبيريا تحمل 3400 طن متري من الغاز المسال من مصر إلى رومانيا عندما أرسلت إشارة استغاثة وغرقت على بعد نحو 50 ميلاً شرق بيالا، وتم إنقاذ جميع أفراد طاقمها البالغ عددهم 19 فرداً. وأفاد محافظ فارنا الإقليمي ماريو سماركوف بوقوع چهار ضربات، بينما ذكرت مصادر أمن بحري أن السفينة أصابتها منظومة مسيرة.",
     "يأتي هذا الحادث بعد غرق سفينة محملة بالقمح في المنطقة ذاتها قبل يوم واحد، وهو الأحدث في سلسلة هجمات في البحر الأسود أثارت مخاوف وسط الصراع المستمر بين روسيا وأوكرانيا."
-   ]
-  },
-  {
-   "id": "dc7bcd92873e",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
-   "date": "2026-11-18T10:38:13Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-   "title_en": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-   "summary_en": "A New York Times report suggesting Iran's dams may support its missile program has sparked a severe backlash from Iranian officials and several experts cited in the article.",
-   "body_en": [
-    "The article examined geographical links between Iran's water infrastructure and missile sites, leading critics to warn it could be used to justify attacks on civilian facilities. Iranian Foreign Ministry spokesperson Esmaeil Baghaei condemned the report as part of a campaign to manufacture pretexts for targeting vital infrastructure.",
-    "Multiple experts quoted in the piece publicly challenged the paper's conclusions and reasoning. Kaveh Madani, Nima Shokri, and Amir Aghakouchak criticized the report on social media, arguing that spatial proximity does not imply causality and emphasizing that critical water infrastructure must never become a target for military attacks."
-   ],
-   "title_fa": "چرا گزارش نیویورک تایمز درباره سدهای ایران با واکنش‌های شدید روبه‌رو شد؟",
-   "summary_fa": "گزارش روزنامه نیویورک تایمز مبنی بر اینکه سدهای ایران ممکن است از برنامه موشکی این کشور پشتیبانی کنند، با واکنش شدید مقام‌های ایرانی و چندین کارشناس که در این مقاله از آن‌ها نام برده شده، مواجه شد.",
-   "body_fa": [
-    "این مقاله به بررسی پیوندهای جغرافیایی میان زیرساخت‌های آب ایران و سایت‌های موشکی پرداخته بود و منتقدان هشدار دادند که این امر می‌تواند برای توجیه حملات به تأسیسات غیرنظامی استفاده شود. اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، این گزارش را بخشی از کمپینی برای تولید بهانه جهت هدف قرار دادن زیرساخت‌های حیاتی محکوم کرد.",
-    "چندین کارشناس ذکر شده در این مقاله به طور علنی نتیجه‌گیری‌ها و استدلال‌های روزنامه را به چالش کشیدند. کاوه مدنی، نیما شکری و امیر آقاکوچک با انتقاد از این گزارش در شبکه‌های اجتماعی استدلال کردند که مجاورت مکانی به معنای علیت نیست و تأکید کردند که زیرساخت‌های حیاتی آب هرگز نباید هدف حملات نظامی قرار گیرند."
-   ],
-   "title_ar": "لماذا أثار تقرير لصحيفة «نيويورك تايمز» حول سدود إيران ردود فعل غاضبة؟",
-   "summary_ar": "أثار تقرير لصحيفة «نيويورك تايمز» يفيد بأن سدود إيران قد تدعم برنامجها الصاروخي ردود فعل غاضبة وموجة انتقادات واسعة من جانب المسؤولين الإيرانيين وعدد من الخبراء الذين استشهدت بهم المقالة.",
-   "body_ar": [
-    "بحث المقال الروابط الجغرافية بين البنية التحتية للمياه في إيران والمواقع الصاروخية، مما دفع المنتقدي إلى التحذير من أنه قد يُستخدم لتبرير الهجمات على المنشآت المدنية. وقد استنكر المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي التقرير باعتباره جزءاً من حملة لتصنيع ذرائع لاستهداف البنية التحتية الحيوية.",
-    "وقد طعن عدد من الخبراء المذكورين في التقرير علناً في استنتاجات الصحيفة ومنطقها. وانتقد كل من كاوه مدني، نيما شكري، وأمير آقاکوچک التقرير على وسائل التواصل الاجتماعي، مؤكدين أن التقارب المكاني لا يعني بالضرورة وجود علاقة سببية، ومشددين على أنه يجب ألا تصبح البنية التحتية الحيوية للمياه هدفاً للهجمات العسكرية أبداً."
    ]
   },
   {
@@ -519,96 +609,6 @@
    ]
   },
   {
-   "id": "8c4ffabcdb3e",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece",
-   "date": "2026-11-18T05:05:53Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 5,
-   "title": "Nepal gets nod to import 350 MW of power from India during winter",
-   "title_en": "Nepal gets nod to import 350 MW of power from India during winter",
-   "summary_en": "Nepal has received approval from India's Central Electricity Authority to import up to 350 MW of electricity this winter to address domestic power shortages.",
-   "body_en": [
-    "The approval, valid from November 17, 2026, to July 31, 2027, permits the Nepal Electricity Authority to buy power from the Indian Energy Exchange for up to 17 hours daily. Nepal faces seasonal electricity shortfalls in winter due to lower river flows affecting its hydropower plants, a situation exacerbated by flood damage to projects with a total capacity of 431 MW in August.",
-    "Under the agreement, Nepal can import 300 MW via the Kataiya-Kushaha, Ramnagar-Surajpura, and Raxaul-Parwanipur lines, and 50 MW through the New Nautanwa-Mainahiya line. Officials expect Nepal's generation to recover by mid-April as river levels rise."
-   ],
-   "title_fa": "مجوز واردات ۳۵۰ مگاوات برق از هند در زمستان به نپال داده شد",
-   "summary_fa": "نپال مجوز اداره مرکزی برق هند را برای واردات تا ۳۵۰ مگاوات برق در زمستان امسال دریافت کرده است تا کمبود برق داخلی خود را جبران کند.",
-   "body_fa": [
-    "این مجوز که از ۱۷ نوامبر ۲۰۲۶ تا ۳۱ ژوئیه ۲۰۲۷ معتبر است، به اداره برق نپال اجازه می‌دهد تا حداکثر ۱۷ ساعت در روز از بورس انرژی هند برق خریداری کند. نپال در زمستان به دلیل کاهش جریان آب رودخانه‌ها و کاهش تولید نیروگاه‌های آبی با کمبود برق مواجه می‌شود؛ وضعیتی که با خسارات ناشی از سیل مردادماه به نیروگاه‌هایی با ظرفیت ۴۳۱ مگاوات تشدید شده است.",
-    "طبق این توافق، نپال می‌تواند ۳۰۰ مگاوات از طریق خطوط انتقال کتیا-کوشاها، رام‌نگر-سوراجپورا و رکسول-پروانیپور و ۵۰ مگاوات از طریق خط جدید نوتانوا-مایناهیا وارد کند. مقامات انتظار دارند که با افزایش سطح آب رودخانه‌ها از اواسط آوریل، تولید داخلی بهبود یابد."
-   ],
-   "title_ar": "الموافقة لنيبال على استيراد 350 ميغاوات من الكهرباء من الهند خلال الشتاء",
-   "summary_ar": "حصلت نيبال على موافقة من هيئة الكهرباء المركزية الهندية لاستيراد ما يصل إلى 350 ميغاوات من الكهرباء هذا الشتاء لمواجهة النقص في الطاقة المحلية.",
-   "body_ar": [
-    "تسمح هذه الموافقة، الصالحة من 17 نوفمبر 2026 إلى 31 يوليو 2027، لهيئة الكهرباء النيبالية بشراء الكهرباء من بورصة الطاقة الهندية لمدة تصل إلى 17 ساعة يومياً. وتواجه نيبال نقصاً موسمياً في الكهرباء خلال فصل الشتاء بسبب انخفاض منسوب مياه الأنهار مما يؤثر على محطات الكهرومائية، وهو وضع تفاقم بسبب أضرار الفيضانات التي لحقت بمشاريع تبلغ قدرتها الإجمالية 431 ميغاوات في أغسطس.",
-    "وبموجب الاتفاق، يمكن لنيبال استيراد 300 ميغاوات عبر خطوط النقل كاتئيا-كوشاها، ورامناغار-سوراجبورا، وركسول-باروانيبور، و50 ميغاوات عبر خط نيو نوتانوا-ماينا هيا. وويتوقع المسؤولون أن يتحسن الإنتاج المحلي بحلول منتصف أبريل مع ارتفاع منسوب مياه الأنهار."
-   ]
-  },
-  {
-   "id": "253d55efc987",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-   "date": "2026-11-18T05:00:32Z",
-   "countries": [
-    "EGY"
-   ],
-   "score": 6,
-   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-   "title_en": "European Commission accused of sugarcoating figures to release funds to Egypt",
-   "summary_en": "Leaked documents show the European Commission approved €2.5bn in loans to Egypt despite a net reduction in welfare beneficiaries, leading to accusations that it sugarcoated figures to release the funds.",
-   "body_en": [
-    "The accusations stem from a €7.4bn financial package promised to Egypt in 2024 to support its economy and manage migration. Although the EU conditioned €2.5bn of these loans on Egypt expanding its Takaful and Karama welfare programmes, leaked data indicates that the Egyptian government actually removed tens of thousands of households during the specified periods.",
-    "In response to the findings, Dutch MEP Tineke Strik announced plans to demand a formal clarification from the European Commission, accusing it of using financial assistance primarily to secure Egypt's cooperation on migration while treating reporting obligations as a formality."
-   ],
-   "title_fa": "کمیسیون اروپا متهم به زیباسازی آمارها برای آزادسازی کمک‌های مالی به مصر شد",
-   "summary_fa": "اسناد فاش‌شده نشان می‌دهد کمیسیون اروپا با وجود کاهش خالص تعداد بهره‌مندان از رفاه اجتماعی در مصر، وام ۲٫۵ میلیارد یورویی به این کشور را تأیید کرده که این امر منجر به اتهاماتی مبنی بر زیباسازی آمارها برای آزادسازی کمک‌های مالی شده است.",
-   "body_fa": [
-    "این اتهامات از یک بسته مالی ۷٫۴ میلیارد یورویی ناشی می‌شود که در سال ۲۰۲۴ به مصر وعده داده شده بود تا به اقتصاد این کشور کمک کرده و کنترل مهاجرت را تقویت کند. اگرچه اتحادیه اروپا پرداخت ۲٫۵ میلیارد یورو از این وام‌ها را به گسترش برنامه‌های رفاهی «تکافل» و «کرامت» مشروط کرده بود، داده‌های فاش‌شده نشان می‌دهد که دولت مصر در طول دوره‌های مشخص‌شده ده‌ها هزار خانوار را از لیست دریافت‌کنندگان حذف کرده است.",
-    "در پاسخ به این یافته‌ها، تینکه استریک، نماینده هلندی پارلمان اروپا، اعلام کرد که قصد دارد از کمیسیون اروپا توضیحات رسمی بخواهد. وی کمیسیون را متهم کرد که از کمک‌های مالی عمدتاً به عنوان ابزاری برای ترغیب مصر به همکاری‌های مهاجرتی استفاده کرده و الزامات گزارش‌دهی را یک امر تشریفاتی تلقی کرده است."
-   ],
-   "title_ar": "اتتهامات للمفوضية الأوروبية بتجميل الأرقام للإفراج عن أموال لمصر",
-   "summary_ar": "كشفت وثائق تسريب أن المفوضية الأوروبية وافقت على قروض بقيمة 2.5 مليار يورو لمصر على الرغم من انخفاض صافي المستفيدين من الرعاية الاجتماعية، مما أثار اتتهامات بتجميل الأرقام للإفراج عن الأموال.",
-   "body_ar": [
-    "تأتي هذه الاتهامات في إطار حزمة مالية بقيمة 7.4 مليار يورو جرى التعهد بها لمصر في عام 2024 لدعم اقتصادها وإدارة الهجرة. ورغم أن الاتحاد الأوروبي اشترط توسيع برنامجي الرعاية الاجتماعية \"تكافل\" و\"كرامة\" للإفراج عن 2.5 مليار يورو، إلا أن البيانات التسريبية تشير إلى أن الحكومة المصرية استبعدت عشرات الآلاف من الأسرة خلال الفترات المحددة.",
-    "ورداً على هذه النتائج، أعلنت عضوة البرلمان الأوروبي الهولندية تينيكي ستريك أنها تعتزم طلب توضيح رسمي من المفوضية الأوروبية، متهمة إياها باستخدام المساعدات المالية أساساً لضمان التعاون مع مصر في ملف الهجرة وتجاهل الالتزامات التنظيمية."
-   ]
-  },
-  {
-   "id": "4ca835d1beea",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/18/aid-denial-humanitarian-children-save-the-children-un",
-   "date": "2026-11-18T05:00:32Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 5,
-   "title": "Cases of children being denied aid in war zones are soaring, analysis finds",
-   "title_en": "Cases of children being denied aid in war zones are soaring, analysis finds",
-   "summary_en": "A Save the Children analysis reveals a 16-fold increase over the past decade in incidents where aid was deliberately denied to children in conflict zones, with the majority of recorded cases occurring in the occupied Palestinian territory.",
-   "body_en": [
-    "Verified incidents of aid denial to children rose from 509 in 2015 to 8,322 last year, according to the group's evaluation of UN data. Denial of aid now accounts for more than 20% of all recorded UN violations against children in conflict zones, compared to 2% ten years ago.",
-    "The occupied Palestinian territory recorded nearly 6,000 incidents last year, followed by Libya with over 1,000 and Ukraine with 473. State forces were responsible for a significant share of these violations, with Israeli authorities attributed to nearly 90% of incidents in Gaza."
-   ],
-   "title_fa": "بررسی‌ها نشان می‌دهد موارد محروم‌سازی کودکان از کمک‌های بشردوستانه در مناطق جنگی به‌شدت افزایش یافته است",
-   "summary_fa": "تحلیل سازمان نجات کودکان نشان می‌دهد که موارد ممانعت عمدی از رساندن کمک به کودکان در مناطق جنگی طی یک دهه گذشته ۱۶ برابر شده و بیشترین موارد ثبت‌شده در سرزمین‌های اشغالی فلسطین رخ داده است.",
-   "body_fa": [
-    "طبق ارزیابی داده‌های سازمان ملل توسط این نهاد، موارد تأییدشده محروم‌سازی کودکان از کمک‌های بشردوستانه از ۵۰۹ مورد در سال ۲۰۱۵ به ۸,۳۲۲ مورد در سال گذشته رسیده است. ممانعت از ارسال کمک‌ها اکنون بیش از ۲۰ درصد از کل موارد نقض حقوق کودکان در مناطق جنگی ثبت‌شده توسط سازمان ملل را تشکیل می‌دهد، در حالی که این رقم ۱۰ سال پیش ۲ درصد بود.",
-    "سرزمین‌های اشغالی فلسطین با ثبت نزدیک به ۶,۰۰۰ مورد در سال گذشته بیشترین آمار را داشته و پس از آن لیبی با بیش از ۱,۰۰۰ مورد و اوکراین با ۴۷۳ مورد قرار دارند. نیروهای دولتی مسئول بخش عمده‌ای از این موارد نقض بوده‌اند و نزدیک به ۹۰ درصد از موارد رخ‌داده در غزه به مقامات اسرائیلی نسبت داده شده است."
-   ],
-   "title_ar": "تحليل يظهر ارتفاعاً كبيراً في حالات حرمان الأطفال من المساعدات في مناطق النزاع",
-   "summary_ar": "كشف تحليل أجرته منظمة \"إنقاذ الأطفال\" عن ارتفاع حالات حرمان الأطفال العمدي من المساعدات في مناطق النزاع بمقدار 16 ضعفاً خلال العقد الماضي، حيث سجلت غالبية الحالات في الأراضي الفلسطينية المحتلة.",
-   "body_ar": [
-    "وفقاً لتقييم بيانات الأمم المتحدة الذي أجرته المنظمة، ارتفعت الحالات الموثقة لحرمان الأطفال من المساعدات من 509 حالات في عام 2015 إلى 8,322 حالة العام الماضي. وبات حرمان المساعدات يشكل أكثر من 20% من إجمالي انتهاكات حقوق الأطفال في مناطق النزاع المسجلة لدى الأمم المتحدة، مقارنة بـ 2% قبل عشر سنوات.",
-    "وسجلت الأراضي الفلسطينية المحتلة ما يقارب 6,000 حالة العام الماضي، تليها ليبيا بأكثر من 1,000 حالة وأوكرانيا بـ 473 حالة. وكانت القوات الحكومية مسؤولة عن نسبة كبيرة من هذه الانتهاكات، حيث نُسب نحو 90% من الحالات في غزة إلى السلطات الإسرائيلية."
-   ]
-  },
-  {
    "id": "34812afac42f",
    "lang": "en",
    "source": "Middle East Eye",
@@ -728,37 +728,6 @@
    ]
   },
   {
-   "id": "a07918a43ad6",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045288/",
-   "date": "2026-11-18T00:38:45Z",
-   "countries": [
-    "PAK",
-    "SAU"
-   ],
-   "score": 5,
-   "title": "Saudi firm eyes $30bn energy deal",
-   "title_en": "Saudi firm eyes $30bn energy deal",
-   "summary_en": "Saudi company Delta Energy Saudi has signed an agreement with Pakistan's Inter State Gas Systems to explore energy infrastructure projects worth a proposed $30 billion.",
-   "body_en": [
-    "The agreement establishes a framework to evaluate building a natural gas pipeline entering western Pakistan toward Gwadar, along with potential extensions to the eastern border near Fazilka via Chaman. The proposed infrastructure includes LNG facilities, gas storage, and export terminals.",
-    "Delta Energy stated that the supplies could draw from Afghanistan's Kashk gas concession and clarified that the initiative is separate from the Turkmenistan-Afghanistan-Pakistan-India project. The current agreement does not represent a final investment decision or a formal commitment to construct the projects."
-   ],
-   "title_fa": "شرکت سعودی در پی قرارداد انرژی ۳۰ میلیارد دلاری",
-   "summary_fa": "شرکت عربستانی دلتا انرژی با شرکت سیستم‌های گاز بین‌المللی پاکستان قراردادی امضا کرده است تا پروژه‌های زیرساخت انرژی به ارزش پیشنهادی حدود ۳۰ میلیارد دلار را بررسی کند.",
-   "body_fa": [
-    "این توافق‌نامه چارچوبی را برای ارزیابی احداث یک خط لوله انتقال گاز طبیعی که از مرزهای غربی وارد پاکستان شده و به سمت بندر گوادر امتداد می‌یابد، به همراه احتمال تمدید آن به مرزهای شرقی در نزدیکی فازیلکا از طریق چمن فراهم می‌کند. این زیرساخت پیشنهادی شامل تأسیسات گاز مایع (LNG)، ذخیره‌سازی گاز و ترمینال‌های صادراتی است.",
-    "شرکت دلتا انرژی اعلام کرد که گاز مورد نیاز می‌تواند از امتیاز گازی کشک در افغانستان تأمین شود و تأکید کرد که این طرح مستقل از پروژه تاپی (ترکمنستان-افغانستان-پاکستان-هند) است. این توافق به منزله تصمیم نهایی برای سرمایه‌گذاری یا تعهد قطعی برای ساخت پروژه‌ها نیست."
-   ],
-   "title_ar": "شركة سعودية تتطلع إلى صفقة طاقة بقيمة 30 مليار دولار",
-   "summary_ar": "وقعت شركة \"دلتا إنرجي\" السعودية اتفاقاً مع شركة \"إنتر ستيت غاز سيستمز\" الباكستانية لبحث تطوير مشاريع للبنية التحتية للطاقة باستثمارات مقترحة تبلغ نحو 30 مليار دولار.",
-   "body_ar": [
-    "يوفر الاتفاق إطاراً لتقييم إنشاء خط أ his نبيب للغاز الطبيعي يدخل پاکستان عبر حدودها الغربية ويمتد نحو ميناء گوادر، مع امتداد محتمل إلى الحدود الشرقية بالقرب من فاضيلكا عبر تشامان. وتتضمن البنية التحتية المقترحة منشآت للغاز الطبيعي المسال ومرافق لتخزين الغاز ومعالجته ومحطات للتصدير.",
-    "وأوضحت شركة \"دلتا إنرجي\" أن الإمدادات قد تعتمد على امتياز غاز كشك في أفغانستان، مشيرة إلى أن هذا البرنامج مستقل عن مشروع تركمانستان-أفغانستان-باكستان-الهند. ولا يشكل الاتفاق الحالي قراراً استثمارياً نهائياً أو التزاماً بتمويل المشاريع أو بنائها."
-   ]
-  },
-  {
    "id": "56c879c4007a",
    "lang": "en",
    "source": "Dawn",
@@ -817,36 +786,6 @@
    "body_ar": [
     "توصلت محكمة في بروكلين إلى أن آصيف مرچنت سعى للانتقام لمقتل قائد فيروس القدس قاسم سليماني من خلال محاولة استئجار قاتل مأجور في الولايات المتحدة. وأكد المسؤولون الأمريكيون أن المؤامرة استهدفت دونالد ترامب، رغم أن مرچنت شهد بأنه تعرض لضغوط من الحرس الثوري ولم يُؤمر باستهداف شخص بعينه.",
     "أُلقي القبض على مرچنت في 12 يوليو 2024 أثناء استعدادها لمغادرة البلاد. ورحبت وزارة العدل بالحكم، مشددة على أنه لن يتم التسامح مع المؤامرات الإرهابية الخارجية ضد القادة الأمريكيين."
-   ]
-  },
-  {
-   "id": "f750f2f3295c",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T23:34:56Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
-   "title_en": "Pakistan's solar revolution has been so successful the national grid is crumbling",
-   "summary_en": "A massive boom in solar panel adoption across Pakistan has significantly reduced reliance on the national grid, creating severe financial strains for the state-owned power system.",
-   "body_en": [
-    "Driven by soaring electricity tariffs and falling costs for Chinese solar panels, millions of Pakistani households and industries have turned to solar energy. The share of solar generation in the country rose from 1% in 2018 to 28% by 2025.",
-    "However, this widespread departure from the national grid has left fewer customers to cover fixed maintenance costs, costing non-solar consumers millions of dollars annually and burdening the state. Energy Minister Awais Ahmad Leghari stated that the government is working to renegotiate contracts and modernize the grid to make it more competitive and efficient."
-   ],
-   "title_fa": "انقلاب خورشیدی پاکستان چنان موفقیت‌آمیز بوده که شبکه ملی برق را در آستانه فروپاشی قرار داده است",
-   "summary_fa": "رشد چشمگیر استفاده از پنل‌های خورشیدی در سراسر پاکستان وابستگی به شبکه ملی را به شدت کاهش داده و فشار مالی شدیدی بر سیستم برق دولتی وارد کرده است.",
-   "body_fa": [
-    "با توجه به افزایش سرسام‌آور تعرفه‌های برق و کاهش هزینه‌های پنل‌های خورشیدی چینی، میلیون‌ها خانوار و واحد صنعتی در پاکستان به انرژی خورشیدی روی آورده‌اند. سهم تولید انرژی خورشیدی در این کشور از ۱ درصد در سال ۲۰۱۸ به ۲۸ درصد در سال ۲۰۲۵ افزایش یافته است.",
-    "با این حال، این خروج گسترده از شبکه ملی باعث شده است که مشتریان کمتری برای پوشش هزینه‌ تعمیرات ثابت باقی بمانند و سالانه میلیون‌ها دلار هزینه اضافی بر دوش سایر مصرف‌کنندگان و دولت بگذارد. اویس احمد لغاری، وزیر انرژی، اعلام کرد که دولت در حال تلاش برای باز مذاکره قراردادها و مدرن‌سازی شبکه است تا آن را رقابتی‌تر و کارآمدتر کند."
-   ],
-   "title_ar": "ثورة الطاقة الشمسية في باكستان تنجح لدرجة تهديد شبكة الكهرباء الوطنية",
-   "summary_ar": "أدى الإقبال الهائل على ألواح الطاقة الشمسية في جميع أنحاء باكستان إلى تقليل الاعتماد على الشبكة الوطنية بشكل كبير، مما خلق ضغوطاً مالية حادة على قطاع الكهرباء الحكومي.",
-   "body_ar": [
-    "مدفوعة بارتفاع تعرفات الكهرباء وانخفاض تكاليف الألواح الشمسية الصينية، اتجهت ملايين الأسر والشركات الباكستانية إلى الطاقة الشمسية. وارتفعت حصة توليد الطاقة الشمسية في البلاد من 1% في عام 2018 إلى 28% بحلول عام 2025.",
-    "مع ذلك، أدى هذا التحول الواسع النطاق عن الشبكة الوطنية إلى ترك عدد أقل من المشتركين لتغطية تكاليف الصيانة الثابتة، مما كلف المستهلكين غير المستخدمين للطاقة الشمسية ملايين الدولارات سنوياً وشكل عبئاً على الدولة. وذكر وزير الطاقة عويس أحمد لغاري أن الحكومة تعمل على إعادة التفاوض بشأن العقود وتحديث الشبكة لتصبح أكثر تنافسية وكفاءة."
    ]
   },
   {
