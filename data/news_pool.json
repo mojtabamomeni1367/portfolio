@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:28:53Z",
+ "updated": "2026-11-18T13:49:39Z",
  "items": [
   {
    "id": "4e56eb2b5b97",
@@ -2941,6 +2941,251 @@
    ],
    "desc": "تعود جذور جماعة أنصار الله الحوثية إلى عقود من الاضطرابات السياسية، والتنافسات القبلية والدينية، والتوترات بين المجتمعات الشمالية والحكومة المركزية. وقد أسهمت هذه العوامل في تشكل الحركة وصعودها.",
    "score": 4
+  },
+  {
+   "id": "fe4c1daff70c",
+   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T13:04:48Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+   "score": 9,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "d62a18977541",
+   "title": "ICJ to rule on Rohingya genocide case: What to expect",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+   "date": "2026-11-18T12:11:47Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
+   "score": 8,
+   "dup_of": "7f602e2f6454"
+  },
+  {
+   "id": "70ddb4acd5c5",
+   "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+   "date": "2026-11-18T12:04:21Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
+   "score": 7
+  },
+  {
+   "id": "c84a640608d2",
+   "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+   "date": "2026-11-18T11:57:09Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
+   "score": 8
+  },
+  {
+   "id": "66db2917e43c",
+   "title": "Who would gain from carving up Pakistan’s provinces?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
+   "date": "2026-11-18T11:47:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
+   "score": 4
+  },
+  {
+   "id": "45a560c251c0",
+   "title": "India lodges complaint against Palestinian footballer after under-17 match",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+   "date": "2026-11-18T11:32:24Z",
+   "countries": [
+    "IND",
+    "PSE"
+   ],
+   "desc": "Palestinian player Taha Soueidan 'deeply surprised' by criticism following accusations that he made a racist gesture.",
+   "score": 2
+  },
+  {
+   "id": "2ffbc596fcf1",
+   "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+   "date": "2026-11-18T11:30:34Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
+   "score": 3
+  },
+  {
+   "id": "dc7bcd92873e",
+   "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+   "date": "2026-11-18T10:38:13Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The NYT faces backlash over report suggesting a possible link between Iranian dams and underground missile facilities.",
+   "score": 5
+  },
+  {
+   "id": "b7c2bf3d8165",
+   "title": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
+   "date": "2026-11-18T13:06:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing. In a statement, Inter-Services Public Relations (ISPR) said, “The Pakistan Army successfully conducted the launch of the Fatah-3 supersonic cruise missile, marking another significant milestone in strengthening Pakistan’s national defence capabilities. “The weapon system is equipped with advanced navigation and propulsion systems and is capable of engaging targets at long range with high precision and lethality at supersonic speed,” it said. It added that the miss",
+   "score": 8
+  },
+  {
+   "id": "33dcf3146a5d",
+   "title": "£190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045411/ps190m-corruption-case-ihc-directs-proper-medical-care-hygienic-living-conditions-for-bushra-bibi-as-per-prison-rules",
+   "date": "2026-11-18T11:05:24Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Islamabad High Court (IHC) on Wednesday directed prison authorities to ensure medical care and hygienic living conditions for Bushra Bibi as per prison rules, while adjourning the hearing of appeals filed by her and her husband, PTI founder Imran Khan, against their convictions in the £190 million case for seven days. The couple is serving prison sentences in the £190 million corruption case, also known as the Al-Qadir Trust case. On January 17, 2025, an accountability court in Islamabad sentenced Imran to 14 years in prison and Bushra to seven years in the case. Both subsequent",
+   "score": 3
+  },
+  {
+   "id": "db6b1b176967",
+   "title": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory",
+   "date": "2026-11-18T13:13:10Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a deal between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme. The deal announced in July has provoked questions about the risks of nuclear proliferation. “It’s a very satisfactory outcome that we have with this agreement,” Grossi told reporters after opening an International Atomic Energy Agency board of governors’ meeting. Once nuclear power development gets under way in Saudi Arabia, “we will be there,” he added. In his opening statement, Grossi told the board that the US and Saudi Ar",
+   "score": 7
+  },
+  {
+   "id": "d20ca16ccc93",
+   "title": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
+   "date": "2026-11-18T12:37:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium. After wicket-keeper-batter Ghazi Ghori’s half-century and an explosive contribution from Razaullah helped Pakistan reach 325 all out, the hosts’ fast bowlers struck repeatedly to leave Sri Lanka facing a daunting task on day three. The visitors, who were dismissed for 98 in their first innings, still trail by 153 runs with seven wickets remaining. Pakistan’s innings had appeared in dange",
+   "score": 2
+  },
+  {
+   "id": "aa6099d6cb42",
+   "title": "PM Shehbaz, PML-N supremo Nawaz discuss AJK's development, reconstruction at Muzaffarabad huddle",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045412/pm-shehbaz-pml-n-supremo-nawaz-discuss-ajks-development-reconstruction-at-muzaffarabad-huddle",
+   "date": "2026-11-18T11:55:10Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The PML-N’s top leadership on Wednesday discussed development and reconstruction in Azad Jammu and Kashmir (AJK) with the region’s President Muhammad Najeeb Naqi Khan and Prime Minister Syed Iftikhar Ali Gillani, the party said. The meeting, held in Muzaffarabad, was attended by Prime Minister Shehbaz Sharif and PML-N supremo Nawaz Sharif, who discussed public welfare, development projects and the implementation of election promises with the AJK leadership, according to a post by the party on X. Punjab Chief Minister Maryam Nawaz also attended the meeting, along with federal and provincial min",
+   "score": 4
+  },
+  {
+   "id": "5f88a25d10b2",
+   "title": "Woman killed as high-voltage cable falls on house in Balochistan's Turbat",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045418/woman-killed-as-high-voltage-cable-falls-on-house-in-balochistans-turbat",
+   "date": "2026-11-18T11:49:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "GWADAR: A woman was killed, while her husband and son sustained critical burn injuries after an 11,000-volt power line snapped and fell on their house in the Wasto Bazaar area of Turbat in the early hours of Wednesday. The high-tension wire fell on the residence, electrocuting and severely burning the family members, who were rushed to the Teaching Hospital Turbat, hospital officials said. The deceased was identified as Mah Bibi, wife of Muhammad Ismail. However, medical staff and attendants reported that the injured were facing severe difficulties in receiving proper care due to the non-funct",
+   "score": 2
+  },
+  {
+   "id": "5469193fe1c0",
+   "title": "LPG tanker that sank off Bulgaria was hit by projectiles: official",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece",
+   "date": "2026-11-18T11:11:23Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "The Liberian-flagged Gas Husky was carrying 3,400 metric tons of LPG from Egypt to Romania when it sent a ‌distress signal",
+   "score": 6
+  },
+  {
+   "id": "74e3d0717a93",
+   "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece",
+   "date": "2026-11-18T10:23:32Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The measures prohibit Australians ​and Australian businesses from trading ‌with, or providing support to, the sanctioned individuals and organisations",
+   "score": 7,
+   "dup_of": "f38fc2cffad6"
+  },
+  {
+   "id": "2df4e0cff0ec",
+   "title": "PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/pm-modi-gifts-pichwaai-painting-banarasi-katan-silk-stole-kashmiri-carpet-to-world-leaders/article71715310.ece",
+   "date": "2026-11-18T10:14:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Prime Minister has gifted the U.S. president a golden Pichwaai painting, originating in Nathdwara, Rajasthan",
+   "score": 3
+  },
+  {
+   "id": "bbd52bec6461",
+   "title": "اختصاصی بی‌بی‌سی فارسی؛ توافق دولت عراق و کتائب حزب‌الله بر سر جرف نصر",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq3dg5rm0jkeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T12:23:05Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "بی‌بی‌سی فارسی دریافته است که دولت عراق و گروه کتائب‌ حزب‌الله پس از رایزنی‌های طولانی، بر سر خروج این گروه از منطقه جرف نصر استان بابل در مهلتی یک ماهه به توافق رسیده‌اند.",
+   "score": 7,
+   "dup_of": "50abd88093e7"
   }
  ]
 }
