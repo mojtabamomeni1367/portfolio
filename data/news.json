@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-18T01:46:09Z",
- "count": 423,
+ "updated": "2026-11-18T04:15:29Z",
+ "count": 428,
  "items": [
+  {
+   "id": "34812afac42f",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-no-imminent-threat-us-iran",
+   "date": "2026-11-18T03:57:43Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Rubio says 'no imminent threat' to US from Iran",
+   "title_en": "Rubio says 'no imminent threat' to US from Iran",
+   "summary_en": "US Secretary of State Marco Rubio has dismissed reports of an imminent Iranian threat against Washington, stating that the majority of intelligence leads regarding potential attacks are not credible.",
+   "body_en": [
+    "Speaking to reporters during a trip to the Philippines, Rubio acknowledged that authorities continuously monitor potential risks and investigate daily threat streams, but emphasized he does not perceive an immediate danger to the country.",
+    "Rubio also questioned the credibility of sources referenced in media reports concerning an alleged plot targeting the US capital, sharply criticizing the individuals allegedly leaking such information."
+   ],
+   "title_fa": "روبیو: هیچ تهدید قریب‌الوقوعی از سوی ایران متوجه آمریکا نیست",
+   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا، گزارش‌ها درباره تهدید قریب‌الوقوع ایران علیه واشنگتن را رد کرد و گفت که بیشتر سرنخ‌های اطلاعاتی درباره حملات احتمالی اعتبار ندارند.",
+   "body_fa": [
+    "روبیو طی سفری به فیلیپین در جمع خبرنگاران اذعان کرد که مقامات به‌طور مداوم خطرات احتمالی را زیر نظر دارند و جریان‌های تهدید روزانه را بررسی می‌کنند، اما تأکید نمود که خطر فوری متوجه کشور نمی‌کند.",
+    "وی همچنین اعتبار منابع ذکر شده در گزارش‌های رسانه‌ای درباره یک توطئه ادعایی علیه پایتخت آمریکا را زیر سؤال برد و به شدت از افرادی که چنین اطلاعاتی را درز می‌دهند انتقاد کرد."
+   ],
+   "title_ar": "روبيو يقول إنه 'لا يوجد تهديد وشيك' ضد الولايات المتحدة من إيران",
+   "summary_ar": "استخف وزير الخارجية الأمريكي ماركو روبيو بالتقارير التي تتحدث عن تهديد إيراني وشيك ضد واشنگتن، مشيراً إلى أن غالبية خيوط الاستخبارات المتعلقة بهجمات محتملة ليست موثوقة.",
+   "body_ar": [
+    "وفي تصريحات للصحفيين خلال جولة له في الفلبين، أقر روبيو بأن السلطات تراقب باستمرار المخاطر المحتملة وتتحقق من تدفقات التهديدات اليومية، لكنه شدد على أنه لا يرى خطراً مباشراً يهدد البلاد.",
+    "كما شكك روبيو في مصداقية المصادر الواردة في تقارير إعلامية تحدثت عن مؤامرة مزعومة تستهدف العاصمة الأمريكية، منتقداً بشدة الأشخاص الذين يُزعم أنهم يقومون بتسريب مثل هذه المعلومات."
+   ]
+  },
+  {
+   "id": "223cef3fa943",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
+   "date": "2026-11-18T02:06:39Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "score": 9,
+   "title": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
+   "title_en": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
+   "summary_en": "Kuwait reported countering hostile drone attacks and Bahrain intercepted Iranian strikes amid heightened regional tensions following a US attack on Iran's Qeshm Island.",
+   "body_en": [
+    "Kuwait stated on Wednesday that it was actively countering hostile drone operations. Simultaneously, Bahrain reported that it had intercepted Iranian strikes.",
+    "These security incidents occurred while US allies in the Gulf maintained a state of high alert following an American strike on Iran's Qeshm Island, amid an ongoing standoff concerning the Strait of Hormuz."
+   ],
+   "title_fa": "خاورمیانه زنده: کویت و بحرین از حملات پهپادی و موشکی خبر دادند",
+   "summary_fa": "کویت از مقابله با حملات پهپادی خصمانه خبر داد و بحرین در پی تنش‌های منطقه‌ای فزاینده پس از حمله آمریکا به جزیره قشم ایران، حملات ایران را رهگیری کرد.",
+   "body_fa": [
+    "کویت روز چهارشنبه اعلام کرد که در حال مقابله با عملیات‌های پهپادی خصمانه است. همزمان، بحرین گزارش داد که ضربات ایران را رهگیری کرده است.",
+    "این رویدادهای امنیتی در حالی رخ داد که متحدان ایالات متحده در خلیج فارس به دنبال حمله آمریکا به جزیره قشم ایران و در جریان بن‌بست جاری بر سر تنگه هرمز، در حالت آماده‌باش کامل باقی مانده بودند."
+   ],
+   "title_ar": "تغطية مباشرة للشرق الأوسط: الكويت والبحرين تبلغان عن هجمات بمسيرات وصواريخ",
+   "summary_ar": "أفادت الكويت بتصديها لهجمات مسيرة معادية، بينما اعترضت البحرين ضربات إيرانية وسط تصاعد التوتر الإقليمي إثر هجوم أمريكي على جزيرة قشم الإيرانية.",
+   "body_ar": [
+    "ذكرت الكويت يوم الأربعاء أنها تتصدى لعمليات مسيرة معادية. وفي الوقت نفسه، أفادت البحرين بأنها اعترضت ضربات إيرانية.",
+    "حدثت هذه الوقائع الأمنية بينما ظل حلفاء الولايات المتحدة في الخليج في حالة تأهب قصوى أعقاب هجوم أمريكي على جزيرة قشم الإيرانية، وسط مواجهة مستمرة بشأن مضيق هرمز."
+   ]
+  },
+  {
+   "id": "aeecd4d18816",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+   "date": "2026-11-18T01:07:01Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "title_en": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "summary_en": "The US-backed Board of Peace warned the UN Security Council that the Gaza ceasefire could collapse unless immediate steps are taken to implement the 2025 agreement.",
+   "body_en": [
+    "In a report submitted to the UN Security Council on Tuesday, the Board of Peace cautioned that the truce between Israel and Hamas is on the brink of failure due to a lack of adherence to the 2025 ceasefire deal. The board highlighted that ongoing Israeli restrictions on aid deliveries, funding shortages, and the blocking of an interim civil administration continue to impede reconstruction and humanitarian efforts.",
+    "The board called on the UN Security Council to pressure both sides into fulfilling their commitments, warning that the collapse of the truce would leave no roadmap for recovery or path toward Palestinian statehood."
+   ],
+   "title_fa": "هیئت صلح هشدار داد که آتش‌بس غزه بدون اقدام فوری در آستانه فروپاشی قریب‌الوقوع است",
+   "summary_fa": "هیئت صلح با حمایت ایالات متحده به شورای امنیت سازمان ملل هشدار داد که اگر گام‌های فوری برای اجرای توافق آتش‌بس ۲۰۲۵ برداشته نشود، آتش‌بس غزه ممکن است فروپاشد.",
+   "body_fa": [
+    "هیئت صلح در گزارشی که روز سه‌شنبه به شورای امنیت سازمان ملل ارائه کرد، هشدار داد که آتش‌بس بین اسرائیل و حماس به دلیل عدم پایبندی به توافق آتش‌بس ۲۰۲۵ در آستانه شکست است. این هیئت تأکید کرد که محدودیت‌های مداوم اسرائیل بر ارسال کمک‌ها، کمبود بودجه و مسدود کردن یک اداره مدنی موقت همچنان مانع از تلاش‌های بازسازی و بشردوستانه می‌شود.",
+    "این هیئت از شورای امنیت سازمان ملل خواست تا هر دو طرف را برای عمل به تعهداتشان تحت فشار قرار دهد و هشدار داد که فروپاشی آتش‌بس هیچ نقشه راهی برای بازسازی یا مسیری به سوی تشکیل کشور فلسطین باقی نخواهد گذاشت."
+   ],
+   "title_ar": "مجلس السلام يحذر من أن وقف إطلاق النار في غزة يواجه انهياراً وشيكاً بدون تحرك",
+   "summary_ar": "حذر مجلس السلام المدعوم من الولايات المتحدة مجلس الأمن الدولي من أن وقف إطلاق النار في غزة قد ينهار ما لم تُتخذ خطوات فورية لتنفيذ اتفاق عام 2025.",
+   "body_ar": [
+    "حذر مجلس السلام، في تقرير قُدم إلى مجلس الأمن الدولي يوم الثلاثاء، من أن الهدنة بين إسرائيل وحماس على حافة الانهيار بسبب عدم الالتزام باتفاق وقف إطلاق النار لعام 2025. وأشار المجلس إلى أن القيود الإسرائيلية المستمرة على إدخال المساعدات، ونقص التمويل، وعرقلة إنشاء إدارة مدنية مؤقتة، لا تزال تعيق جهود الإعمار والإغاثة.",
+    "دعا المجلس مجلس الأمن الدولي إلى الضغط على الجانبين للوفاء بالتزاماتهما، محذراً من أن انهيار الهدنة لن يترك أي خارطة طريق للتعافي أو مساراً نحو إقامة دولة فلسطينية."
+   ]
+  },
   {
    "id": "d0399a8b5041",
    "lang": "en",
@@ -88,6 +180,67 @@
    "body_ar": [
     "مدفوعة بارتفاع تعرفات الكهرباء وانخفاض تكاليف الألواح الشمسية الصينية، اتجهت ملايين الأسر والشركات الباكستانية إلى الطاقة الشمسية. وارتفعت حصة توليد الطاقة الشمسية في البلاد من 1% في عام 2018 إلى 28% بحلول عام 2025.",
     "مع ذلك، أدى هذا التحول الواسع النطاق عن الشبكة الوطنية إلى ترك عدد أقل من المشتركين لتغطية تكاليف الصيانة الثابتة، مما كلف المستهلكين غير المستخدمين للطاقة الشمسية ملايين الدولارات سنوياً وشكل عبئاً على الدولة. وذكر وزير الطاقة عويس أحمد لغاري أن الحكومة تعمل على إعادة التفاوض بشأن العقود وتحديث الشبكة لتصبح أكثر تنافسية وكفاءة."
+   ]
+  },
+  {
+   "id": "fa9c9090e489",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says",
+   "date": "2026-11-17T23:02:18Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
+   "title_en": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
+   "summary_en": "American podcaster Tucker Carlson stated in a recent interview that Yemen's Houthi movement is occupying parts of Saudi Arabia, criticizing the US media for failing to cover the development.",
+   "body_en": [
+    "During a podcast episode released on Monday featuring geopolitical analyst Brandon J Weichert, Carlson asserted that Houthi forces pose a legitimate threat to the kingdom and confirmed the presence of Houthi troops on Saudi territory.",
+    "Carlson described the situation as a significant wartime development that is largely absent from mainstream reporting in the United States."
+   ],
+   "title_fa": "تاکر کارلسون: حوثی‌ها بخش‌هایی از عربستان را در اشغال خود دارند",
+   "summary_fa": "تاکر کارلسون، پادکستر آمریکایی، در مصاحبه‌ای اعلام کرد که جنبش حوثی یمن بخش‌هایی از عربستان سعودی را در اشغال خود دارد و رسانه‌های آمریکایی را به دلیل عدم پوشش این تحول مورد انتقاد قرار داد.",
+   "body_fa": [
+    "کارلسون در یک پادکست که روز دوشنبه با حضور براندون جی. ویچرت، تحلیلگر ژئوپلیتیک، منتشر شد، تأکید کرد که نیروهای حوثی تهدیدی واقعی برای پادشاهی سعودی محسوب می‌شوند و حضور نظامیان حوثی در خاک عربستان را تأیید کرد.",
+    "او این وضعیت را یک تحول مهم زمان جنگ توصیف کرد که تا حد زیادی در گزارش‌های رسانه‌های جریان اصلی ایالات متحده نادیده گرفته می‌شود."
+   ],
+   "title_ar": "تاكر كارلسون: الحوثيون 'يحتلون' أجزاء من السعودية",
+   "summary_ar": "قال المذيع الأمريكي تاكر كارلسون في مقابلة حديثة إن جماعة الحوثي اليمنية تحتل أجزاء من السعودية، منتقداً وسائل الاعلام الأمريكية لعدم تغطيتها لهذه التطورات.",
+   "body_ar": [
+    "خلال حلقة بث صوتي (بودكاست) نُشرت يوم الإثنين واستضافت المحللين الجيوسياسي براندون جيه ويشيرت، أكد كارلسون أن قوات الحوثي تشكل تهديداً حقيقياً للمملكة وأكد وجود عناصر حوثية على الأراضي السعودية.",
+    "ووصف كارلسون الوضع بأنه تطور عسكري مهم يكاد يكون غائباً تماماً عن التغطية الإعلامية السائدة في الولايات المتحدة."
+   ]
+  },
+  {
+   "id": "1386585acd62",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-respond-same-level-us-nuclear-attack-lawmaker-says",
+   "date": "2026-11-17T22:15:28Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
+   "title_en": "Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
+   "summary_en": "An Iranian lawmaker stated that Iran will respond at the same level if the United States launches a nuclear attack against the country.",
+   "body_en": [
+    "Mohammad Reza Mohseni Thani, a member of Iran’s National Security Commission, stated that Tehran would retaliatory measures at an equal level in the event of a US nuclear strike, according to Al Jazeera.",
+    "Mohseni Thani also noted that there were no positive expectations regarding the achievement of a diplomatic agreement to end the ongoing conflict."
+   ],
+   "title_fa": "یک قانونگذار: ایران به حمله هسته‌ای آمریکا «در همان سطح» پاسخ خواهد داد",
+   "summary_fa": "یک قانونگذار ایرانی اظهار داشت که اگر ایالات متحده دست به حمله هسته‌ای علیه این کشور بزند، ایران در همان سطح پاسخ خواهد داد.",
+   "body_fa": [
+    "به گزارش الجزیره، محمدرضا محسنی ثانی، از اعضای کمیسیون امنیت ملی ایران، اعلام کرد که تهران در صورت وقوع حمله هسته‌ای از سوی ایالات متحده، واکنشی هم‌سطح نشان خواهد داد.",
+    "محسنی ثانی همچنین خاطرنشان کرد که چشم‌انداز مثبتی برای دستیابی به یک توافق دیپلماتیک جهت پایان دادن به جنگ وجود ندارد."
+   ],
+   "title_ar": "برلماني: إيران ستترد \"على نفس المستوى\" على أي هجوم نووي أمريكي",
+   "summary_ar": "صرح برلماني إيراني بأن إيران سترد على نفس المستوى إذا شنت الولايات المتحدة هجوماً نووياً ضد البلاد.",
+   "body_ar": [
+    "ذكرت قناة الجزيرة أن محمد رضا محسني ثاني، عضو لجنة الأمن القومي الإيراني، قال إن طهران سترد بمستوى مماثل في حال شن الولايات المتحدة ضربة نووية.",
+    "وأشار محسني ثاني أيضاً إلى عدم وجود توقعات إيجابية بشأن التوصل إلى اتفاق دبلوماسي لإنهاء الصراع المستمر."
    ]
   },
   {
@@ -181,6 +334,38 @@
    ]
   },
   {
+   "id": "88c5c6cf475b",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-houthis-say-they-launched-drones-towards-saudi-east-west-pipeline",
+   "date": "2026-11-17T18:05:25Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Yemen's Houthis say they launched drones towards Saudi East-West Pipeline",
+   "title_en": "Yemen's Houthis say they launched drones towards Saudi East-West Pipeline",
+   "summary_en": "Yemen's Houthis announced they launched five drones targeting two pumping stations on the Saudi East-West Pipeline near Riyadh.",
+   "body_en": [
+    "The Iran-aligned Houthi movement stated on Tuesday that they launched a total of five drones directed at two pumping stations along the crucial Saudi East-West Pipeline in the Riyadh area.",
+    "There was no immediate confirmation from Saudi authorities regarding the reported drone launches."
+   ],
+   "title_fa": "حوثی‌های یمن می‌گویند به سمت خط لوله شرق به غرب عربستان پهپاد پرتاب کرده‌اند",
+   "summary_fa": "حوثی‌های یمن اعلام کردند که پنج پهپاد را به سمت دو ایستگاه پمپاژ در خط لوله حیاتی شرق به غرب عربستان در منطقه ریاض پرتاب کرده‌اند.",
+   "body_fa": [
+    "جنوب حوثی‌های وابسته به ایران روز سه‌شنبه اعلام کردند که مجموعاً پنج فروند پهپاد را به سمت دو ایستگاه پمپاژ در امتداد خط لوله حیاتی شرق به غرب عربستان در منطقه ریاض پرتاب کرده‌اند.",
+    "مقامات سعودی هنوز به طور رسمی این ادعا را تأیید نکرده‌اند."
+   ],
+   "title_ar": "الحوثيون في اليمن يقولون إنهم أطلقوا مسيرات باتجاه خط أنابيب النفط السعودي شرق-غرب",
+   "summary_ar": "أعلن الحوثيون في اليمن عن إطلاق خمس طائرات مسيرة تستهدف محطتي ضخ على خط أنابيب النفط السعودي شرق-غرب الحيوي في منطقة الرياض.",
+   "body_ar": [
+    "أعلن الحوثيون المتحالفون مع إيران يوم الثلاثاء عن إطلاق خمس طائرات مسيرة إجمالاً استهدفت محطتي ضخ على طول خط أنابيب النفط السعودي شرق-غرب الحيوي في منطقة الرياض.",
+    "ولم يصدر أي تأكيد سعودي فوري بشأن إطلاق المسيرات."
+   ]
+  },
+  {
    "id": "2c71fa91d104",
    "lang": "en",
    "source": "Al Jazeera",
@@ -206,6 +391,36 @@
    "summary_ar": "داهمت قوات إسرائيلية منازل في محافظة درعا السورية، مما أسفر عن إلحاق أضرار بالممتلكات السكنية وإجبار العائلات على الفرار.",
    "body_ar": [
     "وأظهرت مقاطع مصورة جدراناً مليئة بآثار الرصاص ومقتنيات متفحمة في أعقاب المداهمات الإسرائيلية في درعا. وأفادت التقارير بأن 23 آلية عسكرية دخلت المنطقة أثناء الاقتحام."
+   ]
+  },
+  {
+   "id": "816113dea507",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/us-centcom-commander-expected-saudi-arabia-dozens-air-defence-experts-sources-say",
+   "date": "2026-11-17T17:51:09Z",
+   "countries": [
+    "SAU"
+   ],
+   "score": 8,
+   "title": "US Centcom commander expected in Saudi Arabia with dozens of air defence experts, sources say",
+   "title_en": "US Centcom commander expected in Saudi Arabia with dozens of air defence experts, sources say",
+   "summary_en": "US Central Command chief Admiral Brad Cooper is expected to visit Saudi Arabia this week alongside dozens of military advisors to evaluate the kingdom's air defence capabilities, according to western officials.",
+   "body_en": [
+    "The officials, speaking on condition of anonymity, stated that more than three dozen US military advisors are heading to Saudi Arabia to assist with air defence, with some already arriving. The visit takes place as the kingdom faces persistent Houthi aerial attacks and regional tensions.",
+    "The deployment follows recent remarks by US President Donald Trump regarding the kingdom's vulnerabilities and comes amid ongoing conflict in Yemen involving the Iran-aligned Houthis, who have targeted Saudi infrastructure and territory."
+   ],
+   "title_fa": "منابع: فرمانده سنتکام با ده‌ها کارشناس پدافند هوایی راهی عربستان می‌شود",
+   "summary_fa": "به گفته مقامات غربی، برد کوپر، فرمانده سنتکام، این هفته به همراه ده‌ها مشاور نظامی برای بررسی توانمندی‌های پدافند هوایی عربستان راهی این کشور می‌شود.",
+   "body_fa": [
+    "این مقامات که خواستند نامشان فاش نشود، اعلام کردند که بیش از سی مشاور نظامی ایالات متحده برای کمک به پدافند هوایی عازم عربستان شده‌اند و برخی از آن‌ها پیش از این وارد شده‌اند. این سفر در حالی انجام می‌شود که ریاض با حملات هوایی مداوم حوثی‌ها و تنش‌های منطقه‌ای روبه‌رو است.",
+    "این استقرار پس از سخنان اخیر دونالد ترامپ، رئیس‌جمهور آمریکا، درباره آسیب‌پذیری‌های پادشاهی سعودی صورت می‌گیرد و در جریان درگیری‌های جاری در یمن با حضور حوثی‌های هم‌پیمان ایران که زیرساخت‌ها و خاک عربستان را هدف قرار داده‌اند، انجام می‌شود."
+   ],
+   "title_ar": "مصادر: قائد القيادة المركزية الأمريكية متوجه إلى السعودية مع عشرات الخبراء الدفاعيين",
+   "summary_ar": "قالت مصادر غربية إنه من المتوقع أن يصل قائد القيادة المركزية الأمريكية الأدميرال براد كوبر إلى السعودية هذا هفته برفقة عشرات المستشارين العسكريين لتقييم قدرات الدفاع الجوي للمملكة.",
+   "body_ar": [
+    "ذكر المسؤولون، شريطة عدم الكشف عن هوياتهم، أن أكثر من ثلاثين مستشاراً عسكرياً أمريكياً يتوجهون إلى السعودية للمساعدة في الدفاع الجوي، وقد بدأ بعضهم في الوصول بالفعل. وتأتي الزيارة في الوقت الذي تواجه فيه المملكة هجمات جوية مستمرة من الحوثيين وتوترات إقليمية.",
+    "يأتي هذا الانتشار في أعقاب تصريحات أدلى بها الرئيس الأمريكي دونالد ترامب بشأن نقاط الضعف في المملكة، وسط الصراع المستمر في اليمن بمشاركة الحوثيين المتحالفين مع إيران، الذين استهدفوا البنية التحتية والأراضي السعودية."
    ]
   },
   {
@@ -267,6 +482,37 @@
    "body_ar": [
     "خلال الزيارة، سيلتقي الزيدي كبار المسؤولين اللبنانيين لبحث التجارة الثنائية وإمكانية إعادة تشغيل خط أنابيب يمتد من كركوك عبر سوريا إلى ميناء طرابلس. ويهدف هذا المشروع إلى توفير ممر لتصدير النفط يتجاوز مضيق هرمز، الذي تعطلت فيه حركة الشحن بشدة جراء النزاع الإقليمي.",
     "وتأتي الرحلة بعد محادثات أجراها الزيدي مؤخراً في دمشق مع الرئيس السوري أحمد الشرع بشأن إعادة تأهيل خط أنابيب كركوك-بانياس. ويشير خبراء إلى أن تمديد المسار إلى طرابلس يوفر ميزة الأرصفة العميقة لناقلات النفط الأضخم، غير أن عدم التوصل إلى اتفاق قد يدفع إلى تجاوز لبنان والاعتماد فقط على الموانئ السورية."
+   ]
+  },
+  {
+   "id": "efb07f7a0fc4",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-double-tap-strike-factory-yemens-hodeida-kills-14-houthi-health",
+   "date": "2026-11-17T17:31:31Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
+   "title_en": "Saudi double-tap strike on factory in Yemen kills 14, Houthi health ministry says",
+   "summary_en": "A Saudi double-tap airstrike targeting a sponge factory in western Yemen has killed 14 people and wounded 10, according to the Houthi-run health ministry and local reports.",
+   "body_en": [
+    "According to the Saba news agency, the initial strike on the facility near Hodeida was followed by a second hit as emergency workers and rescue teams were fighting a fire and carrying out operations. Factory employees and first responders were among the casualties.",
+    "In a separate incident in the Kitaf district of Saada province, another strike reportedly targeted a demining team and local residents who gathered to help, resulting in two deaths and four injuries."
+   ],
+   "title_fa": "وزارت بهداشت دولت حوثی: حمله دو مرحله‌ای عربستان به کارخانه‌ای در یمن ۱۴ کشته برجای گذاشت",
+   "summary_fa": "به گزارش وزارت بهداشت تحت اداره حوثی‌ها و منابع محلی، یک حمله هوایی دو مرحله‌ای منتسب به عربستان سعودی به کارخانه اسفنج‌سازی در غرب یمن ۱۴ کشته و ۱۰ زخمی برجای گذاشت.",
+   "body_fa": [
+    "به گزارش خبرگزاری سبا، حمله دوم به این تأسیسات در نزدیکی الحدیده همزمان با تلاش امدادگران و آتش‌نشانان برای مهار آتش و عملیات امداد صورت گرفت. کارکنان کارخانه و نیروهای امدادی در میان کشته‌شدگان و زخمی‌ها هستند.",
+    "در رویدادی جداگانه در منطقه کتاف واقع در استان صعده، گزارش شد که حمله دیگری تیم مین‌زدایی و اهالی محل را که برای کمک آمده بودند هدف قرار داده که به کشته شدن دو نفر و زخمی شدن چهار تن منجر شد."
+   ],
+   "title_ar": "وزارة الصحة التابعة للحوثيين: 14 قتيلاً في غارة سعودية مزدوجة على مصنع باليمن",
+   "summary_ar": "قُتل 14 شخصاً وأُصيب 10 آخرون جراء غارة جوية سعودية مزدوجة استهدفت مصنع إسفنج في غرب اليمن، بحسب وزارة الصحة التابعة للحوثيين وتقارير محلية.",
+   "body_ar": [
+    "وفقاً لوكالة أنباء سبأ، أعقب الغارة الأولى على المنشأة القريبة من الحديدة ضربة ثانية بينما كان عمال الطوارئ وفرق الإنقاذ يخمدون حريقاً ويجرون عمليات الإغاثة. وكان من بين الضحايا عمال مصنع ومسعفون.",
+    "وفي حادث منفصل في مديرية كتاف بمحافظة صعدة، أفادت التقارير أن هجوماً آخر استهدف فريق نزع مخلفات الحرب والسكان المحليين الذين هبوا للمساعدة، مما أسفر عن مقتل شخصين وإصابة أربعة آخرين."
    ]
   },
   {
@@ -840,36 +1086,6 @@
    ]
   },
   {
-   "id": "3738e9029b3d",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045153/cdf-munir-underscores-importance-of-sustained-engagement-mutual-trust-in-meeting-with-irans-araghchi",
-   "date": "2026-11-17T07:31:12Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "CDF Munir underscores importance of sustained engagement, mutual trust in meeting with Iran’s Araghchi",
-   "title_en": "CDF Munir underscores importance of sustained engagement, mutual trust in meeting with Iran’s Araghchi",
-   "summary_en": "Pakistan's Chief of Army Staff Field Marshal Asim Munir met with Iranian Foreign Minister Abbas Araghchi in Rawalpindi to discuss regional security, mutual trust, and ongoing diplomatic efforts regarding the US-Iran conflict.",
-   "body_en": [
-    "During the meeting, the two sides explored avenues to address common security challenges and promote regional peace. Araghchi expressed appreciation for Pakistan's constructive role and ongoing mediation efforts in the conflict.",
-    "Pakistan has been actively mediating between Washington and Tehran following the outbreak of war, maintaining diplomatic engagement despite previous stalemates and ongoing regional tensions."
-   ],
-   "title_fa": "فرمانده ارتش پاکستان در دیدار با عباس عراقچی بر اهمیت تعامل مستمر و اعتماد متقابل تأکید کرد",
-   "summary_fa": "عاصم منیر، فرمانده ارتش پاکستان، در دیدار با عباس عراقچی، وزیر امور خارجه ایران، در راولپندی درباره امنیت منطقه‌ای، اعتماد متقابل و تلاش‌های دیپلماتیک جاری پیرامون مناقشه ایالات متحده و ایران گفتگو کرد.",
-   "body_fa": [
-    "در جریان این دیدار، دو طرف راه‌های مقابله با چالش‌های امنیتی مشترک و ارتقای صلح منطقه‌ای را بررسی کردند. عراقچی از نقش سازنده پاکستان و تلاش‌های میانجی‌گری این کشور در مناقشه قدردانی کرد.",
-    "پاکستان پس از آغاز جنگ به طور فعال میان واشنگتن و تهران میانجی‌گری کرده و با وجود بن‌بست‌های قبلی و تنش‌های منطقه‌ای جاری، تعامل دیپلماتیک خود را حفظ کرده است."
-   ],
-   "title_ar": "قائد الجيش الباكستاني يؤكد أهمية التواصل المستمر والثقة المتبادلة خلال لقائه بعباس عراقجي",
-   "summary_ar": "التقى قائد الجيش الباكستاني المشير عاصم منیر وزير الخارجية الإيراني عباس عراقجي في راولبندی لبحث الأمن الإقليمي والثقة المتبادلة والجهود الدبلوماسية المستمرة بشأن الصراع بين الولايات المتحدة وإيران.",
-   "body_ar": [
-    "خلال الاجتماع، بحث الجانبان سبل مواجهة التحديات الأمنية المشتركة وتعزيز السلام الإقليمي. وأعرب عراقجي عن تقديره لدور باكستان البناء وجهود الوساطة المستمرة في الصراع.",
-    "وقد قامت باكستان بدور الوساطة النشطة بين واشنطن وطهران إثر اندلاع الحرب، وحافظت على التواصل الدبلوماسي على الرغم من الجمود السابق والتوترات الإقليمية المستمرة."
-   ]
-  },
-  {
    "id": "78f74af01219",
    "lang": "en",
    "source": "Al Jazeera",
@@ -898,66 +1114,6 @@
    "body_ar": [
     "أفادت القوات البحرية الإيرانية يوم الإثنين بأن ثلاث ناقلات نفط تعطلت أو اشتعلت فيها النيران إثر اصطدامها بألغام في مياه محظورة ومسارات غير مصرح بها. وفي الوقت نفسه، أبلغت هيئة عمليات التجارة البحرية البريطانية عن تعرض ناقلتين لهجمات في المضيق، إحداهما قبالة عمان والأخرى بمقذوف مجهول، مما أدى لاندلاع حرائق بغرف المحركات دون التحقق من ذلك بشكل مستقل.",
     "وفي إقليم كردستان العراق، دوت صفارات الإنذار يوم الإثنين بعد تحليق طائرة مسيرة فوق حقل خورمور للغاز، دون ورود تقارير عن وقوع أضرار أو ضربات. وكان الإنتاج في المنشأة، التي تغذي محطات توليد الكهرباء المحلية، قد توقف بالفعل في الأسبوع السابق عقب هجوم سابق يُشتبه بأنه نُفذ بمسيرة."
-   ]
-  },
-  {
-   "id": "fe940bb87274",
-   "lang": "en",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T01:26:01Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 7,
-   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-   "title_en": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-   "summary_en": "Former Pakistani Prime Minister Imran Khan has requested urgent medical treatment in a letter published by his lawyer, warning that his deteriorating condition in prison could be fatal. Pakistani government officials dismissed the claims, asserting that he receives regular care and is in satisfactory health.",
-   "body_en": [
-    "Khan stated that he is kept in solitary confinement for up to 22 hours a day without family visits or access to television and books, adding that doctors have warned he faces high risks of cardiac arrest and brain haemorrhage. He also noted that his wife, Bushra Bibi, needs surgery to prevent permanent loss of sight from a detached retina.",
-    "Parliamentary Affairs Minister Tariq Fazal Chaudhry contested the assertions, stating that Khan is provided with all necessary prison amenities and proper food. Authorities also said Khan was examined at a hospital a week ago, received an eye injection, and was assessed as clinically stable."
-   ],
-   "title_fa": "عمران خان با ابراز نگرانی از اینکه «شاید زنده بازنگردد» خواستار درمان فوری پزشکی شد",
-   "summary_fa": "عمران خان، نخست‌وزیر پیشین پاکستان، در نامه‌ای که توسط وکیلش منتشر شد، با ابراز نگرانی از اینکه وخامت حالش در زندان ممکن است جان او را بگیرد، خواستار درمان فوری پزشکی شد. مقامات دولتی پاکستان با رد این ادعاها تأکید دارند که او به طور منظم معاینه می‌شود و وضعیت سلامتی‌اش رضایت‌بخش است.",
-   "body_fa": [
-    "عمران خان اعلام کرد که تا ۲۲ ساعت در شبانه‌روز در سلول انفرادی بدون ملاقات با خانواده یا دسترسی به تلویزیون و کتاب نگهداری می‌شود و پزشکان هشدار داده‌اند که با خطر بالای ایست قلبی و خونریزی مغزی مواجه است. او همچنین گفت همسرش، بشری بیبی، به دلیل پارگی شبکیه برای جلوگیری از نابینایی دائمی نیاز به عمل جراحی دارد.",
-    "طارق فضل چوهدری، وزیر امور پارلمانی پاکستان، این اظهارات را رد کرد و گفت خان از تمامی امکانات لازم و غذای انتخابی خود در زندان بهره‌مند است. مقامات همچنین اعلام کردند که او یک هفته قبل در بیمارستان تحت معاینه قرار گرفت، تزریق چشمی دریافت کرد و وضعیتش از نظر بالینی باثبات اعلام شد."
-   ],
-   "title_ar": "عمران خان يطلب رعاية طبية عاجلة وسط مخاوف من أنه قد «لا يخرج حياً»",
-   "summary_ar": "طلب رئيس الوزراء الباكستاني السابق عمران خان الحصول على علاج طبي عاجل في رسالة نشرها محاميه، محذراً من أن تدهور حالته الصحية داخل السجن قد يودي بحياته. من جانبهم، نفى مسؤولون حكوميون باكستانيون هذه الادعاءات، مؤكدين أنه يخضع لفحوصات دورية وأن حالته الصحية مرضية.",
-   "body_ar": [
-    "أوضح خان أنه يقبع في الحبس الانفرادي لمدة تصل إلى 22 ساعة يومياً محروماً من زيارات العائلة ومتابعة التلفاز والكتب، مشيراً إلى تحذير الأطباء من تعرضه لخطر نوبة قلبية أو نزيف في المخ. كما أشار إلى أن زوجته بشرى بيبي بحاجة لجراحة عاجلة لتجنب فقدان البصر الدائم نتيجة انفصال في الشبكية.",
-    "وعارض وزير الشؤون البرلمانية طارق فضل شودري هذه المزاعم، مؤكداً أن خان يحظى بكافة التسهيلات في السجن إلى جانب طعامه المفضل. وأضافت السلطات أنه نُقل إلى المستشفى قبل أسبوع وتلقى حقنة في عينه، حيث اعتبره الأطباء في حالة سريرية مستقرة."
-   ]
-  },
-  {
-   "id": "660b42e3ae96",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.co.uk/persian/live/cj4gnx0vr1ewt?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T01:24:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "جی‌دی ونس: اجازه نخواهیم داد که جنگ ایران حتی دو سال طول بکشد",
-   "title_en": "JD Vance: We will not allow the Iran war to last even two years",
-   "summary_en": "US Vice President JD Vance stated in an interview that the administration will not allow the war with Iran to become a two-year long-term commitment.",
-   "body_en": [
-    "In an interview with Fox News, Vance emphasized that although Iran's nuclear program poses a threat to the United States, the American people have been promised they will not enter endless wars.",
-    "Referring to the remaining time in Donald Trump's second term, he noted that the conflict would not be prolonged and that the president would bring the matter to a close with favorable results."
-   ],
-   "title_fa": "جی‌دی ونس: اجازه نخواهیم داد که جنگ ایران حتی دو سال طول بکشد",
-   "summary_fa": "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در مصاحبه‌ای اعلام کرد که دولت این کشور اجازه نخواهد داد جنگ با ایران به یک تعهد طولانی‌مدت دو ساله تبدیل شود.",
-   "body_fa": [
-    "آقای ونس در گفت‌وگو با شبکه فاکس‌نیوز تاکید کرد که اگرچه برنامه هسته‌ای ایران تهدیدی برای ایالات متحده به شمار می‌رود، اما به مردم آمریکا قول داده شده است که وارد جنگ‌های بی‌پایان نشوند.",
-    "او با اشاره به زمان باقی‌مانده از دور دوم ریاست‌جمهوری دونالد ترامپ، خاطرنشان کرد که این مناقشه به طول نینجامد و رئیس‌جمهور موضوع را با نتایجی مطلوب به پایان خواهد رساند."
-   ],
-   "title_ar": "جيه دي فانس: لن نسمح بأن تستمر حرب إيران حتى لعامين",
-   "summary_ar": "صرح نائب الرئيس الأمريكي جيه دي فانس في مقابلة بأن الإدارة لن تسمح بأن تحول الحرب مع إيران إلى التزام طويل الأمد لمدة عامين.",
-   "body_ar": [
-    "وفي مقابلة مع شبكة فوكس نيوز، أکد فانس أنه على الرغم من أن البرنامج النووي الإيراني يمثل تهديداً للولايات المتحدة، إلا أنه قد وعد الشعب الأمريكي بأنهم لن يدخلوا حروباً لا نهاية لها.",
-    "ومشيراً إلى الوقت المتبقي من ولاية دونالد ترامب الثانية، أشار إلى أن الصراع لن يطول وأن الرئيس سيجلب الأمر إلى نهايته بنتائج إيجابية."
    ]
   },
   {
