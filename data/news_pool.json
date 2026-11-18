@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:24:40Z",
+ "updated": "2026-11-18T19:29:04Z",
  "items": [
   {
    "id": "4e56eb2b5b97",
@@ -3393,6 +3393,268 @@
    ],
    "desc": "تراجع الليرة السورية أمام الدولار يثير مخاوف ارتفاع الأسعار وازدياد الضغوط المعيشية الصعبة، وسط انقسام بين التفاؤل الرسمي بتعافي الاقتصاد والتحذيرات من تراجع القدرة الشرائية",
    "score": 6
+  },
+  {
+   "id": "7512ebe45fae",
+   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "date": "2026-11-18T18:22:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
+   "score": 7
+  },
+  {
+   "id": "86dace6c33ac",
+   "title": "Israeli forces launch new military operation in central Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T18:12:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+   "score": 9,
+   "dup_of": "48dc592f6430"
+  },
+  {
+   "id": "0ee878b982eb",
+   "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+   "date": "2026-11-18T17:45:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+   "score": 6
+  },
+  {
+   "id": "725f3be025eb",
+   "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+   "date": "2026-11-18T16:47:26Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+   "score": 10,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "9d29e3bcc686",
+   "title": "World Bank official says Lebanon reconstruction making slow progress",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+   "date": "2026-11-18T16:44:59Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+   "score": 6
+  },
+  {
+   "id": "5bff79f98768",
+   "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+   "date": "2026-11-18T16:28:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+   "score": 7,
+   "dup_of": "d0399a8b5041"
+  },
+  {
+   "id": "cf9062f00bc8",
+   "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+   "date": "2026-11-18T16:03:21Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians fled their tents and shelters in central Gaza on Wednesday after Israel launched a rare ground operation in an area it withdrew ​from under a ‌2025 ceasefire. The Israeli army said it crossed the Yellow Line separating Israeli and Hamas-controlled areas \"to remove a threat posed to IDF troops operating in the Gaza Strip\".",
+   "score": 9,
+   "dup_of": "48dc592f6430"
+  },
+  {
+   "id": "3d1fb336c183",
+   "title": "Petrol and diesel prices reduced by Rs3 per litre each",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045444/petrol-and-diesel-prices-reduced-by-rs3-per-litre-each",
+   "date": "2026-11-18T17:32:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "e24ba521edb5",
+   "title": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
+   "date": "2026-11-18T16:18:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan. The 26th Amendment , passed in October 2024, carved constitutional benches out of the Supreme Court, with their members chosen by a reconstituted Judicial Commission of Pakistan (JCP) in which judges no longer held a majority. Barely a year later, the 27th Amendment turned those benches into an entirely separate court, the Federal Constitutional Court (FCC). It also made significant changes to the judicial system",
+   "score": 7
+  },
+  {
+   "id": "f4d1bcf74efa",
+   "title": "PTA says submarine cable fault may cause internet connectivity issues",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues",
+   "date": "2026-11-18T18:50:57Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Pakistan Telecommunication Authority (PTA) said on Wednesday that a fault in one of the international submarine cable systems may result in users experiencing internet connectivity issues. “One of the international submarine cable systems, the SEA-ME-WE 5 (SMW5), has reported a fault at about 11km from Pakistan’s shore, which may cause some internet users to experience intermittent connectivity issues and a decline in service quality,” the authority said. “Transworld Associates is coordinating with the SMW5 consortium to identify the root cause of the fault and determine the estimated time",
+   "score": 3
+  },
+  {
+   "id": "c02a767cf39f",
+   "title": "KP governor forms 8-member commission to probe illegal placer gold mining",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045455/kp-governor-forms-8-member-commission-to-probe-illegal-placer-gold-mining",
+   "date": "2026-11-18T18:11:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: Khyber Pakhtunkhwa Governor Faisal Karim Kundi on Wednesday constituted an eight-member inquiry commission to probe illegal placer gold mining in the province. The commission, according to a notification issued by the provincial home and tribal affairs department, will be headed by retired Justice Asadullah Khan Chamkani. It will also include as members Barrister Mohammad Yaseen Raza, legal adviser/member Sher Akbar Khan, Deputy Inspector General of Police Wasif Rahman, Health Department Additional Secretary Engineer Ziarat Khan, and representatives of intelligence agencies. Accordin",
+   "score": 3
+  },
+  {
+   "id": "90f4b66e1a16",
+   "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece",
+   "date": "2026-11-18T17:43:26Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Police have recorded dozens of crude bomb blasts and incidents of vehicles ​being torched in at least ‌28 districts over the last 10 days, with several police personnel and civilians injured, local media has reported",
+   "score": 8
+  },
+  {
+   "id": "a4f29d842b8e",
+   "title": "Saudis prepare for Houthi war to last well into 2027",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
+   "date": "2026-11-18T17:25:36Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi and Yemeni forces are ​now reorganising, with plans to protect Aden from the Houthi advances and potentially shift their offensive to eastern fronts where they have made some advances or have at least held their lines",
+   "score": 8
+  },
+  {
+   "id": "c8aacc1a9a46",
+   "title": "Ethiopia, Eritrea amass forces along border, heightening war fears: Sources",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources/article71717229.ece",
+   "date": "2026-11-18T17:23:13Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "The fighting in Tigray has stoked fears of a ​wider conflagration in the Horn of Africa, with Ethiopia’s government also accusing Sudan, which is in the midst of its own civil war, and Egypt of backing the rebels; Eritrea, Sudan, Egypt ⁠all deny doing so",
+   "score": 8
+  },
+  {
+   "id": "47d069a986ec",
+   "title": "Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece",
+   "date": "2026-11-18T17:21:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year",
+   "score": 8,
+   "dup_of": "aeecd4d18816"
+  },
+  {
+   "id": "3ca5126a138f",
+   "title": "India, Canada eye defence pact during Modi visit in December",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-canada-eye-defence-pact-during-modi-visit-in-december/article71716898.ece",
+   "date": "2026-11-18T17:16:14Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India’s High Commissioner to Ottawa says both countries cannot afford to let fringe issues derail their extensive mutual interests",
+   "score": 7
+  },
+  {
+   "id": "31ee96812c54",
+   "title": "U.S.-Saudi nuclear agreement 'satisfactory': IAEA",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-saudi-nuclear-agreement-satisfactory-iaea/article71717133.ece",
+   "date": "2026-11-18T16:56:44Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "According to the accord, the IAEA \"will be provided with information about, and access to any sites for conversion, enrichment, fuel fabrication and reprocessing\" in Saudi Arabia, Grossi said",
+   "score": 9,
+   "dup_of": "db6b1b176967"
+  },
+  {
+   "id": "044b00745a25",
+   "title": "نشست تاریخی ترامپ، شی و پوتین؛ آیا سرنوشت جنگ ایران رقم می‌خورد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ck4gn3r5gqjjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T18:09:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "دیدار دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین، رهبران آمریکا، چین و روسیه در حاشیه اجلاس همکاری اقتصادی آسیا و اقیانوسیه، اپک، از کم‌سابقه‌ترین رویدادهای دیپلماتیک سال‌های اخیر است؛ نشستی که می‌تواند تصویری از توازن تازه قدرت در جهان ارائه کند. در حالی که جنگ ایران و آمریکا، جنگ اوکراین و رقابت اقتصادی واشنگتن و پکن همچنان بر روابط بین‌المللی سایه انداخته‌اند، رهبران سه قدرت بزرگ پنجشنبه ۱۹ نوامبر، ۲۸ آبان، در شنژن چین دیدار می‌کنند. این نخستین نشست سه‌جانبه در سطح رهبران کنونی این کشورهاست؛ سه قدرتی که در مجموع بخش عمده زرادخانه هسته‌ای جهان را در اختیار دارند.",
+   "score": 10
+  },
+  {
+   "id": "2f4651c58b9c",
+   "title": "الإمارات والصومال: ما وراء الخلاف؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:09:59Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "الرئيس الصومالي يوجه انتقادات حادّة إلى الإمارات عقب تدهور العلاقات بين البلدين في العام 2018، فما القصة؟",
+   "score": 7
   }
  ]
 }

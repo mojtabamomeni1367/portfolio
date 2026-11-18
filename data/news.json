@@ -1,7 +1,219 @@
 {
- "updated": "2026-11-18T16:24:40Z",
- "count": 448,
+ "updated": "2026-11-18T19:29:04Z",
+ "count": 450,
  "items": [
+  {
+   "id": "7512ebe45fae",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "date": "2026-11-18T18:22:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "title_en": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "summary_en": "An Israeli court has extended the detention of Dr. Hussam Abu Safia, director of Kamal Adwan Hospital in Gaza, for another six months without charge. International agencies and human rights groups have repeatedly called for his release amid reports of mistreatment in detention.",
+   "body_en": [
+    "Abu Safia’s lawyer stated that a court in Beersheba ruled on Wednesday to prolong the physician’s detention, with the court alleging that he poses a threat to Israel. The Israeli military detained Abu Safia in December 2024 during a raid on Kamal Adwan Hospital in northern Gaza.",
+    "The Office of the United Nations High Commissioner for Human Rights stated in July that Abu Safia must be immediately released or charged, citing information that he has faced torture and denial of medical care. Physicians for Human Rights Israel also reported that independent medical records show a significant decline in his health."
+   ],
+   "title_fa": "دادگاه اسرائیل بازداشت ابوسفیان، پزشک غزه‌ای را بدون طرح اتهام تمدید کرد",
+   "summary_fa": "یک دادگاه اسرائیلی بازداشت دکتر حسام ابوسفیان، رئیس بیمارستان کمال عدوان در غزه را به مدت شش ماه دیگر و بدون طرح اتهام تمدید کرد. نهادهای بین‌المللی و گروه‌های حقوق بشری بارها خواستار آزادی او در پی گزارش‌هایی درباره بدرفتاری در دوران بازداشت شده‌اند.",
+   "body_fa": [
+    "وکیل ابوسفیان اظهار داشت که دادگاهی در بئرالسبع روز چهارشنبه حکم به تمدید بازداشت این پزشک داد و دادگاه مدعی شد که او برای اسرائیل تهدید محسوب می‌شود. ارتش اسرائیل ابوسفیان را در دسامبر ۲۰۲۴ طی یورش به بیمارستان کمال عدوان در شمال غزه بازداشت کرد.",
+    "دفتر کمیساریای عالی حقوق بشر سازمان ملل متحد در ماه ژوئیه اعلام کرد که ابوسفیان باید فوراً آزاد یا تفهیم اتهام شود و به اطلاعاتی درباره شکنجه و محرومیت وی از مراقبت‌های پزشکی اشاره کرد. پزشکان حقوق بشر اسرائیل نیز گزارش دادند که سوابق پزشکی مستقل نشان‌دهنده افت شدید وضعیت سلامتی اوست."
+   ],
+   "title_ar": "محكمة إسرائيلية تمدد اعتقال طبيب غزة أبو صفية دون توجيه تهمة",
+   "summary_ar": "مددت محكمة إسرائيلية اعتقال الدكتور حسام أبو صفية، مدير مستشفى كمال عدوان في غزة، لمدة ستة أشهر أخرى دون توجيه تهمة. وقد دعت وكالات دولية ومجموعات حقوقية مراراً وتكراراً إلى الإفراج عنه وسط تقارير تفيد بتعرضه سوء معاملة أثناء الاحتجاز.",
+   "body_ar": [
+    "ذكر محامي أبو صفية أن محكمة في بئر السبع قررت يوم الأربعاء تمديد احتجاز الطبيب، بدعوى أنه يمثل تهديداً لإسرائيل. وكان الجيش الإسرائيلي قد اعتقل أبو صفية في ديسمبر/كانون الأول 2024 خلال مداهمة لمستشفى كمال عدوان في شمال غزة.",
+    "ذكر مكتب مفوض الأمم المتحدة السامي لحقوق الإنسان في يوليو/تموز أنه يجب الإفراج الفوري عن أبو صفية أو توجيه اتهام رسمي له، مشيراً إلى تلقي معلومات تفيد بتعرضه للتعذيب والحرمان من الرعاية الطبية. كما أفادت منظمة أطباء لحقوق الإنسان في إسرائيل أن السجلات الطبية المستقلة تظهر تراجعاً ملحوظاً في صحته."
+   ]
+  },
+  {
+   "id": "044b00745a25",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/ck4gn3r5gqjjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T18:09:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 10,
+   "title": "نشست تاریخی ترامپ، شی و پوتین؛ آیا سرنوشت جنگ ایران رقم می‌خورد؟",
+   "title_en": "Historic summit of Trump, Xi and Putin: Is the fate of the Iran war being shaped?",
+   "summary_en": "Donald Trump, Xi Jinping, and Vladimir Putin are set to hold a rare trilateral summit in Shenzhen, China, during the APEC summit, with discussions expected to touch on nuclear arsenals, the Ukraine war, and the ongoing conflict involving Iran.",
+   "body_en": [
+    "The meeting marks the first trilateral summit at the current leaders' level between the three nuclear powers, reminiscent of World War II conferences like Tehran and Yalta, though the leaders represent competing interests rather than an alliance. A senior U.S. official confirmed that President Trump plans to raise the Iran issue, aiming to leverage China and Russia's ties with Tehran to seek a ceasefire or end to the conflict.",
+    "However, analysts note that Beijing and Moscow have distinct goals, with China seeking to protect its energy imports and economic relations with the U.S., while Russia balances strategic ties with Tehran against its own focus on the Ukraine war. Any concrete outcome regarding Iran remains uncertain due to the differing interests and complexities involved."
+   ],
+   "title_fa": "نشست تاریخی ترامپ، شی و پوتین؛ آیا سرنوشت جنگ ایران رقم می‌خورد؟",
+   "summary_fa": "دونالد ترامپ، شی جین‌پینگ و ولادیمیر پوتین در حاشیه اجلاس اپک در شنژن چین نشستی سه‌جانبه برگزار می‌کنند و انتظار می‌رود درباره زرادخانه‌های هسته‌ای، جنگ اوکراین و جنگ ایران گفتگو کنند.",
+   "body_fa": [
+    "این دیدار نخستین نشست سه‌جانبه در سطح رهبران کنونی این سه قدرت هسته‌ای است و یادآور کنفرانس‌های جنگ جهانی دوم مانند تهران و یالتاست، هرچند رهبران به جای اتحاد، نمایندگان منافع رقابتی هستند. یک مقام ارشد آمریکایی تأیید کرد که رئیس‌جمهور ترامپ قصد دارد موضوع ایران را مطرح کند و هدف آن استفاده از روابط چین و روسیه با تهران برای دستیابی به آتش‌بس یا پایان درگیری است.",
+    "با این حال، تحلیلگران خاطرنشان می‌کنند که پکن و مسکو اهداف متفاوتی دارند؛ چین به دنبال حفاظت از واردات انرژی و روابط اقتصادی با آمریکاست، در حالی که روسیه روابط راهبردی با تهران را با تمرکز خود بر جنگ اوکراین متعادل می‌کند. هرگونه نتیجه ملموس درباره ایران به دلیل تفاوت منافع و پیچیدگی‌هایinvolved نامشخص باقی می‌ماند."
+   ],
+   "title_ar": "قمة تاريخية لترامب، شي بوتين: هل يُصاغ مصير الحرب الإيرانية؟",
+   "summary_ar": "من المقرر أن يعقد دونالد ترامب، وشي جین‌پینگ، وبلاديمير بوتين قمة ثلاثية نادرة في شنجن بالصين على هامش قمة أبيك، ومن المتوقع أن تتطرق المناقشات إلى التרسانات النووية وحرب أوكرانيا والصراع المستمر الذي يشارك فيه إيران.",
+   "body_ar": [
+    "يمثل اللقاء أول قمة ثلاثية على مستوى الزعماء الحاليين بين القوى النووية الثلاث، مما يذكر بمؤتمرات الحرب العالمية الثانية مثل طهران ويالتا، رغم أن الزعماء يمثلون مصالح متنافسة بدلاً من التحالف. وأكد مسؤول أمريكي كبير أن الرئيس ترامب يخطط لإثارة قضية إيران بهدف الاستفادة من علاقات الصين وروسيا مع طهران للسعي نحو وقف إطلاق النار أو إنهاء الصراع.",
+    "ومع ذلك، يشير المحللون إلى أن بكين وموسكو لهما أهداف متميزة، حيث تسعى الصين لحماية وارداتها من الطاقة وعلاقاتها الاقتصادية مع الولايات المتحدة، بينما توازن روسيا علاقاتها الاستراتيجية مع طهران مقابل تركيزها الخاص على حرب أوكرانيا. ولا تزال أي نتيجة ملموسة بشأن إيران غير مؤكدة بسبب تضارب المصالح والتعقيدات المعنية."
+   ]
+  },
+  {
+   "id": "90f4b66e1a16",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece",
+   "date": "2026-11-18T17:43:26Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 8,
+   "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
+   "title_en": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
+   "summary_en": "Bangladesh has stepped up security and deployed hundreds of paramilitary troops nationwide following violent protests, bomb blasts, and arson attacks sparked by the planned December return of ousted former Prime Minister Sheikh Hasina.",
+   "body_en": [
+    "Ms. Hasina, living in exile in India since her August 2024 ouster, requested a new passport to return, which the government has rejected. Her banned Awami League party announced a week of protests and a nationwide lockdown, leading to widespread unrest that included crude bomb blasts, vehicle torching, and attacks on Grameen Bank branches.",
+    "Authorities reported multiple casualties, including the death of a ruling party activist and a bus helper. Police have arrested dozens of members of banned organisations, while the Home Minister accused exiled party leaders of inciting the violence."
+   ],
+   "title_fa": "بنگلادش در پی افزایش ناآرامی‌ها بر سر بازگشت حسینا نیروی شبه‌نظامی مستقر کرد",
+   "summary_fa": "بنگلادش به دنبال اعتراضات خشونت‌آمیز، انفجارهای بمب و حملات آتش‌سوزی ناشی از برنامه‌ریزی برای بازگشت شیخ حسینا، نخست‌وزیر پیشین برکنارشده، امنیت را افزایش داده و صدها نیروی شبه‌نظامی در سراسر کشور مستقر کرده است.",
+   "body_fa": [
+    "خانم حسینا که از زمان برکناری در اوت ۲۰۲۴ در تبعید در هند زندگی می‌کند، خواستار گذرنامه جدیدی برای بازگشت شده که دولت آن را رد کرده است. حزب ممنوعه «عوامی لیگ» او یک هفته اعتراض و قرنطینه سراسری اعلام کرد که منجر به ناآرامی‌های گسترده از جمله انفجارهای بمب دست‌ساز، آتش زدن خودروها و حملات به شعب بانک گرامین شد.",
+    "مقام‌ها از تلفات متعددی از جمله مرگ یک فعال حزب حاکم و یک کمک‌راننده اتوبوس خبر دادند. پلیس ده‌ها تن از اعضای سازمان‌های ممنوعه را بازداشت کرده و وزیر کشور رهبران تبعیدی حزب را به تحریک خشونت متهم کرد."
+   ],
+   "title_ar": "بنغلاديش نشر قوات شبه عسكرية مع تزايد الاضطرابات بسبب عودة حسينة",
+   "summary_ar": "عززت بنغلاديش الأمن ونشرت مئات القوات شبه العسكرية في جميع أنحاء البلاد في أعقاب الاحتجاجات العنيفة، وتفجيرات القنابل، وهجمات الإحراق المتعمد التي أثارتها خطط عودة رئيسة الوزراء السابقة المخلوعة شيخ حسينة في ديسمبر.",
+   "body_ar": [
+    "طلبت السيد حسينة، التي تعيش في المنفى بالهند منذ الإطاحة بها في أغسطس 2024، جواز سفر جديداً للعودة، وهو ما رفضته الحكومة. وأعلن حزب رابطة عوامي المحظور عن أسبوع من الاحتجاجات وإغلاق وطني، مما أدى إلى اضطرابات واسعة النطاق شملت تفجيرات بقنابل بدائية، وإحراق المركبات، وهجمات على فروع بنك غرامين.",
+    "أبلغت السلطات عن وقوع إصابات متعددة، بما في ذلك مقتل ناشط في الحزب الحاكم ومساعد حافلة. واعتقلت الشرطة العشرات من أعضاء المنظمات المحظورة، بينما اتهم وزير الداخلية قادة الحزب في المنفى بتحريض العنف."
+   ]
+  },
+  {
+   "id": "a4f29d842b8e",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
+   "date": "2026-11-18T17:25:36Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudis prepare for Houthi war to last well into 2027",
+   "title_en": "Saudis prepare for Houthi war to last well into 2027",
+   "summary_en": "Saudi Arabia is preparing for its conflict with Yemen's Houthis to continue well into 2027, aiming for military gains by allied forces before entering any negotiations.",
+   "body_en": [
+    "According to Western officials, Riyadh aims to secure ground gains through its Yemeni allies over the next six months. The conflict has escalated following Houthi advances along the Red Sea coast and attacks on Saudi infrastructure, including the Aramco headquarters in Riyadh and the city's airport, which caused disruptions to major events and sports tournaments.",
+    "While U.S. offensive support has been withheld, Saudi Arabia has reorganised its military leadership and coalition command. Public messaging in the kingdom has increasingly reflected the war's impact, appearing in state media, official statements, and Friday mosque sermons."
+   ],
+   "title_fa": "عربستان سعودی برای جنگ با حوثی‌ها تا اواخر سال ۲۰۲۷ آماده می‌شود",
+   "summary_fa": "عربستان سعودی در حال آماده شدن برای ادامه درگیری خود با حوثی‌های یمن تا سال ۲۰۲۷ است و هدف آن کسب دستاوردهای نظامی توسط نیروهای متحد پیش از ورود به هرگونه مذاکره است.",
+   "body_fa": [
+    "به گفته مقام‌های غربی، ریاض قصد دارد طی شش ماه آینده از طریق متحدان یمنی خود دستاوردهایی در میدان جنگ کسب کند. این درگیری به دنبال پیشروی‌های حوثی‌ها در سواحل دریای سرخ و حملات به زیرساخت‌های عربستان، از جمله مقر آرامکو در ریاض و فرودگاه این شهر که باعث اختلال در رویدادهای بزرگ و تورنمنت‌های ورزشی شد، تشدید یافته است.",
+    "در حالی که حمایت تهاجمی ایالات متحده ارائه نشده است، عربستان سعودی رهبری نظامی و فرماندهی ائتلاف خود را سازماندهی مجدد کرده است. پیام‌رسانی عمومی در پادشاهی به طور فزاینده‌ای منعکس‌کننده تأثیر جنگ بوده و در رسانه‌های دولتی، بیانیه‌های رسمی و خطبه‌های نماز جمعه ظاهر شده است."
+   ],
+   "title_ar": "السعودية تستعد لاستمرار الحرب مع الحوثيين حتى عام 2027",
+   "summary_ar": "تستعد السعودية لاستمرار صراعها مع الحوثيين في اليمن حتى عام 2027، بهدف تحقيق مكاسب عسكرية للقوات الحليفة قبل الدخول في أي مفاوضات.",
+   "body_ar": [
+    "وفقاً لمسؤولين غربيين، تهدف الرياض إلى تأمين مكاسب على الأرض من خلال حلفائها اليمنييين خلال الأشهر الستة المقبلة. وقد تصاعد الصراع في أعقاب تقدم الحوثيين على طول ساحل البحر الأحمر والهجمات على البنية التحتية السعودية، بما في ذلك مقر أرامكو في الرياض ومطار المدينة، مما أدى إلى تعطيل الفعاليات الكبرى والبطولات الرياضية.",
+    "وفي حين تم حجب الدعم الهجومي الأمريكي، أعادت السعودية تنظيم قيادتها العسكرية وقيادة التحالف. وقد انعكس الخطاب العام في المملكة بشكل متزايد على تأثير الحرب، حيث ظهر في وسائل الإعلام الرسمية، والبيانات الرسمية، وخُطب صلاة الجمعة."
+   ]
+  },
+  {
+   "id": "c8aacc1a9a46",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources/article71717229.ece",
+   "date": "2026-11-18T17:23:13Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 8,
+   "title": "Ethiopia, Eritrea amass forces along border, heightening war fears: Sources",
+   "title_en": "Ethiopia, Eritrea amass forces along border, heightening war fears: Sources",
+   "summary_en": "Conflict monitors and local sources report that Ethiopia and Eritrea have amassed military forces along their shared border, sparking fears of a renewed outright war between the two nations.",
+   "body_en": [
+    "The military build-up follows recent fighting between Ethiopia's federal government and rebels in the Tigray region, with monitors such as ACLED reporting artillery shelling and drone strikes near the border town of Badme. While Eritrea's Information Minister dismissed reports of a build-up as propaganda, diplomats and analysts warn that escalating clashes could draw Asmara deeper into the conflict and trigger a direct war with Ethiopia.",
+    "Relations between the two historical rivals have deteriorated since Tigray's civil war, despite a 2018 peace deal, exacerbated by Ethiopian Prime Minister Abiy Ahmed's calls for secure access to the sea."
+   ],
+   "title_fa": "منابع: اتیوپی و اریتره نیروهای خود را در امتداد مرز مستقر کردند که ترس از جنگ را افزایش داد",
+   "summary_fa": "ناظران درگیری و منابع محلی گزارش می‌دهند که اتیوپی و اریتره نیروهای نظامی خود را در امتداد مرز مشترک خود مستقر کرده‌اند که ترس از جنگ تمام‌عیار جدیدی را بین دو کشور برانگیخته است.",
+   "body_fa": [
+    "این استقرار نظامی به دنبال درگیری‌های اخیر میان دولت فدرال اتیوپی و شورشیان در منطقه تیگرای صورت می‌گیرد و ناظرانی مانند ACLED از گلوله‌باران توپخانه‌ای و حملات پهپادی در نزدیکی شهر مرزی بادمه خبر داده‌اند. در حالی که وزیر اطلاعات اریتره گزارش‌های مربوط به استقرار نیرو را پروپاگاندا رد کرد، دیپلمات‌ها و تحلیلگران هشدار می‌دهند که تشدید درگیری‌ها می‌تواند اسمره را بیشتر وارد مناقشه کند و جنگ مستقیمی با اتیوپی به راه بیندازد.",
+    "روابط میان این دو رقیب تاریخی از زمان جنگ داخلی تیگرای، با وجود توافق صلح سال ۲۰۱۸، تیره شده است و درخواست‌های ابی احمد، نخست‌وزیر اتیوپی، برای دسترسی امن به دریا بر شدت آن افزوده است."
+   ],
+   "title_ar": "مصادر: إثيوبيا وإريتريا تحشدان قواتهما على طول الحدود مما يرفع مخاوف الحرب",
+   "summary_ar": "تفيد مراصد الصراع والمصادر المحلية بأن إثيوبيا وإريتريا قد حشدتا قوات عسكرية على طول حدودهما المشتركة، مما أثار المخاوف من اندلاع حرب شاملة جديدة بين البلدين.",
+   "body_ar": [
+    "يأتي الحشد العسكري في أعقاب القتال الدائر بين الحكومة الفدرالية في إثيوبيا والمتمردين في إقليم تيغراي، حيث أفادت مراصد مثل ACLED بوقوع قصف مدفعي وغارات جوية بطائرات مسييرة بالقرب من مدينة بادمي الحدودية. وفي حين رفض وزير الإعلام الإريتري التقارير عن حشد قوات باعتبارها دعاية، يحذر الدبلوماسيون والمحللون من أن الاشتباكات المتصاعدة قد تجر أسمرة عميقاً إلى الصراع وتثير حرباً مباشرة مع إثيوبيا.",
+    "وقد تدهورت العلاقات بين الخصمين التاريخيين منذ الحرب الأهلية في تيغراي، على الرغم من اتفاق السلام لعام 2018، وتفاقمت بسبب دعوات رئيس الوزراء الإثيوبي آبي أحمد للحصول على وصول آمن إلى البحر."
+   ]
+  },
+  {
+   "id": "3ca5126a138f",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-canada-eye-defence-pact-during-modi-visit-in-december/article71716898.ece",
+   "date": "2026-11-18T17:16:14Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "India, Canada eye defence pact during Modi visit in December",
+   "title_en": "India, Canada eye defence pact during Modi visit in December",
+   "summary_en": "India and Canada may announce a defence agreement during Prime Minister Narendra Modi’s official visit in December, according to India’s High Commissioner to Ottawa, Dinesh K. Patnaik. Both nations are also nearing the finalization of a Comprehensive Economic Partnership Agreement.",
+   "body_en": [
+    "Speaking in the Canadian capital, Patnaik noted that the two countries have reached an unprecedented level of mutual trust after previous diplomatic strains. Relations had hit a low following the 2023 murder of Sikh activist Hardeep Singh Nijjar, after which both nations expelled each other's high commissioners.",
+    "Patnaik emphasized that core strategic concerns between India and Canada do not conflict and that they are now expanding cooperation into areas such as deep tech, space, nuclear energy, and trade. The turnaround in ties is set to culminate in Modi’s visit scheduled for December 11 and 12."
+   ],
+   "title_fa": "هند و کانادا به دنبال توافق دفاعی در جریان سفر مودی در ماه دسامبر هستند",
+   "summary_fa": "به گفته دینش ک. پاتنایک، کمیسر عالی هند در اتاوا، هند و کانادا ممکن است در جریان سفر رسمی نارندرا مودی، نخست‌وزیر هند، در ماه دسامبر یک توافقنامه دفاعی اعلام کنند. دو کشور همچنین در آستانه نهایی کردن توافقنامه مشارکت جامع اقتصادی هستند.",
+   "body_fa": [
+    "پاتنایک طی سخنرانی در پایتخت کانادا خاطرنشان کرد که دو کشور پس از تنش‌های دیپلماتیک پیشین، به سطح بی‌سابقه‌ای از اعتماد متقابل رسیده‌اند. روابط پس از قتل هاردیپ سینگ نیجار، فعال سیک در سال ۲۰۲۳، به پایین‌ترین سطح خود رسیده بود و پس از آن دو کشور کمیسران عالی یکدیگر را اخراج کردند.",
+    "پاتنایک تأکید کرد که نگرانی‌های راهبردی اصلی میان هند و کانادا تداخلی با یکدیگر ندارند و دو کشور اکنون در حال گسترش همکاری‌ها در زمینه‌هایی مانند فناوری پیشرفته، فضا، انرژی هسته‌ای و تجارت هستند. روند بهبود روابط قرار است با سفر مودی در روزهای ۱۱ و ۱۲ دسامبر به اوج خود برسد."
+   ],
+   "title_ar": "الهند وكندا تتطلعان لعقد اتفاقية دفاعية خلال زيارة مودي في ديسمبر",
+   "summary_ar": "قد تعلن الهند وكندا عن اتفاقية دفاعية خلال الزيارة الرسمية لرئيس الوزراء ناريندرا مودي في ديسمبر/كانون الأول، وفقاً لما صرح به مفوض الهند السامي لدى أوتاوا، دينيش ك. باتنايك. كما تقترب الدولتان من وضع اللمسات الأخيرة على اتفاقية شراكة اقتصادية شاملة.",
+   "body_ar": [
+    "وأشار باتنايك، خلال كلمة له في العاصمة الكندية، إلى أن البلدين قد وصلا إلى مستوى غير مسبوق من الثقة المتبادلة بعد التوترات الدبلوماسية السابقة. وكانت العلاقات قد شهدت تدهوراً إثر مقتل الناطش السيخي هارديب سينغ نيجار في عام 2023، وهو ما أدى إلى طرد البلدين لمفوضيهما الساميين.",
+    "وأكد باتنايك أن الاهتمامات الاستراتيجية الأساسية بين الهند وكندا لا تتعارض، وأنهما تعملان الآن على توسيع التعاون في مجالات تشمل التقنيات المتقدمة، والفضاء، والطاقة النووية، والتجارة. ومن المقرر أن يبلغ التحسن في العلاقات ذروته خلال زيارة مودي المقررة يومي 11 و12 ديسمبر/كانون الأول."
+   ]
+  },
+  {
+   "id": "2f4651c58b9c",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c60ev4rgy03ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:09:59Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 7,
+   "title": "الإمارات والصومال: ما وراء الخلاف؟",
+   "title_en": "UAE and Somalia: Behind the rift",
+   "summary_en": "Somali President Hassan Sheikh Mohamud launched sharp criticisms against the UAE, accusing it of undermining the federal government and violating national sovereignty. In response, a diplomatic adviser to the UAE president stated that the remarks reflect the Somali leader's shifting positions and personal political calculations.",
+   "body_en": [
+    "In a televised address, President Mohamud criticized agreements made by Abu Dhabi with regional administrations regarding Somali ports and accused the UAE of supporting parallel security structures. He also announced the cancellation of all security, defense, and economic agreements with the UAE and closed airspace to its military and cargo aircraft.",
+    "Anwar Gargash, the diplomatic adviser to the UAE president, responded on X that the remarks by the outgoing Somali president question his prioritization of national interests over internal power struggles. Meanwhile, analysts noted that the escalation comes amid domestic political tensions in Somalia following a disputed constitutional term extension."
+   ],
+   "title_fa": "امارات و سومالی: پشت پرده اختلاف",
+   "summary_fa": "حسن شیخ محمود، رئیس‌جمهور سومالی، انتقادات تندی را متوجه امارات کرد و این کشور را به تضعیف دولت فدرال و نقض حاکمیت ملی متهم ساخت. در مقابل، مشاور دیپلماتیک رئیس‌جمهور امارات اظهار داشت که این سخنان منعکس‌کننده مواضع متغیر و محاسبات سیاسی شخصی رهبر سومالی است.",
+   "body_fa": [
+    "رئیس‌جمهور شیخ محمود در یک سخنرانی تلویزیونی از توافقات ابوظبی با دولت‌های محلی در خصوص بندرهای سومالی انتقاد کرد و امارات را به حمایت از ساختارهای امنیتی موازی متهم ساخت. وی همچنین لغو تمام توافق‌های امنیتی، دفاعی و اقتصادی با امارات را اعلام کرد و حریم هوایی را به روی هواپیماهای نظامی و باربری آن بست.",
+    "انور قرقاش، مشاور دیپلماتیک رئیس‌جمهور امارات، در شبکه اجتماعی ایکس پاسخ داد که اظهارات رئیس‌جمهور منتهی‌الدوره سومالی اولویت‌بندی منافع ملی بر سر کشمکش‌های قدرت داخلی را زیر سوال می‌برد. در همین حال، تحلیلگران اشاره کردند که این تشدید تنش در سایه تنش‌های سیاسی داخلی در سومالی پس از تمدید جنجالی دوره ریاست‌جمهوری رخ داده است."
+   ],
+   "title_ar": "الإمارات والصومال: ما وراء الخلاف؟",
+   "summary_ar": "وجه الرئيس الصومالي حسن شيخ محمود انتقادات حادة للإمارات، متهم إياها بإضعاف الحكومة الفيدرالية وانتهاك السيادة الوطنية. وفي المقابل، ذكر مستشار دبلوماسي لرئيس الدولة الإماراتي أن التصريحات تعكس تقلبات مواقف القائد الصومالي وحساباته السياسية الشخصية.",
+   "body_ar": [
+    "في خطاب متلفز، انتقد الرئيس شيخ محمود الاتفاقيات التي أبرمتها أبوظبي مع الإدارات الإقليمية بشأن الموانئ الصومالية واتهم الإمارات بدعم هياكل أمنية موازية. كما أعلن عن إلغاء جميع الاتفاقيات الأمنية والدفاعية والاقتصادية مع الإمارات وإغلاق المجال الجوي أمام طائراتها العسكرية وشحنها.",
+    "رد أنور قرقاش، المستشار الدبلوماسي للرئيس الإماراتي، عبر منصة إكس بأن تصريحات الرئيس الصومالي المنتهية ولايته تثير تساؤلات حول تغليب مصالحه الشخصية على الوطنية. وفي الوقت نفسه، أشار محللون إلى أن التصعيد يأتي وسط توترات سياسية داخلية في الصومال عقب تمديد ولاية رئاسية مثير للجدل."
+   ]
+  },
   {
    "id": "b9c69386e284",
    "lang": "en",
@@ -245,67 +457,6 @@
    ]
   },
   {
-   "id": "5469193fe1c0",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece",
-   "date": "2026-11-18T11:11:23Z",
-   "countries": [
-    "EGY"
-   ],
-   "score": 6,
-   "title": "LPG tanker that sank off Bulgaria was hit by projectiles: official",
-   "title_en": "LPG tanker that sank off Bulgaria was hit by projectiles: official",
-   "summary_en": "A liquefied petroleum gas tanker that sank off Bulgaria's Black Sea coast was struck by multiple projectiles, according to a regional governor and maritime security sources.",
-   "body_en": [
-    "The Liberian-flagged Gas Husky was carrying 3,400 metric tons of LPG from Egypt to Romania when it sent a distress signal and sank about 50 miles east of Byala, with all 19 crew members rescued. Varna regional governor Mario Smarkov reported four strikes, while two maritime security sources stated the vessel was hit by an unmanned system.",
-    "This incident follows the sinking of a wheat cargo ship in the same area a day earlier, marking the latest in a series of attacks in the Black Sea that have raised concerns amid the ongoing conflict between Russia and Ukraine."
-   ],
-   "title_fa": "یک مقام رسمی: نفتکش ال‌پی‌جی غرق‌شده در سواحل بلغارستان هدف پرتابه قرار گرفته بود",
-   "summary_fa": "به گفته یک فرماندار منطقه‌ای و منابع امنیت دریایی، یک فروند نفتکش گاز مایع که در سواحل دریای سیاه بلغارستان غرق شد، هدف اصابت چندین پرتابه قرار گرفته بود.",
-   "body_fa": [
-    "کشتی «گاس هسکی» با پرچم لیبریا حامل ۳۴۰۰ تن گاز مایع از مصر به رومانی بود که پس از ارسال پیام اضطراری در حدود ۵۰ مایلی شرق بیالا غرق شد و هر ۱۹ خدمه آن نجات یافتند. ماریو اسمارکوف، فرماندار منطقه وارنا، از چهار اصابت خبر داد و دو منبع امنیت دریایی اعلام کردند که این کشتی توسط یک سامانه بدون سرنشین هدف قرار گرفته است.",
-    "این رویداد به دنبال غرق شدن یک فروند کشتی حامل گندم در همان منطقه در روز قبل رخ داد و آخرین مورد از سلسله حملاتی در دریای سیاه است که در بحبوحه درگیری‌های جاری میان روسیه و اوکراین نگرانی‌هایی را برانگیخته است."
-   ],
-   "title_ar": "مسؤول: ناقلة غاز مسال غرقت قبالة بلغاريا تعرضت للإصابة بمقذوفات",
-   "summary_ar": "صرح محافظ إقليمي ومصادر أمن بحري بأن ناقلة غاز نفطي مسال غرقت قبالة ساحل بلغاريا على البحر الأسود تعرضت للإصابة بمقذوفات متعددة.",
-   "body_ar": [
-    "كانت الناقلة «گاس هسکی» التي ترفع علم ليبيريا تحمل 3400 طن متري من الغاز المسال من مصر إلى رومانيا عندما أرسلت إشارة استغاثة وغرقت على بعد نحو 50 ميلاً شرق بيالا، وتم إنقاذ جميع أفراد طاقمها البالغ عددهم 19 فرداً. وأفاد محافظ فارنا الإقليمي ماريو سماركوف بوقوع چهار ضربات، بينما ذكرت مصادر أمن بحري أن السفينة أصابتها منظومة مسيرة.",
-    "يأتي هذا الحادث بعد غرق سفينة محملة بالقمح في المنطقة ذاتها قبل يوم واحد، وهو الأحدث في سلسلة هجمات في البحر الأسود أثارت مخاوف وسط الصراع المستمر بين روسيا وأوكرانيا."
-   ]
-  },
-  {
-   "id": "a9cefeb13011",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-   "date": "2026-11-18T09:58:28Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
-   "title_en": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
-   "summary_en": "Fears are growing that the United States could impose sanctions on judges of the International Court of Justice if the court rules that Myanmar committed genocide against the Rohingya.",
-   "body_en": [
-    "The ICJ is set to rule on whether Myanmar's military actions in Rakhine state constituted genocide, a decision that could set a precedent for cases regarding Israel's actions in Gaza. The US and Israel fear that establishing a legal threshold for intent in this case could increase the likelihood of similar rulings against Israel.",
-    "Washington has already sanctioned the International Criminal Court and its officials over arrest warrants for Israeli Prime Minister Benjamin Netanyahu. Senior US officials, including ambassador to the UN Mike Waltz and Secretary of State Marco Rubio, have issued stern warnings to the ICJ judges, particularly ad hoc judge and Nobel laureate Navi Pillay."
-   ],
-   "title_fa": "افزایش نگرانی‌ها پیرامون تحریم‌های احتمالی آمریکا علیه قضات دیوان بین‌المللی دادگستری در آستانه رأی پرونده نسل‌کشی میانمار",
-   "summary_fa": "نگرانی‌ها در حال افزایش است که اگر دیوان بین‌المللی دادگستری حکم دهد که میانمار مرتکب نسل‌کشی علیه روهینگیا شده است، ایالات متحده ممکن است قضات این دادگاه را تحریم کند.",
-   "body_fa": [
-    "دیوان بین‌المللی دادگستری قرار است درباره اینکه آیا اقدامات نظامی میانمار در ایالت راخین مصداق نسل‌کشی بوده است یا خیر تصمیم‌گیری کند؛ تصمیمی که می‌تواند برای پرونده‌های مربوط به اقدامات اسرائیل در غزه سابقه ایجاد کند. ایالات متحده و اسرائیل نگرانند که تعیین آستانه حقوقی برای احراز «نیت» در این پرونده، احتمال احکام مشابه علیه اسرائیل را افزایش دهد.",
-    "واشنگتن پیش‌تر دیوان کیفری بین‌المللی و مقامات آن را به دلیل صدور احکام بازداشت برای بنیامین نتانیاهو، نخست‌وزیر اسرائیل، تحریم کرده است. مقام‌های ارشد آمریکایی از جمله مایک والتز، سفیر آمریکا در سازمان ملل، و مارکو روبیو، وزیر امور خارجه، هشدار جدی به قضات دیوان بین‌المللی دادگستری از جمله ناوی پیلای، قاضی موقت و برنده جایزه صلح نوبل، داده‌اند."
-   ],
-   "title_ar": "تزايد المخاوف بشأن فرض عقوبات أمريكية محتملة على قضاة محكمة العدل الدولية قبيل النطق بالحكم في قضية إبادة جماعية بميانمار",
-   "summary_ar": "تتزايد المخاوف من أن تستهدف الولايات المتحدة قضاة محكمة العدل الدولية بعقوبات إذا قضت المحكمة بأن حكومة ميانمار ارتكبت إبادة جماعية بحق الروهينغا.",
-   "body_ar": [
-    "من المقرر أن تصدر محكمة العدل الدولية حكمها بشأن ما إذا كانت العمليات العسكرية لميانمار في ولاية راخين تشكل إبادة جماعية، وهو قرار قد يضع سوابق للقضايا المتعلقة بأفعال إسرائيل في غزة. وتخشى الولايات المتحدة وإسرائيل أن يؤدي وضع عتبة قانونية للنية في هذه القضية إلى زيادة احتمالية صدور أحكام مماثلة ضد إسرائيل.",
-    "سبق أن فرضت واشنگتن عقوبات على المحكمة الجنائية الدولية ومسؤوليها بسبب إصدار مذكرات توقيف بحق رئيس الوزراء الإسرائيلي بنيامين نتنياهو. وقد وجه مسؤولون أمريكيون كبار، من بينهم السفير الأمريكي لدى الأمم المتحدة مايك والتز ووزير الخارجية ماركو روبيو، تحذيرات شديدة اللهجة لقضاة محكمة العدل الدولية، ولا سيما القاضية الخاصة الحائزة على جائزة نوبل نافي بيلاي."
-   ]
-  },
-  {
    "id": "5e0ba5241b90",
    "lang": "en",
    "source": "Dawn",
@@ -429,37 +580,6 @@
    ]
   },
   {
-   "id": "1bedbec4b35c",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045169/bankrolling-attacks-in-gaza-how-a-global-bank-arms-israel",
-   "date": "2026-11-18T07:24:56Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Bankrolling attacks in Gaza: How a global bank arms Israel",
-   "title_en": "Bankrolling attacks in Gaza: How a global bank arms Israel",
-   "summary_en": "In early 2022, Deutsche Bank approved an 11.4 million euro advance payment guarantee supporting German manufacturer Renk's contract to provide gearboxes for Israeli Merkava 4 tanks.",
-   "body_en": [
-    "Internal bank review concluded the trade finance deal posed low reputational risk, noted the parts were not classified as weapons under German law, and anticipated the first delivery in September 2024.",
-    "The financial arrangement remained unaffected by subsequent events in Gaza, where Merkava tanks have been repeatedly deployed in deadly attacks involving civilians."
-   ],
-   "title_fa": "تأمین مالی حملات در غزه: چگونه یک بانک جهانی اسرائیل را مسلح می‌کند",
-   "summary_fa": "در اوایل سال ۲۰۲۲، دویچه بانک یک ضمانت‌نامه پیش‌پرداخت به ارزش ۱۱٫۴ میلیون یورو را برای حمایت از قرارداد شرکت آلمانی رنک جهت تأمین جعبه‌دنده تانک‌های مرکاوا ۴ اسرائیل تصویب کرد.",
-   "body_fa": [
-    "بررسی‌های داخلی بانک نشان داد این معامله مالی ریسک اعتباری پایینی دارد، قطعات مذکور طبق قوانین آلمان سلاح محسوب نمی‌شوند و نخستین محموله در سپتامبر ۲۰۲۴ تحویل داده خواهد شد.",
-    "این توافق مالی تحت تأثیر رویدادهای پس از آن در غزه قرار نگرفت، جایی که تانک‌های مرکاوا مکرراً در حملات مرگبار علیه غیرنظامیان به کار گرفته شده‌اند."
-   ],
-   "title_ar": "تمويل الهجمات في غزة: كيف يسلح بنك عالمي إسرائيل",
-   "summary_ar": "في أوائل عام 2022، وافق دويتشه بنك على ضمان دفعة مقدمة بقيمة 11.4 مليون يورو لدعم عقد شركة رينك الألمانية لتوريد نواقل حركة لدبابات ميركافا 4 الإسرائيلية.",
-   "body_ar": [
-    "وخلصت مراجعة داخلية للبنك إلى أن صفقة التمويل التجاري تشكل خطراً محدوداً على سمعته، وأشارت إلى أن القطع لا تُصنف كأسلحة بموجب القانون الألماني، وتوقعت تسليم الدفعة الأولى في سبتمبر 2024.",
-    "ولم يتأثر هذا الترتيب المالي بالأحداث اللاحقة في غزة، حيث استُخدمت دبابات ميركافا مراراً في هجمات مميتة استهدفت مدنيين."
-   ]
-  },
-  {
    "id": "33b17746c9b4",
    "lang": "en",
    "source": "Middle East Eye",
@@ -491,36 +611,6 @@
    ]
   },
   {
-   "id": "284eb444f881",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
-   "date": "2026-11-18T07:06:37Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-   "title_en": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-   "summary_en": "Indian Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo to hold the fourth 2+2 ministerial dialogue with their Japanese counterparts.",
-   "body_en": [
-    "The discussions with Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi will cover bilateral strategic cooperation, defence technology, maritime security, joint military drills, and industrial partnerships.",
-    "The visit takes place just after Prime Minister Narendra Modi joined Quad leaders at a summit in Manila, with India also holding separate bilateral meetings with Japanese officials in Tokyo."
-   ],
-   "title_fa": "هند و ژاپن در آستانه بازنگری روابط دفاعی هم‌زمان با ورود راجنات و جایشانکار به توکیو",
-   "summary_fa": "راجنات سینگ، وزیر دفاع، و اس. جایشانکار، وزیر امور خارجه هند، برای برگزاری چهارمین دور گفت‌وگوی وزیران «۲+۲» با همتایان ژاپنی خود وارد توکیو شدند.",
-   "body_fa": [
-    "مذاکرات با شینجیرو کویزومی، وزیر دفاع، و توشیمیتسو موتگی، وزیر امور خارجه ژاپن، شامل همکاری‌های راهبردی دوجانبه، فناوری دفاعی، امنیت دریایی، رزمایش‌های مشترک نظامی و مشارکت‌های صنعتی خواهد بود.",
-    "این سفر درست پس از حضور نارندرا مودی، نخست‌وزیر هند، در نشست سران کوآد در مانیل انجام می‌شود، در حالی که دیدارهای دوجانبه جداگانه‌ای نیز میان مقامات هند و ژاپن در توکیو برنامه‌ریزی شده است."
-   ],
-   "title_ar": "الهند واليابان تستعدان لمراجعة العلاقات الدفاعية مع وصول راجناث وجايشانكار إلى طوكيو",
-   "summary_ar": "وصل وزير الدفاع الهندي راجناث سينغ ووزير الشؤون الخارجية إس. جايشانكار إلى طوكيو لعقد الجولة الرابعة من الحوار الوزاري «2+2» مع نظيريهما اليابانيين.",
-   "body_ar": [
-    "ستشمل المحادثات مع وزير الدفاع شينجيرو كويزومي ووزير الخارجية توشيميتسو موتيغي التعاون الاستراتيجي الثنائي، والتكنولوجيا الدفاعية، والأمن البحري، والتدريبات العسكرية المشتركة، والشراكات الصناعية.",
-    "وتأتي هذه الزيارة عقب مشاركة رئيس الوزراء ناريندرا مودي في قمة قادة الحوار الأمني الرباعي (كواد) في مانيلا، إلى جانب عقد لقاءات ثنائية منفصلة بين المسؤولين الهنود واليابانيين في طوكيو."
-   ]
-  },
-  {
    "id": "c1c3af6f9284",
    "lang": "en",
    "source": "Middle East Eye",
@@ -545,36 +635,6 @@
    "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب خلال زيارته للفلبين بأن الولايات المتحدة تبلي \"بلاء حسناً للغاية في إيران، لأقولها بعبارة مخففة\".",
    "body_ar": [
     "وجاءت تصريحات ترامب خلال لقائه بالرئيس الفلبيني فرديناند ماركوس الابن، حيث أعلن أيضاً توسيع التعاون الدفاعي بين واشنطن ومانيلا."
-   ]
-  },
-  {
-   "id": "aa4bb8c23710",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-   "date": "2026-11-18T06:19:17Z",
-   "countries": [
-    "YEM"
-   ],
-   "score": 6,
-   "title": "How the Houthis fund war effort and tighten grip on Yemen",
-   "title_en": "How the Houthis fund war effort and tighten grip on Yemen",
-   "summary_en": "A variety of domestic revenue streams and illicit oil sales allow Yemen's Houthis to sustain their war effort and strengthen control over areas they hold.",
-   "body_en": [
-    "According to research by the Mokha Center for Strategic Studies, the group's financial system yields around $2.5 billion each year from taxes, customs, fees, and contributions, with nearly 60 percent funding security and military operations.",
-    "The group also secures over $2 billion annually through illicit sales of oil supplied by Iran, while collecting public donations through phone messages, donation drives, and mass rallies."
-   ],
-   "title_fa": "چگونه حوثی‌ها هزینه‌های جنگ را تأمین کرده و تسلط خود بر یمن را محکم‌تر می‌کنند",
-   "summary_fa": "انواع منابع درآمدی داخلی و فروش غیرقانونی نفت به حوثی‌های یمن این امکان را می‌دهد که هزینه‌های جنگی خود را تأمین کنند و تسلطشان را بر مناطق تحت کنترل گسترش دهند.",
-   "body_fa": [
-    "بر اساس پژوهش مرکز مطالعات راهبردی المخا، سیستم مالی این گروه سالانه حدود ۲٫۵ میلیارد دلار از طریق مالیات، گمرک، عوارض و مشارکت‌های مالی تأمین می‌کند که نزدیک به ۶۰ درصد آن صرف بخش‌های نظامی و امنیتی می‌شود.",
-    "این گروه همچنین سالانه بیش از ۲ میلیارد دلار از طریق فروش غیرقانونی نفت ارسالی از ایران به دست می‌آورد، در حالی که از طریق پیامک‌های تلفنی، توزیع پاکت‌های کمکی و گردهمایی‌های عمومی نیز از مردم پول جمع‌آوری می‌کند."
-   ],
-   "title_ar": "كيف يمول الحوثيون المجهود الحربي ويحكمون قبضتهم على اليمن",
-   "summary_ar": "تتيح مجموعة متنوعة من مصادر الإيرادات المحلية ومبيعات النفط غير المشروعة للحوثيين في اليمن تمويل مجهودهم الحربي وإحكام سيطرتهم على المناطق الخاضعة لهم.",
-   "body_ar": [
-    "وفقاً لأبحاث مركز المخا للدراسات الاستراتيجية، يولد النظام المالي للجماعة نحو 2.5 مليار دولار سنوياً من الضرائب والجمارك والرسوم والتبرعات، ويذهب ما يقرب من 60 بالمئة منها إلى العمليات الأمنية والعسكرية.",
-    "كما تجني الجماعة أكثر من ملياري دولار سنوياً من المبيعات غير المشروعة للنفط المقدم من إيران، إلى جانب جمع التبرعات من السكان عبر الرسائل النصية وحملات التبرع والمهرجانات الشعبية."
    ]
   },
   {
