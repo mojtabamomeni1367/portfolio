@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:18:49Z",
+ "updated": "2026-11-18T01:46:09Z",
  "items": [
   {
    "id": "4e56eb2b5b97",
@@ -1777,6 +1777,250 @@
    ],
    "desc": "PESHAWAR: Former Khyber Pakhtunkhwa ministers Taimoor Saleem Jhagra and Kamran Bangash were among three PTI leaders taken into “preventative” custody by police shortly after they were granted interim bail by the high court. Jhagra, Bangash and PTI’s Peshawar president Irfan Saleem had been granted bail until Nov 17 (today) by an anti-terrorism court (ATC) in the 2023 case pertaining to vandalism and arson at the Radio Pakistan building during the May 9 riots . Earlier in the day, an ATC denied the three leaders bail that had been extended twice previously, following which they evaded arrest to",
    "score": 7
+  },
+  {
+   "id": "f67b0c2e9af6",
+   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:01:47Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+   "score": 8,
+   "dup_of": "04377e7c59aa"
+  },
+  {
+   "id": "f750f2f3295c",
+   "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:34:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+   "score": 6
+  },
+  {
+   "id": "aeecd4d18816",
+   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+   "date": "2026-11-18T01:07:01Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+   "score": 9
+  },
+  {
+   "id": "d0399a8b5041",
+   "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+   "date": "2026-11-18T00:47:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+   "score": 7
+  },
+  {
+   "id": "60663dfc1ffc",
+   "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+   "date": "2026-11-18T00:33:36Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+   "score": 8,
+   "dup_of": "50abd88093e7"
+  },
+  {
+   "id": "2fea232f1506",
+   "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+   "date": "2026-11-18T00:00:27Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Kuwait intercepts 'hostile' drone attacks as Bahrain accuses Iran of 'criminal attacks'.",
+   "score": 10,
+   "dup_of": "d3de8fd97870"
+  },
+  {
+   "id": "be875ec6f7e0",
+   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+   "date": "2026-11-17T23:38:38Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+   "score": 10,
+   "dup_of": "c0ee5a51b69b"
+  },
+  {
+   "id": "5fecc68cc8f8",
+   "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+   "date": "2026-11-17T23:28:54Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+   "score": 7,
+   "dup_of": "d0399a8b5041"
+  },
+  {
+   "id": "b33391a7cfd0",
+   "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+   "date": "2026-11-18T00:21:33Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+   "score": 7
+  },
+  {
+   "id": "39b570cca86c",
+   "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+   "date": "2026-11-17T22:30:17Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is Matan Kahana, an ally of Gadi Eisenkot , the party leader currently working to form the next government and replace Netanyahu . Continue reading...",
+   "score": 7,
+   "dup_of": "d0399a8b5041"
+  },
+  {
+   "id": "d4d0f011b9a4",
+   "title": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece",
+   "date": "2026-11-18T01:20:49Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Prosecutors said Asif Merchant tried to recruit people in U.S. in a plan targeting Donald Trump, others ​in retaliation for Washington's killing of ‌Iranian military commander in 2020",
+   "score": 7,
+   "dup_of": "b33391a7cfd0"
+  },
+  {
+   "id": "e16fd17e71a0",
+   "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+   "date": "2026-11-18T01:07:32Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "MEA said that of the 24 Indian nationals on board MT Tara Gas, 21 have been safely evacuated",
+   "score": 8,
+   "dup_of": "e1f853cf5f94"
+  },
+  {
+   "id": "3d6dc0c0b550",
+   "title": "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
+   "date": "2026-11-17T11:05:50Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The sixth Earthshot Prize, founded by Britain’s Prince William to promote innovative climate change solutions, will be presented in Mumbai on November 17, 2026",
+   "score": 2
+  },
+  {
+   "id": "b8605c5ac2ed",
+   "title": "حملات هوایی به کویت و بحرین همزمان با حمله آمریکا به قشم",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm879d8q0292t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T01:28:54Z",
+   "countries": [
+    "BHR",
+    "KWT"
+   ],
+   "desc": "ساعتی پس از آن که آمریکا عصر سه‌شنبه به چند نقطه در جزیره قشم حمله کرد و آن را «حملات دفاعی» خواند، آژیرهای حملات هوایی در بحرین و کویت به صدا درآمد و سپاه پاسداران مدعی شد که مجددا پایگاه آمریکا در بحرین را هدف قرار داده است. روسیه آمریکا را «آغازگر درگیری‌های جدید» خوانده و خواستار توقف فوری جنگ در خلیج فارس شده است. همه اینها در آستانه دیدار دونالد ترامپ با شی جین‌پینگ و ولادیمیر پوتین روی داده است.",
+   "score": 10,
+   "dup_of": "be875ec6f7e0"
+  },
+  {
+   "id": "f55a45b5d0f5",
+   "title": "آصف رضا مرچنت به جرم سازمان‌دهی طرح ترور و دریافت پول از سپاه پاسداران به ۲۷ سال زندان محکوم شد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cwz0kll92xlpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T00:57:38Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "آصف مرچنت، مرد پاکستانی که به اتهام تلاش برای انجام اقدامات تروریستی و سازمان‌دهی طرح ترور با دریافت پول، به دستور سپاه پاسداران محکوم شده بود، با تعیین میزان مجازات، روز سه‌شنبه به ۲۷ سال و نیم زندان فدرال محکوم شد.",
+   "score": 7,
+   "dup_of": "b33391a7cfd0"
+  },
+  {
+   "id": "9b03e616702f",
+   "title": "آیا زعفران ایرانی جای طلای سرخ کشمیر را می‌گیرد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cwx28e36jnm4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T00:38:52Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "desc": "قرن‌هاست زعفران یکی از نمادهای هویت و اقتصاد کشمیر به شمار می‌رود، اما امروز این «طلای سرخ» با مجموعه‌ای از تهدیدها روبه‌رو است. کاهش بارندگی و تغییرات اقلیمی، گسترش ساخت‌وساز و ورود زعفران وارداتی، به‌ویژه از ایران که بزرگ‌ترین تولیدکننده زعفران جهان است، تولید و بازار زعفران کشمیری را تحت فشار قرار داده و نگرانی‌ها را درباره آینده این محصول ارزشمند افزایش داده است.",
+   "score": 3
+  },
+  {
+   "id": "5a26bd4f6557",
+   "title": "بريطانيا تفرض عقوبات على شركات بسبب المستوطنات الإسرائيلية في الضفة الغربية المحتلة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6jre84y25d4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T22:47:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "بريطانيا تفرض عقوبات على ثماني شركات وجماعة إسرائيلية لتورطها في الاستيطان وعرقلة المساعدات بالضفة الغربية المحتلة وقطاع غزة، وتحذر من تقويض حل الدولتين",
+   "score": 7,
+   "dup_of": "4b6f10c89569"
   }
  ]
 }

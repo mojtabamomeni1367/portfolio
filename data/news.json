@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-17T22:18:49Z",
- "count": 420,
+ "updated": "2026-11-18T01:46:09Z",
+ "count": 423,
  "items": [
+  {
+   "id": "d0399a8b5041",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+   "date": "2026-11-18T00:47:02Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+   "title_en": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+   "summary_en": "Matan Kahana, an ally of Gadi Eisenkot, has been elected as the new speaker of the Israeli parliament with the support of Arab parties.",
+   "body_en": [
+    "Kahana's election comes as Eisenkot's party works to form the next government and replace Benjamin Netanyahu."
+   ],
+   "title_fa": "متن کاهانا، متحد گادی آیزنکوت، با حمایت فراکسیون عربی به عنوان رئیس کنست انتخاب شد",
+   "summary_fa": "متن کاهانا، متحد گادی آیزنکوت، با حمایت احزاب عربی به عنوان رئیس جدید پارلمان اسرائیل انتخاب شد.",
+   "body_fa": [
+    "انتخاب کاهانا در حالی انجام می‌شود که حزب متبوع آیزنکوت در تلاش است تا دولت آینده را تشکیل دهد و جایگزین بنیامین نتانیاهو شود."
+   ],
+   "title_ar": "انتخاب حليف غادي آيزنكوت رئيساً للكنيست بدعم من القائمة العربية",
+   "summary_ar": "انتخاب متان كاهانا، حليف غادي آيزنكوت، رئيساً جديداً للبرلمان الإسرائيلي بدعم من الأحزاب العربية.",
+   "body_ar": [
+    "يأتي انتخاب كاهانا في الوقت الذي يعمل فيه حزب آيزنكوت على تشكيل الحكومة القادمة وإبدال بنيامين نتنياهو."
+   ]
+  },
+  {
+   "id": "b33391a7cfd0",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+   "date": "2026-11-18T00:21:33Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+   "title_en": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+   "summary_en": "A Pakistani man with alleged ties to Iran has been sentenced to more than 27 years in prison for plotting to assassinate Donald Trump.",
+   "body_en": [
+    "Asif Merchant was found by a Brooklyn court to have sought retribution over the US killing of Revolutionary Guards commander Qassem Suleimani by attempting to hire a hitman in the United States. US officials stated the plot targeted Donald Trump, though Merchant testified he was pressured by the Guards and had not been ordered to target a specific individual.",
+    "Merchant was arrested on July 12, 2024, as he prepared to leave the country. The Department of Justice welcomed the sentence, emphasizing that foreign terrorist plots against American leaders will not be tolerated."
+   ],
+   "title_fa": "مرد پاکستانی به اتهام توطئه‌چینی برای ترور دونالد ترامپ به ۲۷ سال زندان در آمریکا محکوم شد",
+   "summary_fa": "یک مرد پاکستانی با روابط ادعایی با ایران به اتهام توطئه‌چینی برای ترور دونالد ترامپ به بیش از ۲۷ سال زندان محکوم شد.",
+   "body_fa": [
+    "دادگاهی در بروکلین دریافت که آصیف مرچنت به دلیل تلاش برای استخدام یک قاتل مزدور در ایالات متحده به منظور انتقام‌جویی از کشته شدن قاسم سلیمانی، فرمانده نیروی قدس سپاه پاسداران، دست به توطئه زده است. مقامات آمریکایی اعلام کردند که این توطئه دونالد ترامپ را هدف قرار داده بود، هرچند مرچنت شهادت داد که تحت فشار سپاه بوده و دستوری برای هدف قرار دادن فرد خاصی نداشته است.",
+    "مرچنت در ۱۲ ژوئیه ۲۰۲۴ هنگام خروج از کشور دستگیر شد. وزارت دادگستری ایالات متحده از این حکم استقبال و تأکید کرد که توطئه‌های تروریستی خارجی علیه رهبران آمریکا تحمل نخواهد شد."
+   ],
+   "title_ar": "الحكم على رجل باكستاني بالسجن 27 عاماً في الولايات المتحدة بتهمة التخطيط لاغتيال دونالد ترامب",
+   "summary_ar": "حُكم على رجل باكستاني يُزعم ارتباطه بإيران بالسجن لأكثر من 27 عاماً بتهمة التخطيط لاغتيال دونالد ترامب.",
+   "body_ar": [
+    "توصلت محكمة في بروكلين إلى أن آصيف مرچنت سعى للانتقام لمقتل قائد فيروس القدس قاسم سليماني من خلال محاولة استئجار قاتل مأجور في الولايات المتحدة. وأكد المسؤولون الأمريكيون أن المؤامرة استهدفت دونالد ترامب، رغم أن مرچنت شهد بأنه تعرض لضغوط من الحرس الثوري ولم يُؤمر باستهداف شخص بعينه.",
+    "أُلقي القبض على مرچنت في 12 يوليو 2024 أثناء استعدادها لمغادرة البلاد. ورحبت وزارة العدل بالحكم، مشددة على أنه لن يتم التسامح مع المؤامرات الإرهابية الخارجية ضد القادة الأمريكيين."
+   ]
+  },
+  {
+   "id": "f750f2f3295c",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T23:34:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+   "title_en": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+   "summary_en": "A massive boom in solar panel adoption across Pakistan has significantly reduced reliance on the national grid, creating severe financial strains for the state-owned power system.",
+   "body_en": [
+    "Driven by soaring electricity tariffs and falling costs for Chinese solar panels, millions of Pakistani households and industries have turned to solar energy. The share of solar generation in the country rose from 1% in 2018 to 28% by 2025.",
+    "However, this widespread departure from the national grid has left fewer customers to cover fixed maintenance costs, costing non-solar consumers millions of dollars annually and burdening the state. Energy Minister Awais Ahmad Leghari stated that the government is working to renegotiate contracts and modernize the grid to make it more competitive and efficient."
+   ],
+   "title_fa": "انقلاب خورشیدی پاکستان چنان موفقیت‌آمیز بوده که شبکه ملی برق را در آستانه فروپاشی قرار داده است",
+   "summary_fa": "رشد چشمگیر استفاده از پنل‌های خورشیدی در سراسر پاکستان وابستگی به شبکه ملی را به شدت کاهش داده و فشار مالی شدیدی بر سیستم برق دولتی وارد کرده است.",
+   "body_fa": [
+    "با توجه به افزایش سرسام‌آور تعرفه‌های برق و کاهش هزینه‌های پنل‌های خورشیدی چینی، میلیون‌ها خانوار و واحد صنعتی در پاکستان به انرژی خورشیدی روی آورده‌اند. سهم تولید انرژی خورشیدی در این کشور از ۱ درصد در سال ۲۰۱۸ به ۲۸ درصد در سال ۲۰۲۵ افزایش یافته است.",
+    "با این حال، این خروج گسترده از شبکه ملی باعث شده است که مشتریان کمتری برای پوشش هزینه‌ تعمیرات ثابت باقی بمانند و سالانه میلیون‌ها دلار هزینه اضافی بر دوش سایر مصرف‌کنندگان و دولت بگذارد. اویس احمد لغاری، وزیر انرژی، اعلام کرد که دولت در حال تلاش برای باز مذاکره قراردادها و مدرن‌سازی شبکه است تا آن را رقابتی‌تر و کارآمدتر کند."
+   ],
+   "title_ar": "ثورة الطاقة الشمسية في باكستان تنجح لدرجة تهديد شبكة الكهرباء الوطنية",
+   "summary_ar": "أدى الإقبال الهائل على ألواح الطاقة الشمسية في جميع أنحاء باكستان إلى تقليل الاعتماد على الشبكة الوطنية بشكل كبير، مما خلق ضغوطاً مالية حادة على قطاع الكهرباء الحكومي.",
+   "body_ar": [
+    "مدفوعة بارتفاع تعرفات الكهرباء وانخفاض تكاليف الألواح الشمسية الصينية، اتجهت ملايين الأسر والشركات الباكستانية إلى الطاقة الشمسية. وارتفعت حصة توليد الطاقة الشمسية في البلاد من 1% في عام 2018 إلى 28% بحلول عام 2025.",
+    "مع ذلك، أدى هذا التحول الواسع النطاق عن الشبكة الوطنية إلى ترك عدد أقل من المشتركين لتغطية تكاليف الصيانة الثابتة، مما كلف المستهلكين غير المستخدمين للطاقة الشمسية ملايين الدولارات سنوياً وشكل عبئاً على الدولة. وذكر وزير الطاقة عويس أحمد لغاري أن الحكومة تعمل على إعادة التفاوض بشأن العقود وتحديث الشبكة لتصبح أكثر تنافسية وكفاءة."
+   ]
+  },
   {
    "id": "d3de8fd97870",
    "lang": "en",
