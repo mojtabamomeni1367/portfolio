@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:15:29Z",
+ "updated": "2026-11-18T07:33:07Z",
  "items": [
   {
    "id": "4e56eb2b5b97",
@@ -83,7 +83,8 @@
     "IRN"
    ],
    "desc": "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در مصاحبه با شبکه فاکس گفته: «به مردم آمریکا قول داده‌ایم که دیگر وارد جنگ‌های بی‌پایان نخواهیم شد... و اجازه نخواهیم داد این جنگ به تعهدی ۱۰ یا ۱۵ ساله یا حتی، صریح بگویم، دوساله تبدیل شود.» سپاه پاسداران می‌گوید چهار نفتکش «متخلف» در حوالی تنگه هرمز هدف قرار گرفتند. دونالد ترامپ برای دیدار با شی جین‌پینگ و ولادیمیر پوتین راهی چین می‌شود.",
-   "score": 7
+   "score": 7,
+   "dup_of": "06b869b7cfd7"
   },
   {
    "id": "4f0f9768d53a",
@@ -498,8 +499,7 @@
     "IRN"
    ],
    "desc": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
-   "score": 9,
-   "dup_of": "660b42e3ae96"
+   "score": 9
   },
   {
    "id": "793b39c42854",
@@ -2411,6 +2411,344 @@
    "desc": "الكنيست الإسرائيلي يختار رئيساً جديداً يعارض سياسة رئيس الوزراء بنيامين نتنياهو، في الوقت الذي يكافح فيه غادي آيزنكوت لتشكيل حكومة",
    "score": 8,
    "dup_of": "d0399a8b5041"
+  },
+  {
+   "id": "aa4bb8c23710",
+   "title": "How the Houthis fund war effort and tighten grip on Yemen",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+   "date": "2026-11-18T06:19:17Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+   "score": 6
+  },
+  {
+   "id": "aeb433058d2a",
+   "title": "What’s in the air you breathe? How to stay safe during smog season",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
+   "date": "2026-11-18T05:55:08Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+   "score": 2
+  },
+  {
+   "id": "80bca039dfcd",
+   "title": "Australia issues sanctions targeting Israeli settlers",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+   "date": "2026-11-18T04:12:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+   "score": 7,
+   "dup_of": "f38fc2cffad6"
+  },
+  {
+   "id": "66c4f5212b27",
+   "title": "‘They want silence’: how the film NAZA is shaking Israel",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
+   "date": "2026-11-18T06:44:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The documentary has triggered fierce backlash, but by exposing the army’s conduct in Gaza it’s proved impossible to ignore It was on Yom Kippur this year that Nadav Weiman first sensed the documentary NAZA was having a significant impact in Israel – despite the fact that back in September, when the Jewish festival fell, barely a handful of Israelis had seen the film. NAZA, which is produced by the Guardian and will stream for free on its website in early December, depicts 24 army intelligence officers interviewed anonymously on rooftops across Tel Aviv. They talk about the mass killing of Pale",
+   "score": 3
+  },
+  {
+   "id": "253d55efc987",
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "date": "2026-11-18T05:00:32Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi. The charge relates to a €7.4bn deal promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnership” was intended to bolster Egypt’s shaky economy, deter migrants from coming to Europe and shore up ",
+   "score": 6
+  },
+  {
+   "id": "4ca835d1beea",
+   "title": "Cases of children being denied aid in war zones are soaring, analysis finds",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/18/aid-denial-humanitarian-children-save-the-children-un",
+   "date": "2026-11-18T05:00:32Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "New assessment shows large increase in cases where access to humanitarian help is deliberately restricted in conflict zones, with most incidents in Palestine The “weaponisation” of aid is becoming normalised, with new analysis revealing that deliberate holding back of humanitarian help to children in conflict zones has increased 16-fold in the past decade. The assessment of UN-verified incidents corroborates concerns that denying vital aid is becoming a common tactic of modern warfare. Continue reading...",
+   "score": 5
+  },
+  {
+   "id": "aba3d1b22e5c",
+   "title": "UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-company-says-11-wounded-one-missing-after-vessel-attacked-hormuz",
+   "date": "2026-11-18T07:27:54Z",
+   "countries": [
+    "ARE"
+   ],
+   "desc": "UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait The Abu Dhabi National Oil Company (ADNOC) said that one of its vessels was attacked while transiting the Strait of Hormuz late on Tuesday. According to the UAE-based company, 11 crew members have been wounded, while another person remains missing. ADNOC said its top priority was \"supporting search and rescue efforts and providing assistance to the crew and others affected by the incident\", further stressing the importance of “protecting seafarers and ensuring freedom of navigation and maritime security\".",
+   "score": 8,
+   "dup_of": "e1f853cf5f94"
+  },
+  {
+   "id": "33b17746c9b4",
+   "title": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-vows-unforgettable-response-if-us-israeli-attacks",
+   "date": "2026-11-18T07:22:25Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure Iranian Foreign Ministry spokesperson Esmaeil Baqaei has slammed a recent New York Times report that claimed Tehran was using civilian infrastructure for military purposes. \"The baseless allegations seeking to link Iran’s dams to missile bases constitute yet another example of a malicious campaign to manufacture propaganda and security pretexts aimed at justifying attacks on a country’s vital infrastructure,\" Baqaei said. \"Those who initiated the aggression against Iran are now seeking to",
+   "score": 8
+  },
+  {
+   "id": "20caa5911407",
+   "title": "Kuwait slams Iranian attacks on its territory",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-slams-iranian-attacks-its-territory",
+   "date": "2026-11-18T06:59:03Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Kuwait slams Iranian attacks on its territory Kuwait’s Foreign Ministry has condemned the latest Iranian drone attack on its territory. The ministry denounced the attacks as \"repeated and criminal\" and described it as a \"direct threat\" to the Gulf country's \"security and stability\". \"The Ministry reaffirms that the continuation of these attacks constitutes a dangerous escalation that threatens the region’s security and stability and undermines diplomatic efforts aimed at de-escalation and reducing tensions,\" the ministry said in its statement posted on X. It added that Kuwait retains the right",
+   "score": 8,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "c1c3af6f9284",
+   "title": "Trump says US doing 'very well in Iran'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-doing-very-well-iran",
+   "date": "2026-11-18T06:43:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump says US doing 'very well in Iran' US President Donald Trump said that the US is \"doing very well in Iran, to put it mildly\" during a visit to the Philippines. Trump's comments come during his meeting with Philippine President Ferdinand Marcos Jr., where he also announced that Washington is expanding its defence cooperation with Manila.",
+   "score": 7
+  },
+  {
+   "id": "477c78bcad29",
+   "title": "Saudi-led coalition says it intercepted destroyed Houthi missile",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile",
+   "date": "2026-11-18T05:52:02Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says it intercepted destroyed Houthi missile The Saudi-led coalition said it intercepted and destroyed a Houthi missile launched towards Riyadh. Earlier, the coalition also claimed to have carried out a “precision operation” against Houthi military capabilities as well as destroying 60 military targets across Yemen’s governorates of Sanaa, Hodeidah, Amran and Saada. Turki al-Malki, the coalition’s spokesperson, said that forces destroyed tunnels housing ballistic missile storage and workshop facilities.",
+   "score": 7
+  },
+  {
+   "id": "46f54ee32b9a",
+   "title": "Bahrain's civil defence evacuates multi-storey building due to fire",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrains-civil-defence-evacuates-multi-storey-building-due-fire",
+   "date": "2026-11-18T04:43:21Z",
+   "countries": [
+    "BHR"
+   ],
+   "desc": "Bahrain's civil defence evacuates multi-storey building due to fire Bahrain’s Ministry of Interior said that civil defence teams evacuated a multi-storey building in the Gulf country's north west due to a fire. \"Civil Defence evacuated a multi-story building in Souq Waqif as a precaution, and extinguished a fire in the building. No injuries were reported,\" the ministry said in a statement. \"The National Ambulance took the necessary measures at the site, and investigations are underway to determine the cause of the fire,\" it added. Civil Defence evacuated a multi-story building in Souq Waqif as",
+   "score": 2
+  },
+  {
+   "id": "95e7bb42e620",
+   "title": "Iran's army launches drone attack at Kuwait base used by US military",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-launches-drone-attack-kuwait-base-used-us-military",
+   "date": "2026-11-18T04:35:47Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Iran's army launches drone attack at Kuwait base used by US military Iran’s army has said it fired a drone targeting the Ali al-Salem Airbase in Kuwait, according to Iranian state media IRNA. \"This morning, the Islamic Republic of Iran's army's destructive combat drones targeted Patriot defense systems and drone and missile launchers of the US terrorist army at the Ali al-Salem base in Kuwait with destructive drones,\" the statement read. \"In defense of Iran, we will not bow to any power, but our response to any threat or aggression will be decisive, crushing, and without geographical limitatio",
+   "score": 9,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "eddd2edea70d",
+   "title": "Portion of Islamabad's Margalla Hills National Park excluded from protected area",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045226/portion-of-islamabads-margalla-hills-national-park-excluded-from-protected-area",
+   "date": "2026-11-18T06:42:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Under zoning overhaul, Bani Gala residents to get relief • Construction activities in Shah Allah Ditta and areas falling under Zone III remain barred, says official ISLAMABAD: The Capital Development Authority’s plan for developing a major commercial zone in a protected area and the majority of buildings constructed within a two-kilometre radius of Rawal Dam got legal cover as the federal government has approved an amendment to zoning regulations and delineation for Rawal Lake, a part of Margalla Hills National Park. After this decision, buildings constructed on Constitution Avenue, includin",
+   "score": 3
+  },
+  {
+   "id": "a07918a43ad6",
+   "title": "Saudi firm eyes $30bn energy deal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045288/",
+   "date": "2026-11-18T00:38:45Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "desc": "ISLAMABAD: Saudi Ara­bian energy company Delta Energy Saudi signed an agreement with Pak­istan’s Inter State Gas Sys­tems to explore development of energy infrastructure in the South Asian country, with a proposed investment of about $30 billion, the companies said in a statement on Tuesday. The programme would assess a natural gas pipeline entering Pakistan through its western border and extending toward Gwadar, a port on the Arabian Sea in the south-western part of the country, the statement said. It would also consider a possible extension to the eastern border, along with liquefied natural",
+   "score": 5
+  },
+  {
+   "id": "c51e073c7d87",
+   "title": "Sindh starts online domicile, residence certificate service for Karachiites",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045324/sindh-starts-online-domicile-residence-certificate-service-for-karachiites",
+   "date": "2026-11-18T05:14:56Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Sindh government on Tuesday launched an online service for domicile certificates and Permanent Residence Certificates (PRC) in the city, allowing applicants to complete the entire process from home without visiting government offices or standing in long queues. Sindh Chief Secretary Asif Hyder Shah inaugurated the E-Domicile and PRC Portal at a ceremony in Karachi, attended by, among others, Karachi Commissioner Syed Hassan Naqvi and all deputy commissioners in the city. An official statement issued said young people could now submit their applications through http://www.sindhdomi",
+   "score": 2
+  },
+  {
+   "id": "524f7cddc2c2",
+   "title": "Private DNA test can’t override child’s legitimacy, rules LHC",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045306/private-dna-test-cant-override-childs-legitimacy-rules-lhc",
+   "date": "2026-11-18T00:38:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Lahore High Court (LHC) has ruled that a privately arranged DNA test cannot displace the legal presumption that a child born during marriage is legitimate. Justice Asad Ali Bajwa issued a ruling, upholding an enhanced maintenance award for a minor son against his father living in the United Kingdom. The father, Osama Tahir, approached the high court against concurrent decisions of a Gujranwala family court and an additional district & sessions judge on the maintenance and dowry. Zainab Irfan and her minor son had filed a suit for maintenance, dower and dowry articles. The couple ha",
+   "score": 3
+  },
+  {
+   "id": "2715db0e2126",
+   "title": "CRICKET: BATTERS VS BATTERS",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044616/cricket-batters-vs-batters",
+   "date": "2026-11-18T06:56:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Don Bradman bowling in the nets in 1938 | Archives Babar Azam’s recent decision to return to first-class cricket and explore his bowling credentials has generated considerable debate among cricket fans. Following Pakistan’s Tri-Series triumph last month, in which Babar endured a disappointing run with the bat, he turned his attention towards reinventing himself as an all-rounder. While representing Lahore Whites against FATA in Islamabad, captain Aamer Jamal asked him to bowl, and clips of the former Pakistan captain rolling his arm over soon began circulating on social media. Some fans questi",
+   "score": 1
+  },
+  {
+   "id": "1bedbec4b35c",
+   "title": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045169/bankrolling-attacks-in-gaza-how-a-global-bank-arms-israel",
+   "date": "2026-11-18T07:24:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "As the world eased into the new year in January 2022, a committee at Deutsche Bank headquarters in Frankfurt prepared to discuss if the bank should go ahead with deals which could hurt its reputation. On its agenda for the Jan 12 meeting was EUR 11.4 million advance payment guarantee to German defence manufacturer Renk GmbH, to fund a contract with the Israeli Ministry of Defence that would continue until 2027. Renk was to make gearboxes for its Merkava 4 tanks, with the first of the products to be delivered in September 2024. A document weighing up the deal had been on the tables of Deutsche ",
+   "score": 6
+  },
+  {
+   "id": "56c879c4007a",
+   "title": "Taliban supreme leader makes rare visit to Afghan capital",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045341/taliban-supreme-leader-makes-rare-visit-to-afghan-capital",
+   "date": "2026-11-18T00:36:14Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "KABUL: The Taliban’s reclusive Supreme Leader Hibatullah Akhundzada made a rare visit to the Afghan capital Kabul on Tuesday, pressing his audience to make people “love” him and follow his rules. Based in Kandahar, the southern heartland of the Taliban movement, Akhundzada has ruled Afghanistan by decree for more than five years. “Make the people love the supreme leader so they would obey and follow the decrees,” Akhundzada said at Kabul University, according to a government live audio feed. Akhundzada inherited the Taliban leadership a decade ago and has made only a handful of visits to Kabul",
+   "score": 8
+  },
+  {
+   "id": "e7849cea8072",
+   "title": "Cricket hegemony",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045356/cricket-hegemony",
+   "date": "2026-11-18T04:17:46Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "ANY doubts over India’s total hegemony over world cricket have now been removed. Its tactic of sidelining Pakistan is more blatant than ever. The India-led International Cricket Council on Sunday announced its activity programme for the 2028-2035 cycle and conveniently left Pakistan without hosting rights for any event until 2031. The ICC, chaired by former Board of Control for Cricket in India secretary Jay Shah — who was re-elected unopposed for another term on Monday — and run by his fellow countryman Sanoj Gupta as the chief executive officer, unveiled venues for major world tournaments ov",
+   "score": 1
+  },
+  {
+   "id": "a686b9349e07",
+   "title": "Poor treatment",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045357/poor-treatment",
+   "date": "2026-11-18T04:07:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "IT is unseemly that a jailed political leader is forced to beseech the chief justices of the Federal Constitutional Court, the Supreme Court and the Islamabad High Court for medical attention. In an open letter issued Monday, former prime minister Imran Khan detailed his and his wife’s medical condition, claiming he faces heightened risk of brain haemorrhage while his spouse could lose her eyesight. “I will only remain able to prove my innocence if I stay alive. I appeal to your Lordships, on the most basic grounds of human compassion: give me justice before it is too late,” reads his letter, ",
+   "score": 2
+  },
+  {
+   "id": "284eb444f881",
+   "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
+   "date": "2026-11-18T07:06:37Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
+   "score": 6
+  },
+  {
+   "id": "8c4ffabcdb3e",
+   "title": "Nepal gets nod to import 350 MW of power from India during winter",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece",
+   "date": "2026-11-18T05:05:53Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The approval is valid from November 17, 2026, to July 31, 2027, and is expected to help Nepal manage the seasonal gap between electricity demand and domestic generation",
+   "score": 5
+  },
+  {
+   "id": "78cba403d935",
+   "title": "صحيفة \"النهار\" اللبنانية تفتح النقاش حول إلغاء قانون يجرم المثلية",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cm20qkpl1nwro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T06:31:58Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "حملة لصحيفة \"النهار\" اللبنانية تعيد النقاش حول تجريم العلاقات الجنسية المثلية إلى الواجهة، وتكشف مواقف الأحزاب من إلغاء المادة 534.",
+   "score": 4
   }
  ]
 }

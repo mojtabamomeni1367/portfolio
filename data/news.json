@@ -1,7 +1,277 @@
 {
- "updated": "2026-11-18T04:15:29Z",
- "count": 428,
+ "updated": "2026-11-18T07:33:07Z",
+ "count": 439,
  "items": [
+  {
+   "id": "1bedbec4b35c",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045169/bankrolling-attacks-in-gaza-how-a-global-bank-arms-israel",
+   "date": "2026-11-18T07:24:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+   "title_en": "Bankrolling attacks in Gaza: How a global bank arms Israel",
+   "summary_en": "In early 2022, Deutsche Bank approved an 11.4 million euro advance payment guarantee supporting German manufacturer Renk's contract to provide gearboxes for Israeli Merkava 4 tanks.",
+   "body_en": [
+    "Internal bank review concluded the trade finance deal posed low reputational risk, noted the parts were not classified as weapons under German law, and anticipated the first delivery in September 2024.",
+    "The financial arrangement remained unaffected by subsequent events in Gaza, where Merkava tanks have been repeatedly deployed in deadly attacks involving civilians."
+   ],
+   "title_fa": "تأمین مالی حملات در غزه: چگونه یک بانک جهانی اسرائیل را مسلح می‌کند",
+   "summary_fa": "در اوایل سال ۲۰۲۲، دویچه بانک یک ضمانت‌نامه پیش‌پرداخت به ارزش ۱۱٫۴ میلیون یورو را برای حمایت از قرارداد شرکت آلمانی رنک جهت تأمین جعبه‌دنده تانک‌های مرکاوا ۴ اسرائیل تصویب کرد.",
+   "body_fa": [
+    "بررسی‌های داخلی بانک نشان داد این معامله مالی ریسک اعتباری پایینی دارد، قطعات مذکور طبق قوانین آلمان سلاح محسوب نمی‌شوند و نخستین محموله در سپتامبر ۲۰۲۴ تحویل داده خواهد شد.",
+    "این توافق مالی تحت تأثیر رویدادهای پس از آن در غزه قرار نگرفت، جایی که تانک‌های مرکاوا مکرراً در حملات مرگبار علیه غیرنظامیان به کار گرفته شده‌اند."
+   ],
+   "title_ar": "تمويل الهجمات في غزة: كيف يسلح بنك عالمي إسرائيل",
+   "summary_ar": "في أوائل عام 2022، وافق دويتشه بنك على ضمان دفعة مقدمة بقيمة 11.4 مليون يورو لدعم عقد شركة رينك الألمانية لتوريد نواقل حركة لدبابات ميركافا 4 الإسرائيلية.",
+   "body_ar": [
+    "وخلصت مراجعة داخلية للبنك إلى أن صفقة التمويل التجاري تشكل خطراً محدوداً على سمعته، وأشارت إلى أن القطع لا تُصنف كأسلحة بموجب القانون الألماني، وتوقعت تسليم الدفعة الأولى في سبتمبر 2024.",
+    "ولم يتأثر هذا الترتيب المالي بالأحداث اللاحقة في غزة، حيث استُخدمت دبابات ميركافا مراراً في هجمات مميتة استهدفت مدنيين."
+   ]
+  },
+  {
+   "id": "33b17746c9b4",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-vows-unforgettable-response-if-us-israeli-attacks",
+   "date": "2026-11-18T07:22:25Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
+   "title_en": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
+   "summary_en": "Iranian Foreign Ministry spokesperson Esmaeil Baqaei warned that Iran will deliver an \"unforgettable response\" to aggression, rejecting reports linking the country's dams to missile bases as fabricated pretexts to justify attacks on civilian infrastructure.",
+   "body_en": [
+    "Baqaei condemned a New York Times report and a CNN narrative concerning an alleged \"dirty bomb,\" stating that these claims are intended to lay the groundwork for attacks on critical facilities and normalize violations of international humanitarian law. He noted that international law, including Article 56 of Additional Protocol I to the Geneva Conventions, offers explicit protection to dams and similar installations.",
+    "According to the spokesperson, previous US and Israeli strikes hit water reservoirs and desalination facilities across several provinces, cutting off supplies to civilian populations. Baqaei argued that proximity to military sites does not make civilian infrastructure a legitimate target and urged the international community not to remain silent."
+   ],
+   "title_fa": "وعده پاسخ «فراموش‌نشدنی» وزارت خارجه ایران در صورت هدف قرار گرفتن زیرساخت‌های غیرنظامی توسط حملات آمریکا و اسرائیل",
+   "summary_fa": "اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، با رد گزارش‌های مربوط به ارتباط سدهای این کشور با پایگاه‌های موشکی، آنها را بهانه‌سازی برای مشروعیت‌بخشی به حمله به زیرساخت‌های حیاتی دانست و هشدار داد ایران پاسخی «فراموش‌نشدنی» به هرگونه تجاوز خواهد داد.",
+   "body_fa": [
+    "بقایی گزارش نیویورک تایمز و روایت سی‌ان‌ان درباره ادعای «بمب کثیف» را زمینه‌سازی رسانه‌ای برای حمله به تأسیسات حیاتی و عادی‌سازی نقض حقوق بین‌الملل بشردوستانه توصیف کرد. وی با تأکید بر ماده ۵۶ پروتکل اول الحاقی به کنوانسیون‌های ژنو، خاطرنشان ساخت که این مقررات صراحتاً از سدها و تأسیسات مشابه محافظت می‌کنند.",
+    "به گفته این دیپلمات ایرانی، در حملات پیشین آمریکا و اسرائیل، مخازن آب و تأسیسات آب‌شیرین‌کن در چند استان هدف قرار گرفتند که به قطعی آب مناطق غیرنظامی منجر شد. بقایی با بیان اینکه همجواری جغرافیایی توجیه‌کننده حمله به تأسیسات غیرنظامی نیست، نسبت به پیامدهای سکوت جامعه بین‌المللی هشدار داد."
+   ],
+   "title_ar": "الخارجية الإيرانية تتوعد بـ\"رد لا يُنسى\" إذا استهدفت الهجمات الأمريكية الإسرائيلية البنية التحتية المدنية",
+   "summary_ar": "حذر المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي من أن إيران سترد بـ\"رد لا يُنسى\" على أي عدوان، نافياً التقارير التي تربط بين السدود الإيرانية وقواعد الصواريخ ومعتبراً إياها ذرائع مفبركة لتبرير استهداف البنية التحتية المدنية.",
+   "body_ar": [
+    "وندد بقائي بتقرير لصحيفة \"نيويورك تايمز\" ورواية شبكة \"سي إن إن\" بشأن \"قنبلة قذرة\" مزعومة، معتبراً أن هذه الادعاءات تهدف إلى تمهيد الأرضية لاستهداف منشآت حيوية وتطبيع انتهاك القانون الإنساني الدولي. وأشار إلى أن المادة 56 من البروتوكول الإضافي الأول لاتفاقيات جنيف توفر حماية خاصة للسدود والمنشآت المماثلة.",
+    "وأفاد المتحدث بأن هجمات أمريكية وإسرائيلية سابقة استهدفت خزانات مياه ومحطات لتحلية المياه في عدة محافظات، مما أدى لقطع الإمدادات عن المدنيين. وشدد بقائي على أن القرب الجغرافي من المواقع العسكرية لا يجعل البنية التحتية هدفاً مشروعاً، داعياً المجتمع الدولي إلى عدم التزام الصمت."
+   ]
+  },
+  {
+   "id": "284eb444f881",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece",
+   "date": "2026-11-18T07:06:37Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+   "title_en": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+   "summary_en": "Indian Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo to hold the fourth 2+2 ministerial dialogue with their Japanese counterparts.",
+   "body_en": [
+    "The discussions with Defence Minister Shinjiro Koizumi and Foreign Minister Toshimitsu Motegi will cover bilateral strategic cooperation, defence technology, maritime security, joint military drills, and industrial partnerships.",
+    "The visit takes place just after Prime Minister Narendra Modi joined Quad leaders at a summit in Manila, with India also holding separate bilateral meetings with Japanese officials in Tokyo."
+   ],
+   "title_fa": "هند و ژاپن در آستانه بازنگری روابط دفاعی هم‌زمان با ورود راجنات و جایشانکار به توکیو",
+   "summary_fa": "راجنات سینگ، وزیر دفاع، و اس. جایشانکار، وزیر امور خارجه هند، برای برگزاری چهارمین دور گفت‌وگوی وزیران «۲+۲» با همتایان ژاپنی خود وارد توکیو شدند.",
+   "body_fa": [
+    "مذاکرات با شینجیرو کویزومی، وزیر دفاع، و توشیمیتسو موتگی، وزیر امور خارجه ژاپن، شامل همکاری‌های راهبردی دوجانبه، فناوری دفاعی، امنیت دریایی، رزمایش‌های مشترک نظامی و مشارکت‌های صنعتی خواهد بود.",
+    "این سفر درست پس از حضور نارندرا مودی، نخست‌وزیر هند، در نشست سران کوآد در مانیل انجام می‌شود، در حالی که دیدارهای دوجانبه جداگانه‌ای نیز میان مقامات هند و ژاپن در توکیو برنامه‌ریزی شده است."
+   ],
+   "title_ar": "الهند واليابان تستعدان لمراجعة العلاقات الدفاعية مع وصول راجناث وجايشانكار إلى طوكيو",
+   "summary_ar": "وصل وزير الدفاع الهندي راجناث سينغ ووزير الشؤون الخارجية إس. جايشانكار إلى طوكيو لعقد الجولة الرابعة من الحوار الوزاري «2+2» مع نظيريهما اليابانيين.",
+   "body_ar": [
+    "ستشمل المحادثات مع وزير الدفاع شينجيرو كويزومي ووزير الخارجية توشيميتسو موتيغي التعاون الاستراتيجي الثنائي، والتكنولوجيا الدفاعية، والأمن البحري، والتدريبات العسكرية المشتركة، والشراكات الصناعية.",
+    "وتأتي هذه الزيارة عقب مشاركة رئيس الوزراء ناريندرا مودي في قمة قادة الحوار الأمني الرباعي (كواد) في مانيلا، إلى جانب عقد لقاءات ثنائية منفصلة بين المسؤولين الهنود واليابانيين في طوكيو."
+   ]
+  },
+  {
+   "id": "c1c3af6f9284",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-doing-very-well-iran",
+   "date": "2026-11-18T06:43:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Trump says US doing 'very well in Iran'",
+   "title_en": "Trump says US doing 'very well in Iran'",
+   "summary_en": "US President Donald Trump stated during a visit to the Philippines that the United States is \"doing very well in Iran, to put it mildly.\"",
+   "body_en": [
+    "Trump made the remark while meeting with Philippine President Ferdinand Marcos Jr., alongside an announcement expanding defence cooperation between Washington and Manila."
+   ],
+   "title_fa": "ترامپ می‌گوید آمریکا در ایران «بسیار خوب عمل می‌کند»",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، در جریان سفر خود به فیلیپین اعلام کرد که ایالات متحده، «اگر نگوییم فراتر از آن، در ایران بسیار خوب عمل می‌کند».",
+   "body_fa": [
+    "این اظهارات در جریان دیدار ترامپ با فردیناند مارکوس جونیور، رئیس‌جمهور فیلیپین، مطرح شد؛ دیداری که در آن ترامپ از گسترش همکاری‌های دفاعی واشنگتن با مانیل نیز خبر داد."
+   ],
+   "title_ar": "ترامب يقول إن أمريكا تبلي \"بلاء حسناً للغاية في إيران\"",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب خلال زيارته للفلبين بأن الولايات المتحدة تبلي \"بلاء حسناً للغاية في إيران، لأقولها بعبارة مخففة\".",
+   "body_ar": [
+    "وجاءت تصريحات ترامب خلال لقائه بالرئيس الفلبيني فرديناند ماركوس الابن، حيث أعلن أيضاً توسيع التعاون الدفاعي بين واشنطن ومانيلا."
+   ]
+  },
+  {
+   "id": "aa4bb8c23710",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+   "date": "2026-11-18T06:19:17Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 6,
+   "title": "How the Houthis fund war effort and tighten grip on Yemen",
+   "title_en": "How the Houthis fund war effort and tighten grip on Yemen",
+   "summary_en": "A variety of domestic revenue streams and illicit oil sales allow Yemen's Houthis to sustain their war effort and strengthen control over areas they hold.",
+   "body_en": [
+    "According to research by the Mokha Center for Strategic Studies, the group's financial system yields around $2.5 billion each year from taxes, customs, fees, and contributions, with nearly 60 percent funding security and military operations.",
+    "The group also secures over $2 billion annually through illicit sales of oil supplied by Iran, while collecting public donations through phone messages, donation drives, and mass rallies."
+   ],
+   "title_fa": "چگونه حوثی‌ها هزینه‌های جنگ را تأمین کرده و تسلط خود بر یمن را محکم‌تر می‌کنند",
+   "summary_fa": "انواع منابع درآمدی داخلی و فروش غیرقانونی نفت به حوثی‌های یمن این امکان را می‌دهد که هزینه‌های جنگی خود را تأمین کنند و تسلطشان را بر مناطق تحت کنترل گسترش دهند.",
+   "body_fa": [
+    "بر اساس پژوهش مرکز مطالعات راهبردی المخا، سیستم مالی این گروه سالانه حدود ۲٫۵ میلیارد دلار از طریق مالیات، گمرک، عوارض و مشارکت‌های مالی تأمین می‌کند که نزدیک به ۶۰ درصد آن صرف بخش‌های نظامی و امنیتی می‌شود.",
+    "این گروه همچنین سالانه بیش از ۲ میلیارد دلار از طریق فروش غیرقانونی نفت ارسالی از ایران به دست می‌آورد، در حالی که از طریق پیامک‌های تلفنی، توزیع پاکت‌های کمکی و گردهمایی‌های عمومی نیز از مردم پول جمع‌آوری می‌کند."
+   ],
+   "title_ar": "كيف يمول الحوثيون المجهود الحربي ويحكمون قبضتهم على اليمن",
+   "summary_ar": "تتيح مجموعة متنوعة من مصادر الإيرادات المحلية ومبيعات النفط غير المشروعة للحوثيين في اليمن تمويل مجهودهم الحربي وإحكام سيطرتهم على المناطق الخاضعة لهم.",
+   "body_ar": [
+    "وفقاً لأبحاث مركز المخا للدراسات الاستراتيجية، يولد النظام المالي للجماعة نحو 2.5 مليار دولار سنوياً من الضرائب والجمارك والرسوم والتبرعات، ويذهب ما يقرب من 60 بالمئة منها إلى العمليات الأمنية والعسكرية.",
+    "كما تجني الجماعة أكثر من ملياري دولار سنوياً من المبيعات غير المشروعة للنفط المقدم من إيران، إلى جانب جمع التبرعات من السكان عبر الرسائل النصية وحملات التبرع والمهرجانات الشعبية."
+   ]
+  },
+  {
+   "id": "477c78bcad29",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile",
+   "date": "2026-11-18T05:52:02Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition says it intercepted destroyed Houthi missile",
+   "title_en": "Saudi-led coalition says it intercepted destroyed Houthi missile",
+   "summary_en": "The Saudi-led coalition stated that it intercepted and destroyed a Houthi missile fired toward Riyadh.",
+   "body_en": [
+    "According to the coalition, the interception followed an earlier precision operation that struck 60 military targets across the Yemeni governorates of Sanaa, Hodeidah, Amran, and Saada.",
+    "Coalition spokesperson Turki al-Malki said forces demolished tunnels used for ballistic missile storage and workshop facilities."
+   ],
+   "title_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام موشک حوثی‌ها خبر داد",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد یک موشک حوثی‌ها را که به سوی ریاض شلیک شده بود، رهگیری و منهدم کرده است.",
+   "body_fa": [
+    "به گفته این ائتلاف، این رهگیری پس از عملیاتی دقیق صورت گرفت که در آن ۶۰ هدف نظامی در استان‌های صنعا، الحدیده، عمران و صعده در یمن هدف قرار گرفتند.",
+    "ترکی المالکی، سخنگوی این ائتلاف، گفت نیروها تونل‌هایی را که برای انبار موشک‌های بالستیک و کارگاه‌های تسلیحاتی استفاده می‌شد، منهدم کردند."
+   ],
+   "title_ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ للحوثيين",
+   "summary_ar": "أعلن التحالف بقيادة السعودية أنه اعترض ودمر صاروخاً أطلقه الحوثيون باتجاه الرياض.",
+   "body_ar": [
+    "وبحسب التحالف، جاء هذا الاعتراض في أعقاب عملية دقيقة سابقة دمرت 60 هدفاً عسكرياً في محافظات صنعاء والحديدة وعمران وصعدة في اليمن.",
+    "وذكر المتحدث باسم التحالف تركي المالكي أن القوات دمرت أنفاقاً تضم مخازن للصواريخ الباليستية وورش عمل."
+   ]
+  },
+  {
+   "id": "8c4ffabcdb3e",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/nepal-gets-nod-to-import-350-mw-of-power-from-india-during-winter/article71714504.ece",
+   "date": "2026-11-18T05:05:53Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "Nepal gets nod to import 350 MW of power from India during winter",
+   "title_en": "Nepal gets nod to import 350 MW of power from India during winter",
+   "summary_en": "Nepal has received approval from India's Central Electricity Authority to import up to 350 MW of electricity this winter to address domestic power shortages.",
+   "body_en": [
+    "The approval, valid from November 17, 2026, to July 31, 2027, permits the Nepal Electricity Authority to buy power from the Indian Energy Exchange for up to 17 hours daily. Nepal faces seasonal electricity shortfalls in winter due to lower river flows affecting its hydropower plants, a situation exacerbated by flood damage to projects with a total capacity of 431 MW in August.",
+    "Under the agreement, Nepal can import 300 MW via the Kataiya-Kushaha, Ramnagar-Surajpura, and Raxaul-Parwanipur lines, and 50 MW through the New Nautanwa-Mainahiya line. Officials expect Nepal's generation to recover by mid-April as river levels rise."
+   ],
+   "title_fa": "مجوز واردات ۳۵۰ مگاوات برق از هند در زمستان به نپال داده شد",
+   "summary_fa": "نپال مجوز اداره مرکزی برق هند را برای واردات تا ۳۵۰ مگاوات برق در زمستان امسال دریافت کرده است تا کمبود برق داخلی خود را جبران کند.",
+   "body_fa": [
+    "این مجوز که از ۱۷ نوامبر ۲۰۲۶ تا ۳۱ ژوئیه ۲۰۲۷ معتبر است، به اداره برق نپال اجازه می‌دهد تا حداکثر ۱۷ ساعت در روز از بورس انرژی هند برق خریداری کند. نپال در زمستان به دلیل کاهش جریان آب رودخانه‌ها و کاهش تولید نیروگاه‌های آبی با کمبود برق مواجه می‌شود؛ وضعیتی که با خسارات ناشی از سیل مردادماه به نیروگاه‌هایی با ظرفیت ۴۳۱ مگاوات تشدید شده است.",
+    "طبق این توافق، نپال می‌تواند ۳۰۰ مگاوات از طریق خطوط انتقال کتیا-کوشاها، رام‌نگر-سوراجپورا و رکسول-پروانیپور و ۵۰ مگاوات از طریق خط جدید نوتانوا-مایناهیا وارد کند. مقامات انتظار دارند که با افزایش سطح آب رودخانه‌ها از اواسط آوریل، تولید داخلی بهبود یابد."
+   ],
+   "title_ar": "الموافقة لنيبال على استيراد 350 ميغاوات من الكهرباء من الهند خلال الشتاء",
+   "summary_ar": "حصلت نيبال على موافقة من هيئة الكهرباء المركزية الهندية لاستيراد ما يصل إلى 350 ميغاوات من الكهرباء هذا الشتاء لمواجهة النقص في الطاقة المحلية.",
+   "body_ar": [
+    "تسمح هذه الموافقة، الصالحة من 17 نوفمبر 2026 إلى 31 يوليو 2027، لهيئة الكهرباء النيبالية بشراء الكهرباء من بورصة الطاقة الهندية لمدة تصل إلى 17 ساعة يومياً. وتواجه نيبال نقصاً موسمياً في الكهرباء خلال فصل الشتاء بسبب انخفاض منسوب مياه الأنهار مما يؤثر على محطات الكهرومائية، وهو وضع تفاقم بسبب أضرار الفيضانات التي لحقت بمشاريع تبلغ قدرتها الإجمالية 431 ميغاوات في أغسطس.",
+    "وبموجب الاتفاق، يمكن لنيبال استيراد 300 ميغاوات عبر خطوط النقل كاتئيا-كوشاها، ورامناغار-سوراجبورا، وركسول-باروانيبور، و50 ميغاوات عبر خط نيو نوتانوا-ماينا هيا. وويتوقع المسؤولون أن يتحسن الإنتاج المحلي بحلول منتصف أبريل مع ارتفاع منسوب مياه الأنهار."
+   ]
+  },
+  {
+   "id": "253d55efc987",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "date": "2026-11-18T05:00:32Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 6,
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "title_en": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "summary_en": "Leaked documents show the European Commission approved €2.5bn in loans to Egypt despite a net reduction in welfare beneficiaries, leading to accusations that it sugarcoated figures to release the funds.",
+   "body_en": [
+    "The accusations stem from a €7.4bn financial package promised to Egypt in 2024 to support its economy and manage migration. Although the EU conditioned €2.5bn of these loans on Egypt expanding its Takaful and Karama welfare programmes, leaked data indicates that the Egyptian government actually removed tens of thousands of households during the specified periods.",
+    "In response to the findings, Dutch MEP Tineke Strik announced plans to demand a formal clarification from the European Commission, accusing it of using financial assistance primarily to secure Egypt's cooperation on migration while treating reporting obligations as a formality."
+   ],
+   "title_fa": "کمیسیون اروپا متهم به زیباسازی آمارها برای آزادسازی کمک‌های مالی به مصر شد",
+   "summary_fa": "اسناد فاش‌شده نشان می‌دهد کمیسیون اروپا با وجود کاهش خالص تعداد بهره‌مندان از رفاه اجتماعی در مصر، وام ۲٫۵ میلیارد یورویی به این کشور را تأیید کرده که این امر منجر به اتهاماتی مبنی بر زیباسازی آمارها برای آزادسازی کمک‌های مالی شده است.",
+   "body_fa": [
+    "این اتهامات از یک بسته مالی ۷٫۴ میلیارد یورویی ناشی می‌شود که در سال ۲۰۲۴ به مصر وعده داده شده بود تا به اقتصاد این کشور کمک کرده و کنترل مهاجرت را تقویت کند. اگرچه اتحادیه اروپا پرداخت ۲٫۵ میلیارد یورو از این وام‌ها را به گسترش برنامه‌های رفاهی «تکافل» و «کرامت» مشروط کرده بود، داده‌های فاش‌شده نشان می‌دهد که دولت مصر در طول دوره‌های مشخص‌شده ده‌ها هزار خانوار را از لیست دریافت‌کنندگان حذف کرده است.",
+    "در پاسخ به این یافته‌ها، تینکه استریک، نماینده هلندی پارلمان اروپا، اعلام کرد که قصد دارد از کمیسیون اروپا توضیحات رسمی بخواهد. وی کمیسیون را متهم کرد که از کمک‌های مالی عمدتاً به عنوان ابزاری برای ترغیب مصر به همکاری‌های مهاجرتی استفاده کرده و الزامات گزارش‌دهی را یک امر تشریفاتی تلقی کرده است."
+   ],
+   "title_ar": "اتتهامات للمفوضية الأوروبية بتجميل الأرقام للإفراج عن أموال لمصر",
+   "summary_ar": "كشفت وثائق تسريب أن المفوضية الأوروبية وافقت على قروض بقيمة 2.5 مليار يورو لمصر على الرغم من انخفاض صافي المستفيدين من الرعاية الاجتماعية، مما أثار اتتهامات بتجميل الأرقام للإفراج عن الأموال.",
+   "body_ar": [
+    "تأتي هذه الاتهامات في إطار حزمة مالية بقيمة 7.4 مليار يورو جرى التعهد بها لمصر في عام 2024 لدعم اقتصادها وإدارة الهجرة. ورغم أن الاتحاد الأوروبي اشترط توسيع برنامجي الرعاية الاجتماعية \"تكافل\" و\"كرامة\" للإفراج عن 2.5 مليار يورو، إلا أن البيانات التسريبية تشير إلى أن الحكومة المصرية استبعدت عشرات الآلاف من الأسرة خلال الفترات المحددة.",
+    "ورداً على هذه النتائج، أعلنت عضوة البرلمان الأوروبي الهولندية تينيكي ستريك أنها تعتزم طلب توضيح رسمي من المفوضية الأوروبية، متهمة إياها باستخدام المساعدات المالية أساساً لضمان التعاون مع مصر في ملف الهجرة وتجاهل الالتزامات التنظيمية."
+   ]
+  },
+  {
+   "id": "4ca835d1beea",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/18/aid-denial-humanitarian-children-save-the-children-un",
+   "date": "2026-11-18T05:00:32Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Cases of children being denied aid in war zones are soaring, analysis finds",
+   "title_en": "Cases of children being denied aid in war zones are soaring, analysis finds",
+   "summary_en": "A Save the Children analysis reveals a 16-fold increase over the past decade in incidents where aid was deliberately denied to children in conflict zones, with the majority of recorded cases occurring in the occupied Palestinian territory.",
+   "body_en": [
+    "Verified incidents of aid denial to children rose from 509 in 2015 to 8,322 last year, according to the group's evaluation of UN data. Denial of aid now accounts for more than 20% of all recorded UN violations against children in conflict zones, compared to 2% ten years ago.",
+    "The occupied Palestinian territory recorded nearly 6,000 incidents last year, followed by Libya with over 1,000 and Ukraine with 473. State forces were responsible for a significant share of these violations, with Israeli authorities attributed to nearly 90% of incidents in Gaza."
+   ],
+   "title_fa": "بررسی‌ها نشان می‌دهد موارد محروم‌سازی کودکان از کمک‌های بشردوستانه در مناطق جنگی به‌شدت افزایش یافته است",
+   "summary_fa": "تحلیل سازمان نجات کودکان نشان می‌دهد که موارد ممانعت عمدی از رساندن کمک به کودکان در مناطق جنگی طی یک دهه گذشته ۱۶ برابر شده و بیشترین موارد ثبت‌شده در سرزمین‌های اشغالی فلسطین رخ داده است.",
+   "body_fa": [
+    "طبق ارزیابی داده‌های سازمان ملل توسط این نهاد، موارد تأییدشده محروم‌سازی کودکان از کمک‌های بشردوستانه از ۵۰۹ مورد در سال ۲۰۱۵ به ۸,۳۲۲ مورد در سال گذشته رسیده است. ممانعت از ارسال کمک‌ها اکنون بیش از ۲۰ درصد از کل موارد نقض حقوق کودکان در مناطق جنگی ثبت‌شده توسط سازمان ملل را تشکیل می‌دهد، در حالی که این رقم ۱۰ سال پیش ۲ درصد بود.",
+    "سرزمین‌های اشغالی فلسطین با ثبت نزدیک به ۶,۰۰۰ مورد در سال گذشته بیشترین آمار را داشته و پس از آن لیبی با بیش از ۱,۰۰۰ مورد و اوکراین با ۴۷۳ مورد قرار دارند. نیروهای دولتی مسئول بخش عمده‌ای از این موارد نقض بوده‌اند و نزدیک به ۹۰ درصد از موارد رخ‌داده در غزه به مقامات اسرائیلی نسبت داده شده است."
+   ],
+   "title_ar": "تحليل يظهر ارتفاعاً كبيراً في حالات حرمان الأطفال من المساعدات في مناطق النزاع",
+   "summary_ar": "كشف تحليل أجرته منظمة \"إنقاذ الأطفال\" عن ارتفاع حالات حرمان الأطفال العمدي من المساعدات في مناطق النزاع بمقدار 16 ضعفاً خلال العقد الماضي، حيث سجلت غالبية الحالات في الأراضي الفلسطينية المحتلة.",
+   "body_ar": [
+    "وفقاً لتقييم بيانات الأمم المتحدة الذي أجرته المنظمة، ارتفعت الحالات الموثقة لحرمان الأطفال من المساعدات من 509 حالات في عام 2015 إلى 8,322 حالة العام الماضي. وبات حرمان المساعدات يشكل أكثر من 20% من إجمالي انتهاكات حقوق الأطفال في مناطق النزاع المسجلة لدى الأمم المتحدة، مقارنة بـ 2% قبل عشر سنوات.",
+    "وسجلت الأراضي الفلسطينية المحتلة ما يقارب 6,000 حالة العام الماضي، تليها ليبيا بأكثر من 1,000 حالة وأوكرانيا بـ 473 حالة. وكانت القوات الحكومية مسؤولة عن نسبة كبيرة من هذه الانتهاكات، حيث نُسب نحو 90% من الحالات في غزة إلى السلطات الإسرائيلية."
+   ]
+  },
   {
    "id": "34812afac42f",
    "lang": "en",
@@ -119,6 +389,67 @@
    "summary_ar": "انتخاب متان كاهانا، حليف غادي آيزنكوت، رئيساً جديداً للبرلمان الإسرائيلي بدعم من الأحزاب العربية.",
    "body_ar": [
     "يأتي انتخاب كاهانا في الوقت الذي يعمل فيه حزب آيزنكوت على تشكيل الحكومة القادمة وإبدال بنيامين نتنياهو."
+   ]
+  },
+  {
+   "id": "a07918a43ad6",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045288/",
+   "date": "2026-11-18T00:38:45Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "score": 5,
+   "title": "Saudi firm eyes $30bn energy deal",
+   "title_en": "Saudi firm eyes $30bn energy deal",
+   "summary_en": "Saudi company Delta Energy Saudi has signed an agreement with Pakistan's Inter State Gas Systems to explore energy infrastructure projects worth a proposed $30 billion.",
+   "body_en": [
+    "The agreement establishes a framework to evaluate building a natural gas pipeline entering western Pakistan toward Gwadar, along with potential extensions to the eastern border near Fazilka via Chaman. The proposed infrastructure includes LNG facilities, gas storage, and export terminals.",
+    "Delta Energy stated that the supplies could draw from Afghanistan's Kashk gas concession and clarified that the initiative is separate from the Turkmenistan-Afghanistan-Pakistan-India project. The current agreement does not represent a final investment decision or a formal commitment to construct the projects."
+   ],
+   "title_fa": "شرکت سعودی در پی قرارداد انرژی ۳۰ میلیارد دلاری",
+   "summary_fa": "شرکت عربستانی دلتا انرژی با شرکت سیستم‌های گاز بین‌المللی پاکستان قراردادی امضا کرده است تا پروژه‌های زیرساخت انرژی به ارزش پیشنهادی حدود ۳۰ میلیارد دلار را بررسی کند.",
+   "body_fa": [
+    "این توافق‌نامه چارچوبی را برای ارزیابی احداث یک خط لوله انتقال گاز طبیعی که از مرزهای غربی وارد پاکستان شده و به سمت بندر گوادر امتداد می‌یابد، به همراه احتمال تمدید آن به مرزهای شرقی در نزدیکی فازیلکا از طریق چمن فراهم می‌کند. این زیرساخت پیشنهادی شامل تأسیسات گاز مایع (LNG)، ذخیره‌سازی گاز و ترمینال‌های صادراتی است.",
+    "شرکت دلتا انرژی اعلام کرد که گاز مورد نیاز می‌تواند از امتیاز گازی کشک در افغانستان تأمین شود و تأکید کرد که این طرح مستقل از پروژه تاپی (ترکمنستان-افغانستان-پاکستان-هند) است. این توافق به منزله تصمیم نهایی برای سرمایه‌گذاری یا تعهد قطعی برای ساخت پروژه‌ها نیست."
+   ],
+   "title_ar": "شركة سعودية تتطلع إلى صفقة طاقة بقيمة 30 مليار دولار",
+   "summary_ar": "وقعت شركة \"دلتا إنرجي\" السعودية اتفاقاً مع شركة \"إنتر ستيت غاز سيستمز\" الباكستانية لبحث تطوير مشاريع للبنية التحتية للطاقة باستثمارات مقترحة تبلغ نحو 30 مليار دولار.",
+   "body_ar": [
+    "يوفر الاتفاق إطاراً لتقييم إنشاء خط أ his نبيب للغاز الطبيعي يدخل پاکستان عبر حدودها الغربية ويمتد نحو ميناء گوادر، مع امتداد محتمل إلى الحدود الشرقية بالقرب من فاضيلكا عبر تشامان. وتتضمن البنية التحتية المقترحة منشآت للغاز الطبيعي المسال ومرافق لتخزين الغاز ومعالجته ومحطات للتصدير.",
+    "وأوضحت شركة \"دلتا إنرجي\" أن الإمدادات قد تعتمد على امتياز غاز كشك في أفغانستان، مشيرة إلى أن هذا البرنامج مستقل عن مشروع تركمانستان-أفغانستان-باكستان-الهند. ولا يشكل الاتفاق الحالي قراراً استثمارياً نهائياً أو التزاماً بتمويل المشاريع أو بنائها."
+   ]
+  },
+  {
+   "id": "56c879c4007a",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045341/taliban-supreme-leader-makes-rare-visit-to-afghan-capital",
+   "date": "2026-11-18T00:36:14Z",
+   "countries": [
+    "AFG"
+   ],
+   "score": 8,
+   "title": "Taliban supreme leader makes rare visit to Afghan capital",
+   "title_en": "Taliban supreme leader makes rare visit to Afghan capital",
+   "summary_en": "Taliban Supreme Leader Hibatullah Akhundzada made a rare visit to Kabul on Tuesday, urging attendees at Kabul University to encourage obedience and support for his rule.",
+   "body_en": [
+    "Speaking at a conference assessing the impact of his decrees, Akhundzada urged his audience to help the public understand the Taliban administration following the establishment of an Islamic system. The event took place under heavy security, including rooftop snipers, Humvees, street searches, and the prior closure of Kabul University.",
+    "Akhundzada, who took leadership of the movement a decade ago and governs from Kandahar, has visited Kabul only a handful of times in recent years. The gathering brought together thousands of senior officials and scholars, who were asked to renew their pledge of allegiance to the leader."
+   ],
+   "title_fa": "سفر کم‌سابقه رهبر عالی طالبان به پایتخت افغانستان",
+   "summary_fa": "هبت‌الله آخندزاده، رهبر عالی طالبان، روز سه‌شنبه در سفری کم‌سابقه به کابل رفت و در دانشگاه این شهر خواستار ترغیب مردم به پیروی و اطاعت از فرامین خود شد.",
+   "body_fa": [
+    "آخندزاده در همایشی پیرامون ارزیابی آثار فرامین خود سخنرانی کرد و خواستار آن شد که ماهیت حاکمیت طالبان پس از برپایی نظام اسلامی به مردم شناسانده شود. این مراسم تحت تدابیر شدید امنیتی، از جمله استقرار تک‌تیراندازها، گشت خودروهای هاموی، بازرسی منازل و تعطیلی چندروزه دانشگاه کابل برگزار شد.",
+    "رهبر طالبان که از قندهار حکومت می‌کند، طی سال‌های گذشته به‌ندرت به کابل سفر کرده است. به گفته وزارت تحصیلات عالی، در این نشست هزاران مقام ارشد و عالم دینی حضور داشتند و پیش از ورود او، دست یکدیگر را گرفته و با وی تجدید بیعت کردند."
+   ],
+   "title_ar": "الزعيم الأعلى لطالبان يجري زيارة نادرة للعاصمة الأفغانية",
+   "summary_ar": "أجرى الزعيم الأعلى لحركة طالبان، هبة الله أخوند زاده، زيارة نادرة إلى العاصمة كابول يوم الثلاثاء، داعياً الحاضرين في جامعة كابول إلى حث الناس على طاعة قراراته ودعمه.",
+   "body_ar": [
+    "وخلال مؤتمر لتقييم تأثير مراسيمه، أكد أخوند زاده على ضرورة مساعدة الناس في فهم طبيعة الإدارة بعد إرساء النظام الإسلامي. وعُقد الحدث وسط إجراءات أمنية مشددة شملت نشر قناصة وإغلاق جامعة كابول وتفتيش منازل محيطة.",
+    "ويتخذ أخوند زاده، الذي يقود الحركة منذ عقد، من قندهار مقراً لحكمه، ولم يزر كابول سوى مرات نادرة في السنوات الأخيرة. وشارك في التجمع آلاف المسؤولين والعلماء الذين طُلب منهم تجديد البيعة للزعيم قبل وصوله."
    ]
   },
   {
@@ -1056,33 +1387,30 @@
    ]
   },
   {
-   "id": "85a26c997644",
+   "id": "06b869b7cfd7",
    "lang": "en",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
-   "date": "2026-11-17T09:29:28Z",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+   "date": "2026-11-17T08:25:25Z",
    "countries": [
-    "ISR"
+    "IRN"
    ],
-   "score": 7,
-   "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-   "title_en": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-   "summary_en": "The Israeli opposition bloc is pushing to elect a new Knesset speaker, aiming to use the powerful legislative position to challenge Prime Minister Benjamin Netanyahu's policies and initiate key political reforms.",
+   "score": 9,
+   "title": "Vance calls out ‘neoconservatives’ over Iran war",
+   "title_en": "Vance calls out ‘neoconservatives’ over Iran war",
+   "summary_en": "US Vice President JD Vance told Fox News that neoconservatives want the war with Iran to become a forever war, asserting that President Donald Trump will prevent a long-term commitment.",
    "body_en": [
-    "Led by figures like گادی آیزنکوت (Gadi Eisenkot), the anti-Netanyahu opposition agreed on nominees for speaker and key committees, with support from Arab-led parties to secure a majority for Matan Kahana of the Yashar party.",
-    "Securing the speakership would allow the opposition to set the legislative agenda, push for an independent inquiry into the October 7 attacks, and pursue measures to limit the premiership and restore judicial powers."
+    "Vance acknowledged the political cost associated with the war's impact on fuel and energy prices, while reiterating that Trump would not let the conflict drag on indefinitely."
    ],
-   "title_fa": "همزمان با آماده شدن کنست برای انتخاب رئیس جدید، اپوزیسیون اسرائیل نقش قدرتمندی دارد",
-   "summary_fa": "بلوک اپوزیسیون اسرائیل برای انتخاب رئیس جدید کنست تلاش می‌کند تا از این جایگاه قدرتمند قانون‌گذاری برای به چالش کشیدن سیاست‌های بنیامین نتانیاهو و آغاز اصلاحات سیاسی کلیدی استفاده کند.",
+   "title_fa": "انتقاد ونس از «نئوکان‌ها» درباره جنگ ایران",
+   "summary_fa": "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، در گفتگو با فاکس‌نیوز اعلام کرد نئوکان‌ها به دنبال تبدیل جنگ با ایران به جنگی ابدی هستند و تأکید کرد که دونالد ترامپ اجازه تعهد بلندمدت به این جنگ را نخواهد داد.",
    "body_fa": [
-    "اپوزیسیون ضد بنیامین نتانیاهو به رهبری چهره‌هایی مانند گادی آیزنکوت بر سر نامزدهای ریاست کنست و کمیته‌های کلیدی توافق کرده و حزب‌های عربی نیز حمایت خود را برای تضمین اکثریت به نفع متان کاهانا از حزب یاشار اعلام کرده‌اند.",
-    "به دست گرفتن ریاست کنست به اپوزیسیون اجازه می‌دهد تا دستور کار قانون‌گذاری را تعیین کند، خواستار تحقیق مستقل درباره حملات ۷ اکتبر شود و اقداماتی را برای محدود کردن دوره نخست‌وزیری و بازگرداندن اختیارات قوه قضاییه دنبال کند."
+    "ونس با اشاره به اینکه ترامپ مانع از کشیده شدن جنگ به تعهدی نامحدود خواهد شد، به هزینه‌های سیاسی ناشی از تأثیر این درگیری بر بهای بنزین و انرژی نیز اذعان کرد."
    ],
-   "title_ar": "بينما يستعد الكنيست لرئيس جديد، تحظى المعارضة الإسرائيلية بدور قوي",
-   "summary_ar": "يسعى كتلة المعارضة الإسرائيلية لانتخاب رئيس جديد للكنيست، بهدف استخدام هذا المنصب التشريعي القوي لتحدي سياسات بنيامين نتانیاهو وإطلاق إصلاحات سياسية رئيسية.",
+   "title_ar": "فانس ينتقد «المحافظين الجدد» بشأن حرب إيران",
+   "summary_ar": "صرح نائب الرئيس الأمريكي جيه دي فانس لشبكة \"فوكس نيوز\" بأن المحافظين الجدد يريدون تحويل الحرب مع إيران إلى حرب أبدية، مؤكداً أن الرئيس دونالد ترامب لن يسمح بالتزام طويل الأمد بها.",
    "body_ar": [
-    "اتفقت المعارضة المناهضة لبنيامين نتانياهو، بقيادة شخصيات مثل غادي آيزنكوت، على مرشحي رئاسة الكنيست واللجان الرئيسية، وسط دعم من الأحزاب العربية لضمان الأغلبية لصالح ماتان كاهانا من حزب يشار.",
-    "سيسمح الفوز برئاسة الكنيست للمعارضة بتحديد الاجندة التشريعية، والدفع نحو تشكيل لجنة تحقيق مستقلة في هجمات 7 أكتوبر، والسعي لإجراءات تحد من رئاسة الوزراء وتستعيد صلاحيات القضاء."
+    "وأقر فانس بالتكلفة السياسية المرتبطة بتأثير الحرب على أسعار الوقود والطاقة، مشدداً في الوقت نفسه على أن ترامب لن يدع الصراع يطول إلى ما لا نهاية."
    ]
   },
   {
