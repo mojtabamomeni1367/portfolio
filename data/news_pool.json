@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:33:07Z",
+ "updated": "2026-11-18T10:28:53Z",
  "items": [
   {
    "id": "4e56eb2b5b97",
@@ -2748,6 +2748,198 @@
     "LBN"
    ],
    "desc": "حملة لصحيفة \"النهار\" اللبنانية تعيد النقاش حول تجريم العلاقات الجنسية المثلية إلى الواجهة، وتكشف مواقف الأحزاب من إلغاء المادة 534.",
+   "score": 4
+  },
+  {
+   "id": "f0d05cab03df",
+   "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:37:04Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+   "score": 8,
+   "dup_of": "59af207e6b43"
+  },
+  {
+   "id": "71ac00ee0340",
+   "title": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
+   "date": "2026-11-18T09:13:12Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Prince William's visit highlights growing partnership between New Delhi and London, despite their colonial history.",
+   "score": 4
+  },
+  {
+   "id": "7f602e2f6454",
+   "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
+   "date": "2026-11-18T08:55:40Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "After almost a decade in exile, they're hoping the ICJ rules in their favour. But will that help them get back home?",
+   "score": 7
+  },
+  {
+   "id": "e6dbe28d7042",
+   "title": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
+   "date": "2026-11-18T07:54:15Z",
+   "countries": [
+    "BGD",
+    "IND",
+    "PAK"
+   ],
+   "desc": "Thousands of Bangladeshi fans turned up to watch India complete a three-peat of SAFF titles in Dhaka.",
+   "score": 1
+  },
+  {
+   "id": "a9cefeb13011",
+   "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "date": "2026-11-18T09:58:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ",
+   "score": 6
+  },
+  {
+   "id": "f99c466abaf8",
+   "title": "Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies",
+   "date": "2026-11-18T08:18:27Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "Air Chief Marshal (ACM) Zaheer Ahmed Baber Sidhu and Turkish Air Force Commander General Rafet Dalkıran discussed opportunities to enhance bilateral defence cooperation in unmanned and autonomous systems, electronic warfare, advanced aerospace technologies, and indigenous research, development and production. In a statement issued on Wednesday, the Pakistan Air Force’s Directorate General of Public Relations (DGPR) said the air chief highlighted that the Pakistan-Turkiye partnership, founded on shared history, common values and mutual trust, had evolved into a robust strategic relationship wit",
+   "score": 7
+  },
+  {
+   "id": "5e0ba5241b90",
+   "title": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045399/indian-air-forces-rafale-fleet-down-to-32-aviation-publication-says-backing-pakistans-claim-of-downing-four-jets",
+   "date": "2026-11-18T09:53:06Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "The Indian Air Force (IAF) has 32 French-made Rafale fighter jets in service, down from 36 before the May 2025 conflict with Pakistan, according to estimates published by British aviation magazine Flight International. The figures lend credence to Islamabad’s claim that it shot down several Indian Rafale jets during the conflict. In its annual directory of air forces around the world, Flight International listed 32 Rafales in the IAF’s active inventory. Screengrab from Flight International’s November directory on World Air Forces shows IAF’s fleet. The Rafale, French for a gust of wind, is a t",
+   "score": 7
+  },
+  {
+   "id": "5607c710f7e7",
+   "title": "Ghazi's fifty and Razaullah's late blitz give Pakistan 227-run lead over Sri Lanka in second Test",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045398/ghazis-fifty-and-razaullahs-late-blitz-give-pakistan-227-run-lead-over-sri-lanka-in-second-test",
+   "date": "2026-11-18T09:54:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Wicket-keeper-batter Ghazi Ghori struck a resilient half-century before Razaullah provided late fireworks to lift Pakistan to 325 all out, giving the hosts a commanding 227-run first-innings lead over Sri Lanka on the second day of the second Test at the Rawalpindi Cricket Stadium on Wednesday. Pakistan’s innings had two contrasting phases, with Sri Lanka fighting back through Lahiru Kumara’s five-wicket haul before Ghazi and the lower order wrested back the initiative in the second session. Resuming at 121 for three, Pakistan had reached 221 for seven at lunch, having added 100 runs during th",
+   "score": 1
+  },
+  {
+   "id": "d6a41dcb4150",
+   "title": "Lahore once again tops list of world's most polluted major cities, with AQI crossing 300",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045395/lahore-once-again-tops-list-of-worlds-most-polluted-major-cities-with-aqi-crossing-300",
+   "date": "2026-11-18T08:39:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Lahore returned to the top of the list of the world’s most polluted major cities on Wednesday, with its Air Quality Index (AQI) reaching 339, as several other cities in Punjab also recorded hazardous levels of air pollution, according to IQAir. The IQAir live global major city ranking for 10am to 11am on November 18 placed Lahore first, followed by Dhaka with an AQI of 221, Baghdad with 199, Tashkent with 182 and Kolkata with 178. Karachi ranked sixth, with an AQI of 174. The situation was worse in several other parts of Punjab. The real-time Pakistan city ranking placed Faisalabad at ",
+   "score": 4
+  },
+  {
+   "id": "22f987ecf421",
+   "title": "Iran army says it targeted U.S. military base in Kuwait",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece",
+   "date": "2026-11-18T09:06:13Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "desc": "The army claimed it had targeted air defence systems, as well as drone and missile launch platforms, according to a statement carried by Iran’s state broadcaster",
+   "score": 9
+  },
+  {
+   "id": "e24732ffc51c",
+   "title": "Why did the U.S. lose its measles elimination status? | Explained",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece",
+   "date": "2026-11-18T08:40:36Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "What triggered the resurgence of measles in the U.S.? Is vaccine hesitancy putting decades of progress against measles at risk? How is the global measles surge affecting India?",
+   "score": 1
+  },
+  {
+   "id": "d0d379b55557",
+   "title": "Bahrain, Kuwait attacked after U.S. strikes Iranian island",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bahrain-kuwait-attacked-after-us-strikes-iranian-island/article71714916.ece",
+   "date": "2026-11-18T08:37:27Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "KWT"
+   ],
+   "desc": "",
+   "score": 9,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "21c217e4d64b",
+   "title": "«کجایی؟ به شارژم»؛ روایت زنان ایرانی که محکومیت‌شان را با پابند الکترونیکی می‌گذرانند",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c52e877vkyy8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T07:57:17Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "اعتراضات ۱۸ و ۱۹ دی ۱۴۰۴ با موجی از بازداشت‌ها همراه شد و بسیاری از بازداشت‌شدگان با احکام حبس روبه‌رو شدند. در ماه‌های بعد، تصاویر و روایت‌های منتشرشده در شبکه‌های اجتماعی نشان داد که شماری از آنها با پابند الکترونیکی دوران محکومیت خود را در خانه می‌گذرانند. این گزارش به زندگی زنانی می‌پردازد که در ارتباط با آن اعتراضات یا فعالیت‌هایشان در شبکه‌های اجتماعی، زیر نظارت الکترونیکی قرار گرفته‌اند.",
+   "score": 5
+  },
+  {
+   "id": "51a2d28ec0b3",
+   "title": "الحوثيون: كيف تحولت حركة صعدة المغمورة إلى صداع إقليمي ودولي؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cwdd144g3jveo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T09:00:20Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "تعود جذور جماعة أنصار الله الحوثية إلى عقود من الاضطرابات السياسية، والتنافسات القبلية والدينية، والتوترات بين المجتمعات الشمالية والحكومة المركزية. وقد أسهمت هذه العوامل في تشكل الحركة وصعودها.",
    "score": 4
   }
  ]
