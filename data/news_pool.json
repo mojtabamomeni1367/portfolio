@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:11:55Z",
+ "updated": "2026-11-19T07:44:12Z",
  "items": [
   {
    "id": "f750f2f3295c",
@@ -2191,6 +2191,140 @@
    ],
    "desc": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
    "score": 4
+  },
+  {
+   "id": "03a269265f7b",
+   "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+   "date": "2026-11-19T07:08:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+   "score": 7
+  },
+  {
+   "id": "501bc1a44945",
+   "title": "Netanyahu’s last stand and the dangerous politics of survival",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+   "date": "2026-11-19T06:58:44Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
+   "score": 3
+  },
+  {
+   "id": "9649f214a30e",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+   "date": "2026-11-19T05:13:13Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+   "score": 7
+  },
+  {
+   "id": "3295cab8832b",
+   "title": "APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+   "date": "2026-11-19T03:30:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The unprecedented summit follows Trump's bilateral meetings with China's Xi and Russia's Putin.",
+   "score": 9,
+   "dup_of": "044b00745a25"
+  },
+  {
+   "id": "972d7dbe830c",
+   "title": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+   "date": "2026-11-19T05:11:59Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "The International Energy Agency said on Thursday that the Middle East crisis triggered by US and Israeli strikes on Iran in February posed the “largest threat” to energy security in history. It warned that consumers were bearing more of the costs as Iran’s blockade of the Strait of Hormuz disrupted oil shipments.",
+   "score": 8
+  },
+  {
+   "id": "55bd49b05b40",
+   "title": "Yunus's ancestral home set ablaze as violence grips Bangladesh",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/yunuss-ancestral-home-set-ablaze-as-violence-grips-bangladesh/article71719029.ece",
+   "date": "2026-11-19T07:19:24Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Newspaper reports said rival activists, presumably belonging to Prime Minister Tarique Rahman's Bangladesh Nationalist Party (BNP), overnight attacked or set ablaze the residences of two Awami League leaders in Dhaka.",
+   "score": 7
+  },
+  {
+   "id": "06853afba13e",
+   "title": "U.S. court orders delivery of summonses to Doval, Goel through Delhi courts",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-court-orders-delivery-of-summonses-to-doval-goel-through-delhi-courts/article71718862.ece",
+   "date": "2026-11-19T06:10:47Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Citing the Hague Conventions and relevant provisions of the Indian Code of Civil Procedure (CPC), a U.S. federal court Judge Katherine Polk Failla said foreign courts can serve summonses to Mr. Doval and Mr. Goel through Indian courts",
+   "score": 4
+  },
+  {
+   "id": "2606cb1cdbfa",
+   "title": "Pakistan Minister to lead delegation to Delhi for SCO Civilisations Dialogue Forum",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-minister-to-lead-delegation-to-delhi-for-sco-civilisations-dialogue-forum/article71718672.ece",
+   "date": "2026-11-19T04:46:52Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Pakistan’s Ministry of Foreign Affairs said that its participation in this Forum is reflective of its contribution as an active SCO member state to promote dialogue, cooperation and understanding in line with ‘Shanghai Spirit’",
+   "score": 6
+  },
+  {
+   "id": "b856f07ecdcf",
+   "title": "ترامب وشي يبحثان التعاون بشأن إيران قبيل قمة ثلاثية مع بوتين",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckq6egn696yro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T06:51:57Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "بحث الرئيس الأمريكي دونالد ترامب ونظيره الصيني شي جين بينغ، الخميس، ملفات التجارة وإيران ومضيق هرمز في شينتشن، قبيل قمة ثلاثية مع الرئيس الروسي فلاديمير بوتين. وكان ترامب قد التقى بوتين في وقت سابق وسط مخاوف أوكرانية من تسويات محتملة.",
+   "score": 9,
+   "dup_of": "044b00745a25"
+  },
+  {
+   "id": "661d1102e274",
+   "title": "صنّاع فيلم \"نازا\": كيف أقنعوا جنوداً إسرائيليين بالحديث عن قصف غزة؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmn0dyg19w00o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T06:01:03Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "في مقابلة مع بي بي سي، يتحدّث المخرجان الإسرائيليان الحائزان على جائزة الأوسكار، يوفال أبراهام وراشيل شور، عن فيلمهما الوثائقي \"نازا\" الذي حظي بإشادة النقّاد. ويتقصّى الفيلم سقوط ضحايا مدنيين في غزة من خلال مقابلات مع 24 ضابطاً في الجيش وأجهزة الاستخبارات الإسرائيلية، لم يُكشف عن هوياتهم، يشرحون كيف استُخدمت أنظمة تعمل بالذكاء الاصطناعي لتحديد أهداف محتملة وتقدير أعداد القتلى.",
+   "score": 2
   }
  ]
 }
