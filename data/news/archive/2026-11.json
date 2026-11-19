@@ -1,7 +1,897 @@
 {
  "month": "2026-11",
- "count": 120,
+ "count": 150,
  "items": [
+  {
+   "id": "2d75a8774ae0",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-discusses-regional-developments-uae-counterpart",
+   "date": "2026-11-05T20:46:46Z",
+   "countries": [
+    "ARE",
+    "IRN"
+   ],
+   "score": 6,
+   "title": "Iran's foreign minister discusses regional developments with UAE counterpart",
+   "title_en": "Iran's foreign minister discusses regional developments with UAE counterpart",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi has held discussions on regional developments and diplomatic efforts with UAE Foreign Minister Sheikh Abdullah bin Zayed.",
+   "body_en": [
+    "According to Araghchi's Telegram channel, the two foreign ministers discussed diplomatic initiatives aimed at achieving stability in the region.",
+    "The discussions come as Iran has been engaging with mediators in an effort to bring an end to the war with the United States."
+   ],
+   "title_fa": "وزیر امور خارجه ایران با همتای اماراتی خود درباره تطورات منطقه‌ای گفتگو کرد",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، در گفتگو با شیخ عبدالله بن زاید، وزیر امور خارجه امارات، آخرین تحولات منطقه‌ای و تلاش‌های دیپلماتیک را بررسی کرد.",
+   "body_fa": [
+    "بر اساس اطلاعات منتشرشده در کانال تلگرام عباس عراقچی، دو وزیر امور خارجه درباره ابتکارهای دیپلماتیک با هدف دستیابی به ثبات در منطقه گفتگو کردند.",
+    "این گفتگوها در حالی صورت می‌گیرد که ایران در تلاش برای پایان دادن به جنگ با ایالات متحده، در حال رایزنی با میانجی‌ها بوده است."
+   ],
+   "title_ar": "وزير الخارجية الإيراني يناقش التطورات الإقليمية مع نظيره الإماراتي",
+   "summary_ar": "بحث وزير الخارجية الإيراني عباس عراقجي التطورات الإقليمية والجهود الدبلوماسية مع وزير خارجية الإمارات الشيخ عبد الله بن زايد.",
+   "body_ar": [
+    "وفقاً لقناة عباس عراقجي على تلغرام، ناقش الوزيران الجهود الدبلوماسية الموجهة لتحقيق الاستقرار في المنطقة.",
+    "وتأتي هذه المحادثات في وقت تجري فيه إيران محادثات مع وسطاء في محاولة لإعادة إنهاء الحرب مع الولايات المتحدة."
+   ]
+  },
+  {
+   "id": "f1797521d0d2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-sent-nuclear-proposal-us-qatar-senior-iranian-official-tells",
+   "date": "2026-11-05T20:17:50Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 9,
+   "title": "Iran sent nuclear proposal to the US via Qatar, report says",
+   "title_en": "Iran sent nuclear proposal to the US via Qatar, report says",
+   "summary_en": "Iran has delivered a nuclear proposal to the United States through Qatar, according to a senior Iranian official.",
+   "body_en": [
+    "A senior Iranian official told Reuters on Thursday that Washington is currently reviewing the nuclear proposal submitted by Tehran. However, the official noted that the proposal will only be discussed after the United States fulfills seven Iranian demands."
+   ],
+   "title_fa": "گزارش‌ها: ایران پیشنهاد هسته‌ای خود را از طریق قطر به آمریکا ارسال کرد",
+   "summary_fa": "به گفته یک مقام ارشد ایرانی، ایران یک پیشنهاد هسته‌ای را از طریق قطر به ایالات متحده تحویل داده است.",
+   "body_fa": [
+    "یک مقام ارشد ایرانی روز پنجشنبه به خبرگزاری رویترز گفت که واشنگتن در حال بررسی پیشنهاد هسته‌ای ارائه‌شده از سوی تهران است. با این حال، این مقام خاطرنشان کرد که این پیشنهاد تنها پس از برآورده شدن هفت شرط ایران از سوی ایالات متحده به بحث گذاشته خواهد شد."
+   ],
+   "title_ar": "تقرير: إيران أرسلت مقترحاً نووياً إلى الولايات المتحدة عبر قطر",
+   "summary_ar": "نقلاً عن مسؤول إيراني كبير، أرسلت إيران مقترحاً نووياً إلى الولايات المتحدة عبر قطر.",
+   "body_ar": [
+    "صرح مسؤول إيراني كبير لوكالة رويترز يوم الخميس بأن واشنگتن تدرس حالياً المقترح النووي المقدم من تهران. ومع ذلك، أشار المسؤول إلى أن المقترح لن يناقش إلا بعد أن تلبي الولايات المتحدة سبعة مطالب إيرانية."
+   ]
+  },
+  {
+   "id": "3a9234616d91",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-security-chief-says-putin-meeting-covered-post-war-security",
+   "date": "2026-11-05T19:25:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran’s security chief says Putin meeting covered ‘post-war’ security",
+   "title_en": "Iran’s security chief says Putin meeting covered ‘post-war’ security",
+   "summary_en": "Iranian security official Mohsen Rezaei stated that his meeting in Moscow with Russian President Vladimir Putin addressed regional security after the war.",
+   "body_en": [
+    "According to Iranian state broadcaster IRIB, Rezaei said his talks with Putin covered important regional issues as well as post-war regional security arrangements. He did not provide further details on the security plans.",
+    "Rezaei added that Putin asked him to convey warm and sincere greetings to Supreme Leader Ali Khamenei."
+   ],
+   "title_fa": "رئیس امنیت ایران: دیدار با پوتین شامل ترتیبات امنیتی «پس از جنگ» بود",
+   "summary_fa": "محسن رضایی، مقام امنیتی ایران، اعلام کرد که دیدار او در مسکو با ولادیمیر پوتین، رئیس‌جمهور روسیه، به موضوعات امنیتی منطقه در دوران پس از جنگ پرداخته است.",
+   "body_fa": [
+    "به گزارش صدا و سیمای ایران (IRIB)، رضایی گفت گفتگوهای او با پوتین شامل مسائل مهم منطقه‌ای و همچنین ترتیبات امنیتی منطقه‌ای پس از جنگ بوده است. وی جزئیات بیشتری درباره این طرح‌های امنیتی ارائه نکرد.",
+    "رضایی همچنین افزود که پوتین از او خواسته است تا صمیمانه‌ترین سلام‌های وی را به علی خامنه‌ای، رهبر معظم ایران، برساند."
+   ],
+   "title_ar": "مسؤول الأمن الإيراني: اللقاء مع بوتين تناول أمن «ما بعد الحرب»",
+   "summary_ar": "صرح المسؤول الأمني الإيراني محسن رضائي بأن لقاءه في موسكو مع الرئيس الروسي فلاديمير بوتين تناول الأمن الإقليمي لمرحلة ما بعد الحرب.",
+   "body_ar": [
+    "وفقاً لهيئة الإذاعة والتلفزيون الإيرانية (IRIB)، قال رضائي إن محادثاته مع بوتين تناولت قضايا إقليمية مهمة بالإضافة إلى ترتيبات الأمن الإقليمي لما بعد الحرب. ولم يقدم مزيداً من التفاصيل حول تلك الترتيبات.",
+    "وأضاف رضائي أن بوتين نقله تحيات حارة وصادقة إلى المرشد الأعلى علي خامنئي."
+   ]
+  },
+  {
+   "id": "d906454d3235",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+   "date": "2026-11-05T18:30:09Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+   "title_en": "Arab party backs Eisenkot in bid to form Israel’s next government",
+   "summary_en": "The Arab-majority Ra'am party and the Democrats have endorsed Gadi Eisenkot to form Israel's next government.",
+   "body_en": [
+    "The endorsement follows Benjamin Netanyahu's attacks on Arab-majority lists following their record turnout in the recent election."
+   ],
+   "title_fa": "حزب عربی از آیزنکوت برای تشکیل دولت آتی اسرائیل حمایت کرد",
+   "summary_fa": "حزب عرب‌محبوب رعم و دموکرات‌ها از گادی آیزنکوت برای تشکیل دولت آینده اسرائیل حمایت کردند.",
+   "body_fa": [
+    "این حمایت در پی حملات بنیامین نتانیاهو به فهرست‌های عرب‌محبوب به دنبال مشارکت رکوردشکن آن‌ها در انتخابات هفته گذشته صورت گرفت."
+   ],
+   "title_ar": "حزب عربي يدعم آيزنكوت في مساعي تشكيل الحكومة الإسرائيلية المقبلة",
+   "summary_ar": "دعم حزب الموحدة (رعَم) ذو الغالبية العربية وحزب الديمقراطيين غادي آيزنكوت لتشكيل الحكومة الإسرائيلية القادمة.",
+   "body_ar": [
+    "يأتي هذا الدعم وسط هجمات بنيامين نتنياهو على القوائم ذات الغالبية العربية عقب نسب الإقبال القياسية التي سجلتها في انتخابات الأسبوع الماضي."
+   ]
+  },
+  {
+   "id": "4c2f8b336fc6",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
+   "date": "2026-11-05T18:20:21Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+   "title_en": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+   "summary_en": "Indian Foreign Secretary Vikram Misri met with Nepal Prime Minister Balendra Shah in Kathmandu to discuss preparations and initiatives for the latter's upcoming visit to New Delhi.",
+   "body_en": [
+    "During his two-day visit, Mr. Misri also held talks with other senior Nepali officials, including Finance Minister Swarnim Wagle and Foreign Minister Sisir Khanal, focusing on bilateral cooperation, hydropower, connectivity, and border management.",
+    "The discussions highlighted mutual ties and addressed regional issues, while Nepali leaders expressed gratitude for India's humanitarian assistance following recent floods."
+   ],
+   "title_fa": "ویکرام میسری، قائم‌مقام وزارت خارجه هند، زمینه سفر آتی نخست‌وزیر نپال به هند را فراهم کرد",
+   "summary_fa": "ویکرام میسری، قائم‌مقام وزارت خارجه هند، در کاتماندو با بالندرا شاه، نخست‌وزیر نپال، دیدار کرد تا درباره آمادگی‌ها و ابتکارات سفر پیش روی او به دهلی نو گفتگو کند.",
+   "body_fa": [
+    "آقای میسری در جریان سفر دو روزه خود همچنین با دیگر مقامات ارشد نپال از جمله وزیر دارایی و وزیر خارجه دیدار کرد و پیرامون همکاری‌های دوجانبه، انرژی آبی، ارتباطات و مدیریت مرزی گفتگو نمود.",
+    "این مذاکرات بر روابط متقابل تمرکز داشت و رهبران نپال از کمک‌های بشردوستانه هند پس از سیل‌های اخیر قدردانی کردند."
+   ],
+   "title_ar": "وكيل وزارة الخارجية الهندية ميسري يمهد للزيارة المرتقبة لرئيس وزراء نپال إلى الهند",
+   "summary_ar": "التقى وكيل وزارة الخارجية الهندية فيكرام ميسري برئيس وزراء نپال باليندرا شاه في كاتماندو لمناقشة الترتيبات والمبادرات الخاصة بالزيارة المرتقبة للأخير إلى نيودلهي.",
+   "body_ar": [
+    "خلال زيارته التي استمرت يومين، اجتمع ميسري أيضاً مع مسؤولين نپاليين آخرين من بينهم وزير المالية ووزير الخارجية، حيث تركزت المحادثات على التعاون الثنائي والطاقة الكهرومائية والربط الحدودي.",
+    "سلطت المناقشات الضوء على العلاقات الثنائية بينما أعرب القادة النپاليون عن امتنانهم للمساعدات الإنسانية الهندية في أعقاب الفيضانات الأخيرة."
+   ]
+  },
+  {
+   "id": "b4dcd993f868",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+   "date": "2026-11-05T18:13:01Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+   "title_en": "Herzog to meet Israeli election rivals as decision nears on path to power",
+   "summary_en": "Israeli President Isaac Herzog is meeting with Benjamin Netanyahu and Gadi Eisenkot as he prepares to decide who will attempt to form the next government after a inconclusive election.",
+   "body_en": [
+    "Neither Netanyahu's coalition nor the Change bloc led by Eisenkot secured a majority in the recent election, leaving Arab parties holding a record number of seats as potential kingmakers. Netanyahu has faced criticism and accused Arab-led parties of vote tampering, allegations rejected by the Central Election Committee.",
+    "Herzog has urged all parties to help avert another round of elections while consultations continue. Meanwhile, Netanyahu remains prime minister in a caretaker government."
+   ],
+   "title_fa": "هرتزوگ با رقبای انتخاباتی اسرائیل دیدار می‌کند؛ تصمیم‌گیری درباره مسیر قدرت نزدیک است",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در آستانه تصمیم‌گیری درباره مامور تشکیل دولت جدید پس از یک انتخابات بی‌نتیجه، با بنیامین نتانیاهو و گادی آیزنکوت دیدار می‌کند.",
+   "body_fa": [
+    "نه ائتلاف نتانیاهو و نه بلوک تغییر به رهبری آیزنکوت نتوانستند در انتخابات اخیر اکثریت را به دست آورند و احزاب عربی با تصاحب کرکوردی کرسی‌ها به عنوان تعیین‌کنندگان نهایی مطرح شدند. نتانیاهو با انتقاد مواجه شده و احزاب عرب‌تبار را به دستکاری در آرا متهم کرده است، اتهامی که کمیته مرکزی انتخابات آن را رد کرد.",
+    "هرتزوگ در جریان رایزنی‌ها از همه احزاب خواسته است تا به جلوگیری از دور دیگری از انتخابات کمک کنند. در همین حال، نتانیاهو همچنان به عنوان نخست‌وزیر دولت موقت فعالیت می‌کند."
+   ],
+   "title_ar": "هرتسوغ يلتقي بالخصوم في الانتخابات الإسرائيلية مع اقتراب القرار بشأن طريق السلطة",
+   "summary_ar": "يلتقي الرئيس الإسرائيلي يتسحاق هرتسوغ بكل من بنيامين نتنياهو وغادي آيزنكوت بينما يستعد لاتخاذ قرار بشأن تكليف شخص لتشكيل الحكومة المقبلة بعد انتخابات لم تسفر عن نتائج حاسمة.",
+   "body_ar": [
+    "لم يحقق ائتلاف نتانیاهو ولا كتلة التغيير برئاسة آيزنكوت الأغلبية في الانتخابات الأخيرة، مما ترك الأحزاب العربية التي تملك رصيداً قياسياً من المقاعد كصانعة قرار محتملة. واجه نتانیاهو انتقادات واتهم الأحزاب العربية بتزوير الأصوات، وهي مزاعم رفضتها لجنة الانتخابات المركزية.",
+    "وحث هرتسوغ جميع الأطراف على المساعدة في تجنب جولة جديدة من الانتخابات مع استمرار المشاورات. وفي الوقت نفسه، يظل نتانیاهو رئيس وزراء حكومة تصريف الأعمال."
+   ]
+  },
+  {
+   "id": "45772cc0d7d9",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/a-new-political-balance-in-washington/article71669743.ece",
+   "date": "2026-11-05T18:03:40Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 8,
+   "title": "A new political balance in Washington",
+   "title_en": "A new political balance in Washington",
+   "summary_en": "Following decisive midterm victories for the Democrats, President Donald Trump faces the remainder of his term as a lame-duck leader.",
+   "body_en": [
+    "The midterm election results are being interpreted as a repudiation of President Trump's policies, including his aggressive unilateral trade measures and the military campaign against Iran.",
+    "With a dominant presence in Congress, Democrats could potentially use constitutional powers such as the 'power of the purse' and enact a Trade Promotion Authority to rein in the administration."
+   ],
+   "title_fa": "تعادل سیاسی جدید در واشنگتن",
+   "summary_fa": "به دنبال پیروزی‌های قاطع دموکرات‌ها در انتخابات میان‌دوره‌ای، دونالد ترامپ با باقی‌مانده دوران ریاست جمهوری خود به عنوان یک رئیس‌جمهور ضعیف روبه‌رو است.",
+   "body_fa": [
+    "نتایج انتخابات میان‌دوره‌ای به عنوان رد سیاست‌های دونالد ترامپ، از جمله اقدامات تجاری یکجانبه تهاجمی او و کمپین نظامی علیه ایران تعبیر می‌شود.",
+    "با حضور مسلط در کنگره، دموکرات‌ها به‌طور بالقوه می‌توانند از اختیارات قانون اساسی مانند «قدرت بودجه» استفاده کرده و برای مهار دولت، قانون ارتقای تجارت را به تصویب برسانند."
+   ],
+   "title_ar": "توازن سياسي جديد في واشنگتن",
+   "summary_ar": "في أعقاب انتصارات حاسمة للديمقراطيين في انتخابات التجديد النصفي، يواجه دونالد ترامب ما تبقى من ولايته كزعيم ضعيف.",
+   "body_ar": [
+    "تُفسر نتائج انتخابات التجديد النصفي على أنها رفض لسياسات دونالد ترامب، بما في ذلك إجراءاته التجارية الأحادية العدوانية والحملة العسكرية ضد إيران.",
+    "مع وجود حضور مهيمن في الكونغرس، يمكن للديمقراطيين استخدام الصلاحيات الدستورية مثل \"سلطة المال\" وإسناد تشريعات ترويج التجارة لكبح الإدارة."
+   ]
+  },
+  {
+   "id": "0b037c79cd50",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue/article71671139.ece",
+   "date": "2026-11-05T17:37:53Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "title_en": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "summary_en": "Saudi Arabia has issued alerts warning of potential dangers in the Red Sea oil export hub of Yanbu amid ongoing Houthi attacks.",
+   "body_en": [
+    "The Saudi-led coalition announced it intercepted a missile aimed at Medina, while civil defence issued emergency alerts for Sharurah near the Yemeni border. Meanwhile, regional allies are increasing defensive cooperation, with Turkey preparing a mutual defence pact and Britain dispatching fighter jets to protect Saudi cities."
+   ],
+   "title_fa": "عربستان سعودی نسبت به خطر احتمالی در هاب نفتی ینبع همزمان با ادامه حملات حوثی‌ها هشدار داد",
+   "summary_fa": "عربستان سعودی با انتشار هشدارهایی نسبت به خطرات احتمالی در ینبع، هاب صادرات نفت خود در دریای سرخ، در میان ادامه حملات حوثی‌ها هشدار داد.",
+   "body_fa": [
+    "ائتلاف به رهبری عربستان اعلام کرد که یک موشک شلیک شده به سمت مدینه را منهدم کرده است و دفاع مدنی نیز هشدارهای اضطراری برای شروره صادر نمود. در همین حال، متحدان منطقه‌ای همکاری‌های دفاعی خود را افزایش داده‌اند و ترکیه برای امضای پیمان دفاعی متقابل آماده می‌شود."
+   ],
+   "title_ar": "السعودية تحذر من خطر محتمل في مركز ينبع النفطي مع استمرار هجمات الحوثيين",
+   "summary_ar": "أصدرت السعودية تنبيهات تحذر من مخاطر محتملة في ينبع، مركز تصدير النفط التابع للمملكة على البحر الأحمر، وسط استمرار هجمات الحوثيين.",
+   "body_ar": [
+    "أعلن التحالف بقيادة السعودية أنه دمر صاروخاً استهدف مدينة، بينما أصدر الدفاع المدني تنبيهات طارئة لشرورة القريبة من الحدود اليمنية. وفي الوقت نفسه، تكثف الحلفاء الإقليميون التعاون الدفاعي، حيث تستعد تركيا للتصديق على ميثاق دفاع مشترك."
+   ]
+  },
+  {
+   "id": "ef2818ad6f17",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/icj-rule-rohingya-genocide-case-imminently-heres-what-you-need-know",
+   "date": "2026-11-05T17:23:55Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 6,
+   "title": "ICJ is due to rule on the Rohingya genocide case. Here's what you need to know",
+   "title_en": "ICJ is due to rule on the Rohingya genocide case. Here's what you need to know",
+   "summary_en": "The International Court of Justice is preparing to issue a final, binding judgment on whether Myanmar committed genocide against the Rohingya population.",
+   "body_en": [
+    "The judgment will be delivered by ICJ President Yuji Iwasawa at the Peace Palace in The Hague on 19 November at 10am local time. Initiated by The Gambia in 2019 under the 1948 Genocide Convention, the case marks the first time a state not directly affected has brought a genocide suit to the court. The ruling focuses on Myanmar's state responsibility for the 2017 military campaign in Rakhine State, which forced over 700,000 Rohingya to flee to Bangladesh amid reports of widespread massacres and sexual violence.",
+    "Myanmar denies the genocide charges, maintaining its military forces were conducting counterterrorism operations against Arsa insurgents following attacks on police posts. The court's decision will be final with no option for appeal, and legal experts observe that the outcome could set significant precedents for other genocide cases, including South Africa's ongoing case against Israel."
+   ],
+   "title_fa": "دیوان بین‌المللی دادگستری در آستانه صدور حکم در پرونده نسل‌کشی روهینگیا؛ آنچه باید بدانید",
+   "summary_fa": "دیوان بین‌المللی دادگستری در آستانه صدور حکم نهایی و الزام‌آور خود درباره احتمال ارتکاب نسل‌کشی میانمار علیه اقلیت روهینگیا قرار دارد.",
+   "body_fa": [
+    "این حکم توسط یوجی ایواساوا، رئیس دیوان بین‌المللی دادگستری، در ۱۹ نوامبر ساعت ۱۰ صبح به وقت محلی در کاخ صلح لاهه خوانده خواهد شد. این پرونده که در سال ۲۰۱۹ توسط گامبیا و با استناد به کنوانسیون نسل‌کشی ۱۹۴۸ مطرح شد، نخستین بار است که کشوری بدون درگیری مستقیم، دعوای نسل‌کشی اقامه می‌کند. این شکایت بر مسئولیت دولت میانمار در قبال عملیات نظامی سال ۲۰۱۷ در ایالت راخین تمرکز دارد که طی آن بیش از ۷۰۰ هزار روهینگیایی در پی کشتارها و خشونت‌های گسترده مجبور به فرار به بنگلادش شدند.",
+    "میانمار اتهام نسل‌کشی را رد کرده و مدعی است نیروهای نظامی‌اش در پاسخ به حملات شبه‌نظامیان «آرسا» به پاسگاه‌های پلیس دست به اقدامات ضدتروریستی زده‌اند. تصمیم این دادگاه قطعی و غیرقابل تجدیدنظر است و کارشناسان حقوقی معتقدند که نتیجه آن می‌تواند بر سایر پرونده‌های نسل‌کشی در این دیوان، از جمله شکایت آفریقای جنوبی علیه اسرائیل، تأثیر بگذارد."
+   ],
+   "title_ar": "محكمة العدل الدولية تستعد لإصدار حكمها في قضية إبادة الروهينغا: إليك ما تحتاج لمعرفته",
+   "summary_ar": "تستعد محكمة العدل الدولية لإصدار حكم نهائي وملزم بشأن ما إذا كانت میانمار قد ارتكبت إبادة جماعية ضد روهينغا.",
+   "body_ar": [
+    "سيتلو رئيس محكمة العدل الدولية، القاضي يوجي إيواساوا، الحكم في قصر السلام بـ لاهاي يوم 19 نوفمبر في تمام الساعة 10 صباحاً بالتوقيت المحلي. وتعد هذه القضية، التي رفعتها غامبيا عام 2019 بموجب اتفاقية الإبادة الجماعية لعام 1948، الأولى من نوعها التي ترفع فيها دولة غير متضررة مباشرة دعوى إبادة أمام المحكمة. ويسلط الحكم الضوء على مسؤولية دولة میانمار عن الحملة العسكرية عام 2017 في ولاية راخين، والتي فر على إثرها أكثر من 700 ألف من الروهينغا إلى بنگلادش.",
+    "تنفي میانمار تهمة الإبادة الجماعية، وتصر على أن قواتها العسكرية كانت ترد على هجمات مسلحي «آرسا» على مراكز الشرطة. وسيكون قرار المحكمة نهائياً وغير قابل للاستئناف، ويرى خبراء قانونيون أن النتيجة ستنعكس على قضايا إبادة أخرى أمام المحكمة، بما في ذلك قضية جنوب أفريقيا ضد إسرائيل."
+   ]
+  },
+  {
+   "id": "553d71ece4a5",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/russia-agreed-to-supply-iran-90-helicopter-missile-launchers",
+   "date": "2026-11-05T15:10:55Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Russia agreed to supply Iran with 90 helicopter missile launchers",
+   "title_en": "Russia agreed to supply Iran with 90 helicopter missile launchers",
+   "summary_en": "Leaked defense documents indicate that Russia arranged to supply Iran with 90 launchers for advanced guided helicopter missiles.",
+   "body_en": [
+    "According to records obtained by a Ukrainian private intelligence firm, the production schedule listed an order for 90 launchers under an export contract designated “K-10”. The documents provide insight into military cooperation between Moscow and Tehran amidst ongoing regional tensions.",
+    "While the records do not confirm if the launchers were ultimately delivered, they highlight deepening ties as both nations navigate international pressures and conflicts."
+   ],
+   "title_fa": "روسیه با تامین ۹۰ پرتابگر موشک هلیکوپتری برای ایران موافقت کرد",
+   "summary_fa": "اسناد دفاعی درز کرده نشان می‌دهد که روسیه برای تامین ۹۰ پرتابگر موشک‌های هدایت‌شونده پیشرفته هلیکوپتری برای ایران توافق کرده است.",
+   "body_fa": [
+    "بر اساس اسناد به دست آمده توسط یک شرکت اطلاعاتی خصوصی اوکراینی، برنامه تولید شامل سفارشی برای ۹۰ پرتابگر تحت قرارداد صادراتی «ک-۱۰» بود. این اسناد بینشی درباره همکاری‌های نظامی بین مسکو و تهران ارائه می‌دهد.",
+    "اگرچه این سوابق تحویل قطعی پرتابگرها را تایید نمی‌کنند، اما بر عمق روابط دو کشور در شرایط تنش‌های منطقه‌ای تاکید دارند."
+   ],
+   "title_ar": "روسيا توافق على تزويد إيران بـ 90 قاذفة صواريخ للمروحيات",
+   "summary_ar": "تُظهر وثائق دفاعية مسربة أن روسيا رتبت لتزويد إيران بـ 90 قاذفة لصواريخ موجهة متقدمة للمروحيات.",
+   "body_ar": [
+    "وفقاً للسجلات التي حصلت عليها شركة استخبارات أكرانية خاصة، تضمن جدول الإنتاج طلباً لـ 90 قاذفة بموجب عقد تصدير يحمل رمز \"ك-10\". توفر الوثائق نظرة ثاقبة على التعاون العسكري بين موسكو وطهران.",
+    "على الرغم من أن السجلات لا تؤكد تسليم القاذفات نهائياً، إلا أنها تسلط الضوء على تعميق العلاقات بين البلدين وسط التوترات الإقليمية المستمرة."
+   ]
+  },
+  {
+   "id": "d5ac50a3aa52",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+   "date": "2026-11-05T14:45:46Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+   "title_en": "Can Iran’s new supreme leader make peace from behind the scenes?",
+   "summary_en": "Iran's new supreme leader, Mojtaba Khamenei, is exercising authority through written decrees and high-level meetings as Tehran navigates between negotiations and confrontation.",
+   "body_en": [
+    "Since succeeding his father, Mojtaba Khamenei has governed without public appearances due to security concerns. A series of recent meetings with senior officials, military commanders, and the heads of the judiciary and parliament points to a developing decision-making structure.",
+    "These internal consultations coincide with intensive regional and international mediation efforts regarding regional security and nuclear matters."
+   ],
+   "title_fa": "آیا رهبر جدید ایران می‌تواند از پشت صحنه صلح برقرار کند؟",
+   "summary_fa": "مجتبی خامنه‌ای، رهبر جدید ایران، اقتدار خود را از طریق احکام کتبی و دیدارهای سطح بالا اعمال می‌کند، در حالی که تهران میان مذاکره و رویارویی در حرکت است.",
+   "body_fa": [
+    "مجتبی خامنه‌ای پس از جانشینی پدرش، به دلایل امنیتی بدون حضور عمومی حکومت کرده است. سلسله دیدارهای اخیر او با مقامات ارشد، فرماندهان نظامی و روسای قوه قضاییه و مجلس، شکل‌گیری ساختار جدید تصمیم‌گیری را نشان می‌دهد.",
+    "این مشورت‌های داخلی با تلاش‌های فشرده میانجی‌گری منطقه‌ای و بین‌المللی درباره امنیت منطقه و مسائل هسته‌ای همزمان شده است."
+   ],
+   "title_ar": "هل يستطيع المرشد الأعلى الجديد لإيران صنع السلام من خلف الكواليس؟",
+   "summary_ar": "يمارس المرشد الأعلى الجديد لإيران، مجتبى خامنئي، سلطته من خلال البيانات المكتوبة والاجتماعات رفيعة المستوى بينما تتأرجح طهران بين المفاوضات والمواجهة.",
+   "body_ar": [
+    "منذ خلافته لوالده، حكم مجتبى خامنئي دون ظهور علني لأسباب أمنية. تشير سلسلة الاجتماعات الأخيرة مع كبار المسؤولين والقادة العسكريين ورؤساء السلطة القضائية والبرلمان إلى تشكل هيكل جديد لصناعة القرار.",
+    "تتزامن هذه المشاورات الداخلية مع جهود الوساطة الإقليمية والدولية المكثفة بشأن الأمن الإقليمي والملف النووي."
+   ]
+  },
+  {
+   "id": "75d43284c1a3",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+   "date": "2026-11-05T14:19:25Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Could the US midterms further isolate Israel in Washington?",
+   "title_en": "Could the US midterms further isolate Israel in Washington?",
+   "summary_en": "Following significant Democratic victories in the US midterm elections, Republicans including Vice President JD Vance blamed the administration's foreign policy and the war on Iran for their losses. Analysts suggest the election results could lead to a tougher Democratic stance against military aid to Israel.",
+   "body_en": [
+    "Republicans suffered major defeats as Democrats secured majorities in both houses of Congress. Vice President JD Vance publicly attributed the losses to the war on Iran, which led to high fuel prices, heavy military spending, and voter dissatisfaction with US foreign policy. Voters also expressed frustration over the administration's alliance with Benjamin Netanyahu's government and requested an end to foreign conflict spending alongside a shift toward 'America First' policies.",
+    "The elections featured a key victory in Michigan by Democrat Abdul El-Sayed, who won a Senate seat despite tens of millions of dollars spent against him by the pro-Israel lobby group AIPAC due to his calls to end military aid to Israel. Analysts believe that Democratic control of Congress will likely prompt investigations into the use of US weapons by Israel in Gaza and increase legislative pressure to restrict future arms transfers."
+   ],
+   "title_fa": "آیا انتخابات میان‌دوره‌ای آمریکا می‌تواند به انزوای بیشتر اسرائیل در واشینگتن بینجامد؟",
+   "summary_fa": "در پی پیروزی‌های چشمگیر دمکرات‌ها در انتخابات میان‌دوره‌ای آمریکا، جمهوری‌خواهان از جمله معاون رئیس‌جمهور جی‌دی ونس سیاست خارجی دولت و جنگ علیه ایران را عامل شکست خود دانستند. تحلیل‌گران می‌گویند نتایج این انتخابات می‌تواند به اتخاذ موضعی سرسختانه‌تر از سوی دمکرات‌ها علیه کمک‌های نظامی به اسرائیل منجر شود.",
+   "body_fa": [
+    "جمهوری‌خواهان با کسب اکثریت هر دو مجلس کنگره توسط دمکرات‌ها متحمل شکست‌های سنگینی شدند. معاون رئیس‌جمهور جی‌دی ونس علناً این شکست‌ها را به جنگ علیه ایران نسبت داد که به جهش قیمت سوخت، هزینه‌های سنگین نظامی و نارضایتی رأی‌دهندگان از سیاست خارجی آمریکا منجر شده است. رأی‌دهندگان همچنین از ائتلاف دولت با حکومت بنیامین نتانیاهو ابراز ناخرسندی کرده و خواستار پایان دادن به هزینه‌های درگیری‌های خارجی و بازگشت به سیاست‌های «اول آمریکا» شدند.",
+    "این انتخابات شاهد پیروزی کلیدی دمکرات عبدالسید در میشیگان بود؛ او با وجود صرف ده‌ها میلیون دلار از سوی گروه لابی طرفدار اسرائیل (آیپک) به دلیل فراخوانش برای قطع کمک‌های نظامی به اسرائیل، موفق به کسب کرسی سنا شد. تحلیل‌گران بر این باورند که کنترل دمکرات‌ها بر کنگره احتمالاً به تحقیقاتی درباره نحوه استفاده اسرائیل از تسلیحات آمریکایی در غزه و افزایش فشارهای قانون‌گذاری برای محدود کردن ارسال‌های آتی سلاح منجر خواهد شد."
+   ],
+   "title_ar": "هل يمكن لانتخابات منتصف الولاية الأمريكية أن تزيد من عزلة إسرائيل في واشنطن؟",
+   "summary_ar": "في أعقاب انتصارات كبيرة للحزب الديمقراطي في انتخابات منتصف الولاية الأمريكية، ألقى جمهوريون بمن فيهم نائب الرئيس جيه دي فانس باللوم على السياسة الخارجية للإدارة والحروب على إيران في خسارتهم. وويرى محللون أن نتائج الانتخابات قد تؤدي إلى اتخاذ الديمقراطيين موقفاً أكثر صرامة ضد المساعدات العسكرية لإسرائيل.",
+   "body_ar": [
+    "تعرض الجمهوريون لهزائم كبيرة مع تأمين الديمقراطيين للأغلبية في كلا مجلسي المؤتمر الوطني (الكونغرس). وعزا نائب الرئيس جيه دي فانس الخسائر علناً إلى الحرب على إيران، والتي أدت إلى ارتفاع أسعار الوقود، والإنفاق العسكري الضخم، واستياء الناخبين من السياسة الخارجية الأمريكية. كما أعرب الناخبون عن انزعاجهم من تحالف الإدارة مع حكومة بنيامين نتنياهو وطالبوا بإنهاء الإنفاق على النزاعات الخارجية والعودة إلى سياسات \"أمريكا أولاً\".",
+    "وشهدت الانتخابات فوزاً رئيسياً في ميشيغان للديمقراطي عبد السيد، الذي فاز بمقعد في مجلس الشيوخ رغم إنفاق عشرات الملايين من الدولارات ضده من قبل مجموعة اللوبي الموالية لإسرائيل (آيباك) بسبب دعواته لإنهاء المساعدات العسكرية لإسرائيل. ويعتقد محللون أن سيطرة الديمقراطيين على الكونغرس ستؤدي على الأرجح إلى فتح تحقيقات بشأن كيفية استخدام إسرائيل للأسلحة الأمريكية في غزة وزيادة الضغوط التشريعية لفرض قيود على نقل الأسلحة في المستقبل."
+   ]
+  },
+  {
+   "id": "ae0308f19451",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government?traffic_source=rss",
+   "date": "2026-11-05T14:15:52Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Joint List says it will back Eisenkot to form Israel’s next government",
+   "title_en": "Joint List says it will back Eisenkot to form Israel’s next government",
+   "summary_en": "The Joint List alliance has announced it will recommend Gadi Eisenkot to President Isaac Herzog to form the next Israeli government.",
+   "body_en": [
+    "Arab-led parties won a record 19 seats in the recent election, potentially giving them significant influence over the government's formation. With the support of the Joint List and Ra'am, Eisenkot is expected to exceed the 61-seat majority threshold in the Knesset.",
+    "Prime Minister Benjamin Netanyahu's bloc fell short of a majority, and some ultra-Orthodox factions have also withheld their recommendations. Netanyahu has baselessly claimed fraud, while election officials and President Herzog have defended the integrity of the vote."
+   ],
+   "title_fa": "فهرست مشترک اعلام کرد از آیزنکوت برای تشکیل دولت آتی اسرائیل حمایت می‌کند",
+   "summary_fa": "ائتلاف فهرست مشترک اعلام کرد که برای تشکیل دولت آتی اسرائیل، گادی آیزنکوت را به اسحاق هرتزوگ، رئیس‌جمهور، پیشنهاد خواهد کرد.",
+   "body_fa": [
+    "احزاب عرب‌تبار در انتخابات اخیر موفق به کسب رکورد ۱۹ کرسی شدند که می‌تواند نفوذ قابل توجهی در تشکیل دولت به آن‌ها بدهد. با حمایت فهرست مشترک و رعم، انتظار می‌رود آیزنکوت از آستانه اکثریت ۶۱ کرسی در کنست عبور کند.",
+    "بلوک بنیامین نتانیاهو، نخست‌وزیر، نتوانست اکثریت را کسب کند و برخی جریان‌های حریدی نیز از ارائه پیشنهاد خودداری کرده‌اند. نتانیاهو ادعاهای بی‌بنیادی درباره تقلب مطرح کرده است، در حالی که مقامات انتخاباتی و رئیس‌جمهور هرتزوگ از سلامت انتخابات دفاع کرده‌اند."
+   ],
+   "title_ar": "القائمة المشتركة تقول إنها ستدعم آيزنكوت لتشكيل الحكومة الإسرائيلية المقبلة",
+   "summary_ar": "أعلن تحالف القائمة المشتركة أنه سيصصي بتكليف غادي آيزنكوت للرئيس يتسحاق هرتسوغ لتشكيل الحكومة الإسرائيلية المقبلة.",
+   "body_ar": [
+    "فازت الأحزاب العربية برقم قياسي بلغ 19 مقعداً في الانتخابات الأخيرة، مما قد يمنحها تأثيرًا كبيرًا على تشكيل الحكومة. وبدعم القائمة المشتركة وحزب الموحدة (رعَم)، من المتوقع أن يتجاوز آيزنكوت عتبة الأغلبية البالغة 61 مقعداً في الكنيست.",
+    "ولم يحقق كتلة رئيس الوزراء بنيامين نتانیاهو الأغلبية المطلوبة، كما امتنعت بعض الفصائل الحريدية عن تقديم توصياتها. وادعى نتانیاهو حدوث تزوير دون أدلة، بينما دافع مسؤولي الانتخابات والرئيس هرتسوغ عن نزاهة التصويت."
+   ]
+  },
+  {
+   "id": "97a61a9c26a1",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+   "date": "2026-11-05T13:47:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+   "title_en": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+   "summary_en": "Yemen's UN-recognised government has reshuffled its political and military leadership following Houthi advances and ongoing conflict.",
+   "body_en": [
+    "President Rashad al-Alimi dismissed several senior ministers and military figures to address military setbacks and demands from southern groups. The changes include new appointments for key ministries and operational commands.",
+    "The government continues to face challenges amid tensions between various allied factions and ongoing fighting near Taiz and strategic maritime routes."
+   ],
+   "title_fa": "رئیس‌جمهور یمن در تلاش برای تغییر روند جنگ، وزیران و افسران را برکنار کرد",
+   "summary_fa": "دولت به رسمیت شناخته شده یمن در سازمان ملل، به دنبال پیشروی‌های حوثی‌ها و درگیری‌های مداوم، رهبری سیاسی و نظامی خود را تغییر داد.",
+   "body_fa": [
+    "رشاد العلیمی، رئیس‌جمهور یمن، چندین وزیر ارشد و مقام نظامی را برای مقابله با ناکامی‌های نظامی و مطالبات گروه‌های جنوبی برکنار کرد. این تغییرات شامل انتصاب‌های جدید در وزارتخانه‌های کلیدی و فرماندهی‌های عملیاتی است.",
+    "دولت همچنان در میان تنش‌های میان جناح‌های مختلف متحد و درگیری‌های مداوم در نزدیکی تعز و مسیرهای راهبردی دریایی با چالش‌هایی روبروست."
+   ],
+   "title_ar": "الرئيس اليمني يعزل وزراء وضباطاً في محاولة لتغيير دفة الحرب",
+   "summary_ar": "أجرت الحكومة اليمنية المعترف بها دولياً تعديلاً واسعاً في قيادتها السياسية والعسكرية في أعقاب تقدم الحوثيين والصراع المستمر.",
+   "body_ar": [
+    "أقال الرئيس رشاد العليمي عدداً من كبار الوزراء والشخصيات العسكرية لمعالجة التعثرات العسكرية ومطالب الفصائل الجنوبية. تشمل التغييرات تعينات جديدة لوزارات رئيسية وقيادات عملياتية.",
+    "لا تزال الحكومة تواجه تحديات وسط توترات بين مختلف الفصائل المتحالفة واستمرار القتال بالقرب من تعز والطرق البحرية الاستراتيجية."
+   ]
+  },
+  {
+   "id": "7b52b5bb5a83",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-forces-demolish-five-west-bank-buildings-and-displace-over-100-palestinians",
+   "date": "2026-11-05T12:59:55Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+   "title_en": "Israeli forces demolish five West Bank buildings and displace over 100 Palestinians",
+   "summary_en": "Israeli forces demolished five residential buildings in the occupied West Bank town of Biddu, leaving more than 100 Palestinians displaced.",
+   "body_en": [
+    "Residents reported that Israeli troops raided the town near Jerusalem early Thursday morning, firing tear gas and stun grenades while preventing families from retrieving their belongings before tearing down 12 apartments. Israeli authorities cited the lack of building permits in Area C as the reason for the demolitions, though local officials noted that some affected structures were subject to ongoing legal appeals.",
+    "The Jerusalem Governorate office criticized the actions as a serious violation of international law aimed at reducing the Palestinian presence near Jerusalem. Local representatives called for compensation and emergency housing assistance for the nine families impacted by the destruction."
+   ],
+   "title_fa": "نیروهای اسرائیلی پنج ساختمان را در کرانه باختری تخریب و بیش از ۱۰۰ فلسطینی را آواره کردند",
+   "summary_fa": "نیروهای اسرائیلی پنج ساختمان مسکونی را در شهرک بدو در کرانه باختری اشغالی تخریب کردند که منجر به آوارگی بیش از ۱۰۰ فلسطینی شد.",
+   "body_fa": [
+    "به گفته ساکنان، نیروهای اسرائیلی بامداد پنجشنبه به این شهرک در نزدیکی اورشلیم یورش بردند و با شلیک گاز اشک‌آور و نارنجک‌های صوتی، مانع از برداشتن وسایل زندگی توسط اهالی شدند و سپس ۱۲ واحد آپارتمانی را تخریب کردند. مقامات اسرائیلی علت تخریب را نداشتن مجوز ساخت در منطقه C عنوان کردند، در حالی که مسئولان محلی تاکید دارند برخی از این ساختمان‌ها پرونده‌های حقوقی در حال جریان در دادگاه‌ها داشتند.",
+    "دفتر استانداری قدس وابسته به تشکیلات خودگردان این اقدام را تصعیدی خطرناک و ناقض قوانین بین‌المللی دانست که با هدف تضعیف حضور فلسطینیان در حومه اورشلیم انجام می‌شود. نماینده شورای محلی خواستار جبران خسارت و تأمین مسکن جایگزین برای خانواده‌های آسیب‌دیده شد."
+   ],
+   "title_ar": "القوات الإسرائيلية تهدم خمسة مبانٍ في الضفة الغربية وتهجر أكثر من 100 فلسطيني",
+   "summary_ar": "دمّرت القوات الإسرائيلية خمسة مبانٍ سكنية في بلدة بدو بالضفة الغربية المحتلة، مما أدى إلى تهجير أكثر من 100 فلسطيني.",
+   "body_ar": [
+    "وأفاد سكان بأن القوات الإسرائيلية اقتحمت البلدة الواقعة شمال غرب القدس فجر الخميس، وأطلقت قنابل الصوت والغاز المسيل للدموع ومعدات الهدم، مانعة الأهالي من إخراج ممتلكاتهم قبل هدم 12 شقة سكنية. وتذرعت السلطات الإسرائيلية بعدم وجود تراخيص بناء في المنطقة (ج)، بينما أكد مسؤولون محليون أن بعض المباني كانت تخضع لإجراءات قانونية معلقة أمام المحاكم.",
+    "ووصف مكتب محافظة القدس التابع للسلطة الفلسطينية عمليات الهدم بالتصعيد الخطير الذي يخالف القانون الدولي ويهدف إلى تقليص الوجود الفلسطيني في ضواحي القدس. وطالب أعضاء في المجلس المحلي بتقديم التعويضات وتوفير مأوى بديل للأسر المتضررة."
+   ]
+  },
+  {
+   "id": "a582647bb3ef",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+   "date": "2026-11-05T12:04:00Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 6,
+   "title": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+   "title_en": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+   "summary_en": "A Jordanian security officer was killed and another was wounded in a stabbing attack near the Sri Lankan embassy in Amman on Thursday. Authorities described the assault as a terrorist act and arrested the perpetrator.",
+   "body_en": [
+    "According to Jordan’s Public Security Directorate, Corporal Jawad Ali Khalaf al-Salaita, who was guarding the embassy, died from his injuries after being stabbed in the neck. A second security officer intervened, stopped the assailant from seizing the victim's firearm, and took control of him despite sustaining injuries.",
+    "Preliminary investigations indicate that the attacker planned the act and had a prior record of terrorism convictions, having previously served prison time for joining terrorist groups. The State Security Court has opened an investigation into the incident."
+   ],
+   "title_fa": "کشته‌شدن یک مامور امنیتی در حمله با چاقو در پایتخت اردن",
+   "summary_fa": "روز پنجشنبه در پی حمله با چاقو در نزدیکی سفارت سریلانکا در امان، یک مامور امنیتی اردنی کشته و یک مامور دیگر زخمی شد. مقامات این حمله را اقدامی تروریستی خوانده و عامل آن را بازداشت کردند.",
+   "body_fa": [
+    "به گفته مدیریت امنیت عمومی اردن، سرInternal جواد علی خلف السلایطه که مسئول نگهبانی از سفارت بود، پس از وارد آمدن ضربات چاقو به گردنش بر اثر شدت جراحات درگذشت. یک مامور امنیتی دیگر مداخله کرد و با وجود زخمی شدن، مانع از تصاحب سلاح گرم مقتول توسط مهاجم شد و او را مهار کرد.",
+    "تحقیقات اولیه نشان می‌دهد که فرد مهاجم برای انجام این اقدام برنامه‌ریزی کرده بود و سابقه محکومیت‌های تروریستی داشته است، چرا که پیش از این به دلیل عضویت در گروه‌های تروریستی چند سال را در زندان گذرانده بود. دادگاه امنیت الدولة تحققات خود را درباره این حادثه آغاز کرده است."
+   ],
+   "title_ar": "مقتل رجل أمن في هجوم بطعن في العاصمة الأردنية",
+   "summary_ar": "قُتل رجل أمن أردني وأُصيب آخر في هجوم بطعن بالقرب من سفارة سريلانكا في عمان يوم الخميس. ووصف السلطات الهجوم بأنه عمل إرهابي واعتقلت الجاني.",
+   "body_ar": [
+    "وفقًا لمديرية الأمن العام الأردنية، توفي العريف جواد علي خلف الخلايلة، الذي كان مكلفًا بحراسة السفارة، متأثرًا بجراحه بعد تعرضه للطعن في الرقبة. وتدخل ضابط أمن ثاني ومنع المعتدي من الاستيلاء على سلاح المتوفى وسيطر عليه رغم تعرضه للإصابة.",
+    "وأشارت التحقيقات الأولية إلى أن المهاجم كان يخطط لارتكاب هذا العمل ولديه سجل سابق من الإدانات الإرهابية، حيث قضى سابقًا عقوبة بالسجن للانضمام إلى جماعات إرهابية. وقد فتحت محكمة أمن الدولة تحقيقًا في الحادث."
+   ]
+  },
+  {
+   "id": "f55f497b9f08",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-navy-reports-tanker-fire-strait-hormuz",
+   "date": "2026-11-05T11:35:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iranian navy reports tanker on fire in Strait of Hormuz",
+   "title_en": "Iranian navy reports tanker on fire in Strait of Hormuz",
+   "summary_en": "The Iranian navy reported that an illegal tanker caught fire after striking a mine in an unsafe section of the Strait of Hormuz.",
+   "body_en": [
+    "According to Iranian authorities cited by the Tasnim news agency, the vessel stopped moving after the collision and had previously turned off its navigation and tracking systems. Tehran issued a fresh warning to ship owners, emphasizing that the Strait of Hormuz remains closed and unsafe for unauthorized vessels attempting to pass without prior coordination."
+   ],
+   "title_fa": "نیروی دریایی ایران از آتش‌سوزی یک نفتکش در تنگه هرمز خبر داد",
+   "summary_fa": "نیروی دریایی ایران اعلام کرد یک نفتکش متخلف پس از برخورد با مین در منطقه‌ای ناامن از تنگه هرمز دچار آتش‌سوزی شده است.",
+   "body_fa": [
+    "به گزارش خبرگزاری تسنیم به نقل از مقامات ایرانی، این شناور پس از برخورد متوقف شد و پیش از آن نیز سیستم‌های ردیابی و مسیریابی خود را خاموش کرده بود. تهران بار دیگر به صاحبان کشتی‌ها هشدار داد که تنگه هرمز برای شناورهای غیرمجازی که بدون هماهنگی قصد عبور دارند، ناامن و بسته است."
+   ],
+   "title_ar": "البحرية الإيرانية تعلن اشتعال النيران في ناقلة نفط بمضيق هرمز",
+   "summary_ar": "أعلنت البحرية الإيرانية أن ناقلة مخالفة تعرضت لاشتعال النيران إثر اصطدامها بلغم في منطقة غير آمنة بمضيق هرمز.",
+   "body_ar": [
+    "وبحسب تصريحات للسلطات الإيرانية نقلتها وكالة تسنيم، فإن السفينة توقفت عن الحركة بعد الاصطدام، مشيرة إلى أنها كانت قد أغلقت أجهزة التتبع والملاحة الخاصة بها. وجددت تهران تحذيرها لمالكي السفن بأن مضيق هرمز غير آمن ومغلق أمام السفن غير المصرح لها والتي تحاول العبور دون تنسيق."
+   ]
+  },
+  {
+   "id": "d14ba9ab2392",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+   "date": "2026-11-05T11:32:40Z",
+   "countries": [
+    "IRN",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+   "title_en": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+   "summary_en": "Following significant Democratic gains in the US midterm elections, attention has shifted to how Congress may influence foreign policy and military conflicts involving Iran, Gaza, and Ukraine.",
+   "body_en": [
+    "Democrats secured majorities in both the House of Representatives and the Senate following widespread voter dissatisfaction with President Donald Trump's policy decisions, including the military conflict with Iran. Democratic leaders expressed intentions to use congressional budgetary powers to constrain military operations, though legal analysts note that constitutional and legislative limitations may restrict their ability to swiftly reverse executive actions.",
+    "President Donald Trump acknowledged the impact of the foreign policy debate on the election results but defended his decisions, stating he would utilize presidential veto powers to block legislative initiatives opposed by his administration."
+   ],
+   "title_fa": "ایران، غزه، اوکراین: نتایج انتخابات میان‌دوره‌ای آمریکا چه معنایی برای این منازعات دارد؟",
+   "summary_fa": "در پی پیروزی چشمگیر دمکرات‌ها در انتخابات میان‌دوره‌ای ایالات متحده، توجه جهانی به نحوه تأثیرگذاری کنگره بر سیاست خارجی و منازعات ایران، غزه و اوکراین جلب شده است.",
+   "body_fa": [
+    "دمکرات‌ها با بهره‌گیری از نارضایتی عمومی از تصمیمات دونالد ترامپ، به ویژه درگیری نظامی با ایران، اکثریت را در مجلس نمایندگان و مجلس سنا به دست آوردند. رهبران دمکرات اعلام کرده‌اند قصد دارند از اختیارات بودجه‌ای کنگره برای محدود کردن عملیات نظامی استفاده کنند، هرچند کارشناسان حقوقی معتقدند موانع قانونی و ساختاری ممکن است مانع تغییر سریع سیاست‌ها شود.",
+    "رئیس‌جمهور دونالد ترامپ با اذعان به تأثیر این منازعات بر شکست انتخاباتی جمهوری‌خواهان، از تصمیمات خود دفاع کرد و هشدار داد که از حق وتوی ریاست‌جمهوری برای مقابله با مصوبات کنگره استفاده خواهد کرد."
+   ],
+   "title_ar": "إيران وغزة وأوكرانيا: ماذا تعني نتائج انتخابات منتصف الولاية الأمريكية لهذه الصراعات؟",
+   "summary_ar": "عقب تحقيق الديمقراطيين انتصاراً كبيراً في انتخابات منتصف الولاية الأمريكية، تتجه الأنظار إلى كيفية تأثير الكونغرس على السياسة الخارجية والصراعات في إيران وغزة وأوكرانيا.",
+   "body_ar": [
+    "استعاد الديمقراطيون الأغلبية في مجلسي النواب والشيوخ استناداً إلى الاستياء الشعبي من قرارات الرئيس دونالد ترامپ، وخاصة المواجهة العسكرية مع إيران. وأكدت قيادات ديمقراطية السعي لاستخدام الصلاحيات المالية للكونغرس للحد من العمليات العسكرية، رغم الإشارة إلى وجود عقبات قانونية قد تعرقل الإلغاء السريع للقرارات التنفيذية.",
+    "من جانبه، أقر الرئيس دونالد ترامپ بتأثير ملف الحرب على نتائج الانتخابات، متمسكاً بقراراته ومؤكداً أنه سيستخدم حق النقض (الفيتو) لمواجهة التشريعات التي تتعارض مع سياساته."
+   ]
+  },
+  {
+   "id": "c1493b787cbc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-including-child-attacks-central-and",
+   "date": "2026-11-05T11:08:43Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israel kills three Palestinians, including a child, in attacks in central and southern Gaza",
+   "title_en": "Israel kills three Palestinians, including a child, in attacks in central and southern Gaza",
+   "summary_en": "Israeli forces killed at least three Palestinians, including a woman and a child, in separate attacks across central and southern Gaza, according to medical sources cited by Wafa.",
+   "body_en": [
+    "A Palestinian child was killed by Israeli fire in the Bureij camp in central Gaza, while a Palestinian woman was shot and killed in al-Mawasi, near Khan Younis. Another person was killed in an air strike west of al-Zawayda, and several others were wounded in a strike on a group of Palestinians in Deir el-Balah."
+   ],
+   "title_fa": "اسرائیل سه فلسطینی از جمله یک کودک را در حملات به مرکز و جنوب غزه کشید",
+   "summary_fa": "به نقل از منابع پزشکی توسط وفا، نیروهای اسرائیلی در حملات جداگانه در مرکز و جنوب غزه دست‌کم سه فلسطینی از جمله یک زن و یک کودک را کشتند.",
+   "body_fa": [
+    "یک کودک فلسطینی بر اثر تیراندازی نیروهای اسرائیلی در اردوگاه البریج در مرکز غزه کشته شد، و یک زن فلسطینی نیز در منطقه المواصی در خان یونس هدف شلیک قرار گرفت و جان باخت. شخص دیگری در یک حمله هوایی در غرب الزوایده کشته شد و چندین نفر دیگر در حمله‌ای به دسته‌ای از فلسطینیان در دیرالبلح زخمی شدند."
+   ],
+   "title_ar": "إسرائيل تقتل ثلاثة فلسطينيين بينهم طفل في هجمات على وسط وجنوب غزة",
+   "summary_ar": "قتلت القوات الإسرائيلية ثلاثة فلسطينيين على الأقل، بينهم امرأة وطفل، في هجمات منفصلة في وسط وجنوب غزة، وفقاً لمصادر طبية نقلت عنها وكالة وفا.",
+   "body_ar": [
+    "قُتل طفل فلسطيني برصاص إسرائيلي في مخيم البريج بوسط غزة، بينما قُتلت امرأة فلسطينية بالرصاص في منطقة المواصي بخان يونس جنوب قطاع غزة. وقُتل شخص آخر في غارة جوية غرب الزوايدة، وأُصيب آخرون في هجوم استهدف مجموعة من الفلسطينيين في دير البلح."
+   ]
+  },
+  {
+   "id": "0219bd19b111",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
+   "date": "2026-11-05T11:07:22Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "title_en": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "summary_en": "The Saudi-led coalition announced the interception of a ballistic missile fired by Houthi forces toward the city of Medina.",
+   "body_en": [
+    "A spokesman for the coalition fighting the Houthis in Yemen confirmed the interception on Thursday. The statement followed warnings from Saudi Arabia's civil defence agency regarding potential risks in the area surrounding the port of Yanbu."
+   ],
+   "title_fa": "ائتلاف سعودی: موشک‌های شلیک‌شده حوثی‌ها به سوی مدینه رهگیری شدند",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری یک موشک بالستیک شلیک‌شده توسط حوثی‌ها به سمت شهر مدینه خبر داد.",
+   "body_fa": [
+    "سخنگوی ائتلاف درگیر با حوثی‌ها در یمن روز پنجشنبه این رهگیری را تأیید کرد. این اعلان مدت کوتاهی پس از آن صورت گرفت که سازمان دفاع مدنی عربستان درباره خطرات احتمالی در اطراف بندر استراتژیک ینبع هشدار داده بود."
+   ],
+   "title_ar": "التحالف السعودي يعلن اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المدينة المنورة",
+   "summary_ar": "أعلن التحالف بقيادة السعودية اعتراض صاروخ باليستي أطلقته قوات الحوثيين باتجاه مدينة المدينة المنورة.",
+   "body_ar": [
+    "وأكد متحدث باسم التحالف الذي يقاتل الحوثيين في اليمن عملية الاعتراض يوم الخميس. وجاء هذا الإعلان بعد وقت قصير من تحذير وكالة الدفاع المدني في المملكة من مخاطر محتملة حول ميناء ينبع الاستراتيجي."
+   ]
+  },
+  {
+   "id": "b712a9138623",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+   "date": "2026-11-05T10:25:28Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 7,
+   "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+   "title_en": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+   "summary_en": "Displaced Palestinian families living in deteriorating tents on Gaza's coast face severe winter weather, flooding, and cold as shelter supplies remain blocked from entering the strip.",
+   "body_en": [
+    "Tens of thousands of displaced Palestinians are sheltering on Gaza's beaches after being forced from their homes by military orders and high displacement costs. Many tents offer no protection against rising tides, wind, and rain, leading local aid groups to construct makeshift barriers using soil-filled cooking pots donated by aid organizations to block seawater.",
+    "Gaza's Winter Emergency Committee warned of an escalating catastrophe, stating that Israeli restrictions continue to prevent the entry of tents, caravans, building materials, and fuel. Officials reported that thousands of damaged shelters are positioned in high-risk flood zones, while municipal and civil defense equipment has been largely destroyed or paralyzed by fuel shortages."
+   ],
+   "title_fa": "«دردمند و درمانده»: خانواده‌هایی که در چادرهای ساحلی غزه با زمستان روبرو هستند",
+   "summary_fa": "خانواده‌های آواره فلسطینی که در چادرهای فرسوده در سواحل غزه زندگی می‌کنند، با نزدیک شدن زمستان، سرما و خطر سیلاب روبرو هستند، در حالی که واردات تجهیزات اسکان به این منطقه همچنان ممنوع است.",
+   "body_fa": [
+    "ده‌ها هزار آواره فلسطینی پس از خروج اجباری از خانه‌های خود به دلیل دستورات نظامی و هزینه‌های بالای اسکان، در سواحل غزه پناه گرفته‌اند. بسیاری از چادرها در برابر بالا آمدن آب دریا، باد و باران مقاومتی ندارند و همین امر گروه کمک‌رسانی محلی را بر آن داشته تا با استفاده از دیگ‌های کهنه پر شده از خاک مانع ورود آب دریا به چادرها شوند.",
+    "کمیته اضطراری زمستان غزه نسبت به تشدید بحران بشردوستانه هشدار داده و اعلام کرد که محدودیت‌های اسرائیلی مانع از ورود چادر، کانکس، مصالح ساختمانی و سوخت می‌شود. به گفته این کمیته، هزاران چادر فرسوده در مناطق پرخطر و در معرض سیل قرار دارند، در حالی که بخش اعظم تجهیزات امدادی و شهرداری به دلیل ناامنی و نقص سوخت از کار افتاده‌اند."
+   ],
+   "title_ar": "«عاجزون»: عائلات تواجه الشتاء في خيام على شاطئ البحر في غزة",
+   "summary_ar": "تواجه العائلات الفلسطينية النازحة التي تعيش في خيام متهالكة على ساحل غزة ظروفاً جوية قاسية وخطر الفيضانات والبرد مع استمرار منع دخول مستلزمات الإيواء إلى القطاع.",
+   "body_ar": [
+    "تلجأ عشرات آلاف العائلات النازحة إلى شواطئ غزة بعد أن اضطرت لمغادرة منازلها بسبب الأوامر العسكرية وارتفاع تكاليف الإيواء. ولا توفر الخيام المتهالكة أي حماية من الأمواج والرياح والأمطار، مما دفع مبادرات محلية لاستخدام أواني طهي قديمة مملوءة بالتراب كحواجز لمنع مياه البحر من غمر الخيام.",
+    "وحذرت لجنة طوارئ الشتاء في غزة من تفاقم الكارثة الإنسانية، مشيرة إلى أن القيود الإسرائيلية تواصل منع دخول الخيام والبيوت المتنقلة ومواد البناء والوقود. وأفادت اللجنة بأن آلاف الخيام تقع في مناطق شديدة الخطورة ومعرضة للفيضانات، في حين تضررت معظم معدات الدفاع المدني والبلديات أو توقفت بسبب أزمة الوقود."
+   ]
+  },
+  {
+   "id": "029a75e7dbe1",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+   "date": "2026-11-05T09:58:18Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "A month after Yemen government offensive began, war of attrition takes hold",
+   "title_en": "A month after Yemen government offensive began, war of attrition takes hold",
+   "summary_en": "One month after Yemen's government launched the \"Dawn of Yemen\" offensive against Houthi forces, analysts say the conflict has turned into a prolonged war of attrition despite high casualties and localized Houthi gains.",
+   "body_en": [
+    "The military campaign, supported by a Saudi-led coalition, aims to reclaim Houthi-controlled regions across Yemen, including the capital Sanaa. Government forces claim to have inflicted heavy losses on Houthi commanders and personnel through air strikes and ground attacks, particularly along the western coast and in Taiz.",
+    "Despite losing significant equipment and fighters, Houthi forces have made localized territorial gains in provinces such as Taiz and Lahij while continuing missile and drone strikes against Saudi Arabia. Experts note that the offensive has targeted Houthi supply networks and maritime routes, but the overall strategic balance remains tied to broader regional dynamics."
+   ],
+   "title_fa": "یک ماه پس از آغاز عملیات دولت یمن، جنگ فرسایشی حاکم می‌شود",
+   "summary_fa": "یک ماه پس از آغاز عملیات «سپیده‌دم یمن» توسط دولت یمن علیه حوثی‌ها، کارشناسان می‌گویند این نبرد با وجود تلفات سنگین و پیشروی‌های منطقه‌ای حوثی‌ها، به یک جنگ فرسایشی طولانی‌مدت تبدیل شده است.",
+   "body_fa": [
+    "این عملیات نظامی که با پشتیبانی ائتلاف به رهبری عربستان سعودی انجام می‌شود، هدف خود را بازپس‌گیری تمام مناطق تحت کنترل حوثی‌ها از جمله صنعا اعلام کرده است. نیروهای دولتی مدعی هستند که در حملات هوایی و زمینی به‌ویژه در سواحل غربی و تعز، تلفات سنگینی به فرماندهان و نیروهای حوثی وارد کرده‌اند.",
+    "با وجود خسارات زیاد، نیروهای حوثی‌ پیشروی‌هایی در استان‌هایی مانند تعز و لحج داشته‌اند و حملات موشکی و پهپادی خود را به خاک عربستان ادامه داده‌اند. به گفته تحلیل‌گران، حملات علیه مسیرهای تدارکاتی و دریایی حوثی‌ها فشار زیادی وارد کرده، اما توازن کلی قدرت به تحولات منطقه‌ای وابسته مانده است."
+   ],
+   "title_ar": "بعد شهر من بدء هجوم الحكومة اليمنية، حرب الاستنزاف تفرض نفسها",
+   "summary_ar": "بعد مرور شهر على إطلاق الحكومة اليمنية عملية «فجر اليمن» ضد الحوثيين، يررى خبراء أن الصراع تحول إلى حرب استنزاف طويلة الأمد رغم الخسائر الكبيرة والتقدم الميداني للحوثيين في بعض المناطق.",
+   "body_ar": [
+    "تهدف الحملة العسكرية المدعومة من التحالف بقيادة السعودية إلى استعادة السيطرة على المناطق التي يسيطر عليها الحوثيون في جميع أنحاء اليمن بما فيها العاصمة صنعاء. وتؤكد القوات الحكومية أنها ألحقت خسائر جسيمة بصفوف الحوثيين وقياداتهم من خلال الغارات الجوية والاشتباكات الميدانية خاصة في الساحل الغربي وتعز.",
+    "ورغم الخسائر البشرية والمادية، حقق الحوثيون مكاسب ميدانية في محافظات مثل تعز ولحج مع استمرارهم في إطلاق الصواريخ والطائرات المسيرة نحو السعودية. ويفيد خبراء بأن الهجوم استهدف شبكات الإمداد والمنافذ البحرية للحوثيين، لكن توازن القوى الميداني لا يزال مرتبطاً بالتصعيد الإقليمي الواسع."
+   ]
+  },
+  {
+   "id": "bb596659923e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/shot-class-gazas-children-return-school-under-israeli-fire",
+   "date": "2026-11-05T07:21:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Shot in class: Gaza's children return to school under Israeli fire",
+   "title_en": "Shot in class: Gaza's children return to school under Israeli fire",
+   "summary_en": "Teachers and students in makeshift tent schools across Gaza face ongoing danger from Israeli gunfire and air strikes following the resumption of the academic year. Multiple incidents in Khan Younis and Gaza City have recently resulted in injuries and fatalities among educators and children.",
+   "body_en": [
+    "In eastern Khan Younis, a teacher was hit in the back by an Israeli bullet while presenting a lesson inside a tent classroom, leaving her unable to walk properly as the bullet could not be safely removed. Weeks later, a nine-year-old student in the same area was hospitalized for emergency surgery after a bullet pierced his classroom tent and struck his shoulder.",
+    "Educational institutions have also been targeted directly by air strikes, including recent attacks at the University College of Applied Sciences and the Islamic University. According to the Palestinian Ministry of Education and Higher Education, thousands of students and hundreds of teachers have been killed since October 2023."
+   ],
+   "title_fa": "شلیک در کلاس درس: بازگشت کودکان غزه به مدرسه زیر آتش اسرائیل",
+   "summary_fa": "معلمان و دانش‌آموزان در مدارس چادری موقت در سراسر غزه پس از ازسرگیری سال تحصیلی با خطر مداوم تیراندازی و حملات هوایی اسرائیل مواجه هستند. چندین حادثه اخیر در خان یونس و شهر غزه منجر به زخمی شدن و کشته شدن معلمان و کودکان شده است.",
+   "body_fa": [
+    "در شرق خان یونس، یک معلم هنگام تدریس در یک کلاس چادری از پشت مورد اصابت گلوله اسرائیل قرار گرفت و به دلیل عدم امکان خارج کردن ایمن گلوله، توانایی راه رفتن مناسب را از دست داد. چند هفته بعد، یک دانش‌آموز نه ساله در همان منطقه پس از عبور گلوله از چادر کلاس و اصابت به شانه‌اش، برای جراحی اضطراری در بیمارستان بستری شد.",
+    "مراکز آموزشی نیز مستقیماً هدف حملات هوایی قرار گرفته‌اند، از جمله حملات اخیر به دانشکده دانشگاهی علوم کاربردی و دانشگاه اسلامی. به گفته وزارت آموزش و آموزش عالی فلسطین، از اکتبر ۲۰۲۳ تاکنون هزاران دانش‌آموز و صدها معلم کشته شده‌اند."
+   ],
+   "title_ar": "إطلاق نار داخل الفصل: أطفال غزة يعودون إلى المدارس تحت النيران الإسرائيلية",
+   "summary_ar": "يواجه المعلمون والطلاب في مدارس الخيام المؤقتة في جميع أنحاء غزة خطرًا مستمرًا من إطلاق النار والغارات الجوية الإسرائيلية بعد استئناف العام الدراسي. وأدت حوادث متعددة في خان يونس ومدينة غزة مؤخرًا إلى وقوع إصابات ووفيات بين المعلمين والأطفال.",
+   "body_ar": [
+    "في شرق خان يونس، أصيبت معلمة برصاصة إسرائيلية في ظهرها أثناء تقديم درس داخل فصل من الخيام، مما جعلها غير قادرة على المشي بشكل طبيعي لعدم إمكانية إزالة الرصاصة بأمان. وبعد أسابيع، نُقل طالب يبلغ من العمر تسع سنوات في المنطقة نفسها إلى المستشفى لإجراء جراحة عاجلة بعد أن واخترقت رصاصة خيمة الفصل وأصابت كتفه.",
+    "كما استُهدفت المؤسسات التعليمية مباشرة بالغارات الجوية، بما في ذلك الهجمات الأخيرة على الكلية الجامعية للعلوم التطبيقية والجامعة الإسلامية. ووفقًا لوزارة التربية والتعليم العالي الفلسطينية، قُتل آلاف الطلاب ومئات المعلمين منذ أكتوبر 2023."
+   ]
+  },
+  {
+   "id": "378c80c15625",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/herzog-warns-netanyahu-highly-explosive-and-dangerous-reality-amid",
+   "date": "2026-11-05T06:47:28Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence",
+   "title_en": "Herzog warns Netanyahu of 'highly explosive and dangerous reality' amid rising settler violence",
+   "summary_en": "Israeli President Isaac Herzog sent a letter to Prime Minister Benjamin Netanyahu and senior officials warning of a dangerous and explosive situation in the West Bank due to rising settler violence.",
+   "body_en": [
+    "In the letter, which was also sent to Defence Minister Israel Katz and Attorney General Gali Baharav-Miara, Herzog noted that security officials face limited tools and manpower shortages. He stated that upcoming political developments and the olive harvest season could trigger severe escalations with major consequences for Israel's security, economy, and international standing."
+   ],
+   "title_fa": "هشدار اسحاق هرتزوگ به بنیامین نتانیاهو درباره «واقعیت بسیار انفجاری و خطرناک» در پی افزایش خشونت شهرک‌نشینان",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، در نامه‌ای به بنیامین نتانیاهو و مقام‌های ارشد درباره شرایط «بسیار انفجاری و خطرناک» در کرانه باختری به دلیل افزایش خشونت شهرک‌نشینان هشدار داد.",
+   "body_fa": [
+    "در این نامه که برای وزیر دفاع و دادستان کل نیز ارسال شده، هرتزوگ به نقل از فرماندهان نظامی و امنیتی از کمبود نیرو و ابزارهای محدود خبر داد. او تاکید کرد که همزمانی رویدادهای سیاسی و فصل برداشت زیتون می‌تواند به تنش‌های شدیدی منجر شود که به امنیت، اقتصاد و اعتبار بین‌المللی اسرائیل آسیب می‌زند."
+   ],
+   "title_ar": "يتسحاق هرتسوغ يحذر بنيامين نتنياهو من «واقع شديد الانفجار والخطورة» وسط تصاعد عنف المستوطنين",
+   "summary_ar": "وجه رئيس يتسحاق هرتسوغ رسالة إلى رئيس الوزراء بنيامين نتنياهو ومسؤولين كبار حذر فيها من وضع «شديد الانفجار والخطورة» في الضفة الغربية بسبب تصاعد عنف المستوطنين.",
+   "body_ar": [
+    "في الرسالة التي أُرسلت أيضاً إلى وزير الدفاع والمدعية العامة، أشار يتسحاق هرتسوغ إلى أن الأجهزة الأمنية تعاني من نقص في القوى البشرية ومحدودية الأدوات. وأكد أن تزامن التطورات السياسية مع موسم قطاف الزيتون قد يؤدي إلى تصعيد خطير يلقي بظلاله على أمن إسرائيل واقتصادها ومكانتها الدولية."
+   ]
+  },
+  {
+   "id": "444853f1d6b1",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+   "date": "2026-11-05T04:22:49Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 6,
+   "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+   "title_en": "South Korea says it will expand naval operations closer to strait of Hormuz",
+   "summary_en": "South Korea plans to seek parliamentary approval to expand the operational area of its anti-piracy naval unit closer to the strait of Hormuz following criticism from Donald Trump.",
+   "body_en": [
+    "The defense ministry stated that the motion would extend the Cheonghae unit's operational area to waters near the port of Duqm in Oman, about 650km from the strait. Officials emphasized that the reinforcement is strictly for non-combat purposes and would operate independently of allied forces.",
+    "The unit has been stationed in the Gulf of Aden since 2009 to protect commercial vessels. The proposed expansion also seeks to extend the unit's deployment in the Middle East beyond its expiration at the end of 2026."
+   ],
+   "title_fa": "کره جنوبی از گسترش عملیات دریایی خود در نزدیکی تنگه هرمز خبر داد",
+   "summary_fa": "کره جنوبی قصد دارد پس از انتقادات دونالد ترامپ، برای گسترش منطقه عملیاتی واحد دریایی ضد دزدی دریایی خود در نزدیکی تنگه هرمز، موافقت پارلمان را جلب کند.",
+   "body_fa": [
+    "وزارت دفاع اعلام کرد که این لایحه منطقه عملیاتی واحد «چونگهائه» را به آب‌های نزدیک بندر دقُم در عمان، در فاصله حدود ۶۵۰ کیلومتری تنگه هرمز، گسترش خواهد داد. مقام‌ها تأکید کردند که این تقویت صرفاً برای اهداف غیررزمی است و این یگان مستقل از نیروهای ائتلاف عمل خواهد کرد.",
+    "این یگان از سال ۲۰۰۹ برای محافظت از کشتی‌های تجاری در خلیج عدن مستقر بوده است. گسترش پیشنهادی همچنین به دنبال تمدید استقرار این یگان در خاورمیانه فراتر از تاریخ انقضای آن در پایان سال ۲۰۲۶ است."
+   ],
+   "title_ar": "كوريا الجنوبية تعلن توسيع عملياتها البحرية بالقرب من مضيق هرمز",
+   "summary_ar": "تخطط كوريا الجنوبية لطلب موافقة البرلمان لتوسيع منطقة عمليات وحدتها البحرية لمكافحة القرصنة بالقرب من مضيق هرمز، وذلك في أعقاب انتقادات من دونالد ترامب.",
+   "body_ar": [
+    "ذكر وزارة الدفاع أن الاقتراح سيمدد منطقة عمل وحدة \"تشيونغهاي\" إلى المياه القريبة من ميناء الدقم في عمان، على بعد حوالي 650 كيلومتراً من المضيق. وأكد المسؤولون أن التعزيز مخصص لأغراض غير قتالية حصراً وأنه سيعمل بشكل مستقل عن القوات الحليفة.",
+    "تتمركز الوحدة في خليج عدن منذ عام 2009 لحماية السفن التجارية. ويسعى التوسع المقترح أيضاً إلى تمديد نشر الوحدة في الشرق الأوسط إلى ما بعد انتهاء مدته في نهاية عام 2026."
+   ]
+  },
+  {
+   "id": "47be2d65b84f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+   "date": "2026-11-05T03:46:13Z",
+   "countries": [
+    "SAU",
+    "SYR"
+   ],
+   "score": 8,
+   "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+   "title_en": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+   "summary_en": "Syrian President Ahmed al-Sharaa and Saudi Arabia's Crown Prince Mohammed bin Salman have overseen the signing of a defence cooperation agreement and $403m in loans for various Syrian sectors during talks in Riyadh.",
+   "body_en": [
+    "The agreements were concluded on Wednesday during al-Sharaa's second visit to Riyadh in less than a month. According to the Syrian Foreign Ministry, the defence pact is the most notable of the deals, following recent discussions over Syria potentially joining a mutual defence alliance with Saudi Arabia, Turkiye and Pakistan.",
+    "Additionally, the Saudi Fund for Development agreed to provide $403m through six concessional loans to support healthcare, housing, civil defence, power generation, and drinking water systems in Syria. The two governments also signed memoranda of understanding covering industrial cooperation, agriculture, and environmental protection."
+   ],
+   "title_fa": "سوریه و عربستان سعودی توافقنامه همکاری دفاعی امضا کردند و با ۴۰۳ میلیون دلار وام موافقت نمودند",
+   "summary_fa": "احمد الشرع، رئیس‌جمهور سوریه، و محمد بن سلمان، ولیعهد عربستان سعودی، در جریان مذاکراتی در ریاض بر امضای یک توافقنامه همکاری دفاعی و اعطای ۴۰۳ میلیون دلار وام به بخش‌های مختلف سوریه نظارت کردند.",
+   "body_fa": [
+    "این توافقنامه‌ها روز چهارشنبه در جریان دومین سفر الشرع به ریاض در کمتر از یک ماه گذشته امضا شد. به گفته وزارت امور خارجه سوریه، پیمان دفاعی برجسته‌ترین توافق میان دو کشور است که به دنبال بحث‌های اخیر درباره احتمال پیوستن سوریه به یک ائتلاف دفاعی متقابل با عربستان سعودی، ترکیه و پاکستان مطرح شده است.",
+    "علاوه بر این، صندوق توسعه سعودی موافقت کرد که ۴۰۳ میلیون دلار از طریق شش وام امتیازی برای حمایت از بخش‌های بهداشت، مسکن، دفاع مدنی، تولید برق و سیستم‌های آب آشامیدنی در سوریه اختصاص دهد. دو دولت همچنین تفاهم‌نامه‌هایی در زمینه همکاری‌های صنعتی، کشاورزی و حفاظت از محیط زیست امضا کردند."
+   ],
+   "title_ar": "سوريا والسعودية توقعان اتفاقية تعاون دفاعي وتفقان على قرض بقيمة 403 ملايين دولار",
+   "summary_ar": "أشرف الرئيس السوري أحمد الشرع ولي العهد السعودي محمد بن سلمان على توقيع اتفاقية تعاون دفاعي وقروض بقيمة 403 ملايين دولار لمختلف القطاعات السورية خلال محادثات في الرياض.",
+   "body_ar": [
+    "وُقعت الاتفاقيات يوم الأربعاء خلال زيارة الشرع الثانية إلى الرياض في أقل من شهر. ووفقاً لوزارة الخارجية السورية، تعد اتفاقية الدفاع أبرز الصفقات، وذلك أعقاب مناقشات جرت مؤخراً حول احتمال انضمام سوريا إلى حلف دفاعي مشترك يضم السعودية وتركيا وباكستان.",
+    "بالإضافة إلى ذلك، وافق الصندوق السعودي للتنمية على تقديم 403 ملايين دولار عبر ستة قروض ميسرة لدعم قطاعات الرعاية الصحية والإسكان والدفاع المدني وتوليد الطاقة ومياه الشرب في سوريا. كما وقعت الحكومتان مذكرات تفاهم تشمل التعاون الصناعي والزراعة وحماية البيئة."
+   ]
+  },
+  {
+   "id": "81754acaeee1",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+   "date": "2026-11-05T03:22:02Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+   "title_en": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+   "summary_en": "Hours after his party suffered historic losses in the midterm elections, U.S. President Donald Trump held a public event focused on the construction of a new White House ballroom.",
+   "body_en": [
+    "Mr. Trump met with construction workers to mark the installation of the final steel beam for the ballroom project amidst questions regarding his administration's unpopular war with Iran and potential impeachment by a newly Democratic Congress.",
+    "The President defended his focus on prestige projects in Washington, stating that the ballroom was relaxing and for the glory of the country, despite calls from some Republican strategists to shift focus to economic concerns."
+   ],
+   "title_fa": "پس از شکست جمهوری‌خواهان، ترامپ اولین رویداد پس از میان‌دوره‌ای را به سالن رقص کاخ سفید اختصاص داد",
+   "summary_fa": "چند ساعت پس از متحمل شدن شکست‌های تاریخی حزب خود در انتخابات میان‌دوره‌ای، دونالد ترامپ، رئیس‌جمهور آمریکا، رویداد عمومی را با تمرکز بر ساخت سالن رقص جدید کاخ سفید برگزار کرد.",
+   "body_fa": [
+    "دونالد ترامپ در میان پرسش‌هایی درباره جنگ نامحبوب دولت خود با ایران و احتمال استیضاح توسط کنگره جدید با اکثریت دموکرات، با کارگران ساختمانی دیدار کرد تا نصب آخرین تیر فولادی پروژه سالن رقص را گرامی بدارد.",
+    "این رئیس‌جمهور از تمرکز خود بر پروژه‌های تشریفاتی در واشنگتن دفاع کرد و اظهار داشت که سالن رقص آرامش‌بخش و برای افتخار کشور است، علی‌رغم اینکه برخی از استراتژیست‌های جمهوری‌خواه خواستار تغییر تمرکز به سمت دغدغه‌های اقتصادی شده بودند."
+   ],
+   "title_ar": "بعد هزيمة الجمهوريين، ترامب يخصص أول حدث بعد الانتخابات النصفية لقاعة الاحتفالات في البيت الأبيض",
+   "summary_ar": "بعد ساعات من تعرض حزبه لخسائر تاريخية في انتخابات التجديد النصفي، عقد الرئيس الأمريكي دونالد ترامب حدثاً عاماً تركز على بناء قاعة احتفالات جديدة في البيت الأبيض.",
+   "body_ar": [
+    "التقى دونالد ترامب بعمال البناء للاحتفال بتثبيت العوارض الفولاذية الأخيرة لمشروع قاعة الاحتفالات وسط أسئلة تتعلق بحرب إدارته غير الشعبية مع إيران والاحتمال المتوقع لعزله من قبل كونغرس ذي أغلبية ديمقراطية.",
+    "دافع الرئيس عن تركيزه على مشاريع الهيبة في واشنگتن، مشيراً إلى أن قاعة الاحتفالات مريحة ولصالح مجد البلاد، على الرغم من دعوات بعض الاستراتيجيين الجمهوريين لتحويل التركيز إلى المخاوف الاقتصادية."
+   ]
+  },
+  {
+   "id": "c03e480f120a",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+   "date": "2026-11-05T02:18:26Z",
+   "countries": [
+    "IND",
+    "IRN"
+   ],
+   "score": 7,
+   "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "title_en": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+   "summary_en": "The U.S. midterm election results are expected to have a greater impact on global geopolitics and India's operating environment than on direct bilateral relations.",
+   "body_en": [
+    "With Democrats securing majorities in the House and Senate, U.S. President Donald Trump will face domestic and foreign policy constraints.",
+    "While Mr. Trump acknowledged that his decision to attack Iran in February 2026 contributed to Republican losses, New Delhi will closely watch whether this leads to an early exit from the conflict."
+   ],
+   "title_fa": "نتایج میان‌دوره‌ای آمریکا ممکن است برای روابط هند و آمریکا کمتر از فضای مانور هند در ژئوپلیتیک اهمیت داشته باشد",
+   "summary_fa": "انتظار می‌رود نتایج انتخابات میان‌دوره‌ای آمریکا تأثیر بیشتری بر ژئوپلیتیک جهانی و محیط عملیاتی هند داشته باشد تا بر روابط دوجانبه مستقیم.",
+   "body_fa": [
+    "با به دست آوردن اکثریت در مجلس نمایندگان و سنا توسط دموکرات‌ها، دونالد ترامپ، رئیس‌جمهور آمریکا، با محدودیت‌های سیاست داخلی و خارجی روبه‌رو خواهد شد.",
+    "در حالی که دونالد ترامپ اذعان کرد که تصمیم او برای حمله به ایران در فوریه ۲۰۲۶ در شکست‌های جمهوری‌خواهان نقش داشته است، دهلی نو به دقت زیر نظر خواهد داشت که آیا این امر منجر به خروج زودهنگام از درگیری می‌شود یا خیر."
+   ],
+   "title_ar": "نتائج التجديد النصفي في أمريكا قد تكون أقل أهمية للعلاقات الهندية الأمريكية مقارنة بمساحة مناورة الهند في الجيوسياسة",
+   "summary_ar": "من المتوقع أن يكون لنتائج انتخابات التجديد النصفي الأمريكية تأثير أكبر على الجيوسياسة العالمية وبيئة عمل الهند مقارنة بالعلاقات الثنائية المباشرة.",
+   "body_ar": [
+    "مع حصول الديمقراطيين على الأغلبية في مجلس النواب والشيوخ، سيواجه الرئيس الأمريكي دونالد ترامب قيوداً على السياسة الداخلية والخارجية.",
+    "وفي حين أقر دونالد ترامب بأن قرار مهاجمة إيران في فبراير 2026 ساهم في خسائر الجمهوريين، ستراقب نيودلهي عن كثب ما إذا كان ذلك سيؤدي إلى خروج مبكر من الصراع."
+   ]
+  },
+  {
+   "id": "56529818e597",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042213/riyadh-rolls-over-3bn-as-prospects-of-10bn-us-facility-wane",
+   "date": "2026-11-05T02:05:14Z",
+   "countries": [
+    "PAK",
+    "SAU"
+   ],
+   "score": 6,
+   "title": "Riyadh rolls over $3bn as prospects of $10bn US facility wane",
+   "title_en": "Riyadh rolls over $3bn as prospects of $10bn US facility wane",
+   "summary_en": "Pakistan has secured a $3 billion rollover from Saudi Arabia for a reasonable period, while prospects for a proposed $10bn US support facility have diminished, according to the country's finance minister.",
+   "body_en": [
+    "Finance Minister Muhammad Aurangzeb confirmed that Riyadh extended the $3 billion financing that matured at the end of October. He stated that while the proposed US Exchange Stabilisation Support Facility requested in July remains uncertain, Pakistan has successfully accessed international markets through recent bond issuances.",
+    "During a meeting with the Senate Standing Committee on Finance, officials reported that Pakistan is targeting a $4bn reduction in external debt during the current fiscal year. Public debt figures have also shown a relative decline as a percentage of GDP, bolstered by fiscal discipline and stabilizing foreign exchange reserves."
+   ],
+   "title_fa": "ریاض وام ۳ میلیارد دلاری را تمدید کرد؛ احتمال تأمین تسهیلات ۱۰ میلیارد دلاری آمریکا کاهش یافت",
+   "summary_fa": "به گفته وزیر دارایی پاکستان، این کشور توانسته است مهلت بازپرداخت وام ۳ میلیارد دلاری عربستان سعودی را برای مدت زمان معقولی تمدید کند، در حالی که چشم‌انداز دریافت تسهیلات حمایتی ۱۰ میلیارد دلاری پیشنهادی از سوی آمریکا کاهش یافته است.",
+   "body_fa": [
+    "محمد اورنگ‌زیب، وزیر دارایی، تایید کرد که ریاض تامین مالی ۳ میلیارد دلاری را که سررسید آن در پایان اکتبر بود، تمدید کرده است. او اظهار داشت که در حالی که تسهیلات حمایتی تثبیت نرخ ارز پیشنهادی آمریکا که در ماه ژوئیه درخواست شده بود همچنان نامشخص است، پاکستان توانسته از طریق انتشار اوراق قرضه اخیر به بازارهای بین‌المللی دسترسی پیدا کند.",
+    "طی نشستی در کمیته دائمی دارایی سنا، مقامات گزارش دادند که پاکستان کاهش ۴ میلیارد دلاری بدهی خارجی را در سال مالی جاری هدف قرار داده است. ارقام بدهی عمومی نیز با تکیه بر انضباط مالی و ثبات ذخایر ارزی، به عنوان درصدی از تولید ناخالص داخلی کاهش نسبی نشان داده است."
+   ],
+   "title_ar": "الرياض تمدد قرضاً بقيمة 3 مليارات دولار وسط تراجع احتمالات الحصول على تسهيلات أمريكية بـ 10 مليارات دولار",
+   "summary_ar": "حصلت باكستان على تمديد لقرض بقيمة 3 مليارات دولار من السعودية لفترة معقولة، في حين تراجعت احتمالات الحصول على تسهيلات دعم أمريكية مقترحة بقيمة 10 مليارات دولار، وفقاً لوزير المالية.",
+   "body_ar": [
+    "أكد وزير المالية محمد أورنگ زیب أن الرياض مددت التمويل البالغ 3 مليارات دولار الذي استحق أجله في نهاية أكتوبر/تشرين الأول. وأشار إلى أنه في الوقت الذي يظل فيه مصير تسهيلات دعم استقرار الصرف الأمريكية المقترحة التي طلبت في يوليو/تموز غير حاسم، فقد نجحت باكستان في الوصول إلى الأسواق الدولية من خلال إصدارات السندات الأخيرة.",
+    "خلال اجتماع لجنة الشؤون المالية بمجلس الشيوخ، أفاد المسؤولون بأن باكستان تستهدف خفض الديون الخارجية بمقدار 4 مليارات دولار خلال السنة المالية الحالية. كما أظهرت أرقام الدين العام تراجعاً نسبياً كنسبة من الناتج المحلي الإجمالي، مدعومة الانضباط المالي واستقرار احتياطيات النقد الأجنبي."
+   ]
+  },
+  {
+   "id": "61a0fa8d6df2",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
+   "date": "2026-11-04T22:06:24Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+   "title_en": "Palestinians, Israelis react after Democrats sweep US midterms",
+   "summary_en": "Palestinians and Israelis expressed divided opinions following the Democratic victory in the United States midterm elections.",
+   "body_en": [
+    "The outcome of the midterm elections could reshape the remaining two years of Donald Trump's presidential administration."
+   ],
+   "title_fa": "واکنش فلسطینی‌ها و اسرائیلی‌ها پس از پیروزی قاطع دموکرات‌ها در انتخابات میان‌دوره‌ای آمریکا",
+   "summary_fa": "فلسطینی‌ها و اسرائیلی‌ها پس از پیروزی دموکرات‌ها در انتخابات میان‌دوره‌ای ایالات متحده نظرات متفاوتی ابراز کردند.",
+   "body_fa": [
+    "نتیجه انتخابات میان‌دوره‌ای می‌تواند دو سال آینده دولت دونالد ترامپ، رئیس‌جمهور آمریکا، را دگرگون کند."
+   ],
+   "title_ar": "تفاعل الفلسطينيين والإسرائيليين بعد اكتساح الديمقراطيين لانتخابات التصفية النصفية الأمريكية",
+   "summary_ar": "أعرب الفلسطينيون والإسرائيليون عن آراء متباينة عقب فوز الديمقراطيين في انتخابات التصفية النصفية للولايات المتحدة.",
+   "body_ar": [
+    "قد تؤدي نتيجة الانتخابات النصفية إلى إعادة تشكيل العامين المتبقيين من إدارة الرئيس دونالد ترامب."
+   ]
+  },
   {
    "id": "f79b0fd9b685",
    "lang": "en",
