@@ -1,7 +1,39 @@
 {
- "updated": "2026-11-19T01:35:22Z",
- "count": 423,
+ "updated": "2026-11-19T04:11:55Z",
+ "count": 424,
  "items": [
+  {
+   "id": "7f28fb5b563b",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045504/israel-forces-kill-3-palestinians-in-fresh-gaza-push",
+   "date": "2026-11-19T01:55:08Z",
+   "countries": [
+    "EGY",
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israel forces kill 3 Palestinians in fresh Gaza push",
+   "title_en": "Israel forces kill 3 Palestinians in fresh Gaza push",
+   "summary_en": "Israeli forces killed three Palestinians during airstrikes and a tank incursion into central Gaza on Wednesday. The military said it targeted Hamas infrastructure beyond areas under its control, while medical officials confirmed strikes in central Gaza, Deir al-Balah, and Gaza City.",
+   "body_en": [
+    "Witnesses reported that Israeli tanks pushed onto the Salahudeen road, crossing west of the Yellow Line that separates Israeli-held areas from the rest of the enclave. Medics confirmed one fatality near the ground raid, alongside two people killed in earlier strikes across Deir al-Balah and Gaza City.",
+    "The military stated its operation aimed at Hamas infrastructure and reported striking an operative in southern Gaza. The attacks take place despite an October 2025 ceasefire, under which Gaza health officials report that roughly 1,600 Palestinians have been killed amid continued strikes and clashes."
+   ],
+   "title_fa": "نیروهای اسرائیلی در پیشروی تازه در غزه ۳ فلسطینی را کشتند",
+   "summary_fa": "نیروهای اسرائیلی روز چهارشنبه در جریان حملات هوایی و پیشروی تانک‌ها در مرکز نوار غزه، سه فلسطینی را کشتند. ارتش اسرائیل اعلام کرد زیرساخت‌های حماس را در خارج از مناطق تحت کنترل خود هدف قرار داده است، در حالی که منابع پزشکی از وقوع این حملات در مرکز غزه، دیرالبلح و شهر غزه خبر دادند.",
+   "body_fa": [
+    "شاهدان عینی گزارش دادند تانک‌های اسرائیلی به سمت جاده صلاح‌الدین حرکت کرده و از خط زرد که مناطق تحت تصرف اسرائیل را از سایر بخش‌های غزه جدا می‌کند، به سمت غرب عبور کرده‌اند. به گفته کادر درمان، یک نفر در نزدیکی این حمله زمینی و دو نفر دیگر در حملات پیشین به دیرالبلح و شهر غزه کشته شدند.",
+    "ارتش اسرائیل اعلام کرد این عملیات زیرساخت‌های حماس را هدف قرار داده و از حمله به یکی از نیروهای این گروه در جنوب غزه خبر داد. این درگیری‌ها با وجود برقراری آتش‌بس از اکتبر ۲۰۲۵ ادامه دارد؛ توافقی که به گفته مقامات بهداشتی غزه، همچنان با کشته شدن حدود ۱۶۰۰ فلسطینی بر اثر تداوم حملات همراه بوده است."
+   ],
+   "title_ar": "القوات الإسرائيلية تقتل 3 فلسطينيين في توغل جديد بغزة",
+   "summary_ar": "قتلت القوات الإسرائيلية ثلاثة فلسطينيين خلال غارات جوية وتوغل للدبابات في وسط قطاع غزة يوم الأربعاء. وقال الجيش الإسرائيلي إنه استهدف بنية تحتية لحركة حماس خارج المناطق الخاضعة لسيطرته، بينما أكدت مصادر طبية وقوع ضربات في وسط غزة ودير البلح ومدينة غزة.",
+   "body_ar": [
+    "أفاد شهود عيان بأن الدبابات الإسرائيلية تقدمت نحو طريق صلاح الدين الرئيسي، وتجاوزت الخط الأصفر الذي يفصل الأراضي الخاضعة لسيطرة إسرائيل عن بقية القطاع. وأكدت طواقم الإسعاف مقتل شخص بالقرب من موقع التوغل، إلى جانب مقتل اثنين آخرين في غارات استهدفت دير البلح ومدينة غزة في وقت سابق من اليوم.",
+    "وأوضح المتحدث باسم الجيش الإسرائيلي أن العملية ركزت على بنية تحتية تابعة لحماس، إضافة إلى استهداف مقاتل في جنوب القطاع. وتأتي هذه التطورات رغم اتفاق وقف إطلاق النار المبرم في أكتوبر 2025، والذي أفادت السلطات الصحية في غزة بأنه شهد مقتل قرابة 1600 فلسطيني جراء استمرار الغارات والعمليات العسكرية."
+   ]
+  },
   {
    "id": "41d6ed39e592",
    "lang": "fa",
@@ -792,37 +824,6 @@
    ]
   },
   {
-   "id": "477c78bcad29",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile",
-   "date": "2026-11-18T05:52:02Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Saudi-led coalition says it intercepted destroyed Houthi missile",
-   "title_en": "Saudi-led coalition says it intercepted destroyed Houthi missile",
-   "summary_en": "The Saudi-led coalition stated that it intercepted and destroyed a Houthi missile fired toward Riyadh.",
-   "body_en": [
-    "According to the coalition, the interception followed an earlier precision operation that struck 60 military targets across the Yemeni governorates of Sanaa, Hodeidah, Amran, and Saada.",
-    "Coalition spokesperson Turki al-Malki said forces demolished tunnels used for ballistic missile storage and workshop facilities."
-   ],
-   "title_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری و انهدام موشک حوثی‌ها خبر داد",
-   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد یک موشک حوثی‌ها را که به سوی ریاض شلیک شده بود، رهگیری و منهدم کرده است.",
-   "body_fa": [
-    "به گفته این ائتلاف، این رهگیری پس از عملیاتی دقیق صورت گرفت که در آن ۶۰ هدف نظامی در استان‌های صنعا، الحدیده، عمران و صعده در یمن هدف قرار گرفتند.",
-    "ترکی المالکی، سخنگوی این ائتلاف، گفت نیروها تونل‌هایی را که برای انبار موشک‌های بالستیک و کارگاه‌های تسلیحاتی استفاده می‌شد، منهدم کردند."
-   ],
-   "title_ar": "التحالف بقيادة السعودية يعلن اعتراض وتدمير صاروخ للحوثيين",
-   "summary_ar": "أعلن التحالف بقيادة السعودية أنه اعترض ودمر صاروخاً أطلقه الحوثيون باتجاه الرياض.",
-   "body_ar": [
-    "وبحسب التحالف، جاء هذا الاعتراض في أعقاب عملية دقيقة سابقة دمرت 60 هدفاً عسكرياً في محافظات صنعاء والحديدة وعمران وصعدة في اليمن.",
-    "وذكر المتحدث باسم التحالف تركي المالكي أن القوات دمرت أنفاقاً تضم مخازن للصواريخ الباليستية وورش عمل."
-   ]
-  },
-  {
    "id": "34812afac42f",
    "lang": "en",
    "source": "Middle East Eye",
@@ -850,6 +851,36 @@
    "body_ar": [
     "وفي تصريحات للصحفيين خلال جولة له في الفلبين، أقر روبيو بأن السلطات تراقب باستمرار المخاطر المحتملة وتتحقق من تدفقات التهديدات اليومية، لكنه شدد على أنه لا يرى خطراً مباشراً يهدد البلاد.",
     "كما شكك روبيو في مصداقية المصادر الواردة في تقارير إعلامية تحدثت عن مؤامرة مزعومة تستهدف العاصمة الأمريكية، منتقداً بشدة الأشخاص الذين يُزعم أنهم يقومون بتسريب مثل هذه المعلومات."
+   ]
+  },
+  {
+   "id": "72dbae53dedf",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece",
+   "date": "2026-11-18T02:48:57Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
+   "title_en": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
+   "summary_en": "The Israeli Knesset has elected Matan Kahana as its new speaker with the backing of Jewish and Arab opposition parties. The move comes as Gadi Eisenkot works to build a coalition government following recent parliamentary elections in which Benjamin Netanyahu lost his majority.",
+   "body_en": [
+    "Kahana secured 66 votes in the 120-seat parliament, defeating Ofir Katz, the candidate backed by Netanyahu's bloc, who received 52 votes after seven hours of debate. He replaces Amir Ohana as speaker, a development that gives Eisenkot's bloc significant leverage to advance legislative priorities while coalition negotiations continue.",
+    "The opposition aims to use its parliamentary control to reverse judicial legislation, set prime ministerial term limits, and launch a state inquiry into the October 7, 2023 attacks. Eisenkot has up to five weeks to finalize a governing coalition, though observers note that lengthy legislative procedures could challenge efforts to pass bills before deadlines expire."
+   ],
+   "title_fa": "پارلمان اسرائیل رئیس جدید کنست را با حمایت مخالفان نتانیاهو انتخاب کرد",
+   "summary_fa": "کنست اسرائیل با حمایت احزاب اپوزیسیون یهودی و عرب، متان کاهانا را به عنوان رئیس جدید خود انتخاب کرد. این اقدام در حالی صورت می‌گیرد که گادی آیزنکوت پس از شکست بنیامین نتانیاهو در انتخابات اخیر، در تلاش برای تشکیل دولت ائتلافی است.",
+   "body_fa": [
+    "کاهانا پس از هفت ساعت مناظره، با کسب ۶۶ رأی در برابر ۵۲ رأی اوفیر کاتس، نامزد مورد حمایت جناح نتانیاهو، به ریاست پارلمان رسید. او جانشین امیر اوحانا شد و این تغییر، اهرم قانونی قدرتمندی در اختیار جناح آیزنکوت قرار می‌دهد تا هم‌زمان با ادامه مذاکرات ائتلاف، دستور کارهای قانونی خود را پیش ببرد.",
+    "اپوزیسیون قصد دارد از کنترل خود بر کنست برای لغو اصلاحات قضایی پیشین، تعیین محدودیت دوره نخست‌وزیری و آغاز تحقیقات دولتی درباره حملات ۷ اکتبر ۲۰۲۳ استفاده کند. آیزنکوت تا پنج هفته دیگر برای تشکیل ائتلاف حاکم فرصت دارد، اما ناظران هشدار می‌دهند فرآیندهای پیچیده پارلمانی ممکن است تصویب این لوایح را پیش از پایان مهلت دشوار کند."
+   ],
+   "title_ar": "البرلمان الإسرائيلي ينتخب رئيسًا جديدًا للكنيست بدعم من معارضي نتنياهو",
+   "summary_ar": "انتخب الكنيست الإسرائيلي ماتان كاهانا رئيسًا جديدًا له بدعم من أحزاب المعارضة اليهودية والعربية. وتأتي هذه الخطوة بينما يسعى غادي آيزنكوت لتشكيل حكومة ائتلافية في أعقاب الانتخابات البرلمانية الأخيرة التي فقد فيها بنيامين نتنياهو أغلبيته.",
+   "body_ar": [
+    "حصل كاهانا على 66 صوتًا في البرلمان المكون من 120 مقعدًا، متفوقًا على أوفير كاتس، مرشح كتلة نتنياهو الذي نال 52 صوتًا إثر نقاش دام سبع ساعات. ويخلف كاهانا أمير أوحانا في رئاسة الكنيست، وهو تحول يمنح كتلة آيزنكوت نفوذًا تشريعيًا كبيرًا لدفع أولوياتها بالتوازي مع استمرار مفاوضات الائتلاف.",
+    "تسعى المعارضة للاستفادة من أغلبيتها لإلغاء التعديلات القضائية المثيرة للجدل، وتحديد فترات ولاية رئيس الوزراء، وإنشاء لجنة تحقيق رسمية في هجمات 7 أكتوبر 2023. ويمتلك آيزنكوت مهلة تصل إلى خمسة أسابيع للتوصل إلى ائتلاف، في حين يشير مراقبون إلى أن الإجراءات البرلمانية المعقدة قد تعرقل تمرير مشاريع القوانين في الوقت المحدد."
    ]
   },
   {

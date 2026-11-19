@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:35:22Z",
+ "updated": "2026-11-19T04:11:55Z",
  "items": [
   {
    "id": "f750f2f3295c",
@@ -38,7 +38,8 @@
     "ISR"
    ],
    "desc": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
-   "score": 7
+   "score": 7,
+   "dup_of": "72dbae53dedf"
   },
   {
    "id": "60663dfc1ffc",
@@ -420,8 +421,7 @@
     "ISR"
    ],
    "desc": "The newly-elected Speaker is Matan Kahana, an ally of Gadi Eisenkot, the party leader currently working to form the next government and replace Mr. Netanyahu",
-   "score": 8,
-   "dup_of": "d0399a8b5041"
+   "score": 8
   },
   {
    "id": "34d9d47b96bc",
@@ -2097,6 +2097,100 @@
    ],
    "desc": "سفرای ایران، روسیه و چین در آژانس بین‌المللی انرژی اتمی با صدور بیانیه‌ای مشترک به سخنان رافائل گروسی پاسخ دادند و گفتند از نظر آنها تا زمان توقف حملات نظامی علیه ایران زمینه برای بازدید بازرسان آژانس فراهم نخواهد شد. وزارت خارجه ایران هم سخنان آقای گروسی را «ضدایرانی» خوانده و از آن انتقاد کرده است. مدیرکل آژانس پیش از جلسه روز چهارشنبه شورای حکام گفته بود راستی‌آزمایی بازرسان آژانس از فعالیت‌های هسته‌ای ایران تنها سازوکار برای برطرف کردن نگرانی‌ها است.",
    "score": 8
+  },
+  {
+   "id": "90d8037f17be",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+   "date": "2026-11-19T02:10:43Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+   "score": 8,
+   "dup_of": "7f602e2f6454"
+  },
+  {
+   "id": "12b952356905",
+   "title": "Suparco warns of worsening smog across Punjab",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045563/suparco-warns-of-worsening-smog-across-punjab",
+   "date": "2026-11-19T02:44:08Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Pakistan Space and Upper Atmosphere Research Commission (Suparco) has warned of worsening smog conditions across Punjab over the next three days, with satellite observations detecting 690 active fire incidents in Punjab and adjoining transboundary areas, while Lahore on Wednesday topped the list of the world’s most polluted major cities. According to Suparco’s smog assessment for Nov 17, satellite observations recorded 386 active fire detections in Punjab and 304 in the transboundary region during the preceding 24 hours. The assessment covered 36 districts and used VIIRS and MODIS ",
+   "score": 3
+  },
+  {
+   "id": "e408c909ad01",
+   "title": "PTI’s legal eagles ‘shake and make up’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045549/ptis-legal-eagles-shake-and-make-up",
+   "date": "2026-11-19T01:53:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Raja, Khosa deny internal rifts; Gohar maintains all decisions taken on Imran’s directions • PTI warns Adiala authorities against violating SC orders on ex-PM’s medical treatment • IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules ISLAMABAD: PTI Sec­r­e­tary General Salman Akram Raja and senior lawyer Sardar Latif Khosa — who were reportedly divided over the question of engaging with the establishment — appea­r­ed to have resolved their beef on Wednesday, as both leaders shook hands and declared that there was no discord within the party. Speakin",
+   "score": 4
+  },
+  {
+   "id": "5e3e85933b61",
+   "title": "FBR unveils proposed rules for faceless tax appeals",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045500/fbr-unveils-proposed-rules-for-faceless-tax-appeals",
+   "date": "2026-11-19T01:55:08Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Federal Board of Revenue (FBR) unveiled draft rules on Wednesday for its faceless income tax appeals system, eliminating the need for physical interaction between taxpayers and appellate authorities. The new system will also conceal the identity of officers responsible for deciding tax disputes. The rules are expected to be finalised this week, following feedback from stakeholders. Under the proposed system, the Commissioner (Appeals) will not be identified during hearings via video link, and their voice will be electronically modified to prevent disclosure of identity. The draf",
+   "score": 3
+  },
+  {
+   "id": "7f28fb5b563b",
+   "title": "Israel forces kill 3 Palestinians in fresh Gaza push",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045504/israel-forces-kill-3-palestinians-in-fresh-gaza-push",
+   "date": "2026-11-19T01:55:08Z",
+   "countries": [
+    "EGY",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "• Board of Peace report blames both Israel and Hamas for failure to end war • Hamas dismisses report, accuses board of ‘protecting Israel’ CAIRO: Israeli tanks advanced in an area of the central Gaza Strip on Wednesday and the Israeli military said its forces were targeting Hamas infrastructure outside areas that Israel controls in the enclave. Witnesses said some Israeli tanks rolled onto the main Salahudeen road, west of the Yellow Line that marks the boundary of the two-thirds of the Gaza Strip still under Israeli control despite a ceasefire that has lasted more than a year. An Israeli airs",
+   "score": 8
+  },
+  {
+   "id": "cef90bac3bec",
+   "title": "Leveraging the solar revolution",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045586/leveraging-the-solar-revolution",
+   "date": "2026-11-19T03:44:09Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "AT COP31, Prime Minister Shehbaz Sharif told a high-level dialogue on electrification that “an extraordinary transition has already taken place” in Pakistan: nearly 22 gigawatts of rooftop solar in two years, “a quiet revolution by ordinary citizens seeking affordable power and a cleaner, more predictable future”. More than one in 10 motorcycles sold this year, he added, was electric. He was right to showcase it. Few countries can match that speed. Fewer can accept that their citizens paid for it. Nobody planned it: capacity payments rose whether plants ran or not, the rupee fell, and the 2023",
+   "score": 2
+  },
+  {
+   "id": "1c0cbef62de2",
+   "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
+   "date": "2026-11-19T01:27:12Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
+   "score": 4
   }
  ]
 }
