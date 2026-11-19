@@ -1,7 +1,99 @@
 {
- "updated": "2026-11-18T22:12:37Z",
- "count": 420,
+ "updated": "2026-11-19T01:35:22Z",
+ "count": 423,
  "items": [
+  {
+   "id": "41d6ed39e592",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6lyw484yd70t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T01:26:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "بیانیه مشترک ایران، چین و روسیه در آژانس: تا حملات نظامی متوقف نشود امکان بازدید بازرسان ممکن نیست",
+   "title_en": "Iran, China, and Russia issue joint IAEA statement stating inspectors' visits impossible until military attacks stop",
+   "summary_en": "Ambassadors of Iran, Russia, and China to the IAEA issued a joint statement declaring that verification visits cannot resume until military attacks against Iran cease.",
+   "body_en": [
+    "The joint statement, read in Vienna by the Russian representative, emphasized that military attacks and threats against Iran violate the UN Charter and undermine the safeguards system of the International Atomic Energy Agency. The move responds to recent remarks by IAEA Director General Rafael Grossi, who asserted that verification remains the only viable way to address concerns regarding Iran's nuclear program.",
+    "Additionally, Iran's Foreign Ministry defended recent drone and missile strikes on US military bases in Kuwait and Bahrain, describing them as a legitimate defense against recent airstrikes. Meanwhile, the Iranian army reported that three oil tankers hit sea mines in the Strait of Hormuz after disabling their tracking systems."
+   ],
+   "title_fa": "بیانیه مشترک ایران، چین و روسیه در آژانس: تا حملات نظامی متوقف نشود امکان بازدید بازرسان ممکن نیست",
+   "summary_fa": "سفرای ایران، روسیه و چین در آژانس بین‌المللی انرژی اتمی با صدور بیانیه‌ای مشترک اعلام کردند که تا زمان توقف حملات نظامی علیه ایران، امکان ازسرگیری بازدید بازرسان وجود ندارد.",
+   "body_fa": [
+    "این بیانیه مشترک که توسط نماینده روسیه در وین قرائت شد، تأکید کرد که حملات نظامی و تهدید علیه ایران منشور سازمان ملل را نقض کرده و نظام پادمانی آژانس را تضعیف می‌کند. این اقدام واکنشی به اظهارات اخیر رافائل گروسی، مدیرکل آژانس است که گفته بود راستی‌آزمایی تنها راهکار برای رفع نگرانی‌ها درباره برنامه هسته‌ای ایران است.",
+    "علاوه بر این، وزارت خارجه ایران از حملات پهپادی و موشکی اخیر به پایگاه‌های نظامی آمریکا در کویت و بحرین دفاع کرده و آن را دفاع مشروع خواند. در همین حال، ارتش ایران گزارش داد که سه نفتکش پس از خاموش کردن سیستم‌های ردیابی خود در تنگه هرمز با مین‌های دریایی برخورد کرده‌اند."
+   ],
+   "title_ar": "إيران والصين ورسيا تصدران بياناً مشتركاً في الوكالة الدولية للطاقة الذرية يؤكد استحالة زيارات المفتشين حتى تتوقف الهجمات العسكرية",
+   "summary_ar": "أصدر سفراء إيران روسيا والصين لدى الوكالة الدولية للطاقة الذرية بياناً مشتركاً أعلنوا فيه أن زيارات التفتيش لا يمكن أن تستأنف حتى تتوقف الهجمات العسكرية ضد إيران.",
+   "body_ar": [
+    "أكد البيان المشترك الذي تلاه الممثل الروسي في فيينا أن الهجمات والتهديدات العسكرية ضد إيران تنتهك ميثاق الأمم المتحدة وتقوض نظام الضمانات للوكالة الدولية للطاقة الذرية. ويأتي هذا التحرك استجابة لتصريحات المدير العام للوكالة رافائيل غروسي الذي أكد أن التحقق يظل السبيل الوحيد لمعالجة المخاوف بشأن البرنامج النووي الإيراني.",
+    "بالإضافة إلى ذلك، دافعت وزارة الخارجية الإيرانية عن الهجمات الصاروخية وبطائرات بدون طيار الأخيرة على القواعد العسكرية الأمريكية في الكويت والبحرين، ووصفته بأنه دفاع مشرو. وفي الوقت نفسه، أفاد الجيش الإيراني بأن ثلاث ناقلات نفط اصطدمت بألغام بحرية في مضيق هرمز بعد تعطيل أنظمة تتبعها."
+   ]
+  },
+  {
+   "id": "06181339fac7",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+   "date": "2026-11-19T01:13:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Settler rams into Palestinians at multiple locations in central Israel",
+   "title_en": "Settler rams into Palestinians at multiple locations in central Israel",
+   "summary_en": "At least eight Palestinians were injured after a settler driver intentionally ran them over at multiple locations in the Arab town of Kafr Qasim.",
+   "body_en": [
+    "At least eight individuals sustained injuries during the incident in central Israel. Security footage captured the settler vehicle striking pedestrians at different spots within the town.",
+    "No further details regarding the conditions of the injured or the identity of the driver were immediately available in the brief report."
+   ],
+   "title_fa": "یک شهرک‌نشین با خودرو به فلسطینی‌ها در چندین نقطه در مرکز اسرائیل حمله کرد",
+   "summary_fa": "دستکم هشت فلسطینی پس از آنکه یک راننده شهرک‌نشین آن‌ها را در چندین نقطه در شهر عرب‌نشین کفارقاسم زیر گرفت، زخمی شدند.",
+   "body_fa": [
+    "حداقل هشت نفر در جریان این حادثه در مرکز اسرائیل دچار جراحت شدند. تصاویر دوربین‌های امنیتی نشان داد که خودروی شهرک‌نشین عابران پیاده را در نقاط مختلف شهر هدف قرار داده است.",
+    "جزئیات بیشتری در خصوص وضعیت مصدومان یا هویت راننده در گزارش کوتاه منتشر نشده است."
+   ],
+   "title_ar": "مستوطن يدهس فلسطينيين في عدة مواقع وسط إسرائيل",
+   "summary_ar": "أصيب ما لا يقل عن ثمانية فلسطينيين بعد أن دهسهم سائق مستوطن عمداً في عدة مواقع في مدينة كفر قاسم العربية.",
+   "body_ar": [
+    "أصيب ما لا يقل عن ثمانية أشخاص خلال الحادث الذي وقع وسط إسرائيل. التقطت كاميرات المراقبة سيارة المستوطن وهي تصدم المشاة في أماكن مختلفة داخل البلدة.",
+    "لم تتوفر تفاصيل إضافية بشأن حالة المصابين أو هوية السائق في التقرير الموجز."
+   ]
+  },
+  {
+   "id": "aee112598660",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+   "date": "2026-11-18T22:56:19Z",
+   "countries": [
+    "IRN",
+    "LBN"
+   ],
+   "score": 7,
+   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "title_en": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "summary_en": "The United States announced new sanctions targeting a Lebanese association and individuals accused of acting as front organizations and funnelling funds to Hezbollah.",
+   "body_en": [
+    "The US Treasury designated the Wa Ta’awanu Association, along with its founder and two businessman brothers accused of transferring money from Iran to Hezbollah. Treasury Secretary Scott Bessent stated that the Iranian regime's attempts to infringe on Lebanon's sovereignty through proxies will not be tolerated.",
+    "The measures are part of a broader effort by the administration of President Donald Trump to dismantle Hezbollah's financial networks. The US continues to maintain military pressure, including a naval blockade and a recent deployment of the aircraft carrier USS Theodore Roosevelt to the Middle East."
+   ],
+   "title_fa": "ایالات متحده با تحریم‌های جدید فشار بر حزب‌الله وابسته به ایران را افزایش داد",
+   "summary_fa": "ایالات متحده تحریم‌های جدیدی را با هدف قرار دادن یک انجمن لبنانی و افرادی که متهم به فعالیت به عنوان سازمان‌های پوششی و انتقال پول به حزب‌الله هستند، اعلام کرد.",
+   "body_fa": [
+    "خزانه‌داری آمریکا انجمن «التعاونو» به همراه بنیان‌گذار آن و دو برادر بازرگان را که متهم به انتقال پول از ایران به حزب‌الله هستند، در فهرست تحریم‌ها قرار داد. اسکات بسنت، وزیر خزانه‌داری آمریکا اظهار داشت که تلاش‌های رژیم ایران برای نقض حاکمیت لبنان از طریق نیابت‌ها تحمل نخواهد شد.",
+    "این اقدامات بخشی از تلاش گسترده‌تر دولت دونالد ترامپ برای برچیدن شبکه‌های مالی حزب‌الله است. ایالات متحده همچنان به حفظ فشار نظامی، از جمله محاصره دریایی و اعزام ناو هواپیمابر یواس‌اس تئودور روزولت به خاورمیانه ادامه می‌دهد."
+   ],
+   "title_ar": "الولايات المتحدة تكثف الضغط على حزب الله المدعوم من إيران بفرض عقوبات جديدة",
+   "summary_ar": "أعلنت الولايات المتحدة عن عقوبات جديدة تستهدف جمعية لبناني وأفراد متهمين بالعمل كواجهات وتمويل حزب الله.",
+   "body_ar": [
+    "أدرجت وزارة الخزانة الأمريكية جمعية «تعاونوا» إلى جانب مؤسسها وشقيقين رجلين أعمال متهمين بنقل الأموال من إيران إلى حزب الله. وصرح وزير الخزانة سكوت بيسنت بأن محاولات النظام الإيراني انتهاك سيادة لبنان عبر الوكلاء لن يتم التسامح معها.",
+    "وتأتي هذه الإجراءات كجزء من جهود أوسع تبذلها إدارة الرئيس دونالد ترامب لتفكيك شبكات حزب الله المالية. وتواصل الولايات المتحدة الحفاظ على الضغط العسكري، بما في ذلك الحصار البحري والنشر الأخير لحاملة الطائرات يو إس إس ثيودور روزفلت في الشرق الأوسط."
+   ]
+  },
   {
    "id": "c3261a1d086e",
    "lang": "en",
@@ -761,6 +853,36 @@
    ]
   },
   {
+   "id": "66665878a2b6",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
+   "date": "2026-11-18T02:47:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 8,
+   "title": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+   "title_en": "Man sentenced to over 27 years in US for plot to assassinate Trump",
+   "summary_en": "A US court has sentenced a Pakistani man to more than 27 years in prison for plotting to assassinate President Donald Trump and other prominent American politicians.",
+   "body_en": [
+    "Asif Merchant, 48, was sentenced to 330 months in prison after being convicted of attempting to commit an act of terrorism transcending national boundaries and murder for hire. Prosecutors stated that Merchant attempted to recruit individuals in the US to target Trump, then-President Joe Biden, and Nikki Haley in retaliation for the 2020 US assassination of Iranian military commander Qassem Soleimani.",
+    "During his trial, Merchant testified that he joined the plot involving Iran’s Islamic Revolutionary Guard Corps to protect his family in Tehran, though law enforcement thwarted the plan before any attacks occurred. Tehran has denied involvement in the plot."
+   ],
+   "title_fa": "محکومیت بیش از ۲۷ سال زندان در آمریکا برای مرد متهم به توطئه ترور ترامپ",
+   "summary_fa": "یک دادگاه در ایالات متحده یک مرد پاکستانی را به جرم توطئه برای ترور دونالد ترامپ و سایر سیاستمداران برجسته آمریکایی به بیش از ۲۷ سال زندان محکوم کرد.",
+   "body_fa": [
+    "آسیف مرچنت ۴۸ ساله، پس از محکومیت به تلاش برای انجام یک اقدام تروریستی فرامرزی و قتل دستمزدی، به ۳۳۰ ماه زندان محکوم شد. دادستان‌ها اعلام کردند که مرچنت تلاش کرده بود افرادی را در ایالات متحده برای هدف قرار دادن ترامپ، جو بایدن رئیس‌جمهور وقت، و نیکی هیلی در تلافی ترور قاسم سلیمانی، فرمانده نظامی ایران در سال ۲۰۲۰ توسط آمریکا، استخدام کند.",
+    "مرچنت در جریان محاکمه شهادت داد که برای محافظت از خانواده‌اش در تهران به توطئه‌ای مرتبط با سپاه پاسداران انقلاب اسلامی ایران پیوسته است، هرچند مجریان قانون این نقشه را قبل از وقوع هرگونه حمله خنثی کردند. تهران دست داشتن در این توطئه را رد کرده است."
+   ],
+   "title_ar": "الحکم بالسجن أکثر من 27 عاماً فی الولایات المتحدة على رجل أدين بالتخطيط لاغتيال ترامب",
+   "summary_ar": "حكمت محكمة أمريكية على رجل باكستاني بالسجن لأكثر من 27 عاماً بتهمة التخطيط لاغتيال الرئيس دونالد ترامب وغيره من السياسيين الأمريكيين البارزين.",
+   "body_ar": [
+    "حُكم على آسيف مرشانت (48 عاماً) بالسجن لمدة 330 شهراً بعد إدانته بمحاولة ارتكاب عمل إرهابي عابر للحدود الوطنية والقتل مقابل أجور. وذكر المدعون أن مرشانت حاول تجنيد أشخاص في الولایات المتحدة استهدافاً لترامب والرئيس آنذاك جو بايدن ونيكي הייلي رداً على اغتيال الولايات المتحدة للقائد العسكري الإيراني قاسم سليماني عام 2020.",
+    "أثناء محاكمته، شهد مرشانت أنه انضم إلى المؤامرة التي شملت الحرس الثوري الإيراني لحماية عائلته في طهران، رغم أن سلطات إنفاذ القانون أحبطت المخطط قبل وقوع أي هجمات. وقد نفت طهران تورطها في المؤامرة."
+   ]
+  },
+  {
    "id": "223cef3fa943",
    "lang": "en",
    "source": "France 24",
@@ -820,33 +942,6 @@
    "body_ar": [
     "حذر مجلس السلام، في تقرير قُدم إلى مجلس الأمن الدولي يوم الثلاثاء، من أن الهدنة بين إسرائيل وحماس على حافة الانهيار بسبب عدم الالتزام باتفاق وقف إطلاق النار لعام 2025. وأشار المجلس إلى أن القيود الإسرائيلية المستمرة على إدخال المساعدات، ونقص التمويل، وعرقلة إنشاء إدارة مدنية مؤقتة، لا تزال تعيق جهود الإعمار والإغاثة.",
     "دعا المجلس مجلس الأمن الدولي إلى الضغط على الجانبين للوفاء بالتزاماتهما، محذراً من أن انهيار الهدنة لن يترك أي خارطة طريق للتعافي أو مساراً نحو إقامة دولة فلسطينية."
-   ]
-  },
-  {
-   "id": "d0399a8b5041",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
-   "date": "2026-11-18T00:47:02Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-   "title_en": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-   "summary_en": "Matan Kahana, an ally of Gadi Eisenkot, has been elected as the new speaker of the Israeli parliament with the support of Arab parties.",
-   "body_en": [
-    "Kahana's election comes as Eisenkot's party works to form the next government and replace Benjamin Netanyahu."
-   ],
-   "title_fa": "متن کاهانا، متحد گادی آیزنکوت، با حمایت فراکسیون عربی به عنوان رئیس کنست انتخاب شد",
-   "summary_fa": "متن کاهانا، متحد گادی آیزنکوت، با حمایت احزاب عربی به عنوان رئیس جدید پارلمان اسرائیل انتخاب شد.",
-   "body_fa": [
-    "انتخاب کاهانا در حالی انجام می‌شود که حزب متبوع آیزنکوت در تلاش است تا دولت آینده را تشکیل دهد و جایگزین بنیامین نتانیاهو شود."
-   ],
-   "title_ar": "انتخاب حليف غادي آيزنكوت رئيساً للكنيست بدعم من القائمة العربية",
-   "summary_ar": "انتخاب متان كاهانا، حليف غادي آيزنكوت، رئيساً جديداً للبرلمان الإسرائيلي بدعم من الأحزاب العربية.",
-   "body_ar": [
-    "يأتي انتخاب كاهانا في الوقت الذي يعمل فيه حزب آيزنكوت على تشكيل الحكومة القادمة وإبدال بنيامين نتنياهو."
    ]
   },
   {

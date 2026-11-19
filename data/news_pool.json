@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:12:37Z",
+ "updated": "2026-11-19T01:35:22Z",
  "items": [
   {
    "id": "f750f2f3295c",
@@ -114,7 +114,8 @@
     "PAK"
    ],
    "desc": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
-   "score": 7
+   "score": 7,
+   "dup_of": "66665878a2b6"
   },
   {
    "id": "39b570cca86c",
@@ -339,8 +340,7 @@
     "PAK"
    ],
    "desc": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesday. “Earlier today, in federal court in Brooklyn, Asif Merchant, 48, of Pakistan, was sentenced by US District Judge Eric R Komitee to 330 months in prison for attempting to commit an act of terrorism transcending national boundaries and murder for hire,” the DOJ said in a statement . Prosecutors said Merchant tried to recruit people in the US in a plan targeting Trump and other",
-   "score": 8,
-   "dup_of": "b33391a7cfd0"
+   "score": 8
   },
   {
    "id": "cf8c5c4c6619",
@@ -1763,6 +1763,339 @@
     "YEM"
    ],
    "desc": "أعلن التحالف بقيادة السعودية، اعتراض وتدمير طائرتين مسيرتين إحداهما في منطقة الرياض والأخرى في المنطقة الجنوبية أطلقهما الحوثيون اليمنيون المدعومون من إيران.",
+   "score": 8
+  },
+  {
+   "id": "cd24719f402d",
+   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T23:04:06Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "No state has ever been found guilty by an international court of committing genocide.",
+   "score": 8,
+   "dup_of": "7f602e2f6454"
+  },
+  {
+   "id": "06181339fac7",
+   "title": "Settler rams into Palestinians at multiple locations in central Israel",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+   "date": "2026-11-19T01:13:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+   "score": 6
+  },
+  {
+   "id": "c69230f31116",
+   "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+   "date": "2026-11-19T00:01:02Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
+   "score": 9,
+   "dup_of": "223cef3fa943"
+  },
+  {
+   "id": "6f64192690ca",
+   "title": "Israel uses Gaza swimming video to minimise winter hardships",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+   "date": "2026-11-18T23:53:21Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+   "score": 4
+  },
+  {
+   "id": "aee112598660",
+   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+   "date": "2026-11-18T22:56:19Z",
+   "countries": [
+    "IRN",
+    "LBN"
+   ],
+   "desc": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+   "score": 7
+  },
+  {
+   "id": "170e9cf5765c",
+   "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
+   "date": "2026-11-18T21:53:17Z",
+   "countries": [
+    "IRQ",
+    "SYR"
+   ],
+   "desc": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
+   "score": 6
+  },
+  {
+   "id": "a2c3574e4f0c",
+   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "date": "2026-11-18T23:25:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents. Israeli tanks rolled along the Salah al-Din road , Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasefire, accused Israel and Hamas of failing to honour their commitments to end host",
+   "score": 9,
+   "dup_of": "c3261a1d086e"
+  },
+  {
+   "id": "d689e3e3c930",
+   "title": "Saudi defence minister meets with Centcom chief",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-minister-meets-centcom-chief",
+   "date": "2026-11-19T01:18:58Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi defence minister meets with Centcom chief Saudi Arabia's Minister of Defense Prince Khalid bin Salman bin Abdulaziz met the chief of the US Central Command (Centcom) US Central Command in Riyadh. According to the Saudi Press Agency, they discussed defence cooperation between the two countries alongside efforts to promote security, stability and peace in the region. Several other officials were in attendance of the meeting.",
+   "score": 6,
+   "dup_of": "816113dea507"
+  },
+  {
+   "id": "8f1e87e3b03d",
+   "title": "Israeli driver reportedly runs over eight Palestinians in Kafr Qasim",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-driver-reportedly-runs-over-eight-palestinians-kafr-qasim",
+   "date": "2026-11-19T00:35:02Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli driver reportedly runs over eight Palestinians in Kafr Qasim Eight Palestinians, including four women, were injured on Wednesday when an Israeli settler reportedly deliberately ran them over at five different locations in Kafr Qassem. So far, surveillance footage has emerged showing two of the eight people being run over. Several victims sustained moderate injuries and were taken to hospital.",
+   "score": 6,
+   "dup_of": "06181339fac7"
+  },
+  {
+   "id": "bdc68824a670",
+   "title": "Coalition says missile launch platform destroyed in Saada",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-says-missile-launch-platform-destroyed-saada",
+   "date": "2026-11-18T23:28:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Coalition says missile launch platform destroyed in Saada The Saudi-led coalition fighting Yemen’s Houthis said that its forces had destroyed a ballistic missile launch platform in Saada, Yemen. A spokesman for the coalition accused Houthi forces of using the platform in an attempt to attack the southern region earlier on Wednesday.",
+   "score": 7,
+   "dup_of": "c84a640608d2"
+  },
+  {
+   "id": "3f69ab2e4bbf",
+   "title": "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-defence-minister-discusses-defence-cooperation-us-centcom-chief",
+   "date": "2026-11-18T23:19:58Z",
+   "countries": [
+    "SAU"
+   ],
+   "desc": "Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh Saudi Arabian Defence Minister Prince Khalid bin Salman and the US Central Command (Centcom) chief Admiral Brad Cooper met in Riyadh to discuss defence cooperation and ways to achieve security, stability and peace in the region. This comes after Saudi Arabia reported attempted Houthi strikes over Riyadh and its southern region earlier on Wednesday.",
+   "score": 6,
+   "dup_of": "d689e3e3c930"
+  },
+  {
+   "id": "2b3100917282",
+   "title": "Tanker struck by unknown projectile near Oman's Khasab, UKMTO says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-struck-unknown-projectile-near-omans-khasab-ukmto-says",
+   "date": "2026-11-18T23:13:28Z",
+   "countries": [
+    "OMN"
+   ],
+   "desc": "Tanker struck by unknown projectile near Oman's Khasab, UKMTO says A tanker was struck by an unknown projectile in its engine room while sailing outbound through the Strait of Hormuz, 6 nautical miles north of Oman's Khasab, the United Kingdom Maritime Trade Operations (UKMTO) said on Wednesday. The crew were reported safe, but the extent of the damage and any environmental impact remained unknown, UKMTO added. 20261118 UKMTO WARNING 212-26 #MaritimeSecurity #MarSec https://t.co/N8dWKop6zH — UKMTO Operations Centre (@UK_MTO) November 18, 2026",
+   "score": 8,
+   "dup_of": "78f74af01219"
+  },
+  {
+   "id": "16b4f5792b83",
+   "title": "Qatar condemns Israeli incursions into Syria",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-condemns-israeli-incursions-syria",
+   "date": "2026-11-18T22:26:34Z",
+   "countries": [
+    "ISR",
+    "QAT",
+    "SYR"
+   ],
+   "desc": "Qatar condemns Israeli incursions into Syria Qatar has condemned the Israeli military’s continued incursions into Syrian governorates Quneitra and Deraa as a “flagrant violation” of Syria’s sovereignty, a breach of international law and a threat to regional security. In a statement, the Qatari Ministry of Foreign Affairs condemned its repeated attacks on civilians, including women, children and the elderly and called on the international community to take action compelling Israel to comply with the 1974 Agreement on Disengagement with Syria. This comes after Israel's defence minister said the ",
+   "score": 6,
+   "dup_of": "2c71fa91d104"
+  },
+  {
+   "id": "7ab375fcff41",
+   "title": "Critics accuse The New York Times of promoting Iran war propaganda",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/critics-accuse-new-york-times-promoting-iran-war-propaganda",
+   "date": "2026-11-18T21:56:22Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Critics accuse The New York Times of promoting Iran war propaganda The New York Times (NYT) is facing widespread criticism over its report claiming that some of Iran's water infrastructure may have been built to support its missile programme, with critics accusing the newspaper of promoting war propaganda and providing a justification for attacks on Iranian civilian infrastructure. Published on Monday with the headline \"War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason\", the article examines the geographical overlap between dam and water infrastructure projects and sites",
+   "score": 3
+  },
+  {
+   "id": "a46e0e3da472",
+   "title": "Israeli court extends detention of Gaza doctor Hussam Abu Safia",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-court-extends-detention-gaza-doctor-hussam-abu-safia",
+   "date": "2026-11-18T21:53:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli court extends detention of Gaza doctor Hussam Abu Safia Dr Hussam Abu Safia will remain in Israeli detention for at least another six months, after a court extended his detention without bringing any charges against him. The decision, handed down by a court in Beersheba, came despite mounting concerns over the deteriorating health of the Palestinian doctor, who was seized by Israeli forces in late 2024 after refusing to abandon the Kamal Adwan Hospital he headed in response to Israeli evacuation orders. Physicians for Human Rights Israel said the court had rejected a request for his re",
+   "score": 6,
+   "dup_of": "7512ebe45fae"
+  },
+  {
+   "id": "2b24dbf2f86c",
+   "title": "'Turn on the weapons spigot': Saudi Arabia asks partners for gear to deter Houthis",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/turn-weapons-spigot-saudi-arabia-asks-partners-gear-deter-houthis",
+   "date": "2026-11-18T21:46:20Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "'Turn on the weapons spigot': Saudi Arabia asks partners for gear to deter Houthis Saudi Arabia gathered western partners in Riyadh this week with a request: turn on the weapons spigot to help the kingdom in its war with the Houthis in Yemen, three western officials familiar with the meetings told Middle East Eye. The sources said that Saudi Arabia is seeking weapons supplies to “deter” Houthi attacks, as it prepares for a drawn-out conflict. “Saudi Arabia is in the market,” one of the officials told MEE. Saudi Arabia's search for fresh armaments has also extended to Middle Eastern allies that",
+   "score": 8,
+   "dup_of": "a4f29d842b8e"
+  },
+  {
+   "id": "2f756e1edca4",
+   "title": "Israeli forces say ground operation in Gaza to dismantle Hamas tunnels",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-say-ground-operation-gaza-dismantle-hamas-tunnels",
+   "date": "2026-11-18T20:48:30Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli forces say ground operation in Gaza to dismantle Hamas tunnels Israeli forces said on Wednesday that they launched a new military operation in Gaza to dismantle a tunnel west of the \"Yellow Line\". The Israeli military said in a statement that the army and the internal security agency Shin Bet launched the joint operation to \"dismantle a terror tunnel west of the Yellow Line that posed an immediate and direct threat to IDF troops\". The Yellow Line separates the Palestinian and Israeli-controlled areas in Gaza, with the Israeli army saying it controls more than 60 percent of the strip, a",
+   "score": 9,
+   "dup_of": "c3261a1d086e"
+  },
+  {
+   "id": "3e42d3d77b84",
+   "title": "Iran's navy says three oil tankers caught fire east of Hormuz",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-says-three-oil-tankers-caught-fire-east-hormuz",
+   "date": "2026-11-18T20:34:34Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran's navy says three oil tankers caught fire east of Hormuz The Iranian navy said on Wednesday that three oil tankers caught fire and were disabled after hitting naval mines while sailing east of the Strait of Hormuz, according to Iran's Press TV. In a statement carried by the IRIB news agency, Iran's Islamic Revolutionary Guard Corps (IRGC) said the tankers had ignored warnings from its naval forces as they navigated in restricted areas with navigation systems disabled and passage through the waterway must be coordinated with Iranian authorities.",
+   "score": 8,
+   "dup_of": "78f74af01219"
+  },
+  {
+   "id": "fc016112bddb",
+   "title": "Houthis say they targeted King Khalid Airport and financial centre in Riyadh",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-king-khalid-airport-and-financial-centre",
+   "date": "2026-11-18T20:29:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthis say they targeted King Khalid Airport and financial centre in Riyadh Yemen's Houthi forces spokesperson Yahya Saree said that the group had targeted King Khalid International Airport and the financial centre in Riyadh with a large number of cruise missiles on Wednesday, Reuters reported. The Houthis also claimed attacks on two targets in Saudi Arabia's southern cities of Jazan and Khamis Mushait. Saudi Arabia has not yet confirmed or denied the claims, but Saudi-led coalition forces said earlier that two drones had been intercepted and destroyed while flying over Riyadh and the country",
+   "score": 8,
+   "dup_of": "c38836769a39"
+  },
+  {
+   "id": "e1f4f2e4a9e9",
+   "title": "Israeli air strike targets southern Lebanon's Qantara",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-targets-southern-lebanons-qantara",
+   "date": "2026-11-18T20:13:45Z",
+   "countries": [
+    "ISR",
+    "LBN",
+    "PSE",
+    "SYR"
+   ],
+   "desc": "Israeli air strike targets southern Lebanon's Qantara Israel has targeted the town of Qantara in Marjayoun, southern Lebanon, with an air strike, Al Jazeera reported on Wednesday. Earlier, Israeli Defence Minister Israel Katz said that the country will continue to occupy Lebanon, Gaza and Syria indefinitely until all armed groups are dismantled.",
+   "score": 7,
+   "dup_of": "bdaf966e025b"
+  },
+  {
+   "id": "81c4a430622f",
+   "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
+   "date": "2026-11-18T19:54:28Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Pakistan’s mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs, industry figures showed on Wednesday. According to All Pakistan Fruit and Vegetables Exporters Association, the country exported 78,000 tonnes of mangoes this year, compared with 123,000 tons last year. Exports to the Middle East, a major market for Pakistani mangoes, dropped from 36,000 tonnes last year to 14,500 tonnes this year, the association said. Waheed Ahmed, head of the association, told Anadolu that the ongoing conflict had reduced the country’s mango export ea",
+   "score": 4
+  },
+  {
+   "id": "91eeef23a4b6",
+   "title": "All-too fallible: On India’s vote against moratorium on death penalty",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-on-indias-vote-against-moratorium-on-death-penalty/article71713256.ece",
+   "date": "2026-11-18T02:55:25Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Death penalty requires a near-infallible criminal justice system",
+   "score": 3
+  },
+  {
+   "id": "41d6ed39e592",
+   "title": "بیانیه مشترک ایران، چین و روسیه در آژانس: تا حملات نظامی متوقف نشود امکان بازدید بازرسان ممکن نیست",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c6lyw484yd70t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T01:26:08Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "سفرای ایران، روسیه و چین در آژانس بین‌المللی انرژی اتمی با صدور بیانیه‌ای مشترک به سخنان رافائل گروسی پاسخ دادند و گفتند از نظر آنها تا زمان توقف حملات نظامی علیه ایران زمینه برای بازدید بازرسان آژانس فراهم نخواهد شد. وزارت خارجه ایران هم سخنان آقای گروسی را «ضدایرانی» خوانده و از آن انتقاد کرده است. مدیرکل آژانس پیش از جلسه روز چهارشنبه شورای حکام گفته بود راستی‌آزمایی بازرسان آژانس از فعالیت‌های هسته‌ای ایران تنها سازوکار برای برطرف کردن نگرانی‌ها است.",
    "score": 8
   }
  ]
