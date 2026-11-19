@@ -1,7 +1,68 @@
 {
- "updated": "2026-11-19T16:23:24Z",
- "count": 449,
+ "updated": "2026-11-19T19:20:29Z",
+ "count": 450,
  "items": [
+  {
+   "id": "d377a78919f3",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-military-says-it-killed-22-militants-in-raids-on-hideouts/article71721607.ece",
+   "date": "2026-11-19T17:51:31Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Pakistan military says it killed 22 militants in raids on hideouts",
+   "title_en": "Pakistan military says it killed 22 militants in raids on hideouts",
+   "summary_en": "Pakistani security forces killed 22 militants during intelligence-based raids in the country's northwest, according to the military.",
+   "body_en": [
+    "The military stated Thursday that the operations took place over the preceding 48 hours across the South Waziristan, Bannu, and Tank districts of Khyber Pakhtunkhwa province. Officials alleged that the slain militants were backed by neighboring India, though New Delhi has previously denied such accusations.",
+    "President Asif Ali Zardari and Prime Minister Shehbaz Sharif praised the security forces in separate statements and vowed to continue operations against foreign-backed militancy. Security forces have faced a surge in militant attacks in recent years, largely attributed to the Tehrik-e-Taliban Pakistan and allied groups."
+   ],
+   "title_fa": "ارتش پاکستان از کشته شدن ۲۲ ستیزه‌جو در حملات به مخفیگاه‌ها خبر داد",
+   "summary_fa": "به گفته ارتش پاکستان، نیروهای امنیتی این کشور طی عملیات‌های اطلاعاتی در شمال غربی این کشور ۲۲ ستیزه‌جو را کشتند.",
+   "body_fa": [
+    "ارتش روز پنجشنبه اعلام کرد که این عملیات طی ۴۸ ساعت گذشته در مناطق وزیرستان جنوبی، بنو و تانک در ایالت خیبرپختونخوا انجام شده است. مقامات ادعا کردند که ستیزه‌جویان کشته شده توسط هند همسایه حمایت می‌شدند، هرچند دهلی نو چنین اتهاماتی را رد کرده است.",
+    "آصف علی زرداری، رئیس‌جمهور و شهباز شریف، نخست‌وزیر در بیانیه‌های جداگانه از نیروهای امنیتی تمجید کرده و متعهد شدند که به عملیات علیه تروریسم حمایت‌شده خارجی ادامه دهند. نیروهای امنیتی در سال‌های اخیر شاهد افزایش حملات ستیزه‌جویان بوده‌اند که عمدتاً به تحریک طالبان پاکستان و گروه‌های هم‌پیمان نسبت داده می‌شود."
+   ],
+   "title_ar": "الجيش الباكستاني يعلن مقتل 22 مسلماً في غارات على مخابئ",
+   "summary_ar": "أعلن الجيش الباكستاني أن قوات الأمن قتلت 22 مسلماً خلال غارات استخباراتية في شمال غرب البلاد.",
+   "body_ar": [
+    "ذكر الجيش يوم الخميس أن العمليات جرت خلال الـ 48 ساعة الماضية في مناطق وزيرستان الجنوبية وبانو وتانك في إقليم خيبر بختونخوا. وزعم المسؤولون أن المسلحين القتلى مدعومون من الهند المجاورة، رغم أن نيو دلي نفت مثل هذه الاتهامات مسبقاً.",
+    "أشاد الرئيس آصف علي زرداري ورئيس الوزراء شهباز شریف في بيانين منفصلين بقوات الأمن وتعهدبا بمواصلة العمليات ضد المسلحين المدعومين من الخارج. واجهت قوات الأمن تصاعداً في هجمات المسلحين في السنوات الأخيرة، والتي تُنسب بمعظمها إلى حركة طالبان پاکستان والجماعات الحليفة."
+   ]
+  },
+  {
+   "id": "18b9e87b4888",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+   "date": "2026-11-19T16:59:38Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 6,
+   "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+   "title_en": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+   "summary_en": "The besieged Yemeni city of Taiz is facing a severe water crisis and a near-halving of water production following recent Houthi encirclement.",
+   "body_en": [
+    "According to local officials, water production capacity has dropped significantly after the Houthis seized control of the Hadhran al-Dhabab external wellfield and as emergency wells within the city stopped operating due to diesel shortages. Residents report having to pay double the price for water tankers amid rising economic pressures and restrictions at checkpoints.",
+    "Hospital administrators have warned of a potential public health disaster due to the lack of safe drinking water and uncollected rubbish. The United Nations children’s agency reported that over 800,000 people in the area have been cut off from humanitarian assistance."
+   ],
+   "title_fa": "شهر محاصره‌شده تعز در یمن با بحران عمیق آب روبروست",
+   "summary_fa": "شهر محاصره‌شده تعز در یمن به دنبال محاصره اخیر حوثی‌ها با بحران شدید آب و کاهش نزدیک به نیمی از تولید آب مواجه است.",
+   "body_fa": [
+    "به گفته مقامات محلی، ظرفیت تولید آب پس از تصرف چاه‌های خارجی حذران الضباب توسط حوثی‌ها و توقف فعالیت چاه‌های اضطراری درون شهر به دلیل کمبود گازوئیل، به شدت کاهش یافته است. ساکنان گزارش می‌دهند که در میان فشارهای رو به رشد اقتصادی و محدودیت‌ها در ایست‌های بازرسی، مجبورند بهای تانکرهای آب را دو برابر پرداخت کنند.",
+    "مدیران بیمارستان‌ها نسبت به وقوع یک فاجعه بهداشتی احتمالی به دلیل کمبود آب آشامیدنی سالم و زباله‌های جمع‌آوری‌نشده هشدار داده‌اند. آژانس کودکان سازمان ملل متحد گزارش داد که بیش از ۸۰۰ هزار نفر در این منطقه از کمک‌های بشردوستانه محروم شده‌اند."
+   ],
+   "title_ar": "مدينة تعز المحاصرة في اليمن تواجه أزمة مياه متفاقمة",
+   "summary_ar": "تواجه مدينة تعز اليمنية المحاصرة أزمة مياه حادة وانخفاضاً يقارب النصف في إنتاج المياه عقب الحصار الأخير الذي فرضه الحوثيون.",
+   "body_ar": [
+    "وفقاً للمسؤولين المحليين، انخفضت سعة إنتاج المياه بشكل كبير بعد سيطرة الحوثيون على حقل آبار حذران الضباب الخارجي وتوقف الآبار الطارئة داخل المدينة عن العمل بسبب نقص الديزل. ويفيد السكان بأنهم مضطرون لدفع ضعف سعر صهاريج المياه وسط ضغوط اقتصادية متزايدة القيود عند نقاط التفتيش.",
+    "حذر مدراء المستشفيات من كارثة صحية عامة محتملة بسبب نقص مياه الشرب الآمنة والقمامة غير المرفوعة. وأفادت منظمة الطفولة التابعة للأمم المتحدة أن أكثر من 800 ألف شخص في المنطقة انقطعوا عن المساعدات الإنسانية."
+   ]
+  },
   {
    "id": "03d140e26e75",
    "lang": "en",
@@ -233,37 +294,6 @@
    "body_ar": [
     "وفي حديثه لقناة فوكس نيوز، زعم ترامب أن طهران ابتعدت عن تطوير القدرات النووية وتتطلع الآن إلى الغازات والأسلحة البيولوجية. وتأتي تصريحاته في أعقاب تقرير لشبكة سي إن إن يشير إلى أن الاستخبارات الأمريكية ترى أن إيران قد تخطط استهداف كبار مسؤولي الإدارة الأمريكية في واشنگتن بسلاح كيميائي.",
     "وفي حين ذكر وزير الخارجية الأمريكي ماركو روبيو ووزير الأمن الداخلي ماركواين مولين عدم وجود تهديد وشيك، لا تزال وكالات الاستخبارات الغربية والمحللون منقسمين حول قدرات إيران غير التقليدية المحتملة وبرامجها البحثية التاريخية."
-   ]
-  },
-  {
-   "id": "4ff7bc330d91",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045680/airspace-ban-on-indian-aircraft-extended-till-dec-23",
-   "date": "2026-11-19T11:33:58Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Airspace ban on Indian aircraft extended till Dec 23",
-   "title_en": "Airspace ban on Indian aircraft extended till Dec 23",
-   "summary_en": "Pakistan has extended its airspace ban on Indian-registered, operated, owned, or leased aircraft, including military flights, until December 24. The restriction applies to both the Karachi and Lahore flight information regions.",
-   "body_en": [
-    "A Notice to Airmen issued by the Pakistan Airports Authority specifies that the closure will remain in place until 04:59am PST on December 24 (23:59pm UTC on December 23). The measure extends a previous ban that was set to expire on November 24.",
-    "The airspace restrictions were originally imposed in late April 2025 amid escalating military tensions following a deadly attack in Pahalgam, in Indian-occupied Kashmir. The prolonged closure has required Indian carriers to reroute international flights, resulting in longer journey times and increased fuel expenses."
-   ],
-   "title_fa": "ممنوعیت حریم هوایی برای هواپیماهای هندی تا ۲۳ دسامبر تمدید شد",
-   "summary_fa": "پاکستان ممنوعیت حریم هوایی خود را برای هواپیماهای ثبت‌شده، مالکیت یافته، یا اجاره‌شده توسط هند، از جمله پروازهای نظامی، تا ۲۴ دسامبر تمدید کرده است. این محدودیت شامل هر دو منطقه اطلاعات پروازی کراچی و لاهور می‌شود.",
-   "body_fa": [
-    "بر اساس اطلاعیه هوانوردی صادر شده از سوی سازمان فرودگاه‌های پاکستان، این ممنوعیت تا ساعت ۴:۵۹ صبح ۲۴ دسامبر به وقت محلی (۲۳:۵۹ روز ۲۳ دسامبر به وقت جهانی) ادامه خواهد داشت. این اقدام تمدید ممنوعیت قبلی است که قرار بود ۲۴ نوامبر منقضی شود.",
-    "محدودیت‌های حریم هوایی در اواخر آوریل ۲۰۲۵ در پی افزایش تنش‌های نظامی پس از حمله مرگبار در پهلگام در کشمیر تحت کنترل هند اعمال شد. این تعطیلی طولانی‌مدت موجب تغییر مسیر پروازهای بین‌المللی شرکت‌های هندی، افزایش زمان سفر و رشد هزینه‌های سوخت شده است."
-   ],
-   "title_ar": "تمديد حظر المجال الجوي على الطائرات الهندية حتى 23 ديسمبر",
-   "summary_ar": "مددت پاکستان حظر مجالها الجوي أمام الطائرات المسجلة في الهند أو المملوكة أو المشغلة أو المستأجرة من قبل شركات هندية، بما في ذلك الرحلات العسكرية، حتى 24 ديسمبر. ويسري الحظر على منطقتي معلومات الطيران في كراتشي ولاهور.",
-   "body_ar": [
-    "وأوضح إشعار موجه للطيارين صادر عن سلطة المطارات الباكستانية أن الإغلاق سيستمر حتى الساعة 04:59 صباحاً بتوقيت باكستان في 24 ديسمبر (23:59 بتوقيت غرينتش في 23 ديسمبر). ويمدد هذا الإجراء حظراً سابقاً كان من المقرر أن ينتهي في 24 نوفمبر.",
-    "وكانت قيود المجال الجوي قد فرضت في أواخر أبريل 2025 إثر تصاعد التوترات العسكرية عقب هجوم في باهالجام بكشمير الخاضعة للإدارة الهندية. وأدى تمديد الإغلاق إلى إجبار الناقلات الهندية على تغيير مسار رحلاتها الدولية، مما زاد من مدة الرحلات وتكاليف الوقود."
    ]
   },
   {

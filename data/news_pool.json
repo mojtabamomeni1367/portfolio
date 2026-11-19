@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:23:24Z",
+ "updated": "2026-11-19T19:20:29Z",
  "items": [
   {
    "id": "f750f2f3295c",
@@ -3338,6 +3338,217 @@
    "desc": "تبقى أسئلة أساسية من دون إجابات نهائية: من بينها هوية المسؤولين عن حريق المسجد؛ وما إذا كان حادث الدهس متعمداً..",
    "score": 7,
    "dup_of": "9a1e955c77aa"
+  },
+  {
+   "id": "11685b3b01c1",
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:55:57Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "score": 9,
+   "dup_of": "8c1c643d01f2"
+  },
+  {
+   "id": "fc0b4dc161ad",
+   "title": "Indian driver wins $1.3m in life-changing lottery prize",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:38:09Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+   "score": 2
+  },
+  {
+   "id": "1e0689dfba5b",
+   "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T00:38:52Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+   "score": 3
+  },
+  {
+   "id": "bd5806ebe2b8",
+   "title": "William and Kate meet PM Modi as they wrap up India tour",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:07:08Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+   "score": 3
+  },
+  {
+   "id": "b0e7b12ecf65",
+   "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+   "date": "2026-11-19T19:01:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "score": 9,
+   "dup_of": "48dc592f6430"
+  },
+  {
+   "id": "28d1ab3a6c4e",
+   "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+   "date": "2026-11-19T18:46:10Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+   "score": 9,
+   "dup_of": "48dc592f6430"
+  },
+  {
+   "id": "04800584010a",
+   "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+   "date": "2026-11-19T18:16:09Z",
+   "countries": [
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+   "score": 7,
+   "dup_of": "63d3818306ae"
+  },
+  {
+   "id": "18b9e87b4888",
+   "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+   "date": "2026-11-19T16:59:38Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+   "score": 6
+  },
+  {
+   "id": "f3004053344a",
+   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+   "date": "2026-11-19T17:14:55Z",
+   "countries": [
+    "BGD",
+    "ISR"
+   ],
+   "desc": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for Rohingya victims. It also gives the 1948 genocide convention new relevance in governing the actions of nation states. In their nine votes to six majority ruling, the panel of judges in The Hague set out a detailed roadmap for how the convention should be applied to real-world situations in which a government is accused",
+   "score": 8,
+   "dup_of": "8c1c643d01f2"
+  },
+  {
+   "id": "d6fc6bf6b3df",
+   "title": "‘In our lands the rain is made of bullets’: Palestinian artists look back in anger, melancholy and defiance",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/19/a-sea-for-borrowed-time-review-palestinian-artists-imma-dublin",
+   "date": "2026-11-19T16:58:24Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "IMMA, Dublin From massacre locations painted on to basalt slabs to photocollages of bulldozed airports, artists from across the Levant address their traumatic history In 2006, Simone Fattal painted on to basalt slabs the names of places indelibly associated with massacres in the Levant since 1948: Deir Yassin; Jenin; Qana; Sabra. Through the names, in the same Arabic script, runs a line of poetry by Etel Adnan: “In our lands of drought the rain forever is made of bullets.” Fattal’s work, which documents atrocities on a material that burst from the earth as lava before settling into stone, intr",
+   "score": 3
+  },
+  {
+   "id": "a42eca2962ae",
+   "title": "Govt snaps petrol price reduction spree as rate raised by Re1 per litre; diesel remains unchanged",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045695/govt-snaps-petrol-price-reduction-spree-as-rate-raised-by-re1-per-litre-diesel-remains-unchanged",
+   "date": "2026-11-19T18:04:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1",
+   "score": 3
+  },
+  {
+   "id": "d377a78919f3",
+   "title": "Pakistan military says it killed 22 militants in raids on hideouts",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-military-says-it-killed-22-militants-in-raids-on-hideouts/article71721607.ece",
+   "date": "2026-11-19T17:51:31Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "Pakistan’s military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants",
+   "score": 7
+  },
+  {
+   "id": "92cd2ace086d",
+   "title": "Israel army says it completed ground operation in central Gaza",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-army-says-it-completed-ground-operation-in-central-gaza/article71721554.ece",
+   "date": "2026-11-19T17:39:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Hamas denounced a \"blatant ceasefire violation,\" while the military said the rare ground incursion was a response to Hamas ceasefire violations in the area",
+   "score": 9,
+   "dup_of": "c3261a1d086e"
+  },
+  {
+   "id": "e0426bd93e3d",
+   "title": "Riyadh's tallest building damaged as Saudi reports new Houthi attacks",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/riyadhs-tallest-building-damaged-as-saudi-reports-new-houthi-attacks/article71721448.ece",
+   "date": "2026-11-19T17:12:55Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "The Iran-backed Houthis have stepped up their attacks against Saudi Arabia in recent weeks, striking targets including airports, energy infrastructure, military sites and Riyadh's financial district",
+   "score": 9,
+   "dup_of": "501f170c243d"
+  },
+  {
+   "id": "d8de6257093a",
+   "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cjy5xn34lp3qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:24:18Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "أكدت السلطات السعودية تعرض برج صندوق الاستثمارات العامة في الرياض لأضرار مادية جراء هجوم حوثي، دون وقوع إصابات. ويأتي الهجوم، وهو الثاني الذي يستهدف مبنى في المركز المالي خلال أقل من أسبوعين، وسط تصاعد الضربات المتبادلة بين السعودية والحوثيين، وتجدد المعارك في اليمن.",
+   "score": 9,
+   "dup_of": "501f170c243d"
   }
  ]
 }
