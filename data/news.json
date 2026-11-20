@@ -1,7 +1,69 @@
 {
- "updated": "2026-11-20T13:35:16Z",
- "count": 446,
+ "updated": "2026-11-20T16:26:59Z",
+ "count": 449,
  "items": [
+  {
+   "id": "473e99b0daaf",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+   "date": "2026-11-20T14:48:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+   "title_en": "Saudi coalition and Houthis exchange threats to bomb key ports",
+   "summary_en": "Yemen's Houthis and the Saudi-led coalition have exchanged threats to attack major ports following a recent surge in military escalation between the two sides.",
+   "body_en": [
+    "The Houthis threatened to strike Saudi Arabia's Red Sea ports, including Jeddah, and warned airlines against entering Saudi airspace if the coalition carries out threats against the Houthi-controlled port of Hodeidah. Soon after, the coalition announced targeted airstrikes against Houthi capabilities in Hodeidah, Sanaa, Saada, and Taiz, citing operations used for arms transport and missile launching.",
+    "The escalation comes amid heavy fighting across Yemen, with Houthi forces advancing toward Aden and maintaining their siege on Taiz, while airstrikes from both sides have intensified."
+   ],
+   "title_fa": "تبادل تهدید به بمباران بنادر کلیدی میان ائتلاف سعودی و حوثی‌ها",
+   "summary_fa": "حوثی‌های یمن و ائتلاف به رهبری عربستان سعودی در پی افزایش اخیر تنش‌های نظامی، تهدیدهایی مبنی بر حمله به بنادر اصلی یکدیگر مبادله کرده‌اند.",
+   "body_fa": [
+    "حوثی‌ها تهدید کردند که در صورت عملی شدن تهدیدات ائتلاف علیه بندر حدیـده تحت کنترل خود، بنادر عربستان در البحر الاحمر از جمله جده را هدف قرار خواهند داد و به شرکت‌های هواپیمایی هشدار دادند از حریم هوایی عربستان دوری کنند. بلافاصله پس از آن، ائتلاف از آغاز حملات هوایی هدفمند به تجهیزات و توانمندی‌های حوثی‌ها در حدیده، صنعا، صعده و تعز خبر داد.",
+    "این تصدید در حالی رخ می‌دهد که درگیری‌های شدیدی در سراسر یمن در جریان است؛ نیروهای حوثی به سمت عدن پیشروی کرده و محاصره تعز را ادامه می‌دهند، در حالی که حملات هوایی دو طرف شدت یافته است."
+   ],
+   "title_ar": "التحالف السعودي والحوثيون يتبادلون التهديدات بقصف موانئ رئيسية",
+   "summary_ar": "تبادل الحوثيون في اليمن والتحالف الذي تقوده السعودية التهديدات باستهداف موانئ رئيسية عقب تصعيد عسكري أخير بين الطرفين.",
+   "body_ar": [
+    "هدد الحوثيون باستهداف الموانئ السعودية على البحر الأحمر، بما في ذلك جدة، وحذروا شركات الطيران من دخول المجال الجوي السعودي في حال نفذ التحالف تهديداته ضد ميناء الحديدة الخاضع لسيطرته. وبعد وقت قصير، أعلن التحالف شن ضربات جوية مستهدفة قدرات الحوثيين في الحديدة وصنعاء وصعدة وتعز.",
+    "يأتي هذا التصعيد وسط قتال عنيف في مناطق مختلفة من اليمن، حيث تتقدم قوات الحوثيين نحو عدن وتواصل حصارها لمدينة تعز، بالتزامن مع تكثيف الغارات الجوية من الجانبين."
+   ]
+  },
+  {
+   "id": "46c04075e944",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045921/fo-rejects-indias-undiplomatic-irresponsible-remarks-about-pakistans-mineral-wealth",
+   "date": "2026-11-20T13:42:50Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 5,
+   "title": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
+   "title_en": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
+   "summary_en": "Pakistan's Foreign Office has rejected remarks by India's UN representative accusing the Pakistani military of exploiting the country's mineral wealth, describing the comments as undiplomatic and irresponsible.",
+   "body_en": [
+    "The Pakistani Foreign Office stated that the Indian allegations constituted unacceptable interference in Pakistan's internal affairs. The statement accused India of making baseless allegations to distract from its own actions, including holding the Indus Waters Treaty in abeyance following an attack in Pahalgam.",
+    "Pakistan also urged India to comply with international obligations, respect UN Security Council resolutions regarding Jammu and Kashmir, and address Pakistan's concerns regarding water rights and support for cross-border militancy."
+   ],
+   "title_fa": "رد سخنان «غیردیپلماتیک و غیرمسئولانه» هند درباره ثروت معدنی پاکستان از سوی وزارت خارجه",
+   "summary_fa": "وزارت امور خارجه پاکستان سخنان نماینده هند در سازمان ملل که ارتش پاکستان را به سوءاستفاده از ثروت‌های معدنی کشور متهم کرده بود، رد کرد و آن را غیردیپلماتیک و غیرمسئولانه خواند.",
+   "body_fa": [
+    "وزارت امور خارجه پاکستان اعلام کرد ادعاهای هند دخالتی غیرقابل قبول در امور داخلی پاکستان است. در این بیانیه هند متهم شد که با طرح اتهامات بی‌اساس می‌کوشد توجهات را از اقدامات خود، از جمله تعلیق یک‌جانبه پیمان آب‌های سند پس از حمله در پهلگام، منحرف کند.",
+    "پاکستان همچنین از هند خواست به تعهدات بین‌المللی و قطعنامه‌های شورای امنیت سازمان ملل در مورد جامو و کشمیر پایبند باشد."
+   ],
+   "title_ar": "الخارجية الباكستانية ترفض تصريحات الهند \"غير الدبلوماسية وغير المسؤولة\" بشأن ثرواتها المعدنية",
+   "summary_ar": "رفضت وزارة الخارجية الباكستانية تصريحات مبعوث الهند لدى الأمم المتحدة التي اتهم فيها الجيش الباكستاني باستغلال الثروات المعدنية للبلاد، واصفة إياها بأنها غير دبلوماسية وغير مسؤولة.",
+   "body_ar": [
+    "وذكرت الخارجية الباكستانية أن الاتهامات الهندية تشكل تدخلاً غير مقبول في الشؤون الداخلية لباكستان، مضيفة أن الهند تسعى من خلال هذه الادعاءات إلى التغطية على تعليقها الأحادي لـ معاهدة مياه السند عقب هجوم باهالجام.",
+    "كما دعت الباكستان الهند إلى الالتزام بالقرارات الدولية وقرارات مجلس الأمن المتعلقة بجامو وكشمير."
+   ]
+  },
   {
    "id": "516b3646f4a5",
    "lang": "en",
@@ -83,6 +145,36 @@
    "summary_ar": "حذرت القيادة المركزية الأمريكية من أن السفن التي تشارك في عمليات نقل البضائع الإيرانية من سفينة إلى أخرى ستواجه إجراءات عسكرية لتنفيذ الحصار البحري. وتهدف هذه الخطوة إلى منع طهران من الالتفاف على القيود الموفرضة على صادراتها النفطية.",
    "body_ar": [
     "ووفقاً للقيادة المركزية الأمريكية، فإن السفن التي تتلقى بضائع تم تحميلها من موانئ إيرانية أو عبر الساحل الإيراني قد تُعتبر متدرعة من الحصار، حتى لو لم تدخل المياه الإيرانية. وحذرت واشنطن من أن السفن غير الممتثلة قد تتعرض للاعتراض أو الاحتجاز أو استخدام القوة."
+   ]
+  },
+  {
+   "id": "e32181ae3503",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+   "date": "2026-11-20T12:00:00Z",
+   "countries": [
+    "AFG"
+   ],
+   "score": 7,
+   "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+   "title_en": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+   "summary_en": "UN Women and aid agencies have warned that restrictions imposed by Afghanistan's de facto authorities are severely impeding women and girls from accessing vital medical treatment.",
+   "body_en": [
+    "More than 100 edicts issued since 2021 have drastically limited women's freedom of movement, education, and employment. Coupled with significant funding cuts for humanitarian relief, UN Women warned that 22 million women and girls face long-term risks to their healthcare access, domestic safety, and survival.",
+    "Humanitarian officials urged international donors to reverse aid cuts and maintain support for programs assisting Afghan women, noting that millions of girls remain barred from secondary education."
+   ],
+   "title_fa": "محدودیت‌ها در افغانستان مانع دسترسی دسترسی زنان باردار به مراقبت‌های پزشکی می‌شود",
+   "summary_fa": "نهاد نهادهای امدادی و سازمان ملل متحد برای زنان هشدار داده‌اند که محدودیت‌های اعمال‌شده توسط مقامات دوفاکتوی افغانستان به‌شدت مانع دسترسی زنان و دختران به خدمات و مراقبت‌های پزشکی حیاتی می‌شود.",
+   "body_fa": [
+    "صدور بیش از ۱۰۰ فرمان از سال ۲۰۲۱، آزادی رفت‌وآمد، تحصیل و اشتغال زنان را به‌شدت محدود کرده است. سازمان ملل برای زنان هشدار داد که همراه با کاهش شدید بودجه‌های امدادی، ۲۲ میلیون زن و دختر با خطرات طولانی‌مدت در زمینه دسترسی به بهداشت و امنیت روبرو هستند.",
+    "مقامات بشردوستانه از اهداکنندگان بین‌المللی خواستند کاهش کمک‌ها را متوقف کرده و به حمایت از برنامه‌های مربوط به زنان و دختران افغان ادامه دهند."
+   ],
+   "title_ar": "القيود في أفغانستان تمنع النساء الحوامل من طلب المساعدة الطبية",
+   "summary_ar": "حذرت هيئة الأمم المتحدة للمرأة ووكالات إغاثة من أن القيود التي فرضتها سلطات الأمر الواقع في أفغانستان تمنع النساء والفتيات بشكل خطير من الحصول على الرعاية الطبية الضرورية.",
+   "body_ar": [
+    "أدت أكثر من 100 من المراسيم الصادرة منذ عام 2021 إلى تقييد حرية تنقل النساء والتعليم والعمل بشكل صارم. وحذرت هيئة الأمم المتحدة للمرأة من أن تقليص التمويل الإنساني يهدد 22 مليون امرأة وفتاة بحرمانهن من الرعاية الصحية على المدى الطويل.",
+    "ودعا مسؤولون إنسانيون المانحين الدوليين إلى زيادة الدعم المالي بدلاً من قطعه، ومواصلة مساندة البرامج المخصصة لدعم النساء والفتيات في أفغانستان."
    ]
   },
   {
