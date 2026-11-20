@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T04:11:41Z",
+ "updated": "2026-11-20T07:42:04Z",
  "items": [
   {
    "id": "cd24719f402d",
@@ -2351,6 +2351,357 @@
    ],
    "desc": "USCIRF is a bipartisan body of ⁠the U.S. government that monitors religious freedom around the world and makes policy recommendations, which are not binding",
    "score": 6
+  },
+  {
+   "id": "eca3e57c2438",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:13:21Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+   "score": 5
+  },
+  {
+   "id": "e7800576970a",
+   "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+   "date": "2026-11-20T06:03:03Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US Maritime Administration acknowledged naval blockade's impact on insurance premiums and cargo capacity, memo shows.",
+   "score": 7
+  },
+  {
+   "id": "3bcfa52a6aed",
+   "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+   "date": "2026-11-20T05:36:21Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
+   "score": 6,
+   "dup_of": "7f602e2f6454"
+  },
+  {
+   "id": "beca203ab840",
+   "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+   "date": "2026-11-20T05:01:40Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+   "score": 6
+  },
+  {
+   "id": "5a31c1195c81",
+   "title": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+   "date": "2026-11-20T05:00:16Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+   "score": 4
+  },
+  {
+   "id": "26c67f7aec1e",
+   "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+   "date": "2026-11-20T05:00:23Z",
+   "countries": [
+    "AFG",
+    "IRQ"
+   ],
+   "desc": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists The removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like gender segregation policy. As many as 400 women are estimated to have joined protests over the past two weeks calling for the return of their professors at Al-Qadisiyah University in a move that appears to have surprised its administrators. Continue reading...",
+   "score": 5
+  },
+  {
+   "id": "4527511616d2",
+   "title": "On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp",
+   "date": "2026-11-20T07:04:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir reaffirmed on Friday the security force’s “unwavering resolve” to decisively eliminate terrorism and preserve peace and stability of Khyber Pakhtunkhwa in close coordination with law enforcement agencies (LEAs). The CDF said this during a visit to Miranshah in KP’s North Waziristan, the military media wing said in a statement. “He reaffirmed the unwavering resolve of the Security Forces, in close coordination with law enforcement agencies, to decisively eliminate the menace of terrorism and preserve the hard-ear",
+   "score": 6
+  },
+  {
+   "id": "0bf7d76f16fe",
+   "title": "Pakistan cruise to eight-wicket win over Sri Lanka to seal Test series 1-0",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045883/pakistan-cruise-to-eight-wicket-win-over-sri-lanka-to-seal-test-series-1-0",
+   "date": "2026-11-20T06:30:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan wrapped up an eight-wicket victory over Sri Lanka in the second and final Test, chasing down a target of 90 in just 13 overs to seal the two-match series 1-0 on Friday. The hosts needed only 90 minutes on the fourth morning to complete the job after Mohammad Abbas dismissed the last Sri Lankan batter to end the visitors’ second innings at 316. It was Pakistan’s first Test win since they beat the West Indies in the summer and their first series victory in the ongoing World Test Championship cycle. The result was also just their third win in 11 matches in the current cycle, following dr",
+   "score": 1
+  },
+  {
+   "id": "9cc5c38ffb2c",
+   "title": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
+   "date": "2026-11-20T06:23:58Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Federal Minister for Climate Change and Environmental Coordination Dr Musadik Malik arrived in New Delhi on Friday to attend the SCO Civilisational Dialogue Forum. His visit is a first by a Pakistani minister since former foreign minister Bilawal Bhutto-Zardari attended the SCO meeting in the Indian state of Goa in May 2023, and two years after India’s Foreign Minister Subrahmanyam Jaishankar attended the bloc’s meeting in Islamabad in 2024. Musadik was received at the airport by Pakistan’s Chargé d’Affaires Saad Waraich, according to the Pakistan High Commission in India. Dr Malik will lead t",
+   "score": 6
+  },
+  {
+   "id": "d81da48d8ef5",
+   "title": "Pakistan 'unequivocally' condemns Houthi attack on Riyadh’s tallest skyscraper",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045872/pakistan-unequivocally-condemns-houthi-attack-on-riyadhs-tallest-skyscraper",
+   "date": "2026-11-20T05:24:08Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund. “This act of aggression constitutes a grave violation of the sovereignty of the Kingdom of Saudi Arabia,” the Foreign Office (FO) said in a statement condemning Thursday’s attack, without naming the tower. Saudi state-run news agency SPA reported, citing the kingdom’s civil defence, that the attack caused material damage to several floors of the building and nearby buildings, but no injuries were reported. The statement carried b",
+   "score": 6,
+   "dup_of": "501f170c243d"
+  },
+  {
+   "id": "6c7145dfba33",
+   "title": "Pakistan, 14 other nations welcome UK, Australia sanctions on Israeli settlements",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements",
+   "date": "2026-11-20T05:08:49Z",
+   "countries": [
+    "ISR",
+    "PAK",
+    "PSE"
+   ],
+   "desc": "Pakistan, along with 14 other countries, has welcomed the imposition of sanctions by the United Kingdom and Australia in response to Israeli settlement activities in the occupied Palestinian territory and expressed hope that the decisions would encourage others to follow suit. Britain said on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in ‌the occupied West Bank, as part of its effort to protect the idea of a two-state solution. Australia followed by imposing sanctions on three Israeli individuals and four organisations for illegal",
+   "score": 7,
+   "dup_of": "cb5cc079a97d"
+  },
+  {
+   "id": "aad686967d8b",
+   "title": "US religious freedom panel says India is targeting minorities in voter roll revisions",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045886/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions",
+   "date": "2026-11-20T07:09:45Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India has escalated its targeting of religious minorities during a voter list revision that struck off tens of millions of names nationwide, a US panel on religious freedom said on Thursday. “The Indian govt is targeting Muslim citizens by removing them from voter rolls, calling them ‘foreigners’, and now illegally deporting them,” Asif Mahmood, the chair of the US Commission on International Religious Freedom (USCIRF), said in a statement. India’s voter list revision removed 130 million names, roughly the population of Mexico, in the largest deletion of voters in the country’s history. Data s",
+   "score": 6,
+   "dup_of": "9e1972b616fe"
+  },
+  {
+   "id": "3d9fd62addf6",
+   "title": "Lahore once again ranks as world's most polluted major city as AQI crosses 400",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045870/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-400",
+   "date": "2026-11-20T06:16:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Heavy smog pushed air quality in several Punjab cities into the hazardous category on Friday, with Lahore recording an hourly AQI reading of 465 between 7am and 8am, while Gujranwala and Multan registered readings of 661 and 641, respectively, according to real-time air quality data. Lahore’s historical hourly air quality graph classified the reading of 465 as hazardous, indicating extremely polluted conditions and serious health risks for residents. A separate ranking of Pakistani cities placed Gujranwala at the top with an AQI of 661, followed by Multan at 641 and Lahore at 426. Othe",
+   "score": 3
+  },
+  {
+   "id": "a9ca59819ae4",
+   "title": "Pakistan-sponsored resolution on self-determination adopted by consensus at UN",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045879/pakistan-sponsored-resolution-on-self-determination-adopted-by-consensus-at-un",
+   "date": "2026-11-20T06:16:06Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "UNITED NATIONS: The UN General Assembly’s Third Committee on Thursday adopted by consensus a Pakistan-sponsored resolution reaffirming the right to self-determination of peoples living under colonialism, foreign domination and alien occupation, with 62 countries co-sponsoring the initiative. The resolution, titled “Universal Realisation of the Right of Peoples to Self-Determination”, was introduced by Pakistan’s Permanent Representative to the United Nations, Ambassador Syed Haider Shah. Pakistan has been sponsoring the resolution since 1981. “The promise of self-determination remains unfulfil",
+   "score": 6
+  },
+  {
+   "id": "97eb3330b927",
+   "title": "Slain anchorperson’s husband released on bail in Rawalpindi",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045740/slain-anchorpersons-husband-released-on-bail-in-rawalpindi",
+   "date": "2026-11-20T05:26:52Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: A local court on Thursday granted post-arrest bail to the husband of anchorperson Rabia Ahsan against surety bonds of Rs200,000 after the deceased’s family informed the court that the fatal shooting was accidental and they did not wish to pursue the case. An additional district and sessions judge Rawalpindi allowed the bail application after the deceased anchorperson’s mother, brother and sister appeared before the court and submitted affidavits stating that Rabia Ahsan had died as a result of an accidental shooting and that they had no objection to the release of the accused. Rabia",
+   "score": 2
+  },
+  {
+   "id": "ee7ec0d43604",
+   "title": "‘Phone Shake’ feature on Women Safety App",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045753/phone-shake-feature-on-women-safety-app",
+   "date": "2026-11-20T01:50:49Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: The Punjab Safe Cities Authority (PSCA) has introduced Women Safety App’s advanced ‘Phone Shake’ facility, enabling women to trigger an SOS alert simply by shaking their mobile phones, eliminating the need to make an emergency call in distressing situations. The step was taken to strengthen women’s safety through innovative digital solutions, making emergency police assistance more accessible, discreet and immediate. A spokesperson for the PSCA said the feature is particularly useful in emergencies where calling the police, speaking aloud or explaining the situation may not be possible",
+   "score": 2
+  },
+  {
+   "id": "643fbd318d77",
+   "title": "SHC orders immediate halt to construction activities at Karachi's Nehr-i-Khayyam",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045776/shc-orders-immediate-halt-to-construction-activities-at-karachis-nehr-i-khayyam",
+   "date": "2026-11-20T04:39:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Sindh High Court on Thursday directed the authorities concerned to immediately stop the ongoing construction and development activities at the Nehr-i-Khayyam in Clifton. A two-judge constitutional bench of the SHC comprising Justice Riazat Ali Sahar and Justice Muhammad Hasan Akber also asked its office to communicate this order to the Sindh chief secretary, the Local Government (LG) Department secretary and the director general of Karachi Development Authority for compliance. Residents of the area, along with local leaders of a political party, have petitioned the SHC and challen",
+   "score": 2
+  },
+  {
+   "id": "c68aaaba7a6c",
+   "title": "Auto financing boom continues",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045785/auto-financing-boom-continues",
+   "date": "2026-11-20T01:50:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Outstanding car loans rose for the 23rd consecutive month to Rs416.5 billion in October from Rs407bn in September, according to State Bank of Pakistan (SBP) data. Consumers went wild for cars, sport utility vehicles (SUVs), pickups and vans, jacking up combined sales to 24,418 units in October, up by 41 per cent year on year and 62pc month on month, bringing 4MFY27 cumulative sales to 74,898 units, a rise of 26pc YoY. The central bank raised the interest rate to 12pc on October 26 from 11.5pc, but a banker said its impact would be visible in November data on auto financing, along with",
+   "score": 2
+  },
+  {
+   "id": "afcdb2bcad92",
+   "title": "Sindh cabinet okays Rs5.766bn for Karachi Safe City phase-II",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045780/sindh-cabinet-okays-rs5766bn-for-karachi-safe-city-phase-ii",
+   "date": "2026-11-20T04:43:33Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: The Sindh Cabinet on Thursday approved the release of Rs5.766 billion for the second phase of the Karachi Safe City Project, directing that the project be commissioned within 18 months to strengthen security infrastructure. Phase-II of the Karachi Safe City project includes installation of over 2,300 cameras — 870 for general surveillance and 1,300 with Automatic Number Plate Recognition (ANPR) and facial recognition and 80 for traffic enforcement. The overall plan envisages installation of nearly 10,000 cameras at over 2,000 locations across the city after completion of all phases. B",
+   "score": 3
+  },
+  {
+   "id": "413e870a6ab8",
+   "title": "Islamabad province?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045831/islamabad-province",
+   "date": "2026-11-20T04:08:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "OPPOSITION to it has been largely suppressed, but all is not well within the ruling regime. One way or the other, the proposal to break up existing federating units will ultimately shape the regime’s endgame. Stage one has been completed without major resistance, the PTI disarmed through the imposition of emergency in KP , and a neo-administrative experiment comprising 12 districts in the southern and ex-Fata regions operationalised. The ultimate prize for the establishment is the long-desired separation of Karachi from the rest of Sindh. And this is where the Bhutto-Zardari clan, facing an ex",
+   "score": 3
+  },
+  {
+   "id": "506645420b7d",
+   "title": "Nepal PM Balendra Shah to visit India on November 22–23",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece",
+   "date": "2026-11-20T07:22:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The two Prime Ministers will inaugurate several energy-related projects; Nepal’s PM will also call on President Murmu during his official visit",
+   "score": 5
+  },
+  {
+   "id": "fae963787400",
+   "title": "Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece",
+   "date": "2026-11-20T07:09:17Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Pakistan is the current chair of the SCO Council of Heads of State (CHS) (SCO_CHS) for the period of 2026-27; the event, which will be inaugurated by PM Modi, will be held at Delhi’s iconic Purana Quila (Old Fort), a 16th Century fort built by Emperor Humayun",
+   "score": 6,
+   "dup_of": "9cc5c38ffb2c"
+  },
+  {
+   "id": "590e148b98d9",
+   "title": "India, Netherlands upgrade ties; sign 17 MoUs on water, renewable energy, and semiconductors",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+   "date": "2026-11-20T05:03:21Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "MEA pushes back on Dutch concerns over press freedom and minority rights in India. PM Jetten raises child abduction case with PM Modi. Agreements signed include a semiconductor fabrication project between TATA Electronics and Dutch company ASML",
+   "score": 5
+  },
+  {
+   "id": "610056e68b40",
+   "title": "چرا گزارش نیویورک‌تایمز درباره سدهای ایران جنجالی شد؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cmd71ee82dx0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T05:52:06Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "نیویورک‌تایمز در مقاله‌ای احتمال ارتباط سدهای ایران با پایگاه‌های موشکی را مطرح کرده است. منتقدان هشدار می‌دهند این فرضیه ممکن است دستاویزی برای حمله به زیرساخت‌های حیاتی شود اما روزنامه اتهام زمینه‌سازی برای خشونت را رد کرده است.",
+   "score": 4
+  },
+  {
+   "id": "098309cfb3df",
+   "title": "چرا حوثی‌های یمن با استارلینک مقابله می‌کنند؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c52e8rdewjdpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:20:42Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "بنا بر گزارش‌ها، حوثی‌های یمن همزمان با تشدید دوباره درگیری‌ها در این کشور، کارزار خود علیه اینترنت ماهواره‌ای استارلینک را گسترش داده‌اند.",
+   "score": 5
+  },
+  {
+   "id": "7e1e75d80c33",
+   "title": "اتهام السعودية باستهداف قارب مدني في اليمن ما أسفر عن مقتل 19 شخصاً، واعتراض صاروخ ومسيّرات أُطلقت باتجاه المملكة",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqy7rxexp1x0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T06:50:19Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "أعلن التحالف العسكري الذي تقوده السعودية لقتال جماعة أنصار الله الحوثية في اليمن، الجمعة، عن اعتراض صاروخ باليستي وثلاث طائرات مسيّرة أُطلقت باتجاه المنطقة الجنوبية من المملكة.",
+   "score": 7
   }
  ]
 }
