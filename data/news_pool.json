@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:21:44Z",
+ "updated": "2026-11-20T22:01:18Z",
  "items": [
   {
    "id": "cd24719f402d",
@@ -3362,6 +3362,142 @@
    ],
    "desc": "ألقت طائرات مسيّرة إسرائيلية منشورات مرفقة بالقهوة والسجائر في مناطق من قطاع غزة، تدعو السكان إلى التواصل مع ضباط أمن إسرائيليين. فيما أفاد سكان بإلقاء حاويات أعقبتها انفجارات وأضرار بمنازل شرقي القطاع، فيما وثّقت بي بي سي إلقاء حاويات دون التمكن من تحديد طبيعة محتوياتها، وسط استمرار العمليات العسكرية وأوامر الإخلاء رغم سريان اتفاق وقف إطلاق النار.",
    "score": 6
+  },
+  {
+   "id": "3da4a5753626",
+   "title": "Iraq PM targets militia stronghold in bid to assert state control",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+   "date": "2026-11-20T21:28:25Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
+   "score": 8
+  },
+  {
+   "id": "41857d96f900",
+   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+   "date": "2026-11-20T21:05:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+   "score": 2
+  },
+  {
+   "id": "ce9ea2887c62",
+   "title": "Gaza’s displaced children celebrate World Children’s Day",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+   "date": "2026-11-20T20:45:09Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+   "score": 3
+  },
+  {
+   "id": "43dd820136b6",
+   "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-20T20:14:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
+   "score": 7
+  },
+  {
+   "id": "68b3333cb7fe",
+   "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
+   "date": "2026-11-20T20:03:11Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
+   "score": 1
+  },
+  {
+   "id": "aecd3a5a0f31",
+   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+   "date": "2026-11-20T19:57:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
+   "score": 7
+  },
+  {
+   "id": "04cee6e2e641",
+   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+   "date": "2026-11-20T19:40:07Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+   "score": 7,
+   "dup_of": "2453f6a66a0b"
+  },
+  {
+   "id": "6cc38668b794",
+   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+   "date": "2026-11-20T19:12:14Z",
+   "countries": [
+    "BGD",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
+   "score": 6,
+   "dup_of": "7745a81f8be2"
+  },
+  {
+   "id": "bbe5e6499304",
+   "title": "ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c64gn0j53qgpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:14:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "دونالد ترامپ، رئیس‌جمهور آمریکا، در نخستین نشست خبری خود پس از دیدار سه‌جانبه با رهبران چین و روسیه، گفت که روند قیمت بنزین در آمریکا تا حدی به چگونگی حل‌وفصل اختلافات با ایران بستگی دارد. او ضمن دفاع از تصمیم خود برای آغاز جنگ با ایران، دیدار با رهبران چین و روسیه را موفقیت‌آمیز توصیف کرد و از احتمال دستیابی به توافقی برای پایان جنگ اوکراین سخن گفت. آقای ترامپ همچنین تهدید کرد که شرکت‌های آمریکایی را از ساخت مراکز داده هوش مصنوعی در خارج از این کشور منع خواهد کرد.",
+   "score": 7
+  },
+  {
+   "id": "fa8b07a8a0bd",
+   "title": "\"أقول لابني إنها مجرد ألعاب نارية\": الحياة داخل مدينة يمنية يحاصرها الحوثيون",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c9p83vdv55x8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T19:17:04Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "تعز ثالث أكبر مدينة في اليمن معزولة عن العالم، ولم يُسمع صوت سكانها إلى حد كبير. تواصلنا مع سبعة أشخاص داخل المدينة، قاموا برسم خريطة تفصيلية للحصار.",
+   "score": 5
   }
  ]
 }

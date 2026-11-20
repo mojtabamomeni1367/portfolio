@@ -1,7 +1,126 @@
 {
- "updated": "2026-11-20T19:21:44Z",
+ "updated": "2026-11-20T22:01:18Z",
  "count": 450,
  "items": [
+  {
+   "id": "3da4a5753626",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+   "date": "2026-11-20T21:28:25Z",
+   "countries": [
+    "IRQ"
+   ],
+   "score": 8,
+   "title": "Iraq PM targets militia stronghold in bid to assert state control",
+   "title_en": "Iraq PM targets militia stronghold in bid to assert state control",
+   "summary_en": "Iraqi Prime Minister Ali al-Zaidi stated that a security operation in Jurf al-Sakhar begins a nationwide campaign to enforce state authority. He noted that the effort is aimed at asserting government control, curbing corruption, and disarming rogue groups.",
+   "body_en": [
+    "According to Prime Minister Ali al-Zaidi, the military operation launched in Jurf al-Sakhar signals the start of a broader push across Iraq to restore state control. He said the campaign aims to curb corruption and disarm armed factions operating outside the authority of the government."
+   ],
+   "title_fa": "نخست‌وزیر عراق در تلاش برای اعمال کنترل حکومت، پایگاه شبه‌نظامیان را هدف قرار می‌دهد",
+   "summary_fa": "علی الزیدی، نخست‌وزیر عراق، اعلام کرد که عملیاتی در جرف الصخر آغازگر تلاشی سراسری برای اعمال حاکمیت دولت است. او گفت هدف از این اقدام برقراری کنترل دولتی، مهار فساد و خلع سلاح گروه‌های خارج از اقتدار حکومت است.",
+   "body_fa": [
+    "به گفته علی الزیدی، نخست‌وزیر عراق، عملیات نظامی در جرف الصخر سرآغاز تلاشی گسترده در سراسر این کشور برای بازگرداندن کنترل دولت است. او تأکید کرد که هدف این کارزار مهار فساد و خلع سلاح گروه‌های مسلحی است که خارج از اقتدار حکومت فعالیت می‌کنند."
+   ],
+   "title_ar": "رئيس الوزراء العراقي يستهدف معقلاً للفصائل المسلحة لفرض سيطرة الدولة",
+   "summary_ar": "أعلن رئيس الوزراء العراقي علي الزيدي أن عملية عسكرية في جرف الصخر تمثل انطلاقة حملة شاملة لفرض سيطرة الدولة. وأوضح أن هذه الجهود تهدف إلى تعزيز سلطة الحكومة ومكافحة الفساد ونزع سلاح الجماعات الخارجة عن القانون.",
+   "body_ar": [
+    "وفقاً لرئيس الوزراء علي الزيدي، فإن العملية العسكرية التي انطلقت في جرف الصخر تشكل بداية تحرك أوسع في مختلف أنحاء العراق لاستعادة سيطرة الدولة. وقال إن الحملة ترمي إلى محاربة الفساد ونزع أسلحة الجماعات التي تعمل خارج نطاق السلطة الحكومية."
+   ]
+  },
+  {
+   "id": "bbe5e6499304",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c64gn0j53qgpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:14:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم",
+   "title_en": "Trump: Gasoline prices depend on how we settle matters with Iran",
+   "summary_en": "US President Donald Trump said that future gasoline prices in the United States depend partly on how matters are settled with Iran, while projecting a significant drop in fuel costs soon. Speaking at a White House press conference, he also defended his decision to launch a war against Iran and described his recent summit with the leaders of China and Russia as successful.",
+   "body_en": [
+    "During the news conference, Donald Trump stated that Iran desires a deal with Washington, but insisted that he would accept only a genuine agreement rather than a fabricated one. Defending the military action against Iran as unavoidable, he claimed that fuel prices had been affected far less than anticipated and noted that oil was trading near 80 dollars a barrel rather than his earlier expectation of 300 dollars. He also claimed US forces have full control over the Strait of Hormuz.",
+    "Trump dismissed reports of friction with his vice president, JD Vance, who had attributed Republican midterm election losses to the conflict with Iran. The US president further addressed domestic and international matters, saying Russian President Vladimir Putin had expressed interest in ending the war in Ukraine, and announcing a plan to ban American firms from establishing artificial intelligence data centres overseas to prevent Chinese acquisition."
+   ],
+   "title_fa": "ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که روند آینده قیمت بنزین در این کشور تا حدی به چگونگی روشن کردن تکلیف با ایران بستگی دارد، اما پیش‌بینی کرد که بهای سوخت به‌زودی به میزان چشمگیری کاهش یابد. او در نشستی خبری در کاخ سفید، همچنین از تصمیم خود برای آغاز جنگ با ایران دفاع کرد و دیدار اخیرش با رهبران چین و روسیه را موفقیت‌آمیز خواند.",
+   "body_fa": [
+    "دونالد ترامپ در این نشست خبری گفت که ایران خواهان توافق با واشنگتن است، اما تأکید کرد که تنها یک توافق واقعی را می‌پذیرد و نه توافقی ساختگی. او با دفاع از اقدام نظامی علیه ایران به عنوان تصمیمی اجتناب‌ناپذیر، ادعا کرد که تأثیر جنگ بر بهای سوخت بسیار کمتر از حد تصور بوده و قیمت نفت اکنون به جای پیش‌بینی ۳۰۰ دلاری او، در حدود ۸۰ دلار در هر بشکه است. او همچنین مدعی شد که آمریکا کنترل کامل تنگه هرمز را در اختیار دارد.",
+    "ترامپ گزارش‌ها درباره نارضایتی خود از اظهارات معاونش، جی‌دی ونس، را رد کرد؛ ونس جنگ با ایران را از عوامل شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای دانسته بود. رئیس‌جمهور آمریکا همچنین به مسائل داخلی و بین‌المللی پرداخت و گفت ولادیمیر پوتین تمایل خود را برای پایان دادن به جنگ اوکراین ابراز کرده است، و از طرحی برای منع شرکت‌های آمریکایی از ساخت مراکز داده هوش مصنوعی در خارج از کشور به منظور جلوگیری از تسلط چین بر آنها خبر داد."
+   ],
+   "title_ar": "ترامب: أسعار البنزين تعتمد على كيفية حسم الأمور مع إيران",
+   "summary_ar": "قال الرئيس الأمريكي دونالد ترامب إن مسار أسعار البنزين في الولايات المتحدة يعتمد جزئياً على كيفية حسم الأمور مع إيران، متوقعاً في الوقت نفسه انخفاضاً كبيراً في أسعار الوقود قريباً. ودافع ترامب في مؤتمر صحفي بالبيت الأبيض عن قراره خوض حرب ضد إيران، واصفاً قمته الأخيرة مع زعيمي الصين وروسيا بأنها كانت ناجحة.",
+   "body_ar": [
+    "خلال المؤتمر الصحفي، صرح دونالد ترامب بأن إيران ترغب في التوصل إلى اتفاق مع واشنطن، مؤكداً أنه لن يقبل إلا باتفاق حقيقي وليس مصطنعاً. ودافع عن خياره العسكري ضد إيران باعتباره أمراً لا مفر منه، مدعياً أن أثر الحرب على أسعار الوقود كان أقل بكثير مما كان متوقعاً، حيث يقترب سعر النفط من 80 دولاراً للبرميل مقارنة بتقديراته السابقة التي بلغت 300 دولار، كما قال إن القوات الأمريكية تفرض سيطرة كاملة على مضيق هرمز.",
+    "ونفى ترامب صحة التقارير التي تحدثت عن استيائه من تصريحات نائبه جيه دي فانس، الذي أرجع خسارة الجمهوريين في انتخابات التجديد النصفي إلى الحرب مع إيران. وتناول الرئيس الأمريكي أيضاً ملفات دولية ومحلية، مشيراً إلى أن الرئيس الروسي فلاديمير بوتين أبدى رغبة في إنهاء الحرب في أوكرانيا، ومعلناً عن خطة لمنع الشركات الأمريكية من إنشاء مراكز بيانات للذكاء الاصطناعي خارج البلاد تحسباً لسيطرة الصين عليها."
+   ]
+  },
+  {
+   "id": "43dd820136b6",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-20T20:14:56Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+   "title_en": "Israeli drone attacks kill seven Palestinians in central Gaza",
+   "summary_en": "Israeli drone strikes have killed at least seven Palestinians and wounded several others in central Gaza despite an existing ceasefire agreement. Medical sources reported casualties from separate strikes in the Bureij and Nuseirat refugee camps and near the entrance to Deir el-Balah.",
+   "body_en": [
+    "Four people were killed when an Israeli drone struck a gathering of civilians in the Bureij camp on Friday, while another strike claimed a life in the Nuseirat camp. Additionally, two Palestinians were killed in a drone attack on civilians near the entrance to Deir el-Balah, with the wounded transported to local hospitals suffering from critical shortages of medical supplies and personnel.",
+    "Alongside the airstrikes, the Israeli military carried out demolitions using explosive-laden drones in eastern Gaza City's al-Shuja'iya neighbourhood, as well as three large demolitions east of Khan Younis. Separately, Palestinian prisoner organisations announced on Friday that roughly 350 Palestinian children remain detained in Israeli prisons, where they face severe conditions including starvation and torture."
+   ],
+   "title_fa": "حملات پهپادی اسرائیل هفت فلسطینی را در مرکز غزه کشت",
+   "summary_fa": "حملات پهپادی اسرائیل با وجود توافق آتش‌بس، دست‌کم هفت فلسطینی را در بخش مرکزی نوار غزه کشته و شماری دیگر را زخمی کرده است. منابع پزشکی از تلفات ناشی از این حملات جداگانه در اردوگاه‌های البریج و النصیرات و نزدیکی ورودی شهر دیرالبلح خبر دادند.",
+   "body_fa": [
+    "روز جمعه، چهار نفر بر اثر حمله پهپاد اسرائیلی به جمعی از غیرنظامیان در اردوگاه البریج کشته شدند و حمله دیگری در اردوگاه النصیرات نیز یک کشته بر جای گذاشت. افزون بر این، دو فلسطینی در حمله پهپادی به غیرنظامیان در نزدیکی ورودی دیرالبلح جان باختند؛ مجروحان به بیمارستان‌های محلی منتقل شدند که با کمبود شدید کادر درمان و تجهیزات پزشکی روبه‌رو هستند.",
+    "هم‌زمان با این حملات، ارتش اسرائیل با استفاده از پهپادهای انفجاری اقدام به تخریب ساختمان‌ها در محله الشجاعیه در شرق شهر غزه و اجرای سه تخریب گسترده در شرق خان‌یونس کرد. از سوی دیگر، نهادهای حامی اسیران فلسطینی در روز جمعه اعلام کردند حدود ۳۵۰ کودک فلسطینی در زندان‌های اسرائیل در شرایط دشواری از جمله گرسنگی و شکنجه نگهداری می‌شوند."
+   ],
+   "title_ar": "هجمات بطائرات مسيرة إسرائيلية تسفر عن مقتل سبعة فلسطينيين وسط غزة",
+   "summary_ar": "أسفرت هجمات نفذتها طائرات مسيرة إسرائيلية عن مقتل سبعة فلسطينيين على الأقل وإصابة آخرين وسط قطاع غزة، رغم وجود اتفاق لوقف إطلاق النار. وأفادت مصادر طبية بسقوط ضحايا في ضربات منفصلة استهدفت مخيمي البريج والنصيرات ومحيط مدخل مدينة دير البلح.",
+   "body_ar": [
+    "قُتل أربعة أشخاص يوم الجمعة إثر استهداف مسيرة إسرائيلية لتجمع من المدنيين في مخيم البريج، بينما أسفرت ضربة أخرى عن مقتل شخص في مخيم النصيرات. كما قُتل فلسطينيان في قصف بطائرة مسيرة استهدف مدنيين قرب مدخل دير البلح، حيث نُقل الجرحى إلى مستشفيات المنطقة التي تعمل بطاقة محدودة بسبب نقص الإمدادات الطبية والكوادر.",
+    "وبالتزامن مع هذه الهجمات، نفذ الجيش الإسرائيلي عمليات نسف باستخدام طائرات مسيرة مفخخة في حي الشجاعية شرق مدينة غزة، بالإضافة إلى ثلاث عمليات تفجير واسعة شرق خان يونس. وفي سياق منفصل، أعلنت هيئات الأسرى الفلسطينية يوم الجمعة أن نحو 350 طفلاً فلسطينياً يقبعون في السجون الإسرائيلية ويعانون من ظروف قاسية تشمل التعذيب والتجويع."
+   ]
+  },
+  {
+   "id": "aecd3a5a0f31",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+   "date": "2026-11-20T19:57:05Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+   "title_en": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+   "summary_en": "Palestinian security sources and witnesses have accused Israeli-backed local armed groups of assisting in a recent Israeli military ground incursion into central Gaza. The armed men reportedly conducted searches and pressured displaced civilians just before Israeli forces entered areas near the Nuseirat and Bureij camps.",
+   "body_en": [
+    "Armed Palestinians in civilian clothing surrounded a shelter in the Nuseirat refugee camp on Tuesday night, interrogating residents and firing into the air before Israeli troops began an operation nearby on Wednesday. A Palestinian security source told Al Jazeera that these groups aided the operation by intimidating civilians, forcing evacuations, and relying on Israeli military fire cover. The source described them as gangs funded and armed by Israel to create internal chaos.",
+    "Analysts cited by Al Jazeera stated that Israel is widening the footprint of around five armed anti-Hamas factions across Gaza, using them for intelligence gathering and front-line activity ahead of regular troops. Prime Minister Benjamin Netanyahu had previously acknowledged supporting groups opposed to Hamas, defending the tactic as a measure to protect Israeli soldiers."
+   ],
+   "title_fa": "گروه‌های فلسطینی مخالف حماس به دست داشتن در عملیات اسرائیل در غزه متهم شدند",
+   "summary_fa": "منابع امنیتی و شاهدان محلی فلسطینی، گروه‌های مسلح محلی مورد حمایت اسرائیل را به همکاری در عملیات زمینی اخیر ارتش اسرائیل در مرکز نوار غزه متهم کردند. گزارش شده است این افراد مسلح درست پیش از ورود نیروهای اسرائیلی به حوالی اردوگاه‌های النصیرات و البریج، اقدام به بازرسی و ایجاد وحشت در میان آوارگان کرده بودند.",
+   "body_fa": [
+    "افراد مسلح فلسطینی با لباس شخصی سه‌شنبه‌شب پناهگاهی را در اردوگاه النصیرات محاصره کردند و پیش از آغاز عملیات روز چهارشنبه ارتش اسرائیل، ساکنان را بازجویی کرده و تیر هوایی شلیک نمودند. یک منبع امنیتی فلسطینی به الجزیره گفت که این گروه‌ها با ایجاد رعب میان غیرنظامیان و وادار کردن آنها به تخلیه، زیر پوشش آتش اسرائیل به این عملیات کمک کردند. این منبع آنها را باندهایی خواند که از سوی اسرائیل برای دامن زدن به هرج‌ومرج تسلیح و تأمین مالی می‌شوند.",
+    "تحلیلگران در گفتگو با الجزیره اشاره کردند که اسرائیل در حال گسترش فعالیت حدود پنج گروه مسلح مخالف حماس در سراسر نوار غزه است تا از آنها برای جمع‌آوری اطلاعات و حضور در خط مقدم پیش از ورود نظامیان خود استفاده کند. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، پیش‌تر از حمایت از گروه‌های ضد حماس دفاع کرده و آن را اقدامی برای حفظ جان سربازان اسرائیلی دانسته بود."
+   ],
+   "title_ar": "اتهام جماعات فلسطينية مناهضة لحماس بالمشاركة في عملية عسكرية إسرائيلية بغزة",
+   "summary_ar": "اتهمت مصادر أمنية فلسطينية وشهود عيان جماعات مسلحة محلية مدعومة من إسرائيل بالمشاركة في عملية توغل بري نفذها الجيش الإسرائيلي وسط قطاع غزة مؤخراً. وأفادت المصادر بأن المسلحين أجروا تحقيقات وضغطوا على النازحين قبيل بدء الجيش عمليته قرب مخيمي النصيرات والبريج مباشرة.",
+   "body_ar": [
+    "حاصر مسلحون فلسطينيون يرتدون ملابس مدنية مأوى للنازحين في مخيم النصيرات ليل الثلاثاء، حيث استجوبوا سكانه وأطلقوا النار في الهواء قبل أن يبدأ الجيش الإسرائيلي عمليته يوم الأربعاء. وأفاد مصدر أمني فلسطيني للجزيرة بأن هذه الجماعات شاركت في العملية من خلال ترهيب المدنيين وإجبارهم على النزوح مستفيدة من الغطاء الناري الإسرائيلي، واصفاً إياها بأنها عصابات تسلحها إسرائيل لإثارة الفوضى.",
+    "وأوضح محللون للجزيرة أن إسرائيل تعمل على توسيع انتشار نحو خمس جماعات مسلحة مناهضة لحماس في قطاع غزة لاستخدامها في جمع المعلومات وعمليات الخطوط الأمامية قبل الدفع بالقوات النظامية. وكان رئيس الوزراء بنيامين نتنياهو قد أقر في وقت سابق بدعم جماعات مسلحة معارضة لحماس، معتبراً أن هذه السياسة أنقذت حياة جنود إسرائيليين."
+   ]
+  },
   {
    "id": "2453f6a66a0b",
    "lang": "en",
@@ -236,37 +355,6 @@
    ]
   },
   {
-   "id": "46c04075e944",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045921/fo-rejects-indias-undiplomatic-irresponsible-remarks-about-pakistans-mineral-wealth",
-   "date": "2026-11-20T13:42:50Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
-   "title_en": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
-   "summary_en": "Pakistan's Foreign Office has rejected remarks by India's UN representative accusing the Pakistani military of exploiting the country's mineral wealth, describing the comments as undiplomatic and irresponsible.",
-   "body_en": [
-    "The Pakistani Foreign Office stated that the Indian allegations constituted unacceptable interference in Pakistan's internal affairs. The statement accused India of making baseless allegations to distract from its own actions, including holding the Indus Waters Treaty in abeyance following an attack in Pahalgam.",
-    "Pakistan also urged India to comply with international obligations, respect UN Security Council resolutions regarding Jammu and Kashmir, and address Pakistan's concerns regarding water rights and support for cross-border militancy."
-   ],
-   "title_fa": "رد سخنان «غیردیپلماتیک و غیرمسئولانه» هند درباره ثروت معدنی پاکستان از سوی وزارت خارجه",
-   "summary_fa": "وزارت امور خارجه پاکستان سخنان نماینده هند در سازمان ملل که ارتش پاکستان را به سوءاستفاده از ثروت‌های معدنی کشور متهم کرده بود، رد کرد و آن را غیردیپلماتیک و غیرمسئولانه خواند.",
-   "body_fa": [
-    "وزارت امور خارجه پاکستان اعلام کرد ادعاهای هند دخالتی غیرقابل قبول در امور داخلی پاکستان است. در این بیانیه هند متهم شد که با طرح اتهامات بی‌اساس می‌کوشد توجهات را از اقدامات خود، از جمله تعلیق یک‌جانبه پیمان آب‌های سند پس از حمله در پهلگام، منحرف کند.",
-    "پاکستان همچنین از هند خواست به تعهدات بین‌المللی و قطعنامه‌های شورای امنیت سازمان ملل در مورد جامو و کشمیر پایبند باشد."
-   ],
-   "title_ar": "الخارجية الباكستانية ترفض تصريحات الهند \"غير الدبلوماسية وغير المسؤولة\" بشأن ثرواتها المعدنية",
-   "summary_ar": "رفضت وزارة الخارجية الباكستانية تصريحات مبعوث الهند لدى الأمم المتحدة التي اتهم فيها الجيش الباكستاني باستغلال الثروات المعدنية للبلاد، واصفة إياها بأنها غير دبلوماسية وغير مسؤولة.",
-   "body_ar": [
-    "وذكرت الخارجية الباكستانية أن الاتهامات الهندية تشكل تدخلاً غير مقبول في الشؤون الداخلية لباكستان، مضيفة أن الهند تسعى من خلال هذه الادعاءات إلى التغطية على تعليقها الأحادي لـ معاهدة مياه السند عقب هجوم باهالجام.",
-    "كما دعت الباكستان الهند إلى الالتزام بالقرارات الدولية وقرارات مجلس الأمن المتعلقة بجامو وكشمير."
-   ]
-  },
-  {
    "id": "516b3646f4a5",
    "lang": "en",
    "source": "Dawn",
@@ -436,37 +524,6 @@
    "summary_ar": "أعلن نائب رئيس الوزراء الماليزي أحمد زاهد حميدي عن مقترح لإعادة توطين 10 آلاف لاجئ من الروهينغا في تركيا عبر برنامج للتدريب المهني. وتأتي هذه المبادرة في أعقاب صدور حكم قضائي دولي بشأن ميانمار.",
    "body_ar": [
     "وبموجب الخطة التي وافق عليها مجلس الوزراء الماليزي، سيخضع اللاجئون المختارون لبرنامج تدريب مهني وتقني يمتد بين ثلاثة وستة أشهر في تركيا. وأوضح المسؤولون أن المبادرة تهدف لتزويد المشاركين بالمهارات اللازمة للعمل في القطاعات الصناعية التركية وفقاً لمبادئ المفوضية السامية لشؤون اللاجئين."
-   ]
-  },
-  {
-   "id": "14028a62e592",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-   "date": "2026-11-20T07:56:03Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-   "title_en": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-   "summary_en": "Projections from the Pew Research Center indicate that Muslims will outnumber Christians globally by 2035 due to higher fertility rates.",
-   "body_en": [
-    "Between 2020 and 2070, the global Muslim population is expected to grow by 80 percent to 3.64 billion, compared to a 30 percent increase for Christians. High birth rates drive this trend, with Muslim women averaging 3.1 children between 2020 and 2025. Most of this growth will occur in Muslim-majority countries, which are expected to account for 74 percent of the global increase.",
-    "Demographic shifts will also alter country rankings by 2070. Pakistan is projected to replace Indonesia as the nation with the largest Muslim population, while India will move to second place, Nigeria to third, and Ethiopia and Sudan will join the top 10 as Iran and Algeria drop off."
-   ],
-   "title_fa": "اسلام تا سال ۲۰۳۵ بزرگ‌ترین دین جهان خواهد شد: اکثریت مسلمانان کجا زندگی خواهند کرد؟",
-   "summary_fa": "پیش‌بینی‌های مرکز تحقیقات پیو نشان می‌دهد که تا سال ۲۰۳۵ به دلیل نرخ بالاتر باروری، جمعیت مسلمانان در سطح جهان از مسیحیان پیشی خواهد گرفت.",
-   "body_fa": [
-    "بین سال‌های ۲۰۲۰ تا ۲۰۷۰، انتظار می‌رود جمعیت مسلمانان جهان با ۸۰ درصد افزایش به ۳.۶۴ میلیارد نفر برسد، در حالی که این رشد برای مسیحیان ۳۰ درصد خواهد بود. نرخ بالای تولد عامل اصلی این روند است، به طوری که زنان مسلمان بین سال‌های ۲۰۲۰ تا ۲۰۲۵ به طور متوسط ۳.۱ فرزند داشته‌اند. بخش اعظم این رشد در ۵۳ کشور با اکثریت مسلمان رخ خواهد داد که ۷۴ درصد از افزایش جهانی را شامل می‌شود.",
-    "تغییرات جمعیتی همچنین رتبه‌بندی کشورها را تا سال ۲۰۷۰ تغییر خواهد داد. پیش‌بینی می‌شود پاکستان جای اندونزی را به عنوان دارنده بزرگ‌ترین جمعیت مسلمان بگیرد، هند به رتبه دوم و نیجریه به رتبه سوم صعود کنند و اتیوپی و سودان جایگزین ایران و الجزایر در میان ۱۰ کشور نخست شوند."
-   ],
-   "title_ar": "الإسلام يتجه ليكون أكبر ديانة بحلول 2035: أين سيعيش معظم المسلمين؟",
-   "summary_ar": "تشير توقعات مرکز بيو للبحوث إلى أن عدد المسلمين سيفوق عدد المسيحيين على مستوى العالم بحلول عام 2035 بفضل معدلات الولادة المرتفعة.",
-   "body_ar": [
-    "من المتوقع أن ينمو عدد المسلمين في العالم بنسبة 80 بالمئة بين عامي 2020 و2070 ليصل إلى 3.64 مليار نسمة، مقارنة بنمو بنسبة 30 بالمئة للمسيحيين. وتعد معدلات الولادة العالية المحرك الرئيسي لهذا الاتجاه، حيث بلغ متوسط خضوبة المرأة المسلمة 3.1 طفل بين عامي 2020 و2025. وسيكون معظم هذا النمو في الدول ذات الغالبية المسلمة التي ستشكل 74 بالمئة من الزيادة العالمية.",
-    "كما ستؤدي التحولات الديمغرافية إلى تغيير ترتيب الدول بحلول عام 2070؛ إذ يُتوقع أن تتجاوز باكستان إندونيسيا كأكبر دولة تضم سكاناً مسلمين، وتصعد الهند إلى المرتبة الثانية ونيجيريا إلى الثالثة، بينما تنضم إثيوبيا والسودان إلى قائمة الدول العشر الأولى مع خروج إيران والجزائر."
    ]
   },
   {
@@ -652,36 +709,6 @@
    ]
   },
   {
-   "id": "beca203ab840",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-   "date": "2026-11-20T05:01:40Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 6,
-   "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-   "title_en": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-   "summary_en": "The Palestinian Civil Defence in Gaza is facing severe challenges in rescuing victims of military attacks due to a shortage of operational emergency vehicles and maintenance supplies.",
-   "body_en": [
-    "More than 85 percent of Gaza City's Civil Defence vehicles are out of service, leaving rescue teams to respond to strikes on foot or using heavy fire engines that cannot easily navigate crowded streets. Severe Israeli restrictions on the entry of engine oil, spare parts, and tyres since October 2023 have prevented maintenance, while local workshops struggle with inflated prices and lack of original components.",
-    "Officials from the Civil Defence and the United Nations warned that the breakdown of ageing fleets and machinery impairs humanitarian operations and delays response times to air strikes and fires, directly threatening the survival of injured individuals."
-   ],
-   "title_fa": "دفاع مدنی غزه همزمان با خرابی خودروها برای نجات جان انسان‌ها تلاش می‌کند",
-   "summary_fa": "دفاع مدنی فلسطین در غزه به دلیل کمبود خودروهای امدادی فعال و قطعات یدکی، با چالش‌های جدی در نجات قربانیان حملات نظامی مواجه است.",
-   "body_fa": [
-    "بیش از ۸۵ درصد از خودروهای دفاع مدنی در شهر غزه از رده خارج شده‌اند و تیم‌های نجات مجبورند پیاده یا با استفاده از ماشین‌های سنگین آتش‌نشانی که حرکت آن‌ها در خیابان‌های شلوغ دشوار است، به محل حادثه بروند. محدودیت‌های شدید اسرائیل بر ورود روغن موتور، قطعات یدکی و لاستیک از اکتبر ۲۰۲۳ مانع از تعمیرات شده است، در حالی که کارگاه‌های محلی با قیمت‌های بالا و نبود قطعات اصلی دست و پنجه نرم می‌کنند.",
-    "مقامات دفاع مدنی و سازمان ملل متحد هشدار دادند که فرسودگی و خرابی خودروها و تجهیزات، عملیات بشردوستانه را مختل کرده و زمان پاسخگویی به حملات هوایی و آتش‌سوزی‌ها را به تأخیر می‌اندازد که این امر مستقیماً نجات جان مصدومان را با خطر مواجه می‌کند."
-   ],
-   "title_ar": "الدفاع المدني في غزة يكافح لإنقاذ الأرواح مع تعطل آلياته",
-   "summary_ar": "يواجه الدفاع المدني الفلسطيني في غزة تحديات جسيمة في إنقاذ ضحايا الهجمات العسكرية بسبب النقص الحاد في مركبات الطوارئ الصالحة للعمل وقطع الغيار.",
-   "body_ar": [
-    "تعطلت أكثر من 85 بالمئة من مركبات الدفاع المدني في مدينة غزة، مما أجبر طواقم الإنقاذ على الاستجابة للغارات سائرة على الأقدام أو باستخدام شاحنات الإطفاء الكبيرة التي يصعب توجيهها في الشوارع المزدحمة. وتمنع القيود الإسرائيلية الصارمة فرضها على دخول زيت المحركات وقطع الغيار والإطارات منذ أكتوبر 2023 عمليات الصيانة، بينما تعاني الورش المحلية من ارتفاع الأسعار وغياب القطع الأصلية.",
-    "وحذر مسؤولون في الدفاع المدني والأمم المتحدة من أن تهالك الأسطول والمعدات يعيق العمليات الإنسانية ويؤخر الاستجابة للغارات الجوية والحرائق، مما يهدد فرص نجاة المصابين بشكل مباشر."
-   ]
-  },
-  {
    "id": "cb5cc079a97d",
    "lang": "en",
    "source": "Dawn",
@@ -734,36 +761,6 @@
    "title_ar": "التحالف بقيادة السعودية يعلن تدمير صاروخ للحوثيين",
    "summary_ar": "أعلن التحالف بقيادة السعودية اعتراض وتدمير صاروخ باليستي أطلقه الحوثيون باتجاه جنوب المملكة العربية السعودية.",
    "body_ar": []
-  },
-  {
-   "id": "9e1972b616fe",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece",
-   "date": "2026-11-20T03:00:36Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 6,
-   "title": "U.S. religious freedom panel says ‘India targeting minorities in voter roll revisions’",
-   "title_en": "U.S. religious freedom panel says ‘India targeting minorities in voter roll revisions’",
-   "summary_en": "The United States Commission on International Religious Freedom stated that India is targeting religious minorities, particularly Muslims, by removing them from electoral rolls during a nationwide revision.",
-   "body_en": [
-    "According to USCIRF officials, the Special Intensive Revision removed 130 million names from India's voter lists, disproportionately affecting Muslim citizens. Panel members claimed that the government is improperly classifying removed voters as foreigners and illegally deporting them, prompting calls for the U.S. State Department to designate India as a country of particular concern.",
-    "The Election Commission of India stated the removals were intended to purge duplicate, deceased, or ineligible entries, offering an appeals process for errors. The Indian government has previously dismissed USCIRF reports as biased interference in its domestic affairs, while U.S. Secretary of State Marco Rubio recently characterized the issue as an internal political matter."
-   ],
-   "title_fa": "هیئت آزادی مذهبی آمریکا می‌گوید «هند در بازنگری فهرست‌های رای‌دهندگان اقلیت‌ها را هدف قرار می‌دهد»",
-   "summary_fa": "کمیسیون آزادی مذهبی بین‌المللی ایالات متحده اعلام کرد که هند با حذف اقلیت‌های مذهبی، به‌ویژه مسلمانان، از فهرست‌های انتخاباتی در جریان بازنگری سراسری، آن‌ها را هدف قرار داده است.",
-   "body_fa": [
-    "به گفته مقامات این کمیسیون، در جریان این بازنگری ویژه ۱۳۰ میلیون نام از فهرست‌های رای‌دهندگان هند حذف شده که به طور ناهمگون بر شهروندان مسلمان تاثیر گذاشته است. اعضای این هیئت مدعی شدند که دولت هند رای‌دهندگان حذف‌شده را به عنوان غیربومی دسته‌بندی کرده و به طور غیرقانونی اخراج می‌کند، و خواستار معرفی هند به عنوان «کشور مورد نگرانی ویژه» از سوی وزارت خارجه آمریکا شدند.",
-    "کمیسیون انتخابات هند اعلام کرد که هدف از این حذف‌ها پاکسازی اسامی تکراری، متوفیان یا افراد واجد شرایط نبودن بوده و امکان اعتراض را فراهم کرده است. دولت هند پیش از این گزارش‌های این کمیسیون را مداخله‌جویانه و مغرضانه خوانده بود، در حالی که مارکو روبیو، وزیر امور خارجه آمریکا، اخیراً این موضوع را یک مسئله داخلی دانست."
-   ],
-   "title_ar": "لجنة الحرية الدينية الأمريكية تقول إن \"إنديا تستهدف الأقليات في مراجعة سجلات الناخبين\"",
-   "summary_ar": "أعلنت اللجنة الأمريكية للحرية الدينية الدولية أن الهند تستهدف الأقليات الدينية، وخاصة المسلمين، من خلال إزالتهم من سجلات الناخبين خلال عملية مراجعة شاملة على مستوى البلاد.",
-   "body_ar": [
-    "ووفقاً لمسؤولي اللجنة، أسفرت المراجعة المكثفة عن حذف 130 مليون اسم من سجلات الناخبين في الهند، وهو ما أثر بشكل غير متناسب على المواطنين المسلمين. وذكر أعضاء اللجنة أن الحكومة تصنف الناخبين المستبعدين كأجانب وترحلهم بصورة غير قانونية، داعين وزارة الخارجية الأمريكية إلى تصنيف الهند كـ \"دولة ذات اهتمام خاص\".",
-    "من جانبها، قالت لجنة الانتخابات الهندية إن عملية الحذف استهدفت إزالة الأسماء المكررة والمتوفين وغير المؤهلين، مع توفير آلية للطعن. وكانت الحكومة الهندية قد رفضت سابقاً تقارير اللجنة واعتبرتها تدخلاً منحازاً في شؤونها الداخلية، في حين وصف وزير الخارجية الأمريكي ماركو روبيو القضية مؤخراً بأنها شأن سياسي داخلي."
-   ]
   },
   {
    "id": "36788c5122bc",
