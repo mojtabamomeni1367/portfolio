@@ -1,7 +1,174 @@
 {
- "updated": "2026-11-20T01:22:57Z",
- "count": 421,
+ "updated": "2026-11-20T04:11:41Z",
+ "count": 428,
  "items": [
+  {
+   "id": "cb5cc079a97d",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045854/pakistan-among-15-nations-welcoming-uk-australia-sanctions-on-israeli-settlements-hoping-others-follow-suit",
+   "date": "2026-11-20T03:08:46Z",
+   "countries": [
+    "ISR",
+    "PAK",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Pakistan among 15 nations welcoming UK, Australia sanctions on Israeli settlements, hoping others follow suit",
+   "title_en": "Pakistan among 15 nations welcoming UK, Australia sanctions on Israeli settlements, hoping others follow suit",
+   "summary_en": "Pakistan and 14 other countries have welcomed recent sanctions imposed by Britain and Australia on entities and individuals tied to Israeli settlement activities in the occupied West Bank.",
+   "body_en": [
+    "In a joint statement, foreign ministers from 15 nations commended the British measures against eight construction companies and an aid-blocking group, as well as Australian sanctions targeting several individuals and organisations over settlement expansion. The ministers reiterated their condemnation of Israeli settlement policies, especially the E1 plan east of East Jerusalem, and advocated for punitive international measures against those executing annexation efforts.",
+    "The statement also denounced the military escalation in Gaza, urging the full implementation of US President Donald Trump's comprehensive plan to end the conflict and address humanitarian needs. The ministers reaffirmed that establishing an independent, contiguous Palestinian state along the 1967 borders with East Jerusalem as its capital remains the only viable path to lasting peace."
+   ],
+   "title_fa": "پاکستان در میان ۱۵ کشوری که از تحریم‌های بریتانیا و استرالیا علیه شهرک‌سازی‌های اسرائیل استقبال کردند و خواستار تکرار آن شدند",
+   "summary_fa": "پاکستان و ۱۴ کشور دیگر از تحریم‌های اخیر بریتانیا و استرالیا علیه نهادها و افراد مرتبط با فعالیت‌های شهرک‌سازی اسرائیل در کرانه باختری اشغالی استقبال کردند.",
+   "body_fa": [
+    "وزیران امور خارجه ۱۵ کشور در بیانیه‌ای مشترک از تدابیر بریتانیا علیه هشت شرکت ساختمانی و یک گروه مانع ارسال کمک‌ها، و همچنین تحریم‌های استرالیا علیه چند فرد و سازمان به دلیل گسترش شهرک‌ها تمجید کردند. این وزیران سیاست‌های شهرک‌سازی اسرائیل، به‌ویژه طرح ای۱ در شرق قدس شرقی را محکوم کرده و خواستار اقدامات تنبیهی بین‌المللی علیه مجریان الحاق اراضی شدند.",
+    "این بیانیه همچنین تشدید تنش‌های نظامی در غزه را محکوم کرده و خواستار اجرای کامل طرح جامع دونالد ترامپ، رئیس‌جمهور آمریکا، برای پایان‌دادن به درگیری و رسیدگی به اوضاع انسانی شد. وزیران تأکید کردند تشکیل کشور مستقل و یکپارچه فلسطین بر اساس مرزهای ۱۹۶۷ به پایتختی قدس شرقی تنها راه دستیابی به صلح پایدار است."
+   ],
+   "title_ar": "باكستان بين 15 دولة ترحب بعقوبات بريطانيا وأستراليا على المستوطنات الإسرائيلية وتأمل أن تحذو دول أخرى حذوهما",
+   "summary_ar": "رحبت باكستان إلى جانب 14 دولة أخرى بالعقوبات الأخيرة التي فرضتها بريطانيا وأستراليا على كيانات وأفراد مرتبطين بأنشطة الاستيطان الإسرائيلي في الضفة الغربية المحتلة.",
+   "body_ar": [
+    "أشاد وزراء خارجية 15 دولة في بيان مشترك بالإجراءات البريطانية ضد ثماني شركات بناء وجماعة تعرقل المساعدات، فضلاً عن العقوبات الأسترالية التي استهدفت أفراداً ومنظمات لتورطهم في التوسع الاستيطاني. وجدد الوزراء إدانتهم لسياسات الاستيطان الإسرائيلية، لا سيما خطة «E1» شرقي القدس الشرقية، داعين إلى تدابير دولية لمعاقبة الجهات المسؤولة عن تنفيذ سياسات الضم.",
+    "كما أدان البيان التصعيد العسكري في غزة، مطالباً بالتنفيذ الكامل لخطة الرئيس دونالد ترامب الشاملة لإنهاء الصراع ومعالجة الأوضاع الإنسانية. وأكد الوزراء مجدداً أن إقامة دولة فلسطينية مستقلة ومتصلة جغرافياً على حدود عام 1967 وعاصمتها القدس الشرقية هي السبيل الوحيد لتحقيق السلام الدائم."
+   ]
+  },
+  {
+   "id": "16e6d871a851",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-destruction-houthi-missile",
+   "date": "2026-11-20T03:08:13Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition claims destruction of Houthi missile",
+   "title_en": "Saudi-led coalition claims destruction of Houthi missile",
+   "summary_en": "The Saudi-led coalition stated that it intercepted and destroyed a ballistic missile launched by the Houthis toward southern Saudi Arabia.",
+   "body_en": [],
+   "title_fa": "ائتلاف به رهبری عربستان سعودی از انهدام موشک حوثی‌ها خبر داد",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد یک فروند موشک بالستیک شلیک‌شده توسط حوثی‌ها به سوی جنوب عربستان سعودی را رهگیری و منهدم کرده است.",
+   "body_fa": [],
+   "title_ar": "التحالف بقيادة السعودية يعلن تدمير صاروخ للحوثيين",
+   "summary_ar": "أعلن التحالف بقيادة السعودية اعتراض وتدمير صاروخ باليستي أطلقه الحوثيون باتجاه جنوب المملكة العربية السعودية.",
+   "body_ar": []
+  },
+  {
+   "id": "9e1972b616fe",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-religious-freedom-panel-says-india-is-targeting-minorities-in-voter-roll-revisions/article71722894.ece",
+   "date": "2026-11-20T03:00:36Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 6,
+   "title": "U.S. religious freedom panel says ‘India targeting minorities in voter roll revisions’",
+   "title_en": "U.S. religious freedom panel says ‘India targeting minorities in voter roll revisions’",
+   "summary_en": "The United States Commission on International Religious Freedom stated that India is targeting religious minorities, particularly Muslims, by removing them from electoral rolls during a nationwide revision.",
+   "body_en": [
+    "According to USCIRF officials, the Special Intensive Revision removed 130 million names from India's voter lists, disproportionately affecting Muslim citizens. Panel members claimed that the government is improperly classifying removed voters as foreigners and illegally deporting them, prompting calls for the U.S. State Department to designate India as a country of particular concern.",
+    "The Election Commission of India stated the removals were intended to purge duplicate, deceased, or ineligible entries, offering an appeals process for errors. The Indian government has previously dismissed USCIRF reports as biased interference in its domestic affairs, while U.S. Secretary of State Marco Rubio recently characterized the issue as an internal political matter."
+   ],
+   "title_fa": "هیئت آزادی مذهبی آمریکا می‌گوید «هند در بازنگری فهرست‌های رای‌دهندگان اقلیت‌ها را هدف قرار می‌دهد»",
+   "summary_fa": "کمیسیون آزادی مذهبی بین‌المللی ایالات متحده اعلام کرد که هند با حذف اقلیت‌های مذهبی، به‌ویژه مسلمانان، از فهرست‌های انتخاباتی در جریان بازنگری سراسری، آن‌ها را هدف قرار داده است.",
+   "body_fa": [
+    "به گفته مقامات این کمیسیون، در جریان این بازنگری ویژه ۱۳۰ میلیون نام از فهرست‌های رای‌دهندگان هند حذف شده که به طور ناهمگون بر شهروندان مسلمان تاثیر گذاشته است. اعضای این هیئت مدعی شدند که دولت هند رای‌دهندگان حذف‌شده را به عنوان غیربومی دسته‌بندی کرده و به طور غیرقانونی اخراج می‌کند، و خواستار معرفی هند به عنوان «کشور مورد نگرانی ویژه» از سوی وزارت خارجه آمریکا شدند.",
+    "کمیسیون انتخابات هند اعلام کرد که هدف از این حذف‌ها پاکسازی اسامی تکراری، متوفیان یا افراد واجد شرایط نبودن بوده و امکان اعتراض را فراهم کرده است. دولت هند پیش از این گزارش‌های این کمیسیون را مداخله‌جویانه و مغرضانه خوانده بود، در حالی که مارکو روبیو، وزیر امور خارجه آمریکا، اخیراً این موضوع را یک مسئله داخلی دانست."
+   ],
+   "title_ar": "لجنة الحرية الدينية الأمريكية تقول إن \"إنديا تستهدف الأقليات في مراجعة سجلات الناخبين\"",
+   "summary_ar": "أعلنت اللجنة الأمريكية للحرية الدينية الدولية أن الهند تستهدف الأقليات الدينية، وخاصة المسلمين، من خلال إزالتهم من سجلات الناخبين خلال عملية مراجعة شاملة على مستوى البلاد.",
+   "body_ar": [
+    "ووفقاً لمسؤولي اللجنة، أسفرت المراجعة المكثفة عن حذف 130 مليون اسم من سجلات الناخبين في الهند، وهو ما أثر بشكل غير متناسب على المواطنين المسلمين. وذكر أعضاء اللجنة أن الحكومة تصنف الناخبين المستبعدين كأجانب وترحلهم بصورة غير قانونية، داعين وزارة الخارجية الأمريكية إلى تصنيف الهند كـ \"دولة ذات اهتمام خاص\".",
+    "من جانبها، قالت لجنة الانتخابات الهندية إن عملية الحذف استهدفت إزالة الأسماء المكررة والمتوفين وغير المؤهلين، مع توفير آلية للطعن. وكانت الحكومة الهندية قد رفضت سابقاً تقارير اللجنة واعتبرتها تدخلاً منحازاً في شؤونها الداخلية، في حين وصف وزير الخارجية الأمريكي ماركو روبيو القضية مؤخراً بأنها شأن سياسي داخلي."
+   ]
+  },
+  {
+   "id": "9bf19716985f",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045802/security-withdrawn-from-fazl-family-members",
+   "date": "2026-11-20T02:46:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Security withdrawn from Fazl, family members",
+   "title_en": "Security withdrawn from Fazl, family members",
+   "summary_en": "Police and Federal Constabulary personnel deployed to protect JUI-F chief Maulana Fazlur Rehman and his family members were withdrawn from their residences in Islamabad and Dera Ismail Khan.",
+   "body_en": [
+    "A spokesman for the JUI-F confirmed the security detail's withdrawal, alleging that police had cordoned off the party chief's residence in Islamabad and besieged its Central Secretariat. However, an Islamabad police official disputed the extent of the claim, stating that only a single guard had been recalled.",
+    "Separately, Islamabad police registered a case under anti-terrorism laws against two JUI-F leaders and over 200 unidentified party workers following a November 7 demonstration held without official authorization. Authorities allege that participants clashed with officers, blocked roads, and damaged a police vehicle during the incident."
+   ],
+   "title_fa": "امنیتی از فضل و اعضای خانواده‌اش سلب شد",
+   "summary_fa": "نیروهای پلیس و پاسداران فدرال که برای حفاظت از مولانا فضل‌الرحمن، رهبر جمعیت علمای اسلام (شاخه فضل)، و اعضای خانواده‌اش مستقر شده بودند، از اقامتگاه‌های آنان در اسلام‌آباد و دیره اسماعیل خان فراخوانده شدند.",
+   "body_fa": [
+    "سخنگوی این حزب با تایید فراخوانی نیروهای امنیتی، ادعا کرد که پلیس اقامتگاه رهبر حزب در اسلام‌آباد را محاصره کرده و دفتر مرکزی آن را تحت نظر گرفته است. با این حال، یکی از مقامات پلیس اسلام‌آباد با رد این ادعا اعلام کرد که تنها یک محافظ فراخوانده شده است.",
+    "در رویدادی جداگانه، پلیس اسلام‌آباد پرونده‌ای تحت قوانین ضد تروریسم علیه دو تن از رهبران این حزب و بیش از ۲۰۰ فعال ناشناس به دلیل برگزاری تظاهرات بدون مجوز در تاریخ ۷ نوامبر تشکیل داد. مقامات مدعی هستند که شرکت‌کنندگان در این تجمع با پلیس درگیر شده، راه‌ها را مسدود کرده و به خودروی پلیس آسیب رسانده‌اند."
+   ],
+   "title_ar": "سحب الحراسة الأمنية عن فضل وأفراد عائلته",
+   "summary_ar": "سحبت السلطات أفراد الشرطة والقوات الاتحادية المكلفين بحماية زعيم جمعية علماء الإسلام (ف) مولانا فضل الرحمن وأفراد عائلته من منازلهم في إسلام آباد وديرة إسماعيل خان.",
+   "body_ar": [
+    "وأكد متحدث باسم الحزب سحب أفراد الحراسة، زاعماً أن الشرطة فرضت طوقاً حول منزل زعيم الحزب في إسلام آباد وحاصرت أمانته المركزية. وفي المقابل، نفى مسؤول في شرطة إسلام آباد حجم هذه الادعاءات، موضحاً أنه تم استدعاء حارس واحد فقط.",
+    "وفي سياق منفصل، سجلت شرطة إسلام آباد قضية بموجب قانون مكافحة الإرهاب ضد اثنين من قادة الحزب وأكثر من 200 من كوادر الحزب إثر مظاهرة أقيمت في 7 نوفمبر دون تصريح. وتتهم السلطات المشاركين بالاشتباك مع الشرطة وقطع الطرق وإلحاق الأضرار بمركبة تابعة للشرطة."
+   ]
+  },
+  {
+   "id": "36788c5122bc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-drones-south",
+   "date": "2026-11-20T02:28:09Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Saudi-led coalition says it intercepted two drones in south",
+   "title_en": "Saudi-led coalition says it intercepted two drones in south",
+   "summary_en": "The Saudi-led coalition announced that it intercepted and destroyed drones fired by Yemen's Houthis targeting the southern region of Saudi Arabia.",
+   "body_en": [],
+   "title_fa": "ائتلاف به رهبری عربستان سعودی از رهگیری دو پهپاد در جنوب خبر داد",
+   "summary_fa": "ائتلاف به رهبری عربستان سعودی اعلام کرد پهپادهای پرتاب‌شده توسط حوثی‌های یمن به سمت منطقه جنوبی عربستان سعودی را رهگیری و منهدم کرده است.",
+   "body_fa": [],
+   "title_ar": "التحالف بقيادة السعودية يعلن اعتراض طائرتين مسيرتين في الجنوب",
+   "summary_ar": "أعلن التحالف بقيادة السعودية اعتراض وتدمير طائرات مسيرة أطلقها الحوثيون في اليمن باتجاه المنطقة الجنوبية للمملكة العربية السعودية.",
+   "body_ar": []
+  },
+  {
+   "id": "f8b99e0d6df3",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ambassador-us-says-decision-strike-iran-lies-trump",
+   "date": "2026-11-19T23:40:38Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israel’s ambassador to US says the decision to strike Iran lies with Trump",
+   "title_en": "Israel’s ambassador to US says the decision to strike Iran lies with Trump",
+   "summary_en": "Israel’s Ambassador to the United States Yechiel Leiter stated that any decision to resume military strikes against Iran rests with President Donald Trump.",
+   "body_en": [
+    "Speaking to American media outlet Newsmax, Leiter stated that Israel would support the United States if Donald Trump decides to launch an attack on Iran, affirming Israel would participate alongside U.S. forces.",
+    "Leiter also referred to claims made by Donald Trump regarding Iranian development of chemical or biological weapons, describing the threat posed to Israel as immediate and existential."
+   ],
+   "title_fa": "سفیر اسرائیل در آمریکا می‌گوید تصمیم برای حمله به ایران با ترامپ است",
+   "summary_fa": "یحیی لیتر، سفیر اسرائیل در ایالات متحده، اعلام کرد که هرگونه تصمیم برای ازسرگیری حملات نظامی علیه ایران بر عهده دونالد ترامپ، رئیس‌جمهور آمریکا، خواهد بود.",
+   "body_fa": [
+    "لیتر در گفتگو با رسانه آمریکایی نیوزمکس گفت که اگر دونالد ترامپ تصمیم به حمله به ایران بگیرد، اسرائیل از ایالات متحده پشتیبانی خواهد کرد و در کنار نیروهای آمریکایی خواهد بود.",
+    "لیتر همچنین با اشاره به ادعاهای دونالد ترامپ مبنی بر توسعه تسلیحات شیمیایی یا میکروبی توسط ایران، تهدید متوجه اسرائیل را فوری و وجودی توصیف کرد."
+   ],
+   "title_ar": "سفير إسرائيل لدى واشنطن يقول إن قرار ضرب إيران بيد ترامب",
+   "summary_ar": "صرح سفير إسرائيل لدى الولايات المتحدة يحييل ليتر بأن أي قرار لاستئناف الضربات العسكرية ضد إيران يعود إلى الرئيس دونالد ترامب.",
+   "body_ar": [
+    "وقال ليتر في مقابلة مع وسيلة الإعلام الأمريكية \"نيوزماكس\" إن إسرائيل ستدعم الولايات المتحدة إذا قرر دونالد ترامب شن هجوم على إيران، مؤكداً أن إسرائيل ستكون إلى جانب القوات الأمريكية.",
+    "وأشار ليتر أيضاً إلى تصريحات دونالد ترامپ بشأن تطوير إيران لأسلحة كيميائية أو بيولوجية، واصفاً التهديد الموجه لإسرائيل بأنه ملموس ووجودي."
+   ]
+  },
   {
    "id": "89cf126ce800",
    "lang": "en",
@@ -23,6 +190,37 @@
    "title_ar": "إحراق مسجد في إسرائيل يثير ردود فعل سياسية غاضبة ضد نتنياهو",
    "summary_ar": "استهدف هجوم يُشتبه أنه بحرق عمد مسجداً في قرية الدحي العربية في شمال إسرائيل. ودان أعضاء في المعارضة والكنيست الحادثة باعتبارها جريمة كراهية، محملين حكومة بنيامين نتنياهو المسؤولية عن التحريض ضد العرب.",
    "body_ar": []
+  },
+  {
+   "id": "05b68ff09c29",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/confidence-hormuz-has-been-crushed-war-iran-iea-says",
+   "date": "2026-11-19T22:18:36Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Confidence in Hormuz has been 'crushed' by war on Iran, IEA says",
+   "title_en": "Confidence in Hormuz has been 'crushed' by war on Iran, IEA says",
+   "summary_en": "The head of the International Energy Agency has warned that the US-Israeli war on Iran has shattered confidence in the Strait of Hormuz as a dependable transit route for energy.",
+   "body_en": [
+    "Writing in The Economist, IEA chief Fatih Birol stated that he sees no viable way to return to the conditions that existed before the conflict, cautioning that shipping disruptions could recur. While noting that the world could manage without the strait, he acknowledged the process would be difficult.",
+    "According to the IEA's World Energy Outlook report, developing bypass pipelines around the strait would cost roughly $40bn, adding approximately $2 to each barrel of exported Middle Eastern oil, alongside $200bn needed for alternative energy sources elsewhere. The agency added that proposed and ongoing pipeline projects in the region could eventually transport about seven million barrels per day away from the waterway."
+   ],
+   "title_fa": "آژانس بین‌المللی انرژی: اعتماد به تنگه هرمز در پی جنگ علیه ایران «نابود» شده است",
+   "summary_fa": "رئیس آژانس بین‌المللی انرژی هشدار داد که جنگ آمریکا و اسرائیل علیه ایران، اعتماد به تنگه هرمز را به عنوان یک مسیر مطمئن برای صادرات انرژی نابود کرده است.",
+   "body_fa": [
+    "فاتح بیرول، رئیس آژانس بین‌المللی انرژی، در مقاله‌ای برای نشریه اکونومیست نوشت مسیر معتبری برای بازگشت به وضعیت پیش از درگیری‌ها نمی‌بیند و هشدار داد که اخلال در کشتیرانی ممکن است بار دیگر تکرار شود. او اشاره کرد که جهان احتمالاً می‌تواند بدون این آبراه سر کند، اما این کار دشوار خواهد بود.",
+    "بر اساس گزارش چشم‌انداز جهانی انرژی این نهاد، ایجاد خطوط لوله جایگزین مستلزم حدود ۴۰ میلیارد دلار هزینه است که تقریباً ۲ دلار به بهای هر بشکه نفت صادراتی خاورمیانه می‌افزاید و به ۲۰۰ میلیارد دلار سرمایه‌گذاری بیشتر در منابع جایگزین نیاز دارد. این آژانس افزود پروژه‌های احداث یا پیشنهادی خطوط لوله در منطقه می‌تواند انتقال روزانه حدود هفت میلیون بشکه نفت را بدون عبور از این تنگه امکان‌پذیر کند."
+   ],
+   "title_ar": "وكالة الطاقة الدولية: الحرب على إيران قضت على الثقة في مضيق هرمز",
+   "summary_ar": "حذر رئيس وكالة الطاقة الدولية من أن الحرب الأمريكية الإسرائيلية على إيران قد دمرت الثقة في مضيق هرمز كممر موثوق لتصدير الطاقة.",
+   "body_ar": [
+    "كتب فاتح بيرول، رئيس وكالة الطاقة الدولية، في مقال لمجلة ذا إيكونوميست أنه لا يرى مساراً موثوقاً للعودة إلى الأوضاع التي سبقت النزاع، محذراً من إمكانية تكرار تعطل الملاحة. ورغم إشارته إلى قدرة العالم على تدبر أمره بدون المضيق، إلا أنه أكد أن ذلك سيكون صعباً.",
+    "ووفقاً لتقرير آفاق الطاقة العالمية الصادر عن الوكالة، فإن تطوير خطوط أنابيب بديلة سيتطلب نحو 40 مليار دولار، ما يضيف نحو دولارين لتكلفة برميل النفط المصدر من الشرق الأوسط، إضافة إلى الحاجة لإنفاق 200 مليار دولار على مصادر طاقة بديلة. وأضافت الوكالة أن مشاريع الأنابيب المقترحة وقيد الإنشاء في المنطقة قادرة على ضخ نحو سبعة ملايين برميل يومياً خارج المضيق."
+   ]
   },
   {
    "id": "ec7aba325305",
