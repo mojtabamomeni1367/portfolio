@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:08:09Z",
+ "updated": "2026-11-20T01:22:57Z",
  "items": [
   {
    "id": "cd24719f402d",
@@ -783,7 +783,8 @@
     "PSE"
    ],
    "desc": "Palestinians in Israel face wave of attacks after Netanyahu's incitement campaign Submitted by Lubna Masarwa on Thu, 11/19/2026 - 12:09 Arson at a mosque, a suspected car-ramming attack and racist graffiti have followed weeks of escalating hostility An Israeli police officer looks at a vandalised wall near a mosque in the Arab village of Kafr Dahi in northern Israel on 19 November (Reuters/Shir Torem) Off Palestinian citizens of Israel faced a series of attacks overnight Thursday, following weeks of incitement by Prime Minister Benjamin Netanyahu and his far-right allies. A mosque in the villa",
-   "score": 6
+   "score": 6,
+   "dup_of": "ce066bd08d19"
   },
   {
    "id": "63d3818306ae",
@@ -1305,8 +1306,7 @@
     "PSE"
    ],
    "desc": "Knesset MPs call the incident 'a hate crime' while Hamas blames Israeli 'settler gangs'.",
-   "score": 7,
-   "dup_of": "9a1e955c77aa"
+   "score": 7
   },
   {
    "id": "03d140e26e75",
@@ -2075,6 +2075,89 @@
    "desc": "بعد توتر كاد يشعل مواجهة مسلحة، تقر بغداد خطة لإحلال قوات نظامية في جرف النصر وإعادة فتح طرقها، وسط ترقب لمصير عودة النازحين",
    "score": 7,
    "dup_of": "63d3818306ae"
+  },
+  {
+   "id": "bac251cd51b8",
+   "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T23:29:00Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+   "score": 2
+  },
+  {
+   "id": "205406d55564",
+   "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+   "date": "2026-11-19T23:58:40Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+   "score": 4
+  },
+  {
+   "id": "89cf126ce800",
+   "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+   "date": "2026-11-19T22:58:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+   "score": 7
+  },
+  {
+   "id": "2df4e0cff0ec",
+   "title": "PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/pm-modi-gifts-pichwaai-painting-banarasi-katan-silk-stole-kashmiri-carpet-to-world-leaders/article71715310.ece",
+   "date": "2026-11-19T01:43:02Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Prime Minister has gifted the U.S. president a golden Pichwaai painting, originating in Nathdwara, Rajasthan",
+   "score": 2
+  },
+  {
+   "id": "541992aed66a",
+   "title": "واکنش ایران به سخنان ترامپ درباره سلاح بیولوژیک: مانند ادعاهای زمینه‌ساز جنگ عراق است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cmqx50ez02ent?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T01:20:34Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "desc": "اسماعیل بقایی، سخنگوی وزارت خارجه ایران، در واکنش یه سخنان دونالد ترامپ که روز گذشته در چین به خبرنگاران گفته بود «نشانه‌هایی از تلاش ایران برای تهیه سلاح‌های بیولوژیکی وجود دارد»، گفته اظهارات رئیس‌جمهور آمریکا به سخنان کالین پاول، وزیرخارجه آمریکا در دولت جورج دبلیو بوش شباهت دارد که زمینه‌ساز جنگ عراق و پیامدهای آن برای این کشور و آمریکا و جهان شد.",
+   "score": 7,
+   "dup_of": "c0c5d7531b8b"
+  },
+  {
+   "id": "8640f0319708",
+   "title": "ماذا تكشف دراسة جديدة عن تعداد الهندوس والمسلمين في الهند وحول العالم؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c6n83xdp1ezlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:17:53Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "تستشرف الدراسة التركيبة الدينية للعالم على مدى السنوات الخمسين القادمة، مستندةً إلى بيانات من نحو 200 دولة وإقليم حول العالم.",
+   "score": 3
   }
  ]
 }
