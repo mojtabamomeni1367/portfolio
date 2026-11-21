@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:13:05Z",
+ "updated": "2026-11-21T19:00:56Z",
  "items": [
   {
    "id": "bac251cd51b8",
@@ -2558,6 +2558,139 @@
    ],
    "desc": "بحرية الحرس الثوري الإيراني حذرت من أن تحركات أي سفينة مخالفة في \"مضيق هرمز والخليج الفارسي ليست خفية عن أنظارنا\".",
    "score": 8
+  },
+  {
+   "id": "bfa8a23ef79c",
+   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+   "date": "2026-11-21T18:05:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+   "score": 8
+  },
+  {
+   "id": "5af29203d2d8",
+   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "date": "2026-11-21T17:54:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+   "score": 7
+  },
+  {
+   "id": "5236383aa1a5",
+   "title": "India’s opposition stages protests against Meta over account removals",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+   "date": "2026-11-21T16:14:01Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+   "score": 3
+  },
+  {
+   "id": "b9065e32f3e4",
+   "title": "Endurance athlete swims in Hormuz Strait",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+   "date": "2026-11-21T16:02:59Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The Strait of Hormuz remains largely blocked, with Iran attacking vessels attempting to cross it. As concerns grow over the environmental impact of the war, with toxic chemicals spreading through the air and sea, one swimmer and ocean advocate has gone a step further than issuing warnings: he plunged into the polluted and dangerous waters of the strait, calling on all sides to end the conflict.",
+   "score": 1
+  },
+  {
+   "id": "8ea85474fdd0",
+   "title": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+   "date": "2026-11-21T17:17:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday. According to security sources cited by Radio Pakistan , five terrorists were killed in the first operation, while 10 others were eliminated in the second one. Both were conducted against Fitna al Hindustan under ‘Operation Raddul Fitna 3’, which began in August. The state has designated outlawed Balochistan-based groups as Fitna al Hindustan to highlight India’s role in terrorism and destabilisation across Pakistan. Furthermore, several terrorist hideout",
+   "score": 7
+  },
+  {
+   "id": "2e78f7558a2a",
+   "title": "CCD's school bag inspections in Punjab spark criticism on social media",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media",
+   "date": "2026-11-21T16:57:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Punjab’s Crime Control Department (CCD) has started checking students’ school bags outside educational institutions for cigarettes, vapes and other intoxicating substances, drawing criticism from social media users over the involvement of law enforcement personnel in disciplining students. After the CCD set up a checking point outside a college in Lahore on Friday, it issued a press release on Saturday announcing a special campaign across educational institutions in Punjab to protect children from drugs, cigarettes, vapes and other intoxicating substances. A video of the department’s c",
+   "score": 2
+  },
+  {
+   "id": "1c699ddaa8a4",
+   "title": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece",
+   "date": "2026-11-21T17:53:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran needs guarantees that Washington is serious about negotiations, says Iran’s Foreign Minister; highly enriched uranium should be kept inside Iran, he says, adding that ‘a fair solution’ could be reached; U.S. denies Iran fired at an F-16",
+   "score": 8
+  },
+  {
+   "id": "95c64f7073eb",
+   "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
+   "date": "2026-11-21T16:59:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Afterwards, meals of cooked rice were scattered around the vehicle, which was partially covered in the blood of the victims of the attack",
+   "score": 7,
+   "dup_of": "5af29203d2d8"
+  },
+  {
+   "id": "ff5c05dc9200",
+   "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece",
+   "date": "2026-11-21T16:19:08Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Around 100 ⁠countries backed this position, but big arms-producing nations like the U.S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding",
+   "score": 4
+  },
+  {
+   "id": "f89221af5536",
+   "title": "خوابیدن با کاپشن و خاموش کردن چراغ» واکنش‌ها به گزارش صدا و سیما از دفتر تاریک و سرد پزشکیان»",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/watch/cm3egvnn2jzqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T18:31:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "واکنش‌ها به گزارش صدا و سیما از دفتر تاریک و سرد پزشکیان",
+   "score": 3
   }
  ]
 }

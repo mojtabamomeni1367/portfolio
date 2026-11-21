@@ -1,7 +1,122 @@
 {
- "updated": "2026-11-21T16:13:05Z",
- "count": 447,
+ "updated": "2026-11-21T19:00:56Z",
+ "count": 450,
  "items": [
+  {
+   "id": "bfa8a23ef79c",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+   "date": "2026-11-21T18:05:51Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "title_en": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "summary_en": "US President Donald Trump stated that he aims to secure a permanent agreement to prevent Iran from acquiring nuclear weapons.",
+   "body_en": [
+    "Trump emphasized that his primary focus is on achieving a binding agreement rather than pursuing regime change in Tehran."
+   ],
+   "title_fa": "ترامپ می‌گوید خواهان توافقی «دائمی» برای جلوگیری از دستیابی ایران به سلاح هسته‌ای است",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که به دنبال دست‌یابی به توافقی دائمی برای جلوگیری از دستیابی ایران به سلاح‌های هسته‌ای است.",
+   "body_fa": [
+    "ترامپ تأکید کرد که تمرکز اصلی او بر دستیابی به یک توافق است و به دنبال تغییر حکومت در تهران نیست."
+   ],
+   "title_ar": "ترامب يقول إنه يريد صفقة \"دائمة\" لمنع إيران من الحصول على أسلحة نووية",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأنه يسعى للتوصل إلى اتفاق دائم لمنع إيران من تطوير أسلحة نووية.",
+   "body_ar": [
+    "وأكد ترامب أن تركيزه ينصب على تأمين اتفاق بدلاً من السعي لتغيير النظام في تهران."
+   ]
+  },
+  {
+   "id": "5af29203d2d8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "date": "2026-11-21T17:54:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "title_en": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "summary_en": "An Israeli airstrike hit a vehicle carrying food supplies in Gaza City, killing three Palestinians.",
+   "body_en": [
+    "The vehicle was transporting food intended for forcibly displaced people when it was targeted. Documents bearing the logo of the aid organization World Central Kitchen were discovered inside the vehicle."
+   ],
+   "title_fa": "حمله اسرائیل به خودروی حامل کمک‌های غذایی در غزه سه کشته بر جای گذاشت",
+   "summary_fa": "در پی حمله هوایی اسرائیل به یک خودروی حامل مواد غذایی در شهر غزه، سه فلسطینی کشته شدند.",
+   "body_fa": [
+    "این خودرو در حال حمل مواد غذایی برای آوارگان اجباری در شهر غزه بود که مورد هدف قرار گرفت. مدارکی با آرم سازمان امدادرسانی آشپزخانه مرکزی جهانی در داخل خودرو یافت شد."
+   ],
+   "title_ar": "غارة إسرائيلية تستهدف مركبة مساعدات غذائية في غزة وتقتل ثلاثة",
+   "summary_ar": "أسفرت غارة جوية إسرائيلية استهدفت مركبة تنقل مساعدات غذائية في مدينة غزة عن مقتل ثلاثة فلسطينيين.",
+   "body_ar": [
+    "وكانت المركبة تنقل أطعمة مخصصة للنازحين قسراً عند استهدافها. وعُثر داخل المركبة على وثائق تحمل شعار منظمة المطبخ المركزي العالمي الإغاثية."
+   ]
+  },
+  {
+   "id": "1c699ddaa8a4",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece",
+   "date": "2026-11-21T17:53:45Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
+   "title_en": "Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that Iran hopes diplomatic efforts will bring an end to its war with the United States, though US President Donald Trump noted that Tehran's terms remain unacceptable to Washington.",
+   "body_en": [
+    "Araghchi told state media that Tehran seeks an agreement preventing further conflict and requires guarantees of US seriousness before advancing negotiations. He confirmed discussions with mediators regarding confidence-building measures and reiterated that keeping enriched uranium inside Iran is a red line.",
+    "Meanwhile, Trump told reporters that while Iran wants a deal, its proposed terms are not acceptable to him. Middle East conflict escalated after US and Israeli strikes on Iran on February 28 led to Iranian retaliation against Israel and regional US bases, though US Central Command recently denied Iranian claims of hitting an F-16 fighter jet over the Gulf."
+   ],
+   "title_fa": "عراقچی می‌گوید ایران خواهان دیپلماسی برای پایان دادن به جنگ است، در حالی که آمریکا شرایط را رد می‌کند",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، گفت تهران امیدوار است دیپلماسی بتواند به جنگ این کشور با ایالات متحده پایان دهد، اما دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که شرایط ایران برای واشنگتن قابل قبول نیست.",
+   "body_fa": [
+    "عراقچی در گفتگو با رسانه‌های دولتی اعلام کرد که تهران خواهان توافقی برای جلوگیری از جنگ‌های بعدی است و پیش از ادامه مذاکرات، به تضمین‌هایی درباره جدیت واشنگتن نیاز دارد. وی همچنین تأکید کرد که حفظ اورانیوم غنی‌شده در داخل کشور از خطوط قرمز ایران است.",
+    "در همین حال، ترامپ تصریح کرد با وجود تمایل ایران به توافق، پیش‌نویس‌ها و شرایط مطرح‌شده مورد قبول او نیست. اوضاع خاورمیانه پس از حملات ۲۸ فوریه آمریکا و اسرائیل به ایران و پاسخ متقابل تهران تشدید شد، اگرچه فرماندهی مرکزی آمریکا گزارش‌ها درباره هدف قرار گرفتن یک جنگنده اف-۱۶ خود بر فراز خلیج فارس را تکذیب کرد."
+   ],
+   "title_ar": "عراقجي يقول إن إيران تريد الدبلوماسية لأنهائ الحرب بينما ترفض الولايات المتحدة الشروط",
+   "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن إيران تأمل في أن تؤدي الجهود الدبلوماسية إلى إنهاء الحرب مع الولايات المتحدة، بينما ذكر الرئيس الأمريكي دونالد ترامب أن الشروط التي تطرحها تهران غير مقبولة بالنسبة لشنطن.",
+   "body_ar": [
+    "وقال عراقجي للإعلام الرسمي إن تهران تسعى للتوصل إلى اتفاق يضمن عدم اندلاع حرب أخرى، وتطالب بضمانات بشأن جدية واشنطن قبل المضي قدماً في المفاوضات. وأكد أن الاحتفاظ باليورانيوم المخصب داخل البلاد يمثل خطاً أحمر لإيران.",
+    "من جانبه، صرح ترامب بأن إيران ترغب في التوصل إلى اتفاق، لكن الشروط المطروحة ليست مقبولة لديه. وتأتي هذه التطورات في ظل تصاعد الصراع الإقليمي عقب الهجمات الأمريكية والإسرائيلية على إيران في 28 فبراير ورد تهران بالمثل، فيما نفى القيادة المركزية الأمريكية مزاعم إيرانية بشأن إسقاط أو استهداف مقاتلة إف-16 فوق الخليج."
+   ]
+  },
+  {
+   "id": "8ea85474fdd0",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+   "date": "2026-11-21T17:17:00Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "title_en": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "summary_en": "Pakistani security forces killed 15 terrorists during two separate operations in the Mastung district of Balochistan.",
+   "body_en": [
+    "According to official sources, five militants were killed in the first action and ten in the second under 'Operation Raddul Fitna 3'. Security personnel destroyed hideouts, seized arms and ammunition, and cleared several localities including Killi Pasand Khan and Musa Khan.",
+    "The operations form part of an ongoing campaign against militant outfits in the province, with security officials reaffirming their intent to continue actions until terrorism is fully eradicated."
+   ],
+   "title_fa": "رسانه‌های دولتی: نیروهای امنیتی ۱۵ تروریست را در منطقه مستونگ بلوچستان کشتند",
+   "summary_fa": "نیروهای امنیتی پاکستان در جریان دو عملیات جداگانه در منطقه مستونگ ایالت بلوچستان، ۱۵ تروریست را به قتل رساندند.",
+   "body_fa": [
+    "به گفته منابع امنیتی، پنج تروریست در عملیات نخست و ده تن دیگر در عملیات دوم تحت عنوان «عملیات ردالفتنه ۳» کشته شدند. نیروهای امنیتی چندین مخفیگاه را منهدم، مقادیر زیادی سلاح کشف و مناطقی مانند کلی پسند خان و موسی خان را پاکسازی کردند.",
+    "مقامات امنیتی تأکید کردند که این اقدامات در راستای مبارزه با گروه‌های تروریستی در ایالت بلوچستان ادامه خواهد داشت."
+   ],
+   "title_ar": "وسائل إعلام رسمية: القوات الأمنية تقضي على 15 إرهابياً في منطقة مستونغ ببلوشستان",
+   "summary_ar": "قضت القوات الأمنية الباكستانية على 15 إرهابياً خلال عمليتين منفصلتين في منطقه مستونغ بإقليم بلوشستان.",
+   "body_ar": [
+    "وذكرت مصادر أمنية أن خمسة إرهابيين قُتلوا في العملية الأولى وعشرة آخرين في العملية الثانية ضمن \"عملية رد الفتنة 3\". وتسببت العمليات في تدمير عدة مخابئ وضبط أسلحة وذخائر وتطهير مناطق متعددة.",
+    "وأكدت المصادر الأمنية استمرار العمليات العسكرية حتى القضاء التام على الإرهاب في إقليم بلوشستان."
+   ]
+  },
   {
    "id": "f39079c7c71e",
    "lang": "en",
@@ -483,36 +598,6 @@
    "body_ar": [
     "وذكرت مؤسسة ماعت في ورقة عمل قدمتها خلال دورة مراجعة اتفاقية أسلحة تقليدية معينة التابعة للأمم المتحدة، أن المعاهدة الحالية تحتوي على ثغرات صارخة تسمح باستخدام هذه المادة الكيميائية. ورغم أن الفسفور الأبيض ليس حظراً بموجب القانون الدولي، إلا أن استخدامه في المناطق المأهولة بالسكان أو بالقرب منها يعد غير قانوني نظراً لما يسببه من أضرار واسعة النطاق. وكانت منظمات حقوقية وتقارير إعلامية قد وثقت سابقاً استخدام إسرائيل للفسفور الأبيض فوق مناطق مدنية.",
     "وقد اختتم المؤتمر الأممي أعماله فجر السبت بعد تمديده إثر تعثر المحادثات التي بدأت يوم الاثنين. ووافقت الدول المشاركة على مواصلة المحادثات بهدف تطوير تدابير بشأن الأسلحة الفتاكة ذاتية التشغيل بحلول عام 2028."
-   ]
-  },
-  {
-   "id": "cd0abf10d764",
-   "lang": "fa",
-   "source": "BBC Persian",
-   "url": "https://www.bbc.com/persian/articles/c6pw4x0lp4deo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T06:09:26Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 5,
-   "title": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
-   "title_en": "From Mojtaba Khamenei to Mr Explosive: How is the '500 Muslims' list compiled?",
-   "summary_en": "The Royal Islamic Strategic Studies Centre in Jordan has published its list of the '500 most influential Muslims', where the Iran war and regional developments have led to significant ranking shifts and new entries, including Mojtaba Khamenei.",
-   "body_en": [
-    "Published for the 18th consecutive year by the centre in Amman, the list measures influence based on the ability to bring about significant change in the Islamic world. This year, due to the war and regional tensions, senior officials from Saudi Arabia, Turkey and Pakistan have jointly taken the top spots.",
-    "Mojtaba Khamenei, the new leader of the Islamic Republic, has entered the top 50 for the first time following the death of Ali Khamenei in US and Israeli strikes, taking his father's place in the rankings."
-   ],
-   "title_fa": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
-   "summary_fa": "مرکز مطالعات راهبردی اسلامی در اردن فهرست «۵۰۰ مسلمان» تأثیرگذار جهان را منتشر کرد که در آن جنگ ایران و تحولات منطقه‌ای باعث تغییرات چشمگیری در رتبه‌ها و ورود چهره‌های جدید از جمله مجتبی خامنه‌ای شده است.",
-   "body_fa": [
-    "این فهرست برای هجدهمین سال متوالی توسط این مرکز در امان منتشر شده و تأثیرگذاری افراد را بر اساس توانایی ایجاد تغییرات چشمگیر در جهان اسلام می‌سنجد. امسال به دلیل جنگ و تنش‌های منطقه‌ای، مقام‌های ارشد عربستان، ترکیه و پاکستان به طور مشترک در صدر فهرست قرار گرفته‌اند.",
-    "مجتبی خامنه‌ای، رهبر جدید جمهوری اسلامی، برای نخستین بار و به دنبال کشته شدن علی خامنه‌ای در حملات آمریکا و اسرائیل، جایگاه پدرش را در میان ۵۰ چهره نخست این رتبه‌بندی به خود اختصاص داده است."
-   ],
-   "title_ar": "من مجتبى خامنئي إلى مستر إكسپلوسیو: كيف يتم إعداد قائمة «الـ 500 مسلم»؟",
-   "summary_ar": "نشر مركز الدراسات الاستراتيجية الإسلامية في الأردن قائمة «الـ 500 مسلم» الأكثر تأثیرًا في العالم، حیث أدت حرب إیران والتطورات الإقلیمیة إلى تغییرات كبیرة في الترویج ودخول شخصيات جدیدة من بینها مجتبى خامنئي.",
-   "body_ar": [
-    "نشر المركز في عمان هذه القائمة للعام الثامن عشر على التوالي، وتقيس التأثير بناءً على القدرة على إحداث تغيير كبير في العالم الإسلامي. وهذ العام، بسبب الحرب والتوترات الإقليمية، تصدر كبار المسؤولين من السعودية وتركيا وباكستان القائمة بشكل مشترك.",
-    "دخل مجتبى خامنئي، المرشد الجديد للجمهورية الإسلامية، قائمة الخمسين الأوائل لأول مرة عقب مقتل علي خامنئي في الهجمات الأمريكية والإسرائيلية، ليحل محل والده في التصنيف."
    ]
   },
   {
