@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:17:47Z",
+ "updated": "2026-11-21T13:24:04Z",
  "items": [
   {
    "id": "bac251cd51b8",
@@ -1823,7 +1823,8 @@
     "ISR"
    ],
    "desc": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-   "score": 6
+   "score": 6,
+   "skip": true
   },
   {
    "id": "36d89dc3ce5a",
@@ -2258,6 +2259,171 @@
    "desc": "Civil defence ‌teams brought the fire at the Hartha ‌power station north of Basra ‌under ⁠control after firefighters responded ⁠to the incident, says Iraq’s state news agency",
    "score": 5,
    "dup_of": "f01cf604f34c"
+  },
+  {
+   "id": "196d1d3ecda7",
+   "title": "Israeli attacks on Gaza kill at least four Palestinians",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+   "date": "2026-11-21T12:29:49Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+   "score": 7
+  },
+  {
+   "id": "6a0eab3ade2c",
+   "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
+   "date": "2026-11-21T11:35:42Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
+   "score": 2
+  },
+  {
+   "id": "8bcd47af2cf4",
+   "title": "Deadly fire engulfs power station in southern Iraq",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "date": "2026-11-21T11:02:29Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+   "score": 5
+  },
+  {
+   "id": "b77d49b4be4a",
+   "title": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+   "date": "2026-11-21T10:38:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
+   "score": 6
+  },
+  {
+   "id": "f7c9465153ab",
+   "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+   "date": "2026-11-21T10:27:23Z",
+   "countries": [
+    "IND",
+    "JOR"
+   ],
+   "desc": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
+   "score": 1
+  },
+  {
+   "id": "4be0c4a93acc",
+   "title": "Iran says new air defence system intercepted US Reaper drone over Hormuz",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/iran-says-newly-developed-air-defence-system-intercepted-us-drone-over-hormuz",
+   "date": "2026-11-21T11:39:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says new air defence system intercepted US Reaper drone over Hormuz Submitted by MEE staff on Sat, 11/21/2026 - 09:50 The US reported losing at least 45 Reaper drones by August, while Iran says its forces have now destroyed 58 since the war began A crew member monitors an MQ-9 Reaper military drone at Cognac air base in Chateaubernard, southwestern France, 12 June 2026 (Christophe Archambault/AFP) Off The Islamic Revolutionary Guard Corps (IRGC) said it shot down a US MQ-9 Reaper drone in the Strait of Hormuz, Iranian state media reported on Saturday. The IRGC said it is the 58th aircraft",
+   "score": 8,
+   "dup_of": "a7f49a182735"
+  },
+  {
+   "id": "29d57a7fe5c0",
+   "title": "Fresh Israeli attack on Gaza kills three",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-israeli-attack-gaza-kills-three",
+   "date": "2026-11-21T11:31:51Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Fresh Israeli attack on Gaza kills three Three Palestinians were killed by an Israeli air strike on a vehicle in Gaza City's Tel-al Hawa neighbourhood on Saturday. The attack, which was reported by the Wafa news agency and corroborated by Al Jazeera reporters based in the enclave, also injured several people. Over 1,600 Palestinians have been killed by ongoing Israeli attacks since the October 2025 ceasefire agreement between Prime Minister Benjamin Netanyahu's government and Hamas, with the total Palestinian death toll in the enclave since October 2023 exceeding 74,000.",
+   "score": 7,
+   "dup_of": "196d1d3ecda7"
+  },
+  {
+   "id": "38e894bc4348",
+   "title": "Iran says it downed US drone over Qeshm Island",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-downed-us-drone-over-qeshm-island",
+   "date": "2026-11-21T11:12:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says it downed US drone over Qeshm Island Iran’s Islamic Revolutionary Guard Corps has said that it has destroyed a US Predator drone over Qeshm Island in the Strait of Hormuz. The US claimed that its fighter jets used \"precision munitions” to strike an Iranian missile site on the island last Tuesday. Qeshm is the largest island in the Gulf and is seen as strategically significant, given its position at the gateway of Hormuz.",
+   "score": 8,
+   "dup_of": "a7f49a182735"
+  },
+  {
+   "id": "cd21dcd0f2d1",
+   "title": "At SCO moot in India, Musadik Malik declares climate change ‘enemy’ of civilisations",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations",
+   "date": "2026-11-21T13:04:45Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Climate Change Minister Musadik Malik on Saturday declared climate change an “enemy” of civilisations as he highlighted its impact on South Asian countries at a meeting of the Shanghai Cooperation Organisation (SCO) in India. Malik is in New Delhi on a three-day trip to attend the SCO Civilisational Dialogue Forum, making him the first Pakistani minister to visit the neighbour since former foreign minister Bilawal Bhutto-Zardari attended an SCO meeting in May 2023. Addressing the forum on Saturday, the minister said the enemy of this civilisation was not another civilisation but climate change",
+   "score": 6
+  },
+  {
+   "id": "aef2db3cb9b9",
+   "title": "U.S. court dispatches summonses to Doval, Goel in Pannun case",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-court-dispatches-summonses-to-doval-goel-in-pannun-case/article71728227.ece",
+   "date": "2026-11-21T12:44:57Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Indian Code of Civil Procedure permits summonses issued by foreign civil courts designated by notification of the Central Government of India to be transmitted to Indian courts and served as though issued by those courts",
+   "score": 7,
+   "dup_of": "2453f6a66a0b"
+  },
+  {
+   "id": "211b6c842740",
+   "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
+   "date": "2026-11-21T11:47:24Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Iran has barred the International Atomic Energy Agency from inspecting its nuclear sites, citing security concerns and blaming the agency for failing to condemn U.S. and Israeli attacks on its nuclear facilities",
+   "score": 8
+  },
+  {
+   "id": "855e16269bec",
+   "title": "Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict, says reports",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-says-reports/article71727934.ece",
+   "date": "2026-11-21T10:38:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The diplomatic deadlock comes amid continuing tensions between Washington and Tehran, with both countries yet to reach an understanding on the future of Iran's nuclear programme",
+   "score": 9
   }
  ]
 }
