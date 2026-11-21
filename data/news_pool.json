@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:09:40Z",
+ "updated": "2026-11-21T07:31:01Z",
  "items": [
   {
    "id": "bac251cd51b8",
@@ -382,7 +382,8 @@
     "PAK"
    ],
    "desc": "Federal Minister for Climate Change and Environmental Coordination Dr Musadik Malik arrived in New Delhi on Friday to attend the SCO Civilisational Dialogue Forum. His visit is a first by a Pakistani minister since former foreign minister Bilawal Bhutto-Zardari attended the SCO meeting in the Indian state of Goa in May 2023, and two years after India’s Foreign Minister Subrahmanyam Jaishankar attended the bloc’s meeting in Islamabad in 2024. Musadik was received at the airport by Pakistan’s Chargé d’Affaires Saad Waraich, according to the Pakistan High Commission in India. Dr Malik will lead t",
-   "score": 6
+   "score": 6,
+   "dup_of": "5142390aaa16"
   },
   {
    "id": "d81da48d8ef5",
@@ -627,8 +628,7 @@
     "PAK"
    ],
    "desc": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-   "score": 8,
-   "dup_of": "9cc5c38ffb2c"
+   "score": 8
   },
   {
    "id": "14028a62e592",
@@ -1811,6 +1811,131 @@
    ],
    "desc": "The U.S. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U.S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia",
    "score": 3
+  },
+  {
+   "id": "7ad1ca3944a0",
+   "title": "Netanyahu is playing with the fire that killed Rabin",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+   "date": "2026-11-21T06:21:03Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
+   "score": 6
+  },
+  {
+   "id": "36d89dc3ce5a",
+   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+   "date": "2026-11-21T05:46:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+   "score": 6
+  },
+  {
+   "id": "87a03058b822",
+   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+   "date": "2026-11-21T04:32:07Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+   "score": 8,
+   "dup_of": "69be7e3e1ef4"
+  },
+  {
+   "id": "3926eeb494e2",
+   "title": "‘We ​are tired from all this suffering’: displaced families in Gaza brace for another winter of misery",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
+   "date": "2026-11-21T05:00:49Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Floods have worsened harsh existence for Palestinians living in tent camps, with fears growing for what the coming months will bring Abdul Karim al-Sahhar knew winter was coming to Gaza in the small hours of a wet and windy night earlier this month when a sandbank collapsed just yards from his makeshift tent , killing four people. “It was a terrifying scene. I could not process what I was seeing,” the 30-year-old said. “My legs felt frozen from the shock. I found my mother buried under the sand. Continue reading...",
+   "score": 7
+  },
+  {
+   "id": "34077692cb3e",
+   "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
+   "date": "2026-11-20T18:36:15Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
+   "score": 8,
+   "dup_of": "69be7e3e1ef4"
+  },
+  {
+   "id": "19771f08199c",
+   "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
+   "date": "2026-11-21T06:31:47Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. An AFP journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a hostile aerial threat”. The coalition later said it had “ intercepted and destroyed ” three Hou",
+   "score": 8,
+   "dup_of": "69be7e3e1ef4"
+  },
+  {
+   "id": "31eeafd6bba3",
+   "title": "Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046041/magistrate-indicts-anchorperson-iqrarul-hassan-for-cyberterrorism",
+   "date": "2026-11-21T04:15:57Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: A judicial magistrate (East) on Friday framed charges against anchorperson Iqrarul Hassan in a case pertaining to cyberterrorism and the alleged dissemination of anti-state, false and defamatory content on his official social media accounts. Last month, Mr Hassan was arrested by National Cyber Crime Investigation Agency (NCCIA) at his home in Lahore in connection with a case registered in Karachi under multiple provisions of the Prevention of Electronic Crimes Act (Peca). When the hearing began on Friday, the magistrate read out the charges against Mr Hassan. However, he pleaded not g",
+   "score": 3
+  },
+  {
+   "id": "cd0abf10d764",
+   "title": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6pw4x0lp4deo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:09:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "فهرستی که هر سال با عنوان «۵۰۰ مسلمان تاثیرگذار» منتشر می‌شود، امسال از جنگ ایران و تحولات منطقه تاثیر گرفته است؛ از صعود رهبران پاکستان تا حضور چهره‌های متفاوت ایرانی.",
+   "score": 5
+  },
+  {
+   "id": "b164766bb256",
+   "title": "السعودية تعلن اعتراض صواريخ باليستية جديدة أطلقها الحوثيون فوق الرياض",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T07:13:14Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "السعودية تعلن اعتراض وتدمير ثلاثة صواريخ باليستية أطلقها الحوثيون باتجاه الرياض، بالتزامن مع استمرار القصف المدفعي على المناطق الحدودية في محافظة صعدة باليمن.",
+   "score": 8,
+   "dup_of": "69be7e3e1ef4"
   }
  ]
 }

@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-21T04:09:40Z",
- "count": 426,
+ "updated": "2026-11-21T07:31:01Z",
+ "count": 427,
  "items": [
+  {
+   "id": "cd0abf10d764",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6pw4x0lp4deo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T06:09:26Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
+   "title_en": "From Mojtaba Khamenei to Mr Explosive: How is the '500 Muslims' list compiled?",
+   "summary_en": "The Royal Islamic Strategic Studies Centre in Jordan has published its list of the '500 most influential Muslims', where the Iran war and regional developments have led to significant ranking shifts and new entries, including Mojtaba Khamenei.",
+   "body_en": [
+    "Published for the 18th consecutive year by the centre in Amman, the list measures influence based on the ability to bring about significant change in the Islamic world. This year, due to the war and regional tensions, senior officials from Saudi Arabia, Turkey and Pakistan have jointly taken the top spots.",
+    "Mojtaba Khamenei, the new leader of the Islamic Republic, has entered the top 50 for the first time following the death of Ali Khamenei in US and Israeli strikes, taking his father's place in the rankings."
+   ],
+   "title_fa": "از مجتبی خامنه‌ای تا مستر اکسپلوسیو؛ فهرست «۵۰۰ مسلمان» با چه معیاری تهیه شده است؟",
+   "summary_fa": "مرکز مطالعات راهبردی اسلامی در اردن فهرست «۵۰۰ مسلمان» تأثیرگذار جهان را منتشر کرد که در آن جنگ ایران و تحولات منطقه‌ای باعث تغییرات چشمگیری در رتبه‌ها و ورود چهره‌های جدید از جمله مجتبی خامنه‌ای شده است.",
+   "body_fa": [
+    "این فهرست برای هجدهمین سال متوالی توسط این مرکز در امان منتشر شده و تأثیرگذاری افراد را بر اساس توانایی ایجاد تغییرات چشمگیر در جهان اسلام می‌سنجد. امسال به دلیل جنگ و تنش‌های منطقه‌ای، مقام‌های ارشد عربستان، ترکیه و پاکستان به طور مشترک در صدر فهرست قرار گرفته‌اند.",
+    "مجتبی خامنه‌ای، رهبر جدید جمهوری اسلامی، برای نخستین بار و به دنبال کشته شدن علی خامنه‌ای در حملات آمریکا و اسرائیل، جایگاه پدرش را در میان ۵۰ چهره نخست این رتبه‌بندی به خود اختصاص داده است."
+   ],
+   "title_ar": "من مجتبى خامنئي إلى مستر إكسپلوسیو: كيف يتم إعداد قائمة «الـ 500 مسلم»؟",
+   "summary_ar": "نشر مركز الدراسات الاستراتيجية الإسلامية في الأردن قائمة «الـ 500 مسلم» الأكثر تأثیرًا في العالم، حیث أدت حرب إیران والتطورات الإقلیمیة إلى تغییرات كبیرة في الترویج ودخول شخصيات جدیدة من بینها مجتبى خامنئي.",
+   "body_ar": [
+    "نشر المركز في عمان هذه القائمة للعام الثامن عشر على التوالي، وتقيس التأثير بناءً على القدرة على إحداث تغيير كبير في العالم الإسلامي. وهذ العام، بسبب الحرب والتوترات الإقليمية، تصدر كبار المسؤولين من السعودية وتركيا وباكستان القائمة بشكل مشترك.",
+    "دخل مجتبى خامنئي، المرشد الجديد للجمهورية الإسلامية، قائمة الخمسين الأوائل لأول مرة عقب مقتل علي خامنئي في الهجمات الأمريكية والإسرائيلية، ليحل محل والده في التصنيف."
+   ]
+  },
   {
    "id": "c6d048b4cf1e",
    "lang": "en",
@@ -797,33 +827,34 @@
    ]
   },
   {
-   "id": "4c2f8b336fc6",
+   "id": "5142390aaa16",
    "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece",
-   "date": "2026-11-20T07:46:49Z",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+   "date": "2026-11-20T09:11:57Z",
    "countries": [
-    "IND"
+    "IND",
+    "PAK"
    ],
-   "score": 6,
-   "title": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-   "title_en": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
-   "summary_en": "Indian Foreign Secretary Vikram Misri met Nepali Prime Minister Balendra Shah in Kathmandu to prepare for Shah's upcoming visit to New Delhi.",
+   "score": 8,
+   "title": "Pakistan minister visits India for first time since 2025 war",
+   "title_en": "Pakistan minister visits India for first time since 2025 war",
+   "summary_en": "Pakistan’s climate change minister, Musadik Malik, arrived in New Delhi on Friday, marking the first visit by a Pakistani federal minister since the two countries fought a four-day war in May 2025.",
    "body_en": [
-    "During his two-day official visit ending on Thursday, Misri discussed bilateral cooperation, possible initiatives, and outcomes for the upcoming trip with Prime Minister Shah, Foreign Minister Sisir Khanal, and Finance Minister Swarnim Wagle. Talks with Nepali officials covered infrastructure, energy, border management, AI, and digital connectivity, while Nepali leaders expressed gratitude for India's assistance following the Bhotekoshi floods.",
-    "Shah, who assumed office in March following political upheavals in Nepal, had previously raised a border dispute regarding the Lipulekh-Kalapai-Limpiyadhura area. While Shah sought to involve third countries like China and the UK, India maintains that the matter should be resolved through bilateral negotiations."
+    "Malik is attending the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum, which is scheduled to be inaugurated by Indian Prime Minister Narendra Modi on Friday evening. Malik is expected to address the gathering on Saturday, though no bilateral meeting has been announced.",
+    "Pakistan’s Foreign Office stated that the participation reflects its role as an active SCO member promoting dialogue and cooperation. Both governments have framed these exchanges as routine SCO business, as Pakistan prepares to host the bloc’s leaders next August."
    ],
-   "title_fa": "قائم‌مقام وزارت امور خارجه میسری زمینه را برای سفر آتی نخست‌وزیر نپال به هند آماده می‌کند",
-   "summary_fa": "ویکرام میسری، قائم‌مقام وزارت امور خارجه هند، در کاتماندو با بالندرا شاه، نخست‌وزیر نپال، دیدار کرد تا مقدمات سفر آتی شاه به دهلی نو را فراهم کند.",
+   "title_fa": "وزیر پاکستانی برای نخستین بار پس از جنگ ۲۰۲۵ به هند سفر کرد",
+   "summary_fa": "مصطفی ملک، وزیر تغییرات اقلیمی پاکستان، روز جمعه وارد دهلی نو شد که این نخستین سفر یک وزیر فدرال پاکستان از زمان جنگ چهار روزه دو کشور در ماه می ۲۰۲۵ است.",
    "body_fa": [
-    "میسری در جریان سفر رسمی دو روزه خود که روز پنجشنبه به پایان رسید، با نخست‌وزیر شاه، سیسیر خانال وزیر امور خارجه و سوارنیم واگله وزیر دارایی نپال درباره همکاری‌های دوجانبه و دستاوردهای احتمالی سفر آتی گفتگو کرد. مذاکرات با مقامات نپالی حوزه‌هایی مانند زیرساخت‌ها، انرژی، مدیریت مرزی، هوش مصنوعی و ارتباطات دیجیتال را پوشش داد و رهبران نپال از کمک‌های هند پس از سیل بوتکوشی قدردانی کردند.",
-    "شاه که در ماه مارس و پس از تحولات سیاسی در نپال به قدرت رسید، پیش از این اختلافات مرزی در منطقه لیپولخ-کالاپانی-لیمپیادهورا را مطرح کرده بود. در حالی که شاه تلاش کرده بود کشورهای ثالثی مانند چین و بریتانیا را وارد گفتگوها کند، هند تاکید دارد که این مسئله باید به صورت دوجانبه حل و فصل شود."
+    "ملک در مجمع گفتگوی تمدن‌های سازمان همکاری شانگهای (SCO) شرکت می‌کند که قرار است عصر جمعه توسط نارندرا مودی، نخست‌وزیر هند، افتتاح شود. انتظار می‌رود ملک روز شنبه در این مجمع سخنرانی کند، و هیچ نشست دوجانبه‌ای اعلام نشده است.",
+    "دفتر خارجه پاکستان اعلام کرد که این حضور بازتاب‌دهنده نقش این کشور به عنوان عضوی فعال در سازمان همکاری شانگهای برای ترویج گفتگو و همکاری است. هر دو دولت این تبادلات را امور جاری سازمان همکاری شانگهای توصیف کرده‌اند، در حالی که پاکستان برای میزبانی از رهبران این بلوک در ماه اوت آینده آماده می‌شود."
    ],
-   "title_ar": "وكيل وزارة الخارجية ميسري يمهد الطريق للزيارة المرتقبة لرئيس وزراء النيبال إلى الهند",
-   "summary_ar": "التقى وكيل وزارة الخارجية الهندي فيكرام ميسري برئيس وزراء النيبال باليندرا شاه في كاتماندو للتحضير للزيارة المرتقبة لشاه إلى نيو دلهي.",
+   "title_ar": "وزير باكستاني يزور الهند للمرة الأولى منذ حرب 2025",
+   "summary_ar": "وصل وزير تغير المناخ الباكستاني، مصدق مالك، إلى نيودلهي يوم الجمعة، في أول زيارة يقوم بها وزير فدرالي باكستاني منذ حرب استمرت أربعة أيام خاضها البلدان في مايو 2025.",
    "body_ar": [
-    "خلال زيارته الرسمية التي استمرت يومين وانتهت يوم الخميس، ناقش ميسري التعاون الثنائي والمبادرات والنتائج المحتملة للزيارة المرتقبة مع رئيس الوزراء شاه، ووزير الخارجية سيسير خانال، ووزير المالية سوارنيم واغلي. وشملت المحادثات مع المسؤولين النيباليين البنية التحتية، والطاقة، وإدارة الحدود، والذكاء الاصطناعي، والربط الرقمي، بينما أعرب القادة النيباليون عن امتنانهم للمساعدات الهندية عقب فيضانات بهوتيكوشي.",
-    "وكان شاه، الذي تولى منصبه في مارس بعد اضطرابات سياسية في النيبال، قد أثار في وقت سابق نزاعاً حدودياً حول منطقة ليبوليخ-كالاباني-ليمبيادهورا. وبينما سعى شاه لإشراك أطراف ثالثة مثل الصين والمملكة المتحدة، تؤكد الهند على ضرورة حل القضية عبر المفاوضات الثنائية."
+    "يحضر مالك منتدى حوار الحضارات التابع لمنظمة شانغهاي للتعاون، والذي من المقرر أن يفتتحه رئيس وزراء الهند ناريندرا مودي مساء الجمعة. ومن المتوقع أن يخاطب مالك المنتدى يوم السبت، دون الإعلان عن أي اجتماع ثنائي.",
+    "ذكرت وزارة الخارجية الباكستانية أن المشاركة تعكس دورها كعضو نشط في منظمة شانغهاي للتعاون لتعزيز الحوار والتعاون. وقد أطّر كلا الحكومين هذه التبادلات كأعمال روتينية لمنظمة شانغهاي، حيث تستعد باكستان لاستضافة قادة التكتل في أغسطس القادم."
    ]
   },
   {
