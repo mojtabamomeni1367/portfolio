@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-21T01:24:49Z",
- "count": 421,
+ "updated": "2026-11-21T04:09:40Z",
+ "count": 426,
  "items": [
+  {
+   "id": "c6d048b4cf1e",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-not-acted-calls-protect-palestinian-olive-farmers-ocha-says",
+   "date": "2026-11-21T03:55:26Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says",
+   "title_en": "Israel has not acted on calls to protect Palestinian olive farmers, Ocha says",
+   "summary_en": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) reported that Israeli authorities have failed to act on calls to protect Palestinian olive farmers during the current harvest season.",
+   "body_en": [
+    "According to the Humanitarian Country Team, Israeli forces damaged or uprooted over 10,000 Palestinian-owned trees in the West Bank in the first nine months of 2026. Additionally, Israeli settlers carried out more than 400 attacks on the olive harvest since September, causing casualties and destroying thousands of trees.",
+    "Humanitarian groups and UN agencies urged Israeli authorities to cease attacks on Palestinians and their livelihoods, uphold international law, ensure safe access to farmland, and hold perpetrators accountable."
+   ],
+   "title_fa": "اوچا: اسرائیل به درخواست‌ها برای حمایت از کشاورزان زیتون فلسطینی عمل نکرده است",
+   "summary_fa": "دفتر هماهنگی امور انسان‌دوستانه سازمان ملل متحد (اوچا) گزارش داد که مقامات اسرائیلی به درخواست‌ها برای حمایت از کشاورزان زیتون فلسطینی در فصل برداشت جاری عمل نکرده‌اند.",
+   "body_fa": [
+    "به گفته تیم بشردوستانه کشوری، نیروهای اسرائیلی در نه ماه نخست سال ۲۰۲۶ بیش از ۱۰,۰۰۰ درخت و نهال متعلق به فلسطینیان را در کرانه باختری از بین برده یا از ریشه درآورده‌اند. همچنین، شهرک‌نشینان اسرائیلی از ماه سپتامبر تاکنون بیش از ۴۰۰ حمله به فصل برداشت زیتون انجام داده‌اند که منجر به تلفات و آسیب به هزاران درخت شده است.",
+    "نهادهای بشردوستانه و آژانس‌های سازمان ملل از مقامات اسرائیلی خواستند تا به حملات علیه فلسطینیان و معیشت آنان پایان دهند، قوانین بین‌المللی را رعایت کنند، دسترسی ایمن به زمین‌های کشاورزی را تضمین نمایند و عاملان را پاسخگو سازند."
+   ],
+   "title_ar": "أوتشا: إسرائيل لم تستجب للدعوات الداعية لحماية مزارعي الزيتون الفلسطينيين",
+   "summary_ar": "أفاد مكتب الأمم المتحدة لتنسيق الشؤون الإنسانية (أوتشا) بأن السلطات الإسرائيلية لم تستجب للدعوات المطالبة بحماية مزارعي الزيتون الفلسطينيين خلال موسم الحصاد الحالي.",
+   "body_ar": [
+    "وفقاً للفريق الإنساني القطري، اقتلعت السلطات الإسرائيلية أو أتلفت أكثر من 10,000 شجرة وشتلة يملكها فلسطينيون في الضفة الغربية خلال الأشهر التسعة الأولى من عام 2026. بالإضافة إلى ذلك، شن المستوطنون الإسرائيليون أكثر من 400 هجوم على موسم حصاد الزيتون منذ سبتمبر، مما أسفر عن وقوع إصابات وإتلاف آلاف الأشجار.",
+    "وحثت المنظمات الإنسانية ووكالات الأمم المتحدة السلطات الإسرائيلية على إنهاء جميع الهجمات على الفلسطينيين وسبل عيشهم، والالتزام بالقانون الدولي، وضمان وصول الآمن للمزارعين إلى أراضيهم، ومحاسبة الجناة."
+   ]
+  },
+  {
+   "id": "a7f49a182735",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-its-aerospace-forces-intercepted-us-mq-9-drone-over-hormuz",
+   "date": "2026-11-21T02:54:35Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz",
+   "title_en": "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz",
+   "summary_en": "Iran's Islamic Revolutionary Guard Corps announced that its aerospace forces shot down an American MQ-9 drone over the Strait of Hormuz.",
+   "body_en": [
+    "According to Iranian state broadcaster Irib, the Islamic Revolutionary Guard Corps stated that its aerospace forces intercepted and destroyed the US MQ-9 drone in the Strait of Hormuz region. Iranian state media reported that this marks the 58th MQ-9 drone destroyed by Iranian forces."
+   ],
+   "title_fa": "سپاه پاسداران می‌گوید نیروهای هوافضای آن یک پهپاد ام‌کیو-۹ آمریکا را بر فراز هرمز رهگیری کرده‌اند",
+   "summary_fa": "سپاه پاسداران انقلاب اسلامی ایران اعلام کرد که نیروهای هوافضای آن یک فروند پهپاد ام‌کیو-۹ آمریکایی را بر فراز تنگه هرمز سرنگون کرده‌اند.",
+   "body_fa": [
+    "به گزارش صدا و سیمای ایران (ایریب)، سپاه پاسداران انقلاب اسلامی اعلام کرد که نیروهای هوافضای آن یک فروند پهپاد ام‌کیو-۹ آمریکایی را در منطقه تنگه هرمز رهگیری و منهدم کرده‌اند. رسانه دولتی ایران گزارش داد که این پنجاه و هشتمین پهپاد ام‌کیو-۹ است که توسط نیروهای ایرانی منهدم می‌شود."
+   ],
+   "title_ar": "الحرس الثوري يقول إن قواته الجوفضائية اعترضت طائرة أمريكية مسيرة من طراز MQ-9 فوق هرمز",
+   "summary_ar": "أعلن الحرس الثوري الإيراني أن قواته الجوفضائية أسقطت طائرة مسيرة أمريكية من طراز MQ-9 فوق مضيق هرمز.",
+   "body_ar": [
+    "وفقاً لهيئة الإذاعة والتلفزيون الإيرانية (إيريب)، صرح الحرس الثوري الإيراني بأن قواته الجوفضائية اعترضت ودمرت الطائرة المسيرة الأمريكية MQ-9 في منطقه مضيق هرمز. وذكرت وسائل الإعلام الرسمية الإيرانية أن هذه هي الطائرة المسيرة رقم 58 من طراز MQ-9 التي تدمرها القوات الإيرانية."
+   ]
+  },
+  {
+   "id": "88feb5677bca",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank",
+   "date": "2026-11-21T01:54:19Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
+   "title_en": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
+   "summary_en": "Multiple Palestinians were injured and several detained during a series of raids and attacks by Israeli military forces and settlers across the occupied West Bank.",
+   "body_en": [
+    "Incidents included settlers assaulting a family near Bethlehem and shooting an olive picker near Ramallah. Israeli forces also beat a Palestinian man, fired at a vehicle, and arrested at least 17 Palestinians in various West Bank locations.",
+    "Additionally, Israeli forces demolished a home near Ramallah and blocked residents in the Jordan Valley from repairing rain-damaged tents, while settlers were filmed looting a produce vendor in Jenin province."
+   ],
+   "title_fa": "چندین فلسطینی در حملات شهرک‌نشینان و نیروهای اسرائیلی در کرانه باختری زخمی شدند",
+   "summary_fa": "در پی موجی از حملات و یورش‌های نیروهای نظامی و شهرک‌نشینان اسرائیلی در سرتاسر کرانه باختری اشغالی، چند فلسطینی زخمی و چندین نفر دیگر بازداشت شدند.",
+   "body_fa": [
+    "این حوادث شامل حمله شهرک‌نشینان به یک خانواده در نزدیکی بیت‌لحم و شلیک به یک کشاورز زیتون در نزدیکی رام‌الله بود. نیروهای اسرائیلی نیز یک مرد فلسطینی را مورد ضرب و شتم قرار دادند، به یک خودرو شلیک کردند و دست‌کم ۱۷ فلسطینی را در نقاط مختلف کرانه باختری بازداشت نمودند.",
+    "علاوه بر این، نیروهای اسرائیلی یک خانه را در نزدیکی رام‌الله تخریب کردند و مانع از تعمیر چادرهای آسیب‌دیده از باران توسط ساکنان در دره اردن شدند، در حالی که ویدیوهایی از غارت دست‌فروشان میوه و سبزیجات توسط شهرک‌نشینان در استان جنین منتشر شد."
+   ],
+   "title_ar": "إصابة عدة فلسطينيين في هجمات شنها مستوطنون وقوات إسرائيلية في الضفة الغربية",
+   "summary_ar": "أصيب عدد من الفلسطينيين واعتقل آخرون خلال سلسلة من الاقتحامات والهجمات التي شنتها القوات الإسرائيلية والمستوطنون في أنحاء متفرقة من الضفة الغربية المحتلة.",
+   "body_ar": [
+    "وشملت الأحداث اعتداء مستوطنين على عائلة قرب بيت لحم وإطلاق النار على مزارع زيتون قرب رام الله. كما ضربت القوات الإسرائيلية رجلاً فلسطينياً، وأطلقت النار على سيارة، واعتقلت ما لا يقل عن 17 فلسطينياً في مناطق مختلفة من الضفة الغربية.",
+    "بالإضافة إلى ذلك، هدمت القوات الإسرائيلية منزلاً قرب رام الله ومنعت سكان خربة سمرة في غور الأردن من إصلاح الخيام التي أضر بها المطر الشديد، فيما أظهرت مشاهد سرقة مستوطنين لبسطة خضار وفواكه في محافظة جنين."
+   ]
+  },
   {
    "id": "3ace204545de",
    "lang": "en",
@@ -32,6 +121,66 @@
    ]
   },
   {
+   "id": "233b715f2149",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vance-refuses-endorse-iran-strikes-despite-pressure-trump",
+   "date": "2026-11-20T22:22:40Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Vance refuses to endorse Iran strikes despite pressure from Trump",
+   "title_en": "Vance refuses to endorse Iran strikes despite pressure from Trump",
+   "summary_en": "US Vice President JD Vance declined to state whether he supported February's strikes on Iran, framing it as President Donald Trump's decision while emphasizing his role to support the president. Trump noted that Vance's position lacked an explicit acknowledgement that the military actions were necessary.",
+   "body_en": [
+    "Speaking alongside Donald Trump at a White House press conference on Friday, JD Vance stated that preventing Iran from acquiring a nuclear weapon remains an essential goal, given the threat it poses. However, he avoided endorsing the February strikes directly or saying he would carry them out again, framing the action as the president's sole prerogative while defining his own job as supporting Trump.",
+    "The remarks follow a social media post where Vance blamed the war for Republican midterm losses, calling for an end to US involvement in the conflict. Trump responded that while employees are entitled to their opinions, Vance failed to acknowledge that the strikes were necessary, adding that he considers the Iranian leadership to be \"crazy\"."
+   ],
+   "title_fa": "جی‌دی ونس با وجود فشارهای ترامپ از تأیید حملات به ایران خودداری می‌کند",
+   "summary_fa": "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، از بیان اینکه آیا از حملات ماه فوریه به ایران حمایت می‌کند یا خیر خودداری کرد و آن را تصمیم رئیس‌جمهور دونالد ترامپ دانست، در حالی که تأکید کرد وظیفه‌اش حمایت از رئیس‌جمهور است. ترامپ اشاره کرد که موضع ونس فاقد اذعان صریح به ضروری بودن این اقدامات نظامی است.",
+   "body_fa": [
+    "جی‌دی ونس روز جمعه در یک کنفرانس مطبوعاتی در کاخ سفید در کنار دونالد ترامپ اظهار داشت که جلوگیری از دستیابی ایران به سلاح هسته‌ای با توجه به تهدیدات آن، یک هدف ضروری است. با این حال، او از تأیید مستقیم حملات فوریه یا اینکه دوباره دست به چنین کاری خواهد زد خودداری کرد و این اقدام را تصمیم شخص رئیس‌جمهور دانست و وظیفه خود را پشتیبانی از ترامپ تعریف کرد.",
+    "این اظهارات پس از پستی در شبکه‌های اجتماعی مطرح می‌شود که ونس در آن جنگ را عامل شکست‌های حزب جمهوری‌خواه در انتخابات میان‌دوره‌ای دانست و خواستار خروج آمریکا از این درگیری شد. ترامپ در پاسخ گفت اگرچه کارکنانش حق داشتن نظر خود را دارند، اما ونس نتوانسته ضروری بودن این حملات را بپذیرد و افزود که خود او رهبری ایران را «دیوانه» می‌داند."
+   ],
+   "title_ar": "جيه دي فانس يرفض تأييد الضربات على إيران رغم ضغوط ترامب",
+   "summary_ar": "امتنع نائب الرئيس الأمريكي جيه دي فانس عن تصريح ما إذا كان يدعم ضربات فبراير على إيران، مؤكداً أنه قرار الرئيس دونالد ترامب مع التشديد على أن دوره هو دعم الرئيس. وأشار ترامب إلى أن موقف فانس يفتقر إلى اعتراف صريح بأن الإجراءات العسكرية كانت ضرورية.",
+   "body_ar": [
+    "في مؤتمر صحفي بالبيت الأبيض إلى جانب دونالد ترامب يوم الجمعة، صرح جيه دي فانس بأن منع إيران من الحصول على سلاح نووي يظل هدفاً أساسياً بالنظر إلى التهديد الذي تشكله. ومع ذلك، تجنب تأييد ضربات فبراير بشكل مباشر أو القول إنه سينفذها مرة أخرى، واصفاً القرار بأنه صلاحية الرئيس وحدها ومؤكداً أن وظيفته هي دعم ترامب.",
+    "تأتي هذه التصريحات بعد منشور على وسائل التواصل الاجتماعي أرجع فيه فانس خسائر الجمهوريين في الانتخابات النصفيّة إلى الحرب، داعياً إلى خروج الولايات المتحدة من الصراع. ورد ترامب بأنه رغم حق موظفيه في إبداء آرائهم، إلا أن فانس لم يعترف بأن الضربات كانت ضرورية، مضيفاً أنه يعتبر القيادة الإيرانية \"مجنونة\"."
+   ]
+  },
+  {
+   "id": "2603079af169",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-wants-trump-state-explicitly-he-wants-deal-araghchi-says",
+   "date": "2026-11-20T22:09:33Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Iran wants Trump to state explicitly he wants a deal, Araghchi says",
+   "title_en": "Iran wants Trump to state explicitly he wants a deal, Araghchi says",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that Tehran still hopes diplomacy can end its war with the US, but demands that President Donald Trump explicitly declare his desire for an agreement.",
+   "body_en": [
+    "Araghchi noted that the two countries continue to exchange messages through intermediaries to explore confidence-building measures. He stressed that Iran seeks a durable agreement to prevent future conflict and affirmed that enriched uranium will not leave the country.",
+    "The foreign minister added that the Strait of Hormuz will remain closed until Washington fulfills Iran's seven conditions, and reiterated that Tehran's official stance on the Nuclear Non-Proliferation Treaty and its nuclear doctrine remain unchanged."
+   ],
+   "title_fa": "عراقچی: ایران می‌خواهد ترامپ صراحتاً بگوید خواستار توافق است",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، اعلام کرد که تهران همچنان امیدوار است دیپلماسی به جنگ با آمریکا پایان دهد، اما خواستار آن است که دونالد ترامپ، رئیس‌جمهور آمریکا، صراحتاً تمایل خود را برای دستیابی به توافق بیان کند.",
+   "body_fa": [
+    "عراقچی اشاره کرد که دو کشور همچنان از طریق میانجی‌ها در حال تبادل پیام برای بررسی اقدامات اعتمادساز هستند. وی تأکید کرد که ایران به دنبال توافقی پایدار برای جلوگیری از درگیری‌های آتی است و تصریح کرد که اورانیوم غنی‌شده از کشور خارج نخواهد شد.",
+    "وزیر امور خارجه افزود که تنگه هرمز تا زمانی که واشنگتن شروط هفت‌گانه ایران را برآورده نکند بسته خواهد ماند، و تأکید کرد که موضع رسمی تهران در قبال پیمان منع گسترش سلاح‌های هسته‌ای و دکترین هسته‌ای آن تغییر نکرده است."
+   ],
+   "title_ar": "عراقجي: إيران تريد من ترامب أن يعلن صراحة أنه يريد اتفاقاً",
+   "summary_ar": "صرح وزير الخارجية الإيراني عباس عراقجي بأن طهران لا تزال تأمل في أن تنهي الدبلوماسية حربها مع الولايات المتحدة، لكنها تطالب الرئيس دونالد ترامب بالإعلان صراحة عن رغبته في التوصل إلى اتفاق.",
+   "body_ar": [
+    "وأشار عراقجي إلى أن البلدين يواصلان تبادل الرسائل عبر الوسطاء لبحث إجراءات بناء الثقة. وأكد أن إيران تسعى للتوصل إلى اتفاق دائم لمنع أي صراع مستقبلي، مشدداً على أن اليورانيوم المخصب لن يغادر البلاد.",
+    "وأضاف وزير الخارجية أن مضيق هرمز سيظل مغلقاً حتى تلبي واشنطن شروط إيران السبعة، ومؤكداً أن موقف طهران الرسمي بشأن معاهدة عدم انتشار الأسلحة النواة ودكتريناها النووية لم يتغير."
+   ]
+  },
+  {
    "id": "3da4a5753626",
    "lang": "en",
    "source": "Al Jazeera",
@@ -56,6 +205,37 @@
    "summary_ar": "أعلن رئيس الوزراء العراقي علي الزيدي أن عملية عسكرية في جرف الصخر تمثل انطلاقة حملة شاملة لفرض سيطرة الدولة. وأوضح أن هذه الجهود تهدف إلى تعزيز سلطة الحكومة ومكافحة الفساد ونزع سلاح الجماعات الخارجة عن القانون.",
    "body_ar": [
     "وفقاً لرئيس الوزراء علي الزيدي، فإن العملية العسكرية التي انطلقت في جرف الصخر تشكل بداية تحرك أوسع في مختلف أنحاء العراق لاستعادة سيطرة الدولة. وقال إن الحملة ترمي إلى محاربة الفساد ونزع أسلحة الجماعات التي تعمل خارج نطاق السلطة الحكومية."
+   ]
+  },
+  {
+   "id": "a1be826d98f2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-killed-near-ramallah-israeli-raids-sweep-occupied-west-bank",
+   "date": "2026-11-20T21:24:53Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Palestinian man killed near Ramallah as Israeli raids sweep occupied West Bank",
+   "title_en": "Palestinian man killed near Ramallah as Israeli raids sweep occupied West Bank",
+   "summary_en": "Israeli forces killed a 42-year-old Palestinian man near Ramallah during a series of raids, detentions, and home demolitions across the occupied West Bank on Friday.",
+   "body_en": [
+    "According to Palestinian official sources and media, Hamza Masoud Salim Abdo was killed in Dura al-Qare, northeast of Ramallah, and Israeli forces continue to withhold his body. Widespread operations were reported across multiple governorates, including live fire, tear gas, and physical assaults that resulted in several injuries and detentions in Jaba, Qabatiya, Jericho, al-Fawwar refugee camp, Beit Ummar, and Anabta.",
+    "In addition to the military raids, Israeli bulldozers demolished a residential home in al-Mazra'a al-Gharbiya near Ramallah on Friday. Israeli settlers were also recorded stealing property from a roadside fruit stand and taking trees from a nursery south of Jenin."
+   ],
+   "title_fa": "شهادت یک مرد فلسطینی در نزدیکی رام‌الله همزمان با یورش‌های اسرائیل در کرانه باختری اشغالی",
+   "summary_fa": "نیروهای اسرائیلی روز جمعه در جریان مجموعه‌ای از یورش‌ها، بازداشت‌ها و تخریب منازل در سراسر کرانه باختری اشغالی، یک مرد ۴۲ ساله فلسطینی را در نزدیکی رام‌الله به شهادت رساندند.",
+   "body_fa": [
+    "به گزارش منابع رسمی و رسانه‌های فلسطینی، حمزه مسعود سلیم عبده در صره القریه در شمال شرقی رام‌الله به شهادت رسید و نیروهای اسرائیلی همچنان از تحویل پیکر او خودداری می‌کنند. عملیات‌های گسترده‌ای در چندین استان از جمله تیراندازی، گاز اشک‌آور و ضرب و شتم فیزیکی گزارش شده که منجر به مصدومیت و بازداشت چندین نفر در جبع، قباطیه، اریحا، اردوگاه الفوار، بیت‌امر و عنبتا شده است.",
+    "علاوه بر یورش‌های نظامی، بولدوزرهای اسرائیلی روز جمعه یک خانه مسکونی را در المزرعه الغربیه در نزدیکی رام‌الله تخریب کردند. همچنین تصاویر ضبط‌شده نشان می‌دهد که شهرک‌نشینان اسرائیلی اموال یک میوه‌فروشی حاشیه جاده و درختان یک نهالستان را در جنوب جنین به سرقت برده‌اند."
+   ],
+   "title_ar": "مقتل رجل فلسطيني قرب رام الله مع شن القوات الإسرائيلية مداهمات في الضفة الغربية المحتلة",
+   "summary_ar": "قتلت القوات الإسرائيلية رجلاً فلسطينياً يبلغ من العمر 42 عاماً قرب رام الله خلال سلسلة من المداهمات الاعتقالات وهدم المنازل في جميع أنحاء الضفة الغربية المحتلة يوم الجمعة.",
+   "body_ar": [
+    "وفقاً للمصادر الرسمية ووسائل الإعلام الفلسطينية، قُتل حمزة مسعود سليم عبده في دورا القرع شمال شرق رام الله، ولا تزال القوات الإسرائيلية تحتجز جثمانه. وأُفد عن عمليات واسعة النطاق في عدة محافظات، شملت إطلاق النار الحي، قنابل الغاز المسيل للدموع، والاعتداءات الجسدية مما أدى إلى إصابات واعتقالات في جبع، قباطية، أريحا، مخيم الفوار، بيت أمر، وعنبتا.",
+    "بالإضافة إلى المداهمات العسكرية، جرفت الجرافات الإسرائيلية منزلاً في المزرعة الغربية قرب رام الله يوم الجمعة. كما أظهرت تسجيلات المراقبة قيام مستوطنين إسرائيليين بسرقة محتويات بسطة فواكه وأشجار من مشتل جنوب جنين."
    ]
   },
   {
@@ -148,6 +328,67 @@
    "body_ar": [
     "حاصر مسلحون فلسطينيون يرتدون ملابس مدنية مأوى للنازحين في مخيم النصيرات ليل الثلاثاء، حيث استجوبوا سكانه وأطلقوا النار في الهواء قبل أن يبدأ الجيش الإسرائيلي عمليته يوم الأربعاء. وأفاد مصدر أمني فلسطيني للجزيرة بأن هذه الجماعات شاركت في العملية من خلال ترهيب المدنيين وإجبارهم على النزوح مستفيدة من الغطاء الناري الإسرائيلي، واصفاً إياها بأنها عصابات تسلحها إسرائيل لإثارة الفوضى.",
     "وأوضح محللون للجزيرة أن إسرائيل تعمل على توسيع انتشار نحو خمس جماعات مسلحة مناهضة لحماس في قطاع غزة لاستخدامها في جمع المعلومات وعمليات الخطوط الأمامية قبل الدفع بالقوات النظامية. وكان رئيس الوزراء بنيامين نتنياهو قد أقر في وقت سابق بدعم جماعات مسلحة معارضة لحماس، معتبراً أن هذه السياسة أنقذت حياة جنود إسرائيليين."
+   ]
+  },
+  {
+   "id": "868ea9a405b7",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-envoys-met-qatari-officials-berlin-discuss-us-iran-mediation",
+   "date": "2026-11-20T19:30:22Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "score": 7,
+   "title": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says",
+   "title_en": "Trump envoys met Qatari officials in Berlin to discuss US-Iran mediation, report says",
+   "summary_en": "US envoys Steve Witkoff and Jared Kushner met with senior Qatari officials in Berlin to discuss mediation efforts between Washington and Tehran, according to Axios.",
+   "body_en": [
+    "The meeting took place during a visit to Germany by Qatar's Emir Sheikh Tamim bin Hamad Al Thani, who called for diplomatic de-escalation across the Middle East following talks with German Chancellor Friedrich Merz.",
+    "On the sidelines of the visit, Qatari Foreign Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani also held discussions with German Foreign Minister Johann Wadephul on joint coordination to reduce regional tensions."
+   ],
+   "title_fa": "گزارش‌ها: نمایندگان ترامپ با مقامات قطری در برلین برای بررسی میانجی‌گری میان آمریکا و ایران دیدار کردند",
+   "summary_fa": "به گزارش آکسیوس، استیو ویتکوف و جرد کوشنر، نمایندگان آمریکا، با مقامات ارشد قطری در برلین دیدار کردند تا درباره تلاش‌های میانجی‌گرانه میان واشنگتن و تهران گفتگو کنند.",
+   "body_fa": [
+    "این دیدار هم‌زمان با سفر شیخ تمیم بن حمد آل ثانی، امیر قطر، به آلمان انجام شد؛ وی پس از گفتگو با فریدریش مرتس، صدراعظم آلمان، خواستار تلاش‌های دیپلماتیک برای تنش‌زدایی در خاورمیانه شد.",
+    "در حاشیه این سفر، شیخ محمد بن عبدالرحمن بن جاسم آل ثانی، وزیر امور خارجه قطر، نیز با یوهان وادفول، همتای آلمانی خود، درباره هماهنگی‌های مشترک برای کاهش تنش‌های منطقه‌ای گفتگو کرد."
+   ],
+   "title_ar": "تقرير: مبعوثو ترامب التقوا بمسؤولين قطريين في برلين لمناقشة الوساطة بين الولايات المتحدة وإيران",
+   "summary_ar": "التقى المبعوثان الأمريكيان ستيف ويتكوف وجاريد كوشنر بمسؤولين قطريين كبار في برلين لمناقشة جهود الوساطة بين واشنطن وثهران، وفقاً لموقع أكسيوس.",
+   "body_ar": [
+    "وجرى اللقاء خلال زيارة لأمير قطر الشيخ تميم بن حمد آل ثاني إلى ألمانيا، حيث دعا عقب مباحثات مع المستشار الألماني فريدريش ميرتس إلى بذل جهود دبلوماسية لخفض التصعيد في الشرق الأوسط.",
+    "وعلى هامش الزيارة، أجرى وزير الخارجية القطري الشيخ محمد بن عبد الرحمن بن جاسم آل ثاني محادثات مع نظيره الألماني يوهان فاديفول حول التنسيق المشترك لتقليل التوترات الإقليمية."
+   ]
+  },
+  {
+   "id": "9daceec2fbec",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-will-find-out-about-reported-iranian-dirty-bomb-plot",
+   "date": "2026-11-20T19:16:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump says US will find out about Iranian dirty bomb plot 'rumour'",
+   "title_en": "Trump says US will find out about Iranian dirty bomb plot 'rumour'",
+   "summary_en": "US President Donald Trump stated that Washington will investigate and prevent any Iranian attempt to build a dirty bomb following recent intelligence reports. He also reiterated claims that the US Navy maintains total control over the Strait of Hormuz.",
+   "body_en": [
+    "Speaking to reporters on Friday, Donald Trump addressed rumours regarding Iran's alleged development of a dirty bomb, promising that the US would stop it if true. The comments follow a CNN report citing US intelligence that Iran might be attempting to construct a dirty bomb to detonate in Washington. Iran's foreign ministry previously dismissed the allegations on Tuesday as baseless.",
+    "Trump also claimed that the US Navy has established a blockade in the region, taking out record amounts of oil from the Strait of Hormuz last week. He asserted that the United States currently has total control over the strategic waterway."
+   ],
+   "title_fa": "ترامپ می‌گوید آمریکا صحت «شایعه» توطئه بمب کثیف ایران را بررسی خواهد کرد",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد در پی گزارش‌های اخیر اطلاعاتی، واشنگتن هرگونه تلاش ایران برای ساخت بمب کثیف را بررسی و از آن جلوگیری خواهد کرد. او همچنین ادعای خود مبنی بر تسلط کامل نیروی دریایی آمریکا بر تنگه هرمز را تکرار کرد.",
+   "body_fa": [
+    "دونالد ترامپ روز جمعه در گفتگو با خبرنگاران به شایعات مطرح‌شده درباره تلاش ادعایی ایران برای ساخت بمب کثیف اشاره کرد و قول داد که در صورت صحت این موضوع، آمریکا جلوی آن را خواهد گرفت. این اظهارات پس از گزارش سی‌ان‌ان مطرح می‌شود که به نقل از منابع اطلاعاتی آمریکا مدعی شده بود ایران ممکن است در صدد ساخت یک بمب کثیف و انفجار آن در واشنگتن باشد. وزارت امور خارجه ایران روز سه‌شنبه این ادعاها را بی‌اساس خوانده و رد کرده بود.",
+    "ترامپ همچنین ادعا کرد که نیروی دریایی آمریکا منطقه را محاصره کرده و هفته گذشته مقادیر حد نصابی از نفت را از تنگه هرمز خارج کرده است. او ادعا کرد که ایالات متحده در حال حاضر کنترل کاملی بر این آبراه استراتژیک دارد."
+   ],
+   "title_ar": "ترامب يقول إن الولايات المتحدة ستتحقق من \"شائعة\" مؤامرة القنبلة القذرة الإيرانية",
+   "summary_ar": "صرح الرئيس الأمريكي دونالد ترامب بأن واشنطن ستتحقق من أي محاولة إيرانية لبناء قنبلة قذرة وتمنعها عقب تقارير استخباراتية أخيرة. كما جدد مزاعمه بأن القوات البحرية الأمريكية تفرض سيطرة كاملة على مضيق هرمز.",
+   "body_ar": [
+    "في حديثه للصحفيين يوم الجمعة، تطرق دونالد ترامب إلى الشائعات المتعلقة بتطوير إيران المفترض لقنبلة قذرة، متعهداً بأن الولايات المتحدة ستوقف ذلك إذا كان صحيحاً. تأتي هذه التصريحات عقب تقرير لشبكة \"سي إن إن\" نقلاً عن استخبارات أمريكية أشار إلى أن إيران قد تحاول بناء قنبلة قذرة وتفجيرها في واشنطن. وكانت وزارة الخارجية الإيرانية قد نفت هذه الاتهامات يوم الثلاثاء ووصفاتها بأنها لا أساس لها.",
+    "كما ادعى ترامب أن البحرية الأمريكية فرضت حصاراً في المنطقة، وسحبت كميات قياسية من النفط من مضيق هرمز الأسبوع الماضي. وأكد أن الولايات المتحدة تمتلك حالياً سيطرة كاملة على الممر المائي الاستراتيجي."
    ]
   },
   {
@@ -586,36 +827,6 @@
    ]
   },
   {
-   "id": "4527511616d2",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp",
-   "date": "2026-11-20T07:04:07Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP",
-   "title_en": "On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP",
-   "summary_en": "Chief of Defence Forces Field Marshal Asim Munir reaffirmed the security forces' resolve to eliminate terrorism and maintain peace in Khyber Pakhtunkhwa during a visit to Miranshah.",
-   "body_en": [
-    "During his visit to Miranshah in North Waziristan, Asim Munir received a briefing on the security situation and ongoing intelligence-based operations. He praised the police force and troops for their professionalism and resilience against terrorism.",
-    "Security forces continue counterterrorism actions in Khyber Pakhtunkhwa and Balochistan, amid reports indicating a general decline in terrorism-related violence in the country."
-   ],
-   "title_fa": "ژنرال عاصم منیر در سفر به وزیرستان شمالی بر نابودی تروریسم و حفظ صلح در خیبر پختونخوا تأکید کرد",
-   "summary_fa": "فیلد مارشال عاصم منیر، رئیس ارتش، در سفر به میرانشاه بر عزم نیروهای امنیتی برای نابودی تروریسم و حفظ صلح در خیبر پختونخوا تأکید کرد.",
-   "body_fa": [
-    "عاصم منیر در جریان سفر خود به میرانشاه در وزیرستان شمالی، گزارشی از وضعیت امنیتی و عملیات‌های جاری مبتنی بر اطلاعات دریافت کرد. او از نیروی پلیس و نیروهای نظامی به خاطر حرفه‌ای‌گری و پایداری‌شان در برابر تروریسم تقدیر کرد.",
-    "نیروهای امنیتی به اقدامات ضد تروریسم در خیبر پختونخوا و بلوچستان ادامه می‌دهند، در حالی که گزارش‌ها نشان‌دهنده کاهش کلی خشونت‌های مرتبط با تروریسم در کشور است."
-   ],
-   "title_ar": "في زيارة لشمال وزيرستان، عاصم منير يتعهد القضاء على الإرهاب الحفاظ على السلام في خیبر پختونخوا",
-   "summary_ar": "أعاد قائد قوات الدفاع المشير عاصم منير تأكيد عزْم القوات الأمنية على القضاء على الإرهاب والحفاظ على السلام في خیبر پختونخوا خلال زيارة لميرانشاه.",
-   "body_ar": [
-    "خلال زيارته لميرانشاه في شمال وزيرستان، تلقى عاصم منير إحاطة بشأن الوضع الأمني والعمليات الجارية القائمة على الاستخبارات. وأشاد بقوات الشرطة والجنود لمهنيتهم وصمودهم في مواجهة الإرهاب.",
-    "تواصل القوات الأمنية عمليات مكافحة الإرهاب في خیبر پختونخوا وبلوشستان، وسط تقارير تشير إلى انخفاض عام في أعمال العنف المرتبطة بالإرهاب في البلاد."
-   ]
-  },
-  {
    "id": "7e1e75d80c33",
    "lang": "ar",
    "source": "BBC Arabic",
@@ -644,67 +855,6 @@
    "body_ar": [
     "ذكرت جماعة أنصار الله الحوثية أن غارة جوية سعودية استهدفت قارباً مدنياً يقل نازحين، مما أسفر عن مقتل 19 مدنياً وإصابة أربعة آخرين، معتبرة ذلك جريمة حرب. وفي المقابل، أعلن التحالف العسكري بقيادة السعودية عن اعتراض صاروخ باليستي وثلاث طائرات مسيّرة أُطلقت باتجاه المنطقة الجنوبية من المملكة.",
     "ويأتي هذا التصعيد في أعقاب هجمات حوثية سابقة استهدفت منشآت حيوية في الرياض ومدن سعودية أخرى، وسط توترات متصاعدة في النزاع اليمني."
-   ]
-  },
-  {
-   "id": "9cc5c38ffb2c",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
-   "date": "2026-11-20T06:23:58Z",
-   "countries": [
-    "IND",
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum",
-   "title_en": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum",
-   "summary_en": "Pakistani Federal Minister Dr Musadik Malik arrived in New Delhi to lead the country's delegation at the Shanghai Cooperation Organisation Civilisational Dialogue Forum.",
-   "body_en": [
-    "Musadik Malik was received at the airport by Pakistan's Chargé d'Affaires Saad Waraich. He will lead Pakistan's delegation at the forum, which brings together representatives from Shanghai Cooperation Organisation member states to discuss civilisational dialogue and cultural understanding.",
-    "The visit marks a high-level engagement under the SCO framework, as Pakistan holds the rotating chairmanship of the SCO Council of Heads of State for the 2026-27 term."
-   ],
-   "title_fa": "مصدق ملک برای شرکت در مجمع گفتگوی شانگهای وارد دهلی نو شد",
-   "summary_fa": "دکتر مصدق ملک، وزیر فدرال پاکستان، برای رهبری هیئت این کشور در مجمع گفتگوی تمدن‌های سازمان همکاری شانگهای وارد دهلی نو شد.",
-   "body_fa": [
-    "مصدق ملک در فرودگاه مورد استقبال سعد وراعی، کاردار پاکستان قرار گرفت. او رهبری هیئت پاکستان را در این مجمع بر عهده خواهد داشت که نمایندگان کشورهای عضو سازمان همکاری شانگهای را برای بحث درباره گفتگوی تمدن‌ها و تفاهم فرهنگی گرد هم می‌آورد.",
-    "این سفر نشان‌دهنده یک تعامل رده‌بالا در چارچوب سازمان شانگهای است، چرا که پاکستان ریاست دوره‌ای شورای سران کشورهای عضو سازمان شانگهای را برای دوره ۲۰۲۶-۲۰۲۷ بر عهده دارد."
-   ],
-   "title_ar": "مصدق مالك يصل إلى نيودلهي لحضور منتدى حوار منظمة شانغهاي",
-   "summary_ar": "وصل وزير الدولة الفدرالي الباكستاني مصدق مالك إلى نيودلهي لرئاسة وفد بلاده في منتدى حوار الحضارات التابع لمنظمة شانغهاي للتعاون.",
-   "body_ar": [
-    "استُقبل مصدق مالك في المطار من قبل القائم بأعمال السفارة الباكستانية سعد ورايخ. وسيقود وفد باكستان في المنتدى الذي يجمع ممثلي الدول الأعضاء في منظمة شانغهاي للتعاون لمناقشة حوار الحضارات والتفاهم الثقافي.",
-    "تمثل هذه الزيارة مشاركة رفيعة المستوى في إطار منظمة شانغهاي، حيث تترأس باكستان دورياً مجلس رؤساء دول المنظمة لفترة 2026-2027."
-   ]
-  },
-  {
-   "id": "a9ca59819ae4",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045879/pakistan-sponsored-resolution-on-self-determination-adopted-by-consensus-at-un",
-   "date": "2026-11-20T06:16:06Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Pakistan-sponsored resolution on self-determination adopted by consensus at UN",
-   "title_en": "Pakistan-sponsored resolution on self-determination adopted by consensus at UN",
-   "summary_en": "The UN General Assembly's Third Committee adopted a Pakistan-sponsored resolution reaffirming the right to self-determination for people under foreign occupation and foreign domination.",
-   "body_en": [
-    "Introduced by Ambassador Syed Haider Shah, Pakistan's Permanent Representative to the UN, the resolution titled \"Universal Realisation of the Right of Peoples to Self-Determination\" was co-sponsored by 62 nations and passed without a vote. Shah highlighted the continued denial of self-determination in Palestine and Indian-occupied Jammu and Kashmir, criticizing military oppression, extrajudicial killings, and demographic engineering in occupied territories.",
-    "Pakistan has introduced this resolution annually since 1981. Shah stated that the resolution underscores the global community's collective responsibility to uphold self-determination, which is enshrined in Article 1(2) of the UN Charter and other international frameworks."
-   ],
-   "title_fa": "قطعنامه پیشنهادی پاکستان در مورد حق تعیین سرنوشت با اجماع در سازمان ملل تصویب شد",
-   "summary_fa": "کمیته سوم مجمع عمومی سازمان ملل متحد قطعنامه پیشنهادی پاکستان را که بر حق تعیین سرنوشت برای مردم تحت اشغال و تسلط خارجی تأکید می‌کند، با اجماع تصویب کرد.",
-   "body_fa": [
-    "این قطعنامه با عنوان «تحقق جهانی حق مردم در تعیین سرنوشت خود» توسط سفیر سید حیدر شاه، نماینده دائمی پاکستان در سازمان ملل ارائه شد و ۶۲ کشور از آن حمایت کردند و بدون رأی‌گیری به تصویب رسید. شاه با اشاره به محرومیت مداوم مردم فلسطین و جامو و کشمیر تحت کنترل هند از حق تعیین سرنوشت، از سرکوب نظامی، کشتارهای فراملی و تغییرات جمعیتی در سرزمین‌های اشغالی انتقاد کرد.",
-    "پاکستان از سال ۱۹۸۱ سالانه این قطعنامه را ارائه کرده است. شاه اظهار داشت که این قطعنامه بر مسئولیت جمعی جامعه بین‌المللی برای حفظ حق تعیین سرنوشت که در ماده ۱ (۲) منشور سازمان ملل متحد و سایر چارچوب‌های بین‌المللی آمده است، تأکید می‌کند."
-   ],
-   "title_ar": "اعتماد قرار برعاية باكستانية بشأن حق تقرير المصير بالإجماع في الأمم المتحدة",
-   "summary_ar": "اعتمدت اللجنة الثالثة للجمعية العامة للأمم المتحدة بالإجماع قراراً برعاية باكستانية يؤكد مجدداً على حق تقرير المصير للشعوب الخاضعة للاحتلال والسيطرة الأجنبية.",
-   "body_ar": [
-    "وقدم القرار، الذي يحمل عنوان \"التحقيق العالمي لحق الشعوب في تقرير المصير\"، المندوب الدائم لباكستان لدى الأمم المتحدة السفير سيد حيدر شاه، ورعته 62 دولة واُعتمد دون تصويت. وأشار شاه إلى الحرمان المستمر للشعبين الفلسطيني والجمو والكشميري الخاضع للإدارة الهندية من حق تقرير المصير، منتقداً القمع العسكري والقتل خارج نطاق القضاء والتغيير الديمغرافي في الأراضي المحتلة.",
-    "وتقدم باكستان هذا القرار سنوياً منذ عام 1981. وقال شاه إن القرار يؤكد على المسؤولية الجماعية للمجتمع الدولي في صون حق تقرير المصير المكرس في المادة 1 (2) من ميثاق الأمم المتحدة والأطر الدولية الأخرى."
    ]
   },
   {
