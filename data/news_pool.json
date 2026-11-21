@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:00:56Z",
+ "updated": "2026-11-21T21:53:53Z",
  "items": [
   {
    "id": "bac251cd51b8",
@@ -2691,6 +2691,157 @@
    ],
    "desc": "واکنش‌ها به گزارش صدا و سیما از دفتر تاریک و سرد پزشکیان",
    "score": 3
+  },
+  {
+   "id": "634fcadcb179",
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "date": "2026-11-21T21:31:03Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "desc": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+   "score": 9
+  },
+  {
+   "id": "d96c342c31b7",
+   "title": "Impunity fuels surge in settler violence across occupied West Bank",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+   "date": "2026-11-21T21:11:54Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Impunity fuels surge in settler violence across occupied West Bank",
+   "score": 6,
+   "skip": true
+  },
+  {
+   "id": "4cc04d8d1c85",
+   "title": "Indian man jailed over plot to kill Sikh separatist in US",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+   "date": "2026-11-21T21:09:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+   "score": 7,
+   "dup_of": "2453f6a66a0b"
+  },
+  {
+   "id": "dd194f367fab",
+   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "date": "2026-11-21T20:56:35Z",
+   "countries": [
+    "IRN",
+    "QAT"
+   ],
+   "desc": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+   "score": 8,
+   "dup_of": "1c699ddaa8a4"
+  },
+  {
+   "id": "9a3029a5f62b",
+   "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+   "date": "2026-11-21T19:43:52Z",
+   "countries": [
+    "SAU",
+    "TUR"
+   ],
+   "desc": "Cop31 summit ‘unravelling’ as governments fail to agree on transition to renewables and aid for developing countries Climate talks reached a standstill on Saturday night in Turkey as some countries mulled whether to force a showdown with Saudi Arabia and its allies over the global need to phase out fossil fuels. The co-conveners of the Cop31 UN climate summit , Australia’s Chris Bowen and Turkey’s Murat Kurum, held meetings with scores of countries throughout Saturday until late evening as the fortnight-long talks overran without resolution, with countries and campaigners growing increasingly ",
+   "score": 6
+  },
+  {
+   "id": "48afc3f93eae",
+   "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+   "date": "2026-11-21T20:49:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturday. The \"marathon series of talks\" starts Sunday, the party said, adding that the move reflected a commitment to form \"the broadest possible government\" after the October election failed to deliver an outright winner.",
+   "score": 7
+  },
+  {
+   "id": "c8aa98c984c0",
+   "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+   "date": "2026-11-20T12:00:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
+   "score": 7,
+   "dup_of": "c6d048b4cf1e"
+  },
+  {
+   "id": "c5b077e7fdd2",
+   "title": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention",
+   "date": "2026-11-21T19:23:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: President Asif Ali Zardari has promulgated five ordinances, doing away with most of the “privileges” of the Khyber Pakhtunkhwa lawmakers, including protection against “preventive detention” and providing a legal framework for special initiatives in the designated 12 districts and other districts in the province. With the imposition of emergency in KP on Oct 11, an Area Representative and Development Council (ARDC) was formed to oversee 12 districts that were deemed to face intense security challenges, including the merged districts. Two of the ordinances envisage setting up an execut",
+   "score": 5
+  },
+  {
+   "id": "61ac66a924e9",
+   "title": "4 guards of Sardar Khetran held after body recovered from Barkhan property",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+   "date": "2026-11-21T21:25:26Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "QUETTA: Police said on Sunday they have detained four guards of former Balochistan minister Sardar Abdul Rehman Khetran following the reported recovery of a body from his property in Barkhan district. A separate case has also been registered against the PML-N MPA and his two sons over the alleged murder, kidnapping and illegal confinement of one of his former guards in a private jail. According to Koh-Suleman Deputy Inspector General (DIG) Ayaz Baloch, the four security guards were taken into custody during a search operation at Khetran’s fortified residence in Haji Kot on Nov 20. Weapons were",
+   "score": 4
+  },
+  {
+   "id": "c7ea94535ca2",
+   "title": "Afghan tradition keeps grapes fresh for winter treat",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046061/afghan-tradition-keeps-grapes-fresh-for-winter-treat",
+   "date": "2026-11-21T20:53:08Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "KALAKAN: On the outskirts of Afghanistan’s frenetic capital Kabul, Muhammad Saber Shojaei is carrying out a centuries-old task of preserving fistfuls of grapes to be eaten when winter bites. Crouched in front of dozens of Kanginas, clay-and-straw discs containing grapes, Shojaei recalls his father, who taught him the technique. “I remember the old days, when we sat together around the Sandali (stove), eating Kangina grapes and enjoying those happy moments,” said the 47-year-old from Kalakan district. Carefully putting a bunch of grapes in one of the discs, Shojaei added a second disc on top an",
+   "score": 2
+  },
+  {
+   "id": "9d297baae685",
+   "title": "The Rohingya | Vindication for a persecuted people",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+   "date": "2026-11-21T18:20:18Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The International Court of Justice’s ruling that Myanmar committed genocide during its 2017 ‘clearance operations’ offers a measure of justice for the ethnic and religious minority, but the court has no means of enforcing its judgment",
+   "score": 4
   }
  ]
 }

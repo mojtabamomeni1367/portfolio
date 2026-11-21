@@ -1,7 +1,96 @@
 {
- "updated": "2026-11-21T19:00:56Z",
- "count": 450,
+ "updated": "2026-11-21T21:53:53Z",
+ "count": 449,
  "items": [
+  {
+   "id": "634fcadcb179",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "date": "2026-11-21T21:31:03Z",
+   "countries": [
+    "BHR",
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "title_en": "Bahrain says Iranian attack causes fire at industrial facility",
+   "summary_en": "Bahrain reported that an Iranian aerial attack hit a civilian industrial facility late on Saturday, causing a fire and material damage. Iran's Islamic Revolutionary Guard Corps said it launched missiles and drones targeting US military positions at two Bahraini bases.",
+   "body_en": [
+    "Bahrain's interior ministry stated that the strike caused material damage without casualties, and civil defence personnel worked to extinguish the blaze. The Bahraini military said its air defences had intercepted several aerial targets.",
+    "The IRGC stated the operation targeted US military positions at the al-Riffa and Awali bases in retaliation for US drone violations of Iranian airspace, claiming two Patriot radars were destroyed. Iranian state media offered differing accounts, with IRNA attributing a fire on Sitra Island to an errant US interceptor missile."
+   ],
+   "title_fa": "بحرین می‌گوید حمله ایران موجب آتش‌سوزی در یک تاسیسات صنعتی شد",
+   "summary_fa": "بحرین اعلام کرد که در حمله هوایی اواخر روز شنبه ایران، یک تاسیسات صنعتی غیرنظامی هدف قرار گرفت و دچار آتش‌سوزی و خسارات مادی شد. سپاه پاسداران انقلاب اسلامی ایران نیز اعلام کرد با موشک و پهپاد پایگاه‌های نظامی آمریکا را در بحرین هدف قرار داده است.",
+   "body_fa": [
+    "وزارت کشور بحرین اعلام کرد که این حمله خسارات مادی در پی داشته اما تلفاتی گزارش نشده است، و نیروهای دفاع مدنی برای مهار آتش تلاش کردند. ارتش بحرین نیز از رهگیری چند هدف هوایی توسط سامانه‌های پدافندی خود خبر داد.",
+    "سپاه پاسداران انقلاب اسلامی اعلام کرد این عملیات در پاسخ به نقض حریم هوایی ایران توسط پهپادهای آمریکایی صورت گرفته و مواضع نظامی ایالات متحده را در پایگاه‌های الرفاع و العوالی هدف قرار داده و دو رادار پاتریوت را منهدم کرده است. هم‌زمان، رسانه‌های رسمی ایران روایت‌های متفاوتی مطرح کردند، از جمله خبرگزاری ایرنا آتش‌سوزی در جزیره ستره را ناشی از نقص موشک رهگیر آمریکایی دانست."
+   ],
+   "title_ar": "البحرين تقول إن هجوماً إيرانياً تسبب في حريق بمنشأة صناعية",
+   "summary_ar": "أعلنت البحرين أن هجوماً جوياً إيرانياً استهدف منشأة صناعية مدنية في وقت متأخر من مساء السبت، مما أدى إلى اندلاع حريق وأضرار مادية. من جانبه، أعلن الحرس الثوري الإيراني أنه شن هجوماً بالصواريخ والطائرات المسيرة استهدف مواقع عسكرية أمريكية في قاعدتين بالبحرين.",
+   "body_ar": [
+    "ذكرت وزارة الداخلية البحرينية أن الهجوم أسفر عن أضرار مادية دون وقوع إصابات، بينما عملت فرق الدفاع المدني على إخماد النيران. من جانبه، أعلن الجيش البحريني أن دفاعاته الجوية اعترضت عدداً من الأهداف الجوية.",
+    "وأعلن الحرس الثوري الإيراني أن العملية استهدفت مواقع عسكرية أمريكية في قاعدتي الرفاع والعوالي رداً على انتهاك طائرات مسيرة أمريكية للمجال الجوي الإيراني، زاعماً تدمير رادارين لمنظومة باتريوت. في المقابل، قدمت وسائل إعلام إيرانية رسمية روايات متباينة، حيث نسبت وكالة إرنا حريقاً في جزيرة سترة إلى سقوط صاروخ اعتراضي أمريكي."
+   ]
+  },
+  {
+   "id": "48afc3f93eae",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+   "date": "2026-11-21T20:49:04Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+   "title_en": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+   "summary_en": "Israeli opposition leader Gadi Eisenkot has invited caretaker Prime Minister Benjamin Netanyahu's Likud party to begin coalition negotiations. Eisenkot's centrist Yashar party announced that the marathon talks would start on Sunday.",
+   "body_en": [
+    "The Yashar party stated that the move aims to build the broadest possible government following the inconclusive results of the October election."
+   ],
+   "title_fa": "آیزنکوت حزب نتانیاهو را به مذاکرات ائتلافی «ماراتن‌گونه» دعوت کرد",
+   "summary_fa": "گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، از حزب لیکود به رهبری بنیامین نتانیاهو، نخست‌وزیر موقت، برای آغاز مذاکرات ائتلافی دعوت کرده است. حزب میانه‌روی یاشار اعلام کرد این گفتگوهای فشرده از روز یکشنبه آغاز خواهد شد.",
+   "body_fa": [
+    "حزب یاشار اعلام کرد این تصمیم با هدف تشکیل گسترده‌ترین دولت ممکن، پس از آن صورت می‌گیرد که انتخابات ماه اکتبر برنده قاطعی نداشت."
+   ],
+   "title_ar": "آيزنكوت يدعو حزب نتنياهو إلى محادثات ائتلافية «ماراثونية»",
+   "summary_ar": "دعا زعيم المعارضة الإسرائيلية غادي آيزنكوت حزب الليكود بقيادة رئيس الوزراء المكلف بتصريف الأعمال بنيامين نتنياهو لبدء محادثات لتشكيل ائتلاف حكومي. وأعلن حزب يشار الوسطي أن هذه المحادثات الماراثونية ستبدأ يوم الأحد.",
+   "body_ar": [
+    "وأوضح حزب يشار أن هذه الخطوة تعكس الالتزام بتشكيل أوسع حكومة ممكنة، وذلك بعد أن فشلت انتخابات أكتوبر في إفراز فائز واضح."
+   ]
+  },
+  {
+   "id": "9a3029a5f62b",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+   "date": "2026-11-21T19:43:52Z",
+   "countries": [
+    "SAU",
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+   "title_en": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+   "summary_en": "Negotiations at the Cop31 climate summit in Turkey have stalled as a coalition of around 130 nations considers confronting Saudi Arabia and its allies over phasing out fossil fuels. The dispute centers on including a commitment to transition away from fossil fuels in the final text and providing climate finance for developing nations.",
+   "body_en": [
+    "Talks overran past their scheduled Friday conclusion as developing countries demanded adaptation funding from wealthy nations, while about 130 states insisted on referencing a transition away from fossil fuels. Other points of friction include Saudi proposals promoting carbon capture and storage technology, which critics argue is used to extend the use of fossil fuels.",
+    "After the reference to fossil fuels was removed from a revised draft, representatives from the European Union, the United Kingdom, small island states, and African nations demanded its reinstatement. Countries are considering forcing an open plenary to make Saudi Arabia and its allies state their objections publicly."
+   ],
+   "title_fa": "مذاکرات اقلیمی به بن‌بست رسید؛ بررسی تقابل کشورها با عربستان سعودی بر سر حذف تدریجی سوخت‌های فسیلی",
+   "summary_fa": "مذاکرات در اجلاس اقلیمی کاپ۳۱ در ترکیه به بن‌بست خورده است، زیرا ائتلافی متشکل از حدود ۱۳۰ کشور در حال بررسی رویارویی با عربستان سعودی و متحدانش بر سر حذف تدریجی سوخت‌های فسیلی هستند. اختلاف اصلی بر سر گنجاندن تعهد به گذر از سوخت‌های فسیلی در متن نهایی و تأمین مالی اقلیمی برای کشورهای در حال توسعه است.",
+   "body_fa": [
+    "گفتگوها پس از پایان موعد مقرر در روز جمعه ادامه یافت، زیرا کشورهای در حال توسعه خواستار دریافت بودجه سازگاری از کشورهای ثروتمند بودند و حدود ۱۳۰ کشور بر ذکر گذر از سوخت‌های فسیلی پافشاری کردند. دیگر موضوع مورد اختلاف، اصرار عربستان سعودی بر درج فناوری‌های جذب و ذخیره کربن است که منتقدان آن را ابزاری برای حفظ صنعت سوخت‌های فسیلی می‌دانند.",
+    "پس از حذف بند مربوط به سوخت‌های فسیلی از پیش‌نویس بازنگری‌شده، نمایندگان اتحادیه اروپا، بریتانیا، کشورهای جزیره‌ای کوچک و کشورهای آفریقایی خواستار بازگرداندن آن شدند. برخی کشورها در حال بررسی برگزاری یک جلسه علنی هستند تا عربستان سعودی و متحدانش ناچار شوند مخالفت خود را به‌طور رسمی اعلام کنند."
+   ],
+   "title_ar": "تعثر محادثات المناخ مع دراسة دول لمواجهة مع السعودية بشأن التخلص التدريجي من الوقود الأحفوري",
+   "summary_ar": "وصلت المفاوضات في قمة المناخ «كوب 31» في تركيا إلى طريق مسدود مع دراسة تحالف يضم نحو 130 دولة الدخول في مواجهة مع السعودية وحلفائها بشأن التخلص التدريجي من الوقود الأحفوري. ويتمحور الخلاف حول إدراج بند للتحول بعيداً عن الوقود الأحفوري في النص الختامي وتوفير التمويل المناخي للدول النامية.",
+   "body_ar": [
+    "تجاوزت المحادثات موعد اختتامها المقرر يوم الجمعة مع مطالبة الدول النامية بتمويل التكيف من الدول الغنية، وإصرار نحو 130 دولة على الإشارة إلى التحول بعيداً عن الوقود الأحفوري. وتشمل نقاط الخلاف الأخرى مساعي السعودية لدعم تكنولوجيا احتجاز الكربون وتخزينه، وهو ما يراه معارضون وسيلة لإدامة استخدام الوقود الأحفوري.",
+    "وبعد شطب الإشارة إلى الوقود الأحفوري من مسودة معدلة، طالب ممثلون عن الاتحاد الأوروبي والمملكة المتحدة والدول الجزرية الصغيرة ودول أفريقية بإعادة إدراجها. وتدرس الدول الدعوة إلى جلسة علنية لإجبار السعودية وحلفائها على إعلان معارضتهم بشكل صريح أمام الجميع."
+   ]
+  },
   {
    "id": "bfa8a23ef79c",
    "lang": "en",
@@ -271,33 +360,6 @@
    ]
   },
   {
-   "id": "8bcd47af2cf4",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "date": "2026-11-21T11:02:29Z",
-   "countries": [
-    "IRQ"
-   ],
-   "score": 5,
-   "title": "Deadly fire engulfs power station in southern Iraq",
-   "title_en": "Deadly fire engulfs power station in southern Iraq",
-   "summary_en": "A fire at the Hartha power station north of Basra in southern Iraq killed at least four people and injured 30 others.",
-   "body_en": [
-    "The blaze spread to nearby residential homes and forced the power station to shut down. The cause of the fire remains unknown."
-   ],
-   "title_fa": "آتش‌سوزی مرگبار در نیروگاهی در جنوب عراق",
-   "summary_fa": "وقوع آتش‌سوزی در نیروگاه الهارثه در شمال شهر بصره در جنوب عراق، حداقل چهار کشته و ۳۰ مجروح بر جای گذاشت.",
-   "body_fa": [
-    "این آتش‌سوزی به خانه‌های اطراف سرایت کرد و منجر به تعطیلی نیروگاه شد. علت حادثه هنوز مشخص نیست."
-   ],
-   "title_ar": "حريق قاتل يلتهم محطة كهرباء في جنوب العراق",
-   "summary_ar": "أسفر حريق اندلع في محطة الهارثة للكهرباء شمال مدينة البصرة في جنوب العراق عن مقتل أربعة أشخاص على الأقل وإصابة 30 آخرين.",
-   "body_ar": [
-    "وامتد الحريق إلى المنازل المجاورة وأدى إلى توقف المحطة عن العمل. ولا تزال أسباب اندلاع الحريق مجهولة."
-   ]
-  },
-  {
    "id": "855e16269bec",
    "lang": "en",
    "source": "The Hindu",
@@ -356,36 +418,6 @@
    "body_ar": [
     "تستهدف إخطارات الهدم مباني في منطقة دائرة السير بالخليل، وتتضمن مجتمعين سكنيين يضمان 65 شقة إضافة إلى فيلا منفصلة. وأمهلت السلطات الإسرائيلية الأسر أسبوعاً واحداً لتقديم اعتراضات قانونية، بدعوى وجود دواعي أمنية لقرب المباني من طريق المستوطنين رقم 35.",
     "وأكد مسؤولون محليون وأصحاب العقارات أن المباني تقع في المنطقة (أ) الخاضعة للسلطة الفلسطينية بالكامل بموجب اتفاقيات أوسلو، وأنها حاصلة على الترخيص اللازمة. وقد قدم محامون طلبات عاجلة للمحاكم الإسرائيلية لتجميد وإلغاء قرارات الهدم."
-   ]
-  },
-  {
-   "id": "8e41819aa784",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046111/fm-dar-calls-for-multilateralism-says-bloc-or-unilateral-politics-will-not-work",
-   "date": "2026-11-21T09:52:30Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "FM Dar calls for multilateralism, says bloc or unilateral politics will not work",
-   "title_en": "FM Dar calls for multilateralism, says bloc or unilateral politics will not work",
-   "summary_en": "In an interview with Euronews, Pakistani Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the importance of multilateralism and independent foreign policy. He stated that bloc politics and unilateralism are ineffective in the current global environment.",
-   "body_en": [
-    "Dar highlighted Pakistan's mediating role in the recent conflict between the United States and Iran, recalling Islamabad's efforts to secure ceasefires and host direct talks. He reiterated that diplomacy and dialogue remain the only viable solutions to global crises.",
-    "The foreign minister also addressed regional issues, including counter-terrorism efforts concerning Afghanistan and concerns over the Indus Waters Treaty with India, criticizing any unilateral moves regarding shared water resources."
-   ],
-   "title_fa": "وزیر خارجه دار بر چندجانبه‌گرایی تأکید کرد و گفت سیاست‌های بلوک‌بندی یا یکجانبه کارساز نخواهد بود",
-   "summary_fa": "اسحاق دار، معاون نخست‌وزیر و وزیر امور خارجه پاکستان، در مصاحبه با یورونیوز بر اهمیت چندجانبه‌گرایی و سیاست خارجی مستقل تأکید کرد. وی اظهار داشت که سیاست‌های بلوک‌بندی و یکجانبه‌گرایی در فضای کنونی جهانی کارساز نیست.",
-   "body_fa": [
-    "دار نقش میانجی‌گرانه پاکستان در درگیری اخیر بین ایالات متحده و ایران را برجسته کرد و تلاش‌های اسلام‌آباد برای برقراری آتش‌بس و میزبانی از مذاکرات مستقیم را یادآور شد. وی تکرار کرد که دیپلماسی و گفتگو تنها راه‌حل‌های پایدار برای بحران‌های جهانی هستند.",
-    "وزیر خارجه همچنین به مسائل منطقه‌ای از جمله تلاش‌های ضدتروریسم در ارتباط با افغانستان و نگرانی‌ها پیرامون معاهده آب‌های سند با هند پرداخت و هرگونه اقدام یکجانبه در خصوص منابع آب مشترک را مورد انتقاد قرار داد."
-   ],
-   "title_ar": "وزير الخارجية دار يدعو إلى التعددية ويقول إن سياسة التكتلات أو الأحادية لن تجدي نفعاً",
-   "summary_ar": "شدد نائب رئيس الوزراء ووزير الخارجية الباكستاني إسحاق دار، في مقابله مع قناة يورونيوز، على أهمية التعددية وسياسة خارجية مستقلة. وذكر أن سياسة التكتلات والأحادية غير فعالة في البيئة العالمية الحالية.",
-   "body_ar": [
-    "أبرز دار دور الوساطة الذي تلعبه باكستان في الصراع الأخير بين الولايات المتحدة وإيران، مذكراً بجهود إسلام آباد لتأمين وقف إطلاق النار واستضافة المحادثات المباشرة. وأعاد التأكيد على أن الدبلوماسية والحوار تظل هي الحلول الوحيدة القابلة للتطبيق للأزمات العالمية.",
-    "تطرق وزير الخارجية أيضاً إلى القضايا الإقليمية، بما في ذلك جهود مكافحة الإرهاب المتعلقة بأفغانستان والقلق بشأن معاهدة مياه السند مع الهند، منتقداً أي خطوات أحادية الجانب تتعلق بموارد المياه المشتركة."
    ]
   },
   {
@@ -448,38 +480,6 @@
    ]
   },
   {
-   "id": "ede589f02e6e",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046109/musadik-malik-holds-separate-meetings-with-iranian-tajik-officials-on-sco-forum-sidelines",
-   "date": "2026-11-21T08:32:16Z",
-   "countries": [
-    "IND",
-    "IRN",
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Musadik Malik holds separate meetings with Iranian, Tajik officials on SCO forum sidelines",
-   "title_en": "Musadik Malik holds separate meetings with Iranian, Tajik officials on SCO forum sidelines",
-   "summary_en": "Addressing the Shanghai Cooperation Organisation Civilisational Dialogue Forum in New Delhi, Pakistani Climate Change Minister Musadik Malik described climate change as a major threat to civilizations. On the sidelines of the event, he held bilateral meetings with officials from Tajikistan and Iran.",
-   "body_en": [
-    "During his speech, Malik highlighted historical flood disasters in South Asia and proposed a network of cultural institutions and climate-resilient heritage frameworks for SCO member states.",
-    "In his bilateral meetings, he met Tajikistan's Culture Minister Sattoriyon Amonzoda and Mohammad Mahdi Imanipour, head of Iran's Islamic Culture and Relations Organisation, reaffirming Pakistan's commitment to strengthening historical and cultural ties."
-   ],
-   "title_fa": "مصدق ملک در حاشیه نشست شانگهای با مقامات ایرانی و تاجیک دیدارهای جداگانه‌ای انجام داد",
-   "summary_fa": "مصدق ملک، وزیر تغییرات اقلیمی پاکستان، در نشست گفتگوی تمدنی سازمان همکاری شانگهای در دهلی نو، تغییرات اقلیمی را تهدیدی بزرگ برای تمدن‌ها توصیف کرد. وی در حاشیه این رویداد دیدارهای دوجانبه‌ای با مقاماتی از تاجیکستان و ایران انجام داد.",
-   "body_fa": [
-    "ملک در سخنرانی خود به فجایع سیل تاریخی در جنوب آسیا اشاره کرد و تشکیل شبکه نهادهای فرهنگی و چارچوب‌های میراثی مقاوم در برابر تغییرات اقلیمی را برای کشورهای عضو شانگهای پیشنهاد داد.",
-    "وی در دیدارهای دوجانبه خود با ستوریون امون‌زاده، وزیر فرهنگ تاجیکستان، و محمدعلی ایمانی‌پور، رئیس سازمان فرهنگ و ارتباطات اسلامی ایران، دیدار و بر تعهد پاکستان بر تقویت روابط تاریخی و فرهنگی تأکید کرد."
-   ],
-   "title_ar": "مصادق مالك يعقد لقاءات منفصلة مع مسؤولي إيران وتاجيكستان على هامش قمة شانغهاي",
-   "summary_ar": "وصف وزير تغير المناخ الباكستاني مصادق مالك، خلال منتدى الحوار الحضاري لمنظمة شانغهاي للتعاون في نيودلهي، تغير المناخ بأنه تهديد رئيسي للحضارات. وعلى هامش الفعالية، عقد اجتماعات ثنائية مع مسؤولين من تاجيكستان وإيران.",
-   "body_ar": [
-    "أبرز مالك في كلمته كارثة الفيضانات التاريخية في جنوب آسيا واقترح إنشاء شبكة من المؤسسات الثقافية وأطر التراث المقاومة لتغير المناخ للدول الأعضاء في منظمة شانغهاي.",
-    "وفي اجتماعاته الثنائية، التقى بوزير ثقافة تاجيكستان ستوريون أمونزودا ومحمد مهدي إماني‌پور رئيس منظمة الثقافة والعلاقات الإسلامية في إيران، مؤكداً التزام باكستان بتعزيز الروابط التاريخية والثقافية."
-   ]
-  },
-  {
    "id": "095cdf1dce55",
    "lang": "en",
    "source": "The Hindu",
@@ -507,36 +507,6 @@
    "body_ar": [
     "شارك رئيس الوزراء ناريندرا مودي في ثلاث اجتماعات متتالية على هامش قمم آسيان التي استضافها رئيس الفلبين بونغ بونغ ماركوس في مانيلا. ونتج عن هذه القمم إعلانات تهدف إلى توسيع التفاعل الدبلوماسي للهند في المنطقة.",
     "وشملت الاجتماعات قمة شرق آسيا التي تضم قوى كبرى مثل الولايات المتحدة وروسيا والصين، بالإضافة إلى اجتماع قادة رباعية \"الكواد\" بحضور الرئيس الأمريكي دونالد ترامب، ورئيسة الوزراء اليابانية ساناي تاكايتشي، ورئيس الوزراء الأسترالي ألبانيز."
-   ]
-  },
-  {
-   "id": "f01cf604f34c",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "date": "2026-11-21T07:25:29Z",
-   "countries": [
-    "IRQ"
-   ],
-   "score": 5,
-   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-   "title_en": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-   "summary_en": "A fire at a power station in southern Iraq's Basra province has left at least four people dead and 35 others injured.",
-   "body_en": [
-    "According to Iraqi state media, the Civil Defence Directorate managed to bring the blaze at the Hartha power station and nearby houses under control on Saturday. The fire forced operations to halt at the 800-megawatt facility, while online footage showed heavy smoke, burned-out cars, and gathered crowds.",
-    "Iraq's power grid has historically faced challenges due to decades of underinvestment, poor maintenance, and difficulties meeting peak summer demand. Technical failures and fires at such facilities have frequently caused widespread power outages in the past."
-   ],
-   "title_fa": "دستکم چهار کشته و ۳۵ زخمی در آتش‌سوزی نیروگاهی در بصره عراق",
-   "summary_fa": "آس‌سوزی در یک نیروگاه برق در جنوب عراق دستکم چهار کشته و ۳۵ زخمی بر جای گذاشت.",
-   "body_fa": [
-    "به گزارش رسانه‌های دولتی عراق، اداره دفاع شهری موفق شد روز شنبه آتش‌سوزی در نیروگاه برق حرثه و خانه‌های مجاور را مهار کند. این حادثه باعث توقف فعالیت‌های این نیروگاه ۸۰۰ مگاواتی شد و تصاویر منتشر شده در فضای مجازی دود غلیظ، خودروهای سوخته و تجمع شهروندان را نشان داد.",
-    "شبکه برق عراق به دلیل دهه‌ها سرمایه‌گذاری ناکافی، نگهداری نامناسب و ناتوانی در تأمین تقاضای اوج مصرف در ماه‌های گرم تابستان با مشکلات دیرینه‌ای روبروست. خرابی‌های فنی و آتش‌سوزی در تأسیسات برق پیش‌تر نیز باعث اختلال در عرضه برق و خاموشی‌های گسترده شده است."
-   ],
-   "title_ar": "مقتل أربعة أشخاص على الأقل وإصابة 35 في حريق بمحطة توليد كهرباء في بصره بالعراق",
-   "summary_ar": "أسفر حريق اندلع في محطة لتوليد الكهرباء جنوب العراق عن مقتل أربعة أشخاص على الأقل وإصابة 35 آخرين.",
-   "body_ar": [
-    "وفقاً للإعلام الرسمي العراقي، تمكنت مديرية الدفاع المدني يوم السبت من السيطرة على الحريق الذي اندلع في محطة الحارثة للطاقة والمنازل المجاورة. وأدى الحريق إلى توقف العمليات في المحطة التي تبلغ طاقتها الإنتاجية 800 مگاهواط، بينما أظهرت مقاطع الفيديو المتداولة أعمدة دخان كثيفة و车的 محترقة وتجمعات بشرية.",
-    "تُواجه البنية التحتية للكهرباء في العراق تحديات مستمرة منذ عقود بسبب نقص الاستثمار، وسوء الصيانة، وعدم القدرة على تلبية الذروة في الطلب خلال أشهر الصيف الحارة. وغالباً ما كانت الحرائق والأعطال الفنية في محطات الطاقة تتسبب في السابق بانقطاع التيار الكهربائي على نطاق واسع."
    ]
   },
   {
