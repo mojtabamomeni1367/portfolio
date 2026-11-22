@@ -1,7 +1,191 @@
 {
- "updated": "2026-11-22T11:38:37Z",
- "count": 429,
+ "updated": "2026-11-22T19:47:40Z",
+ "count": 435,
  "items": [
+  {
+   "id": "e352fcba911f",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
+   "date": "2026-11-22T19:22:47Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Any talks with India on terrorism must be 'evidence-based', says Musadik Malik",
+   "title_en": "Any talks with India on terrorism must be 'evidence-based', says Musadik Malik",
+   "summary_en": "Pakistani Federal Minister Musadik Malik stated in New Delhi that any future dialogue between Pakistan and India on terrorism must be founded on evidence.",
+   "body_en": [
+    "Speaking during a three-day visit to attend the SCO Civilisational Dialogue Forum, Malik emphasised that Pakistan is ready to examine and present its own evidence in bilateral or multilateral settings if India seeks a lasting resolution. He was the first Pakistani minister to travel to the country since May 2023, following military clashes last year after New Delhi accused Pakistan, without evidence, over an attack on tourists in Pahalgam.",
+    "Malik rejected impromptu bilateral inquiries from Indian reporters on topics such as the Indus Waters Treaty, clarifying that he was in India solely for the multilateral cultural event and would address other concerns once properly invited for bilateral talks. He pointed out the shared environmental threats faced by both nations, noting that climate catastrophes impact communities without regard to borders."
+   ],
+   "title_fa": "مصدق ملک: هرگونه گفت‌وگو با هند پیرامون تروریسم باید «مبتنی بر شواهد» باشد",
+   "summary_fa": "مصدق ملک، وزیر فدرال پاکستان، در دهلی نو اعلام کرد که هرگونه گفت‌وگو میان اسلام‌آباد و دهلی نو پیرامون تروریسم باید بر شواهد استوار باشد.",
+   "body_fa": [
+    "ملک در حاشیه سفر سه روزه خود برای حضور در مجمع گفت‌وگوی تمدنی سازمان همکاری شانگهای گفت اگر دهلی نو به دنبال راه‌حلی پایدار است، پاکستان آمادگی دارد شواهد خود را در چارچوب‌های دوجانبه یا چندجانبه ارایه دهد. این نخستین سفر یک وزیر پاکستانی به هند از مه ۲۰۲۳ و پس از تنش‌های نظامی سال گذشته پیرامون حمله به گردشگران در پهالگام به شمار می‌رود.",
+    "وی در پاسخ به پرسش‌های رسانه‌های هندی درباره موضوعاتی چون پیمان آب‌های سند اعلام کرد برای نشستی فرهنگی دعوت شده و تنها در صورت دعوت رسمی برای گفت‌وگوهای دوجانبه در این خصوص اظهار نظر خواهد کرد. این وزیر پاکستانی همچنین با اشاره به تهدید مشترک تغییرات اقلیمی یادآور شد که پیامدهای زیست‌محیطی مرز نمی‌شناسند."
+   ],
+   "title_ar": "مصدق مالك: أي محادثات مع الهند بشأن الإرهاب يجب أن تكون «مبنية على الأدلة»",
+   "summary_ar": "أكد الوزير الاتحادي الباكستاني مصدق مالك في نيودلهي أن أي حوار بين باكستان والهند حول مكافحة الإرهاب يجب أن يستند إلى الأدلة.",
+   "body_ar": [
+    "وأوضح مالك، خلال زيارة استمرت ثلاثة أيام لحضور منتدى حوار الحضارات لمنظمة شنغهاي للتعاون، أن باكستان مستعدة لتقديم وفحص الأدلة في المنتديات الثنائية أو متعددة الأطراف إذا رغبت الهند في التوصل إلى حل دائم. وتعد هذه أول زيارة لوزير باكستاني إلى الهند منذ مايو 2023، وذلك بعد اشتباكات عسكرية وقعت بين البلدين العام الماضي على خلفية هجوم بهلجام.",
+    "ورفض الوزير الخوض في قضايا ثنائية كمعاهدة مياه السند رداً على أسئلة الصحفيين، مشيراً إلى أنه يزور الهند لحضور فعالية ثقافية فقط وسيناقش الملفات الأخرى إذا وُجهت له دعوة رسمية لمحادثات ثنائية. كما نبه إلى الأخطار البيئية المشتركة التي يفرضها تغير المناخ على كلا البلدين دون تمييز."
+   ]
+  },
+  {
+   "id": "60bd1ad085d7",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
+   "date": "2026-11-22T15:27:28Z",
+   "countries": [
+    "OMN",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
+   "title_en": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
+   "summary_en": "Pakistan and Oman have signed an agreement for Oman's OQ Trading to supply petroleum products and provide a $200 million credit line to Pakistan State Oil. The deal aims to enhance Pakistan's energy security and diversify imports amid ongoing disruptions in the Strait of Hormuz.",
+   "body_en": [
+    "The sale and purchase agreement was finalized in Muscat during a meeting between Pakistani Petroleum Minister Ali Pervaiz Malik and Oman's Minister of Energy and Minerals Salim Al Aufi. Both sides welcomed the creation of a Joint Working Group on Oil and Gas to deepen bilateral cooperation across the energy and mining sectors.",
+    "OQ Trading is already a significant supplier to Pakistan, having delivered more than 1 million tonnes of gasoline in 2026. The company is also active in the country's liquefied petroleum gas market, where its supplies are projected to exceed 120,000 metric tonnes by the end of the year."
+   ],
+   "title_fa": "عمان بر اساس توافقی جدید، فرآورده‌های نفتی و تسهیلات اعتباری ۲۰۰ میلیون دلاری در اختیار شرکت نفت پاکستان قرار می‌دهد",
+   "summary_fa": "پاکستان و عمان توافق‌نامه‌ای امضا کردند که بر اساس آن، شرکت تجارت اوکیو عمان فرآورده‌های نفتی و یک خط اعتباری ۲۰۰ میلیون دلاری در اختیار شرکت نفت پاکستان قرار می‌دهد. هدف از این توافق، ارتقای امنیت انرژی پاکستان و تنوع‌بخشی به واردات در بحبوحه اختلالات جاری در تنگه هرمز است.",
+   "body_fa": [
+    "این توافق‌نامه خرید و فروش در جریان سفر علی پرویز ملک، وزیر نفت پاکستان، به مسقط و دیدارش با سالم العوفی، وزیر انرژی و مواد معدنی عمان، نهایی شد. دو طرف همچنین از تشکیل یک کارگروه مشترک در حوزه نفت و گاز برای گسترش همکاری‌ها در بخش‌های انرژی و معدن استقبال کردند.",
+    "شرکت تجارت اوکیو هم‌اکنون نیز یکی از تأمین‌کنندگان عمده سوخت پاکستان است و بیش از یک میلیون تن بنزین در سال ۲۰۲۶ به این کشور ارسال کرده است. این شرکت در بازار گاز مایع پاکستان نیز فعالیت دارد و پیش‌بینی می‌شود صادرات گاز مایع آن تا پایان سال ۲۰۲۶ از ۱۲۰ هزار تن فراتر رود."
+   ],
+   "title_ar": "عُمان تزوّد شركة النفط الباكستانية بمنتجات بترولية وتسهيل ائتماني بقيمة 200 مليون دولار بموجب اتفاق جديد",
+   "summary_ar": "وقّعت باكستان وسلطنة عُمان اتفاقاً تقوم بموجبه شركة أوكيو للتجارة العُمانية بتوريد منتجات بترولية وتقديم خط ائتمان بقيمة 200 مليون دولار لشركة النفط الباكستانية. ويهدف الاتفاق إلى تعزيز أمن الطاقة في باكستان وتنويع وارداتها في ظل استمرار الاضطرابات في مضيق هرمز.",
+   "body_ar": [
+    "وجرى إبرام اتفاقية البيع والشراء في مسقط خلال لقاء جمع وزير البترول الباكستاني علي برويز مالك بوزير الطاقة والمعادن العُماني سالم العوفي. ورحب الجانبان بإنشاء فريق عمل مشترك للنفط والغاز لتعميق التعاون الثنائي في قطاعي الطاقة والتعدين.",
+    "وتُعد شركة أوكيو للتجارة مورداً رئيساً لباكستان بالفعل، حيث زوّدتها بأكثر من مليون طن من البنزين خلال عام 2026. كما عززت الشركة حضورها في سوق غاز البترول المسال الباكستاني، ومن المتوقع أن تتجاوز إمداداتها منه 120 ألف طن متري بنهاية العام."
+   ]
+  },
+  {
+   "id": "46289997b5a8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+   "date": "2026-11-22T14:35:55Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "score": 6,
+   "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+   "title_en": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+   "summary_en": "Bangladesh has deployed paramilitary forces following a week of political violence that left at least four people dead after supporters of ousted Prime Minister Sheikh Hasina protested the government's refusal to allow her return. Authorities rejected her passport request and stated that she faces execution under a death sentence unless handed over through extradition from India.",
+   "body_en": [
+    "The unrest involved clashes, arson attacks across 28 districts, and attacks on police stations, bank branches, and the ancestral home of former interim leader Muhammad Yunus. The protests coincided with the anniversary of Hasina's death sentence, which Bangladesh's International Crimes Tribunal handed down in absentia for crimes against humanity linked to the 2024 crackdown on student demonstrations.",
+    "Prime Minister Tarique Rahman accused India, where Hasina has lived in self-imposed exile, of backing conspiracies behind the instability. Meanwhile, analysts observed that the unrest remains largely concentrated in traditional strongholds of Hasina's banned Awami League party rather than representing a nationwide uprising."
+   ],
+   "title_fa": "چرا بنگلادش پیش از بازگشت برنامه‌ریزی‌شده حسینه دچار خشونت شد",
+   "summary_fa": "بنگلادش در پی یک هفته خشونت‌های سیاسی که دست‌کم چهار کشته برجای گذاشت، نیروهای شبه‌نظامی خود را مستقر کرده است؛ این درگیری‌ها پس از مخالفت دولت با بازگشت شیخ حسینه، نخست‌وزیر برکنارشده، آغاز شد. مقامات درخواست گذرنامه حسینه را رد کرده و اعلام کرده‌اند او به دلیل حکم اعدام غیابی، در صورت بازگشت یا استرداد از هند اعدام خواهد شد.",
+   "body_fa": [
+    "این ناآرامی‌ها شامل درگیری و آتش‌سوزی در ۲۸ منطقه کشور و همچنین حمله به پاسگاه‌های پلیس، شعب بانک‌ها و خانه اجدادی محمد یونس، رهبر دولت موقت پیشین، بوده است. این اعتراضات هم‌زمان با سالگرد صدور حکم اعدام غیابی حسینه در دادگاه بین‌المللی جنایات بنگلادش به اتهام جنایت علیه بشریت در جریان سرکوب اعتراضات دانشجویی سال ۲۰۲۴ رخ داده است.",
+    "طارق رحمان، نخست‌وزیر بنگلادش، هند را که حسینه در تبعیدی خودخواسته در آن به‌سر می‌برد، به حمایت از توطئه‌ها متهم کرده است. با این حال، تحلیل‌گران معتقدند که این تحرکات فعلاً بیشتر در پایگاه‌های سنتی حزب ممنوع‌شده عوامی لیگ متمرکز است و هنوز به یک خیزش سراسری تبدیل نشده است."
+   ],
+   "title_ar": "لماذا انزلقت بنغلاديش إلى العنف قبيل العودة المزمعة لحسينة",
+   "summary_ar": "نشرت بنغلاديش قوات شبه عسكرية في أعقاب أسبوع من العنف السياسي أسفر عن مقتل أربعة أشخاص على الأقل، إثر احتجاجات نظمها أنصار رئيسة الوزراء المعزولة شيخ حسينة تنديداً برفض الحكومة السماح بعودتها. ورفضت السلطات طلب حسينة للحصول على جواز سفر، مؤكدة أنها تواجه حكماً بالإعدام ولن تعود إلا عبر تسليمها من الهند وفق معاهدة تسليم المجرمين.",
+   "body_ar": [
+    "وشملت الاضطرابات أعمال حرق واشتباكات في 28 مقاطعة، وطالت هجمات مراكز للشرطة وفروعاً مصرفية والمنزل العائلي لمحمد يونس، رئيس الحكومة المؤقتة السابق. وتزامنت الاحتجاجات مع ذكرى صدور حكم الإعدام غيابياً على حسينة من قِبل محكمة الجرائم الدولية في بنغلاديش بتهم ارتكاب جرائم ضد الإنسانية خلال قمع احتجاجات الطلاب في 2024.",
+    "واتهم رئيس الوزراء طارق رحمان الهند، التي تقيم فيها حسينة في منفى اختياري، بالوقوف وراء مؤامرات تغذي عدم الاستقرار. في المقابل، يرى محللون أن هذه الاحتجاجات ما زالت تتركز إلى حد كبير في المعاقل التقليدية لحزب رابطة عوامي المحظور ولا ترقى حتى الآن إلى مستوى الحراك الشامل في البلاد."
+   ]
+  },
+  {
+   "id": "02b9bd3afcbc",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+   "date": "2026-11-22T14:20:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+   "title_en": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+   "summary_en": "Iran has unveiled a dual-missile launcher capable of firing two liquid-fuelled missiles simultaneously, alongside showcasing an underground military missile facility.",
+   "body_en": [
+    "Footage broadcast by state media showed commanders touring the subterranean facility, which holds extensive tunnels, missile stockpiles, and launchers. The unveiled system is designed to launch liquid-fuelled missiles vertically with speed-control capabilities intended to bypass air defences, with officials stating that newer Iranian missile generations feature improved range, accuracy, and GPS-independent guidance.",
+    "The Islamic Revolutionary Guard Corps stated that it has relocated its missile and drone assembly lines underground to ensure manufacturing can persist under heavy bombardment. Observers noted that the public display serves as a demonstration of deterrence and continued weapons reserves amid an ongoing United States naval blockade targeting Iranian ports and oil exports."
+   ],
+   "title_fa": "رونمایی ایران از پرتابگر دوگانه موشک و «شهر موشکی» جدید: آنچه باید دانست",
+   "summary_fa": "ایران از یک پرتابگر موشکی دوگانه با قابلیت شلیک هم‌زمان دو موشک سوخت مایع رونمایی کرده و یک تأسیسات موشکی زیرزمینی را به نمایش گذاشته است.",
+   "body_fa": [
+    "تصاویر منتشرشده در رسانه‌های دولتی، بازدید فرماندهان نظامی از این تأسیسات زیرزمینی را نشان می‌دهد که دربرگیرنده کیلومترها تونل، صدها فروند موشک و پرتابگرهای دوگانه است. این سامانه برای پرتاب عمودی موشک‌های سوخت مایع با امکان کنترل سرعت جهت عبور از سامانه‌های پدافند هوایی طراحی شده و رسانه‌های رسمی اعلام کرده‌اند نسل‌های جدید موشک‌های ایرانی از برد، دقت و سامانه‌های هدایت مستقل از موقعیت‌یاب جهانی برخوردارند.",
+    "سپاه پاسداران انقلاب اسلامی اعلام کرد خطوط تولید موشک و پهپاد خود را به تأسیسات زیرزمینی منتقل کرده است تا ادامه ساخت تسلیحات حتی در شرایط بمباران سنگین میسر باشد. تحلیلگران بر این باورند که این اقدام در پی بازدارندگی و نمایش توانایی تسلیحاتی در بحبوحه محاصره دریایی بنادر و محموله‌های نفتی ایران از سوی ایالات متحده انجام گرفته است."
+   ],
+   "title_ar": "إيران تكشف عن منصة إطلاق مزدوجة للصواريخ و«مدينة صواريخ» جديدة: ما يجب معرفته",
+   "summary_ar": "كشفت إيران عن منصة إطلاق مزدوجة قادرة على إطلاق صاروخين يعملان بالوقود السائل في وقت واحد، إلى جانب استعراض منشأة صواريخ عسكرية تحت الأرض.",
+   "body_ar": [
+    "أظهرت لقطات بثتها وسائل إعلام رسمية جولة لقادة عسكريين في المنشأة الواقعة تحت الأرض، والتي تضم أنفاقاً طويلة ومئات الصواريخ ومنصات الإطلاق. صُممت المنصة لإطلاق صواريخ تعمل بالوقود السائل عمودياً مع ميزات للتحكم في السرعة لتجاوز الدفاعات الجوية، بينما أفادت وسائل الإعلام الرسمية بتطوير أجيال الصواريخ من حيث المدى والدقة والتوجيه بشكل مستقل عن نظام تحديد المواقع العالمي.",
+    "وأعلن الحرس الثوري الإيراني نقل خطوط إنتاج الصواريخ والطائرات المسيرة إلى منشآت تحت الأرض لضمان استمرار التصنيع حتى في ظل القصف المكثف. وأشار مراقبون إلى أن هذا الاستعراض يأتي لتأكيد قوة الردع ووفرة الذخائر في خضم حصار بحري تفرضه الولايات المتحدة على موانئ إيران وصادراتها النفطية."
+   ]
+  },
+  {
+   "id": "63770ee44daa",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+   "date": "2026-11-22T12:00:00Z",
+   "countries": [
+    "AFG",
+    "IRN"
+   ],
+   "score": 6,
+   "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+   "title_en": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+   "summary_en": "Afghan women deported from Iran are facing severe economic hardship, unemployment, and strict societal limitations upon returning to Afghanistan. Many had previously secured livelihoods and relative stability abroad but now struggle to meet basic needs such as shelter, healthcare, and food.",
+   "body_en": [
+    "According to the UN refugee agency, more than 6.5 million Afghans have been forced to return from neighboring Iran and Pakistan over the past three years, with nearly 3 million returning in 2025 alone. This influx has expanded Afghanistan's population by over 10 percent, overwhelming the country's limited housing, employment market, and essential public infrastructure.",
+    "UNHCR reported that women and children make up nearly 82 percent of the returnees it assists. The agency provides cash grants, protection, and vocational training projects to help deportees secure independent income and navigate the lack of legal recourse and economic opportunities."
+   ],
+   "title_fa": "«در ایران زندگی بهتری داشتم»؛ چالش زنان افغان بازگردانده‌شده برای بازسازی زندگی",
+   "summary_fa": "زنان افغان که از ایران اخراج شده‌اند، پس از بازگشت به افغانستان با مشکلات شدید اقتصادی، بیکاری و محدودیت‌های اجتماعی مواجه هستند. بسیاری از آنان در گذشته از شغل و ثبات نسبی در خارج از کشور برخوردار بودند، اما اکنون برای برآوردن نیازهای اولیه‌ای مانند مسکن، درمان و غذا با دشواری دست‌وپنجه نرم می‌کنند.",
+   "body_fa": [
+    "به گزارش کمیساریای عالی پناهندگان سازمان ملل متحد، در سه سال گذشته بیش از ۶٫۵ میلیون افغان از کشورهای همسایه، ایران و پاکستان، بازگردانده شده‌اند که نزدیک به ۳ میلیون نفر از آنان تنها در سال ۲۰۲۵ وارد کشور شده‌اند. این بازگشت گسترده، جمعیت افغانستان را بیش از ۱۰ درصد افزایش داده و فشار سنگینی بر مسکن، مشاغل و زیرساخت‌های عمومی وارد کرده است.",
+    "این نهاد سازمان ملل اعلام کرده است که زنان و کودکان حدود ۸۲ درصد از دریافت‌کنندگان کمک‌های آن را تشکیل می‌دهند. کمیساریا تلاش می‌کند از طریق کمک‌های نقدی و برگزاری دوره‌های آموزش فنی و حرفه‌ای، به بازگشتگان برای تأمین معاش مستقل در برابر فقر و کمبود فرصت‌های شغلی کمک کند."
+   ],
+   "title_ar": "\"كانت حياتي أفضل في إيران\": أفغانيات أُجبرن على العودة ويكافحن لإعادة بناء حياتهن",
+   "summary_ar": "تواجه النساء الأفغانيات اللواتي تم ترحيلهن من إيران صعوبات اقتصادية قاسية وبطالة وقيوداً مجتمعية مشددة عقب عودتهن إلى أفغانستان. وكانت كثيرات منهن يتمتعن بمصدر رزق واستقرار نسبي في الخارج، لكنهن يكافحن اليوم لتوفير الاحتياجات الأساسية مثل المأوى والرعاية الصحية والغذاء.",
+   "body_ar": [
+    "ووفقاً لمفوضية الأمم المتحدة لشؤون اللاجئين، فقد أُجبر أكثر من 6.5 مليون أفغاني على العودة من إيران وباكستان المجاورتين خلال السنوات الثلاث الماضية، من بينهم نحو 3 ملايين في عام 2025 وحده. وقد أدت هذه الموجة إلى زيادة سكان أفغانستان بأكثر من 10 في المئة، مما فرض ضغوطاً هائلة على قطاعات السكن والوظائف والخدمات العامة.",
+    "وأشارت المفوضية إلى أن النساء والأطفال يشكلون قرابة 82 في المئة من العائدين الذين تقدم لهم المساعدة. وتعمل المنظمة على تقديم المساعدات النقدية ومشاريع التدريب المهني لتوفير سبل العيش ومساعدة العائدات على تلبية احتياجاتهن الأساسية في ظل غياب الفرص الاقتصادية."
+   ]
+  },
+  {
+   "id": "d011025d3014",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+   "date": "2026-11-22T11:39:31Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "India-EU trade pact likely to be signed on December 16",
+   "title_en": "India-EU trade pact likely to be signed on December 16",
+   "summary_en": "India and the European Union are expected to sign a Free Trade Agreement on December 16, following the conclusion of negotiations earlier this year. The pact is scheduled to be signed during Indian Prime Minister Narendra Modi's upcoming visit to Brussels and will take effect next year.",
+   "body_en": [
+    "The European Commission has submitted the proposed agreement, final legal text, and tariff schedules to the Council of the European Union for approval. The landmark accord, reached after more than two decades of negotiations, will grant duty-free access to 93 percent of Indian goods entering the 27-nation bloc, while also reducing the cost of importing European luxury cars and wines into India.",
+    "The agreement covers a combined market of roughly two billion people, linking the world's fourth-largest economy with its second-largest economic bloc. Together, India and the European Union represent a quarter of global GDP and approximately one-third of international trade."
+   ],
+   "title_fa": "احتمال امضای توافق تجاری هند و اتحادیه اروپا در ۱۶ دسامبر",
+   "summary_fa": "انتظار می‌رود هند و اتحادیه اروپا در ۱۶ دسامبر، پس از پایان مذاکرات در اوایل سال جاری، یک توافق تجارت آزاد امضا کنند. قرار است این توافق‌نامه در جریان سفر نارندرا مودی، نخست‌وزیر هند، به بروکسل به امضا برسد و سال آینده به اجرا درآید.",
+   "body_fa": [
+    "کمیسیون اروپا پیشنهادهای مربوطه، متن نهایی حقوقی و جدول‌های تعرفه‌ای را برای تصویب به شورای اتحادیه اروپا ارسال کرده است. این توافق برجسته که پس از بیش از دو دهه مذاکره به دست آمده، معافیت از تعرفه گمرکی را برای ۹۳ درصد از محموله‌های هندی وارداتی به این بلوک ۲۷ کشوری فراهم می‌کند و هزینه واردات خودروهای لوکس و شراب‌های اروپایی به هند را نیز کاهش می‌دهد.",
+    "این پیمان بازاری با جمعیتی حدود دو میلیارد نفر را میان چهارمین اقتصاد بزرگ جهان و دومین بلوک اقتصادی دنیا ایجاد می‌کند. هند و اتحادیه اروپا در مجموع ۲۵ درصد از تولید ناخالص داخلی جهان و نزدیک به یک‌سوم تجارت بین‌المللی را به خود اختصاص داده‌اند."
+   ],
+   "title_ar": "احتمال توقيع اتفاقية التجارة بين الهند والاتحاد الأوروبي في 16 ديسمبر",
+   "summary_ar": "من المتوقع أن توقع الهند والاتحاد الأوروبي اتفاقية تجارة حرة في 16 ديسمبر، عقب اختتام المفاوضات في وقت سابق من هذا العام. ومن المقرر توقيع الاتفاق خلال زيارة رئيس الوزراء الهندي ناريندرا مودي المقبلة إلى بروكسل، على أن يدخل حيز التنفيذ العام المقبل.",
+   "body_ar": [
+    "قدمت المفوضية الأوروبية مقترحات الاتفاقية والنص القانوني النهائي وجداول الرسوم الجمركية إلى مجلس الاتحاد الأوروبي للحصول على الموافقة. وسيمنح هذا الاتفاق التاريخي، الذي تم التوصل إليه بعد مفاوضات استمرت أكثر من عقدين، إعفاءً جمركياً لـ 93 في المئة من الشحنات الهندية إلى دول التكتل البالغ عددها 27 دولة، كما سيخفض تكلفة استيراد السيارات الفاخرة والنبيذ الأوروبي إلى الهند.",
+    "ويغطي الاتفاق سوقاً تضم نحو ملياري نسمة، ويربط بين رابع أكبر اقتصاد في العالم وثاني أكبر كتلة اقتصادية عالمياً. وتشكل الهند والاتحاد الأوروبي معاً 25 في المئة من الناتج المحلي الإجمالي العالمي وقرابة ثلث التجارة الدولية."
+   ]
+  },
   {
    "id": "e1edf6880ff0",
    "lang": "ar",
@@ -363,33 +547,6 @@
    ]
   },
   {
-   "id": "c5b077e7fdd2",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention",
-   "date": "2026-11-21T19:23:53Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 5,
-   "title": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
-   "title_en": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
-   "summary_en": "President Asif Ali Zardari has promulgated five ordinances that revoke most privileges of Khyber Pakhtunkhwa lawmakers, including protection against preventive detention. The ordinances also establish a legal framework for special initiatives in 12 designated districts in the province.",
-   "body_en": [
-    "Following the imposition of emergency in Khyber Pakhtunkhwa on October 11, an Area Representative and Development Council was formed to oversee 12 districts deemed to face severe security challenges, including the merged districts. Two of the ordinances envisage establishing an executive structure for these special initiatives."
-   ],
-   "title_fa": "فرمان ریاست‌جمهوری بیشتر امتیازات نمایندگان پارلمان خیبر پختونخوا از جمله مصونیت در برابر بازداشت پیشگیرانه را لغو کرد",
-   "summary_fa": "آصف‌علی زرداری، رئیس‌جمهور پاکستان، با صدور پنج فرمان اجرایی، بیشتر امتیازات نمایندگان مجلس خیبر پختونخوا از جمله مصونیت در برابر بازداشت پیشگیرانه را لغو کرد. این فرامین همچنین چارچوبی قانونی برای اقدامات ویژه در ۱۲ شهرستان تعیین‌شده این استان ایجاد می‌کنند.",
-   "body_fa": [
-    "در پی اعلام وضعیت اضطراری در خیبر پختونخوا در ۱۱ اکتبر، «شورای نمایندگی و توسعه منطقه‌ای» برای نظارت بر ۱۲ شهرستان مواجه با چالش‌های امنیتی شدید تشکیل شد. دو مورد از این فرامین، ایجاد ساختاری اجرایی را برای طرح‌های این شورا پیش‌بینی می‌کنند."
-   ],
-   "title_ar": "مرسوم رئاسي يسحب معظم امتيازات أعضاء برلمان خيبر بختونخوا بما في ذلك الحماية من الاحتجاز الوقائي",
-   "summary_ar": "أصدر الرئيس الباكستاني آصف علي زرداري خمسة مراسيم تلغي معظم امتيازات أعضاء برلمان إقليم خيبر بختونخوا، بما في ذلك الحماية من الاحتجاز الوقائي. كما توفر هذه المراسيم إطارًا قانونيًا للمبادرات الخاصة في ۱۲ مقاطعة محددة في الإقليم.",
-   "body_ar": [
-    "عقب فرض حالة الطوارئ في خيبر بختونخوا في ۱۱ أكتوبر، تم تشكيل \"مجلس الممثلين والتنمية الإقليمي\" للإشراف على ۱۲ مقاطعة تواجه تحديات أمنية حادة. وتتضمن اثنتان من المراسيم إنشاء هيكل تنفيذي لهذه المبادرات الخاصة."
-   ]
-  },
-  {
    "id": "bfa8a23ef79c",
    "lang": "en",
    "source": "Al Jazeera",
@@ -624,6 +781,36 @@
    "body_ar": [
     "أسفرت ضربة بطائرة مسيرة إسرائيلية استهدفت سيارة في حي تل الهوى بمدينة غزة يوم السبت عن مقتل ثلاثة أشخاص، بينما قتل رجل آخر برصاص إسرائيلي قرب مخيم جباليا. وفي الضفة الغربية، أطلق حراس أمن من مستوطنة غير قانونية النار على رجل فلسطيني يبلغ من العمر 42 عاماً فقتلوه قرب قرية دورا القرع.",
     "وتتزامن هذه الاعتداءات مع فيضانات شتوية حادة في غزة، حيث تفيد منظمات الإغاثة بأن القيود الإسرائيلية الصارمة تمنع دخول عشرات الآلاف من الخيام والمساعدات الإنسانية إلى القطاع."
+   ]
+  },
+  {
+   "id": "af765c390991",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+   "date": "2026-11-21T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 6,
+   "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+   "title_en": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+   "summary_en": "Escalating conflict in Yemen has intensified displacement and left thousands of pregnant women facing birth without basic medical infrastructure, according to the United Nations Population Fund (UNFPA).",
+   "body_en": [
+    "Renewed fighting around Taiz displaced over 320,000 individuals between August and October, leading to widespread disruptions in maternal healthcare as facilities were looted and abandoned. Midwife Anisa Fadhl, who fled to Aden after her clinic was plundered, has continued delivering infants and offering maternal care in displacement camps with minimal tools, including using makeshift thread and a neighbour's razor blade to cut umbilical cords.",
+    "The UN agency estimates that around 600 women will give birth this month lacking sanitation or clinical support, while 1,500 may need emergency obstetric interventions in a country where maternal mortality remains high. UNFPA, which reached nearly 180,000 people with emergency reproductive services by late October, reported that its $71.9 million appeal for 2026 is currently only one-quarter funded."
+   ],
+   "title_fa": "«تنها با جان خود گریختیم»: تلاش برای زایمان در یمن جنگ‌زده",
+   "summary_fa": "به گزارش صندوق جمعیت سازمان ملل متحد (UNFPA)، تشدید درگیری‌ها در یمن به موج گسترده‌ای از آوارگی دامن زده و هزاران زن باردار را بدون دسترسی به زیرساخت‌های درمانی اولیه در آستانه زایمان قرار داده است.",
+   "body_fa": [
+    "درگیری‌های تازه در اطراف تعز به آوارگی بیش از ۳۲۰ هزار نفر در ماه‌های اخیر منجر شده و با غارت و تخریب مراکز درمانی، سلامت مادران را به خطر انداخته است. انیسه فضل، مامایی که پس از تخریب کلینیکش به عدن گریخته، خدمات زایمان و مراقبت‌های بهداشتی را در اردوگاه‌ها با امکاناتی بسیار ابتدایی، از جمله استفاده از نخ گونی و تیغ ریش‌تراشی، برای زنان فراهم می‌کند.",
+    "صندوق جمعیت سازمان ملل برآورد می‌کند که حدود ۶۰۰ زن در ماه جاری بدون بهداشت و امکانات درمانی زایمان خواهند کرد و ۱,۵۰۰ زن دیگر به مراقبت‌های اضطراری نیاز دارند. در حالی که یمن دارای یکی از بالاترین آمارهای مرگ‌ومیر مادران در منطقه است، این نهاد اعلام کرد از درخواست ۷۱.۹ میلیون دلاری خود برای سال ۲۰۲۶ تاکنون تنها ۲۵ درصد تأمین بودجه شده است."
+   ],
+   "title_ar": "«لم ننجُ سوى بأرواحنا»: صراع من أجل الولادة في اليمن الذي مزقته الحرب",
+   "summary_ar": "أدى تصاعد النزاع في اليمن إلى موجة نزوح واسعة تركت آلاف النساء الحوامل يواجهن الولادة دون بنية تحتية طبية أساسية، وفقاً لصندوق الأمم المتحدة للسكان.",
+   "body_ar": [
+    "أدت المواجهات المتجددة حول تعز إلى نزوح أكثر من 320 ألف شخص بين أغسطس وأكتوبر، ما ألحق أضراراً بالغة بالرعاية الصحية للأمهات بعد نهب وتدمير المراكز الطبية. وتواصل القابلة أنيسة فضل، التي فرت إلى عدن إثر نهب عيادتها، توليد النساء وتقديم الرعاية في مخيمات النزوح بأدوات بدائية كاستخدام خيوط أكياس الدقيق وشفرات الحلاقة.",
+    "وتشير تقديرات صندوق الأمم المتحدة للسكان إلى أن نحو 600 امرأة سيلدن هذا الشهر دون رعاية صحية أو بنية تحتية ملائمة، في حين قد تحتاج 1,500 امرأة لتدخلات طارئة لمواجهة مضاعفات الولادة. وأفادت المنظمة، التي قدمت خدماتها لنحو 180 ألف شخص حتى أواخر أكتوبر، بأن نداءها الإنساني لعام 2026 والبالغ 71.9 مليون دولار لم يُمول منه سوى الربع فقط."
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:38:37Z",
+ "updated": "2026-11-22T19:47:40Z",
  "items": [
   {
    "id": "431bce6b89d2",
@@ -1864,6 +1864,434 @@
    ],
    "desc": "يراهن الأردن على نقل مياه البحر الأحمر إلى منازل سكانه لتخفيف شح المياه وتعزيز أمنه المائي، لذا أعلن إطلاق مشروع \"الناقل الوطني\" الذي وصفه بأكبر مشروع في تاريخه، بتكلفة تتجاوز 6 مليارات دولار.",
    "score": 5
+  },
+  {
+   "id": "a1dae3ea8c6a",
+   "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+   "date": "2026-11-22T19:18:29Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+   "score": 3
+  },
+  {
+   "id": "eadc5b447bb3",
+   "title": "UN climate talks collapse without a deal",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+   "date": "2026-11-22T18:04:25Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+   "score": 3,
+   "dup_of": "ecce731be5f1"
+  },
+  {
+   "id": "8a97597c9939",
+   "title": "Cox’s Bazar: Rohingya Life in Exile",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/22/coxs-bazar-rohingya-life-in-exile?traffic_source=rss",
+   "date": "2026-11-22T18:02:06Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Rohingya families face hunger, loss and an uncertain future during Ramadan.",
+   "score": 5,
+   "skip": true
+  },
+  {
+   "id": "68d7d3231d11",
+   "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+   "date": "2026-11-22T17:46:32Z",
+   "countries": [
+    "IND",
+    "PAK",
+    "QAT"
+   ],
+   "desc": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+   "score": 2
+  },
+  {
+   "id": "2c37360489aa",
+   "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+   "date": "2026-11-22T16:50:48Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+   "score": 7,
+   "skip": true
+  },
+  {
+   "id": "46289997b5a8",
+   "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+   "date": "2026-11-22T14:35:55Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+   "score": 6
+  },
+  {
+   "id": "ffb53ab489e1",
+   "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+   "date": "2026-11-22T14:30:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+   "score": 6,
+   "dup_of": "2c37360489aa"
+  },
+  {
+   "id": "02b9bd3afcbc",
+   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+   "date": "2026-11-22T14:20:41Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+   "score": 8
+  },
+  {
+   "id": "d86a001024ea",
+   "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+   "date": "2026-11-22T14:00:31Z",
+   "countries": [
+    "IRN",
+    "IRQ",
+    "LBN"
+   ],
+   "desc": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
+   "score": 7,
+   "dup_of": "3da4a5753626"
+  },
+  {
+   "id": "d4bb76db92bf",
+   "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "date": "2026-11-22T15:22:38Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposition leader, who described them as “Jewish terrorism”. Dozens of settlers raided Palestinian communities overnight on Saturday, setting fire to about a dozen vehicles and several homes and scrawling racist graffiti. At least four communities were attacked. Israeli police said they had launched an in",
+   "score": 6,
+   "dup_of": "2c37360489aa"
+  },
+  {
+   "id": "0ce79e9e9d88",
+   "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+   "date": "2026-11-22T13:36:01Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km) length of the waterway, which is a key route for oil shipments from the Middle East. Continue reading...",
+   "score": 2
+  },
+  {
+   "id": "ba58d8eb0bbc",
+   "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+   "date": "2026-11-22T16:25:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deployed to the area following the attacks, which local residents said were carried out by Israeli settlers. Gadi Eisenkot, a rival of outgoing Prime Minister Benjamin Netanyahu, condemned the acts on X, describing them as “Jewish terrorism”. Antonia Kerrigan reports.",
+   "score": 6,
+   "dup_of": "d4bb76db92bf"
+  },
+  {
+   "id": "889fd7628c88",
+   "title": "Israel investigates West Bank fires",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+   "date": "2026-11-22T13:47:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls, prompting Israeli soldiers and police to deploy to the area. The attacks come amid a surge in settler violence since the outbreak of the Gaza war in October 2023, with more than 1,100 Palestinians killed by Israeli soldiers or settlers in the West Bank since then, according to an ",
+   "score": 5,
+   "dup_of": "2c37360489aa"
+  },
+  {
+   "id": "af765c390991",
+   "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+   "date": "2026-11-21T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "desc": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+   "score": 6
+  },
+  {
+   "id": "63770ee44daa",
+   "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+   "date": "2026-11-22T12:00:00Z",
+   "countries": [
+    "AFG",
+    "IRN"
+   ],
+   "desc": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
+   "score": 6
+  },
+  {
+   "id": "e352fcba911f",
+   "title": "Any talks with India on terrorism must be 'evidence-based', says Musadik Malik",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
+   "date": "2026-11-22T19:22:47Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Federal minister Musadik Malik said on Sunday that any dialogue between Pakistan and India on terrorism must be “based on evidence”. Malik is in New Delhi on a three-day trip to attend the SCO Civilisational Dialogue Forum, making him the first Pakistani minister to visit the neighbour since former foreign minister Bilawal Bhutto-Zardari attended an SCO meeting in May 2023. Pakistan has repeatedly offered to hold talks with India to resolve outstanding disputes, including the water issue. In video clips shared by India’s ANI news agency on Sunday, Malik responded to queries from Indian media a",
+   "score": 6
+  },
+  {
+   "id": "c56d62ad81be",
+   "title": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
+   "date": "2026-11-22T19:14:50Z",
+   "countries": [
+    "IND",
+    "PAK",
+    "QAT"
+   ],
+   "desc": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare. Skipper Varma struck a century before becoming the last man dismissed for 100 off 149 balls, while Shahbaz Ahmed made 56 in a seventh-wicket stand that briefly revived India’s hopes. But Pakistan’s bowlers held their nerve in the closing overs, with Hasan Nawaz claiming three wickets and Ali Raza taking three for 56. India’s chase had begun to unravel after an explosiv",
+   "score": 1
+  },
+  {
+   "id": "60bd1ad085d7",
+   "title": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
+   "date": "2026-11-22T15:27:28Z",
+   "countries": [
+    "OMN",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Pakistan and Oman on Sunday signed an agreement under which the Gulf country’s state-owned OQ Trading would supply petroleum products, as well as a $200 million credit line, to the Pakistan State Oil (PSO). This could provide Pakistan with a means to strategically diversify its sourcing of petroleum products as the Strait of Hormuz continues to be choked by the US-Iran conflict into its ninth month. According to an announcement from the Petroleum Division, the agreement between the two state-owned entities was signed during Petroleum Minister Ali Pervaiz Malik’s visit to Muscat, whe",
+   "score": 6
+  },
+  {
+   "id": "77ab3658a72e",
+   "title": "Multiple Karachi routes briefly closed as political parties hold demonstration, rally",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046320/multiple-karachi-routes-briefly-closed-as-political-parties-hold-demonstration-rally",
+   "date": "2026-11-22T17:34:15Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Multiple roads were closed briefly in Karachi on Sunday as the Jamiat Ulema-i-Islam-Fazl (JUI-F) staged a demonstration in the city and the Jeay Sindh Rehbar Committee (JSRC) — a conglomerate of four Sindhi nationalist groups — held a rally. The JUI-F staged its main demonstration at Guru Mandir, while the JSRC organised a rally from Sachal Goth to the press club via Sharea Faisal, some stretches of which had been shut for vehicles, the traffic police said. Traffic was allowed again on the stretch of Sharea Faisal leading to Drigh Road and Karsaz at 4:16pm after about an hour-long closure. Com",
+   "score": 4
+  },
+  {
+   "id": "ecce731be5f1",
+   "title": "COP31 climate talks collapse as EU and others reject deal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046327/cop31-climate-talks-collapse-as-eu-and-others-reject-deal",
+   "date": "2026-11-22T15:33:20Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "UN climate talks collapsed on Sunday as the European Union and others rejected a final draft deal put forward by COP31 presidents Turkiye and Australia, saying it was too weak to advance the fight against global warming. The failed talks reflect world governments’ struggle this year to muster ambitious action to address the worsening consequences of climate change, as wars, economic pressures and other crises compete for their attention. After more than two weeks of negotiations that spilled two days into overtime — making it the longest COP on record — Turkiye’s conference president Murat Kur",
+   "score": 4
+  },
+  {
+   "id": "960f19681f97",
+   "title": "Pakistani among two injured in Iranian attacks, Bahrain says",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+   "date": "2026-11-22T12:12:04Z",
+   "countries": [
+    "BHR",
+    "IRN",
+    "ISR",
+    "PAK"
+   ],
+   "desc": "A Pakistani citizen was among two injured in last night’s Iranian attacks on Bahrain, authorities in the kingdom said on Sunday. The Gulf kingdom has suffered several attacks this week, ending a weeks-long lull in the conflict that began with US-Israeli strikes on Iran in late February. In a statement late on Saturday night, Bahrain’s interior ministry accused Tehran of striking a “civilian industrial facility”, without specifying the location. It said the incident caused fire and material damage, but no injuries were reported. The ministry later issued another alert of a “potential threat“, g",
+   "score": 7,
+   "dup_of": "634fcadcb179"
+  },
+  {
+   "id": "e96477f9d9b3",
+   "title": "PTI MNAs demand to know whereabouts of party leaders detained in KP, seek their court production",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046325/pti-mnas-demand-to-know-whereabouts-of-party-leaders-detained-in-kp-seek-their-court-production",
+   "date": "2026-11-22T13:24:35Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: PTI lawmakers from Khyber Pakhtunkhwa on Sunday reiterated their demand for the immediate disclosure of the whereabouts of all detained PTI leaders and workers, their production before the courts and the provision of their legal right to defence. The demand was made during a meeting of PTI’s elected members of the National Assembly (NA) from KP, held in Islamabad under the prevailing political and constitutional situation, according to a statement by the party. At the meeting, the lawmakers called for the immediate disclosure of the whereabouts of now non-functional chief minister S",
+   "score": 5,
+   "dup_of": "c5b077e7fdd2"
+  },
+  {
+   "id": "317fea424c0e",
+   "title": "Future wars",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046270/future-wars",
+   "date": "2026-11-22T13:33:41Z",
+   "countries": [
+    "IND",
+    "IRN",
+    "PAK"
+   ],
+   "desc": "THE four-day military confrontation between India and Pakistan last year and the US-Iran war this year have revealed how today’s wars have become far more complex than the conventional conflicts humanity has experienced over millennia. The days of massed soldiery, mechanised armour, and standardised formations are over. Today’s wars are hybrid and employ every instrument of power a state can muster. These wars involve cyberattacks, economic coercion, psychological manipulation through electronic and social media, and cultural invasions. Critically, today’s wars employ lethal technologies, whic",
+   "score": 2
+  },
+  {
+   "id": "fcd13ed6786f",
+   "title": "Netanyahu, Eisenkot parties resume talks to form Israel government",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece",
+   "date": "2026-11-22T17:28:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Likud laid down conditions for a unity government, including no Arab parties and rejection of a Palestinian state, while Gadi Eisenkot has until December 6 to form a government",
+   "score": 7,
+   "dup_of": "48afc3f93eae"
+  },
+  {
+   "id": "814a884523bf",
+   "title": "COP 31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+   "date": "2026-11-22T16:23:23Z",
+   "countries": [
+    "IND",
+    "SAU"
+   ],
+   "desc": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
+   "score": 4,
+   "dup_of": "eadc5b447bb3"
+  },
+  {
+   "id": "d011025d3014",
+   "title": "India-EU trade pact likely to be signed on December 16",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+   "date": "2026-11-22T11:39:31Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "European Union's Ambassador to India, Jean-Eric Paquet, recently said the FTA will be signed during PM Modi's visit to Brussels in December, and it will come into force in 2027",
+   "score": 5
+  },
+  {
+   "id": "9a0a8e7ccb65",
+   "title": "بازگشت خاموشی‌ها به ایران با آغاز فصل سرما",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cx62pgedmz4ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T13:32:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "با آغاز فصل سرما در ایران، خاموشی‌های برنامه‌ریزی‌شده برق بار دیگر به خانه‌ها و کسب‌وکارها بازمی‌گردد. شرکت توانیر اعلام کرده است که از امروز، یکشنبه اول آذر، به دلیل محدودیت در تأمین سوخت نیروگاه‌ها، قطع برنامه‌ریزی‌شده برق در بخش‌های خانگی و تجاری از سر گرفته می‌شود.",
+   "score": 6,
+   "dup_of": "65caf965ea8d"
+  },
+  {
+   "id": "d650da2c5e5f",
+   "title": "السعودية تعلن اعتراض صاروخ حوثي وسط استمرار الغارات على اليمن",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq98x50lgr4jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:46:04Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "تصاعد الهجمات المتبادلة بين السعودية والحوثيين وسط تفاقم الأزمة الإنسانية في اليمن.",
+   "score": 7,
+   "dup_of": "7c91a091915c"
+  },
+  {
+   "id": "2f24aacd0f83",
+   "title": "ستة أيام من الانتظار.. أين البحّار الأردني محمد العتيبي المفقود في مضيق هرمز؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/ckvg2nl7zl5qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T14:12:00Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "تعيش عائلة البحّار الأردني محمد العتيبي حالة من القلق والترقب، عقب فقدانه في مضيق هرمز جراء استهداف ناقلة نفط إماراتية كان يعمل على متنها يوم الثلاثاء 17 نوفمبر/ تشرين الثاني.",
+   "score": 4
+  },
+  {
+   "id": "a3483ecebfdb",
+   "title": "العراق ينهي حالة الإنذار القصوى وينشر قواته في جرف الصخر، فما الذي حدث؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/watch/cvglrx70pyego?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T13:47:18Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "أنهت القوات العراقية حالة الإنذار القصوى من المستوى \"ج\" لجميع القوات العسكرية والأمنية، وعادت إلى أداء واجباتها الاعتيادية.",
+   "score": 7,
+   "dup_of": "3da4a5753626"
   }
  ]
 }
