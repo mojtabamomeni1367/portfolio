@@ -1,7 +1,185 @@
 {
- "updated": "2026-11-22T01:24:46Z",
- "count": 423,
+ "updated": "2026-11-22T11:38:37Z",
+ "count": 429,
  "items": [
+  {
+   "id": "e1edf6880ff0",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cqx2x0erk6n1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T09:20:45Z",
+   "countries": [
+    "JOR"
+   ],
+   "score": 5,
+   "title": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
+   "title_en": "The Largest Project: Will Jordan Be Able to Achieve Its Water Independence?",
+   "summary_en": "Jordan has launched the $6.6 billion National Water Carrier project to desalinate Red Sea water and transport it to Amman and other governorates to bolster its water security.",
+   "body_en": [
+    "The project aims to desalinate Red Sea water in Aqaba and transport it through a pipeline extending over 400 kilometers to the capital, Amman, and other governorates, with operations expected to begin by the end of 2030 to produce around 300 million cubic meters of desalinated water annually. The move is intended to reduce the kingdom's reliance on external water sources and increase annual per capita water supply.",
+    "A senior Jordanian source told the BBC that the project comes as a direct response to Israel stopping the supply of additional water quantities under an agreement halted about a year ago following the outbreak of the war in Gaza in 2023. For their part, Jordanian authorities emphasized that strict environmental measures have been taken to protect the marine environment in the Gulf of Aqaba during the project's execution."
+   ],
+   "title_fa": "بزرگ‌ترین پروژه: آیا اردن می‌تواند به استقلال آبی دست یابد؟",
+   "summary_fa": "اردن پروژه «انتقال ملی آب» را با هزینه ۶٫۶ میلیارد دلار برای شیرین‌سازی آب دریاچه سرخ و انتقال آن به امان و سایر استان‌ها جهت تقویت امنیت آبی خود آغاز کرده است.",
+   "body_fa": [
+    "هدف این پروژه، شیرین‌سازی آب دریای سرخ در عقبه و انتقال آن از طریق خط لوله‌ای به طول بیش از ۴۰۰ کیلومتر به امان و دیگر استان‌ها است و انتظار می‌رود بهره‌برداری از آن تا پایان سال ۲۰۳۰ برای تولید سالانه حدود ۳۰۰ میلیون متر مکعب آب شیرین آغاز شود. این اقدام با هدف کاهش وابستگی اردن به منابع آبی خارجی و افزایش سهم سالانه هر فرد از آب انجام می‌شود.",
+    "یک مقام ارشد اردنی به بی‌بی‌سی گفت که این پروژه پس از متوقف شدن تامین آب اضافی از سوی اسرائیل تحت توافقی که حدود یک سال پیش در پی آغاز جنگ غزه در سال ۲۰۲۳ به حالت تعلیق درآمد، پاسخی مستقیم است. از سوی دیگر، مقامات اردنی تاکید کردند که تدابیر زیست‌محیطی سخت‌گیرانه‌ای برای حفاظت از محیط زیست دریایی در خلیج عقبه طی اجرای پروژه اتخاذ شده است."
+   ],
+   "title_ar": "المشروع الأضخم: هل يتمكّن الأردن من تحقيق استقلاله المائي؟",
+   "summary_ar": "أطلق الأردن مشروع الناقل الوطني للمياه بكلفة 6.6 مليار دولار لتحلية مياه البحر الأحمر ونقلها إلى العاصمة عمّان ومحافظات أخرى لتعزيز أمنه المائي.",
+   "body_ar": [
+    "يهدف المشروع إلى تحلية مياه البحر الأحمر في العقبة ونقلها عبر خط أنابيب يمتد لأكثر من 400 كيلومتر إلى العاصمة عمّان ومحافظات أخرى، ومن المتوقع بدء تشغيله بنهاية عام 2030 لإنتاج نحو 300 مليون متر مكعب من المياه المحلاة سنوياً. وتأتي هذه الخطوة لتقليل اعتماد المملكة على مصادر المياه الخارجية وزيادة حصة الفرد السنوية من المياه.",
+    "وقال مصدر أردني رفيع لبي بي سي إن المشروع يأتي رداً مباشراً على إيقاف إسرائيل تزويد الأردن بكميات مياه إضافية بموجب اتفاقية توقف العمل بها منذ عام تقريباً عقب اندلاع الحرب في غزة عام 2023. من جهتها، أكدت السلطات الأردنية اتخاذ تدابير بيئية صارمة لحماية البيئة البحرية في خليج العقبة أثناء تنفيذ المشروع."
+   ]
+  },
+  {
+   "id": "d440411718ee",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "date": "2026-11-22T09:06:27Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+   "title_en": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+   "summary_en": "Political analyst Trita Parsi told Al Jazeera that US President Donald Trump will need to ease the naval blockade on Iran to wind down the war.",
+   "body_en": [
+    "According to Parsi, if the United States does not ease its naval blockade, Tehran will likely continue to escalate its responses to counter the economic warfare being waged against it by Washington."
+   ],
+   "title_fa": "«راهبرد خروج ترامپ ممکن است به رفع چراغ‌خاموش محاصره ایران بستگی داشته باشد»",
+   "summary_fa": "تریتا پارسی، تحلیلگر سیاسی، به الجزیره گفت که دونالد ترامپ، رئیس‌جمهور آمریکا، برای کاهش و خاتمه دادن به جنگ باید محاصره دریایی ایران را تسهیل کند.",
+   "body_fa": [
+    "به گفته پارسی، در صورت عدم کاهش محاصره دریایی از سوی ایالات متحده، تهران احتمالاً به تشدید اقدامات خود برای مقابله با جنگ اقتصادی واشنگتن ادامه خواهد داد."
+   ],
+   "title_ar": "«استراتيجية خروج ترامب قد تعتمد على رفع الحصار عن إيران بالخفاء»",
+   "summary_ar": "صرح المحلل السياسي تريتا بارسي لشبكة الجزيرة بأن الرئيس الأمريكي دونالد ترامب سيتعين عليه تخفيف الحصار البحري على إيران إذا أراد إنهاء الحرب.",
+   "body_ar": [
+    "وبحسب بارسي، فإن إيران ستواصل على الأرجح التصعيد لمواجهة الحرب الاقتصادية التي تشنها الولايات المتحدة على طهران إذا لم يتم تخفيف الحصار البحري."
+   ]
+  },
+  {
+   "id": "bd0c1f68734f",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+   "date": "2026-11-22T06:59:59Z",
+   "countries": [
+    "ARE"
+   ],
+   "score": 6,
+   "title": "Why Somalia’s president turned against his former ally, the UAE",
+   "title_en": "Why Somalia’s president turned against his former ally, the UAE",
+   "summary_en": "Somalia expelled the Emirati ambassador and recalled its own envoy on November 19, completing a major diplomatic rupture with the United Arab Emirates over national sovereignty and regional interference.",
+   "body_en": [
+    "The expulsion follows Somalia's decision ten months earlier to annul several commercial and security agreements with Abu Dhabi. President Hassan Sheikh Mohamud publicly accused the UAE of heightening political divisions, funding rival regional administrations, and backing armed groups operating outside federal control.",
+    "In response, the UAE stated that internal political disputes in Mogadishu were straining bilateral ties, though Emirati official Anwar Gargash affirmed that relations would remain strong. The rift occurs alongside expanding UAE investments in ports and security infrastructure in semi-autonomous regions such as Somaliland and Puntland."
+   ],
+   "title_fa": "چرا رئیس‌جمهور سومالی علیه متحد سابق خود، امارات متحده عربی، موضع گرفت؟",
+   "summary_fa": "سومالی در ۱۹ نوامبر سفیر امارات را اخراج و سفیر خود را از ابوظبی فراخواند، که نشان‌دهنده یک گسست دیپلماتیک جدی با امارات متحده عربی به دلیل مسائل مربوط به حاکمیت ملی و مداخله منطقه‌ای است.",
+   "body_fa": [
+    "این اخراج ۱۰ ماه پس از آن صورت می‌گیرد که سومالی چند توافق‌نامه تجاری و امنیتی خود با ابوظبی را لغو کرد. حسن شیخ محمود، رئیس‌جمهور سومالی، امارات را به تشدید اختلافات سیاسی، تأمین مالی اداری‌های منطقه‌ای رقیب و حمایت از گروه‌های مسلح خارج از کنترل دولت فدرال متهم کرده است.",
+    "در مقابل، امارات اعلام کرد که اختلافات سیاسی داخلی در مقدیشو باعث تیرگی روابط شده است، اگرچه انور قرقاش، مقام ارشد اماراتی، تأکید کرد که پیوندها قوی باقی خواهد ماند. این تیرگی روابط هم‌زمان با گسترش سرمایه‌گذاری‌های امارات در بنادر و زیرساخت‌های امنیتی مناطقی مانند صومالی‌لند و پنت‌لند رخ می‌دهد."
+   ],
+   "title_ar": "لماذا انقلب رئيس الصومال على حليفته السابقة، الإمارات؟",
+   "summary_ar": "طردت الصومال السفير الإماراتي واستدعت سفيرها من أبوظبي في 19 نوفمبر، مما يمثل قطعاً كبيراً للعلاقات الدبلوماسية مع الإمارات بسبب قضايا السيادة الوطنية والتدخل الإقليمي.",
+   "body_ar": [
+    "يأتي قرار الطرد بعد 10 أشهر من إلغاء الصومال لاتفاقيات تجارية وأمنية عدة مع أبوظبي. واتهم الرئيس حسن شيخ محمود الإمارات علناً بتعميق الانقسامات السياسية، وتمويل إدارات إقليمية منافسة، ودعم جماعات مسلحة تعمل خارج نطاق سلطة الحكومة الفيدرالية.",
+    "من جانبها، ردت الإمارات باتهام مقديشو بالسمام للخلافات السياسية الداخلية بإجهاد العلاقات الثنائية، رغم تأكيد المسؤول الإماراتي أنور قرقاش أن العلاقات ستظل قوية. ويأتي هذا الانقطاع بالتزامن مع توسع الاستثمارات الإماراتية في الموانئ والبنية التحتية الأمنية في أقاليم مثل أرض الصومال وبونتلاند."
+   ]
+  },
+  {
+   "id": "737831383ef8",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c94gnx7zj0n7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T03:38:27Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "ایجاد «سازمان حفاظت»؛ طرح بزرگترین تغییرات در وزارت اطلاعات ایران",
+   "title_en": "Creation of 'Protection Organization'; Plan for Largest Changes in Iran's Intelligence Ministry",
+   "summary_en": "The Iranian Parliament has drafted a plan to reform the Intelligence Ministry, proposing two new organizations directly under the Supreme Leader's supervision and removing the Ijtihad requirement for the minister.",
+   "body_en": [
+    "Under the proposed plan, the \"Protection and Intelligence Organization\" and the \"Ideological Organization\" would be established under Ali Khamenei's direct oversight. The plan, registered in Parliament on November 10, marks the largest structural change to the ministry since its founding. Ministry officials were reportedly not involved in designing the proposal.",
+    "The legislative push comes after security breaches during the recent war, including the targeting of the Intelligence Ministry's deputy council meeting on the conflict's first day and the subsequent death of Intelligence Minister Ismail Khatib. The ministry has been managed by an acting head for eight months, prompting criticism from lawmakers over exceeding the three-month constitutional limit for introducing a new minister."
+   ],
+   "title_fa": "ایجاد «سازمان حفاظت»؛ طرح بزرگترین تغییرات در وزارت اطلاعات ایران",
+   "summary_fa": "مجلس ایران طرحی برای اصلاح ساختار وزارت اطلاعات تدوین کرده است که بر اساس آن دو سازمان جدید زیر نظر مستقیم رهبر تشکیل می‌شود و شرط اجتهاد برای وزیر حذف می‌گردد.",
+   "body_fa": [
+    "بر اساس طرح پیشنهادی مجلس، دو نهاد «سازمان حفاظت و اطلاعات» و «سازمان عقیدتی» زیر نظر مستقیم آیت‌الله علی خامنه‌ای تشکیل خواهند شد. این طرح که ۱۹ آبان به ثبت رسید، بزرگترین تغییر ساختاری وزارت اطلاعات از زمان تأسیس آن محسوب می‌شود. گزارش‌ها نشان می‌دهد مسئولان این وزارتخانه نقشی در تدوین طرح نداشته‌اند.",
+    "این اقدام مجلس پس از آسیب‌های امنیتی در طول جنگ اخیر صورت می‌گیرد، از جمله هدف قرار گرفتن جلسه شورای معاونان وزارت اطلاعات در روز اول جنگ و کشته شدن بعدی اسماعیل خطیب، وزیر اطلاعات. این وزارتخانه طی هشت ماه گذشته با سرپرست اداره شده و همین امر انتقاد نمایندگان را درباره انقضای مهلت قانونی سه ماهه برای معرفی وزیر جدید برانگیخته است."
+   ],
+   "title_ar": "إنشاء «منظمة حماية»؛ مشروع لأكبر تغييرات في وزارة الاستخبارات الإيرانية",
+   "summary_ar": "أعد الكنيست الإيراني (مجلس الشورى) مشروع قانون لإصلاح هيكل وزارة الاستخبارات، يتضمن إنشاء منظمتين جديدتين تحت الإشراف المباشر للمرشد الأعلى وإلغاء شرط الاجتهاد لشغل منصب الوزير.",
+   "body_ar": [
+    "وفقاً للمشروع المقترح، سيتم تأسيس «منظمة الحماية والمعلومات» و«المنظمة العقائدية» تحت الإشراف المباشر لعلي خامنئي. ويُعد هذا المشروع، الذي تم تسجيله في البرلمان في 10 نوفمبر، أكبر تغيير هيكلي تشهده الوزارة منذ تأسيسها، وسط تقارير تؤكد عدم مشاركة مسؤولي الوزارة في إعداده.",
+    "وتأتي هذه التحركات البرلمانية عقب ثغرات أمنية خلال الحرب الأخيرة، شملت استهداف اجتماع مجلس وكلاء وزارة الاستخبارات في اليوم الأول للحرب، ومقتل وزير الاستخبارات إسماعيل خطيب لاحقاً. وتدار الوزارة تحت إدارة قائم بالأعمال منذ ثمانية أشهر، مما أثار انتقادات النواب بسبب تجاوز المهلة الدستورية المحددة بثلاثة أشهر لتسمية وزير جديد."
+   ]
+  },
+  {
+   "id": "4ad1bfca56f3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046196/summonses-for-indias-security-czar-ex-spymaster-sent-to-delhi-court",
+   "date": "2026-11-22T03:06:10Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "Summonses for India’s security czar, ex-spymaster sent to Delhi court",
+   "title_en": "Summonses for India’s security czar, ex-spymaster sent to Delhi court",
+   "summary_en": "A US federal court has transmitted legal summonses for Indian National Security Adviser Ajit Doval and former R&AW chief Samant Goel to district courts in New Delhi to assist in serving them in a civil lawsuit alleging a plot to assassinate Sikh leader Gurpatwant Singh Pannun.",
+   "body_en": [
+    "US District Judge Katherine Polk Failla authorized sending the documents through the Indian judicial system under the 1965 Hague Convention after previous attempts to serve them through India's Ministry of Law and Justice and diplomatic channels failed. The lawsuit, filed in September 2024, alleges that Indian officials conspired to arrange Pannun's assassination in New York over his advocacy for an independent Sikh state.",
+    "India's External Affairs Ministry rejected the lawsuit as baseless, with spokesperson Randhir Jaiswal maintaining that requests for serving judicial documents in India can only be routed through the Ministry of Law and Justice."
+   ],
+   "title_fa": "احضاریه برای مشاور امنیت ملی و رئیس سابق اطلاعات هند به دادگاهی در دهلی فرستاده شد",
+   "summary_fa": "یک دادگاه فدرال آمریکا احضاریه‌های قانونی برای اجیت دوبال، مشاور امنیت ملی هند، و سامانت گوئیل، رئیس سابق سازمان اطلاعات هند، به دادگاه‌های دهلی نو فرستاده است تا در ابلاغ آن‌ها در یک دعوای حقوقی مربوط به توطئه ترور گورپاتوانت سینگ پانون، رهبر سیخ، همکاری کنند.",
+   "body_fa": [
+    "کاترین پولک فایلا، قاضی دادگاه منطقه‌ای آمریکا، پس از شکست تلاش‌های قبلی برای ابلاغ اسناد از طریق وزارت دادگستری هند و کانال‌های دیپلماتیک، مجوز ارسال این مدارک را از طریق سیستم قضایی هند طبق کنوانسیون ۱۹۶۵ لاهه صادر کرد. این دادخواست که در سپتامبر ۲۰۲۴ تنظیم شده، ادعا می‌کند که مقامات هندی در توطئه برای ترور پانون در نیویورک به دلیل فعالیت‌هایش برای تشکیل یک کشور مستقل سیخ دست داشته‌اند.",
+    "در مقابل، وزارت امور خارجه هند این دادخواست را بی‌اساس خواند و رد کرد؛ راندیر جایسوال، سخنگوی این وزارتخانه، تاکید کرد که درخواست‌های ابلاغ اسناد قضایی در هند تنها باید از طریق وزارت دادگستری پیگیری شود."
+   ],
+   "title_ar": "إرسال استدعاءات لمستشار الأمن القومي ورئيس المخابرات الهنديين السابقيْن إلى محكمة في بنيودلهي",
+   "summary_ar": "أرسلت محكمة فدرالية أمريكية استدعاءات قضائية تخص مستشار الأمن القومي الهندي أجيت دوبال والرئيس السابق لجهاز المخابرات سامانت غويل إلى محاكم في نيودلهي للمساعدة في تسليمها ضمن دعوى مدنية تتعلق بمؤامرة لاغتيال الزعيم السيخي غورباتوانت سينغ بانون.",
+   "body_ar": [
+    "سمحت القاضية الأمريكية كاثرينا بولك فايلا بإرسال الوثائق عبر النظام القضائي الهندي بموجب اتفاقية لاهاي لعام 1965 بعد فشل محاولات سابقة لتسليمها عبر وزارة القانون والعدل الهندية والقنوات الدبلوماسية. وتزعم الدعوى المقامة في سبتمبر 2024 أن مسؤولين هنديين تورطوا في التخطيط لاغتيال بانون في نيويورك بسبب نشاطه المطالب بإنشاء دولة سيخية مستقلة.",
+    "من جانبها، رفضت وزارة الخارجية الهندية الدعوى واصفة إياها بالباطلة، بينما أشار المتحدث باسم الوزارة راندير جايسوال إلى أن طلبات تبليغ الوثائق القضائية يجب أن تمر حصراً عبر وزارة القانون والعدل."
+   ]
+  },
+  {
+   "id": "9d9658f0b24e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+   "date": "2026-11-22T02:14:18Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "title_en": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "summary_en": "Hundreds of displaced Palestinians protested in Gaza against intensifying Israeli air strikes and home demolitions that exceed the withdrawal lines set under the October 2025 ceasefire.",
+   "body_en": [
+    "Protesters gathered near the \"Yellow Line\" in Deir el-Balah, where local officials reported the destruction of over 500 housing units in under a month. Meanwhile, Israeli strikes killed at least nine people over a 48-hour period, bringing the total reported death toll since the October 2025 ceasefire agreement to 1,661.",
+    "Gaza Civil Defence also announced the completion of a 53-day ICRC-funded recovery operation in central Gaza, retrieving 129 bodies from destroyed buildings, while noting that an estimated 233 people remain missing under the rubble in those specific locations."
+   ],
+   "title_fa": "تظاهرات آوارگان فلسطینی هم‌زمان با ادامه حملات هوایی اسرائیل در غزه",
+   "summary_fa": "صدها آواره فلسطینی در غزه در اعتراض به تشدید حملات هوایی اسرائیل و تخریب منازل خارج از خطوط عقب‌نشینی تعیین‌شده در آتش‌بس اکتبر ۲۰۲۵ تظاهرات کردند.",
+   "body_fa": [
+    "معترضان در نزدیکی «خط زرد» در دیرالبلح تجمع کردند، جایی که مقامات محلی از تخریب بیش از ۵۰۰ واحد مسکونی ظرف کمتر از یک ماه خبر دادند. در همین حال، حملات اسرائیل طی ۴۸ ساعت گذشته دست‌کم ۹ کشته برجای گذاشت و آمار تلفات گزارش‌شده از زمان آتش‌بس اکتبر ۲۰۲۵ را به ۱,۶۶۱ نفر رساند.",
+    "دفاع مدنی غزه همچنین از پایان عملیات ۵۳ روزه آواربرداری با حمایت صلیب سرخ در مرکز غزه و بیرون کشیدن پیکر ۱۲۹ نفر از زیر خرابه‌ها خبر داد و اشاره کرد که همچنان حدود ۲۳۳ نفر در این مناطق مفقود هستند."
+   ],
+   "title_ar": "احتجاجات للنازحين الفلسطينيين مع استمرار الغارات الجوية الإسرائيلية على غزة",
+   "summary_ar": "تظاهر المئات من النازحين الفلسطينيين في غزة احتجاجاً على تصعيد الغارات الجوية الإسرائيلية وهدم المنازل في مناطق تتجاوز خطوط الانسحاب المحددة بموجب وقف إطلاق النار في أكتوبر 2025.",
+   "body_ar": [
+    "تجمع المحتجون بالقرب من «الخط الأصفر» في دير البلح، حيث أفاد مسؤولو البلدية بتدمير أكثر من 500 وحدة سكنية خلال أقل من شهر. في غضون ذلك، أسفرت القصف الإسرائيلي عن مقتل تسعة أشخاص على الأقل خلال 48 ساعة، ليرتفع إجمالي حصيلة القتلى منذ وقف إطلاق النار في أكتوبر 2025 إلى 1661 قتيلاً.",
+    "كما أعلن الدفاع المدني في غزة انتهاء مرحلة انتشال استمرت 53 يوماً بتمويل من اللجنة الدولية للصليب الأحمر في وسط غزة، انتشل خلالها جثامين 129 شخصاً، مشيراً إلى بقاء نحو 233 شخصاً في عداد المفقودين تحت الأنقاض في تلك المواقع."
+   ]
+  },
   {
    "id": "65caf965ea8d",
    "lang": "fa",
