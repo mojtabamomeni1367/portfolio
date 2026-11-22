@@ -1,7 +1,100 @@
 {
- "updated": "2026-11-21T21:53:53Z",
- "count": 449,
+ "updated": "2026-11-22T01:24:46Z",
+ "count": 423,
  "items": [
+  {
+   "id": "65caf965ea8d",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/c539gj7rnrg1t?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T01:21:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "خاموشی‌های برنامه‌ریزی‌شده برق در ایران از امروز آغاز می‌شود؛ احتمال قطع روزانه دو ساعت برق",
+   "title_en": "Scheduled power outages in Iran begin today, with potential daily cuts of two hours",
+   "summary_en": "Iran's state power company, Tavanir, announced that scheduled electricity blackouts for residential and commercial sectors begin today due to fuel shortages at power plants. Outages may initially reach two hours every two days and could increase to two hours daily as temperatures drop.",
+   "body_en": [
+    "According to Tavanir, the restrictions are intended to manage existing fuel supplies and maintain the stability of the national power grid. The company's CEO, Mohammad Allahdad, cited power plant fuel shortages as the main reason for implementing the restrictions.",
+    "Iranian President Masoud Pezeshkian warned that US and Israeli strikes on energy infrastructure have compounded fuel supply issues, indicating that a difficult winter lies ahead."
+   ],
+   "title_fa": "خاموشی‌های برنامه‌ریزی‌شده برق در ایران از امروز آغاز می‌شود؛ احتمال قطع روزانه دو ساعت برق",
+   "summary_fa": "شرکت توانیر اعلام کرد خاموشی‌های برنامه‌ریزی‌شده در بخش‌های خانگی و تجاری ایران به دلیل کمبود سوخت نیروگاه‌ها آغاز می‌شود. این قطعی‌ها ممکن است در ابتدا به دو ساعت در هر دو روز برسد و با سردتر شدن هوا به دو ساعت در روز افزایش یابد.",
+   "body_fa": [
+    "به گفته شرکت توانیر، این محدودیت‌ها جهت مدیریت منابع سوخت و حفظ پایداری شبکه برق اعمال می‌شوند. محمد اله‌داد، مدیرعامل توانیر، کمبود سوخت نیروگاه‌ها را دلیل اصلی این تصمیم عنوان کرده است.",
+    "مسعود پزشکیان، رئیس‌جمهور ایران، نیز هشدار داده است که حملات آمریکا و اسرائیل به زیرساخت‌های انرژی، تأمین انرژی را با مشکل مواجه کرده و کشور زمستان دشواری در پیش خواهد داشت."
+   ],
+   "title_ar": "انقطاعات الكهرباء المخطط لها في إيران تبدأ اليوم مع احتمال قطعها لمدة ساعتين يوميًا",
+   "summary_ar": "أعلنت شركة \"توانير\" الإيرانية للكهرباء بدء انقطاعات مجدولة للتيار الكهربائي في القطاعين السكني والتجاري بسبب نقص وقود محطات توليد الكهرباء. وقد تصل الانقطاعات في البداية إلى ساعتين كل يومين، مع احتمال زيادتها إلى ساعتين يوميًا مع انخفاض درجات الحرارة.",
+   "body_ar": [
+    "ووفقًا لشركة \"توانير\"، تهدف هذه القيود إلى إدارة الموارد المتاحة والحفاظ على استقرار شبكة الكهرباء الوطنية. وأرجع محمد إله داد، المدير التنفيذي للشركة، سبب هذه الإجراءات إلى نقص وقود المحطات.",
+    "من جانبه، حذر الرئيس الإيراني مسعود بزشكيان من أن الهجمات الأمريكية والإسرائيلية على البنية التحتية للطاقة تفاقم مشكلات الإمدادات، مشيرًا إلى أن البلاد تواجه شتاءً صعبًا."
+   ]
+  },
+  {
+   "id": "0cdc2ecf2eb9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+   "date": "2026-11-21T23:44:00Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "LBN"
+   ],
+   "score": 8,
+   "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "title_en": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "summary_en": "Lebanese President Joseph Aoun has called for a full Israeli withdrawal from southern Lebanon and condemned Iranian interference in his country's internal affairs. Speaking ahead of Lebanon's independence anniversary, he emphasized that all weaponry in the country must be brought under state authority.",
+   "body_en": [
+    "In his address, President Aoun described Israeli occupation and foreign interference by the Iranian regime as twin obstacles to Lebanon's sovereignty. He urged Israel to end its attacks, pull back from Lebanese territory, and release captives. Aoun also reiterated the government's commitment to disarm Hezbollah, stating that no weapons outside state control should serve foreign interests.",
+    "The remarks come amid continued Israeli military strikes in southern Lebanon, including in Nabatieh, Bint Jbeil, and Marjayoun, despite a US-mediated framework agreement signed in June. According to Lebanon's Ministry of Health, thousands of people have been killed in Israeli attacks since hostilities escalated."
+   ],
+   "title_fa": "رئیس‌جمهور لبنان خواستار خروج اسرائیل شد و مداخله ایران را محکوم کرد",
+   "summary_fa": "جوزف عون، رئیس‌جمهور لبنان، خواستار خروج کامل اسرائیل از جنوب لبنان شد و مداخلات ایران در امور داخلی کشورش را محکوم کرد. او در آستانه سالگرد استقلال لبنان تاکید کرد که تمامی سلاح‌ها در کشور باید تحت کنترل دولت قرار گیرند.",
+   "body_fa": [
+    "رئیس‌جمهور عون در سخنرانی خود، اشغالگری اسرائیل و مداخله خارجی رژیم ایران را دو مانع توامان در برابر حاکمیت لبنان خواند. او از اسرائیل خواست به حملات خود پایان دهد، از خاک لبنان عقب‌نشینی کند و اسرا را آزاد سازد. عون همچنین بر تعهد دولت به خلع سلاح حزب‌الله تاکید کرد و گفت هیچ سلاحی خارج از کنترل دولت نباید در خدمت منافع خارجی باشد.",
+    "این اظهارات در حالی مطرح می‌شود که حملات نظامی اسرائیل در جنوب لبنان، از جمله در نبطیه، بنت جبیل و مرجعیون، با وجود توافق چارچوب به میانجی‌گری آمریکا در ماه ژوئن همچنان ادامه دارد. به گفته وزارت بهداشت لبنان، از زمان شدت گرفتن درگیری‌ها، هزاران نفر در حملات اسرائیل کشته شده‌اند."
+   ],
+   "title_ar": "الرئيس اللبناني يطالب بانسحاب إسرائيل ويدين التدخل الإيراني",
+   "summary_ar": "طالب الرئيس اللبناني جوزيف عون بانسحاب إسرائيلي كامل من جنوب لبنان ودان التدخل الإيراني في الشؤون الداخلية لبلاده. وأكد عشية ذكرى الاستقلال ضرورة إخضاع كافة الأسلحة لسلطة الدولة.",
+   "body_ar": [
+    "ووصف الرئيس عون في كلمته الاحتلال الإسرائيلي والتدخل الخارجي للنظام الإيراني بأنهما عقبتان مترابطتان أمام سيادة لبنان. وطالب إسرائيل بوقف هجماتها والانسحاب من الأراضي اللبنانية وإطلاق سراح المحتجزين. كما جدد عون التزام الحكومة بإنهاء وجود سلاح حزب الله، مؤكداً أنه لا ينبغي لأي سلاح خارج إطار الدولة أن يخدم مصالح خارجية.",
+    "وتأتي هذه التصريحات مع استمرار الغارات الجوية الإسرائيلية على جنوب لبنان، بما في ذلك النبطية وبنت جبيل ومرجعيون، رغم اتفاق الإطار الموقع برعاية أمريكية في حزيران/يونيو الماضي. وبحسب وزارة الصحة اللبنانية، أسفرت الهجمات الإسرائيلية عن مقتل الآلاف منذ تصاعد المواجهات."
+   ]
+  },
+  {
+   "id": "ff15ea32cac6",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cx5y1gd37je0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T23:13:47Z",
+   "countries": [
+    "IRN",
+    "TUR"
+   ],
+   "score": 7,
+   "title": "شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت",
+   "title_en": "Oil shock from Iran war casts shadow over COP31 climate talks in Turkey",
+   "summary_en": "UN climate negotiations at COP31 in Antalya have been pushed into a second extra day amid sharp divisions over fossil fuels and oil price shocks from the war in Iran. The removal of references to phasing out oil, gas, and coal from the draft agreement triggered widespread pushback.",
+   "body_en": [
+    "Revisions to the draft text that eliminated commitments on fossil fuels drew strong opposition from the European Union and island nations such as Tuvalu. While around 130 countries demand a clear mandate to phase out fossil fuels, nations like Saudi Arabia oppose such language. Proposals to emphasize carbon capture technology have also drawn criticism.",
+    "Disagreements also persist over climate financing for developing nations after the removal of a $120 billion funding target, as well as the lack of binding rules on renewable electricity. Summit president Murat Kurum announced a third draft text, but negotiating teams postponed their departures as no final deal was reached."
+   ],
+   "title_fa": "شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت",
+   "summary_fa": "مذاکرات اقلیمی سازمان ملل (کاپ ۳۱) در آنتالیا به دلیل اختلافات شدید بر سر سوخت‌های فسیلی و شوک قیمت نفت ناشی از جنگ ایران، وارد دومین روز اضافه شد. حذف اشاره به کنار گذاشتن نفت، گاز و زغال‌سنگ از پیش‌نویس توافق، با اعتراض گسترده مواجه شده است.",
+   "body_fa": [
+    "تغییر در پیش‌نویس بیانیه پایانی و حذف تعهدات مربوط به سوخت‌های فسیلی، واکنش تند اتحادیه اروپا و کشورهای جزیره‌ای مانند تووالو را برانگیخت. در حالی که بیش از ۱۳۰ کشور خواهان درج کنار گذاشتن تدریجی سوخت‌های فسیلی هستند، کشورهایی نظیر عربستان سعودی با این متن مخالف‌اند. همچنین پیشنهاداتی برای گسترش فناوری جذب کربن مطرح شده که با انتقاد مخالفان روبرو شده است.",
+    "علاوه بر موضوع انرژی، حذف هدف تامین مالی ۱۲۰ میلیارد دلاری برای کشورهای در حال توسعه و عدم الزام به تامین برق از منابع تجدیدپذیر باعث بن‌بست در مذاکرات شده است. مراد کوروم، رئیس اجلاس، از ارائه متن سوم خبر داده، اما هیئت‌های نمایندگی ترک آنتالیا را به تاخیر انداخته‌اند."
+   ],
+   "title_ar": "الصدمة النفطية الناجمة عن حرب إيران تظلم محادثات المناخ (كوب 31) في تركيا",
+   "summary_ar": "تمددت مفاوضات الأمم المتحدة للمناخ (كوب 31) في أنطاليا لليوم الثاني على التوالي وسط خلافات حادة حول الوقود الأحفوري وصدمات أسعار النفط الناجمة عن حرب إيران. وأثار حذف الإشارات إلى التخلص التدريجي من النفط والغاز والفحم من مسودة الاتفاق احتجاجات واسعة.",
+   "body_ar": [
+    "وأثارت التعديلات على مسودة النص والتي ألغت الالتزامات المتعلقة بالوقود الأحفوري معارضة قوية من الاتحاد الأوروبي والدول الجزرية مثل توفالو. وبينما تطالب نحو 130 دولة بنص صريح على التخلص التدريجي من الوقود الأحفوري، تعارض دول مثل المملكة العربية السعودية هذا التوجه. كما واجهت المقترحات المتعلقة بتقنيات احتجاز الكربون انتقادات واسعة.",
+    "كما استمرت الخلافات بشأن التمويل المناخي للدول النامية بعد حذف هدف تمويلي بقيمة 120 مليار دولار، إضافة إلى غياب الإلزام بزيادة الكهرباء من المصادر المتجددة. وأعلن رئيس المؤتمر مراد كوروم تقديم مسودة ثالثة، إلا أن الوفود المفاوضة أجلت مغادرتها مع استمرار الانسداد."
+   ]
+  },
   {
    "id": "634fcadcb179",
    "lang": "en",
@@ -89,6 +182,33 @@
    "body_ar": [
     "تجاوزت المحادثات موعد اختتامها المقرر يوم الجمعة مع مطالبة الدول النامية بتمويل التكيف من الدول الغنية، وإصرار نحو 130 دولة على الإشارة إلى التحول بعيداً عن الوقود الأحفوري. وتشمل نقاط الخلاف الأخرى مساعي السعودية لدعم تكنولوجيا احتجاز الكربون وتخزينه، وهو ما يراه معارضون وسيلة لإدامة استخدام الوقود الأحفوري.",
     "وبعد شطب الإشارة إلى الوقود الأحفوري من مسودة معدلة، طالب ممثلون عن الاتحاد الأوروبي والمملكة المتحدة والدول الجزرية الصغيرة ودول أفريقية بإعادة إدراجها. وتدرس الدول الدعوة إلى جلسة علنية لإجبار السعودية وحلفائها على إعلان معارضتهم بشكل صريح أمام الجميع."
+   ]
+  },
+  {
+   "id": "c5b077e7fdd2",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention",
+   "date": "2026-11-21T19:23:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+   "title_en": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+   "summary_en": "President Asif Ali Zardari has promulgated five ordinances that revoke most privileges of Khyber Pakhtunkhwa lawmakers, including protection against preventive detention. The ordinances also establish a legal framework for special initiatives in 12 designated districts in the province.",
+   "body_en": [
+    "Following the imposition of emergency in Khyber Pakhtunkhwa on October 11, an Area Representative and Development Council was formed to oversee 12 districts deemed to face severe security challenges, including the merged districts. Two of the ordinances envisage establishing an executive structure for these special initiatives."
+   ],
+   "title_fa": "فرمان ریاست‌جمهوری بیشتر امتیازات نمایندگان پارلمان خیبر پختونخوا از جمله مصونیت در برابر بازداشت پیشگیرانه را لغو کرد",
+   "summary_fa": "آصف‌علی زرداری، رئیس‌جمهور پاکستان، با صدور پنج فرمان اجرایی، بیشتر امتیازات نمایندگان مجلس خیبر پختونخوا از جمله مصونیت در برابر بازداشت پیشگیرانه را لغو کرد. این فرامین همچنین چارچوبی قانونی برای اقدامات ویژه در ۱۲ شهرستان تعیین‌شده این استان ایجاد می‌کنند.",
+   "body_fa": [
+    "در پی اعلام وضعیت اضطراری در خیبر پختونخوا در ۱۱ اکتبر، «شورای نمایندگی و توسعه منطقه‌ای» برای نظارت بر ۱۲ شهرستان مواجه با چالش‌های امنیتی شدید تشکیل شد. دو مورد از این فرامین، ایجاد ساختاری اجرایی را برای طرح‌های این شورا پیش‌بینی می‌کنند."
+   ],
+   "title_ar": "مرسوم رئاسي يسحب معظم امتيازات أعضاء برلمان خيبر بختونخوا بما في ذلك الحماية من الاحتجاز الوقائي",
+   "summary_ar": "أصدر الرئيس الباكستاني آصف علي زرداري خمسة مراسيم تلغي معظم امتيازات أعضاء برلمان إقليم خيبر بختونخوا، بما في ذلك الحماية من الاحتجاز الوقائي. كما توفر هذه المراسيم إطارًا قانونيًا للمبادرات الخاصة في ۱۲ مقاطعة محددة في الإقليم.",
+   "body_ar": [
+    "عقب فرض حالة الطوارئ في خيبر بختونخوا في ۱۱ أكتوبر، تم تشكيل \"مجلس الممثلين والتنمية الإقليمي\" للإشراف على ۱۲ مقاطعة تواجه تحديات أمنية حادة. وتتضمن اثنتان من المراسيم إنشاء هيكل تنفيذي لهذه المبادرات الخاصة."
    ]
   },
   {
@@ -12405,883 +12525,6 @@
    "body_ar": [
     "وفقاً للمكتب الإعلامي الحكومي في غزة، تسببت الأمطار أيضاً في انهيار عشرات الجدران والأسقف المتصدعة، ما أدى إلى وقوع إصابات وصفت بعضها بالحرجة. وأفاد المتحدث باسم الدفاع المدني محمود بصل بتلقي أكثر من 1500 نداء استغاثة خلال الليل، محذراً من أن طواقم الإنقاذ عاجزة عن التعامل مع تداعيات العاصفة بمفردها وتفتقر إلى المعدات.",
     "وحذر ائتلاف من منظمات المجتمع المدني من خطر تفشي الأوبئة والأمراض، داعياً إلى الضغط على إسرائيل للسماح بدخول المساعدات الإنسانية دون قيود. كما أوضح مسؤول محلي في غزة أن إسرائيل تمنع إدخال المنازل الجاهزة، مشدداً على أن القطاع بحاجة عاجلة إلى 200 ألف وحدة سكنية مسبقة الصنع ومعدات ثقيلة لإزالة الركام."
-   ]
-  },
-  {
-   "id": "13dbab3bc36a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-says-it-disabled-cargo-vessel-gulf-oman",
-   "date": "2026-11-07T21:27:14Z",
-   "countries": [
-    "IRN",
-    "OMN"
-   ],
-   "score": 8,
-   "title": "US military says it disabled cargo vessel in Gulf of Oman",
-   "title_en": "US military says it disabled cargo vessel in Gulf of Oman",
-   "summary_en": "A US military aircraft disabled a commercial cargo ship in the Gulf of Oman after it attempted to break the US naval blockade on Iran, according to US Central Command.",
-   "body_en": [
-    "According to Centcom, the St Kitts and Nevis-flagged vessel had visited an Iranian port and was attempting to leave regional waters. US forces ordered the crew to clear targeted areas before a plane fired precision munitions at the ship's stern.",
-    "Centcom also announced the launch of a new task force aimed at stopping Iran from moving advanced weapons and sanctioned materials across land borders and the Caspian Sea. The US military estimates that its naval blockade has so far prevented Iran from exporting over $25bn in crude oil."
-   ],
-   "title_fa": "ارتش آمریکا می‌گوید یک کشتی باری را در دریای عمان از کار انداخته است",
-   "summary_fa": "به گفته فرماندهی مرکزی آمریکا، یک هواپیمای نظامی ایالات متحده یک کشتی باری تجاری را در دریای عمان پس از تلاش آن برای شکستن محاصره دریایی ایران، از کار انداخته است.",
-   "body_fa": [
-    "به گفته سنتکام، این کشتی با پرچم سنت کیتس و نویس به یک بندر ایرانی رفته بود و قصد داشت آب‌های منطقه را ترک کند. نیروهای آمریکایی پیش از آنکه هواپیما مهمات دقیق را به سمت انتهای کشتی شلیک کند، به خدمه دستور داده بودند تا مناطق هدف را تخلیه کنند.",
-    "سنتکام همچنین از راه‌اندازی یک گروه ضربت جدید برای جلوگیری از انتقال تسلیحات پیشرفته و مواد تحریم‌شده توسط ایران از طریق مرزهای زمینی و دریای خزر خبر داد. ارتش آمریکا برآورد می‌کند که محاصره دریایی آن تا کنون مانع از صادرات بیش از ۲۵ میلیارد دلار نفت خام توسط ایران شده است."
-   ],
-   "title_ar": "الجيش الأمريكي يعلن تعطيل سفينة بضائع في خليج عمان",
-   "summary_ar": "أعلنت القيادة المركزية الأمريكية أن طائرة عسكرية تابعة للولايات المتحدة قامت بتعطيل سفينة بضائع تجارية في خليج عمان بعد محاولتها خرق الحظر البحري الأمريكي المفرود على إيران.",
-   "body_ar": [
-    "ووفقاً للقيادة المركزية الأمريكية، فإن السفينة التي ترفع علم سانت كيتس ونيفيس كانت قد زارت ميناءً إيرانياً وكانت تحاول مغادرة المياه الإقليمية. وأمرت القوات الأمريكية الطاقم بإخلاء المناطق المستهدفة قبل أن تطلق الطائرة ذخائر دقيقة على مؤخرة السفينة.",
-    "كما أعلنت القيادة المركزية عن إطلاق قوة مهام جديدة تهدف إلى منع إيران من نقل الأسلحة المتطورة والمواد الخاضعة للعقوبات عبر الحدود البرية وبحر قزوين. ويدرّك الجيش الأمريكي أن الحظر البحري منع إيران حتى الآن من تصدير نفط خام بقيمة تتجاوز 25 مليار دولار."
-   ]
-  },
-  {
-   "id": "4a32102f2942",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-   "date": "2026-11-07T20:26:58Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 8,
-   "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-   "title_en": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-   "summary_en": "Israeli President Isaac Herzog has selected Yashar party leader Gadi Eisenkot to form the next government following consultations with political parties.",
-   "body_en": [
-    "Eisenkot received endorsements from 67 lawmakers, including Arab-led parties, compared to 46 for Prime Minister Benjamin Netanyahu. He will have 28 days to build a parliamentary coalition of at least 61 seats in the 120-seat Knesset.",
-    "Although Eisenkot has stated he will not form a coalition with Arab-led parties, their backing gave him a larger recommending margin over Netanyahu. If Eisenkot fails to build a government within the designated timeframe, another candidate may be given the mandate before new elections are triggered."
-   ],
-   "title_fa": "رئیس‌جمهور اسرائیل گادی آیزنکوت را به جای بنیامین نتانیاهو برای تشکیل دولت بعدی انتخاب کرد",
-   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، پس از رایزنی با احزاب سیاسی، گادی آیزنکوت رهبر حزب یاشار را برای تشکیل دولت بعدی انتخاب کرده است.",
-   "body_fa": [
-    "آیزنکوت از حمایت ۶۷ نماینده پارلمان، از جمله احزاب عرب، بهره‌مند شد، در حالی که بنیامین نتانیاهو تنها ۴۶ حمایت کسب کرد. آیزنکوت ۲۸ روز فرصت خواهد داشت تا ائتلافی حداقل ۶۱ نفره در کنست ۱۲۰ کرسی تشکیل دهد.",
-    "اگرچه آیزنکوت اعلام کرده که ائتلافی با احزاب عرب تشکیل نخواهد داد، حمایت آن‌ها به او برتری بیشتری در توصیه‌ها نسبت به نتانیاهو داد. اگر آیزنکوت موفق به تشکیل دولت در مهلت مقرر نشود، ممکن است این ماموریت به نامزد دیگری واگذار شود پیش از آنکه انتخابات جدید برگزار گردد."
-   ],
-   "title_ar": "رئيس إسرائيل يختار غادي آيزنكوت بدلاً من بنيامين نتنياهو لتشكيل الحكومة المقبلة",
-   "summary_ar": "كلف رئيس إسرائيل يتسحاق هرتسوغ زعيم حزب يشار غادي آيزنكوت بتشكيل الحكومة المقبلة بعد مشاورات مع الأحزاب السياسية.",
-   "body_ar": [
-    "وحصل آيزنكوت على تأييد 67 نائباً، بمن فيهم الأحزاب العربية، مقابل 46 نائباً أيدوا رئيس الوزراء بنيامين نتنياهو. وسيكون أمام آيزنكوت 28 يوماً لبناء ائتلاف برلماني لا يقل عن 61 مقعداً في الكنيست المكون من 120 مقعداً.",
-    "ورغم أن آيزنكوت صرح بأنه لن يشكل حكومة مع الأحزاب العربية، إلا أن دعمها منح هامش توصيات أكبر مقارنة بنتنياهو. وإذا فشل آيزنكوت في تشكيل الحكومة خلال المدة المحددة، فقد يُمنح التفويض لمرشح آخر قبل الدعوة إلى انتخابات جديدة."
-   ]
-  },
-  {
-   "id": "8986524c19ba",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-tells-trump-turkey-will-keep-pushing-us-iran-peace",
-   "date": "2026-11-07T19:06:47Z",
-   "countries": [
-    "IRN",
-    "TUR"
-   ],
-   "score": 7,
-   "title": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
-   "title_en": "Erdogan tells Trump Turkey will keep pushing for US-Iran peace",
-   "summary_en": "Turkish President Recep Tayyip Erdogan told US President Donald Trump in a phone call that Turkey will maintain its diplomatic efforts to resolve tensions between the United States and Iran.",
-   "body_en": [
-    "According to the Turkish presidency, Erdogan stated that regional tensions should be addressed through diplomacy and that Ankara intends to keep contributing to peace efforts.",
-    "Erdogan also noted that Turkey will continue supporting initiatives to end the war in Ukraine, calling for intensified contacts with both Moscow and Kyiv."
-   ],
-   "title_fa": "اردوغان به ترامپ گفت ترکیه به تلاش‌های خود برای صلح میان آمریکا و ایران ادامه می‌دهد",
-   "summary_fa": "رجب طیب اردوغان، رئیس‌جمهور ترکیه، در تماس تلفنی با دونالد ترامپ، رئیس‌جمهور آمریکا، گفت که ترکیه به تلاش‌های دیپلماتیک خود برای حل تنش‌ها میان ایالات متحده و ایران ادامه خواهد داد.",
-   "body_fa": [
-    "به گفته دفتر ریاست‌جمهوری ترکیه، اردوغان تاکید کرد که تنش‌های منطقه‌ای باید از طریق دیپلماسی حل و فصل شوند و آنکارا قصد دارد به مشارکت در تلاش‌های صلح ادامه دهد.",
-    "اردوغان همچنین خاطرنشان کرد که ترکیه به حمایت از ابتکارات برای پایان دادن به جنگ اوکراین ادامه می‌دهد و خواستار افزایش تماس‌ها با مسکو و کی‌یف شد."
-   ],
-   "title_ar": "أردوغان يبلغ ترامب بأن تركيا ستواصل جهودها لتحقيق السلام بين الولايات المتحدة وإيران",
-   "summary_ar": "أبلغ الرئيس التركي رجب طيب أردوغان الرئيس الأمريكي دونالد ترامب في اتصال هاتفي أن تركيا ستستمر في جهودها الدبلوماسية لحل التوترات بين الولايات المتحدة وإيران.",
-   "body_ar": [
-    "ووفقاً للرئاسة التركية، أكد أردوغان أن التوترات الإقليمية ينبغي حلها عبر الدبلوماسية، وأن أنقرة تعتزم مواصلة المساهمة في جهود السلام.",
-    "كما أشار أردوغان إلى أن تركيا ستواصل دعم المساعي لإنهاء الحرب في أوكرانيا، داعياً إلى تكثيف الاتصالات مع كل من موسكو وكييف."
-   ]
-  },
-  {
-   "id": "f3d2de2b699c",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-strikes-kill-least-27-yemens-sanaa-houthis-say",
-   "date": "2026-11-07T18:45:33Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
-   "title_en": "Saudi-led strikes kill at least 27 in Yemen's Sanaa, Houthis say",
-   "summary_en": "At least 27 people, mostly women and children, were killed and 36 others wounded in Saudi-led coalition air strikes in Yemen's Sanaa province, according to Houthi health officials.",
-   "body_en": [
-    "The Houthi-run health ministry reported that the strikes hit the village of Al-Shariya, with Saba news agency adding that warplanes struck paramedics twice as rescuers worked to recover victims from the rubble.",
-    "In response, the Houthis claimed to have launched six missile and drone attacks against Saudi targets, including Aramco facilities and Riyadh airport. The Saudi-led coalition stated it intercepted a Houthi missile aimed at Riyadh province, while Yemeni government forces announced strikes on 875 Houthi locations as part of an offensive to retake territory."
-   ],
-   "title_fa": "حوثی‌ها: حملات ائتلاف تحت رهبری عربستان دست‌کم ۲۷ کشته در صنعای یمن بر جای گذاشت",
-   "summary_fa": "به گفته مقامات بهداشتی حوثی‌ها، در پی حملات هوایی ائتلاف به رهبری عربستان در استان صنعای یمن، دست‌کم ۲۷ نفر که بیشترشان زن و کودک بودند کشته و ۳۶ نفر دیگر زخمی شدند.",
-   "body_fa": [
-    "وزارت بهداشت تحت مدیریت حوثی‌ها گزارش داد که این حملات به روستای الشرعیه اصابت کرده است. خبرگزاری سبا نیز افزود که هواپیماهای جنگی در حالی که امدادگران مشغول بیرون کشیدن قربانیان از زیر آوار بودند، دو بار امدادگران را هدف قرار دادند.",
-    "در مقابل، حوثی‌ها مدعی شدند شش عملیات موشکی و پهپادی علیه اهدافی در عربستان، از جمله تاسیسات آرامکو و فرودگاه ریاض انجام داده‌اند. ائتلاف تحت رهبری عربستان اعلام کرد یک موشک حوثی‌ها را به سمت استان ریاض رهگیری و منهدم کرده است، در حالی که نیروهای دولتی یمن از هدف قرار دادن ۸۷۵ موضع حوثی‌ها در اطار یک بازپس‌گیری اراضی خبر دادند."
-   ],
-   "title_ar": "الحوثيون: غارات بقيادة السعودية تقتل 27 شخصاً على الأقل في صنعاء باليمن",
-   "summary_ar": "ووفقاً لوزارة الصحة التابعة للحوثيين، قُتل 27 شخصاً على الأقل، معظمهم من النساء والأطفال، وأُصيب 36 آخرون في غارات جوية للتحالف بقيادة السعودية في محافظة صنعاء باليمن.",
-   "body_ar": [
-    "وذكرت وزارة الصحة التابعة للحوثيين أن الغارات استهدفت قرية الشريعة، وأضافت وكالة سبأ للأنباء أن الطائرات الحربية استهدفت المسعفين مرتين أثناء عملهم على انتشال الضحايا من تحت الأنقاض.",
-    "في المقابل، قال الحوثيون إنهم نفذوا ست عمليات بالصواريخ والطائرات المسيرة ضد أهداف سعودية، شملت منشآت لشركة آرامكو ومطار الرياض. من جانبه، أعلن التحالف بقيادة السعودية اعتراض صواريخ للحوثيين باتجاه منطقة الرياض، بينما أعلنت القوات الحكومية اليمنية استهداف 875 موقعاً للحوثيين ضمن هجوم لاستعادة الأراضي."
-   ]
-  },
-  {
-   "id": "7da1e4d18a9a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-claim-attacks-saudi-aramco-sites-riyadh-airport-and-troops",
-   "date": "2026-11-07T18:32:34Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 8,
-   "title": "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
-   "title_en": "Houthis claim attacks on Saudi Aramco sites, Riyadh airport and troops",
-   "summary_en": "Yemen's Houthis announced they conducted multiple missile and drone attacks against Saudi military infrastructure, troops, and oil facilities.",
-   "body_en": [
-    "According to Houthi military spokesman Yahya Saree, the group carried out six operations targeting Aramco oil facilities, Riyadh airport, and Saudi troops stationed along the border and inside Yemen.",
-    "Saree stated on X that the group will persist with attacks deep within Saudi Arabia to enforce their strategy of matching blockade with blockade and escalation with escalation."
-   ],
-   "title_fa": "حوثی‌ها مسئولیت حملات به تاسیسات آرامکو، فرودگاه ریاض و نیروهای سعودی را بر عهده گرفتند",
-   "summary_fa": "حوثی‌های یمن اعلام کردند که چندین حمله موشکی و پهپادی را علیه زیرساخت‌های نظامی، نیروها و تاسیسات نفتی عربستان سعودی انجام داده‌اند.",
-   "body_fa": [
-    "به گفته یحیی سریع، سخنگوی نظامی حوثی‌ها، این گروه شش عملیات انجام داده که تاسیسات نفتی آرامکو، فرودگاه ریاض و نیروها و تاسیسات نظامی عربستان را در دو طرف مرز و داخل یمن هدف قرار داده است.",
-    "سریع در شبکه‌های اجتماعی تاکید کرد که این گروه به عملیات در عمق خاک عربستان ادامه می‌دهد تا معادله تقابل پایاپای را تحمیل کند."
-   ],
-   "title_ar": "الحوثيون يعلنون مسؤوليتهم عن هجمات استهدفت منشآت لشركة أرامكو ومطار الرياض وقوات سعودية",
-   "summary_ar": "أعلن الحوثيون في اليمن عن تنفيذ عدة هجمات بالصاروخ والطائرات المسيرة استهدفت بنية تحتية عسكرية وقوات ومنشآت نفطية سعودية.",
-   "body_ar": [
-    "وفقًا للمتحدث العسكري باسم الحوثيين يحيى سريع، نفذت الجماعة ست عمليات استهدفت منشآت نفطية لشركة أرامكو ومطار الرياض وقوات ومرافق عسكرية سعودية على جانبي الحدود وداخل اليمن.",
-    "وأكد سريع عبر منصة إكس أن الجماعة ستواصل عملياتها في عمق الأراضي السعودية لفرض معادلة الحصار بالحصار والتصعيد بالتصعيد."
-   ]
-  },
-  {
-   "id": "654d4d4352ba",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-   "date": "2026-11-07T17:39:23Z",
-   "countries": [
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Houthis report 25 killed in Yemen strikes",
-   "title_en": "Houthis report 25 killed in Yemen strikes",
-   "summary_en": "Yemen's Houthis stated that at least 25 people were killed and 30 injured in air strikes attributed to the Saudi-led coalition.",
-   "body_en": [
-    "According to Houthi-affiliated media, nine separate attacks targeted telecommunications networks located in the Sa'ada governorate."
-   ],
-   "title_fa": "حوثی‌ها از کشته شدن ۲۵ نفر در حملات یمن خبر دادند",
-   "summary_fa": "حوثی‌های یمن اعلام کردند که در پی حملات هوایی منتسب به ائتلاف تحت رهبری عربستان، دست‌کم ۲۵ نفر کشته و ۳۰ نفر زخمی شده‌اند.",
-   "body_fa": [
-    "به گزارش رسانه‌های وابسته به حوثی‌ها، نه حمله هوایی شبکه‌های ارتباطی را در استان صعده هدف قرار داده است."
-   ],
-   "title_ar": "الحوثيون يعلنون مقتل 25 شخصاً في غارات على اليمن",
-   "summary_ar": "أعلن الحوثيون في اليمن مقتل 25 شخصاً على الأقل وإصابة 30 آخرين في غارات جوية اتهموا التحالف بقيادة السعودية بشنها.",
-   "body_ar": [
-    "وبحسب وسائل إعلام تابعة للحوثيين، فإن تسع هجمات استهدفت شبكات الاتصالات في محافظة صعدة."
-   ]
-  },
-  {
-   "id": "48e1b5c23070",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-   "date": "2026-11-07T16:30:33Z",
-   "countries": [
-    "ISR",
-    "LBN"
-   ],
-   "score": 8,
-   "title": "Israel builds 90km network of military roads across southern Lebanon",
-   "title_en": "Israel builds 90km network of military roads across southern Lebanon",
-   "summary_en": "Satellite images reveal that Israel is constructing a 90km network of military roads and outposts across southern Lebanon.",
-   "body_en": [
-    "The ongoing construction of roads and military positions has heightened concerns regarding a potential long-term Israeli military presence in the region."
-   ],
-   "title_fa": "اسرائیل شبکه ۹۰ کیلومتری از جاده‌های نظامی در جنوب لبنان می‌سازد",
-   "summary_fa": "تصاویر ماهواره‌ای نشان می‌دهد که اسرائیل در حال ساخت یک شبکه ۹۰ کیلومتری از جاده‌ها و پایگاه‌های نظامی در سراسر جنوب لبنان است.",
-   "body_fa": [
-    "ساخت‌وسازهای جاری جاده‌ها و مواضع نظامی، نگرانی‌ها در مورد احتمال حضور نظامی طولانی‌مدت اسرائیل در این منطقه را افزایش داده است."
-   ],
-   "title_ar": "إسرائيل تبني شبكة طرق عسكرية بطول 90 كيلومترًا في جنوب لبنان",
-   "summary_ar": "تظهر صور الأقمار الصناعية أن إسرائيل تقوم ببناء شبكة من الطرق والمواقع العسكرية بطول 90 كيلومترًا عبر جنوب لبنان.",
-   "body_ar": [
-    "أثار البناء المستمر للطرق والمواقع العسكرية مخاوف تزايدت بشأن احتمال وجود عسكري إسرائيلي طويل الأمد في المنطقة."
-   ]
-  },
-  {
-   "id": "24a498bafff3",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-spokesman-announces-lifting-restrictions-iranian-missiles",
-   "date": "2026-11-07T14:40:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "IRGC spokesman announces lifting of restrictions on Iranian missiles",
-   "title_en": "IRGC spokesman announces lifting of restrictions on Iranian missiles",
-   "summary_en": "An IRGC spokesman announced that restrictions on the range of Iranian missiles have been lifted following warnings issued to the United States.",
-   "body_en": [
-    "Brigadier General Hossein Mohebbi made the statement at a news conference when asked about Supreme Leader Mojtaba Khamenei's warning of an immediate and geographically unrestricted response to any potential US or Israeli attack.",
-    "According to Tasnim news agency, Mohebbi confirmed the removal of missile range limits and emphasized that the military's duty is to demonstrate its capabilities in the field."
-   ],
-   "title_fa": "سخنگوی سپاه پاسداران از لغو محدودیت‌های موشکی ایران خبر داد",
-   "summary_fa": "سخنگوی سپاه پاسداران انقلاب اسلامی اعلام کرد که محدودیت‌های مربوط به برد موشک‌های ایران برداشته شده است.",
-   "body_fa": [
-    "سرتیپ حسین محبی در یک نشست خبری و در پاسخ به پرسشی درباره هشدار رهبر ایران مبنی بر پاسخ فوری، تاثیرگذار و بدون محدودیت جغرافیایی به هرگونه حمله احتمالی آمریکا یا اسرائیل، این مطالب را بیان کرد.",
-    "به گزارش خبرگزاری تسنیم، محبی تایید کرد که محدودیت برد موشکی لغو شده است و افزود که وظیفه نیروهای مسلح نمایش توانمندی‌های خود در میدان نبرد است."
-   ],
-   "title_ar": "متحدث باسم الحرس الثوري يعلن رفع القيود عن الصواريخ الإيرانية",
-   "summary_ar": "أعلن متحدث باسم الحرس الثوري الإيراني أنه تم رفع القيود المترتبة على مدى الصواريخ الإيرانية.",
-   "body_ar": [
-    "جاءت تصريحات العميد حسين محبي خلال مؤتمر صحفي ورداً على سؤال حول تحذير المرشد الأعلى مجتبى خامنئي من رد فوري ومؤثر وغير محدد جغرافياً على أي هجوم أمريكي أو إسرائيلي محتمل.",
-    "وفقاً لوكالة تسنيم للأنباء، أكد محبي أن القيود على مدى الصواريخ قد رُفعت، مشيراً إلى أن واجب القوات هو إظهار قدراتها في میدان المعركة."
-   ]
-  },
-  {
-   "id": "053daca12a9c",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-   "date": "2026-11-07T14:24:48Z",
-   "countries": [
-    "IRQ"
-   ],
-   "score": 7,
-   "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-   "title_en": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-   "summary_en": "Iraqi Foreign Minister Fuad Hussein stated that Baghdad has evidence of external entities utilizing Iraqi territory to launch attacks against neighbouring nations.",
-   "body_en": [
-    "In an interview with Al Jazeera, Hussein revealed that Iraq is currently investigating attacks launched from its soil against Gulf states and is attempting to resolve differences with Saudi Arabia through dialogue. He also mentioned that Baghdad is negotiating with Iran-backed armed groups to bring their weaponry under state control and is in contact with Tehran regarding this issue.",
-    "Additionally, Hussein noted that Washington requested Iraq to close all but two of its border crossings with Iran. He further disclosed that Iraq lost roughly $60 billion due to the halt of oil exports through the Strait of Hormuz, though shipments have since resumed following discussions with both Tehran and Washington."
-   ],
-   "title_fa": "وزیر امور خارجه عراق: طرف‌های خارجی از خاک عراق برای حمله به همسایگان استفاده می‌کنند",
-   "summary_fa": "فواد حسین، وزیر امور خارجه عراق، اعلام کرد که بغداد شواهدی دارد مبنی بر اینکه طرف‌های خارجی از خاک عراق برای انجام حمله به کشور‌های همسایه استفاده می‌کنند.",
-   "body_fa": [
-    "حسین در مصاحبه‌ای با الجزیره گفت که عراق در حال بررسی حملاتی است که از خاک این کشور علیه کشورهای خلیج فارس انجام شده و تلاش می‌کند اختلافات خود با عربستان سعودی را از طریق گفتگو حل کند. وی همچنین اشاره کرد که بغداد در حال مذاکره با گروه‌های مسلح وابسته به ایران است تا تسلیحات آن‌ها را تحت کنترل دولت درآورد و در این زمینه با تهران نیز در ارتباط است.",
-    "علاوه بر این، حسین اعلام کرد که واشنگتن خواهان بستن تمامی گذرگاه‌های مرزی با ایران به جز دو مورد شده است. وی همچنین افزود که عراق به دلیل توقف صادرات نفت از طریق تنگه هرمز حدود ۶۰ میلیارد دلار زیان دید، اما این صادرات پس از توافقات صورت‌گرفته با واشنگتن و تهران از سر گرفته شده است."
-   ],
-   "title_ar": "وزير الخارجية العراقي: أطراف خارجية تستخدم الأراضي العراقية للهجوم على دول الجوار",
-   "summary_ar": "أعلن وزير الخارجية العراقي فؤاد حسين أن بغداد تمتلك أدلة على استخدام أطراف خارجية للأراضي العراقية لشن هجمات ضد دول الجوار.",
-   "body_ar": [
-    "وأوضح حسين في مقابلة مع الجزيرة أن العراق يحقق في الهجمات التي انطلقت من أراضيه ضد دول الخليج، ويسعى لحل الخلافات مع السعودية عبر الحوار. كما أشار إلى أن بغداد تتفاوض مع الفصائل المسلحة المقربة من إيران لإخضاع سلاحها لسيطرة الدولة، وتتواصل مع تهران بشأن هذه المسألة.",
-    "وأضاف حسين أن واشنتن طلبت إغلاق كافة المعابر الحدودية مع إيران باستثناء معبرين. وأفاد بأن العراق خسر نحو 60 مليار دولار جراء تعليق صادرات النفط عبر مضيق هرمز، مشيراً إلى أن الشحنات استؤنفت بعد التوصل إلى تفاهمات مع واشنطن وتكساس."
-   ]
-  },
-  {
-   "id": "caefb1b5006f",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-military-looking-expand-naval-blockade-and-restrict-iranian-land",
-   "date": "2026-11-07T14:09:11Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "US military looking to expand naval blockade and restrict Iranian land commerce: Report",
-   "title_en": "US military looking to expand naval blockade and restrict Iranian land commerce: Report",
-   "summary_en": "The US military is establishing a new task force aimed at restricting Iran's transport of advanced weapons and sanctioned materials across land borders and the Caspian Sea.",
-   "body_en": [
-    "According to a statement obtained by Reuters, US Central Command is expected to formally announce the formation of this task force to bolster sanctions enforcement and interdict military gear."
-   ],
-   "title_fa": "گزارش: ارتش آمریکا به دنبال گسترش محاصره دریایی و محدود کردن تجارت زمینی ایران است",
-   "summary_fa": "ارتش آمریکا در حال ایجاد یک گروه کاری جدید برای محدود کردن انتقال تسلیحات پیشرفته و مواد تحریمی توسط ایران از طریق مرزهای زمینی و دریای خزر است.",
-   "body_fa": [
-    "بر اساس بیانیه‌ای که به دست رویترز رسیده است، انتظار می‌رود ستاد فرماندهی مرکزی آمریکا (سنتکام) خبر تشکیل این گروه کاری را به منظور تقویت اجرای تحریم‌ها به طور رسمی اعلام کند."
-   ],
-   "title_ar": "تقرير: الجيش الأمريكي يسعى لتوسيع الحصار البحري وتقييد التجارة البرية الإيرانية",
-   "summary_ar": "يقوم الجيش الأمريكي بإنشاء قوة مهام جديدة بهدف تقييد نقل إيران للأسلحة المتقدمة والمواد الخاضعة للعقوبات عبر حدودها البرية وبحر قزوين.",
-   "body_ar": [
-    "وفقاً لبيان حصلت عليه وكالة رويترز، من المتوقع أن تعلن القيادة المركزية الأمريكية رسمياً عن تشكيل قوة المهام هذه لتعزيز تطبيق العقوبات ومنع نقل المعدات العسكرية."
-   ]
-  },
-  {
-   "id": "e6e179b48d3d",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-yemens-bani-hashish-reaches-22",
-   "date": "2026-11-07T12:48:49Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Death toll in Yemen's Bani Hashish reaches 22",
-   "title_en": "Death toll in Yemen's Bani Hashish reaches 22",
-   "summary_en": "The death toll from Saudi air strikes on the Bani Hashish district in Yemen has risen to 22, according to the Houthi-run health ministry.",
-   "body_en": [
-    "The ministry reported that the majority of those killed in the strikes on the al-Shariyah area were women and children. Approximately 30 people were also wounded, including a cameraman working for the Houthi-run al-Masirah news network."
-   ],
-   "title_fa": "شمار کشته‌شدگان در بنی‌حشیش یمن به ۲۲ نفر رسید",
-   "summary_fa": "به گزارش وزارت بهداشت وابسته به حوثی‌ها، شمار قربانیان حملات هوایی عربستان سعودی به بخش بنی‌حشیش در یمن به ۲۲ تن افزایش یافته است.",
-   "body_fa": [
-    "این وزارتخانه در بیانیه‌ای اعلام کرد که اکثر کشته‌شدگان حملات هوایی به منطقه الشریه، زنان و کودکان بودند. همچنین حدود ۳۰ نفر دیگر زخمی شده‌اند که یک فیلم‌بردار شبکه المسیره وابسته به حوثی‌ها در میان آن‌ها حضور دارد."
-   ],
-   "title_ar": "حصيلة القتلى في بني حشيش باليمن ترتفع إلى 22",
-   "summary_ar": "أعلنت وزارة الصحة التابعة للحوثيين ارتفاع حصيلة ضحايا الغارات الجوية السعودية على مديرية بني حشيش في اليمن إلى 22 قتيلاً.",
-   "body_ar": [
-    "وأكدت الوزارة في بيان لها أن معظم القتلى الذين سقطوا في الغارات على منطقة الشريعة كانوا من النساء والأطفال. كما أصيب نحو 30 شخصاً بجروح، من بينهم مصور يعمل لدى قناة المسيرة التابعة للحوثيين."
-   ]
-  },
-  {
-   "id": "6f1f97b06f55",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/news/netanyahu-and-mossad-chief-planned-attack-iran-israeli-election-says-report",
-   "date": "2026-11-07T12:38:24Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 8,
-   "title": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
-   "title_en": "Leak reportedly exposed Netanyahu and Mossad chief's plan to attack Iran before Israeli election",
-   "summary_en": "Israeli media reported that a planned operation against Iran by Prime Minister Benjamin Netanyahu and Mossad chief Roman Gofman ahead of the October 27 election was halted after the United States was inadvertently notified.",
-   "body_en": [
-    "According to Channel 12, the initiative faced strong opposition from senior security officials who warned it could trigger a wider confrontation with Iran and disrupt the election. Preparations were reportedly halted after an operative mistakenly alerted Washington, though Netanyahu's office denied the reports, stating an attack before the vote was never on the agenda.",
-    "The disclosures follow reports of friction between Netanyahu and military chief of staff Eyal Zamir, who reportedly pushed back against proposals that military leaders feared were aimed at using the Iranian issue for political advantage."
-   ],
-   "title_fa": "افشاگری طرح نتانیاهو و رئیس موساد برای حمله به ایران پیش از انتخابات اسرائیل را فاش کرد",
-   "summary_fa": "رسانه‌های اسرائیلی گزارش دادند که طرح عملیات علیه ایران توسط بنیامین نتانیاهو، نخست‌وزیر، و رومان گوفمن، رئیس موساد، در آستانه انتخابات ۲۷ اکتبر پس از اطلاع‌رسانی اشتباهی به آمریکا متوقف شد.",
-   "body_fa": [
-    "به گزارش شبکه ۱۲ اسرائیل، مقامات ارشد امنیتی با این عملیات مخالفت کرده بودند، چرا که از خطر تشدید درگیری با ایران و به تعویق افتادن انتخابات بیم داشتند. با وجود ادامه مقدمات، اشتباه یک نیروی امنیتی در آگاه کردن واشنگتن موجب مداخله سریع آمریکا شد؛ هرچند دفتر نتانیاهو با رد این گزارش‌ها اعلام کرد که حمله پیش از انتخابات در دستور کار نبوده است.",
-    "این گزارش‌ها به دنبال تنش‌های قبلی میان نتانیاهو و ایال زمیر، رئیس ستاد کل ارتش، مطرح شد؛ فردی که در برابر اقداماتی که فرماندهان نظامی نگران بهره‌برداری سیاسی از موضوع ایران در آستانه انتخابات بودند، مقاومت کرده بود."
-   ],
-   "title_ar": "تسريب يكشف خطة نتنياهو ورئيس الموساد لمهاجمة إيران قبل الانتخابات الإسرائيلية",
-   "summary_ar": "أفادت وسائل إعلام إسرائيلية بأن خطة لشن عملية ضد إيران دبرها رئيس الوزراء بنيامين نتنياهو ورئيس الموساد رومان غوفمان قبيل انتخابات 27 أكتوبر أُحبطت بعد إخطار الولايات المتحدة عن طريق الخطأ.",
-   "body_ar": [
-    "وبحسب القناة 12 الإسرائيلية، عارض مسؤولون أمنيون كبار هذه الخطوة خشية أن تؤدي إلى تصعيد واسع مع إيران وتأجيل الانتخابات. ومع ذلك، استمرت الترتيبات حتى أبلغ عنصر أمني إسرائيلي واشنطن بالخطأ، مما دفعها للتدخل وإيقافها، في حين نفى مكتب نتنياهو ذلك مؤكداً أن شن هجوم قبل الانتخابات لم يكن مطروحاً.",
-    "وجاءت هذه التقارير عقب خلافات سابقة بين نتنياهو ورئيس أركان الجيش إيال زامير، الذي عارض العمليات العسكرية التي خشي قادة الجيش من محاولة استغلال الملف الإيراني من خلالها لتحقيق مكاسب سياسية."
-   ]
-  },
-  {
-   "id": "7108a19d6c87",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
-   "date": "2026-11-07T12:12:06Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Israel coalition talks gain momentum",
-   "title_en": "Israel coalition talks gain momentum",
-   "summary_en": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot expressed confidence that he will receive the mandate to form a government as President Isaac Herzog prepares to name the first nominee.",
-   "body_en": [
-    "Eisenkot stated that he is making headway in efforts aimed at replacing long-serving Prime Minister Benjamin Netanyahu."
-   ],
-   "title_fa": "مذاکرات ائتلافی در اسرائیل شتاب می‌گیرد",
-   "summary_fa": "در پی انتخابات نامشخص در اسرائیل، گادی آیزنکوت، نامزد اپوزیسیون، ابراز اطمینان کرد که مأموریت تشکیل کابینه را به دست خواهد آورد، در حالی که اسحاق هرتزوگ، رئیس‌جمهور، برای معرفی اولین گزینه آماده می‌شود.",
-   "body_fa": [
-    "آیزنکوت مدعی شده که در مسیر تلاش‌ها برای برکناری بنیامین نتانیاهو، نخست‌وزیر باسابقه، پیشرفت داشته است."
-   ],
-   "title_ar": "محادثات الائتلاف في إسرائيل تكتسب زخماً",
-   "summary_ar": "عقب انتخابات غير حاسمة في إسرائيل، أكد مرشح المعارضة غادي آيزنكوت ثقته في نيل تكليف تشكيل الحكومة، في حين يستعد الرئيس يتسحاق هرتسوغ لتسمية المرشح الأول.",
-   "body_ar": [
-    "وذكر آيزنكوت أنه يحرز تقدماً في المساعي الرامية إلى إزاحة رئيس الوزراء بنيامين نتنياهو الذي يشغل المنصب منذ فترة طويلة."
-   ]
-  },
-  {
-   "id": "10e7c1452b4a",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-   "date": "2026-11-07T11:59:26Z",
-   "countries": [
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-   "title_en": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-   "summary_en": "A missile strike on a market in Yemen's Taiz governorate killed and wounded dozens of people on Friday, as the offensive launched by the internationally recognized government against the Houthis reaches its first month.",
-   "body_en": [
-    "Government military forces attributed the market attack to the Iran-backed Houthis, calling it a war crime. The Houthis denied responsibility for the strike and instead blamed Saudi Arabia, which provides support to the Yemeni government coalition.",
-    "The attack comes amid the ongoing \"Dawn of Yemen\" military operation, initiated on October 5 by Rashad al-Alimi to dislodge Houthi control and reopen strategic corridors, including the Bab al-Mandeb strait. The intense fighting across multiple fronts has exacerbated Yemen's humanitarian situation, driving the displacement of over 323,000 people since August."
-   ],
-   "title_fa": "کوژران ده‌ها تن هم‌زمان با تشدید بحران انسانی در یمن؛ آینده جنگ چیست؟",
-   "summary_fa": "بر اثر اصابت یک موشک به بازاری در استان تعز یمن در روز جمعه، ده‌ها نفر کشته و زخمی شدند؛ این حادثه در حالی رخ داد که یک ماه از آغاز عملیات تهاجمی دولت به رسمیت شناخته‌شده یمن علیه حوثی‌ها می‌گذرد.",
-   "body_fa": [
-    "نیروهای نظامی دولتی مسئولیت حمله به این بازار را متوجه حوثی‌های مورد حمایت ایران دانسته و آن را جنایت جنگی خواندند. در مقابل، حوثی‌ها این اتهام را رد کرده و عربستان سعودی را که از ائتلاف دولت یمن حمایت می‌کند، مسئول این حمله دانستند.",
-    "این حمله در جریان ادامه عملیات نظامی «سپیده‌دم یمن» رخ داد که در ۵ اکتبر توسط رشاد العلیمی برای پایان دادن به تسلط حوثی‌ها و بازگشایی مسیرهای استراتژیک از جمله تنگه باب‌المندب آغاز شد. درگیری‌های شدید در جبهه‌های مختلف، بحران انسانی یمن را وخیم‌تر کرده و از ماه اوت تاکنون موجب آوارگی بیش از ۳۲۳ هزار نفر شده است."
-   ],
-   "title_ar": "مقتل العشرات مع تفاقم الأزمة الإنسانية في اليمن: ما الخطوة التالية في الحرب؟",
-   "summary_ar": "أسفر ضرب صاروخي استهدف سوقاً في محافظة تعز اليمنية يوم الجمعة عن مقتل وإصابة العشرات، وذلك مع مرور شهر على الهجوم الذي شنته الحكومة المعترف بها دولياً ضد الحوثيين.",
-   "body_ar": [
-    "واتهمت القوات الحكومية الحوثيين المدعومين من إيران بشن الهجوم على السوق، واصفة إياه بـ \"جريمة حرب\". وفي المقابل، نفى الحوثيون هذه الاتهامات وألقوا بالمسؤولية على السعودية التي تدعم التحالف الحكومي.",
-    "ويأتي هذا الهجوم في ظل استمرار عملية \"فجر اليمن\" العسكرية التي أطلقها رشاد العليمي في 5 أكتوبر لإضعاف نفوذ الحوثيين واستعادة الممرات الاستراتيجية مثل مضيق باب المندب. وقد أدت المواجهات المسلحة المكثفة عبر جبهات متعددة إلى تفاقم الأزمة الإنسانية في البلاد وتشريد أكثر من 323 ألف شخص منذ أغسطس."
-   ]
-  },
-  {
-   "id": "b552424f341c",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-claim-attack-houthi-positions-al-misrakh-while",
-   "date": "2026-11-07T11:33:04Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Yemeni government forces claim attack on Houthi positions in al-Misrakh, while Saudi attacks on Bani Hashih kill at least 15",
-   "title_en": "Yemeni government forces claim attack on Houthi positions in al-Misrakh, while Saudi attacks on Bani Hashih kill at least 15",
-   "summary_en": "Yemeni government forces claimed three airstrikes on Houthi positions in Taiz governorate, while Houthi media reported at least 15 people killed in Saudi strikes in Bani Hashish district.",
-   "body_en": [
-    "The claimed government strikes targeted Houthi positions in the al-Misrakh district of Taiz governorate. The government-held city of Taiz remains under an ongoing siege by the Houthis, which UN officials warn has pushed the health system to the brink of collapse and blocked essential food aid from reaching hundreds of thousands of residents.",
-    "Separately, Houthi media stated that Saudi strikes hit the al-Shariyah area in the Bani Hashish district, leaving at least 15 people dead—mostly women and children—and around 30 others wounded."
-   ],
-   "title_fa": "ادعای نیروهای دولتی یمن در مورد حمله به مواضع حوثی‌ها در المسراخ، هم‌زمان با کشته شدن دست‌کم ۱۵ نفر در حملات عربستان به بنی حشیش",
-   "summary_fa": "نیروهای دولتی یمن مدعی انجام سه حمله هوایی به مواضع حوثی‌ها در استان تعز شدند، در حالی که رسانه‌های حوثی از کشته شدن دست‌کم ۱۵ نفر در پی حملات عربستان به شهرستان بنی حشیش خبر دادند.",
-   "body_fa": [
-    "حملات ادعایی دولت، مواضع حوثی‌ها را در بخش المسراخ در استان تعز هدف قرار داد. شهر تعز که در کنترل دولت قرار دارد، همچنان تحت محاصره حوثی‌هاست؛ محاصره‌ای که مقام‌های سازمان ملل هشدار می‌دهند سیستم بهداشتی شهر را در آستانه فروپاشی قرار داده و مانع از رسیدن کمک‌های غذایی حیاتی به صدها هزار نفر شده است.",
-    "از سوی دیگر، رسانه‌های حوثی گزارش دادند که حملات عربستان به منطقه الشریعه در شهرستان بنی حشیش منجر به کشته شدن دست‌کم ۱۵ نفر—که بیشتر آن‌ها زن و کودک بودند—و زخمی شدن حدود ۳۰ نفر دیگر شده است."
-   ],
-   "title_ar": "القوات الحكومية اليمنية تعلن شن هجمات على مواقع للحوثيين في المسراخ، بينما أسفرت ضربات سعودية على بني حشيش عن مقتل 15 شخصاً على الأقل",
-   "summary_ar": "أعلنت القوات الحكومية اليمنية تنفيذ ثلاث ضربات جوية على مواقع للحوثيين في محافظة تعز، في حين أفاد إعلام الحوثيين بمقتل 15 شخصاً على الأقل في غارات سعودية على مديرية بني حشيش.",
-   "body_ar": [
-    "استهدفت الضربات الحكومية المعلن عنها مواقع للحوثيين في مديرية المسراخ بمحافظة تعز. وتخضع مدينة تعز التي تسيطر عليها الحكومة لحصار مستمر من قبل الحوثيين، حيث حذر مسؤولون في الأمم المتحدة من أنه يقرّب المنظومة الصحية من الانهيار ويمنع وصول المساعدات الغذائية الحيوية لمئات الآلاف.",
-    "وعلى صعيد آخر، أفادت وسائل إعلام تابعة للحوثيين بأن غارات سعودية استهدفت منطقة الشريعة في مديرية بني حشيش، مما أسفر عن مقتل 15 شخصاً على الأقل، معظمهم من النساء والأطفال، وإصابة نحو 30 آخرين."
-   ]
-  },
-  {
-   "id": "ff0eea51cee9",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-   "date": "2026-11-07T08:45:36Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-   "title_en": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-   "summary_en": "US President Donald Trump has alternated between threatening further attacks on Iran and claiming that negotiations are progressing following Republican losses in the midterm elections. Meanwhile, US forces conducted strikes on Qeshm Island, and Iran began distributing iodine tablets around its nuclear facilities amid escalating tensions.",
-   "body_en": [
-    "Following Republican midterm defeats linked partly to the war, Trump threatened that the US might destroy the rest of Iran, while also stating that talks were underway and progress was being made. On Friday, US forces conducted what Washington described as minor strikes against air defence systems on Qeshm Island, where Iranian media confirmed two missile impacts and stated that an American MQ-9 drone had been intercepted.",
-    "Reports indicate Iranian authorities are distributing iodine tablets to protect residents near facilities such as the Bushehr plant, as concerns mount over possible strikes on sites including Pickaxe Mountain. Analysts note that Trump faces intense domestic political pressure, while Iran continues to demand the lifting of sanctions and the end of naval blockades before reopening the Strait of Hormuz."
-   ],
-   "title_fa": "آیا ترامپ با ورود ایران به «جنگ شناختی» دوباره به سایت‌های هسته‌ای حمله خواهد کرد؟",
-   "summary_fa": "دونالد ترامپ، رئیس‌جمهور ایالات متحده، در پی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای، مواضع متناقضی میان تهدید به نابودی بخش‌های دیگری از ایران و ادعای پیشرفت در مذاکرات اتخاذ کرده است. در همین حال، نیروهای آمریکایی حملاتی را به جزیره قشم انجام دادند و ایران هم‌زمان با تشدید تنش‌ها توزیع قرص‌های ید را در اطراف تأسیسات هسته‌ای خود آغاز کرده است.",
-   "body_fa": [
-    "در پی شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای که بخشی از آن به نارضایتی از جنگ نسبت داده شده، ترامپ تهدید کرد که آمریکا ممکن است باقی‌مانده ایران را نابود کند، اما هم‌زمان اعلام کرد که گفتگوها در جریان است و پیشرفت حاصل شده است. روز جمعه، نیروهای آمریکایی حملاتی را به سامانه‌های پدافند هوایی در جزیره قشم انجام دادند؛ در حالی که رسانه‌های ایرانی اصابت دو موشک به این جزیره و همچنین سرنگونی یک پهپاد ام‌کیو-۹ آمریکایی را گزارش کردند.",
-    "بر اساس گزارش‌ها، مقامات ایرانی توزیع قرص‌های ید را برای محافظت از ساکنان مناطق نزدیک به تأسیساتی همچون نیروگاه بوشهر آغاز کرده‌اند، زیرا نگرانی‌ها از احتمال حمله به مراکزی چون کوه کلنگ افزایش یافته است. به گفته تحلیل‌گران، ترامپ با فشارهای شدید سیاسی در داخل روبه‌رو است، در حالی که ایران بازگشایی تنگه هرمز را به لغو تحریم‌ها و پایان محاصره دریایی مشروط کرده است."
-   ],
-   "title_ar": "هل يضرب ترامب المواقع النووية مجدداً مع خوض إيران «حرباً إدراكية»؟",
-   "summary_ar": "تأرجحت تصريحات الرئيس الأمريكي دونالد ترامب بين التهديد بشن مزيد من الضربات ضد إيران والحديث عن إحراز تقدم في المفاوضات عقب هزيمة الجمهوريين في انتخابات التجديد النصفي. في غضون ذلك، شنت القوات الأمريكية ضربات على جزيرة قشم، وبدأت إيران بتوزيع أقراص اليود بالقرب من منشآتها النووية وسط تصاعد التوتر.",
-   "body_ar": [
-    "في أعقاب هزيمة الجمهوريين في التجديد النصفي والتي عُزيت جزئياً إلى الحرب، هدد ترامب بإمكانية تدمير ما تبقى من إيران، مؤكداً في الوقت ذاته أن المحادثات جارية وأن تقدماً قد أُحرز. ونفذت القوات الأمريكية يوم الجمعة ضربات وصفتها بالطفيفة ضد أنظمة دفاع جوي في جزيرة قشم، بينما أفادت وسائل إعلام إيرانية بسقوط صاروخين في الجزيرة واعتراض طائرة مسيرة أمريكية من طراز إم كيو-9.",
-    "وتشير التقارير إلى أن السلطات الإيرانية وزعت أقراص اليود لحماية السكان قرب منشآت نووية مثل محطة بوشهر، وسط مخاوف من ضربات قد تستهدف مواقع محصنة مثل جبل بيكاكس. ويوضح محللون أن ترامب يواجه ضغوطاً سياسية داخلية متزايدة، بينما تتمسك إيران بمطالبها لرفع العقوبات وإنهاء الحصار البحري قبل إعادة فتح مضيق هرمز."
-   ]
-  },
-  {
-   "id": "d01f5b42d42d",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-   "date": "2026-11-07T07:10:37Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "score": 8,
-   "title": "Qatari PM says US willing to seek solution to war with Iran",
-   "title_en": "Qatari PM says US willing to seek solution to war with Iran",
-   "summary_en": "Qatari Prime Minister Mohammed bin Abdulrahman Al Thani said the United States remains willing to pursue a solution to the conflict with Iran. He noted this stance persists despite shifts in Washington's political landscape following the midterm elections.",
-   "body_en": [],
-   "title_fa": "نخست‌وزیر قطر: آمریکا مایل به یافتن راه‌حلی برای جنگ با ایران است",
-   "summary_fa": "محمد بن عبدالرحمن آل ثانی، نخست‌وزیر قطر، اعلام کرد ایالات متحده همچنان مایل به پیگیری راه‌حلی برای درگیری با ایران است. وی اشاره کرد که این موضع علی‌رغم دگرگونی فضای سیاسی در واشینگتن پس از انتخابات میان‌دوره‌ای پابرجا مانده است.",
-   "body_fa": [],
-   "title_ar": "رئيس وزراء قطر يقول إن الولايات المتحدة مستعدة للبحث عن حل للحرب مع إيران",
-   "summary_ar": "صرح رئيس الوزراء القطري محمد بن عبد الرحمن آل ثاني بأن الولايات المتحدة لا تزال راغبة في التوصل إلى حل للصراع مع إيران. وأشار إلى أن هذا الموقف مستمر على الرغم من التغيرات التي طرأت على المشهد السياسي في واشنطن بعد انتخابات التجديد النصفي.",
-   "body_ar": []
-  },
-  {
-   "id": "6da1f10b9d2e",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-   "date": "2026-11-07T07:00:04Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "score": 9,
-   "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-   "title_en": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-   "summary_en": "Qatar has proposed a phased plan under which the United States would lift its naval blockade and unfreeze Iranian assets in exchange for Iran permitting UN nuclear inspections and reopening the Strait of Hormuz.",
-   "body_en": [
-    "Under the proposal discussed between Qatari Emir Sheikh Tamim bin Hamad al-Thani and US President Donald Trump, Washington would immediately lift its naval blockade in the Strait of Hormuz and unfreeze part of $8 billion in Iranian assets. In return, International Atomic Energy Agency inspectors would be allowed to visit bombed Iranian nuclear sites based on an agreement reached in Cairo in September 2025.",
-    "Iran would reopen the Strait of Hormuz on the second day via a route negotiated with Oman and submitted to the International Maritime Organization. Tehran continues to seek additional conditions, including an end to the war in Lebanon, the withdrawal of US forces from its coastline, sanctions relief, and war reparations."
-   ],
-   "title_fa": "تنگه هرمز می‌تواند در قالب طرح قطر برای بازرسی‌های هسته‌ای ایران بازگشایی شود",
-   "summary_fa": "قطر طرحی مرحله‌ای پیشنهاد کرده است که بر اساس آن ایالات متحده محاصره دریایی را لغو کرده و دارایی‌های بلوکه‌شده ایران را آزاد می‌کند در ازای آنکه ایران اجازه بازرسی‌های هسته‌ای سازمان ملل را داده و تنگه هرمز را بازگشایی کند.",
-   "body_fa": [
-    "طبق این پیشنهاد که در گفتگو میان شیخ تمیم بن حمد آل ثانی، امیر قطر، و دونالد ترامپ، رئیس‌جمهور آمریکا، مطرح شد، واشنگتن محاصره دریایی خود در تنگه هرمز را بلافاصله لغو کرده و بخشی از ۸ میلیارد دلار دارایی‌های بلوکه‌شده ایران را آزاد می‌کند. در مقابل، به بازرسان آژانس بین‌المللی انرژی اتمی اجازه داده می‌شود بر اساس توافق سپتامبر ۲۰۲۵ قاهره از سایت‌های هسته‌ای بمباران‌شده ایران بازدید کنند.",
-    "ایران در روز دوم، تنگه هرمز را از طریق مسیری که با عمان مذاکره کرده و به سازمان بین‌المللی دریانوردی ارائه می‌شود، بازگشایی خواهد کرد. با این حال، تهران همچنان خواستار شروط دیگری از جمله پایان جنگ در لبنان، خروج نیروهای آمریکایی از خطوط ساحلی خود، لغو تحریم‌ها و پرداخت غرامت جنگی است."
-   ],
-   "title_ar": "إمكانية إعادة فتح مضيق هرمز كجزء من خطة قطرية للتفتيش على النووي الإيراني",
-   "summary_ar": "اقترحت قطر خطة مرحلية تقوم بموجبها الولايات المتحدة برفع الحظر البحري وإلغاء تجميد الأصول الإيرانية مقابل سماح إيران بالتفتيش النووي للأمم المتحدة وإعادة فتح مضيق هرمز.",
-   "body_ar": [
-    "بموجب المقترح الذي ناقشه أمير قطر الشيخ تميم بن حمد آل ثاني مع الرئيس الأمريكي دونالد ترامب، سترفع واشنطن حظرها البحري في مضيق هرمز فوراً وتفرج عن جزء من الأصول الإيرانية المجمدة البالغة 8 مليارات دولار. في المقابل، يُسمح لمفتشي الوكالة الدولية للطاقة الذرية بزيارة المواقع النووية الإيرانية التي تعرضت للقصف بناءً على اتفاق القاهرة المبرم في سبتمبر 2025.",
-    "وتقوم إيران بإعادة فتح مضيق هرمز في اليوم الثاني عبر مسار تم التفاوض عليه مع عمان وإيداعه لدى المنظمة البحرية الدولية. وتواصل تهران المطالبة بشروط إضافية تشتمل على إنهاء الحرب في لبنان، وانسحاب القوات الأمريكية من سواحلها، ورفع العقوبات الاقتصادية، ودفع تعويضات الحرب."
-   ]
-  },
-  {
-   "id": "b7c61e795e92",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-foreign-minister-discusses-de-escalation-saudi-uae-kuwaiti",
-   "date": "2026-11-07T06:18:22Z",
-   "countries": [
-    "ARE",
-    "EGY",
-    "KWT",
-    "SAU"
-   ],
-   "score": 7,
-   "title": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts",
-   "title_en": "Egypt's foreign minister discusses 'de-escalation' with Saudi, UAE, Kuwaiti counterparts",
-   "summary_en": "Egyptian Foreign Minister Badr Abdelatty held talks with his counterparts from Saudi Arabia, the UAE, and Kuwait to discuss joint efforts for de-escalation and diplomacy in the region.",
-   "body_en": [
-    "Abdelatty stated that his discussion with Saudi Foreign Minister Prince Faisal bin Farhan focused on sustaining joint efforts to prevent escalation and pursue negotiations. In separate calls with the foreign ministers of the UAE and Kuwait, he emphasized reducing tensions, prioritizing diplomacy, and restoring calm.",
-    "In a statement on social media, Abdelatty also noted discussions with the European High Representative regarding strategic partnership, regional de-escalation, advancing negotiations, and implementing the Gaza peace plan."
-   ],
-   "title_fa": "گفتگوی وزیر امور خارجه مصر با همتایان سعودی، اماراتی و کویتی خود درباره «کاهش تنش»",
-   "summary_fa": "بدر عبدالعاطی، وزیر امور خارجه مصر، با همتایان خود از عربستان سعودی، امارات متحده عربی و کویت در مورد تلاش‌های مشترک برای کاهش تنش و پیشبرد دیپلماسی گفتگو کرد.",
-   "body_fa": [
-    "عبدالعاطی اعلام کرد که در گفتگو با امیر فیصل بن فرحان، وزیر امور خارجه عربستان، بر تداوم تلاش‌های مشترک برای جلوگیری از افزایش تنش و پیگیری مسیر مذاکرات تاکید کرده است. وی در تماس‌های تلفنی جداگانه با وزرای خارجه امارات و کویت نیز بر کاهش تنش‌ها، اولویت دادن به دیپلماسی و بازگرداندن آرامش تاکید نمود.",
-    "عبدالعاطی همچنین در پیامی در شبکه اجتماعی اکس اشاره کرد که با نماینده عالی اتحادیه اروپا درباره مشارکت راهبردی، تلاش‌ها برای کاهش تنش، پیشبرد مذاکرات و اجرای طرح صلح غزه گفتگو کرده است."
-   ],
-   "title_ar": "وزير الخارجية المصري يناقش \"خفض التصعيد\" مع نظرائه في السعودية والإمارات والكويت",
-   "summary_ar": "أجرى وزير الخارجية المصري بدر عبد العاطي محادثات مع نظرائه في السعودية والإمارات والكويت لبحث الجهود المشتركة لخفض التصعيد ودعم الحلول الدبلوماسية.",
-   "body_ar": [
-    "وذكر عبد العاطي أنه ناقش مع وزير الخارجية السعودي الأمير فيصل بن فرحان أهمية استمرار الجهود المشتركة لمنع التصعيد والتمسك بمصار المفاوضات. كما شدد خلال اتصالات هاتفية مع نظيريه الإماراتي والكويتي على ضرورة خفض التوتر وإعطاء الأولوية للدبلوماسية واستعادة الهدوء.",
-    "وفي منشور له على منصة إكس، أشار عبد العاطي أيضاً إلى أنه بحث مع الممثل الأعلى للاتحاد الأوروبي الشراكة الاستراتيجية وجهود خفض التصعيد ودفع المفاوضات وتنفيذ خطة السلام في غزة."
-   ]
-  },
-  {
-   "id": "bd2525dc963e",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-forces-destroy-houthi-missile-over-riyadh-region",
-   "date": "2026-11-07T05:44:29Z",
-   "countries": [
-    "SAU",
-    "YEM"
-   ],
-   "score": 8,
-   "title": "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
-   "title_en": "Saudi-led coalition forces destroy Houthi missile over Riyadh region",
-   "summary_en": "Saudi-led coalition forces intercepted and destroyed a cruise missile launched by the Houthis toward the Riyadh region, according to coalition spokesperson Major General Turki al-Malki.",
-   "body_en": [
-    "Major General Turki al-Malki stated in a post on X that the coalition intercepted and destroyed the incoming Houthi cruise missile targeting the area."
-   ],
-   "title_fa": "نیروهای ائتلاف به رهبری عربستان یک موشک حوثی‌ها را بر فراز منطقه ریاض منهدم کردند",
-   "summary_fa": "به گفته سرلشکر ترکی المالکی، سخنگوی نیروهای ائتلاف، نیروهای ائتلاف به رهبری عربستان یک موشک کروز پرتاب‌شده از سوی حوثی‌ها به سمت منطقه ریاض را رهگیری و منهدم کردند.",
-   "body_fa": [
-    "سرلشکر ترکی المالکی در پستی در شبکه اجتماعی ایکس اعلام کرد که ائتلاف موفق شده است این موشک کروز شلیک‌شده به سمت این منطقه را رهگیری و منهدم کند."
-   ],
-   "title_ar": "قوات التحالف بقيادة السعودية تدمر صاروخاً حوثياً فوق منطقة الرياض",
-   "summary_ar": "أعلنت قوات التحالف بقيادة السعودية اعتراض وتدمير صاروخ كروز أطلقه الحوثيون باتجاه منطقة الرياض، وفق ما صرح به المتحدث باسم القوات اللواء تركي المالكي.",
-   "body_ar": [
-    "وأوضح اللواء تركي المالكي في منشور على منصة إكس أن قوات التحالف تمكنت من اعتراض وتدمير الصاروخ الذي استهدف المنطقة."
-   ]
-  },
-  {
-   "id": "d0e3111bb327",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-not-allow-us-rebuild-bases-region-army-spokesman-says",
-   "date": "2026-11-07T05:32:18Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Iran will not allow US bases in the region to be rebuilt, army spokesman says",
-   "title_en": "Iran will not allow US bases in the region to be rebuilt, army spokesman says",
-   "summary_en": "Iranian Army Spokesman Brigadier General Mohammad Akraminia stated that Iran will prevent US military bases in the region from being rebuilt.",
-   "body_en": [
-    "According to Iran's Fars news agency, Akraminia claimed that more than 228 facilities or locations at American bases throughout the region suffered severe damage or destruction. He added that no US base in the area remains operational, forcing American forces to bring in personnel supplies and vessel fuel from outside the region."
-   ],
-   "title_fa": "سخنگوی ارتش: ایران اجازه بازسازی پایگاه‌های آمریکا در منطقه را نخواهد داد",
-   "summary_fa": "سرتیپ محمد اکرمینیا، سخنگوی ارتش ایران، اعلام کرد که ایران اجازه نخواهد داد پایگاه‌های نظامی آمریکا در منطقه بازسازی شوند.",
-   "body_fa": [
-    "به گزارش خبرگزاری فارس، اکرمینیا ادعا کرد که بیش از ۲۲۸ مکان یا تاسیسات در پایگاه‌های آمریکایی در سراسر منطقه دچار آسیب جدی یا نابودی شده‌اند. وی افزود که هیچ پایگاه آمریکایی در منطقه قادر به انجام ماموریت‌های عملیاتی نیست و نیروهای آمریکایی مجبور شده‌اند سوخت شناورها و جیره‌های پرسنل را از خارج از منطقه تامین کنند."
-   ],
-   "title_ar": "المتحدث باسم الجيش: إيران لن تسمح بإعادة بناء القواعد الأمريكية في المنطقة",
-   "summary_ar": "صرح المتحدث باسم الجيش الإيراني العميد محمد أكرمينيا بأن إيران لن تسمح بإعادة بناء القواعد العسكرية الأمريكية في المنطقة.",
-   "body_ar": [
-    "وفقاً لوكالة فارس الإيرانية للأنباء، ادعى أكرمينيا أن أكثر من 228 موقعاً أو منشأة في القواعد الأمريكية في جميع أنحاء المنطقة تعرضت لأضرار جسيمة أو تدمير. وأضاف أنه لم تعد أي قاعدة أمريكية في المنطقة صالحة للعمليات، مما يجبر القوات الأمريكية على جلب الوقود لسفنها والإمدادات لموظفيها من خارج المنطقة."
-   ]
-  },
-  {
-   "id": "7afa583ecee2",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2042798/iran-says-forces-stronger-than-at-beginning-of-war",
-   "date": "2026-11-07T05:29:51Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Iran says forces ‘stronger’ than at beginning of war",
-   "title_en": "Iran says forces ‘stronger’ than at beginning of war",
-   "summary_en": "An Iranian military spokesman stated that the country's armed forces have become stronger and more alert through direct confrontation with the US and Israel, maintaining that the Strait of Hormuz will remain closed until Tehran's demands are met.",
-   "body_en": [
-    "Iranian army spokesman Mohammad Akraminia told state news agency IRNA that Iranian forces possess enhanced motivation and self-confidence after months of conflict. He added that any response ordered by Supreme Leader Ali Khamenei would be immediate and without geographical limits.",
-    "The statement comes alongside Iranian reports of explosions on Qeshm Island and claims by the Iranian military that its air defenses shot down a US drone in the area. Meanwhile, US President Donald Trump noted that Iran is eager for a deal, following a phone call with Qatari Emir Sheikh Tamim bin Hamad Al Thani regarding peace efforts."
-   ],
-   "title_fa": "ایران می‌گوید نیروهایش «قوی‌تر» از آغاز جنگ هستند",
-   "summary_fa": "سخنگوی ارتش ایران اعلام کرد نیروهای مسلح کشور از طریق رویارویی مستقیم با آمریکا و اسرائیل قوی‌تر و هوشیارتر شده‌اند و تاکید کرد تنگه هرمز تا زمان برآورده شدن خواسته‌های تهران بسته خواهد ماند.",
-   "body_fa": [
-    "محمد اکرمی‌نیا، سخنگوی ارتش ایران، به خبرگزاری دولتی ایرنا گفت نیروهای ایرانی پس از ماه‌ها درگیری از انگیزه و اعتمادبه‌نفس بالاتری برخوردارند. وی افزود هرگونه پاسخ به دستور علی خامنه‌ای، رهبر معظم، فوری و بدون محدودیت جغرافیایی خواهد بود.",
-    "این اظهارات هم‌زمان با گزارش‌های ایران درباره وقوع انفجارها در جزیره قشم و ادعای ارتش ایران مبنی بر سرنگونی یک پهپاد آمریکایی توسط پدافند هوایی در این منطقه مطرح می‌شود. در همین حال، دونالد ترامپ، رئیس‌جمهور آمریکا، پس از تماس تلفنی با شیخ تمیم بن حمد آل ثانی، امیر قطر، درباره تلاش‌های صلح، اشاره کرد که ایران مشتاق توافق است."
-   ],
-   "title_ar": "إيران تقول إن قواتها \"أقوى\" مما كانت عليه في بداية الحرب",
-   "summary_ar": "صرح متحدث باسم الجيش الإيراني بأن القوات المسلحة للبلاد أصبحت أقوى وأكثر تأهباً من خلال المواجهة المباشرة مع الولايات المتحدة وإسرائيل، مؤكداً أن مضيق هرمز سيبقى مغلقاً حتى تلبية مطالب تهران.",
-   "body_ar": [
-    "صرح متحدث الجيش الإيراني محمد أكرمينيا لوكالة الأنباء الرسمية إرنا بأن القوات الإيرانية تمتلك دافعية وثقة بالنفس أعلى بعد أشهر من الصراع. وأضاف أن أي رد بأمر من المرشد الأعلى علي خامنئي سيكون فورياً ودون حدود جغرافية.",
-    "تأتي هذه التصريحات بالتزامن مع تقارير إيرانية عن وقوع انفجارات في جزيرة قشم وإعلان الجيش الإيراني إسقاط دفاعاته الجوية لطائرة مسيرة أمريكية في المنطقة. من جهته، أشار الرئيس الأمريكي دونالد ترامب إلى أن إيران حريصة على التوصل إلى اتفاق، عقب اتصال هاتفي مع أمير قطر الشيخ تميم بن حمد آل ثاني بشأن جهود السلام."
-   ]
-  },
-  {
-   "id": "853c9ccd2c08",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
-   "date": "2026-11-07T05:12:15Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
-   "title_en": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
-   "summary_en": "The US Department of State's Rewards for Justice program is offering up to $20 million and potential relocation for information regarding Iran's nuclear program, CENTCOM announced.",
-   "body_en": [
-    "According to US Central Command, the reward program targets details about Iranian nuclear facilities, equipment, and associated personnel such as scientists. The State Department stated that Iran's non-compliance with IAEA safeguards led to a loss of key monitoring capabilities regarding centrifuge production and inventory.",
-    "President Donald Trump reiterated that Tehran is eager to reach a deal to conclude the eight-month war, noting that Iran's economy and military have been severely damaged. Meanwhile, Iranian President Masoud Pezeshkian confirmed his administration continues to pursue a diplomatic solution to the crisis."
-   ],
-   "title_fa": "سنتکام: ایالات متحده برای اطلاعات درباره «برنامه هسته‌ای ایران» ۲۰ میلیون دلار پاداش تعیین کرد",
-   "summary_fa": "فرماندهی مرکزی آمریکا (سنتکام) اعلام کرد برنامه پاداش برای عدالت وزارت امور خارجه ایالات متحده تا ۲۰ میلیون دلار پاداش و احتمال جابه‌جایی برای اطلاعات مربوط به برنامه هسته‌ای ایران پیشنهاد می‌کند.",
-   "body_fa": [
-    "به گفته فرماندهی مرکزی آمریکا، این برنامه پاداش شامل جزئیات مربوط به تأسیسات، تجهیزات و پرسنل مرتبط مانند دانشمندان هسته‌ای ایران می‌شود. وزارت امور خارجه آمریکا اعلام کرد عدم پایبندی ایران به پادمان‌های آژانس بین‌المللی انرژی اتمی باعث از دست رفتن قابلیت‌های کلیدی نظارتی در مورد تولید و موجودی سانتریفیوژها شده است.",
-    "دونالد ترامپ، رئیس‌جمهور آمریکا، تکرار کرد که تهران پس از آسیب‌های شدید اقتصادی و نظامی در طول هشت ماه جنگ، تمایل زیادی برای دستیابی به توافق دارد. در همین حال، مسعود پزشکیان، رئیس‌جمهور ایران، تأیید کرد که دولتش همچنان به دنبال حل بحران از طریق گفتگو است."
-   ],
-   "title_ar": "سنتكوم: الولايات المتحدة تقدم پاداشاً بقيمة 20 مليون دولار مقابل معلومات عن \"البرنامج النووي الإيراني\"",
-   "summary_ar": "أعلنت القيادة المركزية الأمريكية (سنتكوم) أن برنامج \"مكافآت من أجل العدالة\" التابع لوزارة الخارجية الأمريكية يقدم مكافأة تصل إلى 20 مليون دولار وإمكانية إعادة التوطين مقابل معلومات تتعلق بالبرنامج النووي الإيراني.",
-   "body_ar": [
-    "وفقاً للقيادة المركزية الأمريكية، يستهدف برنامج المكافآت التفاصيل المتعلقة بالمنشآت والمعدات والكوادر المرتبطة بالبرنامج النووي الإيراني مثل العلماء. وذكرت وزارة الخارجية أن عدم التزام إيران بضمانات الوكالة الدولية للطاقة الذرية أدى إلى فقدان القدرة على متابعة إنتاج أجهزة الطرد المركزي ومخزونها.",
-    "وجدد الرئيس دونالد ترامب تأكيده أن تهران حريصة على التوصل إلى صفقة لإنهاء الحرب المستمرة منذ ثمانية أشهر، مشيراً إلى تعرض اقتصادها وجيشها لأضرار جسيمة. وفي الوقت نفسه، أكد الرئيس الإيراني مسعود بزشكيان أن حكومته ما زالت تسعى لحل الأزمة عبر الحوار."
-   ]
-  },
-  {
-   "id": "ccbb949a8cd3",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-   "date": "2026-11-07T04:50:46Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-   "title_en": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-   "summary_en": "The United States has imposed sanctions on eight Canadian currency-exchange businesses accused of helping Iranian entities circumvent financial restrictions.",
-   "body_en": [
-    "The US Department of the Treasury announced the measures as part of Operation Economic Outcast, stating that some of the firms also laundered proceeds by converting currencies into digital assets. The sanctions cut the businesses off from the US financial system and froze their American assets.",
-    "The Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) stated that it worked with the US Financial Crimes Enforcement Network (FinCEN) to impose the sanctions against the money service businesses based in Ontario and British Columbia."
-   ],
-   "title_fa": "خزانه داری ایالات متحده هشت شرکت صرافی کانادایی را به دلیل ارتباط با ایران تحریم کرد",
-   "summary_fa": "ایالات متحده هشت صرافی کانادایی را به اتهام کمک به نهادهای ایرانی برای دور زدن تحریم‌های مالی تحت تحریم قرار داد.",
-   "body_fa": [
-    "وزارت خزانه‌داری ایالات متحده این اقدامات را به عنوان بخشی از عملیات طرد اقتصادی اعلام کرد و اظهار داشت که برخی از این شرکت‌ها همچنین با تبدیل ارزها به دارایی‌های دیجیتال، عواید حاصل را پولشویی کرده‌اند. این تحریم‌ها این کسب‌وکارها را از سیستم مالی ایالات متحده قطع و دارایی‌های آمریکایی آن‌ها را مسدود کرد.",
-    "مرکز تجزیه و تحلیل معاملات مالی و گزارش‌های کانادا (FINTRAC) اعلام کرد که با شبکه اجرای جرایم مالی ایالات متحده (FinCEN) برای اعمال تحریم‌ها علیه این کسب‌وکارهای خدمات پولی مستقر در انتاریو و بریتیش کلمبیا همکاری کرده است."
-   ],
-   "title_ar": "وزارة الخزانة الأمريكية تفرض عقوبات على ثرمز شركة صرافة كندية بسبب ارتباطها بإیران",
-   "summary_ar": "فرضی الولايات المتحدة عقوبات على ثرمز شركات صرافة كندية متهمة بمساعدة كيانات إيرانية على التحايل على القيود المالية.",
-   "body_ar": [
-    "أعلنت وزارة الخزانة الأمريكية عن هذه الإجراءات كجزء من عملية المنبوذ الاقتصادي، مشيرة إلى أن بعض الشركات قامت أيضاً بغسل الأموال عن طريق تحويل العملات إلى أصول رقمية. وأدت العقوبات إلى قطع هذه الشركات عن النظام المالي الأمريكي وتجميد أصولها الأمريكية.",
-    "صرح مركز تحليل المعاملات والتقارير المالية في كندا (FINTRAC) بأنه تعاون مع شبكة إنفاذ جرائم الممال المالية الأمريكية (FinCEN) لفرض العقوبات ضد شركات خدمات تحويل الأموال ومقرها في أونتاريو وكولومبيا البريطانية."
-   ]
-  },
-  {
-   "id": "87f3033a5d18",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
-   "date": "2026-11-07T04:20:23Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
-   "title_en": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
-   "summary_en": "US President Donald Trump announced a minor military strike that destroyed a newly built Iranian anti-aircraft system, as Iran evaluates a Qatari proposal to resolve nuclear disputes and end the war.",
-   "body_en": [
-    "US forces struck an air defense target in the Suza area of Qeshm Island on Friday, with President Donald Trump characterizing the action as minor and completed quickly. Iranian state media confirmed explosions in the area. The strike represents the first US action against Iran since the US midterm elections.",
-    "Simultaneously, Iranian officials are reviewing trust-building proposals presented by Qatar. The two-day framework involves lifting the US blockade and unfreezing assets in exchange for allowing IAEA inspections at damaged nuclear facilities and reopening the Strait of Hormuz, before proceeding to broader talks."
-   ],
-   "title_fa": "حملات هدفمند جدید ارتش آمریکا به ایران در حال بررسی پیشنهادات میانجی توسط تهران",
-   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، از یک حمله نظامی محدود خبر داد که طی آن یک سیستم پدافند هوایی تازه ساخته‌شده ایران منهدم شد، هم‌زمان با اینکه ایران در حال بررسی پیشنهاد قطر برای حل اختلافات هسته‌ای و پایان دادن به جنگ است.",
-   "body_fa": [
-    "نیروهای آمریکایی روز جمعه یک هدف پدافند هوایی را در منطقه سوزا در جزیره قشم هدف قرار دادند و دونالد ترامپ این اقدام را جزئی و سریع خواند. رسانه‌های دولتی ایران وقوع انفجارها در این منطقه را تأیید کردند. این نخستین حمله آمریکا به ایران پس از انتخابات میان‌دوره‌ای آمریکا محسوب می‌شود.",
-    "هم‌زمان، مقامات ایرانی در حال بررسی پیشنهادات اعتمادساز ارائه شده از سوی قطر هستند. این چارچوب دو روزه شامل لغو محاصره آمریکا و آزادکنی دارایی‌ها در ازای اجازه بازرسی‌های آژانس از تأسیسات آسیب‌دیده و بازگشایی تنگه هرمز، پیش از ورود به مذاکرات گسترده‌تر است."
-   ],
-   "title_ar": "الجيش الأمريكي ينفذ ضربات جديدة مستهدفة في إيران بينما تدرس تهران مقترحات الوسيط",
-   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب عن ضربة عسكرية محدودة دمرت نظاماً إيرانياً مضاداً للطائرات تم بناؤه حديثاً، في وقت تدرس فيه إيران مقترحاً قطرياً لحل الخلافات النووية وإنهاء الحرب.",
-   "body_ar": [
-    "استهدفت القوات الأمريكية هدفاً للدفاع الجوي في منطقة سوزا بجزيرة قشم يوم الجمعة، ووصف الرئيس دونالد ترامب العمل العسكري بأنه بسيط وتم بسرعة. وأكدت وسائل الإعلام الرسمية الإيرانية سماع دوى انفجارات في المنطقة. وتعد هذه الضربات الأولى منذ انتخابات المنتصف الأمريكية.",
-    "في الوقت نفسه، يدرس المسؤولون الإيرانيون مقترحات لبناء الثقة قدمتها قطر. ويتضمن الإطار الزمني الممتد ليومين رفع الحظر الأمريكي وإلغاء تجميد الأصول مقابل السماح بتفتيش الوكالة الدولية للطاقة الذرية للمنشآت النووية المتضررة وإعادة فتح مضيق هرمز، قبل الانتقال إلى محادثات أوسع."
-   ]
-  },
-  {
-   "id": "28a840ef261a",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-urges-citizens-across-middle-east-exercise-heightened-caution",
-   "date": "2026-11-07T03:10:33Z",
-   "countries": [
-    "IRN",
-    "YEM"
-   ],
-   "score": 7,
-   "title": "US urges citizens across Middle East to exercise 'heightened caution'",
-   "title_en": "US urges citizens across Middle East to exercise 'heightened caution'",
-   "summary_en": "The United States Department of State has issued security alerts urging American citizens in the Middle East to exercise heightened vigilance due to potential regional threats.",
-   "body_en": [
-    "According to an alert published by the State Department, Americans in the region face an increased risk of armed attacks by Houthis as well as Iranian efforts targeting US officials. The notice advised travelers to prepare for possible flight cancellations, travel disruptions, and closures of airspace.",
-    "The security warnings were issued by the State Department and multiple US diplomatic missions for countries across the region, including Israel, Saudi Arabia, Qatar, Jordan, Iraq, Bahrain, Kuwait, Oman, the UAE, Lebanon, and Iran."
-   ],
-   "title_fa": "آمریکا از شهروندان خود در سراسر خاورمیانه خواست «احتیاط بیشتری» به خرج دهند",
-   "summary_fa": "وزارت امور خارجه ایالات متحده با انتشار هشدارهای امنیتی از شهروندان آمریکایی در خاورمیانه خواست به دلیل تهدیدات منطقه‌ای هوشیاری بیشتری داشته باشند.",
-   "body_fa": [
-    "بر اساس هشدار منتشرشده از سوی وزارت امور خارجه آمریکا، آمریکایی‌های حاضر در منطقه با افزایش خطر حملات مسلحانه از سوی حوثی‌ها و همچنین تلاش‌های ایران برای هدف قرار دادن مقامات آمریکایی مواجه هستند. این هشدار از مسافران خواسته است برای لغو احتمالی پروازها، اختلال در سفرها و بسته‌شدن حریم هوایی آماده باشند.",
-    "این هشدارهای امنیتی توسط وزارت امور خارجه و سفارتخانه‌ها و نمایندگی‌های مختلف ایالات متحده برای کشورهای منطقه از جمله اسرائیل، عربستان سعودی، قطر، اردن، عراق، بحرین، کویت، عمان، امارات متحده عربی، لبنان و ایران صادر شده است."
-   ],
-   "title_ar": "الولايات المتحدة تحث مواطنيها في الشرق الأوسط على ممارسة \"حذر شديد\"",
-   "summary_ar": "حثت وزارة الخارجية الأمريكية المواطنين الأمريكيين في الشرق الأوسط على ممارسة أقصى درجات الحذر بسبب التهديدات الإقليمية المحتملة.",
-   "body_ar": [
-    "وفقًا لتنبيه نشرته وزارة الخارجية الأمريكية، يواجه الأمريكيون في المنطقة خطرًا متزايدًا جراء الهجمات المسلحة التي يشنها الحوثيون، بالإضافة إلى الجهود الإيرانية التي تستهدف المسئولين الأمريكيين. ونصح التنبيه المسافرين بالاستعداد لاحتمال إلغاء الرحلات الجوية، وتعطل حركة السفر، وإغلاق المجال الجوي.",
-    "وقد صدرت هذه التحذيرات الأمنية عن وزارة الخارجية والعديد من البعثات الدبلوماسية الأمريكية لشمل دولاً عدة في المنطقة، من بينها إسرائيل، والسعودية، وقطر، والأردن، والعراق، والبحرين، والكويت، وعمان، والإمارات، ولبنان، وإيران."
-   ]
-  },
-  {
-   "id": "8acdf42e10a9",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-   "date": "2026-11-07T03:07:01Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-   "title_en": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-   "summary_en": "US President Donald Trump announced that the US military conducted a limited strike on Friday against an Iranian air defence system. Iranian state media reported explosions on Qeshm Island in the Strait of Hormuz.",
-   "body_en": [
-    "Trump described the action as \"minor,\" stating that US forces destroyed an anti-aircraft device in a short operation. Iranian state media reported two explosions in the Suza area of Qeshm Island. This action follows earlier US strikes reported on Monday in the vicinity of Qeshm, Hengam, and Bandar Abbas.",
-    "The attack comes amid ongoing diplomatic mediation led by Qatar to end the conflict. Concurrently, US Central Command announced a reward of up to $20 million for information regarding Iran's nuclear program."
-   ],
-   "title_fa": "دونالد ترامپ گفت ایالات متحده دور دیگری از حملات «جزئی» را علیه ایران انجام داده است",
-   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که ارتش ایالات متحده روز جمعه یک حمله محدود علیه سامانه پدافند هوایی ایران انجام داده است. رسانه‌های دولتی ایران نیز وقوع انفجارها در جزیره قشم در تنگه هرمز را گزارش کردند.",
-   "body_fa": [
-    "دونالد ترامپ این اقدام را «جزئی» توصیف کرد و گفت نیروهای آمریکایی طی یک عملیات کوتاه یک دستگاه ضد هوایی را منهدم کردند. رسانه‌های دولتی ایران از شنیده شدن صدای دو انفجار در منطقه سوزا در جزیره قشم خبر دادند. این اقدام پس از حملات قبلی ایالات متحده در روز دوشنبه در حوالی قشم، هنگام و بندرعباس صورت می‌گیرد.",
-    "این حمله در میان تلاش‌های دیپلماتیک مداوم با میانجی‌گری قطر برای پایان دادن به درگیری‌ها انجام شده است. هم‌زمان، ستاد فرماندهی مرکزی ایالات متحده پاداشی تا سقف ۲۰ میلیون دلار برای دریافت اطلاعات در مورد برنامه هسته‌ای ایران اعلام کرد."
-   ],
-   "title_ar": "دونالد ترامب يعلن تنفيذ الولايات المتحدة جولة أخرى من الضربات \"الطفيفة\" على إيران",
-   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب أن الجيش الأمريكي نفذ يوم الجمعة ضربة محدودة استهدفت نظام دفاع جوي إيراني. وأفادت وسائل إعلام رسمية إيرانية بسماع دوي انفجارات في جزيرة قشم في مضيق هرمز.",
-   "body_ar": [
-    "ووصف دونالد ترامب العملية بأنها \"طفيفة\"، موضحاً أن القوات الأمريكية دمرت مضاداً للطائرات في عملية قصيرة. وذكرت وسائل إعلام رسمية إيرانية دوي انفجارين في منطقة سوزا بجزيرة قشم. وتأتي هذه الضربة بعد ضربات أمريكية سابقة أُعلن عنها يوم الاثنين في محيط قشم وهنغام وبندر عباس.",
-    "وتأتي هذه الهجمات وسط جهود وساطة دبلوماسية مستمرة تقودها قطر لإعادة التهدئة وإنهاء الصراع. وبالموازاة مع ذلك، أعلنت القيادة المركزية الأمريكية عن مكافأة تصل إلى 20 مليون دولار مقابل معلومات تتعلق بالبرنامج النووي الإيراني."
-   ]
-  },
-  {
-   "id": "c00f63183844",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-air-defence-destroys-mq-9-drone-over-qeshm-island-report-says",
-   "date": "2026-11-07T00:09:43Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Iranian air defence destroys MQ-9 drone over Qeshm Island, report says",
-   "title_en": "Iranian air defence destroys MQ-9 drone over Qeshm Island, report says",
-   "summary_en": "Iran's military announced that its air defence forces intercepted and destroyed an American MQ-9 drone over Qeshm Island in the Strait of Hormuz.",
-   "body_en": [
-    "The statement broadcast by state media followed local reports of two missiles striking Qeshm Island. Hours prior, state news agency IRNA reported that a US MQ-1 drone was also shot down over the island by an IRGC air defence system."
-   ],
-   "title_fa": "گزارش‌ها: پدافند هوایی ایران یک پهپاد ام‌کیو-۹ را بر فراز جزیره قشم سرنگون کرد",
-   "summary_fa": "ارتش ایران اعلام کرد که نیروهای پدافند هوایی آن یک پهپاد آمریکایی ام‌کیو-۹ را بر فراز جزیره قشم در تنگه هرمز رهگیری و منهدم کرده‌اند.",
-   "body_fa": [
-    "این خبر که از رسانه دولتی پخش شد، پس از گزارش‌های محلی مبنی بر اصابت دو موشک به جزیره قشم منتشر گردید. ساعاتی پیش از آن نیز خبرگزاری ایرنا گزارش داده بود که یک پهپاد آمریکایی ام‌کیو-۱ توسط سیستم پدافند هوایی سپاه پاسداران بر فراز این جزیره سرنگون شده است."
-   ],
-   "title_ar": "تقارير: الدفاع الجوي الإيراني يدمر طائرة مسيرة من طراز MQ-9 فوق جزيرة قشم",
-   "summary_ar": "أعلن الجيش الإيراني أن قوات الدفاع الجوي اعترضت ودمرت طائرة مسيرة أمريكية من طراز MQ-9 فوق جزيرة قشم في مضيق هرمز.",
-   "body_ar": [
-    "وجاء هذا الإعلان الذي بثه التلفزيون الرسمي بعد تقارير محلية أفادت بسقوط صاروخين على جزيرة قشم. وقبل ذلك بساعات، ذكرت وكالة \"إرنا\" الرسمية أن طائرة مسيرة أمريكية من طراز MQ-1 أُسقطت أيضاً فوق الجزيرة بواسطة نظام دفاع جوي تابع للحرس الثوري الإيراني."
-   ]
-  },
-  {
-   "id": "3c51a08ff511",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-denies-reports-us-and-iran-failed-reach-deal-says-talks-continue",
-   "date": "2026-11-06T23:04:17Z",
-   "countries": [
-    "IRN",
-    "QAT"
-   ],
-   "score": 7,
-   "title": "Qatar denies reports US and Iran failed to reach deal, says talks continue",
-   "title_en": "Qatar denies reports US and Iran failed to reach deal, says talks continue",
-   "summary_en": "Qatar has rejected reports claiming that its prime minister announced the failure of US-Iran negotiations to end the war, stating that both parties are still working toward an agreement.",
-   "body_en": [
-    "In a statement released on Friday, Qatar's International Media Office described reports about Prime Minister Mohammed bin Abdulrahman Al Thani's remarks as \"false and misleading.\" The office stated that his comments had been deliberately distorted by entities benefiting from regional instability and confirmed that efforts toward a deal remain ongoing."
-   ],
-   "title_fa": "قطر گزارش‌ها درباره شکست مذاکرات آمریکا و ایران را تکذیب کرد و گفت گفتگوها ادامه دارد",
-   "summary_fa": "قطر گزارش‌ها مبنی بر اینکه نخست‌وزیر این کشور از شکست مذاکرات آمریکا و ایران برای پایان دادن به جنگ خبر داده را تکذیب کرد و گفت دو طرف همچنان برای دست‌یابی به توافق تلاش می‌کنند.",
-   "body_fa": [
-    "دفتر رسانه‌ای بین‌المللی قطر در بیانیه‌ای در روز جمعه، گزارش‌ها درباره سخنان محمد بن عبدالرحمن آل ثانی، نخست‌وزیر این کشور، را «دروغین و گمراه‌کننده» خواند. این دفتر اعلام کرد سخنان او به طور عمدی توسط کسانی که از تداوم جنگ و بی‌ثباتی در منطقه سود می‌برند تحریف شده است و تاکید کرد تلاش‌ها برای دستیابی به توافق همچنان ادامه دارد."
-   ],
-   "title_ar": "قطر تنفي تقارير فشل واشنطن وطهران في التوصل لاتفاق وتؤكد استمرار المحادثات",
-   "summary_ar": "نفت قطر تقارير ادعت أن رئيس وزرائها أعلن فشل المفاوضات الأمريكية الإيرانية لإنهائها الحرب، مؤكدة أن الطرفين يواصلان العمل للتوصل إلى اتفاق.",
-   "body_ar": [
-    "وصف المكتب الإعلامي الدولي لقطر في بيان يوم الجمعة التقارير حول تصريحات رئيس الوزراء محمد بن عبد الرحمن آل ثاني بأنها \"كاذبة ومضللة\". وأوضح المكتب أن تصريحاته تم تحريفها عمداً من قبل أطراف تستفيد من استمرار الحرب وعدم الاستقرار، مؤكداً استمرار الجهود للتوصل إلى اتفاق."
-   ]
-  },
-  {
-   "id": "44d7fe55d199",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-missiles-struck-qeshm-island-iranian-media-says",
-   "date": "2026-11-06T22:23:27Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Two missiles struck Qeshm Island, Iranian media says",
-   "title_en": "Two missiles struck Qeshm Island, Iranian media says",
-   "summary_en": "Iranian news outlets reported that two missiles hit the Suza area of Qeshm Island in southern Iran late on Friday.",
-   "body_en": [
-    "According to Tasnim news agency, there was no immediate official information regarding potential damage, with details pending official confirmation. IRNA reported that local witnesses heard the sound of an aircraft over the island before the projectiles struck."
-   ],
-   "title_fa": "رسانه‌های ایران: دو موشک به جزیره قشم اصابت کرد",
-   "summary_fa": "رسانه‌های خبری ایران گزارش دادند که اواخر روز جمعه دو موشک به منطقه سوزا در جزیره قشم در جنوب ایران اصابت کرده است.",
-   "body_fa": [
-    "به گزارش خبرگزاری تسنیم، اطلاعات رسمی فوری درباره خسارات احتمالی منتشر نشده و جزئیات بیشتر منوط به تایید مقامات مربوطه است. ایرنا نیز گزارش داد که شاهدان محلی پیش از اصابت پرتابه‌ها، صدای یک هواپیما را بر فراز جزیره شنیده‌اند."
-   ],
-   "title_ar": "وسائل إعلام إيرانية: سقوط صاروخين على جزيرة قشم",
-   "summary_ar": "أفادت وسائل إعلام إيرانية بأن صاروخين سقطا في منطقة سوزا بجزيرة قشم جنوبي إيران في وقت متأخر من يوم الجمعة.",
-   "body_ar": [
-    "وفقاً لوكالة تسنيم للأنباء، لم تكن هناك معلومات رسمية فورية بشأن الأضرار المحتملة، بانتظار تأكيد السلطات المعنية. وذكرت وكالة \"إرنا\" أن شهود عيان محليين سمعوا صوت طائرة فوق الجزيرة قبل سقوط المقذوفين."
    ]
   }
  ]
