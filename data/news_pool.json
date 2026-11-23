@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:48:48Z",
+ "updated": "2026-11-23T13:13:34Z",
  "items": [
   {
    "id": "1453db92e2f8",
@@ -1096,6 +1096,898 @@
    "desc": "أعلنت البحرين، الأحد، إصابة اثنين أحدهما في حالة حرجة بعد قصف إيراني قالت المنامة إنه استهدف \"منشأة صناعية مدنية\"، في هجوم هو الرابع منذ منتصف الشهر الجاري.",
    "score": 8,
    "dup_of": "634fcadcb179"
+  },
+  {
+   "id": "796612a75aeb",
+   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:57:33Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "score": 7,
+   "dup_of": "b8202d4bc038"
+  },
+  {
+   "id": "b2d48d0742e9",
+   "title": "Iran threatens response to any attack amid naval blockade",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+   "date": "2026-11-23T12:25:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran threatens response to any attack amid naval blockade",
+   "score": 9
+  },
+  {
+   "id": "1531879d0a0a",
+   "title": "Lebanese families return to ruins after Israeli attacks in south",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+   "date": "2026-11-23T10:57:20Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+   "score": 7
+  },
+  {
+   "id": "c631048a44eb",
+   "title": "Why is Bangladesh’s Grameen Bank under attack?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
+   "date": "2026-11-23T10:22:34Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
+   "score": 5
+  },
+  {
+   "id": "464e67cf4a18",
+   "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
+   "date": "2026-11-23T10:20:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
+   "score": 7
+  },
+  {
+   "id": "b8202d4bc038",
+   "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+   "date": "2026-11-23T09:33:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+   "score": 7
+  },
+  {
+   "id": "51efa1a754cc",
+   "title": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+   "date": "2026-11-23T09:30:16Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland'.",
+   "score": 7,
+   "dup_of": "b8202d4bc038"
+  },
+  {
+   "id": "c06f0416346c",
+   "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+   "date": "2026-11-23T07:47:32Z",
+   "countries": [
+    "AFG"
+   ],
+   "desc": "Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.",
+   "score": 3
+  },
+  {
+   "id": "f2f86ae6cd7b",
+   "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+   "date": "2026-11-23T07:07:33Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
+   "score": 3
+  },
+  {
+   "id": "bcbf3e37f0e0",
+   "title": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
+   "date": "2026-11-23T11:00:54Z",
+   "countries": [
+    "BGD",
+    "ISR"
+   ],
+   "desc": "The international court of justice has settled questions over the issue of intent, with powerful implications for Israel The international court of justice (ICJ) decision last Thursday that Myanmar committed genocide against the Rohingya recognizes the plight of one of the world’s most persecuted minorities. It also resonates in Gaza, where the same court is now more likely to find that Israel committed genocide against Palestinians. That possibility has incensed the Donald Trump administration, but it should think twice before attacking another international tribunal. Continue reading...",
+   "score": 4
+  },
+  {
+   "id": "83aa240cb8a5",
+   "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+   "date": "2026-11-23T04:00:45Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’ Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the population depends on for survival, according to a report. Israel’s military assault has created widespread contamination across the entire strip, the report by Oxfam and the Conflict and Environment Observatory (Ceobs) finds, with heavy metals, explosive residues, asbestos from destroye",
+   "score": 7,
+   "dup_of": "b8202d4bc038"
+  },
+  {
+   "id": "ff9897ac4945",
+   "title": "Israeli MP invokes internment of Japanese Americans in call to restrict Palestinian citizens",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/news/israeli-lawmaker-invokes-japanese-internment-camps-call-restrict-palestinian-citizens",
+   "date": "2026-11-23T12:10:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli MP invokes internment of Japanese Americans in call to restrict Palestinian citizens Submitted by Nadav Rapaport on Mon, 11/23/2026 - 11:37 Likud lawmaker Eli Goldschmidt draws parallels with the mass incarceration of Japanese Americans during World War II, prompting accusations of unrestrained incitement against Palestinians in Israel Demonstrators gathered in the Carmel Center for a protest calling for the formation of a new Israeli government that includes Arab political parties (Jess Flom/JNA Press/Sipa USA via Reuters) Off An Israeli MP from Prime Minister Benjamin Netanyahu’s Lik",
+   "score": 6
+  },
+  {
+   "id": "5e44fff954d2",
+   "title": "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-worker-un-palestinian-agency-gaza-agency-says",
+   "date": "2026-11-23T12:02:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says An Israeli airstrike killed a Gaza man working for the UN Palestinian refugee agency UNRWA in the Gaza Strip on Monday, the relief agency and local health officials said. The man, whom medics named as Adel Al-Helo, was working near a water well in the Jabalia refugee camp in the enclave's north, UNRWA and medics said. Three others were wounded in the strike, they said. \"The initial reports indicate that the strike hit a target on the street near the water well, which was manned by UNRWA staff and a guard. The staff wer",
+   "score": 7
+  },
+  {
+   "id": "7a6177ce42fc",
+   "title": "Israeli army demolishes one of the last Palestinian communities in Jordan Valley",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-demolishes-one-last-palestinian-communities-jordan-valley",
+   "date": "2026-11-23T11:57:39Z",
+   "countries": [
+    "ISR",
+    "JOR",
+    "PSE"
+   ],
+   "desc": "Israeli army demolishes one of the last Palestinian communities in Jordan Valley The Israeli army has destroyed one of the last Palestinian communities in the Jordan Valley in the occupied West Bank. Khirbet Samra, a Palestinian Bedouin herding community, had all structures and infrastructure demolished in an army operation on Sunday. Alon Cohen of Bimkom – Planners for Planning Rights told Haaretz that the demolition had been \"cruel and illegal.\" \"Most of the structures and the electricity and water systems had no demolition orders at all. Furthermore, there were five orders issued about 17 y",
+   "score": 7
+  },
+  {
+   "id": "8f1181f863a2",
+   "title": "From Gaza's ruins, Palestinian women are rising to tell their stories on film",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/opinion/gazas-ruins-palestinian-women-are-rising-tell-their-stories-film",
+   "date": "2026-11-23T11:30:52Z",
+   "countries": [
+    "ISR",
+    "LBN",
+    "PSE"
+   ],
+   "desc": "From Gaza's ruins, Palestinian women are rising to tell their stories on film Submitted by Hamid Dabashi on Tue, 11/17/2026 - 15:25 Mai Masri taught the Gaza Cinema Academy's 25 filmmakers by laptop from Beirut. Watching them work amid Israel's genocide, I could not hold back my tears Young filmmakers trained by the Gaza Cinema Academy light a torch with festival founder Ezzaldeen Shalh at the opening of the Gaza International Festival for Women's Cinema in al-Bureij, central Gaza, on 26 October 2026 (Gaza International Festival for Women's Cinema/Handout) Off \"These are the 25 women I have be",
+   "score": 3
+  },
+  {
+   "id": "2cdd8fabad86",
+   "title": "Tehran dismisses 'dirty bomb' plot claims from US",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-dismisses-dirty-bomb-plot-claims-us",
+   "date": "2026-11-23T11:22:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Tehran dismisses 'dirty bomb' plot claims from US Tehran has dismissed claims published by CNN that it was planning to stage a \"dirty bomb\" attack in the US “After the nuclear lie, the Americans have resorted to the dirty bomb claim,” Iranian Foreign Ministry spokesman Esmaeil Baghaei told Tasnim news agency. “These claims are an attempt to evade accountability to public opinion for launching an illegal and unjust war against Iran.”",
+   "score": 8
+  },
+  {
+   "id": "8d36274d1655",
+   "title": "Iran says will use 'all available means' to counter US blockade",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-will-use-all-available-means-counter-us-blockade",
+   "date": "2026-11-23T10:08:42Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says will use 'all available means' to counter US blockade Iran said on Monday that it would use all means at its disposal to counter a US naval blockade that was imposed in retaliation for its own push to block the Strait of Hormuz. \"We will certainly not tolerate these actions and will use all available means to counter US aggression,\" said foreign ministry spokesman Esmaeil Baghaei in a weekly press briefing. Reporting by AFP",
+   "score": 9,
+   "dup_of": "b2d48d0742e9"
+  },
+  {
+   "id": "ac5d0c7fd3ba",
+   "title": "Morning update",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-678",
+   "date": "2026-11-23T08:03:11Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Morning update Good morning, Middle East Eye readers, Here are the latest developments: Iranian Foreign Ministry spokesman Esmaeil Baghaei said that Tehran can \"act very quickly\" to reopen the Strait of Hormuz, provided the US complies with the country's demands. \"Iran remains steadfast in honouring its commitments and will fulfil them as soon as possible, provided the other side complies with the relevant conditions,\" Baghaei said. Israeli Prime Minister Benjamin Netanyahu is urging US President Donald Trump to carry out strikes on Iran \"as soon as possible\", according to Israel’s public broa",
+   "score": 1
+  },
+  {
+   "id": "7adf8bf79318",
+   "title": "Iran says it can reopen Hormuz Strait if US meets conditions",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-can-reopen-hormuz-strait-if-us-meets-conditions",
+   "date": "2026-11-23T07:59:53Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Iran says it can reopen Hormuz Strait if US meets conditions Iranian foreign ministry spokesman Esmaeil Baghaei said that Tehran can \"act very quickly\" to reopen the Strait of Hormuz, provided the US complies with the country's demands. \"Iran remains steadfast in honouring its commitments and will fulfil them as soon as possible, provided the other side complies with the relevant conditions,\" Baghaei said. He added that Tehran \"knows its objectives and the rights of the Iranian people\" and that \"it will not retreat from defending these rights\".",
+   "score": 9
+  },
+  {
+   "id": "378a128afb0b",
+   "title": "From arson to land seizures: Settlers tighten grip on Palestinian villages near Ramallah",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/arson-land-seizures-settlers-tighten-grip-palestinian-villages-near",
+   "date": "2026-11-23T07:35:04Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "From arson to land seizures: Settlers tighten grip on Palestinian villages near Ramallah In a series of coordinated attacks across several villages near the city of Ramallah in the central occupied West Bank, Israeli settlers torched Palestinian vehicles between Saturday evening and Sunday morning. The settlers also spray-painted racist slogans on the walls of homes in the three villages, calling for the killing of Arabs and for revenge against them. Rafat Abu Musa, head of the village council of Deir al-Sudan, north of Ramallah, told Middle East Eye that settlers infiltrated the southern part",
+   "score": 7
+  },
+  {
+   "id": "8d25ed70bfd1",
+   "title": "South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-asks-qatar-priority-supply-lng-supplies-once-transits",
+   "date": "2026-11-23T07:23:16Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "South Korea asks Qatar for priority supply of LNG supplies once transits through Hormuz Strait return to normal South Korea has requested that Qatar prioritise liquefied natural gas (LNG) supplies to the country once production and shipping through the Strait of Hormuz return to normal. Industry Minister Kim Jung-kwan asked Qatar's Minister of State for Energy Affairs Saad Sherida al-Kaabi during a meeting in Seoul, describing the Gulf country as a key energy partner.",
+   "score": 6
+  },
+  {
+   "id": "dd6e5c68b012",
+   "title": "Opinion: Anti-Muslim racism is a global system used to normalise mass killing",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-anti-muslim-racism-global-system-used-normalise-mass-killing",
+   "date": "2026-11-23T06:23:22Z",
+   "countries": [
+    "IRN",
+    "LBN",
+    "PSE"
+   ],
+   "desc": "Opinion: Anti-Muslim racism is a global system used to normalise mass killing Dr Amina Shareef, a researcher of anti-Muslim racism, says that the destruction unfolding in Gaza, Iran and Lebanon is part of a longer history of anti-Muslim racism that has made mass Muslim suffering and death politically permissible. She says that Islamophobia is not simply a matter of prejudice or discrimination, but a global system of racial power that constructs Muslims and those identified as Muslim as security threats, allowing violence against them to be justified in the name of security. Central to this sys",
+   "score": 2
+  },
+  {
+   "id": "18b2d17658be",
+   "title": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-netanyahu-calls-trump-launch-attack-iran-soon-possible",
+   "date": "2026-11-23T06:16:03Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "desc": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible' Israeli Prime Minister Benjamin Netanyahu is urging Trump to carry out strikes on Iran \"as soon as possible\", according to Israel’s public broadcaster Kan. The report, published on Sunday, indicated that Trump has yet to make a decision on the matter is reluctant to do so.",
+   "score": 10
+  },
+  {
+   "id": "5a141e305e46",
+   "title": "Trump claims he predicted drops in oil prices, stock market and hits from Iran after Democratic win in midterm elections",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-he-predicted-drops-oil-prices-stock-market-and-hits-iran",
+   "date": "2026-11-23T05:28:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Trump claims he predicted drops in oil prices, stock market and hits from Iran after Democratic win in midterm elections US President Donald Trump claimed that he predicted a stock market decline as well as harsher attacks from Iran after the Democratic Party's victory in the recent midterm elections. \"As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran... will grow more aggressive in their attacks, which has also o",
+   "score": 8
+  },
+  {
+   "id": "b281cbd45981",
+   "title": "Saudi attack on Yemen's Hodeidah kills four, wounds 18 others",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others",
+   "date": "2026-11-23T03:42:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Saudi attack on Yemen's Hodeidah kills four, wounds 18 others A Saudi attack on Yemen's key port city of Hodeidah killed at least four people and injured 18 others, according to Houthi-affiliated media. The strike reportedly targeted a building belonging to Yemen's Public Telecommunications Corporation.",
+   "score": 8
+  },
+  {
+   "id": "accbf15ae0d0",
+   "title": "South Korea says deployment to Middle East not indirect military participation in war on Iran",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-says-deployment-middle-easy-not-indirect-military",
+   "date": "2026-11-23T02:24:14Z",
+   "countries": [
+    "IRN",
+    "ISR",
+    "YEM"
+   ],
+   "desc": "South Korea says deployment to Middle East not indirect military participation in war on Iran South Korean Defence Minister Kang Shin-chul said that a motion to extend the deployment of the Cheonghae anti-piracy unit in the Gulf of Aden did not amount to involvement in the US-Israeli war on Iran. The minister told lawmakers that the deployment was not indirect military participation in the conflict, but instead cited a rise in piracy alongside efforts to protect South Korean ships and citizens using the maritime route.",
+   "score": 7
+  },
+  {
+   "id": "70c18af8fbad",
+   "title": "Why is Turkey warning of an Israeli military operation in Syria?",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/why-turkey-warning-israeli-military-operation-syria",
+   "date": "2026-11-23T01:39:15Z",
+   "countries": [
+    "ISR",
+    "SYR",
+    "TUR"
+   ],
+   "desc": "Why is Turkey warning of an Israeli military operation in Syria? Turkey's foreign minister has warned that Israel could launch a military operation in Syria, accusing it of backing a faction within the country's Druze community in an attempt to provoke the Syrian army and create a pretext for intervention. Hakan Fidan made the remarks in a televised interview with Turkish broadcaster TGRT Haber on Saturday, saying Ankara had raised the possibility with regional allies, as well as US and European officials. \"There is a scenario in which the Israeli army uses this as a pretext to launch an opera",
+   "score": 8
+  },
+  {
+   "id": "b619eba7ba5f",
+   "title": "Watch: Palestinians describe fear after Israeli settlers attack West Bank villages",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-palestinians-describe-fear-after-israeli-settlers-attack-west-bank",
+   "date": "2026-11-23T00:52:07Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Watch: Palestinians describe fear after Israeli settlers attack West Bank villages Palestinian residents in the occupied West Bank have described how Israeli settlers set fire to vehicles and sprayed racist graffiti on homes during overnight attacks on several villages. Footage from Deir Abu Mashal and Kafr Malik on Sunday shows burnt-out cars and graffiti reading \"Death to Arabs\" and \"Revenge\" painted on walls. Residents said settlers attacked their villages while families were asleep, leaving multiple vehicles destroyed. \"We were sleeping and not expecting that herds of settlers will attack ",
+   "score": 3,
+   "dup_of": "fa193c5b26bd"
+  },
+  {
+   "id": "fb7a74978485",
+   "title": "Israel carries out more demolitions in southern Lebanon",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-more-demolitions-southern-lebanon",
+   "date": "2026-11-22T22:54:33Z",
+   "countries": [
+    "ISR",
+    "LBN"
+   ],
+   "desc": "Israel carries out more demolitions in southern Lebanon Israeli forces detonated explosives to destroy structures on the outskirts of Qantara in southern Lebanon , Lebanon's National News Agency (NNA) reported. Earlier on Sunday, Israeli forces set off a massive explosion in Zawtar al-Sharqiyah, followed by another in Kfar Tibnit, according to NNA. The blasts could be heard across much of southern Lebanon. Residents of Nabatieh al-Fawqa and Zawtar held two separate protests against the Lebanese government's \"silence\" over Israel's occupation of areas up to the Litani River, which began in Marc",
+   "score": 7
+  },
+  {
+   "id": "6110e86d559f",
+   "title": "Eisenkot condemns 'Jewish terrorism' near Ramallah as US congressman calls for accountability",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-condemns-jewish-terrorism-near-ramallah-us-congressman-calls",
+   "date": "2026-11-22T21:53:37Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Eisenkot condemns 'Jewish terrorism' near Ramallah as US congressman calls for accountability Israeli opposition leader Gadi Eisenkot has condemned a series of arson attacks by settlers in the occupied West Bank as \"Jewish terrorism\", accusing far-right ministers Bezalel Smotrich and Itamar Ben Gvir of fuelling violence against Palestinians. Overnight into Sunday, Israeli settlers attacked three Palestinian villages near Ramallah, setting fire to vehicles and spray-painting racist slogans on residential buildings. Eisenkot, leader of the Yashar party, described the attacks as \"Jewish terrorism",
+   "score": 8,
+   "dup_of": "4bb37d2a2029"
+  },
+  {
+   "id": "32c011c75f89",
+   "title": "Bilawal calls for restoring supremacy of Parliament and trust in judiciary, electoral system",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046543/bilawal-calls-for-restoring-supremacy-of-parliament-and-trust-in-judiciary-electoral-system",
+   "date": "2026-11-23T12:41:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PPP Chairman Bilawal Bhutto-Zardari on Monday called for restoring the supremacy of Parliament as well as trust in the judiciary and the electoral system. He made the remarks while addressing the inauguration ceremony to mark the launch of the Sindh Youth Card in Karachi. “To restore the trust of Pakistan’s youth, if any reset is to take place, it must be a democratic reset,” the party leader said. “If a democratic reset happens, then the people’s stake will remain, and through that reset, we must restore the supremacy of our Parliament. We must restore confidence in our judiciary, and the ele",
+   "score": 5
+  },
+  {
+   "id": "bac7d5cd067f",
+   "title": "Naqvi calls on PM Shehbaz as debate on new provinces gains steam",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046526/naqvi-calls-on-pm-shehbaz-as-debate-on-new-provinces-gains-steam",
+   "date": "2026-11-23T12:12:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD/LAHORE: Amid growing debate on the issue of creation of new provinces, Interior Minister Mohsin Naqvi on Monday called on Prime Minister Shehbaz Sharif. According to an official handout from the Prime Minister Office (PMO), the interior minister met the prime minister in Islamabad and briefed him on the law and order situation in the country. The two also discussed the prevailing situation in the country, the statement said. Earlier in the day, Naqvi had met with Pakistan Muslim League-Quaid (PML-Q) chief Chaudhry Shujaat Hussain at his residence in Lahore. The debate over the creati",
+   "score": 5
+  },
+  {
+   "id": "d83cb8bf4748",
+   "title": "Pakistan has Portugal's 'full support' for GSP+ status, visiting FM says during delegation-level talks in Islamabad",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+   "date": "2026-11-23T11:39:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan has Portugal’s “full support” for the European Union’s (EU) GSP+ status, Portuguese Minister of State and Foreign Affairs Paulo Rangel said on Monday during Pakistan-Portugal delegation-level talks held in Islamabad. Pakistan’s current GSP+ status is set to expire in 2027, after which Islamabad will seek a renewal. GSP+ status is a special incentive awarded to developing countries to “pursue sustainable development and good governance” in exchange for cutting import duties to zero on two-thirds of the tariff lines of its exports. The status was granted to Pakistan in 2014, resulting i",
+   "score": 6
+  },
+  {
+   "id": "9b11d61f40bb",
+   "title": "7 killed, 2 injured as stone-laden truck overturns onto mini-truck in Bahawalpur",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046527/7-killed-2-injured-as-stone-laden-truck-overturns-onto-mini-truck-in-bahawalpur",
+   "date": "2026-11-23T10:07:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Seven people were killed and two others were injured when a stone-laden truck hit a mini-truck and overturned onto it in Bahawalpur’s Uch Sharif early on Monday morning, an official and Rescue 1122 said. Bahawalpur District Police Officer (DPO) Rana Abdul Wahab told Dawn that the mini-truck, travelling from Dera Ghazi Khan to Khairpur Tamewali, was carrying 16 people and stopped along a highway due to fog. “The driver was cleaning the windscreen of the stationary vehicle when another truck, laden with stones, hit it and turned over onto it,” the DPO said. According to the official, the",
+   "score": 2
+  },
+  {
+   "id": "f6c7a9620065",
+   "title": "Bangladesh vows to arrest Hasina if she returns from India",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046532/bangladesh-vows-to-arrest-hasina-if-she-returns-from-india",
+   "date": "2026-11-23T09:22:44Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "Bangladesh will arrest and jail former Prime Minister Sheikh Hasina if she returns from India, a senior government minister said, as her plans to come home in December fuel political tension and renewed street violence. Dhaka is instead seeking Hasina’s extradition from India, where she has lived since fleeing Bangladesh in 2024, and expects New Delhi to comply with an existing extradition treaty, State Minister for Foreign Affairs Shama Obaed Islam told Reuters. India’s foreign ministry did not immediately respond to a request for comment. In April, the ministry said it was examining Banglade",
+   "score": 7,
+   "dup_of": "46289997b5a8"
+  },
+  {
+   "id": "e90be7cdbc92",
+   "title": "Residents protest as work continues at Karachi's Nehr-i-Khayyam despite SHC order",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046437/residents-protest-as-work-continues-at-karachis-nehr-i-khayyam-despite-shc-order",
+   "date": "2026-11-23T05:00:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Residents of Clifton on Sunday expressed concerns that construction and development activities at Nehr-i-Khayyam were continuing despite recent clear directions from the Sindh High Court (SHC) to halt them. The residents of the area held their weekly protest, marching from Do Talwar towards the under-construction site of a 46-storey building and the Nehr-i-Khayyam site under the banners of “Save Clifton” and “Liveable Clifton”. They were protesting against the “unchecked transformation of residential neighbourhoods, violations of building regulations and the destruction of public spac",
+   "score": 3
+  },
+  {
+   "id": "92245002ff44",
+   "title": "India to give $1.62bn economic package to flood-hit Nepal",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046531/india-to-give-162bn-economic-package-to-flood-hit-nepal",
+   "date": "2026-11-23T09:11:09Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India will give Nepal an economic package worth 240 billion Nepalese rupees ($1.62bn), Indian Prime Minister Narendra Modi said on Monday, after talks with his Nepali counterpart Balendra Shah in New Delhi. Shah is in the Indian capital for a two-day visit, his first bilateral trip since coming to power in March, and in the aftermath of the devastating Himalayan flood in August that killed some 1,500 people, with another 5,200 missing and presumed dead. “Today, to give fresh impetus to Nepal’s reconstruction and long-term development, we are announcing a development cooperation package worth 2",
+   "score": 6
+  },
+  {
+   "id": "1063938b65f2",
+   "title": "PM to attend ECO moot in Iran after Russia trip",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046394/pm-to-attend-eco-moot-in-iran-after-russia-trip",
+   "date": "2026-11-23T02:50:27Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Prime Minister Shehbaz Sharif will undertake his first official three-day visit to Rus­sia from Nov 30, aiming to strengthen bilateral ties and secure energy and inve­stment agreements bef­ore travelling to Iran for the 18th Economic Coo­peration Organisation (ECO) Summit on Dec 3 and 4. During his meeting with Russian President Vladi­mir Putin, discussions are expected to focus on ene­rgy cooperation, defence, trade, regional security and investment, a source in the Prime Minister’s Office told Dawn . The revival of Pakistan Steel Mills, established with Russian assistance, is also",
+   "score": 7
+  },
+  {
+   "id": "a13e3a3e1d81",
+   "title": "Govt moves to overhaul ‘weak’ audit system",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system",
+   "date": "2026-11-23T02:32:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• FBR task force flags weaknesses in existing review framework • Cabinet approves SECP Amendment Bill 2026 after consultation • Proposed legislation aims to strengthen independent audit oversight ISLAMABAD: The government has decided to overhaul the country’s ent­ire audit system after the Prime Min­ister’s Federal Board of Revenue (FBR) Task Force described the existing framework as weak, saying it discourages local and foreign investm­ent and limits access to capital markets. Documents seen by Dawn suggest the government plans to introduce legislative amendments in parliament to reform the e",
+   "score": 4
+  },
+  {
+   "id": "56ef804439af",
+   "title": "Conveyor belt failure at bulk terminal disrupts coal imports",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046386/conveyor-belt-failure-at-bulk-terminal-disrupts-coal-imports",
+   "date": "2026-11-23T00:03:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Coal discharge rate falls from 30,000 to 3,000 tonnes per day • Jamshoro Power Company warns of $2-3 million demurrage on five incoming vessels; fears Rs2.2 billion monthly capacity payment losses ISLAMABAD: The one and only coal-handling conveyor system at Pakistan Intern­ational Bulk Terminal (PIBT) at Port Qasim has been out of operation since Nov 18, disrupting imported coal supplies to power plants and industries, including cement and textiles, at a time when the power sector is already facing LNG supply disruptions and reduced hydroelectric availability. Public and private sector power",
+   "score": 3
+  },
+  {
+   "id": "acb042edbf3e",
+   "title": "Lahore ranked after Islamabad, ahead of major cities in safety perception index",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046424/lahore-ranked-after-islamabad-ahead-of-major-cities-in-safety-perception-index",
+   "date": "2026-11-23T04:42:19Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "desc": "LAHORE: Lahore has scored ahead of several major international cities, including New York, Paris and New Delhi but lower than Islamabad in the recent Numbeo’s 2026 Mid-Year Crime and Safety Index with safety and crime indexes at 63.8 and 36.2 respectively. A report in this regard was presented to Punjab Inspector General of Police (IGP) Abdul Kareem during his visit to the Lahore Police Lines, Qilla Gujjar Singh here on Sunday, where he held a high-level meeting on the crime situation in the city. Capital City Police Officer (CCPO) Bilal Siddique Kamyana, DIGs Faisal Kamran, Zeshan Raza, all t",
+   "score": 5
+  },
+  {
+   "id": "df22d3687778",
+   "title": "Analysis: Myanmar genocide judgment may bolster Gaza case against Israel",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046540/analysis-myanmar-genocide-judgment-may-bolster-gaza-case-against-israel",
+   "date": "2026-11-23T11:30:39Z",
+   "countries": [
+    "BGD",
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The International Court of Justice’s landmark ruling that Myanmar committed genocide against the Rohingya will strengthen South Africa’s genocide case against Israel over the war on Gaza , legal experts said, establishing a precedent that genocidal intent can coexist with a military objective. While the conflicts in Gaza and Myanmar are legally distinct, both cases before the World Court are based on allegations that states breached their obligations under the 1948 Genocide Convention. On Thursday, the court found that Myanmar had violated the convention on multiple grounds stemming from mistr",
+   "score": 4,
+   "dup_of": "bcbf3e37f0e0"
+  },
+  {
+   "id": "18a34f40a201",
+   "title": "ADB invests in Pakistan-based B2B fintech company Neem",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046518/adb-invests-in-pakistan-based-b2b-fintech-company-neem",
+   "date": "2026-11-23T07:12:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Asian Development Bank (ADB) on Monday said it invested an undisclosed amount in Neem, a Pakistan-based B2B fintech company that helps businesses receive, manage, and pay out money digitally. In a statement, the Manila-based lending agency said its investment will flow through ADB Ventures, the venture capital arm of the ADB. The seed investment will support Neem’s product development, help expand its team, and accelerate the onboarding of enterprise and merchant clients across Pakistan, the ADB said. Pakistan has made strong progress in digitising consumer payments , with the S",
+   "score": 4
+  },
+  {
+   "id": "7bfb2d9dc3be",
+   "title": "Rice exports up by 0.35m tonnes in four months",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
+   "date": "2026-11-23T00:04:49Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "LAHORE: Pakistan’s total rice exports surged by 353,000 tonnes to reach 1,351,000 tonnes during the first four months (July-October) of the current fiscal year 2026-27. The exports were propelled by a massive 62pc jump in Basmati shipments that defied severe maritime disruptions across the Red Sea, the Strait of Hormuz, and the broader Middle East. According to trade figures for the July-Oct 2026 period, Basmati exports climbed by 116,000 tonnes compared to the corresponding period last year to stand at 301,000 tonnes. Meanwhile, non-Basmati shipments expanded by 140,000 tonnes year-on-year to",
+   "score": 4
+  },
+  {
+   "id": "3c0223a139de",
+   "title": "Netanyahu and Eisenkot’s parties resume talks to form coalition govt in Israel",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046448/netanyahu-and-eisenkots-parties-resume-talks-to-form-coalition-govt-in-israel",
+   "date": "2026-11-23T05:16:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "HERZLIYA: The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot launched a new round of talks on Sunday over whether to form a coalition government, with Netanyahu’s party insisting on keeping his main policies. Delegations from Eisenkot’s Yashar party and Netanyahu’s Likud began their confab at a hotel in Herzliya, near Tel Aviv, a journalist on the scene said, following a first round of talks last Sunday. A former army chief of staff, Eisenkot has until Dec 6 to form a government, with the possibility of a 14-day extension, after October elections fai",
+   "score": 8,
+   "dup_of": "48afc3f93eae"
+  },
+  {
+   "id": "0c22d4d9fd6b",
+   "title": "Independent media not as 'independent' as it could be: Mehdi Hasan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046393/independent-media-not-as-independent-as-it-could-be-mehdi-hasan",
+   "date": "2026-11-23T02:55:58Z",
+   "countries": [
+    "QAT"
+   ],
+   "desc": "• US journalist says news gatekeeping has been outsourced to Silicon Valley • Says every journalist ‘needs to be’ a content creator now DOHA: Journalism has undergone a major transformation since the advent of social media and independent news platforms, bringing both opportunities and challenges. These changes were the focus of a talk titled The New Gatekeepers by British-American journalist Mehdi Hasan at the Doha Film Festival. Drawing on his experience at mainstream outlets including the BBC , CNN , Al Jazeera , Sky News and MSNBC , Hasan discussed the changing media landscape and his move",
+   "score": 2
+  },
+  {
+   "id": "bf0cff600fb5",
+   "title": "PTV asked to disclose details of foreign trips at public expense",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046389/ptv-asked-to-disclose-details-of-foreign-trips-at-public-expense",
+   "date": "2026-11-23T03:12:48Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Pakistan Information Commission (PIC) has directed Pakistan Television Corporation ( PTV ) to disclose details of foreign trips undertaken by its officials at public expense since January 2025, ruling that information about the utilisation of public funds cannot be withheld merely by declaring it confidential or sensitive. Allowing an appeal filed by journalist and Right to Information (RTI) activist Saddia Mazhar, the commission directed PTV ’s managing director to provide the complete information sought in her request within 10 days of receiving the order, with a copy to be su",
+   "score": 3
+  },
+  {
+   "id": "65aa683c8d76",
+   "title": "‘Global food import bill up 1.9pc in 2026’",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046395/global-food-import-bill-up-19pc-in-2026",
+   "date": "2026-11-23T00:05:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Global expenditure on food imports is expected to increase moderately in 2026, with the global food import bill projected to reach $2,267 billion, up 1.9 per cent from the revised estimate of $2,224.8 billion, according to a new United Nations report. According to the Food Outlook published by the Food and Agriculture Organisation (FAO), import bills are expected to rise for most food groups in 2026, led by animal products and the oil seed complex, while cereals are also projected to record an increase. Prospects for the remainder of 2026 and 2027 remain subject to several unce­rtai",
+   "score": 5
+  },
+  {
+   "id": "8066b6dac887",
+   "title": "Bad COP, worse COP: What’s next after climate talks fail?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046511/bad-cop-worse-cop-whats-next-after-climate-talks-fail",
+   "date": "2026-11-23T06:01:36Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The collapse of marathon climate talks in Turkey has renewed questions about reform of their consensus requirement, and galvanised calls for legal action and ambitious side agreements between like-minded countries. The “conference of the parties” talks, better known as COP31, ended without agreement and two days over schedule on Sunday, as countries deadlocked on fossil fuels, finance, science and carbon-removing technologies. It was an ignominious end for an unusual dual-presidency shared by Australia and Turkey, and negotiations chair Chris Bowen, who is Australia’s climate minister, said it",
+   "score": 8,
+   "dup_of": "9a3029a5f62b"
+  },
+  {
+   "id": "2ad975de5727",
+   "title": "Capitalising on Middle East conflict",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046407/capitalising-on-middle-east-conflict",
+   "date": "2026-11-23T10:59:24Z",
+   "countries": [
+    "IRN",
+    "PAK"
+   ],
+   "desc": "Rarely does a government in Pakistan respond swiftly and purposefully to a crisis by bringing public and private stakeholders together, building consensus and implementing corrective measures. The US-Iran conflict presented such an opportunity, forcing Pakistan to protect its maritime supply chains while opening new possibilities for its ports and shipping industry. The prime minister constituted two committees to address the emerging challenges. This article focuses on the committee headed by Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry, of which the writer was a membe",
+   "score": 5
+  },
+  {
+   "id": "02c40ccea138",
+   "title": "Bangladesh garment makers eye 15% wage hike, far short of workers' demand",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand/article71734242.ece",
+   "date": "2026-11-23T12:14:51Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "Workers are demanding a rise in ‌the ⁠minimum monthly wage to 30,000 taka ($242) from 12,500 taka, citing soaring food, housing and ⁠transport costs",
+   "score": 5
+  },
+  {
+   "id": "2d1102f67561",
+   "title": "Modi’s Canada visit is set to move ties in a new direction: Vina Nadjibulla",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/opinion/interview/modis-canada-visit-is-set-to-move-ties-in-a-new-direction-vina-nadjibulla/article71734232.ece",
+   "date": "2026-11-23T12:11:38Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "What has changed is that both governments appear increasingly willing to approach security issues through the lens of mutual security interests, rather than allowing these differences to define the entire relationship, says CEO of the Vancouver-based think tank",
+   "score": 6
+  },
+  {
+   "id": "dd6e9b5e5472",
+   "title": "Nepal PM India visit LIVE: PM Modi announces offshore campus of IIT in Nepal",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+   "date": "2026-11-23T11:26:10Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "Establishment of offshore IIT campus in Nepal, scholarships to Nepali students in India, a development package of over ₹15,000 crore for Nepal announced",
+   "score": 3
+  },
+  {
+   "id": "d0713587b0f4",
+   "title": "U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece",
+   "date": "2026-11-23T11:01:43Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "A U.S. Congressional panel has recommended establishing a senior-level channel with India for succession contingency planning for the 14th Dalai Lama, arguing that China may turn the process into an international legitimacy contest",
+   "score": 7
+  },
+  {
+   "id": "203fbf938547",
+   "title": "China says ready to work with India to facilitate visa issuance for business people",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/china-says-ready-to-work-with-india-to-facilitate-visa-issuance-for-business-people/article71734314.ece",
+   "date": "2026-11-23T10:55:24Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The spokesperson’s remarks came amid reports that Chinese diplomatic missions have reduced visa issuance to Indian nationals, including business visas",
+   "score": 6
+  },
+  {
+   "id": "0d14d464dbd6",
+   "title": "Bangladesh vows to arrest ex-PM Hasina if she returns from India",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-vows-to-arrest-ex-pm-hasina-if-she-returns-from-india/article71734092.ece",
+   "date": "2026-11-23T10:35:25Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "State Minister for Foreign Affairs Shama Obaed Islam said Dhaka expects India to honour the extradition treaty, as Sheikh Hasina’s planned December return fuels political tension and street violence",
+   "score": 7,
+   "dup_of": "46289997b5a8"
+  },
+  {
+   "id": "824c1b855c9c",
+   "title": "Israel at an Inflection Point",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israel-at-an-inflection-point/article71734081.ece",
+   "date": "2026-11-23T10:03:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The e-book brings together incisive essays by leading scholars and experts to offer a realistic picture of the strategic and political landscape surrounding the Jewish nation",
+   "score": 4
+  },
+  {
+   "id": "98f5ea060582",
+   "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+   "date": "2026-11-23T07:46:58Z",
+   "countries": [
+    "IND",
+    "SAU"
+   ],
+   "desc": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide",
+   "score": 8,
+   "dup_of": "9a3029a5f62b"
+  },
+  {
+   "id": "49ded2b47980",
+   "title": "Pakistan PM Shehbaz Sharif to undertake official visit to Russia",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-pm-shehbaz-sharif-to-undertake-official-visit-to-russia/article71733670.ece",
+   "date": "2026-11-23T07:20:02Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The three-day visit to Russia will begin on November 30, aiming to strengthen bilateral ties by securing energy and investment agreements",
+   "score": 7
+  },
+  {
+   "id": "69fca855caba",
+   "title": "Pakistan PM cancels trip to Russia over regional clashes",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-pm-cancels-trip-to-russia-over-regional-clashes/article70691528.ece",
+   "date": "2026-11-23T06:55:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "“In view of the current regional and internal situation, the Prime Minister has decided to postpone his visit to Russia after consultations,” Mr. Sharif’s office said",
+   "score": 8
+  },
+  {
+   "id": "86eece93ba65",
+   "title": "Iraq fire at Basra power station kills at least four, injures 30",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
+   "date": "2026-11-22T07:34:01Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "Civil defence ‌teams brought the fire at the Hartha ‌power station north of Basra ‌under ⁠control after firefighters responded ⁠to the incident, says Iraq’s state news agency",
+   "score": 6
+  },
+  {
+   "id": "9d297baae685",
+   "title": "The Rohingya | Vindication for a persecuted people",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece",
+   "date": "2026-11-22T04:04:37Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The International Court of Justice’s ruling that Myanmar committed genocide during its 2017 ‘clearance operations’ offers a measure of justice for the ethnic and religious minority, but the court has no means of enforcing its judgment",
+   "score": 4
+  },
+  {
+   "id": "271fc2409241",
+   "title": "تهدید ترامپ به جنگ دوباره و «بلندپروازی‌های هسته‌ای» ایران",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqlykz23yjy3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:33:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "۹ ماه پس از آغاز جنگ آمریکا و ایران، رسانه‌های آمریکایی در حالی که عملکرد گذشته دولت را زیر سوال می‌برند، با نگرانی به آینده این درگیری نیز می‌نگرند. نشریه آتلانتیک می‌نویسد دولت ترامپ هنوز تصویر روشنی از هزینه‌های مرحله پیشین جنگ به کنگره و افکار عمومی ارائه نکرده و دسترسی به این اطلاعات را محدود کرده است.",
+   "score": 9
+  },
+  {
+   "id": "348f6131c425",
+   "title": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cwn83zz9d95vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:50:55Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "المتحدث باسم وزارة الخارجية الإيرانية يصرح بأن بلاده ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي.",
+   "score": 9
+  },
+  {
+   "id": "ab4ac2aa2421",
+   "title": "الناقل الوطني للمياه... هل يحقق الأردن استقلاله المائي؟",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/watch/cqpv9kj0g3e7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:46:02Z",
+   "countries": [
+    "JOR"
+   ],
+   "desc": "الأردن تطلق مشروع الناقل الوطني للمياه، الذي تصفه بأكبر مشروع استراتيجي في تاريخ المملكة من حيث حجم الأعمال الإنشائية والكلفة الاستثمارية، وأحد أضخم مشاريع تحلية المياه ونقلها في المنطقة والعالم.",
+   "score": 7,
+   "dup_of": "e1edf6880ff0"
   }
  ]
 }

@@ -1,7 +1,327 @@
 {
- "updated": "2026-11-23T01:48:48Z",
- "count": 408,
+ "updated": "2026-11-23T13:13:34Z",
+ "count": 420,
  "items": [
+  {
+   "id": "b2d48d0742e9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+   "date": "2026-11-23T12:25:24Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran threatens response to any attack amid naval blockade",
+   "title_en": "Iran threatens response to any attack amid naval blockade",
+   "summary_en": "Iran has warned that it will use all available means to counter what it describes as US aggression, while condemning the US naval blockade of its ports.",
+   "body_en": [
+    "Tehran criticized the naval blockade enforced by the United States, describing it as an act of military aggression."
+   ],
+   "title_fa": "ایران در سایه محاصره دریایی به هرگونه حمله هشدار داد",
+   "summary_fa": "ایران هشدار داده است که از تمام ابزارهای موجود برای مقابله با آنچه تجاوز ایالات متحده می‌نامد استفاده خواهد کرد و محاصره دریایی بنادر خود توسط آمریکا را محکوم کرده است.",
+   "body_fa": [
+    "تهران محاصره دریایی اعمال شده توسط ایالات متحده را محکوم کرد و آن را یک اقدام تجاوزکارانه نظامی توصیف نمود."
+   ],
+   "title_ar": "إيران تهدد بالرد على أي هجوم وسط حصار بحري",
+   "summary_ar": "حذرت إيران من أنها ستستخدم كل الوسائل المتاحة لمواجهة ما وصفته بالعدوان الأمريكي، مؤكدة إدانتها للحصار البحري الأمريكي على موانئها.",
+   "body_ar": [
+    "وانتقدت طهران الحصار البحري الذي تفرضه الولايات المتحدة، واصفة إياه بأنه عمل من أعمال العدوان العسكري."
+   ]
+  },
+  {
+   "id": "5e44fff954d2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-worker-un-palestinian-agency-gaza-agency-says",
+   "date": "2026-11-23T12:02:23Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
+   "title_en": "Israeli strike kills worker with UN Palestinian agency in Gaza, agency says",
+   "summary_en": "An Israeli airstrike in the Gaza Strip has killed an employee of the UN Palestinian refugee agency UNRWA, according to the agency and local health officials.",
+   "body_en": [
+    "Medics identified the victim as Adel Al-Helo, who was working near a water well in the Jabalia refugee camp in northern Gaza when the strike occurred. Three other individuals were wounded in the attack.",
+    "An UNRWA spokesperson stated that initial reports indicate the strike hit a street target near the water well, where staff and a guard were performing their regular duties related to water operations."
+   ],
+   "title_fa": "به گفته آژانس امدادرسانی سازمان ملل، حمله اسرائیل یک کارمند این نهاد را در غزه کشت",
+   "summary_fa": "به گفته آژانس امدادرسانی سازمان ملل و مقامات بهداشتی محلی، یک حمله هوایی اسرائیل در نوار غزه یکی از کارمندان آژانس امداد و کار یابی آوارگان فلسطینی (آنروا) را به کشتن داد.",
+   "body_fa": [
+    "پزشکان قربانی را عادل الحلو معرفی کردند که هنگام وقوع حمله در نزدیکی چاه آب در اردوگاه آوارگان جبالیا در شمال غزه مشغول به کار بود. سه نفر دیگر نیز در این حمله زخمی شدند.",
+    "یک سخنگوی آنروا اعلام کرد گزارش‌های اولیه حاکی از آن است که این حمله خیابانی را در نزدیکی چاه آب هدف قرار داده است که در آن کارکنان و یک نگهبان مشغول انجام وظایف عادی خود مربوط به بهره‌برداری از چاه آب بودند."
+   ],
+   "title_ar": "غارة إسرائيلية تقتل عاملاً في وكالة الأمم المتحدة لشؤون اللاجئين الفلسطينيين في غزة",
+   "summary_ar": "أدى غارة جوية إسرائيلية في قطاع غزة إلى مقتل موظف يعمل في وكالة غوث وتشغيل اللاجئين الفلسطينيين (الأونروا)، بحسب الوكالة ومسؤولين صحيين محليين.",
+   "body_ar": [
+    "حدّ المسعفون الضحية بأنه عادل الحلو، الذي كان يعمل بالقرب من بئر مياه في مخيم جباليا للاجئين شمال القطاع عندما وقعت الغارة. وأصيب ثلاثة آخرون في الهجوم.",
+    "وقال متحدث باسم الأونروا إن التقارير الأولية تشير إلى أن الغارة استهدفت هدفاً في الشارع بالقرب من بئر المياه، حيث كان الموظفون وحارس يؤدون مهامهم العادية المرتبطة بعمليات بئر المياه."
+   ]
+  },
+  {
+   "id": "7a6177ce42fc",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-demolishes-one-last-palestinian-communities-jordan-valley",
+   "date": "2026-11-23T11:57:39Z",
+   "countries": [
+    "ISR",
+    "JOR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli army demolishes one of the last Palestinian communities in Jordan Valley",
+   "title_en": "Israeli army demolishes one of the last Palestinian communities in Jordan Valley",
+   "summary_en": "The Israeli army has destroyed Khirbet Samra, a Palestinian Bedouin herding community and one of the last remaining in the occupied West Bank's Jordan Valley.",
+   "body_en": [
+    "All structures and infrastructure in the community were demolished during an army operation on Sunday.",
+    "Alon Cohen of the planning rights group Bimkom told Haaretz that the demolition was cruel and illegal, noting that most structures and utility systems lacked demolition orders, while others were based on orders issued about 17 years ago."
+   ],
+   "title_fa": "ارتش اسرائیل یکی از آخرین جوامع فلسطینی را در دره اردن تخریب کرد",
+   "summary_fa": "ارتش اسرائیل «خربت سمرا»، یک جامعه دامدار بادیه‌نشین فلسطینی و یکی از آخرین جوامع باقی‌مانده در دره اردن در کرانه باختری اشغالی را تخریب کرد.",
+   "body_fa": [
+    "تمامی سازه‌ها و زیرساخت‌های این جامعه طی یک عملیات نظامی در روز یکشنبه تخریب شدند.",
+    "آلون کوهن از گروه حقوق شهرسازی «بیمکوم» به روزنامه هاآرتص گفت که این تخریب ظالمانه و غیرقانونی بوده و خاطرنشان کرد که بیشتر سازه‌ها و سیستم‌های آب و برق هیچ‌گونه دستور تخریبی نداشته‌اند و برخی دیگر بر اساس دستورات صادر شده در حدود ۱۷ سال پیش بوده‌اند."
+   ],
+   "title_ar": "الجيش الإسرائيلي يهدم إحدى آخر التجمعات الفلسطينية في غور الأردن",
+   "summary_ar": "دمر الجيش الإسرائيلي خربة سمرة، وهي تجمع بدوي فلسطيني رعوي ويُعد من آخر التجمعات المتبقية في غور الأردن بالضفة الغربية المحتلة.",
+   "body_ar": [
+    "دُمرت جميع الهنى والبنى التحتية في التجمع خلال عملية للجيش يوم الأحد.",
+    "وقال ألون كوهين من منظمة \"بيمكوم\" لحقوق التخطيط لصحيفة هآرتس إن عملية الهدم كانت قاسية وغير قانونية، مشيراً إلى أن معظم الهياكل وأنظمة المياه والكهرباء لم تكن تحمل أوامر هدم من الأساس، في حين استند البعض الآخر إلى أوامر صدرت قبل نحو 17 عاماً."
+   ]
+  },
+  {
+   "id": "2cdd8fabad86",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-dismisses-dirty-bomb-plot-claims-us",
+   "date": "2026-11-23T11:22:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Tehran dismisses 'dirty bomb' plot claims from US",
+   "title_en": "Tehran dismisses 'dirty bomb' plot claims from US",
+   "summary_en": "Tehran has rejected CNN reports alleging that it planned to stage a \"dirty bomb\" attack inside the United States.",
+   "body_en": [
+    "Iranian Foreign Ministry spokesman Esmaeil Baghaei told the Tasnim news agency that after the alleged nuclear falsehoods, Americans have now turned to fabricating claims about a dirty bomb. He described these assertions as an effort to deflect public accountability for initiating an unlawful and unjust conflict against Iran."
+   ],
+   "title_fa": "تهران ادعای آمریکا درباره توطئه «بمب کثیف» را رد کرد",
+   "summary_fa": "تهران گزارش‌های شبکه سی‌ان‌ان مبنی بر برنامه‌ریزی برای اجرای حمله با «بمب کثیف» در ایالات متحده را رد کرد.",
+   "body_fa": [
+    "اسماعیل بقایی، سخنگوی وزارت خارجه ایران، به خبرگزاری تسنیم گفت که آمریکایی‌ها پس از دروغ هسته‌ای، به ادعای بمب کثیف روی آورده‌اند. وی این ادعاها را تلاشی برای فرار از پاسخگویی به افکار عمومی به دلیل راه‌اندازی جنگی غیرقانونی و ناعادلانه علیه ایران توصیف کرد."
+   ],
+   "title_ar": "طهران تفند مزاعم أمريكية بشأن مؤامرة \"قنبلة قذرة\"",
+   "summary_ar": "رفضت طهران تقارير شبكة CNN التي تزعم تخطيطها لتنفيذ هجوم بـ \"قنبلة قذرة\" داخل الولايات المتحدة.",
+   "body_ar": [
+    "وقال المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي لوكالة تسنيم للأنباء إنه بعد الكذبة النووية، لجأ الأمريكيون إلى ادعاء القنبلة القذرة. ووصف هذه المزاعم بأنها محاولة للتهرب من المساءلة أمام الرأي العام بسبب شن حرب غير قانونية وغير عادلة ضد إيران."
+   ]
+  },
+  {
+   "id": "348f6131c425",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cwn83zz9d95vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T10:50:55Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
+   "title_en": "Iran vows to counter US naval blockade, as US-Qatari talks take place in Washington",
+   "summary_en": "Iran's Foreign Ministry spokesperson stated that the country will use all available means to break the US naval blockade, as regional mediation efforts continue and US-Qatari meetings are held.",
+   "body_en": [
+    "Esmail Baghaei stated during his weekly press conference that Tehran views the blockade as military aggression and holds the right to defend itself. Meanwhile, US and Qatari officials continue diplomatic contacts regarding regional issues and de-escalation.",
+    "Regional diplomatic efforts involve discussions between Qatar, Egypt, and Saudi Arabia, alongside contacts between US and Qatari officials regarding the ongoing situation."
+   ],
+   "title_fa": "ایران بر مقابله با محاصره دریایی آمریکا تأکید کرد؛ دیدار مقامات آمریکایی و قطری در واشنگتن",
+   "summary_fa": "سخنگوی وزارت خارجه ایران اعلام کرد که این کشور از تمام ابزارهای موجود برای شکستن محاصره دریایی آمریکا استفاده خواهد کرد، در حالی که تلاش‌های میانجی‌گری منطقه‌ای و دیدارهای آمریکایی-قطری ادامه دارد.",
+   "body_fa": [
+    "اسماعیل بقایی در نشست خبری هفتگی خود اظهار داشت که تهران این محاصره را تجاوز نظامی می‌داند و حق دفاع از خود را محفوظ می‌داند. در همین حال، مقامات ایالات متحده و قطر به تماس‌های دیپلماتیک پیرامون مسائل منطقه‌ای و کاهش تنش ادامه می‌دهند.",
+    "تلاش‌های دیپلماتیک منطقه‌ای شامل رایزنی‌های میان قطر، مصر و عربستان سعودی و همچنین تماس‌های مقامات آمریکایی و قطری درباره وضعیت جاری است."
+   ],
+   "title_ar": "إيران تؤكد أنها ستستخدم كل أدواتها لمواجهة الحصار البحري الأمريكي، ولقاء أمريكي قطري في واشنطن اليوم",
+   "summary_ar": "صرح المتحدث باسم وزارة الخارجية الإيرانية بأن بلاده ستستخدم كل الوسائل المتاحة لكسر الحصار البحري الأمريكي، وسط استمرار جهود الوساطة الإقليمية واجتماعات أمريكية قطرية.",
+   "body_ar": [
+    "ذكر المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي في مؤتمره الصحفي الأسبوعي أن طهران تعتبر الحصار عدواناً عسكرياً ولها الحق في الدفاع عن نفسها. وفي غضون ذلك، تواصل الأطراف الإقليمية والدولية جهود الوساطة وخفض التصعيد.",
+    "تشمل الجهود الدبلوماسية محادثات بين قطر ومصر والسعودية، إلى جانب الاتصالات بين المسؤولين الأمريكيين والقطريين بشأن التطورات الجارية."
+   ]
+  },
+  {
+   "id": "271fc2409241",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqlykz23yjy3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:33:36Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "تهدید ترامپ به جنگ دوباره و «بلندپروازی‌های هسته‌ای» ایران",
+   "title_en": "Trump threatens renewed military action amid ongoing tensions and reports on Iran's nuclear ambitions",
+   "summary_en": "US President Donald Trump has warned of potential military strikes against Iran if no agreement is reached, while media reports highlight rising tensions and maritime incidents in the Strait of Hormuz.",
+   "body_en": [
+    "In an interview, Donald Trump indicated a willingness to consider military action after the new year if diplomatic efforts fail, accusing Tehran of stalling. Meanwhile, analysis of shipping data points to a rise in maritime incidents in the region.",
+    "Analysts and media reports also discuss the broader strategic implications of the conflict, including economic pressures on Iran and the ongoing assessment of military costs."
+   ],
+   "title_fa": "تهدید ترامپ به جنگ دوباره و «بلندپروازی‌های هسته‌ای» ایران",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهوری آمریکا، نسبت به حملات نظامی احتمالی علیه ایران در صورت عدم دستیابی به توافق هشدار داد، در حالی که گزارش‌های رسانه‌ای بر افزایش تنش‌ها و حوادث دریایی در تنگه هرمز تأکید می‌کنند.",
+   "body_fa": [
+    "دونالد ترامپ در یک مصاحبه از تمایل خود برای بررسی اقدام نظامی پس از سال نو در صورت عدم موفقیت تلاش‌های دیپلماتیک خبر داد و تهران را به وقت‌کشی متهم کرد. در همین حال، تحلیل داده‌های کشتیرانی به افزایش حوادث دریایی در منطقه اشاره دارد.",
+    "تحلیل‌ها و گزارش‌های رسانه‌ای همچنین به پیامدهای راهبردی گسترده‌تر این درگیری، از جمله فشارهای اقتصادی بر ایران و ارزیابی‌های جاری هزینه‌های نظامی می‌پردازند."
+   ],
+   "title_ar": "ترامب يهدد بعمل عسكري جديد وسط توترات مستمرة وتقارير عن طموحات إيران النووية",
+   "summary_ar": "حذر الرئيس الأمريكي دونالد ترامب من احتمال شن ضربات عسكرية ضد إيران إذا لم يتم التوصل إلى اتفاق، بينما تسلط التقارير الإعلامية الضوء على تصاعد التوترات والحوادث البحرية في مضيق هرمز.",
+   "body_ar": [
+    "أشار دونالد ترامب في مقابلة إلى استعدادها للنظر في إجراء عسكري بعد رأس السنة إذا فشلت الجهود الدبلوماسية، متسماً طهران بالمماطلة. وفي غضون ذلك، يشير تحليل بيانات الشحن إلى زيادة الحوادث البحرية في المنطقة.",
+    "تتناول التحليلات والتقارير الإعلامية أيضاً التداعيات الاستراتيجية الأوسع للصراع، بما في ذلك الضغوط الاقتصادية على إيران والتقييمات المستمرة للتكاليف العسكرية."
+   ]
+  },
+  {
+   "id": "7adf8bf79318",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-can-reopen-hormuz-strait-if-us-meets-conditions",
+   "date": "2026-11-23T07:59:53Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran says it can reopen Hormuz Strait if US meets conditions",
+   "title_en": "Iran says it can reopen Hormuz Strait if US meets conditions",
+   "summary_en": "Iranian Foreign Ministry spokesman Esmaeil Baghaei stated that Tehran is capable of swiftly reopening the Strait of Hormuz, provided the United States fulfills the country's demands.",
+   "body_en": [
+    "Baghaei noted that Iran remains committed to honoring its obligations as long as the other party complies with the relevant conditions. He further emphasized that Tehran is fully aware of its objectives and the rights of the Iranian people, stating that the nation will not retreat from defending those rights."
+   ],
+   "title_fa": "ایران: در صورت برآورده شدن شرایط آمریکا، می‌توانیم تنگه هرمز را بازگشایی کنیم",
+   "summary_fa": "اسماعیل بقایی، سخنگوی وزارت خارجه ایران، اظهار داشت که تهران در صورت پایبندی ایالات متحده به مطالبات این کشور، توانایی بازگشایی سریع تنگه هرمز را دارد.",
+   "body_fa": [
+    "بقایی خاطرنشان کرد که ایران همچنان به تعهدات خود پایبند است، مشروط بر اینکه طرف مقابل نیز شرایط مربوطه را رعایت کند. وی همچنین تأکید کرد که تهران از اهداف و حقوق ملت ایران آگاه است و از دفاع از این حقوق عقب‌نشینی نخواهد کرد."
+   ],
+   "title_ar": "إيران تقول إنها تستطيع إعادة فتح مضيق هرمز إذا لبت أمريكا الشروط",
+   "summary_ar": "صرح المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي بأن طهران قادرة على إعادة فتح مضيق هرمز بسرعة، شريطة أن تمتثل الولايات المتحدة لمطالب البلاد.",
+   "body_ar": [
+    "وأشار بقائي إلى أن إيران تظل ملتزمة بالوفاء بالتزاماتها بشرط أن تمتثل الطرف الآخر للظروف ذات الصلة. وأضاف أن طهران تدرك أهدافها وحقوق الشعب الإيراني، مؤكداً أن البلاد لن تتراجع عن الدفاع عن هذه الحقوق."
+   ]
+  },
+  {
+   "id": "69fca855caba",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-pm-cancels-trip-to-russia-over-regional-clashes/article70691528.ece",
+   "date": "2026-11-23T06:55:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 8,
+   "title": "Pakistan PM cancels trip to Russia over regional clashes",
+   "title_en": "Pakistan PM cancels trip to Russia over regional clashes",
+   "summary_en": "Pakistani Prime Minister Shehbaz Sharif has postponed his scheduled visit to Russia, citing ongoing regional tensions and internal developments.",
+   "body_en": [
+    "Sharif was initially expected to travel to Russia from March 3 to 5. The postponement follows recent cross-border clashes between Pakistan and Afghanistan, as well as nationwide protests triggered by the death of Iran's Supreme Leader Ali Khamenei in US-Israel air strikes.",
+    "According to the prime minister's office, the decision was reached after consultations in light of the current internal and regional situation. A new date for the trip will be determined through mutual discussions."
+   ],
+   "title_fa": "نخست‌وزیر پاکستان سفر به روسیه را به دلیل درگیری‌های منطقه‌ای لغو کرد",
+   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، با استناد به تنش‌های منطقه‌ای و تحولات داخلی، سفر برنامه‌ریزی‌شده خود به روسیه را به تعویق انداخت.",
+   "body_fa": [
+    "قرار بود شریف از ۳ تا ۵ مارس به روسیه سفر کند. این تعویق به دنبال درگیری‌های مرزی اخیر میان پاکستان و افغانستان و همچنین اعتراضات سراسری ناشی از جان باختن علی خامنه‌ای، رهبر ایران، در حملات هوایی آمریکا و اسرائیل صورت گرفت.",
+    "دفتر نخست‌وزیری پاکستان اعلام کرد که این تصمیم پس از مشورت‌ها و با توجه به وضعیت جاری داخلی و منطقه‌ای اتخاذ شده است. تاریخ جدید این سفر پس از رایزنی‌های متقابل تعیین خواهد شد."
+   ],
+   "title_ar": "رئيس وزراء باكستان يلغي زيارته إلى روسيا بسبب الاشتباكات الإقليمية",
+   "summary_ar": "أرجأ رئيس وزراء باكستان شهباز شريف زيارته المقررة إلى روسيا، مشيراً إلى التوترات الإقليمية والتطورات الداخلية.",
+   "body_ar": [
+    "كان من المتوقع في الأصل أن يسافر شريف إلى روسيا في الفترة من 3 إلى 5 مارس. يأتي هذا التأجيل في أعقاب الاشتباكات الحدودية الأخيرة بين باكستان وأفغانستان، فضلاً عن الاحتجاجات الواسعة التي اندلعت إثر مقتل المرشد الإيراني علي خامنئي في غارات جوية أمريكية إسرائيلية.",
+    "وذكر مكتب رئيس الوزراء أن القرار اتخذ بعد مشاورات في ظل الوضع الداخلي والإقليمي الحالي. سيتم تحديد موعد جديد للزيارة من خلال المشاورات المتبادلة."
+   ]
+  },
+  {
+   "id": "18b2d17658be",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-netanyahu-calls-trump-launch-attack-iran-soon-possible",
+   "date": "2026-11-23T06:16:03Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 10,
+   "title": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
+   "title_en": "Report: Netanyahu calls on Trump to launch attack on Iran 'as soon as possible'",
+   "summary_en": "According to Israeli broadcaster Kan, Prime Minister Benjamin Netanyahu is urging Donald Trump to launch strikes against Iran as soon as possible.",
+   "body_en": [
+    "The report, published on Sunday, noted that Donald Trump has not yet made a decision on the matter and remains reluctant to do so."
+   ],
+   "title_fa": "گزارش: نتانیاهو از ترامپ خواست «هرچه زودتر» به ایران حمله کند",
+   "summary_fa": "بر اساس گزارش رسانه دولتی اسرائیل، کان، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، از دونالد ترامپ خواسته است تا هرچه سریع‌تر حملاتی را علیه ایران انجام دهد.",
+   "body_fa": [
+    "این گزارش که روز یکشنبه منتشر شد، نشان می‌دهد که دونالد ترامپ هنوز در این زمینه تصمیم نگرفته و در این باره مردد است."
+   ],
+   "title_ar": "تقرير: نتنياهو يدعو ترامب لشن هجوم على إيران \"في أقرب وقت ممكن\"",
+   "summary_ar": "وفقاً لهيئة البث الإسرائيلية \"كان\"، يحث رئيس الوزراء الإسرائيلي بنيامين نتنياهو دونالد ترامب على شن ضربات ضد إيران في أقرب وقت ممكن.",
+   "body_ar": [
+    "وأشارت التقرير، الذي نشر يوم الأحد، إلى أن دونالد ترامب لم يتخذ قراراً بعد بشأن هذه المسألة وأنه متردد في القيام بذلك."
+   ]
+  },
+  {
+   "id": "5a141e305e46",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-he-predicted-drops-oil-prices-stock-market-and-hits-iran",
+   "date": "2026-11-23T05:28:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Trump claims he predicted drops in oil prices, stock market and hits from Iran after Democratic win in midterm elections",
+   "title_en": "Trump claims he predicted drops in oil prices, stock market and hits from Iran after Democratic win in midterm elections",
+   "summary_en": "US President Donald Trump asserted that he foresaw the downturn in the stock market, increased aggression from Iran, and a drop in oil prices following the Democratic Party's victory in the midterm elections.",
+   "body_en": [
+    "Writing on social media, Trump stated that the stock market has declined substantially and that Iran has escalated its attacks, launching numerous drones and missiles that were intercepted without causing damage. He maintained that oil prices have plummeted to record levels since the election.",
+    "In a separate post, the US president questioned the sharp fall in oil prices and dismissed the entire situation as a hoax."
+   ],
+   "title_fa": "ترامپ ادعا کرد کاهش قیمت نفت، بازار سهام و حملات ایران را پس از پیروزی دموکرات‌ها پیش‌بینی کرده بود",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، ادعا کرد که افت بازار سهام، افزایش تهاجم ایران و کاهش قیمت نفت را پس از پیروزی حزب دموکرات در انتخابات میان‌دوره‌ای پیش‌بینی کرده بود.",
+   "body_fa": [
+    "ترامپ در رسانه‌های اجتماعی نوشت که بازار سهام به طور قابل توجهی افت کرده و ایران حملات خود را افزایش داده و پهپادها و موشک‌های متعددی را شلیک کرده که همگی بدون ایجاد خسارت رهگیری شده‌اند. وی تأکید کرد که قیمت نفت از زمان انتخابات به طور بی‌سابقه ای کاهش یافته است.",
+    "رئیس‌جمهور آمریکا در پست دیگری افت شدید قیمت نفت را زیر سوال برد و کل ماجرا را یک فریب بزرگ خواند."
+   ],
+   "title_ar": "ترامب يدعي أنه تنبأ بانخفاض أسعار النفط وسوق الأسهم والهجمات الإيرانية بعد فوز الديمقراطيين",
+   "summary_ar": "أكد الرئيس الأمريكي دونالد ترامب أنه توقع تراجع سوق الأسهم، وزيادة عدوانية إيران، وانخفاض أسعار النفط عقب فوز الحزب الديمقراطي في انتخابات التجديد النصفي.",
+   "body_ar": [
+    "كتب ترامب على وسائل التواصل الاجتماعي أن سوق الأسهم انخفض بشكل كبير وأن إيران صعدت هجماتها، وأطلقت العديد من الطائرات بدون طيار والصواريخ التي تم اعتراضها دون أضرار. وأكد أن أسعار النفط هبطت إلى مستويات قياسية منذ الانتخابات.",
+    "وفي منشور منفصل، شكك الرئيس الأمريكي في الانخفاض الحاد لأسعار النفط ووصف الأمر برمته بأنه خدعة."
+   ]
+  },
+  {
+   "id": "b281cbd45981",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others",
+   "date": "2026-11-23T03:42:49Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Saudi attack on Yemen's Hodeidah kills four, wounds 18 others",
+   "title_en": "Saudi attack on Yemen's Hodeidah kills four, wounds 18 others",
+   "summary_en": "A Saudi attack on the Yemeni port city of Hodeidah has killed at least four people and wounded 18 others, according to Houthi-affiliated media.",
+   "body_en": [
+    "The strike reportedly targeted a building belonging to Yemen's Public Telecommunications Corporation."
+   ],
+   "title_fa": "حمله عربستان سعودی به الحدیده یمن چهار کشته و ۱۸ زخمی برجای گذاشت",
+   "summary_fa": "بر اساس رسانه‌های وابسته به حوثی‌ها، یک حمله سعودی به شهر بندری الحدیده در یمن دست‌کم چهار کشته و ۱۸ زخمی برجای گذاشت.",
+   "body_fa": [
+    "گزارش‌ها حاکی از آن است که این حمله ساختمانی متعلق به شرکت عمومی مخابرات یمن را هدف قرار داده است."
+   ],
+   "title_ar": "هجوم سعودي على الحديدة في اليمن يسفر عن مقتل أربعة وإصابة 18 آخرين",
+   "summary_ar": "أسفر هجوم سعودي على مدينة الحديدة الساحلية في اليمن عن مقتل أربعة أشخاص على الأقل وإصابة 18 آخرين، بحسب وسائل إعلام تابعة للحوثيين.",
+   "body_ar": [
+    "وافادت التقارير بأن الغارة استهدفت مبنى تابعاً للمؤسسة العامة للاتصالات في اليمن."
+   ]
+  },
   {
    "id": "a87d72f4b7be",
    "lang": "fa",
@@ -30,6 +350,35 @@
    "body_ar": [
     "ادعى رئيس الولايات المتحدة دونالد ترامب في منشور على منصة \"تروث سوشيال\" أن إيران أطلقت خلال الأسبوع الماضي طائرات مسيرة وصواريخ أكثر من أي وقت مضى خلال أكثر من عام. ولم يشر ترامب إلى أي تقرير أو مصدر إحصائي لدعم ادعائه، لكنه أكد أن جميع الأسلحة المطلقة تم اعتراضها وإسقاطها دون إلحاق أي أضرار.",
     "وأضاف ترامب أن القادة الإيرانيين يعتبرون الديمقراطيين ضعفاء وغير فعالين. وأشار إلى أن تراجع أسواق الأسهم الأمريكية وتصاعد الهجمات الإيرانية هما نتيجتان متوقعتان لفوز الحزب الديمقراطي في الانتخابات التكميلية للكونغرس."
+   ]
+  },
+  {
+   "id": "70c18af8fbad",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/why-turkey-warning-israeli-military-operation-syria",
+   "date": "2026-11-23T01:39:15Z",
+   "countries": [
+    "ISR",
+    "SYR",
+    "TUR"
+   ],
+   "score": 8,
+   "title": "Why is Turkey warning of an Israeli military operation in Syria?",
+   "title_en": "Why is Turkey warning of an Israeli military operation in Syria?",
+   "summary_en": "Turkey's foreign minister has warned that Israel could launch a military operation in Syria, accusing Tel Aviv of trying to provoke the Syrian army.",
+   "body_en": [
+    "Turkish Foreign Minister Hakan Fidan stated in a televised interview on Saturday that Ankara had raised this possibility with regional allies as well as US and European officials. He alleged that Israel was supporting a faction within Syria's Druze community by supplying weapons and ammunition weekly to create a pretext for intervention."
+   ],
+   "title_fa": "چرا ترکیه درباره عملیات نظامی اسرائیل در سوریه هشدار می‌دهد؟",
+   "summary_fa": "وزیر امور خارجه ترکیه هشدار داد که اسرائیل ممکن است دست به یک عملیات نظامی در سوریه بزند و این رژیم را به تلاش برای تحریک ارتش سوریه متهم کرد.",
+   "body_fa": [
+    "هاکان فیدان، وزیر امور خارجه ترکیه، روز شنبه در یک مصاحبه تلویزیونی اعلام کرد که آنکارا این احتمال را با متحدان منطقه‌ای و همچنین مقامات آمریکایی و اروپایی مطرح کرده است. او ادعا کرد که اسرائیل با تامین هفتگی سلاح و مهمات از یکی از جناح‌های جامعه دروزی در سوریه حمایت می‌کند تا بهانه‌ای برای مداخله ایجاد کند."
+   ],
+   "title_ar": "لماذا تحذر تركيا من عملية عسكرية إسرائيلية في سوريا؟",
+   "summary_ar": "حذر وزير الخارجية التركي من احتمال ششن إسرائيل عملية عسكرية في سوريا، متخدماً تل أبيب بمحاولة استفزاز الجيش السوري.",
+   "body_ar": [
+    "ذكر وزير الخارجية التركي هاكان فيدان في مقابلة تلفزيونية يوم السبت أن أنقرة أثارت هذا الاحتمال مع الحلفاء الإقليميين وكذلك مع المسؤولين الأمريكيين والأوروبيين. وأدعى أن إسرائيل تدعم فصيلاً داخل طائفة الدروز في سوريا من خلال تزويده بالسلاح والذخيرة أسبوعياً لخلق ذريعة للتدخل."
    ]
   },
   {
