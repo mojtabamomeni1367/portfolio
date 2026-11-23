@@ -1,7 +1,881 @@
 {
  "month": "2026-11",
- "count": 210,
+ "count": 240,
  "items": [
+  {
+   "id": "27893b3f144f",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cw80z9kxnk7jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T21:53:02Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 6,
+   "title": "مخالفان عربستان جنگ ریاض با حوثی‌ها را چگونه می‌بینند؟",
+   "title_en": "How Saudi opponents view Riyadh's war with the Houthis",
+   "summary_en": "Saudi opposition figures in exile have intensified their criticism of Crown Prince Mohammed bin Salman over Riyadh's escalating conflict with the Houthis, describing the war as a failure that threatens national security and economic plans under Vision 2030. Opponents have called for an immediate end to the military campaign and expressed concern over foreign policy priorities.",
+   "body_en": [
+    "Opposition activists, including Yahya Assiri and members of the National Assembly Party, condemned the ongoing attacks on Saudi infrastructure and called on the leadership to halt the conflict. They argued that civilian populations bear the brunt of the suffering in a war they did not choose, while government spending on entertainment projects has failed to protect national security.",
+    "Critics also pointed to limited military support from regional allies under the Mecca pact and expressed strong opposition to potential normalization with Israel. Academics and commentators warned that prolonged security instability risks eroding investor confidence essential for the success of Saudi economic development goals."
+   ],
+   "title_fa": "مخالفان عربستان جنگ ریاض با حوثی‌ها را چگونه می‌بینند؟",
+   "summary_fa": "مخالفان در تبعید حکومت عربستان سعودی با تشدید درگیری‌ها میان ریاض و حوثی‌ها، انتقادهای خود را از نحوه مدیریت جنگ توسط محمد بن سلمان افزایش داده و این نبرد را شکستی دانسته‌اند که امنیت و اهداف اقتصادی «چشم‌انداز ۲۰۳۰» کشور را تهدید می‌کند. منتقدان خواستار پایان فوری این درگیری نظامی و توقف تصمیم‌گیری‌های پرریسک شده‌اند.",
+   "body_fa": [
+    "فعالان اپوزیسیون از جمله یحیی عسیری و اعضای «حزب مجمع ملی» با محکوم کردن حملات به زیرساخت‌های عربستان، از حکومت خواستند به این درگیری پایان دهد. آن‌ها تاکید کردند که مردم غیرنظامی تاوان جنگی ناخواسته را می‌پردازند و صرف هزینه‌های هنگفت در بخش سرگرمی نتوانسته امنیت کشور را تامین کند.",
+    "منتقدان همچنین به محدود بودن حمایت‌های نظامی متحدان منطقه‌ای در قالب پیمان مکه اشاره کرده و با هرگونه عادی‌سازی روابط با اسرائیل مخالفت کرده‌اند. تحلیلگران و پژوهشگران منتقد هشدار داده‌اند که تداوم ناامنی، اعتماد سرمایه‌گذاران را که برای تحقق اهداف اقتصادی عربستان ضروری است، تضعیف خواهد کرد."
+   ],
+   "title_ar": "كيف يرى معارضو السعودية حرب الرياض مع الحوثيين؟",
+   "summary_ar": "كثّفت شخصيات المعارضة السعودية في المنفى انتقاداتها لولي العهد محمد بن سلمان على خلفية تصاعد الصراع بين الرياض والحوثيين، واصفة الحرب بأنها فشل يهدد أمن المملكة وأهدافها الاقتصادية ضمن \"رؤية 2030\". وطالب المعارضون بإنهاء فوري للحملة العسكرية والتوقف عن اتخاذ القرارات المغامرة.",
+   "body_ar": [
+    "ندد ناشطون معارضون، بمن فيهم يحيى عسيري وأعضاء \"حزب الجمعية الوطنية\"، بالهجمات المستمرة على البنية التحتية السعودية ودعوا القيادة إلى إيقاف الصراع. وأكدوا أن المدنيين يتحملون عبء الحرب التي لم يختاروها، مشيرين إلى أن الإنفاق الضخم على قطاع الترفيه لم يحقق الأمن القومي.",
+    "كما أشار النقاد إلى محدودية الدعم العسكري من حلفاء اتفاقية مكة، معبرين عن رفضهم الشديد لأي خطوات تقارب مع إسرائيل. وأكد باحثون ومنتقدون بارزون أن استمرار عدم الاستقرار الأمني يهدد بتقويض ثقة المستثمرين الضرورية لنجاح الأهداف الاقتصادية السعودية."
+   ]
+  },
+  {
+   "id": "4147127ddb68",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iraq-khor-mor-gas-field-drone-attack-november-9-2026/article71681223.ece",
+   "date": "2026-11-08T20:57:32Z",
+   "countries": [
+    "IRQ"
+   ],
+   "score": 8,
+   "title": "Production suspended at Iraq’s Khor Mor gas field after drone attack, sources say",
+   "title_en": "Production suspended at Iraq’s Khor Mor gas field after drone attack, sources say",
+   "summary_en": "Production at the Khor Mor gas field in Iraq's Kurdistan region was halted on Sunday following a drone attack that struck a gas storage facility.",
+   "body_en": [
+    "Two security sources reported smoke rising from the site, which is one of the largest gas fields in the Kurdistan region and supplies gas for regional power generation. An engineer at the facility confirmed the hit on the storage unit and stated that crew members were directed to shelters due to fears of follow-up attacks."
+   ],
+   "title_fa": "به گفته منابع، پس از حمله پهپادی تولید در میدان گازی خورمور عراق متوقف شد",
+   "summary_fa": "تولید در میدان گازی خورمور در اقلیم کردستان عراق روز یکشنبه پس از حمله پهپادی به یک مخزن نگهداری گاز متوقف شد.",
+   "body_fa": [
+    "دو منبع امنیتی از مشاهده دود در این سایت خبر دادند که یکی از بزرگ‌ترین میدان‌های گازی اقلیم کردستان است و گاز مورد نیاز نیروگاه‌های برق منطقه را تامین می‌کند. یک مهندس شاغل در این میدان تایید کرد که واحد ذخیره‌سازی مورد اصابت قرار گرفته و به کارمندان دستور داده شد از ترس حملات بعدی به پناهگاه بروند."
+   ],
+   "title_ar": "مصادر: تعليق الإنتاج في حقل خور مور للغاز في العراق بعد هجوم بطائرة مسيرة",
+   "summary_ar": "توقف الإنتاج في حقل خور مور للغاز في إقليم كردستان العراق يوم الأحد عقب هجوم بطائرة مسيرة استهدف منشأة لتخزين الغاز.",
+   "body_ar": [
+    "أفاد مصدران أمنيان بتصاعد الدخان من الموقع، الذي يعد من أكبر حقول الغاز في إقليم كردستان ويزود محطات توليد الكهرباء الإقليمية بالغاز. وأكد مهندس يعمل في الحقل إصابة منشأة التخزين، مشيراً إلى صدور أوامر للعمال باللجوء إلى الملاجئ خوفاً من هجمات إضافية."
+   ]
+  },
+  {
+   "id": "52f09d37ed39",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-delegation-meet-president-kurdish-region-northern-iraq",
+   "date": "2026-11-08T20:52:38Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 7,
+   "title": "Iranian delegation meet president of Kurdish region in northern Iraq",
+   "title_en": "Iranian delegation meet president of Kurdish region in northern Iraq",
+   "summary_en": "The president of the Kurdistan Regional Government in northern Iraq met with an Iranian delegation on Sunday to review bilateral security agreements.",
+   "body_en": [
+    "According to a statement from the president's office, the discussions focused on enhancing security cooperation and mechanisms for regional stability. Both parties emphasized the necessity of relying on dialogue, diplomacy, and peaceful solutions to address disputes and challenges."
+   ],
+   "title_fa": "دیدار هیات ایرانی با رئیس اقلیم کردستان در شمال عراق",
+   "summary_fa": "رئیس اقلیم کردستان عراق روز یکشنبه با یک هیات ایرانی دیدار کرد تا توافق‌های امنیتی دوطرفه را بررسی کند.",
+   "body_fa": [
+    "طبق بیانیه دفتر ریاست اقلیم، گفت‌وگوها بر بهبود همکاری‌های امنیتی و سازوکارهای حفظ ثبات در منطقه متمرکز بود. دو طرف بر لزوم تکیه بر گفتگو، راه‌حل‌های مسالمت‌آمیز و دیپلماسی برای حل اختلافات و چالش‌ها تاکید کردند."
+   ],
+   "title_ar": "وفد إيراني يلتقي رئيس اقليم كردستان في شمال العراق",
+   "summary_ar": "التقى رئيس حكومة إقليم كردستان شمال العراق بوفد إيراني يوم الأحد لمراجعة الاتفاقيات الأمنية بين الجانبين.",
+   "body_ar": [
+    "وفقاً لبيان صادر عن مكتب الرئاسة، ركزت المباحثات على تعزيز التعاون الأمني وآليات حفظ الاستقرار في المنطقة. وشدد الطرفان على ضرورت الاعتماد على الحوار والحلول السلمية والدبلوماسية لمعالجة الخلافات والتحديات."
+   ]
+  },
+  {
+   "id": "cb8470831358",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+   "date": "2026-11-08T20:13:39Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 9,
+   "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+   "title_en": "Iran threatens to ‘rain down hell’ if US escalates war",
+   "summary_en": "Iranian Foreign Minister Abbas Araghchi warned that Tehran will \"rain down hell\" if the United States resumes military attacks, while US President Donald Trump stated that renewed strikes are \"highly unlikely\" if progress is made in negotiations.",
+   "body_en": [
+    "Araghchi reiterated a two-day proposal requiring an end to the war on all fronts and warned that Iranian forces are ready to target American positions in the region if Washington chooses to escalate. Concurrently, Brigadier-General Ali Belali of the IRGC Aerospace Force stated that Iran's armed forces have upgraded their capabilities and prepared severe responses to any mistakes by the enemy.",
+    "President Trump noted that three US aircraft carriers remain positioned in the region and cited 38 Iranian targets ready to be struck if necessary, but emphasized that strikes depend on whether Tehran signs a strong agreement covering its nuclear program and the Strait of Hormuz. The diplomatic statements follow recent US midterm election results and an incident in which an oil tanker caught fire after hitting a naval mine east of the Strait of Hormuz."
+   ],
+   "title_fa": "ایران تهدید کرد اگر آمریکا جنگ را گسترش دهد «جهنم به پا خواهد کرد»",
+   "summary_fa": "عباس عراقچی، وزیر امور خارجه ایران، تحذیر داد که در صورت ازسرگیری حملات نظامی ایالات متحده، تهران «جهنم به پا خواهد کرد»، در حالی که دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد در صورت پیشرفت در مذاکرات، حملات مجدد «بسیار بعید» است.",
+   "body_fa": [
+    "عراقچی با تاکید بر پیشنهاد دو روزه ایران که خواستار پایان جنگ در همه جبهه‌هاست، هشدار داد که نیروهای ایرانی در صورت تصعید از سوی واشنگتن، آماده هدف قرار دادن مواضع آمریکا در منطقه هستند. هم‌زمان، سرتیپ پاسدار علی بلالی از نیروی هوافضای سپاه پاسداران اعلام کرد که نیروهای مسلح ایران توانمندی‌های خود را ارتقا داده و آماده پاسخ‌های شدید به هرگونه اشتباه دشمن هستند.",
+    "رئیس‌جمهور ترامپ اشاره کرد که سه ناو هواپیمابر آمریکایی در منطقه مستقر هستند و به ۳۸ هدف ایرانی اشاره نمود که در صورت لزوم قابل هدف‌گیری هستند، اما تاکید کرد که ادامه حملات به امضای یک توافق محکم درباره برنامه هسته‌ای و تنگه هرمز بستگی دارد. این موضع‌گیری‌ها پس از برگزاری انتخابات میان‌دوره‌ای آمریکا و حادثه آتش‌سوزی یک نفتکش بر اثر برخورد با مین دریایی در شرق تنگه هرمز مطرح می‌شود."
+   ],
+   "title_ar": "إيران تهدد بـ \"إمطار جهنم\" إذا صعدت الولايات المتحدة الحرب",
+   "summary_ar": "حذر وزير الخارجية الإيراني عباس عراقجي من أن تهران سـ \"تمطر جهنم\" إذا استأنفت الولايات المتحدة الهجمات العسكرية، بينما صرح الرئيس الأمريكي دونالد ترامب بأن استئناف الضربات \"غير ترجيحي للغاية\" إذا تم تحقيق تقدم في المفاوضات.",
+   "body_ar": [
+    "جدد عباس عراقجي طرح عرض إيراني لمدة يومين يتطلب إنهاء الحرب على جميع الجبهات، وتحذيراً من أن القوات الإيرانية مستعدة لاستهداف المواقع الأمريكية في المنطقة إذا اختارت واشنطن التصعيد. بالتوازي، صرح العميد علي بلالي من القوة الجوية لفرق الحرس الثوري بأن القوات المسلحة الإيرانية طورت قدراتها واستعدت لرادع صارم لأي خطأ من العدو.",
+    "أشار الرئيس ترامب إلى أن ثلاث حاملات طائرات أمريكية تظل منتشرة في المنطقة مع وجود 38 هدفاً إيرانياً جاهزاً للضرب إذا لزم الأمر، لكنه شدد على أن الضربات تعتمد على ما إذا كانت تهران ستوقع اتفاقاً قوياً يشمل برنامجها النووي ومضيق هرمز. تأتي هذه التصريحات في أعقاب نتائج انتخابات منتصف الولاية الأمريكية وحادث اشتعال النيران في ناقلة نفط إثر اصطدامها بلغم بحري شرق مضيق هرمز."
+   ]
+  },
+  {
+   "id": "c119943acb80",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-sandbank-collapse-kills-5-amid-heavy-rains",
+   "date": "2026-11-08T19:53:24Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Gaza sandbank collapse kills five amid heavy rains",
+   "title_en": "Gaza sandbank collapse kills five amid heavy rains",
+   "summary_en": "At least five people, including three children, were killed when heavy rains triggered the collapse of a sandbank in Deir al-Balah in central Gaza, according to the Wafa news agency.",
+   "body_en": [
+    "A civil defence spokesperson stated that emergency workers pulled five injured people from the rubble after their tents were struck by the collapse, while rescue teams continue searching for survivors.",
+    "The fatal incident occurred amid severe weather conditions affecting displaced Palestinians in Gaza, prompting national and international organizations to warn that urgent intervention is required to provide safe shelters and winter supplies."
+   ],
+   "title_fa": "ریزش دیواره شنی در غزه در پی بارندگی‌های شدید پنج کشته برجا گذاشت",
+   "summary_fa": "به گزارش خبرگزاری وفا، در پی بارندگی‌های شدید و ریزش دیواره‌ای شنی در دیرالبلاح در مرکز غزه، دست‌کم پنج نفر از جمله سه کودک جان باختند.",
+   "body_fa": [
+    "سخنگوی دفاع مدنی اعلام کرد که نیروهای امدادی پس از برخورد ریزش با چادرهای آوارگان، پنج فرد زخمی را از زیر آوار بیرون کشیدند و تیم‌های نجات همچنان در حال جستجو برای یافتن بازماندگان هستند.",
+    "این حادثه مرگبار در میان خامت اوضاع جوی و شرایط سخت آوارگان فلسطینی در غزه رخ داده است، امر موجب شده تا نهادهای ملی و بین‌المللی درباره ضرورت مداخله فوری و تأمین پناهگاه‌های امن و ملزومات زمستانی هشدار دهند."
+   ],
+   "title_ar": "انهيار ساتر رملي في غزة بسبب الأمطار الغزيرة يودي بحياة خمسة أفراد",
+   "summary_ar": "لقي خمسة أشخاص على الأقل مصرعهم، بينهم ثلاثة أطفال، إثر انهيار ساتر رملي جراء الأمطار الغزيرة في دير البلح بوسط قطاع غزة، وفقاً لما أوردته وكالة الأنباء الفلسطينية (وفا).",
+   "body_ar": [
+    "وأفاد متحدث باسم الدفاع المدني بأن طواقم الإنقاذ انتشلت خمسة جرحى من تحت الأنقاض بعدما تضررت خيامهم جراء الانهيار، مشيراً إلى استمرار عمليات البحث عن نaging.",
+    "ووقع هذا الحادث المؤلم في ظل تدهور الأحوال الجوية التي يواجهها النازحون الفلسطينيون في غزة، ما دفع مؤسسات محلية ودولية للتأكيد على الحاجة الماسة لتدخل عاجل وتوفير مآوٍ آمنة ومستلزمات الشتاء."
+   ]
+  },
+  {
+   "id": "b86112cda111",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-has-agreed-us-allow-oil-exports-through-hormuz-minister-says",
+   "date": "2026-11-08T19:47:20Z",
+   "countries": [
+    "IRQ",
+    "OMN"
+   ],
+   "score": 8,
+   "title": "Iraq has agreed with the US to allow oil exports through Hormuz, minister says",
+   "title_en": "Iraq has agreed with the US to allow oil exports through Hormuz, minister says",
+   "summary_en": "Iraqi Foreign Minister Fuad Hussein announced that Iraq has reached understandings with the US to facilitate Iraqi oil exports through the Strait of Hormuz using a shipping lane near Oman. He also noted that Iraqi losses from the Iran war and oil export disruptions have reached $60 billion.",
+   "body_en": [
+    "In an interview with Al Jazeera, Hussein stated that the US Treasury has requested Iraq to close all border crossings with Iran except two to increase economic pressure on Tehran. One of the permitted crossings will remain open in the Kurdistan region."
+   ],
+   "title_fa": "وزیر امور خارجه عراق: بغداد با آمریکا برای مجاز ساختن صادرات نفت از طریق هرمز به توافق رسیده است",
+   "summary_fa": "فواد حسین، وزیر امور خارجه عراق، اعلام کرد که این کشور به تفاهم‌هایی با آمریکا دست یافته است تا صادرات نفت عراق از طریق تنگه هرمز و از مسیر یک خط کشتیرانی در نزدیکی عمان انجام شود. وی همچنین اشاره کرد که خسارات عراق از جنگ ایران و اختلال در صادرات نفت به ۶۰ میلیارد دلار رسیده است.",
+   "body_fa": [
+    "حسین در گفتگو با الجزیره گفت که وزارت خزانه‌داری آمریکا از عراق خواسته است تمام گذرگاه‌های مرزی خود با ایران به جز دو مورد را در راستای فشار اقتصادی بر تهران ببندد. یکی از گذرگاه‌های مستثنی شده در اقلیم کردستان قرار دارد."
+   ],
+   "title_ar": "العراق يتفق مع الولايات المتحدة على السماح بتصدير النفط عبر هرمز، حسبما صرح الوزير",
+   "summary_ar": "أعلن وزير الخارجية العراقي فؤاد حسين أن العراق توصل إلى تفاهمات مع الولايات المتحدة للسماح بتصدير النفط العراقي عبر مضيق هرمز من خلال ممر مالي بالقرب من عمان. وأشار أيضاً إلى أن خسائر العراق من حرب إيران واضطرابات تصدير النفط بلغت 60 مليار دولار.",
+   "body_ar": [
+    "وفي مقابلة مع الجزيرة، ذكر حسين أن الخزانة الأمريكية طلبت من العراق إغلاق جميع المعابر الحدودية مع إيران باستثناء اثنين كجزء من زيادة الضغوط الاقتصادية على طهران. وسيبقى أحد المعابر الاستثنائية مفتوحاً في إقليم كردستان."
+   ]
+  },
+  {
+   "id": "76decd18b8d5",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/indian-seafarers-stranded-in-yemen-evacuated/article71681203.ece",
+   "date": "2026-11-08T19:13:45Z",
+   "countries": [
+    "IND",
+    "YEM"
+   ],
+   "score": 5,
+   "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+   "title_en": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+   "summary_en": "Nineteen Indian seafarers who were stranded in Hodeidah and Sana'a for two weeks have been safely evacuated and are returning to India, according to the Indian Embassy in Yemen.",
+   "body_en": [
+    "The Indian Embassy in Yemen announced on X that all 19 seafarers are safe and in good health. The diplomatic mission expressed gratitude to all parties involved for their support in facilitating the evacuation."
+   ],
+   "title_fa": "سفارت هند: ۱۹ دریانورد هندی گرفتار در یمن تخلیه شدند",
+   "summary_fa": "به گفته سفارت هند در یمن، ۱۹ دریانورد هندی که به مدت دو هفته در الحدیده و صنعا گرفتار شده بودند، به سلامت تخلیه شده و در راه بازگشت به هند هستند.",
+   "body_fa": [
+    "سفارت هند در یمن در پیامی در شبکه اجتماعی اکس اعلام کرد که هر ۱۹ دریانورد در سلامت کامل هستند. این نمایندگی دیپلماتیک از تمامی طرف‌های مرتبط برای همکاری در تسهیل این تخلیه قدردانی کرد."
+   ],
+   "title_ar": "السفارة تعلن إجلاء 19 بحاراً هندياً كانوا عالقين في اليمن",
+   "summary_ar": "أعلنت السفارة الهندية في اليمن عن إجلاء 19 بحاراً هندياً بسلام بعد أن ظلوا عالقين في الحديدة وصنعاء لمدة أسبوعين، مؤكدة أنهم في طريق عودتهم إلى الهند.",
+   "body_ar": [
+    "وأوضحت السفارة الهندية في اليمن عبر منصة \"إكس\" أن جميع البحارة الـ 19 بصحة جيدة وآمنون. وأعربت البعثة الدبلوماسية عن شكرها لجميع الجهات المعنية على تعاونها ودعمها في تسهيل عملية الإجلاء."
+   ]
+  },
+  {
+   "id": "a7c81c26346e",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043085/eisenkot-says-israel-in-devastating-diplomatic-crisis-as-he-seeks-to-form-govt",
+   "date": "2026-11-08T18:45:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt",
+   "title_en": "Eisenkot says Israel in 'devastating diplomatic crisis' as he seeks to form govt",
+   "summary_en": "Gadi Eisenkot began efforts to form a government after receiving a 28-day mandate from President Isaac Herzog, warning that Israel faces an unprecedented diplomatic crisis. He urged Benjamin Netanyahu's Likud Party and Bezalel Smotrich's far-right party to join a national emergency government under his own premiership.",
+   "body_en": [
+    "Eisenkot warned that Israel's democratic system and international relations are gravely strained, noting that key allies are reassessing ties. While calling for unconventional political moves to achieve a parliamentary majority, he laid out core principles that include recognizing Israel as a Jewish and democratic state, mandatory military draft for all, and dismantling Hamas.",
+    "Netanyahu also advocated for a unity government among Zionist parties while ruling out working with Arab representatives, but he gave no indication of accepting Eisenkot as prime minister. If Eisenkot fails within his allotted time, Netanyahu will likely be given an opportunity to form an administration, with the prospect of another election looming if both fail."
+   ],
+   "title_fa": "آیزنکوت هم‌زمان با تلاش برای تشکیل دولت گفت اسرائیل در یک «بحران دیپلماتیک ویرانگر» قرار دارد",
+   "summary_fa": "گادی آیزنکوت پس از دریافت مأموریت ۲۸ روزه از سوی اسحاق هرتزوگ برای تشکیل دولت، هشدار داد که اسرائیل با یک بحران دیپلماتیک بی‌سابقه روبه‌رو است. او از حزب لیکودِ بنیامین نتانیاهو و حزب راست افراطیِ بزالل اسموتریچ خواست تا به یک دولت اضطراری ملی به نخست‌وزیری او بپیوندند.",
+   "body_fa": [
+    "آیزنکوت هشدار داد که دموکراسی و روابط خارجی اسرائیل در موقعیتی شکننده قرار دارند و حتی نزدیک‌ترین هم‌پیمانان نیز در حال بازنگری در روابط خود با این کشور هستند. او با تأکید بر لزوم اقدامات نامتعارف سیاسی برای دستیابی به اکثریت، اصولی چون شناسایی اسرائیل به عنوان کشوری یهودی و دموکراتیک، خدمت وظیفه عمومی برای تقویت ارتش و نابودی توان نظامی حماس را مطرح کرد.",
+    "در مقابل، نتانیاهو نیز خواستار تشکیل دولت وحدت میان احزاب صهیونیستی شد و ائتلاف با احزاب عرب را رد کرد، اما اشاره‌ای به پذیرش نخست‌وزیری آیزنکوت نکرد. در صورت شکست آیزنکوت در مهلت قانونی، احتمالاً فرصت تشکیل کابینه به نتانیاهو واگذار خواهد شد و در صورت ناکامی او نیز ممکن است انتخابات جدیدی برگزار شود."
+   ],
+   "title_ar": "آيزنكوت يقول إن إسرائيل تمر بـ'أزمة دبلوماسية مدمرة' مع بدئه مساعي تشكيل الحكومة",
+   "summary_ar": "بدأ غادي آيزنكوت مساعيه لتشكيل الحكومة الإسرائيلية بعد تكليفه رسمياً من قِبل الرئيس يتسحاق هرتسوغ بمهلة تمتد 28 يوماً، محذراً من أن البلاد تواجه أزمة دبلوماسية مدمرة. ودعا آيزنكوت كلاً من حزب الليكود بزعامة بنيامين نتنياهو وحزب بتسلئيل سموتريتش اليميني المتطرف للانضمام إلى حكومة طوارئ وطنية تكون تحت رئاسته فقط.",
+   "body_ar": [
+    "وحذر آيزنكوت من أن الديمقراطية الإسرائيلية والعلاقات الدبلوماسية تمر بظروف بالغة الحرج، مشيراً إلى أن الحلفاء الاستراتيجيين يعيدون تقييم علاقاتهم بإسرائيل. ودعا إلى اتخاذ خطوات سياسية غير تقليدية، واضعاً مبادئ تشمل الاعتراف بإسرائيل كدولة يهودية وديمقراطية، وفرض التجنيد على الجميع لدعم الجيش، والقضاء على قدرات حماس العسكرية.",
+    "من جانبه، دعا نتنياهو إلى حكومة وحدة تضم الأحزاب الصهيونية مستبعداً التحالف مع العرب، دون أن يبدي أي إشارة لقبوله الخدمة تحت رئاسة آيزنكوت. وفي حال فشل آيزنكوت خلال المهلة المحددة، فمن المرجح أن يُمنح نتنياهو الفرصة لتشكيل الحكومة، مع احتمال الذهاب إلى انتخابات جديدة إذا فشل الاثنان."
+   ]
+  },
+  {
+   "id": "1bca3ddfb038",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+   "date": "2026-11-08T18:12:27Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+   "title_en": "Eisenkot open to Netanyahu joining Israel’s next government",
+   "summary_en": "Israel's opposition leader Gadi Eisenkot, tasked by President Isaac Herzog with forming the next government, said he is open to including Prime Minister Benjamin Netanyahu and far-right Finance Minister Bezalel Smotrich in his coalition. Eisenkot has six weeks to assemble a government following elections that left both main blocs short of a parliamentary majority.",
+   "body_en": [
+    "Speaking at the presidential office, Eisenkot argued that members of Likud and the Religious Zionist Party should back a government under his leadership if they truly desire unity. President Herzog noted that Israel requires a stable administration amid uncertainties stemming from the recent US midterm elections.",
+    "In the recent elections, Eisenkot's alliance obtained 48 seats while Netanyahu's bloc secured 53, leaving both shy of a 61-seat majority. Although Arab-led parties won 19 seats and endorsed his mandate, Eisenkot has dismissed entering a government with them, while Netanyahu remains in place as caretaker prime minister."
+   ],
+   "title_fa": "آیزنکوت از پیوستن نتانیاهو به دولت بعدی اسرائیل استقبال کرد",
+   "summary_fa": "گادی آیزنکوت، رهبر اپوزیسیون اسرائیل که از سوی اسحاق هرتزوگ مأمور تشکیل دولت بعدی شده، اعلام کرد از حضور بنیامین نتانیاهو، نخست‌وزیر، و بزالل اسموتریچ، وزیر دارایی راست افراطی، در ائتلاف خود استقبال می‌کند. پس از انتخاباتی که در آن هیچ‌یک از دو جناح اصلی اکثریت پارلمانی را به دست نیاوردند، آیزنکوت شش هفته برای تشکیل کابینه فرصت دارد.",
+   "body_fa": [
+    "آیزنکوت در سخنرانی خود در دفتر ریاست‌جمهوری گفت اگر اعضای حزب لیکود و صهیونیسم دینی واقعاً خواهان اتحاد هستند، دلیلی ندارد که از دولتی به رهبری او حمایت نکنند. هم‌زمان، هرتزوگ تأکید کرد که اسرائیل در پی تغییرات ناشی از انتخابات میان‌دوره‌ای آمریکا به دولتی باثبات نیاز دارد.",
+    "در انتخابات اخیر، ائتلاف آیزنکوت ۴۸ کرسی و جناح نتانیاهو ۵۳ کرسی به دست آوردند که برای کسب اکثریت ۶۱ کرسی کافی نبود. اگرچه احزاب عربی با کسب ۱۹ کرسی از واگذاری مأموریت تشکیل دولت به آیزنکوت حمایت کردند، او تشکیل کابینه با این احزاب را رد کرده است، در حالی که نتانیاهو همچنان نخست‌وزیر موقت باقی مانده است."
+   ],
+   "title_ar": "آيزنكوت منفتح على انضمام نتنياهو إلى الحكومة الإسرائيلية المقبلة",
+   "summary_ar": "أعلن زعيم المعارضة الإسرائيلية غادي آيزنكوت، المكلف من قِبل الرئيس يتسحاق هرتسوغ بتشكيل الحكومة المقبلة، عن انفتاحه على ضم رئيس الوزراء بنيامين نتنياهو ووزير المالية اليميني المتطرف بتسلئيل سموتريتش إلى ائتلافه. ويملك آيزنكوت مهلة ستة أسابيع لتشكيل الحكومة عقب انتخابات لم تسفر عن حصول أي من المعسكرين الرئيسيين على أغلبية برلمانية.",
+   "body_ar": [
+    "وفي كلمته بمقر الرئاسة، قال آيزنكوت إنه إذا كان أعضاء حزبي الليكود والصهيونية الدينية يؤمنون بالوحدة حقاً، فإنه لا يرى مبرراً لعدم دعمهم حكومة برئاسته. من جانبه، حذر هرتسوغ من أن إسرائيل بحاجة إلى حكومة مستقرة في ظل حالة عدم اليقين الناتجة عن الانتخابات النصفية الأمريكية الأخيرة.",
+    "وكان تحالف آيزنكوت قد حصد 48 مقعداً مقابل 53 مقعداً لكتلة نتنياهو في الانتخابات الأخيرة، ليعجز الطرفان عن بلوغ الأغلبية البالغة 61 مقعداً. ورغم فوز الأحزاب العربية بـ 19 مقعداً وتوصيتها بتكليف آيزنكوت، فإنه استبعد تشكيل حكومة معها، في حين لا يزال نتنياهو يمارس مهامه رئيساً لحكومة تصريف الأعمال."
+   ]
+  },
+  {
+   "id": "686f6335cdb8",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cmlyk50v1v0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T17:20:23Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 5,
+   "title": "كيف يواجه أهل غزة فصلا جديدا من البرد القارس؟",
+   "title_en": "كيف يواجه أهل غزة فصلا جديدا من البرد القارس؟",
+   "summary_en": "Tens of thousands of displaced Palestinians in the Gaza Strip are facing harsh winter conditions after severe rain flooded thousands of tents amidst a significant shortage of shelter supplies.",
+   "body_en": [
+    "The government media office in Gaza reported that around 70,000 tents housing displaced people flooded within hours of a winter storm, causing structural collapses and injuries. Civil defense authorities stated they could only respond to a small fraction of thousands of emergency calls due to equipment shortages.",
+    "UN agencies warned of a severe funding gap and restrictions on aid entry, noting that hundreds of thousands of tents and mattresses are needed to protect displaced families from winter hazards. Over 84 percent of Gaza's population currently resides in overcrowded or inadequate shelters."
+   ],
+   "title_fa": "ساکنان غزه چگونه با فصل جدیدی از سرما روبرو می‌شوند؟",
+   "summary_fa": "ده‌ها هزار آواره فلسطینی در نوار غزه در پی بارندگی‌های شدید و آب‌گرفتگی هزاران چادر، با آغاز فصل سرما و کمبود شدید امکانات امدادی با شرایط دشواری مواجه شده‌اند.",
+   "body_fa": [
+    "دفتر اعلامی حکومت در نوار غزه اعلام کرد که طی تنها ۱۲ ساعت از آغاز بارش‌ها، حدود ۷۰ هزار چادر آوارگان دچار آب‌گرفتگی شده و آسیب دیده‌اند. نیروهای دفاع مدنی نیز اشاره کردند که به دلیل کمبود امکانات، تنها قادر به پاسخگویی به بخش کوچکی از هزاران تماس امدادخواهی بوده‌اند.",
+    "نهادهای سازمان ملل نسبت به کمبود بودجه و محدودیت‌های ورود کمک‌ها هشدار داده و اعلام کردند صدها هزار چادر و پوشش بلاستیکی برای حمایت از خانواده‌ها نیاز است. بیش از ۸۴ درصد از جمعیت غزه در پناه‌گاه‌های نامناسب و پرجمعیت زندگی می‌کنند."
+   ],
+   "title_ar": "كيف يواجه أهل غزة فصلا جديدا من البرد القارس؟",
+   "summary_ar": "اضطر عشرات الآلاف من النازحين الفلسطينيين في قطاع غزة إلى قضاء ليلتهم في العراء عقب غرق آلاف الخيام جراء منخفض جوي ماطر، وسط تحذيرات من نقص حاد في مستلزمات الإيواء.",
+   "body_ar": [
+    "أعلن المكتب الإعلامي الحكومي في غزة غرق نحو 70 ألف خيمة تؤوي نازحين خلال 12 ساعة من بدء المنخفض الجوي، ما أدى إلى اصابات وتضرر الملاجئ. وأكد الدفاع المدني عجز طواقمه عن الاستجابة لمعظم نداءات الاستغاثة بسبب نقص الإمكانات والمعدات.",
+    "حذرت منسقيات الأمم المتحدة من فجوة تمويلية كبيرة وقيود على إدخال المساعدات، مشيرة إلى الحاجة الماسّة لمئات الآلاف من الخيام والأغطية لمواجهة الشتاء. ويعيش أكثر من 84 في المئة من سكان القطاع في مراكز نزوح مكتظة وغير ملائمة."
+   ]
+  },
+  {
+   "id": "523c17ea88e9",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
+   "date": "2026-11-08T16:51:41Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+   "title_en": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+   "summary_en": "Gadi Eisenkot, tasked by President Isaac Herzog with forming a new government after securing a coalition majority, warned that Israel faces a dangerous moment.",
+   "body_en": [
+    "Israeli opposition leader and former military chief Gadi Eisenkot was assigned by President Isaac Herzog to form a government after his coalition achieved a majority. Eisenkot issued a warning that Israel is currently facing a perilous situation."
+   ],
+   "title_fa": "هشدار رهبر اپوزیسیون اسرائیل درباره «نقطه برگشت‌ناپذیر» برای دموکراسی",
+   "summary_fa": "گادی آیزنکوت که پس از کسب اکثریت توسط ائتلافش از سوی اسحاق هرتزوگ مامور تشکیل حکومت جدید شده، هشدار داد که کشور با لحظه‌ای خطرناک روبروست.",
+   "body_fa": [
+    "گادی آیزنکوت، رهبر اپوزیسیون و رئیس سابق ستاد ارتش اسرائیل، پس از آنکه ائتلافش موفق به کسب اکثریت شد، از سوی رئیس‌جمهور اسحاق هرتزوگ مامور تشکیل حکومت گردید. آیزنکوت هشدار داده است که کشور در شرایط خطرناکی قرار دارد."
+   ],
+   "title_ar": "زعيم المعارضة الإسرائيلية يحذر من \"نقطة لا عودة\" للديمقراطية",
+   "summary_ar": "حذر غادي آيزنكوت، المكلف من الرئيس يتسحاق هرتسوغ بتشكيل حكومة جديدة بعد حصول ائتلافه على الأغلبية، من أن البلاد تواجه لحظة خطيرة.",
+   "body_ar": [
+    "كُلف زعيم المعارضة الإسرائيلية والقائد السابق للجيش غادي آيزنكوت من قبل الرئيس يتسحاق هرتسوغ بتشكيل الحكومة بعد أن حقق ائتلافه الأغلبية. وأصدر آيزنكوت تحذيراً من أن إسرائيل تواجه حالياً وضعاً خطيراً."
+   ]
+  },
+  {
+   "id": "c3a7d0e6f874",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+   "date": "2026-11-08T16:18:09Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+   "title_en": "Israeli forces release Palestinian journalist Abou Shhadeh",
+   "summary_en": "Israeli authorities have released Palestinian journalist Abed Abou Shhadeh after holding him without charge for five days. Abou Shhadeh described his detention as a political measure intended to intimidate Arab society in Israel.",
+   "body_en": [
+    "Abou Shhadeh was arrested on Tuesday during a night raid by Israeli security forces at his home in Jaffa and was held at a Shin Bet facility in Petah Tikva under suspicion of 'contact with a foreign agent'. His legal team from the rights group Adalah stated that the suspicion stemmed from a public broadcast discussion he held in Qatar with Palestinian intellectual Azmi Bishara.",
+    "Lawyers from Adalah argued that the Israeli authorities sought to criminalize standard political analysis by Palestinian journalists and delegitimize the political participation of Arab voters in Israel."
+   ],
+   "title_fa": "نیروهای اسرائیلی عابد ابوشحاده، روزنامه‌نگار فلسطینی، را آزاد کردند",
+   "summary_fa": "مقامات اسرائیلی عابد ابوشحاده، روزنامه‌نگار فلسطینی، را پس از پنج روز بازداشت بدون اتهام آزاد کردند. ابوشحاده بازداشت خود را یک اقدام سیاسی با هدف ایجاد ارعاب در جامعه عرب در اسرائیل توصیف کرد.",
+   "body_fa": [
+    "ابوشحاده سه‌شنبه در جریان یورش شبانه نیروهای امنیتی اسرائیل به خانه‌اش در یافا بازداشت و به ظن «تماس با عامل خارجی» در بازداشتگاه شاباک در پتخ تیکوا نگهداری شد. تیم حقوقی او از گروه حقوق بشری عداله اعلام کرد که این اتهام بر پایه یک گفتگو و تحلیل عمومی ثبت‌شده در قطر با عزمی بشاره، متفکر فلسطینی، مطرح شده است.",
+    "وکلای سازمان عداله تاکید کردند که مقامات اسرائیلی تلاش کرده‌اند تحلیل‌های سیاسی معمول روزنامه‌نگاران فلسطینی را جرم‌انگاری کرده و مشارکت سیاسی رای‌دهندگان عرب در اسرائیل را غیرقانونی جلوه دهند."
+   ],
+   "title_ar": "القوات الإسرائيلية تفرج عن الصحفي الفلسطيني عابد أبو شحادة",
+   "summary_ar": "أفرجت السلطات الإسرائيلية عن الصحفي الفلسطيني عابد أبو شحادة بعد احتجازه لمدة خمسة أيام دون تهمة. ووصف أبو شحادة احتجازه بأنه إجراء سياسي يهدف إلى ترهيب المجتمع العربي في إسرائيل.",
+   "body_ar": [
+    "اعتقل أبو شحادة يوم الثلاثاء خلال مداهمة ليلية نفذتها القوات الإسرائيلية لمنزله في يافا، واحتجز في منشأة تابعة لجهاز الشاباك في بتاح تكفا بشبهة \"التواصل مع عامل أجنبي\". وأوضح فريقه القانوني من مركز \"عدالة\" أن الشبهات استندت إلى نقاش إعلامي علني أجراه في قطر مع المفكر الفلسطيني عزمي بشارة.",
+    "وأكد محامو \"عدالة\" أن السلطات الإسرائيلية سعى من خلال هذه الاتهامات إلى تجريم التحليل السياسي للمحلتين الفلسطينيين ونزع الشرعية عن المشاركة السياسية للناخبين العرب في إسرائيل."
+   ]
+  },
+  {
+   "id": "6b78f9763812",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+   "date": "2026-11-08T15:47:11Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 7,
+   "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+   "title_en": "Egyptian embassy reopens in Libya for the first time in 12 years",
+   "summary_en": "Egypt has reopened its embassy in the Libyan capital, Tripoli, following a 12-year closure. The move signals a shift in Cairo's foreign policy after years of strongly backing eastern-based military commander Khalifa Haftar.",
+   "body_en": [],
+   "title_fa": "بازگشایی سفارت مصر در لیبی پس از ۱۲ سال",
+   "summary_fa": "مصر پس از ۱۲ سال تعطیلی، سفارت خود را در طرابلس، پایتخت لیبی، بازگشایی کرد. این اقدام نشان‌دهنده تغییر در موضع قاهره پس از سال‌ها حمایت قاطع از خلیفه حفتر، فرمانده نظامی مستقر در شرق لیبی، است.",
+   "body_fa": [],
+   "title_ar": "إعادة فتح السفارة المصرية في ليبيا لأول مرة منذ 12 عاماً",
+   "summary_ar": "أعادت مصر فتح سفارتها في العاصمة الليبية طرابلس بعد إغلاق استمر 12 عاماً. وتعد هذه الخطوة مؤشراً على تحول في موقف القاهرة بعد سنوات من دعمها القوي للقائد العسكري المتمركز في الشرق خليفة حفتر.",
+   "body_ar": []
+  },
+  {
+   "id": "137334b00ecd",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/turkey-azerbaijan-leaders-vow-unity-after-tensions/article71681057.ece",
+   "date": "2026-11-08T15:14:48Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Turkey, Azerbaijan leaders vow unity after tensions",
+   "title_en": "Turkey, Azerbaijan leaders vow unity after tensions",
+   "summary_en": "Turkish President Recep Tayyip Erdoğan and Azerbaijani President Ilham Aliyev met in Shusha to affirm their strategic alliance following recent diplomatic friction.",
+   "body_en": [
+    "Tensions between the allies flared in September after Azerbaijan introduced school uniform regulations barring Islamic headscarves, triggering criticism from Turkey's ruling party. Baku characterized the Turkish remarks as interference, leading to retaliatory measures including declaring dozens of Turkish nationals persona non grata and Aliyev skipping a summit in Ankara.",
+    "During a Victory Day visit to Azerbaijan, Erdoğan emphasized that the bilateral unity would endure forever. Aliyev stated that the alliance remained unshaken, showcasing their solidarity despite underlying disagreements regarding foreign policy and relations with Israel and Armenia."
+   ],
+   "title_fa": "رهبران ترکیه و آذربایجان پس از تنش‌ها بر اتحاد تاکید کردند",
+   "summary_fa": "رجب طیب اردوغان، رئیس‌جمهور ترکیه، و الهام علی‌اف، رئیس‌جمهور آذربایجان، پس از اصطکاک‌های دیپلماتیک اخیر، در شوشا دیدار کرده و بر پایداری اتحاد استراتژیک خود تاکید نمودند.",
+   "body_fa": [
+    "تنش‌ها میان این دو متحد در ماه سپتامبر و پس از اصلاح مقررات پوشش مدارس در آذربایجان که منجر به ممنوعیت حجاب در کلاس‌های درس شد، آغاز گردید و انتقاد حزب حاکم ترکیه را برانگیخت. باکو این اظهارات را مداخله خواند که به اقداماتی تلافی‌جویانه از جمله نامطلوب شناختن ده‌ها اتباع ترکیه‌ای و عدم حضور علی‌اف در نشست آنکارا انجامید.",
+    "در جریان سفر اردوغان به آذربایجان به مناسبت روز پیروزی، وی تاکید کرد که اتحاد دو کشور همیشگی خواهد بود. علی‌اف نیز اعلام کرد که این ائتلاف دست‌نخورده باقی مانده است و علیرغم اختلافات درزمینه سیاست خارجی و روابط با اسرائیل و ارمنستان، همبستگی خود را به نمایش گذاشتند."
+   ],
+   "title_ar": "قادا تركيا وأذربيجان يتعهدان بالوحدة بعد توترات",
+   "summary_ar": "التقى الرئيس التركي رجب طيب أردوغان والرئيس الأذربيجاني إلهام علييف في شوشا لتأكيد صلابة التحالف الاستراتيجي بين بلديهما عقب توترات دبلوماسية أخيرًا.",
+   "body_ar": [
+    "تصاعدت التوترات بين الحليفين في سبتمبر بعد أن عدلت أذربيجان لوائح الزي المدرسي لحظر الحجاب الإسلامي، ما أثار انتقادات من الحزب الحاكم في تركيا. ووصف باكو التصريحات التركية بأنها تدخل، مما أدى إلى إجراءات انتقامية شملت إعلان عشرات المواطنين الأتراك أشخاصاً غير مرغوب فيهم وغياب علييف عن قمة في أنقرة.",
+    "خلال زيارة لتركيا بمناسبة يوم النصر في أذربيجان، أكد أردوغان أن وحدة البلدين ستستمر إلى الأبد. وقال علييف إن التحالف يظل ثابتاً، مبرزين تضامنهما على الرغم من الخلافات حول السياسة الخارجية والعلاقات مع إسرائيل وأرمينيا."
+   ]
+  },
+  {
+   "id": "aa89394cb0da",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
+   "date": "2026-11-08T14:53:29Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 5,
+   "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+   "title_en": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+   "summary_en": "Israeli police released Palestinian journalist and political activist Abed Abou Shhadeh without major restrictions following five days of detention. Abou Shhadeh characterized his arrest as politically motivated and affirmed he would continue his journalistic and rights work.",
+   "body_en": [
+    "Abou Shhadeh was freed without significant restrictions after being held for five days by Israeli police. Upon his release, he pledged to continue his work as a journalist and his advocacy for equality and justice."
+   ],
+   "title_fa": "عابد ابوشحاده، روزنامه‌نگار فلسطینی، پس از ۵ روز بازداشت آزاد شد",
+   "summary_fa": "پلیس اسرائیل عابد ابوشحاده، روزنامه‌نگار و فعال سیاسی فلسطینی، را پس از پنج روز بازداشت بدون محدودیت‌های عمده آزاد کرد. ابوشحاده دستگیری خود را دارای انگیزه سیاسی دانست و تاکید کرد به فعالیت‌های رسانه‌ای و دفاع از حقوق ادامه خواهد داد.",
+   "body_fa": [
+    "ابوشحاده پس از پنج روز بازداشت توسط پلیس اسرائیل بدون محدودیت خاصی آزاد شد. او پس از آزادی تعهد داد که به فعالیت‌های خود در عرصه روزنامه‌نگاری و تلاش برای برابری و عدالت ادامه دهد."
+   ],
+   "title_ar": "الإفراج عن الصحفي الفلسطيني عابد أبو شحادة بعد 5 أيام من الاحتجاز",
+   "summary_ar": "أطلقت الشرطة الإسرائيلية سراح الصحفي والنشاط السياسي الفلسطيني عابد أبو شحادة بعد احتجازه لمدة خمسة أيام دون فرض قيود كبيرة. ووصف أبو شحادة اعتقاله بأنه بدافع سياسي، مؤكداً استمراره في عمله الصحفي وتطلعه لتحقيق العدالة والمساواة.",
+   "body_ar": [
+    "أُفرج عن أبو شحادة دون شروط مشددة بعد أن قضى خمسة أيام في احتجاز الشرطة الإسرائيلية، وتعهد عقب إطلاق سراحه بمواصلة عمله الصحفي ونشاطه من أجل المساواة والعدالة."
+   ]
+  },
+  {
+   "id": "1eaed1289143",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043062/pm-shehbaz-nawaz-discuss-matters-of-national-importance-as-sharifs-gather-at-lahores-jati-umra",
+   "date": "2026-11-08T13:48:19Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "PM Shehbaz, Nawaz discuss ‘matters of national importance’ as Sharifs gather at Lahore's Jati Umra",
+   "title_en": "PM Shehbaz, Nawaz discuss ‘matters of national importance’ as Sharifs gather at Lahore's Jati Umra",
+   "summary_en": "Pakistan's Prime Minister Shehbaz Sharif met with PML-N President Nawaz Sharif in Lahore to discuss the national political situation, economic reforms, and security matters. The meeting included Deputy Prime Minister Ishaq Dar and Punjab Chief Minister Maryam Nawaz.",
+   "body_en": [
+    "During the meeting at Jati Umra, Prime Minister Shehbaz Sharif briefed Nawaz Sharif on the law and order situation in Khyber Pakhtunkhwa following the federal government's decision to impose emergency and governor's rule in the province on October 11. Both leaders defended the intervention as a necessary measure to address counterterrorism concerns.",
+    "The Prime Minister also outlined ongoing economic reforms, current challenges, and government initiatives aimed at furthering Pakistan's economic stabilization."
+   ],
+   "title_fa": "دیدار شهباز شریف و نواز شریف در جاتی عمرای لاهور برای گفتگو درباره «مسائل مهم ملی»",
+   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در لاهور با نواز شریف، رئیس حزب مسلم لیگ-ن، دیدار کرد تا درباره وضعیت سیاسی کشور، اصلاحات اقتصادی و مسائل امنیتی گفتگو کند. در این جلسه اسحاق دار، معاون نخست‌وزیر، و مریم نواز، سروزیر ایالت پنجاب نیز حضور داشتند.",
+   "body_fa": [
+    "در این دیدار در جاتی عمرا، شهباز شریف گزارشی از وضعیت امنیت و قانون در خیبر پختونخوا پس از تصمیم حکومت فدرال مبنی بر اعلام وضعیت اضطراری و حکومت فرمانداری در این ایالت در ۱۱ اکتبر ارائه کرد. هر دو رهبر از این اقدام به عنوان تصمیمی ضروری برای مقابله با تروریسم دفاع کردند.",
+    "نخست‌وزیر همچنین اقدامات و برنامه‌های اصلاحات اقتصادی دولت، چالش‌های موجود و راهکارهای در دست اجرا برای بهبود وضعیت اقتصادی کشور را تشریح کرد."
+   ],
+   "title_ar": "رئيس الوزراء شهباز شریف يناقش \"قضايا ذات أهمية وطنية\" مع نواز شریف خلال اجتماع في جاتي عمرة بلاهور",
+   "summary_ar": "التقى رئيس الوزراء الباكستاني شهباز شريف مع رئيس حزب الرابطة الإسلامية الباكستانية (جناح نواز) نواز شريف في لاهور لبحث الأوضاع السياسية والإصلاحات الاقتصادية والملفات الأمنية في البلاد. وحضر الاجتماع نائب رئيس الوزراء إسحاق دار ورئيسة وزراء إقليم البنجاب مريم نواز.",
+   "body_ar": [
+    "خلال الاجتماع الذي عقد في جاتي عمرة، أطلع رئيس الوزراء شهباز شريف نواز شريف على الأوضاع الأمنية في خيبر بختونخوا بعد فرض الحكومة الاتحادية حالة الطوارئ وحكم المحافظ هناك في 11 أكتوبر. ودافع الكبار عن القرار باعتباره خطوة ضرورية لمكافحة الإرهاب.",
+    "كما قدم رئيس الوزراء عرضاً حول الإصلاحات الاقتصادية الجارية والتحديات التنموية والخطط الحكومية الهادفة إلى تعزيز الاستقرار الاقتصادي في البلاد."
+   ]
+  },
+  {
+   "id": "884408196833",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+   "date": "2026-11-08T13:27:57Z",
+   "countries": [
+    "EGY"
+   ],
+   "score": 7,
+   "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+   "title_en": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+   "summary_en": "Egyptian Foreign Minister Badr Abdelatty reopened Egypt's embassy in Tripoli after a 12-year closure driven by security concerns. Analysts describe the development as a significant shift in Cairo's approach toward Libya, moving away from exclusive reliance on eastern commander Khalifa Haftar.",
+   "body_en": [
+    "During his visit, Abdelatty met with officials in Tripoli to address key economic and political files, including Egyptian interests regarding the 2019 maritime border agreement signed between Tripoli and Ankara. Cairo has also sought direct negotiations to protect its gas and oil exploration interests in the Eastern Mediterranean, while eyeing reconstruction projects for Egyptian labour and companies.",
+    "Analysts note that Cairo is recalibrating its policy after regional realignments, such as improving ties between Haftar's forces and Turkey, and rising Egyptian concerns regarding developments south of its border in Sudan. These shifting alliances and a new regional consensus have increased the prospect of reaching a comprehensive political resolution between Libya's divided factions."
+   ],
+   "title_fa": "بازگشایی سفارت مصر در طرابلس نشان‌دهنده یک تحول منطقه‌ای درباره لیبی است",
+   "summary_fa": "بدر عبدالعاطی، وزیر امور خارجه مصر، سفارت این کشور در طرابلس را پس از ۱۲ سال تعطیلی ناشی از نگرانی‌های امنیتی بازگشایی کرد. تحلیلگران این اقدام را نشان‌دهنده تحولی اساسی در رویکرد قاهره در قبال لیبی و فاصله گرفتن از تکیه انحصاری بر خلیفه حفتر در شرق می‌دانند.",
+   "body_fa": [
+    "عبدالعاطی در جریان این سفر با مقام‌های طرابلس درباره پرونده‌های اقتصادی و سیاسی مهم، از جمله نگرانی‌های مصر در رابطه با توافق مرزهای دریایی سال ۲۰۱۹ میان طرابلس و آنکارا، گفت‌وگو کرد. قاهره در تلاش است تا با مذاکره مستقیم، منافع خود را در زمینه اکتشاف گاز و نفت در شرق مدیترانه حفظ کند و فرصت‌هایی نیز برای مشارکت شرکت‌ها و کارگران مصری در بازسازی لیبی فراهم سازد.",
+    "تحلیلگران می‌گویند بازنگری سیاست مصر ناشی از تحولات منطقه‌ای نظیر همکاری‌های تازه میان نیروهای حفتر و ترکیه و همچنین نگرانی قاهره از تحولات جنوب مرزهای خود در سودان است. این تغییرات و شکل‌گیری نوعی همگرایی منطقه‌ای جدید، بخت دستیابی به یک توافق جامع سیاسی میان جناح‌های متخاصم در لیبی را افزایش داده است."
+   ],
+   "title_ar": "إعادة فتح السفارة المصرية في طرابلس مؤشر على تحول إقليمي بشأن ليبيا",
+   "summary_ar": "افتتح وزير الخارجية المصري بدر عبد العاطي سفارة بلاده في طرابلس بعد إغلاق استمر 12 عاماً بسبب مخاوف أمنية. واعتبر محللون هذا التحول خطوة فارقة في نهج القاهرة تجاه الملف الليبي، تعكس ابتعاداً عن الاعتماد الحصري على قائد الشرق خليفة حفتر.",
+   "body_ar": [
+    "وخلال زيارته، بحث عبد العاطي مع المسؤولين في طرابلس ملفات اقتصادية وسياسية بارزة، بما في ذلك المخاوف المصرية حيال مذكرة التفاهم لترسيم الحدود البحرية الموقعة عام 2019 بين طرابلس وأنقرة. وتسعى القاهرة من خلال التفاوض المباشر إلى حماية مصالحها في التنقيب عن النفط والغاز في شرق المتوسط، إلى جانب فتح الباب أمام الشركات والعمالة المصرية للمشاركة في مشاريع إعادة الإعمار.",
+    "ويرى محللون أن مصر تعيد ضبط سياساتها في ظل تحولات إقليمية شملت التنسيق المستجد بين قوات حفتر وتركيا، ومخاوف القاهرة بشأن التطورات في السودان على حدودها الجنوبية. وقد أسهمت هذه التبدلات والتوافقات الإقليمية الجديدة في تعزيز فرص التوصل إلى تسوية سياسية شاملة تنهي النزاع بين الأطراف الليبية المتنافسة."
+   ]
+  },
+  {
+   "id": "4fb97b66a29a",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
+   "date": "2026-11-08T13:06:28Z",
+   "countries": [
+    "IRQ"
+   ],
+   "score": 6,
+   "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+   "title_en": "Could Iraq’s Kurdish region return to two separate administrations?",
+   "summary_en": "Disagreements between the KDP and the PUK over government formation in northern Iraq have raised fears of a return to dual administrations in Erbil and Sulaimaniyah.",
+   "body_en": [
+    "Political disputes escalated after the KDP reactivated the regional parliament in Erbil without PUK participation. In response, PUK leader Bafel Talabani withdrew his party from the government, with officials threatening to establish a parallel executive structure in Sulaimaniyah.",
+    "While political analysts warning of a severe crisis note that the regional constitution provides no framework for dividing the territory, KDP representatives insist legislative doors remain open for negotiation while ruling out any potential armed conflict between the factions."
+   ],
+   "title_fa": "آیا اقلیم کردستان عراق ممکن است به دو اداره جداگانه بازگردد؟",
+   "summary_fa": "اختلافات میان حزب دمکرات کردستان و اتحادیه میهنی کردستان بر سر تشکیل حکومت در شمال عراق، بیم بازگشت به دو اداره جداگانه در اربیل و سلیمانیه را افزایش داده است.",
+   "body_fa": [
+    "اختلافات سیاسی پس از آن شدت گرفت که حزب دمکرات کردستان پارلمان اقلیم را در اربیل بدون حضور اتحادیه میهنی فعال کرد. در پاسخ، بافل طالبانی رهبر اتحادیه میهنی حزب خود را از حکومت خارج کرد و مقامات این حزب تهدید به ایجاد ساختار اجرایی موازی در سلیمانیه نمودند.",
+    "در حالی که تحلیلگران سیاسی درباره یک بحران عمیق هشدار می‌دهند و اشاره می‌کنند که قانون اساسی ساختاری برای تقسیم اقلیم ندارد، نمایندگان حزب دمکرات تاکید دارند که درهای گفتگو باز است و احتمال بروز درگیری مسلحانه میان دو طرف را نفی می‌کنند."
+   ],
+   "title_ar": "هل يمكن أن يعود إقليم كردستان العراق إلى إدارتين منفصلتين؟",
+   "summary_ar": "أدت الخلافات بين الحزب الديمقراطي الكردستاني والاتحاد الوطني الكردستاني حول تشكيل الحكومة في شمال العراق إلى مخاوف من العودة إلى إدارتين منفصلتين في أربيل والسليمانية.",
+   "body_ar": [
+    "تصاعدت الخلافات السياسية بعد أن أعاد الحزب الديمقراطي الكردستاني تفعيل برلمان الإقليم في أربيل دون مشاركة الاتحاد الوطني. ورداً على ذلك، سحب بافل طالباني حزبه من الحكومة، محذراً من إمكانية إنشاء هيكل تنفيذي موازٍ في السليمانية.",
+    "وفي حين يحذر محللون سياسيون من أزمة عميقة مشيرين إلى أن الدستور لا يتضمن آلية لتقسيم الإقليم، يؤكد ممثلو الحزب الديمقراطي أن أبواب الحوار تبقى مفتوحة مع استبعاد وقوع أي صراع مسلح بين الطرفين."
+   ]
+  },
+  {
+   "id": "7852ff6295f7",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c5zjxr1vpenro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T12:51:00Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "إسرائيل تؤكد أنها \"لم تنجز مهمتها بعد في إيران\"، وطهران تتوعد بإفشال أي خطة لحصار اقتصادها",
+   "title_en": "Israel affirms it has 'not yet completed its mission in Iran', and Tehran vows to thwart any plan to blockade its economy",
+   "summary_en": "Israeli Defence Minister Israel Katz stated that his country has not yet completed its mission in Iran, accusing it of seeking nuclear weapons, while Iran's Revolutionary Guard vowed to thwart a new US plan aimed at disrupting Tehran's land and maritime trade routes.",
+   "body_en": [
+    "Katz's remarks come amid reported divisions within the Israeli leadership and military pushback against launching fresh strikes ahead of legislative elections, following two earlier wars against Iran in 2025 and 2026. Military action also faces hesitation from Washington, where reports indicated that the US administration previously thwarted an Israeli plan to launch a strike on the eve of the Knesset elections.",
+    "Meanwhile, US Central Command (CENTCOM) announced the creation of a task force called \"Iron Gate\" to curb the transfer of advanced weaponry and sanctioned materials across Iran's land borders and the Caspian Sea, reinforcing a naval blockade in place since April. An IRGC spokesperson responded by asserting that Washington cannot economically isolate Iran, citing Tehran's preparations and close ties with its neighbours."
+   ],
+   "title_fa": "اسرائیل تأکید کرد که «هنوز مأموریت خود را در ایران به پایان نرسانده است» و تهران وعده شکست هرگونه طرح برای محاصره اقتصادش را داد",
+   "summary_fa": "یسرائیل کاتس، وزیر دفاع اسرائیل، اعلام کرد که کشورش هنوز مأموریت خود را در ایران به پایان نرسانده و تهران را به تلاش برای دستیابی به سلاح هسته‌ای متهم کرد؛ هم‌زمان، سپاه پاسداران وعده داد طرح جدید آمریکا برای مسدود کردن مسیرهای تجاری زمینی و دریایی تهران را به شکست بکشاند.",
+   "body_fa": [
+    "اظهارات کاتس در میان گزارش‌هایی از اختلافات در رهبری اسرائیل و مخالفت ارتش با انجام حملات جدید پیش از انتخابات پارلمانی بیان می‌شود، که پس از دو جنگ پیشین علیه ایران در سال‌های ۲۰۲۵ و ۲۰۲۶ رخ می‌دهد. اقدامات نظامی با تردید واشینگتن نیز روبه‌رو شده است، جایی که گزارش‌ها حاکی از مداخله دولت آمریکا برای توقف طرح پیشین اسرائیل جهت حمله در آستانه انتخابات کنست است.",
+    "هم‌زمان، فرماندهی مرکزی آمریکا (سنتکام) از تشکیل یک کارگروه به نام «دروازه آهنین» برای جلوگیری از انتقال تسلیحات پیشرفته و اقلام تحریمی از طریق مرزهای زمینی ایران و دریای خزر خبر داد تا محاصره دریایی موجود از آوریل را تقویت کند. سخنگوی سپاه پاسداران در پاسخ تأکید کرد که واشینگتن قادر به انزوای اقتصادی ایران نیست و به آمادگی‌های تهران و روابط نزدیک آن با همسایگانش اشاره نمود."
+   ],
+   "title_ar": "إسرائيل تؤكد أنها \"لم تنجز مهمتها بعد في إيران\"، وطهران تتوعد بإفشال أي خطة لحصار اقتصادها",
+   "summary_ar": "أعلن وزير الدفاع الإسرائيلي يسرائيل كاتس أن بلاده لم تنجز مهمتها بعد في إيران متهماً إياها بالسعي لامتلاك سلاح نووي، فيما توعد الحرس الثوري الإيراني بإفشال خطة أمريكية جديدة تهدف إلى قطع مسارات التجارة البرية والبحرية لطهران.",
+   "body_ar": [
+    "تأتي تصريحات كاتس في ظل تقارير عن خلافات داخل القيادة الإسرائيلية ورفض عسكري لشن ضربات جديدة قبيل الانتخابات التشريعية، بعد جولتين سابقتين من الحرب على إيران في عامي 2025 و2026. وتواجه التحركات العسكرية تحفظات أيضاً من واشنطن، حيث أفادت تقارير بإحباط الإدارة الأمريكية محاولة إسرائيلية سابقة لتنفيذ ضربة عسكرية عشية انتخابات الكنيست.",
+    "في غضون ذلك، أعلنت القيادة المركزية الأمريكية (سنتكوم) عن تشكيل فريق عمل باسم «البوابة الحديدية» لعرقلة نقل الأسلحة والمواد الخاضعة للعقوبات عبر الحدود البرية الإيرانية وبحر قزوين، تعزيزاً للحصار البحري القائم منذ أبريل/نيسان. ورد متحدث باسم الحرس الثوري الإيراني بالتأكيد على عدم قدرة واشنطن على عزل إيران اقتصادياً، مشيراً إلى استعدادات بلاده وعلاقاتها الوثيقة مع جيرانها."
+   ]
+  },
+  {
+   "id": "38f02fc341d5",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+   "date": "2026-11-08T11:34:58Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "title_en": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "summary_en": "Israeli President Isaac Herzog has tasked Yashar party leader Gadi Eisenkot with forming a new government after Benjamin Netanyahu's coalition lost its parliamentary majority in the October elections.",
+   "body_en": [
+    "The former military chief has 28 days, with a possible 14-day extension, to assemble a majority coalition of at least 61 seats in the 120-member Knesset. Eisenkot faces significant hurdles due to sharp disagreements within opposition parties over national security, religion, and the occupation, alongside his partners' refusal to rely on Arab-led parties to form a minority administration despite receiving their endorsement.",
+    "Netanyahu's Likud won 27 seats while Eisenkot's Yashar took 21, with Netanyahu's religious-nationalist coalition dropping to 53 seats after United Torah Judaism withheld its endorsement over ultra-Orthodox conscription. Beyond a minority government, Eisenkot could pursue an alliance with ultra-Orthodox factions or a unity government with Likud; if he fails, Herzog could offer Netanyahu or the Knesset an opportunity to form a coalition before fresh elections are triggered."
+   ],
+   "title_fa": "آیا آیزنکوت می‌تواند با وجود اپوزیسیون دچار تفرقه، دولت بعدی اسرائیل را تشکیل دهد؟",
+   "summary_fa": "اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، پس از آنکه ائتلاف بنیامین نتانیاهو در انتخابات اکتبر اکثریت پارلمانی را از دست داد، گادی آیزنکوت، رهبر حزب یاشار، را مأمور تشکیل دولت جدید کرد.",
+   "body_fa": [
+    "رئیس پیشین ستاد ارتش ۲۸ روز مهلت دارد که می‌تواند تا ۱۴ روز دیگر تمدید شود تا ائتلافی با حداقل ۶۱ کرسی در کنست ۱۲۰ نفره ایجاد کند. آیزنکوت به دلیل اختلافات شدید احزاب مخالف در موضوعات امنیت ملی، مذهب و اشغالگری، و همچنین امتناع شرکای او از اتکا به احزاب تحت رهبری اعراب برای تشکیل دولت اقلیت—علیرغم حمایت فهرست مشترک و رعد—با چالش‌های جدی مواجه است.",
+    "حزب لیکود نتانیاهو ۲۷ کرسی و حزب یاشار آیزنکوت ۲۱ کرسی به دست آوردند و ائتلاف ملی‌گرای مذهبی نتانیاهو پس از عدم حمایت «یهودیت توراتی متحد» به دلیل معافیت سربازی حریدی‌ها، به ۵۳ کرسی سقوط کرد. علاوه بر دولت اقلیت، آیزنکوت می‌تواند گزینه‌هایی چون ائتلاف با احزاب حریدی یا تشکیل دولت وحدت با لیکود را بررسی کند؛ و در صورت شکست وی، هرتزوگ ممکن است فرصت تشکیل کابینه را به نتانیاهو یا کنست واگذار کند."
+   ],
+   "title_ar": "هل يتمكن آيزنكوت من تشكيل الحكومة الإسرائيلية القادمة في ظل معارضة منقسمة؟",
+   "summary_ar": "كلف الرئيس الإسرائيلي يتسحاق هرتسوغ زعيم حزب يشار غادي آيزنكوت بتشكيل الحكومة الجديدة بعد فقدان ائتلاف بنيامين نتنياهو الأغلبية البرلمانية إثر انتخابات أكتوبر.",
+   "body_ar": [
+    "يمتلك رئيس الأركان السابق مهلة 28 يوماً، قابلة للتمديد 14 يوماً، للتوصل إلى ائتلاف حاكم يضم 61 نائباً على الأقل في الكنيست البالغ عدد مقاعده 120. ويواجه آيزنكوت تحديات معقدة بسبب تباين مواقف قوى المعارضة حول قضايا الأمن والدين والاحتلال، إضافة إلى معارضة حلفائه الاعتماد على الأحزاب ذات الغالبية العربية لتشكيل حكومة أقلية رغم تأييد القائمة المشتركة والموحدة له.",
+    "حصل حزب الليكود بزعامة نتنياهو على 27 مقعداً بينما نال حزب يشار 21 مقعداً، وتراجع الائتلاف الديني القومي لنتنياهو إلى 53 مقعداً بعد امتناع كتلة «يهودوت هتوراه» عن دعمه بسبب ملف تجنيد المتدينين. وإلى جانب خيار حكومة الأقلية، قد يسعى آيزنكوت لضم الأحزاب الحريدية لكتلته، أو التوجه نحو تشكيل حكومة وحدة مع الليكود، في حين سيعيد هرتسوغ التكليف لنتنياهو أو البرلمان إذا فشل مسعى آيزنكوت."
+   ]
+  },
+  {
+   "id": "7ea81a840109",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/crq5nvqvgl2lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T10:59:30Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "من حرب إلى حرب: معاناة المهاجرين الإثيوبيين في اليمن",
+   "title_en": "From war to war: the suffering of Ethiopian migrants in Yemen",
+   "summary_en": "Ethiopian migrants in Yemen face severe humanitarian and security conditions alongside continuous abuse by smugglers as they attempt to reach Saudi Arabia for work or to escape conflict.",
+   "body_en": [
+    "The International Organization for Migration recorded the arrival of around 134,000 migrants in Yemen by late September 2026, a 22 percent increase compared to the previous year, with the vast majority being Ethiopians escaping economic hardship, forced conscription, or the conflict in Tigray. Migrants undertake hazardous sea journeys via Djibouti or Somalia to reach Yemeni areas such as Aden and Shabwah.",
+    "Once in Yemen, many migrants endure detention, beatings, and extortion by smuggling networks, as well as gunfire near the Saudi border that has left people dead or wounded. Renewed local fighting and declining international humanitarian funding have compounded difficulties in securing shelter and healthcare, leaving thousands stranded on the streets unable to continue their journey or return home."
+   ],
+   "title_fa": "از جنگی به جنگی دیگر: رنج مهاجران اتیوپیایی در یمن",
+   "summary_fa": "مهاجران اتیوپیایی در یمن هنگام تلاش برای رسیدن به عربستان سعودی در جستجوی کار یا فرار از درگیری‌ها، با شرایط دشوار انسانی و امنیتی و سوءاستفاده‌های مداوم قاچاقچیان مواجه هستند.",
+   "body_fa": [
+    "سازمان بین‌المللی مهاجرت ورود نزدیک به ۱۳۴ هزار مهاجر به یمن را تا اواخر سپتامبر ۲۰۲۶ ثبت کرد که نشان‌دهنده افزایشی ۲۲ درصدی نسبت به سال قبل است و اکثریت قریب به اتفاق آنان را اتیوپیایی‌هایی تشکیل می‌دهند که از پیامدهای جنگ در تیگرای، سربازی اجباری یا فشارهای اقتصادی می‌گریزند. این افراد مسیرهای دریایی پرخطری را از طریق جیبوتی یا سومالی طی می‌کنند تا به مناطقی مانند عدن و شبوه در یمن برسند.",
+    "بسیاری از مهاجران در یمن با بازداشت، ضرب و شتم و اخاذی توسط شبکه‌های قاچاق و همچنین تیراندازی در نزدیکی مرز عربستان سعودی روبه‌رو می‌شوند که به مرگ یا زخمی شدن شماری از آنان انجامیده است. از سرگیری درگیری‌های داخلی و کاهش بودجه نهادهای امدادرسان بین‌المللی نیز دستیابی به سرپناه و مراقبت‌های بهداشتی را سخت‌تر کرده و هزاران نفر را بدون توانایی ادامه مسیر یا بازگشت به کشور، در خیابان‌ها سرگردان ساخته است."
+   ],
+   "title_ar": "من حرب إلى حرب: معاناة المهاجرين الإثيوبيين في اليمن",
+   "summary_ar": "يواجه المهاجرون الإثيوبيون في اليمن ظروفاً إنسانية وأمنية قاسية وانتهاكات مستمرة على أيدي المهربين أثناء محاولتهم العبور إلى السعودية بحثاً عن عمل أو هرباً من النزاعات.",
+   "body_ar": [
+    "سجلت المنظمة الدولية للهجرة دخول نحو 134 ألف مهاجر إلى اليمن بحلول أواخر سبتمبر/أيلول 2026 بزيادة بلغت 22 بالمئة عن العام السابق، غالبيتهم العظمى من الإثيوبيين الفارين من تداعيات الحرب في تيغراي أو التجنيد الإجباري والضغوط الاقتصادية. ويسلك هؤلاء طرقاً بحرية محفوفة بالمخاطر عبر جيبوتي أو الصومال قبل وصولهم إلى مدن يمنية مثل عدن وشبوة.",
+    "يتعرض العديد من المهاجرين في اليمن للاحتجاز والضرب والابتزاز على يد شبكات التهريب، فضلاً عن استهدافهم بنيران مسلحة بالقرب من الحدود السعودية تؤدي في بعض الأحيان إلى مقتلهم أو إصابتهم بجروح بالغة. كما تفاقم تجدد الاشتباكات المحلية ونقص تمويل المنظمات الإغاثية الدولية من صعوبة حصولهم على الرعاية الصحية والمأوى، ما يترك الآلاف منهم عالقين في الشوارع دون القدرة على مواصلة الرحلة أو العودة إلى بلادهم."
+   ]
+  },
+  {
+   "id": "2001f89656d3",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043052/kp-plans-to-set-up-faceless-atcs-spend-rs70bn-on-ctd-and-police-in-a-year-as-part-of-efforts-against-terrorism",
+   "date": "2026-11-08T09:53:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of efforts against terrorism",
+   "title_en": "KP plans to set up faceless ATCs, spend Rs70bn on CTD and police in a year as part of efforts against terrorism",
+   "summary_en": "Khyber Pakhtunkhwa's administration plans to establish faceless anti-terrorism courts and allocate 70 billion rupees within a year to strengthen its police and Counter-Terrorism Department.",
+   "body_en": [
+    "According to an official briefing attended by Governor Faisal Karim Kundi, an amendment has recently been submitted to create faceless courts to protect witnesses, prosecutors, and judges, after officials noted that witnesses feared coming forward in terrorism cases.",
+    "The administration also plans to spend 70 billion rupees on the Counter-Terrorism Department and police over the course of a year to boost their operational capacity."
+   ],
+   "title_fa": "خیبر پختونخوا برای راه‌اندازی دادگاه‌های ضدتروریسم ناشناس و اختصاص ۷۰ میلیارد روپیه به پلیس و مبارزه با تروریسم برنامه‌ریزی می‌کند",
+   "summary_fa": "مدیریت اداری خیبر پختونخوا در نظر دارد دادگاه‌های ضدتروریسم ناشناس ایجاد کند و طی یک سال ۷۰ میلیارد روپیه برای تقویت پلیس و اداره مبارزه با تروریسم اختصاص دهد.",
+   "body_fa": [
+    "بر اساس گزارشی که در جلسه‌ای با حضور فیصل کریم کندی، والی خیبر پختونخوا، ارائه شد، اصلاحیه‌ای جهت تأسیس دادگاه‌های ناشناس ارسال شده است تا علاوه بر شاهدانی که به دلیل ترس حاضر به شهادت نیستند، از دادستان‌ها و قاضیان نیز محافظت شود.",
+    "همچنین این مدیریت قصد دارد ظرف یک سال مبلغ ۷۰ میلیارد روپیه برای اداره مبارزه با تروریسم و پلیس هزینه کند تا توان عملیاتی آن‌ها افزایش یابد."
+   ],
+   "title_ar": "خيبر بختونخوا تخطط لإنشاء محاكم لمكافحة الإرهاب بهويات محمية وإنفاق 70 مليار روبية لتعزيز الأمن",
+   "summary_ar": "تخطط إدارة إقليم خيبر بختونخوا لإنشاء محاكم لمكافحة الإرهاب بهويات محمية، وإنفاق 70 مليار روبية خلال عام لتعزيز قدرات الشرطة وإدارة مكافحة الإرهاب.",
+   "body_ar": [
+    "ووفقاً لإفادة رسمية عُقدت بحضور حاكم الإقليم فيصل كريم كوندي، فقد تم إرسال تعديل تشريعي لإنشاء محاكم بهويات مجهولة تهدف إلى حماية الشهود والمدعين العامين والقضاة، لا سيما في ظل خشية الشهود من الإدلاء بإفاداتهم في قضايا الإرهاب.",
+    "كما تعتزم الإدارة إنفاق 70 مليار روبية على إدارة مكافحة الإرهاب وجهاز الشرطة خلال عام واحد بغية رفع كفاءتهما العملياتية."
+   ]
+  },
+  {
+   "id": "5035f48f32ec",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
+   "date": "2026-11-08T09:43:26Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israel's Arab-led parties gain influence",
+   "title_en": "Israel's Arab-led parties gain influence",
+   "summary_en": "Arab-led parties in Israel have endorsed Gadi Eisenkot aiming to unseat Benjamin Netanyahu, despite Eisenkot ruling out a coalition with them.",
+   "body_en": [
+    "The decision by the Arab-led parties is driven by a shared goal of removing Benjamin Netanyahu from power, raising questions over whether they could hold the balance of power in forming Israel's next government."
+   ],
+   "title_fa": "احزاب به رهبری اعراب در اسرائیل نفوذ کسب می‌کنند",
+   "summary_fa": "احزاب به رهبری اعراب در اسرائیل با هدف برکناری بنیامین نتانیاهو از قدرت، از گادی آیزنکوت اعلام حمایت کرده‌اند؛ این در حالی است که آیزنکوت ائتلاف با آن‌ها را رد کرده است.",
+   "body_fa": [
+    "حمایت این احزاب ناشی از تمایل مشترک برای کنار زدن بنیامین نتانیاهو از حکومت است؛ امری که این احتمال را مطرح می‌کند که آیا آن‌ها تعیین‌کننده توازن قوا در تشکیل کابینه بعدی اسرائیل خواهند بود یا خیر."
+   ],
+   "title_ar": "الأحزاب ذات القيادة العربية في إسرائيل تكتسب نفوذاً",
+   "summary_ar": "أعلنت الأحزاب ذات القيادة العربية في إسرائيل تأييدها غادي آيزنكوت بهدف إزاحة بنيامين نتنياهو من السلطة، على الرغم من استبعاد آيزنكوت تشكيل ائتلاف معها.",
+   "body_ar": [
+    "وينطلق دعم الأحزاب العربية من هدف مشترك يتمثل في الإطاحة ببنيامين نتنياهو، مما يطرح تساؤلات حول إمكانية أن تلعب هذه الأحزاب دوراً حاسماً في ميزان القوى لتشكيل الحكومة الإسرائيلية المقبلة."
+   ]
+  },
+  {
+   "id": "813193966b68",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680798.ece",
+   "date": "2026-11-08T09:23:29Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "score": 7,
+   "title": "Bangladesh Law Minister calls Hasina ‘convicted criminal’, says extradition request sent to India",
+   "title_en": "Bangladesh Law Minister calls Hasina ‘convicted criminal’, says extradition request sent to India",
+   "summary_en": "Bangladesh's Law Minister Md Asaduzzaman described ousted Prime Minister Sheikh Hasina as a convicted criminal and stated that Dhaka has requested her extradition from India under bilateral treaty procedures.",
+   "body_en": [
+    "Speaking after a workshop in Dhaka, Asaduzzaman said the government would follow due legal process without letting emotions guide the matter, noting that the Ministry of Home Affairs is handling the request under the extradition treaty with India. While India has acknowledged receiving extradition requests, it has indicated they remain under examination.",
+    "Hasina fled to India in August 2024 following an uprising that ended her rule. Bangladesh's International Crimes Tribunal convicted her in absentia in November 2025 for crimes against humanity, sentencing her to death on one charge and life imprisonment on another."
+   ],
+   "title_fa": "وزیر دادگستری بنگلادش حسینه را «مجرم محکوم‌شده» خواند و از ارسال درخواست استرداد به هند خبر داد",
+   "summary_fa": "محمد اسدالزمان، وزیر دادگستری بنگلادش، شیخ حسینه، نخست‌وزیر برکنارشده این کشور را یک «مجرم محکوم‌شده» خواند و اعلام کرد داکا بر اساس معاهده استرداد دوجانبه، رسماً تحویل او را از هند تقاضا کرده است.",
+   "body_fa": [
+    "اسدالزمان پس از یک کارگاه آموزشی در داکا گفت که دولت روندهای قانونی لازم را فارغ از هرگونه احساسات دنبال خواهد کرد و یادآور شد که وزارت کشور امور مربوط به معاهده استرداد با هند را پیگیری می‌کند. اگرچه هند دریافت درخواست‌های استرداد را تأیید کرده، اعلام کرده است که این موارد در چارچوب سازوکارهای مستقر در حال بررسی هستند.",
+    "حسینه در اوت ۲۰۲۴ و پس از قیامی مردمی که به حکومت ۱۵ ساله‌اش خاتمه داد، به هند گریخت. دادگاه بین‌المللی کیفری بنگلادش در نوامبر ۲۰۲۵ او را به صورت غیابی به دلیل جنایات علیه بشریت مجرم شناخت و به یک فقره اعدام و یک فقره حبس ابد محکوم کرد."
+   ],
+   "title_ar": "وزير العدل البنغلاديشي يصف حسينة بأنها «مجرمة مدانة» ويؤكد إرسال طلب تسليمها إلى الهند",
+   "summary_ar": "وصف وزير العدل البنغلاديشي محمد أسد الزمان، رئيسة الوزراء المعزولة شيخة حسينة بأنها مجرمة مدانة، مؤكداً أن دكا طلبت من الهند تسليمها بموجب اتفاقية تسليم المجرمين بين البلدين.",
+   "body_ar": [
+    "وقال أسد الزمان في تصريحات عقب ورشة عمل في دكا، إن الحكومة ستلتزم بالإجراءات القانونية دون أن تخضع للعواطف، مشيراً إلى أن وزارة الداخلية تتولى متابعة الملف المرتبط بمعاهدة تسليم المجرمين مع الهند. ورغم إقرار الهند بتلقي طلبات استرداد حسينة، إلا أنها أكدت أنها لا تزال قيد الدراسة.",
+    "وكانت حسينة قد فرت إلى الهند في أغسطس 2024 عقب انتفاضة شعبية أنهت حكمها. وأدانت محكمة الجرائم الدولية في بنغلاديش حسينة غيابياً في نوفمبر 2025 بتهم ارتكاب جرائم ضد الإنسانية، وحكمت عليها بالإعدام في تهمة وبالسجن المؤبد في أخرى."
+   ]
+  },
+  {
+   "id": "9f3d6f681de3",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
+   "date": "2026-11-08T09:09:59Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+   "title_en": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+   "summary_en": "Hundreds of former Palestinian prisoners in the occupied West Bank face persistent harassment, repeated arrests, and summons from Israeli forces following their release.",
+   "body_en": [
+    "Released prisoners frequently endure raids on their homes, temporary detentions, and field interrogations aimed at intimidating them and disrupting their daily routines, employment, and social lives. Advocacy groups note that these frequent detentions are accompanied by ongoing threats of rearrest and harsh conditions during questioning.",
+    "According to Palestinian prisoner advocacy groups, approximately 26,000 arrests were documented across the occupied West Bank and East Jerusalem between October 2023 and early October 2026. A Palestinian Prisoner’s Society spokesperson stated that Israeli operations now run around the clock, with an average of 10 to 15 Palestinians arrested and detained daily."
+   ],
+   "title_fa": "اسیران سابق فلسطینی در سایه بازداشت‌های مکرر در تیررس فشارهای اسرائیل",
+   "summary_fa": "صدها اسیر سابق فلسطینی در کرانه باختری اشغالی، پس از آزادی با آزار و اذیت مستمر، بازداشت‌های مکرر و احضارهای پیاپی توسط نیروهای اسرائیلی روبه‌رو هستند.",
+   "body_fa": [
+    "اسیران آزادشده به طور مکرر با حمله به منازل، بازداشت‌های موقت و بازجویی‌های میدانی مواجه می‌شوند که با هدف ارعاب آن‌ها و مختل کردن زندگی روزمره، اشتغال و روابط اجتماعی‌شان صورت می‌گیرد. نهادهای مدافع اسیران اشاره دارند که این دستگیری‌ها همواره با تهدید به حبس مجدد و بدرفتاری در حین بازجویی همراه است.",
+    "بر اساس آمار تشکل‌های مدافع حقوق اسیران، حدود ۲۶ هزار مورد بازداشت در کرانه باختری و قدس شرقی میان اکتبر ۲۰۲۳ و اوایل اکتبر ۲۰۲۶ به ثبت رسیده است. سخنگوی باشگاه اسیران فلسطینی گزارش داد که عملیات‌های اسرائیل به روندی شبانه‌روزی تبدیل شده و روزانه بین ۱۰ تا ۱۵ فلسطینی بازداشت و در بازداشتگاه‌ها نگهداری می‌شوند."
+   ],
+   "title_ar": "أسرى فلسطينيون سابقون تحت رحمة إسرائيل وسط دوامة من الاحتجاز المتواصل",
+   "summary_ar": "يواجه مئات الأسرى الفلسطينيين السابقين في الضفة الغربية المحتلة مضايقات مستمرة وحملات اعتقال واستدعاء متكررة من قبل القوات الإسرائيلية بعد الإفراج عنهم.",
+   "body_ar": [
+    "ويتعرض الأسرى المحررون لاقتحامات متكررة لمنازلهم واعتقالات وجيزة وتحقيقات ميدانية تهدف إلى ترهيبهم وعرقلة حياتهم الطبيعية وحرمانهم من العمل والاندماج الاجتماعي. وتفيد مؤسسات معنية بشؤون الأسرى بأن هذه الإجراءات تترافق مع تهديدات دائمة بإعادتهم إلى السجون ومعاملة قاسية وظروف صعبة أثناء التحقيق.",
+    "ووفقاً لمؤسسات مختصة بشؤون الأسرى، سُجلت نحو 26 ألف حالة اعتقال في الضفة الغربية المحتلة والقدس الشرقية في الفترة بين أكتوبر 2023 وأوائل أكتوبر 2026. وأكدت متحدثة باسم نادي الأسير الفلسطيني أن العمليات الإسرائيلية باتت مستمرة على مدار الساعة، حيث يتم يومياً احتجاز ما بين 10 و15 فلسطينياً قيد الاعتقال."
+   ]
+  },
+  {
+   "id": "4213c33f66b8",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-executes-three-men-over-armed-unrest-during-january-protests/article71680580.ece",
+   "date": "2026-11-08T05:52:10Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Iran executes three men over armed unrest during January protests",
+   "title_en": "Iran executes three men over armed unrest during January protests",
+   "summary_en": "Iran has executed three men convicted of conducting operations for Israel and the United States and taking part in armed unrest during anti-government protests in January. The Supreme Court upheld their death sentences, while ten other defendants received prison terms ranging from five to ten years.",
+   "body_en": [
+    "According to state media and the judiciary, Hassan Dioband, Hamid Kazemi, and Reza Zanganeh were convicted of using firearms, grenades, and Molotov cocktails, setting fire to public facilities, and damaging a power substation in Karaj. The judiciary also ordered the confiscation of their assets following Dioband's arrest on January 11 and the subsequent detention of his associates."
+   ],
+   "title_fa": "ایران سه مرد را به اتهام ناآرامی‌های مسلحانه در جریان اعتراضات دی‌ماه اعدام کرد",
+   "summary_fa": "ایران سه مرد را که به انجام عملیات برای اسرائیل و ایالات متحده و شرکت در ناآرامی‌های مسلحانه در جریان اعتراضات ضدحکومتی دی‌ماه محکوم شده بودند، اعدام کرد. دیوان عالی کشور احکام اعدام آنان را تأیید کرده بود، در حالی که ده متهم دیگر به حبس‌های ۵ تا ۱۰ سال محکوم شدند.",
+   "body_fa": [
+    "به گزارش رسانه‌های دولتی و قوه قضائیه، حسن دیوبند، حمید کاظمی و رضا زنگنه به استفاده از سلاح گرم، نارنجک و کوکتل مولوتف، آتش زدن اماکن عمومی و آسیب رساندن به یک پست برق در کرج متهم شده بودند. قوه قضائیه همچنین پس از بازداشت دیوبند در ۲۱ دی‌ماه و دستگیری متعاقب همراهانش، دستور ضبط اموال این سه نفر را صادر کرد."
+   ],
+   "title_ar": "إيران تعدم ثلاثة رجال بتهمة إثارة اضطرابات مسلحة خلال احتجاجات يناير",
+   "summary_ar": "أعدمت إيران ثلاثة رجال بعد إدانتهم بتنفيذ عمليات لصالح إسرائيل والولايات المتحدة والمشاركة في اضطرابات مسلحة خلال احتجاجات مناهضة للحكومة في يناير. وجاء تنفيذ الأحكام بعد تأييدها من المحكمة العليا، بينما حُكم على عشرة متهمين آخرين بالسجن لمدد تتراوح بين خمس وعشر سنوات.",
+   "body_ar": [
+    "وبحسب وسائل الإعلام الرسمية والسلطة القضائية، أُدين حسن ديوبند وحميد كاظمي ورضا زنكنه باستخدام أسلحة نارية وقنابل يدوية وزجاجات حارقة، وإضرام النار في مرافق عامة، وتخريب محطة فرعية للكهرباء في كرج. كما أمرت السلطة القضائية بمصادرة ممتلكاتهم عقب اعتقال ديوبند في 11 يناير واعتقال شركائه لاحقاً."
+   ]
+  },
+  {
+   "id": "b3534df0c874",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T04:03:12Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "title_en": "Houthis say at least 33 killed in Saudi air strike",
+   "summary_en": "Media linked to Yemen's Houthi movement reported that at least 33 people were killed and 39 injured in an air strike carried out by Saudi Arabia on Saturday. The Saudi-led coalition has not issued any comment regarding the incident.",
+   "body_en": [
+    "Houthi-run television station Al Masirah broadcast footage showing rescuers removing bodies, including those of young children, from the rubble of buildings in al-Shariyah, a town east of Sanaa. The strike occurred hours after the Saudi-led coalition said it had intercepted a missile fired toward Riyadh, prompting Houthi leader Mahdi al-Mashat to pledge retaliation."
+   ],
+   "title_fa": "حوثی‌ها می‌گویند در حمله هوایی عربستان دست‌کم ۳۳ نفر کشته شدند",
+   "summary_fa": "رسانه‌های وابسته به جنبش حوثی‌ها در یمن اعلام کردند که در حمله هوایی روز شنبه عربستان سعودی، دست‌کم ۳۳ نفر کشته و ۳۹ تن زخمی شدند. ائتلاف تحت رهبری عربستان هنوز در این باره اظهارنظری نکرده است.",
+   "body_fa": [
+    "شبکه تلویزیونی المسیره متعلق به حوثی‌ها تصاویری از امدادگران را پخش کرد که در حال بیرون کشیدن اجساد، از جمله پیکر کودکان، از زیر آوارهای چند ساختمان در شهر الشریه در شرق صنعا بودند. این حمله ساعاتی پس از آن رخ داد که ائتلاف تحت رهبری عربستان از رهگیری موشکی به سمت ریاض خبر داده بود، و در پی آن مهدی المشاط، از رهبران حوثی‌ها، وعده داد که این گروه انتقام خواهد گرفت."
+   ],
+   "title_ar": "الحوثيون يقولون إن 33 شخصاً على الأقل قتلوا في غارة جوية سعودية",
+   "summary_ar": "أفادت وسائل إعلام تابعة لجماعة الحوثيين في اليمن بمقتل 33 شخصاً على الأقل وإصابة 39 آخرين في غارة جوية شنتها السعودية يوم السبت. ولم يصدر أي تعليق من التحالف الذي تقوده السعودية بشأن هذا الحادث.",
+   "body_ar": [
+    "وبثت قناة المسيرة التابعة للحوثيين لقطات لفرق الإنقاذ وهي تنتشل جثثاً، من بينها جثث أطفال صغار، من تحت أنقاض عدة مبانٍ في بلدة الشرية شرق العاصمة صنعاء. وجاءت هذه الغارة بعد ساعات من إعلان التحالف بقيادة السعودية اعتراض صاروخ كان متجهاً نحو الرياض، مما دفع القيادي الحوثي مهدي المشاط إلى التعهد بالرد والانتقام."
+   ]
+  },
+  {
+   "id": "31f2ba8499fd",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042919/siblings-acquitted-in-blasphemy-case-after-20-years",
+   "date": "2026-11-08T03:18:04Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Siblings acquitted in blasphemy case after 20 years",
+   "title_en": "Siblings acquitted in blasphemy case after 20 years",
+   "summary_en": "Pakistan's Supreme Court has acquitted two brothers who had been on death row for nearly 20 years over blasphemy charges under Section 295-C of the Pakistan Penal Code. The court set aside their convictions after medical boards established they suffered from severe bipolar disorder.",
+   "body_en": [
+    "A three-judge bench led by Chief Justice Yahya Afridi overturned the decisions of the trial court and the Lahore High Court, giving the appellants, Liaqat Ali and Umar Draz, the benefit of the doubt. While earlier assessments in 2007 had found them mentally sound, more recent examinations by specialized boards diagnosed both siblings with bipolar affective disorder and concluded they were incapable of understanding their actions at the time of the alleged offence.",
+    "The Supreme Court also instructed the Punjab Institute of Mental Health to ensure the two men continue to receive psychiatric treatment. In a concurring note, Justice Shakeel Ahmad observed that medical evaluations and surrounding circumstances raised reasonable doubts regarding their criminal responsibility, noting that legal accountability must be balanced with humanity and mercy."
+   ],
+   "title_fa": "تبرئه دو برادر در پرونده توهین به مقدسات پس از ۲۰ سال",
+   "summary_fa": "دیوان عالی پاکستان دو برادر را که حدود ۲۰ سال به اتهام توهین به مقدسات تحت بند ۲۹۵-سی قانون مجازات این کشور در صف اعدام بودند، تبرئه کرد. دادگاه پس از استناد به گزارش‌های پزشکی مبنی بر ابتلای آنان به اختلال دوقطبی شدید، احکام محکومیتشان را لغو کرد.",
+   "body_fa": [
+    "هیئتی متشکل از سه قاضی به ریاست یحیی آفریدی، قاضی‌القضات پاکستان، احکام دادگاه بدوی و دادگاه عالی لاهور را نقض کرده و به استناد اصل برائت در پی وجود تردید معقول، لیاثت علی و عمر دراز را تبرئه کرد. هرچند ارزیابی‌های سال ۲۰۰۷ این دو را دارای سلامت روان تشخیص داده بود، کمیسیون‌های تخصصی متأخر اعلام کردند که هر دو برادر به اختلال دوقطبی مبتلا بوده و در زمان وقوع جرم ادعایی درک درستی از ماهیت رفتارهای خود نداشته‌اند.",
+    "دیوان عالی همچنین از مؤسسه سلامت روان پنجاب در لاهور خواست تداوم روند درمانی این دو نفر را تضمین کند. قاضی شکیل احمد در یادداشتی هم‌نظر تصریح کرد که گزارش‌های پزشکی و اوضاع پرونده تردیدی منطقی در مورد مسئولیت کیفری ایجاد کرده و تأکید داشت که عدالت واقعی باید با انسانیت و توجه به ظرفیت روانی افراد همراه باشد."
+   ],
+   "title_ar": "تبرئة شقيقين في قضية تجديف بعد 20 عاماً",
+   "summary_ar": "برأت المحكمة العليا في باكستان شقيقين قبعا في السجن لنحو 20 عاماً تحت طائلة حكم الإعدام بتهمة التجديف بموجب المادة 295-سي من قانون العقوبات الباكستاني. وألغت المحكمة إدانتهما بعد أن أثبتت لجان طبية معاناتهما من اضطراب ثنائي القطب الحاد.",
+   "body_ar": [
+    "وقضت هيئة المحكمة برئاسة رئيس المحكمة العليا يحيى أفريدي بنقض قراري محكمة البداية ومحكمة لاهور العليا، مانحةً المتهمين لياقت علي وعمر دراز ميزة الشك. ورغم أن تقييماً قديماً في عام 2007 اعتبرهما سليمين عقلياً، إلا أن لجان فحص متخصصة أكدت لاحقاً إصابة الشقيقين باضطراب ثنائي القطب، واستنتجت عجزهما عن إدراك أفعالهما وقت ارتكاب الجرم المزعوم.",
+    "كما طلبت المحكمة العليا من معهد البنجاب للصحة النفسية في لاهور ضمان استمرار تقديم الرعاية الطبية لهما. وأوضح القاضي شكيل أحمد في مذكرة مؤيدة أن التقارير الطبية والظروف المحيطة تثير شكوكاً معقولة حول مسؤوليتهما الجنائية، مشيراً إلى ضرورة موازنة المحاسبة القانونية بالإنسانية والرحمة عند ثبوت انعدام الأهلية."
+   ]
+  },
+  {
+   "id": "93a09676d350",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042924/sindh-cm-declares-tharparkar-drought-hit-orders-relief-measures",
+   "date": "2026-11-08T02:02:22Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "Sindh CM declares Tharparkar drought-hit, orders relief measures",
+   "title_en": "Sindh CM declares Tharparkar drought-hit, orders relief measures",
+   "summary_en": "Sindh Chief Minister Syed Murad Ali Shah has declared Tharparkar a drought-affected district following severe crop losses across all seven of its talukas. He directed relevant departments to initiate immediate relief operations and guarantee access to drinking water and vital supplies.",
+   "body_en": [
+    "A briefing at the CM House revealed that 85 to 90 percent of cultivated crops in the district have been destroyed or rendered unproductive because of deficient and uneven monsoon rainfall, notably in September. The agriculture extension department and administrative field reports confirmed that only 10 to 15 percent of crops survived.",
+    "Shah instructed authorities to prioritize the repair and functioning of reverse osmosis plants, resolve existing water supply defects, and assess the feasibility of a water pipeline from Naukot to Mithi. He also emphasized the urgent procurement of fodder to safeguard livestock, a principal source of local livelihoods."
+   ],
+   "title_fa": "سروزیر سند ترپارکر را منطقه خشک‌زده اعلام کرد و دستور اقدامات امدادی داد",
+   "summary_fa": "سید مراد علی شاه، سروزیر سند، در پی خسارات شدید به محصولات کشاورزی در هر هفت تعلقه‌ شهرستان ترپارکر، این منطقه را خشک‌زده اعلام کرد. او به نهادهای مربوطه دستور داد تا فوراً عملیات امدادرسانی را آغاز کنند و از تأمین آب آشامیدنی و اقلام اساسی اطمینان حاصل نمایند.",
+   "body_fa": [
+    "در جلسه‌ای در مقر سروزیری اعلام شد که به دلیل بارندگی‌های ناکافی و نامنظم فصل مانسون، به‌ویژه در ماه سپتامبر، ۸۵ تا ۹۰ درصد محصولات کشت‌شده در این منطقه از بین رفته یا بی‌حاصل شده‌اند. اداره ترویج کشاورزی و گزارش‌های میدانی محلی تأیید کردند که تنها ۱۰ تا ۱۵ درصد محصولات باقی مانده است.",
+    "شاه به مقامات دستور داد تا تعمیر و راه‌اندازی کارخانه‌های تصفیه آب به روش اسمز معکوس را در اولویت قرار دهند، نواقص منابع آب موجود را رفع کنند و امکان‌سنجی خط لوله انتقال آب از نوکوت به میتهی را بسنجند. وی همچنین بر تأمین فوری علوفه برای محافظت از دام‌ها به عنوان منبع اصلی معیشت مردم تأکید کرد."
+   ],
+   "title_ar": "رئيس وزراء إقليم السند يعلن ثارباركار منطقة منكوبة بالجفاف ويأمر بتدابير إغاثية",
+   "summary_ar": "أعلن رئيس وزراء إقليم السند، سيد مراد علي شاه، مقاطعة ثارباركار منطقة منكوبة بالجفاف عقب خسائر فادحة في المحاصيل في جميع نواحيها السبع. ووجه شاه الإدارات المعنية ببدء جهود الإغاثة فوراً وضمان توفير مياه الشرب والإمدادات الأساسية.",
+   "body_ar": [
+    "وكشف إيجاز عُقد في مقر رئاسة وزراء الإقليم أن ما بين 85 و90 بالمئة من المحاصيل المزروعة في المقاطعة قد دُمرت أو أصبحت غير منتجة بسبب تذبذب وضعف الأمطار الموسمية، لا سيما في شهر سبتمبر. وأكدت تقارير إدارة الإرشاد الزراعي والمسؤولين الميدانيين نجاة ما نسبته 10 إلى 15 بالمئة فقط من المحاصيل.",
+    "وأوعز شاه للسلطات بإصلاح محطات التناضح العكسي المتوقفة كأولوية، ومعالجة أعطال شبكات المياه الحالية، ودراسة جدوى مد خط أنابيب مياه من ناوكوت إلى ميثي. كما شدد على ضرورة اتخاذ تدابير عاجلة لمعالجة نقص الأعلاف وحماية الثروة الحيوانية التي تعد مصدر دخل رئيسي للسكان."
+   ]
+  },
+  {
+   "id": "14699685e135",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2042961/tents-flooded-as-heavy-rain-hits-gaza",
+   "date": "2026-11-08T02:01:21Z",
+   "countries": [
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Tents flooded as heavy rain hits Gaza",
+   "title_en": "Tents flooded as heavy rain hits Gaza",
+   "summary_en": "Heavy rains in the Gaza Strip have flooded about 70,000 tents housing displaced residents, leaving many without shelter. Palestinian civil defence officials issued urgent appeals for international assistance, stating they lack the equipment needed to respond to the crisis.",
+   "body_en": [
+    "According to the government media office in Gaza, the downpours also triggered the collapse of several cracked walls and roofs, resulting in injuries, some critical. Civil defence spokesman Mahmoud Bassal reported receiving more than 1,500 emergency calls overnight, warning that rescue teams are incapable of managing the storm's aftermath without international intervention.",
+    "A coalition of local civil society groups raised concerns about potential disease outbreaks and urged pressure on Israel to allow unrestricted humanitarian aid. A local municipal official noted that Israel has barred the entry of prefabricated housing, emphasizing that the enclave urgently needs 200,000 units alongside heavy machinery to clear debris."
+   ],
+   "title_fa": "آب‌گرفتگی چادرها هم‌زمان با بارش باران‌های سیل‌آسا در غزه",
+   "summary_fa": "بارش باران‌های سیل‌آسا در نوار غزه حدود ۷۰ هزار چادر محل اسکان آوارگان را دچار آب‌گرفتگی کرده و بسیاری را بی‌پناه گذاشته است. مقامات دفاع مدنی فلسطین با تأکید بر اینکه فاقد تجهیزات لازم برای رسیدگی به این بحران هستند، از جامعه بین‌المللی درخواست کمک فوری کردند.",
+   "body_fa": [
+    "به گزارش دفتر رسانه‌ای دولتی در غزه، این بارندگی‌ها همچنین منجر به فروریختن ده‌ها دیوار و سقف ترک‌خورده و مصدومیت چندین نفر شد که حال برخی وخیم است. محمود بصل، سخنگوی دفاع مدنی، اعلام کرد که تیم‌های امدادی طی شب بیش از ۱۵۰۰ تماس اضطراری دریافت کرده‌اند و بدون مداخله بین‌المللی قادر به مقابله با پیامدهای این طوفان نیستند.",
+    "ائتلافی از نهادهای جامعه مدنی نیز نسبت به خطر شیوع بیماری‌ها هشدار داده و خواستار فشار بر اسرائیل جهت تسهیل ورود نامحدود کمک‌های بشردوستانه شدند. همچنین یکی از مقامات شهرداری غزه گفت که اسرائیل مانع ورود کانکس‌های مسکونی پیش‌ساخته شده است و تأکید کرد این منطقه فوراً به ۲۰۰ هزار واحد پیش‌ساخته و ماشین‌آلات سنگین برای آواربرداری نیاز دارد."
+   ],
+   "title_ar": "غرق الخيام مع هطول أمطار غزيرة على غزة",
+   "summary_ar": "أدت أمطار غزيرة في قطاع غزة إلى غرق نحو 70 ألف خيمة تؤوي نازحين، ما ترك العديد منهم بلا مأوى. وأطلق مسؤولو الدفاع المدني الفلسطيني نداءات استغاثة عاجلة طلباً للمساعدة الدولية، مؤكدين افتقارهم للمعدات اللازمة للتعامل مع هذه الأزمة.",
+   "body_ar": [
+    "وفقاً للمكتب الإعلامي الحكومي في غزة، تسببت الأمطار أيضاً في انهيار عشرات الجدران والأسقف المتصدعة، ما أدى إلى وقوع إصابات وصفت بعضها بالحرجة. وأفاد المتحدث باسم الدفاع المدني محمود بصل بتلقي أكثر من 1500 نداء استغاثة خلال الليل، محذراً من أن طواقم الإنقاذ عاجزة عن التعامل مع تداعيات العاصفة بمفردها وتفتقر إلى المعدات.",
+    "وحذر ائتلاف من منظمات المجتمع المدني من خطر تفشي الأوبئة والأمراض، داعياً إلى الضغط على إسرائيل للسماح بدخول المساعدات الإنسانية دون قيود. كما أوضح مسؤول محلي في غزة أن إسرائيل تمنع إدخال المنازل الجاهزة، مشدداً على أن القطاع بحاجة عاجلة إلى 200 ألف وحدة سكنية مسبقة الصنع ومعدات ثقيلة لإزالة الركام."
+   ]
+  },
   {
    "id": "13dbab3bc36a",
    "lang": "en",
