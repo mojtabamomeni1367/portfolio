@@ -1,6 +1,42 @@
 {
- "count": 22,
+ "count": 23,
  "items": [
+  {
+   "id": "hormuz-naval-mines-2026",
+   "date": "2026-11-24",
+   "countries": [
+    "IRN",
+    "OMN"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Naval Mines in the Strait of Hormuz: Is the War at Sea Changing?",
+     "summary": "Conflicting reports about three vessels raise questions about the limits of U.S. escorts and the effects of a persistent hazard on insurance and oil trade.",
+     "focus_keyword": "naval mines in the Strait of Hormuz",
+     "image": "",
+     "url": "analysis/hormuz-naval-mines-2026-en.html"
+    },
+    "fa": {
+     "title": "مین گذاری در تنگه هرمز؛ جنگ دریایی وارد مرحله تازه شد؟",
+     "summary": "گزارش‌های متفاوت درباره سه نفتکش، پرسش تازه‌ای درباره توان اسکورت آمریکا و اثر خطر مین بر بیمه و جریان نفت به میان آورده‌اند.",
+     "focus_keyword": "مین گذاری در تنگه هرمز",
+     "image": "",
+     "url": "analysis/hormuz-naval-mines-2026-fa.html"
+    },
+    "ar": {
+     "title": "الألغام البحرية في مضيق هرمز: هل دخلت الحرب البحرية مرحلة جديدة؟",
+     "summary": "تثير التقارير المتباينة عن إصابة ثلاث سفن أسئلة حول حدود المرافقة الأميركية وتداعيات الخطر المستمر على التأمين وتجارة النفط.",
+     "focus_keyword": "الألغام البحرية في مضيق هرمز",
+     "image": "",
+     "url": "analysis/hormuz-naval-mines-2026-ar.html"
+    }
+   },
+   "added": "2026-11-24T21:00:37Z"
+  },
   {
    "id": "araghchi-oman-muscat-talks-2026",
    "date": "2026-11-16",
