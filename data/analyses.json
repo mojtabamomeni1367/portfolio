@@ -1,6 +1,83 @@
 {
- "count": 23,
+ "count": 25,
  "items": [
+  {
+   "id": "hormuz-mines-maritime-war-2026",
+   "date": "2026-11-25",
+   "countries": [
+    "ARE",
+    "BHR",
+    "IRN",
+    "KWT",
+    "OMN",
+    "QAT",
+    "SAU"
+   ],
+   "topics": [
+    "iran-policy",
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Mines in the Strait of Hormuz on November 24: Has Naval Warfare Entered a New Phase?",
+     "summary": "Iran's claim that three tankers struck mines remains unverified, while separately confirmed attacks with unknown projectiles underline the continuing danger to shipping.",
+     "focus_keyword": "Mines in the Strait of Hormuz",
+     "image": "",
+     "url": "analysis/hormuz-mines-maritime-war-2026-en.html"
+    },
+    "fa": {
+     "title": "مین گذاری در تنگه هرمز در ۲۴ نوامبر؛ آیا جنگ دریایی وارد مرحله تازه شد؟",
+     "summary": "ادعای برخورد سه نفتکش با مین در تنگه هرمز، در کنار حمله های تاییدشده با پرتابه، پرسش هایی درباره اسکورت دریایی و امنیت عبور ایجاد کرده است.",
+     "focus_keyword": "مین گذاری در تنگه هرمز",
+     "image": "",
+     "url": "analysis/hormuz-mines-maritime-war-2026-fa.html"
+    },
+    "ar": {
+     "title": "الألغام في مضيق هرمز في ٢٤ نوفمبر؛ هل دخلت الحرب البحرية مرحلة جديدة؟",
+     "summary": "يبقى الادعاء الإيراني بأن ثلاث ناقلات اصطدمت بألغام غير مؤكد، فيما تؤكد الهجمات المثبتة بمقذوفات مجهولة استمرار الخطر على الملاحة.",
+     "focus_keyword": "الألغام في مضيق هرمز",
+     "image": "",
+     "url": "analysis/hormuz-mines-maritime-war-2026-ar.html"
+    }
+   },
+   "added": "2026-11-25T09:40:00Z"
+  },
+  {
+   "id": "iran-nuclear-doctrine-debate-2026",
+   "date": "2026-11-25",
+   "countries": [
+    "IRN"
+   ],
+   "topics": [
+    "iran-policy",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Iran's Nuclear Doctrine on November 21: Domestic Debate, China and Russia",
+     "summary": "A debate over Iran's nuclear posture is growing, even as Tehran says its official policy is unchanged and the meaning of China's and Russia's positions remains open to interpretation.",
+     "focus_keyword": "Iran's nuclear doctrine",
+     "image": "",
+     "url": "analysis/iran-nuclear-doctrine-debate-2026-en.html"
+    },
+    "fa": {
+     "title": "دکترین هسته ای ایران در ۲۱ نوامبر؛ بحث داخلی و موضع چین و روسیه",
+     "summary": "بحث درباره تغییر دکترین هسته ای ایران در حالی بالا گرفته که موضع رسمی تهران تغییر نکرده و چین و روسیه نیز در معادله دیپلماتیک نقش دارند.",
+     "focus_keyword": "دکترین هسته ای ایران",
+     "image": "",
+     "url": "analysis/iran-nuclear-doctrine-debate-2026-fa.html"
+    },
+    "ar": {
+     "title": "العقيدة النووية الإيرانية في ٢١ نوفمبر؛ نقاش داخلي وموقف الصين وروسيا",
+     "summary": "يتصاعد النقاش حول الموقف النووي الإيراني، بينما تؤكد طهران أن سياستها الرسمية لم تتغير وتظل دلالة موقف الصين وروسيا موضع تفسير.",
+     "focus_keyword": "العقيدة النووية الإيرانية",
+     "image": "",
+     "url": "analysis/iran-nuclear-doctrine-debate-2026-ar.html"
+    }
+   },
+   "added": "2026-11-25T09:40:00Z"
+  },
   {
    "id": "hormuz-naval-mines-2026",
    "date": "2026-11-24",
