@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:45:09Z",
+ "updated": "2026-11-25T19:34:42Z",
  "items": [
   {
    "id": "6ee5d9f2ed1e",
@@ -2007,6 +2007,519 @@
    "desc": "إسرائيل تتهم تلوّح بضربة استباقية لطهران، وإيران تعلن إسقاط مسيّرتين أمريكيتين في مضيق هرمز، وسط تصعيد بحري في المنطقة.",
    "score": 8,
    "dup_of": "3e05f460eaea"
+  },
+  {
+   "id": "27aa41ea10e1",
+   "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T14:06:13Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
+  },
+  {
+   "id": "f8fae99390de",
+   "title": "Protesters call on Israel to free Palestinian student held without charge",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T10:03:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge."
+  },
+  {
+   "id": "315f4c45ce6f",
+   "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+   "date": "2026-11-25T17:29:51Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights."
+  },
+  {
+   "id": "f148f8339dd6",
+   "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+   "date": "2026-11-25T16:34:42Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces."
+  },
+  {
+   "id": "0f8129eb4b69",
+   "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+   "date": "2026-11-25T16:02:22Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike"
+  },
+  {
+   "id": "81bef0d31c15",
+   "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+   "date": "2026-11-25T15:15:53Z",
+   "countries": [
+    "LBN"
+   ],
+   "desc": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, calling him a 'war criminal'."
+  },
+  {
+   "id": "9fc3d5c54210",
+   "title": "Knesset advances October 7 probe despite Netanyahu’s objections",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+   "date": "2026-11-25T14:53:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "The Israeli Knesset has voted to advance a proposed state inquiry into the October 7 attacks"
+  },
+  {
+   "id": "0cb7d7045c39",
+   "title": "Syrian teams clear landmines after deadly explosion",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
+   "date": "2026-11-25T13:51:15Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "Syrian teams clear landmines after deadly explosion"
+  },
+  {
+   "id": "b9c571e60948",
+   "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
+   "date": "2026-11-25T13:04:17Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars."
+  },
+  {
+   "id": "25e0b737ebd9",
+   "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+   "date": "2026-11-25T18:14:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost entirely” on unproven assertions from the Israeli government and had damaged humanitarian operations in Gaza. The judgment, seen by the Guardian, raises fresh questions about the decision by the UN Relief and Works Agency (Unrwa), the main humanitarian organisation working in Gaza, to sack members of staff. It was taken on the basis of Israeli a"
+  },
+  {
+   "id": "8dac31ce118f",
+   "title": "They belong to Jerusalem’s past and present: meet the African Palestinians",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/25/meet-the-african-palestinians-jerusalem",
+   "date": "2026-11-25T16:28:29Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "Despite militarisation, occupation and marginalisation, African culture prevails in the Old City, something I discovered first-hand when I visited Don’t get The Long Wave delivered to your inbox? Sign up here In occupied East Jerusalem, I met an often overlooked community: African Palestinians. This week, I explore their unique history, and how they are, in a classic diaspora fashion, integrated and marginalised in equal measure. There are about 450 African Palestinian people in occupied East Jerusalem, mostly living in the historical buildings of the Old City, near al-Aqsa mosque. That mosque"
+  },
+  {
+   "id": "788faf870176",
+   "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+   "date": "2026-11-25T11:00:46Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views James “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my ideas or not think I’m a jerk – but I still have a right to my beliefs and should not be unjustly accused because of them”. Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laund"
+  },
+  {
+   "id": "210017cf545b",
+   "title": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
+   "date": "2026-11-25T12:55:47Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israeli MPs on Wednesday gave their initial approval for the creation of a commission to investigate the security failures that led to the October 7, 2023 attack by Hamas. Caretaker Prime Minister Benjamin Netanyahu, who was in power when the attack happened, has repeatedly rejected calls to set up such a probe."
+  },
+  {
+   "id": "29b1a7abe742",
+   "title": "At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046989/at-least-3-killed-14-injured-after-under-construction-building-collapses-near-karachis-baloch-colony",
+   "date": "2026-11-25T17:11:38Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: At least three people were killed and 14 injured on Wednesday when an under-construction building collapsed in Karachi Administration Housing Society near Baloch Colony, according to police and rescue services officials. Rescue 1122 spokesperson Hassaan Ul Haseeb Khan told Dawn that a ground-plus-five-storey building with one penthouse was constructed on 600 square yards and it collapsed when over 20 workers were present at the site. He added that rescue teams responded immediately, launching an operation with modern equipment and machinery. He said three bodies and 14 injured persons"
+  },
+  {
+   "id": "09e4b80ef59f",
+   "title": "Diesel price dips below Rs350 after 4 months; petrol rate down by Rs4",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047017/petrol-diesel-price-for-nov-26-2026",
+   "date": "2026-11-25T17:52:25Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan fuel prices, 2026 Official ex-depot prices (PKR/litre) — OGRA & Ministry of Energy notifications Petrol (MS-92) Diesel (HSD) Pre-crisis baseline Source: OGRA / Ministry of Energy (Petroleum Division); Dawn.com · .fpw-root { --fpw-navy: #0a2240; --fpw-red: #b5341a; --fpw-grey: #888888; --fpw-border: #e0e0e0; --fpw-bg: #ffffff; --fpw-text: #1a1a1a; --fpw-muted: #666666; --fpw-insight-bg: #f0f4f8; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.4; color: var(--fpw-text); background: var(--fpw-bg); border: 1"
+  },
+  {
+   "id": "9fe8b8726bf0",
+   "title": "KP’s Karak reports 'first polio case in 6 years', taking countrywide 2026 tally to 10",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047027/kps-karak-reports-first-polio-case-in-6-years-taking-countrywide-2026-tally-to-10",
+   "date": "2026-11-25T18:27:07Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The National Emergency Operations Centre for Polio Eradication (NEOC) has confirmed the country’s 10th paralytic polio case of the year, with the latest infection from Karak district in Khyber Pakhtunkhwa. According to an official of the polio programme, the affected child is a 14-month-old girl from the district’s Shnawa Gudi Khel union council. The case is the first reported from Karak in six years, and the eighth of the year from KP, according to NEOC. “The case is genetically linked to poliovirus detected in southern KP, where poliovirus circulation has remained intense this yea"
+  },
+  {
+   "id": "e028736ee748",
+   "title": "US unveils proposed tariffs on major partners, including EU, China and India",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
+   "date": "2026-11-25T13:40:45Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relationships. The duties, proposed at up to 20 per cent, come over allegations that the economies “are promoting production and capacity divorced from the realities of demand and market principles,” a senior US official said on condition of anonymity. The new tariffs will need to undergo a period of public comment before taking effect, with th"
+  },
+  {
+   "id": "7c522b253a77",
+   "title": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "date": "2026-11-25T16:13:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy. The Shenzhou-24 space flight’s three-man crew entered Tiangong at 2:35pm (0635 GMT), roughly six hours after they took off from the Jiuquan Satellite Launch Centre in northwest China using a Long March-2F rocket. The 40-year-old pilot, who is the first Pakistani in orbit , is working as a payload specialist and is set to stay at the station for 5 to 10 days. To prepare f"
+  },
+  {
+   "id": "81a64a777fae",
+   "title": "AJK Assembly sets conditions for resumption of dialogue with proscribed JAAC",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047024/ajk-assembly-sets-conditions-for-resumption-of-dialogue-with-proscribed-jaac",
+   "date": "2026-11-25T16:47:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "MUZAFFARABAD: The Azad Jammu and Kashmir (AJK) Legislative Assembly on Wednesday offered to reopen negotiations with the proscribed Joint Awami Action Committee (JAAC), subject to the disbandment of armed groups, surrender of those allegedly involved in serious crimes and an unequivocal commitment to pursue demands through constitutional and democratic means. The region has witnessed violence-marred protests over the past few months, particularly in June and July, with reports of sporadic unrest in recent weeks. At the root of the tensions was JAAC’s demand to abolish the 12 refugee seats in t"
+  },
+  {
+   "id": "c4661b7c089c",
+   "title": "NCCIA claims busted call centre at Karachi's Sharea Faisal defrauding elderly US citizens",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047010/nccia-claims-busted-call-centre-at-karachis-sharea-faisal-defrauding-elderly-us-citizens",
+   "date": "2026-11-25T14:53:55Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The National Cyber Crime Investigation Agency (NCCIA) said on Wednesday that it had busted a call centre in Karachi for fraud, arresting five people and recovering Rs150 million in cash as well as about Rs60m in cryptocurrency. According to a press release issued by the agency, the call centre allegedly defrauded elderly United States citizens with claims surrounding medical equipment and health insurance. The network allegedly operated under the names ‘Global Resource Group’, ‘Phoenix Marketing Solution’ and ‘The Call Solution’ between 2020 and 2025 from offices at Anam Empire on Sharea Faisa"
+  },
+  {
+   "id": "26559ce5ab07",
+   "title": "India says 'cockroach' movement leader Das told not to use passport",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047015/india-says-cockroach-movement-leader-das-told-not-to-use-passport",
+   "date": "2026-11-25T15:10:39Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India’s foreign ministry said on Wednesday that passport authorities asked ‘cockroach’ movement leader Saurav Das not to ​use his passport until he clarified information about ‌his place of birth. On Monday, Das said he was stopped at Delhi airport hours before he was due to fly to London ​to speak to students, after being issued the passport ​notice. Das accused Prime Minister Narendra Modi’s government of ⁠trying to silence dissent and stifle debate by blocking ​his travel to Britain. Indian foreign ministry spokesperson Randhir Jaiswal said ​passport authorities issued a notice if a discrep"
+  },
+  {
+   "id": "d2bc81aa9188",
+   "title": "£190m corruption case: Imran, Bushra's counsel says transaction caused no loss to exchequer",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046995/ps190m-corruption-case-imran-bushras-counsel-says-transaction-caused-no-loss-to-exchequer",
+   "date": "2026-11-25T11:55:33Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: In the £190 million corruption case , counsel for PTI founder and former prime minister Imran Khan and his wife, Bushra Bibi, argued that the transaction had caused no loss to the national exchequer but had instead proved financially beneficial. The couple is serving prison sentences in the £190 million corruption case, also known as the Al-Qadir Trust case. On January 17, 2025, an accountability court in Islamabad sentenced Imran to 14 years in prison and Bushra to seven years in the case. Both subsequently challenged their convictions before the IHC. The development came as the Is"
+  },
+  {
+   "id": "bc557447c65b",
+   "title": "Tarar urges social media companies to establish offices in Pakistan",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047005/tarar-urges-social-media-companies-to-establish-offices-in-pakistan",
+   "date": "2026-11-25T13:59:32Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Federal Information Minister Attaullah Tarar on Wednesday urged social media companies to establish their offices in Pakistan and expand their presence in the country. He made the remarks while addressing a seminar organised by the Sustainable Policy Development Institute in Islamabad. “Social media platforms are most welcome. We want their business to grow in Pakistan,” he said. The minister said that the country needed their presence as it had a vibrant youth population that created “positive content”. “We have the potential to create good and positive content and these social media companie"
+  },
+  {
+   "id": "0d89e42976b7",
+   "title": "Minister vows to upgrade GB's road infrastructure, reviews ongoing development work",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047006/minister-vows-to-upgrade-gbs-road-infrastructure-reviews-ongoing-development-work",
+   "date": "2026-11-25T14:48:51Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Communications Minister Abdul Aleem Khan vowed on Wednesday to upgrade the road infrastructure of Gilgit-Baltistan (GB) to modern standards. During his visit to GB, the minister inaugurated the newly reconstructed Bageecha Bridge, which had previously been destroyed by floods, as well as the Maloopa Shelter constructed by the National Highway Authority (NHA). The minister inspected the ongoing construction and development work on the Jaglot–Skardu Road, being briefed by officials from the Frontier Works Organisation (FWO) and the NHA on the development projects underway in the regio"
+  },
+  {
+   "id": "5086d228cf74",
+   "title": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "date": "2026-11-25T12:19:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year. The franchise announced the deal on Wednesday, with Short joining for a reported fee of Rs9.15 crore. The 31-year-old, who captains Adelaide Strikers in the Big Bash League (BBL), becomes one of the highest-paid direct signings for the upcoming season. A two-time BBL Player of the Tournament, Short is known for his aggressive top-order batting and useful right-arm off-s"
+  },
+  {
+   "id": "aa3695ad8f4e",
+   "title": "PM approves NCCIA restructuring, orders overhaul of cybercrime prevention system",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+   "date": "2026-11-25T08:55:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday ordered the modernisation of the system to prevent cybercrime in the country and approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA). A meeting, presided over by the premier, was held to review the NCCIA’s performance, administrative structure and future strategy. Speaking at the meeting, the prime minister said efforts to prevent and investigate cybercrime should be modernised in line with contemporary requirements. “Protecting the public from cybercrime is among the government’s top priorities,” the prime m"
+  },
+  {
+   "id": "5e6c7c77ff30",
+   "title": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "date": "2026-11-25T10:33:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and advance a pipeline of bankable and sustainable projects that can attract private capital and support the country’s economic growth. In a statement , the Manila-based lending agency said the financing will support reforms to help the government prepare market-ready projects, particularly high-quality, cost-efficient infrastructure, and improve fiscal risk management. “Rigorous project appraisal, transparent disclosure, and"
+  },
+  {
+   "id": "024dfda6b275",
+   "title": "Maldives national airline to start direct flights to Pakistan soon, meeting told",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
+   "date": "2026-11-25T08:59:17Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Maldivian, the national airline of the Maldives, will soon start direct flights to Pakistan in a bid to boost tourism, trade and people-to-people contacts between the two countries, it emerged on Wednesday, The announcement was made during a meeting of the Maldives Tourism and Civil Aviation Minister Mohamed Ameen with Interior Minister Mohsin Naqvi and Minister of State for Interior, Tallal Chaudry, as per a statement issued by the ministry. An official launch date and flight schedule have not been announced yet. “Direct flights will make travel to Maldives much easier for Pakistan"
+  },
+  {
+   "id": "7c0b8a02f775",
+   "title": "Raising our sons",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046929/raising-our-sons",
+   "date": "2026-11-25T12:39:01Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "IN June, a seven-year-old girl in Sargodha went to a grocery store and never returned. In August, an 18-month-old in Karachi lost her life after being sexually assaulted by a teenage relative. Two weeks later, Hina Javed, a 45-year-old professional, was found raped and murdered in her own home in Rawalpindi. Days later, a five-year-old girl in Haripur who had gone out to play was found dead in a well. These cases broke through in a single summer; many more never did. Each time, Pakistan said “never again,” then turned the page. On paper, Pakistan has made progress. The Anti-Rape Act of 2021 an"
+  },
+  {
+   "id": "4f81444702b5",
+   "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
+   "date": "2026-11-25T18:01:32Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "‘The case of a citizen willing to return voluntarily to her country on a travel document is a matter separate from the extradition request,’ MEA’s official spokesperson Randhir Jaiswal said"
+  },
+  {
+   "id": "e0738e3e5cdb",
+   "title": "Israeli strike kills Hamas official, his wife and children",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece",
+   "date": "2026-11-25T17:59:46Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who \"served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip\""
+  },
+  {
+   "id": "8a1a69f5f761",
+   "title": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece",
+   "date": "2026-11-25T17:58:32Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "The statement said the vessels ‌had been attempting to transit ‌an ⁠unauthorised route through the ⁠waterway"
+  },
+  {
+   "id": "d0705fbfc953",
+   "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
+   "date": "2026-11-25T17:40:18Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The Trump administration is preparing a fresh tariff offensive targeting major trading partners including China, India and the European Union. Here’s what the investigation is about and what it could mean for global trade."
+  },
+  {
+   "id": "58d3722cc523",
+   "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+   "date": "2026-11-25T17:38:36Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "The order by the U.S. Trade Representative also opens the door for a lower 17% tariff if India and the U.S. sign a trade deal"
+  },
+  {
+   "id": "7a7fd84050df",
+   "title": "Bangladesh tightens border security ahead of Hasina's planned return; deploys 108 BGB platoons",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladesh-tightens-border-security-ahead-of-hasinas-planned-return-deploys-108-bgb-platoons/article71742554.ece",
+   "date": "2026-11-25T13:23:52Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The heightened security comes amid fears that Ms. Hasina's supporters could intensify violence and sabotage in the coming days. Awami League, whose activities have been banned, is promoting a lockdown programme for November 29 and 30 through online platforms, adding to concerns over a possible escalation of tensions"
+  },
+  {
+   "id": "0d19f5e7a16c",
+   "title": "Daily Quiz: On Portuguese military campaigns and personalities",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/daily-quiz-on-portuguese-military-campaigns-and-personalities/article71740887.ece",
+   "date": "2026-11-25T01:03:44Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "On November 25, 1510, the Portuguese recaptured Goa after a fierce military campaign, consolidating their foothold on India’s western coast. Test your knowledge of the military campaigns and personalities behind this pivotal episode in Indian history"
+  },
+  {
+   "id": "b4ecae24bf8c",
+   "title": "رسانه‌های لبنان: فشار آمریکا و عربستان پشت لحن تندتر عون علیه حزب‌الله و ایران است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cwp9d0j9yjego?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:43:46Z",
+   "countries": [
+    "IRN",
+    "LBN",
+    "SAU"
+   ],
+   "desc": "رسانه‌های لبنان به بررسی پیامدهای سخنرانی جوزف عون، رئیس‌جمهوری لبنان، به مناسبت روز استقلال پرداختند و لحن تندتر او در قبال حزب‌الله و ایران را به افزایش فشارهای آمریکا و عربستان سعودی نسبت دادند. در حالی که برخی رسانه‌ها بر تاثیر این مواضع بر تلاش‌های نبیه بری، رئیس پارلمان لبنان، برای احیای گفت‌وگو میان ریاست‌جمهوری و حزب‌الله تمرکز کردند، برخی دیگر سناریوهای پیش رو برای اجرای خلع سلاح حزب‌الله را بررسی کردند."
+  },
+  {
+   "id": "efe82d60bb2b",
+   "title": "تداوم زن‌کشی در ایران در سایه جنگ و کاستی‌های قانونی",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c65y1kvz2ezeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:07:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "در آستانه روز جهانی مبارزه با خشونت علیه زنان در ۲۵ نوامبر، انتشار گزارش‌های تازه از قتل زنان و دختران در ایران بار دیگر توجه‌ها را به سابقه این کشور در زمینه زن‌کشی، خشونت خانگی و حمایت‌های قانونی از قربانیان جلب کرده است."
+  },
+  {
+   "id": "053df87eabf9",
+   "title": "محمد ذیشان علی، نخستین فضانورد پاکستانی، وارد ایستگاه فضایی چین شد",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c9x2ejpmg8rko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T09:28:46Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "محمد ذیشان علی، خلبان نیروی هوایی پاکستان، پس از پیوستن فضاپیمای «شنژو-۲۴» به ایستگاه فضایی «تیانگونگ»، وارد این ایستگاه شد و نام خود را به عنوان نخستین پاکستانی که به فضا سفر کرده است در تاریخ ثبت کرد. او قرار است در جریان اقامت چندروزه خود در ایستگاه فضایی چین، در چندین آزمایش علمی مشارکت کند."
+  },
+  {
+   "id": "31ff4bfd6dc3",
+   "title": "از طرح کشتن رهبران ایران تا بازتاب شلاق پرستو احمدی در رسانه‌های آمریکا",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqkgr37lk57eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T08:41:50Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "در حالی که دولت آمریکا همزمان با ادامه جنگ با ایران به دنبال راه‌هایی برای افزایش فشار بر تهران و پایان دادن به درگیری است، رسانه‌های آمریکایی از بررسی گزینه‌های تازه نظامی علیه رهبران جمهوری اسلامی، مذاکرات پنتاگون با خودروسازان برای افزایش تولید پهپاد، پیامدهای اقتصادی جنگ برای بحرین و بازتاب گسترده اجرای حکم شلاق پرستو احمدی خبر داده‌اند."
+  },
+  {
+   "id": "32e392cfc7ed",
+   "title": "الألغام تواصل حصد الأرواح في سوريا بعد عامين من انتهاء الحرب",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cxg5rznnjmmlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:19:22Z",
+   "countries": [
+    "SYR"
+   ],
+   "desc": "الألغام وغيرها من المواد المتفجرة قد تظل موجودة في مناطق بعيدة عن خطوط المواجهة السابقة في سوريا، الأمر الذي يجعل تحديد المناطق الآمنة أمراً بالغ الصعوبة."
+  },
+  {
+   "id": "1354043c1121",
+   "title": "النفط والمنافذ الحدودية تشعل فصلاً جديداً من الخلافات بين بغداد وأربيل",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq772v3vmk1xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T12:12:17Z",
+   "countries": [
+    "IRQ"
+   ],
+   "desc": "قرارات حكومية عراقية بشأن إدارة حقول النفط والمنافذ الحدودية تثير رفضاً واسعاً في إقليم كردستان، وتعيد إلى الواجهة خلافات مستمرة منذ أكثر من عقدين بين بغداد وأربيل."
   }
  ]
 }
