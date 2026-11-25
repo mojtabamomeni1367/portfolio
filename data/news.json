@@ -1,7 +1,121 @@
 {
- "updated": "2026-11-25T00:06:34Z",
- "count": 390,
+ "updated": "2026-11-25T08:45:09Z",
+ "count": 404,
  "items": [
+  {
+   "id": "df3bfcc9630f",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cm174wqy2pdvt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T08:35:00Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "ترامپ: بودجه جنگ ایران تا پایان ژانویه تامین شده است",
+   "title_en": "Trump: Funding for Iran war secured until end of January",
+   "summary_en": "US President Donald Trump stated that funding for the war against Iran is secured until the end of January 2027. He warned Congressional Democrats against attempting to stop the conflict, saying it would turn a victory into a loss.",
+   "body_en": [
+    "In an interview with the New York Post, Trump expressed concern that Democrats might attempt to restrict his military authority once they take control of Congress in January. He claimed US forces had destroyed Iran's navy and air defenses, adding that Washington could end the conflict at any time.",
+    "Trump's remarks follow the US Senate's rejection of a bill last week that would have required the president to seek congressional authorization to continue military action against Iran."
+   ],
+   "title_fa": "ترامپ: بودجه جنگ ایران تا پایان ژانویه تامین شده است",
+   "summary_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که بودجه جنگ علیه ایران تا پایان ژانویه ۲۰۲۷ تأمین شده است. او هشدار داد که تلاش دموکرات‌های کنگره برای توقف این درگیری، یک «پیروزی کامل» را به شکست تبدیل خواهد کرد.",
+   "body_fa": [
+    "ترامپ در مصاحبه‌ای با نیویورک پست گفت امیدوار است حزب دموکرات با آغاز کنترل بر کنگره در ماه ژانویه باعث پایان پیش از موعد جنگ نشود. او مدعی شد نیروهای آمریکایی پدافند هوایی و نیروی دریایی ایران را نابود کرده‌اند و واشینگتن هر زمان بخواهد می‌تواند جنگ را تمام کند.",
+    "این اظهارات پس از آن مطرح می‌شود که مجلس سنای آمریکا هفته گذشته طرحی را که اختیارات ترامپ را برای ادامه جنگ با ایران محدود می‌کرد، رد کرد."
+   ],
+   "title_ar": "ترامب: تمويل الحرب على إيران مؤمن حتى نهاية يناير",
+   "summary_ar": "أعلن الرئيس الأمريكي دونالد ترامب أن تمويل الحرب ضد إيران مؤمن حتى نهاية يناير 2027. وحذر الديمقراطيين في الكونغرس من محاولة إيقاف الصراع، مشيراً إلى أن ذلك سيحول النصر إلى خسارة.",
+   "body_ar": [
+    "في مقابلة مع صحيفة نيويورك بوست، أعرب دونالد ترامب عن أمله في ألا يتسبب الديمقراطيون في إنهاء الحرب مبكراً عند سيطرتهم على الكونغرس في يناير. وادعى أن القوات الأمريكية دمرت الدفاع الجوي والقوة البحرية الإيرانية، مضيفاً أن واشنطن يمكنها إنهاء الحرب في أي وقت.",
+    "تأتي تصريحات دونالد ترامب بعد أن رفض مجلس الشيوخ الأمريكي الأسبوع الماضي مشروع قانون كان سيلزمه بالحصول على موافقة الكونغرس لمواصلة العمليات العسكرية ضد إيران."
+   ]
+  },
+  {
+   "id": "b826e99c03dd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+   "date": "2026-11-25T04:13:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 7,
+   "title": "Israeli strike kills four people in Gaza",
+   "title_en": "Israeli strike kills four people in Gaza",
+   "summary_en": "An Israeli airstrike targeting a residential building in Gaza's Shati refugee camp has killed at least four people and injured several others.",
+   "body_en": [],
+   "title_fa": "حمله اسرائیل در غزه چهار کشته برجای گذاشت",
+   "summary_fa": "حمله هوایی اسرائیل به یک ساختمان مسکونی در اردوگاه آوارگان الشاطئ در غزه، دست‌کم چهار کشته و چندین مجروح بر جای گذاشت.",
+   "body_fa": [],
+   "title_ar": "غارة إسرائيلية تقتل أربعة أشخاص في غزة",
+   "summary_ar": "أسفرت غارة جوية إسرائيلية استهدفت مبنى سكنياً في مخيم الشاطئ للاجئين في غزة عن مقتل أربعة أشخاص على الأقل وإصابة آخرين.",
+   "body_ar": []
+  },
+  {
+   "id": "3c830aad232a",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/article71741023.ece",
+   "date": "2026-11-25T04:05:39Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports",
+   "title_en": "Yemen's Houthis threaten to target Jeddah and other Saudi Red Sea ports",
+   "summary_en": "Yemen's Houthis warned on November 25, 2026, that they will target the Saudi port of Jeddah and all other Red Sea ports if Saudi Arabia carries out strikes on the Houthi-controlled port of Hodeidah.",
+   "body_en": [
+    "In a statement by spokesperson Yahya Saree, the group called on port workers and nearby residents to evacuate immediately and urged shipping companies to withdraw their vessels. The warning follows a heightened confrontation, including a Houthi drone strike on a tower in Riyadh that injured at least 11 people, and subsequent coalition airstrikes on operational targets in Hodeidah, Saada, and Amran.",
+    "Fighting between the two sides has intensified since September, when Houthi forces advanced toward the Bab el-Mandeb Strait. The Houthis have launched strikes against Saudi infrastructure, while the Saudi-led coalition has retaliated with airstrikes across Yemen."
+   ],
+   "title_fa": "تهدید حوثی‌های یمن به هدف قرار دادن جده و سایر بنادر سعودی در البحر الاحمر",
+   "summary_fa": "حوثی‌های یمن در ۲۵ نوامبر ۲۰۲۶ هشدار دادند که اگر عربستان سعودی تهدیدهای خود برای حمله به بندر حدیده را عملی کند، بندر جده و تمام بنادر دیگر عربستان در ساحل دریای سرخ هدف قرار خواهند گرفت.",
+   "body_fa": [
+    "در بیانیه‌ای که توسط یحیی سریع، سخنگوی حوثی‌ها صادر شد، این گروه از کارکنان بنادر و ساکنان نزدیک آن‌ها خواست تا سریعاً تخلیه کنند و از شرکت‌های کشتیرانی خواست کشتی‌های خود را خارج کنند. این هشدار پس از تشدید درگیری‌ها، از جمله حمله پهپادی حوثی‌ها به برجی در ریاض که دست‌کم ۱۱ مصدوم برجای گذاشت، و حملات هوایی بعدی ائتلاف به اهدافی در حدیده، صعده و عمران مطرح شد.",
+    "درگیری‌ها میان دو طرف از ماه سپتامبر و پس از پیشروی نیروهای حوثی‌ به سمت تنگه باب‌المندب شدت یافته است. حوثی‌ها حملات خود را به زیرساخت‌های عربستان افزایش داده‌اند و ائتلاف تحت رهبری عربستان نیز با حملات هوایی در سراسر یمن به آن پاسخ داده است."
+   ],
+   "title_ar": "الحوثيون في اليمن يهددون بباستهداف جدة وموانئ سعودية أخرى على البحر الأحمر",
+   "summary_ar": "حذر الحوثيون في اليمن في 25 تشرين الثاني/نوفمبر 2026 من أنهم سيستهدفون ميناء جدة السعودي وكافة الموانئ السعودية الأخرى على البحر الأحمر إذا نفذت السعودية تهديداتها بالهجوم على ميناء الحديدة.",
+   "body_ar": [
+    "وفي بيان أصدره المتحدث باسم الجماعة يحيى سريع، دعت الجماعة الموظفين والعمال في الموانئ والسكان المجاورين إلى الإخلاء الفوري، وطالبت شركات الشحن بسحب سفنها. يأتي هذا التحذير عقب تصاعد المواجهات، بما في ذلك هجوم بطائرة مسيرة للحوثيين على برج في الرياض أسفر عن إصابة 11 شخصًا على الأقل، وغارات جوية تالية للتحالف على أهداف في الحديدة وصعدة وعمران.",
+    "وتصاعدت المعارك بين الطرفين منذ أيلول/سبتمبر عندما تقدمت قوات الحوثيين نحو مضيق باب المندب. وكثف الحوثيون ضرباتهم على البنية التحتية السعودية، بينما زاد التحالف بقيادة السعودية من غاراته الجوية على أهداف للحوثيين في اليمن."
+   ]
+  },
+  {
+   "id": "3e05f460eaea",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/israeli-defence-minister-says-iran-is-developing-chemical-weapons/article71740979.ece",
+   "date": "2026-11-25T03:16:13Z",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "score": 8,
+   "title": "Israeli Defence Minister says Iran is developing chemical weapons",
+   "title_en": "Israeli Defence Minister says Iran is developing chemical weapons",
+   "summary_en": "Israeli Defence Minister Israel Katz claimed on November 24, 2026, that Iran is developing chemical weapons, though he noted Tehran does not yet have the capability to attack Israel with them.",
+   "body_en": [
+    "In statements published on Telegram and in a briefing with reporters, Katz floated the possibility of a preemptive strike on Tehran if an attack on Israel appeared imminent. His remarks came amid political negotiations in Israel, where President Isaac Herzog tasked Gadi Eisenkot with forming a government following an inconclusive election. Eisenkot stated on November 23 that while Iran poses a severe threat, he sees no immediate cause for military action before a government is established.",
+    "Katz also addressed reports regarding U.S. policy, stating that caretaker Prime Minister Benjamin Netanyahu had previously advised Donald Trump against launching an attack prior to the Israeli elections. Iranian Foreign Minister Abbas Araghchi rejected separate media reports of Iranian bomb plots as propaganda."
+   ],
+   "title_fa": "وزیر دفاع اسرائیل مدعی شد ایران در حال توسعه تسلیحات شیمیایی است",
+   "summary_fa": "اسرائیل کاتس، وزیر دفاع اسرائیل، در ۲۴ نوامبر ۲۰۲۶ مدعی شد که ایران در حال توسعه تسلیحات شیمیایی است، اگرچه اشاره کرد که تهران هنوز به توانایی حمله به اسرائیل با این اسلحه نرسیده است.",
+   "body_fa": [
+    "کاتس در بیانیه‌ای در تلگرام و در گفت‌وگو با خبرنگاران، احتمال حمله پیش‌دستانه علیه تهران را در صورت احساس خطر مطرح کرد. این اظهارات در میان رایزنی‌های سیاسی در اسرائیل مطرح می‌شود؛ جایی که اسحاق هرتزوگ، رئیس‌جمهور، گادی آیزنکوت را پس از انتخابات بدون برنده قطعی، مامور تشکیل کابینه کرده است. آیزنکوت در ۲۳ نوامبر تاکید کرد که اگرچه ایران تهدیدی جدی است، اما دلیل فوری برای اقدام نظامی پیش از تشکیل دولت نمی‌بیند.",
+    "کاتس همچنین به گزارش‌ها پیرامون سیاست‌های آمریکا اشاره کرد و گفت بنیامین نتانیاهو، نخست‌وزیر پیشین، پیش از انتخابات اسرائیل دونالد ترامپ را از اقدام نظامی منصرف کرده بود. در همین حال، عباس عراقچی، وزیر امور خارجه ایران، گزارش‌های رسانه‌ای درباره برنامه‌ریزی ایران برای بمب‌گذاری را تبلیغات دروغین خواند."
+   ],
+   "title_ar": "وزير الدفاع الإسرائيلي يقول إن إيران تطور أسلحة كيميائية",
+   "summary_ar": "ادعى وزير الدفاع الإسرائيلي يسرائيل كاتس في 24 تشرين الثاني/نوفمبر 2026 أن إيران تعمل على تطوير أسلحة كيميائية، معتبرًا أن طهران لم تصل بعد إلى القدرة على مهاجمة إسرائيل بها.",
+   "body_ar": [
+    "وفي تصريحات عبر تلغرام وبلاغ للصحفيين، طرح كاتس إمكانية توجيه ضربة استباقية لطهران إذا تبين أن هناك نية لمهاجمة إسرائيل. وتأتي تصريحاته وسط مفاوضات سياسية في إسرائيل، حيث كلف الرئيس يتسحاق هرتسوغ غادي آيزنكوت بتشكيل الحكومة بعد انتخابات لم تسفر عن أغلبية واضحة. وكان آيزنكوت قد صرح في 23 تشرين الثاني/نوفمبر بأنه رغم خطورة التهديد الإيراني، فإنه لا يرى سبباً مباشراً للقيام بعمل عسكري قبل تشكيل الحكومة.",
+    "كما تطرق كاتس إلى تقارير تتعلق بالسياسة الأمريكية، مشيرًا إلى أن رئيس الوزراء بنيامين نتنياهو قد ثنى دونالد ترامب سابقًا عن شن هجوم قبل الانتخابات الإسرائيلية. ومن جانبه، رفض وزير الخارجية الإيراني عباس عراقجي تقارير إعلامية تتهم إيران بالتخطيط لهجمات ووصفها بأنها دعاية مغرضة."
+   ]
+  },
   {
    "id": "b3da66ccdc91",
    "lang": "en",
@@ -30,6 +144,99 @@
    "body_ar": [
     "يمثل الاتفاق أول تحالف رسمي يُبرم منذ انتخابات أكتوبر التي حرمت رئيس الوزراء تسيير الأعمال بنيامين نتنياهو من الأغلبية وأبرزت برلماناً دون ائتلاف حاكم واضح. وكان الرئيس يتسحاق هرتسوغ قد كلف آيزنكوت بإدارة مفاوضات تشكيل الحكومة.",
     "يجمع الاتفاق بين 21 مقعداً لحزب يشار و7 مقاعد لحزب «إسرائيل بيتنا» داخل كتلة المعارضة. في غضون ذلك، أعلن حزب الديمقراطيين بزعامة يائير غولان تعليق مفاوضاته مع آيزنكوت بسبب المحادثات الموازية الجارية بشأن إمكانية تشكيل حكومة وحدة مع حزب الليكود بزعامة نتنياهو."
+   ]
+  },
+  {
+   "id": "ba1141a45ff8",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/who-wins-baghdads-move-clip-kurdish-autonomy-us-or-iran",
+   "date": "2026-11-24T22:52:36Z",
+   "countries": [
+    "IRN",
+    "IRQ"
+   ],
+   "score": 7,
+   "title": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
+   "title_en": "Who wins from Baghdad's move to clip Kurdish autonomy - the US or Iran?",
+   "summary_en": "Iraqi Prime Minister Ali al-Zaidi announced that Baghdad will take control of all border crossings and several oil fields in the autonomous Kurdistan Region. The decision was condemned by Kurdish leaders as an infringement on their autonomy.",
+   "body_en": [
+    "The move comes amid internal divisions within the Kurdistan Regional Government and amid regional tensions over a potential US-Israeli attack on Iran. According to Iraqi officials, Baghdad recently attempted to target Kataib Hezbollah under American pressure over oil smuggling operations.",
+    "On Tuesday, Iraqi government spokesperson Sabah al-Numan stated that Baghdad would take control of all border crossings in the Kurdistan Region based on findings regarding smuggling activities."
+   ],
+   "title_fa": "چه کسی از اقدام بغداد برای محدود کردن خودمختاری کردها سود می‌برد - آمریکا یا ایران؟",
+   "summary_fa": "علی الزیدی، نخست‌وزیر عراق، اعلام کرد که بغداد کنترل تمامی گذرگاه‌های مرزی و چند میدان نفتی در اقلیم خودمختار کردستان را به دست خواهد گرفت. این تصمیم با محکومیت رهبران کرد به عنوان گامی برای محدود کردن خودمختاری آن‌ها مواجه شد.",
+   "body_fa": [
+    "این اقدام در میان اختلافات داخلی در دولت اقلیم کردستان و هم‌زمان با تنش‌های منطقه‌ای در خصوص حمله احتمالی آمریکا و اسرائیل به ایران صورت می‌گیرد. به گفته مقامات عراق، بغداد اخیراً تحت فشارهای آمریکا تلاش کرده است تا با گردان‌های حزب‌الله به دلیل فعالیت‌های قاچاق نفت برخورد کند.",
+    "روز سه‌شنبه، صباح النعمان، سخنگوی دولت عراق، اعلام کرد که بر اساس یافته‌های مرتبط با قاچاق، بغداد کنترل تمامی گذرگاه‌های مرزی اقلیم کردستان را به دست خواهد گرفت."
+   ],
+   "title_ar": "من الرابح من تحرك بغداد لتقليص الحكم الذاتي لكردستان - الولايات المتحدة أم إيران؟",
+   "summary_ar": "أعلن رئيس الوزراء العراقي علي الزيدي أن بغداد ستسيطر على جميع المعابر الحدودية وعدة حقول نفطية في إقليم كردستان المتمتع بالحقوق الذاتية. وقد أدان قادة الإقليم القرار باعتباره خطوة لتقليص حكمهم الذاتي.",
+   "body_ar": [
+    "تأتي هذه الخطوة وسط انقسامات داخلية في حكومة إقليم كردستان وتوترات إقليمية بشأن هجوم أمريكي إسرائيلي محتمل على إيران. ووفقاً لمسؤولين عراقيين، حاولت بغداد مؤخراً التضييق على كتائب حزب الله تحت ضغوط أمريكية بسبب عمليات تهريب النفط.",
+    "وصرح المتحدث باسم الحكومة العراقية صباح النعمان يوم الثلاثاء بأن بغداد ستسيطر على جميع المعابر الحدودية في إقليم كردستان بناءً على النتائج المتعلقة بنشاطات التهريب."
+   ]
+  },
+  {
+   "id": "a437ab8b90fe",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-report-nearly-700-strikes-against-houthis",
+   "date": "2026-11-24T22:27:49Z",
+   "countries": [
+    "IRN",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemeni government forces report nearly 700 strikes against Houthis",
+   "title_en": "Yemeni government forces report nearly 700 strikes against Houthis",
+   "summary_en": "Yemeni government forces announced that they carried out nearly 700 military strikes against Houthi positions over recent hours. Army spokesperson Majed al-Nuzaili stated that the operations killed 97 Houthi fighters and commanders.",
+   "body_en": [
+    "According to Majed al-Nuzaili, the attacks included air strikes, drone strikes, rocket barrages, and artillery shelling targeting Houthi positions, vehicle fleets, and weapons depots. He added that 76 combat assets and vehicles were destroyed or damaged during the operations.",
+    "The military spokesperson noted that government forces and allied troops are continuing to counter Houthi attacks in Taiz, while fighting remains ongoing on the Marib and al-Jawf fronts."
+   ],
+   "title_fa": "نیروهای دولتی یمن از انجام نزدیک به ۷۰۰ حمله علیه حوثی‌ها خبر دادند",
+   "summary_fa": "نیروهای دولتی یمن اعلام کردند که طی چند ساعت گذشته نزدیک به ۷۰۰ حمله نظامی علیه مواضع حوثی‌ها انجام داده‌اند. ماجد النذیلی، سخنگوی ارتش، گفت که این عملیات‌ها به کشته شدن ۹۷ تن از فرماندهان و نیروهای حوثی انجامیده است.",
+   "body_fa": [
+    "به گفته ماجد النذیلی، این حملات شامل حملات هوایی، پهپادی، موشکی و توپخانه‌ای بود که مواضع، تجمع‌ها، وسایل نقلیه و انبار‌های تسلیحاتی حوثی‌ها را هدف قرار داد. وی افزود که ۷۶ وسیله نقلیه و تجهیزات رزمی نیز در جریان این عملیات‌ها منهدم شده یا آسیب دیده‌اند.",
+    "سخنگوی ارتش خاطرنشان کرد که نیروهای دولتی و متحدان آن‌ها به دفع حملات حوثی‌ها در تعز ادامه می‌دهند، در حالی که درگیری‌ها در جبهه‌های مأرب و الجوف همچنان جریان دارد."
+   ],
+   "title_ar": "القوات الحكومية اليمنية تعلن تنفيذ زهاء 700 ضربة ضد الحوثيين",
+   "summary_ar": "أعلنت القوات الحكومية اليمنية أنها نفذت زهاء 700 ضربة عسكرية ضد مواقع الحوثيين خلال الساعات الماضية. وأفاد المتحدث باسم الجيش ماجد النزيلي بأن العمليات أسفرت عن مقتل 97 من قادة ومقاتلي الحوثيين.",
+   "body_ar": [
+    "ووفقاً لماجداً النزيلي، شملت الهجمات ضربات جوية وهجمات بالطائرات المسيرة والقصف الصاروخي والمدفعي واستهدفت مواقع الحوثيين وتجمعاتهم وآلياتهم ومستودعات أسلحتهم. وأضاف أنه تم تدمير أو إلحاق الأضرار بـ 76 آلية وأصولاً قتالية خلال العمليات.",
+    "وأشار المتحدث العسكري إلى أن القوات الحكومية وحلفاءها يواصلون صد هجمات الحوثيين في تعز وسط استمرار المواجهات على جبهتي مأرب والجوف."
+   ]
+  },
+  {
+   "id": "e09ad001f3e2",
+   "lang": "en",
+   "source": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-reports-air-strikes-near-sanaa-airport",
+   "date": "2026-11-24T22:05:58Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Houthi media report air strikes near Sanaa airport",
+   "title_en": "Houthi media report air strikes near Sanaa airport",
+   "summary_en": "Houthi media reported that the Saudi-led coalition launched air strikes near Sanaa International Airport. The attacks followed a Houthi strike on a tower in Riyadh.",
+   "body_en": [
+    "According to the Houthi-run Saba news agency, coalition forces supporting the Yemeni government targeted the area surrounding Sanaa International Airport.",
+    "The strikes occurred after the Houthis hit the tallest tower in Riyadh on Tuesday, marking the second such attack in less than a week."
+   ],
+   "title_fa": "گزارش رسانه‌های حوثی از حملات هوایی در نزدیکی فرودگاه صنعا",
+   "summary_fa": "رسانه‌های حوثی گزارش دادند که ائتلاف به رهبری عربستان سعودی حملات هوایی را در نزدیکی فرودگاه بین‌المللی صنعا انجام داده است. این حملات پس از حمله حوثی‌ها به برجی در ریاض صورت گرفت.",
+   "body_fa": [
+    "به گزارش خبرگزاری سبأ وابسته به حوثی‌ها، نیروهای ائتلاف تحت رهبری عربستان سعودی در حمایت از دولت یمن، اطراف فرودگاه بین‌المللی صنعا را هدف قرار دادند.",
+    "این حملات پس از آن رخ داد که حوثی‌ها روز سه‌شنبه بلندترین برج در ریاض، پایتخت عربستان سعودی، را برای دومین بار در کمتر از یک هفته مورد هدف قرار دادند."
+   ],
+   "title_ar": "إعلام الحوثيين يورد أنباء عن ضربات جوية قرب مطار صنعاء",
+   "summary_ar": "أفادت وسائل إعلام حوثية بأن التحالف الذي تقوده السعودية شن ضربات جوية بالقرب من مطار صنعاء الدولي. وتأتي هذه الهجمات بعد ضربة شنها الحوثيون على برج في الرياض.",
+   "body_ar": [
+    "وفقاً لوكالة سبأ التابعة للحوثيين، استهدفت قوات التحالف الداعم للحكومة اليمنية محيط مطار صنعاء الدولي.",
+    "وجاء التقرير بعد أن ضرب الحوثيون أطول برج في العاصمة السعودية الرياض يوم الثلاثاء للمرة الثانية خلال أقل من أسبوع."
    ]
   },
   {
@@ -92,6 +299,36 @@
    ]
   },
   {
+   "id": "45e5917092cd",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+   "date": "2026-11-24T20:35:03Z",
+   "countries": [
+    "TUR"
+   ],
+   "score": 6,
+   "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+   "title_en": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+   "summary_en": "Eastern Libyan military commander Khalifa Haftar arrived in Ankara for his first known visit to Turkiye, accompanied by his sons Khaled and Belqasim. The visit comes shortly after a Ukrainian long-range attack struck a Russian warship docked in Benghazi.",
+   "body_en": [
+    "Haftar was greeted at the airport by Turkish Chief of General Staff General Selcuk Bayraktaroglu, with reports indicating he is set to meet Turkish President Recep Tayyip Erdogan. The trip follows a Ukrainian strike on a Russian warship in Benghazi that killed at least 10 Libyan and Russian personnel.",
+    "The visit coincides with efforts by the US to broker a power-sharing arrangement in Libya, as well as the recent approval by Libya's eastern parliament of a 2019 maritime agreement with Turkiye. Turkish President Recep Tayyip Erdogan is also preparing for a visit to Libya in December."
+   ],
+   "title_fa": "بازدید حفتر از ترکیه چند روز پس از حمله اوکراین به ناو جنگی روسیه",
+   "summary_fa": "خلیفه حفتر، فرمانده نظامی شرق لیبی، در نخستین سفر شناخته‌شده خود به ترکیه به همراه پسرانش خالد و بلقاسم وارد آنکارا شد. این بازدید چند روز پس از حمله از راه دور اوکراین به یک ناو جنگی روسیه در بنغازی انجام می‌شود.",
+   "body_fa": [
+    "حفتر در فرودگاه مورد استقبال ژنرال سلچوق بایراکتاراوغلو، رئیس ستاد کل ارتش ترکیه قرار گرفت و گزارش‌ها نشان می‌دهد وی قرار است با رجب طیب اردوغان، رئیس‌جمهور ترکیه دیدار کند. این سفر پس از حمله اوکراین به ناو جنگی روسیه در بنغازی صورت می‌گیرد که به کشته شدن دست‌کم ۱۰ تن از پرسنل لیبیایی و روسی انجامید.",
+    "این بازدید هم‌زمان با تلاش‌های آمریکا برای میانجی‌گری جهت اشتراک قدرت در لیبی و همچنین تصویب اخیر توافق‌نامه دریایی ۲۰۱۹ با ترکیه توسط پارلمان شرق لیبی انجام می‌شود. رجب طیب اردوغان، رئیس‌جمهور ترکیه نیز برای سفر به لیبی در ماه دسامبر آماده می‌شود."
+   ],
+   "title_ar": "حفتر يزور تركيا بعد أيام من ضرب اوكرانيا لسفينة حربية روسية",
+   "summary_ar": "وصل القائد العسكري لشرق ليبيا خليفة حفتر إلى أنقرة في أول زيارة معروفة له إلى تركيا، برفقة نجليه خالد وبلقاسم. وتأتي الزيارة بعد أيام قليلة من هجوم أوكراني طويل المدى استهدف سفينة حربية روسية في بنغازي.",
+   "body_ar": [
+    "وكان في استقبال حفتر بالمطار رئيس أركان حرب القوات المسلحة التركية الفريق أول سلجوق بيرقدار أوغلو، وأشارت تقارير إلى أنه من المقرر أن يلتقي بالرئيس التركي رجب طيب أردوغان. وتأتي الزيارة عقب ضربة أوكرانية لسفينة حربية روسية في بنغازي أسفرت عن مقتل 10 على الأقل من الطاقم الليبي والروسي.",
+    "وتتزامن الزيارة مع جهود أمريكية للتوسط في مقترح لمشاركة السلطة في ليبيا، بالإضافة إلى مصادقة مجلس النواب في شرق ليبيا مؤخراً على اتفاقية الحدود البحرية لعام 2019 مع تركيا. كما يستعد الرئيس التركي رجب طيب أردوغان لزيارة ليبيا في شهر ديسمبر."
+   ]
+  },
+  {
    "id": "b120ffb859ab",
    "lang": "en",
    "source": "Middle East Eye",
@@ -117,6 +354,36 @@
    "summary_ar": "اتهم المتحدث باسم الحوثيين يحيى سريع السعودية بشن عشرات الغارات الجوية في اليمن، واستهداف مناطق مدنية في صنعاء.",
    "body_ar": [
     "ووفقاً لبيان نشر عبر تلغرام، قال سريع إن السعودية نفذت 72 غارة جوية خلال 24 ساعة. وأوضح أن الغارات استهدفت محافظات الجوف وتعز وصعدة والحديدات وإب ولحج، بالإضافة إلى استهداف مناطق مدنية في العاصمة صنعاء."
+   ]
+  },
+  {
+   "id": "73a1466aac5e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+   "date": "2026-11-24T19:02:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 6,
+   "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+   "title_en": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+   "summary_en": "Lawmaker Ahmad Tibi has accused Israeli National Security Minister Itamar Ben-Gvir of trying to provoke a religious war after police removed loudspeakers used for the call to prayer from mosques in southern Israel.",
+   "body_en": [
+    "Police recently seized audio equipment from mosques in the Bedouin towns of Hura and Tel al-Saba, stating they had received multiple noise complaints. Ben-Gvir defended the raids by claiming volume levels were too high, while local activists and residents reported that officers damaged property and confiscated security camera footage during the operations.",
+    "Tibi also criticised caretaker Prime Minister Benjamin Netanyahu for inciting against Palestinian citizens of Israel. The raids coincide with ongoing legislative efforts in the Knesset by Ben-Gvir's party to restrict the use of loudspeakers by mosques."
+   ],
+   "title_fa": "ایتمار بن‌گویر به تلاش برای راه انداختن «جنگ مذهبی» از طریق یورش به مساجد متهم شد",
+   "summary_fa": "احمد الطیبی، نماینده پارلمان، پس از اقدام پلیس اسرائیل در ضبط بلندگوهای اذان از مساجد جنوب اسرائیل، ایتمار بن‌گویر، وزیر امنیت ملی را به تلاش برای شعله‌ور کردن یک جنگ مذهبی متهم کرد.",
+   "body_fa": [
+    "پلیس اسرائیل اخیراً تجهیزات صوتی مساجد را در شهرهای بدوین‌نشین حوره و تل السبع ضبط کرده و مدعی شده که شکایت‌های متعددی درباره آلودگی صوتی دریافت کرده است. بن‌گویر با ادعای بالا بودن صدای اذان از این اقدامات دفاع کرد، در حالی که فعالان و ساکنان محلی اعلام کردند مأموران در جریان این یورش‌ها به اموال آسیب زده و تصاویر دوربین‌های امنیتی را ضبط کرده‌اند.",
+    "الطیبی همچنین از بنیامین نتانیاهو، نخست‌وزیر پیشبرد امور، به دلیل تحریک علیه شهروندان فلسطینی اسرائیل انتقاد کرد. این یورش‌ها هم‌زمان با تلاش‌های قانون‌گذاری حزب بن‌گویر در کنست برای محدود کردن استفاده مساجد از بلندگو صورت می‌گیرد."
+   ],
+   "title_ar": "اتهام لإيتمار بن غفير بالسعي لشن «حرب دينية» بسبب اقتحام المساجد",
+   "summary_ar": "اتهم النائب أحمد الطيبي وزير الأمن القومي الإسرائيلي إيتمار بن غفير بمحاولة إشعال حرب دينية بعد أن أزالت الشرطة مكبرات الصوت المستخدمة للأذان من مساجد في جنوب إسرائيل.",
+   "body_ar": [
+    "مصادرة الشرطة الإسرائيلية لمعدات الصوت من مساجد في بلدة حورة وتل السبع البدوية جاءت بعد ادعاء بتلقي شكاوى متكررة بشأن الضوضاء. ودافع بن غفير عن هذه الإجراءات بزعم أن مستوى الصوت كان مرتفعاً للغاية، بينما أفاد ناشطون وسكان محليون بأن عناصر الشرطة ألحقوا أضراراً بالممتلكات ومصادروا تسجيلات كاميرات المراقبة.",
+    "كما انتقد الطيبي رئيس الوزراء تسيير الأعمال بنيامين نتنياهو بالتحريض ضد المواطنين الفلسطينيين في إسرائيل. وتأتي هذه الاقتحامات بالتزامن مع جهود تشريعية مستمرة في الكنيست من قبل حزب بن غفير للحد من استخدام المساجد لمكبرات الصوت."
    ]
   },
   {
@@ -176,6 +443,36 @@
    "body_ar": [
     "واستنكر الأمين العام لمجلس التعاون جاسم محمد البديوي الهجوم الذي استهدف برجاً في المركز المالي بالعاصمة السعودية، وأدى إلى إصابة مواطنين سعوديين اثنين وتسعة مقيمين أجانب. ووصف البديوي الاعتداء بأنه جريمة نكراء تظهر خطر هذه المليشيا واستهتارها بأرواح المدنيين.",
     "ودعا البديوي إلى موقف دولي حازم لمحاسبة الجماعة المدعومة من إيران."
+   ]
+  },
+  {
+   "id": "4615c8c5c51d",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
+   "date": "2026-11-24T17:25:57Z",
+   "countries": [
+    "LBN"
+   ],
+   "score": 6,
+   "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+   "title_en": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
+   "summary_en": "Analysts say newly announced US sanctions against a Hezbollah-linked charity in Lebanon will have a limited practical effect beyond sending a political message.",
+   "body_en": [
+    "The US Treasury targeted the Wa Ta’awanu Association on November 18, accusing it of acting as a front group to fund Hezbollah under the guise of humanitarian aid. Experts noted that such measures are unlikely to alter domestic realities in Lebanon, where Hezbollah remains a dominant political and military force.",
+    "While reports indicate Washington could expand sanctions to include Lebanese bankers, business figures, and real estate developers, experts argue that direct affiliates of the group operate largely outside traditional financial networks, rendering the economic leverage minimal."
+   ],
+   "title_fa": "تحریم‌های جدید آمریکا علیه وابستگان حزب‌الله لبنان ممکن است تأثیر محدودی داشته باشد",
+   "summary_fa": "تحلیلگران می‌گویند تحریم‌های جدید آمریکا علیه یک مؤسسه خیریه مرتبط با حزب‌الله در لبنان، افزون بر ارسال یک پیام سیاسی، تأثیر عملی محدودی خواهد داشت.",
+   "body_fa": [
+    "وزارت خزانه‌داری آمریکا در ۱۸ نوامبر جمعیة «وتعاونوا» را هدف قرار داد و آن را به پوششی برای تأمین مالی حزب‌الله تحت پوشش کمک‌های بشردوستانه متهم کرد. با این حال، کارشناسان تأکید می‌کنند این گونه اقدامات تغییر چندانی در واقعیت‌های داخلی لبنان، که حزب‌الله در آن یک قدرت اصلی سیاسی و نظامی است، ایجاد نخواهد کرد.",
+    "اگرچه گزارش‌ها نشان می‌دهند واشنگتن ممکن است تحریم‌ها را به بانکداران، فعالان اقتصادی و سازندگان املاک در لبنان گسترش دهد، اما تحلیلگران معتقدند وابستگان مستقیم حزب‌الله عمدتاً خارج از سیستم‌های مالی سنتی فعالیت می‌کنند و این تحریم‌ها کارایی محدودی دارند."
+   ],
+   "title_ar": "العقوبات الأمريكية الجديدة على مرتبطين بحزب الله اللبناني قد يكون لها تأثير محدود",
+   "summary_ar": "قال محللون إن العقوبات الأمريكية الجديدة التي فرضت على جمعية خيرية مرتبطة بحزب الله في لبنان سيكون لها تأثير عملي محدود بعيداً عن الرسالة السياسية.",
+   "body_ar": [
+    "فرصت وزارة الخزانة الأمريكية عقوبات في 18 نوفمبر على جمعية «وتعاونوا»، متهمة إياها بالعمل كواجهة لتمويل حزب الله تحت غطاء تقديم الخدمات الإنسانية. وأشار خبراء إلى أن هذه الإجراءات لن تغير من الواقع الداخلي في لبنان، حيث يظل حزب الله قوة سياسية وعسكرية رئيسية.",
+    "ورغم تقارير ترجح توسيع واشنگتن للعقوبات لتشمل مصرفيين ورجال أعمال ومستثمرين عقاريين، يرى المحللون أن المؤسسات المباشرة التابعة لحزب الله تعمل غالباً خارج الشبكات المالية التقليدية، مما يجعل التأثير الاقتصادي لهذه العقوبات ضئيلاً."
    ]
   },
   {
@@ -350,6 +647,66 @@
    ]
   },
   {
+   "id": "328251d866cc",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046787/punjab-assembly-adopts-resolution-seeking-tougher-punishment-for-blasphemy",
+   "date": "2026-11-24T15:25:59Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Punjab Assembly adopts resolution seeking tougher punishment for blasphemy",
+   "title_en": "Punjab Assembly adopts resolution seeking tougher punishment for blasphemy",
+   "summary_en": "The Punjab Assembly unanimously passed a resolution urging Pakistan's federal government to enact legislation that increases punishments under Section 298-A of the Pakistan Penal Code.",
+   "body_en": [
+    "The resolution, presented by opposition lawmaker Rana Aurangzaib, argued that the current penalty of up to three years imprisonment or a fine is insufficient for offences involving derogatory remarks against holy personages, including the Holy Prophet's family, wives, and companions.",
+    "The Assembly requested that the federal government prioritise amending the law to protect religious sanctities and maintain social peace. A similar bill passed by Parliament in 2023 to increase the prison sentence to at least 10 years was previously returned by then-president Arif Alvi."
+   ],
+   "title_fa": "مجلس پنجاب قطعنامه‌ای را برای تشدید مجازات توهین به مقدسات تصویب کرد",
+   "summary_fa": "مجلس پنجاب به اتفاق آرا قطعنامه‌ای را تصویب کرد که از دولت فدرال پاکستان می‌خواهد قوانین سخت‌گیرانه‌تری را برای افزایش مجازات تحت ماده ۲۹۸-الف قانون مجازات پاکستان وضع کند.",
+   "body_fa": [
+    "این قطعنامه که توسط رانا اورنگ‌زیب، نماینده اپوزیسیون ارائه شد، تأکید دارد که مجازات فعلی شامل تا سه سال حبس یا جریمه نقدی برای توهین به شخصیت‌های مقدس، از جمله اهل بیت، همسران و صحابه پیامبر اسلام کافی نیست.",
+    "مجلس پنجاب از دولت فدرال خواست تا برای حفظ حرمت مقدسات و حفظ آرامش اجتماعی، متمم این قانون را در اولویت قرار دهد. پیش از این در اوت ۲۰۲۳، پارلمان لایحه‌ای برای افزایش مجازات به حداقل ۱۰ سال حبس تصویب کرده بود که توسط عارف علوی، رئیس‌جمهور وقت، بازگردانده شد."
+   ],
+   "title_ar": "مجلس بنجاب يقر مقترحاً يطالب بتشديد عقوبة توهين المقدسات",
+   "summary_ar": "أقر مجلس بنجاب بالإجماع مقترحاً يطالب الحكومة الاتحادية في پاکستان بسن تشريعات لتشديد العقوبات بموجب المادة 298-أ من قانون العقوبات الباكستاني.",
+   "body_ar": [
+    "وأكد المقترح الذي قدمه عضو المجلس المعارض رانا أورنغزيب أن العقوبة الحالية التي تنص على السجن لمدة تصل إلى ثلاث سنوات أو الغرامة غير كافية لردع الإساءة إلى الشخصيات المقدسة، بما في ذلك أهل البيت وأزواج النبي والصحابة.",
+    "ودعا المجلس الحكومة الاتحادية إلى منح الأولوية لتعديل القانون لضمان احترام المقدسات الدينية والحفاظ على السلم الاجتماعي. وكان البرلمان قد أقر في أغسطس 2023 مشروع قانون لزيادة عقوبة السجن إلى 10 سنوات على الأقل، لكن رئيس الجمهورية آنذاك عارف علوي أعاده إلى البرلمان."
+   ]
+  },
+  {
+   "id": "1d9e85a585e1",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T15:17:28Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 6,
+   "title": "Land mine casualties soar in Syria, two years after war",
+   "title_en": "Land mine casualties soar in Syria, two years after war",
+   "summary_en": "Casualties from landmines and explosive remnants of war have surged in Syria following the fall of Bashar al-Assad, with nearly 1,000 children among the dead or injured, according to UN and monitoring reports.",
+   "body_en": [
+    "The Landmine Monitor reported 1,602 casualties in 2025 alone, representing a more than 50 percent increase over the prior year. Experts attribute the rise to the large-scale return of refugees and internally displaced persons to former front lines and agricultural fields that remain heavily contaminated.",
+    "Since December 2024, the UN Mine Action Service has recorded over 1,500 explosive ordnance incidents resulting in 935 deaths and 1,766 injuries. Clearing operations are hindered by scattered contamination, leaving many returning families vulnerable to unexploded munitions."
+   ],
+   "title_fa": "افزایش شدید تلفات مین‌های زمینی در سوریه دو سال پس از پایان جنگ",
+   "summary_fa": "طبق گزارش‌های سازمان ملل و نهادهای نظارتی، تلفات ناشی از مین‌های زمینی و مهمات منفجرنشده پس از سقوط بشار اسد در سوریه به شدت افزایش یافته و نزدیک به ۱۰۰۰ کودک در میان کشته‌شدگان یا مجروحان هستند.",
+   "body_fa": [
+    "گزارش نهاد نظارت بر مین‌های زمینی نشان می‌دهد که تنها در سال ۲۰۲۵ بالغ بر ۱۶۰۲ نفر کشته یا مجروح شده‌اند که افزایشی بیش از ۵۰ درصد نسبت به سال قبل را نشان می‌دهد. کارشناسان این افزایش را به بازگشت گسترده آوارگان به مناطق جنگی سابق و زمین‌های کشاورزی آلوده مرتبط می‌دانند.",
+    "از دسامبر ۲۰۲۴، بخش اقدام علیه مین سازمان ملل بیش از ۱۵۰۰ حادثه مربوط به مواد منفجره را ثبت کرده که منجر به ۹۳۵ کشته و ۱۷۶۶ مجروح شده است. عملیات مین‌زدایی به دلیل پراکندگی مهمات با چالش مواجه شده و خانواده‌های بازگشته را در معرض خطر قرار داده است."
+   ],
+   "title_ar": "ارتفاع كبير في ضحايا الألغام الأرضية في سوريا بعد عامين من الحرب",
+   "summary_ar": "شهدت ضحايا الألغام الأرضية ومخلفات الحرب الإنفجارية ارتفاعاً كبيراً في سوريا عقب سقوط بشار الأسد، حيث بلغ عدد الأطفال بين قتيل وجريح زهاء 1000 طفل وفقاً لتقارير أممية وميدانية.",
+   "body_ar": [
+    "وسجل مرصد الألغام الأرضية 1602 ضحية في عام 2025 وحده، بزيادة تجاوزت 50 بالمئة مقارنة بالعام السابق. ويعزو الخبراء هذا الارتفاع إلى العودة الواسعة للنازحين واللاجئين إلى خطوط المواجهة السابقة والأراضي الزراعية الملوثة.",
+    "ومنذ ديسمبر 2024، وثقت خدمة الأمم المتحدة للأعمال المتعلقة بالألغام أكثر من 1500 حادثة انفجار أسفرت عن مقتل 935 شخصاً وإصابة 1766 آخرين. وتواجه جهود التطهير صعوبات كبيرة بسبب الانتشار العشوائي للمخلفات، مما يضع السكان العائدين في مواجهة مستمرة مع الخطر."
+   ]
+  },
+  {
    "id": "b699081c766e",
    "lang": "en",
    "source": "Al Jazeera",
@@ -468,6 +825,66 @@
    "body_ar": [
     "وفقاً للتقریر المعروض على البرلمان، سيتم نقل 1500 مواطن من ميانمار عبر سفن حربية في أوائل ديسمبر، بينما تُعيد ميانمار 5303 آخرين جواً على نفقتها الخاصة.",
     "ويأتي هذا الإجراء عقب قرار محكمة العدل الدولية الذي أدان ارتكاب ميانمار إبادة جماعية بحق الروهينغا. وأقر أنور إبراهيم بأن اللاجئين ضحايا لانتهاكات، لكنه أكد عدم قدرة ماليزيا على تحمل استضافتهم."
+   ]
+  },
+  {
+   "id": "0ab89de9a98f",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6m253drjynpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T07:06:19Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "آغاز اجرای پروژه «مسیر ترامپ» در ارمنستان؛ ایران: صرفا به اطمینان‌های ایروان تکیه نمی‌کنیم",
+   "title_en": "Implementation of 'Trump Route' project begins in Armenia; Iran says it will not rely solely on Yerevan's assurances",
+   "summary_en": "Armenia announced the start of practical implementation for the U.S.-backed 'Trump Route for Peace and Prosperity' transit project in Syunik province, while Iran reiterated concerns that it will not rely solely on Yerevan's assurances.",
+   "body_en": [
+    "Armenian Prime Minister Nikol Pashinyan stated on November 23 that preparations for construction in the Syunik region have commenced to unblock regional infrastructure and connect Azerbaijan to Nakhchivan. Pashinyan characterized the project as a historic economic opportunity that would boost Armenia's security, trade, and regional integration while respecting national sovereignty. Broadcasts also included a congratulatory video message from U.S. President Donald Trump.",
+    "In response, Iranian Foreign Ministry spokesperson Esmaeil Baghaei stated that Iran opposes any alterations to recognized international borders or foreign military presence near its frontier. He noted that Tehran has expressed its concerns directly to Armenian officials, emphasizing that the issue involves state sovereignty and that relevant Iranian institutions are monitoring the situation to take necessary measures if required."
+   ],
+   "title_fa": "آغاز اجرای پروژه «مسیر ترامپ» در ارمنستان؛ ایران: صرفا به اطمینان‌های ایروان تکیه نمی‌کنیم",
+   "summary_fa": "ارمنستان از آغاز مرحله عملی اجرای پروژه ترانزیتی «مسیر ترامپ برای صلح و شکوفایی» با حمایت آمریکا در استان سیونیک خبر داد، هم‌زمان ایران مجدداً تأکید کرد که صرفاً به اطمینان‌بخشی‌های ایروان اتکا نخواهد کرد.",
+   "body_fa": [
+    "نیکول پاشینیان، نخست‌وزیر ارمنستان، در ۲۳ نوامبر اعلام کرد که عملیات مقدماتی ساخت‌وساز در استان سیونیک برای رفع انسداد زیرساخت‌های منطقه‌ای و اتصال جمهوری آذربایجان به نخجوان آغاز شده است. پاشینیان این طرح را بزرگ‌ترین برنامه اقتصادی کشورش خواند که ضمن حفظ حاکمیت ملی، به تقویت امنیت، تجارت و پیوندهای منطقه‌ای ارمنستان کمک می‌کند. تلویزیون دولتی ارمنستان همچنین پیام ویدئویی دونالد ترامپ، رئیس‌جمهور آمریکا را پخش کرد.",
+    "در پاسخ، اسماعیل بقایی، سخنگوی وزارت امور خارجه ایران، اظهار داشت که ایران با هرگونه تغییر در مرزهای بین‌المللی و حضور نیروهای خارجی در نزدیکی مرزهای خود مخالف است. وی با اشاره به انتقال مستقیم این نگرانی‌ها به مقامات ارمنستان، تأکید کرد این موضوع حاکمیتی است و نهادهای ذی‌ربط در ایران اوضاع را زیر نظر دارند تا در صورت لزوم اقدامات لازم را انجام دهند."
+   ],
+   "title_ar": "بدء تنفيذ مشروع \"طريق ترامب\" في أرمينيا؛ وإيران تؤكد عدم اكتفائها بضمانات يريفان",
+   "summary_ar": "أعلنت أرمينيا بدء المرحلة العملية لتنفيذ مشروع \"طريق ترامب للسلام والازدهار\" الترانزيتي المدعوم من الولايات المتحدة في محافظة سيونيك، بينما جددت إيران قلقها مؤكدة أنها لن تكتفي بضمانات يريفان.",
+   "body_ar": [
+    "أعلن رئيس الوزراء الأرميني نيكول باشينيان في 23 تشرين الثاني/نوفمبر بدء الأعمال التحضيرية للبناء في محافظة سيونيك لفتح البنية التحتية الإقليمية وربط أذربيجان بنخجوان. ووصف باشينيان المشروع بأنه أكبر برنامج اقتصادي لبلاده، مؤكدًا أنه سيعزز الأمن والتجارة والتكامل الإقليمي مع الحفاظ على السيادة الوطنية. كما بث التلفزيون الرسمي رسالة فيديو تهنئة من الرئيس الأمريكي دونالد ترامب.",
+    "ورداً على ذلك، صرح المتحدث باسم وزارة الخارجية الإيرانية إسماعيل بقائي بأن إيران ترفض أي تغيير في الحدود الدولية أو وجود قوات أجنبية بالقرب من حدودها. وأوضح أن تهران نقلت مخاوفها مباشرة إلى المسؤولين الأرمن، مشدداً على أن القضية تتعلق بالسيادة الوطنية وأن المؤسسات الإيرانية المعنية تتابع الوضع لاتخاذ الإجراءات اللازمة عند الضرورة."
+   ]
+  },
+  {
+   "id": "d446c5f80742",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T06:23:01Z",
+   "countries": [
+    "BGD"
+   ],
+   "score": 7,
+   "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "title_en": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+   "summary_en": "Former Bangladeshi Prime Minister Sheikh Hasina has announced plans to return to Dhaka on 16 December from exile in Delhi, where she fled following a 2024 mass uprising. However, Bangladesh's interim administration stated she will be arrested upon arrival.",
+   "body_en": [
+    "Hasina's spokesperson said she requested the Bangladeshi government to arrange her transport back to the country, describing the planned return on Victory Day as deeply symbolic. Hasina fled to India in August 2024 after mass student-led protests ended her 15-year rule, and she was later sentenced to death in absentia for crimes against humanity.",
+    "Bangladesh's state minister for foreign affairs dismissed the prospect of her returning independently, stating she would be brought back in handcuffs. Hasina's party, the Awami League, remains banned from political activities under the interim government."
+   ],
+   "title_fa": "نخست‌وزیر سابق بنگلادش، شیخ حسینه، می‌گوید قصد دارد ۱۶ دسامبر بازگردد",
+   "summary_fa": "شیخ حسینه، نخست‌وزیر سابق بنگلادش، اعلام کرده است که قصد دارد ۱۶ دسامبر از دهلی به دکا بازگردد. با این حال، دولت موقت بنگلادش تاکید کرده است که او در صورت بازگشت بازداشت خواهد شد.",
+   "body_fa": [
+    "سخنگوی حسینه گفت که او از دولت بنگلادش خواسته است امکان بازگشت او را فراهم کند و تاریخ ۱۶ دسامبر، روز پیروزی بنگلادش، را برای این بازگشت دارای اهمیت نمادین دانست. حسینه در اوت ۲۰۲۴ و در پی اعتراضات سراسری از کشور گریخت و بعداً به صورت غیابی به اعدام محکوم شد.",
+    "وزیر مشاور در امور خارجه بنگلادش بازگشت عادی او را رد کرد و گفت حسینه با دستبند به کشور بازگردانده خواهد شد. فعالیت‌های حزب جنبش عوامیلیک حسینه در حال حاضر توسط دولت موقت ممنوع شده است."
+   ],
+   "title_ar": "رئيسة وزراء بنغلاديش السابقة شيخة حسينة تعلن تخطيطها للعودة في 16 ديسمبر",
+   "summary_ar": "أعلنت رئيسة وزراء بنغلاديش السابقة شيخة حسينة عن خطتها للعودة إلى دكا في 16 ديسمبر من منفاه في دلهي. وفي المقابل، أكدت الحكومة المؤقتة في بنغلاديش أنه سيتم القبض عليها فور وصولها.",
+   "body_ar": [
+    "صرح متحدث باسم حسينة أنها طلبت من حكومة بنغلاديش ترتيب نقلها إلى البلاد، مشيراً إلى أن اختيار يوم النصر للعودة يحمل دلالة رمزية كبيرة. وكانت حسينة قد فرت إلى الهند في أغسطس 2024 بعد احتجاجات عارمة، وحُكم عليها لاحقاً بالإعدام غيابياً.",
+    "ورفض وزير الدولة للشؤون الخارجية في بنغلاديش عودتها كمقيمة عادية، مؤكداً أنها ستُعاد مكبلة اليدين. ولا يزال حزب رابطة عوامي الذي تتزعمه حسينة محظوراً من ممارسة النشاط السياسي."
    ]
   },
   {
