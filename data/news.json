@@ -1,7 +1,368 @@
 {
- "updated": "2026-11-25T19:34:42Z",
- "count": 416,
+ "updated": "2026-11-26T03:47:43Z",
+ "count": 398,
  "items": [
+  {
+   "id": "f00e23403943",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cq772vy1er0do?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T22:26:07Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 7,
+   "title": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
+   "title_en": "Syria: Two killed and others injured in IS attack targeting security headquarters in Hasakah",
+   "summary_en": "Two internal security members were killed and five others wounded in a motorcycle bomb attack on a security post in Hasakah, northeastern Syria. Local security leadership attributed the attack to the Islamic State.",
+   "body_en": [
+    "According to local media and security officials, three armed individuals blew themselves up at an internal security post in the Mushairfeh neighborhood of Hasakah, followed by gunfire. The targeted security center recently merged into the Syrian interim government's Ministry of Interior following the dissolution of the Syrian Democratic Forces' security apparatus.",
+    "Security forces established a cordon around the site to investigate the perpetrators. The incident comes amid ongoing security operations by Syrian authorities against active IS cells across the country."
+   ],
+   "title_fa": "سوریه: کشته شدن دو نفر و زخمی شدن چند تن دیگر در حمله «داعش» به یک مقر امنیتی در حسکه",
+   "summary_fa": "در پی انفجار یک موتورسیکلت بمب‌گذاری‌شده در نزدیکی یک مرکز نیروهای امنیت داخلی در شهر حسکه واقع در شمال شرق سوریه، دو تن از نیروهای امنیتی کشته و پنج تن دیگر زخمی شدند. فرماندهی امنیت داخلی محل، این حمله را به گروه داعش نسبت داد.",
+   "body_fa": [
+    "به گزارش رسانه‌ها و مقامات امنیتی، سه فرد مسلح خود را در یک نقطه امنیتی در محله مشیرفه شهر حسکه منفجر کردند که پس از آن تیراندازی رخ داد. این مرکز امنیتی هدف قرار گرفته، پیشتر متعلق به قسد بوده و به تازگی در وزارت کشور حکومت انتقالی ادغام شده است.",
+    "نیروهای امنیت داخلی محدوده حادثه را محاصره کرده و تحقیقات خود را برای شناسایی عاملان آغاز کرده‌اند. این حمله در چارچوب تداوم عملیات‌های امنیتی مقامات سوریه علیه هسته‌های فعال داعش در نقاط مختلف کشور صورت می‌گیرد."
+   ],
+   "title_ar": "سوريا: مقتل اثنين وإصابة آخرين في هجوم لـ\"تنظيم الدولة\" استهدف مقراً أمنياً في الحسكة",
+   "summary_ar": "قُتل عنصران من قوى الأمن الداخلي في سوريا وأصيب خمسة آخرون جراء انفجار دراجة نارية مفخخة استهدف مركزاً أمنياً في مدينة الحسكة شمال شرقي البلاد. وذكر قائد قوى الأمن الداخلي في المحافظة أن الهجوم نفذته عناصر من تنظيم \"داعش\".",
+   "body_ar": [
+    "وذكرت وسائل إعلام ومديرية إعلام المحافظة أن ثلاثة مسلحين فجروا أنفسهم عند نقطه أمنية في حي مشيرفة بمدينة الحسكة، تلا ذلك تبادل لإطلاق النار. وكان المركز المستهدف يتبع سابقاً لقوات سوريا الديمقراطية قبل اندماجه مؤخراً ضمن وزارة الداخلية التابعة للحكومة الانتقالية.",
+    "وقد فرضت قوى الأمن الداخلي طوقاً أمنياً في محيط الموقع وبدأت تحقيقاً للكشف عن ملابسات الهجوم. وياتي هذا الهجوم في ظل استمرار الحملات الأمنية التي تشنها السلطات السورية ضد خلايا التنظيم الناشطة في مناطق متفرقة من البلاد."
+   ]
+  },
+  {
+   "id": "21cb030d8b53",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+   "date": "2026-11-25T21:03:51Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+   "title_en": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+   "summary_en": "Gaza’s municipalities have warned that upcoming winter rains risk flooding about 1,000 displacement camps and sites, exacerbating an already dire humanitarian situation.",
+   "body_en": [
+    "Following a meeting in Gaza City, the Union of Gaza Strip Municipalities stated that damaged drainage systems, a lack of pumps, and the need to replace roughly 200,000 tents leave response crews with limited capacity to handle the waters. The union specifically noted central areas like al-Mughraqa and al-Zahra, where water levels in Wadi Gaza could rise abruptly.",
+    "Meanwhile, international bodies and aid agencies continue to call for the unrestricted entry of humanitarian supplies, including tents and reconstruction equipment, which remain restricted at border crossings."
+   ],
+   "title_fa": "هشدار شوراهای محلی درباره تهدید بارندگی‌های زمستانی برای ۱۰۰۰ محل پناهگاه در غزه",
+   "summary_fa": "شوراهای محلی غزه هشدار داده‌اند که بارندگی‌های پیش‌روی زمستانی خطر آب‌گرفتگی حدود ۱۰۰۰ اردوگاه و محل اسکان آوارگان را به همراه دارد و وضعیت وخیم بشردوستانه را تشدید می‌کند.",
+   "body_fa": [
+    "اتحادیه شهرداری‌های نوار غزه پس از نشستی در غزه اعلام کرد که آسیب به شبکه‌های زهکشی، کمبود پمپ و نیاز به تعویض حدود ۲۰۰ هزار چادر، توان تیم‌های امدادی را برای مقابله با آب‌گرفتگی به شدت کاهش داده است. این اتحادیه به طور خاص به مناطق مرکزی مانند المغراقه و الزهرا اشاره کرد که سطوح آب در وادی غزه ممکن است در آن‌ها به طور ناگهانی افزایش یابد.",
+    "در همین حال، نهادهای بین‌المللی و سازمان‌های امدادی همچنان خواستار ورود بدون مانع اقلام بشردوستانه از جمله چادرها و تجهیزات بازسازی هستند که همچنان در گذرگاه‌های مرزی محدود شده‌اند."
+   ],
+   "title_ar": "مجالس البلديات تحذر: الأمطار الشتوية تهدد ألف موقع إيواء في غزه",
+   "summary_ar": "حذرت بلديات غزة من أن الأمطار الشتوية القادمة تهدد بغرق نحو ألف مخيم وموقع لإيواء النازحين، مما فاقم الوضع الإنساني المأساوي أصلاً.",
+   "body_ar": [
+    "عقب اجتماع في مدينة غزة، ذكر اتحاد بلديات قطاع غزة أن تلف شبكات الصرف الصحي، ونقص المضخات، والحاجة إلى استبدال نحو 200 ألف خيمة، تترك فرق الاستجابة بقدرة محدودة على التعامل مع المياه. وأشار الاتحاد تحديداً إلى مناطق وسط القطاع مثل المغراقة والزهرا، حيث قد ترتفع مستويات المياه في وادي غزة بشكل مفاجئ.",
+    "في غضون ذلك، تواصل الهيئات الدولية ووكالات الإغاثة المطالبة بالدخول غير المقيد للإمدادات الإنسانية، بما في ذلك الخيام ومعدات إعادة الإعمار، والتي لا تزال مقيدة عند المعابر الحدودية."
+   ]
+  },
+  {
+   "id": "965cf013c461",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+   "date": "2026-11-25T20:51:29Z",
+   "countries": [
+    "BGD",
+    "PAK"
+   ],
+   "score": 6,
+   "title": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
+   "title_en": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
+   "summary_en": "During a visit to Islamabad, Bangladesh Parliament Speaker Hafizuddin Ahmad met with Pakistani leaders, who reaffirmed the high importance Islamabad places on bilateral relations and expanded cooperation.",
+   "body_en": [
+    "Ahmad is leading a parliamentary delegation on a six-day official visit to Pakistan. During separate meetings with President Asif Ali Zardari and Prime Minister Shehbaz Sharif, discussions focused on strengthening parliamentary exchanges, trade, education, and regional connectivity.",
+    "President Zardari highlighted the potential for enhanced cooperation in areas such as defense, agriculture, and food security, while expressing hope for the finalization of pending memorandums of understanding to institutionalize bilateral ties."
+   ],
+   "title_fa": "رئیس‌جمهور و نخست‌وزیر پاکستان در دیدار با رئیس پارلمان بنگلادش: روابط با بنگلادش از «اهمیت بسیار زیادی» برخوردار است",
+   "summary_fa": "حافظ‌الدین احمد، رئیس پارلمان بنگلادش، در جریان سفر به اسلام‌آباد با رهبران پاکستان دیدار کرد و مقامات پاکستانی بر اهمیت بسیار زیادی که اسلام‌آباد برای روابط دوجانبه و گسترش همکاری‌ها قائل است، تأکید دوباره کردند.",
+   "body_fa": [
+    "حافظ‌الدین احمد در رأس یک هیئت پارلمانی در سفری رسمی و شش روزه در پاکستان به سر می‌برد. در دیدارهای جداگانه با آسف علی زرداری، رئیس‌جمهور، و شهباز شریف، نخست‌وزیر، گفتگوها بر تقویت تبادلات پارلمانی، تجارت، آموزش و ارتباطات منطقه‌ای متمرکز بود.",
+    "رئیس‌جمهور زرداری بر پتانسیل افزایش همکاری‌ها در حوزه‌هایی مانند دفاع، کشاورزی و امنیت غذایی تأکید کرد و ابراز امیدواری نمود که تفاهم‌نامه‌های در دست بررسی برای نهادینه‌سازی روابط دوجانبه نهایی شوند."
+   ],
+   "title_ar": "الرئيس ورئيس وزراء باكستان يؤكدان لرئيس برلمان بنغلاديش الزائر أن روابط دكا ذات «أهمية كبيرة»",
+   "summary_ar": "خلال زيارة إلى إسلام آباد، التقى رئيس برلمان بنغلاديش حافظ‌الدين أحمد بالقيادات الباكستانية، التي جددت التأكيد على الأهمية الكبيرة التي توليها إسلام آباد للعلاقات الثنائية وتوسيع التعاون.",
+   "body_ar": [
+    "يقود أحمد وفداً برلمانياً في زيارة رسمية تستغرق ستة أيام إلى باكستان. وخلال لقاءات منفصلة مع الرئيس آصف علي زارداري ورئيس الوزراء شهباز شريف، تركزت النقاشات على تعزيز التبادلات البرلمانية والتجارة والتعليم والترابط الإقليمي.",
+    "أبرز الرئيس زارداري إمكانات تعزيز التعاون في مجالات مثل الدفاع والزراعة والأمن الغذائي، معرباً عن أمله في وضع اللمسات الأخيرة على مذكرات التفاهم المعلقة لإضفاء الطابع المؤسسي على العلاقات الثنائية."
+   ]
+  },
+  {
+   "id": "25e0b737ebd9",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+   "date": "2026-11-25T18:14:27Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 5,
+   "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "title_en": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "summary_en": "A UN tribunal has ruled that the dismissal of Palestinian UN aid workers in 2024 relied on unproven Israeli allegations, casting doubt on the evidence and harming humanitarian operations.",
+   "body_en": [
+    "The dispute tribunal found that the decisions made by UNRWA were based almost entirely on information provided by the Israeli government, which lacked sufficient evidentiary value. The ruling noted that internal investigations had not interviewed the accused staff due to security concerns, and cited issues with the reliability of intercepted communications presented as evidence.",
+    "While UNRWA leadership previously defended the swift dismissals as necessary to preserve the agency's operations amid severe funding pressures, the tribunal awarded a sacked worker compensation for moral damages and unjustified termination."
+   ],
+   "title_fa": "دادگاه حکم داد: سازمان ملل کارکنان فلسطینی را بر اساس ادعای اثبات‌نشده اسرائیل اخراج کرده است",
+   "summary_fa": "یک دادگاه سازمان ملل حکم داد که اخراج کارکنان امدادی فلسطینی سازمان ملل در سال ۲۰۲۴ مبتنی بر ادعای اثبات‌نشده اسرائیل بوده و این امر تردیدهایی را درباره مدارک مطرح کرده و به عملیات بشردوستانه آسیب رسانده است.",
+   "body_fa": [
+    "دادگاه حل اختلاف دریافت که تصمیمات اتخاذ شده توسط آنروا تقریباً به طور کامل بر اساس اطلاعات ارائه شده توسط دولت اسرائیل بوده که فاقد ارزش اثباتی کافی است. در این حکم ذکر شده است که تحقیقات داخلی به دلیل نگرانی‌های امنیتی با کارکنان متهم مصاحبه نکرده بود و به مشکلاتی در قابلیت اعتماد ارتباطات رهگیری شده به عنوان مدرک اشاره کرد.",
+    "در حالی که رهبری آنروا پیش‌تر از اخراج‌های سریع به عنوان اقدامی ضروری برای حفظ عملیات آژانس در میان فشارهای شدید بودجه‌ای دفاع کرده بود، دادگاه به یکی از کارمندان اخراج شده غرامت برای آسیب‌های معروفی و پایان کار غیرموجه اعطا کرد."
+   ],
+   "title_ar": "محكمة تقضي بأن الأمم المتحدة فصلت موظفين فلسطينيين بناءً على مزاعم إسرائيلية غير مثبتة",
+   "summary_ar": "قضت محكمة تابعة للأمم المتحدة بأن فصل موظفي الإغاثة الفلسطينيين التابعين للأمم المتحدة في عام 2024 استند إلى مزاعم إسرائيلية غير مثبتة، مما أثار شكوكاً حول الأدلة وألحق الضرر بالعمليات الإنسانية.",
+   "body_ar": [
+    "وجدت محكمة النزاعات أن القرارات التي اتخذتها الأونروا استندتเกือบ بالكامل إلى معلومات قدمتها الحكومة الإسرائيلية، والتي افتقرت إلى القيمة الإثباتية الكافية. وأشارت الحكم إلى أن التحقيقات الداخلية لم تقابل الموظفين المتهمين مخاوف أمنية، وأشارت إلى مشكلات تتعلق بموثوقية الاتصالات الاعتراضية المقدمة كأدلة.",
+    "وفي حين دفاع قيادة الأونروا سابقاً عن عمليات الفصل السريعة باعتبارها ضرورية للحفاظ على عمليات الوكالة وسط ضغوط تمويلية شديدة، منحت المحكمة أحد العمال المفصولين تعويضاً عن الأضرار المعنوية والإنهاء غير المبرر."
+   ]
+  },
+  {
+   "id": "efe82d60bb2b",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c65y1kvz2ezeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:07:15Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 5,
+   "title": "تداوم زن‌کشی در ایران در سایه جنگ و کاستی‌های قانونی",
+   "title_en": "Persistence of femicide in Iran amid conflict and legal shortcomings",
+   "summary_en": "Amid recent reports of rising domestic violence and femicide in Iran, human rights groups and UN officials warn that ongoing conflicts and legal loopholes continue to endanger women and girls.",
+   "body_en": [
+    "Human rights reports indicate that dozens of women and girls have been killed in Iran over recent months, with some cases linked to forced marriages or attempts by victims to leave abusive relationships. Critics and legal experts argue that provisions in the Islamic Penal Code, such as Article 301 which exempts fathers and paternal grandfathers from capital punishment for killing their descendants, fail to provide adequate deterrence against domestic violence.",
+    "Although the Iranian government has faced prolonged delays in passing a comprehensive bill to protect women from violence, officials recently stated that efforts to advance or revise related legislative measures continue amid institutional and political hurdles."
+   ],
+   "title_fa": "تداوم زن‌کشی در ایران در سایه جنگ و کاستی‌های قانونی",
+   "summary_fa": "در پی انتشار گزارش‌هایی درباره افزایش خشونت خانگی و زن‌کشی در ایران، نهادهای حقوق بشری و مقامات سازمان ملل هشدار می‌دهند که درگیری‌های اخیر و خلأهای قانونی همچنان جان زنان و دختران را به خطر می‌اندازد.",
+   "body_fa": [
+    "گزارش‌های حقوق بشری نشان می‌دهد که در ماه‌های اخیر ده‌ها زن و دختر در ایران به قتل رسیده‌اند که برخی از این پرونده‌ها به ازدواج‌های اجباری یا تلاش قربانیان برای جدایی مربوط بوده است. منتقدان و حقوقدانان استدلال می‌کنند که برخی مواد قانون مجازات اسلامی، از جمله ماده ۳۰۱ که پدر و جد پدری را در صورت قتل فرزند از قصاص معاف می‌کند، بازدارندگی کافی در برابر خشونت خانگی ندارد.",
+    "با وجود سال‌ها تاخیر در تصویب لایحه جامع حمایت از زنان در برابر خشونت، مقامات دولتی اخیراً اعلام کرده‌اند که تلاش‌ها برای پیشبرد یا اصلاح مقررات مرتبط همچنان در میان موانع نهادی و سیاسی ادامه دارد."
+   ],
+   "title_ar": "استمرار جرائم قتل النساء في إيران في ظل الحرب والقصور القانوني",
+   "summary_ar": "وسط تقارير حديثة عن تصاعد العنف الأسري وجرائم قتل النساء في إيران، تحذر جماعات حقوق الإنسان ومسؤولون أمميون من أن النزاعات المستمرة والثغرات القانونية تواصل تعريض النساء والفتيات للخطر.",
+   "body_ar": [
+    "تشير تقارير حقوقية إلى مقتل عشرات النساء والفتيات في إيران خلال الأشهر الأخيرة، وارتتبط بعض الحالات بالزيجات القسرية أو محاولات الضحايا الانفصال عن علاقات مسيئة. ويجادل منتقدون وخبراء قانونيون بأن أحكام قانون العقوبات الإسلامي، مثل المادة 301 التي تعفي الآباء والأجداد من عقوبة القصاص عند قتل فرعهم، لا توفر ردعاً كافياً ضد العنف الأسري.",
+    "على الرغم من التأخير الطويل في إقرار مشروع قانون شامل لحماية النساء من العنف، ذكر مسؤولون حكوميون مؤخراً أن الجهود المبذولة لدفع التدابير التشريعية ذات الصلة أو مراجعتها مستمرة وسط عقبات مؤسسية وسياسية."
+   ]
+  },
+  {
+   "id": "58d3722cc523",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece",
+   "date": "2026-11-25T17:38:36Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+   "title_en": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+   "summary_en": "The U.S. government announced a 25% tariff on Indian imports following a USTR investigation into structural excess capacity. The order noted that the rate could drop to 17% if both nations reach a Bilateral Trade Agreement.",
+   "body_en": [
+    "The U.S. Trade Representative (USTR) order stated that the 25% tariffs respond to policies that restrict U.S. commerce, noting that the duties would be net of existing tariffs. India's Ministry of Commerce and Industry responded that it lacks structural excess capacity in any sector and reiterated its commitment to concluding an interim trade deal.",
+    "Among the 14 economies targeted in the USTR action, India's tariff rate is the second-highest behind Vietnam's 35%. Tariffs levied under Section 232 on steel and aluminium, as well as potential sanctions under Russian oil import legislation, remain separate."
+   ],
+   "title_fa": "آمریکا تعرفه‌های ۲۵ درصدی جدیدی علیه هند اعلام کرد؛ دومین نرخ بالا در میان ۱۴ کشوری که هدف اقدام قرار گرفته‌اند",
+   "summary_fa": "دولت آمریکا در پی تحقیقات نماینده تجاری این کشور درباره ظرفیت مازاد ساختاری، تعرفه‌ای ۲۵ درصدی بر کالاهای وارداتی از هند اعلام کرد. این دستور اشاره می‌کند که در صورت دستیابی دو کشور به یک توافق تجاری دوجانبه، این نرخ می‌تواند به ۱۷ درصد کاهش یابد.",
+   "body_fa": [
+    "در دستور نماینده تجاری آمریکا آمده است که این تعرفه‌های ۲۵ درصدی در پاسخ به سیاست‌هایی اعمال می‌شود که تجارت آمریکا را محدود می‌کنند، و اشاره شده که این عوارض خالص از تعرفه‌های موجود خواهد بود. وزارت بازرگانی و صنعت هند در پاسخ اعلام کرد که این کشور در هیچ بخشی دارای ظرفیت مازاد ساختاری نیست و بر پایبندی خود به نهایی کردن یک توافق تجاری موقت تأکید کرد.",
+    "در میان ۱۴ اقتصادی که در اقدام نماینده تجاری آمریکا هدف قرار گرفته‌اند، نرخ تعرفه هند پس از تعرفه ۳۵ درصدی ویتنام، دومین نرخ بالا محسوب می‌شود. تعرفه‌های اعمال‌شده تحت بخش ۲۳۲ بر فولاد و آلومینیوم و همچنین تحریم‌های احتمالی تحت قانون واردات نفت روسیه همچنان مجزا هستند."
+   ],
+   "title_ar": "الولايات المتحدة تعلن عن رسوم جمركية جديدة بنسبة 25% على الهند، وهي ثاني أعلى نسبة بين 14 دولة تم اتخاذ إجراءات بحقها",
+   "summary_ar": "أعلنت الحكومة الأمريكية عن فرض رسوم جمركية بنسبة 25% على الواردات الهندية في أعقاب تحقيق أجراه مكتب الممثل التجاري الأمريكي حول الفائض الهيكلي في الطاقة الإنتاجية. وأشار القرار إلى أن النسبة قد تنخفض إلى 17% إذا التوصل إلى اتفاقية تجارة ثنائية.",
+   "body_ar": [
+    "وذكر أمر الممثل التجاري الأمريكي أن الرسوم الجمركية بنسبة 25% تأتي رداً على السياسات التي تقيد التجارة الأمريكية، مشيراً إلى أن الرسوم ستكون صافية من الرسوم الحالية. ورداً على ذلك، قالت وزارة التجارة والصناعة الهندية إنها لا تملك فائضاً هيكلياً في الطاقة الإنتاجية في أي قطاع، وأكدت التزامها بإبرام اتفاق تجاري مؤقت.",
+    "ومن بين 14 اقتصاداً استهدفها إجراء الممثل التجاري الأمريكي، تعد نسبة الرسوم الجمركية للهند ثاني أعلى نسبة بعد فيتنام التي بلغت 35%. وتبقى الرسوم المفروضة بموجب المادة 232 على الصلب والألومنيوم، بالإضافة إلى العقوبات المحتملة بموجب تشريعات واردات النفط الروسي، منفصلة."
+   ]
+  },
+  {
+   "id": "81a64a777fae",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047024/ajk-assembly-sets-conditions-for-resumption-of-dialogue-with-proscribed-jaac",
+   "date": "2026-11-25T16:47:18Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "AJK Assembly sets conditions for resumption of dialogue with proscribed JAAC",
+   "title_en": "AJK Assembly sets conditions for resumption of dialogue with proscribed JAAC",
+   "summary_en": "The Azad Jammu and Kashmir Legislative Assembly has offered to reopen negotiations with the banned Joint Awami Action Committee, provided the group disbands armed groups, surrenders suspects, and commits to constitutional methods.",
+   "body_en": [
+    "Adopting a unanimous resolution, the House stated that dialogue could resume within the framework of the Interim Constitution of 1974 if protests, roadblocks, and armed activities are ended. The assembly held the committee's leadership primarily responsible for the breakdown of previous talks and the violence that erupted during protests.",
+    "According to figures presented to the assembly, dozens of law enforcement personnel have been killed and hundreds injured during the unrest. The House warned that the government would take necessary legal action through law enforcement agencies to restore public order if the conditions are not met."
+   ],
+   "title_fa": "مجمع عمومی آزاد کشمیر شرایط از سرگیری گفتگو با کمیته ممنوعه اقدام عوامی را تعیین کرد",
+   "summary_fa": "مجمع عمومی قانونگذاری آزاد جامو و کشمیر آمادگی خود را برای از سرگیری مذاکرات با کمیته ممنوعه «اقدام عوامی» مشروط بر انحلال گروه‌های مسلح، تحویل دادن افراد تحت تعقیب و تعهد به روش‌های قانون اساسی اعلام کرد.",
+   "body_fa": [
+    "این مجلس با تصویب قطعنامه‌ای اجماعی اعلام کرد که گفتگوها در چارچوب قانون اساسی موقت سال ۱۹۷۴ در صورت پایان دادن به اعتراضات، مسدود کردن جاده‌ها و فعالیت‌های مسلحانه می‌تواند از سر گرفته شود. این مجمع رهبری کمیته یاد شده را مسئول اصلی شکست مذاکرات قبلی و خشونت‌های رخ داده دانست.",
+    "بر اساس آمار ارائه شده به مجلس، ده‌ها نفر از نیروهای مجری قانون در جریان ناآرامی‌ها کشته و صدها نفر زخمی شده‌اند. این مجلس هشدار داد که در صورت عدم برآورده شدن شرایط، دولت اقدامات قانونی لازم را برای بازگرداندن نظم عمومی انجام خواهد داد."
+   ],
+   "title_ar": "برلمان كشمير الحرة يحدد شروط استئناف الحوار مع لجنة العمل العوام المحظورة",
+   "summary_ar": "عرض المجلس التشريعي في أزاد جامو وكشمير إعادة فتح المفاوضات مع «لجنة العمل العوام المشتركة» المحظورة، شريطة حل الجماعات المسلحة، وتسليم المشتبه بهم، والالتزام بالوسائل الدستورية.",
+   "body_ar": [
+    "أقر المجلس قراراً بالإجماع ينص على إمكانية استئناف الحوار في إطار الدستور المؤقت لعام 1974 إذا تم إنهاء الاحتجاجات وإغلاق الطرق والأنشطة المسلحة. وحمل المجلس قيادة اللجنة المسؤولية الأساسية عن انهيار المحادثات السابقة والعنف الذي اندلع خلال الاحتجاجات.",
+    "وفقاً للأرقام المقدمة إلى المجلس، قُتل العشرات من أفراد إنفاذ القانون وأصيب المئات خلال الاضطرابات. وحذر المجلس من أن الحكومة ستتخذ الإجراءات القانونية اللازمة عبر أجهزة إنفاذ القانون لاستعادة النظام العام إذا لم يتم استيفاء الشروط."
+   ]
+  },
+  {
+   "id": "7c522b253a77",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "date": "2026-11-25T16:13:29Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "title_en": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "summary_en": "Zeeshan Ali became the first foreign astronaut to board China's Tiangong space station after launching aboard the Shenzhou-24 mission.",
+   "body_en": [
+    "The Shenzhou-24 spacecraft successfully docked with Tiangong hours after lifting off from the Jiuquan Satellite Launch Centre. Ali, serving as a payload specialist, is scheduled to spend several days at the station conducting scientific experiments alongside the Chinese crew.",
+    "Pakistani leaders, including Prime Minister Shehbaz Sharif and military officials, congratulated the nation on the historic milestone, praising the cooperation between Pakistan and China in space research."
+   ],
+   "title_fa": "ذیشان علی از پاکستان به عنوان نخستین شهروند خارجی وارد ایستگاه فضایی تیانگونگ چین شد",
+   "summary_fa": "ذیشان علی با سفر در ماموریت «شنیو-۲۴» به عنوان نخستین فضانورد خارجی وارد ایستگاه فضایی تیانگونگ چین شد.",
+   "body_fa": [
+    "فضاپیمای شنیو-۲۴ ساعت‌ها پس از پرتاب از مرکز پرتاب ماهواره جیوچوان با موفقیت به ایستگاه تیانگونگ متصل شد. علی به عنوان متخصص محموله قرار است چندین روز را در این ایستگاه به انجام آزمایش‌های علمی در کنار خدمه چینی بگذراند.",
+    "رهبران پاکستان از جمله شهباز شریف، نخست‌وزیر، و مقامات نظامی این دستاورد تاریخی را به ملت تبریک گفته و از همکاری پاکستان و چین در تحقیقات فضایی تمجید کردند."
+   ],
+   "title_ar": "الباكستاني زيشان علي يصبح أول أجنبي يصعد إلى محطة تيانغونغ الفضائية الصينية",
+   "summary_ar": "أصبح زيشان علي أول رائد فضاء أجنبي يصعد على متن محطة تيانغونغ الفضائية الصينية بعد إطلاقه على متن مهمة «شنتشو-24».",
+   "body_ar": [
+    "التحمت مركبة الفضاء «شنتشو-24» بنجاح مع محطة تيانغونغ بعد ساعات من إطلاقها من مركز جيوغوان لإطلاق الأقمار الصناعية. ومن المقرر أن يقضي علي، بصفته أخصائي حمولة، عدة أيام في المحطة لإجراء تجارب علمية إلى جانب طاقم العمل الصيني.",
+    "هنأ القادة الباكستانيون، بما في ذلك رئيس الوزراء شهباز شریف والمسؤولون العسكريون، الأمة بهذا الإنجاز التاريخي، مشيدين بالتعاون بين باكستان والصين في مجال البحث الفضائي."
+   ]
+  },
+  {
+   "id": "9fc3d5c54210",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/knesset-advances-october-7-probe-despite-netanyahus-objections?traffic_source=rss",
+   "date": "2026-11-25T14:53:49Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Knesset advances October 7 probe despite Netanyahu’s objections",
+   "title_en": "Knesset advances October 7 probe despite Netanyahu’s objections",
+   "summary_en": "The Israeli Knesset voted to advance legislation for a proposed state inquiry into the October 7 attacks. The measure passed despite opposition from Prime Minister Benjamin Netanyahu.",
+   "body_en": [
+    "The proposed legislation seeks to examine government failures surrounding the attacks and establish accountability for the breakdown in security."
+   ],
+   "title_fa": "پیشبرد طرح تحقیق درباره ۷ اکتبر در کنست با وجود مخالفت نتانیاهو",
+   "summary_fa": "کنست اسرائیل به پیشبرد طرح پیشنهادی برای تحقیق دولتی درباره حملات ۷ اکتبر رای داد. این اقدام با وجود مخالفت بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به تصویب رسید.",
+   "body_fa": [
+    "هدف از این قانون بررسی شکست‌های دولتی پیرامون این حملات و تعیین مسئولیت در قبال اختلالات امنیتی است."
+   ],
+   "title_ar": "الكنيست يقر مشروع قانون للتحقيق في أحداث 7 أكتوبر رغم اعتراضات نتنياهو",
+   "summary_ar": "صوت الكنيست الإسرائيلي لصالح تقدم تشريع يهدف إلى إجراء تحقيق رسمي في هجمات 7 أكتوبر. وتمت المضي قدماً في التشريع رغم معارضة رئيس الوزراء بنيامين نتنياهو.",
+   "body_ar": [
+    "ويدعو التشريع المقترح إلى التحقيق في الإخفاقات الحكومية المحيطة بالهجمات وتحديد المسؤولية عن الإخفاق الأمني."
+   ]
+  },
+  {
+   "id": "273c3dfbddba",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+   "date": "2026-11-25T12:00:00Z",
+   "countries": [
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "title_en": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "summary_en": "UN Under-Secretary-General for Humanitarian Affairs Tom Fletcher arrived in Yemen to call for urgent, safe, and sustained aid access to civilians, particularly in Taiz City. He warned that intense fighting and severe underfunding are threatening lifesaving humanitarian operations.",
+   "body_en": [
+    "Fletcher highlighted that conflict between government forces and Houthis has left millions facing hunger, while attacks on hospitals and supply restrictions hinder the delivery of food and medicine. Over 364,000 people have been displaced since August, straining the globally overstretched humanitarian response.",
+    "The UN aid chief also demanded that Houthi forces immediately and unconditionally release detained UN and humanitarian staff. Dozens of aid personnel remain in detention, following the recent death of a detained UN human rights employee."
+   ],
+   "title_fa": "جنگ یمن؛ مسئول امداد اضطراری سازمان ملل خواستار دسترسی به مناطق جنگ‌زده شد",
+   "summary_fa": "تام فلچر، معاون مرکز امور بشردوستانه سازمان ملل، وارد یمن شد تا خواستار دسترسی فوری، امن و مداوم امدادرسانان به غیرنظامیان، به‌ویژه در شهر تعز شود. او هشدار داد که درگیری‌های شدید و کسر بودجه شدید، عملیات‌های نجات‌بخش بشردوستانه را با خطر مواجه کرده است.",
+   "body_fa": [
+    "فلچر خاطرنشان کرد که نبرد میان نیروهای دولتی و حوثی‌ها میلیون‌ها نفر را با گرسنگی مواجه کرده است، در حالی که حمله به بیمارستان‌ها و محدودیت‌های مواصلاتی مانع رساندن غذا و دارو می‌شود. بیش از ۳۶۴ هزار نفر از ماه اوت آواره شده‌اند که این امر فشار شدیدی بر پاسخ‌های بشردوستانه وارد کرده است.",
+    "این مقام ارشد سازمان ملل همچنین از حوثی‌ها خواست تا پرسنل بازداشت‌شده سازمان ملل و نهادهای بشردوستانه را فوراً و بدون قید و شرط آزاد کنند. پس از درگذشت اخیر یکی از کارمندان حقوق بشر سازمان ملل در بازداشت، ده‌ها نیروی امدادی همچنان در بازداشت به سر می‌برند."
+   ],
+   "title_ar": "حرب اليمن: مسؤول الإغاثة الطارئة يدعو لتسهيل الوصول إلى المجتمعات المتضررة",
+   "summary_ar": "وصل وكيل الأمين العام للأمم المتحدة للشؤون الإنسانية توم فليتشر إلى اليمن للمطالبة بتمكين طواقم الإغاثة من الوصول العاجل والآمن والمستدام إلى المدنيين، ولا سيما في مدينة تعز. وحذر من أن القتال المستمر والنقص الحاد في التمويل يهددان العمليات الإنسانية المنقذة للحياة.",
+   "body_ar": [
+    "وأشار فليتشر إلى أن الصراع بين القوات الحكومية والحوثيين يترك الملايين مواجهين للجوع، في حين تعيق الهجمات على المستشفيات والقيود على إمدادات المواد الغذائية والطبية. وقد نزح أكثر من 364 ألف شخص منذ أغسطس، مما يضع جهود الإغاثة تحت ضغط شديد.",
+    "كما طالب مسؤول الإغاثة الأممي الحوثيين بالإفراج الفوري وغير المشروط عن موظفي الأمم المتحدة والعاملين في المجال الإنساني المحتجزين. وما يزال عشرات الموظفين الإنسانيين قيد الاحتجاز، عقب وفاة مؤخرة لموظف حقوق إنسان أممي أثناء احتجازه."
+   ]
+  },
+  {
+   "id": "89032c5467f9",
+   "lang": "en",
+   "source": "UN News",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+   "date": "2026-11-25T12:00:00Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+   "title_en": "Türk warns of widening risk of atrocity crimes against Palestinians",
+   "summary_en": "UN human rights chief Volker Türk has warned of a growing risk of atrocity crimes by Israel against Palestinians, citing severe violence, forced displacement, and systemic violations in Gaza and the occupied West Bank.",
+   "body_en": [
+    "In a statement, Türk noted that warnings regarding the survival of Palestinians as a group in Gaza and ongoing displacement in the West Bank have been ignored. He highlighted the systematic destruction of civilian infrastructure, arbitrary detentions, and a discriminatory justice system.",
+    "The High Commissioner called on all states to take immediate action to prevent further atrocity crimes, ensure independent investigations, and hold those responsible accountable."
+   ],
+   "title_fa": "تورک نسبت به افزایش خطر جنایات هولناک علیه فلسطینیان هشدار داد",
+   "summary_fa": "ولکر تورک، مسئول حقوق بشر سازمان ملل متحد، نسبت به افزایش خطر جنایات هولناک توسط اسرائیل علیه فلسطینیان هشدار داد و به خشونت‌های شدید، کوچ اجباری و تخلفات سیستماتیک در غزه و کرانه باختری اشغالی اشاره کرد.",
+   "body_fa": [
+    "تورک در بیانیه‌ای خاطرنشان کرد که هشدارها regarding بقای فلسطینی‌ها به عنوان یک گروه در غزه و آوارگی مداوم در کرانه باختری نادیده گرفته شده است. او بر تخریب سیستماتیک زیرساخت‌های غیرنظامی، بازداشت‌های خودسرانه و یک سیستم قضایی تبعیض‌آمیز تأکید کرد.",
+    "کمیسر عالی از همه کشورها خواست تا برای جلوگیری از جنایات هولناک بیشتر، تضمین تحقیقات مستقل و پاسخگو کردن مسئولان، اقدام فوری انجام دهند."
+   ],
+   "title_ar": "تورك يحذر من اتساع خطر ارتكاب جرائم فظيعة ضد الفلسطينيين",
+   "summary_ar": "حذر مسؤول حقوق الإنسان في الأمم المتحدة فولكر تورك من تزايد خطر ارتكاب إسرائيل جرائم فظيعة ضد الفلسطينيين، مشيراً إلى العنف الشديد والتهجير القسري والانتهاكات المنهجية في غزة والضفة الغربية المحتلة.",
+   "body_ar": [
+    "وفي بيان، أشار تورك إلى أن التحذيرات المتعلقة ببقاء الفلسطينيين كجماعة في غزة والتهجير المستمر في الضفة الغربية قوبلت بالتجاهل. وأبرز التدمير المنهجي للبنية التچهاسية المدنية، والاعتقالات التعسفية، ونظام العدالة التمييزي.",
+    "دعا المفوض السامي جميع الدول إلى اتخاذ إجراءات فورية لمنع المزيد من الجرائم الفظيعة، وضمان إجراء تحقيقات مستقلة، ومحاسبة المسؤولين عنها."
+   ]
+  },
+  {
+   "id": "5e6c7c77ff30",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "date": "2026-11-25T10:33:36Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system",
+   "title_en": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system",
+   "summary_en": "The Asian Development Bank has approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership system and support economic growth.",
+   "body_en": [
+    "The financing supports ongoing reforms aimed at preparing market-ready infrastructure projects, improving fiscal risk management, and mobilizing private capital. This initiative builds on a previous phase that established legal and institutional frameworks for public-private partnerships.",
+    "Officials noted that the programme also provides technical assistance, training, and knowledge resources to federal and provincial institutions to enhance project preparation and implementation capacity."
+   ],
+   "title_fa": "بانک توسعه آسیایی وام ۲۵۰ میلیون دلاری برای تقویت سیستم مشارکت عمومی و خصوصی پاکستان را تصویب کرد",
+   "summary_fa": "بانک توسعه آسیایی وام ۲۵۰ میلیون دلاری مبتنی بر سیاست را برای کمک به پاکستان در تقویت سیستم مشارکت عمومی و خصوصی و حمایت از رشد اقتصادی تصویب کرد.",
+   "body_fa": [
+    "این اعتبار مالی از اصلاحات جاری با هدف آماده‌سازی پروژه‌های زیرساختی بازارمحور، بهبود مدیریت ریسک مالی و بسیج سرمایه خصوصی حمایت می‌کند. این ابتکار بر پایه مرحله قبلی که چارچوب‌های قانونی و نهادی را ایجاد کرده بود، بنا شده است.",
+    "مقامات خاطرنشان کردند که این برنامه همچنین کمک‌های فنی، آموزشی و منابع دانش را برای نهادهای فدرال و استانی جهت ارتقای ظرفیت آماده‌سازی و اجرای پروژه‌ها فراهم می‌کند."
+   ],
+   "title_ar": "بنك التنمية الآسيوي يوافق على قرض بقيمة 250 مليون دولار لتعزيز نظام الشراكة بين القطاعين العام والخاص في باكستان",
+   "summary_ar": "وافق بنك التنمية الآسيوي على قرض قائم على السياسات بقيمة 250 مليون دولار لمساعدة باكستان على تعزيز نظام الشراكة بين القطاعين العام والخاص ودعم النمو الاقتصادي.",
+   "body_ar": [
+    "يدعم التمويل الإصلاحات الجارية التي تهدف إلى إعداد مشاريع بنية تحتية جاهزة للسوق، وتحسين إدارة المخاطر المالية، وتعبئة رأس المال الخاص. وتستند هذه المبادرة إلى مرحلة سابقة أرست الأطر القانونية والمؤسسية للشراكات بين القطاعين العام والخاص.",
+    "وأشار المسؤولون إلى أن البرنامج يوفر أيضاً مساعدة فنية وتدريباً وموارد معرفية للمؤسسات الفيدرالية والإقليمية لتعزيز قدرات إعداد المشاريع وتنفيذها."
+   ]
+  },
   {
    "id": "df3bfcc9630f",
    "lang": "fa",
@@ -11452,899 +11813,6 @@
    "body_ar": [
     "أسفرت غارة جوية إسرائيلية على مجمع ناصر الطبي في خان يونس عن مقتل أربعة أشخاص فجر الخميس، وفقاً للدفاع المدني في غزة. كما سُجلت قتلى آخرون في حي الصبرة ومخيم البريج وحي النصر والشيخ رضوان.",
     "وتزامنت القصف مع تدهور الأحوال الجوية التي أثرت على أكثر من 100 ألف نازح. ودعا مسؤولون في الأمم المتحدة السلطات الإسرائيلية إلى تقديم التصاريح اللازمة لإدخال عشرات الآلاف من الخيام المقاومة للمياه."
-   ]
-  },
-  {
-   "id": "4ebec35332fa",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran",
-   "date": "2026-11-11T21:48:29Z",
-   "countries": [
-    "IRN",
-    "ISR"
-   ],
-   "score": 9,
-   "title": "Netanyahu orders Israeli army to prepare for possible attack on Iran",
-   "title_en": "Netanyahu orders Israeli army to prepare for possible attack on Iran",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu's security cabinet has instructed the military to intensify preparations for a potential strike on Iran, according to Israeli media.",
-   "body_en": [
-    "The directive comes after opposition leader Gadi Eisenkot urged Netanyahu not to deploy forces without an immediate threat until a new government is formed, following Eisenkot's election successes and mandate to form a cabinet."
-   ],
-   "title_fa": "نتانیاهو به ارتش اسرائیل دستور داد برای حمله احتمالی به ایران آماده شود",
-   "summary_fa": "به گزارش رسانه‌های اسرائیلی، کابینه امنیتی بنیامین نتانیاهو، نخست‌وزیر اسرائیل، به ارتش دستور داده است تا آمادگی‌ها را برای حمله احتمالی به ایران افزایش دهد.",
-   "body_fa": [
-    "این دستور پس از آن صادر شد که گادی آیزنکوت، رهبر اپوزیسیون اسرائیل، در پی موفقیت در انتخابات و دادن فرصت به او برای تشکیل کابینه، از نتانیاهو خواست تا زمان تشکیل دولت جدید، از به‌کارگیری نیروهای نظامی بدون وجود تهدید مستقیم و فوری خودداری کند."
-   ],
-   "title_ar": "نتنياهو يأمر الجيش الإسرائيلي بالاستعداد لهجوم محتمل على إيران",
-   "summary_ar": "ذكرت وسائل إعلام إسرائيلية أن المجلس الوزاري المصغر للشؤون الأمنية برئاسة رئيس الوزراء بنيامين نتنياهو أمر الجيش بتكثيف الاستعدادات لضربة محتملة على إيران.",
-   "body_ar": [
-    "وتأتي هذه التوجيهات بعد أن حث قائد المعارضة غادي آيزنكوت نتنياهو على الامتناع عن نشر القوات دون وجود تهديد مباشر وفوري حتى تشكيل الحكومة المقبلة، وذلك عقب النجاحات الانتخابية التي حققها كتلته وتكليفه بتشكيل الحكومة."
-   ]
-  },
-  {
-   "id": "21a3334c7766",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-faces-liquidity-crunch-even-oil-exports-rebound-pre-war",
-   "date": "2026-11-11T21:44:56Z",
-   "countries": [
-    "IRN",
-    "ISR",
-    "SAU"
-   ],
-   "score": 7,
-   "title": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels",
-   "title_en": "Saudi Arabia faces liquidity crunch even as oil exports rebound to pre-war levels",
-   "summary_en": "Saudi Arabia is experiencing a liquidity crisis as bank deposit growth slows and economic pressures rise from the US-Israeli war on Iran, according to a Bank of America report.",
-   "body_en": [
-    "According to a client note from Bank of America cited by Bloomberg, Saudi Arabia is dealing with spillover effects from liquidity tightness in the United Arab Emirates as well as a rapid slowdown in its own economy. The interconnected nature of Saudi and Emirati banks, alongside interbank transactions, has compounded the pressure on Saudi bank deposits.",
-    "The report noted that while government entities are withdrawing funds from Saudi banks, demand for loans remains high, effectively increasing the cost of money in the kingdom. This strain is particularly significant given that Saudi Arabia, like several other Gulf nations, pegs its currency directly to the US dollar."
-   ],
-   "title_fa": "عربستان سعودی با وجود بازگشت صادرات نفت به سطح پیش از جنگ، با بحران نقدینگی مواجه است",
-   "summary_fa": "طبق گزارش بانک آمریکا، عربستان سعودی به دلیل کاهش رشد سپرده‌های بانکی و فشارهای اقتصادی ناشی از جنگ آمریکا و اسرائیل علیه ایران، با بحران نقدینگی مواجه شده است.",
-   "body_fa": [
-    "بر اساس یادداشت بانک آمریکا برای مشتریان خود که بلومبرگ آن را منتشر کرده، عربستان سعودی با پیامدهای ناشی از کمبود نقدینگی در امارات متحده عربی و همچنین کاهش سریع رشد اقتصادی خود روبرو است. ارتباط نزدیک میان بانک‌های سعودی و اماراتی و مبادلات بین‌بانکی فراوان، فشار بر سپرده‌های بانکی عربستان را تشدید کرده است.",
-    "این گزارش اشاره می‌کند که هم‌زمان با برداشت مالی نهادهای دولتی از بانک‌های سعودی، تقاضا برای وام همچنان بالا است که این امر هزینه‌های تامین مالی در این کشور را افزایش داده است. این فشار نقدینگی به ویژه از آن رو اهمیت دارد که ارزش currency عربستان، همانند چند کشور دیگر حوزه خلیج فارس، به طور مستقیم به دلار آمریکا متصل است."
-   ],
-   "title_ar": "السعودية تواجه أزمة سيولة رغم تعافي صادرات النفط إلى مستويات ما قبل الحرب",
-   "summary_ar": "تواجه السعودية أزمة سيولة مع تباطؤ نمو الودائع المصرفية وتزايد الضغوط الاقتصادية الناجمة عن الحرب الأمريكية الإسرائيلية على إيران، وفقاً لتقرير صادر عن بنك أوف أمريكا.",
-   "body_ar": [
-    "وفقاً لمذكرة أرسلها بنك أوف أمريكا للعملاء ونشرتها بلومبرغ، تتعامل السعودية مع تداعيات انتقال العدوى الناتجة عن شح السيولة في الإمارات العربية المتحدة، إلى جانب التباطؤ السريع في اقتصادها. وقد أدت العلاقة وثيقة الصلة بين البنوك السعودية والإماراتية والمعاملات المعاملات بين البنوك إلى زيادة الضغط على الودائع في البنوك السعودية.",
-    "وأشار التقرير إلى أنه في الوقت الذي تقوم فيه الجهات الحكومية بسحب أموال من البنوك السعودية، يظل الطلب على القروض مرتفعاً، مما يرفع عملياً تكلفة الأموال في المملكة. وتكتسب أزمة السيولة هذه أهمية خاصة نظراً لأن العملة السعودية، على غرار دول خليجية أخرى، مربوطة مباشرة بالدولار الأمريكي."
-   ]
-  },
-  {
-   "id": "2ddd21430297",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-   "date": "2026-11-11T21:03:40Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-   "title_en": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-   "summary_en": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf stated that the Strait of Hormuz will never revert to its pre-war status and confirmed that Tehran has submitted seven conditions to the US for peace talks.",
-   "body_en": [
-    "In an interview with Al Jazeera, Ghalibaf rejected the application of international sea laws to the Strait of Hormuz, asserting that the waterway is governed strictly by the regulations of its littoral states. He revealed an understanding reached with Oman to manage the passage as part of Iran's seven-point proposal to end the eight-month conflict.",
-    "Ghalibaf said Iran is awaiting a formal response from Washington after conveying its terms—which include lifting naval blockades and sanctions, releasing frozen assets, and formally ending hostilities—through a Qatari mediator. He noted that US officials had previously requested Russian mediation for direct negotiations, while warning that any new US military actions would face resistance."
-   ],
-   "title_fa": "قالیباف: تنگه هرمز «هرگز» به وضعیت پیش از جنگ بازنخواهد گشت",
-   "summary_fa": "محمدباقر قالیباف، رئیس مجلس ایران، اعلام کرد که تنگه هرمز هرگز به وضعیت پیش از جنگ بازنخواهد گشت و تأیید کرد که تهران هفت شرط برای مذاکرات صلح به آمریکا ارائه داده است.",
-   "body_fa": [
-    "قالیباف در گفتگو با الجزیره با رد اعمال قوانین بین‌المللی دریاها بر تنگه هرمز، تأکید کرد که مقررات این آبراه صرفاً تابع قوانین کشورهای همجوار آن است. وی از تفاهم صورت‌گرفته با عمان برای نظارت بر این مسیر آبی به عنوان بخشی از پیشنهاد هفت‌ماده‌ای تهران برای پایان دادن به درگیری هشت‌ماهه خبر داد.",
-    "قالیباف گفت ایران پس از انتقال شرایط خود از طریق میانجی قطری — که شامل لغو محاصره دریایی و تحریم‌ها، آزادکنندگی دارایی‌های مسدودشده و اعلام رسمی پایان جنگ است — منتظر پاسخ رسمی واشنگتن است. وی اشاره کرد که مقامات آمریکایی پیشتر خواستار میانجی‌گری روسیه برای مذاکره مستقیم شده بودند، و هشدار داد که هرگونه حمله جدید آمریکا با شکست مواجه خواهد شد."
-   ],
-   "title_ar": "قاليباف: مضيق هرمز «لن يعود أبداً» إلى وضع ما قبل الحرب",
-   "summary_ar": "أعلن رئيس مجلس الشورى الإيراني محمد باقر قاليباف أن مضيق هرمز لن يعود أبداً إلى وضعه قبل الحرب، وأكد أن طهران قدمت سبعة شروط للولايات المتحدة لبدء محادثات السلام.",
-   "body_ar": [
-    "في مقابلة مع قناة الجزيرة، رفض قاليباف تطبيق القوانين البحرية الدولية على مضيق هرمز، مؤكداً أن الممر المائي يخضع لقوانين الدول المطلة عليه فقط. وكشف عن التوصل إلى تفاهم مع عمان للإشراف على المضيق كجزء من اقتراح طهران المكون من سبع نقاط لإنهائه الصراع المستمر منذ ثمانية أشهر.",
-    "وقال قاليباف إن إيران تنتظر رداً رسمياً من واشنطن بعد نقل شروطها — التي تتضمن رفع الحصار البحري والعقوبات، وإطلاق الأموال المجمدة، والإعلان الرسمي عن انتهاء الحرب — عبر وسيط قطري. وأشار إلى أن المسؤولين الأمريكيين طلبوا سابقاً وساطة روسية لإجراء مفاوضات مباشرة، محذراً من أن أي هجمات أمريكية جديدة ستواجه الفشل."
-   ]
-  },
-  {
-   "id": "ed3e67598ede",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-   "date": "2026-11-11T20:45:30Z",
-   "countries": [
-    "IRN",
-    "SAU"
-   ],
-   "score": 7,
-   "title": "Oil production nears pre-Iran war levels, OPEC says",
-   "title_en": "Oil production nears pre-Iran war levels, OPEC says",
-   "summary_en": "Saudi Arabia and Russia led a surge in crude oil output in October, helping total OPEC+ production approach levels seen before the Iran war began in February.",
-   "body_en": [
-    "According to OPEC's monthly report, Saudi Arabia pumped 10.563 million barrels per day in October, up by more than two million bpd from September. The broader OPEC+ alliance increased its total output to 41.23 million bpd, aided by rising Russian production following the easing of US energy sanctions.",
-    "Analysts noted that Gulf energy producers are increasingly utilizing bypass routes such as Saudi Arabia's East-West Pipeline and the UAE's Fujairah pipeline to avoid shipping disruptions in the Strait of Hormuz. OPEC maintained its forecasts for global oil demand growth through 2027."
-   ],
-   "title_fa": "اوپک: تولید نفت به سطوح پیش از جنگ ایران نزدیک می‌شود",
-   "summary_fa": "عربستان سعودی و روسیه در ماه اکتبر باعث افزایش تولید نفت خام شدند و به ائتلاف اوپک‌پلاس کمک کردند تا سطح تولید خود را به میزان پیش از آغاز جنگ ایران در فوریه نزدیک کند.",
-   "body_fa": [
-    "طبق گزارش ماهانه اوپک، عربستان سعودی در ماه اکتبر ۱۰.۵۶۳ میلیون بشکه در روز نفت تولید کرد که بیش از دو میلیون بشکه نسبت به سپتامبر افزایش داشته است. مجموع تولید ائتلاف اوپک‌پلاس نیز به ۴۱.۲۳ میلیون بشکه در روز رسید که بخشی از آن ناشی از افزایش تولید روسیه پس از کاهش تحریم‌های انرژی آمریکا بود.",
-    "تحلیلگران خاطرنشان کردند که تولیدکنندگان انرژی در خلیج فارس به طور فزاینده‌ای از مسیرهای جایگزین مانند خط لوله شرق به غرب عربستان و خط لوله فجیره امارات برای دور زدن اختلالات در تنگه هرمز استفاده می‌کنند. اوپک پیش‌بینی‌های خود را برای رشد تقاضای جهانی نفت تا سال ۲۰۲۷ بدون تغییر حفظ کرد."
-   ],
-   "title_ar": "أوبك: إنتاج النفط يقترب من مستويات ما قبل الحرب على إيران",
-   "summary_ar": "قادت السعودية وروسيا زيادة في إنتاج النفط الخام في أكتوبر، مما ساعد مجموعة أوبك+ على الاقتراب من مستويات الإنتاج المسجلة قبل بدء الحرب على إيران في فبراير.",
-   "body_ar": [
-    "وفقاً لتقرير أوبك الشهري، رفعت السعودية إنتاجها من النفط الخام إلى 10.563 مليون برميل يومياً في أكتوبر، بزيادة تجاوزت مليونين برميل يومياً عن سبتمبر. وارتفع إجمالي إنتاج تحالف أوبك+ إلى 41.23 مليون برميل يومياً، مدعوماً بزيادة الإنتاج الروسي بعد تخفيف العقوبات الأمريكية.",
-    "وأشار محللون إلى أن دول الخليج باتت تعتمد بشكل أكبر على طرق بديلة مثل خط الأنابيب السعودي شرق-غرب وخط أنابيب الفجيرة الإماراتي لتجنب اضطرابات الملاحة في مضيق هرمز. وستحافظ أوبك على توقعاتها لنمو الطلب العالمي على النفط حتى عام 2027."
-   ]
-  },
-  {
-   "id": "eef68312cbc3",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-war-talks-in-abu-dhabi",
-   "date": "2026-11-11T18:55:37Z",
-   "countries": [
-    "ARE"
-   ],
-   "score": 7,
-   "title": "US envoys to meet Putin, Zelensky after war talks in Abu Dhabi",
-   "title_en": "US envoys to meet Putin, Zelensky after war talks in Abu Dhabi",
-   "summary_en": "U.S. envoys Steve Witkoff and Jared Kushner are traveling to meet Russian President Vladimir Putin in Moscow and Ukrainian President Volodymyr Zelensky in Dublin following two days of talks in Abu Dhabi. The meetings aim to build on potential openings from the negotiations, which yielded an agreement on a major prisoner exchange despite remaining differences.",
-   "body_en": [
-    "The talks in Abu Dhabi marked the first diplomatic negotiations to end the Ukraine war since February. Representatives agreed to what Kushner described as the biggest prisoner exchange to date, though specific numbers were not disclosed. However, significant divides persist over future negotiating frameworks and the involvement of European nations.",
-    "Moscow has expressed a desire for a comprehensive security agreement in Europe and demanded Ukrainian troop withdrawals, while Kyiv insists on a ceasefire prior to territorial discussions. Kushner indicated that discussions with Putin will include potential ways to incorporate European representatives into the negotiation process."
-   ],
-   "title_fa": "فرستادگان آمریکا پس از مذاکرات جنگ در ابوظبی با پوتین و زلنسکی دیدار می‌کنند",
-   "summary_fa": "فرستادگان ایالات متحده، استیو ویتکاف و جرد کوشنر، پس از دو روز مذاکره در ابوظبی، برای دیدار با ولادیمیر پوتین رئیس‌جمهور روسیه به موسکو و سپس دیدار با ولودیمیر زلنسکی رئیس‌جمهور اوکراین به دوبلین سفر می‌کنند. این دیدارها با هدف بهره‌برداری از فرصت‌های به‌دست‌آمده در مذاکرات انجام می‌شود؛ مذاکراتی که با وجود اختلافات باقی‌مانده، به توافقی بر سر تبادل بزرگ زندانیان منجر شد.",
-   "body_fa": [
-    "مذاکرات ابوظبی نخستین گفتگوهای دیپلماتیک برای پایان دادن به جنگ اوکراین از ماه فوریه تاکنون بوده است. نمایندگان با آنچه کوشنر بزرگ‌ترین تبادل زندانیان تا به امروز خواند موافقت کردند، اگرچه آمار دقیقی ارائه نشد. با این حال، اختلافات عمده‌ای درباره چارچوب مذاکرات آتی و نقش کشورهای اروپایی همچنان باقی است.",
-    "مسکو خواهان یک توافق جامع امنیتی در اروپا و خروج نیروهای اوکراینی است، در حالی که کی‌یف بر برقرار آتش‌بس پیش از هرگونه بحث درباره سرزمین‌ها تاکید دارد. کوشنر اعلام کرد که گفتگوها با پوتین شامل بررسی راه‌های افزودن نمایندگان اروپایی به روند مذاکرات خواهد بود."
-   ],
-   "title_ar": "مبعوثان أمريكيان يلتقيان بوتين وزيلينسكي بعد محادثات الحرب في أبوظبي",
-   "summary_ar": "يتوجه المبعوثان الأمريكيان ستيف ويتكوف وجاريد كوشنر للقاء الرئيس الروسي فلاديمير بوتين في موسكو والرئيس الأوكراني فولوديمير زيلينسكي في دبلن عقب محادثات استمرت يومين في أبوظبي. وتهدف اللقاءات إلى استغلال الفرص المتاحة من المفاوضات التي أسفرت عن اتفاق على تبادل كبير للأسرى رغم استمرار الخلافات.",
-   "body_ar": [
-    "شكلت محادثات أبوظبي أول مفاوضات دبلوماسية لإنهائها منذ فبراير. ووافق الأطراف على ما وصفه كوشنر بأنه أكبر عملية تبادل للأسرى حتى الآن، رغم عدم الكشف عن أرقام محددة. ومع ذلك، لا تزال هناك انقسامات حادة بشأن أطر المفاوضات المستقبلية ومشاركة الدول الأوروبية.",
-    "وأبدت موسكو رغبتها في اتفاق أمني شامل في أوروبا وطالبت بانسحاب القوات الأوكرانية، بينما تصر كييف على وقف إطلاق النار قبل أي مناقشات حول الأراضي. وأشار كوشنر إلى أن المحادثات مع بوتين ستتضمن الطرق المحتملة لإشراك ممثلين أوروبيين في عملية المفاوضات."
-   ]
-  },
-  {
-   "id": "750189664e3d",
-   "lang": "en",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
-   "date": "2026-11-11T18:47:57Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-   "title_en": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-   "summary_en": "Senior Iranian officials believe the U.S. is preparing further military strikes or tighter economic sanctions, which could push Tehran toward pre-emptive military action.",
-   "body_en": [
-    "Mehdi Mohammadi, an adviser to Iranian negotiator Mohammad Bagher Ghalibaf, stated that Washington is preparing for a limited strike and that Iran is readying a response. He suggested that if sanctions persist, a comprehensive pre-emptive war might become necessary to raise the cost for the enemy.",
-    "Mohammadi also revealed that Iran turned down a request from U.S. Vice President JD Vance for a direct meeting. Meanwhile, other senior Iranian figures warned that any involvement by European countries in the U.S. blockade would be considered an act of war, with U.S. bases in distant locations potentially targeted."
-   ],
-   "title_fa": "مقام‌های ایرانی: ترامپ در حال برنامه‌ریزی برای حمله نظامی جدید یا تحریم‌های شدیدتر است",
-   "summary_fa": "مقام‌های ارشد ایرانی بر این باورند که ایالات متحده در حال آماده‌سازی حملات نظامی جدید یا تشدید تحریم‌های اقتصادی است؛ امری که ممکن است تهران را به سمت اقدام نظامی پیش‌دستانه سوق دهد.",
-   "body_fa": [
-    "مهدی محمدی، مشاور محمدباقر قاليباف، اعلام کرد که واشنگتن در حال آماده‌سازی برای یک حمله محدود است و ایران نیز پاسخ خود را آماده می‌کند. وی اشاره کرد که در صورت ادامه تحریم‌ها، ممکن است یک جنگ پیش‌دستانه فراگیر برای افزایش هزینه‌های دشمن ضروری شود.",
-    "محمدی همچنین افشا کرد که ایران درخواست جی‌دی ونس، معاون رئیس‌جمهور آمریکا، برای دیدار مستقیم را رد کرده است. در همین حال، دیگر مقامات ارشد ایرانی هشدار دادند که هرگونه همراهی اروپا با محاصره آمریکا به عنوان اقدام جنگی تلقی خواهد شد."
-   ],
-   "title_ar": "مسؤولون إيرانيون: ترامب يخطط لهجوم عسكري جديد أو تشديد العقوبات",
-   "summary_ar": "يعتقد مسؤولون إيرانيون كبار أن الولايات المتحدة تعد لشن ضربات عسكرية إضافية أو تشديد العقوبات الاقتصادية، مما قد يدفع تشرين إلى اتخاذ عمل عسكري استباقي.",
-   "body_ar": [
-    "وذكر مهدي محمدي، مستشار المفاوض الإيراني محمد باقر قاليباف، أن واشنطن تستعد لشن ضربة محدودة وأن إيران تجهز ردها. وألمح إلى أنه إذا استمرت العقوبات، فقد تكون هناك حاجة إلى حرب استباقية شاملة لزيادة الكلفة على العدو.",
-    "كما كشف محمدي أن إيران رفضت طلباً من نائب الرئيس الأمريكي جيه دي فانس لعقد اجتماع مباشر. في غضون ذلك، حذر مسؤولون إيرانيون آخرون من أن أي مشاركة أوروبية في الحصار الأمريكي ستعتبر عملاً حربياً."
-   ]
-  },
-  {
-   "id": "5913babbd770",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
-   "date": "2026-11-11T18:43:40Z",
-   "countries": [
-    "LBN"
-   ],
-   "score": 8,
-   "title": "More than one million people in Lebanon face acute food shortages, UN says",
-   "title_en": "More than one million people in Lebanon face acute food shortages, UN says",
-   "summary_en": "The United Nations warned that over one million people in Lebanon are facing acute food shortages due to recent conflicts and an ongoing economic crisis.",
-   "body_en": [
-    "A joint statement by the FAO, WFP, and Lebanon's Ministry of Agriculture indicated that nearly a quarter of the population is affected, with the figure projected to rise to 1.15 million by mid-next year. Limited job opportunities, depleted savings, and rising living costs are driving household budgets to breaking point.",
-    "Lebanese officials estimate the damages from recent fighting between Israel and Hezbollah at $27 billion. Despite a cease-fire framework signed in June, Israeli forces remain in parts of Lebanese territory while the country continues to endure a severe economic downturn that began in 2019."
-   ],
-   "title_fa": "سازمان ملل: بیش از یک میلیون نفر در لبنان با کمبود شدید مواد غذایی مواجه هستند",
-   "summary_fa": "سازمان ملل متحد هشدار داد که به دلیل درگیری‌های اخیر و بحران اقتصادی مداوم، بیش از یک میلیون نفر در لبنان با کمبود شدید مواد غذایی روبرو هستند.",
-   "body_fa": [
-    "بر اساس بیانیه مشترک فاو، برنامه جهانی غذا و وزارت کشاورزی لبنان، نزدیک به یک‌چهارم جمعیت لبنان تحت تأثیر این وضعیت قرار دارند و پیش‌بینی می‌شود این رقم تا اواسط سال آینده به ۱.۱۵ میلیون نفر برسد. محدودیت فرصت‌های شغلی و افزایش هزینه‌های زندگی از عوامل اصلی این بحران اعلام شده‌اند.",
-    "مقامات لبنانی خسارات ناشی از درگیری‌های اخیر میان اسرائیل و حزب‌الله را حدود ۲۷ میلیارد دلار برآورد می‌کنند. با وجود امضای توافق در ماه ژوئن، نیروهای اسرائیلی همچنان بخش‌هایی از خاک لبنان را در اشغال دارند و بحران اقتصادی کشور ادامه دارد."
-   ],
-   "title_ar": "الأمم المتحدة: أكثر من مليون شخص في لبنان يواجهون نقصاً حاداً في الغذاء",
-   "summary_ar": "حذرت الأمم المتحدة من أن أكثر من مليون شخص في لبنان يواجهون نقصاً حاداً في الغذاء نتيجة النزاعات الأخيرة والأزمة الاقتصادية المستمرة.",
-   "body_ar": [
-    "أشار بيان مشترك صادر عن منظمة الأغذية والزراعة وبرنامج الأغذية العالمي ووزارة الزراعة اللبنانية إلى أن ما يقرب من ربع السكان يتأثرون بهذه الأزمة، مع توقعات بارتفاع العدد إلى 1.15 مليون بحلول منتصف العام المقبل.",
-    "وتقدر السلطات اللبنانية خسائر الصراع الأخير بين إسرائيل وحزب الله بنحو 27 مليار دولار. ورغم اتفاق وقف إطلاق النار الموقع في حزيران/يونيو، تواصل القوات الإسرائيلية احتلال أراضٍ لبنانية وسط أزمة اقتصادية حادة بدأت عام 2019."
-   ]
-  },
-  {
-   "id": "117452324c3b",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043793/10-cops-martyred-18-terrorists-killed-as-police-party-comes-under-attack-in-kps-kohat",
-   "date": "2026-11-11T18:28:58Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 8,
-   "title": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat",
-   "title_en": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat",
-   "summary_en": "Ten police officers were killed and 18 militants were slain during an ambushed attack on a police convoy returning from an operation against illegal gold mining in Khyber Pakhtunkhwa's Kohat district.",
-   "body_en": [
-    "Khyber Pakhtunkhwa Police reported that their team was targeted by terrorists associated with Tehreek-i-Taliban Pakistan (referred to as Fitna al Khawarij) acting in collusion with local criminal networks near Kohat city. Deputy Superintendent of Police Haidar Zaman was among the officers killed in the clash.",
-    "The assault occurred shortly after local authorities issued restrictions on mining machinery to curb illegal gold extraction. Provincial officials condemned the ambush and vowed to hold the attackers and their facilitators accountable."
-   ],
-   "title_fa": "شهادت ۱۰ پلیس و هلاکت ۱۸ تروریست در حمله به نیروهای انتظامی در کوهات خیبر پختونخوا",
-   "summary_fa": "در پی حمله به کاروان پلیس در حال بازگشت از عملیات علیه استخراج غیرقانونی طلا در منطقه کوهات استان خیبر پختونخوا، ۱۰ مامور پلیس به شهادت رسیدند و ۱۸ تروریست کشته شدند.",
-   "body_fa": [
-    "پلیس خیبر پختونخوا اعلام کرد که نیروهای انتظامی پس از پایان عملیات مشترک با اداره محلی در نزدیکی شهر کوهات، هدف حمله عناصر وابسته به تحریک طالبان پاکستان قرار گرفتند. معاون فرمانده پلیس حیدر زمان نیز در میان شهدا است.",
-    "این حمله پس از آن رخ داد که فرمانداری کوهات محدودیت‌های جدیدی را برای جلوگیری از استخراج غیرقانونی طلا اعمال کرده بود. مقام‌های ایالتی این اقدام تروریستی را محکوم کرده و بر مجازات عاملان آن تاکید کردند."
-   ],
-   "title_ar": "استشهاد 10 عناصر شرطة ومقتل 18 إرهابياً في هجوم على دورية للشرطة في كوهات بخيبر بختونخوا",
-   "summary_ar": "استشهد 10 من عناصر الشرطة وقتل 18 مسلحاً إثر تعرض دورية شرطة لكمين أثناء عودتها من عملية ضد التعدين غير القانوني عن الذهب في منطقة كوهات بإقليم خيبر بختونخوا.",
-   "body_ar": [
-    "وذكرت شرطة خيبر بختونخوا أن دوريتها تعرضت لهجوم من قبل عناصر مرتبطة بطالبان پاکستان بالتنسيق مع شبكات إجرامية محلية بالقرب من مدينة كوهات. وكان نائب مفوض الشرطة حيدر زمان من بين الشهداء.",
-    "وقع الهجوم بعد وقت قصير من فرض السلطات المحلية قيوداً على معدات التعدين لمنع الاستخراج غير القانوني للذهب. وأدان المسؤولون المحليون الهجوم وأكدوا على تقديم المتورطين إلى العدالة."
-   ]
-  },
-  {
-   "id": "c72ddfe69ac2",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/iran-will-not-allow-enriched-nuclear-material-to-leave-the-country/article71690943.ece",
-   "date": "2026-11-11T16:38:14Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 9,
-   "title": "‘Iran will not allow enriched nuclear material to leave the country’",
-   "title_en": "‘Iran will not allow enriched nuclear material to leave the country’",
-   "summary_en": "Iranian security official Mohsen Rezaei stated that Tehran will not permit any enriched nuclear material to leave the country, warning of retaliatory action if the U.S. launches new attacks.",
-   "body_en": [
-    "In televised comments to Al Mayadeen TV, Mohsen Rezaei emphasized that Iran requires its enriched uranium to design nuclear-powered ships and submarines. He noted that Tehran has informed Moscow that the enriched material will remain inside Iran and be utilized domestically.",
-    "Rezaei also warned that any future U.S. strikes against Iran would lead to retaliatory targeting of American military bases located far away, adding that no negotiations are currently taking place between Washington and Tehran."
-   ],
-   "title_fa": "«ایران اجازه نخواهد داد مواد هسته‌ای غنی‌شده از کشور خارج شود»",
-   "summary_fa": "محسن رضایی، مقام امنیتی ایران، اعلام کرد که تهران اجازه نخواهد داد حتی یک ذره از مواد هسته‌ای غنی‌شده از کشور خارج شود و هشدار داد هرگونه حمله جدید آمریکا با پاسخ مواجه خواهد شد.",
-   "body_fa": [
-    "محسن رضایی در گفت‌وگو با شبکه المیادین تاکید کرد که ایران برای طراحی کشتی‌ها و زیردریایی‌های با سوخت هسته‌ای به این مواد غنی‌شده نیاز دارد. وی افزود تهران به مسکو اطلاع داده است که این مواد در داخل کشور باقی خواهد ماند و مورد استفاده قرار خواهد گرفت.",
-    "رضایی همچنین هشدار داد که هرگونه حمله جدید ایالات متحده با هدف قرار گرفتن پایگاه‌های آمریکایی در فواصل دور پاسخ داده خواهد شد و تاکید کرد که در حال حاضر هیچ مذاکره‌ای میان تهران و واشنگتن در جریان نیست."
-   ],
-   "title_ar": "إيران لن تسمح بخروج المواد النووية المخصبة من البلاد",
-   "summary_ar": "صرح المسؤول الأمني الإيراني محسن رضائي بأن تشرين لن تسمح بخروج أي مواد نووية مخصبة من البلاد، محذراً من رد انتقامي في حال شن الولايات المتحدة هجمات جديدة.",
-   "body_ar": [
-    "وأكد محسن رضائي في تصريحات لتلفزيون الميادين أن إيران بحاجة إلى اليورانيوم المخصب لتصميم سفن وغواصات تعمل بالطاقة النووية. وأشار إلى أن تهران أبلغت موسكو بأن المواد المخصبة ستبقى داخل البلاد وسيتم استخدامها محلياً.",
-    "كما حذر رضائي من أن أي ضربات أمريكية جديدة ضد إيران ستواجه باستهداف قواعد عسكرية أمريكية بعيدة، مضيفاً أنه لا توجد أي مفاوضات جارية حالياً بين واشنطن وتهران."
-   ]
-  },
-  {
-   "id": "56a7ce14571d",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-   "date": "2026-11-11T15:40:17Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-   "title_en": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-   "summary_en": "The Iranian government is preparing for potential 'zero oil' revenues as the United States maintains its naval blockade and economic pressure on the country.",
-   "body_en": [
-    "According to US Secretary of State Marco Rubio, Washington's naval blockade, stringent sanctions, and border disruptions could continue without a clear end date. In response, Iranian officials are planning for next year's budget under a contingency scenario where oil revenue reaches zero, while President Masoud Pezeshkian's administration considers spending reviews, tax reforms, and potential reductions in energy subsidies.",
-    "The US military imposed its second ongoing blockade on July 14, which the US Treasury says has prevented Iran from loading crude onto vessels since August 25. Despite severe economic challenges, including an annual inflation rate near 89 percent in October, Iranian authorities maintain that an economic collapse is not on the horizon."
-   ],
-   "title_fa": "آیا تهران می‌تواند در صورت تداوم محاصره آمریکا، با بودجه «بدون نفت» دوام آورد؟",
-   "summary_fa": "دولت ایران در پی تداوم محاصره دریایی و فشارهای اقتصادی ایالات متحده، خود را برای احتمال رسیدن درآمدهای نفتی به «صفر» آماده می‌کند.",
-   "body_fa": [
-    "به گفته مارکو روبیو، وزیر امور خارجه آمریکا، محاصره دریایی، تحریم‌های شدید و اختلالات مرزی واشنگتن ممکن است بدون زمان‌بندی مشخصی ادامه یابد. در پاسخ، مقامات ایرانی در حال برنامه‌ریزی برای بودجه سال آینده تحت سناریویی هستند که در آن درآمد نفتی به صفر می‌رسد، در حالی که دولت مسعود پزشکیان بازنگری در هزینه‌ها، اصلاحات مالیاتی و کاهش احتمالی یارانه انرژی را بررسی می‌کند.",
-    "ارتش آمریکا دومین محاصره فعال خود را از ۱۴ ژوئیه آغاز کرد که به گفته وزارت خزانه‌داری آمریکا موجب شده ایران از ۲۵ اوت هیچ نفتی بارگیری نکند. با وجود چالش‌های شدید اقتصادی از جمله تورم سالانه نزدیک به ۸۹ درصد در ماه اکتبر، مقامات ایرانی تاکید می‌کنند که فروپاشی اقتصادی رخ نخواهد داد."
-   ],
-   "title_ar": "هل تستطيع تهران البقاء مع ميزانية «صفر نفط» إذا استمر الحظر الأمريكي على إيران؟",
-   "summary_ar": "تستعد الحكومة الإيرانية لاحتمال وصول الإيرادات النفطية إلى «الصفر» مع استمرار الولايات المتحدة في فرض حظرها البحري وضغوطها الاقتصادية على البلاد.",
-   "body_ar": [
-    "وفقاً لوزير الخارجية الأمريكي ماركو روبيو، فإن الحظر البحري والعقوبات الصارمة والاضطرابات الحدودية التي تفرضها واشنطن قد تستمر دون موعد محدد لنهايتها. ورداً على ذلك، يخطط المسؤولون الإيرانيون لميزانية العام المقبل وفق سناريو احتمال وصول الإيرادات النفطية إلى الصفر، بينما تدرس حكومة مسعود بزشكيان مراجعة الإنفاق والإصلاحات الضريبية وخفض خفوضات دعم الطاقة.",
-    "فرض الجيش الأمريكي حظره البحري الثاني في ۱۴ يوليو، والذي تقول وزارة الخزانة الأمريكية إنه منع إيران من تحميل النفط الخام على السفن منذ ۲۵ أغسطس. ورغم التحديات الاقتصادية الشديدة، بما في ذلك وصول معدل التورم السنوي إلى نحو ۸۹ بالمئة في أكتوبر، يؤكد المسؤولون الإيرانيون أن انهيار الاقتصاد ليس واردًا."
-   ]
-  },
-  {
-   "id": "a8839636f15f",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/netanyahu-dismisses-claims-that-israel-blocking-supplies-to-gaza/article71690297.ece",
-   "date": "2026-11-11T15:23:35Z",
-   "countries": [
-    "ISR",
-    "PSE"
-   ],
-   "score": 7,
-   "title": "Netanyahu dismisses claims that Israel blocking supplies to Gaza",
-   "title_en": "Netanyahu dismisses claims that Israel blocking supplies to Gaza",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu has denied allegations that Israel is delaying the delivery of winter supplies to the Gaza Strip amid severe flooding in tent camps. He blamed Hamas for the deteriorating humanitarian conditions, stating the group refuses to disarm and diverts aid for military purposes.",
-   "body_en": [
-    "Netanyahu's statements came in response to criticism from the U.S.-backed Board of Peace, which reported that Israeli delays in allowing winter equipment into Gaza had worsened the humanitarian crisis. Heavy winter rains damaged tens of thousands of makeshift tents in the enclave, resulting in several casualties, including three children.",
-    "The Israeli prime minister asserted that Hamas is solely responsible for the suffering of Gazans and accused the group of exploiting the situation to blame Israel. His remarks follow international calls from officials in the United Kingdom and the United States urging Israel to lift restrictions on humanitarian aid."
-   ],
-   "title_fa": "نتانیاهو ادعاها مبنی بر جلوگیری اسرائیل از ارسال کمک‌ها به غزه را رد کرد",
-   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اتهامات مطرح‌شده مبنی بر تأخیر اسرائیل در ورود تجهیزات زمستانی به نوار غزه هم‌زمان با وقوع سیلاب شدید در کمپ‌های آوارگان را رد کرد. او حماس را مسئول وخامت شرایط انسانی دانست و گفت این گروه از خلع سلاح خودداری کرده و کمک‌ها را مصادره می‌کند.",
-   "body_fa": [
-    "اظهارات نتانیاهو در پاسخ به انتقادات «شورای صلح» مطرح شد؛ نهادی که اعلام کرده بود تأخیرهای اسرائیل در ورود تجهیزات زمستانی، بحران انسانی پیش‌آمده بر اثر بارش‌های شدید را تفدید کرده است. بارندگی‌های سنگین اخیر به ده‌ها هزار چادر آوارگان آسیب زده و منجر به جان باختن چند تن از جمله سه کودک شده است.",
-    "نخست‌وزیر اسرائیل تاکید کرد که حماس مسئول یگانه رنج‌های مردم غزه است و این گروه را متهم کرد که از این اوضاع برای سرزنش اسرائیل سوءاستفاده می‌کند. این سخنان در پی درخواست‌های بین‌المللی از سوی مقامات بریتانیا و آمریکا برای لغو محدودیت‌های ورود کمک‌ها بیان شد."
-   ],
-   "title_ar": "نتنياهو يرفض المزاعم بأن إسرائيل تمنع الإمدادات عن غزة",
-   "summary_ar": "رفض رئيس الوزراء الإسرائيلي بنيامين نتنياهو الاتهامات الموجهة لإسرائيل بتأخير إدخال المستلزمات الشتوية إلى قطاع غزة وسط فيضانات شديدة تجتاح مخيمات النازحين. وألقى باللائمة على حركة حماس في تدهور الأوضاع الإنسانية، مشيراً إلى أنها ترفض نزع سلاحها وتستولي على المساعدات لأغراض عسكرية.",
-   "body_ar": [
-    "جاءت تصريحات نتنياهو رداً على انتقادات صادر من \"مجلس السلام\"، الذي أفاد بأن التأخير الإسرائيلي في السماح بدخول المعدات الشتوية قد فاقم الأزمة الإنسانية الناجمة عن الأمطار الغزيرة. وألحقت الأمطار أضراراً بعشرات آلاف الخيام المؤقتة وأدت إلى مقتل عدة أشخاص، بينهم ثلاثة أطفال.",
-    "وأكد رئيس الوزراء الإسرائيلي أن حماس هي المسؤولة وحدها عن معاناة سكان غزة، متهماً الحركة باستغلال الوضع لتوجيه اللوم لإسرائيل. وتأتي تصريحاته عقب دعوات دولية من مسؤولين في بريطانيا والولايات المتحدة لإسرائيل بإنهاء القيود المفروضة على المساعدات."
-   ]
-  },
-  {
-   "id": "1210327ea4b0",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-   "date": "2026-11-11T14:10:47Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-   "title_en": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-   "summary_en": "US Secretary of State Marco Rubio stated that Washington's economic pressure campaign against Iran makes major military strikes unnecessary, reflecting the administration's current focus on sanctions and blockades.",
-   "body_en": [
-    "Speaking after a G7 meeting in Paris, Rubio said the economic pressure on Tehran is devastating enough to avoid further major combat operations. President Donald Trump similarly indicated that new strikes are unlikely, preferring to maintain the blockade, while reports suggest Vice President JD Vance favours pursuing a deal with Iran following the Republican Party's midterm election losses.",
-    "In response to the shift in Washington's rhetoric, Iranian Foreign Minister Abbas Araghchi stated that the war will not be ended through military force or increased sanctions, maintaining that the US must address Iran's specific conditions and demands."
-   ],
-   "title_fa": "روبیو از محاصره حمایت می‌کند، ونس خواستار توافق است: آیا تیم ترامپ درباره جنگ ایران دچار شکاف شده است؟",
-   "summary_fa": "مارکو روبیو، وزیر امور خارجه آمریکا اعلام کرد که کارزار فشار اقتصادی واشنگتن علیه ایران، حملات نظامی بزرگ را غیرضروری کرده است؛ موضوعی که نشان‌دهنده تمرکز فعلی دولت بر تحریم‌ها و محاصره است.",
-   "body_fa": [
-    "روبیو پس از نشست جی۷ در پاریس گفت فشار اقتصادی بر تهران به اندازه‌ای مخرب است که نیازی به عملیات رزمی بزرگتر نیست. دونالد ترامپ نیز احتمال حملات جدید را بعید دانست و تداوم محاصره را ترجیح داد، در حالی که گزارش‌ها نشان می‌دهد جی‌دی ونس، معاون رئیس‌جمهور، پس از شکست حزب تفکیک‌طلب در انتخابات میان‌دوره‌ای، موافق تلاش برای دستیابی به توافق با ایران است.",
-    "در پاسخ به تغییر لحن واشنگتن، عباس عراقچی، وزیر امور خارجه ایران تاکید کرد که این جنگ از طریق اقدام نظامی یا افزایش تحریم‌ها پایان نخواهد یافت و آمریکا باید به شروط و خواسته های ایران پاسخ دهد."
-   ],
-   "title_ar": "روبيو يدعم الحظر، وفانس يريد اتفاقاً: هل فريق ترامب منقسم بشأن الحرب مع إيران؟",
-   "summary_ar": "صرح وزير الخارجية الأمريكي ماركو روبيو بأن حملة الضغط الاقتصادي التي تمارسها واشنطن ضد إيران تجعل الضربات العسكرية الكبيرة غير ضرورية، مما يعكس تركيز الإدارة الحالي على العقوبات والحظر.",
-   "body_ar": [
-    "وفي حديثه عقب اجتماع لمجموعة السبع في باريس، قال روبيو إن الضغط الاقتصادي على طهران مدمر بدرجة كافية لتجنب تنفيذ عمليات قتالية كبيرة أخرى. كما أشار الرئيس دونالد ترامب إلى أن شن ضربات جديدة أمر غير مرجح، مفضلاً استمرار الحظر، بينما تشير تقارير إلى أن نائب الرئيس جيه دي فانس يؤيد التوصل إلى اتفاق مع إيران عقب خسارة الحزب الجمهوري في الانتخابات النصفيّة.",
-    "ورداً على تغير الخطاب في واشنطن، أكد وزير الخارجية الإيراني عباس عراقجي أن الحرب لن تنتهي بالوسائل العسكرية أو بزيادة العقوبات، مشدداً على أنه يتوجب على الولايات المتحدة الاستجابة لشروط إيران ومطالبها."
-   ]
-  },
-  {
-   "id": "10e446141416",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043807/iran-slams-repugnant-20m-us-reward-for-nuclear-information",
-   "date": "2026-11-11T13:20:55Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Iran slams 'repugnant' $20m US reward for nuclear information",
-   "title_en": "Iran slams 'repugnant' $20m US reward for nuclear information",
-   "summary_en": "Iran has criticized a $20 million US reward offer for information on its nuclear program, calling it \"repugnant and regrettable.\" Iranian Foreign Minister Abbas Araghchi urged international bodies to condemn the announcement.",
-   "body_en": [
-    "In a letter addressed to the UN Secretary-General, the UN Security Council, and IAEA Director General Rafael Grossi, Foreign Minister Abbas Araghchi called on them to explicitly condemn the US offer while reiterating that Tehran's nuclear activities are peaceful. The US military had announced the reward alongside potential relocation for details regarding the nuclear program's facilities, equipment, and personnel."
-   ],
-   "title_fa": "انتقاد ایران از پاداش «چندش‌آور» ۲۰ میلیون دلاری آمریکا برای اطلاعات هسته‌ای",
-   "summary_fa": "ایران پیشنهاد پاداش ۲۰ میلیون دلاری ایالات متحده برای دریافت اطلاعات درباره برنامه هسته‌ای خود را «چندش‌آور و تأسف‌بار» خواند و محکوم کرد. عباس عراقچی، وزیر امور خارجه ایران، از نهادهای بین‌المللی خواست این اقدام را إدانه کنند.",
-   "body_fa": [
-    "عباس عراقچی، وزیر امور خارجه ایران، در نامه‌ای خطاب به دبیرکل سازمان ملل، شورای امنیت و رافائل گروسی، مدیرکل آژانس بین‌المللی انرژی اتمی، خواستار محکومیت صریح این فراخوان آمریکا شد و بار دیگر بر صلح‌آمیز بودن برنامه هسته‌ای تهران تأکید کرد. ارتش آمریکا پیشتر اعلام کرده بود که این پاداش را به همراه امکان تغییر محل سکونت در ازای دریافت اطلاعات درباره تأسیسات، تجهیزات و پرسنل این برنامه پرداخت می‌کند."
-   ],
-   "title_ar": "إيران تنتقد المكافأة الأمريكية \"المقززة\" بقيمة 20 مليون دولار للحصول على معلومات نووية",
-   "summary_ar": "انتقدت إيران مكافأة أعلنتها الولايات المتحدة بقيمة 20 مليون دولار مقابل معلومات حول برنامجها النووي، واصفة إياها بأنه \"مقززة ومؤسفة\". وطالب وزير الخارجية الإيراني عباس عراقجي الأجهزة الدولية بإدانة هذا الإعلان.",
-   "body_ar": [
-    "وجه وزير الخارجية الإيراني عباس عراقجي رسالة إلى الأمين العام للأمم المتحدة ومجلس الأمن والمدير العام للوكالة الدولية للطاقة الذرية رافائيل گروسي، حثهم فيها على إدانة الإعلان الأمريكي بشكل صريح، مجدداً تأكيد بلاده على السلمية برنامجها النووي. وكانت القوات المسلحة الأمريكية قد أعلنت عن تقديم المكافأة، بالإضافة إلى إمكانية إعادة التوطين، مقابل معلومات تتعلق بمنشآت البرنامج ومعداته وأفراده."
-   ]
-  },
-  {
-   "id": "3970882a984a",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-   "date": "2026-11-11T13:16:30Z",
-   "countries": [
-    "ARE"
-   ],
-   "score": 6,
-   "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-   "title_en": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-   "summary_en": "Two days of US-mediated talks between Russian and Ukrainian officials in Abu Dhabi concluded with an agreement on a large-scale prisoner exchange, though no breakthrough was reached on ending the war.",
-   "body_en": [
-    "Russian chief negotiator Vladimir Medinsky confirmed the agreement on a prisoner swap, which state news agency TASS reported is expected to take place within two to three weeks. US envoy Jared Kushner noted that final figures would be established on Thursday before US representatives travel to Moscow and Dublin to consult with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy.",
-    "While negotiators acknowledged progress on post-war security frameworks, significant gaps remain regarding territorial settlements. Ukrainian negotiator David Arakhamia and Russian representatives both indicated openness to future talks, with discussions ongoing over whether to expand the format to include European participation."
-   ],
-   "title_fa": "مذاکرات روسیه و اوکراین در ابوظبی با توافق تبادل زندانیان به پایان رسید",
-   "summary_fa": "مذاکرات دوروزه میان مقامات روسی و اوکراینی با میانجی‌گری آمریکا در ابوظبی با توافق بر سر تبادل گسترده زندانیان به پایان رسید، اگرچه پیشرفتی در زمینه پایان دادن به جنگ حاصل نشد.",
-   "body_fa": [
-    "ولادیمیر مدینسکی، مذاکره‌کننده ارشد روسیه، توافق بر سر تبادل زندانیان را تأیید کرد و خبرگزاری دولتی تاس گزارش داد که این تبادل ظرف دو تا سه هفته آینده انجام خواهد شد. جرد کوشنر، فرستاده آمریکا، اشاره کرد که آمار نهایی روز پنجشنبه مشخص می‌شود و پس از آن نمایندگان آمریکا برای رایزنی با ولادیمیر پوتین، رئیس‌جمهور روسیه، و ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، به مسکو و دوبلین سفر خواهند کرد.",
-    "در حالی که مذاکره‌کنندگان از پیشرفت در چارچوب‌های امنیتی پس از جنگ خبر دادند، اختلافات عمده‌ای درباره مسائل سرزمینی باقی مانده است. دیوید آراخامیا، مذاکره‌کننده اوکراینی، و نمایندگان روسیه از ادامه مذاکرات در آینده استقبال کردند و گفتگوها درباره احتمال مشارکت کشورهای اروپایی در دورهای بعدی ادامه دارد."
-   ],
-   "title_ar": "المحادثات الروسية الأوكرانية في أبوظبي تنتهي ببدء اتفاق لتبادل الأسرى",
-   "summary_ar": "انتهت محادثات استمرت يومين بين مسؤولين روس وأوكرانيين برعاية أمريكية في أبوظبي بالاتفاق على تبادل واسع للأسرى، رغم عدم تحقيق اختراق لإعادة إنهاء الحرب.",
-   "body_ar": [
-    "أكد كبير المفاوضين الروس فلاديمير ميدينسكي الاتفاق على تبادل الأسرى، حيث أفادت وكالة \"تاس\" الروسية للأنباء أنه من المتوقع أن يتم التبادل خلال أسبوعين إلى ثلاثة أسابيع. وأشار المبعوث الأمريكي جيريد كوشنر إلى أنه سيتم تحديد الأعداد النهائية يوم الخميس قبل أن يسافر Representatives من الولايات المتحدة إلى موسكو ودبلن للتشاور مع الرئيس الروسي فلاديمير بوتين والرئيس الأوكراني فولوديمير زيلينسكي.",
-    "ورغم إعلان المفاوضين عن تحقيق تقدم بشأن إطار الأمن لما بعد الحرب، لا تزال هناك فجوات كبيرة حول القضايا الإقليمية. وأبدى المفاوض الأوكراني دافيد أراخاميا والجانب الروسي انفتاحاً على المحادثات القادمة، وسط استمرار النقاشات حول إمكانية توسيع المشاركة لتشمل الأطراف الأوروبية."
-   ]
-  },
-  {
-   "id": "5216b2800c98",
-   "lang": "en",
-   "source": "UN News",
-   "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
-   "date": "2026-11-11T12:00:00Z",
-   "countries": [
-    "ISR",
-    "LBN"
-   ],
-   "score": 8,
-   "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-   "title_en": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-   "summary_en": "Returning residents in southern Lebanon face severe destruction of homes and essential infrastructure, while UNIFIL prepares for its withdrawal scheduled to begin in January 2027.",
-   "body_en": [
-    "Despite a reduction in hostilities since June, UNIFIL spokesperson Kandice Ardiel reported ongoing violations by Israeli forces, including military operations, demolitions, airstrikes, and artillery fire across the Blue Line. She noted that nearly one million displaced persons have returned, but they face widespread damage to electricity, water, and road networks, alongside the destruction of whole villages such as Naqoura.",
-    "Following the UN Security Council's decision not to renew UNIFIL's mandate beyond 2026, the mission is preparing to begin its exit in January 2027. Ardiel highlighted the uncertainty and concern among local communities, emphasizing that an international presence remains crucial for regional stability."
-   ],
-   "title_fa": "لبنان: ویرانی در انتظار بازگشت‌کنندگان در حالی که نیروهای حافظ صلح سازمان ملل برای خروج آماده می‌شوند",
-   "summary_fa": "ساکنان بازگشته به جنوب لبنان با ویرانی شدید خانه‌ها و زیرساخت‌های اساسی مواجه هستند، در حالی که یونيفيل برای خروج برنامه‌ریزی‌شده خود که از ژانویه ۲۰۲۷ آغاز می‌شود، آماده می‌شود.",
-   "body_fa": [
-    "با وجود کاهش درگیری‌ها از ماه ژوئن، کندیس اردیل، سخنگوی یونیفیل، از تداوم نقض‌ها توسط نیروهای اسرائیلی از جمله عملیات نظامی، تخریب‌ها، حملات هوایی و آتش توپخانه در طول خط آبی خبر داد. وی اشاره کرد که نزدیک به یک میلیون آواره بازگشته‌اند، اما با خسارات گسترده به شبکه‌های برق، آب و جاده‌ها و همچنین ویرانی کامل برخی روستاها مانند ناقوره مواجه هستند.",
-    "در پی تصمیم شورای امنیت سازمان ملل متحد مبنی بر عدم تمدید ماموریت یونیفیل پس از سال ۲۰۲۶، این هیئت در حال آماده‌سازی برای آغاز خروج خود در ژانویه ۲۰۲۷ است. اردیل به بلاتکلیفی و نگرانی در میان جوامع محلی اشاره کرد و تاکید نمود که حضور بین‌المللی برای ثبات منطقه‌ای همچنان ضروری است."
-   ],
-   "title_ar": "لبنان: الدمار ينتظر العائدين بينما تستعد قوات حفظ السلام التابعة للأمم المتحدة للمغادرة",
-   "summary_ar": "يواجه السكان العائدون إلى جنوب لبنان دماراً كبيراً في المنازل والبنية التحتية الأساسية، في حين تستعد اليونيفيل لانسحابها المقرر أن يبدأ في يناير 2027.",
-   "body_ar": [
-    "على الرغم من انخفاض الأعمال العدائية منذ يونيو، أفادت المتحدثة باسم اليونيفيل كانديس أرديل باستمرار الانتهاكات من قبل القوات الإسرائيلية، بما في ذلك العمليات العسكرية والتدمير والغارات الجوية والقصف المدفعي عبر الخط الأزرق. وأشارت إلى أن ما يقرب من مليون نازح قد عادوا، لكنهم يواجهون أضراراً واسعة النطاق في شبكات الكهرباء والمياه والطرق، إلى جانب تدمير قرى بأكملها مثل الناقورة.",
-    "وعقب قرار مجلس الأمن الدولي عدم تمديد ولاية اليونيفيل لما بعد عام 2026، تستعد البعثة لبدء انسحابها في يناير 2027. وسلطت أرديل الضوء على حالة عدم اليقين والقلق بين المجتمعات المحلية، مؤكدة أن الوجود الدولي يظل أمراً حيوياً لاستقرار المنطقة."
-   ]
-  },
-  {
-   "id": "c1accc149e40",
-   "lang": "en",
-   "source": "France 24",
-   "url": "https://www.france24.com/en/eisenkot-quickly-targets-netanyahu-s-legacy-in-new-israeli-parliament",
-   "date": "2026-11-11T11:29:28Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Eisenkot quickly targets Netanyahu's legacy in new Israeli parliament",
-   "title_en": "Eisenkot quickly targets Netanyahu's legacy in new Israeli parliament",
-   "summary_en": "Former Israeli army chief Gadi Eisenkot and his allies launched a legislative push targeting caretaker Prime Minister Benjamin Netanyahu's legacy as the new parliament convened.",
-   "body_en": [
-    "Gadi Eisenkot and his political partners launched their legislative actions against Benjamin Netanyahu during a heated opening session of the newly convened Israeli parliament."
-   ],
-   "title_fa": "آیزنکوت در پارلمان جدید اسرائیل به سرعت میراث نتانیاهو را هدف قرار می‌دهد",
-   "summary_fa": "گادی آیزنکوت، رئیس سابق ستاد کل ارتش اسرائیل، و متحدانش هم‌زمان با آغاز به کار پارلمان جدید، حمله‌ای قانون‌گذارانه را علیه میراث بنیامین نتانیاهو، نخست‌وزیر پیشین، آغاز کردند.",
-   "body_fa": [
-    "گادی آیزنکوت و هم‌پیمانانش این اقدامات قانونی علیه بنیامین نتانیاهو را در جریان نخستین نشست جنجالی و داغ پارلمان تازه تشکیل‌شده اسرائیل آغاز کردند."
-   ],
-   "title_ar": "إيزنكوت يستهدف سريعاً تركة نتنياهو في البرلمان الإسرائيلي الجديد",
-   "summary_ar": "شن رئيس أركان الجيش الإسرائيلي السابق غادي إيزنكوت وحلفاؤه هجوماً تشريعياً ضد تركة رئيس الوزراء تسيير الأعمال بنيامين نتنياهو مع انعقاد جلسة البرلمان الجديد.",
-   "body_ar": [
-    "بدأ غادي إيزنكوت وحلفاؤه هذا التحرك التشريعي ضد بنيامين نتنياهو خلال الجلسة الأولى للبرلمان الإسرائيلي الجديد، والتي شهدت أجواء متوترة."
-   ]
-  },
-  {
-   "id": "5572ed47e9ba",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cky86xq4ygj4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T10:28:43Z",
-   "countries": [
-    "AFG"
-   ],
-   "score": 7,
-   "title": "\"أدلة جوهرية\" جديدة على جرائم حرب محتملة للقوات الخاصة البريطانية في أفغانستان",
-   "title_en": "New 'substantial evidence' of potential British special forces war crimes in Afghanistan",
-   "summary_en": "A public inquiry into British special forces operations in Afghanistan has unveiled photos described as \"substantial evidence\" indicating soldiers may have executed unarmed civilians in their sleep.",
-   "body_en": [
-    "The inquiry released photos showing victims from two SAS operations in Helmand province in 2011, depicting people in bed with gunshot wounds to the head. Lead counsel Oliver Glasgow stated the images could represent evidence of potential war crimes involving night raids between 2010 and 2013, where unarmed individuals were killed and weapons were allegedly planted to cover up the executions.",
-    "According to the inquiry, the photos contradict official SAS accounts claiming troops returned fire against Taliban gunmen. Military police investigators admitted the evidence raised clear red flags at the time but was not thoroughly examined then, though the images are now undergoing expert forensic analysis following long-running investigative work by BBC's Panorama program."
-   ],
-   "title_fa": "«مدارک اساسی» جدید از جنایات جنگی احتمالی نیروهای ویژه بریتانیا در افغانستان",
-   "summary_fa": "تحقیقات عمومی درباره عملیات نیروهای ویژه بریتانیا در افغانستان از عکس‌هایی رونمایی کرده که به عنوان «مدارک اساسی» توصیف شده‌اند و احتمال اعدام افراد بی‌دفاع در خواب توسط سربازان را نشان می‌دهند.",
-   "body_fa": [
-    "این تحقیق تصاویری از قربانیان دو عملیات نیروهای ویژه هوایی بریتانیا (SAS) در ولایت هلمند در سال ۲۰۱۱ را منتشر کرده که افرادی را در تختخواب با جراحات ناشی از شلیک گلوله به سر نشان می‌دهد. الیور گلاسگو، وکیل ارشد این تحقیق، اعلام کرد این تصاویر ممکن است مدرکی بر جنایات جنگی طی یورش‌های شبانه بین سال‌های ۲۰۱۰ تا ۲۰۱۳ باشد که در آن غیرنظامیان کشته شده و سلاح‌هایی برای سرپوش گذاشتن بر جرم کنار پیکر آن‌ها قرار داده شده است.",
-    "بر اساس این تحقیقات، عکس‌های منتشرشده با روایت‌های رسمی نیروهای ویژه که ادعا می‌کردند در پاسخ به تیراندازی شبه‌نظامیان طالبان اقدام کرده‌اند، تناقض دارد. ماموران پلیس نظامی اعتراف کرده‌اند که این مدارک در آن زمان باعث نگرانی شدید شده بود اما بررسی لازم روی آن‌ها انجام نشد؛ این تصاویر اکنون پس از گزارش‌های افشاگرانه برنامه «پانوراما»ی بی‌بی‌سی تحت بررسی دقیق جرم‌شناسی قرار دارند."
-   ],
-   "title_ar": "\"أدلة جوهرية\" جديدة على جرائم حرب محتملة للقوات الخاصة البريطانية في أفغانستان",
-   "summary_ar": "كشف تحقيق محلي في المملكة المتحدة عن صور وُصفت بأنها \"أدلة جوهرية\" تظهر احتمال قيام عناصر من القوات الخاصة البريطانية بإعدام أشخاص عزل أثناء نومهم في أفغانستان.",
-   "body_ar": [
-    "أتاح التحقيق العام للجمهور الاطلاع على صور تُظهر ضحايا سقطوا خلال عمليتين لقوات الخدمة الجوية الخاصة (SAS) في ولاية هلمند عام 2011، حيث يظهر عدد من الأشخاص في أسرتهم مصابين بطلقات نارية في الرأس. وأوضح أوليفر غلاسغو، المحامي الرئيسي في التحقيق، أن هذه الصور تقع ضمن الأدلة التي تشير إلى جرائم حرب محتملة ومداهمات أسفرت عن مقتل مدنيين عزل واعتقال آخرين، مع مزاعم بزرع أسلحة في مواقع الأحداث للتغطية على العمليات.",
-    "وذكر التحقيق أن الصور تناقض الروايات الرسمية التي قدمتها القوات الخاصة، والتي ادعت فيها الرد على إطلاق نار من مسلحي طالبان. وأقر ضباط في الشرطة العسكرية بأن الصور أثارت قلقاً كبيراً، لكنها لم تخضع للفحص الجنائي الكافي وقتها، بينما تخضع حالياً لتحليل دقيق ضمن التحقيق الذي بدأ بعد تقارير استقصائية لبرنامج \"بانوراما\" على بي بي سي."
-   ]
-  },
-  {
-   "id": "535ad57e0fad",
-   "lang": "en",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043766/former-afghan-army-member-arrested-for-alleged-terrorist-activities-in-pakistan",
-   "date": "2026-11-11T10:27:20Z",
-   "countries": [
-    "AFG",
-    "PAK"
-   ],
-   "score": 7,
-   "title": "Former Afghan army member arrested for alleged terrorist activities in Pakistan",
-   "title_en": "Former Afghan army member arrested for alleged terrorist activities in Pakistan",
-   "summary_en": "Pakistani security forces have arrested a former Afghan National Army member in the Khyber district for allegedly carrying out terrorist activities for militant groups.",
-   "body_en": [
-    "Additional Inspector General Abbas Ahsan of the Khyber Pakhtunkhwa Police stated that Hikmatullah, also known as Hamza, was apprehended during an intelligence-based operation in Tirah valley. Authorities claimed the suspect previously served in the Afghan National Army and received commando training before joining militant factions including the Hafiz Gul Bahadur group.",
-    "Officials noted that Hikmatullah originated from Paktia province in Afghanistan and was actively planning attacks within Pakistan. The arrest comes amid persistent tensions between Islamabad and the Taliban administration in Kabul over cross-border militancy originating from Afghan soil."
-   ],
-   "title_fa": "بازداشت عضو سابق ارتش افغانستان به اتهام فعالیت‌های تروریستی در پاکستان",
-   "summary_fa": "نیروهای امنیتی پاکستان یک عضو سابق ارتش ملی افغانستان را در منطقه خیبر به اتهام انجام فعالیت‌های تروریستی برای گروه‌های شبه‌نظامی بازداشت کردند.",
-   "body_fa": [
-    "عباس احسن، از مقامات ارشد پلیس خیبر پختونخوا، اعلام کرد فردی به نام حکمت‌الله معروف به حمزه طی یک عملیات اطلاعاتی در دره تیراه دستگیر شد. به گفته وی، این متهم پیش از پیوستن به گروه‌های شبه‌نظامی از جمله گروه حافظ گل بهادر، در ارتش ملی افغانستان خدمت کرده و آموزش‌های کماندویی دیده بود.",
-    "مقامات اعلام کردند که حکمت‌الله اهل ولایت پکتیا در افغانستان است و قصد داشته حملاتی را در خاک پاکستان طراحی و اجرا کند. این بازداشت در میان تنش‌های مداوم میان اسلام‌آباد و حکومت طالبان در کابل درباره استفاده گروه‌های شبه‌نظامی از خاک افغانستان صورت می‌گیرد."
-   ],
-   "title_ar": "اعتقال عضو سابق في الجيش الأفغاني بتهمة ممارسة أنشطة إرهابية في باكستان",
-   "summary_ar": "أعلنت السلطات الأمنية الباكستانية إلقاء القبض على عنصر سابق في الجيش الوطني الأفغاني في منطقة خيبر بتهمة التورط في أنشطة إرهابية لصالح جماعات مسلحة.",
-   "body_ar": [
-    "أفاد عباس أحسن، المفتش العام الإضافي لشرطة خيبر بختونخوا، أن التحرّي أدى لضبط المتهم حكمت الله (الملقب بهمزية) في وادي تيراه. وذكر أن المعتقل خدم سابقاً في الجيش الوطني الأفغاني وتلقى تدريبات عسكرية قبل أن ينضم إلى جماعات مسلحة، من بينها مجموعة حافظ گل بهادر وحركة طالبان باكستان.",
-    "وأوضح المسؤولون أن المتهم ينحدر من ولاية بكتيا الأفغانية، وكان يخطط لتنفيذ هجمات داخل الأراضي الباكستانية. وتأتي هذه العملية في ظل توتر مستمر بين إسلام آباد وحكومة طالبان في كابول بشأن استخدام الجماعات المسلحة للأراضي الأفغانية شن هجمات عابرة للحدود."
-   ]
-  },
-  {
-   "id": "77b4bfd91a78",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
-   "date": "2026-11-11T09:47:25Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 6,
-   "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-   "title_en": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-   "summary_en": "Pakistan Tehreek-e-Insaf has demanded immediate access to its imprisoned leader Imran Khan following his unannounced overnight transfer to an Islamabad hospital for an eye check-up. The party questioned the transparency of his medical care after he was examined and sent back to Adiala Jail.",
-   "body_en": [
-    "The Pakistan Institute of Medical Sciences stated that Khan underwent a planned examination for central retinal vein occlusion, for which he has received several intravitreal injections, and was discharged after his vital parameters were found to be normal. PTI officials countered that neither his family nor his personal physician were informed of the visit, learning about it only through media reports.",
-    "Khan's legal counsel recently told the Islamabad High Court that while the former prime minister's vision had improved, issues with his blood pressure persisted. PTI insists that Khan should be granted unrestricted access to his legal team, relatives, and independent doctors, referencing an earlier Supreme Court ruling that had directed his transfer to a private facility of his choice."
-   ],
-   "title_fa": "تحریک انصاف پاکستان پس از انتقال شبانه خان به بیمارستان، خواستار دسترسی به او شد",
-   "summary_fa": "حزب تحریک انصاف پاکستان در پی انتقال شبانه و از پیش اعلام‌نشده رهبر زندانی خود، عمران خان، به بیمارستانی در اسلام‌آباد برای معاینه چشم، خواستار دسترسی فوری به او شد. این حزب پس از معاینه و بازگرداندن خان به زندان آدیالا، شفافیت در رسیدگی‌های پزشکی به وی را زیر سؤال برد.",
-   "body_fa": [
-    "مؤسسه علوم پزشکی پاکستان اعلام کرد خان برای بررسی عارضه انسداد ورید مرکزی شبکیه، که پیش‌تر برای آن چند تزریق داخل چشمی دریافت کرده بود، تحت معاینه قرار گرفت و پس از نرمال بودن علائم حیاتی مرخص شد. با این حال، مسئولان تحریک انصاف می‌گویند خانواده و پزشک شخصی خان از این انتقال مطلع نشده بودند و تنها از طریق رسانه‌ها از آن باخبر شدند.",
-    "وکیل خان اخیراً در دادگاه عالی اسلام‌آباد اعلام کرده بود که با وجود بهبود بینایی نخست‌وزیر پیشین، فشار خون او همچنان نگران‌کننده است. این حزب با استناد به حکم پیشین دیوان عالی مبنی بر انتقال خان به بیمارستان خصوصی مورد نظرش، تأکید دارد که باید امکان دسترسی نامحدود به وکلایش، خانواده و پزشکان شخصی برای او فراهم شود."
-   ],
-   "title_ar": "حزب إنصاف الباكستاني يطالب بلقاء خان بعد نقله إلى المستشفى ليلاً",
-   "summary_ar": "طالب حزب حركة الإنصاف الباكستاني بالسماح له بلقاء زعيمه السجين عمران خان فوراً، إثر نقله ليلاً وبصورة مفاجئة إلى مستشفى في إسلام آباد لإجراء فحص لعينيه. وأبدى الحزب قلقه البالغ إزاء شفافية الرعاية الطبية المقدمة له بعد فحصه وإعادته سريعاً إلى سجن أديالا.",
-   "body_ar": [
-    "وذكر المعهد الباكستاني للعلوم الطبية أن خان خضع لفحص لمتابعة انسداد الوريد المركزي لشبكية العين، وهو عارض يتلقى من أجله حقناً داخل العين، وقد غادر المستشفى بعدما أظهرت الفحوصات استقرار مؤشراته الحيوية. في المقابل، أوضح مسؤولو الحزب أن عائلة خان وطبيبه الخاص لم يُخطروا بزيارة المستشفى، ولم يعلموا بالأمر إلا عبر التقارير الإخبارية.",
-    "وكان محامي خان قد أفاد أمام محكمة إسلام آباد العليا بأن ضغط دم رئيس الوزراء الأسبق ما زال يثير القلق رغم تحسن بصره. وتطالب حركة الإنصاف بالسماح لفريقه القانوني وعائلته وأطبائه بزيارته دون قيود، مشيرة إلى قرار سابق للمحكمة العليا كان يقضي بنقله إلى مستشفى خاص من اختياره."
-   ]
-  },
-  {
-   "id": "f45703afa225",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-   "date": "2026-11-11T08:21:56Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-   "title_en": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-   "summary_en": "Iranian security chief Mohsen Rezaei rejected reports of negotiations with the United States, insisting the Strait of Hormuz will remain closed until Washington meets Tehran's conditions. Rezaei stated that claims of ongoing talks or meetings in Qatar are false, even as US President Donald Trump pointed to positive momentum toward ending the conflict.",
-   "body_en": [
-    "Rezaei described the US's initial response to Tehran's seven conditions as deceptive and insufficient, adding that Washington is publicising talk of negotiations only to ease economic pressure and reduce oil prices. Iranian officials, including Foreign Minister Abbas Araghchi, have demanded the lifting of sanctions and the naval blockade, alongside an end to fighting across all fronts, particularly Israel's attacks on Lebanon.",
-    "Meanwhile, US Secretary of State Marco Rubio noted in Paris that Washington remains open to diplomacy, arguing that severe economic measures have made major combat operations unnecessary. At the same time, regional maritime incidents have persisted, with the IRGC reporting that three tankers caught fire after hitting mines in the Strait of Hormuz, alongside other attacks noted by maritime monitors."
-   ],
-   "title_fa": "ایران مذاکره با آمریکا را تکذیب کرد و گفت تنگه هرمز تا تحقق خواسته‌هایش مسدود خواهد ماند",
-   "summary_fa": "محسن رضایی، مقام امنیتی ایران، گزارش‌ها درباره مذاکره با ایالات متحده را رد کرد و تأکید نمود تنگه هرمز تا زمان برآورده شدن شروط تهران از سوی واشنگتن بسته خواهد ماند. رضایی اعلام کرد ادعاهای مربوط به ادامه مذاکرات یا دیدار در قطر دروغ محض است، هرچند دونالد ترامپ، رئیس‌جمهور آمریکا، از شتابی مثبت برای پایان درگیری سخن گفته بود.",
-   "body_fa": [
-    "رضایی پاسخ اولیه آمریکا به شروط هفت‌گانه تهران را فریبکارانه و ناکافی دانست و گفت واشنگتن تنها برای کاهش فشارهای اقتصادی و پایین آوردن بهای نفت از مذاکرات سخن می‌گوید. مقامات ایرانی، از جمله عباس عراقچی وزیر امور خارجه، خواهان لغو تحریم‌ها و محاصره دریایی و همچنین پایان نبردها در تمامی جبهه‌ها، به‌ویژه حملات اسرائیل به لبنان، شده‌اند.",
-    "در همین حال، مارکو روبیو وزیر امور خارجه آمریکا در پاریس اعلام کرد واشنگتن آماده دیپلماسی است و فشارهای اقتصادی شدید نیاز به عملیات‌های بزرگ نظامی را برطرف کرده است. هم‌زمان، حوادث دریایی در منطقه ادامه داشته است؛ از جمله سپاه پاسداران انقلاب اسلامی اعلام کرد سه نفتکش در پی برخورد با مین در تنگه هرمز آتش گرفته‌اند و نهادهای نظارت دریایی نیز حملات دیگری را گزارش کرده‌اند."
-   ],
-   "title_ar": "إيران تنفي إجراء محادثات مع واشنطن وتؤكد بقاء مضيق هرمز مغلقا حتى تلبية مطالبها",
-   "summary_ar": "نفى المسؤول الأمني الإيراني محسن رضائي التقارير التي تحدثت عن إجراء مفاوضات مع الولايات المتحدة، مؤكداً أن مضيق هرمز سيظل مغلقاً حتى تلبي واشنطن شروط طهران. وأوضح رضائي أن المزاعم بشأن استمرار المحادثات أو عقد لقاء في قطر هي محض كذب، رغم تصريحات الرئيس الأميركي دونالد ترامب التي أشار فيها إلى وجود زخم إيجابي لإنهاء الصراع.",
-   "body_ar": [
-    "ووصف رضائي الرد الأميركي الأولي على شروط طهران السبعة بأنه مخادع وغير كافٍ، معتبراً أن واشنطن تروج للمفاوضات فقط لتخفيف الضغوط الاقتصادية وخفض أسعار النفط. ويطالب المسؤولون الإيرانيون، بمن فيهم وزير الخارجية عباس عراقجي، برفع العقوبات والحصار البحري ووقف القتال على كافة الجبهات، ولا سيما الهجمات الإسرائيلية على لبنان.",
-    "من جهته، صرح وزير الخارجية الأميركي ماركو روبيو في باريس بأن واشنطن منفتحة على المسار الدبلوماسي، مشيراً إلى أن الإجراءات الاقتصادية الصارمة جعلت العمليات العسكرية الكبرى غير ضرورية. وتزامن ذلك مع استمرار الحوادث البحرية، حيث أعلن الحرس الثوري الإيراني اشتعال النيران في ثلاث ناقلات نفط إثر اصطدامها بألغام في مضيق هرمز، إلى جانب بلاغات أخرى رصدتها هيئات الملاحة البحرية."
-   ]
-  },
-  {
-   "id": "5f9750ce9b48",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-   "date": "2026-11-11T06:23:04Z",
-   "countries": [
-    "ISR"
-   ],
-   "score": 7,
-   "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-   "title_en": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-   "summary_en": "Israeli Prime Minister Benjamin Netanyahu is making calls for a broad unity government as President Isaac Herzog tasked opposition figure Gadi Eisenkot with forming a coalition.",
-   "body_en": [
-    "Following October elections, President Isaac Herzog charged former Chief of Staff Gadi Eisenkot of the Yashar party with forming a government. Netanyahu released video messages warning of civil war risks if a government is formed with Arab party support, while urging leaders of the opposition to join a unified government under his leadership alongside his far-right allies Bezalel Smotrich and Itamar Ben-Gvir.",
-    "The opposition faces crucial coalition negotiations with ultra-Orthodox parties like United Torah Judaism to reach the 61-seat threshold in the 120-seat Knesset. Meanwhile, opposition members are aiming to appoint Matan Kahana to head a state inquiry into government failings surrounding the October 7 attacks."
-   ],
-   "title_fa": "تلاش نتانیاهو برای بقای سیاسی هم‌زمان با نزدیک شدن اپوزیسیون اسرائیل",
-   "summary_fa": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در حالی خواستار تشکیل حکومت وحدت ملی شده است که اسحاق هرتزوگ، رئیس‌جمهور این کشور، ماموریت تشکیل کابینه را به گادی آیزنکوت واگذار کرده است.",
-   "body_fa": [
-    "پس از انتخابات اکتبر، اسحاق هرتزوگ، رئیس‌جمهور اسرائیل، گادی آیزنکوت، رئیس سابق ستاد کل و از رهبران حزب یاشار را مامور تشکیل کابینه کرد. نتانیاهو با انتشار پیام‌های ویدئویی نسبت به خطر جنگ داخلی در صورت تشکیل حکومت با حمایت احزاب عربی هشدار داده و از اپوزیسیون خواسته تا به حکومت وحدت ملی به رهبری او و با حضور بزالل اسموتریچ و ایتمار بن‌گویر بپیوندند.",
-    "اپوزیسیون در حال رایزنی با احزاب حریدی مانند «یهدوت هتورا» برای دستیابی به حد نصاب در کنست ۱۲۰ کرسی است. در همین حال، نمایندگان اپوزیسیون قصد دارند متان کاهانا را برای رهبری کمیته تحقیق درباره کوتاهی‌های حکومت در قبال حملات ۷ اکتبر منصوب کنند."
-   ],
-   "title_ar": "نتنياهو يقاتل للبقاء في المشهد مع تضييق المعارضة الإسرائيلية الخناق عليه",
-   "summary_ar": "دعا رئيس الوزراء الإسرائيلي بنيامين نتنياهو إلى تشكيل حكومة وحدة وطنية، في وقت كلف فيه الرئيس يتسحاق هرتسوغ قيادي المعارضة غادي آيزنكوت بتشكيل الحكومة.",
-   "body_ar": [
-    "عقب انتخابات أكتوبر، كلف الرئيس يتسحاق هرتسوغ رئيس الأركان السابق غادي آيزنكوت من حزب يشار بتشكيل الحكومة. ونشر بنيامين نتنياهو مقاطع فيديو تحذر من خطر حرب أهلية إذا تشكّلت حكومة بدعم من الأحزاب العربية، داعياً المعارضة للانضمام إلى حكومة وحدة تحت قيادته وبمشاركة حلفائه بتسلئيل سموتريتش وإيتمار بن غفير.",
-    "وتجري المعارضة مفاوضات مع الأحزاب الحريدية لتأمين الأغلبية في الكنيست المكون من 120 مقعداً. في الوقت نفسه، يسعى أعضاء المعارضة لتكليف متان كاهانا بقدادة لجنة تحقيق رسمية بشأن إخفاقات الحكومة المتعلقة بهجمات 7 أكتوبر."
-   ]
-  },
-  {
-   "id": "81c38962384c",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-   "date": "2026-11-11T05:39:26Z",
-   "countries": [
-    "YEM"
-   ],
-   "score": 7,
-   "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-   "title_en": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-   "summary_en": "Yemeni government forces and Houthi fighters launched heavy air, missile, and artillery attacks against each other across several governorates, with both sides claiming to inflict casualties.",
-   "body_en": [
-    "Yemeni government spokesman Majed Abdullah al-Nuzaili stated that forces conducted air strikes, drone attacks, and artillery shelling targeting Houthi positions in Lahij, Taiz, Marib, al-Jawf, Hajjah, and al-Bayda. He reported that around 190 Houthi commanders and fighters were killed or injured, and up to 130 combat vehicles were damaged.",
-    "Houthi spokesman Yahya Saree reported 109 air and missile strikes by Saudi-backed forces on Sanaa and other governorates, asserting they caused casualties among civilians. Saree also claimed Houthi attacks inflicted heavy casualties on government troops in Lahij and al-Jawf, while targeting Riyadh and an Aramco facility in Abqaiq, Saudi Arabia."
-   ],
-   "title_fa": "تبادل حملات میان نیروهای دولتی یمن و حوثی‌ها با ادعای تلفات سنگین دو طرف",
-   "summary_fa": "نیروهای حکومت یمن و رزمندگان حوثی حملات گسترده هوایی، موشکی و توپخانه‌ای علیه مواضع یکدیگر در استان‌های مختلف انجام دادند و هر دو طرف مدعی وارد کردن تلفات سنگین شدند.",
-   "body_fa": [
-    "ماجد عبدالله النذیلی، سخنگوی نیروهای دولتی یمن، اعلام کرد که این نیروها حملات هوایی، پهپادی و توپخانه‌ای را علیه مواضع حوثی‌ها در لحج، تعز، مأرب، الجوف، حجه و البيضاء انجام داده‌اند. وی مدعی شد حدود ۱۹۰ فرمانده و رزمنده حوثی کشته یا زخمی شده و ۱۳۰ خودروی رزمی منهدم یا آسیب دیده‌اند.",
-    "در مقابل، یحیی سریع، سخنگوی حوثی‌ها، از ۱۰۹ حمله هوایی و موشکی به صنعا و چند استان دیگر خبر داد. وی همچنین مدعی شد که حوثی‌ها تلفاتی به نیروهای دولتی در لحج و الجوف وارد کرده و اهدافی در ریاض و تأسیسات آرامکو در بقیق عربستان را هدف قرار داده‌اند."
-   ],
-   "title_ar": "القوات اليمنية والحوثيون يتبادلون الهجمات ويعلنون تكبيد الطرف الآخر خسائر فادحة",
-   "summary_ar": "تبادلت القوات الحكومية اليمنية ومقاتلو الحوثيين ضربات جوية وصاروخية ومدفعية مكثفة في عدة محافظات، حيث أعلن كلاً الجانبين تكبيد الآخر خسائر كبيرة.",
-   "body_ar": [
-    "صرح ماجد عبد الله النزيلي، المتحدث باسم القوات الحكومية اليمنية، أن القوات نفذت ضربات جوية وبطائرات مسيرة ومدفعية استهدفت مواقع الحوثيين في لحج وتعز ومأرب والجوف وحجة والبيضاء، مشيراً إلى مقتل وإصابة نحو 190 قيادياً ومقاتلاً حوثياً وتدمير 130 آلية قتالية.",
-    "من جانبه، أفاد المتحدث باسم الحوثيين يحيى سريع بتعرض صنعاء ومحافظات أخرى لـ 109 ضربات جوية وصاروخية. وأعلن سريع أن هجمات الحوثيين أوقعت قتلى وجرحى في صفوف القوات الحكومية في لحج والجوف، إلى جانب استهداف الرياض ومرفق أرامكو في أبقيق بالمملكة العربية السعودية."
-   ]
-  },
-  {
-   "id": "b40ea2bb0acf",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/liberia-flagged-vlcc-hit-in-persian-gulf-six-indian-seafarers-aboard-sarbananda-sonowal/article71688307.ece",
-   "date": "2026-11-11T04:55:47Z",
-   "countries": [
-    "IND"
-   ],
-   "score": 8,
-   "title": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
-   "title_en": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
-   "summary_en": "A Liberia-flagged crude carrier was struck by a projectile in the Persian Gulf while traveling from Al Ruwais to Dubai, injuring four crew members including one Indian national.",
-   "body_en": [
-    "According to Indian Shipping Minister Sarbananda Sonowal, the MT Fujairah Energy was struck on November 10 while transiting the Persian Gulf. Four crew members sustained injuries in the attack, including an Indian national who suffered minor injuries and was taken ashore for medical evaluation.",
-    "The remaining 18 crew members, which include five other Indian seafarers, are safe. The minister stated that authorities are monitoring the situation and remaining in contact with the ship's management company."
-   ],
-   "title_fa": "حمله به سوپرتانکر با پرچم لیبریا در خلیج فارس با شش دریانورد هندی",
-   "summary_fa": "یک نفت‌کش غول‌پیکر با پرچم لیبریا هنگام عبور از خلیج فارس از الرویس به دبی هدف پرتابه قرار گرفت و چهار خدمه از جمله یک شهروند هند زخمی شدند.",
-   "body_fa": [
-    "به گفته سارباناندا سونووال، وزیر کشتیرانی هند، نفت‌کش «ام‌تی فجیره انرژی» در تاریخ ۱۰ نوامبر هنگام عبور از خلیج فارس هدف قرار گرفت. در این حادثه چهار عضو خدمه آسیب دیدند که یک شهروند هندی با جراحات جزئی برای معاینات پزشکی به ساحل منتقل شده است.",
-    "۱۸ عضو دیگر خدمه، از جمله پنج دریانورد هندی دیگر، سالم هستند. وزیر کشتیرانی هند اعلام کرد که وضعیت به طور مداوم زیر نظر است و ارتباط با شرکت مدیریت کشتی برای حفظ امنیت و سلامت دریانوردان ادامه دارد."
-   ],
-   "title_ar": "استهداف ناقة نفط عملاقة ترفع علم ليبيريا في الخليج العربي وعلى متنها ستة بحارة هنود",
-   "summary_ar": "تعرضت ناقلة نفط عملاقة ترفع علم ليبيريا لإصابة بمقذوف في الخليج العربي أثناء انتقالها من الرويس إلى دبي، مما أسفر عن إصابة أربعة من طاقمها، بينهم مواطن هندي.",
-   "body_ar": [
-    "وفقاً لوزير الملاحة البحرية الهندي سارباناندا سونووال، أصيبت الناقلة «إم تي فجيرة إنرجي» بمقذوف في 10 نوفمبر خلال عبورها الخليج العربي. وأدى الهجوم إلى إصابة أربعة من أفراد الطاقم، من بينهم مواطن هندي تعرض لإصابات طفيفة ونُقل إلى البر لتلقي الفحص الطبي.",
-    "وأضاف الوزير أن بقية أفراد الطاقم البالغ عددهم 18 شخصاً، بمن فيهم 5 بحارة هنود آخرين، بأمان، مؤكداً أن السلطات تتابع الوضع عن كثب وتتواصل مع شركة إدارة السفينة لضمان سلامة البحارة."
-   ]
-  },
-  {
-   "id": "b999cf83e4bc",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
-   "date": "2026-11-11T04:54:04Z",
-   "countries": [
-    "PAK"
-   ],
-   "score": 7,
-   "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
-   "title_en": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
-   "summary_en": "Unidentified armed men abducted three polio vaccination workers in northwestern Pakistan's Tank district during an ongoing immunisation drive.",
-   "body_en": [
-    "Police reported on Tuesday that gunmen took the three workers—identified as Mir Janan, Ikram, and Khanzala—from the Sorghar area of Tank district in Khyber Pakhtunkhwa to an undisclosed location. District administrators confirmed the abductions.",
-    "The incident follows a string of recent abductions and attacks targeting health workers in the region, including the kidnapping of four workers in Tank and a campaign supervisor in Khyber district earlier in November, as well as an attack in Mohmand district that left two police escorts dead."
-   ],
-   "title_fa": "سه عامل واکسیناسیون فلج اطفال در جریان کارزار واکسیناسیون در شمال غربی پاکستان ربوده شدند",
-   "summary_fa": "افراد مسلح ناشناس سه عامل واکسیناسیون فلج اطفال را در جریان کارزار سراسری واکسیناسیون در شهرستان تانک در شمال غربی پاکستان ربودند.",
-   "body_fa": [
-    "پلیس روز سه‌شنبه گزارش داد که افراد مسلح سه عامل واکسیناسیون به نام‌های میرجانان، اکرام و خنظله را از منطقه سورغر در شهرستان تانک در ایالت خیبر پختونخوا به نقطه‌ای نامعلوم منتقل کردند. مقامات محلی شهرستان نیز این ربوده شدن را تایید کردند.",
-    "این حادثه در پی موجی از ربوده شدن‌ها و حملات اخیر علیه تیم‌های واکسیناسیون در منطقه رخ می‌دهد؛ از جمله ربوده شدن چهار عامل واکسیناسیون در تانک و یک ناظر کارزار در شهرستان خیبر در اوایل ماه نوامبر، و همچنین حمله‌ای در شهرستان مهمند که به کشته شدن دو مامور پلیس محافظ منجر شد."
-   ],
-   "title_ar": "اختطاف ثلاثة من عمال شلل الأطفال خلال حملة تطعيم في شمال غرب باكستان",
-   "summary_ar": "اختطف مسلحون مجهولون ثلاثة من عمال التطعيم ضد شلل الأطفال في منطقة تانك بشمال غرب باكستان أثناء حملة تطعيم جارية.",
-   "body_ar": [
-    "أفادت الشرطة يوم الثلاثاء بأن مسلحين اقتادوا العمال الثلاثة — الذين تم تحديد هوياتهم وهم میر جانان وإكرام وخنظلة — من منطقة سورغار في مديرية تانك بإقليم خيبر بختونخوا إلى مكان مجهول. وأكدت إدارة المديرية وقوع حادثة الاختطاف.",
-    "ويأتي هذا الحادث وسط سلسلة من عمليات الاختطاف والهجمات الأخيرة التي تستهدف طواقم التطعيم في المنطقة، بما في ذلك اختطاف أربعة عمال في تانك ومشرف حملة في مديرية خيبر في أوائل نوفمبر، بالإضافة إلى هجوم في مديرية مومند أسفر عن مقتل شرطيين من أفراد الحراسة."
-   ]
-  },
-  {
-   "id": "4e22e3f1ddbe",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
-   "date": "2026-11-11T03:21:32Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "Iran opens training camp for women in readiness for war",
-   "title_en": "Iran opens training camp for women in readiness for war",
-   "summary_en": "Iran has launched its first all-women military training camp amid concerns over potential renewed US attacks.",
-   "body_en": [
-    "Dozens of female volunteers known as \"Janfadayan\", who are prepared to sacrifice their lives for the country, participated in military exercises held at Tehran's Azadi Square."
-   ],
-   "title_fa": "ایران در راستای آمادگی برای جنگ، اردوگاه آموزشی نظامی زنان را راه‌اندازی کرد",
-   "summary_fa": "ایران در میان نگرانی‌ها از احتمال حملات مجدد آمریکا، نخستین اردوگاه آموزش نظامی تماماً زنانه خود را افتتاح کرد.",
-   "body_fa": [
-    "ده‌ها تن از داوطلبان زن موسوم به «جان‌فدایان» که آماده فدا کردن جان خود برای ایران هستند، در مانورهای نظامی برگزارشده در میدان آزادی تهران شرکت کردند."
-   ],
-   "title_ar": "إيران تفتتح معسكراً لتدريب النساء استعداداً للحرب",
-   "summary_ar": "افتتحت إيران أول معسكر تدريب عسكري مخصص بالكامل للنساء وسط مخاوف من تجدد الهجمات الأمريكية.",
-   "body_ar": [
-    "وشاركت عشرات المتطوعات من \"جانفدايان\"، المستعدات للتضحية بأرواحهن من أجل إيران، في تدريبات عسكرية أقيمت في ساحة آزادي بطهران."
-   ]
-  },
-  {
-   "id": "cc91c368a40e",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-treasury-chief-moved-military-base-after-alleged-iranian-threats",
-   "date": "2026-11-11T01:46:04Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "US Treasury chief moved to military base after alleged Iranian threats: Report",
-   "title_en": "US Treasury chief moved to military base after alleged Iranian threats: Report",
-   "summary_en": "US Treasury Secretary Scott Bessent has been relocated from his residence to a military base following alleged threats to his life from Iran, according to The New York Times.",
-   "body_en": [
-    "A memo reviewed by Reuters revealed that a senior intelligence official in Donald Trump's administration warned of intensified Iranian efforts to target American personnel. The official stated that Tehran's plots against US citizens have progressed to advanced stages."
-   ],
-   "title_fa": "گزارش: انتقال وزیر خزانه‌داری آمریکا به یک پایگاه نظامی در پی تهدیدهای ادعایی ایران",
-   "summary_fa": "به گزارش نیویورک تایمز، اسکات بنت، وزیر خزانه‌داری آمریکا، در پی تهدیدهای ادعایی ایران علیه جانش از منزل خود به یک پایگاه نظامی منتقل شده است.",
-   "body_fa": [
-    "بر اساس یادداشتی که خبرگزاری رویترز آن را مشاهده کرده، یکی از مقامات ارشد اطلاعاتی در دولت دونالد ترامپ هشدار داده است که تهران تلاش‌های خود را برای هدف قرار دادن پرسنل آمریکایی افزایش داده است. این مقام مدعی شد که طرح‌های ایران علیه شهروندان آمریکایی به «مراحل پیشرفته‌ای» رسیده است."
-   ],
-   "title_ar": "تقرير: نقل وزير الخزانة الأمريكي إلى قاعدة عسكرية إثر تهديدات إيرانية مزعومة",
-   "summary_ar": "نُقل وزير الخزانة الأمريكي سكوت بيسنت من منزله إلى قاعدة عسكرية إثر تهديدات إيرانية مزعومة استهدفت حياته، وفقاً لما أوردته صحيفة نيويورك تايمز.",
-   "body_ar": [
-    "وأظهرت مذكرة اطلعت عليها وكالة رويترز أن مسؤولاً استخباراتياً بارزاً في إدارة دونالد ترامب حذر من تكثيف طهران لجهودها الرامية لاستهداف أفراد أمريكيين. وادعى المسؤول أن المخططات الإيرانية ضد مواطنين أمريكيين بلغت \"مراحل متقدمة\"."
-   ]
-  },
-  {
-   "id": "ca1191f7ce63",
-   "lang": "en",
-   "source": "Middle East Eye",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/all-i-can-do-hug-my-children-and-cry-palestinians-gaza-face-deadly",
-   "date": "2026-11-11T00:53:04Z",
-   "countries": [
-    "PSE"
-   ],
-   "score": 7,
-   "title": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods",
-   "title_en": "‘All I can do is hug my children and cry’: Palestinians in Gaza face deadly winter floods",
-   "summary_en": "Severe rainfall and winter flooding are exacerbating humanitarian conditions for displaced families in Gaza, who are largely sheltering in tents and damaged houses.",
-   "body_en": [
-    "Speaking to Middle East Eye, Palestinian journalist Nada Nabil stated that residents who previously welcomed the rains now fear them. She described how displaced mothers have been left with no choice but to weep with their children while hoping for better weather.",
-    "The floods take place while Israel continues to restrict the entry of humanitarian supplies into Gaza despite a ceasefire. Obstructions have affected the delivery of vital goods such as tents, blankets, and materials required to fix damaged infrastructure."
-   ],
-   "title_fa": "«تنها کاری که می‌توانم بکنم در آغوش گرفتن فرزندانم و گریستن است»: فلسطینی‌ها در غزه با سیلاب‌های مرگبار زمستانی روبه‌رو هستند",
-   "summary_fa": "بارش‌های سنگین و سیلاب‌های زمستانی شرایط زیستی خانواده‌های آواره در غزه را که عمدتاً در چادرها و خانه‌های آسیب‌دیده زندگی می‌کنند، به شدت وخیم‌تر کرده است.",
-   "body_fa": [
-    "ندا نبیل، روزنامه‌نگار فلسطینی، در گفتگو با میدل ایست آی گفت مردمی که پیش از این از بارش باران استقبال می‌کردند، اکنون از آن وحشت دارند. او روایتی از مادرانی نقل کرد که در مواجهه با سیل تنها فرزندانشان را در آغوش گرفته و اشک می‌ریزند و به بازگشت آفتاب امید می‌بندند.",
-    "این سیلاب‌ها در شرایطی جاری شده‌اند که اسرائیل با وجود برقراری آتش‌بس، همچنان مانع ورود کمک‌های بشردوستانه ضروری به نوار غزه می‌شود. اقلام مسدودشده شامل چادر، پتو و مصالح لازم برای تعمیر زیرساخت‌های تخریب‌شده است."
-   ],
-   "title_ar": "«كل ما يمكنني فعله هو معانقة أطفالي والبكاء»: الفلسطينيون في غزة يواجهون فيضانات شتوية مميتة",
-   "summary_ar": "أدت الأمطار الغزيرة وفيضانات الشتاء إلى تفاقم الأوضاع الصعبة للعائلات النازحة في قطاع غزة، حيث يقيم معظمهم في الخيام والمنازل المتضررة.",
-   "body_ar": [
-    "وقالت الصحفية الفلسطينية ندى نبيل، في حديث لموقع \"ميدل إيست آي\"، إن السكان الذين كانوا يرحبون بالأمطار في السابق باتوا يخشونها اليوم، وروت كيف تلجأ أمهات نازحات إلى معانقة أطفالهن والبكاء على أمل تحسن الأحوال الجوية.",
-    "وتأتي هذه الفيضانات في وقت تواصل فيه إسرائيل عرقلة دخول المساعدات الإنسانية الحيوية إلى قطاع غزة رغم وقف إطلاق النار، بما في ذلك الخيام والبطانيات والمواد اللازمة لإصلاح البنية التحتية المتضررة."
-   ]
-  },
-  {
-   "id": "404ff2c25cfe",
-   "lang": "en",
-   "source": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/us-charges-three-iranian-operatives-over-uk-airbase-plot/article71687536.ece",
-   "date": "2026-11-10T23:09:18Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 8,
-   "title": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
-   "title_en": "U.S. charges three ‘Iranian operatives’ over U.K. airbase plot",
-   "summary_en": "The U.S. Justice Department has filed charges against three men described as Iranian operatives over an alleged terrorist plot targeting the RAF Fairford airbase in Britain. The suspects allegedly planned and coordinated the September incident at the base, which the American military has used in operations against Iran.",
-   "body_en": [
-    "According to U.S. charging documents, Iraqi national Mohammad Ali al-Hassani directed individuals to drive fuel-laden white vans disguised as delivery vehicles to the site, having also paid for metal objects intended to serve as shrapnel. Mohammad Baqer Saad Dawood al-Saadi, an Iranian-Iraqi national already imprisoned in New York on terrorism charges, allegedly communicated coded messages to coordinate the plot alongside Iranian national Mohsen Mohajeri. Following the incident, the U.S. military pulled all its B-1 bombers from the installation.",
-    "The eight-count indictment accuses the three of conspiring to provide material support to the IRGC and Kataeb Hezbollah, among other terrorism-related offenses. U.S. authorities previously accused al-Saadi of organizing dozens of attacks against American, Israeli, and Jewish targets across Europe and Canada, while British police have separately charged two local men in connection with the Fairford case."
-   ],
-   "title_fa": "آمریکا سه «عامل ایرانی» را در ارتباط با توطئه علیه یک پایگاه هوایی در بریتانیا متهم کرد",
-   "summary_fa": "وزارت دادگستری آمریکا سه مرد را که «عوامل ایرانی» توصیف شده‌اند، به اتهام دست داشتن در یک توطئه تروریستی علیه پایگاه هوایی «راف فیرفورد» در بریتانیا تحت پیگرد قانونی قرار داد. این افراد متهم شده‌اند که به برنامه‌ریزی و هدایت حادثه ماه سپتامبر در این پایگاه—که ارتش آمریکا در عملیات‌های خود علیه ایران استفاده می‌کرد—کمک کرده‌اند.",
-   "body_fa": [
-    "بر اساس کیفرخواست دادستانی آمریکا، محمد علی الحسنی، تبعه عراق، افرادی را هدایت کرده بود تا با ون‌های سفید حامل سوخت و تغییرشکل‌یافته به عنوان خودروهای توزیع سوخت به این پایگاه بروند و مبالغی نیز برای خرید اشیای فلزی به منظور استفاده به عنوان ترکش پرداخت کرده بود. همچنین محمد باقر سعد داود السعدی، تبعه دوتابعیتی ایرانی-عراقی که پیش‌تر به اتهامات تروریستی در نیویورک زندانی است، به همراه محسن مهاجری، تبعه ایران، پیام‌های رمزگذاری‌شده‌ای را برای هماهنگی این عملیات رد و بدل کرده بودند. آمریکا چند روز پس از این واقعه تمام بمب‌افکن‌های بی-۱ خود را از این پایگاه خارج کرد.",
-    "این سه نفر در کیفرخواستی با هشت فقره اتهام، از جمله توطئه برای ارائه حمایت مادی به سپاه پاسداران و گردان‌های حزب‌الله و اقدام تروریستی، متهم شده‌اند. مقامات آمریکایی پیش‌تر السعدی را به هماهنگی ده‌ها حمله علیه منافع آمریکا و اسرائیل در اروپا و کانادا متهم کرده بودند؛ هم‌زمان پلیس بریتانیا نیز ماه گذشته دو شهروند این کشور را در ارتباط با ماجرای پایگاه فیرفورد متهم کرد."
-   ],
-   "title_ar": "الولايات المتحدة توجه اتهامات لثلاثة «عملاء إيرانيين» بشأن مخطط لاستهداف قاعدة جوية في بريطانيا",
-   "summary_ar": "وجهت وزارة العدل الأمريكية اتهامات إلى ثلاثة رجال وصفتهم بأنهم «عملاء إيرانيون» لضلوعهم في مخطط إرهابي مزعوم استهدف قاعدة «راف فيرفورد» الجوية في بريطانيا. ووفقاً للادعاء، ساعد المشتبه بهم في التخطيط لحادثة وقعت في سبتمبر الماضي وتوجيهها في القاعدة التي استخدمها الجيش الأمريكي لعملياته ضد إيران.",
-   "body_ar": [
-    "وفقاً لوثائق الاتهام الأمريكية، وجّه المواطن العراقي محمد علي الحسني أفراداً للتوجه إلى القاعدة بشاحنات بيضاء محملة بالوقود ومموهة كسيارات توصيل، ودفع أموالاً لشراء قطع معدنية لاستخدامها كشظايا. كما اتُّهم محمد باقر سعد داود السعدي، وهو مواطن يحمل الجنسيتين الإيرانية والعراقية ومسجون حالياً في نيويورك بتهم إرهاب، بتمرير رسائل مشفرة للتنسيق مع الحسني والمواطن الإيراني محسن مهاجري. وعقب الحادثة، سحبت الولايات المتحدة جميع قاذفاتها من طراز «بي-1» من القاعدة.",
-    "وتشمل لائحة الاتهام ثماني تهم، من بينها التآمر لتقديم دعم مادي للحرس الثوري الإيراني وكتائب حزب الله وارتكاب أعمال إرهابية. وكانت السلطات الأمريكية قد اتهمت السعدي سابقاً بالمسؤولية عن عشرات الهجمات التي استهدفت مصالح أمريكية وإسرائيلية في أوروبا وكندا، في حين وجهت الشرطة البريطانية الشهر الماضي اتهامات لشخصين بريطانيين على خلفية القضية نفسها."
-   ]
-  },
-  {
-   "id": "a0a5f902d6ab",
-   "lang": "en",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-   "date": "2026-11-10T22:36:14Z",
-   "countries": [
-    "IRN"
-   ],
-   "score": 7,
-   "title": "US House Republicans block Pete Hegseth impeachment effort",
-   "title_en": "US House Republicans block Pete Hegseth impeachment effort",
-   "summary_en": "Republicans in the U.S. House of Representatives have blocked a push to impeach Defense Secretary Pete Hegseth by voting to refer the resolution to the Judiciary Committee. The procedural vote, which passed 211 to 204, effectively halts the removal effort launched by Republican Representative Thomas Massie following midterm elections shaped by discontent over the Iran war.",
-   "body_en": [
-    "The vote fell largely along party lines, with Massie acting as the sole Republican to oppose the procedural motion alongside Democrats. Sending the measure to the Republican-led committee prevents a direct vote on the eight articles of impeachment, which accused the Pentagon chief of conducting an unauthorized war against Iran and overseeing controversial anti-narcotics strikes.",
-    "President Donald Trump praised the outcome and reaffirmed his backing for Hegseth, dismissing the push as a failed Democratic initiative. Despite Hegseth's denunciations of the impeachment effort, his standing has faced scrutiny after midterm defeats and voter frustration over inflation linked to the ongoing war."
-   ],
-   "title_fa": "جمهوری‌خواهان مجلس نمایندگان آمریکا تلاش برای استیضاح پیت هگست را متوقف کردند",
-   "summary_fa": "جمهوری‌خواهان مجلس نمایندگان آمریکا با تصویب ارجاع طرح استیضاح پیت هگست، وزیر دفاع، به کمیته قضایی، تلاش‌ها برای برکناری او را متوقف کردند. این رأی‌گیری آیین‌نامه‌ای که با ۲۱۱ رأی موافق در برابر ۲۰۴ رأی مخالف به تصویب رسید، ابتکار توماس ماسی، نماینده جمهوری‌خواه، را که پس از نارضایتی عمومی از جنگ با ایران در انتخابات میان‌دوره‌ای مطرح شده بود، ناکام گذاشت.",
-   "body_fa": [
-    "این رأی‌گیری عمدتاً بر اساس خطوط حزبی پیش رفت و ماسی تنها جمهوری‌خواهی بود که همگام با دموکرات‌ها علیه این تصمیم آیین‌نامه‌ای رأی داد. ارجاع طرح به کمیته قضایی—که ریاست آن بر عهده جمهوری‌خواهان است—مانع از رأی‌گیری مستقیم درباره هشت بند استیضاح شد که هگست را به پیشبرد جنگ بدون مجوز با ایران و نظارت بر حملات مرگبار علیه قایق‌های قاچاق متهم می‌کردند.",
-    "دونالد ترامپ، رئیس‌جمهور آمریکا، از این نتیجه استقبال و بر حمایت قاطع خود از هگست تأکید کرد و این اقدام را تلاش شکست‌خورده دموکرات‌ها خواند. با وجود رد این اتهامات توسط هگست، شکست جمهوری‌خواهان در انتخابات میان‌دوره‌ای و نارضایتی شهروندان از افزایش قیمت‌های ناشی از جنگ، جایگاه او را در دولت با ابهاماتی مواجه کرده است."
-   ],
-   "title_ar": "الجمهوريون في مجلس النواب الأمريكي يعرقلون مسعى لعزل بيت هيغسيث",
-   "summary_ar": "عرقل الجمهوريون في مجلس النواب الأمريكي مسعى لعزل وزير الدفاع بيت هيغسيث عبر التصويت لصالح إحالة لائحة الاتهامات إلى اللجنة القضائية. وأنهى هذا التصويت الإجرائي، الذي أُقر بأغلبية 211 صوتاً مقابل 204 أصوات، جهوداً قادها النائب الجمهوري توماس ماسي لإقالة هيغسيث في أعقاب انتخابات نصفية شهدت استياءً واسعاً من الحرب على إيران.",
-   "body_ar": [
-    "وجاء التصويت وفقاً للانتماء الحزبي بصورة شبه كاملة، وكان ماسي الجمهوري الوحيد الذي صوت ضد الإجراء الإجرائي إلى جانب الديمقراطيين. وتتيح إحالة القرار إلى اللجنة القضائية، التي يقودها الجمهوريون، تجنب التصويت المباشر على بنود العزل الثمانية التي اتهمت وزير الدفاع بشن حرب غير قانونية على إيران وإدارة ضربات ضد سفن تهريب مخدرات اعتبرها خبراء قانونيون عمليات قتل خارج نطاق القضاء.",
-    "وأشاد الرئيس دونالد ترامب بنتيجة التصويت مجدداً دعمه لهيغسيث، ووصف المسعى بأنه محاولة فاشلة من الديمقراطيين. وعلى الرغم من تنديد هيغسيث بالقرار واعتباره «مهزلة»، إلا أن التكهنات حول موقعه تزايدت بعد خسائر الجمهوريين في الانتخابات النصفية وغضب الناخبين من ارتفاع الأسعار الناجم عن الحرب."
-   ]
-  },
-  {
-   "id": "7984346b657b",
-   "lang": "ar",
-   "source": "BBC Arabic",
-   "url": "https://www.bbc.com/arabic/articles/cxp80nnpr0g9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T22:29:44Z",
-   "countries": [
-    "IRQ",
-    "LBN"
-   ],
-   "score": 7,
-   "title": "العثور على جثة النائب العراقي السابق أحمد العلواني مقتولاً في بيروت",
-   "title_en": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
-   "summary_en": "Former Iraqi lawmaker Ahmed al-Alwani has been found dead inside an apartment in Beirut, four days after he was kidnapped in the Lebanese capital. The Lebanese judiciary and security forces have opened an investigation to determine the circumstances of the killing.",
-   "body_en": [
-    "According to Iraqi and Lebanese sources, Alwani's body was discovered in Beirut's Tariq al-Jadida district and transferred to a hospital in the Bekaa, where family members confirmed his identity while judicial authorities requested a DNA test. Preliminary reports suggest that he may have been lured to the apartment after leaving a hotel in the Raouche area, and an Iraqi security team is expected in Beirut to take part in the investigation.",
-    "Alwani was a prominent Sunni political figure from Anbar province and an outspoken supporter of the 2012–2013 protests against former Prime Minister Nouri al-Maliki. Arrested in late 2013 during a raid on his home and later sentenced to death, he was released in April 2025 under a general amnesty after more than eleven years in detention."
-   ],
-   "title_fa": "جسد احمد العلوانی، نماینده پیشین پارلمان عراق، کشته‌شده در بیروت پیدا شد",
-   "summary_fa": "جسد احمد العلوانی، نماینده پیشین پارلمان عراق، چهار روز پس از ربوده شدن، درون آپارتمانی در بیروت کشف شد. دستگاه قضایی و نهادهای امنیتی لبنان تحقیقاتی را برای روشن شدن ابعاد و جزئیات قتل او آغاز کرده‌اند.",
-   "body_fa": [
-    "بر اساس گزارش‌ها، جسد العلوانی در منطقه «طریق الجدیده» بیروت کشف و به بیمارستانی در بقاع منتقل شد، جایی که بستگانش هویت او را به طور قطعی شناسایی کردند و دادستانی نیز دستور انجام آزمایش دی‌ان‌ای را صادر کرد. اطلاعات اولیه رسانه‌های محلی حاکی از آن است که وی پس از خروج از هتل محل اقامتش در منطقه روشه، به این آپارتمان کشانده شده و به قتل رسیده است؛ همچنین قرار است یک هیئت امنیتی عراقی برای مشارکت در تحقیقات به بیروت سفر کند.",
-    "العلوانی از چهره‌های سیاسی شاخص استان انبار و از حامیان اصلی اعتراضات سال‌های ۲۰۱۲ و ۲۰۱۳ علیه دولت نوری المالکی بود. او در دسامبر ۲۰۱۳ طی یورش به خانه‌اش در رمادی بازداشت و در سال ۲۰۱۴ به اعدام محکوم شد، اما سرانجام در آوریل ۲۰۲۵ پس از بیش از ۱۱ سال زندان، در چارچوب قانون عفو عمومی آزاد شده بود."
-   ],
-   "title_ar": "العثور على جثة النائب العراقي السابق أحمد العلواني مقتولاً في بيروت",
-   "summary_ar": "أعلن السفير العراقي في بيروت أن القضاء اللبناني فتح تحقيقاً في ملابسات مقتل النائب العراقي السابق أحمد العلواني، الذي عُثر على جثته داخل شقة في بيروت بعد أربعة أيام من اختطافه.",
-   "body_ar": [
-    "وأفادت مصادر أمنية بأنه عُثر على جثة العلواني في منطقة طريق الجديدة ونُقلت إلى مستشفى في البقاع، حيث أكد أفراد من عائلته هويته بينما طلب المدعي العام التمييزي إجراء فحص الحمض النووي (DNA). وأشارت معلومات أولية إلى شبهات حول استدراجه إلى الشقة عقب مغادرته فندقاً في منطقة الروشة، وسط ترقب لوصول وفد أمني عراقي إلى بيروت للمشاركة في التحقيقات التي تشرف عليها شعبة المعلومات.",
-    "وكان العلواني من أبرز الوجوه السياسية في محافظة الأنبار ونائباً سابقاً عن القائمة العراقية، حيث عُرف بتأييده للاحتجاجات المناهضة لحكومة نوري المالكي. واعتُقل أواخر عام 2013 إثر مداهمة لمنزله في الرمادی وصدر بحقه حكم بالإعدام في 2014، قبل أن يُفرج عنه في أبريل/نيسان 2025 بموجب قانون العفو العام بعد أكثر من 11 عاماً في السجن."
    ]
   }
  ]
