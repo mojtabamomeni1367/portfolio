@@ -1,6 +1,78 @@
 {
- "count": 25,
+ "count": 27,
  "items": [
+  {
+   "id": "eisenkot-iran-policy-coalition-2026",
+   "date": "2026-11-26",
+   "countries": [
+    "IRN",
+    "ISR"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Eisenkot government: What would a coalition with Lieberman do on Iran?",
+     "summary": "Eisenkot and Lieberman’s pact has not formed a government; coalition arithmetic, the October 7 inquiry vote and an unsubstantiated Iran claim show the limits on policy change.",
+     "focus_keyword": "Eisenkot government",
+     "image": "",
+     "url": "analysis/eisenkot-iran-policy-coalition-2026-en.html"
+    },
+    "fa": {
+     "title": "ائتلاف آیزنکوت و لیبرمن؛ دولت آیزنکوت در برابر ایران چه موضعی دارد؟",
+     "summary": "توافق آیزنکوت و لیبرمن هنوز دولت تشکیل نداده است؛ ترکیب دشوار ائتلاف، رای تحقیق ۷ اکتبر و ادعای اثبات نشده درباره ایران، حدود تغییر سیاست خارجی را نشان می دهد.",
+     "focus_keyword": "دولت آیزنکوت",
+     "image": "",
+     "url": "analysis/eisenkot-iran-policy-coalition-2026-fa.html"
+    },
+    "ar": {
+     "title": "ائتلاف آيزنكوت وليبرمان: ما موقف حكومة آيزنكوت المقبلة من إيران؟",
+     "summary": "لم يؤد اتفاق آيزنكوت وليبرمان إلى تشكيل حكومة؛ وتكشف حسابات الائتلاف وتصويت التحقيق في 7 أكتوبر والادعاء غير المثبت بشأن إيران حدود التغيير المحتمل.",
+     "focus_keyword": "حكومة آيزنكوت",
+     "image": "",
+     "url": "analysis/eisenkot-iran-policy-coalition-2026-ar.html"
+    }
+   },
+   "added": "2026-11-26T08:59:04Z"
+  },
+  {
+   "id": "saudi-houthi-war-riyadh-jeddah-2026",
+   "date": "2026-11-26",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "topics": [
+    "mena-sa",
+    "security"
+   ],
+   "versions": {
+    "en": {
+     "title": "Saudi-Houthi war: From Riyadh’s PIF tower to the threat against Jeddah",
+     "summary": "The Riyadh tower attack, a warning against Jeddah and reported Houthi advances toward Aden connect urban security with Red Sea trade, while falling short of proving a sustained blockade.",
+     "focus_keyword": "Saudi-Houthi war",
+     "image": "",
+     "url": "analysis/saudi-houthi-war-riyadh-jeddah-2026-en.html"
+    },
+    "fa": {
+     "title": "جنگ عربستان و حوثی ها؛ از برج PIF در ریاض تا تهدید جده در ۲۵ نوامبر",
+     "summary": "حمله به برج ریاض، هشدار درباره جده و پیشروی به سمت عدن، فشار نظامی و اقتصادی بر عربستان را به هم پیوند می دهند؛ اما هنوز از محاصره پایدار خبر نمی دهند.",
+     "focus_keyword": "جنگ عربستان و حوثی ها",
+     "image": "",
+     "url": "analysis/saudi-houthi-war-riyadh-jeddah-2026-fa.html"
+    },
+    "ar": {
+     "title": "الحرب السعودية الحوثية: من برج صندوق الاستثمارات العامة في الرياض إلى تهديد جدة",
+     "summary": "يربط الهجوم على برج الرياض والتهديد لجدة والتقدم المعلن باتجاه عدن بين أمن المدن وتجارة البحر الأحمر، لكن هذه الوقائع لا تثبت قيام حصار مستدام.",
+     "focus_keyword": "الحرب السعودية الحوثية",
+     "image": "",
+     "url": "analysis/saudi-houthi-war-riyadh-jeddah-2026-ar.html"
+    }
+   },
+   "added": "2026-11-26T08:59:04Z"
+  },
   {
    "id": "hormuz-mines-maritime-war-2026",
    "date": "2026-11-25",
