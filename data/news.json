@@ -1,7 +1,458 @@
 {
- "updated": "2026-11-26T03:47:43Z",
- "count": 398,
+ "updated": "2026-11-26T17:14:59Z",
+ "count": 414,
  "items": [
+  {
+   "id": "ad5279f11e86",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+   "date": "2026-11-26T16:32:31Z",
+   "countries": [
+    "KWT"
+   ],
+   "score": 9,
+   "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+   "title_en": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+   "summary_en": "Two Italian technicians died in Kuwait after being struck by falling debris while authorities attempted to intercept incoming Iranian drones.",
+   "body_en": [
+    "Kuwait’s Ministry of Defence reported that the incident at a vital site also wounded two other workers, including a Kuwaiti and a Pakistani national. Italy's Ministry of Foreign Affairs confirmed the deaths of the citizens, who worked for the company Rheinmetall Italia at an air-defence surveillance station.",
+    "The Gulf Cooperation Council strongly condemned the attack, warning that continued Iranian targeting of vital facilities threatens regional security. Meanwhile, Iranian military officials denied involvement, dismissing the accusations as a false flag and a cover for regional instability."
+   ],
+   "title_fa": "کشته شدن دو ایتالیایی بر اثر «بقایای حمله پهپادی» در کویت",
+   "summary_fa": "دو تکنسین ایتالیایی در کویت بر اثر اصابت بقایای ناشی از تلاش مقامات برای رهگیری پهپادهای ورودی ایران جان باختند.",
+   "body_fa": [
+    "وزارت دفاع کویت گزارش داد که این حادثه در یک سایت حیاتی همچنین دو کارگر دیگر، از جمله یک تبعه کویتی و یک پاکستانی را زخمی کرد. وزارت امور خارجه ایتالیا مرگ شهروندان خود را که برای شرکت راین‌مِتال ایتالیا در یک ایستگاه نظارت پدافند هوایی کار می‌کردند، تایید کرد.",
+    "شورای همکاری خلیج فارس به شدت این حمله را محکوم کرد و هشدار داد که ادامه حملات ایران به تاسیسات حیاتی امنیت منطقه‌ای را تهدید می‌کند. در همین حال، مقامات نظامی ایران دخالت را رد کرده و این اراضی را پرچم دروغین و سرپوشی برای بی‌ثباتی منطقه‌ای خوانdند."
+   ],
+   "title_ar": "مقتل إيطاليين اثنين بـ \"حطام ضربة مسيرة\" في الكويت",
+   "summary_ar": "توفي تقنيان إيطاليان في الكويت جراء اصابتهما بحطام متساقط بينما كانت السلطات تحاول اعتراض طائرات مسيرة إيرانية واردة.",
+   "body_ar": [
+    "أفادت وزارة الدفاع الكويتية بأن الحادث الذي وقع في موقع حيوي أسفر أيضاً عن إصابة عاملين آخرين، أحدهما كويتي والآخر باكستاني. وأكدت وزارة الخارجية الإيطالية مقتل مواطنيها العاملين في شركة \"راينميتال إيطاليا\" في محطة مراقبة دفاع جوي.",
+    "أدان مجلس التعاون الخليجي الهجوم بشدة، محذراً من أن استمرار استهداف إيران للمرافق الحيوية يهدد الأمن الإقليمي. وفي الوقت نفسه، نفت المسؤولون العسكريون الإيرانيون تورطهم، معتبرين الاتهامات راية كاذبة وتغطية لعدم الاستقرار الإقليمي."
+   ]
+  },
+  {
+   "id": "609da5d9e772",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+   "date": "2026-11-26T15:55:15Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "score": 9,
+   "title": "Two dead after Iranian drone attack on Kuwait",
+   "title_en": "Two dead after Iranian drone attack on Kuwait",
+   "summary_en": "Kuwait's army announced that two Italian workers were killed and four others were injured following an Iranian drone attack on a vital site.",
+   "body_en": [
+    "According to Kuwait's military, the strike targeted a vital facility while forces successfully intercepted several other incoming drones during the incident."
+   ],
+   "title_fa": "دو کشته در پی حمله پهپادی ایران به کویت",
+   "summary_fa": "ارتش کویت اعلام کرد که در پی حمله پهپادی ایران به یک سایت حیاتی، دو کارگر ایتالیایی کشته و چهار تن دیگر زخمی شدند.",
+   "body_fa": [
+    "به گفته ارتش کویت، این حمله یک تاسیسات حیاتی را هدف قرار داد و نیروهای نظامی در جریان این حادثه چندین پهپاد ورودی دیگر را با موفقیت رهگیری کردند."
+   ],
+   "title_ar": "قتيلان إثر هجوم بطائرة مسيرة إيرانية على الكويت",
+   "summary_ar": "أعلن الجيش الكويتي مقتل عاملين إيطاليين وإصابة أربعة آخرين إثر هجوم بطائرة مسيرة إيرانية استهدف موقعاً حيوياً.",
+   "body_ar": [
+    "وفقاً للجيش الكويتي، استهدف الهجوم منشأة حيوية بينما نجحت القوات في اعتراض عدة طائرات مسيرة أخرى واردة خلال الحادث."
+   ]
+  },
+  {
+   "id": "6bea022519c4",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+   "date": "2026-11-26T15:45:59Z",
+   "countries": [
+    "EGY",
+    "PSE",
+    "QAT"
+   ],
+   "score": 8,
+   "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+   "title_en": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+   "summary_en": "Qatari Emir Sheikh Tamim bin Hamad Al Thani and Egyptian President Abdel Fattah el-Sisi held talks in Cairo addressing regional tensions, bilateral ties, and ongoing efforts to implement the Gaza ceasefire.",
+   "body_en": [
+    "During the official visit, the two leaders stressed the importance of prioritizing political dialogue to prevent widening tensions that could threaten regional and international security. President el-Sisi outlined Egypt's diplomatic efforts regarding the Gaza ceasefire, emphasizing the need for humanitarian aid delivery and the commencement of reconstruction programmes.",
+    "The discussions also touched upon strengthening economic cooperation and political coordination between Doha and Cairo. Senior officials, including the Qatari prime minister and foreign minister, participated in the meetings."
+   ],
+   "title_fa": "رهبران قطر و مصر درباره «آتش‌بس» غزه و امنیت منطقه‌ای گفتگو کردند",
+   "summary_fa": "امیر قطر و رئیس‌جمهور مصر طی دیداری در قاهره پیرامون تنش‌های منطقه‌ای، روابط دوجانبه و تلاش‌های جاری برای اجرای آتش‌بس در غزه گفتگو کردند.",
+   "body_fa": [
+    "در جریان این سفر رسمی، دو رهبر بر اهمیت اولویت دادن به گفتگوی سیاسی برای جلوگیری از گسترش تنش‌هایی که می‌تواند امنیت منطقه‌ای و بین‌المللی را تهدید کند، تأکید کردند. رئیس‌جمهور مصر تلاش‌های دیپلماتیک این کشور در خصوص آتش‌بس غزه را تشریح کرد و بر لزوم ارسال کمک‌های بشردوستانه و آغاز برنامه‌های بازسازی تأکید نمود.",
+    "این گفتگوها همچنین شامل تقویت همکاری‌های اقتصادی و هماهنگی سیاسی میان دو کشور بود. مقام‌های ارشد از جمله نخست‌وزیر و وزیر خارجه قطر نیز در این دیدارها حضور داشتند."
+   ],
+   "title_ar": "زعماء قطر ومصر يبحثون “وقف إطلاق النار” في غزة والأمن الإقليمي",
+   "summary_ar": "بحث أمير قطر الشيخ تميم بن حمد آل ثاني والرئيس المصري عبد الفتاح السيسي في القاهرة التوترات الإقليمية والعلاقات الثنائية والجهود الجارية لتنفيذ وقف إطلاق النار في غزة.",
+   "body_ar": [
+    "خلال الزيارة الرسمية، أكد الزعيمان أهمية إعطاء الأولوية للحوار السياسي لمنع اتساع التعهدات التي قد تهدد الأمن الإقليمي والدولي. واستعرض الرئيس المصري جهود بلاده الدبلوماسية بشأن وقف إطلاق النار في غزة، مشدداً على ضرورة إيصال المساعدات الإنسانية وبدء برامج إعادة الإعمار.",
+    "وتناولت المحادثات أيضاً سبل تعزيز التعاون الاقتصادي والتنسيق السياسي بين الدوحة والقاهرة، بمشاركة كبار المسؤولين من الجانبين من بينهم رئيس مجلس الوزراء وزير الخارجية القطري."
+   ]
+  },
+  {
+   "id": "797013c4f133",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+   "date": "2026-11-26T15:23:25Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 6,
+   "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
+   "title_en": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
+   "summary_en": "Israeli settlers set fire to a Palestinian vehicle in the occupied West Bank, as Israeli judges recommend prosecutors end the corruption case against Benjamin Netanyahu.",
+   "body_en": [
+    "Israeli settlers carried out an arson attack on a Palestinian vehicle in the occupied West Bank. Meanwhile, legal developments in Israel involved judges recommending that prosecutors drop the ongoing corruption case against Benjamin Netanyahu."
+   ],
+   "title_fa": "اورشلیم دیلی: شهرک‌نشینان اسرائیلی خودروی یک فلسطینی را به آتش کشیدند",
+   "summary_fa": "شهرک‌نشینان اسرائیلی در کرانه باختری خودروی یک فلسطینی را به آتش کشیدند و همزمان قضات اسرائیلی پیشنهاد دادند پرونده فساد بنیامین نتانیاهو بسته شود.",
+   "body_fa": [
+    "شهرک‌نشینان اسرائیلی در کرانه باختری اشغالی اقدام به آتش زدن یک خودروی فلسطینی کردند. در همین حال، تحولات حقوقی در اسرائیل نشان می‌دهد که قضات از دادستان‌ها خواسته‌اند پرونده فساد مالی بنیامین نتانیاهو را خاتمه دهند."
+   ],
+   "title_ar": "قدس ديلي: مستوطنون إسرائيليون يحرقون مركبة فلسطينية",
+   "summary_ar": "أضرم مستوطنون إسرائيليون النيران في مركبة فلسطينية بالضفة الغربية المحتلة، بالتزامن مع توصية قضاة إسرائيليين النيابة بإنهاء قضية الفساد ضد بنيامين نتنياهو.",
+   "body_ar": [
+    "أقدم مستوطنو إسرائيليون على إحراق مركبة فلسطينية في الضفة الغربية المحتلة. وفي غضون ذلك، أوصى قضاة إسرائيليون النيابة العامة بإغلاق قضية الفساد الموجهة ضد بنيامين نتنياهو."
+   ]
+  },
+  {
+   "id": "46fc496c9211",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+   "date": "2026-11-26T14:17:21Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 8,
+   "title": "Can Trump continue with Iran war despite funding restrictions?",
+   "title_en": "Can Trump continue with Iran war despite funding restrictions?",
+   "summary_en": "As US Democrats push to use an upcoming government funding deadline to restrict military operations against Iran, questions arise over Donald Trump's executive authority and ability to sustain the war.",
+   "body_en": [
+    "With federal funding set to expire, lawmakers are negotiating a bipartisan package, with some Democrats demanding an explicit ban on funds for offensive operations in Iran. Analysts note that while such restrictions could pose a serious institutional constraint, President Trump retains significant constitutional powers and existing Pentagon resources to continue operations for some time.",
+    "Past historical precedents, such as funding battles during the Vietnam and Iraq wars, highlight the ongoing tension between congressional power of the purse and presidential war-making authority."
+   ],
+   "title_fa": "آیا ترامپ می‌تواند علیرغم محدودیت‌های بودجه‌ای به جنگ با ایران ادامه دهد؟",
+   "summary_fa": "در حالی که دموکرات‌های آمریکا تلاش می‌کنند از مهلت پیش روی بودجه دولت برای محدود کردن عملیات نظامی علیه ایران استفاده کنند، پرسش‌هایی درباره اختیار اجرایی دونالد ترامپ و توانایی او برای تداوم جنگ مطرح شده است.",
+   "body_fa": [
+    "با نزدیک شدن به موعد انقضای بودجه فدرال، قانون‌گذاران در حال مذاکره برای دستیابی به یک بسته دوحزبی هستند و برخی از دموکرات‌ها خواستار ممنوعیت صریح استفاده از بودجه برای عملیات تهاجمی در ایران شده‌اند. تحلیلگران خاطرنشان می‌کنند که اگرچه چنین محدودیت‌هایی می‌تواند یک محدودیت نهادی جدی ایجاد کند، اما رئیس‌جمهور ترامپ همچنان از اختیارات اساسی قابل توجهی و منابع موجود پنتاگون برای ادامه عملیات برخوردار است.",
+    "تجربه‌های تاریخی گذشته، مانند نبردهای بودجه‌ای در طول جنگ‌های ویتنام و عراق، تنش مداوم میان قدرت مالی کنگره و اختیار جنگ‌افروزی رئیس‌جمهور را برجسته می‌کند."
+   ],
+   "title_ar": "هل يستطيع ترامب مواصلة الحرب مع إيران رغم قيود التمويل؟",
+   "summary_ar": "بينما يدفع الديمقراطيون الأمريكيون لاستخدام الموعد النهائي القادم لتمويل الحكومة لتقييد العمليات العسكرية ضد إيران، تثار تساؤلات حول سلطة دونالد ترامب التنفيذية وقدرته على مواصلة الحرب.",
+   "body_ar": [
+    "مع اقتراب انتهاء صلاحية التمويل الفدرالي، يتفاوض المشرعون بشأن حزمة تمويل توافقية، حيث يطالب بعض الديمقراطيين بحظر صريح لاستخدام الأموال في العمليات الهجومية ضد إيران. ويشير المحللون إلى أنه في الوقت الذي قد تشكل فيه هذه القيود قيداً مؤسسياً خطيراً، يحتفظ الرئيس ترامب بصلاحيات دستورية كبيرة وبموارد البنتاغون الحالية لمواصلة العمليات لبعض الوقت.",
+    "وتسلط السوابق التاريخية الماضية، مثل معارك التمويل خلال حربي فيتنام والعراق، الضوء على التوتر المستمر بين صلاحية الكونغرس في تخصيص الأموال وسلطة الرئيس في خوض الحروب."
+   ]
+  },
+  {
+   "id": "2b6b03d4149e",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047228/makkah-pact-nations-to-discuss-conflict-between-saudi-arabia-and-yemens-houthis-in-islamabad-meeting-asif-says",
+   "date": "2026-11-26T14:13:51Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says",
+   "title_en": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says",
+   "summary_en": "Defence ministers and other officials from the Makkah pact nations will meet in Islamabad to discuss regional security, including the conflict between Saudi Arabia and Yemen's Houthis.",
+   "body_en": [
+    "Pakistani Defence Minister Khawaja Asif announced that the ongoing turmoil south of Saudi Arabia would be a primary agenda item during Thursday's meeting, which includes representatives from the Gulf kingdom, Turkiye, and Pakistan. The mutual defence agreement was signed in August to provide assistance in the event of an attack, though Asif noted the pact remains at a nascent stage.",
+    "Asif also highlighted potential threats from Israel and discussed Pakistan's diplomatic efforts to mediate between Washington and Tehran, noting that regional peace following the collapse of a previous truce remains fragile."
+   ],
+   "title_fa": "به گفته عاصف، کشورهای پیمان مکه در نشست اسلام‌آباد درباره درگیری عربستان و حوثی‌های یمن گفتگو خواهند کرد",
+   "summary_fa": "وزاری دفاع و سایر مقامات کشورهای عضو پیمان مکه برای گفتگو درباره امنیت منطقه‌ای، از جمله درگیری میان عربستان سعودی و حوثی‌های یمن، در اسلام‌آباد دیدار خواهند کرد.",
+   "body_fa": [
+    "خواجه آصف، وزیر دفاع پاکستان، اعلام کرد که ناآرامی‌های جاری در جنوب عربستان سعودی یکی از دستور کارهای اصلی نشست روز پنجشنبه خواهد بود که شامل نمایندگانی از پادشاهی خلیج فارس، ترکیه و پاکستان است. این توافق دفاعی متقابل در ماه اوت برای ارائه کمک در صورت بروز حمله امضا شد، هرچند آصف خاطرنشان کرد که این پیمان همچنان در مرحله نوزادی و نوپا است.",
+    "آصف همچنین به تهدیدات احتمالی از سوی اسرائیل اشاره کرد و درباره تلاش‌های دیپلماتیک پاکستان برای میانجیگری بین واشنگتن و تهران صحبت کرد و یادآور شد که صلح منطقه‌ای پس از فروپاشی آتش‌بس قبلی همچنان شکننده است."
+   ],
+   "title_ar": "آسف يقول إن دول ميثاق مكة ستناقش الصراع بين السعودية والحوثيين اليمنيين في اجتماع إسلام آباد",
+   "summary_ar": "سيعتمع وزراء الدفاع وغيرهم من مسؤولي دول ميثاق مكة في إسلام آباد لمناقشة الأمن الإقليمي، بما في ذلك الصراع بين السعودية والحوثيين في اليمن.",
+   "body_ar": [
+    "أعلن وزير الدفاع الباكستاني خواجه آف أن الاضطرابات المستمرة جنوب السعودية ستكون على رأس جدول أعمال اجتماع يوم الخميس، والذي يضم ممثلين عن المملكة الخليجية وتركيا وباكستان. وقد تم توقيع اتفاقية الدفاع المشترك في أغسطس لتقديم المساعدات في حال وقوع أي هجوم، رغم أن آشف أشار إلى أن الميثاق لا يزال في مرحلته الناشئة.",
+    "كما سلط آشف الضوء على التهديدات المحتملة من جانب إسرائيل وناقش جهود باكستان الدبلوماسية للوساطة بين واشنگتن وطهران، مشيراً إلى أن السلام الإقليمي لا يزال هشاً بعد انهيار هدنة سابقة."
+   ]
+  },
+  {
+   "id": "4856b8008242",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+   "date": "2026-11-26T12:28:31Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+   "title_en": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+   "summary_en": "Israel's defence minister threatened to forcibly displace one million Palestinians from Gaza if Hamas fails to voluntarily surrender its weapons.",
+   "body_en": [
+    "The warning was issued by Israel's defence minister on Thursday, linking the mass displacement threat directly to the demand for Hamas to disarm as previously promised."
+   ],
+   "title_fa": "اسرائیل تهدید کرد در صورت خلع سلاح نشدن حماس، یک میلیون فلسطینی را در غزه آواره می‌کند",
+   "summary_fa": "وزیر دفاع اسرائیل تهدید کرد در صورتی که حماس داوطلبانه سلاح‌های خود را تحویل ندهد، یک میلیون فلسطینی در غزه به اجبار آواره خواهند شد.",
+   "body_fa": [
+    "این هشدار روز پنجشنبه توسط وزیر دفاع اسرائیل صادر شد و تهدید به آوارگی جمعی را مستقیماً به درخواست خلع سلاح حماس، همان‌طور که پیش‌تر وعده داده شده بود، مرتبط ساخت."
+   ],
+   "title_ar": "إسرائيل تهدد بتجريب مليون فلسطيني في غزه ما لم تتخلى حماس عن سلاحها",
+   "summary_ar": "هدد وزير الدفاع الإسرائيلي بتهجير مليون فلسطيني قسراً من غزة إذا لم تقم حماس بتسليم أسلحتها طواعية.",
+   "body_ar": [
+    "صدر هذا التحذير عن وزير الدفاع الإسرائيلي يوم الخميس، رابطاً التهديد بالتهجير الجماعي بشكل مباشر بمطالبة حماس بنزع السلاح كما وعدت سابقاً."
+   ]
+  },
+  {
+   "id": "1fc85f46c817",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:14:08Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 9,
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "title_en": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "summary_en": "A Hamas political official and his wife were among eight Palestinians killed in a series of Israeli air strikes across the Gaza Strip on Thursday.",
+   "body_en": [
+    "Local and medical sources reported that strikes targeted areas including Deir al-Balah, Gaza City, and the Shati refugee camp, killing several figures including deputy education minister Khaled Abu Nada. Israeli Prime Minister Benjamin Netanyahu confirmed the death in a post on X, stating that approximately 80 Hamas officials have been killed over the past month.",
+    "The ongoing conflict in Gaza has continued despite a previous ceasefire, with the death toll rising significantly since hostilities began following the October 7, 2023 attacks."
+   ],
+   "title_fa": "یک مقام سیاسی حماس و همسرش در میان هشت فلسطینی کشته شده در حملات اسرائیل به غزه",
+   "summary_fa": "یک مقام سیاسی حماس و همسرش در جریان سلسله حملات هوایی اسرائیل به نوار غزه در روز پنجشنبه در میان هشت فلسطینی کشته شده بودند.",
+   "body_fa": [
+    "منابع محلی و پزشکی گزارش دادند که حملاتی مناطق از جمله دیرالبلح، غزه و اردوگاه آوارگان الشاطئ را هدف قرار داد و چندین چهره از جمله خالد ابوندا، معاون وزیر آموزش و پرورش را به کشتن داد. بنیامین نتانیاهو، نخست‌وزیر اسرائیل، این مرگ را در پیامی در شبکه اجتماعی اکس تایید کرد و اظهار داشت که حدود ۸۰ مقام حماس در ماه گذشته کشته شده‌اند.",
+    "درگیری‌های جاری در غزه با وجود آتش‌بس پیشین ادامه یافته و تلفات جانی از زمان آغاز خصومت‌ها پس از حملات ۷ اکتبر ۲۰۲۳ به طور چشمگیری افزایش یافته است."
+   ],
+   "title_ar": "مسؤول سياسي في حماس وزوجته بين ثمانية فلسطينيين قتلى في غارات إسرائيلية على غزة",
+   "summary_ar": "كان مسؤول سياسي في حماس وزوجته من بين ثمانية فلسطينيين قتلوا في سلسلة غارات جوية إسرائيلية عبر قطاع غزة يوم الخميس.",
+   "body_ar": [
+    "أفادت مصادر محلية وطبية أن الغارات استهدفت مناطق تشمل دير البلح ومدينة غزة ومخيم الشاطئ للاجئين، مما أسفر عن مقتل عدة شخصيات بينهم نائب وزير التعليم خالد أبو نداء. وأكد رئيس الوزراء الإسرائيلي بنيامين نتنياهو مقتله في منشور على منصة إكس، مشيراً إلى مقتل نحو 80 مسؤولاً في حماس خلال الشهر الماضي.",
+    "استمر النزاع المستمر في غزة على الرغم من اتفاق وقف إطلاق النار السابق، مع ارتفاع حصيلة الوفيات بشكل ملحوظ منذ بدء الأعمال العدائية عقب هجمات 7 أكتوبر 2023."
+   ]
+  },
+  {
+   "id": "061fa5db5644",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+   "date": "2026-11-26T10:00:52Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+   "title_en": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+   "summary_en": "A report by the Public Committee Against Torture in Israel states that the Israeli legal system has institutionalized torture during Shin Bet interrogations to extract confessions from Palestinian detainees.",
+   "body_en": [
+    "The report examined 42 complaints from the past decade, finding that the majority of detainees confessed following illegal methods such as extreme sleep deprivation, stress positions, and physical abuse. It also warned that this practice comes amid moves to implement the death penalty for Palestinians.",
+    "Rights groups have documented severe worsening of detention conditions and rising violence since October 2023, with numerous deaths reported in custody. Israeli prison and security authorities maintain that prisoners are held in accordance with the law."
+   ],
+   "title_fa": "یک گزارش نتیجه‌گیری کرد که اسرائیل شکنجه زندانیان فلسطینی برای اخذ اعتراف را «رسماً مجاز می‌داند»",
+   "summary_fa": "گزارشی از سوی کمیته عمومی علیه شکنجه در اسرائیل اعلام کرد که سیستم حقوقی اسرائیل شکنجه را در جریان بازجویی‌های شاباک برای اخذ اعتراف از بازداشت‌شدگی فلسطینی نهادینه کرده است.",
+   "body_fa": [
+    "این گزارش ۴۲ شکایت مربوط به دهه گذشته را بررسی کرده و دریافت که اکثریت بازداشت‌شدگان پس از استفاده از روش‌های غیرقانونی مانند محرومیت شدید از خواب، موقعیت‌های استرس‌زا و آزار جسمی اعتراف کرده‌اند. این گزارش همچنین هشدار داد که این رویه در پس‌زمینه تلاش‌ها برای اجرای مجازات اعدام برای فلسطینیان رخ می‌دهد.",
+    "گروه‌های مدافع حقوق بشر از وخامت شدید شرایط بازداشت و افزایش خشونت‌ها از اکتبر ۲۰۲۳ خبر داده و به ثبت موارد متعدد مرگ در بازداشتگاه‌ها اشاره کرده‌اند. مقامات زندان و امنیتی اسرائیل تأکید می‌کنند که زندانیان مطابق با قانون نگهداری می‌شوند."
+   ],
+   "title_ar": "تقرير يخلص إلى أن إسرائيل «ترخص رسمياً» تعذيب الأسرى الفلسطينيين انتزاعاً للاعترافات",
+   "summary_ar": "ذكر تقرير صادر عن اللجنة العامة لمناهضة التعذيب في إسرائيل أن النظام القانوني الإسرائيلي قد أضفى طابعاً مؤسسياً على التعذيب خلال تحقيقات الشاباك لانتزاع اعترافات من المعتقلين الفلسطينيين.",
+   "body_ar": [
+    "فحص التقرير 42 شكوى من العقد الماضي، وخلص إلى أن غالبية المعتقلين اعترفوا تحت تأثير أساليب غير قانونية مثل حرمان النوم الشديد وأوضاع الضغط الجسدي والعنف. وحذر التقرير أيضاً من أن هذه الممارسات تتزامن مع تحركات لتطبيق عقوبة الإعدام بحق الفلسطينيين.",
+    "ووثقت منظمات حقوقية تدهوراً حاداً في ظروف الاعتقال وتصاعد العنف منذ أكتوبر 2023، مع تسجيل حالات وفاة عديدة في الاحتجاز. وفي المقابل، تؤكد سلطات السجون والأمن الإسرائيلية أن جميع الأسرى محتجزون وفقاً للقانون."
+   ]
+  },
+  {
+   "id": "8f65b8b00cdb",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047181/security-forces-kill-12-india-sponsored-terrorists-in-multiple-ibos-in-balochistan-ispr",
+   "date": "2026-11-26T07:38:08Z",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 7,
+   "title": "Security forces kill 12 India-sponsored terrorists in multiple IBOs in Balochistan: ISPR",
+   "title_en": "Security forces kill 12 India-sponsored terrorists in multiple IBOs in Balochistan: ISPR",
+   "summary_en": "Pakistan's military media wing announced that security forces killed 12 terrorists during intelligence-based operations in Balochistan between November 20 and 23.",
+   "body_en": [
+    "According to the Inter-Services Public Relations (ISPR), security forces targeted a terrorist hideout in Nushki district on November 20, killing eight members of the group designated as Fitna-al-Hindustan. Additional operations in Sibi, Panjgur, and Kech districts between November 21 and 23 resulted in the deaths of four more terrorists.",
+    "President Asif Ali Zardari praised the security operations and emphasized that the elimination of foreign-backed terrorists is essential for national security. The ISPR stated that counterterrorism operations under the \"Azm-i-Istehkam\" vision will continue across the country."
+   ],
+   "title_fa": "نیروهای امنیتی پاکستان ۱۲ تروریست وابسته به هند را در بلوچستان کشتند",
+   "summary_fa": "بخش رسانه‌ای ارتش پاکستان اعلام کرد که نیروهای امنیتی این کشور طی عملیات‌های اطلاعاتی در بلوچستان ۱۲ تروریست را کشتند.",
+   "body_fa": [
+    "به گفته روابط عمومی بین‌الملل ارتش پاکستان (ISPR)، نیروهای امنیتی در تاریخ ۲۰ نوامبر طی عملیاتی در منطقه نوشکی هشت تروریست وابسته به گروه موسوم به «فتنة الهندستان» را از پا درآوردند. عملیات‌های دیگر در مناطق سبی، پنجگور و کیچ بین ۲۱ تا ۲۳ نوامبر به کشته شدن چهار تروریست دیگر منجر شد.",
+    "آصف علی زرداری، رئیس‌جمهور پاکستان، از این عملیات‌ها تمجید کرد و بر لزوم نابودی تروریست‌های تحت حمایت خارجی تاکید نمود. روابط عمومی ارتش نیز اعلام کرد که کمپین مبارزه با تروریسم تحت چشم‌انداز «عزم استحکام» در سراسر کشور ادامه خواهد یافت."
+   ],
+   "title_ar": "القوات الأمنية الباكستانية تقتل 12 مسلماً مدعومين من الهند في بلوشستان",
+   "summary_ar": "أعلن الجناح الاعلامي للجيش الباكستاني أن قوات الأمن قتلت 12 مسلحاً خلال عمليات استخباراتية في بلوشستان بين 20 و23 نوفمبر.",
+   "body_ar": [
+    "وفقاً للعلاقات العامة العسكرية (ISPR)، استهدفت قوات الأمن مخبأً للمسلحين في منطقة نوشكي في 20 نوفمبر، مما أسفر عن مقتل ثمانية أشخاص ينتمون إلى مجموعة تحمل تسمية \"فتنة الهندستان\". وأسفرت عمليات أخرى في مناطق سبي وبنججور وكيتش بين 21 و23 نوفمبر عن مقتل أربعة مسلحين آخرين.",
+    "أشاد الرئيس أسف علي زرداري بالعمليات الأمنية، مؤكداً أن القضاء على المسلحين المدعومين من الخارج أمر ضروري للأمن القومي. وذكرت العلاقات العامة العسكرية أن حملة مكافحة الإرهاب ستستمر في جميع أنحاء البلاد."
+   ]
+  },
+  {
+   "id": "d93ff0ec732c",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cqj9m381jeyxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:18:29Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "پالایشگاه‌های چین بدون نفت ایران چه می‌کنند؟",
+   "title_en": "How China's refineries are adapting without Iranian oil",
+   "summary_en": "Following US maritime blockades and restrictions on Iranian oil exports, small independent Chinese refineries have shifted to alternative suppliers such as Iraq.",
+   "body_en": [
+    "Independent Chinese refineries, known as teapots, previously relied heavily on discounted Iranian crude, which accounted for roughly 12 percent of China's total crude imports in 2025 according to Kpler data. However, renewed US maritime blockades cut off fresh shipments, depleting floating storage by mid-October.",
+    "In response, these refineries have increased purchases from other nations, particularly acquiring millions of barrels of Iraqi crude, such as Basra Medium and Basra Heavy, through international traders like Mercuria. While alternatives like Russian ESPO oil have grown too expensive due to high premiums, Iraqi oil has emerged as a more affordable option despite logistical adjustments."
+   ],
+   "title_fa": "پالایشگاه‌های چین بدون نفت ایران چه می‌کنند؟",
+   "summary_fa": "پالایشگاه‌های مستقل کوچک چین به دنبال محدودیت‌های صادرات نفت ایران ناشی از محاصره دریایی آمریکا، به تامین‌کنندگان جایگزین مانند عراق روی آورده‌اند.",
+   "body_fa": [
+    "پالایشگاه‌های مستقل کوچک چین که به «قوری» شهرت دارند، پیش‌تر به‌طور گسترده‌ای به نفت تخفیف‌دار ایران متکی بودند؛ به طوری که بر اساس داده‌های کپلر، نفت ایران در سال ۲۰۲۵ حدود ۱۲ درصد کل واردات نفت خام چین را تشکیل می‌داد. با این حال، محاصره دریایی آمریکا محموله‌های تازه را قطع کرد و ذخایر شناور تا اواسط اکتبر به پایان رسید.",
+    "در واکنش به این وضعیت، این پالایشگاه‌ها خریدهای خود از کشورهای دیگر را افزایش داده و از طریق معامله‌گران بین‌المللی میلیون‌ها بشکه نفت عراق مانند بصره متوسط و سنگین را خریداری کرده‌اند. در حالی که گزینه‌هایی مانند نفت اسپوی روسیه به دلیل اضافه‌بهای بالا گران‌تر شده‌اند، نفت عراق به رغم نیاز به تنظیمات لجستیکی به گزینه‌ای ارزان‌تر تبدیل شده است."
+   ],
+   "title_ar": "كيف تتكيف مصافي النفط الصينية بدون النفط الإيراني؟",
+   "summary_ar": "عقب الحصار البحري الأمريكي والقيود المفروضة على صادرات النفط الإيراني، تحولت المصافي الصينية المستقلة الصغيرة إلى موردين بديلين مثل العراق.",
+   "body_ar": [
+    "اعتمدت المصافي الصينية المستقلة، المعروفة بالمصافي المستقلة، سابقاً بشكل كبير على النفط الإيراني المخفض، والذي شكل نحو 12 بالمائة من إجمالي واردات الصين من النفط الخام في عام 2025 وفقاً لبيانات شركة كبلر. غير أن الحصار البحري الأمريكي أدى إلى قطع الشحنات الجديدة واستنفاد المخزونات العائمة بحلول منتصف أكتوبر.",
+    "استجابة لذلك، زادت هذه المصافي مشترياتها من دول أخرى، لا سيما شراء ملايين البراميل من النفط العراقي مثل برسب المتوسط والثقيل عبر تجار دوليين. وفي حين أصبحت خيارات أخرى مثل النفط الروسي باهظة الثمن بسبب العلاوات المرتفعة، برز النفط العراقي خياراً أكثر تكلفة معقولة رغم التعديلات اللوجستية."
+   ]
+  },
+  {
+   "id": "b40b65aefab9",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T06:01:58Z",
+   "countries": [
+    "IRN"
+   ],
+   "score": 7,
+   "title": "Desperate appeals from women on death row in Iran after protests",
+   "title_en": "Desperate appeals from women on death row in Iran after protests",
+   "summary_en": "Human rights groups and UN rapporteurs report a sharp rise in politically motivated death sentences against women following the January protests in Iran.",
+   "body_en": [
+    "According to UN human rights rapporteur Mai Sato, six women have been sentenced to death this year in connection with the January protests. Among them are twins Taraneh and Romina, arrested after joining anti-government demonstrations in Isfahan, with Taraneh sentenced to death for moharebeh after allegedly signing a confession under torture.",
+    "Other women, including civil engineer Mahboubeh Shabani, Najmeh Amini, and Mojdeh Hashemi Bazargani, are also facing execution on charges ranging from espionage to blasphemy. The Iranian Embassy in London rejected allegations of torture and stated that death sentences were issued for criminal acts such as intentional murder and moharebeh."
+   ],
+   "title_fa": "درخواست‌های دندان‌شکن زنان محکوم به اعدام در ایران پس از اعتراضات",
+   "summary_fa": "گروه‌های حقوق بشری و گزارشگر سازمان ملل از افزایش چشمگیر احکام اعدام با انگیزه‌های سیاسی علیه زنان پس از اعتراضات دی‌ماه در ایران خبر می‌دهند.",
+   "body_fa": [
+    "به گفته مای ساتو، گزارشگر حقوق بشر سازمان ملل برای ایران، شش زن امسال در ارتباط با اعتراضات دی‌ماه به اعدام محکوم شده‌اند. در میان آن‌ها ترانه و رومینا، دو خواهر دوقلو حضور دارند که پس از شرکت در اعتراضات اصفهان بازداشت شدند و ترانه به اتهام محاربه به اعدام محکوم شده است؛ حکمی که خانواده‌اش می‌گویند پس از اعتراف تحت شکنجه صادر شده است.",
+    "زنان دیگر از جمله محبوبه شعبانی، مهندس عمران، نجمه امینی و مژده هاشمی بازرگانی نیز با اتهاماتی نظیر جاسوسی و سب‌النبی با خطر اعدام روبه‌رو هستند. سفارت ایران در لندن ازمایش شکنجه را رد کرده و اعلام کرده است که احکام اعدام برای جرایمی مانند قتل عمد و محاربه صادر شده‌اند."
+   ],
+   "title_ar": "نداءات يائسة من نساء محكوم عليهن بالإعدام في إيران بعد الاحتجاجات",
+   "summary_ar": "أفادت منظمات حقوقية ومقررون أمميون بحدوث ارتفاع حاد في أحكام الإعدام ذات الدوافع السياسية ضد النساء في أعقاب الاحتجاجات الإيرانية.",
+   "body_ar": [
+    "وفقاً لمقررة الأمم المتحدة لحقوق الإنسان في إيران ماي ساتو، حكم على ست نساء بالإعدام هذا العام على خلفية احتجاجات يناير. ومن بينهن التوأمان ترانة ورومينا، اللتان أُعتقلتا بعد مشاركتهما في المظاهرات في أصفهان، حيث حُكم على ترانة بالإعدام بتهمة الحرابة بعد انتزاع اعترافات تحت التعذيب وفقاً لمصادر.",
+    "وتواجه نساء أخرى الإعدام أيضاً، من بينهن المهندسة المدنية محبوبة شعباني ونجمه أميني وموجدة هاشمي بازركاني، بتهامات تراوح بين التجسس وازدراء الأديان. وقد رفضت السفارة الإيرانية في لندن مزاعم التعذيب مؤكدة أن أحكام الإعدام صدرت بحق مدانين بجرائم جنائية كالقتل العمد والحرابة."
+   ]
+  },
+  {
+   "id": "30a93909dfd1",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.co.uk/persian/live/cmy0ewzx334nt?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T03:34:39Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 8,
+   "title": "انفجار یک نفتکش در نزدیکی سواحل دوبی همزمان با حملات سنگین متقابل عربستان و حوثی‌ها",
+   "title_en": "Oil tanker explosion near Dubai coast amid heavy mutual attacks between Saudi Arabia and Houthis",
+   "summary_en": "An oil tanker caught fire off the coast of Oman following a reported sea mine blast, while regional tensions escalated with attacks involving Saudi Arabia and the Houthis.",
+   "body_en": [
+    "The IRGC Navy reported that two tankers were damaged after striking marine mines north of Khasab, Oman, with one supertanker carrying over two million barrels of crude left burning. Meanwhile, the Saudi-led coalition reported a Houthi drone or attack on the Jizan refinery in southwestern Saudi Arabia.",
+    "The developments occurred alongside other regional incidents, including drone interceptions in Kuwait involving foreign contractors and ongoing disputes between Baghdad and the Kurdistan Region regarding oil management."
+   ],
+   "title_fa": "انفجار یک نفتکش در نزدیکی سواحل دوبی همزمان با حملات سنگین متقابل عربستان و حوثی‌ها",
+   "summary_fa": "یک نفتکش در پی گزارش انفجار مین دریایی در آب‌های عمان دچار آتش‌سوزی شد و همزمان تنش‌های منطقه‌ای با حملات مرتبط با عربستان و حوثی‌ها افزایش یافت.",
+   "body_fa": [
+    "نیروی دریایی سپاه پاسداران گزارش داد که دو نفتکش پس از برخورد با مین‌های دریایی در شمال خصب عمان آسیب دیدند و یکی از آن‌ها که حامل بیش از دو میلیون بشکه نفت خام بود، در حال سوختن رها شد. در همین حال، ائتلاف تحت رهبری عربستان از حمله حوثی‌ها به پالایشگاه جازان در جنوب غربی عربستان خبر داد.",
+    "این تحولات همزمان با رویدادهای دیگر منطقه‌ای از جمله رهگیری پهپادها در کویت و اختلاف میان بغداد و اقلیم کردستان بر سر مدیریت نفت رخ داد."
+   ],
+   "title_ar": "انفجار ناقلة نفط قرب سواحل دبي بالتزامن مع هجمات متبادلة عنيفة بين السعودية والحوثيين",
+   "summary_ar": "اندلعت النيران في ناقلة نفط قبالة سواحل عمان إثر بلاغ عن انفجار لغم بحري، بالتزامن مع تصاعد التوترات الإقليمية وهجمات شملت السعودية والحوثيين.",
+   "body_ar": [
+    "أفادت بحرية الحرس الثوري بتعرض ناقلتي نفط لأضرار إثر اصطدامهما بألغام بحرية شمال خصب في عمان، حيث أُتركت ناقلة عملاقة تحمل أكثر من مليوني بشميل من النفط الخام تحترق. وفي غضون ذلك، أعلن التحالف بقيادة السعودية عن هجوم حوثي استهدف مصفاة جازان جنوب غرب السعودية.",
+    "وجاءت هذه التطورات بالتزامن مع أحداث إقليمية أخرى شملت اعتراض طائرات مسيرة في الكويت ونزاعات مستمرة بين بغداد وإقليم كردستان بشأن إدارة النفط."
+   ]
+  },
+  {
+   "id": "c97da64d7400",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047123/israeli-strike-kills-hamas-official-wife-and-daughters",
+   "date": "2026-11-26T02:35:03Z",
+   "countries": [
+    "EGY",
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli strike kills Hamas official, wife and daughters",
+   "title_en": "Israeli strike kills Hamas official, wife and daughters",
+   "summary_en": "An Israeli air strike in the Gaza Strip has killed a senior Hamas security official along with his wife and two daughters.",
+   "body_en": [
+    "The strike targeted the apartment of Mohammad Abuelouf, a Hamas colonel heading the internal security service in northern Gaza, in the Beach refugee camp. The Israeli military confirmed the operation, describing Abuelouf as a key figure who restricted military operations, marking the second killing of a senior Hamas security official in two days following the death of Naeem Abu Nahel.",
+    "Meanwhile, Amnesty International accused Israel of preventing births in Gaza and called for an international investigation into potential genocide, while UN human rights chief Volker Turk warned of a widening risk of atrocities in the Palestinian territories."
+   ],
+   "title_fa": "حمله اسرائیل یک مقام حماس، همسر و دخترانش را کشت",
+   "summary_fa": "یک حمله هوایی اسرائیل در نوار غزه، یک مقام ارشد امنیتی حماس را به همراه همسر و دو دخترش به کشتن داد.",
+   "body_fa": [
+    "این حمله آپارتمان محمد ابوعوف، از فرماندهان حماس و رئیس سرویس امنیت داخلی در شمال غزه را در اردوگاه آوارگان الشاطئ هدف قرار داد. ارتش اسرائیل این عملیات را تایید کرد و ابوعوف را چهره‌ای کلیدی خواند که مانع عملیات نظامی می‌شد؛ این دومین ترور یک مقام ارشد امنیتی حماس ظرف دو روز پس از کشته شدن نعیم ابوناهل بود.",
+    "در همین حال، سازمان عفو بین‌الملل اسرائیل را به ممانعت از زاد و ولد در غزه متهم کرد و خواستار تحقیق بین‌المللی درباره نسل‌کشی احتمالی شد، در حالی که فولکر تورک، مسئول حقوق بشر سازمان ملل، نسبت به افزایش خطر جنایات در سرزمین‌های فلسطینی هشدار داد."
+   ],
+   "title_ar": "غارة إسرائيلية تقتل مسؤولاً في حماس وزوجته وبناته",
+   "summary_ar": "أدت غارة جوية إسرائيلية في قطاع غزة إلى مقتل مسؤول أمني بارز في حركة حماس مع زوجته وابنتيه.",
+   "body_ar": [
+    "استهدفت الغارة شقة محمد أبوعوف، وهو عقيد في حماس يرأس جهاز الأمن الداخلي في شمال غزة، وذلك في مخيم الشاطئ للاجئين. وأكد الجيش الإسرائيلي العملية، ووصف أبوعوف بالشخصية البارزة التي تقيد العمليات العسكرية، لتكون هذه هي المرة الثانية التي يقتل فيها مسؤول أمني كبير في حماس خلال يومين بعد مقتل نعيم أبو ناهل.",
+    "في الوقت نفسه، اتهمت منظمة العفو الدولية إسرائيل بمنع الولادات في غزة ودعت إلى تحقيق دولي في احتمال ارتكاب إبادة جماعية، بينما حذر مسؤل حقوق الإنسان في الأمم المتحدة فولكر تورك من تزايد خطر وقوع فظائع في الأراضي الفلسطينية."
+   ]
+  },
+  {
+   "id": "ba3664869a69",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+   "date": "2026-11-26T00:51:17Z",
+   "countries": [
+    "SYR"
+   ],
+   "score": 8,
+   "title": "ISIL blamed for multiple suicide attacks in Syria",
+   "title_en": "ISIL blamed for multiple suicide attacks in Syria",
+   "summary_en": "Two members of Syria's security forces were killed and five others injured in a suicide attack in Hasakah, with authorities blaming ISIL.",
+   "body_en": [
+    "The attack targeted a security post in northeastern Syria. According to authorities, four attackers using suicide vests and a motorcycle laden with explosives carried out the assault."
+   ],
+   "title_fa": "مسئولیت حملات انتحاری متعدد در سوریه به داعش نسبت داده شد",
+   "summary_fa": "در پی یک حمله انتحاری در حسکه، دو تن از نیروهای امنیتی سوریه کشته و پنج نفر دیگر زخمی شدند و مقامات، گروه داعش را مسئول این اقدام دانستند.",
+   "body_fa": [
+    "این حمله یک پست امنیتی را در شمال شرقی سوریه هدف قرار داد. به گفته مقامات، چهار مهاجم با استفاده از جلیقه‌های انتحاری و یک موتورسیکلت بمب‌گذاری شده این یورش را انجام دادند."
+   ],
+   "title_ar": "توجيه أصابع الاتهام لتنظيم داعش في هجمات انتحارية متعددة في سوريا",
+   "summary_ar": "قتل عنصران من قوات الأمن السورية وأصيب خمسة آخرون في هجوم انتحاري بمدينة الحسكة، وسط اتهامات السلطات لتنظيم داعش.",
+   "body_ar": [
+    "استهدف الهجوم نقطة أمنية في شمال شرق سوريا. وبحسب السلطات، فإن أربعة مهاجمين استخداموا سترات ناسفة ودراجة نارية مفخخة لتنفيذ الاعتداء."
+   ]
+  },
   {
    "id": "f00e23403943",
    "lang": "ar",
@@ -92,6 +543,36 @@
    "body_ar": [
     "يقود أحمد وفداً برلمانياً في زيارة رسمية تستغرق ستة أيام إلى باكستان. وخلال لقاءات منفصلة مع الرئيس آصف علي زارداري ورئيس الوزراء شهباز شريف، تركزت النقاشات على تعزيز التبادلات البرلمانية والتجارة والتعليم والترابط الإقليمي.",
     "أبرز الرئيس زارداري إمكانات تعزيز التعاون في مجالات مثل الدفاع والزراعة والأمن الغذائي، معرباً عن أمله في وضع اللمسات الأخيرة على مذكرات التفاهم المعلقة لإضفاء الطابع المؤسسي على العلاقات الثنائية."
+   ]
+  },
+  {
+   "id": "01c5afa572c4",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T19:47:39Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 7,
+   "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "title_en": "Israeli judges recommend dropping most serious charges against Netanyahu",
+   "summary_en": "Judges in Israel have suggested that prosecutors drop bribery charges against Benjamin Netanyahu, citing low chances of conviction.",
+   "body_en": [
+    "During a Jerusalem District Court hearing, judges told the attorney general there was little chance of conviction in the primary case accusing the prime minister of granting government favors for positive media coverage. They also questioned the criminality of actions in a second case and suggested a plea deal for a third, prompting Netanyahu to demand an immediate end to the trial.",
+    "The development comes as political rival Gadi Eisenkot attempts to form a coalition government following an inconclusive election. Netanyahu, who denies all wrongdoing and claims he is the victim of a political witch-hunt, remains on trial while facing an ICC arrest warrant."
+   ],
+   "title_fa": "قضات اسرائیل پیشنهاد کردند جدی‌ترین اتهامات علیه بنیامین نتانیاهو لغو شود",
+   "summary_fa": "قضات در اسرائیل به دادستان‌ها پیشنهاد کرده‌اند که اتهامات رشوه خواری علیه بنیامین نتانیاهو را به دلیل کم بودن شانس محکومیت کنار بگذارند.",
+   "body_fa": [
+    "در جریان جلسه دادگاه ناحیه بیت‌المقدس، قضات به دادستان کل اعلام کردند که شانس محکومیت در پرونده اصلی که نخست‌وزیر را به اعطای امتیازات دولتی در ازای پوشش مثبت رسانه‌ای متهم می‌کند، بسیار کم است. آنها همچنین در مورد جنبه مجرمانه اقدامات در پرونده دوم ابراز تردید کردند و توافق بر سر اعتراف را برای پرونده سوم پیشنهاد دادند که این امر موجب شد نتانیاهو خواستار پایان فوری محاکمه شود.",
+    "این تحول در حالی رخ می‌دهد که رقیب سیاسی او، گادی آیزنکوت، پس از یک انتخابات بی‌نتیجه در تلاش برای تشکیل دولت اوتلافی است. نتانیاهو که هرگونه تخلف را رد کرده و خود را قربانی یک تصفیه حساب سیاسی می‌داند، هم‌زمان با داشتن حکم جوان بین‌المللی، همچنان محاکمه می‌شود."
+   ],
+   "title_ar": "قضاة إسرائيليون يوصون بإسقاط التهم الأكثر خطورة ضد بنيامين نتنياهو",
+   "summary_ar": "اقترح قضاة في إسرائيل قيام المدعين العامين بإسقاط تهم الرشوة ضد بنيامين نتانياهو، مشيرين إلى انخفاض فرص الإدانة.",
+   "body_ar": [
+    "خلال جلسة لمحكمة القدس المركزية، أبلغ القضاة المدعي العام بأن فرص الإدانة منخفضة للغاية في القضية الرئيسية التي تتهم رئيس الوزراء بمنح امتيازات حكومية مقابل تغطية إعلامية إيجابية. كما شككوا في الجانب الجنائي للأفعال في قضية ثانية واقترحوا صفقة إقرار بالذنب في قضية ثالثة، مما دفع بنيامين نتنياهو للمطالبة بإنهاء المحاكمة فوراً.",
+    "يأتي هذا التطور في وقت يحاول فيه منافسه السياسي غادي آيزنكوت تشكيل حكومة ائتلافية بعد انتخابات غير حاسمة. وما زال نتانياهو، الذي ينفي أي مخالفات ويعتبر نفسه ضحية حملة اضطهاد سياسي، يخضع للمحاكمة بينما يواجه مذكرة توقيف صادرة عن المحكمة الجنائية الدولية."
    ]
   },
   {
