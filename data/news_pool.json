@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:51:11Z",
+ "updated": "2026-11-27T12:37:15Z",
  "items": [
   {
    "id": "b5e545dcb652",
@@ -1468,6 +1468,600 @@
    "desc": "دخلت العلاقة بين الحكومة الاتحادية في بغداد وحكومة إقليم كردستان العراق مرحلة جديدة من التوتر، عقب سلسلة من القرارات التي أصدرها رئيس الوزراء العراقي، علي فالح الزيدي، بشأن إدارة عدد من الحقول النفطية والمنافذ الحدودية، في إطار ما تقول الحكومة العراقية إنها مساعٍ لمكافحة تهريب النفط وحماية ثروات البلاد.",
    "score": 7,
    "dup_of": "ba1141a45ff8"
+  },
+  {
+   "id": "a07a9d9c0aff",
+   "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:04:51Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+   "score": 7
+  },
+  {
+   "id": "a5a563c2a3a6",
+   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T21:17:53Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "desc": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+   "score": 8,
+   "dup_of": "ad5279f11e86"
+  },
+  {
+   "id": "88b8be38fca5",
+   "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+   "lang": "en",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T12:16:06Z",
+   "countries": [
+    "EGY"
+   ],
+   "desc": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+   "score": 3
+  },
+  {
+   "id": "ae655af5ec45",
+   "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+   "date": "2026-11-27T11:51:26Z",
+   "countries": [
+    "IRN",
+    "KWT"
+   ],
+   "desc": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+   "score": 7,
+   "dup_of": "ad5279f11e86"
+  },
+  {
+   "id": "59205f400da5",
+   "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+   "date": "2026-11-27T11:15:03Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
+   "score": 8,
+   "dup_of": "5ad39cf0c2d2"
+  },
+  {
+   "id": "0e0499702b28",
+   "title": "Pakistan’s viral cricket catch star hopes to launch career",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
+   "date": "2026-11-27T11:12:54Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The motorbike passenger who went viral for his stunning cricket catch in Pakistan says he hopes to play for his country.",
+   "score": 1
+  },
+  {
+   "id": "61ad1341a32b",
+   "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
+   "date": "2026-11-27T10:54:16Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
+   "score": 6,
+   "dup_of": "01c5afa572c4"
+  },
+  {
+   "id": "4dc1a8ffe2d4",
+   "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+   "date": "2026-11-27T10:31:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+   "score": 6
+  },
+  {
+   "id": "4e2852ca03eb",
+   "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
+   "date": "2026-11-27T10:15:44Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Hospital admissions for respiratory ailments have soared as the winter smog sets in.",
+   "score": 6
+  },
+  {
+   "id": "5495dc7c761f",
+   "title": "Democrats want to end Trump’s Iran war. But how different are they?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+   "date": "2026-11-27T09:43:01Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
+   "score": 7
+  },
+  {
+   "id": "0d3aa66da511",
+   "title": "India upbeat about first Olympic Games after ‘very good’ 2036 presentation",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+   "date": "2026-11-27T08:57:37Z",
+   "countries": [
+    "IND",
+    "QAT"
+   ],
+   "desc": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+   "score": 1
+  },
+  {
+   "id": "e6f8f58e5c19",
+   "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+   "date": "2026-11-27T08:37:52Z",
+   "countries": [
+    "PSE"
+   ],
+   "desc": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+   "score": 7
+  },
+  {
+   "id": "a8b432a1d879",
+   "title": "Can the Mecca pact turn its collective defence promise into real support?",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+   "date": "2026-11-27T07:16:30Z",
+   "countries": [
+    "IRN",
+    "PAK",
+    "SAU",
+    "TUR",
+    "YEM"
+   ],
+   "desc": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+   "score": 7,
+   "dup_of": "2b6b03d4149e"
+  },
+  {
+   "id": "d1c4fb1f29a3",
+   "title": "Momentous decision awaits after judges’ call for Netanyahu charges to be dropped",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+   "date": "2026-11-27T10:48:29Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Dropping of corruption charges against Israeli PM after unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedings, a highly unusual intervention that leaves the attorney general facing a momentous political decision. The prime minister has been charged with bribery, fraud and breach of trust in three complex and overlapping criminal cases that hinge on his relationship with telecoms magnates and other wealthy businessmen. Ending the trial without a ruling could set damaging precedents ",
+   "score": 6,
+   "dup_of": "01c5afa572c4"
+  },
+  {
+   "id": "2c7ac4dceef3",
+   "title": "‘Systematic assault’: paramedics blocked and attacked by Israeli settlers and soldiers in West Bank",
+   "lang": "en",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/paramedics-blocked-attacked-by-settlers-west-bank",
+   "date": "2026-11-27T06:00:57Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "desc": "Human rights groups report increasing attacks on Palestinian healthcare workers Yousef Diriyeh and his son Hadi, both paramedics in the occupied West Bank, were lifting a wounded young woman into their ambulance when they heard shots crack and bullets whistle past their heads. Less than an hour earlier, armed Israeli settlers had attacked the village of Qusra, killing three Palestinians and wounding several more . They were now shooting at the paramedics who had come to help. Continue reading...",
+   "score": 7
+  },
+  {
+   "id": "6a2bb63a3e7c",
+   "title": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
+   "lang": "en",
+   "source": "France 24",
+   "url": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
+   "date": "2026-11-27T06:46:42Z",
+   "countries": [
+    "ISR"
+   ],
+   "desc": "Israel's former military chief Gadi Eisenkot on Thursday struck a coalition deal with Yair Golan's left-leaning Democrats, bringing the country's opposition closer to forming a government after no single bloc secured a majority in the October elections.",
+   "score": 7,
+   "dup_of": "b3da66ccdc91"
+  },
+  {
+   "id": "ba4096f6306b",
+   "title": "Makkah Defence Alliance meeting in Islamabad begins with Yemen conflict also on agenda",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047415/makkah-defence-alliance-meeting-in-islamabad-begins-with-yemen-conflict-also-on-agenda",
+   "date": "2026-11-27T12:13:49Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "YEM"
+   ],
+   "desc": "A meeting of the tripartite Makkah Defence Alliance’s top decision-making body has begun in Islamabad, with discussions also expected to feature the conflict between Saudi Arabia and Houthi fighters in Yemen. The third session of the Strategic Political and Defence Committee (SPDC) is being held in the federal capital, where authorities have announced a public holiday today and imposed special movement restrictions in view of the high-level gathering. A local holiday has also been announced in Rawalpindi. The SPDC comprises the foreign and defence ministers and top military officials of the th",
+   "score": 7,
+   "dup_of": "2b6b03d4149e"
+  },
+  {
+   "id": "ab6760b0a4bd",
+   "title": "FO says reports of boat carrying Pakistani migrants capsizing off Libya remain unverified",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047463/fo-says-reports-of-boat-carrying-pakistani-migrants-capsizing-off-libya-remain-unverified",
+   "date": "2026-11-27T10:39:40Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "The Foreign Office said on Friday that there had been no “independent verification” of the reports of a boat carrying Pakistani migrants capsizing off the coast of Libya and that Pakistan’s embassy in Libya was “actively pursuing the matter” to ascertain facts. It was reported earlier this week that at least 25 people from Khyber Pakhtunkhwa’s Bajaur district were feared dead or missing after a migrant boat capsized near Libya. According to reports, the victims’ families said they had received information from the agents who arranged the travel that a migrant boat en route to Europe had report",
+   "score": 5
+  },
+  {
+   "id": "f06e33d9412a",
+   "title": "Pakistan seeks deeper cooperation with IAEA on nuclear security",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+   "date": "2026-11-27T11:14:28Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Pakistan looks forward to further deepening cooperation with the International Atomic Energy Agency (IAEA) and international partners in support of sustainable nuclear security, the Foreign Office (FO) said on Friday. The statement came as the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres (NSSC Network), hosted by Pakistan in collaboration with the IAEA, concluded in Islamabad. The meeting, held from Nov 23 to 26, brought together international delegates to discuss nuclear security training, capacity building and cooperation, the statement a",
+   "score": 6
+  },
+  {
+   "id": "25b916b2db81",
+   "title": "Karachi traffic police announce diversions near press club ahead of protest",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047473/karachi-traffic-police-announce-diversions-near-press-club-ahead-of-protest",
+   "date": "2026-11-27T11:32:31Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Karachi traffic police on Friday announced diversions around the Karachi Press Club (KPC) ahead of an expected protest, advising commuters to use alternative routes to avoid inconvenience. According to a press release, the traffic heading from MR Kiyani Chowk towards Saddar and Zainab Market would be diverted left from Coast Guards Mess towards the Sindh High Court (SHC) and Passport Office. It added that Sharea Faisal could be closed temporarily at Avari traffic signal. Traffic travelling from Sharea Faisal towards the airport would be diverted right from Avari traffic signal onto Fatima Jinn",
+   "score": 2
+  },
+  {
+   "id": "c2ec62d68471",
+   "title": "PM calls for effective guidance, simplified procedures for SMEs seeking financial support",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047481/pm-calls-for-effective-guidance-simplified-procedures-for-smes-seeking-financial-support",
+   "date": "2026-11-27T11:59:05Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday called for better guidance for small and medium-sized enterprises (SMEs) seeking financing from banks, enabling access to loans through simplified procedures. Presiding over a meeting on facilitating access to credit for SMEs, the premier termed these enterprises the “backbone” of the country’s economy. “Facilitating them will boost economic activity, employment and business opportunities,” the prime minister said. The prime minister directed the provision of effective guidance and support to SMEs to improve their access to financial resources",
+   "score": 3
+  },
+  {
+   "id": "606dcc7b17b8",
+   "title": "Quetta Gladiators dismiss sale rumours, reaffirm commitment to PSL",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047470/quetta-gladiators-dismiss-sale-rumours-reaffirm-commitment-to-psl",
+   "date": "2026-11-27T10:38:08Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Quetta Gladiators have dismissed speculation about a possible sale of the franchise or an exit from the Pakistan Super League (PSL), reaffirming their financial stability and commitment to the competition. In a statement issued on Friday, the franchise said rumours circulating on social media and in some media reports had been “taken out of context, misconstrued or were entirely without foundation”. It added that remarks attributed to owner Nadeem Omar in a recent interview did not accurately reflect the franchise’s financial position. “Over its history, Quetta Gladiators has been one of the m",
+   "score": 1
+  },
+  {
+   "id": "ef30ab21ff5d",
+   "title": "Death toll from Baloch Colony building collapse in Karachi rises to seven",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047440/death-toll-from-baloch-colony-building-collapse-in-karachi-rises-to-seven",
+   "date": "2026-11-27T08:16:23Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Death toll from the collapse of an under-construction six-storey building near Karachi’s Baloch Colony area rose to seven on Friday after rescue workers recovered three more bodies from the rubble. On Wednesday, three people were killed and 14 others injured when an under-construction building — reportedly being constructed illegally on a residential plot — collapsed . Another body was recovered on Thursday, taking the death toll to four. A Rescue 1122 spokesperson said the operation to recover bodies was underway. “Rescue 1122 has located the bodies of more people trapped beneath the",
+   "score": 2
+  },
+  {
+   "id": "dc90f16f9478",
+   "title": "Islamabad police announce road closures, traffic diversions ahead of foreign delegations' arrival",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047461/islamabad-police-announce-road-closures-traffic-diversions-ahead-of-foreign-delegations-arrival",
+   "date": "2026-11-27T09:13:12Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Ahead of the arrival of foreign delegations in the federal capital on Friday, Islamabad police issued traffic advisories outlining road closures and alternative routes for commuters. The district administration also previously declared Friday a local holiday in the twin cities. Police said on Friday that entry and exit routes to and from the Red Zone, including those around Serena Hotel, Nadra Chowk, Ayub Chowk and Express Chowk, would remain closed from Thursday until 12:30am on Saturday. Residents were advised to use Margalla Road to travel to and from the Red Zone during this period. Police",
+   "score": 2
+  },
+  {
+   "id": "63603d20c159",
+   "title": "ECP says it cannot force parties to field women on winnable seats",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+   "date": "2026-11-27T09:30:03Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "ISLAMABAD: The Election Commission of Pakistan (ECP) on Friday made it clear that the allocation of party tickets was an internal matter for political parties and that it had no legal authority to intervene. The ECP explained its position a day after a National Assembly panel directed it to ensure that the five per cent quota for women on general seats under Section 206 of the Elections Act, 2017, is implemented in a manner that women are fielded on seats where their victory is certain. The ECP said it had informed the Sub-Committee of the National Assembly’s Special Committee on Gender Mainst",
+   "score": 4
+  },
+  {
+   "id": "c2cdbb5ce229",
+   "title": "Erdogan completes Turkiye's ratification of Makkah defence pact",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047450/erdogan-completes-turkiyes-ratification-of-makkah-defence-pact",
+   "date": "2026-11-27T07:50:55Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR"
+   ],
+   "desc": "President Tayyip Erdogan has formally approved the Makkah Joint Defence Agreement with Pakistan and Saudi Arabia, the country’s Official Gazette said on Friday, completing Turkiye’s ratification after parliament ratified it earlier this month. Turkiye’s parliament ratified the agreement on November 5, paving the way for Ankara to support Riyadh amid attacks by Yemen’s Houthi militia against the kingdom. Under the agreement, an attack on one party constitutes an attack on all. The approval comes as Pakistan hosts a two-day meeting of the tripartite alliance’s top decision-making body from Frida",
+   "score": 7,
+   "dup_of": "2b6b03d4149e"
+  },
+  {
+   "id": "518e5d4fe127",
+   "title": "India-US trade agreement nearing completion: Indian commerce minister",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047459/india-us-trade-agreement-nearing-completion-indian-commerce-minister",
+   "date": "2026-11-27T08:08:29Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "India said Friday it was close to finalising a long-awaited trade deal with the United States after Washington proposed higher tariffs on the country’s goods if negotiations fail. “The US trade deal is close to culmination,” Commerce Minister Piyush Goyal told an industry conference, adding that differences were beginning to be resolved. “The process and pathway, which was always something which held back finalising the deal, is now taking some shape,” he said. Goyal’s comments came after US Trade Representative Jamieson Greer on Wednesday said Indian goods would face tariffs of 17 per cent if",
+   "score": 6
+  },
+  {
+   "id": "c524294ac750",
+   "title": "LHC seeks replies on plea by five Afghan medical students over MBBS registration",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047447/lhc-seeks-replies-on-plea-by-five-afghan-medical-students-over-mbbs-registration",
+   "date": "2026-11-27T06:47:02Z",
+   "countries": [
+    "AFG",
+    "PAK"
+   ],
+   "desc": "LAHORE: The Lahore High Court (LHC) on Friday issued notices to the Pakistan Medical and Dental Council (PMDC) and other respondents on a petition filed by five Afghan medical students seeking registration to sit their first professional MBBS examination in January. The petitioners — Forough Dihqanpur, Shahira Sharif, Zahra Nabawi, Faiza Noori and Shabana Rahimi — are enrolled in the first year of the MBBS programme at Sheikh Khalifa Bin Zayed Al Nahyan Medical and Dental College, Lahore, under the Allama Muhammad Iqbal Scholarship Programme run by the Higher Education Commission (HEC). Advoca",
+   "score": 4
+  },
+  {
+   "id": "276205ed6b4c",
+   "title": "26th, 27th Amendments sparked judicial conflict: ex-IHC judge",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047372/26th-27th-amendments-sparked-judicial-conflict-ex-ihc-judge",
+   "date": "2026-11-27T00:48:11Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Kayani calls for parliamentary intervention to resolve judicial conflict • Urges authorities not to issue notices to media under Peca ISLAMABAD: Former Islam­abad High Court (IHC) judge reti­red Justice Mohsin Akhtar Kayani has said that the 26th and 27th Constitutional Amendments have triggered a conflict between two superior courts, warning that the disregard for established judicial precedents and the creation of new ones have further complicated the constitutional and legal framework. Speaking at a seminar titled ‘Personal Safety and Justice in a Digital World’, organised by the Institut",
+   "score": 5
+  },
+  {
+   "id": "2bfa2f5a6d1f",
+   "title": "Makers step up rollout of electric bikes",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047353/makers-step-up-rollout-of-electric-bikes",
+   "date": "2026-11-27T03:35:37Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "KARACHI: Amid the falling trend in petrol prices, a growing number of stakeholders have stepped up efforts to test their new electric bikes in the market. But some assemblers are still enjoying robust sales of petrol-run bikes. For instance, Atlas Honda posted record sales of 173,152 units last month, jacking up the aggregate to 643,561 units in 4MFY27 from 505,269 units. It was followed by United Motorcycle, with sales rising to 82,474 from 56,519 in the same period. Millat Tractors Ltd (MTL) is set to launch its EV two-wheelers on Nov 29. It has already designated its dealers and production ",
+   "score": 2
+  },
+  {
+   "id": "325b421d7d3f",
+   "title": "Amid talk of new provinces, Sindh CM announces consultations on local govt empowerment",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047338/amid-talk-of-new-provinces-sindh-cm-announces-consultations-on-local-govt-empowerment",
+   "date": "2026-11-27T02:16:21Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "• Forms body to meet opposition; says next local govt elections to be held on time KARACHI: Chief Minister Syed Murad Ali Shah on Thursday announced a comprehensive consultation process for a new local government law and formed a two-member ministerial committee to hold talks with all stakeholders and submit its report within three months. The announcement comes against the backdrop of talk of creating new provinces and administrative units across the country, including in Sindh — a demand that the Pakistan Peoples Party has been vociferously opposing. Addressing a press conference at the CM H",
+   "score": 4
+  },
+  {
+   "id": "16cd9797ebd3",
+   "title": "Big fat wedding in India draws 400,000 guests",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047357/big-fat-wedding-in-india-draws-400000-guests",
+   "date": "2026-11-27T04:44:19Z",
+   "countries": [
+    "IND"
+   ],
+   "desc": "PATNA: Some 400,000 guests attended a wedding hosted by a politician in India’s poorest state, choking roads and sending spectators scrambling up electricity pylons for a glimpse of the lavish celebrations. Anant Singh, a six-time lawmaker who faces dozens of criminal cases including murder charges, invited villagers, political allies and VIPs to his daughter’s wedding in the eastern state of Bihar on Wednesday. The scale was staggering even by the standards of India’s famed extravagant weddings that last for days. Guests were treated to 500,000 pieces of traditional sweets and a vegetarian fe",
+   "score": 1
+  },
+  {
+   "id": "82fea28e8348",
+   "title": "PHC orders Rs10m compensation for man imprisoned for a decade without trial",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047269/phc-orders-rs10m-compensation-for-man-imprisoned-for-a-decade-without-trial",
+   "date": "2026-11-27T00:50:16Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "PESHAWAR: A single-member Peshawar High Court bench has ordered the Khyber Pakhtunkhwa government to pay Rs10 million in compensation to a petitioner who remained imprisoned in the Karachi Central Prison for a decade without trial due to the failure of the relevant officials to arrange his transfer here. Chief Justice SM Attique Shah declared that the petitioner’s continued detention in Karachi Central Prison from May 24, 2016, until his transfer to Kurram tribal district in May 2026, without being produced before the competent court, was unlawful. He held that the omissions of the relevant pu",
+   "score": 3
+  },
+  {
+   "id": "7ca8ce04ebba",
+   "title": "Is Pakhtunkhwa stuck between a rock and a hard place?",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047448/is-pakhtunkhwa-stuck-between-a-rock-and-a-hard-place",
+   "date": "2026-11-27T10:27:58Z",
+   "countries": [
+    "PAK"
+   ],
+   "desc": "Khyber Pakhtunkhwa has been simmering for months and the crisis has all the markers of a national one. It ticks most boxes: An emergency was declared; a provincial government was suspended. Governor’s rule was imposed. The army was deployed . Protests were managed . A constitutional court clipped the powers of a provincial court. A president withdrew protection against preventive detention for provincial lawmakers. A chief minister became a chief-minister-under-preventive-detention. A federal oversight committee was formed . A technocratic council replaced the provincial cabinet. The bureaucra",
+   "score": 5
+  },
+  {
+   "id": "d4d07a519cf1",
+   "title": "Hasina has become a ‘thorn’ in Bangladesh-India ties: Minister Humaiun Kobir",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/hasina-has-become-a-thorn-in-bangladesh-india-ties-minister-humaiun-kobir/article71750164.ece",
+   "date": "2026-11-27T11:32:49Z",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "desc": "State Minister for Foreign Affairs Humaiun Kobir says New Delhi is beginning to realise the strain the former Prime Minister’s presence in India is causing to bilateral relations",
+   "score": 7,
+   "dup_of": "39bf977e2159"
+  },
+  {
+   "id": "67f0f969f935",
+   "title": "Pakistan set to host talks with Saudi Arabia, Turkey under trilateral defence pact",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/pakistan-set-to-host-talks-with-saudi-arabia-turkey-under-trilateral-defence-pact/article71750047.ece",
+   "date": "2026-11-27T10:21:47Z",
+   "countries": [
+    "PAK",
+    "SAU",
+    "TUR",
+    "YEM"
+   ],
+   "desc": "The talks in Islamabad will focus on West Asia and the Houthi attacks on Saudi Arabia, two security officials said, with Pakistan’s Defence and Foreign Ministers and army chief attending",
+   "score": 7,
+   "dup_of": "2b6b03d4149e"
+  },
+  {
+   "id": "64d5dd8e1fe5",
+   "title": "Bangladesh’s Opposition party blasts Australian media reports over leader’s visit",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/bangladeshs-opposition-party-blasts-australian-media-reports-over-leaders-visit/article71749303.ece",
+   "date": "2026-11-27T07:36:06Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "The party said the legal notice sent to The Australian newspaper pointed out ‘seven defamatory imputations and demands corrections, retraction of the report, an apology and the preservation of relevant documents’",
+   "score": 4
+  },
+  {
+   "id": "303994980531",
+   "title": "One dead, three missing after cargo ship sinks off Cuba",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/one-dead-three-missing-after-cargo-ship-sinks-off-cuba/article71749410.ece",
+   "date": "2026-11-27T04:38:51Z",
+   "countries": [
+    "TUR"
+   ],
+   "desc": "The Halima, operated by Turkish company Sidra Line and carrying 208 containers, sank early on November 26 near Cabanas Bay in Artemisa province",
+   "score": 1
+  },
+  {
+   "id": "4f81444702b5",
+   "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
+   "date": "2026-11-26T02:52:12Z",
+   "countries": [
+    "BGD"
+   ],
+   "desc": "‘The case of a citizen willing to return voluntarily to her country on a travel document is a matter separate from the extradition request,’ MEA’s official spokesperson Randhir Jaiswal said",
+   "score": 7,
+   "dup_of": "39bf977e2159"
+  },
+  {
+   "id": "71f35674a6ca",
+   "title": "روابط «بلاتکلیف» ایران و چین",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cq62pnvmjne2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:00:07Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "متغیر کلیدی روابط ایران و چین، نه مبانی نظری این روابط، که «بلاتکلیفی مستمر» بوده است؛ بلاتکلیفی‌ای در حدی که هم در زمان رهبر سابق و هم در زمان جانشین او، افرادی که قرار بوده «نماینده تام‌الاختیار نظام» در پرونده چین باشند، به‌طور غیرمنتظره ــو در بالاترین سطح حکومت- بی‌اعتبار شده‌اند.",
+   "score": 6
+  },
+  {
+   "id": "2332bfff694d",
+   "title": "«جنگ خاموش» در ایران؛ نان گران، برق سهمیه‌ای و زمستانی که در راه است",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/c6782mjn1ej7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:50:20Z",
+   "countries": [
+    "IRN"
+   ],
+   "desc": "رسانه‌های آمریکایی می‌گویند فشار اقتصادی بر ایران وارد مرحله تازه‌ای شده است؛ از نان گران‌تر و سهمیه‌بندی برق گرفته تا نگرانی از زمستانی که ممکن است با کمبود انرژی و افزایش ریاضت اقتصادی همراه باشد. همزمان، تحلیلگران درباره تاثیر این فشارها بر ثبات سیاسی ایران و سرنوشت مذاکرات تردید دارند.",
+   "score": 6
+  },
+  {
+   "id": "e4368af188f3",
+   "title": "تركيا تصادق على اتفاقية مكة للدفاع المشترك قبيل اجتماع ثلاثي في إسلام آباد",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/c3dx1yz9q2nko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:23:33Z",
+   "countries": [
+    "PAK",
+    "TUR"
+   ],
+   "desc": "الرئيس التركي يصادق رسمياً على اتفاقية مكة للدفاع المشترك بين تركيا والسعودية وباكستان، بالتزامن مع اجتماعات مرتقبة للدول الثلاث في العاصمة الباكستانية إسلام آباد يومي الجمعة والسبت.",
+   "score": 7,
+   "dup_of": "c2cdbb5ce229"
+  },
+  {
+   "id": "5f958da7636d",
+   "title": "كيف تتسبب هجمات الحوثيين في فوضى عارمة في السعودية؟ - مقال في الإندبندنت",
+   "lang": "ar",
+   "source": "BBC Arabic",
+   "url": "https://www.bbc.com/arabic/articles/cr15el0nk085o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T11:17:42Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "desc": "ما أهم تبعات هجمات الحوثيين على السعودية؟ وكيف تتراجع معايير السلامة في شركات التكنولوجيا الكبرى وسط سباق الذكاء الاصطناعي؟ وما هي أبعاد الشعور بالوحدة على البالغين في عامهم الأخير؟",
+   "score": 7,
+   "dup_of": "a07a9d9c0aff"
   }
  ]
 }
