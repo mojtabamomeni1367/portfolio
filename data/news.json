@@ -1,7 +1,252 @@
 {
- "updated": "2026-11-27T23:39:02Z",
- "count": 398,
+ "updated": "2026-11-28T07:57:18Z",
+ "count": 406,
  "items": [
+  {
+   "id": "ea873130cc2e",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+   "date": "2026-11-28T07:21:22Z",
+   "countries": [
+    "ISR"
+   ],
+   "score": 5,
+   "title": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+   "title_en": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+   "summary_en": "Israeli Prime Minister Benjamin Netanyahu’s government is expediting permits and removing regulatory obstacles for data centers to turn the country into a global AI hub. Despite ambitious infrastructure projects like the planned Ofek Data Center, energy supply and grid capacity constraints present significant operational challenges.",
+   "body_en": [
+    "In June, Prime Minister Benjamin Netanyahu announced a national strategy aiming to establish Israel as the third-largest AI power within five years. Major projects include the Ofek Data Center near Ashdod, a $1.5 billion facility backed by US-based Serverfarm and the Israel Infrastructure Fund, designed to utilize Nvidia technology and connect directly to European markets.",
+    "However, expanding capacity has faced structural hurdles, such as the Israeli Electrical Authority capping new data center capacities at 200MW due to heavy grid demand. To power these facilities, officials are eyeing offshore natural gas fields and potential nuclear energy projects."
+   ],
+   "title_fa": "چگونه اسرائیل برای تبدیل شدن به «ابرقدرت هوش مصنوعی» احداث مرکز داده را تسریع می‌کند",
+   "summary_fa": "دولت بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در حال تسریع صدور مجوزها و رفع موانع مقرراتی برای مراکز داده است تا این کشور را به یک قطب جهانی هوش مصنوعی تبدیل کند. با وجود پروژه‌های زیرساختی جاه‌طلبانه مانند مرکز داده افق، محدودیت‌های تأمین انرژی و ظرفیت شبکه برق چالش‌های عملیاتی قابل توجهی ایجاد کرده است.",
+   "body_fa": [
+    "در ماه ژوئن، نخست‌وزیر بنیامین نتانیاهو از یک استراتژی ملی با هدف تبدیل اسرائیل به سومین قدرت هوش مصنوعی ظرف پنج سال خبر داد. از پروژه‌های عمده می‌توان به مرکز داده افق در نزدیکی اشدود اشاره کرد؛ تأسیساتی ۱.۵ میلیارد دلاری با حمایت شرکت آمریکایی سرورفارم و صندوق زیرساخت اسرائیل که برای استفاده از فناوری انویدیا و اتصال مستقیم به بازارهای اروپایی طراحی شده است.",
+    "با این حال، گسترش ظرفیت با موانع ساختاری روبرو شده است، مانند اقدام اداره برق اسرائیل در محدود کردن ظرفیت مراکز داده جدید به ۲۰۰ مگاوات به دلیل تقاضای بالای شبکه. برای تأمین برق این تأسیسات، مقام‌ها در حال بررسی میدان‌های گاز طبیعی فراساحلی و پروژه‌های احتمالی انرژی هسته‌ای هستند."
+   ],
+   "title_ar": "كيف تسرع إسرائيل إنشاء مراكز البيانات في محاولة لتصبح \"قوة عظمى في الذكاء الاصطناعي\"",
+   "summary_ar": "تعمل حكومة رئيس الوزراء الإسرائيلي بنيامين نتنياهو على تسريع التصاريح وإزالة العقبات التنظيمية لمراكز البيانات لتحويل البلاد إلى مركز عالمي للذكاء الاصطناعي. وعلى الرغم من مشاريع البنية التحتية الطموحة مثل مركز بيانات أوفيك المخطط له، فإن قيود إمدادات الطاقة وقدرة الشبكة تفرض تحديات تشغيلية كبيرة.",
+   "body_ar": [
+    "في يونيو، أعلن رئيس الوزراء بنيامين نتنياهو عن استراتيجية وطنية تهدف إلى جعل إسرائيل ثالث أكبر قوة في مجال الذكاء الاصطناعي خلال خمس سنوات. وتتضمن المشاريع الرئيسية مركز بيانات أوفيك بالقرب من أشدود، وهو مرفق بقيمة 1.5 مليار دولار مدعوم من شركة سيرفرفارم الأمريكية وصندوق البنية التحتية الإسرائيلي، ومصمم لاستخدام تقنيات نيفيديا والاتصال مباشرة بالأسواق الأوروبية.",
+    "ومع ذلك، واجه توسيع القدرة عقبات هيكلية، مثل تحديد سلطة الكهرباء الإسرائيلية سقف قدرة مراكز البيانات الجديدة عند 200 ميغاوات بسبب الطلب العالي على الشبكة. ولتغذية هذه المرافق بالطاقة، يدرس المسؤولون استخدام حقول الغاز الطبيعي البحرية ومشاريع الطاقة النووية المحتملة."
+   ]
+  },
+  {
+   "id": "fa2424ce2cbe",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047652/cda-seals-fazls-islamabad-residence-after-foreign-owners-cnic-cancelled",
+   "date": "2026-11-28T07:11:53Z",
+   "countries": [
+    "PAK"
+   ],
+   "score": 5,
+   "title": "CDA seals Fazl’s Islamabad residence after 'foreign' owner's CNIC cancelled",
+   "title_en": "CDA seals Fazl’s Islamabad residence after 'foreign' owner's CNIC cancelled",
+   "summary_en": "The Capital Development Authority has sealed the Islamabad residence occupied by JUI-F chief Maulana Fazlur Rehman after the property's legal owner was identified as a foreign national and had his national identity card revoked. The action follows growing political friction between the JUI-F leader and the federal government.",
+   "body_en": [
+    "The CDA's Building & Housing Control department took action following an order on November 27 that revoked the title of the owner, Amanullah. Authorities stated that Nadra verified discrepancies in Amanullah's family records and determined his Pakistani CNIC was invalid, violating property transfer regulations for foreign nationals.",
+    "The sealing coincides with escalating rhetoric between Fazlur Rehman and federal ministers over governance and provincial rights. Recently, police and security forces deployed to protect the JUI-F chief and his family were also withdrawn from their residences."
+   ],
+   "title_fa": "سی‌دی‌ای اقامتگاه فضل را در اسلام‌آباد پس از لغو کارت ملی مالک «خارجی» پلمب کرد",
+   "summary_fa": "سازمان توسعه پایتخت (CDA) اقامتگاه مورد استفاده مولانا فضل‌الرحمن، رهبر جمعیت علمای اسلام (ف)، در اسلام‌آباد را پس از آنکه مالک قانونی آن به عنوان یک تبعه خارجی شناسایی و کارت ملی‌اش لغو شد، پلمب کرد. این اقدام در پی افزایش تنش‌های سیاسی میان رهبر این حزب و دولت فدرال صورت می‌گیرد.",
+   "body_fa": [
+    "بخش کنترل ساختمان و مسکن سازمان CDA بر اساس درخواستی در ۲۷ نوامبر که سند مالکیت مالکی به نام امان‌الله را ابطال کرد، اقدام به پلمب ساختمات نمود. مقام‌ها اعلام کردند که سازمان نادرا مغایرت‌هایی را در مدارک خانوادگی امان‌الله تأیید کرده و کارت ملی پاکستانی او را باطل دانسته است که این امر ناقض قوانین انتقال ملک برای اتباع خارجی است.",
+    "این پلمب هم‌زمان با تشدید تنش‌های لفظی میان فضل‌الرحمن و وزرای فدرال بر سر نحوه حکومت‌داری و حقوق استان‌ها رخ می‌دهد. اخیراً نیروهای پلیس و امنیتی مستقر برای حفاظت از رهبر جمعیت علمای اسلام و خانواده‌اش نیز از اقامتگاه‌های آن‌ها فراخوانده شدند."
+   ],
+   "title_ar": "هيئة تطوير الإسلام آباد تغلق مقر إقامة فضل في إسلام آباد بعد إلغاء الهوية الوطنية لمالكها \"الأجنبي\"",
+   "summary_ar": "أغلقت هيئة تطوير العاصمة المقر السكني لرئيس جمعية علماء الإسلام (ف) مولانا فضل الرحمن في إسلام آباد بعد تحديد المالك القانوني للعقار كجنسية أجنبية وإلغاء بطاقة هويته الوطنية. وتأتي هذه الخطوة وسط توترات سياسية متزايدة بين قائد الحزب والحكومة الاتحادية.",
+   "body_ar": [
+    "اتخذت إدارة مراقبة المباني والإسكان التابعة لهيئة تطوير العاصمة إجراءات بناءً على أمر صدر في 27 نوفمبر ألغى ملكية المالك أمان الله. وذكرت السلطات أن الهيئة الوطنية لقواعد البيانات والتسجيل (نادرا) تحققت من وجود تضارب في السجلات العائلية لأمان الله وقررت أن بطاقة هويته الباكستانية غير صالحة، مما يخالف لوائح نقل الملكية للأجانب.",
+    "ويتزامن هذا الإغلاق مع تصاعد التوتر الكلامي بين فضل الرحمن والوزراء الاتحاديين حول الحكم وحقوق الأقاليم. وفي الآونة الأخيرة، سُحبت أيضاً قوات الشرطة والأمن التي كانت مكلفة بحماية رئيس جمعية علماء الإسلام وعائلته من مقر إقامتهم."
+   ]
+  },
+  {
+   "id": "9d27dde1145e",
+   "lang": "fa",
+   "source": "BBC Persian",
+   "url": "https://www.bbc.com/persian/articles/cjr4ge1lnv1no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T07:00:02Z",
+   "countries": [
+    "SAU",
+    "YEM"
+   ],
+   "score": 7,
+   "title": "«بابا، می‌ترسم»؛ روایت زندگی در ریاض هم‌زمان با تشدید حملات پهپادی و موشکی حوثی‌ها به پایتخت عربستان",
+   "title_en": "'Dad, I'm scared': Life in Riyadh as Houthi drone and missile attacks on Saudi capital escalate",
+   "summary_en": "Houthi forces have sharply intensified missile and drone strikes against Riyadh and other Saudi cities following the breakdown of an informal truce in July, disrupting daily life and testing the kingdom's security.",
+   "body_en": [
+    "According to ACLED data analysed by the BBC, 274 attacks were launched against Saudi Arabia between 1 July and 25 November, predominantly using drones and ballistic missiles, compared to just one recorded attack in the preceding five months. While air defences intercepted most projectiles, unintercepted strikes and falling debris have caused significant damage and casualties, including a 10 October strike on Riyadh's international airport that killed 13 people and wounded more than 300.",
+    "The attacks have also hit major infrastructure in Riyadh's financial district, striking the Public Investment Fund tower and an Aramco-owned building. Flights to the capital have faced severe disruptions, leading to rerouted passenger traffic, even as local authorities work to repair damage swiftly and maintain public normalisation amid periodic siren alerts."
+   ],
+   "title_fa": "«بابا، می‌ترسم»؛ روایت زندگی در ریاض هم‌زمان با تشدید حملات پهپادی و موشکی حوثی‌ها به پایتخت عربستان",
+   "summary_fa": "به دنبال فروپاشی آتش‌بس غیررسمی در ماه ژوئیه، نیروهای حوثی حملات موشکی و پهپادی خود را علیه ریاض و دیگر شهرهای عربستان به شدت افزایش داده‌اند؛ موضوعی که زندگی روزمره را تحت تأثیر قرار داده و امنیت این کشور را به چالش کشیده است.",
+   "body_fa": [
+    "بر اساس داده‌های مؤسسه اکلد (ACLED) که توسط بی‌بی‌سی تحلیل شده است، بین اول ژوئیه تا ۲۵ نوامبر ۲۷۴ حمله عمدتاً با استفاده از پهپاد و موشک بالستیک علیه عربستان انجام شده، در حالی که در پنج ماه پیش از آن تنها یک مورد ثبت شده بود. هرچند پدافند هوایی اکثر آن‌ها را رهگیری کرده است، اما عدم رهگیری دست‌کم ۴۱ مورد و ریزش آوار باعث تلفات و خساراتی شد؛ از جمله حمله ۱۰ اکتبر به فرودگاه بین‌المللی ریاض که ۱۳ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت.",
+    "این حملات سازه‌های مهمی را در منطقه مالی پایتخت هدف قرار داده‌اند، از جمله برج صندوق سرمایه‌گذاری عمومی و ساختمانی متعلق به شرکت آرامکو. علاوه بر این، پروازها به مقصد پایتخت به شدت مختل شده و مسیر بسیاری از مسافران تغییر کرده است؛ با این وجود، دولت تلاش دارد آثار حملات را سریعاً ترمیم کرده و زندگی عمومی را با وجود هشدارهای پدافندی در وضعیت عادی حفظ کند."
+   ],
+   "title_ar": "\"أبي، أنا خائف\"؛ ملامح الحياة في الرياض مع تصاعد هجمات الحوثيين بالمسيرات والصواريخ على العاصمة السعودية",
+   "summary_ar": "صعد الحوثيون هجماتهم الصاروخية وبالطائرات المسيرة على الرياض ومدن سعودية أخرى عقب انهيار هدنة غير رسمية في يوليو، مما تسبب في اضطراب الحياة اليومية واختبار جاهزية المملكة الأمنية.",
+   "body_ar": [
+    "أظهر تحليل أجرته بي بي سي لبيانات مشروع بيانات مواقع النزاع المسلح وأحداثها (ACLED) تسجيل 274 هجوماً على السعودية بين الأول من يوليو و25 نوفمبر، استُخدم في معظمها طائرات مسيرة وصواريخ باليستية، مقارنة بهجوم واحد فقط في الأشهر الخمسة السابقة. ورغم اعتراض الدفاعات الجوية لأغلبها، تسببت الضربات وشظايا المقذوفات في أضرار وسقوط ضحايا، أبرزها هجوم 10 أكتوبر على مطار الرياض الدولي الذي خلف 13 قتيلاً وأكثر من 300 جريح.",
+    "كما طالت الهجمات مباني بارزة في الحي المالي بالرياض، شملت برج صندوق الاستثمارات العامة ومبنى لشركة أرامكو. وتسببت هذه الضربات في اضطراب شديد في حركة الطيران نحو العاصمة وتحويل رحلات الركاب، في وقت تسعى فيه السلطات لمعالجة الأضرار سريعاً وإظهار استمرار الحياة الطبيعية رغم انطلاق صافرات الإنذار المتكررة."
+   ]
+  },
+  {
+   "id": "4a30fa5713e1",
+   "lang": "en",
+   "source": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
+   "date": "2026-11-28T04:51:09Z",
+   "countries": [
+    "IRN",
+    "SAU",
+    "YEM"
+   ],
+   "score": 9,
+   "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
+   "title_en": "Saudi Arabia, Houthis trade attacks on rival capitals",
+   "summary_en": "Saudi Arabia announced it intercepted a Houthi cruise missile aimed at Riyadh, following reports of Saudi strikes on Yemen's capital, Sanaa.",
+   "body_en": [
+    "Saudi coalition spokesperson Turki Al-Malki stated on X that air defences intercepted and destroyed a cruise missile launched toward the Riyadh region by the Houthis. Meanwhile, Houthi media reported that a Saudi attack struck the Bir Abu Shamlah residential neighbourhood in Sanaa's Al-Tahrir district, damaging eight homes and three shops and injuring 13 people.",
+    "The cross-border strikes follow the reignition of Yemen's civil war over the summer. While the Saudi-led coalition backing Yemen's internationally recognised government has regularly bombed areas held by the group, Houthi fighters have launched near-daily strikes against Saudi energy sites, airports, and the capital's financial district."
+   ],
+   "title_fa": "حملات متقابل عربستان سعودی و حوثی‌ها به پایتخت‌های یکدیگر",
+   "summary_fa": "عربستان سعودی اعلام کرد یک موشک کروز حوثی‌ها را که ریاض را هدف قرار داده بود رهگیری کرده است؛ این اقدام پس از گزارش‌هایی درباره حملات عربستان به صنعا، پایتخت یمن، صورت گرفت.",
+   "body_fa": [
+    "ترکی المالکی، سخنگوی ائتلاف تحت رهبری عربستان، در شبکه اجتماعی ایکس اعلام کرد که پدافند هوایی یک موشک کروز شلیک‌شده از سوی حوثی‌ها به سمت منطقه ریاض را رهگیری و منهدم کرده است. در همین حال، رسانه‌های وابسته به حوثی‌ها گزارش دادند که حمله نیروهای سعودی به محله مسکونی بیر ابوشمله در منطقه التحریر صنعا، به هشت خانه و سه مغازه آسیب رسانده و ۱۳ زخمی بر جای گذاشته است.",
+    "این حملات متقابل پس از شعله‌ور شدن مجدد جنگ داخلی یمن در تابستان رخ می‌دهد. در حالی که ائتلاف به رهبری عربستان در حمایت از دولت به‌رسمیت‌شناخته‌شده بین‌المللی یمن به‌طور مرتب مواضع این گروه را بمباران می‌کند، شبه‌نظامیان حوثی نیز تقریباً روزانه تأسیسات انرژی، فرودگاه‌ها و منطقه مالی ریاض را هدف قرار داده‌اند."
+   ],
+   "title_ar": "السعودية والحوثيون يتبادلون الهجمات على العاصمتين",
+   "summary_ar": "أعلنت السعودية اعتراض صاروخ كروز أطلقه الحوثيون باتجاه الرياض، وذلك عقب تقارير عن ضربات سعودية استهدفت العاصمة اليمنية صنعاء.",
+   "body_ar": [
+    "أفاد المتحدث باسم التحالف الذي تقوده السعودية، تركي المالكي، عبر منصة إكس، بأن الدفاعات الجوية اعترضت ودمرت صاروخ كروز أطلقته ميليشيا الحوثي باتجاه منطقة الرياض. في غضون ذلك، ذكرت وسائل إعلام حوثية أن قصفاً سعودياً استهدف حي بئر أبو شملة السكني في مديرية التحرير بصنعاء، مما أسفر عن تضرر ثمانية منازل وثلاثة محال تجارية وإصابة 13 شخصاً.",
+    "وتأتي هذه الهجمات المتبادلة بعد تجدد الحرب الأهلية في اليمن خلال فصل الصيف؛ حيث يشن التحالف الداعم للحكومة اليمنية المعترف بها دولياً غارات مستمرة على المناطق الخاضعة لسيطرة الحوثيين، بينما يستهدف مقاتلو الجماعة منشآت الطاقة والمطارات والحي المالي في الرياض بشكل شبه يومي."
+   ]
+  },
+  {
+   "id": "d4f62329faa8",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+   "date": "2026-11-28T04:30:16Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 7,
+   "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+   "title_en": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+   "summary_en": "Indian security forces killed Mohammad Lateef Bhat, a commander of Lashkar-e-Taiba, in Kulgam district, leading officials to claim that no local Kashmiri fighters remain active in the valley. However, analysts caution that armed groups are adapting through new tactics, unregistered fighters, and geographic shifts.",
+   "body_en": [
+    "Mohammad Lateef Bhat was killed on November 18 after a weeklong search culminated in a standoff at a mosque in Zangalpora village. Indian Home Minister Amit Shah and local police stated that Bhat was the last local armed fighter in the valley, describing the development as a major milestone since the armed rebellion began in 1989.",
+    "Security experts and former police officials note that the conflict has evolved rather than ended. They point to the rise of unregistered \"hybrid militants,\" proxy organizations such as The Resistance Front and People's Anti-Fascist Front, and a shift in violence from the Kashmir valley toward the forests of Jammu."
+   ],
+   "title_fa": "«آخرین شبه‌نظامی محلی»: هند اعلام پیروزی می‌کند اما شورشیان کشمیر خود را تطبیق می‌دهند",
+   "summary_fa": "نیروهای امنیتی هند محمد لطیف بهت، از فرماندهان لشکر طیبه را در منطقه کولگام کشته و مقام‌های هندی اعلام کردند که هیچ مبارز محلی کشمیری در دره کشمیر فعال نیست. با این حال، تحلیلگران هشدار می‌دهند که گروه‌های مسلح از طریق تاکتیک‌های جدید، مبارزان ثبت‌نشده و تغییرات جغرافیایی در حال تطبیق خود هستند.",
+   "body_fa": [
+    "محمد لطیف بهت در ۱۸ نوامبر پس از یک جستجوی یک‌هفته‌ای که به درگیری در مسجدی در روستای زنگلپورا انجامید، کشته شد. آمیتا شاه، وزیر کشور هند، و پلیس محلی اعلام کردند که بهت آخرین مبارز مسلح محلی در دره کشمیر بود و این رویداد را تحولی بزرگ از زمان آغاز شورش مسلحانه در سال ۱۹۸۹ خواندند.",
+    "کارشناسان امنیتی و مقام‌های سابق پلیس اشاره می‌کنند که این منازعه به‌جای پایان یافتن، تغییر شکل داده است. آن‌ها به ظهور «شبه‌نظامیان ترکیبی» ثبت‌نشده، سازمان‌های نیابتی مانند جبهه مقاومت و جبهه ضد فاشیسم مردم، و انتقال خشونت‌ها از دره کشمیر به سمت جنگل‌های جامو اشاره می‌کنند."
+   ],
+   "title_ar": "\"آخر مقاتل محلي\": الهند تعلن النصر لكن متمردي كشمير يتكيفون",
+   "summary_ar": "قتلت قوات الأمن الهندية محمد لطيف بهت، وهو قائد في جيش طيبة، في منطقة كولجام، مما دفع المسؤولين إلى الادعاء بعدم وجود مقاتلين محليين كشميريين ينشطون في الوادي. ومع ذلك، يحذر المحللون من أن الجماعات المسلحة تتكيف من خلال تكتيكات جديدة ومقاتلين غير مسجلين وتحولات جغرافية.",
+   "body_ar": [
+    "قُتل محمد لطيف بهت في 18 نوفمبر بعد عملية بحث استمرت أسبوعاً وانتهت بمواجهة في مسجد بقرية زانغالبورا. وصرح وزير الداخلية الهندي أميت شاه والشرطة المحلية بأن بهت كان آخر مقاتل مسلح محلي في الوادي، واصفين هذا التطور بأنه محطة بارزة منذ بدء التمرد المسلح عام 1989.",
+    "ويرى خبراء أمنيون ومسؤولون سابقون في الشرطة أن الصراع قد تطور بدلاً من أن ينتهي. ويشيرون إلى ظهور \"مقاتلين هجينين\" غير مسجلين، ومنظمات بالوكالة مثل جبهة المقاومة والجبهة الشعبية لمناهضة الفاشية، وانتقال أعمال العنف من وادي كشمير نحو غابات جامو."
+   ]
+  },
+  {
+   "id": "d5c7b4da8156",
+   "lang": "en",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+   "date": "2026-11-28T03:45:58Z",
+   "countries": [
+    "ISR",
+    "PSE"
+   ],
+   "score": 8,
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "title_en": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "summary_en": "An Israeli strike on a Doctors Without Borders (MSF) clinic in Gaza City has killed two staff members working as watchmen, the charity said.",
+   "body_en": [
+    "MSF described the attack as a \"direct hit\" on a facility that was clearly marked and whose coordinates had been shared with the Israeli military. The Israeli military claimed the two employees were members of Hamas, but provided no evidence.",
+    "The attack drew condemnation from the World Health Organization and the Euro-Med Human Rights Monitor. MSF said the incident raised its total staff death toll in Gaza to 17, amid ongoing Israeli violations of an October 2025 ceasefire."
+   ],
+   "title_fa": "حمله مستقیم اسرائیل به درمانگاه پزشکان بدون مرز در غزه دو کارمند را کشت",
+   "summary_fa": "سازمان پزشکان بدون مرز اعلام کرد که در حمله اسرائیل به یکی از درمانگاه‌های این سازمان در شهر غزه، دو تن از کارکنان آن که به عنوان نگهبان مشغول به کار بودند کشته شدند.",
+   "body_fa": [
+    "سازمان پزشکان بدون مرز این حمله را یک «ضربه‌ مستقیم» به ساختمانی دانست که نشان‌های سازمان به‌وضوح بر آن نصب شده بود و موقعیت آن پیش‌تر به ارتش اسرائیل اطلاع داده شده بود. ارتش اسرائیل بدون ارائه مدرک مدعی شد که این دو کارمند از اعضای حماس بودند.",
+    "این حمله با محکومیت رئیس سازمان جهانی بهداشت و دیده‌بان حقوق بشر یورو-مد مواجه شد. پزشکان بدون مرز اعلام کرد که با این واقعه، شمار کارکنان کشته‌شده این نهاد در غزه به ۱۷ نفر رسیده است؛ حملاتی که در شرایط نقض مکرر آتش‌بس اکتبر ۲۰۲۵ از سوی اسرائیل رخ می‌دهد."
+   ],
+   "title_ar": "ضربة إسرائيلية مباشرة لعيادة أطباء بلا حدود في غزة تقتل اثنين من موظفيها",
+   "summary_ar": "أعلنت منظمة أطباء بلا حدود مقتل اثنين من موظفيها يعملان حارسين في غارة إسرائيلية استهدفت إحدى عياداتها بمدينة غزة.",
+   "body_ar": [
+    "وصف المنظمة الهجوم بأنه «ضربة مباشرة» استهدفت مبنى يحمل شعاراتها بوضوح وسبق إبلاغ الجيش الإسرائيلي بموقعه. وفي المقابل، زعم الجيش الإسرائيلي، دون تقديم أدلة، أن العاملين كانا عضوين في حركة حماس.",
+    "وقد أثار الهجوم إدانات واسعة من رئيس منظمة الصحة العالمية والمرصد الأورومتوسطي لحقوق الإنسان. وأشارت منظمة أطباء بلا حدود إلى أن هذه الحادثة رفعت حصيلة قتلى طواقمها في غزة إلى 17 شخصاً، في ظل انتهاكات إسرائيلية متكررة لاتفاق وقف إطلاق النار المبرم في أكتوبر 2025."
+   ]
+  },
+  {
+   "id": "e61e31fa4f60",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047567/pm-calls-for-stronger-pak-oman-ties",
+   "date": "2026-11-28T02:28:40Z",
+   "countries": [
+    "OMN",
+    "PAK"
+   ],
+   "score": 5,
+   "title": "PM calls for stronger Pak-Oman ties",
+   "title_en": "PM calls for stronger Pak-Oman ties",
+   "summary_en": "Pakistani Prime Minister Shehbaz Sharif met with Oman's ambassador in Islamabad to advocate for enhanced bilateral cooperation in trade, investment, energy, and defense. Separately, the prime minister directed the Pakistan Council of Scientific and Industrial Research to expand its capabilities to better support national exports and industry.",
+   "body_en": [
+    "During his meeting with the Omani envoy at the Prime Minister's House, Shehbaz Sharif highlighted the historical and cultural ties between the two nations and called for translating positive relations into concrete economic results. The ambassador confirmed Oman's commitment to deepening its partnership with Pakistan.",
+    "In a separate meeting, Prime Minister Sharif instructed the Pakistan Council of Scientific and Industrial Research (PCSIR) to align its laboratories with international accreditation standards. He created a review committee to assess the council's performance and explore ways to enhance its support for small and medium-sized enterprises and technical training."
+   ],
+   "title_fa": "نخست‌وزیر خواستار تقویت روابط پاکستان و عمان شد",
+   "summary_fa": "شهباز شریف، نخست‌وزیر پاکستان، در اسلام‌آباد با سفیر عمان دیدار کرد تا خواستار افزایش همکاری‌های دو جانبه در زمینه‌های تجارت، سرمایه‌گذاری، انرژی و دفاعی شود. نخست‌وزیر در دیداری جداگانه به شورای تحقیقات علمی و صنعتی پاکستان دستور داد تا توانمندی‌های خود را برای حمایت بهتر از صادرات و صنایع ملی گسترش دهد.",
+   "body_fa": [
+    "شهباز شریف در دیدار با فرستاده عمان در دفتر نخست‌وزیری، بر پیوندهای تاریخی و فرهنگی دو کشور تأکید کرد و خواستار تبدیل روابط مثبت به نتایج ملموس اقتصادی شد. سفیر عمان نیز بر تعهد کشورش به تعمیق مشارکت با پاکستان تأکید کرد.",
+    "در یک جلسه جداگانه، نخست‌وزیر شریف به شورای تحقیقات علمی و صنعتی پاکستان (PCSIR) دستور داد تا آزمایشگاه‌های خود را با استانداردهای اعتباربخشی بین‌المللی هماهنگ کند. وی کمیته‌ای را برای ارزیابی عملکرد این شورا و بررسی راه‌های ارتقای حمایت آن از بنگاه‌های کوچک و متوسط و آموزش‌های فنی تشکیل داد."
+   ],
+   "title_ar": "رئيس الوزراء يدعو إلى تعزيز العلاقات بين پاکستان وعُمان",
+   "summary_ar": "التقى رئيس الوزراء الباكستاني شهباز شريف بسفير عمان في إسلام آباد للدعوة إلى تعزيز التعاون الثنائي في مجالات التجارة والاستثمار والطاقة والدفاع. وفي سياق منفصل، وجّه رئيس الوزراء مجلس البحوث العلمية والصناعية الباكستاني لتطوير قدراته لدعم الصادرات والصناعة الوطنية بشكل أفضل.",
+   "body_ar": [
+    "خلال لقائه بالمبعوث العماني في مقر رئيس الوزراء، سلط شهباز شريف الضوء على الروابط التاريخية والثقافية بين البلدين، ودعا إلى ترجمة العلاقات الإيجابية إلى نتائج اقتصادية ملموسة. وأكد السفير التزام عمان بتعميق شراكتها مع پاکستان.",
+    "وفي اجتماع منفصل، وجّه رئيس الوزراء شريف مجلس البحوث العلمية والصناعية الباكستاني لمواءمة مختبراته مع معايير الاعتماد الدولية. وأنشأ لجنة مراجعة لتقييم أداء المجلس وبحث سبل تعزيز دعمه للمؤسسات الصغيرة والمتوسطة والتدريب الفني."
+   ]
+  },
+  {
+   "id": "393b820e49ab",
+   "lang": "en",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047568/ajk-pm-extends-olive-branch-to-protesters-in-rawalakot",
+   "date": "2026-11-28T02:18:08Z",
+   "countries": [
+    "IND"
+   ],
+   "score": 5,
+   "title": "AJK PM extends olive branch to protesters in Rawalakot",
+   "title_en": "AJK PM extends olive branch to protesters in Rawalakot",
+   "summary_en": "Azad Jammu and Kashmir Prime Minister Iftikhar Gillani has offered to negotiate with protesters in Rawalakot within a legal framework, provided they separate themselves from armed groups.",
+   "body_en": [
+    "Speaking at a PML-N gathering in Muzaffarabad, Gillani stated that his government is prepared to address demands that align with the constitution to restore regional peace. He warned that while some individuals publicly distance themselves from armed elements, they continue to grant them operational space.",
+    "The prime minister also outlined a five-year development strategy and a 100-day action plan focused on health, infrastructure, and job creation. Meanwhile, Assembly Speaker Chaudhry Tariq Farooq called for holding elections for seven vacant seats to restore full legislative representation for the Poonch region."
+   ],
+   "title_fa": "پیشنهاد گفتگو و صلح نخست‌وزیر کشمیر آزاد به معترضان در راولاکوت",
+   "summary_fa": "افتخار گیلانی، نخست‌وزیر جامو و کشمیر آزاد، پیشنهاد کرده است که در چارچوب قانونی با معترضان در راولاکوت مذاکره کند، به شرط آنکه آن‌ها خود را از گروه‌های مسلح جدا کنند.",
+   "body_fa": [
+    "گیلانی طی سخنانی در اجتماع حزب مسلم لیگ (نواز) در مظفرآباد اعلام کرد که دولتش برای برقراری آرامش در منطقه، آماده بررسی مطالبات منطبق با قانون اساسی است. وی همچنین هشدار داد برخی افراد در ظاهر از عناصر مسلح فاصله می‌گیرند اما در عمل به آن‌ها فضای فعالیت می‌دهند.",
+    "نخست‌وزیر همچنین به تشریح یک راهبرد توسعه پنج‌ساله و طرحی ۱۰۰ روزه در زمینه‌های بهداشت، زیرساخت‌ها و اشتغال‌زایی پرداخت. در همین حال، چودری طارق فاروق، رئیس مجلس قانون‌گذاری، خواستار برگزاری انتخابات برای پر کردن هفت کرسی خالی مجلس و تکمیل نمایندگی منطقه پونچ شد."
+   ],
+   "title_ar": "رئيس وزراء كشمير الحرة يمد يد الحوار للمتظاهرين في راولكوت",
+   "summary_ar": "عرض رئيس وزراء جامو وكشمير الحرة إفتخار جيلاني التفاوض مع المتظاهرين في راولكوت ضمن إطار قانوني، بشرط أن ينفصلوا عن الجماعات المسلحة.",
+   "body_ar": [
+    "وقال جيلاني خلال كلمة ألقاها في تجمع لحزب الرابطة الإسلامية الباكستانية (جناح نواز) في مظفر آباد، إن حكومته مستعدة لمعالجة المطالب التي تتوافق مع الدستور لإعادة السلام إلى المنطقة. وحذر من أن بعض الأفراد ينأون بأنفسهم علناً عن العناصر المسلحة لكنهم يستمرون في توفير المساحة لها.",
+    "كما استعرض رئيس الوزراء استراتيجية تنموية مدتها خمس سنوات وخطة عمل لمدة 100 يوم تركز على الصحة والبنية التحتية وتوفير فرص العمل. من جانبه، دعا رئيس الجمعية التشريعية شودري طارق فاروق إلى إجراء انتخابات لشغل سبعة مقاعد شاغرة لاستكمال التمثيل النيابي لمنطقة بونش."
+   ]
+  },
   {
    "id": "a549932ee532",
    "lang": "fa",
